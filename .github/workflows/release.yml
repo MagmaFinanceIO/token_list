@@ -17,3 +17,8 @@ jobs:
         with:
           name: merged-coin-list
           path: merged_coins.json
+
+      - name: Create release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: merged_coins.json
