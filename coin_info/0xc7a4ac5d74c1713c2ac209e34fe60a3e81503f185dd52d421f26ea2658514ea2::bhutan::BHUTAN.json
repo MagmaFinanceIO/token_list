@@ -1,0 +1,13 @@
+{
+  "name": "Bhutan",
+  "symbol": "Bhutan",
+  "decimals": 2,
+  "coin_type": "0xc7a4ac5d74c1713c2ac209e34fe60a3e81503f185dd52d421f26ea2658514ea2::bhutan::BHUTAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fd607929-18a8-49ff-af90-fd164f518701.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

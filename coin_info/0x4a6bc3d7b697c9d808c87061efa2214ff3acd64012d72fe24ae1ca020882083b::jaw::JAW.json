@@ -1,0 +1,13 @@
+{
+  "name": "Hungry Shark",
+  "symbol": "JAW",
+  "decimals": 9,
+  "coin_type": "0x4a6bc3d7b697c9d808c87061efa2214ff3acd64012d72fe24ae1ca020882083b::jaw::JAW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fd2676ad-72a1-473d-9d25-603b5c2ebfe4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

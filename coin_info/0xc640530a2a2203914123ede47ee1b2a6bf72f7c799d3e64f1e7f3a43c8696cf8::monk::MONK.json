@@ -1,0 +1,13 @@
+{
+  "name": "BLUE MONK SUI",
+  "symbol": "MONK",
+  "decimals": 6,
+  "coin_type": "0xc640530a2a2203914123ede47ee1b2a6bf72f7c799d3e64f1e7f3a43c8696cf8::monk::MONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3661_2cd833940c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

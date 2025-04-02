@@ -1,0 +1,13 @@
+{
+  "name": "Doctor AI",
+  "symbol": "DOCTOR",
+  "decimals": 9,
+  "coin_type": "0xf772c59eb154d6d7fb43def22e687d96e7e61c564c5b0eb3f60cc1c2425e93d3::doctor::DOCTOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5vb8AXytbQenTds4xKinp1FEoWAK7xoiNZw6hCh4pump.png?size=lg&key=93e3dc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

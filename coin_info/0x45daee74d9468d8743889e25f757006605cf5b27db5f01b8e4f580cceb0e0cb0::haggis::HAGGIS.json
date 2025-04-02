@@ -1,0 +1,13 @@
+{
+  "name": "Haggis",
+  "symbol": "HAGGIS",
+  "decimals": 6,
+  "coin_type": "0x45daee74d9468d8743889e25f757006605cf5b27db5f01b8e4f580cceb0e0cb0::haggis::HAGGIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Snipaste_2024_11_04_19_04_14_a54204dca6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

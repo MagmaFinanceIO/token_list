@@ -1,0 +1,13 @@
+{
+  "name": "MOBY AI",
+  "symbol": "MOBY",
+  "decimals": 9,
+  "coin_type": "0xa2162031bc2c8be57a3f38c6838526e0158e3273e654e42a4b4c20158a78fb8c::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

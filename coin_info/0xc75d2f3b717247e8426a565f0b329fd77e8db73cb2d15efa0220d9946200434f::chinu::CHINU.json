@@ -1,0 +1,13 @@
+{
+  "name": "Chinu DOGE",
+  "symbol": "CHINU",
+  "decimals": 9,
+  "coin_type": "0xc75d2f3b717247e8426a565f0b329fd77e8db73cb2d15efa0220d9946200434f::chinu::CHINU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CqNN9To5ZAwMWQLya83uopT7StuHjZT36cSxX8BvNbpU.png?size=lg&key=62ab99",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mondo on Sui",
+  "symbol": "MONDO",
+  "decimals": 6,
+  "coin_type": "0x13e55ebf994477dca21ca795175aa79f8e48d50ec8d63daae50f9479c607562e::mondo::MONDO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/head_7599f85411.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

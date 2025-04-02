@@ -1,0 +1,13 @@
+{
+  "name": "Raid Protocol",
+  "symbol": "RAID",
+  "decimals": 9,
+  "coin_type": "0x1bb1c41c935c85f6811ad8361298121144a2f5ad979f526516f856f9fb0a4189::raid::RAID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DGwr5NTh92xZe773hT97yBFh4N5oeNervNF6p4cApump.png?size=lg&key=1526cb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

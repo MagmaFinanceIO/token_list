@@ -1,0 +1,13 @@
+{
+  "name": "Chill Tiger Sui",
+  "symbol": "CHILLER",
+  "decimals": 9,
+  "coin_type": "0xf8758fb6e742640f61433e04879a0e0a419d5dbd7043ec7a04de1e14ee3ef40d::chiller::CHILLER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8e639735-352f-4328-b4cd-9deb639296f7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

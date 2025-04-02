@@ -1,0 +1,13 @@
+{
+  "name": "Humpback",
+  "symbol": "HUMPBACK",
+  "decimals": 9,
+  "coin_type": "0x70a0a6ca90d809cffea4a32998b6be9408faa9182401abef4ecbff4d5a2709d2::humpback::HUMPBACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/43ac074a-635d-424c-899c-f60e583fb6e3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

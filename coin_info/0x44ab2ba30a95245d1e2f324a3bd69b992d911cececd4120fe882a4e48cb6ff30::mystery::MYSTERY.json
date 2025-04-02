@@ -1,0 +1,13 @@
+{
+  "name": "Mystery Toad",
+  "symbol": "MYSTERY",
+  "decimals": 9,
+  "coin_type": "0x44ab2ba30a95245d1e2f324a3bd69b992d911cececd4120fe882a4e48cb6ff30::mystery::MYSTERY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5ed1ca05-e547-4eac-941f-24a7cfaa4dea.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

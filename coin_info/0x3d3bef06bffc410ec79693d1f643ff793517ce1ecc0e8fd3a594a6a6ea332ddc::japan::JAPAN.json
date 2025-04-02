@@ -1,0 +1,13 @@
+{
+  "name": "Japan",
+  "symbol": "Japan",
+  "decimals": 2,
+  "coin_type": "0x3d3bef06bffc410ec79693d1f643ff793517ce1ecc0e8fd3a594a6a6ea332ddc::japan::JAPAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/69f3ec81-3b87-49c8-855e-74a17ead9699.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

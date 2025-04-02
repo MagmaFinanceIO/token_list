@@ -1,0 +1,13 @@
+{
+  "name": "Boy In The Water",
+  "symbol": "BOY",
+  "decimals": 6,
+  "coin_type": "0xe33bf179259c84d7db7d8f03359eb03c951fb22472aec6ddf9373cebe8ca925c::boy::BOY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000084156_98bc12ed0a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

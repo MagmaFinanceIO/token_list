@@ -1,0 +1,13 @@
+{
+  "name": "Bull Shark",
+  "symbol": "BULLS",
+  "decimals": 6,
+  "coin_type": "0xf69d77ad1c45735aecb0a1c9e05fd1d6c971c66bcd3f9abb633be675a5802259::bulls::BULLS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/carddizzy_f4c09654_4ba1098267.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

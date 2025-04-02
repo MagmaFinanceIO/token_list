@@ -1,0 +1,13 @@
+{
+  "name": "Sui Neiro",
+  "symbol": "SUINEIRO",
+  "decimals": 9,
+  "coin_type": "0x2cacbec93dce4dce3bba037df9ad6faa5f915f0231b92e2cdadfe526b322e96d::suineiro::SUINEIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fc3b0f31-5ed4-4782-90b1-91c438aa2554.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Spinning Sea Lion",
+  "symbol": "SSL",
+  "decimals": 6,
+  "coin_type": "0x0d1da014dd9eadb290c9b145ad2f5e4a4b0a16dd100c1dad7b4a3a75dca1bcd1::ssl::SSL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/otter_spin_c98cf56e2a.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Arc On SUI",
+  "symbol": "SNUT",
+  "decimals": 6,
+  "coin_type": "0x8aa872bea204f43cc28df7689520d3048910f5fd497e29fdb2a6ef84a69d6cba::snut::SNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/O_Oj_Zdgpc_400x400_fc4fb5ef7a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

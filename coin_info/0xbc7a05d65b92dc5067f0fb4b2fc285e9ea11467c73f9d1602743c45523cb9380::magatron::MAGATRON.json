@@ -1,0 +1,13 @@
+{
+  "name": "MagaTron",
+  "symbol": "MAGATRON",
+  "decimals": 9,
+  "coin_type": "0xbc7a05d65b92dc5067f0fb4b2fc285e9ea11467c73f9d1602743c45523cb9380::magatron::MAGATRON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/30e7d6e5-e907-4365-9562-8ee352d78683.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

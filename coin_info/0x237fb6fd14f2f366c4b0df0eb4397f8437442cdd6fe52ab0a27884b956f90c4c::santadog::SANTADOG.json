@@ -1,0 +1,13 @@
+{
+  "name": "Santa Doge Sui",
+  "symbol": "SANTADOG",
+  "decimals": 9,
+  "coin_type": "0x237fb6fd14f2f366c4b0df0eb4397f8437442cdd6fe52ab0a27884b956f90c4c::santadog::SANTADOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/13e286e5-8d03-4a21-888b-2ad9e4eae5fb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

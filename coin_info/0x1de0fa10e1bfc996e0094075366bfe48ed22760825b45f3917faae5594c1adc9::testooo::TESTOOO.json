@@ -1,0 +1,13 @@
+{
+  "name": "testooo by SuiAI",
+  "symbol": "TESTOOO",
+  "decimals": 6,
+  "coin_type": "0x1de0fa10e1bfc996e0094075366bfe48ed22760825b45f3917faae5594c1adc9::testooo::TESTOOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Copy_of_0xe3360ed65e5e6c1d584647d02333aead5942357502574654c266d83cf8c455a0towel_TOWEL_200_x_200_px_500_x_500_px_3b621bbf0d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

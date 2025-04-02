@@ -1,0 +1,13 @@
+{
+  "name": "seal banana",
+  "symbol": "sealana",
+  "decimals": 9,
+  "coin_type": "0xeca9bfefec5f1cac4f556c0aa09753901ff02b69784081194796cd2852afd4bb::sealana::SEALANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/TahbXcW45JHL5p8rqST2CwJDmX8sRcacV5CNDNVpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Jupiter",
+  "symbol": "JUP",
+  "decimals": 6,
+  "coin_type": "0x63bc392fb2f2198c288a71235d8e59a199d91d62551978da1866dd4e1916b9c6::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Daram",
+  "symbol": "DARAM",
+  "decimals": 2,
+  "coin_type": "0xad1b760bee2249e56f27179bd21f55aafc20377fb745d2a138504c0cfaab6a8e::daram::DARAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d4805532-677b-4dd9-988f-8620df04c083.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

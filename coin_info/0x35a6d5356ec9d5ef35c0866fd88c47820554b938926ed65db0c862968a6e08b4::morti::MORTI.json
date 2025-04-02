@@ -1,0 +1,13 @@
+{
+  "name": "Morti",
+  "symbol": "MORTI",
+  "decimals": 9,
+  "coin_type": "0x35a6d5356ec9d5ef35c0866fd88c47820554b938926ed65db0c862968a6e08b4::morti::MORTI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1cba2f2e-5e37-4db9-8e36-7541a054f0c9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

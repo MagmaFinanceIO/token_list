@@ -1,0 +1,13 @@
+{
+  "name": "Oia Oia Cat",
+  "symbol": "OIACAT",
+  "decimals": 9,
+  "coin_type": "0xa36fc4797b013d4a0f9d86a58ffe2eab828052475a69b92a88f755d7241fcb94::oiacat::OIACAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8G6z3La6g5wB3fP5aHvfFQ4Vnr7u2rWTtsxA8qJp6q1J.png?size=lg&key=3c8d02",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

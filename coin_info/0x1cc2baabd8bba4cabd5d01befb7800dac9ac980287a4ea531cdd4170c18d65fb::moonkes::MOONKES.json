@@ -1,0 +1,13 @@
+{
+  "name": "Moonke Sui",
+  "symbol": "Moonkes",
+  "decimals": 6,
+  "coin_type": "0x1cc2baabd8bba4cabd5d01befb7800dac9ac980287a4ea531cdd4170c18d65fb::moonkes::MOONKES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000074_1b0b4f6bfc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Just a FOMO Guy AI",
+  "symbol": "FOMO",
+  "decimals": 9,
+  "coin_type": "0x5367eadcc97a599373a395f6f74c9676496ba7b5a9c147c8de8c70694f41b244::fomo::FOMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dexscreener.com/solana/9ftbdjyf5xzbsn4upw8pqp3l8b7ttzjvyjfbsno8fviy",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

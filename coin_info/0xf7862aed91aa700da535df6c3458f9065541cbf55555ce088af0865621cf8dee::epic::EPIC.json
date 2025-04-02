@@ -1,0 +1,13 @@
+{
+  "name": "Epic Fail",
+  "symbol": "EPIC",
+  "decimals": 9,
+  "coin_type": "0xf7862aed91aa700da535df6c3458f9065541cbf55555ce088af0865621cf8dee::epic::EPIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x000000000009178c09b59b4ce5e19ac18a5a6c52.png?size=lg&key=1ad93a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

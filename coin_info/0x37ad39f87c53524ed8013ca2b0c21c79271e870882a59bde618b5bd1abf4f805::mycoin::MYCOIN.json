@@ -1,0 +1,13 @@
+{
+  "name": "McValue",
+  "symbol": "McValue",
+  "decimals": 9,
+  "coin_type": "0x37ad39f87c53524ed8013ca2b0c21c79271e870882a59bde618b5bd1abf4f805::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

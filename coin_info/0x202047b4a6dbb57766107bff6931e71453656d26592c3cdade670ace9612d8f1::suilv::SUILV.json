@@ -1,0 +1,13 @@
+{
+  "name": "SUILAVO",
+  "symbol": "SUILV",
+  "decimals": 9,
+  "coin_type": "0x202047b4a6dbb57766107bff6931e71453656d26592c3cdade670ace9612d8f1::suilv::SUILV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d35c750e-c90d-4e70-bb56-8d47cdb0514e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

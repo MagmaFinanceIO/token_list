@@ -1,0 +1,13 @@
+{
+  "name": "STEVE",
+  "symbol": "STEVE",
+  "decimals": 9,
+  "coin_type": "0x80bdafb46abf3595b7e79bb902e51a19ac664d82a88e1a97e56eb3a249c2d79f::steve::STEVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CtyMKsoaZ5Nu1fMR7EfDM1YRPMM4vfjcBX5sAjMspump.png?size=lg&key=2c4f3c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

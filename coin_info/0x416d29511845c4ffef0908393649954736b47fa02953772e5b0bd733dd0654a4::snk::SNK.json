@@ -1,0 +1,13 @@
+{
+  "name": "skeleton king by SuiAI",
+  "symbol": "SNK",
+  "decimals": 6,
+  "coin_type": "0x416d29511845c4ffef0908393649954736b47fa02953772e5b0bd733dd0654a4::snk::SNK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/snk_058b461d10.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

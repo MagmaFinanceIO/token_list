@@ -1,0 +1,13 @@
+{
+  "name": "Newsy",
+  "symbol": "NEWSY",
+  "decimals": 9,
+  "coin_type": "0x19faf9eefc603f363e0aa428cccdf964b0eddc8acdd32bd1816af5fcd16e50f9::newsy::NEWSY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/VanBuNQLmo1shQvVPEFBbVGM4gASQDXeRTcDBkopump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Fusion AI",
+  "symbol": "FUSIONAI",
+  "decimals": 9,
+  "coin_type": "0xccaa808980eb4ee0e1a32c9ce1ae09c3c4ccc74812461f81ad5145193865f6fd::fusionai::FUSIONAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8EAiD4YCkx3DuFXPuo3bTo3knbeprrksut1ZbYoWNezK.png?size=lg&key=6ca957",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

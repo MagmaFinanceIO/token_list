@@ -1,0 +1,13 @@
+{
+  "name": "LOS ANGELES",
+  "symbol": "LOSANGELES",
+  "decimals": 6,
+  "coin_type": "0x06d0b49804d77de57058fc2af9db6e184c98e6f7fdbf8b736a4ebceec77bf46b::losangeles::LOSANGELES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000020382_bb2f3a6b5a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

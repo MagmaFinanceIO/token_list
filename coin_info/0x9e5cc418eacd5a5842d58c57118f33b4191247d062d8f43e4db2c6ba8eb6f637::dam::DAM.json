@@ -1,0 +1,13 @@
+{
+  "name": "DAM",
+  "symbol": "DAM",
+  "decimals": 9,
+  "coin_type": "0x9e5cc418eacd5a5842d58c57118f33b4191247d062d8f43e4db2c6ba8eb6f637::dam::DAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/98aprruoAHdVvoeRQJmcARd2HhJC4QN32AL9c2bnpump.png?size=lg&key=b6cfd1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

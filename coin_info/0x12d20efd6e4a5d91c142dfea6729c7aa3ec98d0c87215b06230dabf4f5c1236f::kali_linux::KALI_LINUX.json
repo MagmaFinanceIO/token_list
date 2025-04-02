@@ -1,0 +1,13 @@
+{
+  "name": "Kali Linux",
+  "symbol": "KALI",
+  "decimals": 9,
+  "coin_type": "0x12d20efd6e4a5d91c142dfea6729c7aa3ec98d0c87215b06230dabf4f5c1236f::kali_linux::KALI_LINUX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWphOGZta291YWRidG9qYnV3OWp0MTk2ZHVibnZldzd4bnMzdHU1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RFIfubTMf06wH1LuUo/giphy.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

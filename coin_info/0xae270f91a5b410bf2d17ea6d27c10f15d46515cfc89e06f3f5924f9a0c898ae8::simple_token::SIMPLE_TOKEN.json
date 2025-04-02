@@ -1,0 +1,13 @@
+{
+  "name": "DavidBowie on Sui",
+  "symbol": "DavidBowie",
+  "decimals": 9,
+  "coin_type": "0xae270f91a5b410bf2d17ea6d27c10f15d46515cfc89e06f3f5924f9a0c898ae8::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DIOM Network",
+  "symbol": "DIOM",
+  "decimals": 6,
+  "coin_type": "0x5f5cb7b9f4323c5fc4885ce7980203fa7a15bf8a8bb6611126cb34055bd8980e::diom::DIOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/diom_73f37a4bfc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

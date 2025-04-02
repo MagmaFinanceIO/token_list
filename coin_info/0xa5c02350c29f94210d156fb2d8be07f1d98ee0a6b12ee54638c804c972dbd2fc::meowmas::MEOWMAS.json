@@ -1,0 +1,13 @@
+{
+  "name": "MEOWMAS",
+  "symbol": "MEOWMAS",
+  "decimals": 9,
+  "coin_type": "0xa5c02350c29f94210d156fb2d8be07f1d98ee0a6b12ee54638c804c972dbd2fc::meowmas::MEOWMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2vtknRFuHeVnMVNdABdXBCJbLuhpy96FmjYpot73pump.png?size=lg&key=bd8684",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

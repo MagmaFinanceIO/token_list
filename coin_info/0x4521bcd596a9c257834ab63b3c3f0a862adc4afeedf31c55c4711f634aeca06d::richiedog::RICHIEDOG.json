@@ -1,0 +1,13 @@
+{
+  "name": "RichieDog",
+  "symbol": "Sui Richie Dog",
+  "decimals": 6,
+  "coin_type": "0x4521bcd596a9c257834ab63b3c3f0a862adc4afeedf31c55c4711f634aeca06d::richiedog::RICHIEDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/76449f2d-45b0-497e-a68e-f3d7418513d0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "LAMBO X SUI",
+  "symbol": "LAMBOSUI",
+  "decimals": 9,
+  "coin_type": "0x63756fa39968cda45347580e82a0d2128fae401dedce9ec2886a38803157abe7::lambosui::LAMBOSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4ce82703-c097-4a76-97cf-fbd90ed342ad.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

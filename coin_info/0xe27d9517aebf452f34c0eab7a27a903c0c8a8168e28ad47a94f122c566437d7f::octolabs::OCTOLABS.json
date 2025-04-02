@@ -1,0 +1,13 @@
+{
+  "name": "OctoLabs",
+  "symbol": "OctoLabs",
+  "decimals": 9,
+  "coin_type": "0xe27d9517aebf452f34c0eab7a27a903c0c8a8168e28ad47a94f122c566437d7f::octolabs::OCTOLABS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e53a8425-3c3d-4aca-878b-4aaff6556b52.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

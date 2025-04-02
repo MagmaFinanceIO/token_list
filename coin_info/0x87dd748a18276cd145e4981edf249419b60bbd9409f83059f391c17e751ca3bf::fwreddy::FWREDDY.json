@@ -1,0 +1,13 @@
+{
+  "name": "Fwreddy Kwueger",
+  "symbol": "FWREDDY",
+  "decimals": 9,
+  "coin_type": "0x87dd748a18276cd145e4981edf249419b60bbd9409f83059f391c17e751ca3bf::fwreddy::FWREDDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/79e1d315-114d-4481-802b-427565206de6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

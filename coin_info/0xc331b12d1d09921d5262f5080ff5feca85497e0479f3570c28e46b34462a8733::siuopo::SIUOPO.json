@@ -1,0 +1,13 @@
+{
+  "name": "siuopo",
+  "symbol": "SIUOPO",
+  "decimals": 6,
+  "coin_type": "0xc331b12d1d09921d5262f5080ff5feca85497e0479f3570c28e46b34462a8733::siuopo::SIUOPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

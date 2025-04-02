@@ -1,0 +1,13 @@
+{
+  "name": "Pacman",
+  "symbol": "PACMAN",
+  "decimals": 6,
+  "coin_type": "0xbb57a2257a2e35703f953c07a4d339db29cc0368867b7bdcfb269f2ea6fa0891::pacman::PACMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8ExunNtjVV8xWTkYRBXbYznC4UWqLR62BMEbf2EDpump.png?size=lg&key=d31d44",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

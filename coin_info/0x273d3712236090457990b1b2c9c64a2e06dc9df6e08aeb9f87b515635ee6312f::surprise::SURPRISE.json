@@ -1,0 +1,13 @@
+{
+  "name": "😱 Sui-rprise",
+  "symbol": "SURPRISE",
+  "decimals": 9,
+  "coin_type": "0x273d3712236090457990b1b2c9c64a2e06dc9df6e08aeb9f87b515635ee6312f::surprise::SURPRISE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6fbdeeb3-86a3-4f32-8152-6e212d580fa7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

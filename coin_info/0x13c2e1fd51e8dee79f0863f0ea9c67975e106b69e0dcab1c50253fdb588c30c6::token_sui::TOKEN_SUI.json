@@ -1,0 +1,13 @@
+{
+  "name": "Suizune",
+  "symbol": "SUIZUNE",
+  "decimals": 9,
+  "coin_type": "0x13c2e1fd51e8dee79f0863f0ea9c67975e106b69e0dcab1c50253fdb588c30c6::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7gn5PmuxLwMrifYMyroALbhBmWB5e4aPSsvPmnZtpump.png?size=xl&key=3fc654",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

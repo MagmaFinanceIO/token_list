@@ -1,0 +1,13 @@
+{
+  "name": "EURC",
+  "symbol": "EURC",
+  "decimals": 2,
+  "coin_type": "0xdfd79bab1914db01937b0ca5a7a2c8519c685c89b69b32624cc0554e22e3e5ec::eurc::EURC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/caebfd3d-69c1-4b70-b11e-105d0caa0962.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

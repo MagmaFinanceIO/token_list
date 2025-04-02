@@ -1,0 +1,13 @@
+{
+  "name": "PUNT",
+  "symbol": "PUNT",
+  "decimals": 2,
+  "coin_type": "0xa800982a3fe8e145135ca1e2f2ec284053759dd3cd884099d78e241caa9c2d21::PUNT::PUNT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/vZOxf5dRih5WWG9Rm3q916dNS5J9KkNxBKudUXh7Pz8?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

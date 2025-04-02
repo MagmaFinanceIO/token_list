@@ -1,0 +1,13 @@
+{
+  "name": "Alien on sui",
+  "symbol": "Alien",
+  "decimals": 6,
+  "coin_type": "0x069cda969c59fbccb72ee5769e9ee46b436878f40066f32e277d292057915cba::alien::ALIEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/file_W_Vn_Uqg_Ovgz_EZBFH_14lz9u_Kwb_dae4230c59.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

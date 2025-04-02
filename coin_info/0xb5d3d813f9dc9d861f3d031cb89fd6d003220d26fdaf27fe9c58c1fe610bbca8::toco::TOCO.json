@@ -1,0 +1,13 @@
+{
+  "name": "TOCO ON SUI",
+  "symbol": "TOCO",
+  "decimals": 9,
+  "coin_type": "0xb5d3d813f9dc9d861f3d031cb89fd6d003220d26fdaf27fe9c58c1fe610bbca8::toco::TOCO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/cTX2e86WUU3_u4zB?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

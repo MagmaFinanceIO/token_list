@@ -1,0 +1,13 @@
+{
+  "name": "SUIGenie",
+  "symbol": "GENIES",
+  "decimals": 9,
+  "coin_type": "0x75ea15e85e446c57a460319fb4a2059acb5b2a368baf61784343b23c65d16093::genies::GENIES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1dafba35-d335-458c-b8dc-904ccb5195e4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

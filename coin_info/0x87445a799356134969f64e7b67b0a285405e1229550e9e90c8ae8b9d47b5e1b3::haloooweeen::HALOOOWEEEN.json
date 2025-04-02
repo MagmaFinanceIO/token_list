@@ -1,0 +1,13 @@
+{
+  "name": "SPOOKY",
+  "symbol": "HALOOOWEEEN",
+  "decimals": 6,
+  "coin_type": "0x87445a799356134969f64e7b67b0a285405e1229550e9e90c8ae8b9d47b5e1b3::haloooweeen::HALOOOWEEEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Jack_o_Lantern_2003_10_31_aeccebc2b1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

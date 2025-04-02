@@ -1,0 +1,13 @@
+{
+  "name": "Boy's Club Bridge",
+  "symbol": "BCB",
+  "decimals": 6,
+  "coin_type": "0xbd6d695956c395044eb2db780c3da140349fef5772baec1132b2cc87e0ada626::bcb::BCB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/82b1738b-b681-4c4c-b10f-b5c10564b450.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

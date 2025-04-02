@@ -1,0 +1,13 @@
+{
+  "name": "VDROP ON SUI",
+  "symbol": "VDROP",
+  "decimals": 6,
+  "coin_type": "0xf11585c614f86492703b56a23124a6569fd06849c77a9a35d1bd1d5f2ee7cb74::vdrop::VDROP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/venomdrop_0f6f7219f3.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

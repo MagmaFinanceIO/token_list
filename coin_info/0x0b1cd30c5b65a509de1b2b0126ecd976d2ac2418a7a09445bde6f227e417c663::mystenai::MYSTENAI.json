@@ -1,0 +1,13 @@
+{
+  "name": "Mysten AI Studio",
+  "symbol": "MYSTENAI",
+  "decimals": 6,
+  "coin_type": "0x0b1cd30c5b65a509de1b2b0126ecd976d2ac2418a7a09445bde6f227e417c663::mystenai::MYSTENAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b9649743-e51b-4cfc-887f-9dca6d2ce33d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

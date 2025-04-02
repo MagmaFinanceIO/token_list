@@ -1,0 +1,13 @@
+{
+  "name": "MOMO",
+  "symbol": "MOMO",
+  "decimals": 9,
+  "coin_type": "0x60a927aaa3cbe0b4060004d96780df6dcee833c309662282820c72228f90f8c5::momo::MOMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://steamuserimages-a.akamaihd.net/ugc/2053113256304375594/401C5B9AB9669F8B00CA93CD44EEB2E96C3C89E1/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

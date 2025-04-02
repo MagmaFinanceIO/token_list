@@ -1,0 +1,13 @@
+{
+  "name": "DOGE BEAR",
+  "symbol": "DOGEBEAR",
+  "decimals": 2,
+  "coin_type": "0xa4de3d1d9a8486621ca38a210b6a2884134ca91511a3097ad4dfca8095f105fc::dogebear::DOGEBEAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1056ba9d-6c4a-4ec3-beee-ae97b51451d9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

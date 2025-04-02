@@ -1,0 +1,13 @@
+{
+  "name": "AGENTS",
+  "symbol": "AGENTS",
+  "decimals": 9,
+  "coin_type": "0x1d58104a3afa0a305bcf331177e4f882fd55b9c0540b9b010228ff977bd20c02::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

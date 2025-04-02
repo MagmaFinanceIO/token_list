@@ -1,0 +1,13 @@
+{
+  "name": "SANTA HAT",
+  "symbol": "SANTAHAT",
+  "decimals": 9,
+  "coin_type": "0x18cfd508cceabf726a38bea069760345c6813b5949d99256404a747dc0b755bd::santahat::SANTAHAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmdHKxUv2nzi6obVCCASF2wGhd8HtbQGtLYmsxvDks4c7G",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

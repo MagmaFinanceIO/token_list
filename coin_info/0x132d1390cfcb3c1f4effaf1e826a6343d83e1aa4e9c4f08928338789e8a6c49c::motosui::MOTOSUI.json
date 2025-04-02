@@ -1,0 +1,13 @@
+{
+  "name": "Moto Moto",
+  "symbol": "MotoSUI",
+  "decimals": 6,
+  "coin_type": "0x132d1390cfcb3c1f4effaf1e826a6343d83e1aa4e9c4f08928338789e8a6c49c::motosui::MOTOSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Moto_Moto_Avatar_1b4a605456.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AI FROG by SuiAI",
+  "symbol": "AIFROG",
+  "decimals": 6,
+  "coin_type": "0x7cf0d794c742114336bd62d5ec9da00b57660d25edaaa58e75a3a27709eeb4b8::aifrog::AIFROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/08acce565c3447321428c02ba964ebff_1_e405c425f5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

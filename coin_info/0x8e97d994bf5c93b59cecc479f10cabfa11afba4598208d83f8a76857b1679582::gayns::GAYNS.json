@@ -1,0 +1,13 @@
+{
+  "name": "Gainocologist",
+  "symbol": "GAYNS",
+  "decimals": 9,
+  "coin_type": "0x8e97d994bf5c93b59cecc479f10cabfa11afba4598208d83f8a76857b1679582::gayns::GAYNS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A5JKRAXup65RJndhfBMR1yo1zxZyds2yyZc1niXypump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

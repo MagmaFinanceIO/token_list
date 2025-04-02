@@ -1,0 +1,13 @@
+{
+  "name": "TonyStark",
+  "symbol": "TSTARK",
+  "decimals": 9,
+  "coin_type": "0xcf1ca7e39a54274b9140b9be4a49179c98f780bea2087fd4172fc45154d8078a::tstark::TSTARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/482a2e93-f720-4682-bc24-854f6368e057.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

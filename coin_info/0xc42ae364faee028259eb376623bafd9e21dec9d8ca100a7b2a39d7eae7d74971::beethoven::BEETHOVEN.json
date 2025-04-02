@@ -1,0 +1,13 @@
+{
+  "name": "Beethoven on Sui",
+  "symbol": "Beethoven",
+  "decimals": 6,
+  "coin_type": "0xc42ae364faee028259eb376623bafd9e21dec9d8ca100a7b2a39d7eae7d74971::beethoven::BEETHOVEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000009409_66a27686c5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Brazil Official",
+  "symbol": "BRAZIL",
+  "decimals": 9,
+  "coin_type": "0x163c082ae5a1f0411e62eac5c4243f857a1ccb6a98dd4444e99247595c3a20d9::brazil::BRAZIL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmSewWoVHoN5gjH5qKtYJn62HpCqogic1uWFgjhQdVpjtd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

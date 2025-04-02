@@ -1,0 +1,13 @@
+{
+  "name": "Stonks",
+  "symbol": "NASDAQ4200",
+  "decimals": 6,
+  "coin_type": "0xa31adbab149e8641620ac948f548d1ee13b90622e241f914dcdf2773876d0810::nasdaq_4200::NASDAQ_4200",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmVcjLaB2WgcqdtRFrni7ZNfi2RqM222WaG7T4ZH2FFZcD",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

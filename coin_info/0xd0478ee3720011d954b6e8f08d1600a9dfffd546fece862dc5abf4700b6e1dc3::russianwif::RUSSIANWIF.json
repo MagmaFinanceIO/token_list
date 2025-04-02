@@ -1,0 +1,13 @@
+{
+  "name": "Russian Dog Wif Hat",
+  "symbol": "RUSSIANWIF",
+  "decimals": 6,
+  "coin_type": "0xd0478ee3720011d954b6e8f08d1600a9dfffd546fece862dc5abf4700b6e1dc3::russianwif::RUSSIANWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/russiandogwif_f3d0e6a14f.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

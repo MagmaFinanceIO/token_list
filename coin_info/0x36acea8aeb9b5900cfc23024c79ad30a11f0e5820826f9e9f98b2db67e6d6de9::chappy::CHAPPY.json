@@ -1,0 +1,13 @@
+{
+  "name": "CHAPPY CHAPPY",
+  "symbol": "CHAPPY",
+  "decimals": 9,
+  "coin_type": "0x36acea8aeb9b5900cfc23024c79ad30a11f0e5820826f9e9f98b2db67e6d6de9::chappy::CHAPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2n97zjmBZoDo3ybiX4LYqRnsF7YzFdqwCguyhBQ4pump.png?size=lg&key=2d74b2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

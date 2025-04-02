@@ -1,0 +1,13 @@
+{
+  "name": "sfa",
+  "symbol": "sfa",
+  "decimals": 6,
+  "coin_type": "0x9cdeb9f3884a566ff5f8805a6ab972f36c38451c055e73d29014ca1977a31398::sfa::SFA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

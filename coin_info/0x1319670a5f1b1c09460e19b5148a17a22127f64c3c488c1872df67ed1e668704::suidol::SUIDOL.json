@@ -1,0 +1,13 @@
+{
+  "name": "USDSUI",
+  "symbol": "SUIDOL",
+  "decimals": 6,
+  "coin_type": "0x1319670a5f1b1c09460e19b5148a17a22127f64c3c488c1872df67ed1e668704::suidol::SUIDOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/usdc_f1d93bef25.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

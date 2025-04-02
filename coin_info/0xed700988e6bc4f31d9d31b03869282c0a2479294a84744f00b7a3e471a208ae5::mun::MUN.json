@@ -1,0 +1,13 @@
+{
+  "name": "Muntu",
+  "symbol": "MUN",
+  "decimals": 9,
+  "coin_type": "0xed700988e6bc4f31d9d31b03869282c0a2479294a84744f00b7a3e471a208ae5::mun::MUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ff31cb47-8709-4ed8-b106-73c206d42285.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

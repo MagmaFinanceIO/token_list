@@ -1,0 +1,13 @@
+{
+  "name": "Momo",
+  "symbol": "MOMO",
+  "decimals": 9,
+  "coin_type": "0x606039b6df398ef6d33bdc496a3a892fb602a8598bc4d12246c80d1151192a69::momo::MOMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d63ad8c9-6e50-4b5b-a6ef-8aef5509eb45.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

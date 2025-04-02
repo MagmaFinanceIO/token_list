@@ -1,0 +1,13 @@
+{
+  "name": "SQUID PEPE",
+  "symbol": "SQUIDPEPE",
+  "decimals": 9,
+  "coin_type": "0xf952643b5f05d495a11fa94afcb9f41d2672bc68139365009184e9a773ebcb4d::squidpepe::SQUIDPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2L8yj9wjDtqgeZTsPDfQKC2PtYbj1b6Q5qwJNqLoT1Fm.png?size=lg&key=123389",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

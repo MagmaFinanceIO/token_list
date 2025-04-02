@@ -1,0 +1,13 @@
+{
+  "name": "DOGE ETF",
+  "symbol": "DOGETF",
+  "decimals": 9,
+  "coin_type": "0x5be857238b1dc1d9270b4cd3aa2e2241e76691e9c2b9b17f9d4e10d8399c0b64::dogetf::DOGETF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmYxwYN1EuvhAytc2HEpavHH7J8RikKGSXvDqXS7zSPbWm",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

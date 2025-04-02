@@ -1,0 +1,13 @@
+{
+  "name": "SUI SAIYAN",
+  "symbol": "SUISYAN",
+  "decimals": 9,
+  "coin_type": "0x53abeee3398e7dc493097083e0befa3bf37e9b52cc0aae8f5bf2559661a30122::suisyan::SUISYAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.discordapp.com/attachments/1309371179760615434/1309392500179468289/AVA.jpeg?ex=67416a4b&is=674018cb&hm=253859b0f0b33756d7f0e69118ba23f6060b3e290c066c01b97e17ed06888112&",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

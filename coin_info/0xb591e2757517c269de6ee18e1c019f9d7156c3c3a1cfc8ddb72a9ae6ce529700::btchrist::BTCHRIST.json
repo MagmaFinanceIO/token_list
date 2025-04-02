@@ -1,0 +1,13 @@
+{
+  "name": "BITCOIN CHRISTMAS",
+  "symbol": "BTCHRIST",
+  "decimals": 9,
+  "coin_type": "0xb591e2757517c269de6ee18e1c019f9d7156c3c3a1cfc8ddb72a9ae6ce529700::btchrist::BTCHRIST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/KrorquH3RrkcrhC0?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

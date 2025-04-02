@@ -1,0 +1,13 @@
+{
+  "name": "FishSmokingWeed",
+  "symbol": "FSW",
+  "decimals": 8,
+  "coin_type": "0x0b31082e043a5161ac6f94510e5c9ea120b100808f6df20d99c5ccb32bb35529::fsw::FSW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/35f5fb1c-f3c7-45e6-acc9-525f2aa85a10.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

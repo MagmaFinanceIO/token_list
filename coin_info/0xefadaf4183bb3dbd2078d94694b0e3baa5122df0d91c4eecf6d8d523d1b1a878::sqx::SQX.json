@@ -1,0 +1,13 @@
+{
+  "name": "SqueakerBux",
+  "symbol": "SQX",
+  "decimals": 6,
+  "coin_type": "0xefadaf4183bb3dbd2078d94694b0e3baa5122df0d91c4eecf6d8d523d1b1a878::sqx::SQX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmRkj1Frkrbsw9YPSxV7hVGHzHx1FRMvSD1cEoPgqe1Kb9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

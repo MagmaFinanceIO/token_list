@@ -1,0 +1,13 @@
+{
+  "name": "numogram ",
+  "symbol": "GNON",
+  "decimals": 9,
+  "coin_type": "0x3e696675b1bae95e0f7036f5c337e4f8fc8e33ea09a6c352a625623ba3c07f1d::gnon::GNON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmSdsBzucP6LmmdN7z6Bo6bV69874sgqBWBuanxR4p3hk9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

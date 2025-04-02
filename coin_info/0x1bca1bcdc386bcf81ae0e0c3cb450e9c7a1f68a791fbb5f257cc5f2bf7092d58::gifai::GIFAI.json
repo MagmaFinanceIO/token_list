@@ -1,0 +1,13 @@
+{
+  "name": "GIFAI by SuiAI",
+  "symbol": "GIFAI",
+  "decimals": 6,
+  "coin_type": "0x1bca1bcdc386bcf81ae0e0c3cb450e9c7a1f68a791fbb5f257cc5f2bf7092d58::gifai::GIFAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/apps_51345_13780191306179685_c793ad1d_d472_4c59_92cd_e73635ade010_2b90e930_bb02_41ea_b47c_d1f1baeb5a74_f917cc5971.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

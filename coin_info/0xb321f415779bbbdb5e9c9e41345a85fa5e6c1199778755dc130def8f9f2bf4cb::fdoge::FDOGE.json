@@ -1,0 +1,13 @@
+{
+  "name": "Flappy Doge",
+  "symbol": "FDOGE",
+  "decimals": 6,
+  "coin_type": "0xb321f415779bbbdb5e9c9e41345a85fa5e6c1199778755dc130def8f9f2bf4cb::fdoge::FDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/55ac03ca-2a61-499d-b2d0-03309cb22222.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DOLLAR",
+  "symbol": "DOLLAR",
+  "decimals": 9,
+  "coin_type": "0xc04f2f6f594b787222f4df715617484c2081642dffef5d2d71a59748a8793e7f::dollar::DOLLAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShmxpeFXJhR_ShLwzCHUPRIOmuuJITaORkFA&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

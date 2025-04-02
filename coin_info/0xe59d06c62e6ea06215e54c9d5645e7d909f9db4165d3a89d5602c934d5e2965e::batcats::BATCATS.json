@@ -1,0 +1,13 @@
+{
+  "name": "BATCATS MOON",
+  "symbol": "BATCATS",
+  "decimals": 3,
+  "coin_type": "0xe59d06c62e6ea06215e54c9d5645e7d909f9db4165d3a89d5602c934d5e2965e::batcats::BATCATS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/22cf1552-2d43-44c2-8de1-e4ba20f629a1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

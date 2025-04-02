@@ -1,0 +1,13 @@
+{
+  "name": "Simon's Cat Twin",
+  "symbol": "HUGH",
+  "decimals": 9,
+  "coin_type": "0x96219f80ce88979bde5a8ddfabf42f41bd325888e9509f989db63d8e612c83c1::hugh::HUGH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Ht9WgjjwXmvmkwSJp5jBoaCMebewuKuw3cp9mzhGpump.png?size=lg&key=421b3c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

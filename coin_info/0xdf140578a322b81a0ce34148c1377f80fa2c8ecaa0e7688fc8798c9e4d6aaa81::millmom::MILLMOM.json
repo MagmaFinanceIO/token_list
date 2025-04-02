@@ -1,0 +1,13 @@
+{
+  "name": "Millionaires Mom",
+  "symbol": "MILLMOM",
+  "decimals": 8,
+  "coin_type": "0xdf140578a322b81a0ce34148c1377f80fa2c8ecaa0e7688fc8798c9e4d6aaa81::millmom::MILLMOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2bba10e1-1655-49db-9fee-7bfb4deb8d74.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Fongo On Sui",
+  "symbol": "FONGOSUI",
+  "decimals": 9,
+  "coin_type": "0x34875cffa166f767f66cb41edb09a46e1ce6ce452ad29078e00694c8eeb2914c::fongosui::FONGOSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

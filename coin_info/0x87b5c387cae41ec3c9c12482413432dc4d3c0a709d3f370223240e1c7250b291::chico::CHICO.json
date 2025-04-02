@@ -1,0 +1,13 @@
+{
+  "name": "Chico",
+  "symbol": "CHICO",
+  "decimals": 9,
+  "coin_type": "0x87b5c387cae41ec3c9c12482413432dc4d3c0a709d3f370223240e1c7250b291::chico::CHICO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/bkt7ni_tGBolDs73?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "USD Coin (Portal from Polygon)",
+  "symbol": "USDCpol",
+  "decimals": 6,
+  "coin_type": "0xcf72ec52c0f8ddead746252481fb44ff6e8485a39b803825bde6b00d77cdb0bb::coin::COIN",
+  "pyth_id": "eaa020c61cc479712813461ce153894a96a6c00b21ed0cfc2798d1f9a9e9c94a",
+  "birdeyeid": "0xcf72ec52c0f8ddead746252481fb44ff6e8485a39b803825bde6b00d77cdb0bb::coin::COIN",
+  "coin_priority": [
+    "850"
+  ],
+  "logo_url": "https://otjatct2scltanet7e7untvl3lx4kccddwx5pusxqr6a2pd3qe5a.arweave.net/dNIJinqQlzA0k_k_Rs6r2u_FCEMdr9fSV4R8DTx7gTo",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

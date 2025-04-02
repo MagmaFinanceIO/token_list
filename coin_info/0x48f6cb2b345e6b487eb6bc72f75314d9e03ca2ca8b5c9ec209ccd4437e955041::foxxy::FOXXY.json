@@ -1,0 +1,13 @@
+{
+  "name": "Foxxy",
+  "symbol": "Foxxy",
+  "decimals": 9,
+  "coin_type": "0x48f6cb2b345e6b487eb6bc72f75314d9e03ca2ca8b5c9ec209ccd4437e955041::foxxy::FOXXY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/503492dc-0d81-4d5f-a75f-9f7c7ce95616.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

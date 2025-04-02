@@ -1,0 +1,13 @@
+{
+  "name": "ai16z on sui",
+  "symbol": "AI16Z",
+  "decimals": 6,
+  "coin_type": "0x284d3b917550d149751d3d6b1dbbd855a50c1f5f93910222a184804b5101f07f::ai16z::AI16Z",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/a16z_546be0d429.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Kungfuman",
+  "symbol": "KFM",
+  "decimals": 9,
+  "coin_type": "0xb324fbe5ccd73b4cdaa2269298630af5402b54197b34319836283bafc5ceac2d::kfm::KFM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1cfa6297-9825-4072-9732-1c8eff417031.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

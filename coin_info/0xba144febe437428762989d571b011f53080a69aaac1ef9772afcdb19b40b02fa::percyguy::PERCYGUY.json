@@ -1,0 +1,13 @@
+{
+  "name": "Just a Percy Guy",
+  "symbol": "PERCYGUY",
+  "decimals": 9,
+  "coin_type": "0xba144febe437428762989d571b011f53080a69aaac1ef9772afcdb19b40b02fa::percyguy::PERCYGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ejb9etZiLwDpWhFmGv2UF28LsEvjFprQn8hc8bApump.png?size=lg&key=6d353c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

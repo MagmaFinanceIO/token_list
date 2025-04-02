@@ -1,0 +1,13 @@
+{
+  "name": "SPOT AI SUI",
+  "symbol": "SPOTAI",
+  "decimals": 6,
+  "coin_type": "0xbadb1d28ba96482e363bbae9a7d140c6d977b87bd6a082ba552717190dbfbc27::spotai::SPOTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000005188_ec44518569.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

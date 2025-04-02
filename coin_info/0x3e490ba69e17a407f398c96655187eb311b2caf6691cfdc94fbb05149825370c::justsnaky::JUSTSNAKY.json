@@ -1,0 +1,13 @@
+{
+  "name": "JUST SNAKY",
+  "symbol": "JustSnaky",
+  "decimals": 9,
+  "coin_type": "0x3e490ba69e17a407f398c96655187eb311b2caf6691cfdc94fbb05149825370c::justsnaky::JUSTSNAKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2f02a6e7-af53-43fa-bcea-00d7b4a00d45.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

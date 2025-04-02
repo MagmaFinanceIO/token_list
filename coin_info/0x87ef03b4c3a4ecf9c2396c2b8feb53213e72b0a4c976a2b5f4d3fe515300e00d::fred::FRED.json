@@ -1,0 +1,13 @@
+{
+  "name": "Fred",
+  "symbol": "FRED",
+  "decimals": 6,
+  "coin_type": "0x87ef03b4c3a4ecf9c2396c2b8feb53213e72b0a4c976a2b5f4d3fe515300e00d::fred::FRED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/20250111_224926_c156bda5d8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

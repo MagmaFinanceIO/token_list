@@ -1,0 +1,13 @@
+{
+  "name": "CogniBot",
+  "symbol": "COGB",
+  "decimals": 6,
+  "coin_type": "0x05327b2fcd4f07b06b1c23154ff0de2c7a1ec438492d1ddf771cf91dbc425c0e::cogb::COGB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/f1abf4dd_231f_4ce2_a2aa_f128708fd1d6_778916610c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

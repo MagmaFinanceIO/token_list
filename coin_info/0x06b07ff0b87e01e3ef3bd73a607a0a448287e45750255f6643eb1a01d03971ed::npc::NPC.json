@@ -1,0 +1,13 @@
+{
+  "name": "NPC Miles",
+  "symbol": "NPC",
+  "decimals": 9,
+  "coin_type": "0x06b07ff0b87e01e3ef3bd73a607a0a448287e45750255f6643eb1a01d03971ed::npc::NPC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FHEFGB8y8C6uhraLyvtGdW23xackcxWFqpsTrNfdpump.png?size=lg&key=360d47",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

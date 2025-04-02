@@ -1,0 +1,13 @@
+{
+  "name": "Jake Dog",
+  "symbol": "JAKE",
+  "decimals": 9,
+  "coin_type": "0xe8cf94f4a58225c15ca1dab82aa5bbbc9c61eec4914c306019c95a2ff7de535b::jake::JAKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EMs5H1gn1Dk6RAFvGjHK1xyAqZTy6PFvX9LGuz7q8hqk.png?size=lg&key=f7ba34",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

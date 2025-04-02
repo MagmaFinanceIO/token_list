@@ -1,0 +1,13 @@
+{
+  "name": "Sui On Water",
+  "symbol": "WATSU",
+  "decimals": 6,
+  "coin_type": "0x78cd0c45386fa69f20511ba23a2a568b2aa540217a1f3684698b2d06a8016a88::watsu::WATSU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000210673_3264a126b1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "coin_type": "0x3d707bb68461350538e084c0783a269fd64beb4e05d8b8b94d18898b98080990::usdt::USDT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://gateway.irys.xyz/RH30modvlnNuqUC4aGp9DMRzUOxWQFEzFRmoI134luI",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

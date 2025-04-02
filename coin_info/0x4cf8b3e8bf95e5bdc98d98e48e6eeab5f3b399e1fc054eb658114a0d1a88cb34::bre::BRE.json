@@ -1,0 +1,13 @@
+{
+  "name": "UMBRELLA",
+  "symbol": "BRE",
+  "decimals": 9,
+  "coin_type": "0x4cf8b3e8bf95e5bdc98d98e48e6eeab5f3b399e1fc054eb658114a0d1a88cb34::bre::BRE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/671b2470-8dc2-4c11-b0f0-5bf70dbf4609.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

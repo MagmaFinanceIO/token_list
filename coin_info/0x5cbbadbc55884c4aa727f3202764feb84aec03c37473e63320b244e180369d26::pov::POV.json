@@ -1,0 +1,13 @@
+{
+  "name": "POVCoin",
+  "symbol": "POV",
+  "decimals": 3,
+  "coin_type": "0x5cbbadbc55884c4aa727f3202764feb84aec03c37473e63320b244e180369d26::pov::POV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/07899b8e-686c-4462-b964-300919753eb2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

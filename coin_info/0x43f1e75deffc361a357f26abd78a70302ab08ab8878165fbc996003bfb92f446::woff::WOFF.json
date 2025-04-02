@@ -1,0 +1,13 @@
+{
+  "name": "Weddings OFF",
+  "symbol": "WOFF",
+  "decimals": 9,
+  "coin_type": "0x43f1e75deffc361a357f26abd78a70302ab08ab8878165fbc996003bfb92f446::woff::WOFF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FZnuZKf6S3RkBCrL8bvKcbsBqpRoUbnkY3jK3iEkpump.png?size=lg&key=c44209",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

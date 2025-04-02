@@ -1,0 +1,13 @@
+{
+  "name": "SUIHIPOO",
+  "symbol": "SUIHIPOO",
+  "decimals": 9,
+  "coin_type": "0x1c1fb4d5697c9973d20787ec84bc8ad327d7c06fc88fa282b8328deceeda7dc8::suihipoo::SUIHIPOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6e3b61a7-1fe3-4d87-b227-def9ea4d1c44.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

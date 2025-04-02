@@ -1,0 +1,13 @@
+{
+  "name": "HippoBoit",
+  "symbol": "BOIT",
+  "decimals": 1,
+  "coin_type": "0x4a652ac870e7f4317d430251a9186e3d76681d1c4fd148fbc587c038001be79e::boit::BOIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/befa5095-9b78-4b4d-b680-8e4773a623e3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

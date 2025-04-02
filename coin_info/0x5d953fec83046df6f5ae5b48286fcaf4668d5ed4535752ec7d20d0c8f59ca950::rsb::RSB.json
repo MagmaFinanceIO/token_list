@@ -1,0 +1,13 @@
+{
+  "name": "rocket swap & borrow 🚀​",
+  "symbol": "RSB",
+  "decimals": 9,
+  "coin_type": "0x5d953fec83046df6f5ae5b48286fcaf4668d5ed4535752ec7d20d0c8f59ca950::rsb::RSB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/94745988-e89b-442c-8d9c-d9eae2b4029c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DNASUI",
+  "symbol": "DNASUI",
+  "decimals": 9,
+  "coin_type": "0xbf73b39fa194739bf5b74b434604306d8cc1ca73a9c676baea35f9d3a4e229ce::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

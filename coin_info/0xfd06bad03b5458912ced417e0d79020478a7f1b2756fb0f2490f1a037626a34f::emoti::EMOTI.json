@@ -1,0 +1,13 @@
+{
+  "name": "emoti art",
+  "symbol": "EMOTI",
+  "decimals": 6,
+  "coin_type": "0xfd06bad03b5458912ced417e0d79020478a7f1b2756fb0f2490f1a037626a34f::emoti::EMOTI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/dex_profile_2_fcb93204ba.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

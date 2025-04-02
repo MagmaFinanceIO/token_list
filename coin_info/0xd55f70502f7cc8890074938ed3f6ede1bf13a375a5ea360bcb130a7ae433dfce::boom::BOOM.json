@@ -1,0 +1,13 @@
+{
+  "name": "Book of MAGA",
+  "symbol": "BOOM",
+  "decimals": 9,
+  "coin_type": "0xd55f70502f7cc8890074938ed3f6ede1bf13a375a5ea360bcb130a7ae433dfce::boom::BOOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x1e2f16f9df3526ee5e5a21d510188c0488258f3d.png?size=lg&key=77b646",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

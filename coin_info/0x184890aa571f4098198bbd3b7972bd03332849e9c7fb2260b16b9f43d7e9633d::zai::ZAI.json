@@ -1,0 +1,13 @@
+{
+  "name": "Zenithon AI",
+  "symbol": "ZAI",
+  "decimals": 6,
+  "coin_type": "0x184890aa571f4098198bbd3b7972bd03332849e9c7fb2260b16b9f43d7e9633d::zai::ZAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/70da893d-6c2a-4f96-867a-a533fe0e6458.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Prince",
+  "symbol": "PRINCE",
+  "decimals": 9,
+  "coin_type": "0x1e248dba0af1a5b57def786b17b6efac21346e4aaf1d26775fe663b97e555120::mpt::MPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://amber-hilarious-ostrich-689.mypinata.cloud/files/bafkreidxafmelx4leds5kgqwwxvkapageyq4tf7f74k2nw4nkz4wbgwzqy?X-Algorithm=PINATA1&X-Date=1732118396&X-Expires=315360000&X-Method=GET&X-Signature=6e65413b5b30a0346a20a3e2caa3b39547f17deecaf2ecd0f671b935412e4d24",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MR SUI",
+  "symbol": "MSUI",
+  "decimals": 6,
+  "coin_type": "0x0e1df46686c3cc6630c6f526b22ee83c834ea755a0548415b965142c293b5fbd::mrsui::MRSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cloudinary.com/dkpo6c3me/image/upload/v1728370730/mrsui_ndimna.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

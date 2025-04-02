@@ -1,0 +1,13 @@
+{
+  "name": "Meow The Cat",
+  "symbol": "MEOW",
+  "decimals": 9,
+  "coin_type": "0xd53edf63eb1ce9077e80d62a322ddab54ef82f460821af5ad4d0d9c585beacee::meow::MEOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.meowthecat.top/index_files/sleeping_meowcat.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

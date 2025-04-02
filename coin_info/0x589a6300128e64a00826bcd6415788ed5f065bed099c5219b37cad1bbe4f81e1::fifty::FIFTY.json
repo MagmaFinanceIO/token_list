@@ -1,0 +1,13 @@
+{
+  "name": "STREAMING TILL 50 MILLION",
+  "symbol": "FIFTY",
+  "decimals": 9,
+  "coin_type": "0x589a6300128e64a00826bcd6415788ed5f065bed099c5219b37cad1bbe4f81e1::fifty::FIFTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmRLciTEvptMPgyWAcWwxmZ5WSR51FSUpm8n1NxhzfvhVp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PNUT",
+  "symbol": "PNUT",
+  "decimals": 9,
+  "coin_type": "0xff1ee78f0a3574f480ad5ca1de0142b648ceddcdd33a85f8f3590485347c2ab3::pnut::PNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/543f5f4f-d137-417c-a587-8d29c45a0454.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

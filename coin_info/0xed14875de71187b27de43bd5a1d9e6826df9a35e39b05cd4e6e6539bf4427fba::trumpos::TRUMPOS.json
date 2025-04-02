@@ -1,0 +1,13 @@
+{
+  "name": "TRUMPOS",
+  "symbol": "TRUMPOS",
+  "decimals": 9,
+  "coin_type": "0xed14875de71187b27de43bd5a1d9e6826df9a35e39b05cd4e6e6539bf4427fba::trumpos::TRUMPOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/83572574-49ec-48e0-9b36-a61e44daa302.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "White Pepe",
+  "symbol": "WPEPE",
+  "decimals": 6,
+  "coin_type": "0x8aed3c9fc8bb764a487d7b3cd5acd32f0542e0f5a99c3d1eaf2174121e757dc4::wpepe::WPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8584bbf5-87d4-4f57-8885-382b0068fb15.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "EYEAI",
+  "symbol": "EYEAI",
+  "decimals": 9,
+  "coin_type": "0xfc8d2f1d116418da4b232869c2e46ad8654c5f530307cc6ae8f9889820ffc514::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

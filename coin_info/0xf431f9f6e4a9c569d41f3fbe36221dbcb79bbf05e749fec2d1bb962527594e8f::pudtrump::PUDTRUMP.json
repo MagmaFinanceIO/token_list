@@ -1,0 +1,13 @@
+{
+  "name": "PudgyTrump",
+  "symbol": "PudTrump",
+  "decimals": 9,
+  "coin_type": "0xf431f9f6e4a9c569d41f3fbe36221dbcb79bbf05e749fec2d1bb962527594e8f::pudtrump::PUDTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DkWL8ot6T6x5rNW7Y4McHLn5GpcWQQsGb7NqbpJXJ6UV.png?size=lg&key=51515a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

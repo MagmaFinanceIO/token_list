@@ -1,0 +1,13 @@
+{
+  "name": "Sizu",
+  "symbol": "SIZU",
+  "decimals": 9,
+  "coin_type": "0xa7b184cdd17cc2753b9aa2d3c1a4fcb1ae7e2fd8670ee42180369343bdac9c08::sizu::SIZU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f22514c0-fdb3-483c-9cfa-4574c6c0188a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

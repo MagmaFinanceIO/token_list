@@ -1,0 +1,13 @@
+{
+  "name": "BlueMove",
+  "symbol": "MOVE",
+  "decimals": 6,
+  "coin_type": "0x4059193cfc36966356c6d614deea4e4605d820f87f1f34f7218a5331396753e4::move::MOVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/36c93a98-928f-4ac3-8c9b-73f20491dea1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Terminalius Maximus",
+  "symbol": "BARON",
+  "decimals": 9,
+  "coin_type": "0x1da97282ac8dd8e0eb0210f49b87e45ece447e73a5053eb7255bd6bbe869f339::baron::BARON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/PZkZdFmVQbP41q2JKDim7ytnUzTscrvBz2zMH6fpump.png?size=lg&key=067ad7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

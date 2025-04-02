@@ -1,0 +1,13 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "coin_type": "0x1a51a6cf85eb133e822032d97fddb8f7cf0e1de3f7d6ab707b0d6c73b784f69c::usdt_token::USDT_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.okx.com/cdn/web3/currency/token/137-0x1e4a5963abfd975d8c9021ce480b42188849d41d-1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

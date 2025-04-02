@@ -1,0 +1,13 @@
+{
+  "name": "NPC Solana",
+  "symbol": "NPCS",
+  "decimals": 9,
+  "coin_type": "0x843d70ab515da6adbb4a38bcd8fa59cb45ffc66b1e0e1f46b382ed088aaac9ae::npcs::NPCS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5ToDNkiBAK6k697RRyngTburU7yZNFZFx7jzsD1Uc7pK.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

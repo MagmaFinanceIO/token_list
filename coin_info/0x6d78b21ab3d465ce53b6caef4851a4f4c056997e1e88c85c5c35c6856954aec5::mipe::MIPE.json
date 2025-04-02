@@ -1,0 +1,13 @@
+{
+  "name": "MINAPE",
+  "symbol": "MIPE",
+  "decimals": 3,
+  "coin_type": "0x6d78b21ab3d465ce53b6caef4851a4f4c056997e1e88c85c5c35c6856954aec5::mipe::MIPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d4d3dd09-01df-4e87-b7fe-e8e448c1dd92.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

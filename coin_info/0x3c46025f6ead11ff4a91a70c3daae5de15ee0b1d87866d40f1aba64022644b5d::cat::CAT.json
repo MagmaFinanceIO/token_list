@@ -1,0 +1,13 @@
+{
+  "name": "CAT Token",
+  "symbol": "CAT",
+  "decimals": 9,
+  "coin_type": "0x3c46025f6ead11ff4a91a70c3daae5de15ee0b1d87866d40f1aba64022644b5d::cat::CAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pumpfun-indexer.s3.eu-west-1.amazonaws.com/icon/0272256d-2572-4bbc-9966-77f1a5cdedff",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

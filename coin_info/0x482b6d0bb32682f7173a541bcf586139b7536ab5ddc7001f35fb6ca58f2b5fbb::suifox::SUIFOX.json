@@ -1,0 +1,13 @@
+{
+  "name": "Suifox",
+  "symbol": "SUIFOX",
+  "decimals": 6,
+  "coin_type": "0x482b6d0bb32682f7173a541bcf586139b7536ab5ddc7001f35fb6ca58f2b5fbb::suifox::SUIFOX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_724515ae36.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

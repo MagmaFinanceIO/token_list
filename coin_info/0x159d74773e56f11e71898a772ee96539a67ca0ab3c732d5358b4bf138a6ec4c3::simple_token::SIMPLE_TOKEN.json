@@ -1,0 +1,13 @@
+{
+  "name": "WAVE",
+  "symbol": "WAVE",
+  "decimals": 9,
+  "coin_type": "0x159d74773e56f11e71898a772ee96539a67ca0ab3c732d5358b4bf138a6ec4c3::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

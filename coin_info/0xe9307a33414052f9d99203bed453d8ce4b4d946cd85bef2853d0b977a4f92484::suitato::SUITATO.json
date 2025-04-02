@@ -1,0 +1,13 @@
+{
+  "name": "The Underwater Potato",
+  "symbol": "Suitato",
+  "decimals": 6,
+  "coin_type": "0xe9307a33414052f9d99203bed453d8ce4b4d946cd85bef2853d0b977a4f92484::suitato::SUITATO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Suitato_JPG_11a434b477.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SATS",
+  "symbol": "SATS",
+  "decimals": 0,
+  "coin_type": "0xc3dbbb3c4902b25ea144b58b60cb0b1a8935947b29b82c6f17029d266bacafba::sats::SATS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cloudflare-ipfs.com/ipfs/Qmab1RmVueZXfbtQts1QmYhKYMuGzJ7otBmb2CFh4tukXM",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

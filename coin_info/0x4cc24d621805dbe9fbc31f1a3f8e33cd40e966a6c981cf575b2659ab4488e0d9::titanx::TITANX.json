@@ -1,0 +1,13 @@
+{
+  "name": "TITAN X",
+  "symbol": "TITANX",
+  "decimals": 9,
+  "coin_type": "0x4cc24d621805dbe9fbc31f1a3f8e33cd40e966a6c981cf575b2659ab4488e0d9::titanx::TITANX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xf19308f923582a6f7c465e5ce7a9dc1bec6665b1.png?size=xl&key=ce1a5b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

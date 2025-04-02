@@ -1,0 +1,13 @@
+{
+  "name": "X Money",
+  "symbol": "XMoney",
+  "decimals": 9,
+  "coin_type": "0x3a34b0b1b876242aa4fcc9fcb7000279fe4045596c7acdfc4680be6fbacd56b4::xmoney::XMONEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/792NFoxwa77hcHFArNLPftVgPV7ADsRWeZG9QZY1pump.png?size=lg&key=e79637",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

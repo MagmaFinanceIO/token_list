@@ -1,0 +1,13 @@
+{
+  "name": "SHRIMP CAT",
+  "symbol": "SAT",
+  "decimals": 6,
+  "coin_type": "0xd9c5f9c75eece22d0459fe6d11c904fdba32bd1e984f14a8c4055004c0c980c4::sat::SAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SA_Tlogo_569ef0d589.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

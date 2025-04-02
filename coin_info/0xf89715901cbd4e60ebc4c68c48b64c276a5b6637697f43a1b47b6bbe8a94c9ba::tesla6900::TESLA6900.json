@@ -1,0 +1,13 @@
+{
+  "name": "Tesla 6900",
+  "symbol": "TESLA6900",
+  "decimals": 9,
+  "coin_type": "0xf89715901cbd4e60ebc4c68c48b64c276a5b6637697f43a1b47b6bbe8a94c9ba::tesla6900::TESLA6900",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/QmVF2jRmGPMS7myG3w6AJKTyzPuuwuW3ZLbK8dHriFDg8s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

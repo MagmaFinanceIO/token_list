@@ -1,0 +1,13 @@
+{
+  "name": "T S A R",
+  "symbol": "TSAR",
+  "decimals": 6,
+  "coin_type": "0xde58a4df074a8d5a0fbb1ecdabbd4811b221bb9400dd5c312c83dfa039178c85::tsar::TSAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/LOG_Ocopia_7ccec6b898.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

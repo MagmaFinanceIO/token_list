@@ -1,0 +1,13 @@
+{
+  "name": "Sui On Cat",
+  "symbol": "SOC",
+  "decimals": 6,
+  "coin_type": "0xc987e01e17ac45416490693ba10b321f7b67d001f9304b052fe3f4f6d98ab6dd::soc::SOC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SUICATSUI_c203a3ccad.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

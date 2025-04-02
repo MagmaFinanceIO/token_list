@@ -1,0 +1,13 @@
+{
+  "name": "The Ultimate Cook",
+  "symbol": "COOK",
+  "decimals": 9,
+  "coin_type": "0xe26a8c903c3679ff57ac20d6e5d4ac1e96f01e027af542a1e5e418eeb34440e8::cook::COOK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmS3DdrSjPNaQXD3QmDCTvoq1eZwFqSNC8aukvyVVYry8X",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

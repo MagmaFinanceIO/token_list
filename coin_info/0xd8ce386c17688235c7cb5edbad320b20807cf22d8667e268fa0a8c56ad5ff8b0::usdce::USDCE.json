@@ -1,0 +1,13 @@
+{
+  "name": "Native USDC",
+  "symbol": "USDCe",
+  "decimals": 6,
+  "coin_type": "0xd8ce386c17688235c7cb5edbad320b20807cf22d8667e268fa0a8c56ad5ff8b0::usdce::USDCE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5f45b5e2-227c-4d8e-9d15-e76bf9555286.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

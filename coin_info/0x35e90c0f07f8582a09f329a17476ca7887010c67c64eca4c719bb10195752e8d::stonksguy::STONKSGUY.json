@@ -1,0 +1,13 @@
+{
+  "name": "Just a Stonks Guy",
+  "symbol": "STONKSGUY",
+  "decimals": 9,
+  "coin_type": "0x35e90c0f07f8582a09f329a17476ca7887010c67c64eca4c719bb10195752e8d::stonksguy::STONKSGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3y5yzZHhgfTzrkg3xf9TLucWRxWBC3o6iDutyTonpump.png?size=xl&key=8277f1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

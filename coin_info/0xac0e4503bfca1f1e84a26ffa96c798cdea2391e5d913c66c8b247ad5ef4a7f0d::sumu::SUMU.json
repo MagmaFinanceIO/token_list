@@ -1,0 +1,13 @@
+{
+  "name": "SUMU - The Sui Bull Run Mascot",
+  "symbol": "SUMU",
+  "decimals": 6,
+  "coin_type": "0xac0e4503bfca1f1e84a26ffa96c798cdea2391e5d913c66c8b247ad5ef4a7f0d::sumu::SUMU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/93b4c817-4da3-4c03-bc9c-8ee9a333641e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

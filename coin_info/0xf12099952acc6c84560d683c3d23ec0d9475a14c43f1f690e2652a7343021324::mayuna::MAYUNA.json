@@ -1,0 +1,13 @@
+{
+  "name": "Mayuna",
+  "symbol": "MAYUNA",
+  "decimals": 9,
+  "coin_type": "0xf12099952acc6c84560d683c3d23ec0d9475a14c43f1f690e2652a7343021324::mayuna::MAYUNA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/77ycEZSF5xn7AjNc5rr4xs7iEFki5u1Rp5Lww4Xzpump.png?size=lg&key=6cb067",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DorkLord",
+  "symbol": "DORKL",
+  "decimals": 6,
+  "coin_type": "0xfba08fa7c8e2a1c7a335c0940013704e651b4a322df6f4b7a9fc984e4bcf4c78::dorkl::DORKL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/dorklogo_e5b4f44175.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

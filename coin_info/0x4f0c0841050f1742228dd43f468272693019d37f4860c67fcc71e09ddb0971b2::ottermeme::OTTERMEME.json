@@ -1,0 +1,13 @@
+{
+  "name": "Otter Meme",
+  "symbol": "OTTERMEME",
+  "decimals": 9,
+  "coin_type": "0x4f0c0841050f1742228dd43f468272693019d37f4860c67fcc71e09ddb0971b2::ottermeme::OTTERMEME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aaf513d0-f0a5-4244-ae9a-a24893aed5ca.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

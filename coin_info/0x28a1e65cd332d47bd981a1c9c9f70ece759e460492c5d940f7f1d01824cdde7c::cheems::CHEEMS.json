@@ -1,0 +1,13 @@
+{
+  "name": "Sui Cheems",
+  "symbol": "CHEEMS",
+  "decimals": 9,
+  "coin_type": "0x28a1e65cd332d47bd981a1c9c9f70ece759e460492c5d940f7f1d01824cdde7c::cheems::CHEEMS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f288e332-87ce-47b6-bfe7-f69bab5af436.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

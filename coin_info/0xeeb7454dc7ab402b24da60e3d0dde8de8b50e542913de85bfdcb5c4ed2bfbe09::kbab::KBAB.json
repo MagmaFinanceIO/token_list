@@ -1,0 +1,13 @@
+{
+  "name": "Kebi Coin",
+  "symbol": "KBAB",
+  "decimals": 6,
+  "coin_type": "0xeeb7454dc7ab402b24da60e3d0dde8de8b50e542913de85bfdcb5c4ed2bfbe09::kbab::KBAB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bfcaf09e-aaed-4eca-b174-cbe0520dde64.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

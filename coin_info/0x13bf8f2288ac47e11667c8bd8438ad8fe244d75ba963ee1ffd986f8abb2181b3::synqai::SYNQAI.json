@@ -1,0 +1,13 @@
+{
+  "name": "SynaptiQ System",
+  "symbol": "SYNQAI",
+  "decimals": 9,
+  "coin_type": "0x13bf8f2288ac47e11667c8bd8438ad8fe244d75ba963ee1ffd986f8abb2181b3::synqai::SYNQAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9geNRCEuk1iUqMM9ru23a8yhNVCVkN5BN5NNvrdjpump.png?size=lg&key=76a007",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

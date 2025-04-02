@@ -1,0 +1,13 @@
+{
+  "name": "THOLANA",
+  "symbol": "THOL",
+  "decimals": 6,
+  "coin_type": "0xda8c89d911009aa42e4f788fdca46b3a07752209557b85eb5503ec59b99a99a4::thol::THOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_T_Kmr_B_Je_Pa_Xvi_RV_Tx_N_Fp_Jj_Qn_Q_Xx_T_Cqpq_Md_Np_Eofcn3_X_Cs_94d2bd3bea.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

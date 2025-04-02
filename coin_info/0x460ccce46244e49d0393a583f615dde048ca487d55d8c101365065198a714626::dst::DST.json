@@ -1,0 +1,13 @@
+{
+  "name": "DeepStateAI",
+  "symbol": "DST",
+  "decimals": 9,
+  "coin_type": "0x460ccce46244e49d0393a583f615dde048ca487d55d8c101365065198a714626::dst::DST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/He2q1MJT5PkKetn3peyEnn2VCSGharjSJMM3YXhGpump.png?size=lg&key=cb3cbd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

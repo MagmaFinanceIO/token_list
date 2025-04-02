@@ -1,0 +1,13 @@
+{
+  "name": "CHILLPEPE",
+  "symbol": "CHILLPEPE",
+  "decimals": 9,
+  "coin_type": "0xa7fc45645846bc9e211e15686a53238abbc9d62293d09c4ac7255429d4cdfd89::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

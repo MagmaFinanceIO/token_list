@@ -1,0 +1,13 @@
+{
+  "name": "BULLbasur",
+  "symbol": "BULL",
+  "decimals": 9,
+  "coin_type": "0xc29dc2c347667ee007bca29ad06e3b21f74473645e1e29fc4c0215ba2ea7357f::bull::BULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5KiWVvB9t-abcboxIcAtAIEgcC4j-7k92BA&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

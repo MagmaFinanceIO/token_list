@@ -1,0 +1,13 @@
+{
+  "name": "Sui Pepe",
+  "symbol": "SUIPEPE",
+  "decimals": 6,
+  "coin_type": "0x78d9c5564a610cfc0e4a11c6a6258e1d1771010af62c35f78bcb574f35949569::suipepe::SUIPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suipepelogo_07685ec788.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

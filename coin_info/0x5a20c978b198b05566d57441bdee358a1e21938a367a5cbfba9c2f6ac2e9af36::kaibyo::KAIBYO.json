@@ -1,0 +1,13 @@
+{
+  "name": "Kaibyo on Sui",
+  "symbol": "Kaibyo",
+  "decimals": 9,
+  "coin_type": "0x5a20c978b198b05566d57441bdee358a1e21938a367a5cbfba9c2f6ac2e9af36::kaibyo::KAIBYO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HGUZ9cssh3Pgwj7t3uizGDaUiXqnM4w8CzswaBXrpump.png?size=lg&key=a26f4b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

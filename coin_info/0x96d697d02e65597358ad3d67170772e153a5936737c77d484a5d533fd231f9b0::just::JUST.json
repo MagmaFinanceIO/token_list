@@ -1,0 +1,13 @@
+{
+  "name": "just a guy",
+  "symbol": "JUST",
+  "decimals": 6,
+  "coin_type": "0x96d697d02e65597358ad3d67170772e153a5936737c77d484a5d533fd231f9b0::just::JUST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/dq9i_NL_a18d2f065d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

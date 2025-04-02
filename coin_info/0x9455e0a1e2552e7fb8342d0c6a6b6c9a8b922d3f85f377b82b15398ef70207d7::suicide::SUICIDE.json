@@ -1,0 +1,13 @@
+{
+  "name": "SUIcide Squad",
+  "symbol": "SUIcide",
+  "decimals": 9,
+  "coin_type": "0x9455e0a1e2552e7fb8342d0c6a6b6c9a8b922d3f85f377b82b15398ef70207d7::suicide::SUICIDE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/103d496a-c661-4e01-99d4-70fe2349f222.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

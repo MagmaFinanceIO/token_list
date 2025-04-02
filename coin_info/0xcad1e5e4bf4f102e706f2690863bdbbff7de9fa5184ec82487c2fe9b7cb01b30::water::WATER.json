@@ -1,0 +1,13 @@
+{
+  "name": "SUI Water",
+  "symbol": "Water",
+  "decimals": 9,
+  "coin_type": "0xcad1e5e4bf4f102e706f2690863bdbbff7de9fa5184ec82487c2fe9b7cb01b30::water::WATER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6e756879-785d-451d-88e6-4f7c0ef02594.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

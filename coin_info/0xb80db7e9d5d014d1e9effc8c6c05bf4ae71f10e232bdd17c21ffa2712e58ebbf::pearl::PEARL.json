@@ -1,0 +1,13 @@
+{
+  "name": "1Pearl",
+  "symbol": "Pearl",
+  "decimals": 9,
+  "coin_type": "0xb80db7e9d5d014d1e9effc8c6c05bf4ae71f10e232bdd17c21ffa2712e58ebbf::pearl::PEARL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/991c6a62-fecd-4998-8bc0-8cc994b6469e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

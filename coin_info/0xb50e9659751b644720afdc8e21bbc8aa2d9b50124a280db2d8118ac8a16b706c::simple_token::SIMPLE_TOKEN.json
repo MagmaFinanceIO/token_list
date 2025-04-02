@@ -1,0 +1,13 @@
+{
+  "name": "SUIVISION",
+  "symbol": "SUIVISION",
+  "decimals": 9,
+  "coin_type": "0xb50e9659751b644720afdc8e21bbc8aa2d9b50124a280db2d8118ac8a16b706c::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

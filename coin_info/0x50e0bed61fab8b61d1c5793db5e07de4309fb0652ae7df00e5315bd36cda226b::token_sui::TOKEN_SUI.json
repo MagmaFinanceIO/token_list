@@ -1,0 +1,13 @@
+{
+  "name": "aaa cat 34",
+  "symbol": "AAA34",
+  "decimals": 9,
+  "coin_type": "0x50e0bed61fab8b61d1c5793db5e07de4309fb0652ae7df00e5315bd36cda226b::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4995_cfd6177d03.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

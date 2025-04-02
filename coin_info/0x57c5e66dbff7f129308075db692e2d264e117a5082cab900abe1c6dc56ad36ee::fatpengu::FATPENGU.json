@@ -1,0 +1,13 @@
+{
+  "name": "Fat Pengu",
+  "symbol": "FATPENGU",
+  "decimals": 9,
+  "coin_type": "0x57c5e66dbff7f129308075db692e2d264e117a5082cab900abe1c6dc56ad36ee::fatpengu::FATPENGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7na9JB1kjRbtiJFN1Nwhp24uyaz4A5BGReRevmJjpump.png?size=lg&key=734bf2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

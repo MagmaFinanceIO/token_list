@@ -1,0 +1,13 @@
+{
+  "name": "Patchouli knowledge",
+  "symbol": "Pachouli",
+  "decimals": 9,
+  "coin_type": "0x4c706b87150fbbb2d90e5b278ad28c4487e5c409808646982383700caee35d58::pachouli::PACHOULI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/F8btFvgEKbsBvgornHg7Yb4QUgtceiyFeEaMZVQopump.png?size=lg&key=55a29d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

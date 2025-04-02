@@ -1,0 +1,13 @@
+{
+  "name": "OSMAN",
+  "symbol": "OSMAN",
+  "decimals": 9,
+  "coin_type": "0xc43d1f1f2e5e3bee598bdd9905ed41d67b6faa792b1c0c22014bf65685f3a6bc::osman::OSMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/23FyUDrQdSw1VXTP7hiuUAQVgp4ynGktTi4pejBapump.png?size=lg&key=e29843",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

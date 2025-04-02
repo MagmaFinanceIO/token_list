@@ -1,0 +1,13 @@
+{
+  "name": "QudeAI Framework",
+  "symbol": "Qude",
+  "decimals": 9,
+  "coin_type": "0x9fa68bbc3b056eeedb3a5669c0b8e8806651435662dfc7f1c4446f248b6f7b17::qude::QUDE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3MyaQBG7y3SHLQZa282Jh2xtB2TZKHGzNp1CuZ4Cpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

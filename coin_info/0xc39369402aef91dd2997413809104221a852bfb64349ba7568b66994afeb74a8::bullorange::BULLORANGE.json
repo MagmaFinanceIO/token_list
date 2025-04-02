@@ -1,0 +1,13 @@
+{
+  "name": "Bullish Orange",
+  "symbol": "BullOrange",
+  "decimals": 9,
+  "coin_type": "0xc39369402aef91dd2997413809104221a852bfb64349ba7568b66994afeb74a8::bullorange::BULLORANGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dd573e40-a209-42aa-bd91-41703ea261fa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

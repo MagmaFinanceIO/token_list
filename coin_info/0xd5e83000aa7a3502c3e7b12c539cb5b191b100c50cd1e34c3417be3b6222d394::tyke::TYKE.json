@@ -1,0 +1,13 @@
+{
+  "name": "Type on Sui",
+  "symbol": "TYKE",
+  "decimals": 6,
+  "coin_type": "0xd5e83000aa7a3502c3e7b12c539cb5b191b100c50cd1e34c3417be3b6222d394::tyke::TYKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/icon_768x768_325c67981e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

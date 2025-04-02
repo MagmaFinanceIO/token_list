@@ -1,0 +1,13 @@
+{
+  "name": "COSMIC CAT by SuiAI",
+  "symbol": "COSMIC",
+  "decimals": 6,
+  "coin_type": "0x67f868e97426dd83e30627ff5cf30d2526ea8d96bedb2d7f0aa45b2a77625dbe::cosmic::COSMIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1001217904_66daabb756.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

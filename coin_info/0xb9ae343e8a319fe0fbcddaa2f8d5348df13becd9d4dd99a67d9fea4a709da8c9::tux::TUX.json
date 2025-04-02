@@ -1,0 +1,13 @@
+{
+  "name": "TUX 2025",
+  "symbol": "TUX",
+  "decimals": 9,
+  "coin_type": "0xb9ae343e8a319fe0fbcddaa2f8d5348df13becd9d4dd99a67d9fea4a709da8c9::tux::TUX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d6af95e9-719c-47ff-9577-3f487d865452.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

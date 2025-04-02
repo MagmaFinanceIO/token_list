@@ -1,0 +1,13 @@
+{
+  "name": "Ract by Matt Furie",
+  "symbol": "RACT",
+  "decimals": 6,
+  "coin_type": "0x60736cb6a9961c8c3b82c3de712b8c18fd382376cf4bc22d1616881622154445::ract::RACT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731409141840.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

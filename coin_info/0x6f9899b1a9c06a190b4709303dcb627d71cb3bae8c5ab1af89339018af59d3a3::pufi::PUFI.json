@@ -1,0 +1,13 @@
+{
+  "name": "Purple Fire",
+  "symbol": "PUFI",
+  "decimals": 9,
+  "coin_type": "0x6f9899b1a9c06a190b4709303dcb627d71cb3bae8c5ab1af89339018af59d3a3::pufi::PUFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fa3660f0-4fb1-42da-a665-d0b42f271701.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

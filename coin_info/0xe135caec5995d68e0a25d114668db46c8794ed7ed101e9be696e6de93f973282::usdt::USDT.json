@@ -1,0 +1,13 @@
+{
+  "name": "United Sui Donald Trump",
+  "symbol": "USDT",
+  "decimals": 6,
+  "coin_type": "0xe135caec5995d68e0a25d114668db46c8794ed7ed101e9be696e6de93f973282::usdt::USDT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/NEW_BUY_1_9e49f26c71.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

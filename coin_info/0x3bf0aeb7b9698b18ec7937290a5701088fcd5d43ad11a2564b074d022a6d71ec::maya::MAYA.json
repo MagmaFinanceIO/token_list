@@ -1,0 +1,13 @@
+{
+  "name": "Maya Points",
+  "symbol": "MAYA",
+  "decimals": 0,
+  "coin_type": "0x3bf0aeb7b9698b18ec7937290a5701088fcd5d43ad11a2564b074d022a6d71ec::maya::MAYA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://kriya-assets.s3.ap-southeast-1.amazonaws.com/maya.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

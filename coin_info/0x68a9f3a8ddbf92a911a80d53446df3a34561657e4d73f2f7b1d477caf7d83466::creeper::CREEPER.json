@@ -1,0 +1,13 @@
+{
+  "name": "Creeper",
+  "symbol": "CREEPER",
+  "decimals": 9,
+  "coin_type": "0x68a9f3a8ddbf92a911a80d53446df3a34561657e4d73f2f7b1d477caf7d83466::creeper::CREEPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2R6CVApUdS8E22AUmgWoznjJnBwPxZGgF6yATLWBpump.png?size=lg&key=6c2098",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

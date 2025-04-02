@@ -1,0 +1,13 @@
+{
+  "name": "Blue Sui Parrot",
+  "symbol": "PARROT",
+  "decimals": 6,
+  "coin_type": "0x8bdf897f3a9744afaa837e73896e37ba891784b178e8169728aaf067c230e1db::parrot::PARROT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cbc651de-b39f-45c1-9f6b-f42e06e145f3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

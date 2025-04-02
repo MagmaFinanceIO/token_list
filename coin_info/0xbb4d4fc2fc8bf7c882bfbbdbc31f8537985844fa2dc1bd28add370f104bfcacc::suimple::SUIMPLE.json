@@ -1,0 +1,13 @@
+{
+  "name": "Suimple",
+  "symbol": "SUIMPLE",
+  "decimals": 6,
+  "coin_type": "0xbb4d4fc2fc8bf7c882bfbbdbc31f8537985844fa2dc1bd28add370f104bfcacc::suimple::SUIMPLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Suimple_PFP_37f4365051.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

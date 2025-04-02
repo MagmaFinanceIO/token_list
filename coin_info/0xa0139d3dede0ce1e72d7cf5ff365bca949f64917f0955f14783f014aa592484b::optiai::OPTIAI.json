@@ -1,0 +1,13 @@
+{
+  "name": "OPTIMUS AI",
+  "symbol": "OPTIAI",
+  "decimals": 9,
+  "coin_type": "0xa0139d3dede0ce1e72d7cf5ff365bca949f64917f0955f14783f014aa592484b::optiai::OPTIAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8hCUdHmSCvdTSuKM92SPGqUbCyVVervtaWGambAkpump.png?size=lg&key=de5006",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

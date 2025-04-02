@@ -1,0 +1,13 @@
+{
+  "name": "Jiminy Cricket",
+  "symbol": "CHIRP",
+  "decimals": 9,
+  "coin_type": "0xa21d87994bdf72b1d2d6ebae1f6cf8b1236ea516fb673c0f9ef22cf9e28583bb::chirp::CHIRP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/351742d1-4f12-419a-a6db-3b7f7e434765.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

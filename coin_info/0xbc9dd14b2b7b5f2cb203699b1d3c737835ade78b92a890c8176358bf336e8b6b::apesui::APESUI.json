@@ -1,0 +1,13 @@
+{
+  "name": "ApeSUI",
+  "symbol": "ApeSUI",
+  "decimals": 9,
+  "coin_type": "0xbc9dd14b2b7b5f2cb203699b1d3c737835ade78b92a890c8176358bf336e8b6b::apesui::APESUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/772ebb61-b64c-47e4-8ca2-81be4f19c242.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "REXXY",
+  "symbol": "REX",
+  "decimals": 6,
+  "coin_type": "0x7dc2c55cdb4ef45fbc2ac4dc6911320f127ec3db93330b5be5f885daf30f65b0::rex::REX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/REXPFP_To_tx_Crg_400x400_0645c679b7.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

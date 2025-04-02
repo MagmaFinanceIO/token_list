@@ -1,0 +1,13 @@
+{
+  "name": "SUI.BOX",
+  "symbol": "BOX",
+  "decimals": 6,
+  "coin_type": "0x6ef9b1659c45b2af79da0611e44481e73ed37752d182361ebb789c241666d7cf::box::BOX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/lg_f9251d729c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

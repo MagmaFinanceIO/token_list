@@ -1,0 +1,13 @@
+{
+  "name": "MoonShot Mascot",
+  "symbol": "Mooni",
+  "decimals": 9,
+  "coin_type": "0xd6244e9404ad5ee200f8d3db9feeb19fa8970ea1e9268241634db124af525011::mooni::MOONI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/pPpoMxhKQcjxYzDE?width=400&height=400&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

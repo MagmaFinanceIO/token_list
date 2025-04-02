@@ -1,0 +1,13 @@
+{
+  "name": "Monster Sui",
+  "symbol": "MONSTERSUI",
+  "decimals": 9,
+  "coin_type": "0xd6be024b4f89e4e4214d62e31f45dd98525b7992bc3dfd8c7d3297d97c2fc46c::monstersui::MONSTERSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4407a752-a350-4cdd-930b-9e403344b00b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

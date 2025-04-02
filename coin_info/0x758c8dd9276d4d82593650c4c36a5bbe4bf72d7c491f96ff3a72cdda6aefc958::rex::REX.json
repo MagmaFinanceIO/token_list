@@ -1,0 +1,13 @@
+{
+  "name": "REX",
+  "symbol": "REX",
+  "decimals": 9,
+  "coin_type": "0x758c8dd9276d4d82593650c4c36a5bbe4bf72d7c491f96ff3a72cdda6aefc958::rex::REX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b9310d83-1cef-4c72-a4e4-31d5e7a7c072.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

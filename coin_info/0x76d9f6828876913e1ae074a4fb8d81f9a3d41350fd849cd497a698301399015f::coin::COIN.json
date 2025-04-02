@@ -1,0 +1,13 @@
+{
+  "name": "TEST TOKEN",
+  "symbol": "TTKN",
+  "decimals": 6,
+  "coin_type": "0x76d9f6828876913e1ae074a4fb8d81f9a3d41350fd849cd497a698301399015f::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

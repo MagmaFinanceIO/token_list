@@ -1,0 +1,13 @@
+{
+  "name": "Ray on Sui",
+  "symbol": "RAY",
+  "decimals": 6,
+  "coin_type": "0x098c6d94fd309f455f225b388c229af19d5a594497c07ae41933ab53a24f749d::ray::RAY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "http://movepump.xyz/uploads/reay_2_bc3027dfe2.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AAATC",
+  "symbol": "AAA",
+  "decimals": 9,
+  "coin_type": "0xdd95bac1db4c1f4184c06cb4d73abb123604d1e48ca955953b13e1f0905995a2::aaa::AAA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0fdf1e9f-39da-4e72-a3dd-918e818f7875.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

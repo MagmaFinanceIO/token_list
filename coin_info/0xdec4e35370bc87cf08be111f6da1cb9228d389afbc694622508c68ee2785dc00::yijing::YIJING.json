@@ -1,0 +1,13 @@
+{
+  "name": "YIJing",
+  "symbol": "YIJING",
+  "decimals": 6,
+  "coin_type": "0xdec4e35370bc87cf08be111f6da1cb9228d389afbc694622508c68ee2785dc00::yijing::YIJING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/YINYANG_T_Qgk_T1_s_CZ_Ipd_Vo5bps_fed9ebcce0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

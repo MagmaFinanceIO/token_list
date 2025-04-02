@@ -1,0 +1,13 @@
+{
+  "name": "World",
+  "symbol": "WRLD",
+  "decimals": 9,
+  "coin_type": "0xcc222c580564efab06dce2d738e97ee1d2acf3f242016bd188130f9c2a91e067::wrld::WRLD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/955889da-cad4-40af-9d04-4ce0cb00eb72.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

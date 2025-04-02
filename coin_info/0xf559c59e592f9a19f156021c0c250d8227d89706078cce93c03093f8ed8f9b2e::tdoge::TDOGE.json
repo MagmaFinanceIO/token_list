@@ -1,0 +1,13 @@
+{
+  "name": "TRUM D.O.G.E",
+  "symbol": "TDOGE",
+  "decimals": 9,
+  "coin_type": "0xf559c59e592f9a19f156021c0c250d8227d89706078cce93c03093f8ed8f9b2e::tdoge::TDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8360e090-fee4-403e-bf91-c2de65df44c3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

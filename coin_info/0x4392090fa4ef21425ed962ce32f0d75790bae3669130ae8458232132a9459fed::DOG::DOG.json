@@ -1,0 +1,13 @@
+{
+  "name": "Doggy the evil",
+  "symbol": "DOGE",
+  "decimals": 9,
+  "coin_type": "0x4392090fa4ef21425ed962ce32f0d75790bae3669130ae8458232132a9459fed::DOG::DOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6b9f80a7-b13e-4da5-a80b-829b7a367f05.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

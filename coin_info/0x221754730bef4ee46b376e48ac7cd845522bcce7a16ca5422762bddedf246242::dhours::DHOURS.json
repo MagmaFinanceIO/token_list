@@ -1,0 +1,13 @@
+{
+  "name": "Degen Hours",
+  "symbol": "DHOURS",
+  "decimals": 9,
+  "coin_type": "0x221754730bef4ee46b376e48ac7cd845522bcce7a16ca5422762bddedf246242::dhours::DHOURS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Fbos2qoECqHd7igGDvNstzNZGGDgpQDaiKG9o7mMpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

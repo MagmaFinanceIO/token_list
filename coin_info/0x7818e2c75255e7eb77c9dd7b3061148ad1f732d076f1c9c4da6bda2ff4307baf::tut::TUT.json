@@ -1,0 +1,13 @@
+{
+  "name": "turtle",
+  "symbol": "TUT",
+  "decimals": 6,
+  "coin_type": "0x7818e2c75255e7eb77c9dd7b3061148ad1f732d076f1c9c4da6bda2ff4307baf::tut::TUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/83bc1606-f33f-43d9-87ab-178d212fdc11.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

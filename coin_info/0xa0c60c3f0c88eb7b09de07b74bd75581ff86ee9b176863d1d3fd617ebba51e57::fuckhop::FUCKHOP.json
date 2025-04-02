@@ -1,0 +1,13 @@
+{
+  "name": "fuckhopfun",
+  "symbol": "FUCKHOP",
+  "decimals": 6,
+  "coin_type": "0xa0c60c3f0c88eb7b09de07b74bd75581ff86ee9b176863d1d3fd617ebba51e57::fuckhop::FUCKHOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmQvXjD3avEQMvYHXK9qGPA4ixefgNqQXLfyd5PiLz3y35",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

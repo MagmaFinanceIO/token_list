@@ -1,0 +1,13 @@
+{
+  "name": "Confused Pufferfish",
+  "symbol": "CPF",
+  "decimals": 9,
+  "coin_type": "0x54029a6e7a05c2b72eeb87f83270a68b79a6258ef852db99fd233a55828b74b6::cpf::CPF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/397092c8-5676-42f9-b5a7-96de6645d7ac.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

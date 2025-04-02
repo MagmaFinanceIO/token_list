@@ -1,0 +1,13 @@
+{
+  "name": "Blue Pepe Boss",
+  "symbol": "BPEPE",
+  "decimals": 9,
+  "coin_type": "0x24f494fb28ee336eae5d21ba74c4283aa1c1716cb73f544baaa9f4ba7704be6c::bpepe::BPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/baa035d4-8fff-4770-8270-d0c786e85893.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

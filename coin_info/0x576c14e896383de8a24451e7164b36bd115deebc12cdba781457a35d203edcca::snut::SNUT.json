@@ -1,0 +1,13 @@
+{
+  "name": "Seal Squirrel",
+  "symbol": "Snut",
+  "decimals": 6,
+  "coin_type": "0x576c14e896383de8a24451e7164b36bd115deebc12cdba781457a35d203edcca::snut::SNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Snut_401d1ca800.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

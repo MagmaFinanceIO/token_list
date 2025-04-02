@@ -1,0 +1,13 @@
+{
+  "name": "Gene Intelligence",
+  "symbol": "GENE",
+  "decimals": 9,
+  "coin_type": "0x2070090a59f165bd8de4de474b6bd6121b412ad769b8d93fd8a16c58d790b372::gene::GENE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ii2Ud4hPLFibBofubdN8tcoY7EHZQpH2MpkbkStpump.png?size=lg&key=53fe7e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

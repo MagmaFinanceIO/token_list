@@ -1,0 +1,13 @@
+{
+  "name": "🎱KARBON GAMES",
+  "symbol": "KARBON",
+  "decimals": 9,
+  "coin_type": "0xd0911947a82e512b59e845376849d1affc67d8a63cc81c247fb67017b57c12b3::karbon::KARBON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fe8df126-6f35-4055-9ce6-4a81f304bdea.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

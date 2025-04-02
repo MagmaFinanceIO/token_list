@@ -1,0 +1,13 @@
+{
+  "name": "buc",
+  "symbol": "BUC",
+  "decimals": 6,
+  "coin_type": "0x9419bb82182fe74cfdfaf17f5ff78bed519ae66cc1c4d0758d1bbeb439be04d4::buc::BUC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/buc_sui_dd67a9465b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "POSUIDON",
+  "symbol": "POSE",
+  "decimals": 6,
+  "coin_type": "0xafaab10e14dd0276486ce7f68b983a69a0554649deea1c48024ea21b0b568901::pose::POSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pose_17ce759e72.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

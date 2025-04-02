@@ -1,0 +1,13 @@
+{
+  "name": "Wut",
+  "symbol": "WUT",
+  "decimals": 6,
+  "coin_type": "0x6c36f6d35b5832f2da3c6ed611838fc767c04c602dda3cdf29d17f47b9d35619::wut::WUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731422493728.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

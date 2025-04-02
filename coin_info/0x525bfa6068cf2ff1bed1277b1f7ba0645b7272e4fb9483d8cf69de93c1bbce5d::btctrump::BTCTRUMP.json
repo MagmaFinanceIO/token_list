@@ -1,0 +1,13 @@
+{
+  "name": "Bitcoin Trump",
+  "symbol": "BTCTRUMP",
+  "decimals": 9,
+  "coin_type": "0x525bfa6068cf2ff1bed1277b1f7ba0645b7272e4fb9483d8cf69de93c1bbce5d::btctrump::BTCTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FVyjG7Bg2JtWnMCJXCfRX8QH88XEi3H1uCb9hmWNvUMv.png?size=lg&key=456408",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BlemFlarck Coin",
+  "symbol": "BLMFC",
+  "decimals": 9,
+  "coin_type": "0xf79275fb9a75285d0260c22e89911b73db556a881582de9b1b1452f0159a4b13::blmfc::BLMFC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ca80ae4b-be13-4087-9f04-4f0801320f08.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

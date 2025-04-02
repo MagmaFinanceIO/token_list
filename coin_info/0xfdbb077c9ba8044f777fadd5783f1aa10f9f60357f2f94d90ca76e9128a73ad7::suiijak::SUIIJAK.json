@@ -1,0 +1,13 @@
+{
+  "name": "SUIIJAK",
+  "symbol": "SUIIJAK",
+  "decimals": 9,
+  "coin_type": "0xfdbb077c9ba8044f777fadd5783f1aa10f9f60357f2f94d90ca76e9128a73ad7::suiijak::SUIIJAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ee2d45cf-c265-4bf9-9110-cc1f7dd9bafb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

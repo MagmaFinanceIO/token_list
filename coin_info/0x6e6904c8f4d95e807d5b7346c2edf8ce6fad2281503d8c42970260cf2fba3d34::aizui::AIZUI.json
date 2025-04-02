@@ -1,0 +1,13 @@
+{
+  "name": "ai16zui by SuiAI",
+  "symbol": "AIZUI",
+  "decimals": 6,
+  "coin_type": "0x6e6904c8f4d95e807d5b7346c2edf8ce6fad2281503d8c42970260cf2fba3d34::aizui::AIZUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/ai16z_588e7b4c89.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

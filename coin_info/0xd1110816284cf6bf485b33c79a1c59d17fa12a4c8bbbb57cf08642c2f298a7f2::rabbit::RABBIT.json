@@ -1,0 +1,13 @@
+{
+  "name": "RABBIT FACE",
+  "symbol": "RABBIT",
+  "decimals": 6,
+  "coin_type": "0xd1110816284cf6bf485b33c79a1c59d17fa12a4c8bbbb57cf08642c2f298a7f2::rabbit::RABBIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/rabbit.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

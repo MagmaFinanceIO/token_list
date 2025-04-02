@@ -1,0 +1,13 @@
+{
+  "name": "Digital Grass",
+  "symbol": "DG",
+  "decimals": 9,
+  "coin_type": "0xf83f62723d79d8ed2661ee3672d9c7dda2943a4c357d62547a7aa578aa7b373f::dg::DG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3ZDwLFZDg7AYRHF1ktH1RmpGLXE6jvy1vZiWqdDzpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

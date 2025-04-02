@@ -1,0 +1,13 @@
+{
+  "name": "SHIT COIN ON SUI",
+  "symbol": "SHITCOIN",
+  "decimals": 6,
+  "coin_type": "0x8bc12cb71124cd95fef2ae32606a4a67201b9c6afa3aad09ea5cb63b3a117c27::shitcoin::SHITCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_f6fa92d5ff.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

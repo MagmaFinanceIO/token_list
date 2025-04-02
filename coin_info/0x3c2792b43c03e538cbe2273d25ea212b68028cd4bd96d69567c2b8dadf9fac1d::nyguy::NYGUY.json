@@ -1,0 +1,13 @@
+{
+  "name": "NEWYEARGUY",
+  "symbol": "NYGUY",
+  "decimals": 6,
+  "coin_type": "0x3c2792b43c03e538cbe2273d25ea212b68028cd4bd96d69567c2b8dadf9fac1d::nyguy::NYGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/eng412w_A_400x400_e014bff2e6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

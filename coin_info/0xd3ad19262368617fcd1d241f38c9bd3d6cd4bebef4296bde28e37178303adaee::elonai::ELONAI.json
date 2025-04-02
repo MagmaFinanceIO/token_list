@@ -1,0 +1,13 @@
+{
+  "name": "Elon AI Agent",
+  "symbol": "ElonAI",
+  "decimals": 9,
+  "coin_type": "0xd3ad19262368617fcd1d241f38c9bd3d6cd4bebef4296bde28e37178303adaee::elonai::ELONAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7LDFULh7GWS3SdvCPSoswFyh4zmNX3b4NpzsqPF7NcUg.png?size=lg&key=bdfb59",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

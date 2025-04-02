@@ -1,0 +1,13 @@
+{
+  "name": "Tetaman",
+  "symbol": "MAN",
+  "decimals": 9,
+  "coin_type": "0xfd39043886abe284988cf9a92b854d2c30ded8d1bafde18b4464b409d5ccffbd::tetaman::TETAMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreicw5qvnj67wahprenfowdiy464jhceficczjkutxyxojwe2atbkvi.ipfs.w3s.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Penguins",
+  "symbol": "Penguins",
+  "decimals": 6,
+  "coin_type": "0x5a84aa0906af88af4d5d1281841b8943162ae8668cc3d068c39807a7f130cb72::penguins::PENGUINS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn11.bigcommerce.com/s-u0v3cvo4an/images/stencil/598x336/products/16248/34186/big_icon__66853.1601797171.png?c=1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

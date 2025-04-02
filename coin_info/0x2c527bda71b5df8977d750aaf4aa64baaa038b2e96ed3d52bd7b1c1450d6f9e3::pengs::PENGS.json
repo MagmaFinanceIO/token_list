@@ -1,0 +1,13 @@
+{
+  "name": "PENGSQUAD",
+  "symbol": "PENGS",
+  "decimals": 6,
+  "coin_type": "0x2c527bda71b5df8977d750aaf4aa64baaa038b2e96ed3d52bd7b1c1450d6f9e3::pengs::PENGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/444_04516059ca.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIPUMP",
+  "symbol": "SUIPUMP",
+  "decimals": 9,
+  "coin_type": "0xf15ba613d83e605fb71a2705c4a2c083227778a143a204fbf6a214ec7384f1aa::suipump::SUIPUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Baby X",
+  "symbol": "BABYX",
+  "decimals": 9,
+  "coin_type": "0xed365fa801214ff2fe630df8561bde4c834c35f578b6b8966ba71adf4538b4e3::babyx::BABYX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5cofM8ErTR3D4gx4vvS6rPQSkVFDhf7ThuPFhNgP3LZV.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "LandWolfy",
+  "symbol": "Wolfy",
+  "decimals": 9,
+  "coin_type": "0x0a2dc9a223422fa3a853622c69cfe087bab7e1a1cac4e5be8955e79098c28fdc::wolfy::WOLFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/552ac6cf-9c14-4fd7-8df9-3724cc74563a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

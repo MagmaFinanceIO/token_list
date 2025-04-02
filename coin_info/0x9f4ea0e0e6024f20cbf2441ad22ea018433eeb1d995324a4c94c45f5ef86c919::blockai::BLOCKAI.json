@@ -1,0 +1,13 @@
+{
+  "name": "block",
+  "symbol": "blockAI",
+  "decimals": 9,
+  "coin_type": "0x9f4ea0e0e6024f20cbf2441ad22ea018433eeb1d995324a4c94c45f5ef86c919::blockai::BLOCKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6CcuCL1LESQqTznT6wi9kjLPnAZs6b4GM1D1GeS8pump.png?size=lg&key=fe9698",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

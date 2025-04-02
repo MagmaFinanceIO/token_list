@@ -1,0 +1,13 @@
+{
+  "name": "SUI MADE IN AMERICA",
+  "symbol": "SMIA",
+  "decimals": 6,
+  "coin_type": "0x8ab2f591ef06b3ed136e91b862a6fd0530d80235113d4e7c2688ffd9e0334b92::smia::SMIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_8f1c6d32ab.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SPONGY",
+  "symbol": "SPONGY",
+  "decimals": 9,
+  "coin_type": "0xebede6d9edf315c237bf916afa38d51803a5c1793a8212b4c1edf3c899bacc90::spongy::SPONGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/acdfeb82-15ab-43cb-948e-711828df929e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

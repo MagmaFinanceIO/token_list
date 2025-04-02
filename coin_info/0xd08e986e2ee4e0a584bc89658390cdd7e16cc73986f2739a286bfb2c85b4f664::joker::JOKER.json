@@ -1,0 +1,13 @@
+{
+  "name": "Joker Movie",
+  "symbol": "JOKER",
+  "decimals": 9,
+  "coin_type": "0xd08e986e2ee4e0a584bc89658390cdd7e16cc73986f2739a286bfb2c85b4f664::joker::JOKER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7g8SxfUwZHpVrDK6b3TQGhH5pM9fpCH8AR9xNuMtpump.png?size=lg&key=b11a31",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

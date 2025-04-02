@@ -1,0 +1,13 @@
+{
+  "name": "Tired Mom",
+  "symbol": "TiredMoms",
+  "decimals": 9,
+  "coin_type": "0xfb86ce96ba6a1487f978029b719e52f23b03cbde8f65b894e267d0214fbfe210::tiredmoms::TIREDMOMS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/XzJmvwT9vsgZNsCxxLUAdazM1ZyXbS1BabQtt8spump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

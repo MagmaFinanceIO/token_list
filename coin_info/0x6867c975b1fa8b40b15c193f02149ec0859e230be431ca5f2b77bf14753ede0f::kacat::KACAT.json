@@ -1,0 +1,13 @@
+{
+  "name": "Kamala Harris Cat",
+  "symbol": "KACAT",
+  "decimals": 9,
+  "coin_type": "0x6867c975b1fa8b40b15c193f02149ec0859e230be431ca5f2b77bf14753ede0f::kacat::KACAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/84589a1f-0f89-4038-a737-e7b3719ec231.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

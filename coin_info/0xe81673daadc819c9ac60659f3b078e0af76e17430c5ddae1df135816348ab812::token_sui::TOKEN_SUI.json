@@ -1,0 +1,13 @@
+{
+  "name": "EyeLink Tech",
+  "symbol": "EyeLink",
+  "decimals": 9,
+  "coin_type": "0xe81673daadc819c9ac60659f3b078e0af76e17430c5ddae1df135816348ab812::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dribbble.com/userupload/10664805/file/original-ec08f23b2f89de6afed4b45ccd907b6b.png?resize=1024x768",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

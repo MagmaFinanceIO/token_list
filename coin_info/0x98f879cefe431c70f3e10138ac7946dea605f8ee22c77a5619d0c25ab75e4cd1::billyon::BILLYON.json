@@ -1,0 +1,13 @@
+{
+  "name": "BILLYON",
+  "symbol": "BILLYON",
+  "decimals": 9,
+  "coin_type": "0x98f879cefe431c70f3e10138ac7946dea605f8ee22c77a5619d0c25ab75e4cd1::billyon::BILLYON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2VjBmJQ31eyFdyoadZ6dYc7kTVJZKZGxDx4DW4p2pump.png?size=lg&key=6bbe98",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

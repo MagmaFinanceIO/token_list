@@ -1,0 +1,13 @@
+{
+  "name": "PEPE on Sui",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "coin_type": "0x563889f69ff757a98fe57fbefe2a168769817074af545949ee7312daebf523cc::pepe::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

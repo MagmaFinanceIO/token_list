@@ -1,0 +1,13 @@
+{
+  "name": "Robinhood Dog",
+  "symbol": "HOODDOG",
+  "decimals": 9,
+  "coin_type": "0xfab055e77ef84248086c959f3f332f78a6632b049a34b59dc3a30630d6262ff1::hooddog::HOODDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/y1SLkmNpJXgAwPk4yBxc6jvWb5yVVBsnkUngmibHooD.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

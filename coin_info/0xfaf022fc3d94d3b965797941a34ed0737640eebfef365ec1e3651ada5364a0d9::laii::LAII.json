@@ -1,0 +1,13 @@
+{
+  "name": "LION-AIR",
+  "symbol": "LAII",
+  "decimals": 9,
+  "coin_type": "0xfaf022fc3d94d3b965797941a34ed0737640eebfef365ec1e3651ada5364a0d9::laii::LAII",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/58572753-6315-483b-94ed-7ebecd379249.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

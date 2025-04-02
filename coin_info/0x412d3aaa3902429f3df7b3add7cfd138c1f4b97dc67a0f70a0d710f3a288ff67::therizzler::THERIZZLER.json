@@ -1,0 +1,13 @@
+{
+  "name": "THE RIZZLER",
+  "symbol": "THERIZZLER",
+  "decimals": 9,
+  "coin_type": "0x412d3aaa3902429f3df7b3add7cfd138c1f4b97dc67a0f70a0d710f3a288ff67::therizzler::THERIZZLER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BCm8rzex8G15vhxDNud4X3DRibjyoUUP8f2bQopspump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

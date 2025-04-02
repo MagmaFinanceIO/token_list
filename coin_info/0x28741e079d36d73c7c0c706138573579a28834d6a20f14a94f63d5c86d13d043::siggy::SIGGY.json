@@ -1,0 +1,13 @@
+{
+  "name": "SIGGY SUI",
+  "symbol": "SIGGY",
+  "decimals": 6,
+  "coin_type": "0x28741e079d36d73c7c0c706138573579a28834d6a20f14a94f63d5c86d13d043::siggy::SIGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7951_fe4ea283af.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

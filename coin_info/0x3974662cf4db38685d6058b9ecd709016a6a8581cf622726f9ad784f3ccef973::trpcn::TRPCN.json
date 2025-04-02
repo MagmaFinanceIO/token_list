@@ -1,0 +1,13 @@
+{
+  "name": "Trump Coin",
+  "symbol": "TRPCN",
+  "decimals": 9,
+  "coin_type": "0x3974662cf4db38685d6058b9ecd709016a6a8581cf622726f9ad784f3ccef973::trpcn::TRPCN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/26fd963c-c43e-48f0-8091-b9decb6a3ed3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

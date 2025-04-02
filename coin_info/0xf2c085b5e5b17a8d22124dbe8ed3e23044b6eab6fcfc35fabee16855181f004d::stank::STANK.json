@@ -1,0 +1,13 @@
+{
+  "name": "Stank Memes",
+  "symbol": "STANK",
+  "decimals": 9,
+  "coin_type": "0xf2c085b5e5b17a8d22124dbe8ed3e23044b6eab6fcfc35fabee16855181f004d::stank::STANK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5yptSfbPdg16eKeGQXfrPVC5muVkjQWnbNcx7VDVpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

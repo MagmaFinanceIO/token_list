@@ -1,0 +1,13 @@
+{
+  "name": "Jayden Coin",
+  "symbol": "JYDNC",
+  "decimals": 9,
+  "coin_type": "0xe6d7846307c64d541c0761263397679a4acbff4909fb7a0ef46c97aa540917ec::jydnc::JYDNC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/afa27f66-b304-4b2e-be6f-4d3c3a739328.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

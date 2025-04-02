@@ -1,0 +1,13 @@
+{
+  "name": "Sphere AI",
+  "symbol": "SPHERE",
+  "decimals": 9,
+  "coin_type": "0x83a9f76bc622d8d723168a52cc77645781b7b973f9ab780dfa201e0b1d41dfb6::sphere::SPHERE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/NuSvbWzz2QaqepZSyj8MhyvVv1E4W9AxnSge7G8pump.png?size=lg&key=ff6f48",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

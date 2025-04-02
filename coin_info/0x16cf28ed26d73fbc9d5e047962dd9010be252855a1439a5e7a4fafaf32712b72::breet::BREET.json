@@ -1,0 +1,13 @@
+{
+  "name": "BREET",
+  "symbol": "BREET",
+  "decimals": 9,
+  "coin_type": "0x16cf28ed26d73fbc9d5e047962dd9010be252855a1439a5e7a4fafaf32712b72::breet::BREET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/718ce65c-cff5-4afa-acc6-15033f2d150a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

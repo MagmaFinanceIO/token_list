@@ -1,0 +1,13 @@
+{
+  "name": "Trump Goat",
+  "symbol": "TrumpGoat",
+  "decimals": 9,
+  "coin_type": "0xa056b345b9cd4064190d97b0d17eb34cebf5ab36b624570ff3c0c9874ab7f091::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B8VaNyBEG66r3po77B4m8vAjr5YpxwDRjc5jJfuw9YgX.png?size=xl&key=22483d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

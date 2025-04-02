@@ -1,0 +1,13 @@
+{
+  "name": "AWKWARD SEAL",
+  "symbol": "SUIL",
+  "decimals": 6,
+  "coin_type": "0x4c058179be18cbadb56c27357e16a5ef18e33ec8cf49cc30cf3b45d8d420750e::suil::SUIL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/4_CA_3_FF_8_2_310859d721.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

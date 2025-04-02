@@ -1,0 +1,13 @@
+{
+  "name": "STORAGENT",
+  "symbol": "STORAGENT",
+  "decimals": 9,
+  "coin_type": "0xaf4a8f10babcf85d65b6cff8d82f19ff4a158ad27234ec4730298468dd0993fc::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

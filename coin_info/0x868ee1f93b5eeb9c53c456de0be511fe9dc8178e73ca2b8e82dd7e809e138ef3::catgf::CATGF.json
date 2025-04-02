@@ -1,0 +1,13 @@
+{
+  "name": "Cat Girl",
+  "symbol": "CATGF",
+  "decimals": 9,
+  "coin_type": "0x868ee1f93b5eeb9c53c456de0be511fe9dc8178e73ca2b8e82dd7e809e138ef3::catgf::CATGF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GVwpWU5PtJFHS1mH35sHmsRN1XWUwRV3Qo94h5Lepump.png?size=xl&key=3d22e6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mao Cat on Sui",
+  "symbol": "MAOCAT",
+  "decimals": 6,
+  "coin_type": "0x6f420f32143ebfaaefd1b0bf31c7ad9783fccebc0e81e91912d78d2aede7976b::maocat::MAOCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_29_14dc81c30c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

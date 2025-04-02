@@ -1,0 +1,13 @@
+{
+  "name": "PEPE POPO INU",
+  "symbol": "PEPOPO",
+  "decimals": 9,
+  "coin_type": "0xcb9b1232c5552db9b33f63ea1d91854acc587c267b0b6347c3b37be3f04cf414::pepopo::PEPOPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b0901b75-00d9-463f-b583-3d5ca1cbe6e9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

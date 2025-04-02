@@ -1,0 +1,13 @@
+{
+  "name": "TheLazyWhale",
+  "symbol": "WHL",
+  "decimals": 9,
+  "coin_type": "0x0eb550024351c20e476cfb7423b0e0549e73466fcc43448e3fd1397e5f249e74::whl::WHL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/74eb7db9-0888-49ee-8b60-c6353237171b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

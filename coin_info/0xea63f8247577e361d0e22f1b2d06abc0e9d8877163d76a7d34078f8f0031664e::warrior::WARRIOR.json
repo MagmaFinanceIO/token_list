@@ -1,0 +1,13 @@
+{
+  "name": "Warrior",
+  "symbol": "WARRIOR",
+  "decimals": 6,
+  "coin_type": "0xea63f8247577e361d0e22f1b2d06abc0e9d8877163d76a7d34078f8f0031664e::warrior::WARRIOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Rn_Gm_Leh_E4_E_Np_Tx_D3f5pza_D_Gw_Kp_WU_Cy4_Vjv_Tuarjqsqo6_1_f5a8baa1f9.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

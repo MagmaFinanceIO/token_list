@@ -1,0 +1,13 @@
+{
+  "name": "Tesla Robotaxi",
+  "symbol": "Robotaxi",
+  "decimals": 6,
+  "coin_type": "0xb9eaef8fcbd7445494a475cdea0496dbea8ce983ec23d91586d2d0aae60749cf::robotaxi::ROBOTAXI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://silver-urgent-porpoise-620.mypinata.cloud/ipfs/QmYyjBLXMkGn3uxo53kKSJDRZTAgkFJbTct1ButT1tkcjJ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

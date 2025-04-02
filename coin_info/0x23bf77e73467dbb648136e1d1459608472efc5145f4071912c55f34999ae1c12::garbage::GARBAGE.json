@@ -1,0 +1,13 @@
+{
+  "name": "Garbage",
+  "symbol": "GARBAGE",
+  "decimals": 6,
+  "coin_type": "0x23bf77e73467dbb648136e1d1459608472efc5145f4071912c55f34999ae1c12::garbage::GARBAGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000074361_889dae99be.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

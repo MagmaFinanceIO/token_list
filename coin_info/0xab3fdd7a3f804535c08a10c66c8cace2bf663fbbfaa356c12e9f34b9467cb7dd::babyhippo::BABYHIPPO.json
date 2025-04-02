@@ -1,0 +1,13 @@
+{
+  "name": "BabySudeng",
+  "symbol": "BABYHIPPO",
+  "decimals": 6,
+  "coin_type": "0xab3fdd7a3f804535c08a10c66c8cace2bf663fbbfaa356c12e9f34b9467cb7dd::babyhippo::BABYHIPPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731498014433.41",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

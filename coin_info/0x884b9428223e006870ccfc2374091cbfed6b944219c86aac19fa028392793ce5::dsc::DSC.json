@@ -1,0 +1,13 @@
+{
+  "name": "DeepSeek Coin",
+  "symbol": "DSC",
+  "decimals": 9,
+  "coin_type": "0x884b9428223e006870ccfc2374091cbfed6b944219c86aac19fa028392793ce5::dsc::DSC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/2847ba37bb26452a29f24ddcd2cad779blob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

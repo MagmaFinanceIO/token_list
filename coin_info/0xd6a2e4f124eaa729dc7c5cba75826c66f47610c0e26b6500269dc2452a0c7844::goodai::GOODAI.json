@@ -1,0 +1,13 @@
+{
+  "name": "Loyal AGI",
+  "symbol": "GOODAI",
+  "decimals": 8,
+  "coin_type": "0xd6a2e4f124eaa729dc7c5cba75826c66f47610c0e26b6500269dc2452a0c7844::goodai::GOODAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/225e39a6-353d-4a31-acb8-ef19a7878461.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "act",
+  "symbol": "ACT",
+  "decimals": 2,
+  "coin_type": "0xce59dce66e81dd53bae4a4bd6de1c72968cf2ea582c5f07d0f9d34a71bd52518::ACT::ACT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/dRLuTPyD92yyLzYXGGH91xUfPgxNFi00PhcVaLJ2Ch0?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

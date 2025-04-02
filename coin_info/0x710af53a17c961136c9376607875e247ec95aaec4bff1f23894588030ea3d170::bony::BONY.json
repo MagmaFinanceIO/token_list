@@ -1,0 +1,13 @@
+{
+  "name": "Santa's Little Helper",
+  "symbol": "BONY",
+  "decimals": 9,
+  "coin_type": "0x710af53a17c961136c9376607875e247ec95aaec4bff1f23894588030ea3d170::bony::BONY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4uKBAi232T5Zb9hLkerN3LX37z4JfPh4SWkd39Tcpump.png?size=lg&key=c256f4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

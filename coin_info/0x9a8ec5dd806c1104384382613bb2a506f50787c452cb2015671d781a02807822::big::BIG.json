@@ -1,0 +1,13 @@
+{
+  "name": "Big",
+  "symbol": "Big",
+  "decimals": 9,
+  "coin_type": "0x9a8ec5dd806c1104384382613bb2a506f50787c452cb2015671d781a02807822::big::BIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "THE PENGU KILLER",
+  "symbol": "ORCA",
+  "decimals": 9,
+  "coin_type": "0x417548f1301745b96a6f22c349a4627f5911f024842a311487f6092e0b5b2b69::orca::ORCA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5HyZiyaSsQt8VZBAJcULZhtykiVmkAkWLiQJCER9pump.png?size=lg&key=61950b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

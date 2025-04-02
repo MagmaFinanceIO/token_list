@@ -1,0 +1,13 @@
+{
+  "name": "sSCA",
+  "symbol": "sSCA",
+  "decimals": 9,
+  "coin_type": "0x5ca17430c1d046fae9edeaa8fd76c7b4193a00d764a0ecfa9418d733ad27bc1e::scallop_sca::SCALLOP_SCA",
+  "pyth_id": "",
+  "birdeyeid": "0x5ca17430c1d046fae9edeaa8fd76c7b4193a00d764a0ecfa9418d733ad27bc1e::scallop_sca::SCALLOP_SCA",
+  "coin_priority": [],
+  "logo_url": "https://gateway.irys.xyz/6HrUJbgHzoHMq952F1PG36L94BQkuyjnqAjfPLo3hJ3D",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

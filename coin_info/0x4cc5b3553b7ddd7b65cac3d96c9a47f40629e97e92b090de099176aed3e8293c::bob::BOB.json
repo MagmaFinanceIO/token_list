@@ -1,0 +1,13 @@
+{
+  "name": "SUI BOB",
+  "symbol": "BOB",
+  "decimals": 1,
+  "coin_type": "0x4cc5b3553b7ddd7b65cac3d96c9a47f40629e97e92b090de099176aed3e8293c::bob::BOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/95125c06-ef2f-4b52-a528-1f0fc79a5b94.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ISUI",
+  "symbol": "ISUI",
+  "decimals": 9,
+  "coin_type": "0xd6a6ffbee4ef4def391833134b55bb118ffe79e93f9455ee10da710aa6995f92::ISUI::ISUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

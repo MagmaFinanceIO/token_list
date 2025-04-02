@@ -1,0 +1,13 @@
+{
+  "name": "Patience",
+  "symbol": "PATIENCE",
+  "decimals": 9,
+  "coin_type": "0x33d6d4e4844a9efdafd7c46efe66009a20bf2d4b06657bee70ad3d44e7eadb78::patience::PATIENCE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d748c68f-cdc9-442c-8610-bb578338fb85.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

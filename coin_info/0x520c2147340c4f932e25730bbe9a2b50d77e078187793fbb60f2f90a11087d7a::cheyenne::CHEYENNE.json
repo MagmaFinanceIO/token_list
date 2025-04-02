@@ -1,0 +1,13 @@
+{
+  "name": "Cheyenne",
+  "symbol": "Cheyenne",
+  "decimals": 9,
+  "coin_type": "0x520c2147340c4f932e25730bbe9a2b50d77e078187793fbb60f2f90a11087d7a::cheyenne::CHEYENNE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qmet2g7BaHGWDxQ4uGv4vmLbZyTmfVqUA2Dbiw63vZSguh",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

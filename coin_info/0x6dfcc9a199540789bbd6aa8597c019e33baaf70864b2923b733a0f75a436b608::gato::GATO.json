@@ -1,0 +1,13 @@
+{
+  "name": "El Gato",
+  "symbol": "Gato",
+  "decimals": 9,
+  "coin_type": "0x6dfcc9a199540789bbd6aa8597c019e33baaf70864b2923b733a0f75a436b608::gato::GATO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bfda5a5e-6efe-4f5b-972d-b74485033533.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

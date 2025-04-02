@@ -1,0 +1,13 @@
+{
+  "name": "MESSI COIN ON SUI",
+  "symbol": "MESSUI",
+  "decimals": 6,
+  "coin_type": "0x19eb3f233b61f3e7911a5bd5fc699b6fd3cd2dae50a670ede5cc3542567be21a::messui::MESSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/64142948_804_2f578db036.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Harambe",
+  "symbol": "HrMB",
+  "decimals": 9,
+  "coin_type": "0x05a3da5be6a7ed3cf01975c7c34033f568bb1a8181869a5b8a4edf23545bc7de::hrmb::HRMB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5d74646d-f81d-4c57-a7d7-b305f2b9514b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

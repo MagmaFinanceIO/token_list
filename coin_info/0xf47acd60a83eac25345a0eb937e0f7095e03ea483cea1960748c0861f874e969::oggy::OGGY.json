@@ -1,0 +1,13 @@
+{
+  "name": "Oggy The Cat",
+  "symbol": "OGGY",
+  "decimals": 6,
+  "coin_type": "0xf47acd60a83eac25345a0eb937e0f7095e03ea483cea1960748c0861f874e969::oggy::OGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/65161382_652435525184445_7012340031268323328_n_09_16_25_16_f71380de1e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

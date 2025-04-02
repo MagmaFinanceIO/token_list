@@ -1,0 +1,13 @@
+{
+  "name": "POGGYSUI",
+  "symbol": "POGGY",
+  "decimals": 9,
+  "coin_type": "0x0fe7c047242e4d37541da49ed4a5bed2c25ae3e84b2a27d3b86c2238db19753a::poggy::POGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/47552ddf-5ce2-4954-9ce2-cad0a0ce2c93.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "angry cat's",
+  "symbol": "Angrycats",
+  "decimals": 6,
+  "coin_type": "0x47d288b4df268a53f01fa1ee1b1b47caa630b17df39eea3b977a6a67eadde52a::angrycats::ANGRYCATS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "http://movepump.xyz/uploads/photo_2024_09_20_15_20_33_1277e7697b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

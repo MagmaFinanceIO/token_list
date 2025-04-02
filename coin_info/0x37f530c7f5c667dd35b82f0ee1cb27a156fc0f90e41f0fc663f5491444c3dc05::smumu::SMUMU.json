@@ -1,0 +1,13 @@
+{
+  "name": "MUMU",
+  "symbol": "SMUMU",
+  "decimals": 6,
+  "coin_type": "0x37f530c7f5c667dd35b82f0ee1cb27a156fc0f90e41f0fc663f5491444c3dc05::smumu::SMUMU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7745_9260fd5589.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

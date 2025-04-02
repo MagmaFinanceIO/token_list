@@ -1,0 +1,13 @@
+{
+  "name": "The first cute formless monster on sui",
+  "symbol": "SLIME",
+  "decimals": 6,
+  "coin_type": "0x15410b9698fa4bea0b93808ef1fcabaaf9ce84fe1d5d26dcab422718569cd838::slime::SLIME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_15_14_33_51_62e4b2f14f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

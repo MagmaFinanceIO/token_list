@@ -1,0 +1,13 @@
+{
+  "name": "sot",
+  "symbol": "SOT",
+  "decimals": 6,
+  "coin_type": "0x8b1d0108f63a2304db41189c77fb0baaa2646ea3e1b2561f668d24e491583eff::sot::SOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Stigmiotypo_othonis_12_0e2364e435.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

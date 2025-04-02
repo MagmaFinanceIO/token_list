@@ -1,0 +1,13 @@
+{
+  "name": "SUIRFS",
+  "symbol": "Suirf",
+  "decimals": 9,
+  "coin_type": "0xc9dfe112bc4a588930127c1c2ac2da11bcd768dd574e3fdff706de633c03cc30::suirf::SUIRF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6f7b99c0-515b-4c6c-92c1-1cc1c67b2029.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

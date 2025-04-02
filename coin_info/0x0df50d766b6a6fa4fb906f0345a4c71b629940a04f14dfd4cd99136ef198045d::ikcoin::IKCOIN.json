@@ -1,0 +1,13 @@
+{
+  "name": "Imran Khan Coin 2024",
+  "symbol": "IKCoin",
+  "decimals": 8,
+  "coin_type": "0x0df50d766b6a6fa4fb906f0345a4c71b629940a04f14dfd4cd99136ef198045d::ikcoin::IKCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/14ee3b66-c360-4107-b30d-8afed11f418a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

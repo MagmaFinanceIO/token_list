@@ -1,0 +1,13 @@
+{
+  "name": "Suihuahua",
+  "symbol": "SUIHUAHUA",
+  "decimals": 9,
+  "coin_type": "0x99f4ec14a8e4f18864abdb8223902541eadf22ea64fafc388fc929922ec157a0::suihuahua::SUIHUAHUA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/10fae07b-bcf2-4617-b03e-399a95712fc4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

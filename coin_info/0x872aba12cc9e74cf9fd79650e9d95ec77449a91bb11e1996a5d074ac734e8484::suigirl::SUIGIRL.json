@@ -1,0 +1,13 @@
+{
+  "name": "Sui Girl",
+  "symbol": "SUIGIRL",
+  "decimals": 9,
+  "coin_type": "0x872aba12cc9e74cf9fd79650e9d95ec77449a91bb11e1996a5d074ac734e8484::suigirl::SUIGIRL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://aquamarine-giant-muskox-172.mypinata.cloud/ipfs/QmXU1vQ1TzuMoXT7adNigQ4Een1v6NBmBTf1ipMMqKvi2y",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

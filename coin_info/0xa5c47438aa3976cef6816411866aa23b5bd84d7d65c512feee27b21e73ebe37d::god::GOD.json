@@ -1,0 +1,13 @@
+{
+  "name": "GUARDIAN OF DOGS",
+  "symbol": "GOD",
+  "decimals": 9,
+  "coin_type": "0xa5c47438aa3976cef6816411866aa23b5bd84d7d65c512feee27b21e73ebe37d::god::GOD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HeDLj59gUHSG2Btg3FCqHudrBvBxkujtLAyiTtGgxbbP.png?size=lg&key=10b6d9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

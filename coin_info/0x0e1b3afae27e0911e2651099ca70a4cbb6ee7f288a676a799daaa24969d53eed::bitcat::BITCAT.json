@@ -1,0 +1,13 @@
+{
+  "name": "Bitcat",
+  "symbol": "BITCAT",
+  "decimals": 9,
+  "coin_type": "0x0e1b3afae27e0911e2651099ca70a4cbb6ee7f288a676a799daaa24969d53eed::bitcat::BITCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5Fy2HmXM8FFMgujDDD5WEF6LQzSz39fe1CiHhuTv3qbY.png?size=lg&key=0eb3d3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

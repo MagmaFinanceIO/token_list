@@ -1,0 +1,13 @@
+{
+  "name": "Blue Cats",
+  "symbol": "BLUECAT",
+  "decimals": 9,
+  "coin_type": "0x3c4ffbeb6b457651c03d3a78bf37866eb5942a5fd9fa3b732d9da6c7acbfaf2c::bluecat::BLUECAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1844717022367948800/turikGoa.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

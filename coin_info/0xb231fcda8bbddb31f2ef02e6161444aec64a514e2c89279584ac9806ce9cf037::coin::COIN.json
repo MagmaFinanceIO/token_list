@@ -1,0 +1,15 @@
+{
+  "name": "USD Coin (Portal from Solana)",
+  "symbol": "USDCsol",
+  "decimals": 6,
+  "coin_type": "0xb231fcda8bbddb31f2ef02e6161444aec64a514e2c89279584ac9806ce9cf037::coin::COIN",
+  "pyth_id": "eaa020c61cc479712813461ce153894a96a6c00b21ed0cfc2798d1f9a9e9c94a",
+  "birdeyeid": "0xb231fcda8bbddb31f2ef02e6161444aec64a514e2c89279584ac9806ce9cf037::coin::COIN",
+  "coin_priority": [
+    "870"
+  ],
+  "logo_url": "https://ln5rjzkrzlcrgctsbxebvz7gjhbngu7eqk5orymuktocmbgwn5oa.arweave.net/W3sU5VHKxRMKcg3IGufmScLTU-SCuujhlFTcJgTWb1w",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

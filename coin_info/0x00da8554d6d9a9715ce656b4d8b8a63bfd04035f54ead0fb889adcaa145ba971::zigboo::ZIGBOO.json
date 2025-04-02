@@ -1,0 +1,13 @@
+{
+  "name": "Ziggy Bun",
+  "symbol": "ZigBoo",
+  "decimals": 9,
+  "coin_type": "0x00da8554d6d9a9715ce656b4d8b8a63bfd04035f54ead0fb889adcaa145ba971::zigboo::ZIGBOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d6bcaa96-043c-47d0-9d18-92be4025f4f8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

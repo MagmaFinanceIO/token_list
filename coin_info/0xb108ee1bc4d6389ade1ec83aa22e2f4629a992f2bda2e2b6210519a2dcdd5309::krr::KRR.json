@@ -1,0 +1,13 @@
+{
+  "name": "KRR",
+  "symbol": "KRR",
+  "decimals": 9,
+  "coin_type": "0xb108ee1bc4d6389ade1ec83aa22e2f4629a992f2bda2e2b6210519a2dcdd5309::krr::KRR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2SNstbEYVEn2iTNQyZHKGzgTPZwBgnujwKa8hn5opump.png?size=lg&key=16c90b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

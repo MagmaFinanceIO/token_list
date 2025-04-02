@@ -1,0 +1,13 @@
+{
+  "name": "REAL GANGS ON SUI",
+  "symbol": "GANGS",
+  "decimals": 6,
+  "coin_type": "0xc65164b07816b999711f193b445c526eb219c3566cfe03a6ebd1322fa1f5d61c::gangs::GANGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_8_707480d774.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

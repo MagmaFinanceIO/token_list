@@ -1,0 +1,13 @@
+{
+  "name": "Elon doge",
+  "symbol": "EDOGE",
+  "decimals": 9,
+  "coin_type": "0xda08c2b3ce6f04ee571867dd8142f31466f202a7dfb5223d6fbd9d098d82c235::edoge::EDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4a18be0f-82e2-425b-b199-72bf6d3bb8bf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

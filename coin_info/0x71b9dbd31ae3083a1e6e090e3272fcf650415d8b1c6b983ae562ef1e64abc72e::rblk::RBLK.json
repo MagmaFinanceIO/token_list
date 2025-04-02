@@ -1,0 +1,13 @@
+{
+  "name": "Rollblock",
+  "symbol": "RBLK",
+  "decimals": 9,
+  "coin_type": "0x71b9dbd31ae3083a1e6e090e3272fcf650415d8b1c6b983ae562ef1e64abc72e::rblk::RBLK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Fhj9vrBnJo6PEyPE2vUP6ZXc4Mkrba2r3XXi5hED5HGP.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Happy Bird",
+  "symbol": "HAPPYBIRD",
+  "decimals": 6,
+  "coin_type": "0x53d1de6a417ae12b262265c51033870de6834d5301740a7918191eb56b988aff::happybird::HAPPYBIRD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://f4.bcbits.com/img/a4226911043_10.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

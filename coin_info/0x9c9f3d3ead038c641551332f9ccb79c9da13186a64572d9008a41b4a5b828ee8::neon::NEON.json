@@ -1,0 +1,13 @@
+{
+  "name": "NEON KILL SWITCH",
+  "symbol": "NEON",
+  "decimals": 9,
+  "coin_type": "0x9c9f3d3ead038c641551332f9ccb79c9da13186a64572d9008a41b4a5b828ee8::neon::NEON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4WzpQDgjTvvwuu9txZJw3549sHsPkvYWmJ3kCPDZpump.png?size=lg&key=364089",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

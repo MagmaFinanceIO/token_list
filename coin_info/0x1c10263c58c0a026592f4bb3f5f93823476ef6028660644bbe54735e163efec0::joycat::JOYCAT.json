@@ -1,0 +1,13 @@
+{
+  "name": "JoyCat",
+  "symbol": "Joycat",
+  "decimals": 6,
+  "coin_type": "0x1c10263c58c0a026592f4bb3f5f93823476ef6028660644bbe54735e163efec0::joycat::JOYCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/01_FEE_2_E7_006_D_4_C54_A96_D_9_AF_571_BDCB_82_a345d65a84.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

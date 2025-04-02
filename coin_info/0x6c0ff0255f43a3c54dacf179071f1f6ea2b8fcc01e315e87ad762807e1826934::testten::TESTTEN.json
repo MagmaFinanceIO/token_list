@@ -1,0 +1,13 @@
+{
+  "name": "Test10",
+  "symbol": "TEstten",
+  "decimals": 10,
+  "coin_type": "0x6c0ff0255f43a3c54dacf179071f1f6ea2b8fcc01e315e87ad762807e1826934::testten::TESTTEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/43e76929-953f-4ed1-888b-c78f900f47f2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

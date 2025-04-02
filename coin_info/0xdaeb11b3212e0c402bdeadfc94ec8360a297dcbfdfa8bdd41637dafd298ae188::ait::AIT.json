@@ -1,0 +1,13 @@
+{
+  "name": "Aeonbit",
+  "symbol": "AIT",
+  "decimals": 6,
+  "coin_type": "0xdaeb11b3212e0c402bdeadfc94ec8360a297dcbfdfa8bdd41637dafd298ae188::ait::AIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6311_b4aa42c5f1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

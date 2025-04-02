@@ -1,0 +1,13 @@
+{
+  "name": "Shiba Inu Dog Business",
+  "symbol": "SIDB",
+  "decimals": 9,
+  "coin_type": "0x0f4bc426d1a56339bee4a549002bb6b29d05c3ab89823fd9070476b74b30e07f::sidb::SIDB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/132ce0b0-15eb-488c-b1a2-6f62a2d618b8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

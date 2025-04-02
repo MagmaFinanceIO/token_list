@@ -1,0 +1,13 @@
+{
+  "name": "Sea Pump 🌊",
+  "symbol": "CPUMP",
+  "decimals": 9,
+  "coin_type": "0x7c9c51451b2a3673233c78bcba247dce2cb3f77c7c124bf4004add38a3d40881::cpump::CPUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a8895b0c-e0a8-454f-ad3c-ce891dacf234.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

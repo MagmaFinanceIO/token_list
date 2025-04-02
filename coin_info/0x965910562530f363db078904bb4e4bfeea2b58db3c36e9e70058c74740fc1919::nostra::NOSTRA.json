@@ -1,0 +1,13 @@
+{
+  "name": "NOSTRADAMUS AI",
+  "symbol": "NOSTRA",
+  "decimals": 9,
+  "coin_type": "0x965910562530f363db078904bb4e4bfeea2b58db3c36e9e70058c74740fc1919::nostra::NOSTRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4deVQjPieyKGnrXkymkJpYbHFqDgWJjgN5aJUR8xpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

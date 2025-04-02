@@ -1,0 +1,13 @@
+{
+  "name": "JOHNNY BRAVO",
+  "symbol": "BRAVO",
+  "decimals": 9,
+  "coin_type": "0xc5ad73b0abb3944c8141a4b8258889de795c0b4de37adc74e06f9aec8595deec::bravo::BRAVO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/x9JZdgyqxfakyn7km2Y4KVANBnP19AEVw5vWNxgpump.png?size=lg&key=0a7d71",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

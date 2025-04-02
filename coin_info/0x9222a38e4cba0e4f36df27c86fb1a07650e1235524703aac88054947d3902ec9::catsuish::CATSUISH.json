@@ -1,0 +1,13 @@
+{
+  "name": "Cat Suish",
+  "symbol": "CATSUISH",
+  "decimals": 9,
+  "coin_type": "0x9222a38e4cba0e4f36df27c86fb1a07650e1235524703aac88054947d3902ec9::catsuish::CATSUISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b5467694-407b-4077-992b-bd4b04f216ee.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

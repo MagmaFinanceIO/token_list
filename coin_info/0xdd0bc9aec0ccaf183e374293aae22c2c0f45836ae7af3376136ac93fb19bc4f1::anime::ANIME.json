@@ -1,0 +1,13 @@
+{
+  "name": "A New Internet Money Era",
+  "symbol": "ANIME",
+  "decimals": 9,
+  "coin_type": "0xdd0bc9aec0ccaf183e374293aae22c2c0f45836ae7af3376136ac93fb19bc4f1::anime::ANIME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GRkAQsphKwc5PPMmi2bLT2aG9opmnHqJPN7spmjLpump.png?size=lg&key=04742b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

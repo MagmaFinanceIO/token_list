@@ -1,0 +1,13 @@
+{
+  "name": "AXOL (Wormhole)",
+  "symbol": "AXOL",
+  "decimals": 9,
+  "coin_type": "0x5cbe4fc49f8509fca02fa9cc258bffb2269aa14863bf74fac575ab5657405aa1::axol::AXOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/366Zu9LS6MME3FARYgcyizE9fNy3adHSaMFvkBrXDa7w.png?size=lg&key=cba751",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

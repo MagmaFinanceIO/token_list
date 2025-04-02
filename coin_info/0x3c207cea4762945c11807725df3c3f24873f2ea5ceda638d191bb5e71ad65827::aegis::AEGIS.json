@@ -1,0 +1,13 @@
+{
+  "name": "AI DOGE",
+  "symbol": "AEGIS",
+  "decimals": 9,
+  "coin_type": "0x3c207cea4762945c11807725df3c3f24873f2ea5ceda638d191bb5e71ad65827::aegis::AEGIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5HMW7nJtQ1TZSG1T9FMbEMc72dHCFMUYGsNGP1Bnpump.png?size=lg&key=9e33be",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

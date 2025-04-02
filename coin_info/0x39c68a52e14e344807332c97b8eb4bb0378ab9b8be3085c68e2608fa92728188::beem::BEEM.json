@@ -1,0 +1,13 @@
+{
+  "name": "BEEMAN",
+  "symbol": "BEEM",
+  "decimals": 9,
+  "coin_type": "0x39c68a52e14e344807332c97b8eb4bb0378ab9b8be3085c68e2608fa92728188::beem::BEEM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/AqkZd7GSUkLWhImO?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

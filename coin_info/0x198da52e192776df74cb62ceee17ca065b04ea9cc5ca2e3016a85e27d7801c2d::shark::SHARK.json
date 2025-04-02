@@ -1,0 +1,13 @@
+{
+  "name": "HammerShark",
+  "symbol": "SHARK",
+  "decimals": 9,
+  "coin_type": "0x198da52e192776df74cb62ceee17ca065b04ea9cc5ca2e3016a85e27d7801c2d::shark::SHARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1466caaa-8f4f-4a09-932e-c4054dd0ae4c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SchizoAI bot",
+  "symbol": "SchizoAI",
+  "decimals": 9,
+  "coin_type": "0x410c3d7e9b8ba0384608917ef389348f5b6992c49c15e88a09e26c2c58ed00e7::schizoai::SCHIZOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8xx77e174pndhc5aeYuVxZs9DC1iPkxzZMtFTFn7pump.png?size=lg&key=b59539",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI Ocean",
+  "symbol": "SUIOCEAN",
+  "decimals": 6,
+  "coin_type": "0x142c484a32fae23d7203882e22e05522d9e67f9a8b4f9fda84b7b05f62ce6f13::suiocean::SUIOCEAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/18627812_3791_485b_a690_6447269d9970_1f14a0bc9b.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "justablackhole",
+  "symbol": "BLACK",
+  "decimals": 9,
+  "coin_type": "0xea4708dec48920fcce68a1269fecf918c0881583ad69d0c1a54bafc9933b2b55::black::BLACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/96QmMPAiy79EJcvKc7nLzdPqFHrVuFrha6yUgLb4pump.png?size=lg&key=b8817d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Christmas Sock",
+  "symbol": "SOCK",
+  "decimals": 9,
+  "coin_type": "0x3b0c775aedd26ff05ca8d59a579ec24a6738043f7cbc3fdcaa6da86fdd39ca6d::sock::SOCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/F67DkkzAeoGPusBbAUYao8piMtAzC74utpKpaCmEpump.png?size=lg&key=785d31",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

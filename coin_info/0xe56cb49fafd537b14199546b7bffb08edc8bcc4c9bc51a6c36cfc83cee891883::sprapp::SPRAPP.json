@@ -1,0 +1,13 @@
+{
+  "name": "Sprapp",
+  "symbol": "Sprapp",
+  "decimals": 9,
+  "coin_type": "0xe56cb49fafd537b14199546b7bffb08edc8bcc4c9bc51a6c36cfc83cee891883::sprapp::SPRAPP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/227633c8-cc28-4346-9cec-199fff79527b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

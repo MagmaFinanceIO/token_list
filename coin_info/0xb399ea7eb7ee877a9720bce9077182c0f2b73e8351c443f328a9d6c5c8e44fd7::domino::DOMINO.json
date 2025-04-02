@@ -1,0 +1,13 @@
+{
+  "name": "Domino by SuiAI",
+  "symbol": "DOMINO",
+  "decimals": 6,
+  "coin_type": "0xb399ea7eb7ee877a9720bce9077182c0f2b73e8351c443f328a9d6c5c8e44fd7::domino::DOMINO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/o_Xa_C37d_N_400x400_9ef9642161.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

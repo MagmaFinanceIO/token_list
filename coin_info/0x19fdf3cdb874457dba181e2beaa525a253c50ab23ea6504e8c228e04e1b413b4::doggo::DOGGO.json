@@ -1,0 +1,13 @@
+{
+  "name": "DOGGO on SUI",
+  "symbol": "DOGGO",
+  "decimals": 9,
+  "coin_type": "0x19fdf3cdb874457dba181e2beaa525a253c50ab23ea6504e8c228e04e1b413b4::doggo::DOGGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/442988bb-92a2-4bb2-b65e-71fd47f45391.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

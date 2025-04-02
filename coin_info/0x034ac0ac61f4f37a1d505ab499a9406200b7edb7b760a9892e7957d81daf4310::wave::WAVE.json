@@ -1,0 +1,13 @@
+{
+  "name": "Wave Meme on SUI",
+  "symbol": "Wave",
+  "decimals": 6,
+  "coin_type": "0x034ac0ac61f4f37a1d505ab499a9406200b7edb7b760a9892e7957d81daf4310::wave::WAVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_13_6136d2e403.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

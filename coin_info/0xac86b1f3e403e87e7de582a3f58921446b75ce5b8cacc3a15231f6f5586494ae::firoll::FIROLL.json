@@ -1,0 +1,13 @@
+{
+  "name": "SUISCAN",
+  "symbol": "SUISCAN",
+  "decimals": 9,
+  "coin_type": "0xac86b1f3e403e87e7de582a3f58921446b75ce5b8cacc3a15231f6f5586494ae::firoll::FIROLL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafybeiecppfzpgx7xosf7h4a2zistip2d4lawqkwsp2dtp3ucmjpmnb6tq.ipfs.nftstorage.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

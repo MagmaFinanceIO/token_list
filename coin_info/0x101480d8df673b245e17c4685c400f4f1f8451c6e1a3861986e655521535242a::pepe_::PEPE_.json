@@ -1,0 +1,13 @@
+{
+  "name": "PEPE GOLD",
+  "symbol": "PEPE",
+  "decimals": 9,
+  "coin_type": "0x101480d8df673b245e17c4685c400f4f1f8451c6e1a3861986e655521535242a::pepe_::PEPE_",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4645ef6d-3b93-4d49-ade9-d4608dc3578d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

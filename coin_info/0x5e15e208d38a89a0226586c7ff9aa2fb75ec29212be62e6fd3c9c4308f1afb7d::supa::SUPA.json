@@ -1,0 +1,13 @@
+{
+  "name": "SUPA_SUI",
+  "symbol": "SUPA",
+  "decimals": 6,
+  "coin_type": "0x5e15e208d38a89a0226586c7ff9aa2fb75ec29212be62e6fd3c9c4308f1afb7d::supa::SUPA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/LOGO_91699a2b7a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

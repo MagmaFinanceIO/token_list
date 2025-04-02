@@ -1,0 +1,13 @@
+{
+  "name": "SILK ROAD",
+  "symbol": "SILKROAD",
+  "decimals": 9,
+  "coin_type": "0x4485b835b4094355b80037638526e94f95668fdc6108c78b04e567e0edcb80cd::silkroad::SILKROAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmNeL5fYTjx2rphRgzmEGEd52T13UeskDF8844ZUrafFC4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

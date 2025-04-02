@@ -1,0 +1,13 @@
+{
+  "name": "Pande",
+  "symbol": "PANDE",
+  "decimals": 6,
+  "coin_type": "0x049a350b9c2856d9a2c89ba4f00875938c144bfa5c755ab8e79ea9f147364a9c::pande::PANDE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Pande_Sui_56eb581090.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuiQuantumAI by SuiAI",
+  "symbol": "SQAI",
+  "decimals": 6,
+  "coin_type": "0x057fc312dd4f692866af45ac09bc778b4d91fe0302a5d63267b0b38a0082591b::sqai::SQAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/ddasdasd_73b1568043.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

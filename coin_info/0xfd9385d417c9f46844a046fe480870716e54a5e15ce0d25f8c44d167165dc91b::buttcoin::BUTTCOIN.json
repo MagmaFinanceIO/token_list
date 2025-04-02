@@ -1,0 +1,13 @@
+{
+  "name": "The Next Bitcoin",
+  "symbol": "BUTTCOIN",
+  "decimals": 9,
+  "coin_type": "0xfd9385d417c9f46844a046fe480870716e54a5e15ce0d25f8c44d167165dc91b::buttcoin::BUTTCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FasH397CeZLNYWkd3wWK9vrmjd1z93n3b59DssRXpump.png?claimId=bN_t-l0tNctS1fq7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

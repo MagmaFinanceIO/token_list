@@ -1,0 +1,13 @@
+{
+  "name": "Only Green",
+  "symbol": "OG",
+  "decimals": 6,
+  "coin_type": "0x6c951d854d6206d9674cb5544d553d9663a2db821f55d79da890ca73adf11fc5::og::OG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/79d397a1-bac0-4c9f-a15c-8c53c53e5506.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Spooky",
+  "symbol": "Spooky",
+  "decimals": 9,
+  "coin_type": "0x4bfe540b4ea27b60793e2c3373024acfd8c5d3fb3cb11d3490bc4a59dace83c5::spooky::SPOOKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/28a592d5-d813-49da-b76d-04c12e75d6e0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

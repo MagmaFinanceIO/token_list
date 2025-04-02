@@ -1,0 +1,13 @@
+{
+  "name": "Water Hagrid",
+  "symbol": "WH",
+  "decimals": 6,
+  "coin_type": "0xa50b22643479c9bed3b0409e781dd9ac79deaf0f489c2dfa95a0a505c14e5710::wh::WH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/water_hagrid_12dd393c2f.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

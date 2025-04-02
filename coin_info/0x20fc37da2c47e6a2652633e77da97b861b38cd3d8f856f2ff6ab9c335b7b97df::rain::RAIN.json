@@ -1,0 +1,13 @@
+{
+  "name": "Rain",
+  "symbol": "RAIN",
+  "decimals": 9,
+  "coin_type": "0x20fc37da2c47e6a2652633e77da97b861b38cd3d8f856f2ff6ab9c335b7b97df::rain::RAIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/QmccbjVswAddqUmTiP5jPeV7N79xw8eDVHaSgTNEMvNrab",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

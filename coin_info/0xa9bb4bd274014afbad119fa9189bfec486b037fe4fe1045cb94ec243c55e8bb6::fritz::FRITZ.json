@@ -1,0 +1,13 @@
+{
+  "name": "FRITZ SUI",
+  "symbol": "FRITZ",
+  "decimals": 6,
+  "coin_type": "0xa9bb4bd274014afbad119fa9189bfec486b037fe4fe1045cb94ec243c55e8bb6::fritz::FRITZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Thia_t_ka_ch_AE_a_c_A_t_A_n_44_e2a71962ff.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

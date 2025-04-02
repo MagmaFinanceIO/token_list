@@ -1,0 +1,13 @@
+{
+  "name": "Monster Font",
+  "symbol": "FONT",
+  "decimals": 6,
+  "coin_type": "0xfb2d8a55102ba7703a68092a405185789fb4070cf2d11a51407683d2a822c3ea::font::FONT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5239e958-aa09-4c19-adf2-43f1ba018397.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

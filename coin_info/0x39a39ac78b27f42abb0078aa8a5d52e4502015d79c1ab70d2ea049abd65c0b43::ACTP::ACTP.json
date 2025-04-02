@@ -1,0 +1,13 @@
+{
+  "name": "Act II : The Peanut Prophecy",
+  "symbol": "ACTP2",
+  "decimals": 9,
+  "coin_type": "0x39a39ac78b27f42abb0078aa8a5d52e4502015d79c1ab70d2ea049abd65c0b43::ACTP::ACTP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6ofzqLnHhobh7cJ4C63rAf5qnKU8AoMxVBi7Kkm6n9wq.png?size=xl&key=d9dbb0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

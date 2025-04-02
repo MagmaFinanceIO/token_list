@@ -1,0 +1,13 @@
+{
+  "name": "AI Alien Sui",
+  "symbol": "AIAS",
+  "decimals": 9,
+  "coin_type": "0xffce5c768353bc0840be609bafec1a09a09c40170cce63111338e0ba4347710c::aias::AIAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e99cf8bd-1d84-4861-992d-0fd0b683224f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUS ON SUI",
+  "symbol": "SUS",
+  "decimals": 9,
+  "coin_type": "0xd0f12b1b4cc5039701e8a090f43b430c6eab9bb4d6808de62b0d5e6365f508e1::sus::SUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmdvR2yW3BzxHR8bMPMqCkxovNbeA71RRG1FJ65tkiagEE",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

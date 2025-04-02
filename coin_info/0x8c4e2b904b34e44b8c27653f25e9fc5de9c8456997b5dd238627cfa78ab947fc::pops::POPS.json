@@ -1,0 +1,13 @@
+{
+  "name": "POPS",
+  "symbol": "POPS",
+  "decimals": 9,
+  "coin_type": "0x8c4e2b904b34e44b8c27653f25e9fc5de9c8456997b5dd238627cfa78ab947fc::pops::POPS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/898cbd80-0bf9-44fc-8197-c153f4d502e8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

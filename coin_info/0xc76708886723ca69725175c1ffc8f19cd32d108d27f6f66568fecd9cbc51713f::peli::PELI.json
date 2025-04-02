@@ -1,0 +1,13 @@
+{
+  "name": "Pelican",
+  "symbol": "PELI",
+  "decimals": 6,
+  "coin_type": "0xc76708886723ca69725175c1ffc8f19cd32d108d27f6f66568fecd9cbc51713f::peli::PELI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000006275_c594ccd658.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

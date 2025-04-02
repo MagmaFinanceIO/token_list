@@ -1,0 +1,13 @@
+{
+  "name": "The Seal",
+  "symbol": "Seal",
+  "decimals": 6,
+  "coin_type": "0x484255da1f0d24988b4f7b1f67a33bb1965116fccefa3c83ea5a0011a882181c::seal::SEAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_11_15_23_27_52_50eaf00a4a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

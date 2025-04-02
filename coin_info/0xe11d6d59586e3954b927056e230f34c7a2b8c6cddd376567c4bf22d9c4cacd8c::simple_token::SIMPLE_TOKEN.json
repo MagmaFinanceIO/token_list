@@ -1,0 +1,13 @@
+{
+  "name": "DEXO AI",
+  "symbol": "DEXO",
+  "decimals": 9,
+  "coin_type": "0xe11d6d59586e3954b927056e230f34c7a2b8c6cddd376567c4bf22d9c4cacd8c::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Bajano",
+  "symbol": "Bajano",
+  "decimals": 9,
+  "coin_type": "0xde4e6744760b200464a210637d141c677eb897cc7ae8d734b469ca4811d0a005::bajano::BAJANO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmRFdtXeKZ1Pq6dUtUriM75Vp8RijKdczmiKtzako4Zp3W?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

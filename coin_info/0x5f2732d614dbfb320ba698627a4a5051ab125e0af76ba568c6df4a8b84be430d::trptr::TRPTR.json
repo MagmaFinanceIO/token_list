@@ -1,0 +1,13 @@
+{
+  "name": "Trump Trillions",
+  "symbol": "TRPTR",
+  "decimals": 9,
+  "coin_type": "0x5f2732d614dbfb320ba698627a4a5051ab125e0af76ba568c6df4a8b84be430d::trptr::TRPTR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3fd715f3-fda4-46e6-8272-137a5c47b7d2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

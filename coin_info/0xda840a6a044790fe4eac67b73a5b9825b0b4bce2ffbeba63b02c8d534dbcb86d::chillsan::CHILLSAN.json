@@ -1,0 +1,13 @@
+{
+  "name": "Chill Santa",
+  "symbol": "CHILLSAN",
+  "decimals": 9,
+  "coin_type": "0xda840a6a044790fe4eac67b73a5b9825b0b4bce2ffbeba63b02c8d534dbcb86d::chillsan::CHILLSAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b1418da9-3dbf-4503-821c-aa3e33818735.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

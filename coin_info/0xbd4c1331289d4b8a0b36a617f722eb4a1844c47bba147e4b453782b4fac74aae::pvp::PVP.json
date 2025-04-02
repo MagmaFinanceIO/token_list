@@ -1,0 +1,13 @@
+{
+  "name": "PVP",
+  "symbol": "PVP",
+  "decimals": 9,
+  "coin_type": "0xbd4c1331289d4b8a0b36a617f722eb4a1844c47bba147e4b453782b4fac74aae::pvp::PVP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://avatars.dzeninfra.ru/get-zen_doc/10191615/pub_64fde1d7ff2f8a478a5af08f_64fde1e240159a051a8e1ee2/scale_1200",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pepes Soul",
+  "symbol": "Soul",
+  "decimals": 6,
+  "coin_type": "0xccfb3e59a234abb56c2a46bfe4fcce36890f51d469c03b89b624a4e0b99586e5::soul::SOUL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/C98_A7_ACC_242_F_401_F_8_AA_6_76705_E682_B13_7dd17c0588.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

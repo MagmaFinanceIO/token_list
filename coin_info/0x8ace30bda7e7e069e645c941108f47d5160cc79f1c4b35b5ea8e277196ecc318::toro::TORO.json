@@ -1,0 +1,13 @@
+{
+  "name": "TORO THE BULL",
+  "symbol": "TORO",
+  "decimals": 9,
+  "coin_type": "0x8ace30bda7e7e069e645c941108f47d5160cc79f1c4b35b5ea8e277196ecc318::toro::TORO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a030f6ec-5fd6-4530-b6a7-d554b2e304a3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

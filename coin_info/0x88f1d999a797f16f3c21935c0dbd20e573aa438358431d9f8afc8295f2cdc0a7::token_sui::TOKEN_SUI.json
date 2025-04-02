@@ -1,0 +1,13 @@
+{
+  "name": "Night Dancer Sun Chaser",
+  "symbol": "night",
+  "decimals": 9,
+  "coin_type": "0x88f1d999a797f16f3c21935c0dbd20e573aa438358431d9f8afc8295f2cdc0a7::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/980/438/large/fred84-02b864b9-4214-40cd-8533-349371a19369-2048x.jpg?1729062005",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

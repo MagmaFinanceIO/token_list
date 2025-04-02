@@ -1,0 +1,13 @@
+{
+  "name": "Popo The Bear",
+  "symbol": "POPO",
+  "decimals": 9,
+  "coin_type": "0xbd4168cf4bb724986a23b3d5add7b7a72ba368722f7b12714b0b15aa3c08f3ae::popo::POPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/04ff87cc-0bc7-4a9a-ad2c-57cfe37a9328.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

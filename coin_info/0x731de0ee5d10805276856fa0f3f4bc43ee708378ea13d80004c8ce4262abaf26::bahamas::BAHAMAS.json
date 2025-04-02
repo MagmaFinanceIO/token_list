@@ -1,0 +1,13 @@
+{
+  "name": "Bahamas",
+  "symbol": "Bahamas",
+  "decimals": 2,
+  "coin_type": "0x731de0ee5d10805276856fa0f3f4bc43ee708378ea13d80004c8ce4262abaf26::bahamas::BAHAMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/eac48468-a319-4e38-9661-53607c365db9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Wally the Whale",
+  "symbol": "WALLY",
+  "decimals": 9,
+  "coin_type": "0xcff7df687b92085f10e073a2c8c9c932406d285338efbddb20033d73bf7dd8b1::wally::WALLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/QmURYRSRppMwUBzjiArg1nYNoHU2tUdbTfzNw7KczLSXQA",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUCK Sui",
+  "symbol": "SUCK",
+  "decimals": 6,
+  "coin_type": "0x382c329b10e2a20c21e03bb7b8f4d733a7c9132b0c751c91eb0ac1f4d9df9588::suck::SUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1e0c6b1bf754dc82ebeda65bc03084ed_fe5be70f10.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

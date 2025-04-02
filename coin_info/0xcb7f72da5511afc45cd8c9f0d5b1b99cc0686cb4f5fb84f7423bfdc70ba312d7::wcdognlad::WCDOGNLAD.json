@@ -1,0 +1,13 @@
+{
+  "name": "WcDognlad On Sui",
+  "symbol": "WCDOGNLAD",
+  "decimals": 6,
+  "coin_type": "0xcb7f72da5511afc45cd8c9f0d5b1b99cc0686cb4f5fb84f7423bfdc70ba312d7::wcdognlad::WCDOGNLAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_1_25_54a2bc0f90.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

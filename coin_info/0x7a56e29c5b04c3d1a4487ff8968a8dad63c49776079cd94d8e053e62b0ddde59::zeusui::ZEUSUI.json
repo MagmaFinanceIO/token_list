@@ -1,0 +1,13 @@
+{
+  "name": "Zeusui",
+  "symbol": "ZEUSUI",
+  "decimals": 6,
+  "coin_type": "0x7a56e29c5b04c3d1a4487ff8968a8dad63c49776079cd94d8e053e62b0ddde59::zeusui::ZEUSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731083012158.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

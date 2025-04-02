@@ -1,0 +1,13 @@
+{
+  "name": "Tremp Coin",
+  "symbol": "TREMP",
+  "decimals": 9,
+  "coin_type": "0x20d1558475c484ab491fdf294d3f81996bbbc9322679f2da6ff87ee949dcb697::tremp::TREMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c23c20e6-78da-4e93-bfa3-d8a0785e81cf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

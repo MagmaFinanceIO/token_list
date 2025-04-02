@@ -1,0 +1,13 @@
+{
+  "name": "Tremp Back Now",
+  "symbol": "Tremp",
+  "decimals": 9,
+  "coin_type": "0x64765c1210ccc7149ac30f700929dd82bbec633e1887c22bbcdb65d300601baf::tremp::TREMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BXqVn9RoB4hSacLeqcvMMbaXpG642ApyyxmiRzWQPTbd.png?size=lg&key=bcf85c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

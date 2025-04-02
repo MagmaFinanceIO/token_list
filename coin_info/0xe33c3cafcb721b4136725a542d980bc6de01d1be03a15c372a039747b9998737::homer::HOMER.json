@@ -1,0 +1,13 @@
+{
+  "name": "Homer The Simpsons",
+  "symbol": "HOMER",
+  "decimals": 6,
+  "coin_type": "0xe33c3cafcb721b4136725a542d980bc6de01d1be03a15c372a039747b9998737::homer::HOMER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/457b7fb6dea43f0d4854b2f5c510d8e7_c23dbfc741.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

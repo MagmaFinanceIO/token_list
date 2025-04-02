@@ -1,0 +1,13 @@
+{
+  "name": "suijeet",
+  "symbol": "SJT",
+  "decimals": 6,
+  "coin_type": "0xcde5fdf22cc9a51b4d5acb93b0f2a2cc6776be2ac64cfea456822ee9e2a64d35::sjt::SJT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/sadness_99d5347da8.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

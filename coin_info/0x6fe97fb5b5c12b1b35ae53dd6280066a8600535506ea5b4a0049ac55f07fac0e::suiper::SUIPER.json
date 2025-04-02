@@ -1,0 +1,13 @@
+{
+  "name": "SUIPER GIRL",
+  "symbol": "SUIPER",
+  "decimals": 9,
+  "coin_type": "0x6fe97fb5b5c12b1b35ae53dd6280066a8600535506ea5b4a0049ac55f07fac0e::suiper::SUIPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2bb7e8e9-741a-4c03-8054-f1cb507c50e9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

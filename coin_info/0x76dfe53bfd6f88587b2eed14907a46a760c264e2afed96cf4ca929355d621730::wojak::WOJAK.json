@@ -1,0 +1,13 @@
+{
+  "name": "WOJAK Maximus",
+  "symbol": "WOJAK",
+  "decimals": 6,
+  "coin_type": "0x76dfe53bfd6f88587b2eed14907a46a760c264e2afed96cf4ca929355d621730::wojak::WOJAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Y3_N8m_W9byibxr_Nqm1jh_W3_Hry1n_Kat_DYT_Gu5ufqt_Xobqj_32f24f42fc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BAD DOGS",
+  "symbol": "BADDOG",
+  "decimals": 9,
+  "coin_type": "0xc3cfce4b7a6fea8548a98d099cc4ef32a40cef9dbb40a17dc20ddf1923775ca2::baddog::BADDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f3e77768-8e1c-495e-9808-8bcf70a33441.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ELEMENT",
+  "symbol": "Element",
+  "decimals": 6,
+  "coin_type": "0x9e6920c28977fdffd6ab8eb3c394a2316cb7d2a73d48656e0f1c453f51507905::element::ELEMENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1001254217_e209e4604a.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

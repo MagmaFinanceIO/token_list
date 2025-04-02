@@ -1,0 +1,13 @@
+{
+  "name": "Q-Coin",
+  "symbol": "Q-Coin",
+  "decimals": 9,
+  "coin_type": "0xab83f6cd99dcd7228c9974b5a90aedc3ad94a6572b341b52f08b0a6008bc40c1::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SroomAI DAO 0x16ab6a14d76a90328a6b04f06b0a0ce952847017023624e0c37bf8aa314c39ba::shr::SHR",
+  "symbol": "SHR0",
+  "decimals": 9,
+  "coin_type": "0xf3ef46933ea70132686803adcf508e5cc7e953644bf14e42390befa2458c8e59::shr0::SHR0",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0d3f8426-65e0-450a-baf7-edd0898f859d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

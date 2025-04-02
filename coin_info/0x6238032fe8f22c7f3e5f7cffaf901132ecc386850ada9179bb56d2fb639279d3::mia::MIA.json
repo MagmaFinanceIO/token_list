@@ -1,0 +1,13 @@
+{
+  "name": "Made In America",
+  "symbol": "MIA",
+  "decimals": 9,
+  "coin_type": "0x6238032fe8f22c7f3e5f7cffaf901132ecc386850ada9179bb56d2fb639279d3::mia::MIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Dy7M5B3Z5GnyhyHKkcHRFpYxw6eyiF1gqsDTBiT4t4oQ.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MoiTd",
+  "symbol": "mMPeO",
+  "decimals": 9,
+  "coin_type": "0x6179c596870a69e24a1bb6fc1ed2ce9585bc808c6fa7d07ef36a50191f0dbccd::mmpeo::MMPEO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HheTmXNNkrzN78Qsyz6obfGSL1HvFttG7FU5fok3pump.png?size=lg&key=282918",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

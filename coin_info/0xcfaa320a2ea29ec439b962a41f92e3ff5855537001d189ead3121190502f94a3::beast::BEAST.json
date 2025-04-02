@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL BEAST",
+  "symbol": "BEAST",
+  "decimals": 9,
+  "coin_type": "0xcfaa320a2ea29ec439b962a41f92e3ff5855537001d189ead3121190502f94a3::beast::BEAST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/85CrqJ53uL1URs8J8J1wtNDQudKTsZ4Hv2D3nUaKpump.png?size=lg&key=68307b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

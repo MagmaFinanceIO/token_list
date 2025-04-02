@@ -1,0 +1,13 @@
+{
+  "name": "Huffy on SUI",
+  "symbol": "HUFFY",
+  "decimals": 9,
+  "coin_type": "0x40198544d0912f00008047387c24c5b642637753a0e9694c40b9c5ff4519b89c::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

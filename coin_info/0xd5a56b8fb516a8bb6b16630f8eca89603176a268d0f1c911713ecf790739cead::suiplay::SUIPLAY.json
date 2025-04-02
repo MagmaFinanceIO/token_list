@@ -1,0 +1,13 @@
+{
+  "name": "Sui Play",
+  "symbol": "SUIPLAY",
+  "decimals": 6,
+  "coin_type": "0xd5a56b8fb516a8bb6b16630f8eca89603176a268d0f1c911713ecf790739cead::suiplay::SUIPLAY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cc207321-ca66-4357-8528-138ce8703d87.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

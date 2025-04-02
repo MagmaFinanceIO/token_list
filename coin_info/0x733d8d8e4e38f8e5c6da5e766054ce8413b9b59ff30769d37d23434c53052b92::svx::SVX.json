@@ -1,0 +1,13 @@
+{
+  "name": "SuiVerseX",
+  "symbol": "SVX",
+  "decimals": 9,
+  "coin_type": "0x733d8d8e4e38f8e5c6da5e766054ce8413b9b59ff30769d37d23434c53052b92::svx::SVX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

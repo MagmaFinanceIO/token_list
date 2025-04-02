@@ -1,0 +1,13 @@
+{
+  "name": "GINCOOKIE SUI",
+  "symbol": "GINCOOKIE",
+  "decimals": 6,
+  "coin_type": "0x92ae6d45f7581e42f0da2f4065fb80a03f260cb259d7036c45725d7f94114ed3::gincookie::GINCOOKIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qma6cnr3_K9fdspifvbv_Ctf_SL_Rr5_Xz_HE_9m_NZHW_77_HT_8_Qjpb_1996d966bc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui_POPDENG",
+  "symbol": "Sui_POPDENG",
+  "decimals": 9,
+  "coin_type": "0xd1424790b71a98978b8d6aa456a0438d8edd261ba451c5bf33de20ce89913792::sui_popdeng::SUI_POPDENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3b708e2d-efba-43c8-90be-4693bb4e22a2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

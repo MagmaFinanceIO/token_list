@@ -1,0 +1,13 @@
+{
+  "name": "SUImp",
+  "symbol": "SUIMP",
+  "decimals": 6,
+  "coin_type": "0x88c415131582f86fc2966e3a0f563919162fe21117433d2a342068fdf9439dc0::suimp::SUIMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_03_18_55_51_f914e77124.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

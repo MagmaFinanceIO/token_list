@@ -1,0 +1,13 @@
+{
+  "name": "Mr Beam",
+  "symbol": "BEAM",
+  "decimals": 2,
+  "coin_type": "0x511ea23a988080a94af0c5b0813f3d95cb31bf47ca01b4f07befa9325d2ef312::managed::MANAGED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

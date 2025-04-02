@@ -1,0 +1,13 @@
+{
+  "name": "AIZ ONLY",
+  "symbol": "AiZ",
+  "decimals": 9,
+  "coin_type": "0xe3398e3bc8ff4040ffd9d22696842a21ec05451bd5ada6aa1d9274922fc2313b::aiz::AIZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/93Dhr1ymKNXH9AAVVFmC1AVqJbyQyGs212T8eWh3pump.png?size=lg&key=8e6cef",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

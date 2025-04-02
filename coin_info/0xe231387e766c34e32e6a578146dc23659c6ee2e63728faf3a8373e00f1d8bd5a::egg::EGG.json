@@ -1,0 +1,13 @@
+{
+  "name": "Project 0xD38",
+  "symbol": "EGG",
+  "decimals": 6,
+  "coin_type": "0xe231387e766c34e32e6a578146dc23659c6ee2e63728faf3a8373e00f1d8bd5a::egg::EGG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/egg1500x1500_375c7ff52d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

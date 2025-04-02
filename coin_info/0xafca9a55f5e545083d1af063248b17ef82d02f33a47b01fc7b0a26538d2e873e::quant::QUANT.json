@@ -1,0 +1,13 @@
+{
+  "name": "Quantimodo",
+  "symbol": "QUANT",
+  "decimals": 6,
+  "coin_type": "0xafca9a55f5e545083d1af063248b17ef82d02f33a47b01fc7b0a26538d2e873e::quant::QUANT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735995428655.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

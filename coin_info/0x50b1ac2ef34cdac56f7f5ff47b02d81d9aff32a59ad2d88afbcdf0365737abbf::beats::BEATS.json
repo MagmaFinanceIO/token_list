@@ -1,0 +1,13 @@
+{
+  "name": "BEATS",
+  "symbol": "BEATS",
+  "decimals": 9,
+  "coin_type": "0x50b1ac2ef34cdac56f7f5ff47b02d81d9aff32a59ad2d88afbcdf0365737abbf::beats::BEATS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/65ttBgPK86sCUFapziDjwh5D1T9dW2Jkh42RGSLZpump.png?size=lg&key=7fac44",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

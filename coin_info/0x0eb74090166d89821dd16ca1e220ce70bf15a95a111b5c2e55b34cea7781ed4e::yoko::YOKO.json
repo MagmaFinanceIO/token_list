@@ -1,0 +1,13 @@
+{
+  "name": "Yoko Lands",
+  "symbol": "YOKO",
+  "decimals": 9,
+  "coin_type": "0x0eb74090166d89821dd16ca1e220ce70bf15a95a111b5c2e55b34cea7781ed4e::yoko::YOKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/LzGUH7rxrUR1Ci5EDQA4DRuQ3XENYzFRKjE5bKjpump.png?size=lg&key=e684b3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

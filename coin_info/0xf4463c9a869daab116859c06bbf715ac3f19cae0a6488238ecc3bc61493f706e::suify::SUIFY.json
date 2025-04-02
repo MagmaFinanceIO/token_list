@@ -1,0 +1,13 @@
+{
+  "name": "Suify Cat",
+  "symbol": "SUIFY",
+  "decimals": 6,
+  "coin_type": "0xf4463c9a869daab116859c06bbf715ac3f19cae0a6488238ecc3bc61493f706e::suify::SUIFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_5a42f24efb.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

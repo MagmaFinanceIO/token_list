@@ -1,0 +1,13 @@
+{
+  "name": "CZius Maximus",
+  "symbol": "CZius",
+  "decimals": 9,
+  "coin_type": "0x6e7b3d58a64d554cf8d295909ab73a76b4310a29ebd0fd9cc19d5282aa0aff72::czius::CZIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x43fed8f6cc2b15ef21bc4d04d50f2819c161eed7.png?size=lg&key=64c75a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

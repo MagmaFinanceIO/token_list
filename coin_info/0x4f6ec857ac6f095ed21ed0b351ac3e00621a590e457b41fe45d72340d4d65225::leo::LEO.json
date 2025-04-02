@@ -1,0 +1,13 @@
+{
+  "name": "Baby Lion",
+  "symbol": "LEO",
+  "decimals": 9,
+  "coin_type": "0x4f6ec857ac6f095ed21ed0b351ac3e00621a590e457b41fe45d72340d4d65225::leo::LEO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/89d71df3-ef98-434c-8c7c-acf1c6b8a1e0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

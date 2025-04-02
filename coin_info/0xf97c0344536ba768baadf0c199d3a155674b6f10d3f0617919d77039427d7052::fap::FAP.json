@@ -1,0 +1,13 @@
+{
+  "name": "Fart Ai Protocol",
+  "symbol": "FAP",
+  "decimals": 9,
+  "coin_type": "0xf97c0344536ba768baadf0c199d3a155674b6f10d3f0617919d77039427d7052::fap::FAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BARJPgXpiXey4TTc26MSVds2G5iKjdwDeV1bgNt2pump.png?size=lg&key=e31a21",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MEME TEAR",
+  "symbol": "MEME",
+  "decimals": 6,
+  "coin_type": "0x92829d8e2c85a67cecaa1972aad3ea585ab33dad1b46a34b4fc2a1909e9fea6d::meme::MEME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pub-efea87dea3f94e8084e073588c980c50.r2.dev/logo/01JB6GV0A2AGAFB6JPVDCVHSKD/01JB6GVCSNEDA16JV568E2NSYM",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

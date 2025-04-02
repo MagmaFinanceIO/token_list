@@ -1,0 +1,13 @@
+{
+  "name": "SUIDRIP",
+  "symbol": "Suidrip",
+  "decimals": 6,
+  "coin_type": "0x451778a60c325f6880e00dbc059a0ecb9a9f03e67417a04eb898e2bd517020c7::suidrip::SUIDRIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2025_01_12_21_52_54_f02d99fb3a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

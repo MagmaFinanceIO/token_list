@@ -1,0 +1,13 @@
+{
+  "name": "The Devil Oni",
+  "symbol": "DEVILONI",
+  "decimals": 6,
+  "coin_type": "0x79a91094739629c7c4e37cb0319113d50ec77a54bec450be517b25e9f97125d6::deviloni::DEVILONI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FG_Xnjgp_QWYAAR_1q_J_051d0e241b.jpg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suicesskid",
+  "symbol": "Skid",
+  "decimals": 6,
+  "coin_type": "0xf14d7e109979232ff8ba6ca8f081a24523c553cbe7334a1b951ddd05b821cda1::skid::SKID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5234_aa279ecb45.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

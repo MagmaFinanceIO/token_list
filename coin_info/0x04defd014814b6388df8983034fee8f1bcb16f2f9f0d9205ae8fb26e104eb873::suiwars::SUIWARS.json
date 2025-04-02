@@ -1,0 +1,13 @@
+{
+  "name": "SuiWars",
+  "symbol": "SUIWARS",
+  "decimals": 6,
+  "coin_type": "0x04defd014814b6388df8983034fee8f1bcb16f2f9f0d9205ae8fb26e104eb873::suiwars::SUIWARS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731022372767.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

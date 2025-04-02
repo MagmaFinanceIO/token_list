@@ -1,0 +1,13 @@
+{
+  "name": "Tuning",
+  "symbol": "TUNING",
+  "decimals": 6,
+  "coin_type": "0x4d2e5dc4dae9110ead2b9fbc66f6a12eb38d9dd3fd8ece59bf845b316a533cb0::tuning::TUNING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730951988073.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

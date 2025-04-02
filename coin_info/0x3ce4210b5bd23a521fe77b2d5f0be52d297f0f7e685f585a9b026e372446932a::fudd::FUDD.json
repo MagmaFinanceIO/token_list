@@ -1,0 +1,13 @@
+{
+  "name": "Fuddies",
+  "symbol": "FUDD",
+  "decimals": 9,
+  "coin_type": "0x3ce4210b5bd23a521fe77b2d5f0be52d297f0f7e685f585a9b026e372446932a::fudd::FUDD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/49dcb5fe-4a25-4d96-b503-80da2ba15662.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

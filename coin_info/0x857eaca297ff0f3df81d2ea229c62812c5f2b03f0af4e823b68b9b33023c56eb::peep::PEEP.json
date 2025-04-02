@@ -1,0 +1,13 @@
+{
+  "name": "Peep",
+  "symbol": "PEEP",
+  "decimals": 9,
+  "coin_type": "0x857eaca297ff0f3df81d2ea229c62812c5f2b03f0af4e823b68b9b33023c56eb::peep::PEEP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3adc8c7f-5ae0-4270-b86a-6ef6b8738d10.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

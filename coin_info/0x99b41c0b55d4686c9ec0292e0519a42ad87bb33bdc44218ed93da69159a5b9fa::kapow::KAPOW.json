@@ -1,0 +1,13 @@
+{
+  "name": "KAPOW",
+  "symbol": "KAPOW",
+  "decimals": 9,
+  "coin_type": "0x99b41c0b55d4686c9ec0292e0519a42ad87bb33bdc44218ed93da69159a5b9fa::kapow::KAPOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://kapowcoin.xyz/templates/yootheme/cache/ae/banner-ae092b4a.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

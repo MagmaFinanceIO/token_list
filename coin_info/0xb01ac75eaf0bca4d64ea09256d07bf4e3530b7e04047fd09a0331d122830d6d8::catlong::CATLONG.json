@@ -1,0 +1,13 @@
+{
+  "name": "CAT LONG",
+  "symbol": "CATLONG",
+  "decimals": 6,
+  "coin_type": "0xb01ac75eaf0bca4d64ea09256d07bf4e3530b7e04047fd09a0331d122830d6d8::catlong::CATLONG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000126965_b8c6cd252d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

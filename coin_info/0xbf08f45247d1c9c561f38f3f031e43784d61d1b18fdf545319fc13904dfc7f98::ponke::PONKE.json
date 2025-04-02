@@ -1,0 +1,13 @@
+{
+  "name": "God Ponke",
+  "symbol": "Ponke",
+  "decimals": 9,
+  "coin_type": "0xbf08f45247d1c9c561f38f3f031e43784d61d1b18fdf545319fc13904dfc7f98::ponke::PONKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3139ea02-457b-4ae5-8e06-b3b842374b36.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

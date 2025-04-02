@@ -1,0 +1,13 @@
+{
+  "name": "KIZUNA AI: The VTuber by SuiAI",
+  "symbol": "KIZUNA",
+  "decimals": 6,
+  "coin_type": "0x72cd344c4c11f2c34e26480c99822dcf41e6bc43a1108872eb59d461e2f0c6c7::kizuna::KIZUNA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/photo_2025_01_12_06_27_01_74d3d63bff.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

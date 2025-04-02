@@ -1,0 +1,13 @@
+{
+  "name": "Ocean AI by SuiAI",
+  "symbol": "OCN",
+  "decimals": 6,
+  "coin_type": "0x2ab1e5e21ddd9224004b3d2e85370a62c30132133373c6313f8b31504688a764::ocn::OCN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/3d66d1388b0be636424653529a6dc2f6_561db279ab.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

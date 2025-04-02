@@ -1,0 +1,13 @@
+{
+  "name": "aaa cat 18",
+  "symbol": "AAA18",
+  "decimals": 9,
+  "coin_type": "0x10408b21ad9fcfcbfe45fc7e9e00f4958f0e6f29972ee59b3262e8dfed46a1da::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4995_cfd6177d03.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

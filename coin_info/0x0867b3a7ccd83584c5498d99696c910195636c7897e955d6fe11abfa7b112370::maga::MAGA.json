@@ -1,0 +1,13 @@
+{
+  "name": "Make America Great Again",
+  "symbol": "MAGA",
+  "decimals": 9,
+  "coin_type": "0x0867b3a7ccd83584c5498d99696c910195636c7897e955d6fe11abfa7b112370::maga::MAGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a92b698f-130e-45a7-a973-2ae9eb063a33.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

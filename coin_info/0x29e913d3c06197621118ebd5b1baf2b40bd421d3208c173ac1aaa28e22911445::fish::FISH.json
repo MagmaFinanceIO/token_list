@@ -1,0 +1,13 @@
+{
+  "name": "Spinning Fish",
+  "symbol": "FISH",
+  "decimals": 6,
+  "coin_type": "0x29e913d3c06197621118ebd5b1baf2b40bd421d3208c173ac1aaa28e22911445::fish::FISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/joel_spin_3ac712689b.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

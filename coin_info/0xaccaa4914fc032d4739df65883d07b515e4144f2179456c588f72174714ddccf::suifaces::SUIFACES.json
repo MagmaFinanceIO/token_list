@@ -1,0 +1,13 @@
+{
+  "name": "Sui Faces",
+  "symbol": "SUIFACES",
+  "decimals": 6,
+  "coin_type": "0xaccaa4914fc032d4739df65883d07b515e4144f2179456c588f72174714ddccf::suifaces::SUIFACES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Design_sem_nome_9_cda8f25a57.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

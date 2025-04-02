@@ -1,0 +1,13 @@
+{
+  "name": "Songkoku",
+  "symbol": "SNGKU",
+  "decimals": 9,
+  "coin_type": "0xb87fd4e25c3143121f267cf27a262e66d6b11ffebe8c21bef0281fa01ca0809a::sngku::SNGKU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

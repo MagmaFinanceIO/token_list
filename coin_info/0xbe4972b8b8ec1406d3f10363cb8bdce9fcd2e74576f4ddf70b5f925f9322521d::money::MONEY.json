@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL MONEY MEME",
+  "symbol": "MONEY",
+  "decimals": 9,
+  "coin_type": "0xbe4972b8b8ec1406d3f10363cb8bdce9fcd2e74576f4ddf70b5f925f9322521d::money::MONEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HfB5bu6iGT5Etk3W18BpdmrFDawYzeKVTSwNBT3Wpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

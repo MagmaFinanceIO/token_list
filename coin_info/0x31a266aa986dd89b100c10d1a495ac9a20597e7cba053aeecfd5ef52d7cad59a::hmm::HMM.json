@@ -1,0 +1,13 @@
+{
+  "name": "suiHMM",
+  "symbol": "HMM",
+  "decimals": 6,
+  "coin_type": "0x31a266aa986dd89b100c10d1a495ac9a20597e7cba053aeecfd5ef52d7cad59a::hmm::HMM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2u2_AX_1n_W_400x400_326665b2da.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

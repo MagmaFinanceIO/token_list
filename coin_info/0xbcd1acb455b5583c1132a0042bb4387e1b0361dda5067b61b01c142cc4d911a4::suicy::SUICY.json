@@ -1,0 +1,13 @@
+{
+  "name": "SUICY the Seal",
+  "symbol": "SUICY",
+  "decimals": 9,
+  "coin_type": "0xbcd1acb455b5583c1132a0042bb4387e1b0361dda5067b61b01c142cc4d911a4::suicy::SUICY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0x8989c726bf1ea8736919e41938f3801e286bc71d9612bfe250703232a375eaab::suicy::suicy.png?size=lg&key=8f9f69",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

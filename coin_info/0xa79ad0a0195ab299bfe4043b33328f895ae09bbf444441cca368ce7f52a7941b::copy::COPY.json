@@ -1,0 +1,13 @@
+{
+  "name": "copy cat",
+  "symbol": "copy",
+  "decimals": 9,
+  "coin_type": "0xa79ad0a0195ab299bfe4043b33328f895ae09bbf444441cca368ce7f52a7941b::copy::COPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ed7fcd64-bf2a-4519-a3e3-de231a11dec9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

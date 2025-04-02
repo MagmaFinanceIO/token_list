@@ -1,0 +1,13 @@
+{
+  "name": "Agent Orbit",
+  "symbol": "ORBIT",
+  "decimals": 9,
+  "coin_type": "0xa81dd23ec136251e7f96d64ead7a5683d34b200d02b5dc3c2668f3ddb8d6993c::orbit::ORBIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Sx4x5d2kBcFystW5E95Hury8Kg6EeM3tRWjeZ4ppump.png?size=lg&key=e67173",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

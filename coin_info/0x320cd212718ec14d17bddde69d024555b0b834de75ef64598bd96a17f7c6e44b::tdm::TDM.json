@@ -1,0 +1,13 @@
+{
+  "name": "Donaldus Trumpianus Maximus",
+  "symbol": "TDM",
+  "decimals": 6,
+  "coin_type": "0x320cd212718ec14d17bddde69d024555b0b834de75ef64598bd96a17f7c6e44b::tdm::TDM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000008648_30fdcfbbe2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

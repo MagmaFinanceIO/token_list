@@ -1,0 +1,13 @@
+{
+  "name": "JJYY",
+  "symbol": "JJYY",
+  "decimals": 9,
+  "coin_type": "0x1f703daca2b085b3535486c213aa331b3dd290fef6a787a504db951157c41dc1::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

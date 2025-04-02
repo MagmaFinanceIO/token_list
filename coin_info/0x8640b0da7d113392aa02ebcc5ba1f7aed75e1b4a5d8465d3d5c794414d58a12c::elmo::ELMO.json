@@ -1,0 +1,13 @@
+{
+  "name": "ELMO",
+  "symbol": "ELMO",
+  "decimals": 9,
+  "coin_type": "0x8640b0da7d113392aa02ebcc5ba1f7aed75e1b4a5d8465d3d5c794414d58a12c::elmo::ELMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GUay2sbTzeanKsQK1coWSzoQXDRUw9mbnfb1gVMLpump.png?size=lg&key=7a4254",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

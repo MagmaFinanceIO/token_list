@@ -1,0 +1,13 @@
+{
+  "name": "DROP",
+  "symbol": "DROP",
+  "decimals": 9,
+  "coin_type": "0xd8264a7ed3b66482717d5fe3dad67b3357ebb47d2d02632740897ce97ed1f02b::drop::DROP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7224ec10-82de-4b77-8f30-bc0610bf5356.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

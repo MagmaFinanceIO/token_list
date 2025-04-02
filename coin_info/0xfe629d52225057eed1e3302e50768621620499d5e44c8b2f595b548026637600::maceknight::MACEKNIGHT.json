@@ -1,0 +1,13 @@
+{
+  "name": "Mace Knight",
+  "symbol": "maceknight",
+  "decimals": 9,
+  "coin_type": "0xfe629d52225057eed1e3302e50768621620499d5e44c8b2f595b548026637600::maceknight::MACEKNIGHT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/688/122/large/juan-zunino-macknight-2.jpg?1728262046",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pop Cat Snake",
+  "symbol": "POPCATS",
+  "decimals": 6,
+  "coin_type": "0x72099a3d1eced3afbeb58f8d75404be99b45af3dd326cc9bd510feff68627dee::popcats::POPCATS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/popcat_snake_01_93a8d867d8.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

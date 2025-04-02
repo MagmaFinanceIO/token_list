@@ -1,0 +1,13 @@
+{
+  "name": "Doctor Pepe",
+  "symbol": "DOPE",
+  "decimals": 9,
+  "coin_type": "0x8236d4da022fdaabfb16019ea4656d3b85a47c58bed55d72bcfa7cfa3cd5b9f9::dope::DOPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ui3yVPLSSxzxDFDosU8XdiZ4qXpHxQsVKBUxcudPecM.png?size=lg&key=6c1aeb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

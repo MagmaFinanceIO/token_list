@@ -1,0 +1,13 @@
+{
+  "name": "Nessie the Loch Ness Monster",
+  "symbol": "NESSIE",
+  "decimals": 9,
+  "coin_type": "0x0df12af54da6b27a4d02206cfaacdd9fcdf4614f411106aafe9480446be78d87::nessie::NESSIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1cdc329c-2b38-4508-805c-db4a3d18f1a3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

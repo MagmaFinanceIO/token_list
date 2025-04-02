@@ -1,0 +1,13 @@
+{
+  "name": "Pejak",
+  "symbol": "PEJAK",
+  "decimals": 9,
+  "coin_type": "0x4a1bed27f82b9f2e276a1449b3b4b61c2f6ab3c3404d15458112b5ce48336a79::pejak::PEJAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/wJSDsSK/ava-up-dex.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

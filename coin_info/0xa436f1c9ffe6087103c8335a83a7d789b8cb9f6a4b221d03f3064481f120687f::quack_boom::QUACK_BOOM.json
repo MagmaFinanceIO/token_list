@@ -1,0 +1,13 @@
+{
+  "name": "QuackBoom",
+  "symbol": "QBOOM",
+  "decimals": 9,
+  "coin_type": "0xa436f1c9ffe6087103c8335a83a7d789b8cb9f6a4b221d03f3064481f120687f::quack_boom::QUACK_BOOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://utfs.io/f/twuH73scZrUEt20HkNscZrUE2QgyfOAPwJsn6uzW5SpBbCMo",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

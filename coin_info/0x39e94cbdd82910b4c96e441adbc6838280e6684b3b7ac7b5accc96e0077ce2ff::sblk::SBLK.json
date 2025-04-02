@@ -1,0 +1,13 @@
+{
+  "name": "Seblak",
+  "symbol": "SBLK",
+  "decimals": 9,
+  "coin_type": "0x39e94cbdd82910b4c96e441adbc6838280e6684b3b7ac7b5accc96e0077ce2ff::sblk::SBLK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/297d3bce-7080-420d-8b28-6c71a1f6982c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

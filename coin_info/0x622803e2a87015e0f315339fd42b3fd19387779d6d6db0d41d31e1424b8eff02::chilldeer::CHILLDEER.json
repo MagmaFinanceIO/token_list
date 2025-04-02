@@ -1,0 +1,13 @@
+{
+  "name": "Just A Chill Reindeer",
+  "symbol": "ChillDeer",
+  "decimals": 9,
+  "coin_type": "0x622803e2a87015e0f315339fd42b3fd19387779d6d6db0d41d31e1424b8eff02::chilldeer::CHILLDEER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmYVUdkeDy5X4qtn3mH3kLVKoSfUShWWDEw1xNLSTuWUCj",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

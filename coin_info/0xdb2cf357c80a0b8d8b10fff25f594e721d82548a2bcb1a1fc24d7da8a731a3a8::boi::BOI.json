@@ -1,0 +1,13 @@
+{
+  "name": "$boi",
+  "symbol": "boi",
+  "decimals": 6,
+  "coin_type": "0xdb2cf357c80a0b8d8b10fff25f594e721d82548a2bcb1a1fc24d7da8a731a3a8::boi::BOI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmVKNL7YQh94J1pUzwUqg8hdg84bkLjr2HXi6CEFk1zpK4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

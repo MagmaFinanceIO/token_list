@@ -1,0 +1,13 @@
+{
+  "name": "Pump Boy Elon",
+  "symbol": "PBE",
+  "decimals": 9,
+  "coin_type": "0x335644a55cf3eac6c3ae6612235fe797fd6feef6acdb45ad941facddb6aba76a::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

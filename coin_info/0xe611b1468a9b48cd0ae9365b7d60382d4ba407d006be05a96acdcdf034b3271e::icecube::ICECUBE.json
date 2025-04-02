@@ -1,0 +1,13 @@
+{
+  "name": "Ice Cube",
+  "symbol": "ICECUBE",
+  "decimals": 9,
+  "coin_type": "0xe611b1468a9b48cd0ae9365b7d60382d4ba407d006be05a96acdcdf034b3271e::icecube::ICECUBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Bbxnu6bc2VFcgg13Bo7U6kL1tzvSMW7u8dCTYdYNpump.png?size=lg&key=66268b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MeowthWifDog",
+  "symbol": "MeowthWifDog",
+  "decimals": 9,
+  "coin_type": "0xfd78aa5a8536e316a16411ec361bf13f88654a26624037cdce6f5e92dc4158df::MEOWTH::MEOWTH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/152baa89-9489-4a18-8b6e-8938d31c0415.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

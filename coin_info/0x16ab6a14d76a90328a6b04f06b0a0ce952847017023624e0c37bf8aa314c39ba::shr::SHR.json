@@ -1,0 +1,13 @@
+{
+  "name": "SroomAI DAO",
+  "symbol": "SHR0",
+  "decimals": 9,
+  "coin_type": "0x16ab6a14d76a90328a6b04f06b0a0ce952847017023624e0c37bf8aa314c39ba::shr::SHR",
+  "pyth_id": "",
+  "birdeyeid": "0x16ab6a14d76a90328a6b04f06b0a0ce952847017023624e0c37bf8aa314c39ba::shr::SHR",
+  "coin_priority": [],
+  "logo_url": "https://suidaos.com/logo/shro.png",
+  "project_url": "",
+  "coingecko_id": "sroomai-dao",
+  "is_trusted": true
+}

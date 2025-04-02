@@ -1,0 +1,13 @@
+{
+  "name": "DEEP OCEAN",
+  "symbol": "OCEAN",
+  "decimals": 6,
+  "coin_type": "0x93024aeaabac6f4144f0eb6956768decfa0619d8459057db7de2b0369f4698d0::ocean::OCEAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmR3XipksKVPboVVBCsGp29BVm3ieXZCNaDjhMXCiMEUTA",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pepemas",
+  "symbol": "PEPEMAS",
+  "decimals": 6,
+  "coin_type": "0x2631207fed4002b8d7b33ad545f1da3340eaf07d681f1cbe7090d1c9b5245b78::pepemas::PEPEMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/6_8206d1c818.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ghost Halloween",
+  "symbol": "GHAL",
+  "decimals": 6,
+  "coin_type": "0x7cd21521ebb56abe76a41e375d23635d082a9690714ec491f677a8b5fe2b6266::ghal::GHAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730980002968.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

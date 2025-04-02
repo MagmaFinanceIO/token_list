@@ -1,0 +1,13 @@
+{
+  "name": "Sui Seal",
+  "symbol": "SEALS",
+  "decimals": 9,
+  "coin_type": "0xb4e27c7a395e7d40647d370016461b2ea95f1c25f3489d0a7b97f3f23dcdb28f::seals::SEALS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2e8c9d5a-2c87-4ee9-9b11-5a00403ef15f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

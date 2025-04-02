@@ -1,0 +1,13 @@
+{
+  "name": "papa",
+  "symbol": "papa",
+  "decimals": 6,
+  "coin_type": "0xdd4e4cbca55e0100a614a0bb8ac54e1c84866c3547a23d6b04299797c83b635f::papa::PAPA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmQLg1baonXESU5sGwQX7BV3BsertZn9JfASGNKhSTwRQJ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

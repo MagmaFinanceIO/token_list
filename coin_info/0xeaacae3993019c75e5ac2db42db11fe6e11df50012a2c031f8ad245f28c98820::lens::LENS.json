@@ -1,0 +1,13 @@
+{
+  "name": "Sassaman",
+  "symbol": "LENS",
+  "decimals": 9,
+  "coin_type": "0xeaacae3993019c75e5ac2db42db11fe6e11df50012a2c031f8ad245f28c98820::lens::LENS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/39df3bde-5a2c-4fd7-a3b9-88e425481939.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

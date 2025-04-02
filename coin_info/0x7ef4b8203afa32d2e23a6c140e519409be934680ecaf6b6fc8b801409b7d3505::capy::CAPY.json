@@ -1,0 +1,13 @@
+{
+  "name": "SUI CAPY",
+  "symbol": "CAPY",
+  "decimals": 6,
+  "coin_type": "0x7ef4b8203afa32d2e23a6c140e519409be934680ecaf6b6fc8b801409b7d3505::capy::CAPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/D_D_D_D_D_D_N_D_N_D_D_D_2024_09_01_D_16_06_44_18f8a0f05b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

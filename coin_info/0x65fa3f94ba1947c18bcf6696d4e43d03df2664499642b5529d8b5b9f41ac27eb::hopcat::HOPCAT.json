@@ -1,0 +1,13 @@
+{
+  "name": "HopCat",
+  "symbol": "HopCat",
+  "decimals": 6,
+  "coin_type": "0x65fa3f94ba1947c18bcf6696d4e43d03df2664499642b5529d8b5b9f41ac27eb::hopcat::HOPCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://plum-accurate-ermine-64.mypinata.cloud/ipfs/QmUj5G11QzT8WGCFwxdxrJjYSjRPfqJy5ySmz3Kb9w2GrM",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

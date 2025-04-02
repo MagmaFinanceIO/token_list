@@ -1,0 +1,13 @@
+{
+  "name": "Water Frog",
+  "symbol": "WF",
+  "decimals": 6,
+  "coin_type": "0xa32015385843132486b765b5f1593f49b7cf5b880e7dd7ac4e01bbb51bdf88fd::wf::WF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/frog_e1x_e423e9c80e.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

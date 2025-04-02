@@ -1,0 +1,13 @@
+{
+  "name": "SuiCatCraze",
+  "symbol": "SUICIZ",
+  "decimals": 9,
+  "coin_type": "0xb989bf312a617c7f361bdffeac2c17a1ffc6e8958ceb7a42efd9c8978d732bdc::suiciz::SUICIZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7a846fa5-2e0a-477b-937d-bdde2618a5d4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

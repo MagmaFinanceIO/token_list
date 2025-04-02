@@ -1,0 +1,13 @@
+{
+  "name": "Fomo",
+  "symbol": "FOMO",
+  "decimals": 9,
+  "coin_type": "0x14af75a4d9191aec92332ccf3e2b8b387a05cb748f42bce4017d25b0a2569466::fomo::FOMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ZxBon4vcf3DVcrt63fJU52ywYm9BKZC6YuXDhb3fomo.png?size=xl&key=706b83",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

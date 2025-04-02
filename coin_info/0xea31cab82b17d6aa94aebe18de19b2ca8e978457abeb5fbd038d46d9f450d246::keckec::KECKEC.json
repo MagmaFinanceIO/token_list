@@ -1,0 +1,13 @@
+{
+  "name": "Keckec",
+  "symbol": "Keckec",
+  "decimals": 9,
+  "coin_type": "0xea31cab82b17d6aa94aebe18de19b2ca8e978457abeb5fbd038d46d9f450d246::keckec::KECKEC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6da742b0-413a-410b-9162-d60877a1aa17.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

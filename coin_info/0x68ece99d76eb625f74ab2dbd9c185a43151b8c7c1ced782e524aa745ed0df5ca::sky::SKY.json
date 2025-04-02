@@ -1,0 +1,13 @@
+{
+  "name": "Luce's Friend",
+  "symbol": "SKY",
+  "decimals": 9,
+  "coin_type": "0x68ece99d76eb625f74ab2dbd9c185a43151b8c7c1ced782e524aa745ed0df5ca::sky::SKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9qEJwC56n9YjppaQLjGcuQ39tx86DnkdVS5R9RDtpump.png?size=xl&key=5bfe07",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

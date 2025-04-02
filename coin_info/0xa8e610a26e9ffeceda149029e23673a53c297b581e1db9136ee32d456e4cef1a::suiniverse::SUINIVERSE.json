@@ -1,0 +1,13 @@
+{
+  "name": "Sui Universe",
+  "symbol": "SUINIVERSE",
+  "decimals": 9,
+  "coin_type": "0xa8e610a26e9ffeceda149029e23673a53c297b581e1db9136ee32d456e4cef1a::suiniverse::SUINIVERSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3ef6aea5-c413-4dc1-9a14-7847d1a729ff.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "XGPT",
+  "symbol": "XGPT",
+  "decimals": 6,
+  "coin_type": "0x2f22a280d901dfb98249ebc2bb18731683d8b4883349d0c0ec3906bb2ae7512a::xgpt::XGPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/54056c4f-4ef8-4f60-bd30-8d8bea41c79d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Musk It",
+  "symbol": "MUSKIT",
+  "decimals": 9,
+  "coin_type": "0xc008975f624a78e20acf5399a7c85edf0544932dc27b99c7f5720ce2fecbcc36::muskit::MUSKIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9So52ugZh2BLBT3f7p61947q91uQh2DyvbfyMDeRpump.png?size=lg&key=e74634",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

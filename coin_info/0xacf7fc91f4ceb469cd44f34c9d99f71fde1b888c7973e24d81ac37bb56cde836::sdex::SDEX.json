@@ -1,0 +1,13 @@
+{
+  "name": "Sui Dex",
+  "symbol": "SDEX",
+  "decimals": 9,
+  "coin_type": "0xacf7fc91f4ceb469cd44f34c9d99f71fde1b888c7973e24d81ac37bb56cde836::sdex::SDEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d7fff8d9-bce7-4e2c-b2c7-9e860027704e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

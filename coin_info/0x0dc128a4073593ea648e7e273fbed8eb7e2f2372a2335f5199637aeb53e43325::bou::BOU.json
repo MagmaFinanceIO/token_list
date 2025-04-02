@@ -1,0 +1,13 @@
+{
+  "name": "BOU",
+  "symbol": "BOU",
+  "decimals": 9,
+  "coin_type": "0x0dc128a4073593ea648e7e273fbed8eb7e2f2372a2335f5199637aeb53e43325::bou::BOU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

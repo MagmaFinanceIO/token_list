@@ -1,0 +1,13 @@
+{
+  "name": "dQacm",
+  "symbol": "qoRwt",
+  "decimals": 9,
+  "coin_type": "0x97d26690bdc8ab08d13867661be615787004de183891e29aa0bbc3a7df0fcea0::qorwt::QORWT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HheTmXNNkrzN78Qsyz6obfGSL1HvFttG7FU5fok3pump.png?size=lg&key=282918",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

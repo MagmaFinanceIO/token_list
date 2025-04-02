@@ -1,0 +1,13 @@
+{
+  "name": "Dog With Sword",
+  "symbol": "SWDOG",
+  "decimals": 9,
+  "coin_type": "0xa7fdddb04d76743023d2cd4fa95483abaacb887bb62bb48842b2f58e66a59cbc::swdog::SWDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FTbusuidpUWUuXs3JamrQEZWhVcKhddN66ny1288pump.png?size=lg&key=c18f3c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

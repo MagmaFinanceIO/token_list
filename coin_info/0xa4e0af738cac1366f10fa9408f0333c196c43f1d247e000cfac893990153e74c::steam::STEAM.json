@@ -1,0 +1,13 @@
+{
+  "name": "Steam Token",
+  "symbol": "STEAM",
+  "decimals": 9,
+  "coin_type": "0xa4e0af738cac1366f10fa9408f0333c196c43f1d247e000cfac893990153e74c::steam::STEAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/94b8RZx3CZWbsBQvXnahk8CMARjC7FiqtDyqG2srpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

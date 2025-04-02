@@ -1,0 +1,13 @@
+{
+  "name": "Suimink",
+  "symbol": "MINK",
+  "decimals": 6,
+  "coin_type": "0x6076c797deaf917c4bac8a09373a595bbfbf39bd1b47bfd7c4b0258f6c139b17::mink::MINK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731161532461.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

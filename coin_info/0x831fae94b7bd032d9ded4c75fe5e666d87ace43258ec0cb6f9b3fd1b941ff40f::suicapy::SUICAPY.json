@@ -1,0 +1,13 @@
+{
+  "name": "Capy",
+  "symbol": "SUICAPY",
+  "decimals": 9,
+  "coin_type": "0x831fae94b7bd032d9ded4c75fe5e666d87ace43258ec0cb6f9b3fd1b941ff40f::suicapy::SUICAPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1e0d99c7-7576-4b2c-bb95-1397e33faf79.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

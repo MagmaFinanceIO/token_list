@@ -1,0 +1,13 @@
+{
+  "name": "AAA Cat AI",
+  "symbol": "AAAI",
+  "decimals": 6,
+  "coin_type": "0x99ed399d9f3cc401b625402e0ad8bbcb187c5470806e9bfa9fcc7f974c74f45f::aaai::AAAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/si_L_Noz_J_400x400_8766623d25.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

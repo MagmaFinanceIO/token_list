@@ -1,0 +1,13 @@
+{
+  "name": "Peanut Squirrel",
+  "symbol": "PNUT",
+  "decimals": 6,
+  "coin_type": "0xa8b75b04cf62cfd9656513bd74cc7abba9862272d56f144eaa9a08194844e897::pnut::PNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmWf2zuxzRm2F6kVzorpcV9TKtbrJ6bPKJkoA3hZDan11D",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

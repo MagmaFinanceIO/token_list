@@ -1,0 +1,13 @@
+{
+  "name": "Dinosui",
+  "symbol": "Dino",
+  "decimals": 9,
+  "coin_type": "0xefe2820a7040557b27d77347dc2961094a5a390bca491502b4ddab76d2fe2a6c::dino::DINO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4c9ba1d5-c84b-42be-8864-e475bef24f2b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

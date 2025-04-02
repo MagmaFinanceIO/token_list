@@ -1,0 +1,13 @@
+{
+  "name": "AICAT",
+  "symbol": "CAT",
+  "decimals": 6,
+  "coin_type": "0xb690ec8ba9b3ca720718b19ad1b3fa7bc42cbd44154715cf16b42b81b01d162e::cat::CAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737599659418.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

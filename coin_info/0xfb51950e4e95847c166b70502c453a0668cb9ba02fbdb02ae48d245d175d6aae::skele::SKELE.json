@@ -1,0 +1,13 @@
+{
+  "name": "Skeletor",
+  "symbol": "SKELE",
+  "decimals": 9,
+  "coin_type": "0xfb51950e4e95847c166b70502c453a0668cb9ba02fbdb02ae48d245d175d6aae::skele::SKELE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EdVGEduzMhPtXwVZ24eVVaxxZFEkav3xvswdeFPgpump.png?size=lg&key=1d1845",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

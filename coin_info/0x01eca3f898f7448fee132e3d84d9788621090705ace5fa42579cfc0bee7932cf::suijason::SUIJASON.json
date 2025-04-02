@@ -1,0 +1,13 @@
+{
+  "name": "Friday the 13th",
+  "symbol": "SUIJASON",
+  "decimals": 9,
+  "coin_type": "0x01eca3f898f7448fee132e3d84d9788621090705ace5fa42579cfc0bee7932cf::suijason::SUIJASON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CGUKHx4EkDtGJLJgTWH9TLTzGiHgJWcQkYJ5H2Mfpump.png?size=lg&key=7cff61",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

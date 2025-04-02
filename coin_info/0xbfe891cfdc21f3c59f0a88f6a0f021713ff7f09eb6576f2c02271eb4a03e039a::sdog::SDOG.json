@@ -1,0 +1,13 @@
+{
+  "name": "Sui Dog",
+  "symbol": "SDOG",
+  "decimals": 9,
+  "coin_type": "0xbfe891cfdc21f3c59f0a88f6a0f021713ff7f09eb6576f2c02271eb4a03e039a::sdog::SDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/33a89cf9-d01a-40c7-a702-7db938dbf9f1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

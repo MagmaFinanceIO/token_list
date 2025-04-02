@@ -1,0 +1,13 @@
+{
+  "name": "SUI FISH",
+  "symbol": "FISH",
+  "decimals": 1,
+  "coin_type": "0x73ddc5654d9bc7c6978ac2d2d0dc1775d25665c12cc4ef08a4c60c9b4384959a::fish::FISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/39b71722-f889-41d6-ac53-db6905444707.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

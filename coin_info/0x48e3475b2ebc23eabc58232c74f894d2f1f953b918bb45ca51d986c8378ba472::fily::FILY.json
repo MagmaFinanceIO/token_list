@@ -1,0 +1,13 @@
+{
+  "name": "Fily",
+  "symbol": "FILY",
+  "decimals": 6,
+  "coin_type": "0x48e3475b2ebc23eabc58232c74f894d2f1f953b918bb45ca51d986c8378ba472::fily::FILY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_2024_10_10_T224129_231_2dbb81bd88.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

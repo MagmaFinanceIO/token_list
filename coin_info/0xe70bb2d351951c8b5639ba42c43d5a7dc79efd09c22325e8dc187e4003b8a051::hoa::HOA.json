@@ -1,0 +1,13 @@
+{
+  "name": "Hostage of AI",
+  "symbol": "HOA",
+  "decimals": 9,
+  "coin_type": "0xe70bb2d351951c8b5639ba42c43d5a7dc79efd09c22325e8dc187e4003b8a051::hoa::HOA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3G1earMvwcuxfihKNLoD3RWexqEB5s3sbfieqWm7pump.png?size=lg&key=90a590",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

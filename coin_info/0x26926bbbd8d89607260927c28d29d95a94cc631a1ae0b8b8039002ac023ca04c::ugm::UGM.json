@@ -1,0 +1,13 @@
+{
+  "name": "User Generated Money",
+  "symbol": "UGM",
+  "decimals": 9,
+  "coin_type": "0x26926bbbd8d89607260927c28d29d95a94cc631a1ae0b8b8039002ac023ca04c::ugm::UGM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/21a93970-c72d-43ec-a84d-3d064321df98.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

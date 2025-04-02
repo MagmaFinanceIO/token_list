@@ -1,0 +1,13 @@
+{
+  "name": "PhaRaOh DOGE",
+  "symbol": "PRODOGE",
+  "decimals": 9,
+  "coin_type": "0xccc9e7d6420b31e3861819a5bb5a81579fa516e5b830f2f0016dd6acaac905ba::prodoge::PRODOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/FUtmQDVPOKqY7AbI?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

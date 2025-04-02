@@ -1,0 +1,13 @@
+{
+  "name": "RUDOLPH",
+  "symbol": "RUDOLPH",
+  "decimals": 9,
+  "coin_type": "0x9208c6b5e179a794a32fe42040ff3d4cb55af245c0156a86c7422f6a4a68de8f::rudolph::RUDOLPH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/61trovNRXxwEyDraZnyZA1U1XW5anmug5DjjDLR7pump.png?size=lg&key=a390d9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

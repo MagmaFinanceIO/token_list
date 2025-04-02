@@ -1,0 +1,13 @@
+{
+  "name": "Moon Dawg",
+  "symbol": "MOONDAWG",
+  "decimals": 9,
+  "coin_type": "0xc7aeff4ad49bd17b70004d384b8619d3ded7bbfc48fb5101e40d97ff80a58f8a::moon_dawg::MOON_DAWG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/QmWnmvQQ9cfrXYErZngyC4tQBiJ1TPVFgTDpf3my3cAJRf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

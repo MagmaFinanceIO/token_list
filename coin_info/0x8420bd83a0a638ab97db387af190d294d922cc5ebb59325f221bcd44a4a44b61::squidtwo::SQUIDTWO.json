@@ -1,0 +1,13 @@
+{
+  "name": "Squid Game 2",
+  "symbol": "SQUIDTWO",
+  "decimals": 9,
+  "coin_type": "0x8420bd83a0a638ab97db387af190d294d922cc5ebb59325f221bcd44a4a44b61::squidtwo::SQUIDTWO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9842b2fa-3428-4d76-bf76-f10c51ba4aa5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

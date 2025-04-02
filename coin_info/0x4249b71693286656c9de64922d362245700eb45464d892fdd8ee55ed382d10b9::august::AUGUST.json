@@ -1,0 +1,13 @@
+{
+  "name": "Cat in August",
+  "symbol": "AUGUST",
+  "decimals": 6,
+  "coin_type": "0x4249b71693286656c9de64922d362245700eb45464d892fdd8ee55ed382d10b9::august::AUGUST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/a_ae_a_c_20241013122136_5e7d2c74d2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

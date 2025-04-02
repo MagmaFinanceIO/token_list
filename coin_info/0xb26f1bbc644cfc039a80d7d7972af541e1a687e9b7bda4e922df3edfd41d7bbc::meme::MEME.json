@@ -1,0 +1,13 @@
+{
+  "name": "First Bitcoin Meme",
+  "symbol": "MEME",
+  "decimals": 9,
+  "coin_type": "0xb26f1bbc644cfc039a80d7d7972af541e1a687e9b7bda4e922df3edfd41d7bbc::meme::MEME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/KwsWoTUEpzpVqFwFpjCu8eEGgBgKTGmhm7hUB65pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SIGMA",
+  "symbol": "SIGMA",
+  "decimals": 9,
+  "coin_type": "0x5a37c3317afcf13ec66a92328ef1843b77faa3963bf56cbb6680c04c4d44e65c::sigma::SIGMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9f4d0921-6751-4a43-9540-74e39a7ced7d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

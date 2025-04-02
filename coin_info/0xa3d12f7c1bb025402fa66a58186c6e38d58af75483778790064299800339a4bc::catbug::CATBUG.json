@@ -1,0 +1,13 @@
+{
+  "name": "CatBug",
+  "symbol": "CATBUG",
+  "decimals": 9,
+  "coin_type": "0xa3d12f7c1bb025402fa66a58186c6e38d58af75483778790064299800339a4bc::catbug::CATBUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/56a94500-2c01-496e-9f23-0f11e51a0695.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

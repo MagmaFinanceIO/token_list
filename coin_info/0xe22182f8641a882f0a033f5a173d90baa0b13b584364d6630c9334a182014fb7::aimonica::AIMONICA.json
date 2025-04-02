@@ -1,0 +1,13 @@
+{
+  "name": "Aimonica",
+  "symbol": "Aimonica",
+  "decimals": 9,
+  "coin_type": "0xe22182f8641a882f0a033f5a173d90baa0b13b584364d6630c9334a182014fb7::aimonica::AIMONICA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8S2vaRpjqdACqm1AD1ZrxZBZNCz1DksUpxJ6Jg4pcTRy.png?size=lg&key=4ab27c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

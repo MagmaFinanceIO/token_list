@@ -1,0 +1,13 @@
+{
+  "name": "Sui Poro",
+  "symbol": "SUIRO",
+  "decimals": 6,
+  "coin_type": "0x1d9a3501922f04b3d33303359338912befdd414325af26965879a508e0a9e1de::suiro::SUIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730986816255.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

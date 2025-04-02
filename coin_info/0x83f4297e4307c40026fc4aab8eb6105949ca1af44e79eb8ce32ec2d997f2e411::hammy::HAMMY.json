@@ -1,0 +1,13 @@
+{
+  "name": "Hammy Sui",
+  "symbol": "HAMMY",
+  "decimals": 6,
+  "coin_type": "0x83f4297e4307c40026fc4aab8eb6105949ca1af44e79eb8ce32ec2d997f2e411::hammy::HAMMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1063_f7fa49852d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

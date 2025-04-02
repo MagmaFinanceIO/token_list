@@ -1,0 +1,13 @@
+{
+  "name": "ManWif",
+  "symbol": "MANWIF",
+  "decimals": 9,
+  "coin_type": "0xf78b09c428b362df17f4c711b1bc7ed8e79a7cbe54f8c08e54acc983ef689908::manwif::MANWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1792571582902095872/1h0Tm7RU_400x400.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

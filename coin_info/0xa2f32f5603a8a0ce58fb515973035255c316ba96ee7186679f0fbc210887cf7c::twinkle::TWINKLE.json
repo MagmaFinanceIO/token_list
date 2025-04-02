@@ -1,0 +1,13 @@
+{
+  "name": "Twinkle  Little Star",
+  "symbol": "TWINKLE",
+  "decimals": 9,
+  "coin_type": "0xa2f32f5603a8a0ce58fb515973035255c316ba96ee7186679f0fbc210887cf7c::twinkle::TWINKLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4c7049eb-f8d3-4255-995d-68fd9cfddb7d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

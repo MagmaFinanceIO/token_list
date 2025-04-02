@@ -1,0 +1,13 @@
+{
+  "name": "WIF",
+  "symbol": "Sui Dog Wif Hat",
+  "decimals": 9,
+  "coin_type": "0x97fabbcf2699ca3947bdf54810f1802927ccbfe9ceb5d029a61dc3fe8a43488b::wif::WIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/QmNTyTg7EqjnyDXPZjFMAqphrtBk7EtvApSiekHPQmhnuN",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

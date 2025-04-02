@@ -1,0 +1,13 @@
+{
+  "name": "BLUEBucks",
+  "symbol": "BBKS",
+  "decimals": 6,
+  "coin_type": "0xcbd299892bae76aa0c5574b4d6bcbfb8f25d55063e51017abe78b35cf5a0ea88::bbks::BBKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20241012_133535_717_9517b4f1b5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

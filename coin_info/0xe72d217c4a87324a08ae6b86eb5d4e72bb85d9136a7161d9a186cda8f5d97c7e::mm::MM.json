@@ -1,0 +1,13 @@
+{
+  "name": "MM",
+  "symbol": "MM",
+  "decimals": 9,
+  "coin_type": "0xe72d217c4a87324a08ae6b86eb5d4e72bb85d9136a7161d9a186cda8f5d97c7e::mm::MM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0917d672-3261-4d8e-aa72-28a64c243558.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

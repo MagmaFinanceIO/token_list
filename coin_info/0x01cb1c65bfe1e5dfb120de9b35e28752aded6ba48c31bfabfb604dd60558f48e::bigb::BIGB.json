@@ -1,0 +1,13 @@
+{
+  "name": "Big Brother",
+  "symbol": "BIGB",
+  "decimals": 6,
+  "coin_type": "0x01cb1c65bfe1e5dfb120de9b35e28752aded6ba48c31bfabfb604dd60558f48e::bigb::BIGB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://static.wikia.nocookie.net/bigbrother/images/9/92/Mexico_4.jpg/revision/latest",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

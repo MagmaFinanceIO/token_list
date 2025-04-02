@@ -1,0 +1,13 @@
+{
+  "name": "MEMECOIN",
+  "symbol": "MEMECOIN",
+  "decimals": 9,
+  "coin_type": "0xafa26db311d13643b040c0c2a478e5f883ccf1f9a442cd9705d8c1f023c4c3f6::MEMECOIN::MEMECOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DxrupDm3nUtMtMRxfZVyUPgtunTKdgQjRmLTEv3Jpump.png?size=xl&key=37ef12",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "USD Coin (Portal from Eth)",
+  "symbol": "wUSDC",
+  "decimals": 6,
+  "coin_type": "0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN",
+  "pyth_id": "eaa020c61cc479712813461ce153894a96a6c00b21ed0cfc2798d1f9a9e9c94a",
+  "birdeyeid": "0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN",
+  "coin_priority": [
+    "990"
+  ],
+  "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
+  "project_url": "",
+  "coingecko_id": "usd-coin-wormhole-from-ethereum",
+  "is_trusted": true
+}

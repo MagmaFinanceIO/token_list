@@ -1,0 +1,13 @@
+{
+  "name": "Flip Frenzy",
+  "symbol": "FLIP",
+  "decimals": 6,
+  "coin_type": "0x106380820a69a81e83651df37db7249dc004dfcfe3cb799999c4a91a2f1ece93::flip::FLIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737039134472.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

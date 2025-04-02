@@ -1,0 +1,13 @@
+{
+  "name": "FLOKITO KING",
+  "symbol": "FLOKITO",
+  "decimals": 9,
+  "coin_type": "0xc7e232484dcafeb190a332d2898ebb3c4689dc6cf6df029643ab4a189f2ec97d::flokito_::FLOKITO_",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/276c79d7-197f-4efc-bb60-edd2d4c63823.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

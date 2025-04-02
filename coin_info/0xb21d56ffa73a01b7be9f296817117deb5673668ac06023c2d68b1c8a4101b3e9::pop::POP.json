@@ -1,0 +1,13 @@
+{
+  "name": "POP",
+  "symbol": "POP",
+  "decimals": 6,
+  "coin_type": "0xb21d56ffa73a01b7be9f296817117deb5673668ac06023c2d68b1c8a4101b3e9::pop::POP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pop.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

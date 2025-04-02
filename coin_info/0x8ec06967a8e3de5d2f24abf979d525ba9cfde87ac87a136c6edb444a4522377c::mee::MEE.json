@@ -1,0 +1,13 @@
+{
+  "name": "Me Everyday",
+  "symbol": "MEE",
+  "decimals": 9,
+  "coin_type": "0x8ec06967a8e3de5d2f24abf979d525ba9cfde87ac87a136c6edb444a4522377c::mee::MEE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreig3ldfbypj66zgdsjs3vely4wlr4btg7lo2izno6roia6hgotbhzy.ipfs.w3s.link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

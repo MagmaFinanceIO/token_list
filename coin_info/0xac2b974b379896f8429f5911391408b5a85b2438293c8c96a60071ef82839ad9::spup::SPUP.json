@@ -1,0 +1,13 @@
+{
+  "name": "seal pup",
+  "symbol": "spup",
+  "decimals": 6,
+  "coin_type": "0xac2b974b379896f8429f5911391408b5a85b2438293c8c96a60071ef82839ad9::spup::SPUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSwqazGiAVe4BfFqbmDEq4ZRABgjK41VB9LXioY8BEDVA",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

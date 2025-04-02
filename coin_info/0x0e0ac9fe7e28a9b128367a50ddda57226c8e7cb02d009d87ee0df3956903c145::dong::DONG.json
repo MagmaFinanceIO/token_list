@@ -1,0 +1,13 @@
+{
+  "name": "Konkey Dong",
+  "symbol": "DONG",
+  "decimals": 9,
+  "coin_type": "0x0e0ac9fe7e28a9b128367a50ddda57226c8e7cb02d009d87ee0df3956903c145::dong::DONG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a9ee16eb-664b-4321-9fe1-ede3aa836b3b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

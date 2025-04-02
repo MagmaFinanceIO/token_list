@@ -1,0 +1,13 @@
+{
+  "name": "Safe Sui",
+  "symbol": "SAFESUI",
+  "decimals": 9,
+  "coin_type": "0x9c7dbe1c20bec24046ce60115b45c255b0d7d6127c9ed1f6801999269bfcadca::safesui::SAFESUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://purple-neat-mole-319.mypinata.cloud/ipfs/Qma3ke3VsudZKZ57ifHtU6hRkQr5YDR83hx3Jwe3Rd8hLC",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

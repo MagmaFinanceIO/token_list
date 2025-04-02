@@ -1,0 +1,13 @@
+{
+  "name": "PESTO SUI",
+  "symbol": "PESTO",
+  "decimals": 6,
+  "coin_type": "0x13a668cb2de1d985980ef5fe57ee02f204f72dd63ffeae1f23cfa8bc72ea3b8e::pesto::PESTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_12_20_26_32_c3cc532905.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

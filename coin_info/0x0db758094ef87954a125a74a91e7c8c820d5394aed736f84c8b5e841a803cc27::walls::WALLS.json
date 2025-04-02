@@ -1,0 +1,13 @@
+{
+  "name": "Wall sui Boys",
+  "symbol": "WALLS",
+  "decimals": 6,
+  "coin_type": "0x0db758094ef87954a125a74a91e7c8c820d5394aed736f84c8b5e841a803cc27::walls::WALLS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000027953_387985b420.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

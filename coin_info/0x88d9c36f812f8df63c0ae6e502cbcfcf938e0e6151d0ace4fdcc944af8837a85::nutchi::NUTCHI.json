@@ -1,0 +1,13 @@
+{
+  "name": "Nutchi",
+  "symbol": "NUTCHI",
+  "decimals": 9,
+  "coin_type": "0x88d9c36f812f8df63c0ae6e502cbcfcf938e0e6151d0ace4fdcc944af8837a85::nutchi::NUTCHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3ipRLHhfaKk1jMzALn45NqKQzpgSuwcmU76qsothpump.png?size=lg&key=de6673",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

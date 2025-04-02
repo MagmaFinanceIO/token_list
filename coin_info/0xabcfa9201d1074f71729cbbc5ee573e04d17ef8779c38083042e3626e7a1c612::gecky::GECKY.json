@@ -1,0 +1,13 @@
+{
+  "name": "GECKY",
+  "symbol": "GECKY",
+  "decimals": 9,
+  "coin_type": "0xabcfa9201d1074f71729cbbc5ee573e04d17ef8779c38083042e3626e7a1c612::gecky::GECKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6aAw5X42bi3mJSRN8UYGZnUSVRrRFS7o8Scus7CasP1r.png?size=lg&key=772daf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

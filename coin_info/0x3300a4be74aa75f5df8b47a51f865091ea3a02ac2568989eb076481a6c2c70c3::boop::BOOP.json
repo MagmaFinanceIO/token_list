@@ -1,0 +1,13 @@
+{
+  "name": "Boop Coin",
+  "symbol": "BOOP",
+  "decimals": 6,
+  "coin_type": "0x3300a4be74aa75f5df8b47a51f865091ea3a02ac2568989eb076481a6c2c70c3::boop::BOOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731584507357.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

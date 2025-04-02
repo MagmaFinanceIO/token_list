@@ -1,0 +1,13 @@
+{
+  "name": "SPUNGY ON SUI",
+  "symbol": "SPUNGY",
+  "decimals": 6,
+  "coin_type": "0x9b6bc4544fd649a800fafa1f92845ee21d46a18e72f23924708ecdf48120b4c2::spungy::SPUNGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logomovepump_e1f14141f0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

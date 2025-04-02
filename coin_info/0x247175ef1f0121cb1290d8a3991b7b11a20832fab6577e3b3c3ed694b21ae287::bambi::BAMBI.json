@@ -1,0 +1,13 @@
+{
+  "name": "BAMBI",
+  "symbol": "bambi",
+  "decimals": 9,
+  "coin_type": "0x247175ef1f0121cb1290d8a3991b7b11a20832fab6577e3b3c3ed694b21ae287::bambi::BAMBI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "OOOF! Coin",
+  "symbol": "OOOF",
+  "decimals": 9,
+  "coin_type": "0x4a90d8ea9907a03b72513da8be4c645e21498edf82f146f5d08db9509a3ea2ba::ooof::OOOF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "N9ajv8yyCsocQkRR",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "EPIWAVE",
+  "symbol": "EPIW",
+  "decimals": 9,
+  "coin_type": "0x57b999db35e2f94206875942fbab3ba87de7d48df6a0f27233503982a35b79a8::epiw::EPIW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2c7d4028-abe4-4280-a232-f9cfc66fd45d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Crab Wif Fish",
+  "symbol": "CWF",
+  "decimals": 6,
+  "coin_type": "0xbfc8c565d331861018b47ac8165a4f5f1ae06e9870ec56e87aa381e85b2968a7::cwf::CWF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/crab_fish_d4c49ce691.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

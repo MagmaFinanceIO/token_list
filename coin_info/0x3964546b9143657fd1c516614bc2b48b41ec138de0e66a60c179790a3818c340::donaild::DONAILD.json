@@ -1,0 +1,13 @@
+{
+  "name": "Donald Trump AI by SuiAI",
+  "symbol": "DONAILD",
+  "decimals": 6,
+  "coin_type": "0x3964546b9143657fd1c516614bc2b48b41ec138de0e66a60c179790a3818c340::donaild::DONAILD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_8592_52a1d454ee.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

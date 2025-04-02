@@ -1,0 +1,13 @@
+{
+  "name": "Peanut Sui",
+  "symbol": "PNUTSUI",
+  "decimals": 6,
+  "coin_type": "0x7f64b960ded15cfea042bee65cbd34e54ab3aba674715112ec6696d8e7d0ec70::pnutsui::PNUTSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731762561487.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

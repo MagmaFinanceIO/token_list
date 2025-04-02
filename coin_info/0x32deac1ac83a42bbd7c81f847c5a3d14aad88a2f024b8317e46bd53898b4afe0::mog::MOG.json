@@ -1,0 +1,13 @@
+{
+  "name": "MOG",
+  "symbol": "MOG",
+  "decimals": 5,
+  "coin_type": "0x32deac1ac83a42bbd7c81f847c5a3d14aad88a2f024b8317e46bd53898b4afe0::mog::MOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c84272cf-eb2f-4502-945c-fff5b1ae17e6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

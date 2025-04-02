@@ -1,0 +1,13 @@
+{
+  "name": "Cabybara Pepe",
+  "symbol": "CAPE",
+  "decimals": 3,
+  "coin_type": "0x882c15851df2c9a14db2a8a80a3dea18e210c052d2bd5f1fefe9cfd831e48fba::cape::CAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fa3dc0f6-adf9-43ad-b8c2-a508aae747b9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GAME BOY Sui",
+  "symbol": "SGAME",
+  "decimals": 6,
+  "coin_type": "0xcccf14ea59f253b74f3d16df1a3268daefb166d89bd3f7176f71e837b5def956::sgame::SGAME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d31e5c53-de7a-4c08-a16a-a4b1aa45d2ee.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

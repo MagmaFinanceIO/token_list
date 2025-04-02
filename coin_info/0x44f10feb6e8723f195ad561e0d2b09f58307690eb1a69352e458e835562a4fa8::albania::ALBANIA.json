@@ -1,0 +1,13 @@
+{
+  "name": "Albania",
+  "symbol": "Albania",
+  "decimals": 2,
+  "coin_type": "0x44f10feb6e8723f195ad561e0d2b09f58307690eb1a69352e458e835562a4fa8::albania::ALBANIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1ba8228c-97cd-4af7-b7f4-14de796962c0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Profit maximums ( Profiteus )",
+  "symbol": "Profiteus",
+  "decimals": 9,
+  "coin_type": "0xe3a3fada3649d22bc5ea834f191cc3547ff99f4cf4243f58727901821545f5ab::profiteus::PROFITEUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9Wh9ho68cPXCxEJ84y4193zXaD7f3VBMfEseP1tVpump.png?size=lg&key=21e877",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

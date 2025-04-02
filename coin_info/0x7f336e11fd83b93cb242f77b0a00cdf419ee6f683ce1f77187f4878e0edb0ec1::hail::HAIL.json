@@ -1,0 +1,13 @@
+{
+  "name": "Hail Elon",
+  "symbol": "HAIL",
+  "decimals": 6,
+  "coin_type": "0x7f336e11fd83b93cb242f77b0a00cdf419ee6f683ce1f77187f4878e0edb0ec1::hail::HAIL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/46382d1a-12f4-4a22-b6b9-2cec1083d8f2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Grinch On Sui",
+  "symbol": "GRINCH",
+  "decimals": 6,
+  "coin_type": "0x4c7282ca0994af1b8e6b952c1bd83e2e895c3e1ddcd4c42d24d00be2de62ede8::grinch::GRINCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Banner512x512video_ezgif_com_video_to_gif_converter_5_e9c81eb845.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

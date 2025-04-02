@@ -1,0 +1,13 @@
+{
+  "name": "Sui Degen",
+  "symbol": "SDEGEN",
+  "decimals": 6,
+  "coin_type": "0x6cac9c14bfc2ed61989b8c3d06ebcd96e2ce00ef3e7fb3fbbc1db48d8c87e241::sdegen::SDEGEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/photo_2024_12_27_15_48_39_8ae3bf4266.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

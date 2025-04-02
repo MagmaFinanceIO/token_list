@@ -1,0 +1,13 @@
+{
+  "name": "Unlimit AI",
+  "symbol": "UNA",
+  "decimals": 9,
+  "coin_type": "0xae918aba36e331a4bd53547511bca033af0169f05ee583b25bd344dff18d3d9e::una::UNA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BbsgkH6mfKH8f7Z354vxY91hHV6zQzjnzx7SoM5tpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

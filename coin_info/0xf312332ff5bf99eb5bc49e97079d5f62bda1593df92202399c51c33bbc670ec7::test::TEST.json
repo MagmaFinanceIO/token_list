@@ -1,0 +1,13 @@
+{
+  "name": "TEST",
+  "symbol": "test",
+  "decimals": 6,
+  "coin_type": "0xf312332ff5bf99eb5bc49e97079d5f62bda1593df92202399c51c33bbc670ec7::test::TEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cloudinary.com/dkpo6c3me/image/upload/v1728334146/test_dax41f.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BLOP",
+  "symbol": "BLOP",
+  "decimals": 9,
+  "coin_type": "0x44913c99c996c014f3f70663bd043c12b5289a4cd116f9775b5c0eb59a00b87a::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

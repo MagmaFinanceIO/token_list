@@ -1,0 +1,13 @@
+{
+  "name": "Zippo",
+  "symbol": "ZiP",
+  "decimals": 9,
+  "coin_type": "0xfc2862abcf7afafc2de9687c1c9bfb7b380e98cca6e441721eff83fa59181e29::zip::ZIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5d958f9c-2078-486a-853a-fe1c7a6ed766.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

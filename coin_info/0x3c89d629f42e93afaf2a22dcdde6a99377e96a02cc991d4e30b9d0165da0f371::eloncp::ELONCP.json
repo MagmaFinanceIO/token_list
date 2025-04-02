@@ -1,0 +1,13 @@
+{
+  "name": "Elon Coffee podcast",
+  "symbol": "ELONCP",
+  "decimals": 9,
+  "coin_type": "0x3c89d629f42e93afaf2a22dcdde6a99377e96a02cc991d4e30b9d0165da0f371::eloncp::ELONCP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FbJ9DQb2GVavffnoNYeKxoew7wEV4Mw1Ko9BjRUQpump.png?size=lg&key=664a85",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

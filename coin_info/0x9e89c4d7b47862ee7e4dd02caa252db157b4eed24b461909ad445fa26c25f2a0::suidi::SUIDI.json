@@ -1,0 +1,13 @@
+{
+  "name": "Suidi",
+  "symbol": "SUIDI",
+  "decimals": 6,
+  "coin_type": "0x9e89c4d7b47862ee7e4dd02caa252db157b4eed24b461909ad445fa26c25f2a0::suidi::SUIDI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000049623_0247d33db1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

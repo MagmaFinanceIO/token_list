@@ -1,0 +1,13 @@
+{
+  "name": "Cester the Lobster on SUI",
+  "symbol": "CESTER",
+  "decimals": 6,
+  "coin_type": "0x52a3b553a8e1c64d23ba890c0053a31e3ffab7bb29f0f11aadc4894c5df10f66::cester::CESTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_5dc3f73bbf.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

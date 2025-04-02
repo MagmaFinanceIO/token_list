@@ -1,0 +1,13 @@
+{
+  "name": "PEPENUT ON SUI",
+  "symbol": "PENUTS",
+  "decimals": 9,
+  "coin_type": "0x4ebb67db57c04e48802cff55a0ecdb2340514fc7642c74b08b2dc8fb472f893a::penuts::PENUTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/be48fd42-ccf7-45ab-81f2-dd24b5a6590b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

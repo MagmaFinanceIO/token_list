@@ -1,0 +1,13 @@
+{
+  "name": "ELONMUSK",
+  "symbol": "ELONMUSK",
+  "decimals": 5,
+  "coin_type": "0x92c5a8d640e65a5e5a96df9d66a6f1a131cfd209a5c018f0b5ba829a63e33431::elonmusk::ELONMUSK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d0698e03-cbf0-4d75-89bb-bfa260cc4370.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

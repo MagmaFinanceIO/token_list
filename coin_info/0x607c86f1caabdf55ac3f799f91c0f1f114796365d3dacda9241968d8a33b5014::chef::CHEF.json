@@ -1,0 +1,13 @@
+{
+  "name": "Cat eating fish",
+  "symbol": "CHEF",
+  "decimals": 6,
+  "coin_type": "0x607c86f1caabdf55ac3f799f91c0f1f114796365d3dacda9241968d8a33b5014::chef::CHEF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1240_b6f36be2e0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

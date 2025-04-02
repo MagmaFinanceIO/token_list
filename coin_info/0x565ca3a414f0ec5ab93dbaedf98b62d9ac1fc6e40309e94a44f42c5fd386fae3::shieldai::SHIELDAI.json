@@ -1,0 +1,13 @@
+{
+  "name": "ShieldAI",
+  "symbol": "ShieldAI",
+  "decimals": 9,
+  "coin_type": "0x565ca3a414f0ec5ab93dbaedf98b62d9ac1fc6e40309e94a44f42c5fd386fae3::shieldai::SHIELDAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dd702198-7cb5-4fc7-8ccd-d9aefb938100.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

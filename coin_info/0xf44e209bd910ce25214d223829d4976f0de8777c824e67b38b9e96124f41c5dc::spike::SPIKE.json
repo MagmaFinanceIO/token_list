@@ -1,0 +1,13 @@
+{
+  "name": "SPIKE",
+  "symbol": "SPIKE",
+  "decimals": 9,
+  "coin_type": "0xf44e209bd910ce25214d223829d4976f0de8777c824e67b38b9e96124f41c5dc::spike::SPIKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1855954455318974464/s0R0GEis_400x400.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

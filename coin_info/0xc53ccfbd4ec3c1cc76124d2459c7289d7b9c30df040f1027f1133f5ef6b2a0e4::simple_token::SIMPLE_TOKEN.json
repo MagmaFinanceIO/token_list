@@ -1,0 +1,13 @@
+{
+  "name": "HORIZON",
+  "symbol": "HORIZON",
+  "decimals": 9,
+  "coin_type": "0xc53ccfbd4ec3c1cc76124d2459c7289d7b9c30df040f1027f1133f5ef6b2a0e4::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

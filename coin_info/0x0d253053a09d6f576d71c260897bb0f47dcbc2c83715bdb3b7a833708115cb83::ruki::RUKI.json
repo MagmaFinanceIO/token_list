@@ -1,0 +1,13 @@
+{
+  "name": "RUKI",
+  "symbol": "ruki",
+  "decimals": 9,
+  "coin_type": "0x0d253053a09d6f576d71c260897bb0f47dcbc2c83715bdb3b7a833708115cb83::ruki::RUKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

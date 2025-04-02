@@ -1,0 +1,13 @@
+{
+  "name": "Lean Codeine Sui",
+  "symbol": "Suirup",
+  "decimals": 6,
+  "coin_type": "0x029bf188d69987c910e6dd18e23387077bc15016b25385f7e768a559b7333aa3::suirup::SUIRUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/asdmnhjkhjk_3a1b46f4ac.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

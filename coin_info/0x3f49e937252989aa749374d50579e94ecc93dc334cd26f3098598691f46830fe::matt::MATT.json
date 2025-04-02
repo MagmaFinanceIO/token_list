@@ -1,0 +1,13 @@
+{
+  "name": "MattFurie",
+  "symbol": "Matt",
+  "decimals": 9,
+  "coin_type": "0x3f49e937252989aa749374d50579e94ecc93dc334cd26f3098598691f46830fe::matt::MATT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ENbq7nXqnApZZMdQcNUTqdweHprxqivYmf9n62S2pump.png?size=lg&key=2383c6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

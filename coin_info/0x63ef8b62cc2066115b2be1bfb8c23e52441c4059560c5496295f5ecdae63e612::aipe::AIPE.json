@@ -1,0 +1,13 @@
+{
+  "name": "Aipe by SuiAI",
+  "symbol": "AIPE",
+  "decimals": 6,
+  "coin_type": "0x63ef8b62cc2066115b2be1bfb8c23e52441c4059560c5496295f5ecdae63e612::aipe::AIPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/aipe_8376ab774e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

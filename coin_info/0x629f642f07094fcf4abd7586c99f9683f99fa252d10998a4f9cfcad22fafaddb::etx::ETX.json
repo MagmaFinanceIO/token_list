@@ -1,0 +1,13 @@
+{
+  "name": "EuthereumX",
+  "symbol": "ETX",
+  "decimals": 9,
+  "coin_type": "0x629f642f07094fcf4abd7586c99f9683f99fa252d10998a4f9cfcad22fafaddb::etx::ETX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ibb.co/9qQmd9W",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

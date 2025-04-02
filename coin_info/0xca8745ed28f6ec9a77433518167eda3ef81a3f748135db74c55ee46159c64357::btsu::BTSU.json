@@ -1,0 +1,13 @@
+{
+  "name": "Bubble tea",
+  "symbol": "BTSU",
+  "decimals": 9,
+  "coin_type": "0xca8745ed28f6ec9a77433518167eda3ef81a3f748135db74c55ee46159c64357::btsu::BTSU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.bubbleteasui.site/sui.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

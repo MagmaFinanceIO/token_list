@@ -1,0 +1,13 @@
+{
+  "name": "Sui Waterfall",
+  "symbol": "SUIFALL",
+  "decimals": 6,
+  "coin_type": "0xcc193b13863252dcf80a63dccc0687deccced4f01c64dee262c828c117122a24::suifall::SUIFALL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Suifall_0e5bf9af55.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Bunnys",
+  "symbol": "BUNNY",
+  "decimals": 9,
+  "coin_type": "0x6a3a367549151679b7fca811ab7aa2a7918733f8215118b7d31487b2924ce303::bunny::BUNNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/526e9275-186c-49c4-807e-7139b883d098.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

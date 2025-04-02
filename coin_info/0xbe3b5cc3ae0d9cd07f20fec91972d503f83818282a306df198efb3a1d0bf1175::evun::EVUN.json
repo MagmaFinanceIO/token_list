@@ -1,0 +1,13 @@
+{
+  "name": "EVAN CHENG",
+  "symbol": "EVUN",
+  "decimals": 9,
+  "coin_type": "0xbe3b5cc3ae0d9cd07f20fec91972d503f83818282a306df198efb3a1d0bf1175::evun::EVUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c3074e12-6b89-4633-b0df-58fa9687cd29.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

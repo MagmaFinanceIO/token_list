@@ -1,0 +1,13 @@
+{
+  "name": "Blake vip",
+  "symbol": "BLAKE",
+  "decimals": 9,
+  "coin_type": "0x77d89687e1dc3b683380af76da68adc964669a32fede3599e33291d6a2a58656::blake::BLAKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/955f4c75-f012-4fe3-bdbb-a6d1bd0c4c5a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pnut Ai",
+  "symbol": "PnutAi",
+  "decimals": 9,
+  "coin_type": "0xa76fbe61d49a325745961e58b868ff521c554f133fc8f0668476bbe5fc491371::pnutai::PNUTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3B7e82VsGDifFjFAQsqZNZMRUXd355hH1Dan5q2F44yo.png?size=lg&key=20373f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

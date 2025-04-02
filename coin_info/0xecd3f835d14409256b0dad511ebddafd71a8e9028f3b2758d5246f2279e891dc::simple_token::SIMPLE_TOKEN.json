@@ -1,0 +1,13 @@
+{
+  "name": "cotton",
+  "symbol": "cotton",
+  "decimals": 9,
+  "coin_type": "0xecd3f835d14409256b0dad511ebddafd71a8e9028f3b2758d5246f2279e891dc::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

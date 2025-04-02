@@ -1,0 +1,13 @@
+{
+  "name": "CatWizardAi ",
+  "symbol": "CATWIZAI",
+  "decimals": 6,
+  "coin_type": "0x912b2189e74d4eb95b822c6242fada8766e2e38e1b69e2d743e4fce94725bc1d::catwizai::CATWIZAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000085728_ab0fc71cdd.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mr Hankey on Sui",
+  "symbol": "HANKEY",
+  "decimals": 6,
+  "coin_type": "0xe1de687dfc3b956cb66ed5b5381cf959ca6d90b1b4fa44b505978bec0bd9782a::hankey::HANKEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2n_Nm_L_Qyig_Dz_Qw_F8_Pb51o8_T8m_Yv_CPXEEH_Qjt_WZ_Tf_Epump_7448715e15.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

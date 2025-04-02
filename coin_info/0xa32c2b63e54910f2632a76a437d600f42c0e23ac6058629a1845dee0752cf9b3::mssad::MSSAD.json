@@ -1,0 +1,13 @@
+{
+  "name": "Mass Adoption",
+  "symbol": "MSSAD",
+  "decimals": 9,
+  "coin_type": "0xa32c2b63e54910f2632a76a437d600f42c0e23ac6058629a1845dee0752cf9b3::mssad::MSSAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cd7b1038-1dc6-4b22-b258-3d6bbb7a07ce.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

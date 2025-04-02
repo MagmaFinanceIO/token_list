@@ -1,0 +1,13 @@
+{
+  "name": "TRUMP PRESIDENT CRYPTO",
+  "symbol": "TPC",
+  "decimals": 9,
+  "coin_type": "0x1f87d0fd64305a982a5179bb8f1e780a59721c93842c0da3c5882c24ae2ed829::tpc::TPC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4V6BJNf2eKUitaw2nKVog6GP6LWCsNkcYadq4q9Epump.png?size=lg&key=870886",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

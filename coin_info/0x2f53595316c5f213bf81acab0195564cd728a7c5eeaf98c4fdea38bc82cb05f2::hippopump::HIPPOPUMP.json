@@ -1,0 +1,13 @@
+{
+  "name": "HIPPO PUMP",
+  "symbol": "HIPPOPUMP",
+  "decimals": 6,
+  "coin_type": "0x2f53595316c5f213bf81acab0195564cd728a7c5eeaf98c4fdea38bc82cb05f2::hippopump::HIPPOPUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/8ohc_TVBD_400x400_ab1bbd6de6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AKANE on SUI",
+  "symbol": "AKANE",
+  "decimals": 9,
+  "coin_type": "0xedbb226cead29ccc2ceb7247a67ef57f6949facf892d574acb8b9a4fafe9518a::akane::AKANE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmX9g6UhkGQUS7WkMcxYjz4XTKQD7B29DYdNopJou4KLVA",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

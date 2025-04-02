@@ -1,0 +1,13 @@
+{
+  "name": "Ardane AI asistant by SuiAI",
+  "symbol": "ARDANE",
+  "decimals": 6,
+  "coin_type": "0x27aff40e5f68714205ff17af371f78f1f94b197a8b7a501cf867f79142cf89b0::ardane::ARDANE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/waf_a98d7bff02.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Official Elon Coin",
+  "symbol": "DARKELON",
+  "decimals": 9,
+  "coin_type": "0xb9941c7e0b18115dd0461cba4d1934e2bf689dd6de943e79f3019b82b28820b8::darkelon::DARKELON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BftUiGB2iDkNDa8AKdhtLuJHHXiUfqLvTNmiXaSopump.png?size=lg&key=35cf67",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

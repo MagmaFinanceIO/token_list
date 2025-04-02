@@ -1,0 +1,13 @@
+{
+  "name": "AliensRubick",
+  "symbol": "aru",
+  "decimals": 9,
+  "coin_type": "0x1541b45d529125ceb9e013a7785c40a664d79e1a5da0789ee2b1923f82d171e8::aru::ARU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4489f404-99ac-4874-b4bb-140ac003ef9f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

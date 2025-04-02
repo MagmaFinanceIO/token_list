@@ -1,0 +1,13 @@
+{
+  "name": "Gambling",
+  "symbol": "GAMBLE",
+  "decimals": 9,
+  "coin_type": "0x0d98772123067534d68e9780b4a01bcfdf79d462f37654ba290fc7a3eb26c0a7::gamble::GAMBLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/19d1544c-6d97-4a8c-adce-864fa6c6151b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

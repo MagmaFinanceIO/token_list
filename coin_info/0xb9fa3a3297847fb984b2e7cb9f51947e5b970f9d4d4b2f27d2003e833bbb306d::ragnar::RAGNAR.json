@@ -1,0 +1,13 @@
+{
+  "name": "RagnarCatSui",
+  "symbol": "Ragnar",
+  "decimals": 6,
+  "coin_type": "0xb9fa3a3297847fb984b2e7cb9f51947e5b970f9d4d4b2f27d2003e833bbb306d::ragnar::RAGNAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731767810763.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

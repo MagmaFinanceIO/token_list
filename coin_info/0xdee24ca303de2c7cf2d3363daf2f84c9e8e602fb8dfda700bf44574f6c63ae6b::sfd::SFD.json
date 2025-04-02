@@ -1,0 +1,13 @@
+{
+  "name": "Santa Fart Dust",
+  "symbol": "SFD",
+  "decimals": 9,
+  "coin_type": "0xdee24ca303de2c7cf2d3363daf2f84c9e8e602fb8dfda700bf44574f6c63ae6b::sfd::SFD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7rX3w3KKWssxmbEqgd8UNuQZAL1RF7L7Np4higjfpump.png?size=lg&key=aa98dd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

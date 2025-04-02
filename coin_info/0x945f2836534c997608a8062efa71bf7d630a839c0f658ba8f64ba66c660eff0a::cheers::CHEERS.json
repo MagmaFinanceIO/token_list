@@ -1,0 +1,13 @@
+{
+  "name": "Cheers",
+  "symbol": "CHEERS",
+  "decimals": 9,
+  "coin_type": "0x945f2836534c997608a8062efa71bf7d630a839c0f658ba8f64ba66c660eff0a::cheers::CHEERS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/F5rP54ijG8AJCt1RRUfXAtseniyFzSvEXL9pERWxpv6a.png?size=lg&key=5618de",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

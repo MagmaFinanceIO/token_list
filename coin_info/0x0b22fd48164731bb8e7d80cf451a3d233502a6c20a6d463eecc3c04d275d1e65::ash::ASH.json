@@ -1,0 +1,13 @@
+{
+  "name": "ASH",
+  "symbol": "ASH",
+  "decimals": 9,
+  "coin_type": "0x0b22fd48164731bb8e7d80cf451a3d233502a6c20a6d463eecc3c04d275d1e65::ash::ASH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2SNstbEYVEn2iTNQyZHKGzgTPZwBgnujwKa8hn5opump.png?size=lg&key=16c90b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

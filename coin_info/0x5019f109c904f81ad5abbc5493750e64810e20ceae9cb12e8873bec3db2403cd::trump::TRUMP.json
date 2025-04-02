@@ -1,0 +1,13 @@
+{
+  "name": "Donald J. Trump",
+  "symbol": "TRUMP",
+  "decimals": 6,
+  "coin_type": "0x5019f109c904f81ad5abbc5493750e64810e20ceae9cb12e8873bec3db2403cd::trump::TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/pnt7hXz/trump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

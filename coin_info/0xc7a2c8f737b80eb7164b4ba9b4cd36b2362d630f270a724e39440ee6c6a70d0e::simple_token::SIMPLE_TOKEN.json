@@ -1,0 +1,13 @@
+{
+  "name": "Dandy Dino",
+  "symbol": "Dandy",
+  "decimals": 9,
+  "coin_type": "0xc7a2c8f737b80eb7164b4ba9b4cd36b2362d630f270a724e39440ee6c6a70d0e::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

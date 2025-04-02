@@ -1,0 +1,13 @@
+{
+  "name": "SUIBUG",
+  "symbol": "SUIBUG",
+  "decimals": 1,
+  "coin_type": "0x7275a10b794b518a9140d76034e4baab08e018e75d7bf1f73bbd373cf96e100e::SUIBUG::SUIBUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

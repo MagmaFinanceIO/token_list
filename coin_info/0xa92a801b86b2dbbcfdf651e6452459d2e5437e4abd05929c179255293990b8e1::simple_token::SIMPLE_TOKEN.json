@@ -1,0 +1,13 @@
+{
+  "name": "CHICKEN",
+  "symbol": "CHICKEN",
+  "decimals": 9,
+  "coin_type": "0xa92a801b86b2dbbcfdf651e6452459d2e5437e4abd05929c179255293990b8e1::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

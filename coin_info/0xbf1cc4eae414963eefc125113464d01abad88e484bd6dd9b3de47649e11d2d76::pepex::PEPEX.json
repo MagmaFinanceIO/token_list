@@ -1,0 +1,13 @@
+{
+  "name": "Pepex Sui",
+  "symbol": "Pepex",
+  "decimals": 6,
+  "coin_type": "0xbf1cc4eae414963eefc125113464d01abad88e484bd6dd9b3de47649e11d2d76::pepex::PEPEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/4fc80d6729bf08cc30b5c2612882c392_30515f6df8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

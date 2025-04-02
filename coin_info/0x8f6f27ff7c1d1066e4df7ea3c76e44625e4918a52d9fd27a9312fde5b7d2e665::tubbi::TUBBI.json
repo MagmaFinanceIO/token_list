@@ -1,0 +1,13 @@
+{
+  "name": "Tubbi",
+  "symbol": "TUBBI",
+  "decimals": 6,
+  "coin_type": "0x8f6f27ff7c1d1066e4df7ea3c76e44625e4918a52d9fd27a9312fde5b7d2e665::tubbi::TUBBI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/T_logo3_5c02478871.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

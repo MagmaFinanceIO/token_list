@@ -1,0 +1,13 @@
+{
+  "name": "RIP Sui",
+  "symbol": "RIPSui",
+  "decimals": 9,
+  "coin_type": "0x10a109cfa6fcfc547b49f95142eaffe2e92ca2dcad4a555d85379a8de8e80e66::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HHyqD6kLviJzTHxrNzgzjXLr2WLprbJBbzwziybKpump.png?size=xl&key=e2fe22",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

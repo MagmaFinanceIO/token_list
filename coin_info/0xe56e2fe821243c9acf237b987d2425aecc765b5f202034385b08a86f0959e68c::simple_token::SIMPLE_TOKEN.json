@@ -1,0 +1,13 @@
+{
+  "name": "Mini Donald on Sui",
+  "symbol": "MINIDONALD",
+  "decimals": 9,
+  "coin_type": "0xe56e2fe821243c9acf237b987d2425aecc765b5f202034385b08a86f0959e68c::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

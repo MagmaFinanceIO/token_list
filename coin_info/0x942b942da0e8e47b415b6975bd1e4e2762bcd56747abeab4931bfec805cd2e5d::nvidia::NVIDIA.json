@@ -1,0 +1,13 @@
+{
+  "name": "Nvidia On Solana",
+  "symbol": "NVIDIA",
+  "decimals": 9,
+  "coin_type": "0x942b942da0e8e47b415b6975bd1e4e2762bcd56747abeab4931bfec805cd2e5d::nvidia::NVIDIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmNnxx58C8U5jgYbCt5dJWks12NssmjX5A2cEUNrxiGHjN",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

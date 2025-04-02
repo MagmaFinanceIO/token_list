@@ -1,0 +1,13 @@
+{
+  "name": "Ganjubas",
+  "symbol": "GANJA",
+  "decimals": 9,
+  "coin_type": "0xba4b22fce9c4dc959708b118d40ba9181d1039b05445f3d27527434dfcf70558::ganja::GANJA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0aa06f03-8f54-45de-a3f1-6772282a2086.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

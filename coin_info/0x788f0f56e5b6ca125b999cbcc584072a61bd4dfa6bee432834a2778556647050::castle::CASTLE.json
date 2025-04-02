@@ -1,0 +1,13 @@
+{
+  "name": "Sand Castle of Sui",
+  "symbol": "CASTLE",
+  "decimals": 6,
+  "coin_type": "0x788f0f56e5b6ca125b999cbcc584072a61bd4dfa6bee432834a2778556647050::castle::CASTLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_85_5257561da4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

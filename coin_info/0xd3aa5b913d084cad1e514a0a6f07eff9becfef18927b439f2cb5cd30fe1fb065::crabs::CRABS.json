@@ -1,0 +1,13 @@
+{
+  "name": "Coconut Crabs",
+  "symbol": "CRABS",
+  "decimals": 6,
+  "coin_type": "0xd3aa5b913d084cad1e514a0a6f07eff9becfef18927b439f2cb5cd30fe1fb065::crabs::CRABS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/icon_8f681d3105.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

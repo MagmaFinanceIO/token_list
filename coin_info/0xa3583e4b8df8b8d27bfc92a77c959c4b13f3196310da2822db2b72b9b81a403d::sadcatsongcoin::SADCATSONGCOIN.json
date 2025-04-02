@@ -1,0 +1,13 @@
+{
+  "name": "sad cat song coin",
+  "symbol": "Sadcatsongcoin",
+  "decimals": 6,
+  "coin_type": "0xa3583e4b8df8b8d27bfc92a77c959c4b13f3196310da2822db2b72b9b81a403d::sadcatsongcoin::SADCATSONGCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ab67616d00001e025d0252d0243eff15327e3458_1b563c387f.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

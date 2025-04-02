@@ -1,0 +1,13 @@
+{
+  "name": "ATM SIGN",
+  "symbol": "ATM",
+  "decimals": 6,
+  "coin_type": "0x424b5042ee862ab396506f986624e9f22c318034c00c654fdcbdef5fc11cbb01::atm::ATM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/atm.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

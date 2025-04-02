@@ -1,0 +1,15 @@
+{
+  "name": "Wrapped BNB (Portal from BSC)",
+  "symbol": "WBNB",
+  "decimals": 8,
+  "coin_type": "0xb848cce11ef3a8f62eccea6eb5b35a12c4c2b1ee1af7755d02d7bd6218e8226f::coin::COIN",
+  "pyth_id": "2f95862b045670cd22bee3114c39763a4a08beeb663b145d283c31d7d1101c4f",
+  "birdeyeid": "0xb848cce11ef3a8f62eccea6eb5b35a12c4c2b1ee1af7755d02d7bd6218e8226f::coin::COIN",
+  "coin_priority": [
+    "700"
+  ],
+  "logo_url": "https://4hl5riddvifwsfzqzggti3dyrekvhogjvwkaduy5w5bgs2k7zwga.arweave.net/4dfYoGOqC2kXMMmNNGx4iRVTuMmtlAHTHbdCaWlfzYw",
+  "project_url": "",
+  "coingecko_id": "binance-coin-wormhole",
+  "is_trusted": true
+}

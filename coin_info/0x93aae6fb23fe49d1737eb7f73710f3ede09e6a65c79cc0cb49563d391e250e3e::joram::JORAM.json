@@ -1,0 +1,13 @@
+{
+  "name": "Joram Poowel",
+  "symbol": "JORAM",
+  "decimals": 9,
+  "coin_type": "0x93aae6fb23fe49d1737eb7f73710f3ede09e6a65c79cc0cb49563d391e250e3e::joram::JORAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/12882816-6f2c-44b7-acea-0c23f7fed93c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

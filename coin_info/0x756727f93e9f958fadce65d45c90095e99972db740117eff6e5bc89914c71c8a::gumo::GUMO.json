@@ -1,0 +1,13 @@
+{
+  "name": "G.U.M.O by SuiAI",
+  "symbol": "GUMO",
+  "decimals": 6,
+  "coin_type": "0x756727f93e9f958fadce65d45c90095e99972db740117eff6e5bc89914c71c8a::gumo::GUMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/sui_2_b704a0cfa9.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

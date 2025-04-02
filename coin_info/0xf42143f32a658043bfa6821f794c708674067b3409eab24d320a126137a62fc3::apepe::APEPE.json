@@ -1,0 +1,13 @@
+{
+  "name": "Ape and Pepe",
+  "symbol": "APEPE",
+  "decimals": 9,
+  "coin_type": "0xf42143f32a658043bfa6821f794c708674067b3409eab24d320a126137a62fc3::apepe::APEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/polygon/0xa3f751662e282e83ec3cbc387d225ca56dd63d3a.png?size=lg&key=f0be34",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

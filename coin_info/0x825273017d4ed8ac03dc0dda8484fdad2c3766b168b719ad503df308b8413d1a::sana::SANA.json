@@ -1,0 +1,13 @@
+{
+  "name": "SANA by NVIDIA",
+  "symbol": "SANA",
+  "decimals": 9,
+  "coin_type": "0x825273017d4ed8ac03dc0dda8484fdad2c3766b168b719ad503df308b8413d1a::sana::SANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FsSkdpBS6Bi765L44U6qwAcivauV9Lf5rqHnSP3V9tTr.png?size=lg&key=38d050",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

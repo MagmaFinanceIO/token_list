@@ -1,0 +1,13 @@
+{
+  "name": "MORUD on SUI",
+  "symbol": "MORUD",
+  "decimals": 9,
+  "coin_type": "0x5a8d6590ba401096f65c53bcf891c5514aca907af7953552908f6aa25a85c803::morud::MORUD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2a5c86d2-e531-4602-ab45-325cfce557ad.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

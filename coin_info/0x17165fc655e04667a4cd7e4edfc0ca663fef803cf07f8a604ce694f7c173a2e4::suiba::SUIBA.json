@@ -1,0 +1,13 @@
+{
+  "name": "Suiba Inu",
+  "symbol": "SUIBA",
+  "decimals": 9,
+  "coin_type": "0x17165fc655e04667a4cd7e4edfc0ca663fef803cf07f8a604ce694f7c173a2e4::suiba::SUIBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b4bc5611-f967-433d-9319-e1a29529d643.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

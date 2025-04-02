@@ -1,0 +1,13 @@
+{
+  "name": "The Anthropic AI Alliance",
+  "symbol": "AAA",
+  "decimals": 9,
+  "coin_type": "0x5ec35935ed1aba58f944f6ea3609d17f60c22d13948d022246ba4ae52d90ffb7::aaa::AAA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmNe2hiD4K2s1HCSDaXxsbvA5vW99MXxDSphPhN4WZbWTh",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

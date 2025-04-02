@@ -1,0 +1,13 @@
+{
+  "name": "BigDick",
+  "symbol": "BDC",
+  "decimals": 9,
+  "coin_type": "0x87c5b3c12c11402888eb445b9ed54784a1fd6ee23b7c7a98876ec5bd7d20baaa::bdc::BDC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d434436e-76a5-4dff-bbd8-52579c5e2623.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

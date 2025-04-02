@@ -1,0 +1,13 @@
+{
+  "name": "STASK",
+  "symbol": "STASK",
+  "decimals": 9,
+  "coin_type": "0xf01de64b0c8f31c29cd1d6f585d20bdfd9b6c8a101231b655c27265529b85550::stask::STASK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FgEFNFXxrNkEqmGjA2bszriTohxPcDu1TsZzD1azpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

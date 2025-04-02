@@ -1,0 +1,13 @@
+{
+  "name": "SUIBORG",
+  "symbol": "SUIB",
+  "decimals": 6,
+  "coin_type": "0x3b02003e3269e3bc7b0b17762a6e22438b0461d1b956c3a5044bf81af6cdb069::suib::SUIB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/DALLA_E_2024_12_15_18_59_44_A_sleek_and_futuristic_coin_logo_for_Sui_Borg_featuring_a_cybernetic_dog_head_with_metallic_armor_glowing_neon_blue_eyes_and_intricate_circuitry_pat_cb968fe007.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

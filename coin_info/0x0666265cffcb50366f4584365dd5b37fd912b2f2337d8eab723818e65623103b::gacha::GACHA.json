@@ -1,0 +1,13 @@
+{
+  "name": "Gacha",
+  "symbol": "Gacha",
+  "decimals": 9,
+  "coin_type": "0x0666265cffcb50366f4584365dd5b37fd912b2f2337d8eab723818e65623103b::gacha::GACHA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9Z3LF3ymEVwCPLd9uBda9ieySYKVK7MzukPRGHDPpump.png?size=lg&key=fe7d3b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

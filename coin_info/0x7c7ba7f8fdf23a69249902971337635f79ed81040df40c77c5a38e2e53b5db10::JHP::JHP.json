@@ -1,0 +1,13 @@
+{
+  "name": "JHP",
+  "symbol": "JHP",
+  "decimals": 9,
+  "coin_type": "0x7c7ba7f8fdf23a69249902971337635f79ed81040df40c77c5a38e2e53b5db10::JHP::JHP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

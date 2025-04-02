@@ -1,0 +1,13 @@
+{
+  "name": "Ebisui",
+  "symbol": "EBISUI",
+  "decimals": 9,
+  "coin_type": "0x70a58583179f59ff92fc9039706a27b45214c35db49cab726b8acea842ec7a71::ebisui::EBISUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4bHX6vSJWfGB2641BnbSzf6r5HFNZ67gFknbzQ7wGeMw.png?size=lg&key=b3663d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

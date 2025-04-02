@@ -1,0 +1,13 @@
+{
+  "name": "Golden Sui",
+  "symbol": "GOLD",
+  "decimals": 9,
+  "coin_type": "0x045546a83aa87cb28066e3a5a0572eaf3a1e7b87ecc4c322c80e94c3bedd8875::gold::GOLD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a42b18da-4f08-4d7f-833b-bde56805cc9c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Eron Musk",
+  "symbol": "ERON",
+  "decimals": 6,
+  "coin_type": "0x4702b3a07c067da3e06c0376a69e3730d9a0a9991db086aa43ac092d2d6bf5b5::eron::ERON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7180_af270f5e19.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

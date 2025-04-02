@@ -1,0 +1,13 @@
+{
+  "name": "Cypher Punk",
+  "symbol": "CYPHER",
+  "decimals": 6,
+  "coin_type": "0xc248c59b8edd3b4cd6aab1aa888e2f39b207f1adaa467c28c75a951bd1e67ea5::cypher::CYPHER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/84c94ef9-169f-4b90-a598-5a99ff39e777.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

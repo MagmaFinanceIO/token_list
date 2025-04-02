@@ -1,0 +1,13 @@
+{
+  "name": "NeuralAI",
+  "symbol": "NEURAL",
+  "decimals": 6,
+  "coin_type": "0x14642c782d192d3c7141517119ef5528d86da7326698d30d6ed07368f79a0fc7::neural::NEURAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e8d2ca8f-5599-4fcc-bae6-849ba48ae64e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Coinex China",
+  "symbol": "CCC",
+  "decimals": 9,
+  "coin_type": "0x8f21ab788d6e3bc13d7666191e925708eb415a41b97c2b0569a83cfc33e61f10::ccc::CCC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4pTee5AxyGWMmd6VCrqQ5xy4ReADvq2pK3375JuNpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hawk Tuah",
+  "symbol": "HAWK",
+  "decimals": 9,
+  "coin_type": "0x04da59113d2326eab5819ef4d3b72fdb290f414bcc21186dc3be17daf6367156::hawk::HAWK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HAWKThXRcNL9ZGZKqgUXLm4W8tnRZ7U6MVdEepSutj34.png?size=lg&key=638b34",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

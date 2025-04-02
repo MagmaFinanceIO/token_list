@@ -1,0 +1,13 @@
+{
+  "name": "Virtico",
+  "symbol": "VIRT",
+  "decimals": 9,
+  "coin_type": "0x33624b723cf2f949f94302de7089f6e5f149da59d60feee66858f9a8ef3f2099::virt::VIRT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/72aab42f-4bf3-4223-8b67-7f9de56ba4aa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

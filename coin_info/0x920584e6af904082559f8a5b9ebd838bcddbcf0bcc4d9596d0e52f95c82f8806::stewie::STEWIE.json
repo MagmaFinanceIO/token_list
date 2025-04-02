@@ -1,0 +1,13 @@
+{
+  "name": "Stewie",
+  "symbol": "STEWIE",
+  "decimals": 9,
+  "coin_type": "0x920584e6af904082559f8a5b9ebd838bcddbcf0bcc4d9596d0e52f95c82f8806::stewie::STEWIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/79JcZiSWKvkvXhG1wcXSCJ9LnBLcRo4M8aiHyvpphfo8.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

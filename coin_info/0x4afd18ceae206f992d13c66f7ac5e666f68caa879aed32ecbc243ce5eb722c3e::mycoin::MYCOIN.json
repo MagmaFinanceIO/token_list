@@ -1,0 +1,13 @@
+{
+  "name": "AIPUMP",
+  "symbol": "AIPUMP",
+  "decimals": 9,
+  "coin_type": "0x4afd18ceae206f992d13c66f7ac5e666f68caa879aed32ecbc243ce5eb722c3e::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

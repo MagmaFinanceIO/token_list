@@ -1,0 +1,13 @@
+{
+  "name": "SPT",
+  "symbol": "SPT",
+  "decimals": 9,
+  "coin_type": "0xb779486cfd6c19e9218cc7dc17c453014d2d9ba12d2ee4dbb0ec4e1e02ae1cca::spt::SPT",
+  "pyth_id": "",
+  "birdeyeid": "0xb779486cfd6c19e9218cc7dc17c453014d2d9ba12d2ee4dbb0ec4e1e02ae1cca::spt::SPT",
+  "coin_priority": [],
+  "logo_url": "https://seapad.s3.ap-southeast-1.amazonaws.com/uploads/PROD/public/media/images/logo_1685439392353.png",
+  "project_url": "",
+  "coingecko_id": "seapad",
+  "is_trusted": true
+}

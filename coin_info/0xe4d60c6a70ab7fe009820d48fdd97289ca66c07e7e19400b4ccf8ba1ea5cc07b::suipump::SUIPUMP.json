@@ -1,0 +1,13 @@
+{
+  "name": "SUIPUMP",
+  "symbol": "SUIPUMP",
+  "decimals": 9,
+  "coin_type": "0xe4d60c6a70ab7fe009820d48fdd97289ca66c07e7e19400b4ccf8ba1ea5cc07b::suipump::SUIPUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ab8e95de-48ed-4ac7-96cb-849c20a23f7b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

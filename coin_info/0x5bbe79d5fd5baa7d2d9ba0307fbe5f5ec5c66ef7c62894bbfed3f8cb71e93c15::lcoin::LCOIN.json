@@ -1,0 +1,13 @@
+{
+  "name": "LaughCoin",
+  "symbol": "LCOIN",
+  "decimals": 6,
+  "coin_type": "0x5bbe79d5fd5baa7d2d9ba0307fbe5f5ec5c66ef7c62894bbfed3f8cb71e93c15::lcoin::LCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/meme_b09afe613b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

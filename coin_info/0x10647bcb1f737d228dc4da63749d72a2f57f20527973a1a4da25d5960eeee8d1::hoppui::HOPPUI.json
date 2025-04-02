@@ -1,0 +1,13 @@
+{
+  "name": "HOPPY ON SUI",
+  "symbol": "HOPPUI",
+  "decimals": 9,
+  "coin_type": "0x10647bcb1f737d228dc4da63749d72a2f57f20527973a1a4da25d5960eeee8d1::hoppui::HOPPUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1b3c66de-6c22-4358-8f10-499eeebb63cc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

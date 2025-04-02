@@ -1,0 +1,13 @@
+{
+  "name": "Penguin Slap",
+  "symbol": "SLAP",
+  "decimals": 9,
+  "coin_type": "0x7c11e4268d4b59002bc667c8eb04c448246e4771ec3321d5a76dd28b51e9cdf9::slap::SLAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e5a33c6f-711b-4446-b903-e82e5e6f9b0a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

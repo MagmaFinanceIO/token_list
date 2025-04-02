@@ -1,0 +1,13 @@
+{
+  "name": "Shiba Inu on SUI",
+  "symbol": "SSHIB",
+  "decimals": 6,
+  "coin_type": "0x9695e25cf035588f567a1760faf7cc613a41a0b59a7475327e18a4684709888f::sshib::SSHIB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000558_0806fceda3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

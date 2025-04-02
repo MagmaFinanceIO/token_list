@@ -1,0 +1,13 @@
+{
+  "name": "Mr.Blue",
+  "symbol": "BLUE",
+  "decimals": 9,
+  "coin_type": "0x9491767021e40259d55e603341e0c91f0787c0adda9c705b39bbe62d887211fa::blue::BLUE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f61ba12d-c9aa-4cd6-83db-75c062b2fb0a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

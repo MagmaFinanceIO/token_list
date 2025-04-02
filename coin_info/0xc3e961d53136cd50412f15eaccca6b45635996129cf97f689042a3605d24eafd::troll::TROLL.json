@@ -1,0 +1,13 @@
+{
+  "name": "troll",
+  "symbol": "troll",
+  "decimals": 9,
+  "coin_type": "0xc3e961d53136cd50412f15eaccca6b45635996129cf97f689042a3605d24eafd::troll::TROLL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cdb938be-d9c9-4d5a-ac33-1edcca8fbc46.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CyberPaws",
+  "symbol": "SuiCyberPaws",
+  "decimals": 9,
+  "coin_type": "0xb1e32bff8f657685d456b260543fae95d4f4536285c78a0a9b86742a268818c2::suicyberpaws::SUICYBERPAWS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/75c8ddcb-37d7-4bc2-bc68-670ea1120453.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

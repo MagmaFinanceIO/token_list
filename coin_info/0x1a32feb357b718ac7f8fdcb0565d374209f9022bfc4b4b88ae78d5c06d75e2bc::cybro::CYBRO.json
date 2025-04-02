@@ -1,0 +1,13 @@
+{
+  "name": "CYBRO",
+  "symbol": "CYBRO",
+  "decimals": 9,
+  "coin_type": "0x1a32feb357b718ac7f8fdcb0565d374209f9022bfc4b4b88ae78d5c06d75e2bc::cybro::CYBRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cybro.io/_next/static/media/favicon.e67604f4.ico",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

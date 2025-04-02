@@ -1,0 +1,13 @@
+{
+  "name": "MissRose_BotSui",
+  "symbol": "Rose",
+  "decimals": 6,
+  "coin_type": "0x05bbac9c2ea57211d67dad73811dd71a3753692d22c531bf3b31542e1a0aecd7::rose::ROSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1945_5824e96a33.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

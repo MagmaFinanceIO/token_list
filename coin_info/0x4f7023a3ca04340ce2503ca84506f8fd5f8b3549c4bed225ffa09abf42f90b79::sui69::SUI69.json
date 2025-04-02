@@ -1,0 +1,13 @@
+{
+  "name": "Sui69",
+  "symbol": "SUI69",
+  "decimals": 6,
+  "coin_type": "0x4f7023a3ca04340ce2503ca84506f8fd5f8b3549c4bed225ffa09abf42f90b79::sui69::SUI69",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000030448_bca1708f88.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

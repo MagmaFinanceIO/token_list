@@ -1,0 +1,13 @@
+{
+  "name": "rifa by SuiAI",
+  "symbol": "R",
+  "decimals": 6,
+  "coin_type": "0xa6741bd1de22653d00883837f00131f6cb45d5aff8f7e3f26be039d1967ac82f::r::R",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/flux_dev_create_an_eyecatching_visual_illustration_of_rifa_a_h_0_b291c4cc_eecc_41ef_90ce_34e5f043e9af_4bd1e1e512.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

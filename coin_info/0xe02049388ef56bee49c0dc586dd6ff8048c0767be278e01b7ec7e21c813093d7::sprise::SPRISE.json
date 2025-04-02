@@ -1,0 +1,13 @@
+{
+  "name": "SUIprise",
+  "symbol": "SPRISE",
+  "decimals": 6,
+  "coin_type": "0xe02049388ef56bee49c0dc586dd6ff8048c0767be278e01b7ec7e21c813093d7::sprise::SPRISE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/LOGOSUIPRISE_d3adc7d5ba.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

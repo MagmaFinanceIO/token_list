@@ -1,0 +1,13 @@
+{
+  "name": "ZABA",
+  "symbol": "ZABA",
+  "decimals": 9,
+  "coin_type": "0xe68218bbf291f496362e3b82c4ef33292d6bf18fe25b8636f303118c2b2598df::zaba::ZABA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/fMvxACX7pssw93vxEtvg1dyJWsDiPFgVjTmuCZEpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

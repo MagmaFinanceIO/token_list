@@ -1,0 +1,13 @@
+{
+  "name": "GlizzyCoin",
+  "symbol": "GLIZZ",
+  "decimals": 9,
+  "coin_type": "0x6109f584c8a48284988c7e42738ca5fbdd284dbf5c3f3e0431345d8d516c77ae::glizz::GLIZZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bd68cef6-4d64-4d7d-a938-158766c0736a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

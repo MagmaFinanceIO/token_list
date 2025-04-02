@@ -1,0 +1,13 @@
+{
+  "name": "Lux Token",
+  "symbol": "LUX",
+  "decimals": 9,
+  "coin_type": "0xfd0adbed6dc4094aa704f15f37aedf788e77af186899b16d58b7026e96730a89::lux::LUX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BmXfbamFqrBzrqihr9hbSmEsfQUXMVaqshAjgvZupump.png?size=lg&key=cebf5f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

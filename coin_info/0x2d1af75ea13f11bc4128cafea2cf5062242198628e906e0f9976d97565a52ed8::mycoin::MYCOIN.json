@@ -1,0 +1,13 @@
+{
+  "name": "RIPJIMCARREY",
+  "symbol": "RIPJ",
+  "decimals": 9,
+  "coin_type": "0x2d1af75ea13f11bc4128cafea2cf5062242198628e906e0f9976d97565a52ed8::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

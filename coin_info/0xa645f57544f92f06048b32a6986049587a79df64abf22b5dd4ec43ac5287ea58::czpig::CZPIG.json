@@ -1,0 +1,13 @@
+{
+  "name": "Crazy Pig",
+  "symbol": "CZPIG",
+  "decimals": 9,
+  "coin_type": "0xa645f57544f92f06048b32a6986049587a79df64abf22b5dd4ec43ac5287ea58::czpig::CZPIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/JC7wKQmwXAzZPQAG1GnZJ5kexy2k4jfiaS58S5r9pump.png?size=lg&key=cb9015",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

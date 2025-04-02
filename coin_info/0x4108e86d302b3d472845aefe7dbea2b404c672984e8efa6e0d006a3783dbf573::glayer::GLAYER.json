@@ -1,0 +1,13 @@
+{
+  "name": "Green Layer One",
+  "symbol": "GLAYER",
+  "decimals": 6,
+  "coin_type": "0x4108e86d302b3d472845aefe7dbea2b404c672984e8efa6e0d006a3783dbf573::glayer::GLAYER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/23ca6ec7-75c2-47b7-8622-e2ca04229717.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

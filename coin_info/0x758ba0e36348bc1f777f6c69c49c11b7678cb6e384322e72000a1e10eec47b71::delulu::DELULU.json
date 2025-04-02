@@ -1,0 +1,13 @@
+{
+  "name": "buy delulu",
+  "symbol": "DELULU",
+  "decimals": 6,
+  "coin_type": "0x758ba0e36348bc1f777f6c69c49c11b7678cb6e384322e72000a1e10eec47b71::delulu::DELULU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/azd_OZ_Qd5_400x400_4490827435.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

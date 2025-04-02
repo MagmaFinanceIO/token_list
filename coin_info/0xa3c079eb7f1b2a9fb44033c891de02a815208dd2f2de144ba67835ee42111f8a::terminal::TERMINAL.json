@@ -1,0 +1,13 @@
+{
+  "name": "Book Terminal of Truths",
+  "symbol": "TERMINAL",
+  "decimals": 9,
+  "coin_type": "0xa3c079eb7f1b2a9fb44033c891de02a815208dd2f2de144ba67835ee42111f8a::terminal::TERMINAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qmd2Hcejn4xWJccE8yquaBrTUgAeSQVjn5VV8ubArFaBn8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

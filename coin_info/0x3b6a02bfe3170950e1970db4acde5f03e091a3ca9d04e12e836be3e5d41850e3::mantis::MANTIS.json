@@ -1,0 +1,13 @@
+{
+  "name": "Armed Mantis",
+  "symbol": "MANTIS",
+  "decimals": 9,
+  "coin_type": "0x3b6a02bfe3170950e1970db4acde5f03e091a3ca9d04e12e836be3e5d41850e3::mantis::MANTIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/665/513/large/huan-gugu-jjkk-fullquality.jpg?1728200831",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

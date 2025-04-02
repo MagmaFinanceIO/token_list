@@ -1,0 +1,13 @@
+{
+  "name": "Crazy Purple Penguins",
+  "symbol": "CPP",
+  "decimals": 9,
+  "coin_type": "0x13e5c2cb0b81b3abd9378593b99d172c680cf358c06a4c1b7bfcb0226671e893::cpp::CPP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CXyquSinxK3s5SPN2TfAE9rF43s3nS6qWsGQp4REK22Z.png?size=lg&key=d5fc18",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuiNS Token",
+  "symbol": "NS",
+  "decimals": 6,
+  "coin_type": "0xa56d006497a4f7ca9c9ec6d247fcab159cd5b1f9d1f78ec952a96145b21fbf5d::ns::NS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/512dfc90-fd9e-4df6-8b33-4ceb5aa9a6c5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

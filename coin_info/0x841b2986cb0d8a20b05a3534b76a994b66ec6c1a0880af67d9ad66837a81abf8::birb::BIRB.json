@@ -1,0 +1,13 @@
+{
+  "name": "Birb",
+  "symbol": "Birb",
+  "decimals": 9,
+  "coin_type": "0x841b2986cb0d8a20b05a3534b76a994b66ec6c1a0880af67d9ad66837a81abf8::birb::BIRB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/435de15b-bef5-4c82-9efb-e8a0e05b0392.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

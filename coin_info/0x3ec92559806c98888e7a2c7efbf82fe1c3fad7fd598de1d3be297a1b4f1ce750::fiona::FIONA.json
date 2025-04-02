@@ -1,0 +1,13 @@
+{
+  "name": "Fiona SUI",
+  "symbol": "FIONA",
+  "decimals": 6,
+  "coin_type": "0x3ec92559806c98888e7a2c7efbf82fe1c3fad7fd598de1d3be297a1b4f1ce750::fiona::FIONA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/images_9d6ee2003c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

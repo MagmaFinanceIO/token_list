@@ -1,0 +1,13 @@
+{
+  "name": "Aquafina",
+  "symbol": "AQUAFINA",
+  "decimals": 6,
+  "coin_type": "0xb7e03b75a274c8ec148dfe1b5b6ac266d52b2cf38d4093ff7204e1a68ea5a27e::aquafina::AQUAFINA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1440_AQUAFINA_Square_Full_Bleed_01_645ef72357.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

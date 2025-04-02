@@ -1,0 +1,13 @@
+{
+  "name": "Camel",
+  "symbol": "CML",
+  "decimals": 5,
+  "coin_type": "0xdbbe6270f2991165455672171701a59f8175541258578380ddfe01d4ab6b99be::cml::CML",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8a3d454e-7254-417d-9c7c-88bdf905f1eb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

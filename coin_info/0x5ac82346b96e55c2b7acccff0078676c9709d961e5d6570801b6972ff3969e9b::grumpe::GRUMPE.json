@@ -1,0 +1,13 @@
+{
+  "name": "Grumpe",
+  "symbol": "Grumpe",
+  "decimals": 9,
+  "coin_type": "0x5ac82346b96e55c2b7acccff0078676c9709d961e5d6570801b6972ff3969e9b::grumpe::GRUMPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/1gFK5zcGnKsVtCCNLDttPCDRHfjQBNE9o9sh1fwpump.png?size=lg&key=ff2f45",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

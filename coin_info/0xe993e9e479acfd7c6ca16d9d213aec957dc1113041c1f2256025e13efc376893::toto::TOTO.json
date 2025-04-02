@@ -1,0 +1,13 @@
+{
+  "name": "Toto",
+  "symbol": "Toto",
+  "decimals": 9,
+  "coin_type": "0xe993e9e479acfd7c6ca16d9d213aec957dc1113041c1f2256025e13efc376893::toto::TOTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

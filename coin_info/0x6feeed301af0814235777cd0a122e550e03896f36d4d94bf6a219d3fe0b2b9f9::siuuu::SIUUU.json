@@ -1,0 +1,13 @@
+{
+  "name": "New Token",
+  "symbol": "SIUUU",
+  "decimals": 6,
+  "coin_type": "0x6feeed301af0814235777cd0a122e550e03896f36d4d94bf6a219d3fe0b2b9f9::siuuu::SIUUU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://public-cdn.daossui.io/assets/tokens/ea433680-dfdb-11ef-9dba-070b578638a0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

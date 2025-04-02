@@ -1,0 +1,13 @@
+{
+  "name": "Beby whaly",
+  "symbol": "Beby whaly",
+  "decimals": 9,
+  "coin_type": "0xf1ca4d738a76711de4922592d1d58fee48c0ce4c96deaeb81e47822c3eb43865::beby_whaly::BEBY_WHALY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cd5d2dae-c471-43f3-a659-bc191df5fee2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

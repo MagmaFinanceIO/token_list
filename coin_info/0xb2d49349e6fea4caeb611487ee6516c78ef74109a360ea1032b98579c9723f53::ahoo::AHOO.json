@@ -1,0 +1,13 @@
+{
+  "name": "AHOO",
+  "symbol": "AHOO",
+  "decimals": 9,
+  "coin_type": "0xb2d49349e6fea4caeb611487ee6516c78ef74109a360ea1032b98579c9723f53::ahoo::AHOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUyf53KxgEVE0vYCTtx_Fy5tTNIYt9PWyxFQ&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hippo Cat",
+  "symbol": "MEOWDENG",
+  "decimals": 9,
+  "coin_type": "0x0063cc6ed7d442828e9f9908b30435d64b9e73fedd36d5bdc737f4b9c021b7bd::meowdeng::MEOWDENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ee667b43-6a14-48a3-8fb1-cc73bfc7392b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

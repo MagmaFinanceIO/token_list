@@ -1,0 +1,13 @@
+{
+  "name": "RUS Vine Founder Coin",
+  "symbol": "RUS",
+  "decimals": 9,
+  "coin_type": "0x7587385b7540f608ef1aef67244985783b2aac0c843ea813b129683ff9fd69d2::rus::RUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FEWnK8C5kPvcujVQxWL2kCDKwEnjPgyANA8JMsWqpump.png?size=lg&key=2c3516",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

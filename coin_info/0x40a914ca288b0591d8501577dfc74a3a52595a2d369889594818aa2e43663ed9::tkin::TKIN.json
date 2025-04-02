@@ -1,0 +1,13 @@
+{
+  "name": "Trumpkin",
+  "symbol": "TKIN",
+  "decimals": 9,
+  "coin_type": "0x40a914ca288b0591d8501577dfc74a3a52595a2d369889594818aa2e43663ed9::tkin::TKIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2f012f3a-baaa-4e40-b3eb-ed0d244cf6b2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PEACH MILK by SuiAI",
+  "symbol": "PCHY",
+  "decimals": 6,
+  "coin_type": "0x790a6bb77d3ebc4278d6afa7551306a8be5a349b6d78fe3e4cfab24bdb42a0ca::pchy::PCHY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/image_3_f5fd166863.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

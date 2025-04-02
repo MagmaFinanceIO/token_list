@@ -1,0 +1,13 @@
+{
+  "name": "PEPEONSUI",
+  "symbol": "$SUIPEPE",
+  "decimals": 6,
+  "coin_type": "0x959f6228db998ee11e2f11c494f506a70bff6aa60d7cbdcda3176f6eaee069f1::suipepe::SUIPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmYbHdJKxc9PH64HkFeidzwDGpCRXECLPS1kwLYRQoXBQF",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

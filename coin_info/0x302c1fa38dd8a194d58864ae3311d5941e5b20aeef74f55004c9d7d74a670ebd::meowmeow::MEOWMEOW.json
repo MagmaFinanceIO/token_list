@@ -1,0 +1,13 @@
+{
+  "name": "MEOWMEOW",
+  "symbol": "MEOWMEOW",
+  "decimals": 6,
+  "coin_type": "0x302c1fa38dd8a194d58864ae3311d5941e5b20aeef74f55004c9d7d74a670ebd::meowmeow::MEOWMEOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://tomato-rapid-stork-14.mypinata.cloud/ipfs/QmR5tuFR2gw8B5Ef4uSWPVa8owabT8mKx6pBYLvKAkpurg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

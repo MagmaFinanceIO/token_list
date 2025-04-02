@@ -1,0 +1,13 @@
+{
+  "name": "Popo",
+  "symbol": "Popo",
+  "decimals": 9,
+  "coin_type": "0x52328354d448d9bf0cd52b541a3b3c6c56907b23071b26bf8ad6452acdf80e8e::popo::POPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/023a7ce2-c10a-421c-8290-bbff064a01df.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Snufry",
+  "symbol": "SNUFRY",
+  "decimals": 9,
+  "coin_type": "0x871dbf23d19bd90249a8bf3a3fc2de5ce70161e499d2ff7e8b8d9d25405f044c::snufry::SNUFRY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cb69be9b-c9e0-402e-96d1-14ed84a268a7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

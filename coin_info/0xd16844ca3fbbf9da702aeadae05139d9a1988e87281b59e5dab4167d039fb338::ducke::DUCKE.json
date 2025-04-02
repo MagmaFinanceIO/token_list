@@ -1,0 +1,13 @@
+{
+  "name": "Ducke",
+  "symbol": "DUCKE",
+  "decimals": 9,
+  "coin_type": "0xd16844ca3fbbf9da702aeadae05139d9a1988e87281b59e5dab4167d039fb338::ducke::DUCKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://raw.githubusercontent.com/duckesui/ducke/refs/heads/main/image_2024-10-16_01-23-38.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

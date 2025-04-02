@@ -1,0 +1,13 @@
+{
+  "name": "DogWifFans",
+  "symbol": "DwF",
+  "decimals": 9,
+  "coin_type": "0x439bf662c57aeef44f013ac044596a3951aaebfe00edf348d7da849fee5615c6::dwf::DWF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5scG2WQvmBHTTZ3arDJYqVMwyJpzXrpzruscJc9Fpump.png?size=lg&key=39cd58",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

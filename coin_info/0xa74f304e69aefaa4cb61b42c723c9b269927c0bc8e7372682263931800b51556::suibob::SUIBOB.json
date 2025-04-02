@@ -1,0 +1,13 @@
+{
+  "name": "SuiBob",
+  "symbol": "SUIBOB",
+  "decimals": 9,
+  "coin_type": "0xa74f304e69aefaa4cb61b42c723c9b269927c0bc8e7372682263931800b51556::suibob::SUIBOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6d451d75-5762-468d-bac4-fd769e3a42b2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Neos.ai",
+  "symbol": "NEOS",
+  "decimals": 2,
+  "coin_type": "0x7d29dbd1f9d78559c8cb0cf05f442051d74a4332e5780aef144edb7333189985::NEOS::NEOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/Mfi95RNvEov2S4jL8Fqzur3rBfJFDGNCTyAYp9W1CUU?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

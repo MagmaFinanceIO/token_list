@@ -1,0 +1,13 @@
+{
+  "name": "I am a Puppy",
+  "symbol": "I am a Puppy",
+  "decimals": 9,
+  "coin_type": "0x72e169a8ebbad8b361dcb2e1da27a4497c4cce3cae83cd53d6145f0d1e2986db::i_am_a_puppy::I_AM_A_PUPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3448e02d-c187-444d-998b-e4a293466631.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

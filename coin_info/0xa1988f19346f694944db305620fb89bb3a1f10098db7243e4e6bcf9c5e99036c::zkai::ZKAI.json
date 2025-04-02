@@ -1,0 +1,13 @@
+{
+  "name": "ZKCrypt AI",
+  "symbol": "ZKAI",
+  "decimals": 9,
+  "coin_type": "0xa1988f19346f694944db305620fb89bb3a1f10098db7243e4e6bcf9c5e99036c::zkai::ZKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x5959e94661e1203e0c8ef84095a7846bacc6a94f.png?size=lg&key=68314b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

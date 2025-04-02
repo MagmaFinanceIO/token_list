@@ -1,0 +1,13 @@
+{
+  "name": "Just A Chill Nut",
+  "symbol": "ChillNut",
+  "decimals": 9,
+  "coin_type": "0x35ea886a71a18ee4f446e4bc2ed59f47e34d4acc69930bb5438b2753a068d4b5::chillnut::CHILLNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AwFkKK52fSoTKpvEfzN1SNAAC86ooehMwbZ8gALhZz2g.png?size=lg&key=47a1af",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

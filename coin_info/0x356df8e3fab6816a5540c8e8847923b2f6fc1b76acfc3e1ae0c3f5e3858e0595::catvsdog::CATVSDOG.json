@@ -1,0 +1,13 @@
+{
+  "name": "Cat vs. Dog",
+  "symbol": "CATVSDOG",
+  "decimals": 9,
+  "coin_type": "0x356df8e3fab6816a5540c8e8847923b2f6fc1b76acfc3e1ae0c3f5e3858e0595::catvsdog::CATVSDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8d98b6fa-3758-4b6d-9980-f94321039185.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

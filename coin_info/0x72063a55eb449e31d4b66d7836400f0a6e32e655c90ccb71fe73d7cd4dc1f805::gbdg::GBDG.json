@@ -1,0 +1,13 @@
+{
+  "name": "GIGGLY BADGER",
+  "symbol": "GBDG",
+  "decimals": 6,
+  "coin_type": "0x72063a55eb449e31d4b66d7836400f0a6e32e655c90ccb71fe73d7cd4dc1f805::gbdg::GBDG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_21_030745061_c2c29bbab7.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

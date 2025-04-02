@@ -1,0 +1,13 @@
+{
+  "name": "New Year New Meme",
+  "symbol": "NYNM",
+  "decimals": 9,
+  "coin_type": "0xe34ab901d00eef7250a4f07109027d69099e37e8096609f80b8d4c5fe1d050aa::nynm::NYNM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/PEzDvWDsUdx4YAnvr8P741LHtoxt4ZoGXhrZmsapump.png?size=lg&key=436aaa",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

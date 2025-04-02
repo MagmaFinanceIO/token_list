@@ -1,0 +1,13 @@
+{
+  "name": "Yodai on Sui",
+  "symbol": "YODAI",
+  "decimals": 6,
+  "coin_type": "0xbda4bdbd49f79c2bb396e2fe80839016e6ff7c73c5ea0fd9007641099b118c61::yodai::YODAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Thia_t_ka_ch_AE_a_c_A_t_A_n_12_575dbd16f4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

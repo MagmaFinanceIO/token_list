@@ -1,0 +1,13 @@
+{
+  "name": "TruthChain",
+  "symbol": "TRUTH",
+  "decimals": 9,
+  "coin_type": "0x65496efc6d1c1642214c53ddd7fc39e871fb0b85cd38f5bdd0c58d5f890f1d38::truth::TRUTH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2GmUPhpe93kcTJZrC7NJ2keeDZRT5dBveUgegb13pump.png?size=lg&key=1b7525",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

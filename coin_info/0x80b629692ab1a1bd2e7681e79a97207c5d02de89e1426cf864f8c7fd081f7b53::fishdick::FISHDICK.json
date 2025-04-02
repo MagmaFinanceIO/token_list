@@ -1,0 +1,13 @@
+{
+  "name": "fishdick",
+  "symbol": "FISHDICK",
+  "decimals": 9,
+  "coin_type": "0x80b629692ab1a1bd2e7681e79a97207c5d02de89e1426cf864f8c7fd081f7b53::fishdick::FISHDICK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GZv3qcCmBXtdcwCe4j5ZrsRexxMbRLJdtv1dWXKZpump.png?size=lg&key=ddc704",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

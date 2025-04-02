@@ -1,0 +1,13 @@
+{
+  "name": "CATF",
+  "symbol": "CATF",
+  "decimals": 6,
+  "coin_type": "0x5004dcb025e912bd82d6e1b2ce67d5eb769e8cf37b01bc67f3267838a5d8bc11::catf::CATF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "undefined",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

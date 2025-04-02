@@ -1,0 +1,13 @@
+{
+  "name": "SUI PRO BET AI",
+  "symbol": "SUIPRO",
+  "decimals": 6,
+  "coin_type": "0xded655845c083cea999e369533511b3bb5ef2d9d159a865ea934f6835696fa98::suipro::SUIPRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_1924_3cc94945f3.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

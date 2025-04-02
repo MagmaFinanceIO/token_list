@@ -1,0 +1,13 @@
+{
+  "name": "BeethovenAI",
+  "symbol": "BETH",
+  "decimals": 6,
+  "coin_type": "0x01fb841c335661ab8e64dbd5c6092acb025cdae3d8fe77c60a6c990e7e051506::beth::BETH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2025_01_06_11_50_14_875da5afa8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

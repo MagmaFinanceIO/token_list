@@ -1,0 +1,13 @@
+{
+  "name": "DeepBook 129",
+  "symbol": "DEEP129",
+  "decimals": 9,
+  "coin_type": "0xd99bce6b531c65ec4d1b1741941f398528164c8e22db360738b2bbb7937f444a::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.deepbook.tech/icon.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

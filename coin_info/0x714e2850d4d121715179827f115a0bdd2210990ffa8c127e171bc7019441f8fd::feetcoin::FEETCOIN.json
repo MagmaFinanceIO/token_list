@@ -1,0 +1,13 @@
+{
+  "name": "FEETCOIN",
+  "symbol": "FEETCOIN",
+  "decimals": 9,
+  "coin_type": "0x714e2850d4d121715179827f115a0bdd2210990ffa8c127e171bc7019441f8fd::feetcoin::FEETCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/G6esXaVQUsZKtStZn7bvTkx4nMnovUXRsrox9Lovpump.png?size=lg&key=2d22be",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

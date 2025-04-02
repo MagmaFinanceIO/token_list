@@ -1,0 +1,13 @@
+{
+  "name": "SNORKEL",
+  "symbol": "SNORKEL",
+  "decimals": 6,
+  "coin_type": "0x6a6cc1dc2603643f5b08775ed9af847e8954a1b692a9df69ca1c4077f9040fa5::snorkel::SNORKEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmaYfbnre5RgPrGbBpreDrMzdYjubHw9dzxnLDG3xXDSEd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

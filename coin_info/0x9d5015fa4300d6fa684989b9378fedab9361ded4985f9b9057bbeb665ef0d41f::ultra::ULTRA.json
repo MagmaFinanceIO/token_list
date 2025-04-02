@@ -1,0 +1,13 @@
+{
+  "name": "Ultra Knight",
+  "symbol": "ULTRA",
+  "decimals": 9,
+  "coin_type": "0x9d5015fa4300d6fa684989b9378fedab9361ded4985f9b9057bbeb665ef0d41f::ultra::ULTRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e8901617-2150-4a40-a85a-586bfa463259.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

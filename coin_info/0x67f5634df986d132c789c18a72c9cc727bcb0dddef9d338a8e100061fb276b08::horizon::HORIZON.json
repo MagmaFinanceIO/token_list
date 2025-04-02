@@ -1,0 +1,13 @@
+{
+  "name": "Horizon on Sui",
+  "symbol": "HORIZON",
+  "decimals": 9,
+  "coin_type": "0x67f5634df986d132c789c18a72c9cc727bcb0dddef9d338a8e100061fb276b08::horizon::HORIZON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmeJAR9ubYFQJ4btSV4BjCDuiWABhWWUnqUefUrnU5p7SP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

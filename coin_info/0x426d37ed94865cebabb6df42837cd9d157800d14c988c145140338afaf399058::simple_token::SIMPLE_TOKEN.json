@@ -1,0 +1,13 @@
+{
+  "name": "BULLIEVE",
+  "symbol": "BULLIEVE",
+  "decimals": 9,
+  "coin_type": "0x426d37ed94865cebabb6df42837cd9d157800d14c988c145140338afaf399058::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

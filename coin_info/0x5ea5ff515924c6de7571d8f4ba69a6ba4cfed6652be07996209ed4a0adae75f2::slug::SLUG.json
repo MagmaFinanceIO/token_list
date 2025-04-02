@@ -1,0 +1,13 @@
+{
+  "name": "Slug Thug",
+  "symbol": "SLUG",
+  "decimals": 9,
+  "coin_type": "0x5ea5ff515924c6de7571d8f4ba69a6ba4cfed6652be07996209ed4a0adae75f2::slug::SLUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0444c201-2c1c-421f-a0b9-6da5f5e6a1d3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

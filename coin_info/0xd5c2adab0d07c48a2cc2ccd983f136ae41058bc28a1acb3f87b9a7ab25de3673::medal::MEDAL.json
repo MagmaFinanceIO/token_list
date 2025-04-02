@@ -1,0 +1,13 @@
+{
+  "name": "MEDAL",
+  "symbol": "MEDAL",
+  "decimals": 9,
+  "coin_type": "0xd5c2adab0d07c48a2cc2ccd983f136ae41058bc28a1acb3f87b9a7ab25de3673::medal::MEDAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/media/GgjjaTdXAAAl1PW?format=jpg&name=medium",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

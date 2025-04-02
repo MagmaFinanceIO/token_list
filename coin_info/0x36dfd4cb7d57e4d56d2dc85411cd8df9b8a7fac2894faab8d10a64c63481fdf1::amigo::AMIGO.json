@@ -1,0 +1,13 @@
+{
+  "name": "Chill Amigo",
+  "symbol": "AMIGO",
+  "decimals": 9,
+  "coin_type": "0x36dfd4cb7d57e4d56d2dc85411cd8df9b8a7fac2894faab8d10a64c63481fdf1::amigo::AMIGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5dMJi46g4VDNEHD4kCaEfZR6NvkZ6s2fvA7gtm65pump.png?size=lg&key=742ade",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

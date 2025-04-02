@@ -1,0 +1,13 @@
+{
+  "name": "InphosoftCoin",
+  "symbol": "InphoSui",
+  "decimals": 9,
+  "coin_type": "0x137cfdde437cd90cdbd40a6ee24bc73ca6f4c7d3b490ac1fe522d33780753e2f::inphosui::INPHOSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a5930a9d-d9c1-4f8f-955e-edaeb6a3ad35.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

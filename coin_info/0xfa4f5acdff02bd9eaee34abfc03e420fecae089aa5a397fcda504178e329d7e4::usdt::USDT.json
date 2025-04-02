@@ -1,0 +1,13 @@
+{
+  "name": "SonicPepeSmurfGenie",
+  "symbol": "USDT",
+  "decimals": 6,
+  "coin_type": "0xfa4f5acdff02bd9eaee34abfc03e420fecae089aa5a397fcda504178e329d7e4::usdt::USDT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_09_16_28_40_2_dabbdab850.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

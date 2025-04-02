@@ -1,0 +1,13 @@
+{
+  "name": "My Time",
+  "symbol": "MT",
+  "decimals": 9,
+  "coin_type": "0xb1ada772ecf5741e9051f682415df01ed3e5ca11d0cee4742ffd3bbe30d87f7d::mt::MT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6952c85a-3aa1-4aeb-b5f0-f434ffeb78d8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

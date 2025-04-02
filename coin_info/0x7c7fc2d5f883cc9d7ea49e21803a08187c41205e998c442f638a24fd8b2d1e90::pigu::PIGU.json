@@ -1,0 +1,13 @@
+{
+  "name": "PIGU The Penguin",
+  "symbol": "PIGU",
+  "decimals": 6,
+  "coin_type": "0x7c7fc2d5f883cc9d7ea49e21803a08187c41205e998c442f638a24fd8b2d1e90::pigu::PIGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pigu_1cfde34827.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

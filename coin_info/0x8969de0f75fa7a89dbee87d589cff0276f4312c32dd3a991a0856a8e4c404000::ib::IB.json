@@ -1,0 +1,13 @@
+{
+  "name": "IBRAHIM TRAORE FANS COIN",
+  "symbol": "IB",
+  "decimals": 9,
+  "coin_type": "0x8969de0f75fa7a89dbee87d589cff0276f4312c32dd3a991a0856a8e4c404000::ib::IB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c85afb6d-ef46-4eee-a7bf-db6ccfca9e1d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

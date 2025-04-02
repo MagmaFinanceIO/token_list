@@ -1,0 +1,13 @@
+{
+  "name": "Sun God Nika",
+  "symbol": "Luffy",
+  "decimals": 9,
+  "coin_type": "0x19380ced2f0ec0a5bf9edde9854f8719f55b85a9a09f8ce3d6ccfd49b70b18de::luffy::LUFFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e5226d41-c94c-4dc2-868f-858d6872d529.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

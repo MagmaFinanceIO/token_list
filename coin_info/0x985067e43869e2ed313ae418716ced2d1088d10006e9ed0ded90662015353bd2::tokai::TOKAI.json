@@ -1,0 +1,13 @@
+{
+  "name": "Tokai",
+  "symbol": "TOKAI",
+  "decimals": 9,
+  "coin_type": "0x985067e43869e2ed313ae418716ced2d1088d10006e9ed0ded90662015353bd2::tokai::TOKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/53ac2ea1-9763-4d1a-9de3-01765d2dbcf1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

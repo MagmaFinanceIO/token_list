@@ -1,0 +1,13 @@
+{
+  "name": "Exodus AI",
+  "symbol": "ExodusAI",
+  "decimals": 9,
+  "coin_type": "0x3633bac69a2f4d5ba3e71c3541336b0a7745a6c3c55f69e68b7584af43d7fb4a::exodusai::EXODUSAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FqveHfaf96iTjA3KgX1W5LWPnLFYv8EfUf6TQSWPpump.png?size=lg&key=526eb7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

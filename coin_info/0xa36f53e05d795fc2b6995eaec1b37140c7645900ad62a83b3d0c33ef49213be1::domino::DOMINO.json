@@ -1,0 +1,13 @@
+{
+  "name": "DOMINO",
+  "symbol": "DOMINO",
+  "decimals": 6,
+  "coin_type": "0xa36f53e05d795fc2b6995eaec1b37140c7645900ad62a83b3d0c33ef49213be1::domino::DOMINO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7a3510f4-8b58-40c9-b0bf-49847773b699.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

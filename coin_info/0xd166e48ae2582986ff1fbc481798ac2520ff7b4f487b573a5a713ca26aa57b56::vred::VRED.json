@@ -1,0 +1,13 @@
+{
+  "name": "Red",
+  "symbol": "vRED",
+  "decimals": 6,
+  "coin_type": "0xd166e48ae2582986ff1fbc481798ac2520ff7b4f487b573a5a713ca26aa57b56::vred::VRED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_U1_K_Pibb_L89chyx195a7p57_HEWUT_Yg_Byz_H_Zd_ZWYZB_2p_JV_8602039cad.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

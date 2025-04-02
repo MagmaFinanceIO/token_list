@@ -1,0 +1,13 @@
+{
+  "name": "ZEUS",
+  "symbol": "SUIZ",
+  "decimals": 6,
+  "coin_type": "0x6c20b2eeb23b15a4e2343f423495e1ee05faa8b1ab1f433def7283842a20bc46::SUIZ::SUIZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FIMG_1740_ccb09617ad.jpeg&w=256&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

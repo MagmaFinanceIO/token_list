@@ -1,0 +1,13 @@
+{
+  "name": "Shiblo The Diablo",
+  "symbol": "SHIBLO",
+  "decimals": 9,
+  "coin_type": "0x8389a6e399bb1aa4b86bfd0898405f588f4fe043bf723f3d84a44f51c8028b5a::shiblo::SHIBLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4d2905a6-9634-483c-a2d8-73a9b00fc813.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

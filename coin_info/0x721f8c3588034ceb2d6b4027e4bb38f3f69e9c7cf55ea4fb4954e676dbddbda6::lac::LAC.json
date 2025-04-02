@@ -1,0 +1,13 @@
+{
+  "name": "SULACO",
+  "symbol": "LAC",
+  "decimals": 9,
+  "coin_type": "0x721f8c3588034ceb2d6b4027e4bb38f3f69e9c7cf55ea4fb4954e676dbddbda6::lac::LAC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/295cad0d-8f1a-4950-91fe-62525a9a81ac.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

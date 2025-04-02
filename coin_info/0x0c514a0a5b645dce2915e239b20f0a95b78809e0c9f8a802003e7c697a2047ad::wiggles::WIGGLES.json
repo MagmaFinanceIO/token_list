@@ -1,0 +1,13 @@
+{
+  "name": "Wiggles the Walrus",
+  "symbol": "WIGGLES",
+  "decimals": 6,
+  "coin_type": "0x0c514a0a5b645dce2915e239b20f0a95b78809e0c9f8a802003e7c697a2047ad::wiggles::WIGGLES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/walrus_ede0b50370.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

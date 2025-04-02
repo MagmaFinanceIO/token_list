@@ -1,0 +1,13 @@
+{
+  "name": "Steve by Matt Furie",
+  "symbol": "STEVE",
+  "decimals": 9,
+  "coin_type": "0xfae822608ad153a8b0210d16bcb120c6f1d1ffbe1709d9223e3962f0ba3b0e5f::steve::STEVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/16d0df6d-d705-4933-b880-0a793469a260.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

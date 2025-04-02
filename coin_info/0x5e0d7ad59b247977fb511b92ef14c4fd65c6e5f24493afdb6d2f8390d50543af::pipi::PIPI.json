@@ -1,0 +1,13 @@
+{
+  "name": "The Pippies",
+  "symbol": "PIPI",
+  "decimals": 9,
+  "coin_type": "0x5e0d7ad59b247977fb511b92ef14c4fd65c6e5f24493afdb6d2f8390d50543af::pipi::PIPI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3xAd2H98eMk9D7uJdehoamH33hYSAzMxJHX8ADFkpump.png?size=lg&key=59f3c7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Herakles",
+  "symbol": "HER",
+  "decimals": 6,
+  "coin_type": "0xd404ed0db38b6180ab18cb213ce41d4f0944f3eb470793b9f3fa2eff1546cc9b::her::HER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/t_672cecb233.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PIKAI THE REBORN",
+  "symbol": "PIKAI",
+  "decimals": 6,
+  "coin_type": "0xdcb3cabde3a2378c9b17bd3f865500942dc96dc895984aff82c2cdee60ed5fd7::pikai::PIKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2025_01_11_22_04_16_66d49ab229.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

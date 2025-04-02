@@ -1,0 +1,13 @@
+{
+  "name": "SMOKING PEPE",
+  "symbol": "SMOKE",
+  "decimals": 9,
+  "coin_type": "0x38bb1989318682848950f98421f445c15d64d73baa1c553f34d56770c4532766::smoke::SMOKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2e37684c-e63a-470a-a370-6afd89506940.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

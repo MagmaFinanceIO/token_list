@@ -1,0 +1,13 @@
+{
+  "name": "DinoSuir",
+  "symbol": "DINOS",
+  "decimals": 9,
+  "coin_type": "0xa1a2b5ee6d43ecc7d8feb28d9d3d8766e6ac026af3faefb87a0711c36e85d92c::dinos::DINOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/84125a32-ff68-4118-8b0e-472bb324e1a8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

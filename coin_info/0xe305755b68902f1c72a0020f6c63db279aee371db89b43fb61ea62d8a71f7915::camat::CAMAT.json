@@ -1,0 +1,13 @@
+{
+  "name": "CAMAT THE MATRIX CAT",
+  "symbol": "CAMAT",
+  "decimals": 9,
+  "coin_type": "0xe305755b68902f1c72a0020f6c63db279aee371db89b43fb61ea62d8a71f7915::camat::CAMAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/935ce8f0-f8af-4bf9-8f56-c174d0d8bbed.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

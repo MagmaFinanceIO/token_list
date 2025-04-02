@@ -1,0 +1,13 @@
+{
+  "name": "Bastet Cat",
+  "symbol": "BASTET",
+  "decimals": 9,
+  "coin_type": "0x265a9d1465e3fb7f327e156326a41525aa62f7789e703b7c43466125d98f3404::bastet::BASTET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/C6EGkW8or5U8raBaeEd3mS3PpDwdizcyN3WMNvQgZcNi.png?size=lg&key=188988",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

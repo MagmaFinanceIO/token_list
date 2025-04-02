@@ -1,0 +1,13 @@
+{
+  "name": "K Coin",
+  "symbol": "KAYA",
+  "decimals": 9,
+  "coin_type": "0x5f41151bc580e75d0d65eaf94cd8d025a6c5c7f2af7b5150aab01224bb7cddf5::kaya::KAYA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3d6b64e2-e638-49a0-8487-c943cd1ac37c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

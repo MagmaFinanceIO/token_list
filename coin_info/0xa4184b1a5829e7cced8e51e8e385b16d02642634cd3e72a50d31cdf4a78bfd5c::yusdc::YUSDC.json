@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "symbol": "yUSDC",
+  "decimals": 6,
+  "coin_type": "0xa4184b1a5829e7cced8e51e8e385b16d02642634cd3e72a50d31cdf4a78bfd5c::yusdc::YUSDC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

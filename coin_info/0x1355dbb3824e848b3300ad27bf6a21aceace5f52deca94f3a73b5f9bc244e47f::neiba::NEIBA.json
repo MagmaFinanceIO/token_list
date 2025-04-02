@@ -1,0 +1,13 @@
+{
+  "name": "NEIRO BANANA",
+  "symbol": "NEIBA",
+  "decimals": 9,
+  "coin_type": "0x1355dbb3824e848b3300ad27bf6a21aceace5f52deca94f3a73b5f9bc244e47f::neiba::NEIBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cc446e84-93d9-4ece-9da0-b9ac2fb46d14.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

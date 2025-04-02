@@ -1,0 +1,13 @@
+{
+  "name": "Sonic Snipe",
+  "symbol": "SONIC",
+  "decimals": 6,
+  "coin_type": "0x89969cfd41b3b93cd6462cab2b7f5af8e39b24772b35640e9d0a7d97b086b6c8::sonic::SONIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a61d534d-b392-4e9e-b9be-3a4fff09b230.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

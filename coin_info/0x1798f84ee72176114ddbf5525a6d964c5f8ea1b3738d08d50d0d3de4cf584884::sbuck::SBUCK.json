@@ -1,0 +1,13 @@
+{
+  "name": "Savings BUCK",
+  "symbol": "sBUCK",
+  "decimals": 9,
+  "coin_type": "0x1798f84ee72176114ddbf5525a6d964c5f8ea1b3738d08d50d0d3de4cf584884::sbuck::SBUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmSXhXefmyiwVYLvHNrkXMkY46U1Z7GDGz66Lhoo4Bz3Cx",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

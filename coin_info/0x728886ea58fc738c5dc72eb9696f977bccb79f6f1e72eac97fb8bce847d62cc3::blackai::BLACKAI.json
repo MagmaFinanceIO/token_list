@@ -1,0 +1,13 @@
+{
+  "name": "Blacktail AI",
+  "symbol": "BLACKAI",
+  "decimals": 9,
+  "coin_type": "0x728886ea58fc738c5dc72eb9696f977bccb79f6f1e72eac97fb8bce847d62cc3::blackai::BLACKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/tABry1BGSzqx5FAP4fiWo5VYjWEthsPVvi8GJNwpump.png?size=lg&key=ebc5cf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

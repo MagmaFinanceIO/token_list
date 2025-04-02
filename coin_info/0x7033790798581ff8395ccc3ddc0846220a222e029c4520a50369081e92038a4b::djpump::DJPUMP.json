@@ -1,0 +1,13 @@
+{
+  "name": "DONALD J. PUMP",
+  "symbol": "DJPUMP",
+  "decimals": 9,
+  "coin_type": "0x7033790798581ff8395ccc3ddc0846220a222e029c4520a50369081e92038a4b::djpump::DJPUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/36CdR7EzFZgu4aEswP6xJy11x3y4sKN62Fc84CGdpump.png?size=lg&key=b94913",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

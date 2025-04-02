@@ -1,0 +1,13 @@
+{
+  "name": "Cock",
+  "symbol": "COCK",
+  "decimals": 6,
+  "coin_type": "0xf221f685b78721105507881eb9e477ab3ee1f638095ab839b74db318e27000b1::cock::COCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmTMTAPxfEC9Fu9rgS7qGZsE3Bt49BnTkDc8yK11fbP1ig",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

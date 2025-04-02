@@ -1,0 +1,13 @@
+{
+  "name": "Mirae AI by SuiAI",
+  "symbol": "MIRAE",
+  "decimals": 9,
+  "coin_type": "0x99dfab2d4611f77c2153abb7e548f6f812448341921fe5e87b723e63fc914555::mirae::MIRAE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3d3ef8d1-247b-442e-9b15-62b68ea8e4f0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

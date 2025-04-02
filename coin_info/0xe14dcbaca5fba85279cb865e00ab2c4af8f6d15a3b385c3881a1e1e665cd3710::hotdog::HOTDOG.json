@@ -1,0 +1,13 @@
+{
+  "name": "HotDog",
+  "symbol": "HOTDOG",
+  "decimals": 9,
+  "coin_type": "0xe14dcbaca5fba85279cb865e00ab2c4af8f6d15a3b385c3881a1e1e665cd3710::hotdog::HOTDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/FEuCqn2hGbE07hIY?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

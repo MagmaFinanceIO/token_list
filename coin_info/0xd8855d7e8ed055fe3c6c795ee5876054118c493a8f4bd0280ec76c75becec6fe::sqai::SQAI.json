@@ -1,0 +1,13 @@
+{
+  "name": "Sui Quantum Al",
+  "symbol": "SQAI",
+  "decimals": 6,
+  "coin_type": "0xd8855d7e8ed055fe3c6c795ee5876054118c493a8f4bd0280ec76c75becec6fe::sqai::SQAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c3c6ea76-1b05-4c56-bfdc-460b0474d7a5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

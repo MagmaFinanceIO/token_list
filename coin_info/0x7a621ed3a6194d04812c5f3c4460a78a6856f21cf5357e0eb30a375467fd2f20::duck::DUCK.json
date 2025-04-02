@@ -1,0 +1,13 @@
+{
+  "name": "Duck Chain",
+  "symbol": "DUCK",
+  "decimals": 9,
+  "coin_type": "0x7a621ed3a6194d04812c5f3c4460a78a6856f21cf5357e0eb30a375467fd2f20::duck::DUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EWYRDuEqjQEHZPF8rKQos4L4bxqPo4QRRgX6KwszThvf.png?size=lg&key=10da64",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

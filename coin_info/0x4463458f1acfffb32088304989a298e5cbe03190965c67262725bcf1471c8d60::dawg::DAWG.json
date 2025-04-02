@@ -1,0 +1,13 @@
+{
+  "name": "Based Dawg",
+  "symbol": "Dawg",
+  "decimals": 6,
+  "coin_type": "0x4463458f1acfffb32088304989a298e5cbe03190965c67262725bcf1471c8d60::dawg::DAWG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000599031_19647cc33a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

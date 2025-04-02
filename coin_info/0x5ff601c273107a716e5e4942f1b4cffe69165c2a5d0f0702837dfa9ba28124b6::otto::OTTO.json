@@ -1,0 +1,13 @@
+{
+  "name": "OTTO ON SUI",
+  "symbol": "OTTO",
+  "decimals": 6,
+  "coin_type": "0x5ff601c273107a716e5e4942f1b4cffe69165c2a5d0f0702837dfa9ba28124b6::otto::OTTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/OTTIER_1ab9ac634b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

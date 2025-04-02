@@ -1,0 +1,13 @@
+{
+  "name": "Sui Octopus",
+  "symbol": "OCTOPUS",
+  "decimals": 9,
+  "coin_type": "0xe75bc5332bddb3c08303631c7f55f2565ac3bbf81e7de1c358299f23b30d0476::octopus::OCTOPUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6f438261-9aee-48b1-a8f6-5a73a258ca95.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

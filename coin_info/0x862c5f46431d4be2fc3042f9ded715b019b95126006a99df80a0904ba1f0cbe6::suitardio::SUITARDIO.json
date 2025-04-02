@@ -1,0 +1,13 @@
+{
+  "name": "suitardio",
+  "symbol": "suitardio",
+  "decimals": 9,
+  "coin_type": "0x862c5f46431d4be2fc3042f9ded715b019b95126006a99df80a0904ba1f0cbe6::suitardio::SUITARDIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/68b9a745-2031-4115-9019-19a5d15093c4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

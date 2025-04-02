@@ -1,0 +1,13 @@
+{
+  "name": "Baby Pepe Sui",
+  "symbol": "BBPEPE",
+  "decimals": 9,
+  "coin_type": "0xee98bee7e59be4154b36e361185efc1acc3cd3e0079b1fa1fe90311e29720a89::bbpepe::BBPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a2a5123b-803b-4a1d-ac35-9211fd4c86f5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

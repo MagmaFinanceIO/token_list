@@ -1,0 +1,13 @@
+{
+  "name": "Marie Rose",
+  "symbol": "MARIE",
+  "decimals": 9,
+  "coin_type": "0x770a43d836439ddaaebbaf4566f5a8a7a45aa952a5b3de658fbefb83d82bd42f::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FIMG_0146_e8d6209e8f.jpeg&w=256&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui BEE",
+  "symbol": "SEE",
+  "decimals": 9,
+  "coin_type": "0xb714f1a20bf567bd10183c434c513d7c70090a5f6b542c152d93a78ca2d9d63a::see::SEE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.ctfassets.net/8dzj5s79jaus/16BvIZNFcECz3dDSr7t7Re/d3984063c0041293d15c60ae067c6fc8/PANGAIA-Bee-The-Change-Landing-PageArtboard_3.jpg?fm=jpg&fl=progressive&q=90",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

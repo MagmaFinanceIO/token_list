@@ -1,0 +1,13 @@
+{
+  "name": "NGMI(Not Gonna Make It)",
+  "symbol": "NGMI",
+  "decimals": 6,
+  "coin_type": "0xa05e5b70a3b7e1e20dd4f60dfef50f8188a51b83d1e5ea6c1a3acc10f4dc9c99::ngmi::NGMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5250_fa52dfe714.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HopDino",
+  "symbol": "DINO",
+  "decimals": 6,
+  "coin_type": "0xebfad38b669b70629e4546c80f000b68d9911477d181f918f12e87a75490aa7f::dino::DINO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731095353877.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

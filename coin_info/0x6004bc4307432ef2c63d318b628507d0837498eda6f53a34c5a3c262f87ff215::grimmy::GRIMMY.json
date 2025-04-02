@@ -1,0 +1,13 @@
+{
+  "name": "GRIMMY THE SLUG",
+  "symbol": "GRIMMY",
+  "decimals": 6,
+  "coin_type": "0x6004bc4307432ef2c63d318b628507d0837498eda6f53a34c5a3c262f87ff215::grimmy::GRIMMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1009_9fcc9fc00f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

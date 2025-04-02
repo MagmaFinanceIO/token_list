@@ -1,0 +1,13 @@
+{
+  "name": "bonkman",
+  "symbol": "bonkman",
+  "decimals": 6,
+  "coin_type": "0x7ad0db94c830ccda11ab71a4a1ba56deca21faa43ba5f086a6d34e09b7a00d76::bonkman::BONKMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmWn6rXpcFnNjaZzGBaPKDz6yYqnW2H6AE82DHnUPDP4J6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

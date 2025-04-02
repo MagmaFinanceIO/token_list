@@ -1,0 +1,13 @@
+{
+  "name": "EvilPenguin",
+  "symbol": "EVPS",
+  "decimals": 6,
+  "coin_type": "0x88f405a7ca54c3ab6746a8e05f2e5f18c71ed1e056fa43d32939651c9c6eb1f6::evps::EVPS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Evil_Penguin_6310041be0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

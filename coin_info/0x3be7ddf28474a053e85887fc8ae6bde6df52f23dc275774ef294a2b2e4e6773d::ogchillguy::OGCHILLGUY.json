@@ -1,0 +1,13 @@
+{
+  "name": "Original Chill Guy",
+  "symbol": "OGCHILLGUY",
+  "decimals": 9,
+  "coin_type": "0x3be7ddf28474a053e85887fc8ae6bde6df52f23dc275774ef294a2b2e4e6773d::ogchillguy::OGCHILLGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FeuGXSzNUjkdL12B8QmyMBP1N48ufh11huJC1raQpump.png?size=lg&key=7c5944",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

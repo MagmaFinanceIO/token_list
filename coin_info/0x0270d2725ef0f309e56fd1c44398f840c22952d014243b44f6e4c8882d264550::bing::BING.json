@@ -1,0 +1,13 @@
+{
+  "name": "BING",
+  "symbol": "BING",
+  "decimals": 9,
+  "coin_type": "0x0270d2725ef0f309e56fd1c44398f840c22952d014243b44f6e4c8882d264550::bing::BING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/xR5NtwYA7HsNQkRP2YuKnMrDN2eSfU32hVifH3ppump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

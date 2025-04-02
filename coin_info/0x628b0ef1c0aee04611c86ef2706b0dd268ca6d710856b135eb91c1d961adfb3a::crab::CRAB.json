@@ -1,0 +1,13 @@
+{
+  "name": "Crab",
+  "symbol": "CRAB",
+  "decimals": 9,
+  "coin_type": "0x628b0ef1c0aee04611c86ef2706b0dd268ca6d710856b135eb91c1d961adfb3a::crab::CRAB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d1f2894b-a9f6-47e9-b7c9-47148c40974a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

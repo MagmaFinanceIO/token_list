@@ -1,0 +1,13 @@
+{
+  "name": "YoYo by Virtuals",
+  "symbol": "YOYO",
+  "decimals": 9,
+  "coin_type": "0x70500d392364224f36a598fb5ddaa70405a684939c53ca41168fc0413c60d769::yoyo::YOYO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x5fc190dee34cd5202cc571ec5c8efd60a02bd06d.png?size=lg&key=b417ec",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

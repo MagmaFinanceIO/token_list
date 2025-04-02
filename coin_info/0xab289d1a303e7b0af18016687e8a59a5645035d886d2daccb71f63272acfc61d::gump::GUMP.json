@@ -1,0 +1,13 @@
+{
+  "name": "This Will Run",
+  "symbol": "GUMP",
+  "decimals": 9,
+  "coin_type": "0xab289d1a303e7b0af18016687e8a59a5645035d886d2daccb71f63272acfc61d::gump::GUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6ykjsNHmsTLcBUPrZnkimPxzwHNwoVhwF8JCdi6fpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

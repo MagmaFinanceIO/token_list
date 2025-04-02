@@ -1,0 +1,13 @@
+{
+  "name": "Report Dog",
+  "symbol": "RDOG",
+  "decimals": 6,
+  "coin_type": "0xa68a3fdcd6a0c16eb12cd95f1dff7949cbd5a09279c34666263ae62f28c0355a::rdog::RDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qme_L_Ec_U_Ec_V_Tz9_HH_Ykcmy_Rf_Jivwyv_TWABT_Chh4gff5_N169s_5a03970d75.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

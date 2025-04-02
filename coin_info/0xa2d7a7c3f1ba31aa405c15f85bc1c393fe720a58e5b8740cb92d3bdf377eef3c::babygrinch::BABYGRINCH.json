@@ -1,0 +1,13 @@
+{
+  "name": "Baby Grinch",
+  "symbol": "BabyGrinch",
+  "decimals": 9,
+  "coin_type": "0xa2d7a7c3f1ba31aa405c15f85bc1c393fe720a58e5b8740cb92d3bdf377eef3c::babygrinch::BABYGRINCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9ZTZxy8kV8gvUKPP3NT6DKUrjFhoSqdBH7mdfM9NCYyL.png?size=lg&key=e50462",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

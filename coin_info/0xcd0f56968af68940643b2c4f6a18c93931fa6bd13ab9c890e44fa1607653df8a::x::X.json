@@ -1,0 +1,13 @@
+{
+  "name": "Token X",
+  "symbol": "X",
+  "decimals": 6,
+  "coin_type": "0xcd0f56968af68940643b2c4f6a18c93931fa6bd13ab9c890e44fa1607653df8a::x::X",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731599731963.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

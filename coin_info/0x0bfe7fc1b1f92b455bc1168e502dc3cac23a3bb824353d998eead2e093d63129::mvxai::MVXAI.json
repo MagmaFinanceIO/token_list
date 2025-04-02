@@ -1,0 +1,13 @@
+{
+  "name": "AI Odds Oracle MVX by SuiAI",
+  "symbol": "MVXAI",
+  "decimals": 6,
+  "coin_type": "0x0bfe7fc1b1f92b455bc1168e502dc3cac23a3bb824353d998eead2e093d63129::mvxai::MVXAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_2111_a015429c6d.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

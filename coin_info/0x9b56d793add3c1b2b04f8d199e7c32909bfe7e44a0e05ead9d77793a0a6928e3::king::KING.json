@@ -1,0 +1,13 @@
+{
+  "name": "KING",
+  "symbol": "KING",
+  "decimals": 9,
+  "coin_type": "0x9b56d793add3c1b2b04f8d199e7c32909bfe7e44a0e05ead9d77793a0a6928e3::king::KING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0ea3916e-b9ca-4da8-8c10-408836438bd2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

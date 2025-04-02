@@ -1,0 +1,13 @@
+{
+  "name": "FORK",
+  "symbol": "FORK",
+  "decimals": 9,
+  "coin_type": "0x7660ca43f687c298b76661544c241778c6aed675d1502eed1138cb30415400b6::fork::FORK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BHrgRyaXbK2QSL6bNXVCxhpsfuU3ErNE6YCQ3SBUpump.png?size=lg&key=a1490e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

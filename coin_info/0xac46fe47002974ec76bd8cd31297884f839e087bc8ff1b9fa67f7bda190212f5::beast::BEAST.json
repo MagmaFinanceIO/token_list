@@ -1,0 +1,13 @@
+{
+  "name": "Image of the Beast",
+  "symbol": "BEAST",
+  "decimals": 6,
+  "coin_type": "0xac46fe47002974ec76bd8cd31297884f839e087bc8ff1b9fa67f7bda190212f5::beast::BEAST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_11_27_at_17_48_25_c5acb28a4f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Coinbase",
+  "symbol": "COINBASE",
+  "decimals": 9,
+  "coin_type": "0x8cc242f68111bca1688f94b87290879798504dc35544cf1539cbd2ef66ba412f::coinbase::COINBASE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmYByxpEyf2N34opspiHjJAzoqg38DmdQHFhFWRVt9gkVh",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

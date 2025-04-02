@@ -1,0 +1,13 @@
+{
+  "name": "SUIII",
+  "symbol": "SUIII",
+  "decimals": 9,
+  "coin_type": "0x89fc3c6115c89e06e55e20fcedbb90ef79d410c430ecbc970c3427518aa0432c::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

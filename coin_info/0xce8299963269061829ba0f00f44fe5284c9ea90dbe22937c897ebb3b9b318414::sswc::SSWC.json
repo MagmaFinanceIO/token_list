@@ -1,0 +1,13 @@
+{
+  "name": "SuiSwine Coin",
+  "symbol": "SSWC",
+  "decimals": 9,
+  "coin_type": "0xce8299963269061829ba0f00f44fe5284c9ea90dbe22937c897ebb3b9b318414::sswc::SSWC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e8ed3563-7880-4b1c-ada7-01e998bf4885.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

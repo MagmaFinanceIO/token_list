@@ -1,0 +1,13 @@
+{
+  "name": "HopFrog",
+  "symbol": "Hfog",
+  "decimals": 6,
+  "coin_type": "0xce5d5732454da66a04b69eb0907415998f89d82a59f22f1a6d6e9f652e586def::hfog::HFOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000035921_34644c757a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

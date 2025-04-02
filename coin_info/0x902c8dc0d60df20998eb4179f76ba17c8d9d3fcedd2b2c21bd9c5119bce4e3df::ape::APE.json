@@ -1,0 +1,13 @@
+{
+  "name": "Lil Ape",
+  "symbol": "APE",
+  "decimals": 9,
+  "coin_type": "0x902c8dc0d60df20998eb4179f76ba17c8d9d3fcedd2b2c21bd9c5119bce4e3df::ape::APE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8e04ab9c-ee57-465a-9a24-122107ed8962.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

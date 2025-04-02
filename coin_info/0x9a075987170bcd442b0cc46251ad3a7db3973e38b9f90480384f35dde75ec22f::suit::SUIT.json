@@ -1,0 +1,13 @@
+{
+  "name": "Doge Wif Suit",
+  "symbol": "SUIT",
+  "decimals": 9,
+  "coin_type": "0x9a075987170bcd442b0cc46251ad3a7db3973e38b9f90480384f35dde75ec22f::suit::SUIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=60,fit=crop,q=95/YleveDVNoDc9K2NG/group-1-copy-3-Aq2v21LJ3NCLoW9G.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

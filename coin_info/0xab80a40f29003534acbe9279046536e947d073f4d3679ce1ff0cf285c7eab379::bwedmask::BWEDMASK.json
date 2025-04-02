@@ -1,0 +1,13 @@
+{
+  "name": "Dwag WiF BwedMask",
+  "symbol": "bwedMask",
+  "decimals": 6,
+  "coin_type": "0xab80a40f29003534acbe9279046536e947d073f4d3679ce1ff0cf285c7eab379::bwedmask::BWEDMASK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_21_19_41_53_7cde81ffb0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Thena Pepe",
+  "symbol": "THEPE",
+  "decimals": 9,
+  "coin_type": "0x1a2ffe9dcda70dcfbe61dc7f12907dbafcf6afe8cc161d81706d7d2178202e6a::thepe::THEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d89aabdf-a309-4823-8593-c546aa12f28f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

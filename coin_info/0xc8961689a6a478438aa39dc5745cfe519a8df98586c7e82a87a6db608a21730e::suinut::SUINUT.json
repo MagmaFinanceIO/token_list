@@ -1,0 +1,13 @@
+{
+  "name": "suinut",
+  "symbol": "SUINUT",
+  "decimals": 6,
+  "coin_type": "0xc8961689a6a478438aa39dc5745cfe519a8df98586c7e82a87a6db608a21730e::suinut::SUINUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmYThJBWxVHUC4tLg9UkLKMQPvebeb6j8wQEEcxUJraXqo",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

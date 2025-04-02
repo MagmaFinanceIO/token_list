@@ -1,0 +1,13 @@
+{
+  "name": "Ever Flow",
+  "symbol": "EVF",
+  "decimals": 9,
+  "coin_type": "0x474390a9ccb77075548373026a1cabf3a94e933bfb6d080fa93691f03d0a8b23::evf::EVF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/19b0bc73-253d-47a0-a596-5e2e650b1365.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

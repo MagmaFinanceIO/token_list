@@ -1,0 +1,13 @@
+{
+  "name": "CLOWN ON SUI",
+  "symbol": "CLOWNSUI",
+  "decimals": 6,
+  "coin_type": "0xfff8577fbc8ee6f2d84925c46ea293055d5ef8dff9e3766d07ed5e81dc532f7c::clownsui::CLOWNSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000004628_0679408537.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

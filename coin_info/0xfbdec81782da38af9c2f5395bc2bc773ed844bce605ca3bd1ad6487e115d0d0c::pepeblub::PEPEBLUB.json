@@ -1,0 +1,13 @@
+{
+  "name": "PepeBlub",
+  "symbol": "PepeBlub",
+  "decimals": 9,
+  "coin_type": "0xfbdec81782da38af9c2f5395bc2bc773ed844bce605ca3bd1ad6487e115d0d0c::pepeblub::PEPEBLUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/16bfc108-623a-4b17-b8ea-400029fbb654.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

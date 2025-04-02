@@ -1,0 +1,13 @@
+{
+  "name": "Elon's First Game",
+  "symbol": "BLASTAR",
+  "decimals": 9,
+  "coin_type": "0x90e31314c354ff8aff46eaf3c1b158987bea078264ca95c4a3027f67e7a56765::blastar::BLASTAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/22ez74v89qiJzES4FhhSUngSSAp9GP2aoArBVDZVxR1r.png?size=lg&key=9cf937",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

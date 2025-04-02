@@ -1,0 +1,13 @@
+{
+  "name": "Narwhal",
+  "symbol": "NAR",
+  "decimals": 9,
+  "coin_type": "0x6360ae452c6c00a9f23134ebd097203939debfe7db0a2d957c96c7587048b7a9::nar::NAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e49b8673-208f-4319-bf8d-7a31273fe9b4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

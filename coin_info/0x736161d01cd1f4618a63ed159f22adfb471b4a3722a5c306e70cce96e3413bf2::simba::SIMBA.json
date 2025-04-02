@@ -1,0 +1,13 @@
+{
+  "name": "Simba the lonely lion",
+  "symbol": "SIMBA",
+  "decimals": 9,
+  "coin_type": "0x736161d01cd1f4618a63ed159f22adfb471b4a3722a5c306e70cce96e3413bf2::simba::SIMBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2f9a754e-737d-4347-b801-1f0a2b532b23.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

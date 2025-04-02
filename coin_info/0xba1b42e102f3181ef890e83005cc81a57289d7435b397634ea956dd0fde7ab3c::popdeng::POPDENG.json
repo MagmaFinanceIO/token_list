@@ -1,0 +1,13 @@
+{
+  "name": "Popdeng",
+  "symbol": "POPDENG",
+  "decimals": 9,
+  "coin_type": "0xba1b42e102f3181ef890e83005cc81a57289d7435b397634ea956dd0fde7ab3c::popdeng::POPDENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AtakVE4hj5KgbS58YzmCYrUwRqMNCnwaamUckk2Zpump.png?size=lg&key=66dcf6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

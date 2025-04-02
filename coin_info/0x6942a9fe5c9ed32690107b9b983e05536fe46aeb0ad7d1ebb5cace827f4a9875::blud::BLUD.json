@@ -1,0 +1,13 @@
+{
+  "name": "Sui Blud",
+  "symbol": "BLUD",
+  "decimals": 6,
+  "coin_type": "0x6942a9fe5c9ed32690107b9b983e05536fe46aeb0ad7d1ebb5cace827f4a9875::blud::BLUD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/New_Project_2024_10_12_T222912_883_84115bab49.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

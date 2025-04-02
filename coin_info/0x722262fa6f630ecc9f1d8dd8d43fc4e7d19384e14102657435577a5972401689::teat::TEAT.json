@@ -1,0 +1,13 @@
+{
+  "name": "TEAT",
+  "symbol": "TEAT",
+  "decimals": 9,
+  "coin_type": "0x722262fa6f630ecc9f1d8dd8d43fc4e7d19384e14102657435577a5972401689::teat::TEAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

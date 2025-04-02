@@ -1,0 +1,13 @@
+{
+  "name": "Blue Bottle",
+  "symbol": "BOTTLE",
+  "decimals": 6,
+  "coin_type": "0xd04c34eccbff386f870b6543afc076422f9d76c5c7aa3592b29493255ae2a7f0::bottle::BOTTLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_001_11_41338d765b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

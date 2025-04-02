@@ -1,0 +1,13 @@
+{
+  "name": "refjnk",
+  "symbol": "refjnk",
+  "decimals": 6,
+  "coin_type": "0x77c379319a3c31c2e90bb40e11bbefb3c4ad3969f3c45139616c5e3a41f1c730::refjnk::REFJNK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

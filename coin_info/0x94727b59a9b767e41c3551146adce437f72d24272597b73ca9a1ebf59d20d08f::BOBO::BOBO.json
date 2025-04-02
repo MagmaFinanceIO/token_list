@@ -1,0 +1,13 @@
+{
+  "name": "BOBO",
+  "symbol": "BOBO",
+  "decimals": 2,
+  "coin_type": "0x94727b59a9b767e41c3551146adce437f72d24272597b73ca9a1ebf59d20d08f::BOBO::BOBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/gs0tNCAYaUVJKuBQV3PpgNGrE0i7QJ1SN-OBPS2ucxs?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

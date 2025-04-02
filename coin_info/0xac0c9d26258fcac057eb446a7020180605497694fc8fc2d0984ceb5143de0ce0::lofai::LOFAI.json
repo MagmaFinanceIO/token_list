@@ -1,0 +1,13 @@
+{
+  "name": "LOFI AI",
+  "symbol": "LOFAI",
+  "decimals": 6,
+  "coin_type": "0xac0c9d26258fcac057eb446a7020180605497694fc8fc2d0984ceb5143de0ce0::lofai::LOFAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Lofi_AI_Logo_6f7fdfa3b5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

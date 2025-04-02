@@ -1,0 +1,13 @@
+{
+  "name": "AI300 ON SUI",
+  "symbol": "AI300",
+  "decimals": 9,
+  "coin_type": "0xe1073adcc9d74df863c87e443253c238fa732c0abb7d9bfe13a1d1a881f1b16d::ai300::AI300",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a98aee24-3baf-445f-a837-7d3637cb23f9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

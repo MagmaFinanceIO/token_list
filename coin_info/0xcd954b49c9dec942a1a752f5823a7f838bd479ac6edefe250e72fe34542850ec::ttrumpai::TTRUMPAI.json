@@ -1,0 +1,13 @@
+{
+  "name": "TECH TRUMP AI",
+  "symbol": "TTRUMPAI",
+  "decimals": 6,
+  "coin_type": "0xcd954b49c9dec942a1a752f5823a7f838bd479ac6edefe250e72fe34542850ec::ttrumpai::TTRUMPAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/TRUMP_AI_LOGO_e19eb8791a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

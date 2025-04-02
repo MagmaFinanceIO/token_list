@@ -1,0 +1,13 @@
+{
+  "name": "Sentrius AI by SuiAI",
+  "symbol": "SENTRIUSAI",
+  "decimals": 6,
+  "coin_type": "0xb89ae55a4c1ebecef24a8dc82365f74bd733a31b05dcb392c57413cff093e15c::sentriusai::SENTRIUSAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_2150_23d3fee9b3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

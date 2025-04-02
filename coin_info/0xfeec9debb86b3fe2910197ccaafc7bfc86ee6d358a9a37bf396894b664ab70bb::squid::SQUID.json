@@ -1,0 +1,13 @@
+{
+  "name": "Squid 🦑",
+  "symbol": "SQUID",
+  "decimals": 9,
+  "coin_type": "0xfeec9debb86b3fe2910197ccaafc7bfc86ee6d358a9a37bf396894b664ab70bb::squid::SQUID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6d69de8d-ccb5-4acf-953b-8aee304c8f72.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

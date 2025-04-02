@@ -1,0 +1,13 @@
+{
+  "name": "Big Dawg",
+  "symbol": "DAWG",
+  "decimals": 9,
+  "coin_type": "0x34d43d5d67df4a60f2ba2e41911e745cde9e4f0b55d0089d92a4d439d5475b88::dawg::DAWG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d2c3f30c-1717-4b13-84e0-4b2b6810a389.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Bizium",
+  "symbol": "BIZM",
+  "decimals": 9,
+  "coin_type": "0xd4acb1f7f5b73a10bde6acad310c540ed14e6db1e2e4fca753d4aa5df4fd4861::bizm::BIZM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e9d1ea8f-3a0e-4de9-8300-2be5e53e6531.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

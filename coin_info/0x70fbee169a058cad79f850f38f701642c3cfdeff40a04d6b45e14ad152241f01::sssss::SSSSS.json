@@ -1,0 +1,13 @@
+{
+  "name": "Snake wif Hat",
+  "symbol": "SSSSS",
+  "decimals": 9,
+  "coin_type": "0x70fbee169a058cad79f850f38f701642c3cfdeff40a04d6b45e14ad152241f01::sssss::SSSSS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmZKSbmbRMR1d7kBAYnHS3pbdvBC3MTwnCdsXYpV6Lo8t8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

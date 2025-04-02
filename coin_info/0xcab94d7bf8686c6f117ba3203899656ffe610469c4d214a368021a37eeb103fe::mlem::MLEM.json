@@ -1,0 +1,13 @@
+{
+  "name": "MLEM",
+  "symbol": "MLEM",
+  "decimals": 9,
+  "coin_type": "0xcab94d7bf8686c6f117ba3203899656ffe610469c4d214a368021a37eeb103fe::mlem::MLEM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aea90fd9-7c6c-4dcd-9b01-33454061578e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

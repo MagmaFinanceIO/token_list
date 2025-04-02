@@ -1,0 +1,13 @@
+{
+  "name": "MOObomb",
+  "symbol": "MOOBOMB",
+  "decimals": 6,
+  "coin_type": "0x823bc689d7c2ab4c31ad2ce8465ca660eb9473e96a854d56c627bd88f9ed14f4::moobomb::MOOBOMB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d6742f5d-8000-4cf2-839c-8b5f6dca5cc3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

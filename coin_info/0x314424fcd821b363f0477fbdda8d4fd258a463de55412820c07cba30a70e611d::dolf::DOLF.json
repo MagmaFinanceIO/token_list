@@ -1,0 +1,13 @@
+{
+  "name": "Dolf",
+  "symbol": "DOLF",
+  "decimals": 6,
+  "coin_type": "0x314424fcd821b363f0477fbdda8d4fd258a463de55412820c07cba30a70e611d::dolf::DOLF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FResized_Dolf_b343998bd8.png&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NarwhaleDoge",
+  "symbol": "NDOGE",
+  "decimals": 9,
+  "coin_type": "0x6602a7e97fc512d71d812b3a05ddfe0aeeb0d2c6eb5c6e363ae399cfd1ddbc1a::ndoge::NDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9810ce0a-1d38-43ce-8a5d-e2ea5b4931c2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

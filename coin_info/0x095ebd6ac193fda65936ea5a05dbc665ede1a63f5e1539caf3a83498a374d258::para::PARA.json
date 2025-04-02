@@ -1,0 +1,13 @@
+{
+  "name": "PARAGON SUI",
+  "symbol": "PARA",
+  "decimals": 6,
+  "coin_type": "0x095ebd6ac193fda65936ea5a05dbc665ede1a63f5e1539caf3a83498a374d258::para::PARA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/e7843942507f8ba2087d2a0eb8669170_98efe454a7.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

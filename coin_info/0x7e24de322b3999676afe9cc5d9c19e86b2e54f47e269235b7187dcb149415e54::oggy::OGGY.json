@@ -1,0 +1,13 @@
+{
+  "name": "Sui Oggy",
+  "symbol": "OGGY",
+  "decimals": 9,
+  "coin_type": "0x7e24de322b3999676afe9cc5d9c19e86b2e54f47e269235b7187dcb149415e54::oggy::OGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1843597243439558658/Ijj4JYFG_400x400.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

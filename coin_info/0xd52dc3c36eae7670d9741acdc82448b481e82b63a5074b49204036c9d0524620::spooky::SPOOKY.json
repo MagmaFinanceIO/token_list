@@ -1,0 +1,13 @@
+{
+  "name": "HALLOWEEN",
+  "symbol": "SPOOKY",
+  "decimals": 6,
+  "coin_type": "0xd52dc3c36eae7670d9741acdc82448b481e82b63a5074b49204036c9d0524620::spooky::SPOOKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_200_x_200_px_b2c86d19a4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

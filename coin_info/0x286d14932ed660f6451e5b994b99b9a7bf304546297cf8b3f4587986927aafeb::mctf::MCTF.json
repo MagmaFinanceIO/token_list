@@ -1,0 +1,13 @@
+{
+  "name": "mouse controller fun",
+  "symbol": "mctf",
+  "decimals": 9,
+  "coin_type": "0x286d14932ed660f6451e5b994b99b9a7bf304546297cf8b3f4587986927aafeb::mctf::MCTF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a339233e-801d-4468-8455-8d9c1bcf4682.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

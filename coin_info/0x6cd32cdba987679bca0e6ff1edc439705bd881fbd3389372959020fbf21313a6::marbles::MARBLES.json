@@ -1,0 +1,13 @@
+{
+  "name": "SAGA UNIVERSE",
+  "symbol": "MARBLES",
+  "decimals": 6,
+  "coin_type": "0x6cd32cdba987679bca0e6ff1edc439705bd881fbd3389372959020fbf21313a6::marbles::MARBLES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_13_13_37_44_5c8bc0656d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

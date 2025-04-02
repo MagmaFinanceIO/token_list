@@ -1,0 +1,13 @@
+{
+  "name": "Frank The Unicorn Bulldog",
+  "symbol": "UNIBULL",
+  "decimals": 9,
+  "coin_type": "0xd528d1862b2a2b339cb652faf46b4b283ea26825931b3d806d29ac9b4ad9927c::unibull::UNIBULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/430af9ef-aaee-4181-ba8d-46be43d894a2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

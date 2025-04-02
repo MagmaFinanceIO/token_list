@@ -1,0 +1,13 @@
+{
+  "name": "Fluffy",
+  "symbol": "FLUFFY",
+  "decimals": 9,
+  "coin_type": "0xe7b155b6991b6eda3cc16815e2dafcf1fcfad4db66835596c4f3b2eda9eafff9::fluffy::FLUFFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cc63d1d8-6261-4b45-abe7-429b7fb8e69c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "X",
+  "symbol": "X",
+  "decimals": 6,
+  "coin_type": "0xd131b61306b863f04fe223e5788ffabf9ba2ac116869ac8f06f23c8bec9ea77e::STK::STK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://de.fi/test.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

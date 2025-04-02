@@ -1,0 +1,13 @@
+{
+  "name": "Puffy The Pufferfish",
+  "symbol": "PUFFY",
+  "decimals": 9,
+  "coin_type": "0x39733d537f75c9f9ffef41bc23576e0c7af1051193e5114f141e3ea34eefbac5::puffy::PUFFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/83352bca-e0d6-4af2-a9c4-b898b1afb878.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

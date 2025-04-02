@@ -1,0 +1,13 @@
+{
+  "name": "MinerCat",
+  "symbol": "CMT",
+  "decimals": 9,
+  "coin_type": "0x0e8c22b51732ccbfed2b5c6eb3680437754a9434f4de19eb93653cf126f702a5::cmt::CMT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/97a12c9e-e5b8-4508-aee8-4d4c3c90e601.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

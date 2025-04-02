@@ -1,0 +1,13 @@
+{
+  "name": "Seneke",
+  "symbol": "SENEKE",
+  "decimals": 9,
+  "coin_type": "0x06521803586d4a35c247dda237ee096a69d988fc162acfc82ba2f64c0dc6cd07::seneke::SENEKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2a282533-420f-42ae-93ec-564836804650.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

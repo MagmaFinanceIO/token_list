@@ -1,0 +1,13 @@
+{
+  "name": "SuiSURF",
+  "symbol": "SURF",
+  "decimals": 0,
+  "coin_type": "0x16e9304742cb6d2db64249a10a00da35e14573b89de2055a7231be5309066357::surf::SURF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4b35ed47-4530-47c6-bfa3-5c0b5ec64b85.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

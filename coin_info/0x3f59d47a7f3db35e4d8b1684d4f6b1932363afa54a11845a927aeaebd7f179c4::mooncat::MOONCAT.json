@@ -1,0 +1,13 @@
+{
+  "name": "Mooncat On Sui",
+  "symbol": "MOONCAT",
+  "decimals": 9,
+  "coin_type": "0x3f59d47a7f3db35e4d8b1684d4f6b1932363afa54a11845a927aeaebd7f179c4::mooncat::MOONCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b74eeaed-927f-4e9c-a651-43930d09794a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

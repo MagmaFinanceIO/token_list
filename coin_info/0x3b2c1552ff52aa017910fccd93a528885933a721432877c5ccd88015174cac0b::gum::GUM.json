@@ -1,0 +1,13 @@
+{
+  "name": "GUM",
+  "symbol": "GUM",
+  "decimals": 9,
+  "coin_type": "0x3b2c1552ff52aa017910fccd93a528885933a721432877c5ccd88015174cac0b::gum::GUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DNGkN2ca9r3rk2KVE2YXUysivCTYTnC88fw8FCWepump.png?size=lg&key=67cbd6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

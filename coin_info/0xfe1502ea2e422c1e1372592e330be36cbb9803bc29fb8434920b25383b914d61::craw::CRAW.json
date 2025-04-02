@@ -1,0 +1,13 @@
+{
+  "name": "Crawfish",
+  "symbol": "CRAW",
+  "decimals": 6,
+  "coin_type": "0xfe1502ea2e422c1e1372592e330be36cbb9803bc29fb8434920b25383b914d61::craw::CRAW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_09_17_134112_58de42c13d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

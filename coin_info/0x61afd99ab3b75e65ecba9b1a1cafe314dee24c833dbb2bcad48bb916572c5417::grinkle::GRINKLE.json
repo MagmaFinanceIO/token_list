@@ -1,0 +1,13 @@
+{
+  "name": "GrinkleOnSui",
+  "symbol": "GRINKLE",
+  "decimals": 9,
+  "coin_type": "0x61afd99ab3b75e65ecba9b1a1cafe314dee24c833dbb2bcad48bb916572c5417::grinkle::GRINKLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4iHSM84S97rjNUow3W8botQKZncRidXJT88zxGWmvWSC.png?size=lg&key=c8edf3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Clown Kamala",
+  "symbol": "CLOWN",
+  "decimals": 6,
+  "coin_type": "0xfbe0932bc50218cb103073bb2a16f26c9c98aaf36212b18627708d4fb658e6d2::clown::CLOWN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/372d06db-598c-419f-a9c4-1f7892d42bfe.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

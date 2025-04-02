@@ -1,0 +1,13 @@
+{
+  "name": "TAOM",
+  "symbol": "TAOM",
+  "decimals": 9,
+  "coin_type": "0x449e74fb25cdae1bb3e458e6f632869cd524440b9bc32c86dcbd57cdcc2388f3::taom::TAOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/97d15d9b-c877-4dd2-8c93-3a2aaf0c9cdc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

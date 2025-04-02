@@ -1,0 +1,13 @@
+{
+  "name": "Sui Pek",
+  "symbol": "PEK",
+  "decimals": 7,
+  "coin_type": "0xabc55645df8ee8aa765937532e7db6c1140a0013ff2cf50686445f1723e2c696::pek::PEK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmWz61spXF7LTNrjKpdUUJatCkA2mQFCSLwCx8ffWaMZgg?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

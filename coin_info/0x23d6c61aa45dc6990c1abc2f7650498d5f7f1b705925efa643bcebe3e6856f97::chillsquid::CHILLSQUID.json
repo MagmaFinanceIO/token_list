@@ -1,0 +1,13 @@
+{
+  "name": "Just a chill squid",
+  "symbol": "CHILLSQUID",
+  "decimals": 9,
+  "coin_type": "0x23d6c61aa45dc6990c1abc2f7650498d5f7f1b705925efa643bcebe3e6856f97::chillsquid::CHILLSQUID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5c0bab7c-76a1-41f6-a706-c3d602b6a96f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

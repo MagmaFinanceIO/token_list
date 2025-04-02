@@ -1,0 +1,13 @@
+{
+  "name": "MAGA 2024",
+  "symbol": "MAGA",
+  "decimals": 9,
+  "coin_type": "0x49bd15ec140d5ad414877394a8a56946b378d4f471a96e30fe06b3674a04e14a::maga::MAGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pridesource.com/archive/btl-db/images/2405/S1N_Trump_SQ_2405.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

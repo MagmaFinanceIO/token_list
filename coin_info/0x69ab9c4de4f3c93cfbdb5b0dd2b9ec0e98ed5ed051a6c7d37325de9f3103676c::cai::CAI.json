@@ -1,0 +1,13 @@
+{
+  "name": "Cadoc AI",
+  "symbol": "CAI",
+  "decimals": 9,
+  "coin_type": "0x69ab9c4de4f3c93cfbdb5b0dd2b9ec0e98ed5ed051a6c7d37325de9f3103676c::cai::CAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/vTT8CvaaCwvDBtPUjQVAm1bhUaMtbcUdErtRXkApump.png?size=lg&key=6653b2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

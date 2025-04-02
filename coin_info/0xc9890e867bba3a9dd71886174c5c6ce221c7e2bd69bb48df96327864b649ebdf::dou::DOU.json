@@ -1,0 +1,13 @@
+{
+  "name": "DOU",
+  "symbol": "DOU",
+  "decimals": 9,
+  "coin_type": "0xc9890e867bba3a9dd71886174c5c6ce221c7e2bd69bb48df96327864b649ebdf::dou::DOU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TRUMP AI AGENT",
+  "symbol": "TRUMPAI",
+  "decimals": 6,
+  "coin_type": "0xd5ac1605b404bc71911adca1a694279a99fbc45565aed89e5f33e88e5f7146b2::trumpai::TRUMPAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ae04b889-a135-4342-9bbc-228e16747df6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

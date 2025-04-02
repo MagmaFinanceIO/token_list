@@ -1,0 +1,13 @@
+{
+  "name": "SATOSHI AI",
+  "symbol": "SATOSHIAI",
+  "decimals": 9,
+  "coin_type": "0x445b84e2df21a11d623a8d0b17967af5498f1e90852e3f11fb05ab92570d18de::satoshiai::SATOSHIAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dexscreener.com/solana/cn8u8tvvjwyyqts6vqzuhrgfdzf58qvpk5bemynf4nyj",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TEE",
+  "symbol": "TEE",
+  "decimals": 2,
+  "coin_type": "0x4ddd78b6a780b063151e92faab52a2a87961840fe5285091c61d029bb19f7383::TEE::TEE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/rB9ps8PXNditR-48L10h8dMlmXoJPw3iJtNT25BGMWo?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

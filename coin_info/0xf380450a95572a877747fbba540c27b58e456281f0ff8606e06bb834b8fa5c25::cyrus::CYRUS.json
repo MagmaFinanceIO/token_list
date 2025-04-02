@@ -1,0 +1,13 @@
+{
+  "name": "Tiny LLM Prophet",
+  "symbol": "CYRUS",
+  "decimals": 9,
+  "coin_type": "0xf380450a95572a877747fbba540c27b58e456281f0ff8606e06bb834b8fa5c25::cyrus::CYRUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN.png?size=lg&key=6384fd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

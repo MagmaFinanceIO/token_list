@@ -1,0 +1,13 @@
+{
+  "name": "Cat the Baptist",
+  "symbol": "BAPCAT",
+  "decimals": 6,
+  "coin_type": "0xf8c77261ee329dd63279e842f5170441248507702c19668024714305cd858f73::bapcat::BAPCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1386_09791ba41d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

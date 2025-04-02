@@ -1,0 +1,13 @@
+{
+  "name": "KEEPER",
+  "symbol": "KEEPER",
+  "decimals": 9,
+  "coin_type": "0x046fe7d3894b0690c21f6e37775e65810db388afcd482a77eee86c5826150c23::keeper::KEEPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Bmkdg4xTi5ttx11tbwUZRkNRAgvWdi1Ehx5QFzhfpump.png?size=lg&key=774120",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

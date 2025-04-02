@@ -1,0 +1,13 @@
+{
+  "name": "SMOKE ON THE WATER",
+  "symbol": "SOW",
+  "decimals": 6,
+  "coin_type": "0x086731ae97c1c9790cccff43a1abea1c2ae7a6cc34bd8ef2938571f68446ae71::sow::SOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3290_PNG_ed9b1dbede.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

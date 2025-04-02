@@ -1,0 +1,13 @@
+{
+  "name": "American Dad",
+  "symbol": "STAN",
+  "decimals": 9,
+  "coin_type": "0x470412e3d2aa4d2b88f3daeb964c24588a9eaf4886cdd592eacb967908a15005::stan::STAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5Mbyt2HSZTVZxDYwt9wSmbbu3jUnNXeg3yiUmQbpump.png?size=lg&key=587dc0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Groggo By Matt Furie",
+  "symbol": "GROGGO",
+  "decimals": 9,
+  "coin_type": "0x604621c9685b0d6ee289cd920fb826e235a11e1445212463f8bc799b85ccadc4::groggo::GROGGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/GzIctK8tJoiTOvvP?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

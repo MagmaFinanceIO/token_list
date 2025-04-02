@@ -1,0 +1,13 @@
+{
+  "name": "Nuggets",
+  "symbol": "NUG",
+  "decimals": 9,
+  "coin_type": "0x4b32f18cbd601dd09310843dff27c05bf557b599f26b20e567e49ce6b2cb0311::nug::NUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://media1.tenor.com/m/CjfqlOScovQAAAAd/roblox-nugget-roblox-man-face.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "deluludog",
+  "symbol": "DELULU",
+  "decimals": 6,
+  "coin_type": "0xd6f830ef5d241b2dcf8fb34f6122a6e583c3de6b2e10e163de823a75014b71dd::delulu::DELULU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/deluludog_928b7f26b3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

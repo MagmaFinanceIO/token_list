@@ -1,0 +1,13 @@
+{
+  "name": "TRUMPNUT",
+  "symbol": "TRUMPNUT",
+  "decimals": 9,
+  "coin_type": "0xee16efee9fd876a62cfcc0501bddeece81bb7687157f18389b31970ea5152873::trumpnut::TRUMPNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3n9fnLLJjHQuQMapQkojTtjBzwUKgRz9swM7TGg8hhXp.png?size=lg&key=103b62",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

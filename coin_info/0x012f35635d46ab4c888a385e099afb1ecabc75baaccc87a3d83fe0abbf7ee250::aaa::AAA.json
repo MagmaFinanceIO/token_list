@@ -1,0 +1,13 @@
+{
+  "name": "aaa dog",
+  "symbol": "AAA",
+  "decimals": 9,
+  "coin_type": "0x012f35635d46ab4c888a385e099afb1ecabc75baaccc87a3d83fe0abbf7ee250::aaa::AAA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/85db73fd-a672-49e4-b065-30f03e03b415.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

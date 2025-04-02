@@ -1,0 +1,13 @@
+{
+  "name": "HOSU",
+  "symbol": "HOSU",
+  "decimals": 6,
+  "coin_type": "0xbf0c4bab1e98b8e608f9abf54604aecc4f2b5daf7b3fa7c2a042e794e0d725e7::hosu::HOSU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmVrHtwSLeNZB7oWKVqtwMMEunGcgkTwFCeEhbfWZPrD26",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

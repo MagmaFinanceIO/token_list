@@ -1,0 +1,13 @@
+{
+  "name": "Baby Squirrel",
+  "symbol": "BabySquirrel",
+  "decimals": 9,
+  "coin_type": "0xe18e97f92cea2a3e625aac4c640c05040e417050f5cb71967206a094aeb79017::babysquirrel::BABYSQUIRREL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/987fb86c-2a28-4423-9982-be5acbb91742.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "it's my time",
+  "symbol": "TIME",
+  "decimals": 6,
+  "coin_type": "0xe390aad12f14dfba308059cf1c7f5cfe0bf9255f0806a7b0b5d3282e7da7b566::time::TIME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qmef_Nt_Jvupg1_T3_Nr5t_Rz_H_Ur_UHTF_5_Qm7_PRCVECA_Rc1_PQ_2uh_3bd7abcf17.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

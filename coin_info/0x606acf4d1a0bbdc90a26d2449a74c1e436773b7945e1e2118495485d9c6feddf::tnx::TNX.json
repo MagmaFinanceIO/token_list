@@ -1,0 +1,13 @@
+{
+  "name": "The Next 100x Memecoin On Sui",
+  "symbol": "TNX",
+  "decimals": 9,
+  "coin_type": "0x606acf4d1a0bbdc90a26d2449a74c1e436773b7945e1e2118495485d9c6feddf::tnx::TNX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x5b5dee44552546ecea05edea01dcd7be7aa6144a.png?size=xl&key=de70f1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DJT",
+  "symbol": "DJT",
+  "decimals": 5,
+  "coin_type": "0x3985da30639c9469302f05631f63da9430badf4854ba7e9547dbd4d43982062f::djt::DJT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dcb5256a-6992-4e4b-881c-b1de675d5e4b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

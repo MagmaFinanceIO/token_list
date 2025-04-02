@@ -1,0 +1,13 @@
+{
+  "name": "troll santa",
+  "symbol": "TROLLSANTA",
+  "decimals": 9,
+  "coin_type": "0x1f82d773732081a60c180c5201357c2092192d6fee2f271b48629a90c97e34cc::trollsanta::TROLLSANTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/99q9jsXFjVtSY5ueZYiS9ibHSzi5eBgxLUMvX2q4pump.png?size=xl&key=40cb1c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

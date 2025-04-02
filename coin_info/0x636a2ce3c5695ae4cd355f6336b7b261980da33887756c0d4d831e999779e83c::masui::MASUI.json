@@ -1,0 +1,13 @@
+{
+  "name": "MASUI CAT",
+  "symbol": "MASUI",
+  "decimals": 6,
+  "coin_type": "0x636a2ce3c5695ae4cd355f6336b7b261980da33887756c0d4d831e999779e83c::masui::MASUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Firefly_green_cat_golden_eyes_anime_nature_golden_medalion_21148_67a1b35caa.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

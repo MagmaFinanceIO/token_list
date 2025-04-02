@@ -1,0 +1,13 @@
+{
+  "name": "Example coin",
+  "symbol": "MYCOIN",
+  "decimals": 6,
+  "coin_type": "0x1cca39ba720f3c68a1d97044c25492af8e0b0f9949ff77b735259aebc5911f9f::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://d3hnfqimznafg0.cloudfront.net/image-handler/ts/20200218065624/ri/950/src/images/Article_Images/ImageForArticle_227_15820269818147731.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

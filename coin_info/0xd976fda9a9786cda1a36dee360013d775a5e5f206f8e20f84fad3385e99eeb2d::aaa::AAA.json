@@ -1,0 +1,13 @@
+{
+  "name": "aaa cat",
+  "symbol": "AAA",
+  "decimals": 6,
+  "coin_type": "0xd976fda9a9786cda1a36dee360013d775a5e5f206f8e20f84fad3385e99eeb2d::aaa::AAA",
+  "pyth_id": "",
+  "birdeyeid": "0xd976fda9a9786cda1a36dee360013d775a5e5f206f8e20f84fad3385e99eeb2d::aaa::AAA",
+  "coin_priority": [],
+  "logo_url": "https://45hgkrkliypqc7rpknvnhhqvsdpk23m2sfphh3vcmqrukddd74la.arweave.net/505lRUtGHwF-L1Nq054VkN6tbZqRXnPuomQjRQxj_xY",
+  "project_url": "",
+  "coingecko_id": "aaa-cat",
+  "is_trusted": true
+}

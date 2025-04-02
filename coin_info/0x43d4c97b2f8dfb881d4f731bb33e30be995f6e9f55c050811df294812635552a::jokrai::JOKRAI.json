@@ -1,0 +1,13 @@
+{
+  "name": "Agent Joker ai",
+  "symbol": "Jokrai",
+  "decimals": 6,
+  "coin_type": "0x43d4c97b2f8dfb881d4f731bb33e30be995f6e9f55c050811df294812635552a::jokrai::JOKRAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000014205_612c74dfef.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

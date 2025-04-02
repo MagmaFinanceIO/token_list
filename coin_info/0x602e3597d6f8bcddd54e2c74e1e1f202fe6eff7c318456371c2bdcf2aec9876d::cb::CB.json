@@ -1,0 +1,13 @@
+{
+  "name": "Cheeseball",
+  "symbol": "CB",
+  "decimals": 9,
+  "coin_type": "0x602e3597d6f8bcddd54e2c74e1e1f202fe6eff7c318456371c2bdcf2aec9876d::cb::CB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3BeJ9zCgQhaqKMu2HgKJ79yQBChD1Pf3hPwRX44fpump.png?size=xl&key=03a118",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

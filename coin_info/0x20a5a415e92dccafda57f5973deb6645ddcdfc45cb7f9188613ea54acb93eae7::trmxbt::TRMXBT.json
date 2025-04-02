@@ -1,0 +1,13 @@
+{
+  "name": "TrumpXBT",
+  "symbol": "TRMXBT",
+  "decimals": 9,
+  "coin_type": "0x20a5a415e92dccafda57f5973deb6645ddcdfc45cb7f9188613ea54acb93eae7::trmxbt::TRMXBT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQVEVUCJYCm2yZomCgidHu74FVBYzqkNHJoLWMqt2AT4L",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

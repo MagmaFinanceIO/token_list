@@ -1,0 +1,13 @@
+{
+  "name": "DAY7",
+  "symbol": "DAY7",
+  "decimals": 9,
+  "coin_type": "0xe8ba5ecafe262cb2c8ee802cf47d47b0205ae025428866ba77fb2879bef12713::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

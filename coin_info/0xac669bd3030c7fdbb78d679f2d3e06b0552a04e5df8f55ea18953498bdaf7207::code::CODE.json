@@ -1,0 +1,13 @@
+{
+  "name": "Cult of Doge",
+  "symbol": "CODE",
+  "decimals": 9,
+  "coin_type": "0xac669bd3030c7fdbb78d679f2d3e06b0552a04e5df8f55ea18953498bdaf7207::code::CODE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HD9iNo8TAcAVuCzizj9W6XCotEyRiP7jaR3NxL4Hpump.png?size=lg&key=c50e6d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

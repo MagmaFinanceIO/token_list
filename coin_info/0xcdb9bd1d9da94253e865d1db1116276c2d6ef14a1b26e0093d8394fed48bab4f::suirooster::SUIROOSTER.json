@@ -1,0 +1,13 @@
+{
+  "name": "Sui Rooster",
+  "symbol": "SUIROOSTER",
+  "decimals": 6,
+  "coin_type": "0xcdb9bd1d9da94253e865d1db1116276c2d6ef14a1b26e0093d8394fed48bab4f::suirooster::SUIROOSTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Asset_141_2x_2048x2048_0106987a7d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

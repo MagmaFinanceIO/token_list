@@ -1,0 +1,13 @@
+{
+  "name": "The Creep ",
+  "symbol": "CREEP",
+  "decimals": 6,
+  "coin_type": "0x37b49dc2b2f0d1a6880fd4eaa91fdcf61c0775a32d5975ee75c9be5b0b975cd5::creep::CREEP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_7465_b7889616cc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

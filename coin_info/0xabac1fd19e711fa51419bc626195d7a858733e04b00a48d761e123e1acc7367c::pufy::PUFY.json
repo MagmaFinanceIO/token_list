@@ -1,0 +1,13 @@
+{
+  "name": "PUFYDOG",
+  "symbol": "PUFY",
+  "decimals": 6,
+  "coin_type": "0xabac1fd19e711fa51419bc626195d7a858733e04b00a48d761e123e1acc7367c::pufy::PUFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/e32721317cac6a95a59c16cb98a01b7f_bde5bafb3b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

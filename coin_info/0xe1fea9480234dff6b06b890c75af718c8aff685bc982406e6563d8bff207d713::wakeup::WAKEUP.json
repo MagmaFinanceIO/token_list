@@ -1,0 +1,13 @@
+{
+  "name": "WAKEUP",
+  "symbol": "wakeup",
+  "decimals": 9,
+  "coin_type": "0xe1fea9480234dff6b06b890c75af718c8aff685bc982406e6563d8bff207d713::wakeup::WAKEUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CHOMP COIN",
+  "symbol": "CHOMP",
+  "decimals": 6,
+  "coin_type": "0x7d5ea1a582466cd1a08a0cc4ecc7eddcb5d656ecae73a0dd0a65c35f8cfa59a4::chomp::CHOMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/6610ca08a3de6dd9847163e1_chomplogo256_56f141cf83.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

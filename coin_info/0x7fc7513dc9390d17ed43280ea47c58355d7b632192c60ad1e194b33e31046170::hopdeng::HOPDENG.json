@@ -1,0 +1,13 @@
+{
+  "name": "hopdeng",
+  "symbol": "hopdeng",
+  "decimals": 2,
+  "coin_type": "0x7fc7513dc9390d17ed43280ea47c58355d7b632192c60ad1e194b33e31046170::hopdeng::HOPDENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

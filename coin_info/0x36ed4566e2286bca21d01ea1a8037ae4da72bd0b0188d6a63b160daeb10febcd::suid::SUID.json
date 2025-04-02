@@ -1,0 +1,13 @@
+{
+  "name": "SUIDeFAI by SuiAI",
+  "symbol": "SUID",
+  "decimals": 6,
+  "coin_type": "0x36ed4566e2286bca21d01ea1a8037ae4da72bd0b0188d6a63b160daeb10febcd::suid::SUID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Asset_61344_51997e985a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Christmas Goblin",
+  "symbol": "GOBLIN",
+  "decimals": 9,
+  "coin_type": "0xc8283714a2dc7a89cf0eb5a96e6b6d6a40f5e1e3740beaf6b809040a41b0b70d::goblin::GOBLIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3QftvrdALkhndKmk4vLuvjjR5XwgCotWYAUrapUrpump.png?size=lg&key=afe237",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

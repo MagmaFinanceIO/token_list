@@ -1,0 +1,13 @@
+{
+  "name": "Hertz AI",
+  "symbol": "HERTZ",
+  "decimals": 9,
+  "coin_type": "0xa9f99505f5e35588c1cfa97c6a898bb2149e74e6f9085b9ffb46a6a5ffdc2cea::hertz::HERTZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EYKS5mqm1LizBR8upZxCYm7S3kMTPiv3Df8L1H2Gpump.png?size=lg&key=ba1344",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

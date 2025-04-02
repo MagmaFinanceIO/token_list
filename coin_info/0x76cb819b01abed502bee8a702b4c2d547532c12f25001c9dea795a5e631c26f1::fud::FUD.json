@@ -1,0 +1,15 @@
+{
+  "name": "Fud The Pug",
+  "symbol": "FUD",
+  "decimals": 5,
+  "coin_type": "0x76cb819b01abed502bee8a702b4c2d547532c12f25001c9dea795a5e631c26f1::fud::FUD",
+  "pyth_id": "6a4090703da959247727f2b490eb21aea95c8684ecfac675f432008830890c75",
+  "birdeyeid": "0x76cb819b01abed502bee8a702b4c2d547532c12f25001c9dea795a5e631c26f1::fud::FUD",
+  "coin_priority": [
+    "820"
+  ],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/fud.png",
+  "project_url": "",
+  "coingecko_id": "fud-the-pug",
+  "is_trusted": true
+}

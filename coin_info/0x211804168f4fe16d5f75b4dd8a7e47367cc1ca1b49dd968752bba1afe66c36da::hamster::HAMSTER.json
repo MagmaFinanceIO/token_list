@@ -1,0 +1,13 @@
+{
+  "name": "HAMSTER",
+  "symbol": "HAMSTER",
+  "decimals": 6,
+  "coin_type": "0x211804168f4fe16d5f75b4dd8a7e47367cc1ca1b49dd968752bba1afe66c36da::hamster::HAMSTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/hamster.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

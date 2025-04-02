@@ -1,0 +1,13 @@
+{
+  "name": "Tonminer Token",
+  "symbol": "TMG",
+  "decimals": 9,
+  "coin_type": "0xd6d9a486a7da5271b53fb91362f1324f9c55800a7dab78d692623a0791ec5472::tonminer::TONMINER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://tonminer.co/logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

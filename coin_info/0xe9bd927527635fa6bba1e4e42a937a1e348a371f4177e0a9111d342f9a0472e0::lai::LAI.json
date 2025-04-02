@@ -1,0 +1,13 @@
+{
+  "name": "Lior Air",
+  "symbol": "LAI",
+  "decimals": 9,
+  "coin_type": "0xe9bd927527635fa6bba1e4e42a937a1e348a371f4177e0a9111d342f9a0472e0::lai::LAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/de9e707d-e2b8-47ed-8f96-3b3f6be26eb2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

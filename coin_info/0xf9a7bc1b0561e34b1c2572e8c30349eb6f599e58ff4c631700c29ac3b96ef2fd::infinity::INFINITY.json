@@ -1,0 +1,13 @@
+{
+  "name": "INFINITY",
+  "symbol": "INFINITY",
+  "decimals": 6,
+  "coin_type": "0xf9a7bc1b0561e34b1c2572e8c30349eb6f599e58ff4c631700c29ac3b96ef2fd::infinity::INFINITY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/infinity.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

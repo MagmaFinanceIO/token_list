@@ -1,0 +1,13 @@
+{
+  "name": "Flockerz",
+  "symbol": "FLOCK",
+  "decimals": 9,
+  "coin_type": "0xe9c8931d0dec076b3aa1771584bd584a6b81138e5cede5217d14bd8b6d3e3dc2::flock::FLOCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/090e2741-068e-4748-b1d8-48df8530e5e5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

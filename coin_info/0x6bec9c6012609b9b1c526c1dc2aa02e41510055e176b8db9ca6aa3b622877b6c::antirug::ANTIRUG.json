@@ -1,0 +1,13 @@
+{
+  "name": "Anti Rug Agent",
+  "symbol": "ANTIRUG",
+  "decimals": 9,
+  "coin_type": "0x6bec9c6012609b9b1c526c1dc2aa02e41510055e176b8db9ca6aa3b622877b6c::antirug::ANTIRUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DKbrd7sNYC4v9NBeNhkU5wBYmEGV5BDetMawvtPVeeBY.png?size=lg&key=d81d07",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

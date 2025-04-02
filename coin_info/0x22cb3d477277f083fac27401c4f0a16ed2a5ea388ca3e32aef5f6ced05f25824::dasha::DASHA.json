@@ -1,0 +1,13 @@
+{
+  "name": "Dasha koreyka",
+  "symbol": "DASHA",
+  "decimals": 6,
+  "coin_type": "0x22cb3d477277f083fac27401c4f0a16ed2a5ea388ca3e32aef5f6ced05f25824::dasha::DASHA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736437446115.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

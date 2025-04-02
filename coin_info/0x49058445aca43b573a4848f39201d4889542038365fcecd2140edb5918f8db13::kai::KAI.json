@@ -1,0 +1,13 @@
+{
+  "name": "Official Kai On Sui",
+  "symbol": "KAI",
+  "decimals": 9,
+  "coin_type": "0x49058445aca43b573a4848f39201d4889542038365fcecd2140edb5918f8db13::kai::KAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmVw756vRNAVM4sKucbo6tB7EKTHjeMpcCJH3uMjp781ek",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

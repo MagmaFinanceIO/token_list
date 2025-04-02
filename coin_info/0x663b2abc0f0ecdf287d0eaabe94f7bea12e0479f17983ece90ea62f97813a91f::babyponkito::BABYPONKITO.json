@@ -1,0 +1,13 @@
+{
+  "name": "Baby Ponkito",
+  "symbol": "BabyPonkito",
+  "decimals": 9,
+  "coin_type": "0x663b2abc0f0ecdf287d0eaabe94f7bea12e0479f17983ece90ea62f97813a91f::babyponkito::BABYPONKITO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a6165a5a-a953-4b16-b8c4-364bb3cf1dc8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

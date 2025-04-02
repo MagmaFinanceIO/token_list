@@ -1,0 +1,13 @@
+{
+  "name": "Sui Pepo Hippo",
+  "symbol": "sPepoHippo",
+  "decimals": 9,
+  "coin_type": "0x32521edea7ef959f8bee35b885957fa18b0467c5618389da71ca7156ebe59069::pepohippo::PEPOHIPPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/66637ae8-655d-488a-b9c1-a8a6051885b6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

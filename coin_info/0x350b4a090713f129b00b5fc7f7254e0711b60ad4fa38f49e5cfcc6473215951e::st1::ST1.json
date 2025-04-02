@@ -1,0 +1,13 @@
+{
+  "name": "ST2",
+  "symbol": "Test DAO Token 2",
+  "decimals": 9,
+  "coin_type": "0x350b4a090713f129b00b5fc7f7254e0711b60ad4fa38f49e5cfcc6473215951e::st1::ST1",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://storage.googleapis.com/raidenx-no-cors/token-icons/pepe-scream.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

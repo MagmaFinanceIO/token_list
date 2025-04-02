@@ -1,0 +1,13 @@
+{
+  "name": "Spain",
+  "symbol": "Spain",
+  "decimals": 9,
+  "coin_type": "0x34265297248f8d8604837bf3abd10a5656e37ce2fbe93ea8fe448dc84828681c::spain::SPAIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

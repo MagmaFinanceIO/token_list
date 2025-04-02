@@ -1,0 +1,13 @@
+{
+  "name": "Horke On Sui",
+  "symbol": "HORKE",
+  "decimals": 9,
+  "coin_type": "0xacae371f433d0e91f0f5df6028332cf97e35a3da92b9cdb396f3ae3c03fdaf64::horke::HORKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6ded1252-e246-4891-b0e5-d1beb3e7ae57.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

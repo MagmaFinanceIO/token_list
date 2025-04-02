@@ -1,0 +1,13 @@
+{
+  "name": "Sui Oink",
+  "symbol": "OINK",
+  "decimals": 9,
+  "coin_type": "0xaa508ad62918fc483e89a4e8a34d0052a08848c8ebf217e3e6f1a8f3f0a6e33d::oink::OINK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/f92849637cbbc49d27a26765c54d0a14blob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "JUMPO",
+  "symbol": "JUMPO",
+  "decimals": 9,
+  "coin_type": "0xe699135f368e2db8bf6089d18b6a43490dae4200a4bc1a318c40f368fe118f5e::jumpo::JUMPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3EDU1zVQ2LswGeKpqjVQCLVfd4CJgiTFTRw2hHnpKRF5.png?size=lg&key=05287d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

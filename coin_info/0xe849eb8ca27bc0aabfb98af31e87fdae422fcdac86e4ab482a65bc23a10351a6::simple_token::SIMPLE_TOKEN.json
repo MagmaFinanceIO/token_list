@@ -1,0 +1,13 @@
+{
+  "name": "Fantasy",
+  "symbol": "INK",
+  "decimals": 9,
+  "coin_type": "0xe849eb8ca27bc0aabfb98af31e87fdae422fcdac86e4ab482a65bc23a10351a6::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

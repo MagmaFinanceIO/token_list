@@ -1,0 +1,13 @@
+{
+  "name": "American Samoa",
+  "symbol": "American Samoa",
+  "decimals": 2,
+  "coin_type": "0x36a22fa769a284b88e003294b61094cba42965188a37ed6f3438b39edfd07589::american_samoa::AMERICAN_SAMOA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aaad1ef9-7279-4e6d-b201-839d59baac37.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

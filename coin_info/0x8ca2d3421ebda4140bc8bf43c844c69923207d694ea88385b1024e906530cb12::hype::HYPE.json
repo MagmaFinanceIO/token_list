@@ -1,0 +1,13 @@
+{
+  "name": "HYPE OF DAY",
+  "symbol": "HYPE",
+  "decimals": 9,
+  "coin_type": "0x8ca2d3421ebda4140bc8bf43c844c69923207d694ea88385b1024e906530cb12::hype::HYPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://elcamperos.pl/wp-content/uploads/2023/04/hype.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

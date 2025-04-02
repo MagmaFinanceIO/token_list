@@ -1,0 +1,13 @@
+{
+  "name": "The NexFundAI Token",
+  "symbol": "NexFundAI",
+  "decimals": 9,
+  "coin_type": "0x8c57574e2b17216e0421a121c302db0de06af02f56e0016b7d7557c10c2396f7::nexfundai::NEXFUNDAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://public.rootdata.com/images/b6/1682049677314.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

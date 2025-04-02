@@ -1,0 +1,13 @@
+{
+  "name": "PepeOnDoge",
+  "symbol": "POD",
+  "decimals": 9,
+  "coin_type": "0xe8807b1ce23473997856cea767132cdef5b747c58c03ba9594e7f9fb00294120::pod::POD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/rmSnoTMt-TJYNoMK?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

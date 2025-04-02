@@ -1,0 +1,13 @@
+{
+  "name": "BOND",
+  "symbol": "BOND",
+  "decimals": 5,
+  "coin_type": "0x2903a4728a9c10aa710489db258a0fcdda3b8fc11007b7027a482ec2d5bc3de7::bond::BOND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://d2w9m16hs9jc37.cloudfront.net/dimg/blog/2023/07/hockerty_sean_connery_james_bond_8c9de868_2912_4a4e_a539_2ecda28d3ab4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

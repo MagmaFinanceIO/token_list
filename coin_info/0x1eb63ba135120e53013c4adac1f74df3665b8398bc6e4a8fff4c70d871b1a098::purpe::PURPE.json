@@ -1,0 +1,13 @@
+{
+  "name": "Purple Pepe",
+  "symbol": "PURPE",
+  "decimals": 9,
+  "coin_type": "0x1eb63ba135120e53013c4adac1f74df3665b8398bc6e4a8fff4c70d871b1a098::purpe::PURPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/43e26e5f-72e0-4f17-8d47-781f4d55c2e2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

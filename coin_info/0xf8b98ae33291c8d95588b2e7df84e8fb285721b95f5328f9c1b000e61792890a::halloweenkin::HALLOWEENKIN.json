@@ -1,0 +1,13 @@
+{
+  "name": "Halloweenkin",
+  "symbol": "HALLOWEENKIN",
+  "decimals": 6,
+  "coin_type": "0xf8b98ae33291c8d95588b2e7df84e8fb285721b95f5328f9c1b000e61792890a::halloweenkin::HALLOWEENKIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000031395_577928eb90.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

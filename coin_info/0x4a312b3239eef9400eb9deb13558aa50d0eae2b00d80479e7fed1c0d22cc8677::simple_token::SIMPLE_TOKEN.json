@@ -1,0 +1,13 @@
+{
+  "name": "SHLORP",
+  "symbol": "SHLORP",
+  "decimals": 9,
+  "coin_type": "0x4a312b3239eef9400eb9deb13558aa50d0eae2b00d80479e7fed1c0d22cc8677::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

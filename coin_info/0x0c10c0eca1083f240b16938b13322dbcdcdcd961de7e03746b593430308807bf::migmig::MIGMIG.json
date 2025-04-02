@@ -1,0 +1,13 @@
+{
+  "name": "Migmig",
+  "symbol": "MIGMIG",
+  "decimals": 7,
+  "coin_type": "0x0c10c0eca1083f240b16938b13322dbcdcdcd961de7e03746b593430308807bf::migmig::MIGMIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/86de4744-07bb-4b2a-8c4e-3e2f20888c84.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

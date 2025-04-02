@@ -1,0 +1,13 @@
+{
+  "name": "SUI Agents",
+  "symbol": "SUIAI",
+  "decimals": 9,
+  "coin_type": "0x10a470f4245044c83754f8ec1d030c795e334424b45bcfb1ef862c2715b98cca::suiai::SUIAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://app.turbos.finance/icon/suiai.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

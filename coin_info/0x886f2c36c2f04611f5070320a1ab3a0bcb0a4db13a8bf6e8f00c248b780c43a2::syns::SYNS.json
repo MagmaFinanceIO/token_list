@@ -1,0 +1,13 @@
+{
+  "name": "Agent Synsera",
+  "symbol": "SYNS",
+  "decimals": 6,
+  "coin_type": "0x886f2c36c2f04611f5070320a1ab3a0bcb0a4db13a8bf6e8f00c248b780c43a2::syns::SYNS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Synsera_token_logo_48901a43b5.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

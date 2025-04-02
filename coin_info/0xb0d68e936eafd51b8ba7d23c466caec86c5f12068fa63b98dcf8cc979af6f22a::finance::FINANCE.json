@@ -1,0 +1,13 @@
+{
+  "name": "Finance",
+  "symbol": "FINANCE",
+  "decimals": 9,
+  "coin_type": "0xb0d68e936eafd51b8ba7d23c466caec86c5f12068fa63b98dcf8cc979af6f22a::finance::FINANCE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5ukFUcSw5NuiBMQEPucSfwBf1jKruoQvwxuuuicbpump.png?size=lg&key=88a293",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

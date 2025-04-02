@@ -1,0 +1,13 @@
+{
+  "name": "articuno",
+  "symbol": "art",
+  "decimals": 11,
+  "coin_type": "0xce4ebf2576c5a19945239e0051a4b62f6d8ac6f96b3cf0576fa2691a07fba4f2::art::ART",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3a205f62-72be-4d4c-9062-326c84381731.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Turtle Cat",
+  "symbol": "TURTLECAT",
+  "decimals": 6,
+  "coin_type": "0x57a9fa9f3efb9d3407dcb4bd4db38f89f48126feb2c56808af18709154c40d1c::turtlecat::TURTLECAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qmc_X_Djx_Noxt_BBFE_Wwm_Tn_G_Re6zn9p_Co8mqw_J_Lh_Fvt_Pp_Up_BY_8e4896251c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Chatzu AI by SuiAI",
+  "symbol": "CHATZU",
+  "decimals": 6,
+  "coin_type": "0x764d187e34e66bd622e292f97ff58b1c3be74287f67df9081e083d0d50d8cacd::chatzu::CHATZU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_2108_9d829c2429.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

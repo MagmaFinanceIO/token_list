@@ -1,0 +1,13 @@
+{
+  "name": "Chill Language Model",
+  "symbol": "CLM",
+  "decimals": 9,
+  "coin_type": "0x055bb777182b441ea78d587f5c906c419f0da8b48f64ba20f7a28732458ebd68::clm::CLM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qmco4dLJcfKkaQkvdvcu1CgLUKJ7SL2aEQEh9kW531TZq4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Vapor DAO",
+  "symbol": "VAPOR",
+  "decimals": 9,
+  "coin_type": "0x82068e43ff831808c89fee70408403d7a62d161e3d1394e4333a387b5cef348f::vapor::VAPOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c4b93e8e-832a-4c75-8ac5-e408aa80a9e1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

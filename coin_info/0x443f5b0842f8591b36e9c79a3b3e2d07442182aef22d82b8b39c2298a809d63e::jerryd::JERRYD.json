@@ -1,0 +1,13 @@
+{
+  "name": "Jerry The Degen",
+  "symbol": "JERRYD",
+  "decimals": 9,
+  "coin_type": "0x443f5b0842f8591b36e9c79a3b3e2d07442182aef22d82b8b39c2298a809d63e::jerryd::JERRYD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DBwdTrXZuAWtzEQgjvG5zU82k9Y35Ro2nsCEU24SpyPL.png?size=lg&key=a98d1a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

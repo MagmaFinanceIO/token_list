@@ -1,0 +1,13 @@
+{
+  "name": "Dolim Girl",
+  "symbol": "dolim",
+  "decimals": 9,
+  "coin_type": "0x3353f67a3f762c977e158fa1b60f7128d1559887f88a41ba8e12c401849a459b::dolim::DOLIM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/443/452/large/dohyun-park-highresscreenshot00332.jpg?1727607899",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

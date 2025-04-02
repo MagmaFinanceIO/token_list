@@ -1,0 +1,13 @@
+{
+  "name": "NYAN CAT",
+  "symbol": "NYAN",
+  "decimals": 6,
+  "coin_type": "0x3c111beea60cd6e9912b6aa72de3b09297c45df5be3fe6b3e6f646b9626a3846::nyan::NYAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/64d10c6ddebe9b46e362e8bd_nyan_logo_orig_p_500_b2f82fa832.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

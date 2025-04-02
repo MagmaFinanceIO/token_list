@@ -1,0 +1,13 @@
+{
+  "name": "GameStop",
+  "symbol": "GMES",
+  "decimals": 6,
+  "coin_type": "0xa90fda507e4cdfbd3314a86b78343a214b48da9e6cae4aa51e0ee71a0c08ae17::gmes::GMES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5817_a402e75b7f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

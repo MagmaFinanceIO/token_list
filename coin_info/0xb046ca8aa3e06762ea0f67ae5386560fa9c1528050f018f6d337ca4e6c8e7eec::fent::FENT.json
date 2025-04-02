@@ -1,0 +1,13 @@
+{
+  "name": "George Droyd AI",
+  "symbol": "FENT",
+  "decimals": 6,
+  "coin_type": "0xb046ca8aa3e06762ea0f67ae5386560fa9c1528050f018f6d337ca4e6c8e7eec::fent::FENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_2273_033d53f13f.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

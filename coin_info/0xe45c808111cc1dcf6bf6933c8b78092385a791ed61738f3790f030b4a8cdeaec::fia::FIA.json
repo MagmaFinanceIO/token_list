@@ -1,0 +1,13 @@
+{
+  "name": "Flog Inu Ai",
+  "symbol": "FIA",
+  "decimals": 9,
+  "coin_type": "0xe45c808111cc1dcf6bf6933c8b78092385a791ed61738f3790f030b4a8cdeaec::fia::FIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5991f870-1778-429a-a3d5-5352328f685a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

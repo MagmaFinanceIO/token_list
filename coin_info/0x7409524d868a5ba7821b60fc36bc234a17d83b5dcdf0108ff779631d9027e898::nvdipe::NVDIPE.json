@@ -1,0 +1,13 @@
+{
+  "name": "NVDIA PEPE",
+  "symbol": "NVDIPE",
+  "decimals": 9,
+  "coin_type": "0x7409524d868a5ba7821b60fc36bc234a17d83b5dcdf0108ff779631d9027e898::nvdipe::NVDIPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d7571c86-dbfa-4498-aabe-c9bd0b0fbec9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

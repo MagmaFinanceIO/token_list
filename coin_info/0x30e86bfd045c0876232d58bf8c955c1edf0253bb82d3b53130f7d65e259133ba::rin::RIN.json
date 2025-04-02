@@ -1,0 +1,13 @@
+{
+  "name": "RIN TIN TIN",
+  "symbol": "RIN",
+  "decimals": 9,
+  "coin_type": "0x30e86bfd045c0876232d58bf8c955c1edf0253bb82d3b53130f7d65e259133ba::rin::RIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://photos.pinksale.finance/file/pinksale-logo-upload/1729244500869-1bb87d41d15fe27b500a4bfcde01bb0e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

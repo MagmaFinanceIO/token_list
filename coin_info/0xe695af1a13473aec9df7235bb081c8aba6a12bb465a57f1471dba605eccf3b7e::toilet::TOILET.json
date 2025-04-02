@@ -1,0 +1,13 @@
+{
+  "name": "Skibidi Toilet",
+  "symbol": "Toilet",
+  "decimals": 6,
+  "coin_type": "0xe695af1a13473aec9df7235bb081c8aba6a12bb465a57f1471dba605eccf3b7e::toilet::TOILET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731020847661.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

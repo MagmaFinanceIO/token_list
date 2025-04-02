@@ -1,0 +1,13 @@
+{
+  "name": "Peanut Cowboy",
+  "symbol": "PEANUC",
+  "decimals": 9,
+  "coin_type": "0x662909b3d73cdb520cfcc65b09f0cea3e398b5ec82c2059866f76f7939d6d0ad::peanuc::PEANUC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6277edf3-a7a4-415c-b941-a2bd5349c7d2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

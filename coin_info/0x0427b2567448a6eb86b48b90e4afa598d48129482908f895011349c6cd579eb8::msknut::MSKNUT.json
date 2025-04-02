@@ -1,0 +1,13 @@
+{
+  "name": "Muskwifnut",
+  "symbol": "MSKNUT",
+  "decimals": 9,
+  "coin_type": "0x0427b2567448a6eb86b48b90e4afa598d48129482908f895011349c6cd579eb8::msknut::MSKNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/H7dmoe1zwv8w5kWudmm6D28vStzYzLDgBeJG6652pump.png?size=lg&key=6b114b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

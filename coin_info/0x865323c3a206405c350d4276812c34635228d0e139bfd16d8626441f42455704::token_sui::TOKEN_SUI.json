@@ -1,0 +1,13 @@
+{
+  "name": "Honey Token 1",
+  "symbol": "HONEY1",
+  "decimals": 9,
+  "coin_type": "0x865323c3a206405c350d4276812c34635228d0e139bfd16d8626441f42455704::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dribbble.com/userupload/11357745/file/original-8c22f6682b591d5397bc9a8478900e88.jpg?resize=1024x768",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

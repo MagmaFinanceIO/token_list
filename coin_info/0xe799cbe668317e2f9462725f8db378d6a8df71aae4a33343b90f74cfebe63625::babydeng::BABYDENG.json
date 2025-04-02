@@ -1,0 +1,13 @@
+{
+  "name": "Baby Deng",
+  "symbol": "BABYDENG",
+  "decimals": 9,
+  "coin_type": "0xe799cbe668317e2f9462725f8db378d6a8df71aae4a33343b90f74cfebe63625::babydeng::BABYDENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1c8a5913-a7b6-43ab-8dbd-263d3134d8f7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

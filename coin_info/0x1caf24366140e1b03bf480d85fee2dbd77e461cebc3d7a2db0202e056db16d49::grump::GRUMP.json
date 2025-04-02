@@ -1,0 +1,13 @@
+{
+  "name": "SuiPuRR GRuMP",
+  "symbol": "GRUMP",
+  "decimals": 6,
+  "coin_type": "0x1caf24366140e1b03bf480d85fee2dbd77e461cebc3d7a2db0202e056db16d49::grump::GRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Grump_6a42daba64.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

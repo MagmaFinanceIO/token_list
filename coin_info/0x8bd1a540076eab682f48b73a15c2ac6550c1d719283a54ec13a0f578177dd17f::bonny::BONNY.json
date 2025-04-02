@@ -1,0 +1,13 @@
+{
+  "name": "BONNY",
+  "symbol": "BONNY",
+  "decimals": 6,
+  "coin_type": "0x8bd1a540076eab682f48b73a15c2ac6550c1d719283a54ec13a0f578177dd17f::bonny::BONNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ivory-large-echidna-233.mypinata.cloud/ipfs/QmRkvRPj7de22FXqLXYgYVZCEWyzSk5UwueTxgfh9Lxo2x",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

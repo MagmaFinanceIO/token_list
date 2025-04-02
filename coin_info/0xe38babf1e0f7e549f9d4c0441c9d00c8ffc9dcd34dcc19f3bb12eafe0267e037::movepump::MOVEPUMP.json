@@ -1,0 +1,13 @@
+{
+  "name": "MovePump",
+  "symbol": "MOVEPUMP",
+  "decimals": 6,
+  "coin_type": "0xe38babf1e0f7e549f9d4c0441c9d00c8ffc9dcd34dcc19f3bb12eafe0267e037::movepump::MOVEPUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/movepump_6085671fa4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

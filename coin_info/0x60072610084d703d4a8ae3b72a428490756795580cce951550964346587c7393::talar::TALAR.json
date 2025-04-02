@@ -1,0 +1,13 @@
+{
+  "name": "TalaRcoin",
+  "symbol": "TalaR",
+  "decimals": 9,
+  "coin_type": "0x60072610084d703d4a8ae3b72a428490756795580cce951550964346587c7393::talar::TALAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/092d1107-7246-488c-bb2a-a6b13c03d28e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

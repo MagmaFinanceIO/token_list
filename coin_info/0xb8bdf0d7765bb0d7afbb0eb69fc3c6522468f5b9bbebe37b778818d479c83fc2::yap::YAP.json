@@ -1,0 +1,13 @@
+{
+  "name": "Yapper",
+  "symbol": "YAP",
+  "decimals": 9,
+  "coin_type": "0xb8bdf0d7765bb0d7afbb0eb69fc3c6522468f5b9bbebe37b778818d479c83fc2::yap::YAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c4da2708-370d-4007-89b0-03d1ea1c0537.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

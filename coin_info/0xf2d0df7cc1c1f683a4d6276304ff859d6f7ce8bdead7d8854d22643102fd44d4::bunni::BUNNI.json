@@ -1,0 +1,13 @@
+{
+  "name": "Bunni",
+  "symbol": "BUNNI",
+  "decimals": 6,
+  "coin_type": "0xf2d0df7cc1c1f683a4d6276304ff859d6f7ce8bdead7d8854d22643102fd44d4::bunni::BUNNI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmcyG4vT1pbjTcHHVEtyCN1s6G4Sd7UEQFA7ayLUYgmMyN",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

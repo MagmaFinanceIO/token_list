@@ -1,0 +1,13 @@
+{
+  "name": "Bong Cat",
+  "symbol": "BONG",
+  "decimals": 6,
+  "coin_type": "0x64bcfd8bb12c54155df23edc0d54ad1e707e396cafe5e35992fbbf11aa984ab1::bong::BONG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logoo_8ed79ed52e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

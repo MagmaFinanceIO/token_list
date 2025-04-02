@@ -1,0 +1,13 @@
+{
+  "name": "Fingerprint",
+  "symbol": "Finger",
+  "decimals": 6,
+  "coin_type": "0x02be491c1755a14830f0702825069b3c7c8b373ab44dd3c191a8113205084c23::finger::FINGER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmNjshAEe9bKQ3ixcDqgZ7XrDxXbGEANsAzVJUMKhroYQt",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

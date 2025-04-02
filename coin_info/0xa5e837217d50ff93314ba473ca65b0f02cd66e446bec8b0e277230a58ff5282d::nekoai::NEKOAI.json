@@ -1,0 +1,13 @@
+{
+  "name": "NEKO AI",
+  "symbol": "NEKOAI",
+  "decimals": 9,
+  "coin_type": "0xa5e837217d50ff93314ba473ca65b0f02cd66e446bec8b0e277230a58ff5282d::nekoai::NEKOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CjYmjKCh6qhjwn9ZU36YcXyFGMH75WgUF4TNvkmSpump.png?size=lg&key=93a7d1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

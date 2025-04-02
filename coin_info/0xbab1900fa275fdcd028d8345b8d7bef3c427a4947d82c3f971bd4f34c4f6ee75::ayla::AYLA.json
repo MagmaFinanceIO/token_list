@@ -1,0 +1,13 @@
+{
+  "name": "DogWithFlower",
+  "symbol": "AYLA",
+  "decimals": 9,
+  "coin_type": "0xbab1900fa275fdcd028d8345b8d7bef3c427a4947d82c3f971bd4f34c4f6ee75::ayla::AYLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x0bfc8d7dca71586f4c4e23643268f26de46915f6.png?size=lg&key=5a4e55",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

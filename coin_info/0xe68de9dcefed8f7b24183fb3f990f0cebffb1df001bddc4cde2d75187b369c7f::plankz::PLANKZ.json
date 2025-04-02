@@ -1,0 +1,13 @@
+{
+  "name": "PLANKz",
+  "symbol": "PLANKZ",
+  "decimals": 6,
+  "coin_type": "0xe68de9dcefed8f7b24183fb3f990f0cebffb1df001bddc4cde2d75187b369c7f::plankz::PLANKZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/327a1c86-0a11-43b1-9370-00c70921f562.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

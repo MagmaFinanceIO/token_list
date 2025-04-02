@@ -1,0 +1,13 @@
+{
+  "name": "Toy Poodle Inu",
+  "symbol": "PODLE",
+  "decimals": 9,
+  "coin_type": "0x03179903f36546b461cb251c744c5b0a9018792a978d47cdabfc183696b3e296::podle::PODLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/745b527c-ebc6-48f7-b35e-f77b84ab8c96.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

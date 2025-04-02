@@ -1,0 +1,13 @@
+{
+  "name": "Fish-Cat",
+  "symbol": "SCAT",
+  "decimals": 6,
+  "coin_type": "0x9f9eb9384ff8a6612b0e20bef3dbde38c3d6207ba60f35976171068e35f00889::scat::SCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_10_07_173203_d885b742d8.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

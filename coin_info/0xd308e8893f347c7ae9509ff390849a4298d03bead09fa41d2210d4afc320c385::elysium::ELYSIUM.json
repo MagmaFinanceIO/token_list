@@ -1,0 +1,13 @@
+{
+  "name": "Elysium",
+  "symbol": "Elysium",
+  "decimals": 9,
+  "coin_type": "0xd308e8893f347c7ae9509ff390849a4298d03bead09fa41d2210d4afc320c385::elysium::ELYSIUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9Za5hA1XFyGBNbGNEJH7v411AXaW19WMhKaAvamUgT7T.png?size=lg&key=106ba8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

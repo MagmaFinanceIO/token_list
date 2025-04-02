@@ -1,0 +1,13 @@
+{
+  "name": "Sui AI",
+  "symbol": "MEME",
+  "decimals": 2,
+  "coin_type": "0xfe02791308cb54fbea05c6af08dbcb3e52f8f510f0e1a8c7a74f3dbe4d90baf7::meme::MEME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2e27aff8-649d-473d-bfba-d1458fb9f1ef.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

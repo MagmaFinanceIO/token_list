@@ -1,0 +1,13 @@
+{
+  "name": "Mark Zuckerberg",
+  "symbol": "ZUCKERBERG",
+  "decimals": 9,
+  "coin_type": "0xfabe4e7ea752ccf48e558ab1146312e52f81a9d0b3b016f15e771744e0572db8::zuckerberg::ZUCKERBERG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/C2vADESvLxhMdVBHDFY4E7ShFxEnuPtjbaZ7HdwHpump.png?size=lg&key=16d668",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

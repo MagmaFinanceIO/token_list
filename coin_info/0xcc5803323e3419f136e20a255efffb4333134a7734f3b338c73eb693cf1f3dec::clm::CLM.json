@@ -1,0 +1,13 @@
+{
+  "name": "Chill Language Model",
+  "symbol": "CLM",
+  "decimals": 9,
+  "coin_type": "0xcc5803323e3419f136e20a255efffb4333134a7734f3b338c73eb693cf1f3dec::clm::CLM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/X3yTp7DGC7HCLK8TQyqakNghniWjUEWbJ8JxcbFpump.png?size=lg&key=0e323b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

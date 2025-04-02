@@ -1,0 +1,13 @@
+{
+  "name": "BugCat",
+  "symbol": "BugCat",
+  "decimals": 9,
+  "coin_type": "0xd3e93eb3db7b8b7b3cc270020ca5202609fc0a71c1391ddbcbbe5805eca1bc3d::bugcat::BUGCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/373a8b30-5eef-4587-96e4-64c3747c3835.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

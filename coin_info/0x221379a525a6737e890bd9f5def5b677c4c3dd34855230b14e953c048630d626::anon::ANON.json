@@ -1,0 +1,13 @@
+{
+  "name": "Anonymous Coin",
+  "symbol": "ANON",
+  "decimals": 9,
+  "coin_type": "0x221379a525a6737e890bd9f5def5b677c4c3dd34855230b14e953c048630d626::anon::ANON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6trCbrrph63KyB9dtCdeSnqK31FH8g289TheohCmaZyQ.png?size=lg&key=531664",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

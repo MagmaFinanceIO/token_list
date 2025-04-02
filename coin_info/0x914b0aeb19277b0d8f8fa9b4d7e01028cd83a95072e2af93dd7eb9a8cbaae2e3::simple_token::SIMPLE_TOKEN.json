@@ -1,0 +1,13 @@
+{
+  "name": "MAXISUI",
+  "symbol": "MAXISUI",
+  "decimals": 9,
+  "coin_type": "0x914b0aeb19277b0d8f8fa9b4d7e01028cd83a95072e2af93dd7eb9a8cbaae2e3::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

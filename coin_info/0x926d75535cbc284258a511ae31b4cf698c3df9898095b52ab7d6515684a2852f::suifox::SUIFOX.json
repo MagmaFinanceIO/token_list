@@ -1,0 +1,13 @@
+{
+  "name": "SUIFOX",
+  "symbol": "SUIFOX",
+  "decimals": 9,
+  "coin_type": "0x926d75535cbc284258a511ae31b4cf698c3df9898095b52ab7d6515684a2852f::suifox::SUIFOX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cf3d6567-c07c-4cef-886a-c493ebfc3d5d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

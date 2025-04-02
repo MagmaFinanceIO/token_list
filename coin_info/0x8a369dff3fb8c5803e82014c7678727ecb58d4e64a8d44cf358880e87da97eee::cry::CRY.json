@@ -1,0 +1,13 @@
+{
+  "name": "cryptain",
+  "symbol": "CRY",
+  "decimals": 6,
+  "coin_type": "0x8a369dff3fb8c5803e82014c7678727ecb58d4e64a8d44cf358880e87da97eee::cry::CRY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Thi8n6mcdk_Hr_Gk_B_Bg_U_Lxk_Yf_LZS_5_LR_8ec_Ee_Scu_Ve_DLM_Lw_1ef3860d60.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

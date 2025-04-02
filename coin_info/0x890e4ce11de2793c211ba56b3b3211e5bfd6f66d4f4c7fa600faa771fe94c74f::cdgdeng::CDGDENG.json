@@ -1,0 +1,13 @@
+{
+  "name": "CDGDENG",
+  "symbol": "CDGDENG",
+  "decimals": 9,
+  "coin_type": "0x890e4ce11de2793c211ba56b3b3211e5bfd6f66d4f4c7fa600faa771fe94c74f::cdgdeng::CDGDENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e5bf67db-f012-46b9-a83d-a634a6bd7109.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

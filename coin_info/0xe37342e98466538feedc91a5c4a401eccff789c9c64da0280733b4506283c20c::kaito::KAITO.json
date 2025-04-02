@@ -1,0 +1,13 @@
+{
+  "name": "SUITO",
+  "symbol": "KAITO",
+  "decimals": 9,
+  "coin_type": "0xe37342e98466538feedc91a5c4a401eccff789c9c64da0280733b4506283c20c::kaito::KAITO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a9dcbf39-513a-42c9-acc1-0ffdcfc20825.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

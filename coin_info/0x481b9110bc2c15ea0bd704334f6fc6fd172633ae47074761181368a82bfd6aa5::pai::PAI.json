@@ -1,0 +1,13 @@
+{
+  "name": "Patent AI",
+  "symbol": "PAI",
+  "decimals": 9,
+  "coin_type": "0x481b9110bc2c15ea0bd704334f6fc6fd172633ae47074761181368a82bfd6aa5::pai::PAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/WVdXTu5EUsNke22WuRAEH1t81hPAnRRQURQE3R3pump.png?size=lg&key=207691",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

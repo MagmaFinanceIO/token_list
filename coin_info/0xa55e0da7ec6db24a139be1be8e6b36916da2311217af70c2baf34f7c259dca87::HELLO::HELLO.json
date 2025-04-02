@@ -1,0 +1,13 @@
+{
+  "name": "HELLO",
+  "symbol": "HELLO",
+  "decimals": 9,
+  "coin_type": "0xa55e0da7ec6db24a139be1be8e6b36916da2311217af70c2baf34f7c259dca87::HELLO::HELLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

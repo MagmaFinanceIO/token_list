@@ -1,0 +1,13 @@
+{
+  "name": "KURWA BOBR",
+  "symbol": "KRBR",
+  "decimals": 9,
+  "coin_type": "0x8934f39b5d5cccfa5b6e746398d5ad19fa5fbd32e855f779f4e4644c0fa434cd::krbr::KRBR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

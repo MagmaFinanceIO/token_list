@@ -1,0 +1,13 @@
+{
+  "name": "SquidOnSui",
+  "symbol": "SOS",
+  "decimals": 9,
+  "coin_type": "0x0f4f038f93a6c964437e7d885ad02f3af731a443578198246983b71906a8f1ef::sos::SOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://public-cdn.daossui.io/assets/tokens/bc587a30-da3d-11ef-80e8-811f7f414973",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

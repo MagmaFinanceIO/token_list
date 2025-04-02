@@ -1,0 +1,13 @@
+{
+  "name": "Toad",
+  "symbol": "Toad",
+  "decimals": 9,
+  "coin_type": "0x869bd7313f7eab49ed191c1cddf0c13d81bb8dd7936c6bb5b7a109a72fa8de73::toad::TOAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Hsvd1Sh8jR5d3Rar81y6H3RHWDEwk2xka9xpKFB8pump.png?size=lg&key=116f8c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

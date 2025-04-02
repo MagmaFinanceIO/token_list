@@ -1,0 +1,13 @@
+{
+  "name": "Dog Crabby",
+  "symbol": "CRABBY",
+  "decimals": 6,
+  "coin_type": "0xe5bc443e42871a6ea733d5a26d0bff1d8b3a4de14ccc54b830b03b521b20d78f::crabby::CRABBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0065_f863275d78.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

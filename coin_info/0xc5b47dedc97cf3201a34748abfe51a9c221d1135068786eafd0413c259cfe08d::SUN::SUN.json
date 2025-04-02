@@ -1,0 +1,13 @@
+{
+  "name": "SUN",
+  "symbol": "SUN",
+  "decimals": 9,
+  "coin_type": "0xc5b47dedc97cf3201a34748abfe51a9c221d1135068786eafd0413c259cfe08d::SUN::SUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

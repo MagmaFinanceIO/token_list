@@ -1,0 +1,13 @@
+{
+  "name": "suimonkey",
+  "symbol": "SUIKEY",
+  "decimals": 6,
+  "coin_type": "0xe5de9058407a21abbce031aa84904cb514a073bd8b9c3aa4c9adbcf15e854951::suikey::SUIKEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/O_Ta9c_J2_C_400x400_eb63a7e638.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

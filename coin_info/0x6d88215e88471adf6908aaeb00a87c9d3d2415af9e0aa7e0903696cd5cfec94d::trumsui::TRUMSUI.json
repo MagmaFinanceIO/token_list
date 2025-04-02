@@ -1,0 +1,13 @@
+{
+  "name": "Trumpet SUI",
+  "symbol": "TRUMSUI",
+  "decimals": 9,
+  "coin_type": "0x6d88215e88471adf6908aaeb00a87c9d3d2415af9e0aa7e0903696cd5cfec94d::trumsui::TRUMSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HVUHLgaar4vxMRXqXM9BMP3UDRMQa2UAbsYo6ZWSLuzJ.png?size=lg&key=e53302",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

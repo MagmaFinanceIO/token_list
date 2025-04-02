@@ -1,0 +1,13 @@
+{
+  "name": "Suipiens Token",
+  "symbol": "SUIPIENS",
+  "decimals": 9,
+  "coin_type": "0x8ac367864529f12280b9f8f018bf17abc945855db7beb2ead9bf4c9d62a78605::suipiens::SUIPIENS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://suipiens.com/images/logo/main_logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

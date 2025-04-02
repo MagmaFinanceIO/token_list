@@ -1,0 +1,13 @@
+{
+  "name": "The Retirement Token",
+  "symbol": "42069k",
+  "decimals": 9,
+  "coin_type": "0xdfee2ecc993f4b6ccbc7acf5dcc175e1526f49bfcab84b691b7ccf677d8db7d5::RETIREMENT::RETIREMENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Be78Ld3SpYMif5YgxM4ipJx2eGSDcAaaCkHUzcV5pump.png?size=xl&key=533777",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DEEPSEEK",
+  "symbol": "DeepSeek",
+  "decimals": 9,
+  "coin_type": "0xda05ad5584c9b21813f798efcd5f77ceb369836901d895393424466081c6b11e::deepseek::DEEPSEEK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3ztqCV4fczsc1dYATAFiWn9LtkFGzPsaBSjGmEV3PcxR.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

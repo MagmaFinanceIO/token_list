@@ -1,0 +1,13 @@
+{
+  "name": "Duckie",
+  "symbol": "DUCKIE",
+  "decimals": 9,
+  "coin_type": "0xd828961c761f07ec61eecc3b098fef5084b93f74b86a7d49428656b8d6a3eb40::duckie::DUCKIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0xe53726cd6631d5928e4603618524bc8009233d58.png?size=lg&key=a53c31",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

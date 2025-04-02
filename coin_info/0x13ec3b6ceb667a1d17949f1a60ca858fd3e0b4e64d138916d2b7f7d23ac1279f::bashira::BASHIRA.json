@@ -1,0 +1,13 @@
+{
+  "name": "Bashira",
+  "symbol": "BASHIRA",
+  "decimals": 9,
+  "coin_type": "0x13ec3b6ceb667a1d17949f1a60ca858fd3e0b4e64d138916d2b7f7d23ac1279f::bashira::BASHIRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DqByP7Wfm1VHAVNbJo4LbCrpsyicJF1Yr9LVfuaTpump.png?size=lg&key=07e916",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

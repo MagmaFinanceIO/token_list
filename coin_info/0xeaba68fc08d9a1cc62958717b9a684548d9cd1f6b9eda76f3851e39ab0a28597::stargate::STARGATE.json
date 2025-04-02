@@ -1,0 +1,13 @@
+{
+  "name": "Project Stargate On Sui",
+  "symbol": "STARGATE",
+  "decimals": 9,
+  "coin_type": "0xeaba68fc08d9a1cc62958717b9a684548d9cd1f6b9eda76f3851e39ab0a28597::stargate::STARGATE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AwcHQrauEYWoQjLQYCDq3CKsZDTEA9freCZpnpqPpump.png?size=lg&key=6e4cf1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

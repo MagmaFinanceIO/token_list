@@ -1,0 +1,13 @@
+{
+  "name": "WALRAI by SuiAI",
+  "symbol": "WALR",
+  "decimals": 6,
+  "coin_type": "0x492b989d36ebc6454946bd641bdbeddc00a363cf9db13623817e098d8a1b6653::walr::WALR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/WALRAI_72d020da5d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

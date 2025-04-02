@@ -1,0 +1,13 @@
+{
+  "name": "Satoshi Nakamoto on Sui",
+  "symbol": "SUITOSHI",
+  "decimals": 9,
+  "coin_type": "0xa62a6ca79ede0f7dc4fcf2da85dd01d1df4715838b52f3d6e9f9602973768e9f::suitoshi::SUITOSHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/618d0e31-7705-4420-9b5d-f699ab79b559.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

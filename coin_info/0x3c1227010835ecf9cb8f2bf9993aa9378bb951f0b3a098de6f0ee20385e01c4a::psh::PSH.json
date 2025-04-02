@@ -1,0 +1,13 @@
+{
+  "name": "Poseidollar Shares",
+  "symbol": "PSH",
+  "decimals": 8,
+  "coin_type": "0x3c1227010835ecf9cb8f2bf9993aa9378bb951f0b3a098de6f0ee20385e01c4a::psh::PSH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/bafkreighu6ns5ewscolbg7y47ohzw3llf6yoqaz7z6wbil6qpwoyo5o5bq",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

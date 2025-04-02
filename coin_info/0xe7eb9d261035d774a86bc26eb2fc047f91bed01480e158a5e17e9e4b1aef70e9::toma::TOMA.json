@@ -1,0 +1,13 @@
+{
+  "name": "Tomato",
+  "symbol": "TOMA",
+  "decimals": 9,
+  "coin_type": "0xe7eb9d261035d774a86bc26eb2fc047f91bed01480e158a5e17e9e4b1aef70e9::toma::TOMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/02881998-d769-446d-89d5-e318b8774d17.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

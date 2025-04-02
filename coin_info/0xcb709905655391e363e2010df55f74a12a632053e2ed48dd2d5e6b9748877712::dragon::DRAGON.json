@@ -1,0 +1,13 @@
+{
+  "name": "Totem-Dragon",
+  "symbol": "Dragon",
+  "decimals": 6,
+  "coin_type": "0xcb709905655391e363e2010df55f74a12a632053e2ed48dd2d5e6b9748877712::dragon::DRAGON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qme4VYBTkrRKRD2qt29QTK5rg5h5jx9BGAcHzE2CgoUAWc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Beat By Ocean",
+  "symbol": "BEAT",
+  "decimals": 2,
+  "coin_type": "0x8358493999f3c296a0be8fd68a0e58f894861deeec266322ed7b8615a7e599f8::beat::BEAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/207a1fc3-f5bd-4c81-83bf-b9a60aa3e8f9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

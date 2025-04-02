@@ -1,0 +1,13 @@
+{
+  "name": "Test15",
+  "symbol": "TFFN",
+  "decimals": 9,
+  "coin_type": "0x44e6d69a1e2f0acadeaf6ef8638a85425c065969f91083b51d0a2be752580a78::tffn::TFFN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dcdd333a-a7f5-4f27-a1c2-0a13e4810ae0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

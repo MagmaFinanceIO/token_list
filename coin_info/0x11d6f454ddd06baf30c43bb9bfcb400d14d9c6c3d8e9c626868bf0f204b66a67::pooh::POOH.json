@@ -1,0 +1,13 @@
+{
+  "name": "PoohThug",
+  "symbol": "POOH",
+  "decimals": 6,
+  "coin_type": "0x11d6f454ddd06baf30c43bb9bfcb400d14d9c6c3d8e9c626868bf0f204b66a67::pooh::POOH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/poohthug_845519a739.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

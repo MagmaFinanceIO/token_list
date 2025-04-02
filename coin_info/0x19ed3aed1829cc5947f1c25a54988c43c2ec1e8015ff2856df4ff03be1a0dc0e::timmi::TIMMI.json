@@ -1,0 +1,13 @@
+{
+  "name": "TIMMI",
+  "symbol": "TIMMI",
+  "decimals": 9,
+  "coin_type": "0x19ed3aed1829cc5947f1c25a54988c43c2ec1e8015ff2856df4ff03be1a0dc0e::timmi::TIMMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BxXmDhM8sTF3QG4foaVM2v1EUvg9DLSVUsDRTjR8tMyS.png?size=lg&key=f9c401",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

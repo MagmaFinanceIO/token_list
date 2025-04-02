@@ -1,0 +1,13 @@
+{
+  "name": "Sons of SUI",
+  "symbol": "BROTHER",
+  "decimals": 9,
+  "coin_type": "0x3fafe995311aa6e1315e18446aa779b3a842c123f1e3bf38a83bc09fd7980b50::brother::BROTHER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/G85Kr4dnR3M1uymyjfyAWLNtzf7hFELQsmwwwt73dYvA.png?size=xl&key=a66b8e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

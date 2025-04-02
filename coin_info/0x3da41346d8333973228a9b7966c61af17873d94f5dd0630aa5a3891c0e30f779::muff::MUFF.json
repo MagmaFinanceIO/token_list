@@ -1,0 +1,13 @@
+{
+  "name": "MISTER MUFFINS",
+  "symbol": "MUFF",
+  "decimals": 6,
+  "coin_type": "0x3da41346d8333973228a9b7966c61af17873d94f5dd0630aa5a3891c0e30f779::muff::MUFF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Muffin_7ee05fd645.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

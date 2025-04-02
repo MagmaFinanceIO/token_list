@@ -1,0 +1,13 @@
+{
+  "name": "Roony",
+  "symbol": "ROONY",
+  "decimals": 6,
+  "coin_type": "0x6e6b1087151858e9bc19d57ea0d674617ad2f96689d91d93e37abcf8cb0004b2::roony::ROONY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_7374_341def8c80.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

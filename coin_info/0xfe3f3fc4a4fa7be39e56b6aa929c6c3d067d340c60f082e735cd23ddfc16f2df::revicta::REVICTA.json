@@ -1,0 +1,13 @@
+{
+  "name": "Revicta AI",
+  "symbol": "REVICTA",
+  "decimals": 9,
+  "coin_type": "0xfe3f3fc4a4fa7be39e56b6aa929c6c3d067d340c60f082e735cd23ddfc16f2df::revicta::REVICTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EnoF1tLwni6pa1qdfHvTUNbCvHuv5WxE8ZF4pzCwpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

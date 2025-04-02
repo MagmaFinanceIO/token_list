@@ -1,0 +1,13 @@
+{
+  "name": "Pirate Coin",
+  "symbol": "PTC",
+  "decimals": 9,
+  "coin_type": "0x815c5b9b34a63df59b547a36890f77d2dab481d42b049e1c7766d5519dd65076::ptc::PTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/be64fee0-b504-474f-81e1-35b8972f6fb8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

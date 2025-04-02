@@ -1,0 +1,13 @@
+{
+  "name": "Marshmallow Man",
+  "symbol": "PUFT",
+  "decimals": 9,
+  "coin_type": "0xd757d8f9377307215807ced1d6b7b785662c9b246869f458b91ed4077de5e33d::puft::PUFT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/778f6172-9615-4888-a774-f48966bf08f2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

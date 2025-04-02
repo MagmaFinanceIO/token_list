@@ -1,0 +1,13 @@
+{
+  "name": "Sui Narwhal",
+  "symbol": "NAR",
+  "decimals": 6,
+  "coin_type": "0x0a79f9d4ae2a48e7d525ec38949de66bc7cdc113a7927628e8adaeb7bbe7b912::nar::NAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ccc27c2f-55aa-4a21-9ed4-c66c6749f979.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

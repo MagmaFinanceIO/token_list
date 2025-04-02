@@ -1,0 +1,13 @@
+{
+  "name": "SUI Desci Agents",
+  "symbol": "DESCI",
+  "decimals": 9,
+  "coin_type": "0xdf65c807a07e9cd251260c29310478e1482e68badea8c37ffce774906132db9d::desci::DESCI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://strapi-dev.scand.app/uploads/SUI_Desci_Agents_logo_a7a89cb634.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

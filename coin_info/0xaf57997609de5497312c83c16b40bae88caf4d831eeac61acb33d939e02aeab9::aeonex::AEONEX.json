@@ -1,0 +1,13 @@
+{
+  "name": "Aeonex",
+  "symbol": "Aeonex",
+  "decimals": 9,
+  "coin_type": "0xaf57997609de5497312c83c16b40bae88caf4d831eeac61acb33d939e02aeab9::aeonex::AEONEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2korJUoxoFneXDjEeUMD8dB79bsrP8eVoi8CenSmpump.png?size=lg&key=750094",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

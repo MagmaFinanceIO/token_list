@@ -1,0 +1,13 @@
+{
+  "name": "SharKui",
+  "symbol": "KUI",
+  "decimals": 6,
+  "coin_type": "0xaab3c180af8b0bb9568b7671857a64deb965db3524c23ba72b4e0450c5aba89f::kui::KUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736283343437.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Alpha",
+  "symbol": "ALPHA",
+  "decimals": 9,
+  "coin_type": "0x762b0bb6963be1fd519919de898aa733c759c78921a61c804b842622bc7dd0de::alpha::ALPHA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2sCUCJdVkmyXp4dT8sFaA9LKgSMK4yDPi9zLHiwXpump.png?size=lg&key=971b9f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DOMO",
+  "symbol": "DOMO",
+  "decimals": 9,
+  "coin_type": "0x5a7f59636e0c6671a3e4df6141f0dae7c6ff8b7488bd37bd652e902ea7448844::domo::DOMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DnRoZx8dgvhfLM6MHAvU3EB9PuzK32rB3ZHtdszwCXVd.png?size=lg&key=ed5c8a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

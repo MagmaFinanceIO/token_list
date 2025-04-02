@@ -1,0 +1,13 @@
+{
+  "name": "suikoko",
+  "symbol": "KOKO",
+  "decimals": 6,
+  "coin_type": "0x3866f65bcbe8f4d0eca72693035278425203ed29a7d0fbf47be94ba1c10061dd::koko::KOKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2024_10_21_23_48_17_33c64a7c6a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

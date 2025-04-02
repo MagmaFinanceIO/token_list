@@ -1,0 +1,13 @@
+{
+  "name": "VIRUS AI by SuiAI",
+  "symbol": "VRS",
+  "decimals": 6,
+  "coin_type": "0x9f66ff78cf9aa8f1108756b1a8b784572019e1e8b3ef7ff37e1e813382f6e218::vrs::VRS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_6068_29fa1031bf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

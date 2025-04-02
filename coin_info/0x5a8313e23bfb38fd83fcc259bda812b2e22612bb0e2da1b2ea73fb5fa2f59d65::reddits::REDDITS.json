@@ -1,0 +1,13 @@
+{
+  "name": "Reddit Coin on Sui",
+  "symbol": "REDDITS",
+  "decimals": 9,
+  "coin_type": "0x5a8313e23bfb38fd83fcc259bda812b2e22612bb0e2da1b2ea73fb5fa2f59d65::reddits::REDDITS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/emvP1nPant7dnsfM4tXthED9Ase8KwhPmDGxzmXpump.png?size=lg&key=dbf353",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

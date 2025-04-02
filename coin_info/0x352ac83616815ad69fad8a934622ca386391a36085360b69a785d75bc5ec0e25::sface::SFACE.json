@@ -1,0 +1,13 @@
+{
+  "name": "Sui Troll Face",
+  "symbol": "SFACE",
+  "decimals": 6,
+  "coin_type": "0x352ac83616815ad69fad8a934622ca386391a36085360b69a785d75bc5ec0e25::sface::SFACE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1d53cd06-caf6-416f-8939-dd9c24d765a9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

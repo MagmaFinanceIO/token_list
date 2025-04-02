@@ -1,0 +1,13 @@
+{
+  "name": "Sui Bullrun Coin",
+  "symbol": "SUIBULL",
+  "decimals": 9,
+  "coin_type": "0x4cf5acee9604304a1a020ec85d065f2264aba17c0439fe017387d199902dc839::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

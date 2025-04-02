@@ -1,0 +1,13 @@
+{
+  "name": "The Official Musk Meme",
+  "symbol": "MUSK",
+  "decimals": 9,
+  "coin_type": "0xe51bb089201364316db652442040330154496443ca4e6f55664d8a39942c8994::musk::MUSK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8EgjZcSwBFUKtQRxdkKGNDZBQ5m6Gtnj5tGKsXTepump.png?size=lg&key=c07461",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

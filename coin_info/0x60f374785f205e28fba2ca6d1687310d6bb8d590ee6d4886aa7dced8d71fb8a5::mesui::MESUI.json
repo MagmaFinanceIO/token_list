@@ -1,0 +1,13 @@
+{
+  "name": "MemeSUI",
+  "symbol": "MESUI",
+  "decimals": 6,
+  "coin_type": "0x60f374785f205e28fba2ca6d1687310d6bb8d590ee6d4886aa7dced8d71fb8a5::mesui::MESUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000088303_a51eb9d25c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

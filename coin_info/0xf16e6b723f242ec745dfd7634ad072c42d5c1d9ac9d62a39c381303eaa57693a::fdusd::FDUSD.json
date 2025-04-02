@@ -1,0 +1,15 @@
+{
+  "name": "First Digital USD",
+  "symbol": "FDUSD",
+  "decimals": 6,
+  "coin_type": "0xf16e6b723f242ec745dfd7634ad072c42d5c1d9ac9d62a39c381303eaa57693a::fdusd::FDUSD",
+  "pyth_id": "ccdc1a08923e2e4f4b1e6ea89de6acbc5fe1948e9706f5604b8cb50bc1ed3979",
+  "birdeyeid": "0xf16e6b723f242ec745dfd7634ad072c42d5c1d9ac9d62a39c381303eaa57693a::fdusd::FDUSD",
+  "coin_priority": [
+    "971"
+  ],
+  "logo_url": "https://cdn.1stdigital.com/icon/fdusd.svg",
+  "project_url": "",
+  "coingecko_id": "first-digital-usd",
+  "is_trusted": true
+}

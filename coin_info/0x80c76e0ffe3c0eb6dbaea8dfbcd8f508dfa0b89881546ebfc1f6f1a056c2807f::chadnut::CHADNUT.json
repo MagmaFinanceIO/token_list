@@ -1,0 +1,13 @@
+{
+  "name": "CHAD NUT",
+  "symbol": "CHADNUT",
+  "decimals": 9,
+  "coin_type": "0x80c76e0ffe3c0eb6dbaea8dfbcd8f508dfa0b89881546ebfc1f6f1a056c2807f::chadnut::CHADNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9kCGVBkXeTUx9Dj7JmQg3i4heAhwK9WfrbGo3djNrVXh.png?size=lg&key=297387",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

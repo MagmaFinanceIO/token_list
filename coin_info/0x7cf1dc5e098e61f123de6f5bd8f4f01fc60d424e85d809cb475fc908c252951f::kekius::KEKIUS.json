@@ -1,0 +1,13 @@
+{
+  "name": "Kekius Maximus",
+  "symbol": "Kekius",
+  "decimals": 6,
+  "coin_type": "0x7cf1dc5e098e61f123de6f5bd8f4f01fc60d424e85d809cb475fc908c252951f::kekius::KEKIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000024569_8c7ef96e44.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

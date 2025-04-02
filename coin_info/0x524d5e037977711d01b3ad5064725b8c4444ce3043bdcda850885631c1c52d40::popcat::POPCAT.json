@@ -1,0 +1,13 @@
+{
+  "name": "Popcat",
+  "symbol": "POPCAT",
+  "decimals": 9,
+  "coin_type": "0x524d5e037977711d01b3ad5064725b8c4444ce3043bdcda850885631c1c52d40::popcat::POPCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr.png?size=lg&key=af7c36",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

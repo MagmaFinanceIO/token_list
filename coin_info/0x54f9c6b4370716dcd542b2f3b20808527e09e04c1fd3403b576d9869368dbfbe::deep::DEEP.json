@@ -1,0 +1,13 @@
+{
+  "name": "DEEP",
+  "symbol": "DEEP",
+  "decimals": 4,
+  "coin_type": "0x54f9c6b4370716dcd542b2f3b20808527e09e04c1fd3403b576d9869368dbfbe::deep::DEEP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0e85eb7e-f542-4523-9281-c5b9d855ffb4.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

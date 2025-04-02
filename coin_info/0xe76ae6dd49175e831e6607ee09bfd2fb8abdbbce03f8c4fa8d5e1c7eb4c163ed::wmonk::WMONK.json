@@ -1,0 +1,13 @@
+{
+  "name": "Wallstreet Monk",
+  "symbol": "WMONK",
+  "decimals": 9,
+  "coin_type": "0xe76ae6dd49175e831e6607ee09bfd2fb8abdbbce03f8c4fa8d5e1c7eb4c163ed::wmonk::WMONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4bdca199-b1f8-4665-b46a-29999978ce7b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

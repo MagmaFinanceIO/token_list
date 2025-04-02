@@ -1,0 +1,13 @@
+{
+  "name": "BONKEY",
+  "symbol": "BONKEY",
+  "decimals": 9,
+  "coin_type": "0x51b80b279016c4619fb647fc04739b921b9f0fae142d8fc0e60c7587a123892b::bonkey::BONKEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/27B5xBq/throwing-money.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

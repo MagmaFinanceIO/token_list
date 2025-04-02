@@ -1,0 +1,13 @@
+{
+  "name": "vSUI",
+  "symbol": "vSUI",
+  "decimals": 6,
+  "coin_type": "0x6587ecd0a6bc2cbb066c0dcf2d7a222e29309f1793941cb70b5fb3d24e47b525::vsui::VSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.okx.com/cdn/web3/currency/token/sui-vsui-0x549e8b69270defbfafd4f94e17ec44cdbdd99820b33bda2278dea3b9a32d3f55::cert::CERT.png/type=png_350_0?x-oss-process=image/format,webp/ignore-error,1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

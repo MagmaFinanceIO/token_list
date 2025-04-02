@@ -1,0 +1,13 @@
+{
+  "name": "INVASION",
+  "symbol": "INVASION",
+  "decimals": 9,
+  "coin_type": "0x0d7f5089e4fbea73a5ee3eaf85491a27f1b07288764ce6313d80c96ae743b3c0::invasion::INVASION",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EVygb6wUjcdVmtNxUzW1FSxGcPPMA2pmbANSP4LMpump.png?size=lg&key=966daa",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

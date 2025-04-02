@@ -1,0 +1,13 @@
+{
+  "name": "dwog",
+  "symbol": "DWOG",
+  "decimals": 9,
+  "coin_type": "0x1d9556c35ee4170aa566c4309a85f7cce261d2f385e1bc1daf4d68ba895bb19a::dwog::DWOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3DWUvVBwGgLpG8FVNLn4gUMHBUpRkjNcc3txotfZpump.png?size=lg&key=f3ccd2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

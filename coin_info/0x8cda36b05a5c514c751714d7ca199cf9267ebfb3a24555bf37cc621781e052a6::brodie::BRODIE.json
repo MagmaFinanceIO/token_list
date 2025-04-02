@@ -1,0 +1,13 @@
+{
+  "name": "Instagram Picasso Dog",
+  "symbol": "BRODIE",
+  "decimals": 9,
+  "coin_type": "0x8cda36b05a5c514c751714d7ca199cf9267ebfb3a24555bf37cc621781e052a6::brodie::BRODIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/22UaSSL6c6TYLexhaxWisq2mDaRTzNDX1X222anPpump.png?size=lg&key=611831",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

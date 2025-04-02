@@ -1,0 +1,13 @@
+{
+  "name": "Dixie",
+  "symbol": "DIXIE",
+  "decimals": 6,
+  "coin_type": "0xfda67226cbefb152714c86bf9dbe61eed9e82164969d0c6e2c191c5add9a8315::dixie::DIXIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/233_A2_A61_6_ABC_4532_8477_DFD_8_BEA_17014_5177fb7863.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

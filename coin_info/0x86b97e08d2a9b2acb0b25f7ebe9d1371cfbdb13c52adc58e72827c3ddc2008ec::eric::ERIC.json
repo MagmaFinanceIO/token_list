@@ -1,0 +1,13 @@
+{
+  "name": "Flat Eric",
+  "symbol": "ERIC",
+  "decimals": 9,
+  "coin_type": "0x86b97e08d2a9b2acb0b25f7ebe9d1371cfbdb13c52adc58e72827c3ddc2008ec::eric::ERIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreic72pqwwgyurjzyl42pjpa5qef77nyopnk2habmpxovigbyhzrzmy.ipfs.w3s.link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

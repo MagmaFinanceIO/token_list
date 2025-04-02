@@ -1,0 +1,13 @@
+{
+  "name": "BUILD ON SUI",
+  "symbol": "BUILD",
+  "decimals": 2,
+  "coin_type": "0x188c6239bda71ba5751990cc0271e91b6362c67bccf7aa381e018db7fe39c6d7::BUILD::BUILD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/PQxUbgMEel_QcWV4FFPAmc2JDXciAjkbcUcZfRTa3xg?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

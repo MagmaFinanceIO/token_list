@@ -1,0 +1,13 @@
+{
+  "name": "AIAGENTSUI",
+  "symbol": "AIAGENTSUI",
+  "decimals": 9,
+  "coin_type": "0x1e9b4bcf5bb1474bf1a8d393c65645849e3ddd47237de757fb62fa9b6ba5b3dc::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

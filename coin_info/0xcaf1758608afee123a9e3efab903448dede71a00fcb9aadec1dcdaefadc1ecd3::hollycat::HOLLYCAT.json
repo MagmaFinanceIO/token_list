@@ -1,0 +1,13 @@
+{
+  "name": "Holly Cat on SUI",
+  "symbol": "HOLLYCAT",
+  "decimals": 9,
+  "coin_type": "0xcaf1758608afee123a9e3efab903448dede71a00fcb9aadec1dcdaefadc1ecd3::hollycat::HOLLYCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://app.magmafinance.io/api/logo/0xcaf1758608afee123a9e3efab903448dede71a00fcb9aadec1dcdaefadc1ecd3::hollycat::HOLLYCAT.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

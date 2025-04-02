@@ -1,0 +1,13 @@
+{
+  "name": "Investly",
+  "symbol": "INVY",
+  "decimals": 9,
+  "coin_type": "0xb8215516103428f56a19d98f54a7be4c8bad8fb2bf9b72ec02e930690459c596::invy::INVY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6a53edad-6cd4-4c4e-a58f-1b592fae36b2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

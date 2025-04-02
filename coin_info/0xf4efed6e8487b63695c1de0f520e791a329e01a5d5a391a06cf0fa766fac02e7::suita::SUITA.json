@@ -1,0 +1,13 @@
+{
+  "name": "SuiTama",
+  "symbol": "SUITA",
+  "decimals": 9,
+  "coin_type": "0xf4efed6e8487b63695c1de0f520e791a329e01a5d5a391a06cf0fa766fac02e7::suita::SUITA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/572596e6-3f55-44fb-82a7-d367f961804a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

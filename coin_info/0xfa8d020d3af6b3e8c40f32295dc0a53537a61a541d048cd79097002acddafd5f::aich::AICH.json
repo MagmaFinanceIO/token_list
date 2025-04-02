@@ -1,0 +1,13 @@
+{
+  "name": "ArchAI by SuiAI",
+  "symbol": "AICH",
+  "decimals": 6,
+  "coin_type": "0xfa8d020d3af6b3e8c40f32295dc0a53537a61a541d048cd79097002acddafd5f::aich::AICH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/M8618t_Up3_Px_VPBKJ_8u_Cv_1_9y84i_f3d6b7b37c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

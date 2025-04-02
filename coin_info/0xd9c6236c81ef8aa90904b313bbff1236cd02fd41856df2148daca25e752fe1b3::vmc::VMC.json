@@ -1,0 +1,13 @@
+{
+  "name": "Vmaskcoin",
+  "symbol": "VMC",
+  "decimals": 9,
+  "coin_type": "0xd9c6236c81ef8aa90904b313bbff1236cd02fd41856df2148daca25e752fe1b3::vmc::VMC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b30bb263-6a20-4a66-b591-95a0a53b3e35.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

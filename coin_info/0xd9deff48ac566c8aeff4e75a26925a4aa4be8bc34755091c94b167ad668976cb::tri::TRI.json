@@ -1,0 +1,13 @@
+{
+  "name": "TRI",
+  "symbol": "TRI",
+  "decimals": 9,
+  "coin_type": "0xd9deff48ac566c8aeff4e75a26925a4aa4be8bc34755091c94b167ad668976cb::tri::TRI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2SNstbEYVEn2iTNQyZHKGzgTPZwBgnujwKa8hn5opump.png?size=lg&key=16c90b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

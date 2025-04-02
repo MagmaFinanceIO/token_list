@@ -1,0 +1,13 @@
+{
+  "name": "Nubb",
+  "symbol": "NUBB",
+  "decimals": 6,
+  "coin_type": "0xfdc80cca394ba3cb017a985b9457900214715bf60a4e0ae7694d0e0842c484e1::nubb::NUBB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731041321218.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

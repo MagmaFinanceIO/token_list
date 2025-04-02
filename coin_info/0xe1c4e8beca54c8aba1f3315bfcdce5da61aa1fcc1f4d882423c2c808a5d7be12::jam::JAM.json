@@ -1,0 +1,13 @@
+{
+  "name": "jam cat",
+  "symbol": "jam",
+  "decimals": 9,
+  "coin_type": "0xe1c4e8beca54c8aba1f3315bfcdce5da61aa1fcc1f4d882423c2c808a5d7be12::jam::JAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmYAH1wBwBXeJnKRkmxzAuWM5Lws8gZJgmR2q3EsDncn9e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

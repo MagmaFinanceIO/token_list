@@ -1,0 +1,13 @@
+{
+  "name": "Snorlax",
+  "symbol": "SNOR",
+  "decimals": 9,
+  "coin_type": "0x784d9e209e1e8f8c774d1c6a26ee5faab57ae8ed7770715e37581cf79c3e2f6c::snor::SNOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9X6ki2FYScBRisLTmhj43buEMTUvJ754FZwCct1dpump.png?size=lg&key=43696f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

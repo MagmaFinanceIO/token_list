@@ -1,0 +1,13 @@
+{
+  "name": "Beary The Bear",
+  "symbol": "BEARY",
+  "decimals": 9,
+  "coin_type": "0x22c1261abe1214bf76f090c5dc3a8731a7a888b803e7fc176a88723458a41f73::beary::BEARY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ba481638-1b8b-4aca-8240-dd2c5ac72469.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Maga Deng On Sui",
+  "symbol": "MAGADE",
+  "decimals": 9,
+  "coin_type": "0xf89ff6608326ccc05729a637967516771dcbae97e481057f398fc81df21f8088::magade::MAGADE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ce1c134b-2632-43c1-a3c2-cdf1ab0e2a59.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

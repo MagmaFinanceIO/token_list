@@ -1,0 +1,13 @@
+{
+  "name": "SUI HOODIE CLUB",
+  "symbol": "SHC",
+  "decimals": 9,
+  "coin_type": "0x505ec4d7335c627a0bed680888c712c68d15f3182e80b3689a7ccd0e0e7d5775::shc::SHC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6402d285-ac43-423b-a267-74b211efa809.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MOOME",
+  "symbol": "MOOME",
+  "decimals": 9,
+  "coin_type": "0x80f9b6215ae18ed1a77f5d5153c4327fd48e17dbbcd12cde06b94dd2b95e3b18::moome::MOOME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/27708c25-08eb-401b-ade0-a59776202392.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

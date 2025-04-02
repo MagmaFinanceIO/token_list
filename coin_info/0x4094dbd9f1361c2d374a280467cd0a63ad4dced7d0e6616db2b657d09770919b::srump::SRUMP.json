@@ -1,0 +1,13 @@
+{
+  "name": "Squirrel Trump",
+  "symbol": "SRUMP",
+  "decimals": 9,
+  "coin_type": "0x4094dbd9f1361c2d374a280467cd0a63ad4dced7d0e6616db2b657d09770919b::srump::SRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x8577c286a506c3a13ca6d3e64f376f4cdf6b1549.png?size=lg&key=68a48a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

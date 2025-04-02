@@ -1,0 +1,13 @@
+{
+  "name": "Chart AI",
+  "symbol": "CAI",
+  "decimals": 9,
+  "coin_type": "0xcc674e63e9d64125eb112f6bf2db79855143c76d6f937394b627675bcf32b53d::cai::CAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/QfMCvWANzN2khy3rDi9GXGx1QAjqtFcXPxPpeP5pump.png?size=lg&key=924f73",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

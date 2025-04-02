@@ -1,0 +1,13 @@
+{
+  "name": "Trist",
+  "symbol": "TRIST",
+  "decimals": 9,
+  "coin_type": "0xd475a7fce9e0d3269ebc1bccb298459ca3e8d0298b865576223a3bb02e6bd2f7::trist::TRIST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

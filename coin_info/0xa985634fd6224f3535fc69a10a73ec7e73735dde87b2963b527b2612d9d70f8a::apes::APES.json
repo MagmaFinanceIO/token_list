@@ -1,0 +1,13 @@
+{
+  "name": "MAD APES",
+  "symbol": "APES",
+  "decimals": 9,
+  "coin_type": "0xa985634fd6224f3535fc69a10a73ec7e73735dde87b2963b527b2612d9d70f8a::apes::APES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/764899a7-5a9e-40be-b008-72e855ad74a1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

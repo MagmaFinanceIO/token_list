@@ -1,0 +1,13 @@
+{
+  "name": "FoxyOnSui",
+  "symbol": "Foxy",
+  "decimals": 9,
+  "coin_type": "0xadf42ba4d7c45f0c44e6545ff0d323c3e8ce8590e779320b512f0f23a9a495ce::foxy::FOXY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/udlZCC2EdE31wwDE?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

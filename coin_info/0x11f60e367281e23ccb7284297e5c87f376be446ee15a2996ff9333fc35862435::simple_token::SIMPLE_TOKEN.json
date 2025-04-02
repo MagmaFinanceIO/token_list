@@ -1,0 +1,13 @@
+{
+  "name": "$5",
+  "symbol": "$5",
+  "decimals": 9,
+  "coin_type": "0x11f60e367281e23ccb7284297e5c87f376be446ee15a2996ff9333fc35862435::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

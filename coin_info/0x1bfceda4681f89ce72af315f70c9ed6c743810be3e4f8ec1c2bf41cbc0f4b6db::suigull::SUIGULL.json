@@ -1,0 +1,13 @@
+{
+  "name": "Suigull",
+  "symbol": "SUIGULL",
+  "decimals": 9,
+  "coin_type": "0x1bfceda4681f89ce72af315f70c9ed6c743810be3e4f8ec1c2bf41cbc0f4b6db::suigull::SUIGULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4ada6df7-4e55-4506-8be0-05a5d153ebfe.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

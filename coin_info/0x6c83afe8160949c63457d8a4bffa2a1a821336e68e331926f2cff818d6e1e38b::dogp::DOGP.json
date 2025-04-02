@@ -1,0 +1,13 @@
+{
+  "name": "Dogphin",
+  "symbol": "DOGP",
+  "decimals": 9,
+  "coin_type": "0x6c83afe8160949c63457d8a4bffa2a1a821336e68e331926f2cff818d6e1e38b::dogp::DOGP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/18c2ec72-b092-47a4-a18d-34ef71bb7f59.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

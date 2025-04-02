@@ -1,0 +1,13 @@
+{
+  "name": "Splo On Sui",
+  "symbol": "SPLO",
+  "decimals": 6,
+  "coin_type": "0xddf7b1f1ee9ab1a25c39b2fb5a20777735c09afbb607023bd63cafca5e9c109d::splo::SPLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Splo_b38fed46d5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pizza Cat",
+  "symbol": "PIZZA",
+  "decimals": 9,
+  "coin_type": "0xffc4ee5ed4cc9d6927852bb2824cc51daa26604bcceba5e69003a0e051e549b5::pizza::PIZZA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/533a0c14-d408-4310-b23d-82f4666ef0ca.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

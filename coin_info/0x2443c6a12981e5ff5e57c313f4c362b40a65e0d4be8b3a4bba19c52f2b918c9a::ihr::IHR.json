@@ -1,0 +1,13 @@
+{
+  "name": "IHR",
+  "symbol": "IHR",
+  "decimals": 9,
+  "coin_type": "0x2443c6a12981e5ff5e57c313f4c362b40a65e0d4be8b3a4bba19c52f2b918c9a::ihr::IHR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Satoshi Sui",
+  "symbol": "SATO",
+  "decimals": 6,
+  "coin_type": "0xa887cc88ee24a07c1c2772ce9d3593614bde6ac6a3242784ae54e98f2b27fabe::sato::SATO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/sa_952e4aaceb.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

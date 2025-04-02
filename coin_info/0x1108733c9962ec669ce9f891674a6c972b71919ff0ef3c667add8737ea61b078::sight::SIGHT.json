@@ -1,0 +1,13 @@
+{
+  "name": "Spectral Sight",
+  "symbol": "SIGHT",
+  "decimals": 9,
+  "coin_type": "0x1108733c9962ec669ce9f891674a6c972b71919ff0ef3c667add8737ea61b078::sight::SIGHT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CauybpUD3sjHVC5UEUXVCwxpMTXnrgn3AEF9bE3xpump.png?size=xl&key=aed189",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bulldown",
+  "symbol": "Bulldown Coin AI",
+  "decimals": 9,
+  "coin_type": "0x34de4b999a66101268e6b7dc888825e79421c66800a32fa0ee9926e575139393::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

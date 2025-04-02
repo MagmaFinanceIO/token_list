@@ -1,0 +1,13 @@
+{
+  "name": "TRUMPSUI",
+  "symbol": "TRUMPSUI",
+  "decimals": 6,
+  "coin_type": "0xe0bb454911c926076f15fb8fcc0cb4ac16d1e3754e700d3abe867d39841abc24::trumpsui::TRUMPSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmfQmCpSA9aZ1oDSBkcHYwJNZgNFUktLqxCzEBR2rHVkyv",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

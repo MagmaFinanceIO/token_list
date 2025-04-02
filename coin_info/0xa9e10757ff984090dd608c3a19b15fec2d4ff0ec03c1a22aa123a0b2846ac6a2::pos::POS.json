@@ -1,0 +1,13 @@
+{
+  "name": "Poseidon's Kiss",
+  "symbol": "POS",
+  "decimals": 6,
+  "coin_type": "0xa9e10757ff984090dd608c3a19b15fec2d4ff0ec03c1a22aa123a0b2846ac6a2::pos::POS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a1cbc8ac-1693-4de7-bf1c-0bb4ecc2f629.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "psoeoppp",
+  "symbol": "PSOEOPPP",
+  "decimals": 6,
+  "coin_type": "0x7180f04a474926ba02cee0bfcc7a241ab7d4ccd44a7ee0953f42e5c562c0b30b::psoeoppp::PSOEOPPP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

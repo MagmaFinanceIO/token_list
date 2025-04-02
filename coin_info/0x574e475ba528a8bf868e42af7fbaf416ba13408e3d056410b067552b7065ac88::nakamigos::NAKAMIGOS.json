@@ -1,0 +1,13 @@
+{
+  "name": "SUI NAKAMIGOS",
+  "symbol": "NAKAMIGOS",
+  "decimals": 9,
+  "coin_type": "0x574e475ba528a8bf868e42af7fbaf416ba13408e3d056410b067552b7065ac88::nakamigos::NAKAMIGOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.seadn.io/gcs/files/1619b033c453fe36c5d9e2ac451379a7.png?auto=format&dpr=1&w=256",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

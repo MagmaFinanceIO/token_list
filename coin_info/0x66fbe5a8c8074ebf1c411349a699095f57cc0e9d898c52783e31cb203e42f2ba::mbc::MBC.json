@@ -1,0 +1,13 @@
+{
+  "name": "Matchbox Cat",
+  "symbol": "MBC",
+  "decimals": 9,
+  "coin_type": "0x66fbe5a8c8074ebf1c411349a699095f57cc0e9d898c52783e31cb203e42f2ba::mbc::MBC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/eEdQd3x88Qs7222C?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

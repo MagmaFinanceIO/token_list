@@ -1,0 +1,13 @@
+{
+  "name": "inshallah",
+  "symbol": "INS",
+  "decimals": 6,
+  "coin_type": "0x6d3705959f1abc42d0e28fdbaa233c94a19df347bc969222f647d1e3b59225de::ins::INS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Fw_EF_9u_HWAAARZJ_9_c524c258fa.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

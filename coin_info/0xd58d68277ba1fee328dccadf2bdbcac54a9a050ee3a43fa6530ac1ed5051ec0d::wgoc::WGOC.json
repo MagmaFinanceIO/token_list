@@ -1,0 +1,13 @@
+{
+  "name": "TwoGirlOneCup",
+  "symbol": "WGOC",
+  "decimals": 9,
+  "coin_type": "0xd58d68277ba1fee328dccadf2bdbcac54a9a050ee3a43fa6530ac1ed5051ec0d::wgoc::WGOC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

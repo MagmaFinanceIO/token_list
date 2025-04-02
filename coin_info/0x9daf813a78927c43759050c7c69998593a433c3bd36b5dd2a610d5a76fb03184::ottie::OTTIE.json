@@ -1,0 +1,13 @@
+{
+  "name": "Ottie The Otter",
+  "symbol": "Ottie",
+  "decimals": 6,
+  "coin_type": "0x9daf813a78927c43759050c7c69998593a433c3bd36b5dd2a610d5a76fb03184::ottie::OTTIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_64894fcd96.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

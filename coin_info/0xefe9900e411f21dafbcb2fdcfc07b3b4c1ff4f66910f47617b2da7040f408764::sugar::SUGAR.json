@@ -1,0 +1,13 @@
+{
+  "name": "SUIGGUR",
+  "symbol": "SUGAR",
+  "decimals": 9,
+  "coin_type": "0xefe9900e411f21dafbcb2fdcfc07b3b4c1ff4f66910f47617b2da7040f408764::sugar::SUGAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4cf37882-e990-4f3d-9436-e4dad3429899.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

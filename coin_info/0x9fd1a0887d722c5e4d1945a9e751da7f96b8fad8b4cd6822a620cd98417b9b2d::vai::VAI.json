@@ -1,0 +1,13 @@
+{
+  "name": "VITALIK AI",
+  "symbol": "VAI",
+  "decimals": 9,
+  "coin_type": "0x9fd1a0887d722c5e4d1945a9e751da7f96b8fad8b4cd6822a620cd98417b9b2d::vai::VAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/H2R1Y4C7hQMdT2buyyYgXaA8QpwgQyZ2g5Z4Vqpdpump.png?size=lg&key=95b7f2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FACTOS",
+  "symbol": "FAC",
+  "decimals": 6,
+  "coin_type": "0x6b333bc6ee3db00f0628aca631e16e09f345ad82e716bdce9bea0de0ac26532a::fac::FAC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/cmmi_9b2754974e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

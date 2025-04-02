@@ -1,0 +1,13 @@
+{
+  "name": "Eco AI by SuiAI",
+  "symbol": "ECO",
+  "decimals": 6,
+  "coin_type": "0xf92f4b02c9aa53c77d6897ab23afb38db36c5efae381c35761ec01d4e1d247ef::eco::ECO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/7_CW_Ofs_EG_400x400_65f1af9d51.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

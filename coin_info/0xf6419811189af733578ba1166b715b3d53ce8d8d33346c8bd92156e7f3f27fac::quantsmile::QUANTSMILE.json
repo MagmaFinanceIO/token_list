@@ -1,0 +1,13 @@
+{
+  "name": "QUANT SMILE",
+  "symbol": "QUANTSMILE",
+  "decimals": 6,
+  "coin_type": "0xf6419811189af733578ba1166b715b3d53ce8d8d33346c8bd92156e7f3f27fac::quantsmile::QUANTSMILE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Gc0ap_Djbk_AA_Ocf_K_bf506ea260.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Peacock",
+  "symbol": "PCK",
+  "decimals": 9,
+  "coin_type": "0x82039c4cb49fc2f8f17b21bc3eb805711c94996d423a68b96f18cf44c526165e::pck::PCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f7d2e9f3-fe7b-4965-a5d9-fab7d988e1cf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

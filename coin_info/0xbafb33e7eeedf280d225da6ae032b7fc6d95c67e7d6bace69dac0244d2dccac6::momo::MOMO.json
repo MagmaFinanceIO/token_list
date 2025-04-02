@@ -1,0 +1,13 @@
+{
+  "name": "momo",
+  "symbol": "Momo",
+  "decimals": 9,
+  "coin_type": "0xbafb33e7eeedf280d225da6ae032b7fc6d95c67e7d6bace69dac0244d2dccac6::momo::MOMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pumpfun-indexer.s3.eu-west-1.amazonaws.com/icon/25eaa05c-7aea-4adc-9582-423c7da1aba5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

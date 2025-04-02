@@ -1,0 +1,13 @@
+{
+  "name": "AI Robotic Operating Sui",
+  "symbol": "AIROS",
+  "decimals": 9,
+  "coin_type": "0xc8b68e40e96736d1173f554a81c986d35411f5fa1805504e1de132955301bd46::airos::AIROS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a0999952-fa3b-4580-b035-e4da0c6464fc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

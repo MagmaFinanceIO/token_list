@@ -1,0 +1,13 @@
+{
+  "name": "Crunch AI Labs",
+  "symbol": "CAIL",
+  "decimals": 9,
+  "coin_type": "0xf2ce1d4a852480efda3e5f97796a2badcdbb1b427a0045cbbb9503915a4f1a32::cail::CAIL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xc02b5e29d0866407b1f21ebdb5e8225d4e8f0115.png?size=lg&key=6c9fa1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

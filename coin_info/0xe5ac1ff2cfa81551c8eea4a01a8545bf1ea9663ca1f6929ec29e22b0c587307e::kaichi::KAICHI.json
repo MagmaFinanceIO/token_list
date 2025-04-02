@@ -1,0 +1,13 @@
+{
+  "name": "KAICHI",
+  "symbol": "KAICHI",
+  "decimals": 9,
+  "coin_type": "0xe5ac1ff2cfa81551c8eea4a01a8545bf1ea9663ca1f6929ec29e22b0c587307e::kaichi::KAICHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmUU6uHWRWTz5sLSVAk7XwMHLJy3GB28he6YXniDGuXuy7?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

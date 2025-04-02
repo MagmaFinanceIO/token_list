@@ -1,0 +1,13 @@
+{
+  "name": "BlackCock",
+  "symbol": "COCK",
+  "decimals": 2,
+  "coin_type": "0x5451454f532f8b38de0887e81463ee70cdb16a9e9492730e2eea8976e15d880d::cock::COCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/686ec828-79f4-4d6a-a12f-6bf3d8c94744.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

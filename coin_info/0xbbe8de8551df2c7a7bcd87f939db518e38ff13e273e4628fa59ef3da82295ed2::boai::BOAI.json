@@ -1,0 +1,13 @@
+{
+  "name": "Book of AI",
+  "symbol": "BOAI",
+  "decimals": 9,
+  "coin_type": "0xbbe8de8551df2c7a7bcd87f939db518e38ff13e273e4628fa59ef3da82295ed2::boai::BOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ozC8Z1AKf8cDytpHJNyH2RpYvLAeF5ZZhEPBayVpump.png?size=lg&key=dc1308",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

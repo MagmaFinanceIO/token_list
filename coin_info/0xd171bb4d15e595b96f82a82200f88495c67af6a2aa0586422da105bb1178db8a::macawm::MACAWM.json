@@ -1,0 +1,13 @@
+{
+  "name": "Macaw Mafia",
+  "symbol": "MacawM",
+  "decimals": 9,
+  "coin_type": "0xd171bb4d15e595b96f82a82200f88495c67af6a2aa0586422da105bb1178db8a::macawm::MACAWM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1e83aa19-e1b6-416f-988d-95f3b56ccab9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

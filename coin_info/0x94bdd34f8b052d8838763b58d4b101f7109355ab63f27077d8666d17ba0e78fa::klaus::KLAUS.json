@@ -1,0 +1,13 @@
+{
+  "name": "Klaus",
+  "symbol": "Klaus",
+  "decimals": 9,
+  "coin_type": "0x94bdd34f8b052d8838763b58d4b101f7109355ab63f27077d8666d17ba0e78fa::klaus::KLAUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/41ef5fd8-683a-449b-a670-aa0465cd5efe.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

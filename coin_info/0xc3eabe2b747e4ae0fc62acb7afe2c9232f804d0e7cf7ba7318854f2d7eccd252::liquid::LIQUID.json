@@ -1,0 +1,13 @@
+{
+  "name": "LIQUIDITY",
+  "symbol": "LIQUID",
+  "decimals": 6,
+  "coin_type": "0xc3eabe2b747e4ae0fc62acb7afe2c9232f804d0e7cf7ba7318854f2d7eccd252::liquid::LIQUID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/LIQUIDITY_dddc9ce637_5c88909656.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

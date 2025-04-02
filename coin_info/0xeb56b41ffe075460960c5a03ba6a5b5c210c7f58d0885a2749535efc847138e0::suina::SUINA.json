@@ -1,0 +1,13 @@
+{
+  "name": "SUINA The Pig",
+  "symbol": "SUINA",
+  "decimals": 6,
+  "coin_type": "0xeb56b41ffe075460960c5a03ba6a5b5c210c7f58d0885a2749535efc847138e0::suina::SUINA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSAkqGpWYUMLTYGa2v6EPkGJVPM4DiMogBzUAsn6F21aG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

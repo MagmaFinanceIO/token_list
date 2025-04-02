@@ -1,0 +1,13 @@
+{
+  "name": "CHOKI CAT",
+  "symbol": "CHOKI",
+  "decimals": 9,
+  "coin_type": "0xa385818b54e7a8d01b2ba58e50af08c0463b4ec098c21bba0e289cc05a0dff24::choki::CHOKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b51ae84e-061a-47e6-908a-58bcd9948187.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

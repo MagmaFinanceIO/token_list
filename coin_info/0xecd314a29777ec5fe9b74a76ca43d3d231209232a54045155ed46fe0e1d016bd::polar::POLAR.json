@@ -1,0 +1,13 @@
+{
+  "name": "Polaris",
+  "symbol": "POLAR",
+  "decimals": 9,
+  "coin_type": "0xecd314a29777ec5fe9b74a76ca43d3d231209232a54045155ed46fe0e1d016bd::polar::POLAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3WfVmcRpEGAkoGCxgyaXTDRDDyPZCXxAhdLxeX2ypump.png?size=lg&key=a28d70",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

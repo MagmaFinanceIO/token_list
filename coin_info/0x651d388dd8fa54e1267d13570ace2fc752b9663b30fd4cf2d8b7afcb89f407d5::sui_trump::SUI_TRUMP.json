@@ -1,0 +1,13 @@
+{
+  "name": "TRUMP",
+  "symbol": "SUI TRUMP",
+  "decimals": 8,
+  "coin_type": "0x651d388dd8fa54e1267d13570ace2fc752b9663b30fd4cf2d8b7afcb89f407d5::sui_trump::SUI_TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4eISVEIPu9IbZc_IGDW2VGFfJ9oWHve9cLZGY3-gStKeAkHTLyMuaUynN19JWi8DyNoU&usqp=CAU",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

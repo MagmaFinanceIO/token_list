@@ -1,0 +1,13 @@
+{
+  "name": "den",
+  "symbol": "DEN",
+  "decimals": 6,
+  "coin_type": "0xcf6a43d2767b469b2a0f6f89334f78bd46d6a14bc92c60086a6148bc1c086676::den::DEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/space_bg8574_e059d39051.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

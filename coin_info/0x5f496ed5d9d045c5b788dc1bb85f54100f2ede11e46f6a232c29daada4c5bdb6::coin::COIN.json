@@ -1,0 +1,13 @@
+{
+  "name": "Lorenzo stBTC",
+  "symbol": "stBTC",
+  "decimals": 8,
+  "coin_type": "0x5f496ed5d9d045c5b788dc1bb85f54100f2ede11e46f6a232c29daada4c5bdb6::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "0x5f496ed5d9d045c5b788dc1bb85f54100f2ede11e46f6a232c29daada4c5bdb6::coin::COIN",
+  "coin_priority": [],
+  "logo_url": "https://node1.irys.xyz/qg69O3RwWkFt8QG2_GeTh-xGOQEkLbaiPjuU-yDsHqM",
+  "project_url": "",
+  "coingecko_id": "lorenzo-stbtc",
+  "is_trusted": true
+}

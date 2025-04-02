@@ -1,0 +1,13 @@
+{
+  "name": "Bubbly The Cat",
+  "symbol": "BTC",
+  "decimals": 6,
+  "coin_type": "0xa0d6d4abd383475f51079f5d3d247706a5b0636c9b5cf78fa850c0e4698196af::btc::BTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/bubbly_blink_4957bc6756.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

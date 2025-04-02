@@ -1,0 +1,13 @@
+{
+  "name": "lyzr AI",
+  "symbol": "lyzr",
+  "decimals": 9,
+  "coin_type": "0xa0a150a4faacf32467b049513f4308db2346b82037d94fb48498d10caddaee5a::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

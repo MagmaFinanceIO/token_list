@@ -1,0 +1,13 @@
+{
+  "name": "LOLDOG",
+  "symbol": "LOLDOG",
+  "decimals": 9,
+  "coin_type": "0x84be5b8ef42b4cc135a4724686161c67dd83c932a32b7223a6615c3bf3d075db::loldog::LOLDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2ee254fe-d758-4440-91d7-392195fea40d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

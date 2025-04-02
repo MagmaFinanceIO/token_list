@@ -1,0 +1,13 @@
+{
+  "name": "Drunk Teddy",
+  "symbol": "TEDDY",
+  "decimals": 9,
+  "coin_type": "0x3280e3fc8ef4e9aa3834069a4235abf533fc020537fdec308b6c2600ba0f0c5d::teddy::TEDDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/6ZHo_HBOYZqe-pXB?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

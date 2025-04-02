@@ -1,0 +1,13 @@
+{
+  "name": "Emperor Wen",
+  "symbol": "Wen",
+  "decimals": 6,
+  "coin_type": "0xd4d7b1b2109d012a7d79d55408326b94dad86ed4f503ec00274657ad1320c5a7::wen::WEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmaFJxFzvkSa4JTJ63tTmWmSpPyhWhq9GJLUyve7NpeuV1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

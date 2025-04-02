@@ -1,0 +1,13 @@
+{
+  "name": "ryu on Sui",
+  "symbol": "ryu",
+  "decimals": 9,
+  "coin_type": "0x479a0870e72f431c04b1c0820190c2546ad4464b37503db3c6fede5304aa2d2c::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

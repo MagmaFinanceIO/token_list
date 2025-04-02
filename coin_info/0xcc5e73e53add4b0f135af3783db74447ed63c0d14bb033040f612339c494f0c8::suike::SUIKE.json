@@ -1,0 +1,13 @@
+{
+  "name": "Suike",
+  "symbol": "SUIKE",
+  "decimals": 9,
+  "coin_type": "0xcc5e73e53add4b0f135af3783db74447ed63c0d14bb033040f612339c494f0c8::suike::SUIKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3a90039b-76f2-41e0-85e3-50c5807b9ad7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

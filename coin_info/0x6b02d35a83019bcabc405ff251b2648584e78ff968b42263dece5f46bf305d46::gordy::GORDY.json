@@ -1,0 +1,13 @@
+{
+  "name": "Gordy",
+  "symbol": "GORDY",
+  "decimals": 9,
+  "coin_type": "0x6b02d35a83019bcabc405ff251b2648584e78ff968b42263dece5f46bf305d46::gordy::GORDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://photos.pinksale.finance/file/pinksale-logo-upload/1729605300618-0e4d743e86597678568014a5daebce16.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

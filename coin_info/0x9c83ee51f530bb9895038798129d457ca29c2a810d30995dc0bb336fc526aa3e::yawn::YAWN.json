@@ -1,0 +1,13 @@
+{
+  "name": "YAWN ON SUI",
+  "symbol": "YAWN",
+  "decimals": 6,
+  "coin_type": "0x9c83ee51f530bb9895038798129d457ca29c2a810d30995dc0bb336fc526aa3e::yawn::YAWN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_yawn_df6e6c62e6.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hidden Mist Village",
+  "symbol": "HMV",
+  "decimals": 6,
+  "coin_type": "0x8863ec21c3af99b176ed42139af927c5592215d6df27387592368de9ce8ad5bf::hmv::HMV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Sui_mist_village_1e190de5a8.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

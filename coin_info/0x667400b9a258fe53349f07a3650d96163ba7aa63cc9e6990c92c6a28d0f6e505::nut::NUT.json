@@ -1,0 +1,13 @@
+{
+  "name": "Chestnut",
+  "symbol": "NUT",
+  "decimals": 9,
+  "coin_type": "0x667400b9a258fe53349f07a3650d96163ba7aa63cc9e6990c92c6a28d0f6e505::nut::NUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a58f38e6-06bf-4b18-b523-4790d4c25191.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

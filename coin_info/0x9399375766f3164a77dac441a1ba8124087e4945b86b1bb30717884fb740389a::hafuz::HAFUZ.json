@@ -1,0 +1,13 @@
+{
+  "name": "Hafuzliq AI",
+  "symbol": "HAFUZ",
+  "decimals": 6,
+  "coin_type": "0x9399375766f3164a77dac441a1ba8124087e4945b86b1bb30717884fb740389a::hafuz::HAFUZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Gv_TD_Lv_JA_43gbn_Hg_J_Vo_Vj_Tk_V_Qq_R_Tn_Y99i4_Kj_JA_1j_Spump_cda13673cd.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GoldPEPE",
+  "symbol": "GoldPEPE",
+  "decimals": 9,
+  "coin_type": "0x4593d496ceb38baaaeaac7f8ee68bea046dd530be16c39e5e66b5dcca9896cc1::goldpepe::GOLDPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cac86131-5498-4820-9fbd-0f6652e2c8bf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

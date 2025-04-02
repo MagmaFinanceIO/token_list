@@ -1,0 +1,13 @@
+{
+  "name": "bitnut",
+  "symbol": "bitnut",
+  "decimals": 9,
+  "coin_type": "0x6009970d11464ee1b4e0f79ae03947545ba0b93a08de0b694c3c09d7e97be986::bitnut::BITNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3LbqbWJQX2GUMdxxEoKd79gwFmzQ4uY2V9PUwBC2XYgF.png?size=lg&key=f79502",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GOAT MILK",
+  "symbol": "GMILK",
+  "decimals": 6,
+  "coin_type": "0x73aa1b5caad94faa3a5fe3770ea611834fd87f1c2efd630a54cd820434fdfc03::gmilk::GMILK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b0a6972e-d26e-4b10-b07a-99b5b471ca83.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

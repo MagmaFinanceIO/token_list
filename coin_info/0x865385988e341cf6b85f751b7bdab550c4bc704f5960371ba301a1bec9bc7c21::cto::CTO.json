@@ -1,0 +1,13 @@
+{
+  "name": "COMMUNITY TAKEOVER",
+  "symbol": "CTO",
+  "decimals": 6,
+  "coin_type": "0x865385988e341cf6b85f751b7bdab550c4bc704f5960371ba301a1bec9bc7c21::cto::CTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1733154189478.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

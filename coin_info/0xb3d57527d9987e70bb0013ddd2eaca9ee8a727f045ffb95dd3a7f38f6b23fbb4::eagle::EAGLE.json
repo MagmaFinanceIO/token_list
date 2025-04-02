@@ -1,0 +1,13 @@
+{
+  "name": "EAGLE",
+  "symbol": "EAGLE",
+  "decimals": 9,
+  "coin_type": "0xb3d57527d9987e70bb0013ddd2eaca9ee8a727f045ffb95dd3a7f38f6b23fbb4::eagle::EAGLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/50126c52-0e37-4f33-a8bb-7571ff04e08c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Tubby The Frogo",
+  "symbol": "TUBBY",
+  "decimals": 6,
+  "coin_type": "0x512a24171e1198a3294a9a61c704a8eda2bf542dd433107543fa46e5408c583f::tubby::TUBBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/tubbyprof_63cb262f66.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

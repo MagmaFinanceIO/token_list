@@ -1,0 +1,13 @@
+{
+  "name": "Donald Duck AI",
+  "symbol": "DuckAI",
+  "decimals": 9,
+  "coin_type": "0x37213e4f862aa1bf83e783aea0fbe0605d86493482bc5edec064a50973483cb9::duckai::DUCKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dexscreener.com/solana/xfybgfwgqxwfznygsm5hvpeurshuitxvids2hdjpump",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

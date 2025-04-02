@@ -1,0 +1,13 @@
+{
+  "name": "SU1",
+  "symbol": "SUIONE",
+  "decimals": 6,
+  "coin_type": "0xcef189a1336f4286b1b0698420872a4742cb9df9d65f9616feff824c8af52741::suione::SUIONE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_3794_eaf3d40494.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

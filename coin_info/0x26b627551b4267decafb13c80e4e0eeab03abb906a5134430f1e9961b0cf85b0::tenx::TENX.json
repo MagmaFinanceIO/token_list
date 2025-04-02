@@ -1,0 +1,13 @@
+{
+  "name": "10X Coin",
+  "symbol": "TenX",
+  "decimals": 6,
+  "coin_type": "0x26b627551b4267decafb13c80e4e0eeab03abb906a5134430f1e9961b0cf85b0::tenx::TENX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/images_a70a6c8846.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

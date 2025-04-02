@@ -1,0 +1,13 @@
+{
+  "name": "DUNNO MEME",
+  "symbol": "DUNNO",
+  "decimals": 6,
+  "coin_type": "0x683bcf2aaa263912d9f1afd2c6c4012c74b58168a2ec7d009c90e34920164e5e::dunno::DUNNO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/DUNNO_47c8012d96.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

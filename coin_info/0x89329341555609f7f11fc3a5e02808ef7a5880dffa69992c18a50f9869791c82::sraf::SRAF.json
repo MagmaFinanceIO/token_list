@@ -1,0 +1,13 @@
+{
+  "name": "SUI RAFFLE",
+  "symbol": "SRAF",
+  "decimals": 6,
+  "coin_type": "0x89329341555609f7f11fc3a5e02808ef7a5880dffa69992c18a50f9869791c82::sraf::SRAF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_6450b49f23.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

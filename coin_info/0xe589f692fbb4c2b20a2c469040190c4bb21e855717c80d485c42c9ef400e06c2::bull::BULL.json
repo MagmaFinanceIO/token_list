@@ -1,0 +1,13 @@
+{
+  "name": "Chill Bull",
+  "symbol": "BULL",
+  "decimals": 9,
+  "coin_type": "0xe589f692fbb4c2b20a2c469040190c4bb21e855717c80d485c42c9ef400e06c2::bull::BULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2cEYuN7vjSfayPXdLcZFgrhk3czLckGP4C2JGCWDPGRt.png?size=xl&key=502767",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PowerDAO Protocol",
+  "symbol": "PWR",
+  "decimals": 9,
+  "coin_type": "0xd249ed50b20dae44a1beea0b3014c94b5684a00c75dd28c078c5c791976f482a::pwr::PWR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3222c08a-16f3-4751-a2f3-8c6d0e6dd05b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

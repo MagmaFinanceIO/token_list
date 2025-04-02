@@ -1,0 +1,13 @@
+{
+  "name": "Rein The Reindeer",
+  "symbol": "REIN",
+  "decimals": 9,
+  "coin_type": "0xf1766bd3b0934406bd9d32654228f9fcda25729ff8118daf14a311362d501e25::rein::REIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Sk4AuXpDyYcCWthSfVB6tdJkwwHQ6CUQQfym5uMpump.png?size=lg&key=f68bc6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

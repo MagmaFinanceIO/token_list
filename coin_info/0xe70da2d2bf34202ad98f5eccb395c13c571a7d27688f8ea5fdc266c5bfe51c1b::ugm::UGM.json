@@ -1,0 +1,13 @@
+{
+  "name": "User Generated Money",
+  "symbol": "UGM",
+  "decimals": 9,
+  "coin_type": "0xe70da2d2bf34202ad98f5eccb395c13c571a7d27688f8ea5fdc266c5bfe51c1b::ugm::UGM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BhePPrRHVS3YSSHphcXgxN3cBAAiSnVZ9n9NNM5Xpump.png?size=lg&key=a5bfba",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

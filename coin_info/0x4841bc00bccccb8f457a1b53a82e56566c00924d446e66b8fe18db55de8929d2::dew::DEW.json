@@ -1,0 +1,13 @@
+{
+  "name": "DEW on SUI",
+  "symbol": "DEW",
+  "decimals": 6,
+  "coin_type": "0x4841bc00bccccb8f457a1b53a82e56566c00924d446e66b8fe18db55de8929d2::dew::DEW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736056137030.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

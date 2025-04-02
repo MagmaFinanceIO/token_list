@@ -1,0 +1,13 @@
+{
+  "name": "Cokroach Roll",
+  "symbol": "COKROLL",
+  "decimals": 9,
+  "coin_type": "0xd285f2d1ad50e265f05579aa30aaa6685150255a8f3dff6f86f238c4702432bb::cokroll::COKROLL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3wXs6oT2ygxNwqcFBEkwQfQ51Vr9MgLix98XGxK4pump.png?size=lg&key=b9a18d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

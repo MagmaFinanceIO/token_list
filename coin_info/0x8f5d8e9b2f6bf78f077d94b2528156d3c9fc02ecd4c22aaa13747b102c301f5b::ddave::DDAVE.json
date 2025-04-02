@@ -1,0 +1,13 @@
+{
+  "name": "Degen Dave",
+  "symbol": "DDAVE",
+  "decimals": 6,
+  "coin_type": "0x8f5d8e9b2f6bf78f077d94b2528156d3c9fc02ecd4c22aaa13747b102c301f5b::ddave::DDAVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_12_16_12_54_11_f9cbefdc5b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

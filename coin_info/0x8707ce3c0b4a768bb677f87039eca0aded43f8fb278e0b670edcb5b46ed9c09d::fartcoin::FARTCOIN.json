@@ -1,0 +1,13 @@
+{
+  "name": "Sui Fartcoin",
+  "symbol": "Fartcoin",
+  "decimals": 6,
+  "coin_type": "0x8707ce3c0b4a768bb677f87039eca0aded43f8fb278e0b670edcb5b46ed9c09d::fartcoin::FARTCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/76a881d3-4480-4d70-888e-222a5592bd93.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

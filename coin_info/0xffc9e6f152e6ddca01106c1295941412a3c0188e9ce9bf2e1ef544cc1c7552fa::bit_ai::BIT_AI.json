@@ -1,0 +1,13 @@
+{
+  "name": "BIT_AI",
+  "symbol": "BIT_AI",
+  "decimals": 6,
+  "coin_type": "0xffc9e6f152e6ddca01106c1295941412a3c0188e9ce9bf2e1ef544cc1c7552fa::bit_ai::BIT_AI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/970d202f-8f77-4ffd-97ea-99d8a433f4cb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

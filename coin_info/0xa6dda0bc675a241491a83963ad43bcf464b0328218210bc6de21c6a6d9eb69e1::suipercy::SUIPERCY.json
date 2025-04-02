@@ -1,0 +1,13 @@
+{
+  "name": "Percy Verence",
+  "symbol": "SUIPERCY",
+  "decimals": 9,
+  "coin_type": "0xa6dda0bc675a241491a83963ad43bcf464b0328218210bc6de21c6a6d9eb69e1::suipercy::SUIPERCY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/R4SUGQqwk8r4ZSdXniRV4UDJVspjSE4yfWWeYrLpump.png?size=lg&key=237db3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MYCOIN",
+  "symbol": "MC",
+  "decimals": 2,
+  "coin_type": "0x912109be051c03fb5c3c5a15427a52a51e0f42e5b16eed35df7d42cfe2e500b9::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

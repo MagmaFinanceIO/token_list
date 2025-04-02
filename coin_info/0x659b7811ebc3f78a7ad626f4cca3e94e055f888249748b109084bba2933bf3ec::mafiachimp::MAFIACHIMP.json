@@ -1,0 +1,13 @@
+{
+  "name": "MAFIA CHIMP",
+  "symbol": "MafiaChimp",
+  "decimals": 9,
+  "coin_type": "0x659b7811ebc3f78a7ad626f4cca3e94e055f888249748b109084bba2933bf3ec::mafiachimp::MAFIACHIMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/445d3a50-75c6-408d-8647-feb85549a822.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

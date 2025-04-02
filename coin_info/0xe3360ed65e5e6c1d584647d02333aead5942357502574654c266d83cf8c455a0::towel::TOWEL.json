@@ -1,0 +1,13 @@
+{
+  "name": "Towel cat",
+  "symbol": "Towel",
+  "decimals": 6,
+  "coin_type": "0xe3360ed65e5e6c1d584647d02333aead5942357502574654c266d83cf8c455a0::towel::TOWEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_f83189495a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

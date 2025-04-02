@@ -1,0 +1,13 @@
+{
+  "name": "Suiper Suiyan",
+  "symbol": "SUIYAN",
+  "decimals": 9,
+  "coin_type": "0xcccc438bf31ed26e5de2ed9335d87da77e49a6513f5a6b329e765ec3250a9062::suiyan::SUIYAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/39cc2ce8-b734-4357-8dae-bcb70d529703.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "IRIS",
+  "symbol": "IRIS",
+  "decimals": 9,
+  "coin_type": "0x9acc067a8a121fe1b0b4e8f38b2ee606ecdaf6ed5d83eada48bf7beb6fef5b6c::iris::IRIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ppgVAATPv5oySBbjzxUTxpQHDKBgVK63EvKhjCepump.png?size=lg&key=55b2f9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Satoshi AI Ninja",
+  "symbol": "SAIN",
+  "decimals": 9,
+  "coin_type": "0x1c9dedb3071aca4319e63dc2234bcfe09f07fd8c29b3ed207f1b9a342426e878::sain::SAIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5zNLLwU7ZttMphrJ1yEMvsGhSyk8GBCCViTowUj7pump.png?size=lg&key=a772c8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "OSIRII",
+  "symbol": "OSIRIII",
+  "decimals": 9,
+  "coin_type": "0x84ef9d9bf47b39bc248f2b18cccdbf5aac40dd7b7b8aac2f07eabccdc2a6258c::osiriii::OSIRIII",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

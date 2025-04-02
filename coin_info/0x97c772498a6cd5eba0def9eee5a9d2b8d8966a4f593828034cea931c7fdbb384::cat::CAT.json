@@ -1,0 +1,13 @@
+{
+  "name": "Cat emoji on Sui",
+  "symbol": "Cat",
+  "decimals": 9,
+  "coin_type": "0x97c772498a6cd5eba0def9eee5a9d2b8d8966a4f593828034cea931c7fdbb384::cat::CAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DFwxYdmfLJsPTyrNJCapGadF58Y74e2TFpVAyhbgpump.png?size=lg&key=846d71",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Book of Cats",
+  "symbol": "BOCAT",
+  "decimals": 6,
+  "coin_type": "0x79d047d9d174022088cc6067c442c76f6ea45b8e5b59f0826aa89f37d294f74d::bocat::BOCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmNpqTpCjdkZXwo7JhTF1wffLUgsX2xJrt6pioHTus5Bz9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

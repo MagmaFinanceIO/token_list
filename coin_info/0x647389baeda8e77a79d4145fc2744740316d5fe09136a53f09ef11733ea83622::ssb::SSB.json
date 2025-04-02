@@ -1,0 +1,13 @@
+{
+  "name": "Sonic Seal",
+  "symbol": "SSB",
+  "decimals": 7,
+  "coin_type": "0x647389baeda8e77a79d4145fc2744740316d5fe09136a53f09ef11733ea83622::ssb::SSB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dad1a700-6388-43e5-9451-9ced1403eeb4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

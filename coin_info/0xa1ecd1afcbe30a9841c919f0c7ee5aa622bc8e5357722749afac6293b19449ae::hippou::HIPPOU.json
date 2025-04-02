@@ -1,0 +1,13 @@
+{
+  "name": "HIPPOU INU",
+  "symbol": "HIPPOU",
+  "decimals": 9,
+  "coin_type": "0xa1ecd1afcbe30a9841c919f0c7ee5aa622bc8e5357722749afac6293b19449ae::hippou::HIPPOU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://file-walletapp.waveonsui.com/images/wave-pumps/d715f261-987d-469b-9ce5-362d529695a5.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

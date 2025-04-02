@@ -1,0 +1,13 @@
+{
+  "name": "REPAI",
+  "symbol": "REPAI",
+  "decimals": 9,
+  "coin_type": "0x3d2cae1b9ad60580e5d40fd0a116b28436de30b3888d4902bf3f8a679058bd18::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

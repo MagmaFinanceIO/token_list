@@ -1,0 +1,13 @@
+{
+  "name": "DeepFreak LLM",
+  "symbol": "DeepFreak",
+  "decimals": 9,
+  "coin_type": "0xe2885246b151021502e0c7942d598a11b236e9c78a2ab8595ab186bd756b264b::deepfreak::DEEPFREAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4PYNNKg98ucPfUEFNeKV2sfnkha3Ujh1bnoqthY8pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

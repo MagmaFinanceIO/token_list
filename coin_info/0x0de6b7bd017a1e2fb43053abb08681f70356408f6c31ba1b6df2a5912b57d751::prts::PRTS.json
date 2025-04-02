@@ -1,0 +1,13 @@
+{
+  "name": "Pirates",
+  "symbol": "PRTS",
+  "decimals": 6,
+  "coin_type": "0x0de6b7bd017a1e2fb43053abb08681f70356408f6c31ba1b6df2a5912b57d751::prts::PRTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmVypqKBU4pLBbDZxo9P1dcVEUHneLpf27DmfKS6Q8Mdnu",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

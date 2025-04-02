@@ -1,0 +1,13 @@
+{
+  "name": "Atomic Toad",
+  "symbol": "ATOMITO",
+  "decimals": 9,
+  "coin_type": "0xe06b0160e5a5bf15b0953571f397b3398636e9fead98217e1c4889f4487ac831::atomito::ATOMITO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3a1d5fb7-fba0-4a57-9082-c29c0281cf55.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

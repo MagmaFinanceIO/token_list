@@ -1,0 +1,13 @@
+{
+  "name": "Sui meth",
+  "symbol": "SMETH",
+  "decimals": 6,
+  "coin_type": "0x96dbc91d1fcecef718734cd1582fa878b68f15eb9a2bb1658628a9bc1efc12b6::smeth::SMETH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/DALLA_E_2024_12_05_01_56_45_Create_a_more_natural_looking_cartoon_illustration_of_a_transparent_zip_bag_filled_with_light_blue_shattered_crystals_The_bag_should_look_realistic_225a72dcec.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

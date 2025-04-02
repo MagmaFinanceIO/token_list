@@ -1,0 +1,13 @@
+{
+  "name": "Santa's Little Helper",
+  "symbol": "HELPER",
+  "decimals": 9,
+  "coin_type": "0x77b9ea47690e0a61506631c590ce1b1aad672aea91ca17cc10c000e0e1ba2fbd::helper::HELPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/jgqGV7sW33iBPq3eXqZ1VK3i3BVZm2zyZm4Agjqpump.png?size=lg&key=dc147a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

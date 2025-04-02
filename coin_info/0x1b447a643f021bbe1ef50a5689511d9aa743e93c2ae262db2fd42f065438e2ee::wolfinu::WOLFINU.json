@@ -1,0 +1,13 @@
+{
+  "name": "Wolf Inu",
+  "symbol": "WolfInu",
+  "decimals": 9,
+  "coin_type": "0x1b447a643f021bbe1ef50a5689511d9aa743e93c2ae262db2fd42f065438e2ee::wolfinu::WOLFINU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bb924a71-1fe7-4117-8de1-fa61d42254f1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

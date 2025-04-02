@@ -1,0 +1,13 @@
+{
+  "name": "Tadpole",
+  "symbol": "TADPOLE",
+  "decimals": 9,
+  "coin_type": "0xd26aad505b0eb110fa85da5e8c111e1a40f5e5ae198eabb6217fc7de43fbc06e::tadpole::TADPOLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d70a1fb4-94a0-4a17-9924-a5b5b7fe8ff2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

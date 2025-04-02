@@ -1,0 +1,13 @@
+{
+  "name": "BORK ON SUI",
+  "symbol": "BORKS",
+  "decimals": 6,
+  "coin_type": "0x52de348b0dd8253c756213a8ecb46364291d4adb7191d60a0b6d97a0e233b736::borks::BORKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_2_3_bf39494416.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

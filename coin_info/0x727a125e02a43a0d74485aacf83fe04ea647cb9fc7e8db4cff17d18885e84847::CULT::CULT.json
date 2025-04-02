@@ -1,0 +1,13 @@
+{
+  "name": "Milady Cult Coin",
+  "symbol": "CULT",
+  "decimals": 2,
+  "coin_type": "0x727a125e02a43a0d74485aacf83fe04ea647cb9fc7e8db4cff17d18885e84847::CULT::CULT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/izc4Nx0xun2dIUppjVhct4WTTIimwDiks9LBwVr1FA8?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

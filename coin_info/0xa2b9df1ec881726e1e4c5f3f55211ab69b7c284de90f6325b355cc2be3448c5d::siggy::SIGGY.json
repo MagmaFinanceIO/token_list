@@ -1,0 +1,13 @@
+{
+  "name": "SIGGY",
+  "symbol": "SIGGY",
+  "decimals": 9,
+  "coin_type": "0xa2b9df1ec881726e1e4c5f3f55211ab69b7c284de90f6325b355cc2be3448c5d::siggy::SIGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5eae1b17-bb3c-4a8a-95d8-d31016d7aae1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

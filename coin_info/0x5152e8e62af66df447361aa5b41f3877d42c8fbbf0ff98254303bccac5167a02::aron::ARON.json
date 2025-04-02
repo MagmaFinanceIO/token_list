@@ -1,0 +1,13 @@
+{
+  "name": "Aron's Vault",
+  "symbol": "ARON",
+  "decimals": 6,
+  "coin_type": "0x5152e8e62af66df447361aa5b41f3877d42c8fbbf0ff98254303bccac5167a02::aron::ARON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735302971111.17",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

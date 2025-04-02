@@ -1,0 +1,13 @@
+{
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "decimals": 6,
+  "coin_type": "0x6037801f060f0f54b3817bca05e3c8b9b9ffaa2da8e93fd5b80fa662aa3c9e55::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

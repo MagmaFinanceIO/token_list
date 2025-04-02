@@ -1,0 +1,13 @@
+{
+  "name": "SHREK",
+  "symbol": "SHREK",
+  "decimals": 9,
+  "coin_type": "0x933fd696c28a71c5d3b85e763b875adaeb3b826901d18cc250ce38ee04d472fc::shrek::SHREK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://m.media-amazon.com/images/S/pv-target-images/dbf6812f59e5080cf420f1056bfceb66f7d6a43a8df19ace503ea70596afc0ff._SX1080_FMjpg_.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NaziCoin",
+  "symbol": "NC",
+  "decimals": 4,
+  "coin_type": "0x614eb563a6871cd919898cfb7d118a52b9a26c989ee801acd7311e9b3f61dab4::nc::NC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/19a6fdb8-507e-417f-afc4-898ca9ce2401.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

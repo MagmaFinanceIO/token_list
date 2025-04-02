@@ -1,0 +1,13 @@
+{
+  "name": "Seneke on sui",
+  "symbol": "SENEKE",
+  "decimals": 9,
+  "coin_type": "0xa80204597466c854a10eb47e8580fa2a534db744f1fd596f7655ea826d2f0d63::seneke::SENEKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/33c6f2c7-4237-4974-91d6-48edc7cb746f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

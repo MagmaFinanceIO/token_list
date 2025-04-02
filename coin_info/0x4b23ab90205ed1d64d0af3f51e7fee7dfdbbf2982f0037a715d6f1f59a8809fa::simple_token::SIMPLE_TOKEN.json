@@ -1,0 +1,13 @@
+{
+  "name": "TUX",
+  "symbol": "TUX",
+  "decimals": 9,
+  "coin_type": "0x4b23ab90205ed1d64d0af3f51e7fee7dfdbbf2982f0037a715d6f1f59a8809fa::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

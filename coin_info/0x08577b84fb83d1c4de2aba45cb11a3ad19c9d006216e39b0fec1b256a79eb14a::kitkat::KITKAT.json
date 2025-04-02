@@ -1,0 +1,13 @@
+{
+  "name": "Mira's dog",
+  "symbol": "kitkat",
+  "decimals": 9,
+  "coin_type": "0x08577b84fb83d1c4de2aba45cb11a3ad19c9d006216e39b0fec1b256a79eb14a::kitkat::KITKAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6wYDjR9r71MunekkKTP2hywTFfocxQBYoP9ht55rpump.png?size=lg&key=a50609",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

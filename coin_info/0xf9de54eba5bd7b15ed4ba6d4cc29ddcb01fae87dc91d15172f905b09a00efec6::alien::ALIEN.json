@@ -1,0 +1,13 @@
+{
+  "name": "Alien",
+  "symbol": "ALIEN",
+  "decimals": 9,
+  "coin_type": "0xf9de54eba5bd7b15ed4ba6d4cc29ddcb01fae87dc91d15172f905b09a00efec6::alien::ALIEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dribbble.com/userupload/16995494/file/original-13e8a9652835dedbcf2d08eb87e34b7d.jpeg?resize=1024x1024",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TARDINATOR",
+  "symbol": "TARDX",
+  "decimals": 6,
+  "coin_type": "0x69a20a8202f9980caeee5b3d5e5125ddfecbe7ac94162408efc8658d904ab741::tardx::TARDX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/tardi_glitch_a2c91dc638.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

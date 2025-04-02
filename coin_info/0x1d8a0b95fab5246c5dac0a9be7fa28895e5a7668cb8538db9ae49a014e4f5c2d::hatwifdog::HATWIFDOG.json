@@ -1,0 +1,13 @@
+{
+  "name": "HatWifDog",
+  "symbol": "HatWifDog",
+  "decimals": 9,
+  "coin_type": "0x1d8a0b95fab5246c5dac0a9be7fa28895e5a7668cb8538db9ae49a014e4f5c2d::hatwifdog::HATWIFDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/67894c1f-e2a4-4167-8e9e-bcc1d381d9ba.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

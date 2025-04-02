@@ -1,0 +1,13 @@
+{
+  "name": "FTX6900",
+  "symbol": "FTX",
+  "decimals": 6,
+  "coin_type": "0xa643ee5d1ca9b50ee8c8258a3912c19b15ee4665b42793ac1ad43fe2937a3b48::ftx::FTX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qmf_Xkkg94ocv_XFZ_37g8621it_E_Qwvp_Fuuonx_Ne_Q1_Q_Jk_X_Exd_d9941f0fb3.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

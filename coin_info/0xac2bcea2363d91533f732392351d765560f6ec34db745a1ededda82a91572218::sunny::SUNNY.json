@@ -1,0 +1,13 @@
+{
+  "name": "SuiSun",
+  "symbol": "SUNNY",
+  "decimals": 6,
+  "coin_type": "0xac2bcea2363d91533f732392351d765560f6ec34db745a1ededda82a91572218::sunny::SUNNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Sinny_275b77b137.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

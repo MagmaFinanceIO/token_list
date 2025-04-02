@@ -1,0 +1,13 @@
+{
+  "name": "Goldius Maximus",
+  "symbol": "GOLDIUS",
+  "decimals": 9,
+  "coin_type": "0x2fa33724409e3274f100f5c15b57cd914d8aa0d0e08936ab99d0d57a013c4482::goldius::GOLDIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8cVWN1FSFY1zJPLHmjNVLa7Zc1BuFsvNJnJur5Qopump.png?size=lg&key=e63e0a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

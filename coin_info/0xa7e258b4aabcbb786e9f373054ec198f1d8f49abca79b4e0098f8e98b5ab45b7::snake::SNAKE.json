@@ -1,0 +1,13 @@
+{
+  "name": "Sui Snake",
+  "symbol": "SNAKE",
+  "decimals": 6,
+  "coin_type": "0xa7e258b4aabcbb786e9f373054ec198f1d8f49abca79b4e0098f8e98b5ab45b7::snake::SNAKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Mgi_D_Hn_YV_Sh_SH_Pt946_Crtw_1_bf91c73c20.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AI Doge",
+  "symbol": "AIDOGE",
+  "decimals": 9,
+  "coin_type": "0x5ebb698d4eaafcda61fac51e33bbbe1d6c9051555fba16d85fa947adfc06f407::aidoge::AIDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/QmXuLkCRQ4VtKFjsPBAbL4emKa6xW2k56cS78KdKGLLPXp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

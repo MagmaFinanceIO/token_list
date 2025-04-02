@@ -1,0 +1,13 @@
+{
+  "name": "Sea Monkey",
+  "symbol": "SEAMONKEY",
+  "decimals": 9,
+  "coin_type": "0x5e57d2165f1f1346eb417c64c34dd26db1ac73e7d5c480de7ccb6688899ec029::seamonkey::SEAMONKEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e5d3e241-2255-4beb-8eeb-9d8b84749934.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PDOGE on SUI",
+  "symbol": "PDOGESUI",
+  "decimals": 9,
+  "coin_type": "0x749cb3051d27f5c6fc369c45f4294e83dd40b17cd84ec7df96d2eb4414ed1853::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

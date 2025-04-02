@@ -1,0 +1,13 @@
+{
+  "name": "hispanic doge",
+  "symbol": "DONCHO",
+  "decimals": 9,
+  "coin_type": "0xcfc54c4c20209436692ab17b81834e6d4d9ba1d6c73a3fe79859150f18ce8cef::doncho::DONCHO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FJpuy1NFuAb4uqkBVYWzsc7gBC9iDj3QT5yaDSZdpump.png?size=lg&key=d719b1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

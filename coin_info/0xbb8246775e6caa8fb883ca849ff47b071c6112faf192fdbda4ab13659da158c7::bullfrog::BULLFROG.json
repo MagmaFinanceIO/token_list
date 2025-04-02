@@ -1,0 +1,13 @@
+{
+  "name": "Bullfrog 🐂 🐸",
+  "symbol": "BULLFROG",
+  "decimals": 9,
+  "coin_type": "0xbb8246775e6caa8fb883ca849ff47b071c6112faf192fdbda4ab13659da158c7::bullfrog::BULLFROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bc39d574-3c7d-47a0-9efb-f8dc605987b8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

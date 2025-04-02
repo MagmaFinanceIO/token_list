@@ -1,0 +1,13 @@
+{
+  "name": "HyperFi",
+  "symbol": "HF",
+  "decimals": 9,
+  "coin_type": "0x9f804b650425f58fff481a8578a4419fa66e3faf5071b56b402a2922a908caad::hf::HF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DO NOT BUY",
+  "symbol": "DNB",
+  "decimals": 1,
+  "coin_type": "0xe9474cfe17565a31a1c56dc76e8bf2cc4bb93023d5598ec99907e96b1943cc61::dnb::DNB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://public-cdn.daossui.io/assets/tokens/983458f0-dbd1-11ef-80e8-811f7f414973",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

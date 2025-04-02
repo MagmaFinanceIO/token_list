@@ -1,0 +1,13 @@
+{
+  "name": "POPGOAT ON SUI",
+  "symbol": "POPGOAT",
+  "decimals": 9,
+  "coin_type": "0xd899d3723ef7a0d3c408b3e787c58568916d1871d562939b62137623563affb5::popgoat::POPGOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c60327e2-1018-43a5-ac8d-91743425a26d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

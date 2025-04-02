@@ -1,0 +1,13 @@
+{
+  "name": "Jaya",
+  "symbol": "JAYA",
+  "decimals": 9,
+  "coin_type": "0x107e70b408ef6a4221b8d5e192e3e1b3005daa9845e4418bfb19efc14d1b5d90::jaya::JAYA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dribbble.com/userupload/16978073/file/original-5d35c03c4f41972ebe6c49b47044f4c8.png?resize=1024x768",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

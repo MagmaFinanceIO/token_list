@@ -1,0 +1,13 @@
+{
+  "name": "SuiSwarm",
+  "symbol": "SWARM",
+  "decimals": 6,
+  "coin_type": "0x73d772e4b0100beefd8b8080a5f7b1b4bcae89cc3dce439eddf366a52d30f7e7::swarm::SWARM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/DALLA_E_2025_01_04_18_40_50_A_bold_and_compact_futuristic_coin_logo_for_the_Swarm_token_designed_to_stand_out_even_at_smaller_sizes_Photoroom_b25ce8393b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

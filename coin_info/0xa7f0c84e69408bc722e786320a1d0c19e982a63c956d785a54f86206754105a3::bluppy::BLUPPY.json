@@ -1,0 +1,13 @@
+{
+  "name": "Bluppy",
+  "symbol": "BLUPPY",
+  "decimals": 6,
+  "coin_type": "0xa7f0c84e69408bc722e786320a1d0c19e982a63c956d785a54f86206754105a3::bluppy::BLUPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/tokenn_3c8607bdc8.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

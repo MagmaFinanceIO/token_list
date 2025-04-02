@@ -1,0 +1,13 @@
+{
+  "name": "Backpack",
+  "symbol": "BACKPACK",
+  "decimals": 6,
+  "coin_type": "0x74580ad21a9b8dbe00b428c760d6751ed59cb4f31757b521e2c0d98f025133e3::backpack::BACKPACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736395329384.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "KingPawCoin",
+  "symbol": "KPC",
+  "decimals": 9,
+  "coin_type": "0xa628c81ef0f0fa783059db3decb1db8ed89e1608357bdb340e79c8b27009dd62::kpc::KPC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f941236f-1924-4a56-9fb6-16b923223ade.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

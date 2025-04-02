@@ -1,0 +1,13 @@
+{
+  "name": "Neiro Grok",
+  "symbol": "NEIROg",
+  "decimals": 9,
+  "coin_type": "0x3cffabf00b63ad5f62db462c133f59ee3c4268fe8098023fe7fe4a1dd99983ca::neirog::NEIROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6a167a8b-3fab-4a66-a071-daaed6a2da41.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

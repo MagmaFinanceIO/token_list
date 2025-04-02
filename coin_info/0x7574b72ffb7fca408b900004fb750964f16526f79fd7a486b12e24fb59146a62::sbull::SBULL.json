@@ -1,0 +1,13 @@
+{
+  "name": "sui bull",
+  "symbol": "sBull",
+  "decimals": 9,
+  "coin_type": "0x7574b72ffb7fca408b900004fb750964f16526f79fd7a486b12e24fb59146a62::sbull::SBULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dfe8eff2-b3d2-4c41-93f2-df44fde0b583.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

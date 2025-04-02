@@ -1,0 +1,13 @@
+{
+  "name": "SpaceX Coin",
+  "symbol": "SPACEX",
+  "decimals": 9,
+  "coin_type": "0x83124d1564b35d4fc03c29964f0495b8e349ffcd071267ad4030c92067ac6832::spacex::SPACEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/91vYome49MiP8oSKuQBuyMvHkQEPFfi3xix8XGwXpump.png?size=lg&key=7d6773",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

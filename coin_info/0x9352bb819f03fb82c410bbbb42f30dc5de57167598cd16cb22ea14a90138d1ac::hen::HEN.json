@@ -1,0 +1,13 @@
+{
+  "name": "HEN",
+  "symbol": "HEN",
+  "decimals": 9,
+  "coin_type": "0x9352bb819f03fb82c410bbbb42f30dc5de57167598cd16cb22ea14a90138d1ac::hen::HEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e6171441-6517-48aa-9d90-5ecf299483a4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

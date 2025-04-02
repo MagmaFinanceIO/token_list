@@ -1,0 +1,13 @@
+{
+  "name": "Trust Protocol AI",
+  "symbol": "TRUSTAI",
+  "decimals": 9,
+  "coin_type": "0x002e29e8d068d797ab23f098c777d00c523c64cb5c214eb61343689a5a9db225::trustai::TRUSTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/u29pRsBVi7vPmCYsaYmtJEghPZFiWUK545QZh56pump.png?size=lg&key=016d6e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

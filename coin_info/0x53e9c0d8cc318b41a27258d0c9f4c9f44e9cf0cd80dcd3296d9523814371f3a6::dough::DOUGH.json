@@ -1,0 +1,13 @@
+{
+  "name": "Dough",
+  "symbol": "Dough",
+  "decimals": 9,
+  "coin_type": "0x53e9c0d8cc318b41a27258d0c9f4c9f44e9cf0cd80dcd3296d9523814371f3a6::dough::DOUGH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/pZZxpoB.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

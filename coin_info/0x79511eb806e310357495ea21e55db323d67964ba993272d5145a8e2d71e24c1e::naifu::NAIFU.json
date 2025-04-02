@@ -1,0 +1,13 @@
+{
+  "name": "Naifu",
+  "symbol": "NAIFU",
+  "decimals": 9,
+  "coin_type": "0x79511eb806e310357495ea21e55db323d67964ba993272d5145a8e2d71e24c1e::naifu::NAIFU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x62fe1724116e37e22949ae1f8e6f560c9a188dc6.png?size=lg&key=a7da2b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

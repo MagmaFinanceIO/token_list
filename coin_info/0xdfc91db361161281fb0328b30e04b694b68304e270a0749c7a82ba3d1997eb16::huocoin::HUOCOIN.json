@@ -1,0 +1,13 @@
+{
+  "name": "Huo Doge",
+  "symbol": "HUO",
+  "decimals": 6,
+  "coin_type": "0xdfc91db361161281fb0328b30e04b694b68304e270a0749c7a82ba3d1997eb16::huocoin::HUOCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/ZTznQg6/SWI.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suidae",
+  "symbol": "SUIDAE",
+  "decimals": 9,
+  "coin_type": "0x435278718fbf16ada338d80ca47170dae74dab4719feb112d87f588fd1fce07f::suidae::SUIDAE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6e4fde07-def8-4786-91b4-f79598359bc9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

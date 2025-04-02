@@ -1,0 +1,13 @@
+{
+  "name": "RAN is RAN Future",
+  "symbol": "RAN",
+  "decimals": 6,
+  "coin_type": "0xd601edf8c60281f304ab9ee6e72e735049b9d3a2fb35551621842c85d6c7e57a::ran::RAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://blovedapp.com/assets/images/logo-bg-opacity.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

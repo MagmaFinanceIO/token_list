@@ -1,0 +1,13 @@
+{
+  "name": "Jugo",
+  "symbol": "JUGO",
+  "decimals": 6,
+  "coin_type": "0x4b39a93c6f46a876d86f5e967fc8f680fade10293f970aea998fe13946d39bb6::jugo::JUGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qmf1J2N3PkmFogopZZK8UYiTw5TFUd4uzrpcKSmRgnFMrQ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

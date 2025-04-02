@@ -1,0 +1,13 @@
+{
+  "name": "Sui PYP",
+  "symbol": "SPYP",
+  "decimals": 6,
+  "coin_type": "0x7a4040540deaf6d7057d4b8697c7fed29cdf25a03eabb05d8c5cbbf17f48f0f6::spyp::SPYP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qmbmv_W_Dyi_HL_4_L_Bn_Fm8c_F_Eajn3dy_An_Sx_Wwod_Dhf_KG_Gz_Tn6_P_dbe20cca2d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

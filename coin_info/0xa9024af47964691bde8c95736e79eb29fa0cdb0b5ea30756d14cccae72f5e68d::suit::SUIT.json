@@ -1,0 +1,13 @@
+{
+  "name": "Suit",
+  "symbol": "Suit",
+  "decimals": 9,
+  "coin_type": "0xa9024af47964691bde8c95736e79eb29fa0cdb0b5ea30756d14cccae72f5e68d::suit::SUIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/771055b1-ea6a-484f-9e6a-6b813bb89030.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

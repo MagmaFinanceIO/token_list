@@ -1,0 +1,13 @@
+{
+  "name": "Bison",
+  "symbol": "BISON",
+  "decimals": 6,
+  "coin_type": "0xc8d3693254a8052b41daeba87070ff1ce7b9b90579b60e3b18e477ad2d1f4811::bison::BISON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000009752_be9fe96ddf.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

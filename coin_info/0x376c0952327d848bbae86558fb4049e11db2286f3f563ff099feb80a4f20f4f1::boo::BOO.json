@@ -1,0 +1,13 @@
+{
+  "name": "Boohbah",
+  "symbol": "BOO",
+  "decimals": 9,
+  "coin_type": "0x376c0952327d848bbae86558fb4049e11db2286f3f563ff099feb80a4f20f4f1::boo::BOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a0b3d23e-5526-43ec-8430-bf12ad0f1a2c/dfr9vph-ce234ddf-813a-42e0-9374-4bcb3005f8e8.png/v1/fill/w_720,h_540,strp/zumbah__boohbah__by_utf1998_dfr9vph-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTQwIiwicGF0aCI6IlwvZlwvYTBiM2QyM2UtNTUyNi00M2VjLTg0MzAtYmYxMmFkMGYxYTJjXC9kZnI5dnBoLWNlMjM0ZGRmLTgxM2EtNDJlMC05Mzc0LTRiY2IzMDA1ZjhlOC5wbmciLCJ3aWR0aCI6Ijw9NzIwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.M_BueOSfSMtCD0yKsuBifDyc3TaTUXZp5azT5EP-_L4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIcide",
+  "symbol": "SUICIDE",
+  "decimals": 6,
+  "coin_type": "0x2ae38c993503c4ae1ee497fcbce514d64f3a32f3ff557ec31e380c3d9aaee1ae::suicide::SUICIDE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_09_09_13_31_41_e1332f6ded.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

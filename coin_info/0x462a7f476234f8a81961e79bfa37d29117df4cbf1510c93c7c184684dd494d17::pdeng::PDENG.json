@@ -1,0 +1,13 @@
+{
+  "name": "Pixel Moo Deng",
+  "symbol": "PDeng",
+  "decimals": 9,
+  "coin_type": "0x462a7f476234f8a81961e79bfa37d29117df4cbf1510c93c7c184684dd494d17::pdeng::PDENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/88ff508c-a4b2-4c88-8c84-f5abbfe4f82c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

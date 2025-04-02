@@ -1,0 +1,13 @@
+{
+  "name": "Panther Lily",
+  "symbol": "LILY",
+  "decimals": 9,
+  "coin_type": "0xa70876d0e3a5a68c9ccda44299c65142e9d777ca4f1433836bb60b70a80a4059::lily::LILY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d59ab5d9-6d9f-4fe2-a4d4-4f1e64de2e0b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

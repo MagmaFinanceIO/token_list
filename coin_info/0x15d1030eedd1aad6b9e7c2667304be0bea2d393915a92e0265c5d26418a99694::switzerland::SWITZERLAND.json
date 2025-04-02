@@ -1,0 +1,13 @@
+{
+  "name": "Switzerland",
+  "symbol": "Switzerland",
+  "decimals": 2,
+  "coin_type": "0x15d1030eedd1aad6b9e7c2667304be0bea2d393915a92e0265c5d26418a99694::switzerland::SWITZERLAND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c46bd6c3-ce18-481d-b138-ed17aeab7041.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

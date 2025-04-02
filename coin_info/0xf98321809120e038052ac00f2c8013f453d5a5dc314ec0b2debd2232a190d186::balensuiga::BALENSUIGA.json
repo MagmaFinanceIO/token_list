@@ -1,0 +1,13 @@
+{
+  "name": "Balenciaga on Sui",
+  "symbol": "Balensuiga",
+  "decimals": 6,
+  "coin_type": "0xf98321809120e038052ac00f2c8013f453d5a5dc314ec0b2debd2232a190d186::balensuiga::BALENSUIGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/RTTBTB_01c29b96eb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

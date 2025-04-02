@@ -1,0 +1,13 @@
+{
+  "name": "J.d Vance",
+  "symbol": "VANCE",
+  "decimals": 9,
+  "coin_type": "0x88530e36f9655e3895c59b8f85d6c78adf113a338a7b12865de54c4355a0321d::vance::VANCE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/758c6ce6-4fa7-46e6-9d08-5ba8482052e1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

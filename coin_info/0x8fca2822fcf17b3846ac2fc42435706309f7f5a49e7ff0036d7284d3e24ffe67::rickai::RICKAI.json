@@ -1,0 +1,13 @@
+{
+  "name": "Rick AI",
+  "symbol": "RICKAI",
+  "decimals": 9,
+  "coin_type": "0x8fca2822fcf17b3846ac2fc42435706309f7f5a49e7ff0036d7284d3e24ffe67::rickai::RICKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9mrzQxyXyuRLErG7NFCB36bo7Nrp14afAMFxWk3Apump.png?size=lg&key=ace61a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

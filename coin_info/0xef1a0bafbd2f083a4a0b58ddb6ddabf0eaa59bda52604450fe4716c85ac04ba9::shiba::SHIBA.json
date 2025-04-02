@@ -1,0 +1,13 @@
+{
+  "name": "SHIN",
+  "symbol": "SHIBA",
+  "decimals": 6,
+  "coin_type": "0xef1a0bafbd2f083a4a0b58ddb6ddabf0eaa59bda52604450fe4716c85ac04ba9::shiba::SHIBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pub-efea87dea3f94e8084e073588c980c50.r2.dev/logo/01JB6GV0A2AGAFB6JPVDCVHSKD/01JBB923Z3FAW24DCAV2KFRRGT",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

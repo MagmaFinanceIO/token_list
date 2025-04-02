@@ -1,0 +1,13 @@
+{
+  "name": "Melania Meme",
+  "symbol": "Melaniameme",
+  "decimals": 6,
+  "coin_type": "0xde8f8fec44151cadb4c315937562483c56f5c361316db293a3e6417f6516922e::melaniameme::MELANIAMEME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7826_6209afdddd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

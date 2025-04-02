@@ -1,0 +1,13 @@
+{
+  "name": "DebtJar",
+  "symbol": "DTB",
+  "decimals": 9,
+  "coin_type": "0x1e0a4e9ebed8ebab6eae674ae0e5213feaa030940cb6308ac5a699ddb9ebb4ef::dtb::DTB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/49b61e50-6107-4a8e-943e-234b5b5ae7ba.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "UR6S",
+  "symbol": "UR6S",
+  "decimals": 9,
+  "coin_type": "0x7e11b024ac3698548226df1f626e8b210d46b605197e9f3e97b1a19ca41b4707::ur6s::UR6S",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CB48KiK1oi1tWtjmPWxVR2NPeEr9ewzmZQ8ERk79Ue4b.png?size=lg&key=e3d4b7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

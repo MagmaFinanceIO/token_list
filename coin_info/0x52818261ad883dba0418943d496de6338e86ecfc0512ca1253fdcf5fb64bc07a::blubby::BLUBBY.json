@@ -1,0 +1,13 @@
+{
+  "name": "Blubby",
+  "symbol": "BLUBBY",
+  "decimals": 6,
+  "coin_type": "0x52818261ad883dba0418943d496de6338e86ecfc0512ca1253fdcf5fb64bc07a::blubby::BLUBBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/resized_sadas_512x512_ca83ab0453.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Bregasi",
+  "symbol": "BGSI",
+  "decimals": 9,
+  "coin_type": "0xf549c372f1bc94070ed5ea16752e40e50508ca8ef6f9d4c57bf5bf2d2ace1431::bgsi::BGSI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/43dcf30e-dc5f-4570-8f5f-ce79af927bb9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

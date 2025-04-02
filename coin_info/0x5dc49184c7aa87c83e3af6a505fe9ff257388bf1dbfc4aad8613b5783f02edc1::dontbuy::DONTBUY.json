@@ -1,0 +1,13 @@
+{
+  "name": "DONTBUY",
+  "symbol": "DONTBUYTEST",
+  "decimals": 6,
+  "coin_type": "0x5dc49184c7aa87c83e3af6a505fe9ff257388bf1dbfc4aad8613b5783f02edc1::dontbuy::DONTBUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

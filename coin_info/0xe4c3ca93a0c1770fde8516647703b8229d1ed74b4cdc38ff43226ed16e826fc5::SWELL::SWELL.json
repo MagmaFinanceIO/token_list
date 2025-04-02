@@ -1,0 +1,13 @@
+{
+  "name": "Swell Governance Token",
+  "symbol": "SWELL",
+  "decimals": 9,
+  "coin_type": "0xe4c3ca93a0c1770fde8516647703b8229d1ed74b4cdc38ff43226ed16e826fc5::SWELL::SWELL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://etherscan.io/token/images/swellnetwork_32.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

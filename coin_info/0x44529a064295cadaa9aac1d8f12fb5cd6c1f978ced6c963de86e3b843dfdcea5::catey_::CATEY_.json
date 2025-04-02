@@ -1,0 +1,13 @@
+{
+  "name": "Catey",
+  "symbol": "Catey",
+  "decimals": 9,
+  "coin_type": "0x44529a064295cadaa9aac1d8f12fb5cd6c1f978ced6c963de86e3b843dfdcea5::catey_::CATEY_",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9061ff34-2e59-42f2-a3e0-eb1406b2df46.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

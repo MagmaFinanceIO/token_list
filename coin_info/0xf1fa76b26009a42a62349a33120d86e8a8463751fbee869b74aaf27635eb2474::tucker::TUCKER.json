@@ -1,0 +1,13 @@
+{
+  "name": "Tucker",
+  "symbol": "TUCKER",
+  "decimals": 9,
+  "coin_type": "0xf1fa76b26009a42a62349a33120d86e8a8463751fbee869b74aaf27635eb2474::tucker::TUCKER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2i4yVrkAH66ZekohRra989GoAaDWujVNUaiQFzDZpump.png?size=xl&key=25ef54",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

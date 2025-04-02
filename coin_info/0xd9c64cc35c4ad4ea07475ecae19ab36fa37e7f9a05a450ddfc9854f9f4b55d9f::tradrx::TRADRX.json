@@ -1,0 +1,13 @@
+{
+  "name": "TRADR X",
+  "symbol": "TRADRX",
+  "decimals": 9,
+  "coin_type": "0xd9c64cc35c4ad4ea07475ecae19ab36fa37e7f9a05a450ddfc9854f9f4b55d9f::tradrx::TRADRX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HUiCzNdKC5cQSf8oPMoeP3ZFPdtVygTTjPBtTj6bpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suijin by SuiAI",
+  "symbol": "SUIJIN",
+  "decimals": 6,
+  "coin_type": "0x5abbbb3aafb2c069dc35088e29458a3fa89113a87e97ab0bf2e632315bedd541::suijin::SUIJIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/concept_2_3ee36ce6b6.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

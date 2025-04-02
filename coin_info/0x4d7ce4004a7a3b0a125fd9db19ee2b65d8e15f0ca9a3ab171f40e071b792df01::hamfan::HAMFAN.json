@@ -1,0 +1,13 @@
+{
+  "name": "Lewis Hamilton Fan Token",
+  "symbol": "HAMFAN",
+  "decimals": 9,
+  "coin_type": "0x4d7ce4004a7a3b0a125fd9db19ee2b65d8e15f0ca9a3ab171f40e071b792df01::hamfan::HAMFAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8a397ef5-78c7-4b85-abef-f4ab5e3fe0da.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

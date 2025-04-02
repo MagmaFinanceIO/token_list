@@ -1,0 +1,13 @@
+{
+  "name": "Macropus",
+  "symbol": "Macro",
+  "decimals": 9,
+  "coin_type": "0x5572a7e7f37c04ce47519b06cb363ab0516344ba93c3140fb7c4aed251e3e7ca::macro::MACRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0e2a1071-83a1-40b0-b429-3e5c1f229885.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

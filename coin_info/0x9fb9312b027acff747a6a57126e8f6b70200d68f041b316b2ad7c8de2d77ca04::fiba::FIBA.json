@@ -1,0 +1,13 @@
+{
+  "name": "Fibonacci Alfredo",
+  "symbol": "FIBA",
+  "decimals": 9,
+  "coin_type": "0x9fb9312b027acff747a6a57126e8f6b70200d68f041b316b2ad7c8de2d77ca04::fiba::FIBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b50631b6-4158-4b68-8be3-58722371a6fe.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

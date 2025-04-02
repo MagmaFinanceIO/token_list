@@ -1,0 +1,15 @@
+{
+  "name": "USD Coin (Portal from BSC)",
+  "symbol": "USDCbnb",
+  "decimals": 8,
+  "coin_type": "0x909cba62ce96d54de25bec9502de5ca7b4f28901747bbf96b76c2e63ec5f1cba::coin::COIN",
+  "pyth_id": "eaa020c61cc479712813461ce153894a96a6c00b21ed0cfc2798d1f9a9e9c94a",
+  "birdeyeid": "0x909cba62ce96d54de25bec9502de5ca7b4f28901747bbf96b76c2e63ec5f1cba::coin::COIN",
+  "coin_priority": [
+    "860"
+  ],
+  "logo_url": "https://co3xbx3vz2ww7tcs2tp4p36hdnkz677tuvqt6wgyfyoeefj6or6a.arweave.net/E7dw33XOrW_MUtTfx-_HG1Wff_OlYT9Y2C4cQhU-dHw",
+  "project_url": "",
+  "coingecko_id": "usd-coin-wormhole-bnb",
+  "is_trusted": true
+}

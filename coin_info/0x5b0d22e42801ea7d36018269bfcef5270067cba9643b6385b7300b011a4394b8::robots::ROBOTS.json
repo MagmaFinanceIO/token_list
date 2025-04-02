@@ -1,0 +1,13 @@
+{
+  "name": "Robots",
+  "symbol": "ROBOTS",
+  "decimals": 6,
+  "coin_type": "0x5b0d22e42801ea7d36018269bfcef5270067cba9643b6385b7300b011a4394b8::robots::ROBOTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b7cdd95a-54c6-42bb-b370-b1a9eaa91a12.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

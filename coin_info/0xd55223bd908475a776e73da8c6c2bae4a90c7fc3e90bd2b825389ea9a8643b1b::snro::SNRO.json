@@ -1,0 +1,13 @@
+{
+  "name": "SUINEIRO",
+  "symbol": "SNRO",
+  "decimals": 6,
+  "coin_type": "0xd55223bd908475a776e73da8c6c2bae4a90c7fc3e90bd2b825389ea9a8643b1b::snro::SNRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SUINEIRO_2b00f2c071.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

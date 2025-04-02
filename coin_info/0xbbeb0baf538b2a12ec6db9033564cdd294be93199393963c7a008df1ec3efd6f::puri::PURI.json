@@ -1,0 +1,13 @@
+{
+  "name": "Puri Sui",
+  "symbol": "PURI",
+  "decimals": 6,
+  "coin_type": "0xbbeb0baf538b2a12ec6db9033564cdd294be93199393963c7a008df1ec3efd6f::puri::PURI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/combined_image_a7b6306078.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

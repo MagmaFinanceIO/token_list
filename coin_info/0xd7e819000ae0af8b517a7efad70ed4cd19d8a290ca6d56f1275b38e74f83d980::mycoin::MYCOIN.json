@@ -1,0 +1,13 @@
+{
+  "name": "GNUTS",
+  "symbol": "GNUTS",
+  "decimals": 9,
+  "coin_type": "0xd7e819000ae0af8b517a7efad70ed4cd19d8a290ca6d56f1275b38e74f83d980::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

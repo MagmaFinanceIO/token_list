@@ -1,0 +1,13 @@
+{
+  "name": "grAIscale",
+  "symbol": "GRAI",
+  "decimals": 9,
+  "coin_type": "0xae7cff2fa58a6dd2d1a13ff9ec6a1aba63e62cafab78f13451b4f990a7614028::grai::GRAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://public-cdn.daossui.io/assets/tokens/c8198050-da09-11ef-80e8-811f7f414973",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Baby PEPE",
+  "symbol": "BPEPE",
+  "decimals": 6,
+  "coin_type": "0x9969a515801c6605ae1fb4dd0c3b43a280d6de1a6526d13a7fedd23ec622e79f::bpepe::BPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/z5824524037557_be6f4c47e6aedc584a8f250d0d519478_8c204ffe21.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

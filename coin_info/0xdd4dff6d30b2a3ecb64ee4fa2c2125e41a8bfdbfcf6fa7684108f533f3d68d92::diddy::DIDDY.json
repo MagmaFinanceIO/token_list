@@ -1,0 +1,13 @@
+{
+  "name": "DIDDY",
+  "symbol": "DIDDY",
+  "decimals": 9,
+  "coin_type": "0xdd4dff6d30b2a3ecb64ee4fa2c2125e41a8bfdbfcf6fa7684108f533f3d68d92::diddy::DIDDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5QQRKwnJsoy5MHbYvUe1zgtNUGhesQ5SErQvnAZgpump.png?size=lg&key=cb55de",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

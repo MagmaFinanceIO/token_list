@@ -1,0 +1,13 @@
+{
+  "name": "SWAG",
+  "symbol": "swag",
+  "decimals": 9,
+  "coin_type": "0x0f3fe24cf1b64545898b591d39968b0fc48d5a2aae3f1212764679657a9f9417::swag::SWAG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "example.com",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

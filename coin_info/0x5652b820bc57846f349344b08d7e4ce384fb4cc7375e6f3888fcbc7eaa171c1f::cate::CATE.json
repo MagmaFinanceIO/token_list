@@ -1,0 +1,13 @@
+{
+  "name": "Sui Cate",
+  "symbol": "CATE",
+  "decimals": 9,
+  "coin_type": "0x5652b820bc57846f349344b08d7e4ce384fb4cc7375e6f3888fcbc7eaa171c1f::cate::CATE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/be4739d3-c2bc-4503-9392-1e3681cd8bda.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AlphaTrump On Sui",
+  "symbol": "ALPHATRUMP",
+  "decimals": 6,
+  "coin_type": "0xe0d4ba91909f15785ae0f0a6596609d48c49e8422d136bf530006a6e8eafb85f::alphatrump::ALPHATRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000155178_946d937acb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

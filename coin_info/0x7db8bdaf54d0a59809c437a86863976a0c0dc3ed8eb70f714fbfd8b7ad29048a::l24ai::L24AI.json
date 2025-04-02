@@ -1,0 +1,13 @@
+{
+  "name": "L24AI AGENT",
+  "symbol": "L24AI",
+  "decimals": 9,
+  "coin_type": "0x7db8bdaf54d0a59809c437a86863976a0c0dc3ed8eb70f714fbfd8b7ad29048a::l24ai::L24AI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CMDKx3TGVJryRDQ2MnAkTRNSyguQLrKgiCPZ3Jc6r8r2.png?size=lg&key=2f096a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

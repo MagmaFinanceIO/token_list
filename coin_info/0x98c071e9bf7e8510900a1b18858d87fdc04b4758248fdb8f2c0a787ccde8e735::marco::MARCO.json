@@ -1,0 +1,13 @@
+{
+  "name": "Maritime Coin",
+  "symbol": "MarCo",
+  "decimals": 9,
+  "coin_type": "0x98c071e9bf7e8510900a1b18858d87fdc04b4758248fdb8f2c0a787ccde8e735::marco::MARCO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9aaaee89-4a96-4b20-803d-fd07ad1f1db7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

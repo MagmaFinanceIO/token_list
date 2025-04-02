@@ -1,0 +1,13 @@
+{
+  "name": "Tuna Wif Hat",
+  "symbol": "TunaWifHat",
+  "decimals": 9,
+  "coin_type": "0x05c9080bb6c728c0dabb409bae71879b3b0d41af5ec1f161fe6cf71b6f7888f5::tunawifhat::TUNAWIFHAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/808d405e-7a6f-4377-b5e6-73cf17e43cb1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

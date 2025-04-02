@@ -1,0 +1,13 @@
+{
+  "name": "Blues Clues",
+  "symbol": "BLUE",
+  "decimals": 9,
+  "coin_type": "0x8b285416c9aa37f0e2d46b48f728ab3287d3dc7ada4a1f548485b0d3ed55f664::blue::BLUE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x1ae42735d62a41a9f6fe180edc4aef578df99b0f.png?size=xl&key=b08176",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

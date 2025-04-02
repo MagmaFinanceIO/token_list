@@ -1,0 +1,13 @@
+{
+  "name": "Sui Frosty",
+  "symbol": "FROSTY",
+  "decimals": 9,
+  "coin_type": "0xf02933923bd07997f79fe28053c63629a04c977251244c0003f0cd20e990e6e5::frosty::FROSTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/333e3f48-37bb-45c6-895c-a9baaabc40da.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

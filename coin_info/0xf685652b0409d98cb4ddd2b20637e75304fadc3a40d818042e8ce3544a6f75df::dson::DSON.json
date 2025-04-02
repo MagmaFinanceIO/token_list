@@ -1,0 +1,13 @@
+{
+  "name": "Dimpson",
+  "symbol": "DSON",
+  "decimals": 6,
+  "coin_type": "0xf685652b0409d98cb4ddd2b20637e75304fadc3a40d818042e8ce3544a6f75df::dson::DSON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731010905551.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

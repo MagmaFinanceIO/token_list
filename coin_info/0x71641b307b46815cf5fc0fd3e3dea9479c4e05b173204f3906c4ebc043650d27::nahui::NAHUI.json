@@ -1,0 +1,13 @@
+{
+  "name": "ИДИ НАХУЙ",
+  "symbol": "NAHUI",
+  "decimals": 9,
+  "coin_type": "0x71641b307b46815cf5fc0fd3e3dea9479c4e05b173204f3906c4ebc043650d27::nahui::NAHUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f1/d4/97/f1d4974a-86a7-3b15-00c5-4419ceff3319/4039967255105_cover.jpg/1200x1200bb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

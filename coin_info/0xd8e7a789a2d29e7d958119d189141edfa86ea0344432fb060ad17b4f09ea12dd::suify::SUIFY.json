@@ -1,0 +1,13 @@
+{
+  "name": "Suify Cat",
+  "symbol": "SUIFY",
+  "decimals": 9,
+  "coin_type": "0xd8e7a789a2d29e7d958119d189141edfa86ea0344432fb060ad17b4f09ea12dd::suify::SUIFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/91a9d559-cfb3-4796-acdb-5e6b0aba60d4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

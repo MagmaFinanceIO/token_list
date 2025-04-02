@@ -1,0 +1,13 @@
+{
+  "name": "Golden Ape",
+  "symbol": "GAPE",
+  "decimals": 9,
+  "coin_type": "0xf0266ceb356c4ac5bbda41a709b47037e5fd122e366f8f0054dcba7c89fc8f62::gape::GAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HREdVBmGvUvdgvoGeHwYpEQNJRb1oqmScwV5z1dHpump.png?size=lg&key=bacd64",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

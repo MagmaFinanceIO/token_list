@@ -1,0 +1,13 @@
+{
+  "name": "QUANT",
+  "symbol": "QUANT",
+  "decimals": 9,
+  "coin_type": "0x73410df4a4bb1a585ed2d376d1234fabab107236a974a7c7d648f0bd5021aa7b::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

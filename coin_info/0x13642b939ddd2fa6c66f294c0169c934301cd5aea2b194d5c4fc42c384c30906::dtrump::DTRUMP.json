@@ -1,0 +1,13 @@
+{
+  "name": "DogTrump",
+  "symbol": "DTRUMP",
+  "decimals": 6,
+  "coin_type": "0x13642b939ddd2fa6c66f294c0169c934301cd5aea2b194d5c4fc42c384c30906::dtrump::DTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736890188048.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

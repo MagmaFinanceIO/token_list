@@ -1,0 +1,13 @@
+{
+  "name": "jelly-fun-jelly",
+  "symbol": "JELLYFUN",
+  "decimals": 9,
+  "coin_type": "0x971c55a4a69d80e2635bf917669f820b1e4d4a0c509a226e35613c5900b9e632::jellyfun::JELLYFUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/14Hy9yNGEmGDt7EXCXizWNkjAsJERrs4b3YXBr5eQtd7.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

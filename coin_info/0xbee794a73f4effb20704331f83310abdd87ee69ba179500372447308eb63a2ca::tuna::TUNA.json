@@ -1,0 +1,13 @@
+{
+  "name": "TUNA x Dog",
+  "symbol": "Tuna",
+  "decimals": 6,
+  "coin_type": "0xbee794a73f4effb20704331f83310abdd87ee69ba179500372447308eb63a2ca::tuna::TUNA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/G_Zuj_Qs6_Xs_AI_6_Uu_T_3b0bd4451f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HOPFROG",
+  "symbol": "HOPFROG",
+  "decimals": 9,
+  "coin_type": "0xe8690a5fcd0b5a4da71f75c3bfbf09117cb1a105cb15cddebbe3e31b80375110::hopfrog::HOPFROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c526690d-e2f5-426c-95b9-24ec5bed78ce.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SQUEST",
+  "symbol": "SQUEST",
+  "decimals": 9,
+  "coin_type": "0x52b47efc39e8485a1fed4c463310c47fe73399f847fc01ae49f40ee04408510a::squest::SQUEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/12ba07e2-e8d4-4ba0-9c1d-4d45f67155d1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MOD AI ON SUI",
+  "symbol": "MOD",
+  "decimals": 9,
+  "coin_type": "0x739f41d7981e5c4a533ca27dd0e618c4974339c64833e93a0ffd36475c6a1177::mod::MOD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/vwbWf8cgHk9tq8LVy1Y7wwwosmbVzRaZ8XrNCNVpump.png?size=lg&key=3599d2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

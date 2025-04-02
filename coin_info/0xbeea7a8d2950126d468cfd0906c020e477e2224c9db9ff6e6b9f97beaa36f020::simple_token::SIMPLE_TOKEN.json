@@ -1,0 +1,13 @@
+{
+  "name": "BTC16",
+  "symbol": "BTC16",
+  "decimals": 9,
+  "coin_type": "0xbeea7a8d2950126d468cfd0906c020e477e2224c9db9ff6e6b9f97beaa36f020::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

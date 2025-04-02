@@ -1,0 +1,13 @@
+{
+  "name": "Thug Nug",
+  "symbol": "NUG",
+  "decimals": 9,
+  "coin_type": "0x0bcae4e7f138f63dff4300b564041426de19a8da4355474f604df58b0ab037a5::nug::NUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/72f39a15-c974-454b-93d0-dc72c50b7afa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

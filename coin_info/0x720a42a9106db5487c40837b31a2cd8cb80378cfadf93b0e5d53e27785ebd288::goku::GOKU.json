@@ -1,0 +1,13 @@
+{
+  "name": "Goku MEME SUI",
+  "symbol": "GOKU",
+  "decimals": 6,
+  "coin_type": "0x720a42a9106db5487c40837b31a2cd8cb80378cfadf93b0e5d53e27785ebd288::goku::GOKU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmQnWduoSCLa5a93HhXinhweXi7pDbn3dKSx1P3AZpXzkG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "moodeng Coin",
+  "symbol": "moodeng",
+  "decimals": 6,
+  "coin_type": "0xfcf8532eb48fae0d671f4d1858a676646c1ff735e8f5118d38a315312334673e::moodeng::MOODENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://moodengsui.com/images/logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

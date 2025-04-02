@@ -1,0 +1,13 @@
+{
+  "name": "Trump Agent 47",
+  "symbol": "TrumA47",
+  "decimals": 6,
+  "coin_type": "0x1a91c9480ed78216266a2664e1c263ec3fca299c7c1acef9b2f2e672cdecfcea::truma47::TRUMA47",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6204_2f77539317.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

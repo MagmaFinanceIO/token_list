@@ -1,0 +1,13 @@
+{
+  "name": "FOMO",
+  "symbol": "FOMO",
+  "decimals": 2,
+  "coin_type": "0xa340e3db1332c21f20f5c08bef0fa459e733575f9a7e2f5faca64f72cd5a54f2::fomo::FOMO",
+  "pyth_id": "",
+  "birdeyeid": "0xa340e3db1332c21f20f5c08bef0fa459e733575f9a7e2f5faca64f72cd5a54f2::fomo::FOMO",
+  "coin_priority": [],
+  "logo_url": "https://7ms6dw2zbrlaaeadpyyz7cy5pwdlz64atqh6gdkpuws3uxpesxeq.arweave.net/-yXh21kMVgAQA34xn4sdfYa8-4CcD-MNT6Wlul3klck",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

@@ -1,0 +1,13 @@
+{
+  "name": "January",
+  "symbol": "Replig",
+  "decimals": 9,
+  "coin_type": "0xb7de227d543d1a95e58993a8a3f284a984233ae1ec9df700fc9fe28184ff13cd::replig::REPLIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BvzBshSt5MAihjrZ1tAWGkXQKM8P34xxCgnoc7Fdpump.png?size=lg&key=95d50d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

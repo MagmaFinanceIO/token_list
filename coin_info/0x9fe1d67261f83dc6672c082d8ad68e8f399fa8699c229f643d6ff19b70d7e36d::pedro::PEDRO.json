@@ -1,0 +1,13 @@
+{
+  "name": "Pedro Raccoon",
+  "symbol": "PEDRO",
+  "decimals": 9,
+  "coin_type": "0x9fe1d67261f83dc6672c082d8ad68e8f399fa8699c229f643d6ff19b70d7e36d::pedro::PEDRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0fc344c6-ee3e-41d1-b2ab-4012227a9d54.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Frogger the FROG",
+  "symbol": "FROG",
+  "decimals": 6,
+  "coin_type": "0xd4ca972d2b8e1df1067ad2846cc8814d96c04fadf836d985c935f8e177f3fcf0::frog::FROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmeqJeebVwbaen94yQy5cKp66w5a2XD8bRYHt99psyqf3E",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

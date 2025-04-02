@@ -1,0 +1,13 @@
+{
+  "name": "Safe Mars on SUI",
+  "symbol": "SAFEMARS",
+  "decimals": 9,
+  "coin_type": "0x04cbc66c7e91c5ec8f5e9a772ca7ad39c44379bb8be0e6dbb2f13df9c12b5f66::safemars::SAFEMARS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/60b4f53a-7ac5-4c77-890e-f5204427ae10.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

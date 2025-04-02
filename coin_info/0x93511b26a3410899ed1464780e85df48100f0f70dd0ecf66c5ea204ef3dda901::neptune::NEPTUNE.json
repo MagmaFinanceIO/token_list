@@ -1,0 +1,13 @@
+{
+  "name": "Sui Neptune",
+  "symbol": "NEPTUNE",
+  "decimals": 6,
+  "coin_type": "0x93511b26a3410899ed1464780e85df48100f0f70dd0ecf66c5ea204ef3dda901::neptune::NEPTUNE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/zodiac000z_rpg_item_icon_of_a_blue_neptune_planetsmiling_happy_3e27e495_ab65_44b3_a0fa_85d91c36e1f7_1_649295ebff.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

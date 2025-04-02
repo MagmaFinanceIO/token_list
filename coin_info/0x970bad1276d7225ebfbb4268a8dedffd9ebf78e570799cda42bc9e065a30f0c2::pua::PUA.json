@@ -1,0 +1,13 @@
+{
+  "name": "Pua The Pig",
+  "symbol": "PUA",
+  "decimals": 6,
+  "coin_type": "0x970bad1276d7225ebfbb4268a8dedffd9ebf78e570799cda42bc9e065a30f0c2::pua::PUA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000015081_142eedf68c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

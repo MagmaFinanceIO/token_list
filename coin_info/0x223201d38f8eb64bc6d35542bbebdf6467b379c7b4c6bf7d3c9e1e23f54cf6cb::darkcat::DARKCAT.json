@@ -1,0 +1,13 @@
+{
+  "name": "DarkCAT",
+  "symbol": "DarkCAT",
+  "decimals": 9,
+  "coin_type": "0x223201d38f8eb64bc6d35542bbebdf6467b379c7b4c6bf7d3c9e1e23f54cf6cb::darkcat::DARKCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4bbf2778-c8a3-425c-ab5b-2e07eefba0f5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

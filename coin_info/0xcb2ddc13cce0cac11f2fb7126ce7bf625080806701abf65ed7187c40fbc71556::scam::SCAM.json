@@ -1,0 +1,13 @@
+{
+  "name": "Silver Cat Among Mouse",
+  "symbol": "SCAM",
+  "decimals": 9,
+  "coin_type": "0xcb2ddc13cce0cac11f2fb7126ce7bf625080806701abf65ed7187c40fbc71556::scam::SCAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5a1322a5-3d07-4d67-a56f-7ef8ebbc008f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

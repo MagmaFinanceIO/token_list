@@ -1,0 +1,13 @@
+{
+  "name": "Sendwave",
+  "symbol": "SENDWAVE",
+  "decimals": 9,
+  "coin_type": "0x0cfb92fb224aafb96c61f99d82a86eff2694fed5c54a67e9e247700914c03e95::sendwave::SENDWAVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/cjbrsaGTSQNHAyP2X9HNjEAcmaRGsT73mUhg8ynpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

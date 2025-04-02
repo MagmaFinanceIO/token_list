@@ -1,0 +1,13 @@
+{
+  "name": "SuiFaring World",
+  "symbol": "SEA",
+  "decimals": 6,
+  "coin_type": "0x12353abe806f20435e5c6a50c10aecfbdb59be309afa18a973ade0224811d22c::sea::SEA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/11jpg_58985c1593.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

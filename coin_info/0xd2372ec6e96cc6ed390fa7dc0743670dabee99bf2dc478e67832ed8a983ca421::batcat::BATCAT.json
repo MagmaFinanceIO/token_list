@@ -1,0 +1,13 @@
+{
+  "name": "BATCAT AI",
+  "symbol": "BATCAT",
+  "decimals": 6,
+  "coin_type": "0xd2372ec6e96cc6ed390fa7dc0743670dabee99bf2dc478e67832ed8a983ca421::batcat::BATCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_2f2225d98e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GUMBO SUI",
+  "symbol": "GUMBO",
+  "decimals": 6,
+  "coin_type": "0x3d6f042da55a4a78fd3c57424faa8f9bc4f779e018d1f5f765b1cb28b6125ae0::gumbo::GUMBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/gumbo_profile_pic_1_9c30105a7c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "YummyOnSui",
+  "symbol": "YUMMY",
+  "decimals": 6,
+  "coin_type": "0xd54a80ddb0490d135d05b326e4e08b747874047e5720d191b4febd634493fc83::yummy::YUMMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qmd3rykaDny8QZhWrmFvRMcmyTGSJzbmJHAiqfKKBmZFQZ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

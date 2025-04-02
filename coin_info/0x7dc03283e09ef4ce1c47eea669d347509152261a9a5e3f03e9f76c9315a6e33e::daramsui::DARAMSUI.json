@@ -1,0 +1,13 @@
+{
+  "name": "DaramSui",
+  "symbol": "DaramSui",
+  "decimals": 9,
+  "coin_type": "0x7dc03283e09ef4ce1c47eea669d347509152261a9a5e3f03e9f76c9315a6e33e::daramsui::DARAMSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aa005096-e7c7-42ed-bad5-39231225fdac.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

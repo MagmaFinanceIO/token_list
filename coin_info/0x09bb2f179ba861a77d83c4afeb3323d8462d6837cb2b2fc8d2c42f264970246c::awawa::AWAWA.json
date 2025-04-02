@@ -1,0 +1,13 @@
+{
+  "name": "Screaming Hyrax on SUI",
+  "symbol": "AWAWA",
+  "decimals": 9,
+  "coin_type": "0x09bb2f179ba861a77d83c4afeb3323d8462d6837cb2b2fc8d2c42f264970246c::awawa::AWAWA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmcJ3roBG7gm2MxNucHVfp9kYuFzdwteDxmUQsaAv5U4rh",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

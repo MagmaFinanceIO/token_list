@@ -1,0 +1,13 @@
+{
+  "name": "GME On SUI",
+  "symbol": "GME",
+  "decimals": 6,
+  "coin_type": "0xbac245031ce35ab14992ca4d4b180afe63ec68043666c53de1b2de8561ec4d3e::gme::GME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/gamestop_ff5e700cad.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

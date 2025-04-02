@@ -1,0 +1,13 @@
+{
+  "name": "BabyRoss",
+  "symbol": "BROSS",
+  "decimals": 6,
+  "coin_type": "0x3a668a2cc33e7bf79e11afe15b588a791bc2564e40a3119f1230b5b0894736d5::bross::BROSS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/openart_image_C_Xnl5w_Q8_1728097226104_raw_d8446b7951.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

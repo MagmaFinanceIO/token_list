@@ -1,0 +1,13 @@
+{
+  "name": "FROGTEUS MAXSui",
+  "symbol": "FROG",
+  "decimals": 9,
+  "coin_type": "0x85b4befabcd9b2f52bde09470b756447a6abf5c6c0853bbcba3be2a24226526b::frog::FROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/980d5111-6a1b-421c-a448-ae8a6409239f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CAPPY",
+  "symbol": "CAPPY",
+  "decimals": 9,
+  "coin_type": "0x887848d0eae303c5ebe5b0bf03a7e57899445260baaf109101456260fd168a20::CAPPY::CAPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

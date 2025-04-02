@@ -1,0 +1,13 @@
+{
+  "name": "Sun",
+  "symbol": "SUN",
+  "decimals": 9,
+  "coin_type": "0x9d160d623ab2daecf300fb5ec9a3971a05449afccefe3a47c8aa025563bcf4e2::sun::SUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a401070d-35d5-4769-b653-fa4585f3c2b6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

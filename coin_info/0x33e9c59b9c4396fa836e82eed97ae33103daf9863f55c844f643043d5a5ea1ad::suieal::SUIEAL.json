@@ -1,0 +1,13 @@
+{
+  "name": "SealSeal",
+  "symbol": "SUIEAL",
+  "decimals": 6,
+  "coin_type": "0x33e9c59b9c4396fa836e82eed97ae33103daf9863f55c844f643043d5a5ea1ad::suieal::SUIEAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000015704_6e07a56aa7.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

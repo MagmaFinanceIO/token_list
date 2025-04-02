@@ -1,0 +1,13 @@
+{
+  "name": "First Nepe on Sui",
+  "symbol": "NEPE",
+  "decimals": 6,
+  "coin_type": "0x910b0e3f42cbb2ccc7b48b9fe6f63afbdd4bfca77c9c29e30c67b1755db43ad7::nepe::NEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_2_14_33451b4a97.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

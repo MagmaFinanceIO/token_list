@@ -1,0 +1,13 @@
+{
+  "name": "SUI MARIO",
+  "symbol": "SMARIO",
+  "decimals": 6,
+  "coin_type": "0x5823533b94f2d08a2aa16844ef27d92bc163f6766a87b842dca1a7e54054fb71::smario::SMARIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/AVATARFINAL_358f3d2e78.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

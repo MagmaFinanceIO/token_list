@@ -1,0 +1,13 @@
+{
+  "name": "Blurred Tongue",
+  "symbol": "BTON",
+  "decimals": 9,
+  "coin_type": "0xddb11b0d79069b8f09f31949363d6a462c895b7dd2f4c9f48399d3d7eece2c6b::bton::BTON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FXk35ZCWhw69vHyMYehcZuQeSXDTWSU3a6uTURpypump.png?size=lg&key=1ead92",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MAOW ON SUI",
+  "symbol": "MAOW",
+  "decimals": 9,
+  "coin_type": "0x7a1bdf71617e1e2817c4620b626091cd5451c8270dd2e1ccbe8dee3210eb24f2::maow::MAOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ba6cc5e8-02a2-4c72-85b1-932bb6b8f080.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

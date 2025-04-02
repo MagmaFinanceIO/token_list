@@ -1,0 +1,13 @@
+{
+  "name": "Suiron man",
+  "symbol": "Srm",
+  "decimals": 6,
+  "coin_type": "0x363bfc0f6bc0f8458a6bc7ba37c6da615a3069686f869b92ab3bb7cebebb2c42::srm::SRM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/8964_C5_B4_8_E1_E_494_B_AC_16_95_E6328883_DC_c96a753dfb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

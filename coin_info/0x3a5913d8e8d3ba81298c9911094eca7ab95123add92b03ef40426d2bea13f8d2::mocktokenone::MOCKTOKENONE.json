@@ -1,0 +1,13 @@
+{
+  "name": "MOCKKK",
+  "symbol": "MOCKTOKENONE",
+  "decimals": 9,
+  "coin_type": "0x3a5913d8e8d3ba81298c9911094eca7ab95123add92b03ef40426d2bea13f8d2::mocktokenone::MOCKTOKENONE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

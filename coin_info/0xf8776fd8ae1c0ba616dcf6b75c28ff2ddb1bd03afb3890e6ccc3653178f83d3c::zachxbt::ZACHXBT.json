@@ -1,0 +1,13 @@
+{
+  "name": "Justice for Zachxbt",
+  "symbol": "ZACHXBT",
+  "decimals": 9,
+  "coin_type": "0xf8776fd8ae1c0ba616dcf6b75c28ff2ddb1bd03afb3890e6ccc3653178f83d3c::zachxbt::ZACHXBT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qmf4M1HDnp69aArNnLAn14Xy8N4b7nSdv6Xn9auYW7dRcq",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

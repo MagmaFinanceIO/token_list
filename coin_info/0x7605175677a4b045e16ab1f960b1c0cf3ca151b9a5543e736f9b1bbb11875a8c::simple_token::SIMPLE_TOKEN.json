@@ -1,0 +1,13 @@
+{
+  "name": "IVANKA TRUMP",
+  "symbol": "IVANKA",
+  "decimals": 9,
+  "coin_type": "0x7605175677a4b045e16ab1f960b1c0cf3ca151b9a5543e736f9b1bbb11875a8c::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

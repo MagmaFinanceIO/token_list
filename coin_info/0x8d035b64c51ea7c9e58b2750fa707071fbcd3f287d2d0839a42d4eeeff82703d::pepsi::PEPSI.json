@@ -1,0 +1,13 @@
+{
+  "name": "PEPsi",
+  "symbol": "PEPSI",
+  "decimals": 9,
+  "coin_type": "0x8d035b64c51ea7c9e58b2750fa707071fbcd3f287d2d0839a42d4eeeff82703d::pepsi::PEPSI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7JY3Mtq7GEz94BpAJ9ni1hLUX5wXYrL91TcJt6wSELRH.png?size=lg&key=db606a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

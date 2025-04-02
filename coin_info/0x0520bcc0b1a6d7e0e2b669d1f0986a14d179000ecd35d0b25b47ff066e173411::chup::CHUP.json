@@ -1,0 +1,13 @@
+{
+  "name": "Chup",
+  "symbol": "CHUP",
+  "decimals": 9,
+  "coin_type": "0x0520bcc0b1a6d7e0e2b669d1f0986a14d179000ecd35d0b25b47ff066e173411::chup::CHUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/41cFk69T3m2PtePCHbFoZubZzCpraXfoqPQzUnRxpump.png?size=lg&key=9e3050",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

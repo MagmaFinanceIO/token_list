@@ -1,0 +1,13 @@
+{
+  "name": "Elon",
+  "symbol": "Musk",
+  "decimals": 6,
+  "coin_type": "0x5cb859c32dbfc4e20ec9b9fe1ecf4d8cb5a1361904bb8bd97f13ac3954afa518::musk::MUSK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/084963dd-59d7-4d4f-97f4-c6e325d4178a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

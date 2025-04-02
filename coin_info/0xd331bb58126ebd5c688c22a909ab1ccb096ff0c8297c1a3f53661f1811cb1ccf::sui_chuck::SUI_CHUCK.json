@@ -1,0 +1,13 @@
+{
+  "name": "Sui_CHUCK",
+  "symbol": "Sui_CHUCK",
+  "decimals": 9,
+  "coin_type": "0xd331bb58126ebd5c688c22a909ab1ccb096ff0c8297c1a3f53661f1811cb1ccf::sui_chuck::SUI_CHUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b65a5cf2-f25e-4402-a967-bfdbc3125f3a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

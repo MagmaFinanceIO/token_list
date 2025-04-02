@@ -1,0 +1,13 @@
+{
+  "name": "PUFFY PUP",
+  "symbol": "PuffyPup",
+  "decimals": 9,
+  "coin_type": "0x7b741c9c081dc220f899a783b9ba5acdf2f972c8ddcc12cb53cbe0b2dd60a7b4::puffypup::PUFFYPUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/313aa80c-2d05-4527-bc19-0ca619e7690c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

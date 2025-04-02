@@ -1,0 +1,13 @@
+{
+  "name": "Sui-Up",
+  "symbol": "SUIUP",
+  "decimals": 9,
+  "coin_type": "0x25430e83ddde7864e1719f7b2a7165599308a461cb5082197136b83a3a04fbd3::suiup::SUIUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8CF8vU3iD8MjpGK64mETc3FnLzWJdVRG5kjTyz3bpump.png?size=lg&key=bda477",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

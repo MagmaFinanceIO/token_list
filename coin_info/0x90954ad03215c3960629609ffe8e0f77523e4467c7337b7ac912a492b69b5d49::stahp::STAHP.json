@@ -1,0 +1,13 @@
+{
+  "name": "STAHP",
+  "symbol": "STAHP",
+  "decimals": 9,
+  "coin_type": "0x90954ad03215c3960629609ffe8e0f77523e4467c7337b7ac912a492b69b5d49::stahp::STAHP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8DpkbgMzoxmmXQWL9sc3628Afr4ZLWb3pq248nYCpump.png?size=lg&key=964c60",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

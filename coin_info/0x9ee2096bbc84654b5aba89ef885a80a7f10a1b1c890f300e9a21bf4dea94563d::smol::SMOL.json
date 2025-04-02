@@ -1,0 +1,13 @@
+{
+  "name": "SuiSmol",
+  "symbol": "Smol",
+  "decimals": 6,
+  "coin_type": "0x9ee2096bbc84654b5aba89ef885a80a7f10a1b1c890f300e9a21bf4dea94563d::smol::SMOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731033219481.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

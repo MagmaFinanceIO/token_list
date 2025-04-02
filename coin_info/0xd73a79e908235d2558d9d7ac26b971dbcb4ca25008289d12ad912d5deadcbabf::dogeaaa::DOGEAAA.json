@@ -1,0 +1,13 @@
+{
+  "name": "Dawn Of Golden Era",
+  "symbol": "DOGE",
+  "decimals": 9,
+  "coin_type": "0xd73a79e908235d2558d9d7ac26b971dbcb4ca25008289d12ad912d5deadcbabf::dogeaaa::DOGEAAA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Bj3hLknreCXFFzwNc7r5h1zF7FwgHiwaUYzYZmt9pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

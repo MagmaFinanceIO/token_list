@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL YZY",
+  "symbol": "ye",
+  "decimals": 9,
+  "coin_type": "0xfc6a207412e13ae1dd0be657e56e9066bf220b47567713970519a12a0a6d205f::ye::YE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B4LNfhpjnYSzpyy5EPno6mXtaGAJmdSBBATxsu3epump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

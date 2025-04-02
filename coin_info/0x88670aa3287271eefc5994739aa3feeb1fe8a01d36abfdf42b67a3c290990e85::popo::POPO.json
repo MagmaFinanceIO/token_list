@@ -1,0 +1,13 @@
+{
+  "name": "POPO BULL",
+  "symbol": "POPO",
+  "decimals": 9,
+  "coin_type": "0x88670aa3287271eefc5994739aa3feeb1fe8a01d36abfdf42b67a3c290990e85::popo::POPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f9ff3a60-fbcd-4671-b0e4-44211245a5e7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

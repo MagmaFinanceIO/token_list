@@ -1,0 +1,13 @@
+{
+  "name": "MiniDonald",
+  "symbol": "Barron",
+  "decimals": 9,
+  "coin_type": "0xacda733dde82b623979095936b4433fb4230e5c94c23b00df883a19ac03f59fd::barron::BARRON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3tUQrNTKhqWtCZP1cDHF9frGwhWwR6H9ZNUpNSSxA6nz.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

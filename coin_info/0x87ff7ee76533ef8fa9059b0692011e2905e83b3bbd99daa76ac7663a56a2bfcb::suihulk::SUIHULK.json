@@ -1,0 +1,13 @@
+{
+  "name": "SUIHULK",
+  "symbol": "SUIHULK",
+  "decimals": 9,
+  "coin_type": "0x87ff7ee76533ef8fa9059b0692011e2905e83b3bbd99daa76ac7663a56a2bfcb::suihulk::SUIHULK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cbb84685-7904-42bb-8384-02883c6bca8a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

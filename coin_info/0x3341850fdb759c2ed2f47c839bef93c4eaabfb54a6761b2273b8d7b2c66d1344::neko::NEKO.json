@@ -1,0 +1,13 @@
+{
+  "name": "Neko Sui",
+  "symbol": "NEKO",
+  "decimals": 9,
+  "coin_type": "0x3341850fdb759c2ed2f47c839bef93c4eaabfb54a6761b2273b8d7b2c66d1344::neko::NEKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/af345c7a-615c-4b74-848c-5fa372c80709.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

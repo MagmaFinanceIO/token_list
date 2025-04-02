@@ -1,0 +1,13 @@
+{
+  "name": "ARCANA AI",
+  "symbol": "ARCANA",
+  "decimals": 9,
+  "coin_type": "0xec16a76a2408fffbcddfa1313935e30ed59c556919bbd07a122095a1a24c999e::arcana::ARCANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6kXePskL6K23Q3vCrhdBcKqJ6QWAmBXCSztM52U9pump.png?size=lg&key=e5794d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

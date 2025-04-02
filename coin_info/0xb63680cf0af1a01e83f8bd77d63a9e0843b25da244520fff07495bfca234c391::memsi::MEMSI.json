@@ -1,0 +1,13 @@
+{
+  "name": "Rionel Memsi",
+  "symbol": "MEMSI",
+  "decimals": 9,
+  "coin_type": "0xb63680cf0af1a01e83f8bd77d63a9e0843b25da244520fff07495bfca234c391::memsi::MEMSI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0155267b-1893-49a2-aeee-e4b112cf4dfa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

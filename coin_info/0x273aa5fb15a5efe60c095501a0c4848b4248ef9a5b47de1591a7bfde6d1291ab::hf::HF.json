@@ -1,0 +1,13 @@
+{
+  "name": "Hopfun",
+  "symbol": "HF",
+  "decimals": 6,
+  "coin_type": "0x273aa5fb15a5efe60c095501a0c4848b4248ef9a5b47de1591a7bfde6d1291ab::hf::HF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmUdqYWffGtgH38hqcZEjiPjMtYKUKuwFba4yrDusbvowZ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

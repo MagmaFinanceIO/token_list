@@ -1,0 +1,13 @@
+{
+  "name": "Ducky on Sui",
+  "symbol": "DUCKY",
+  "decimals": 6,
+  "coin_type": "0x1e38c11eae24bc266605fb2e0bcb9906c64c9cb1de288b40bb34cefb7eb15470::ducky::DUCKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000133414_c0dac80e19.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

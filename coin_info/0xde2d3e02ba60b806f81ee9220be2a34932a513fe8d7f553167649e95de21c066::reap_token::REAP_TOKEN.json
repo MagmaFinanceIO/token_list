@@ -1,0 +1,15 @@
+{
+  "name": "Releap",
+  "symbol": "REAP",
+  "decimals": 9,
+  "coin_type": "0xde2d3e02ba60b806f81ee9220be2a34932a513fe8d7f553167649e95de21c066::reap_token::REAP_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "0xde2d3e02ba60b806f81ee9220be2a34932a513fe8d7f553167649e95de21c066::reap_token::REAP_TOKEN",
+  "coin_priority": [
+    "750"
+  ],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/reap.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

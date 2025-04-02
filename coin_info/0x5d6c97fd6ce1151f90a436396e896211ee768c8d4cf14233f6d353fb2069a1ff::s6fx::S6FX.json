@@ -1,0 +1,13 @@
+{
+  "name": "S6FX",
+  "symbol": "S6FX",
+  "decimals": 9,
+  "coin_type": "0x5d6c97fd6ce1151f90a436396e896211ee768c8d4cf14233f6d353fb2069a1ff::s6fx::S6FX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CB48KiK1oi1tWtjmPWxVR2NPeEr9ewzmZQ8ERk79Ue4b.png?size=lg&key=e3d4b7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "testtest",
+  "symbol": "testtest",
+  "decimals": 9,
+  "coin_type": "0xfdaa341070f3aa45537aa1ee6d6c536a999c20551b222ab816ca62d01722fdf9::testtest::TESTTEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

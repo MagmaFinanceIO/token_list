@@ -1,0 +1,13 @@
+{
+  "name": "FishBone",
+  "symbol": "Fishbone",
+  "decimals": 6,
+  "coin_type": "0x8eb5598876e13e956f0300465b56bea0b73a040f6af33b1dc62c4f8e8f80854b::fishbone::FISHBONE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_Artwork_a28f8cbfb0.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

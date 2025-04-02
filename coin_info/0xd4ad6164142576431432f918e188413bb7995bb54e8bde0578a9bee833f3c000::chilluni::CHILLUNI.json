@@ -1,0 +1,13 @@
+{
+  "name": "Just a chill unicorn",
+  "symbol": "CHILLUNI",
+  "decimals": 9,
+  "coin_type": "0xd4ad6164142576431432f918e188413bb7995bb54e8bde0578a9bee833f3c000::chilluni::CHILLUNI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Kv2U4td6dYDYjo3oxEBMAqzFXCJHGZLS7QpT19Fpump.png?size=lg&key=f28e37",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

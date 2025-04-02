@@ -1,0 +1,13 @@
+{
+  "name": "Suika Kawakita",
+  "symbol": "SUIKA",
+  "decimals": 6,
+  "coin_type": "0x69171553741d6ce44e4222aaa56c447920e971ddf64a8c8d2fc216e987bfc98b::suika::SUIKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/e012_ezgif_com_optimize_3_82caaa1f0b.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

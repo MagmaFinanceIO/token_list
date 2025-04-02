@@ -1,0 +1,13 @@
+{
+  "name": "FLASH on SUI",
+  "symbol": "FLASH",
+  "decimals": 9,
+  "coin_type": "0xc1d0fa8867fe689e05a08c0fec84730a4fad9ec5e71abccc1c971f8d25daf735::flash::FLASH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmfJXt5nP7FN8wTNARgXrenvix9rWuecgT2se16EvhdaWn",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI-NAM",
+  "symbol": "SUINAM",
+  "decimals": 9,
+  "coin_type": "0xf46ce6f0eb2e473db40a1d0d559daa864cdceb6d7f7dea2d55dd2b76014a93b9::suinam::SUINAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aebfe271-b03f-4435-8df6-b1c62f780453.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

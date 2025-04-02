@@ -1,0 +1,13 @@
+{
+  "name": "Sonic The Seal",
+  "symbol": "SOAL",
+  "decimals": 6,
+  "coin_type": "0x1711dc861a82ed3cd399e7c7e88f874eeb918925abe4af3e847cdeb843316ff2::soal::SOAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6512_181faeb089.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

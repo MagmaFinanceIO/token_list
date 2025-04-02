@@ -1,0 +1,13 @@
+{
+  "name": "it's time to full port",
+  "symbol": "PORT",
+  "decimals": 9,
+  "coin_type": "0x0f5d2893db9855e32e4bfc43ec7e795cd2f94f090453a5d7087ab59b85d8fa6e::port::PORT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BKXQnRzZFq1DXyiJiVC6Y5EbUYMgYCMx9U89D5Yrpump.png?size=lg&key=1c4aca",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "RUSSELL",
+  "symbol": "SUIRUSSELL",
+  "decimals": 6,
+  "coin_type": "0x5a4ebb42da1e3d421936ccddf1cc249aa41f7265dce48b9d5874e3d41941d80a::suirussell::SUIRUSSELL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/a_ae_a_c_20241011095959_c2ee08cb87.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

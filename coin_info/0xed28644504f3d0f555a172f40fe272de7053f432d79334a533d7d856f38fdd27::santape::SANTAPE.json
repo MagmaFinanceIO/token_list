@@ -1,0 +1,13 @@
+{
+  "name": "SANTAPE ON SUI",
+  "symbol": "SANTAPE",
+  "decimals": 9,
+  "coin_type": "0xed28644504f3d0f555a172f40fe272de7053f432d79334a533d7d856f38fdd27::santape::SANTAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6eec14b5-76f8-4c76-ab30-e80d7c4b7a69.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

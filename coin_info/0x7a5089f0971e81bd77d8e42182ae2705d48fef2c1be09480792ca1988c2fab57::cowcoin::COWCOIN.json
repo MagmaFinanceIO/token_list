@@ -1,0 +1,13 @@
+{
+  "name": "Cowcoin",
+  "symbol": "Cowcoin",
+  "decimals": 9,
+  "coin_type": "0x7a5089f0971e81bd77d8e42182ae2705d48fef2c1be09480792ca1988c2fab57::cowcoin::COWCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/R82jtT2wOYJG8wJL?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

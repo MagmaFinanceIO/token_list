@@ -1,0 +1,13 @@
+{
+  "name": "Axie Infinity Dog",
+  "symbol": "AxieDog",
+  "decimals": 9,
+  "coin_type": "0x7ca0861e2264fff7026a30d1d31b942d753da565c29f5636a56555e916684d5c::axiedog::AXIEDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/JAB57kZjbmqcmaRtgmbeoeGtCjnotLowKGSCfgBMpump.png?size=lg&key=abb774",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

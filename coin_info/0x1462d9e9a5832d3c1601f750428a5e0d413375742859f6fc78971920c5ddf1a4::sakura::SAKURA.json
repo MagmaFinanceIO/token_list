@@ -1,0 +1,13 @@
+{
+  "name": "Sakura",
+  "symbol": "Sakura",
+  "decimals": 9,
+  "coin_type": "0x1462d9e9a5832d3c1601f750428a5e0d413375742859f6fc78971920c5ddf1a4::sakura::SAKURA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://yellow-total-guanaco-389.mypinata.cloud/ipfs/QmfTfAyxN3VswqN4NNXE8WnS69XLwZgaTwYC3bjWcdX3T5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

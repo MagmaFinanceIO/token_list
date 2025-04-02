@@ -1,0 +1,13 @@
+{
+  "name": "Fennec Protocol",
+  "symbol": "FENC",
+  "decimals": 6,
+  "coin_type": "0x0d0a638de071a29722283639dccb25bf105d5ea1f2dd948e997d5884b44d513f::fenc::FENC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/fd8c5107_4785_4419_9897_8dadc1949474_670802098d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

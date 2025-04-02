@@ -1,0 +1,13 @@
+{
+  "name": "SUI Doctor AI",
+  "symbol": "SDOCTOR",
+  "decimals": 9,
+  "coin_type": "0xa8f905b281a3fb0d0a519b23974af12a77259b36e5c08be52336aa05ac47ef47::sdoctor::SDOCTOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5vb8AXytbQenTds4xKinp1FEoWAK7xoiNZw6hCh4pump.png?size=lg&key=93e3dc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

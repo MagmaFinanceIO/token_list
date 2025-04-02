@@ -1,0 +1,13 @@
+{
+  "name": "sFUD",
+  "symbol": "sFUD",
+  "decimals": 5,
+  "coin_type": "0xe56d5167f427cbe597da9e8150ef5c337839aaf46891d62468dcf80bdd8e10d1::scallop_fud::SCALLOP_FUD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://enx3zetzw42z2gpckvye66ljal2vfu63rb2qc5arvq7wof3xdbhq.arweave.net/I2-8knm3NZ0Z4lVwT3lpAvVS09uIdQF0Eaw_Zxd3GE8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

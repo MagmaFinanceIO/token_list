@@ -1,0 +1,13 @@
+{
+  "name": "SUIEUS MAXIMUM",
+  "symbol": "SUIEUS",
+  "decimals": 9,
+  "coin_type": "0x72177dbb5a7d7d0fa928054decdbdb01831f432638d1b88c71a7d8c1e837492b::suieus::SUIEUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::cetus.png?size=lg&key=c4cbdc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

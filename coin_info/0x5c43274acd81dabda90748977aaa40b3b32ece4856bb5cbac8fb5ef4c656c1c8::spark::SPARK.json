@@ -1,0 +1,13 @@
+{
+  "name": "🌟 Sui Spark",
+  "symbol": "SPARK",
+  "decimals": 9,
+  "coin_type": "0x5c43274acd81dabda90748977aaa40b3b32ece4856bb5cbac8fb5ef4c656c1c8::spark::SPARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/47fbf1bd-684a-4598-91e7-6249b88fcdf5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

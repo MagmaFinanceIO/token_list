@@ -1,0 +1,13 @@
+{
+  "name": "Bitcoin on Sui",
+  "symbol": "BTCs",
+  "decimals": 6,
+  "coin_type": "0x31caa86f9b8ba695bb7f9d1ad4fee1e96b583d9e1d9fb54dc8d1eb57a60bf433::btcs::BTCS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/5_f4ca6ddba2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

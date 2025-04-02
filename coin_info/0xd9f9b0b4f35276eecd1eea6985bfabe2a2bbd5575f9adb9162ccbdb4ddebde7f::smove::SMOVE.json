@@ -1,0 +1,13 @@
+{
+  "name": "MOVE",
+  "symbol": "MOVE",
+  "decimals": 9,
+  "coin_type": "0xd9f9b0b4f35276eecd1eea6985bfabe2a2bbd5575f9adb9162ccbdb4ddebde7f::smove::SMOVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bluemove.net/BlueMove_main_logo_RGB-Blue_512.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

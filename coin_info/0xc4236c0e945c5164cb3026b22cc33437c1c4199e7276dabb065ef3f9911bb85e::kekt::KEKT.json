@@ -1,0 +1,13 @@
+{
+  "name": "Kekius Terminalius",
+  "symbol": "KEKT",
+  "decimals": 9,
+  "coin_type": "0xc4236c0e945c5164cb3026b22cc33437c1c4199e7276dabb065ef3f9911bb85e::kekt::KEKT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6mif4d2Y1AsHCniSw5Df6vt3SA3ZkDnmjWVpaPPTpump.png?size=lg&key=5832f8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AHIRU",
+  "symbol": "AHIRU",
+  "decimals": 9,
+  "coin_type": "0xc655f751c97769cb14b758bc0ef4355a3eb0971598ad65f06e17b60fc983c64a::ahiru::AHIRU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1727a82e-c936-4a1f-8831-6696e62880b1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suitoshi",
+  "symbol": "SUITCOIN",
+  "decimals": 6,
+  "coin_type": "0x69c100bd91a08431950b3290388bf66a036eed18bcb0806e482d19dc73d0dcfc::suitcoin::SUITCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_08_18_34_17_ee5debf2b1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

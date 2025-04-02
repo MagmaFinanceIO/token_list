@@ -1,0 +1,13 @@
+{
+  "name": "BAMF",
+  "symbol": "BAMF",
+  "decimals": 9,
+  "coin_type": "0x64ae63b954de12b8dde643a0d556f991691fea8440c9646ff260f74c8fa7ffa6::bamf::BAMF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/P32Us8svisoWHcqGEQ2NLC3tYbypwvL3Vp7qKcGpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Roshi",
+  "symbol": "ROSHI",
+  "decimals": 6,
+  "coin_type": "0xdcbd1c09d95240c07acf5202f76927cfb701ab3a4cd70ca3bb58ff3d33a1aa91::roshi::ROSHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/roshi_2af779c3a8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

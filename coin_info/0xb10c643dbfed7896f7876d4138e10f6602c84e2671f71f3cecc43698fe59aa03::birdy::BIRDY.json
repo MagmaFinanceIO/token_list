@@ -1,0 +1,13 @@
+{
+  "name": "BIRDY",
+  "symbol": "BIRDY",
+  "decimals": 9,
+  "coin_type": "0xb10c643dbfed7896f7876d4138e10f6602c84e2671f71f3cecc43698fe59aa03::birdy::BIRDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8671d861-8058-44aa-961f-94073f9caa56.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

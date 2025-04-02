@@ -1,0 +1,13 @@
+{
+  "name": "Ferreus Cyber Motus",
+  "symbol": "FCM",
+  "decimals": 0,
+  "coin_type": "0x9e11c2519106d645db9989c895926162605960da886f67d95aebebd74fd2a56b::fcm::FCM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/413d22d4-dfd4-441e-87ee-3f7ef9d0f821.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

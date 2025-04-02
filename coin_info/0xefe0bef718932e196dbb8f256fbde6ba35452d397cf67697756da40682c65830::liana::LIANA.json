@@ -1,0 +1,13 @@
+{
+  "name": "Liana Ai by SuiAI",
+  "symbol": "LIANA",
+  "decimals": 6,
+  "coin_type": "0xefe0bef718932e196dbb8f256fbde6ba35452d397cf67697756da40682c65830::liana::LIANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_2070_1c2a6ec5d0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "🎮 GAMER GAINS",
+  "symbol": "GAMER",
+  "decimals": 9,
+  "coin_type": "0xab9dcc2fc230dc31c277936e12af131efdaf607112f70ff5d570143695e5f84d::gamer::GAMER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/14c043ba-d705-436a-9603-5a8293f3db0e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

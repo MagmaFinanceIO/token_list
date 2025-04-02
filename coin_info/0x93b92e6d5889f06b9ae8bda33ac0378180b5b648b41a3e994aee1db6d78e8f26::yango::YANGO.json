@@ -1,0 +1,13 @@
+{
+  "name": "YANGO",
+  "symbol": "yango",
+  "decimals": 9,
+  "coin_type": "0x93b92e6d5889f06b9ae8bda33ac0378180b5b648b41a3e994aee1db6d78e8f26::yango::YANGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

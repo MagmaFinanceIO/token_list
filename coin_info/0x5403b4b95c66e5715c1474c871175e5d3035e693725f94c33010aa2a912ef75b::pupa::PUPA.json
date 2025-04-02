@@ -1,0 +1,13 @@
+{
+  "name": "Kroshka",
+  "symbol": "PUPA",
+  "decimals": 9,
+  "coin_type": "0x5403b4b95c66e5715c1474c871175e5d3035e693725f94c33010aa2a912ef75b::pupa::PUPA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b0630fff-2993-471d-8702-cbe696e13298.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

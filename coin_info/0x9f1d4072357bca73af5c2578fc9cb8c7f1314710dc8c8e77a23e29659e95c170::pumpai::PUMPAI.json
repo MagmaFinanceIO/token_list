@@ -1,0 +1,13 @@
+{
+  "name": "PumpAI",
+  "symbol": "PUMPAI",
+  "decimals": 6,
+  "coin_type": "0x9f1d4072357bca73af5c2578fc9cb8c7f1314710dc8c8e77a23e29659e95c170::pumpai::PUMPAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FQm_Yn6th_J39_BFBA_3vtr_C1n_Cge8_Xqarq_F2_Caf9p_N_Cq_Eh_H8hy_d62ca1f4e3.jpg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

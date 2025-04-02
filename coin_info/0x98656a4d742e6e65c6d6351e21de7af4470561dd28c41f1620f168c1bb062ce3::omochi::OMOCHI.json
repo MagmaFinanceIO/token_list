@@ -1,0 +1,13 @@
+{
+  "name": "Omochi On Sui",
+  "symbol": "Omochi",
+  "decimals": 6,
+  "coin_type": "0x98656a4d742e6e65c6d6351e21de7af4470561dd28c41f1620f168c1bb062ce3::omochi::OMOCHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/header_6fe0b4d1c3.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

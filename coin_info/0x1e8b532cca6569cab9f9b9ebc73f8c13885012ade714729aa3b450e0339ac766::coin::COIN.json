@@ -1,0 +1,13 @@
+{
+  "name": "Wrapped AVAX (Portal from Avalanche)",
+  "symbol": "WAVAX",
+  "decimals": 8,
+  "coin_type": "0x1e8b532cca6569cab9f9b9ebc73f8c13885012ade714729aa3b450e0339ac766::coin::COIN",
+  "pyth_id": "93da3352f9f1d105fdfe4971cfa80e9dd777bfc5d0f683ebb6e1294b92137bb7",
+  "birdeyeid": "0x1e8b532cca6569cab9f9b9ebc73f8c13885012ade714729aa3b450e0339ac766::coin::COIN",
+  "coin_priority": [],
+  "logo_url": "https://dvv5kcjybfklcqlql7dj7mfrfzj4bgunkcdgz6uh3re4usboi5ba.arweave.net/HWvVCTgJVLFBcF_Gn7CxLlPAmo1Qhmz6h9xJykguR0I",
+  "project_url": "",
+  "coingecko_id": "avalanche-wormhole",
+  "is_trusted": true
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ashley AI",
+  "symbol": "ASHLEY",
+  "decimals": 9,
+  "coin_type": "0xf8109823f48cdaa7c8e2387a626e8ba670f4389e604605dc198350fd90994110::ashley::ASHLEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B2GoHwUP5zdPb7NhmvS8fVWcW7AkFE3KD3Rns12Mcpe4.png?size=lg&key=3b3f02",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Esti dog",
+  "symbol": "ESTI",
+  "decimals": 6,
+  "coin_type": "0x83871952025f7c09308d6482f0763958145631d69d27ea78f9f6af1f89ee47a4::esti::ESTI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/c7846819_ea64_40e8_b5e9_4efc3846d14c_4de79626a4.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

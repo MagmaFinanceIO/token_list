@@ -1,0 +1,13 @@
+{
+  "name": "Antfwog",
+  "symbol": "Antfwog",
+  "decimals": 9,
+  "coin_type": "0x54ea985472152d888f686427ede675702d82eb0fc76ebe87c413733fee7dab06::antfwog::ANTFWOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/Qmeq9Pcjr5Bu5CVXAdcALPTqWG4VWY5A2zVF5vS5wkAytf?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

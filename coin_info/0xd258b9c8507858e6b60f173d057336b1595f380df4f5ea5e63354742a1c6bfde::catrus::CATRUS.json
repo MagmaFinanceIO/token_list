@@ -1,0 +1,13 @@
+{
+  "name": "Walrus Cat",
+  "symbol": "CATRUS",
+  "decimals": 6,
+  "coin_type": "0xd258b9c8507858e6b60f173d057336b1595f380df4f5ea5e63354742a1c6bfde::catrus::CATRUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/catrus_profil_977730f841.JPEG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Srunkle Stan",
+  "symbol": "Srunkle",
+  "decimals": 9,
+  "coin_type": "0x9cd3400dbcdab0fadc779efa43239ce2c7b5e0162a1716e1f2c4194c5db712d0::srunkle::SRUNKLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5vxggjAMpMm9R8wB8rmpheXdyLisobQveJq5WF1Rpump.png?size=lg&key=eea3d8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

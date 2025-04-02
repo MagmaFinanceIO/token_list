@@ -1,0 +1,13 @@
+{
+  "name": "Squid Dog Sui",
+  "symbol": "SDS",
+  "decimals": 9,
+  "coin_type": "0xb94f6cb2295159d036f45818fc13a6b389d7b2eb9cc4ab6fe193ac5daa187ed5::sds::SDS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/86f4e924-787a-44b9-aa13-e951a788d2eb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

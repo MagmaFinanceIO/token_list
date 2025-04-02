@@ -1,0 +1,13 @@
+{
+  "name": "ANA AI",
+  "symbol": "ANA",
+  "decimals": 9,
+  "coin_type": "0xf4fe3410309d6496580b34ae60c222a97fce9cab657a228b3b4a09490fbcc453::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

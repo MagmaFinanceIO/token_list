@@ -1,0 +1,13 @@
+{
+  "name": "LinksLogic by SuiAI",
+  "symbol": "LINK",
+  "decimals": 6,
+  "coin_type": "0xb3a8e35b81d3e6a772af8917a16e46e4e730f3353ca597d3f18799b83dc03584::link::LINK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_2049_a466dfb807.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

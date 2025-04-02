@@ -1,0 +1,13 @@
+{
+  "name": "DOG TRANSLATOR AI",
+  "symbol": "DOGTAI",
+  "decimals": 9,
+  "coin_type": "0x4fc7a5fb94abbfa56791fdab2843f4caec7065a887f7bd5a693a0b463f0ddd39::dogtai::DOGTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e647e088-9a94-43f7-b454-e5c548a393d1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

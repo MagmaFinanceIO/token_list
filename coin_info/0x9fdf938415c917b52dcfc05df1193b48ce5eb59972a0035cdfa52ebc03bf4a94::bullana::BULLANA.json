@@ -1,0 +1,13 @@
+{
+  "name": "Bull Year Mascot",
+  "symbol": "BULLANA",
+  "decimals": 9,
+  "coin_type": "0x9fdf938415c917b52dcfc05df1193b48ce5eb59972a0035cdfa52ebc03bf4a94::bullana::BULLANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A2PHmXjS2R1s1yz2v2mqE5jrhQ7roffUqqzUhMDmhsEv.png?size=lg&key=2db934",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

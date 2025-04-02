@@ -1,0 +1,13 @@
+{
+  "name": "Rats on Sui",
+  "symbol": "Rats",
+  "decimals": 9,
+  "coin_type": "0xbc9f599c5cb031f8a151470cf195a6f93215780ba927c4faa7f2ac497ef0a3c0::rats::RATS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c5b2e32b-f2c3-4ed0-9d32-2aedab2e76a7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

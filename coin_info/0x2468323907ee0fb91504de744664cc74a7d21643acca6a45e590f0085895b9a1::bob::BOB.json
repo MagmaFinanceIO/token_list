@@ -1,0 +1,13 @@
+{
+  "name": "ExplainThisBob",
+  "symbol": "BOB",
+  "decimals": 9,
+  "coin_type": "0x2468323907ee0fb91504de744664cc74a7d21643acca6a45e590f0085895b9a1::bob::BOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dc6880c9-4b0a-4917-80ee-fe823b1bffaa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

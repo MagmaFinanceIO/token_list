@@ -1,0 +1,13 @@
+{
+  "name": "trump lambo",
+  "symbol": "TRUMPLAMBO",
+  "decimals": 9,
+  "coin_type": "0xd70ea7e15eb4ccbdd86066aea316f0e8c5e48554cc651e1ae3657a47550c00d7::trumplambo::TRUMPLAMBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e0b9f257-2db0-41c8-a093-13ca76867bfe.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

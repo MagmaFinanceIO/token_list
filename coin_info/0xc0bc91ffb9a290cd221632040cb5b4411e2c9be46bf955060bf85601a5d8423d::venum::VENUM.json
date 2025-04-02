@@ -1,0 +1,13 @@
+{
+  "name": "Venum AI",
+  "symbol": "VENUM",
+  "decimals": 9,
+  "coin_type": "0xc0bc91ffb9a290cd221632040cb5b4411e2c9be46bf955060bf85601a5d8423d::venum::VENUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HocPXi1ff8iG8CHXqx6rx2Hnji8ik4qe66STxWP5pump.png?size=lg&key=3edca0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

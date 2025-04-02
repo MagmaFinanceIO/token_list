@@ -1,0 +1,13 @@
+{
+  "name": "MSTR",
+  "symbol": "MSTR",
+  "decimals": 6,
+  "coin_type": "0x836a5afea4f460d45ce95d3f6c08bbe7b3076a7ab9ffe12cfff56e6e14b37cbb::mstr::MSTR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ivory-large-echidna-233.mypinata.cloud/ipfs/QmWa3LHPLR78gFh3qjryHjmgD3mNmHmGYmguMkg7HP9R8U",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HopFrog",
+  "symbol": "HOPFROG",
+  "decimals": 6,
+  "coin_type": "0xcf7427b5796c60f2de4f3108e080e370eab83c333143e1ceab89e743a612e716::hopfrog::HOPFROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731003264605.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

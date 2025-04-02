@@ -1,0 +1,13 @@
+{
+  "name": "OTSEA SUI",
+  "symbol": "OTSEA",
+  "decimals": 6,
+  "coin_type": "0xd99ca5ff8b7224f3791beefaa1bfa96e651cf08ae69dea323053a6c34f7df8d7::otsea::OTSEA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6486_9a46143f4d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

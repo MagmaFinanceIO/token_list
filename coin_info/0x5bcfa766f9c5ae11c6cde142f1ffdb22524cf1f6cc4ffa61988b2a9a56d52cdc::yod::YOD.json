@@ -1,0 +1,13 @@
+{
+  "name": "Yod Agent",
+  "symbol": "YOD",
+  "decimals": 9,
+  "coin_type": "0x5bcfa766f9c5ae11c6cde142f1ffdb22524cf1f6cc4ffa61988b2a9a56d52cdc::yod::YOD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BNSPDd1Ws7AqiaEMZWVA5gcuAYGiLFZYAzXz11BGpump.png?size=lg&key=cbe8bd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mizuki",
+  "symbol": "Mizuki",
+  "decimals": 9,
+  "coin_type": "0xe7a9ae5cf745a951c4f76d008c1f88a38747b9d595a22c3bcee79662c4577b87::mizuki::MIZUKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Ebdq5ccfQi9aAE6oJgjiLchy8VfZrPcXhA6reXVBpump.png?size=lg&key=9e8611",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

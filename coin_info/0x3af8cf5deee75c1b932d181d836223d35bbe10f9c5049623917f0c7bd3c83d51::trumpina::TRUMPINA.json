@@ -1,0 +1,13 @@
+{
+  "name": "TRUMPINA TOR",
+  "symbol": "TRUMPINA",
+  "decimals": 9,
+  "coin_type": "0x3af8cf5deee75c1b932d181d836223d35bbe10f9c5049623917f0c7bd3c83d51::trumpina::TRUMPINA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6e0fb3a2-f97e-46dc-911b-864a169b42e4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

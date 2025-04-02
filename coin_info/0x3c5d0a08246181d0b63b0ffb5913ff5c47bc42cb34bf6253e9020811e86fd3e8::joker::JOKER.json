@@ -1,0 +1,13 @@
+{
+  "name": "Joker ai agent ",
+  "symbol": "Joker",
+  "decimals": 6,
+  "coin_type": "0x3c5d0a08246181d0b63b0ffb5913ff5c47bc42cb34bf6253e9020811e86fd3e8::joker::JOKER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736446116114.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

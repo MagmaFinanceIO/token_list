@@ -1,0 +1,13 @@
+{
+  "name": "Enchanted Golden Apple",
+  "symbol": "EGP",
+  "decimals": 9,
+  "coin_type": "0x6a4b01c8b44b4f75967cc20fc064d713cfe628217e079c0be69ac5c933a411ea::egp::EGP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4GRo18AFvdCZk1JJDEsvZqaQqaiChjY8AqK8QkcGpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

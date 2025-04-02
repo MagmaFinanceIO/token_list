@@ -1,0 +1,13 @@
+{
+  "name": "Kitten Wif Hat",
+  "symbol": "KITWIF",
+  "decimals": 9,
+  "coin_type": "0xbcd858b7669ea5a8ca48e3d21570d26eee25060f5635398254e6174a749d998e::kitwif::KITWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/APjF1cAyDjHr32KPa3X6YzmuNDfhyfb6CZQyJ6GAsJDF.png?size=lg&key=37ac5b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "First Buddy",
+  "symbol": "ELON",
+  "decimals": 9,
+  "coin_type": "0xe916a1f6cc7e5f45f7df44e1222cbbaa88dbeca6de26392ffaa8f2cc29a9ff25::elon::ELON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2tT6482KB9rZ5SaXzrHQNYMNbpMdAFHQ3MJSFLiApump.png?size=lg&key=616efc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

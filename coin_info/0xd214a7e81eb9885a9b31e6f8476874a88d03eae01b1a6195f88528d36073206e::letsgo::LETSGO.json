@@ -1,0 +1,13 @@
+{
+  "name": "Suiko",
+  "symbol": "Letsgo",
+  "decimals": 9,
+  "coin_type": "0xd214a7e81eb9885a9b31e6f8476874a88d03eae01b1a6195f88528d36073206e::letsgo::LETSGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ea0d5ca0-afec-4278-b0c4-252393336ac3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

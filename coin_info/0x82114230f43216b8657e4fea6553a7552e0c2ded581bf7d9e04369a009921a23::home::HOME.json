@@ -1,0 +1,13 @@
+{
+  "name": "HomeLander",
+  "symbol": "HOME",
+  "decimals": 9,
+  "coin_type": "0x82114230f43216b8657e4fea6553a7552e0c2ded581bf7d9e04369a009921a23::home::HOME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9ab6afc1-deee-4496-9d2b-ae788db05517.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

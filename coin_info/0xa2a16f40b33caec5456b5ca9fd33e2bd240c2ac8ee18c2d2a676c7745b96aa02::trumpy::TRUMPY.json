@@ -1,0 +1,13 @@
+{
+  "name": "Mini Trump",
+  "symbol": "TRUMPY",
+  "decimals": 9,
+  "coin_type": "0xa2a16f40b33caec5456b5ca9fd33e2bd240c2ac8ee18c2d2a676c7745b96aa02::trumpy::TRUMPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/52ce95ff-3d05-4c40-bbc6-c250184ef74b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

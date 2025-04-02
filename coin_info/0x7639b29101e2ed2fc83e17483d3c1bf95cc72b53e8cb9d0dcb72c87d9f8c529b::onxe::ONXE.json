@@ -1,0 +1,13 @@
+{
+  "name": "ONXE SUI",
+  "symbol": "ONXE",
+  "decimals": 6,
+  "coin_type": "0x7639b29101e2ed2fc83e17483d3c1bf95cc72b53e8cb9d0dcb72c87d9f8c529b::onxe::ONXE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/VREC_7_FSP_400x400_52d6d1fbdf.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

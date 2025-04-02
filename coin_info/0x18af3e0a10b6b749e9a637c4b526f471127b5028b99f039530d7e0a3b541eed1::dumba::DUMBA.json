@@ -1,0 +1,13 @@
+{
+  "name": "DUMB AGENT",
+  "symbol": "DUMBA",
+  "decimals": 6,
+  "coin_type": "0x18af3e0a10b6b749e9a637c4b526f471127b5028b99f039530d7e0a3b541eed1::dumba::DUMBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736440172024.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

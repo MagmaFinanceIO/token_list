@@ -1,0 +1,13 @@
+{
+  "name": "Samurai",
+  "symbol": "Samurai",
+  "decimals": 9,
+  "coin_type": "0x5433cd7b12eb0f23cdfc5b5d9643f0ecec2293ef2b8a7295e3262e1b9a1e8c9a::samurai::SAMURAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

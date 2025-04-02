@@ -1,0 +1,13 @@
+{
+  "name": "Sui Penguin",
+  "symbol": "SUIPENG",
+  "decimals": 9,
+  "coin_type": "0x5c150a437084d862c284ab16499a33ffbd1ece96953c123d416c06a51fee77f3::suipeng::SUIPENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/QmexM9x1WqYd4ZXAYygFLiJCQRADUxjs8wcNHYT5B7TUL8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Arkin the Riddle bot by SuiAI",
+  "symbol": "RIDDLE",
+  "decimals": 6,
+  "coin_type": "0x8d35cc3678c66893a20234133f3e37274f811cfea87b9fb014987deb8e6572d6::riddle::RIDDLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/DALL_E_2025_01_16_18_01_20_A_futuristic_and_whimsical_riddle_solving_robot_designed_with_a_sleek_metallic_body_and_glowing_LED_panels_that_display_riddles_The_robot_has_expres_e642f5c882.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

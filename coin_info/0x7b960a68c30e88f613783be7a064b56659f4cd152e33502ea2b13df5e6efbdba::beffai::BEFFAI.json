@@ -1,0 +1,13 @@
+{
+  "name": "BeffAI",
+  "symbol": "BeffAI",
+  "decimals": 9,
+  "coin_type": "0x7b960a68c30e88f613783be7a064b56659f4cd152e33502ea2b13df5e6efbdba::beffai::BEFFAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2Tr3i2qjSPUb7e7BSFWTq7gsRzJEnYBKc7wRAYu3pump.png?size=lg&key=e69e19",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

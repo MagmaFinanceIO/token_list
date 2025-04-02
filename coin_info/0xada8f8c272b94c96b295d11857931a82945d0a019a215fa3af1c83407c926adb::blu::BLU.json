@@ -1,0 +1,13 @@
+{
+  "name": "Blu",
+  "symbol": "BLU",
+  "decimals": 6,
+  "coin_type": "0xada8f8c272b94c96b295d11857931a82945d0a019a215fa3af1c83407c926adb::blu::BLU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/blusmile_8d2e63b6bf.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

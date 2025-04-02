@@ -1,0 +1,13 @@
+{
+  "name": "TRASH4MONEY",
+  "symbol": "TRASH",
+  "decimals": 9,
+  "coin_type": "0x84376ad6be2bbefeb4f5b3ea7a316c4b36b8eae98f1d5beab19e9128049d9de6::trash::TRASH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/88ULJR9jtmtYmV6wyNowGVeqZnub8pktbWWAyqTApump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

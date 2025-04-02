@@ -1,0 +1,13 @@
+{
+  "name": "Gorilla on Sui",
+  "symbol": "GOS",
+  "decimals": 6,
+  "coin_type": "0x44e6bbcb0fb1e2c7c439515a611d9148f743900087c7b6e5832f581eabc2d7f5::gos::GOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Gorilla_Rugby_Team_114_b38a7d5bd8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

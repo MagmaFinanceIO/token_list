@@ -1,0 +1,13 @@
+{
+  "name": "Himeno AI",
+  "symbol": "HimenoAI",
+  "decimals": 9,
+  "coin_type": "0x4e841d8974e97763ef32e52cb349c558d9a336884fba237970b07e91cda419ce::himenoai::HIMENOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HcisYtXpJ9r4uUjPadfaJQiKCyT21wuQ1hNg2NAypump.png?size=lg&key=d72a5b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

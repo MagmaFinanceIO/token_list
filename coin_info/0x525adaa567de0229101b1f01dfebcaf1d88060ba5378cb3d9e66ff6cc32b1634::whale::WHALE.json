@@ -1,0 +1,13 @@
+{
+  "name": "WHALE SUI",
+  "symbol": "WHALE",
+  "decimals": 9,
+  "coin_type": "0x525adaa567de0229101b1f01dfebcaf1d88060ba5378cb3d9e66ff6cc32b1634::whale::WHALE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://static-00.iconduck.com/assets.00/connection-loading-icon-2048x2048-cey8tjfo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

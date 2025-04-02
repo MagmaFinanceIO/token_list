@@ -1,0 +1,13 @@
+{
+  "name": "Hophop",
+  "symbol": "hophop",
+  "decimals": 6,
+  "coin_type": "0x322b8f9589af8abc842335c63e3e3edb5a07ddd38f75c4b7237272e3e885385b::hophop::HOPHOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmbuMR86qgMrUYzxQTVHbdT4o8Ugc2ZnyaUG8v4YSHCKnu",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

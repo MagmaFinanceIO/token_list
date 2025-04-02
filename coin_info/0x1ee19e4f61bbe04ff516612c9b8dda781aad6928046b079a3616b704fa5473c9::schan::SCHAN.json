@@ -1,0 +1,13 @@
+{
+  "name": "SuiChan",
+  "symbol": "SChan",
+  "decimals": 9,
+  "coin_type": "0x1ee19e4f61bbe04ff516612c9b8dda781aad6928046b079a3616b704fa5473c9::schan::SCHAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c9ea5e5c-a1a9-451e-9028-42f0724297ab.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

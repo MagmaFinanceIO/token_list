@@ -1,0 +1,13 @@
+{
+  "name": "Pump Cow",
+  "symbol": "MOOP",
+  "decimals": 6,
+  "coin_type": "0xad74a48dde22ba130f17e9ce34bae579536734b90b7cdca448e6816313834e7a::moop::MOOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cda6972e-20ac-4e92-bd4e-36bf15200bbc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

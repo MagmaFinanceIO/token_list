@@ -1,0 +1,13 @@
+{
+  "name": "TrumpMexica",
+  "symbol": "TrumpMexica",
+  "decimals": 9,
+  "coin_type": "0xe76fd7c6002399e6634e7da1da1ce4040760762a11b89352a976ddfc5fc5427a::trumpmexica::TRUMPMEXICA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1264cdde-7de4-4aae-8702-34da3e645015.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "POPCAT",
+  "symbol": "POPCAT",
+  "decimals": 9,
+  "coin_type": "0xfaab5fabb2a289d6d6a10f79b32b983deab5c57debca1eeafe4276e6c6f12105::popcat::POPCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2e467304-910b-4675-b6f5-ee3da18a0976.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

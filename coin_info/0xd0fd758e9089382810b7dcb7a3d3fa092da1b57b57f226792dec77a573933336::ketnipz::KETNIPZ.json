@@ -1,0 +1,13 @@
+{
+  "name": "Ketnipz",
+  "symbol": "ketnipz",
+  "decimals": 9,
+  "coin_type": "0xd0fd758e9089382810b7dcb7a3d3fa092da1b57b57f226792dec77a573933336::ketnipz::KETNIPZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Gmi1fADBi8CiWKFdV6a5besdqHtbKZ8NEtsXAWRCpump.png?size=lg&key=67658d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

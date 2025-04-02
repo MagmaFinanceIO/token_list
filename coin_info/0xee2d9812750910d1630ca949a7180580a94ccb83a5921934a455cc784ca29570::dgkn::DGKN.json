@@ -1,0 +1,13 @@
+{
+  "name": "DOGUKAN",
+  "symbol": "DGKN",
+  "decimals": 6,
+  "coin_type": "0xee2d9812750910d1630ca949a7180580a94ccb83a5921934a455cc784ca29570::dgkn::DGKN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731238207035.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

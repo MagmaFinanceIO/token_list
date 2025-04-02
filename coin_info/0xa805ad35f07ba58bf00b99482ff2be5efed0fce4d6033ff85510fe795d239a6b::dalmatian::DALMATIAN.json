@@ -1,0 +1,13 @@
+{
+  "name": "SQUIDGAME",
+  "symbol": "DALMATIAN",
+  "decimals": 9,
+  "coin_type": "0xa805ad35f07ba58bf00b99482ff2be5efed0fce4d6033ff85510fe795d239a6b::dalmatian::DALMATIAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmYad4HGXjyAfDNWhCVexk6MLHSkrXF3uvNFFpD1cgguqp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "aaa cat 30",
+  "symbol": "AAA30",
+  "decimals": 9,
+  "coin_type": "0x7748b0b797762f031c8ea90c29947ee70f3d877f45620da053662c82baf08041::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4995_cfd6177d03.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

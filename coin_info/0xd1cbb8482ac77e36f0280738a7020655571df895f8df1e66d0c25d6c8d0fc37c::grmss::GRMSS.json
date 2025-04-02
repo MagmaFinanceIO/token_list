@@ -1,0 +1,13 @@
+{
+  "name": "Golden Ratio Money Spread Seal",
+  "symbol": "GRMSS",
+  "decimals": 9,
+  "coin_type": "0xd1cbb8482ac77e36f0280738a7020655571df895f8df1e66d0c25d6c8d0fc37c::grmss::GRMSS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4P5RegSHWmSkXjVz1eMvRLuotrc9FnNw3T7MmAdXpump.png?claimId=IWvGBWx4hL9oBIGY",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

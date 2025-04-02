@@ -1,0 +1,13 @@
+{
+  "name": "Big Human",
+  "symbol": "BigHuman",
+  "decimals": 9,
+  "coin_type": "0x9ecd48c9a7d78997d51d4da56490483f3f1ff220ee7551e9a4c84e39b0f7667c::bighuman::BIGHUMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5ECRMuuAtE3KyqYZjYytkigpBipMqKXBpf3A8W6Fpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

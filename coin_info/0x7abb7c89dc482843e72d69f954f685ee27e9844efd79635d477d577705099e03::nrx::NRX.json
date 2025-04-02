@@ -1,0 +1,13 @@
+{
+  "name": "NeuraX",
+  "symbol": "NRX",
+  "decimals": 6,
+  "coin_type": "0x7abb7c89dc482843e72d69f954f685ee27e9844efd79635d477d577705099e03::nrx::NRX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/42c79e89_a54a_4453_ba89_72827c78d793_a752f49b28.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

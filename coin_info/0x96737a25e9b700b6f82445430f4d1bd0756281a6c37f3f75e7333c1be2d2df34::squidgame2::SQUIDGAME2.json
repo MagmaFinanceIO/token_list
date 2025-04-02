@@ -1,0 +1,13 @@
+{
+  "name": "SQUIDGAME2",
+  "symbol": "SQUIDGAME2",
+  "decimals": 9,
+  "coin_type": "0x96737a25e9b700b6f82445430f4d1bd0756281a6c37f3f75e7333c1be2d2df34::squidgame2::SQUIDGAME2",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Hh3e9sgZ5TYzf1WKtBaR16HgH82gCcUj4cDr2sqshf77.png?size=lg&key=0cef6a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

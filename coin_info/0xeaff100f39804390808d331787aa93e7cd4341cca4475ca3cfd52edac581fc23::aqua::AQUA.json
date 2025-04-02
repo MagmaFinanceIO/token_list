@@ -1,0 +1,13 @@
+{
+  "name": "AQUAMAN",
+  "symbol": "AQUA",
+  "decimals": 6,
+  "coin_type": "0xeaff100f39804390808d331787aa93e7cd4341cca4475ca3cfd52edac581fc23::aqua::AQUA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/0x8555bd37050110de16cf978fcaf8c672d52aab550f9c073127e83a134bc07f93_aqua_AQUA_6408da0227.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

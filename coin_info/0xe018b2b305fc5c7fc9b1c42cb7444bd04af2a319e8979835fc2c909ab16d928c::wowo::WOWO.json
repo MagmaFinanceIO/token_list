@@ -1,0 +1,13 @@
+{
+  "name": "WOWO",
+  "symbol": "WOWO",
+  "decimals": 9,
+  "coin_type": "0xe018b2b305fc5c7fc9b1c42cb7444bd04af2a319e8979835fc2c909ab16d928c::wowo::WOWO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/ar5e_ugM57Mc7ceOjw1t5kroYM6kZ3YWSjB07VInhjE",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

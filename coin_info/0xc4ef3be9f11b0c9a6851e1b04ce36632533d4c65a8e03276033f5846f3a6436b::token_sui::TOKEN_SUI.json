@@ -1,0 +1,13 @@
+{
+  "name": "DEEP STATE",
+  "symbol": "DEEPS",
+  "decimals": 9,
+  "coin_type": "0xc4ef3be9f11b0c9a6851e1b04ce36632533d4c65a8e03276033f5846f3a6436b::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/YzqMHJuXU4xXk25JqaPSzuCozTS76Vxm6PaMML6pump.png?size=xl&key=5f5bef",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

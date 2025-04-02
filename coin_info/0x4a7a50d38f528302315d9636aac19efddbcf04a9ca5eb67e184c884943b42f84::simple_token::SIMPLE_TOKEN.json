@@ -1,0 +1,13 @@
+{
+  "name": "DEPPORTATIONTRUMP",
+  "symbol": "DEPPORTATION",
+  "decimals": 9,
+  "coin_type": "0x4a7a50d38f528302315d9636aac19efddbcf04a9ca5eb67e184c884943b42f84::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

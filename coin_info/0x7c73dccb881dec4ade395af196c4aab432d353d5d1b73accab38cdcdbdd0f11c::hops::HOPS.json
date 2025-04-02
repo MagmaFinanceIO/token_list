@@ -1,0 +1,13 @@
+{
+  "name": "HopSoul",
+  "symbol": "HopS",
+  "decimals": 6,
+  "coin_type": "0x7c73dccb881dec4ade395af196c4aab432d353d5d1b73accab38cdcdbdd0f11c::hops::HOPS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmTDKRGW9SF1yf5ShGVdV6Hr3AbraDP2t7oxPTEgAYgwSj",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

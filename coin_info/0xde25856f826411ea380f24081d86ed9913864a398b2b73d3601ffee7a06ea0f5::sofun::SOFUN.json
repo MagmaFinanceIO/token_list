@@ -1,0 +1,13 @@
+{
+  "name": "socials.fun",
+  "symbol": "SOFUN",
+  "decimals": 9,
+  "coin_type": "0xde25856f826411ea380f24081d86ed9913864a398b2b73d3601ffee7a06ea0f5::sofun::SOFUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmScPnATQ3Xo19FMFuUqgiePZ9Dx4pUDZgS4X7dZjJnQ7f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

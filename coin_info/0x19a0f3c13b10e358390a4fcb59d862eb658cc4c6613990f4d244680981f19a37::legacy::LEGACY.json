@@ -1,0 +1,13 @@
+{
+  "name": "Sui Legacy",
+  "symbol": "LEGACY",
+  "decimals": 6,
+  "coin_type": "0x19a0f3c13b10e358390a4fcb59d862eb658cc4c6613990f4d244680981f19a37::legacy::LEGACY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/84bc9392-611d-4b42-9074-ff7e732e8813.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

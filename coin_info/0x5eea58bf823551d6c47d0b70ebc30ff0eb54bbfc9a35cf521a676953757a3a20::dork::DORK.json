@@ -1,0 +1,13 @@
+{
+  "name": "DORKLORD",
+  "symbol": "DORK",
+  "decimals": 9,
+  "coin_type": "0x5eea58bf823551d6c47d0b70ebc30ff0eb54bbfc9a35cf521a676953757a3a20::dork::DORK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/827d16c4-dcae-4e8d-b7da-e5916691d0ba.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

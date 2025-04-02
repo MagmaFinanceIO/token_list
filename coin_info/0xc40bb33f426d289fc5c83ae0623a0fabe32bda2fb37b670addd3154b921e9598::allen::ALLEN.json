@@ -1,0 +1,13 @@
+{
+  "name": "Allen Iverson",
+  "symbol": "Allen",
+  "decimals": 9,
+  "coin_type": "0xc40bb33f426d289fc5c83ae0623a0fabe32bda2fb37b670addd3154b921e9598::allen::ALLEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Bt7ibHhpjxQpmJvdgMAm8TzZ7XYkv4nXVeKnppJLpump.png?size=lg&key=cb4ec9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

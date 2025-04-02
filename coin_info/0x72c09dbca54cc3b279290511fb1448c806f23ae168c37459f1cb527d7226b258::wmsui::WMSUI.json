@@ -1,0 +1,13 @@
+{
+  "name": "Waterman",
+  "symbol": "WMSUI",
+  "decimals": 6,
+  "coin_type": "0x72c09dbca54cc3b279290511fb1448c806f23ae168c37459f1cb527d7226b258::wmsui::WMSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/n5_Ct_l_Ep_400x400_ceee7b9bfd.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Trump  cat",
+  "symbol": "TRCAT",
+  "decimals": 9,
+  "coin_type": "0x62947f97519bd372a57ab9eda5632b54ca2bf2637a2cf2c43c3cabe32a04e898::trcat::TRCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3701c370-66fa-4ece-9d8c-714ef91892e2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

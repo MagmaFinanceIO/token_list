@@ -1,0 +1,13 @@
+{
+  "name": "Birds Coin",
+  "symbol": "BIRDS",
+  "decimals": 6,
+  "coin_type": "0xb834c5d598dc55f42148191b30edff088ba8151a45d4fbbed39e51740eb75bf0::birds::BIRDS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/Sm7sjXw/birds.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

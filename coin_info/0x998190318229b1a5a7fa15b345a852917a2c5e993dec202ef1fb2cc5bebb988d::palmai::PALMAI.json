@@ -1,0 +1,13 @@
+{
+  "name": "PaLM AI",
+  "symbol": "PALMAI",
+  "decimals": 9,
+  "coin_type": "0x998190318229b1a5a7fa15b345a852917a2c5e993dec202ef1fb2cc5bebb988d::palmai::PALMAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7uym9UFNK1R9ckpRKtXJpBWUodoNmMcqR3Eshqt1S4LL.png?size=lg&key=ddf2c0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

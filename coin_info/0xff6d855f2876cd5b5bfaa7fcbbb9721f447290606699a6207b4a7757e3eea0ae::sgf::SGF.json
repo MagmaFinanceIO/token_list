@@ -1,0 +1,13 @@
+{
+  "name": "Smoking Sui Giga Fish",
+  "symbol": "SGF",
+  "decimals": 6,
+  "coin_type": "0xff6d855f2876cd5b5bfaa7fcbbb9721f447290606699a6207b4a7757e3eea0ae::sgf::SGF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmdF5cs4EQtKrFzaWw6HJjmn3Xg35N5xxK6vDS25F39e1j",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

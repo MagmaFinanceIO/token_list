@@ -1,0 +1,13 @@
+{
+  "name": "Trump ETF",
+  "symbol": "TRUMPETF",
+  "decimals": 9,
+  "coin_type": "0xfedfc2fa20fecc88cdcb14c08bd16d70aa1749462c19883a3978ed2459aa39b3::trumpetf::TRUMPETF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DjKv81vVaDDxg1rhacALUnRLbNere9atJehECbXXaH1Z.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

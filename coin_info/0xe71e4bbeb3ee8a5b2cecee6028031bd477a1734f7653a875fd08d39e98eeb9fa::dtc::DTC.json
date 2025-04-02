@@ -1,0 +1,13 @@
+{
+  "name": "Trump Classic",
+  "symbol": "DTC",
+  "decimals": 2,
+  "coin_type": "0xe71e4bbeb3ee8a5b2cecee6028031bd477a1734f7653a875fd08d39e98eeb9fa::dtc::DTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9b1d7b92-f40c-4578-aa54-d9882a694138.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Ber",
+  "symbol": "ber",
+  "decimals": 9,
+  "coin_type": "0x246f044580a21e5b5efa88fc3c800f927be9ba27cd071ce1585a7eae2d303cc2::ber::BER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/49634ffb-1ca9-4576-8ff5-0d7f00d653da.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

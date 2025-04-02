@@ -1,0 +1,13 @@
+{
+  "name": "Mine Da Seagull",
+  "symbol": "MINE",
+  "decimals": 6,
+  "coin_type": "0xbd51cfc350c13f2e7bde7ae273d82c019b59fd54cb5d40995ffc8ab0a17561dc::mine::MINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/dodo_azul_c4fdc8d452.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

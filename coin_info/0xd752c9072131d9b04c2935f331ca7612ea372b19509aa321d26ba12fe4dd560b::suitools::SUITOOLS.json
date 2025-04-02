@@ -1,0 +1,13 @@
+{
+  "name": "SuiTools",
+  "symbol": "SUITOOLS",
+  "decimals": 6,
+  "coin_type": "0xd752c9072131d9b04c2935f331ca7612ea372b19509aa321d26ba12fe4dd560b::suitools::SUITOOLS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000028974_64cf101c40.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

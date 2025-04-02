@@ -1,0 +1,13 @@
+{
+  "name": "BTCMAGA",
+  "symbol": "BTCMAGA",
+  "decimals": 9,
+  "coin_type": "0x15fa1ef6cb4e2087b359870d7172ae914e3291f5184d2e76f0a3219dea05ab31::btcmaga::BTCMAGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6jUuyUjPNQr4DiDmhQm7us8cpk13k8gKpoWxc23Spump.png?size=lg&key=ba65b3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Official Trump Coin",
+  "symbol": "OTC",
+  "decimals": 9,
+  "coin_type": "0xf202e7709f9b82f79ef59e6788f0063f2334154b1cf1167a32576e74182a2395::otc::OTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CLKiLJJbRtEz3j6M3G4tWYXdPUKFByQjPgNhB3hepump.png?size=lg&key=782800",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

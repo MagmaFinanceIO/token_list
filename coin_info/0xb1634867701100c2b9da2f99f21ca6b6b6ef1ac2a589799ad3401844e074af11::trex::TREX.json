@@ -1,0 +1,13 @@
+{
+  "name": "Tyrannosui rex",
+  "symbol": "TREX",
+  "decimals": 9,
+  "coin_type": "0xb1634867701100c2b9da2f99f21ca6b6b6ef1ac2a589799ad3401844e074af11::trex::TREX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8134d6b4-97a4-427f-89fc-243054672dda.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

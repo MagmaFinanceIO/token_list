@@ -1,0 +1,13 @@
+{
+  "name": "First Bebe on Sui",
+  "symbol": "BEBE",
+  "decimals": 6,
+  "coin_type": "0xb25318745a7f4387fe2f2048fef986d2e326d3582e562c2f3495a643c2595d68::bebe::BEBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_40_086c46ef0f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

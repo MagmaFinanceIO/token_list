@@ -1,0 +1,13 @@
+{
+  "name": "loading AI",
+  "symbol": "LOADING",
+  "decimals": 6,
+  "coin_type": "0x9b11758d077d99a4f11328b5f7fd3dc86fee0b1f4fa57324720f9b668d1532b5::loading::LOADING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_YV_Pyb_Je8u_Z8_KVF_9wu_Y_Zfbaj_E2_Jh3_A_Hm_F_Arn_U_Sb_ZX_Eusv_2a866a5d12.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

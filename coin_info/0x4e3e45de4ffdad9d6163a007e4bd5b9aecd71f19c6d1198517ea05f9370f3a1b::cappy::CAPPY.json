@@ -1,0 +1,13 @@
+{
+  "name": "SUI CAPPYBARA",
+  "symbol": "CAPPY",
+  "decimals": 9,
+  "coin_type": "0x4e3e45de4ffdad9d6163a007e4bd5b9aecd71f19c6d1198517ea05f9370f3a1b::cappy::CAPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1861363623807098880/nncoebF3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

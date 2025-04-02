@@ -1,0 +1,13 @@
+{
+  "name": "Secret of Chill Guy",
+  "symbol": "DUREX",
+  "decimals": 9,
+  "coin_type": "0x626e1311b1555fc4ddeae744f4881ace412f04e796591203082830b7de7f2a09::durex::DUREX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5PRHyeWfZN82yxyfNjLsvmjixLcwnGD6JSVN7PLcpump.png?size=lg&key=e207d3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

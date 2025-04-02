@@ -1,0 +1,13 @@
+{
+  "name": "Jepe",
+  "symbol": "JEPE",
+  "decimals": 6,
+  "coin_type": "0x1bd099bf772974d6ce003e9357c6581a409fe8c48f8dd2e280e0f55f5c60abf1::jepe::JEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731163424794.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

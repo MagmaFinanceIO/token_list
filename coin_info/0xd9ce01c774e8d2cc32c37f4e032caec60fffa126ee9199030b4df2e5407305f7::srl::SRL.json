@@ -1,0 +1,13 @@
+{
+  "name": "Suirrel",
+  "symbol": "SRL",
+  "decimals": 6,
+  "coin_type": "0xd9ce01c774e8d2cc32c37f4e032caec60fffa126ee9199030b4df2e5407305f7::srl::SRL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmWNT3jGjZFRsz7ipsNyX8gwtptujcwaxgqde2yG5RsWCo",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

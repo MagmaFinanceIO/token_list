@@ -1,0 +1,13 @@
+{
+  "name": "HOPLESS",
+  "symbol": "HOPLESS",
+  "decimals": 9,
+  "coin_type": "0xc452846fab4fb115dd99c279d4471d5aac0f0fcbfc2e78e84fa5dff56d39b369::hopless::HOPLESS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/25a5adcb-2ac5-4eea-a43a-981e544dbaaf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

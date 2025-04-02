@@ -1,0 +1,13 @@
+{
+  "name": "Benin",
+  "symbol": "Benin",
+  "decimals": 2,
+  "coin_type": "0x4067e8bae3da8d6b5c3bfc43f3b7b047a16acf67f84efde973df97830c08a917::benin::BENIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f95031d1-3217-4a85-91d1-3d7d69c1d8c0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

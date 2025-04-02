@@ -1,0 +1,13 @@
+{
+  "name": "SNUFFLE AI",
+  "symbol": "SNUFFLE",
+  "decimals": 9,
+  "coin_type": "0xc5a762110900180263b6a4635ccbf8b7bf5562cff16e76179b237a00e9ef2aa0::snuffle::SNUFFLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CwWhn6D2A8ngq1UHX5xeDUJ2BpB1hMvYuPmGuVMxpump.png?size=lg&key=d87ba4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

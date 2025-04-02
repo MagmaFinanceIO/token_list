@@ -1,0 +1,13 @@
+{
+  "name": "Stink Coin",
+  "symbol": "STINKCOIN",
+  "decimals": 9,
+  "coin_type": "0xc8f23b2b799c9b95fe8780a6bc753578440822a5467e2f40f633b021087d2f10::stinkcoin::STINKCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9ZWmgaewdaH2Ljfi3iE8A7umcJcxJz83ZakkfEPApump.png?claimId=OZU90xBs-55vKpg1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

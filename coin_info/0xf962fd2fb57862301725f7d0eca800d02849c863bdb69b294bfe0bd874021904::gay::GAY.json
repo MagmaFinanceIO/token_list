@@ -1,0 +1,13 @@
+{
+  "name": "Gay token",
+  "symbol": "GAY",
+  "decimals": 9,
+  "coin_type": "0xf962fd2fb57862301725f7d0eca800d02849c863bdb69b294bfe0bd874021904::gay::GAY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/156b1351-d4a9-4d47-a0a4-a74f89f112bb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

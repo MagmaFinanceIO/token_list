@@ -1,0 +1,13 @@
+{
+  "name": "Blueber Doge",
+  "symbol": "BLUBER",
+  "decimals": 9,
+  "coin_type": "0x23244fa47398a510ca289edd36ff16327cb74c555585a4a02ce12804d0b6eb2e::bluber::BLUBER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fd031509-0a65-4073-9b5b-5b62e4f8724d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

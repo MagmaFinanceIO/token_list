@@ -1,0 +1,13 @@
+{
+  "name": "Buddy",
+  "symbol": "Buddy",
+  "decimals": 9,
+  "coin_type": "0xd6ae10a1eabdbdf816e7bc0ea94b569cc327ad8f78ccfd92f4a8baa3eb4e8d74::buddy::BUDDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/Ih8I-SvcxXJAeKbD?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

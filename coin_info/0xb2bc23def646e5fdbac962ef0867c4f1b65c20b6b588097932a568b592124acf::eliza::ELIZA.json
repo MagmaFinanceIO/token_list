@@ -1,0 +1,13 @@
+{
+  "name": "ELIZA SUI",
+  "symbol": "ELIZA",
+  "decimals": 9,
+  "coin_type": "0xb2bc23def646e5fdbac962ef0867c4f1b65c20b6b588097932a568b592124acf::eliza::ELIZA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4eKpTh1XedMmDc41sTfYmGDtALQYYHZZyawdwPMPpump.png?size=lg&key=06c304",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

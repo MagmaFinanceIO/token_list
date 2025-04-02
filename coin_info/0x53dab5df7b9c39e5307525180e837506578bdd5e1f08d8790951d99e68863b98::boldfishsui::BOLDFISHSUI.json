@@ -1,0 +1,13 @@
+{
+  "name": "KOI ON SUI",
+  "symbol": "BOLDFISHSUI",
+  "decimals": 6,
+  "coin_type": "0x53dab5df7b9c39e5307525180e837506578bdd5e1f08d8790951d99e68863b98::boldfishsui::BOLDFISHSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/imagem_2024_10_13_215210821_c9d6be0e81.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

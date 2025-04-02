@@ -1,0 +1,13 @@
+{
+  "name": "Cheshire Cat",
+  "symbol": "CCAT",
+  "decimals": 9,
+  "coin_type": "0x85868b542714126523daccd20ef01865c8414e637a542bb11f392968a69dadaf::ccat::CCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c66ae08d-a519-44a8-843a-729a0a09fe08.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

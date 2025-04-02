@@ -1,0 +1,13 @@
+{
+  "name": "Yawn Sui",
+  "symbol": "$YAWN",
+  "decimals": 6,
+  "coin_type": "0x99f69072cc31c6b5fad0abd5832b405be721f220ec35676dbba7b80f88d507e6::yawnsui::YAWNSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://belaunchio.infura-ipfs.io/ipfs/QmUC1bkJ83pPpPgAHfu5dHUS3c1RzTFyioHwKSmUSkKosx",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

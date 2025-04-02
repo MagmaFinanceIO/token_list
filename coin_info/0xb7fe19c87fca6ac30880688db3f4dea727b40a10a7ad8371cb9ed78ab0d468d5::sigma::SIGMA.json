@@ -1,0 +1,13 @@
+{
+  "name": "Sigma",
+  "symbol": "SIGMA",
+  "decimals": 9,
+  "coin_type": "0xb7fe19c87fca6ac30880688db3f4dea727b40a10a7ad8371cb9ed78ab0d468d5::sigma::SIGMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GFcEXBFqng9MXkSCojwYhnnCksQyDxPigd3Vz9y2pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

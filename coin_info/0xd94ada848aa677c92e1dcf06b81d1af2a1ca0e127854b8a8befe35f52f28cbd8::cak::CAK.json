@@ -1,0 +1,13 @@
+{
+  "name": "Payment 15",
+  "symbol": "Payment 15",
+  "decimals": 6,
+  "coin_type": "0xd94ada848aa677c92e1dcf06b81d1af2a1ca0e127854b8a8befe35f52f28cbd8::cak::CAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "__Url here__",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

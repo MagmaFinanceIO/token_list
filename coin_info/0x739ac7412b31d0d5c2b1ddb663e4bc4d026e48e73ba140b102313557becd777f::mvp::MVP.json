@@ -1,0 +1,13 @@
+{
+  "name": "MVP",
+  "symbol": "MVP",
+  "decimals": 9,
+  "coin_type": "0x739ac7412b31d0d5c2b1ddb663e4bc4d026e48e73ba140b102313557becd777f::mvp::MVP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

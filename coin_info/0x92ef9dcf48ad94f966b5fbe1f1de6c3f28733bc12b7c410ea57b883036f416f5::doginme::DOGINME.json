@@ -1,0 +1,13 @@
+{
+  "name": "doginme",
+  "symbol": "DOGINME",
+  "decimals": 6,
+  "coin_type": "0x92ef9dcf48ad94f966b5fbe1f1de6c3f28733bc12b7c410ea57b883036f416f5::doginme::DOGINME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/49329508-45e0-4fa4-9fd6-b62dd04eef3a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

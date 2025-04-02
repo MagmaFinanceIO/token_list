@@ -1,0 +1,13 @@
+{
+  "name": "Persona",
+  "symbol": "PERSAI",
+  "decimals": 9,
+  "coin_type": "0x94bacc2d63aae3326c5359a46d69421b3e9253220d39914b23d6b363d9869071::persai::PERSAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Ae4G3HTJ4UhGsNdgZfxVNKHpLbrgpzX7XJzKU9LbGeNX.png?size=lg&key=70eae2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

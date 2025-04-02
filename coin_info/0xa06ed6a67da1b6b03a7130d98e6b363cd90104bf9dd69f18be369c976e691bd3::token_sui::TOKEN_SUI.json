@@ -1,0 +1,13 @@
+{
+  "name": "Sui Santa",
+  "symbol": "SuiAnta",
+  "decimals": 9,
+  "coin_type": "0xa06ed6a67da1b6b03a7130d98e6b363cd90104bf9dd69f18be369c976e691bd3::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2Fsuianta1_e7a72c49a1.gif&w=256&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

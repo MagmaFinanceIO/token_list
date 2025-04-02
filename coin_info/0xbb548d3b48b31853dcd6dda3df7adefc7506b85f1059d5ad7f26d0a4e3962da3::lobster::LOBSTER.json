@@ -1,0 +1,13 @@
+{
+  "name": "Sui Lobster",
+  "symbol": "LOBSTER",
+  "decimals": 9,
+  "coin_type": "0xbb548d3b48b31853dcd6dda3df7adefc7506b85f1059d5ad7f26d0a4e3962da3::lobster::LOBSTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/QmcY5BaYWQu9dUUCVjHeznSbFNbV3sdBBzeHaBG7zN3S29",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

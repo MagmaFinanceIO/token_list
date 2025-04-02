@@ -1,0 +1,13 @@
+{
+  "name": "Atomi",
+  "symbol": "ATM",
+  "decimals": 9,
+  "coin_type": "0xef2501aa82205db15d93bc57eac73ce5c0649c94697f1e165ffc367435e9b7e7::atm::ATM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

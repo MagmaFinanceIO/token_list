@@ -1,0 +1,13 @@
+{
+  "name": "RIGBY ON SUI",
+  "symbol": "RIGBY",
+  "decimals": 9,
+  "coin_type": "0x6fdf62062f06ddccc74c849c76a3d0e91298b229adf72da7f47dc31e73b643d2::rigby::RIGBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c4f05816-2d0c-4c77-814e-34b5740ec5b6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

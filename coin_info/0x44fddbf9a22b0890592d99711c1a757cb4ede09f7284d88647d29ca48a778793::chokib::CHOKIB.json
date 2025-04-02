@@ -1,0 +1,13 @@
+{
+  "name": "CHOKI BEAR",
+  "symbol": "ChokiB",
+  "decimals": 9,
+  "coin_type": "0x44fddbf9a22b0890592d99711c1a757cb4ede09f7284d88647d29ca48a778793::chokib::CHOKIB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1181c561-bf2c-40d1-abfb-f05029fd4d69.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

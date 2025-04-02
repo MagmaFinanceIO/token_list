@@ -1,0 +1,13 @@
+{
+  "name": "sui token",
+  "symbol": "sui",
+  "decimals": 9,
+  "coin_type": "0x4bbdc3052c725fef09f14ebe3b23821e20980ced41fbd489a759d513c643dc84::bond_curve::BOND_CURVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://suiapi.memestore.io/images/2024/08/27/5623084a734950b8e429f9c9a81eba80.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

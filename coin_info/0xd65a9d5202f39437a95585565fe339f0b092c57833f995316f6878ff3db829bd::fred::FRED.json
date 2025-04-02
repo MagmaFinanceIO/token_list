@@ -1,0 +1,13 @@
+{
+  "name": "First Convicted RACCON",
+  "symbol": "FRED",
+  "decimals": 9,
+  "coin_type": "0xd65a9d5202f39437a95585565fe339f0b092c57833f995316f6878ff3db829bd::fred::FRED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmTC19j44inyueVnQF3wQRG8KSoXCSJB8m5VhhH9BJeURX",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

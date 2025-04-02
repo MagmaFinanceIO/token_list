@@ -1,0 +1,13 @@
+{
+  "name": "Yes on SUI",
+  "symbol": "Yes",
+  "decimals": 9,
+  "coin_type": "0x0e2bb50386fe44643c99caccb57081c60f6a3526c7c02df4db406c68caec84e3::yes::YES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6Rx89EvU1fNGv5htXGTUs3HPoQjcYSLh8KDd5RPwpump.png?size=xl&key=8e8e82",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HIGH VOLTAGE",
+  "symbol": "ZAP",
+  "decimals": 6,
+  "coin_type": "0x048a4191efc296f4444bc8656ba6a9166345592c937e881eb09aac0f3be98e62::zap::ZAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/zap.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

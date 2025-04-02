@@ -1,0 +1,13 @@
+{
+  "name": "FROGAI",
+  "symbol": "FROGAI",
+  "decimals": 6,
+  "coin_type": "0x77b96089a415c931781b0ea8b8897e34857036b61a6ed9d7449de080ca4d12d0::frogai::FROGAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/bera_1_fca62f7631.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

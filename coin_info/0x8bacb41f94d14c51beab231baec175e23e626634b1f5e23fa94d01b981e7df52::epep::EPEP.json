@@ -1,0 +1,13 @@
+{
+  "name": "epep",
+  "symbol": "EPEP",
+  "decimals": 6,
+  "coin_type": "0x8bacb41f94d14c51beab231baec175e23e626634b1f5e23fa94d01b981e7df52::epep::EPEP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qmb_Wyb5_Ngkb_TT_Hm_F675xw6iq_P93a_YG_Go_Yy_TW_Cb_Qmz44_A9_N_cbe7b05874.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

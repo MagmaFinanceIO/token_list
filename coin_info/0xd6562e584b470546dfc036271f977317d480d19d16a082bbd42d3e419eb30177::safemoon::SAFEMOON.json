@@ -1,0 +1,13 @@
+{
+  "name": "Safe Moon",
+  "symbol": "SAFEMOON",
+  "decimals": 9,
+  "coin_type": "0xd6562e584b470546dfc036271f977317d480d19d16a082bbd42d3e419eb30177::safemoon::SAFEMOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a7e796b7-faba-4c52-9170-fd2c647f5410.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

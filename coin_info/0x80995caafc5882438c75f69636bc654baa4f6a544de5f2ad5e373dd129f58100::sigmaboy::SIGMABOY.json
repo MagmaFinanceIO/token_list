@@ -1,0 +1,13 @@
+{
+  "name": "Sigma Sigma Boy",
+  "symbol": "SigmaBoy",
+  "decimals": 9,
+  "coin_type": "0x80995caafc5882438c75f69636bc654baa4f6a544de5f2ad5e373dd129f58100::sigmaboy::SIGMABOY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/694d0f84-4813-437b-ba9f-8cdf032f3e41.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

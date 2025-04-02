@@ -1,0 +1,13 @@
+{
+  "name": "THE SUIRFS",
+  "symbol": "SUIRFS",
+  "decimals": 6,
+  "coin_type": "0xb82ce132cf733d20fa8d085dc8dfd8cd071a1047d357f6a2224316425dab851b::suirfs::SUIRFS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000009116_139d799e3b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BRO",
+  "symbol": "BRO",
+  "decimals": 9,
+  "coin_type": "0x956aefb5ed319dc025badc2afb2436dfb56938fe1a755212a659d9fec2289591::bro::BRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://futureby.info/wp-content/uploads/2023/08/sui.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

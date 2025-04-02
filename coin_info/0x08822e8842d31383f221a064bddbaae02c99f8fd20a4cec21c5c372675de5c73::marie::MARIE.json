@@ -1,0 +1,13 @@
+{
+  "name": "Marie Rose",
+  "symbol": "Marie",
+  "decimals": 9,
+  "coin_type": "0x08822e8842d31383f221a064bddbaae02c99f8fd20a4cec21c5c372675de5c73::marie::MARIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmPGowbun9qZddcFtZaCHyD4Wi1mibiyhEDayNsdCmq5Lf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Dnut the Psycho Squirrel",
+  "symbol": "DNUT",
+  "decimals": 9,
+  "coin_type": "0x4156c61f6a5b10f54f1dab77bdcc9836fa69ade4797aedeeae9232e22c312c71::DNUT::DNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AdwDgNiuvxMBCoJVTXeNrjhTFh1sF7bAaCxUVAn4rGWz.png?size=xl&key=c933fd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

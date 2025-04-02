@@ -1,0 +1,13 @@
+{
+  "name": "SuiWorld",
+  "symbol": "SuiW",
+  "decimals": 9,
+  "coin_type": "0xbe99f746ddeffc13b1bd589026846e61d480d896edb623a0996f95e0a9fd7755::suiw_rd_28_12_2024::SUIW_RD_28_12_2024",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreide6r5oki56m422l6fbzafku7u4uswsd2jgug5fnprtxtkarmmmbi.ipfs.w3s.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SBULL",
+  "symbol": "SBULL",
+  "decimals": 9,
+  "coin_type": "0xf4c5a6239ca9f67be98ea96d023f6be9a08081867aa7fba4b270098d68238f5c::sbull::SBULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

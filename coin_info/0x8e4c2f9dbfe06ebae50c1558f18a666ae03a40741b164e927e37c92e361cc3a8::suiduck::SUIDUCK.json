@@ -1,0 +1,13 @@
+{
+  "name": "SuiDuckPlay",
+  "symbol": "SUIDUCK",
+  "decimals": 9,
+  "coin_type": "0x8e4c2f9dbfe06ebae50c1558f18a666ae03a40741b164e927e37c92e361cc3a8::suiduck::SUIDUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0f5b415a-6c42-4062-91e8-6dba08cf2ae1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Bonkey on Sui",
+  "symbol": "BONKEY",
+  "decimals": 6,
+  "coin_type": "0x10c2a93793e0f675cc272c9698b680fbf410e50da0badee659120fda4c9bb029::bonkey::BONKEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_12_11_20_39_01_de6f0d5ff2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

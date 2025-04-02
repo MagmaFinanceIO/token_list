@@ -1,0 +1,13 @@
+{
+  "name": "Beloved Squirrel the tunaeP",
+  "symbol": "TUNP",
+  "decimals": 6,
+  "coin_type": "0x5e552d55d2ea5bc2d23f248884a751340ae4bbccf4a33cbc6e6a10013772bd22::tunp::TUNP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/tunp_8d0362afe9.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

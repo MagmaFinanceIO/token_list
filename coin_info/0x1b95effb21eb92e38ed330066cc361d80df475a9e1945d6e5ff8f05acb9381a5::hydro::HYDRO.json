@@ -1,0 +1,13 @@
+{
+  "name": "Hydro Homies",
+  "symbol": "HYDRO",
+  "decimals": 8,
+  "coin_type": "0x1b95effb21eb92e38ed330066cc361d80df475a9e1945d6e5ff8f05acb9381a5::hydro::HYDRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fd29608c-5c36-4b04-beb8-433b055aa1fe.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

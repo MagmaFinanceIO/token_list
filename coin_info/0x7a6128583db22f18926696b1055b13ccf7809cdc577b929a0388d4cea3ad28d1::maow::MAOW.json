@@ -1,0 +1,13 @@
+{
+  "name": "Maow",
+  "symbol": "MAOW",
+  "decimals": 6,
+  "coin_type": "0x7a6128583db22f18926696b1055b13ccf7809cdc577b929a0388d4cea3ad28d1::maow::MAOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/20241216_020015_885a28c9c8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

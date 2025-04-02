@@ -1,0 +1,13 @@
+{
+  "name": "DAKKI AI by SuiAI",
+  "symbol": "DAKAI",
+  "decimals": 6,
+  "coin_type": "0x8fe77b996914ab871eaea7a3a8b1b58d9579b2ce6f1a7f949dd661ee198a300e::dakai::DAKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/0x41636c138167952207c88f5a75e433c9e880bc7bd5e4e46047d82be266d36712_dak_dak_34d688bd1e.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

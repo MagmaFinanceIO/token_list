@@ -1,0 +1,13 @@
+{
+  "name": "Treecarbon",
+  "symbol": "TCB",
+  "decimals": 9,
+  "coin_type": "0x14e6408569c030dfd9c0fc89ad51bc9f5adf512bf4993b5785b492767fcb07b2::tcb::TCB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e186a476-66b4-4df2-88cb-e9042e95a3f3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

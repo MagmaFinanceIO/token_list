@@ -1,0 +1,13 @@
+{
+  "name": "PEIPEI ON SUI",
+  "symbol": "SUIPEI",
+  "decimals": 6,
+  "coin_type": "0x16cc8515efa0f653790f6e55b97231f88ecd6d73f6706c21090965706dfe3290::suipei::SUIPEI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/peipei_sui_15e9dbc3b8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

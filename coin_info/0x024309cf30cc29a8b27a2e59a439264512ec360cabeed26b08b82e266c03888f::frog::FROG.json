@@ -1,0 +1,13 @@
+{
+  "name": "frog",
+  "symbol": "frg",
+  "decimals": 9,
+  "coin_type": "0x024309cf30cc29a8b27a2e59a439264512ec360cabeed26b08b82e266c03888f::frog::FROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqN0Hsy4Epj6DrXa8RLuQZIZpBIjK8HNUKmA&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

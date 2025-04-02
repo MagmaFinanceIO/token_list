@@ -1,0 +1,13 @@
+{
+  "name": "ShizoBlub",
+  "symbol": "Shizo",
+  "decimals": 6,
+  "coin_type": "0x905674eb8f5737a70513b5f13ca06a400b7c3108c56565e811f3883ab2712197::shizo::SHIZO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9a82bfae-10d4-4258-b490-a2cbfa0d2381.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

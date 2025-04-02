@@ -1,0 +1,13 @@
+{
+  "name": "DonPollo",
+  "symbol": "DonPollo",
+  "decimals": 9,
+  "coin_type": "0x585a31e608c03adfec92192b227ee19b1ed128ac349e599703a880b0d716195e::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

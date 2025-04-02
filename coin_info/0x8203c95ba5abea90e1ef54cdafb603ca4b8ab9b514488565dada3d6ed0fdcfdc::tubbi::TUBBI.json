@@ -1,0 +1,13 @@
+{
+  "name": "Tubbi",
+  "symbol": "TUBBI",
+  "decimals": 9,
+  "coin_type": "0x8203c95ba5abea90e1ef54cdafb603ca4b8ab9b514488565dada3d6ed0fdcfdc::tubbi::TUBBI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c155c5fb-3211-4feb-9214-9b13542befaa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

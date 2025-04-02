@@ -1,0 +1,13 @@
+{
+  "name": "ChatGPT",
+  "symbol": "CHATTY",
+  "decimals": 9,
+  "coin_type": "0xc86810ffcd01b55d39f8013ff12ddb5b019e58e8318b59af659eac866847cefa::chatty::CHATTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9EwutmiMiLHoH5hj5aCLMDJUdsLZVg926ZmDdr8Ppump.png?size=lg&key=e32f98",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

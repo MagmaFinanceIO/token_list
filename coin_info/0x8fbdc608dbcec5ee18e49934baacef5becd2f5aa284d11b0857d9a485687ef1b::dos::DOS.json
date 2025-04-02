@@ -1,0 +1,13 @@
+{
+  "name": "DogsOnSui",
+  "symbol": "DOS",
+  "decimals": 6,
+  "coin_type": "0x8fbdc608dbcec5ee18e49934baacef5becd2f5aa284d11b0857d9a485687ef1b::dos::DOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmT2M1dW8UfUJjxi8WZGD7w1FTzJnVekDSTKcuTjXFqEUe",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

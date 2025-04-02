@@ -1,0 +1,13 @@
+{
+  "name": "SOHOHO",
+  "symbol": "SOHOHO",
+  "decimals": 9,
+  "coin_type": "0x5e1c655ad188b85008b098bd5c30c05029a960e14af02d270e9724382cefc341::sohoho::SOHOHO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5YobY4uK5qPLc4P8Edjh9Wj2MZ6sRcECGFHaNjWdpump.png?size=lg&key=e951d9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

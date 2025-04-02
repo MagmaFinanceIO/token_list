@@ -1,0 +1,13 @@
+{
+  "name": "Seal Trump Sui",
+  "symbol": "STS",
+  "decimals": 6,
+  "coin_type": "0xaf5fa40d3041068606a7060aaeb82d754651922e94b7ebf8b26ba16b43de1a2e::sts::STS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Whats_App_Image_2024_12_15_at_10_04_10_AM_1_bec8f1b3e4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

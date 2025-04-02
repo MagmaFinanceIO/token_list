@@ -1,0 +1,13 @@
+{
+  "name": "MAC M4",
+  "symbol": "MAC",
+  "decimals": 6,
+  "coin_type": "0x5c1e72a34119b33f587c646a7a1844369e69529cc4881c9395d3231c2ed384e8::mac::MAC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://public-cdn.daossui.io/assets/tokens/cbb6d510-df1c-11ef-9dba-070b578638a0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

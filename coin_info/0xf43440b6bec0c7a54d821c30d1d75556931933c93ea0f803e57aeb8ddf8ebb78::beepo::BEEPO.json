@@ -1,0 +1,13 @@
+{
+  "name": "BEEPO THE PANDA",
+  "symbol": "BEEPO",
+  "decimals": 9,
+  "coin_type": "0xf43440b6bec0c7a54d821c30d1d75556931933c93ea0f803e57aeb8ddf8ebb78::beepo::BEEPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e7d77812-bc9a-42b7-ba5d-0af7b4084259.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

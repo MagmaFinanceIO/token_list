@@ -1,0 +1,13 @@
+{
+  "name": "Sui Pengu",
+  "symbol": "SPENGU",
+  "decimals": 9,
+  "coin_type": "0x3de81fd9a72a29820d471e423a1628f29bfae5765f1def1e7ab6c96c184b7a95::sui_pengu::SUI_PENGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreih3o3gnk2f4e5ssnffw6r3pntghfuxzsge2kxhm3wv2epejizcwxi.ipfs.w3s.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Kolwaii",
+  "symbol": "KWAII",
+  "decimals": 9,
+  "coin_type": "0xeebc5e31f6a5e44d6897bc4dd94d970582e18f39f5a30a78b7653cd7c0421ff4::kwaii::KWAII",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmaEfNSGX7NpXy5DMmnYxqQByErPmVgjL2MGFshzL9eA8N",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

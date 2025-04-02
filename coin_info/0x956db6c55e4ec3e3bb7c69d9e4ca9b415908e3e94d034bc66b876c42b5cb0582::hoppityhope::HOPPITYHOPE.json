@@ -1,0 +1,13 @@
+{
+  "name": "Hoppity Hope Cancer Coin",
+  "symbol": "HoppityHope",
+  "decimals": 9,
+  "coin_type": "0x956db6c55e4ec3e3bb7c69d9e4ca9b415908e3e94d034bc66b876c42b5cb0582::hoppityhope::HOPPITYHOPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d16426d5-aa71-4fc6-a1be-3daefc1012a6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "King Rubiks",
+  "symbol": "KingRubiks",
+  "decimals": 9,
+  "coin_type": "0x09d7e24871ebd32ffa975bb388d8722fd4669a2df52ea88098997bc9b12e5d86::kingrubiks::KINGRUBIKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3167f35d-43c0-4f7e-b8b6-9eee36402b3d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

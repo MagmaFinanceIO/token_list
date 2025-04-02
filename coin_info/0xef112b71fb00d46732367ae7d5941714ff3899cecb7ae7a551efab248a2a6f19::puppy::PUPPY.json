@@ -1,0 +1,13 @@
+{
+  "name": "Puppy Moon Mission",
+  "symbol": "PUPPY",
+  "decimals": 9,
+  "coin_type": "0xef112b71fb00d46732367ae7d5941714ff3899cecb7ae7a551efab248a2a6f19::puppy::PUPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/tBWadijd524kxynUSRy1s5xBR9PGZ6EwyucTTwQUYyV.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

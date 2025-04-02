@@ -1,0 +1,13 @@
+{
+  "name": "LinqAI",
+  "symbol": "LNQ",
+  "decimals": 9,
+  "coin_type": "0x648bd5cfd86cad7f4132ce4b586fd2a06579952f626477d78d0f49ae71264065::lnq::LNQ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xd4f4d0a10bcae123bb6655e8fe93a30d01eebd04.png?size=xl&key=b47484",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

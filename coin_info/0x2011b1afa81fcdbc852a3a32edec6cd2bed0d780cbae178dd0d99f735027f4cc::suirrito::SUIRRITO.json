@@ -1,0 +1,13 @@
+{
+  "name": "SUIRRITO",
+  "symbol": "SUIRRITO",
+  "decimals": 9,
+  "coin_type": "0x2011b1afa81fcdbc852a3a32edec6cd2bed0d780cbae178dd0d99f735027f4cc::suirrito::SUIRRITO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4d959a01-b55b-4284-9e6a-7150c77b1fbb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

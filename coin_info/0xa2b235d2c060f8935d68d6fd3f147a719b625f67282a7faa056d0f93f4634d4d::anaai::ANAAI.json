@@ -1,0 +1,13 @@
+{
+  "name": "ANA AI ",
+  "symbol": "ANAAI",
+  "decimals": 9,
+  "coin_type": "0xa2b235d2c060f8935d68d6fd3f147a719b625f67282a7faa056d0f93f4634d4d::anaai::ANAAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qme4yuXyhg21Ufms8h3rRDPRvW2yfRG1Et7Xw9uMtN6g45",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

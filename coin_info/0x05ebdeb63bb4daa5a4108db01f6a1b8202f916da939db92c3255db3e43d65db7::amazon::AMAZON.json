@@ -1,0 +1,13 @@
+{
+  "name": "Melania Amazon",
+  "symbol": "Amazon",
+  "decimals": 6,
+  "coin_type": "0x05ebdeb63bb4daa5a4108db01f6a1b8202f916da939db92c3255db3e43d65db7::amazon::AMAZON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Amazon_TK_Cy2j_1cp_Uh_P_Wkhmof_a73314c14f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

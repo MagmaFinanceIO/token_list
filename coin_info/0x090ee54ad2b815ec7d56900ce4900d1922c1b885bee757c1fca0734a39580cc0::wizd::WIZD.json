@@ -1,0 +1,13 @@
+{
+  "name": "WIZARD OG",
+  "symbol": "WIZD",
+  "decimals": 6,
+  "coin_type": "0x090ee54ad2b815ec7d56900ce4900d1922c1b885bee757c1fca0734a39580cc0::wizd::WIZD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmYM5HoWMH7N65SmbqVJHDYkooNujto1bfkEzGoVb3oZxe",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

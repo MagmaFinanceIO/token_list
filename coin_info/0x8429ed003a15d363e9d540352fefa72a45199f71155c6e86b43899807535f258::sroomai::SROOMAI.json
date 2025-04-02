@@ -1,0 +1,13 @@
+{
+  "name": "SROOM AI",
+  "symbol": "SroomAI",
+  "decimals": 6,
+  "coin_type": "0x8429ed003a15d363e9d540352fefa72a45199f71155c6e86b43899807535f258::sroomai::SROOMAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736526154615.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

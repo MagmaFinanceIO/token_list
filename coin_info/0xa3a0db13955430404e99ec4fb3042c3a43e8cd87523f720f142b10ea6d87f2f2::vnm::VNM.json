@@ -1,0 +1,13 @@
+{
+  "name": "Venom",
+  "symbol": "VNM",
+  "decimals": 9,
+  "coin_type": "0xa3a0db13955430404e99ec4fb3042c3a43e8cd87523f720f142b10ea6d87f2f2::vnm::VNM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dc6ca29d-e4bb-4678-a1cf-9b36b361bb47.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

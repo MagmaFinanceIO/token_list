@@ -1,0 +1,13 @@
+{
+  "name": "EBULL",
+  "symbol": "EBULL",
+  "decimals": 9,
+  "coin_type": "0x22c48895b06dac6564f125f674128783b8dd03f7c8e208696cfdf88d4c3db436::ebull::EBULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6b5670e4-1d33-436b-b96a-04ff9d07d4ac.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

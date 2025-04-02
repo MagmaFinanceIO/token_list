@@ -1,0 +1,13 @@
+{
+  "name": "Baby Blub",
+  "symbol": "BBBLUB",
+  "decimals": 6,
+  "coin_type": "0x926db47e3a9606e08f759e5df0ea8ebbf730e183b0611225c17f1d1020009d4b::bbblub::BBBLUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736565423046.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIYAN CAT",
+  "symbol": "SCAT",
+  "decimals": 6,
+  "coin_type": "0x27956c8dc223744495b3eaf69c7583abc99e7e3bca0f02226132fb360bf7e007::scat::SCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_2342_dc7a99fad7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Baby Dino",
+  "symbol": "BBDINO",
+  "decimals": 6,
+  "coin_type": "0xbca4e8ff663a533cf430f5a1559bd372f84b162fe5f226bbda5bde9606ab46f0::bbdino::BBDINO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736577743037.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

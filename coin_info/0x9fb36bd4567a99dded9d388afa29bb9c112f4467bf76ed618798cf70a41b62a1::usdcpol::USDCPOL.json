@@ -1,0 +1,13 @@
+{
+  "name": "USD Coin (portal Polygon)",
+  "symbol": "USDCpol",
+  "decimals": 6,
+  "coin_type": "0x9fb36bd4567a99dded9d388afa29bb9c112f4467bf76ed618798cf70a41b62a1::usdcpol::USDCPOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ea643d78-6381-495d-939f-807722939387.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

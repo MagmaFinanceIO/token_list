@@ -1,0 +1,13 @@
+{
+  "name": "Griddy",
+  "symbol": "GRIDDY",
+  "decimals": 9,
+  "coin_type": "0x69a93bc397c43c46d80d308584573300ad28b9b8f60ee44bdd6f87241a74016a::griddy::GRIDDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A21r5h19iHhQt6b7vzkgHNgMaSAR9YSazGeJedJepump.png?size=lg&key=54f4d0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

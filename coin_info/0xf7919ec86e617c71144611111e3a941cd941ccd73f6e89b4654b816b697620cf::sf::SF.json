@@ -1,0 +1,13 @@
+{
+  "name": "STARFISH SUI",
+  "symbol": "SF",
+  "decimals": 6,
+  "coin_type": "0xf7919ec86e617c71144611111e3a941cd941ccd73f6e89b4654b816b697620cf::sf::SF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/STARFISH_38b36da639.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

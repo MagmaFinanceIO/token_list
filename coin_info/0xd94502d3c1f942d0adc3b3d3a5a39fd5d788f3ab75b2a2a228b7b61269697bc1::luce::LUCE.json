@@ -1,0 +1,13 @@
+{
+  "name": "Luce",
+  "symbol": "Luce",
+  "decimals": 6,
+  "coin_type": "0xd94502d3c1f942d0adc3b3d3a5a39fd5d788f3ab75b2a2a228b7b61269697bc1::luce::LUCE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmZDVFcDL7L4uHZ5iARsnAxdqew8XGas2DirU6Pc4iB9jw",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

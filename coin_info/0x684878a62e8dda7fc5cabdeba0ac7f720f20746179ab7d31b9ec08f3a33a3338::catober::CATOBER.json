@@ -1,0 +1,13 @@
+{
+  "name": "CATOBER",
+  "symbol": "CATOBER",
+  "decimals": 9,
+  "coin_type": "0x684878a62e8dda7fc5cabdeba0ac7f720f20746179ab7d31b9ec08f3a33a3338::catober::CATOBER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a6c3d859-fbf2-4a9d-a35e-2a829fbda840.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

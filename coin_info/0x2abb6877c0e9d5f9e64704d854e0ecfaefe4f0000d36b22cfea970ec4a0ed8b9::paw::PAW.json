@@ -1,0 +1,13 @@
+{
+  "name": "PAWChain Protocol",
+  "symbol": "PAW",
+  "decimals": 9,
+  "coin_type": "0x2abb6877c0e9d5f9e64704d854e0ecfaefe4f0000d36b22cfea970ec4a0ed8b9::paw::PAW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5c4697f2-76ef-4c69-8fc1-f52d57a21f20.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ChillGuy's Mother",
+  "symbol": "ChillMom",
+  "decimals": 9,
+  "coin_type": "0x746ebe6b0d157ed8ddf0820cd9ed5fb77c9f77d52c9836300745da1a9fa3c471::chillmom::CHILLMOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EwguSv35BKG9TCS7kCu93GtKA4QvkD5PUqwmRNWPGLfo.png?size=lg&key=aaf592",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

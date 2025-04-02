@@ -1,0 +1,13 @@
+{
+  "name": "Crypto Bangla Taka",
+  "symbol": "CBT",
+  "decimals": 9,
+  "coin_type": "0xae8e60ab29e0aa3192438f50742a4c247e73d0405fc51e8689419c0c070bb43c::cbt::CBT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bbce88d9-6586-4571-be66-4e88321c801c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

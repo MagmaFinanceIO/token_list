@@ -1,0 +1,13 @@
+{
+  "name": "haWAL",
+  "symbol": "haWAL",
+  "decimals": 9,
+  "coin_type": "0x8b4d553839b219c3fd47608a0cc3d5fcc572cb25d41b7df3833208586a8d2470::hawal::HAWAL",
+  "pyth_id": "",
+  "birdeyeid": "0x8b4d553839b219c3fd47608a0cc3d5fcc572cb25d41b7df3833208586a8d2470::hawal::HAWAL",
+  "coin_priority": [],
+  "logo_url": "https://assets.haedal.xyz/logos/hawal.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

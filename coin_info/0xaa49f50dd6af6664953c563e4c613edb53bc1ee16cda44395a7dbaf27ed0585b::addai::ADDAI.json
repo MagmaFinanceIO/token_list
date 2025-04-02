@@ -1,0 +1,13 @@
+{
+  "name": "AddOn AI",
+  "symbol": "ADDAI",
+  "decimals": 6,
+  "coin_type": "0xaa49f50dd6af6664953c563e4c613edb53bc1ee16cda44395a7dbaf27ed0585b::addai::ADDAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e67ee077-6151-4e60-bbde-298c6a7df457.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

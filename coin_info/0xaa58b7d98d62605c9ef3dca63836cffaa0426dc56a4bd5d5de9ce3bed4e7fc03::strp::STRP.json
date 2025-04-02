@@ -1,0 +1,13 @@
+{
+  "name": "SUITRUMP",
+  "symbol": "STRP",
+  "decimals": 6,
+  "coin_type": "0xaa58b7d98d62605c9ef3dca63836cffaa0426dc56a4bd5d5de9ce3bed4e7fc03::strp::STRP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731270955983.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

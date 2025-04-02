@@ -1,0 +1,13 @@
+{
+  "name": "Agent Zynk",
+  "symbol": "ZYNK",
+  "decimals": 9,
+  "coin_type": "0x186a83c0fdc26a01b6f06800e3927d86b6fc97cc55c8bcefbfd8d446647eed09::zynk::ZYNK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/82477f4a-d0ea-4c37-981b-8391e01b8888.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

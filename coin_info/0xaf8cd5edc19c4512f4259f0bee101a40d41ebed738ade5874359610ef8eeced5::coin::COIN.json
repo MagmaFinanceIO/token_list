@@ -1,0 +1,15 @@
+{
+  "name": "Wrapped Ether (Portal from Eth)",
+  "symbol": "WETH",
+  "decimals": 8,
+  "coin_type": "0xaf8cd5edc19c4512f4259f0bee101a40d41ebed738ade5874359610ef8eeced5::coin::COIN",
+  "pyth_id": "ff61491a931112ddf1bd8147cd1b641375f79f5825126d665480874634fd0ace",
+  "birdeyeid": "0xaf8cd5edc19c4512f4259f0bee101a40d41ebed738ade5874359610ef8eeced5::coin::COIN",
+  "coin_priority": [
+    "940"
+  ],
+  "logo_url": "https://t4gq524jdiihjr6ihouhzsemfczi3eq2cnjyhbfms5utl3hueu6q.arweave.net/nw0O64kaEHTHyDuofMiMKLKNkhoTU4OErJdpNez0JT0",
+  "project_url": "",
+  "coingecko_id": "ethereum-wormhole",
+  "is_trusted": true
+}

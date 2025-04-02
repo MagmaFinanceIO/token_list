@@ -1,0 +1,13 @@
+{
+  "name": "MANGO THE MONKEY",
+  "symbol": "MTM",
+  "decimals": 9,
+  "coin_type": "0x9274b0fc2ec7698abc4fc0c1e4e8b8affd400a3f79e81b81128f2adf17d1340d::mtm::MTM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9QGXQ1vPovpG75CEAGyUoCBEnk25qhJSzh7XBBD2pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

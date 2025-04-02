@@ -1,0 +1,13 @@
+{
+  "name": "Chill Slug Guy",
+  "symbol": "CHILLSLUG",
+  "decimals": 9,
+  "coin_type": "0x11106f69754e67c8804bd7b2b6043b9b95f471d5a998088b674a5ccccdc8fffd::chillslug::CHILLSLUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ee31e7b9-676a-490b-b409-8d4ed190600b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

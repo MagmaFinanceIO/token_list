@@ -1,0 +1,13 @@
+{
+  "name": "Koval Token",
+  "symbol": "DKTX",
+  "decimals": 9,
+  "coin_type": "0x11b4df28340e22cccd9110cda56fab258eeed4a29387cabd9a6df6ba07dc4246::dktx::DKTX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/41da37ad-9026-46e3-9a43-d00771a568cf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Windows",
+  "symbol": "WINDOWS",
+  "decimals": 9,
+  "coin_type": "0x41093e21fa91d930b6e9ae5dddbf7e8aec14d7e95b547b86861e87cebd052899::windows::WINDOWS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/w1nS1eDDZU6EgA6b5zzFFaTLU7g3hyT3mKF7KsDMmRi.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

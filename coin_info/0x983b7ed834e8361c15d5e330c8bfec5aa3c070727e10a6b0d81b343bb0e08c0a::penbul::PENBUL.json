@@ -1,0 +1,13 @@
+{
+  "name": "Penguin Bulldog",
+  "symbol": "PENBUL",
+  "decimals": 6,
+  "coin_type": "0x983b7ed834e8361c15d5e330c8bfec5aa3c070727e10a6b0d81b343bb0e08c0a::penbul::PENBUL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0946_790f2450d9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

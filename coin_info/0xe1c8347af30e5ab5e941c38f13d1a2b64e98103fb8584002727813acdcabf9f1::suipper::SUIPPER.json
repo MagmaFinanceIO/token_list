@@ -1,0 +1,13 @@
+{
+  "name": "Lets Eat",
+  "symbol": "Suipper",
+  "decimals": 9,
+  "coin_type": "0xe1c8347af30e5ab5e941c38f13d1a2b64e98103fb8584002727813acdcabf9f1::suipper::SUIPPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d9e56065-8700-48be-8fed-b763472cc2ff.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

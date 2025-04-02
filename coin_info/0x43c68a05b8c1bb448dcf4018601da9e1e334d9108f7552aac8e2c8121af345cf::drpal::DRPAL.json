@@ -1,0 +1,13 @@
+{
+  "name": "SAA-AI",
+  "symbol": "DrPAL",
+  "decimals": 9,
+  "coin_type": "0x43c68a05b8c1bb448dcf4018601da9e1e334d9108f7552aac8e2c8121af345cf::drpal::DRPAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/H2814bJjmr8N6VrNAQkTsBscN3BSvDn4HDgSceTcpump.png?size=lg&key=5236ca",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

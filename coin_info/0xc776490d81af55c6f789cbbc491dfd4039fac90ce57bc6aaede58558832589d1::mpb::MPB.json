@@ -1,0 +1,13 @@
+{
+  "name": "Master Polar Bear",
+  "symbol": "MPB",
+  "decimals": 9,
+  "coin_type": "0xc776490d81af55c6f789cbbc491dfd4039fac90ce57bc6aaede58558832589d1::mpb::MPB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump-static.cetus.zone/icon/c6444bd2-f1d1-4cff-9ff3-b73884bb7cf3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

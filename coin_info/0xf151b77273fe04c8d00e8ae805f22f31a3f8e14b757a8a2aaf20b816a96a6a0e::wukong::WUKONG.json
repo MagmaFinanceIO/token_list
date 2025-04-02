@@ -1,0 +1,13 @@
+{
+  "name": "WUKONG",
+  "symbol": "WUKONG",
+  "decimals": 9,
+  "coin_type": "0xf151b77273fe04c8d00e8ae805f22f31a3f8e14b757a8a2aaf20b816a96a6a0e::wukong::WUKONG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ee257c02-7a27-4625-a651-ab6cab6ba130.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

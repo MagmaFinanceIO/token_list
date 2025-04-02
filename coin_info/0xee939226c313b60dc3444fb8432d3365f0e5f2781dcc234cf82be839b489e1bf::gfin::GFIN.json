@@ -1,0 +1,13 @@
+{
+  "name": "GLOWFIN",
+  "symbol": "GFIN",
+  "decimals": 6,
+  "coin_type": "0xee939226c313b60dc3444fb8432d3365f0e5f2781dcc234cf82be839b489e1bf::gfin::GFIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/hlowfinnn_606f13b8cc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

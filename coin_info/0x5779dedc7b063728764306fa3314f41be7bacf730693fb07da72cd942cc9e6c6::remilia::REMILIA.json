@@ -1,0 +1,13 @@
+{
+  "name": "Remilia",
+  "symbol": "Remilia",
+  "decimals": 9,
+  "coin_type": "0x5779dedc7b063728764306fa3314f41be7bacf730693fb07da72cd942cc9e6c6::remilia::REMILIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://teal-deliberate-skunk-670.mypinata.cloud/ipfs/QmcrHtGatQmZeqdE749A3W3Ym587wGEp9hdEuHq7GKboup",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

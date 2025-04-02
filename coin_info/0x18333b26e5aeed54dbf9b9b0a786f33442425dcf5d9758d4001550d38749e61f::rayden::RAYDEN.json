@@ -1,0 +1,13 @@
+{
+  "name": "Rayden on SUI",
+  "symbol": "RAYDEN",
+  "decimals": 6,
+  "coin_type": "0x18333b26e5aeed54dbf9b9b0a786f33442425dcf5d9758d4001550d38749e61f::rayden::RAYDEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3509_02aa76e16e.JPEG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

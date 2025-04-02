@@ -1,0 +1,13 @@
+{
+  "name": "retardionaire",
+  "symbol": "MITCH",
+  "decimals": 6,
+  "coin_type": "0x35bdda567633e091fe376c4299146c541ebb8fd9b8def1fc2d1cc92060a7389a::mitch::MITCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/DKJX_2398_a3de2d4b61.JPEG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

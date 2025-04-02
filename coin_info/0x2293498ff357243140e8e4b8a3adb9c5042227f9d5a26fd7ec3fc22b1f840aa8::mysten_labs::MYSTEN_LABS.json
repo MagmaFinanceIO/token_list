@@ -1,0 +1,13 @@
+{
+  "name": "Sui Mysten Labs",
+  "symbol": "Mysten Labs",
+  "decimals": 9,
+  "coin_type": "0x2293498ff357243140e8e4b8a3adb9c5042227f9d5a26fd7ec3fc22b1f840aa8::mysten_labs::MYSTEN_LABS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bc64f97a-8288-4056-b454-e1ddc4709cda.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

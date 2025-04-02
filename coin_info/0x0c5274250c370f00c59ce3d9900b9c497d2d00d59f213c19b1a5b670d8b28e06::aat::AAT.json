@@ -1,0 +1,13 @@
+{
+  "name": "aaa turtle",
+  "symbol": "AAT",
+  "decimals": 6,
+  "coin_type": "0x0c5274250c370f00c59ce3d9900b9c497d2d00d59f213c19b1a5b670d8b28e06::aat::AAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/giphy_0ae96ceb50.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

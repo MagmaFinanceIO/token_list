@@ -1,0 +1,13 @@
+{
+  "name": "azur cryptus sui",
+  "symbol": "AZUR",
+  "decimals": 6,
+  "coin_type": "0x96e6324acc19147d8a5db18b3d2d15bc74747c03b777430675f1ee4cd287df9d::azur::AZUR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20250110_025622_594_152f77bab8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

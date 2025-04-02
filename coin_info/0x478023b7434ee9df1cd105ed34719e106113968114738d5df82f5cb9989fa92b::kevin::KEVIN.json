@@ -1,0 +1,13 @@
+{
+  "name": "Wet Bandits",
+  "symbol": "KEVIN",
+  "decimals": 6,
+  "coin_type": "0x478023b7434ee9df1cd105ed34719e106113968114738d5df82f5cb9989fa92b::kevin::KEVIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5795_3502495c42.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

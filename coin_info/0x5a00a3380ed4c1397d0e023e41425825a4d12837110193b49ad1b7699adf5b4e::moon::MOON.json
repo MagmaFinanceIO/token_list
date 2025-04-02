@@ -1,0 +1,13 @@
+{
+  "name": "Moon",
+  "symbol": "MN",
+  "decimals": 2,
+  "coin_type": "0x5a00a3380ed4c1397d0e023e41425825a4d12837110193b49ad1b7699adf5b4e::moon::MOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3c86d496-1c05-440b-ab0f-fc7642fe9805.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

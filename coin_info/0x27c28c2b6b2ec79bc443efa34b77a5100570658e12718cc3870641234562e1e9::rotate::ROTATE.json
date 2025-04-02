@@ -1,0 +1,13 @@
+{
+  "name": "Rotate to this",
+  "symbol": "Rotate",
+  "decimals": 9,
+  "coin_type": "0x27c28c2b6b2ec79bc443efa34b77a5100570658e12718cc3870641234562e1e9::rotate::ROTATE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HLQXXeC5yEjQx5bEePLsPA1USBNZE2GppFVrnkhRpump.png?claimId=H88jfLagupbsmVJy",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

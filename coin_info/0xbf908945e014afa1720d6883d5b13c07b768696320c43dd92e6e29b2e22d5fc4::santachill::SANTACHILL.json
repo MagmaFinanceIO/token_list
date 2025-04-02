@@ -1,0 +1,13 @@
+{
+  "name": "Santa Chill Guy",
+  "symbol": "SANTACHILL",
+  "decimals": 9,
+  "coin_type": "0xbf908945e014afa1720d6883d5b13c07b768696320c43dd92e6e29b2e22d5fc4::santachill::SANTACHILL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FaBkQy6t1iuWt3ynEsUzFsa2mhpkLW7bGwR1id5Hpump.png?size=lg&key=03f45c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

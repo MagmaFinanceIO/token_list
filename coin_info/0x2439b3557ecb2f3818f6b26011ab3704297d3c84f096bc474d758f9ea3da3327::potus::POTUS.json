@@ -1,0 +1,13 @@
+{
+  "name": "President of the United States",
+  "symbol": "POTUS",
+  "decimals": 9,
+  "coin_type": "0x2439b3557ecb2f3818f6b26011ab3704297d3c84f096bc474d758f9ea3da3327::potus::POTUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Fy4DC1btDJnDtqs7zaEoxTyeZWsGBNPcmnFANFgmpump.png?size=lg&key=f43c8c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

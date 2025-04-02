@@ -1,0 +1,13 @@
+{
+  "name": "OrbiTalk AI",
+  "symbol": "OrbiTalk",
+  "decimals": 9,
+  "coin_type": "0x78edf0654babe549b3b4e70267fd4a46242562ef351e249e5b594de77f0fdb81::orbitalk::ORBITALK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7CWrSnoejv8h3UruFn2kwk5WG156t7yW5rQv7n6EbXWX.png?size=lg&key=482889",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

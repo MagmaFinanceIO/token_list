@@ -1,0 +1,13 @@
+{
+  "name": "Xin Coin",
+  "symbol": "XINCoin",
+  "decimals": 9,
+  "coin_type": "0x4a9be769427bdd1a623687398a58b69843d80d4a8b1fdefcd13a4cf5f59be00c::xincoin::XINCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/096ba4e2-59ee-4a16-9e67-cb1bb994fdc9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

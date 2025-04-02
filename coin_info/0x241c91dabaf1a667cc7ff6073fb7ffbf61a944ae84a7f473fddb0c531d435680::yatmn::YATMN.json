@@ -1,0 +1,13 @@
+{
+  "name": "You Are The Media Now",
+  "symbol": "YATMN",
+  "decimals": 6,
+  "coin_type": "0x241c91dabaf1a667cc7ff6073fb7ffbf61a944ae84a7f473fddb0c531d435680::yatmn::YATMN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/7175b947_ec81_410e_b163_256ab6c7fda3_542b74ac62.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

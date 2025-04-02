@@ -1,0 +1,13 @@
+{
+  "name": "CenaCoin",
+  "symbol": "CENA",
+  "decimals": 9,
+  "coin_type": "0x96ca085ac380b695b75858dd3a96c59f5c106b18b61cc80556a195193d5551aa::cena::CENA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/61d14601-1079-401a-98d7-c147c645a154.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

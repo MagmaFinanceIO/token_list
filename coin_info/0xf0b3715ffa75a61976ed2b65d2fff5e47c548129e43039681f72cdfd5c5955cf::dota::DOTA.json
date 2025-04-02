@@ -1,0 +1,13 @@
+{
+  "name": "DOTA",
+  "symbol": "DOTA",
+  "decimals": 9,
+  "coin_type": "0xf0b3715ffa75a61976ed2b65d2fff5e47c548129e43039681f72cdfd5c5955cf::dota::DOTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pandora's Box",
+  "symbol": "PB",
+  "decimals": 6,
+  "coin_type": "0x53287640a4e0b1a3590dda3b06b5f9992523990006ac7701c5aebfe7c760f5b9::pb::PB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Kakao_Talk_20241210_192616235_6ace2dfcae.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

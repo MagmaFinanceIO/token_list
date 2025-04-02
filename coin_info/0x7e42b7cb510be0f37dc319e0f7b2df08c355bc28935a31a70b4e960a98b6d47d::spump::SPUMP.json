@@ -1,0 +1,13 @@
+{
+  "name": "Sui Pump",
+  "symbol": "SPump",
+  "decimals": 6,
+  "coin_type": "0x7e42b7cb510be0f37dc319e0f7b2df08c355bc28935a31a70b4e960a98b6d47d::spump::SPUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pumpok_d5fc1f1aa1.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

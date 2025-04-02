@@ -1,0 +1,13 @@
+{
+  "name": "Ninja Choki",
+  "symbol": "Choki",
+  "decimals": 9,
+  "coin_type": "0x3da779164d23e4f61704c80fd83a77443c1b68677cb39eb3b3e3e9f9dc627ef3::choki::CHOKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bc7b3d84-19ea-4947-a0d2-13fa8f29cd98.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

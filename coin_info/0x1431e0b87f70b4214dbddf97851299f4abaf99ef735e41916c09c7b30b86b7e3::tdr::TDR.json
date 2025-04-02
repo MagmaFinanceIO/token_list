@@ -1,0 +1,13 @@
+{
+  "name": "Trump Dead Redemption",
+  "symbol": "TDR",
+  "decimals": 6,
+  "coin_type": "0x1431e0b87f70b4214dbddf97851299f4abaf99ef735e41916c09c7b30b86b7e3::tdr::TDR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/trump_dead_redemption_3ac1b3e45d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

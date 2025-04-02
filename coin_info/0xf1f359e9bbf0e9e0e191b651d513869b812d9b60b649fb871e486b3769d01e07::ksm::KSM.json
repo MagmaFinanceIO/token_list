@@ -1,0 +1,13 @@
+{
+  "name": "Kekius SuiMus",
+  "symbol": "KSM",
+  "decimals": 9,
+  "coin_type": "0xf1f359e9bbf0e9e0e191b651d513869b812d9b60b649fb871e486b3769d01e07::ksm::KSM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a5d9d6a8-942c-4c97-888c-7d0cea643830.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

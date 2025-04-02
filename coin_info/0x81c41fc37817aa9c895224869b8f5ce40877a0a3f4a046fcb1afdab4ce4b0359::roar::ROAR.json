@@ -1,0 +1,13 @@
+{
+  "name": "Roaring Kitty",
+  "symbol": "ROAR",
+  "decimals": 9,
+  "coin_type": "0x81c41fc37817aa9c895224869b8f5ce40877a0a3f4a046fcb1afdab4ce4b0359::roar::ROAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5848cf1b-efca-4106-84c4-138dbfde28a9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIWhale🐳",
+  "symbol": "SUIWHALE",
+  "decimals": 2,
+  "coin_type": "0x53df1ba8a2b1077a1266e236f190db5d3ab04f0816262181d8a654bfe53721a8::suiwhale::SUIWHALE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e6c4076a-6053-41fe-976f-ebecab22d738.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

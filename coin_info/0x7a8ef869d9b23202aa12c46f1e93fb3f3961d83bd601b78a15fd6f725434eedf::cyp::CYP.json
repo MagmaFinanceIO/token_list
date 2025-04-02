@@ -1,0 +1,13 @@
+{
+  "name": "Cryptopard",
+  "symbol": "CYP",
+  "decimals": 9,
+  "coin_type": "0x7a8ef869d9b23202aa12c46f1e93fb3f3961d83bd601b78a15fd6f725434eedf::cyp::CYP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ca3777ae-a741-485f-b2c4-4a1c54ec8423.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

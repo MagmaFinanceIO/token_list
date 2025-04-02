@@ -1,0 +1,13 @@
+{
+  "name": "JOHNNY BANANAS",
+  "symbol": "BANANAS",
+  "decimals": 9,
+  "coin_type": "0x1c3b9963a92b7da215a7c0ed6f838ff9bf5a478656587c14bd4a60ab30d22c3b::bananas::BANANAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/95oPaptqGNM1EQDKccxQbvietKwcXFF9AYx3T9RYJmYY.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

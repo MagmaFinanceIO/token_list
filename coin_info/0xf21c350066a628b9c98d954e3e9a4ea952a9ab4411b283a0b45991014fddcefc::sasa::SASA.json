@@ -1,0 +1,13 @@
+{
+  "name": "Sardine",
+  "symbol": "SASA",
+  "decimals": 6,
+  "coin_type": "0xf21c350066a628b9c98d954e3e9a4ea952a9ab4411b283a0b45991014fddcefc::sasa::SASA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/sardine_6b4b7463b0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

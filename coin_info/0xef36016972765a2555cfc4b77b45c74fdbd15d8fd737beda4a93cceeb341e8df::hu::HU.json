@@ -1,0 +1,13 @@
+{
+  "name": "hu",
+  "symbol": "hu",
+  "decimals": 9,
+  "coin_type": "0xef36016972765a2555cfc4b77b45c74fdbd15d8fd737beda4a93cceeb341e8df::hu::HU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://red-legislative-sawfish-352.mypinata.cloud/ipfs/QmQyPsierfU2VapyWkqANU3PutBgV64fbr5CiLH7rnbtgV?pinataGatewayToken=qwXZ2V8f36cUnXhRN8WejldrMXAV9ybajZho4GEPLei95CQZ1fgKR_W8BqgDfTVM",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

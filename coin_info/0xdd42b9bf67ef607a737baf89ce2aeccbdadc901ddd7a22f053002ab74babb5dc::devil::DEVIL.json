@@ -1,0 +1,13 @@
+{
+  "name": "devils duo",
+  "symbol": "Devil",
+  "decimals": 9,
+  "coin_type": "0xdd42b9bf67ef607a737baf89ce2aeccbdadc901ddd7a22f053002ab74babb5dc::devil::DEVIL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ffc35e3e-4257-4f51-8e45-44064ba9596c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

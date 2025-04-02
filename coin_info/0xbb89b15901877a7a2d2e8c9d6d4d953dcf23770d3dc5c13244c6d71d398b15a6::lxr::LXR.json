@@ -1,0 +1,13 @@
+{
+  "name": "LXR",
+  "symbol": "LXR",
+  "decimals": 9,
+  "coin_type": "0xbb89b15901877a7a2d2e8c9d6d4d953dcf23770d3dc5c13244c6d71d398b15a6::lxr::LXR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

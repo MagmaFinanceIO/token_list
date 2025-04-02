@@ -1,0 +1,13 @@
+{
+  "name": "Oia Cat",
+  "symbol": "OIA",
+  "decimals": 0,
+  "coin_type": "0x5d32d5992704f79810af0562face9cd1ccd1ab667431b54b73770ee3595ec367::OIA::OIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c00a0c9f-18d2-41f8-a37b-18a0d272e3ab.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SKINNIE on SUI",
+  "symbol": "SKINNIE",
+  "decimals": 9,
+  "coin_type": "0x817c93c14a2600a6c1923a07fdf7d7c78d5686b16e01a9daac3048e167039e3f::skinnie::SKINNIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmVAUbo4EBAC42oiUF24y4NUopzPc817yZpJmKjPogZra6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

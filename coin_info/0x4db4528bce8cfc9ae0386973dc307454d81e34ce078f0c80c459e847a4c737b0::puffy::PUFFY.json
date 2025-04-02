@@ -1,0 +1,13 @@
+{
+  "name": "Puffy",
+  "symbol": "PUFFY",
+  "decimals": 9,
+  "coin_type": "0x4db4528bce8cfc9ae0386973dc307454d81e34ce078f0c80c459e847a4c737b0::puffy::PUFFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/D9paufRCehpk2YGRPkzJPEUDsvQjaTFKNyFDqgd4xqd.png?size=lg&key=58ee43",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

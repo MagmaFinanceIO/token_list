@@ -1,0 +1,13 @@
+{
+  "name": "Mutt Inu",
+  "symbol": "Mutt",
+  "decimals": 9,
+  "coin_type": "0xb4a3a7b7c380eb6d88b2ee13d8bd11adf28ab8bcacab304affec3d84e3af46c1::mutt::MUTT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/G9Vb4QtTZdW7LrssNacYxjoPYxaYy4SFCz4Y45Uzpump.png?size=lg&key=f58a0e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

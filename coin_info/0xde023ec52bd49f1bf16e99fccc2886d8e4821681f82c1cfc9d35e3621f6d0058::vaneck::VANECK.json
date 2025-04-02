@@ -1,0 +1,13 @@
+{
+  "name": "One of the first U.S. Asset Managers",
+  "symbol": "VanEck",
+  "decimals": 9,
+  "coin_type": "0xde023ec52bd49f1bf16e99fccc2886d8e4821681f82c1cfc9d35e3621f6d0058::vaneck::VANECK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://media.licdn.com/dms/image/v2/D560BAQH0ICw1Q_bB9A/company-logo_200_200/company-logo_200_200/0/1721198475133/vaneck_australia_logo?e=2147483647&v=beta&t=iyvE39N-g14DLGA_Rox6QfgZdu7T2QZDJmYNFn6h7hE",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

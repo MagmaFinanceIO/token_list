@@ -1,0 +1,13 @@
+{
+  "name": "Catana",
+  "symbol": "CATANA",
+  "decimals": 9,
+  "coin_type": "0xda767d38c59c279a78891a7a06132c43797832f78105836fdcd3dd4987cbf145::catana::CATANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GmbC2HgWpHpq9SHnmEXZNT5e1zgcU9oASDqbAkGTpump.png?size=lg&key=1c4706",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

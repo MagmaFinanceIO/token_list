@@ -1,0 +1,13 @@
+{
+  "name": "SHRIMPY",
+  "symbol": "SHRIMPY",
+  "decimals": 9,
+  "coin_type": "0x62185b3525d323d71547e23d7c9b19648ca420743bfb4dea9e422ad1e4984694::shrimpy::SHRIMPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/897d58ff-ad42-4cc3-9043-35e20c860f1a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

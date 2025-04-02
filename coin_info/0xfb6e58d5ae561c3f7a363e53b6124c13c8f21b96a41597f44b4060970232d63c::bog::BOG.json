@@ -1,0 +1,13 @@
+{
+  "name": "BOG THE FROG",
+  "symbol": "BOG",
+  "decimals": 9,
+  "coin_type": "0xfb6e58d5ae561c3f7a363e53b6124c13c8f21b96a41597f44b4060970232d63c::bog::BOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a48009ce-7272-4955-bd62-32401da817b0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

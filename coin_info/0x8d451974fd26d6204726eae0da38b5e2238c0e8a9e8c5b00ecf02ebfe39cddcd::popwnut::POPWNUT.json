@@ -1,0 +1,13 @@
+{
+  "name": "popwifnut",
+  "symbol": "POPWNUT",
+  "decimals": 9,
+  "coin_type": "0x8d451974fd26d6204726eae0da38b5e2238c0e8a9e8c5b00ecf02ebfe39cddcd::popwnut::POPWNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7a2uqzZXmvT6eq3ScuBUrqiJGyz3pA99Z3ZbHJyCpump.png?size=lg&key=7b601d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

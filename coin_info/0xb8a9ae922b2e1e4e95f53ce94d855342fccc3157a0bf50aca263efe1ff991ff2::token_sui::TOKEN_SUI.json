@@ -1,0 +1,13 @@
+{
+  "name": "Loopy 138",
+  "symbol": "LOOPY138",
+  "decimals": 9,
+  "coin_type": "0xb8a9ae922b2e1e4e95f53ce94d855342fccc3157a0bf50aca263efe1ff991ff2::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://strapi-dev.scand.app/uploads/image_3_e09c3cb20c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

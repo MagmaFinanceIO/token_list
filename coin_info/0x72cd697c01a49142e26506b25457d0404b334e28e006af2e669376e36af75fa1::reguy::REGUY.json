@@ -1,0 +1,13 @@
+{
+  "name": "Respectable guy",
+  "symbol": "REGUY",
+  "decimals": 9,
+  "coin_type": "0x72cd697c01a49142e26506b25457d0404b334e28e006af2e669376e36af75fa1::reguy::REGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3432fdec-71b1-4be0-8f09-827c11f1a778.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

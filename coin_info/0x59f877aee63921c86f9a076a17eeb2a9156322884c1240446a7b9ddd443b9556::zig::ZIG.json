@@ -1,0 +1,13 @@
+{
+  "name": "Ziggy",
+  "symbol": "ZIG",
+  "decimals": 9,
+  "coin_type": "0x59f877aee63921c86f9a076a17eeb2a9156322884c1240446a7b9ddd443b9556::zig::ZIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e76762ef-a7f6-4d5d-b572-0f83051fd9c4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

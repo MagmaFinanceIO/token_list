@@ -1,0 +1,13 @@
+{
+  "name": "PEPE COIN",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "coin_type": "0x7bd3499b3e14fdb58789f12b279b7a61597a07a525ba614ce44be50cdb67cb27::pepe::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7690_a12719aac7.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

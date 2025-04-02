@@ -1,0 +1,13 @@
+{
+  "name": "FREE INFOWARS",
+  "symbol": "INFOWARS",
+  "decimals": 9,
+  "coin_type": "0x7d5550c3a4f2c254d264adfe179fa0c27d8a14b04bc6575edc6577b62f5b0495::infowars::INFOWARS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6f9yB743Cf4RiRL7fAn9yRQ5VEnDEFVVYVoKwNr6pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

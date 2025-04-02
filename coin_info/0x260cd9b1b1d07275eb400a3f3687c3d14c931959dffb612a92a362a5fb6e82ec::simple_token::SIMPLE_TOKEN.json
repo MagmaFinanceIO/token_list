@@ -1,0 +1,13 @@
+{
+  "name": "HerGajria",
+  "symbol": "HerGajria",
+  "decimals": 9,
+  "coin_type": "0x260cd9b1b1d07275eb400a3f3687c3d14c931959dffb612a92a362a5fb6e82ec::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

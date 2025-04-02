@@ -1,0 +1,13 @@
+{
+  "name": "1888 MAX",
+  "symbol": "DOGE VIP",
+  "decimals": 9,
+  "coin_type": "0xaec3f1ee3e6f56d66bb104a2cefdde81ce1afb1907c57e6e3e2f15a20d95d3a2::doge_vip::DOGE_VIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8509ca4e-427a-4f5f-8a59-5c84221185a8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

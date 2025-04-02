@@ -1,0 +1,13 @@
+{
+  "name": "Sunfish",
+  "symbol": "SUNFISH",
+  "decimals": 6,
+  "coin_type": "0xeecb44247c41588dc00d4fb2edec9498921e634e7113627cfb073e126cfcb11f::sunfish::SUNFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/sunfish_1aa9bfa706.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

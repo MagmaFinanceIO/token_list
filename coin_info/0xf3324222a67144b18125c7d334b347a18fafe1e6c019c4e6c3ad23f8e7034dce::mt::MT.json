@@ -1,0 +1,13 @@
+{
+  "name": "MineTopia",
+  "symbol": "MT",
+  "decimals": 9,
+  "coin_type": "0xf3324222a67144b18125c7d334b347a18fafe1e6c019c4e6c3ad23f8e7034dce::mt::MT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/134cf87a-ef6e-4e0d-b665-a19dacb229da.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Cheetar",
+  "symbol": "CHEE",
+  "decimals": 9,
+  "coin_type": "0x24cb9dc83866cf538088df0a187ed2ca9bb04e63e266bf38e507f24c90d31c8c::chee::CHEE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a8893fc5-45f4-4f0f-bff3-1138bc4d1d4d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

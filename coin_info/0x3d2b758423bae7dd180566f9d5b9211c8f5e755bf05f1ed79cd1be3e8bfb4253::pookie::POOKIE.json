@@ -1,0 +1,13 @@
+{
+  "name": "POOKIE SUI CAT",
+  "symbol": "POOKIE",
+  "decimals": 9,
+  "coin_type": "0x3d2b758423bae7dd180566f9d5b9211c8f5e755bf05f1ed79cd1be3e8bfb4253::pookie::POOKIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/26cd7bce-a0e8-4d0a-b646-8cd5c6cd00ce.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

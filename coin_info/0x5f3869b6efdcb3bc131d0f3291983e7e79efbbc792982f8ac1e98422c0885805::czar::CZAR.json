@@ -1,0 +1,13 @@
+{
+  "name": "Crypto Czar",
+  "symbol": "CZAR",
+  "decimals": 9,
+  "coin_type": "0x5f3869b6efdcb3bc131d0f3291983e7e79efbbc792982f8ac1e98422c0885805::czar::CZAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DMPGmQLjdoJmCcACxbtfHP6YdurfcT9rg69Wb4d5W6Rf.png?size=lg&key=3f7359",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

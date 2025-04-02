@@ -1,0 +1,13 @@
+{
+  "name": "SUIDAE2.0",
+  "symbol": "PPPOLICE",
+  "decimals": 9,
+  "coin_type": "0x31640f9e8f61b32210910e958a16f284a3996cb8f96db4d60e3ccb937e69e0dd::pppolice::PPPOLICE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c3d4cd83-5572-4bb6-975e-0c720f40b7d5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

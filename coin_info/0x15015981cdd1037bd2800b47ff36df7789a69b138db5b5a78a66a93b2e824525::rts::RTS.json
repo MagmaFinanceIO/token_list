@@ -1,0 +1,13 @@
+{
+  "name": "RonaldoTrumpSui",
+  "symbol": "RTS",
+  "decimals": 9,
+  "coin_type": "0x15015981cdd1037bd2800b47ff36df7789a69b138db5b5a78a66a93b2e824525::rts::RTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/media/Cwv_elEUoAAyKT1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

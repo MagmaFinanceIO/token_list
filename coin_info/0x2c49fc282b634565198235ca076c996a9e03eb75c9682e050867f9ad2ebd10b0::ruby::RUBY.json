@@ -1,0 +1,13 @@
+{
+  "name": "RUBY",
+  "symbol": "RUBY",
+  "decimals": 9,
+  "coin_type": "0x2c49fc282b634565198235ca076c996a9e03eb75c9682e050867f9ad2ebd10b0::ruby::RUBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmVtheKHR4dtoKo5SQWG3Z39mF7N3ebrq58vodsnUfTZd2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

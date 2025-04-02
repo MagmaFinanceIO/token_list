@@ -1,0 +1,13 @@
+{
+  "name": "SUI BRETT",
+  "symbol": "BRETT",
+  "decimals": 6,
+  "coin_type": "0x9dcfe12ae80293c2d66de8aaf7cd978f92a8f563c5857f7a1e10407f2b08e89b::brett::BRETT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b267afd6-9dc2-47d3-b4b2-f5a3535d0518.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

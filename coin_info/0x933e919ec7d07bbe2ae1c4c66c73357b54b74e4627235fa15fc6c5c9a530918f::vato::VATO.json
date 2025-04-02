@@ -1,0 +1,13 @@
+{
+  "name": "PEPEVATO",
+  "symbol": "VATO",
+  "decimals": 9,
+  "coin_type": "0x933e919ec7d07bbe2ae1c4c66c73357b54b74e4627235fa15fc6c5c9a530918f::vato::VATO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/2Bq5GkcCQLsniFmr?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

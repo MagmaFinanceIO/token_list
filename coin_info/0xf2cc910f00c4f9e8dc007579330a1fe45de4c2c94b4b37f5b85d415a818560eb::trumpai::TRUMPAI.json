@@ -1,0 +1,13 @@
+{
+  "name": "TrumpAI",
+  "symbol": "TrumpAI",
+  "decimals": 9,
+  "coin_type": "0xf2cc910f00c4f9e8dc007579330a1fe45de4c2c94b4b37f5b85d415a818560eb::trumpai::TRUMPAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6255c816-5751-49e7-994e-79c99ca7747a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

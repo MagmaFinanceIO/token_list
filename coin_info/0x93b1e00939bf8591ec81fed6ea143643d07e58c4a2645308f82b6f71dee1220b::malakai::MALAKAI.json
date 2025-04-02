@@ -1,0 +1,13 @@
+{
+  "name": "Malakai",
+  "symbol": "Malakai",
+  "decimals": 9,
+  "coin_type": "0x93b1e00939bf8591ec81fed6ea143643d07e58c4a2645308f82b6f71dee1220b::malakai::MALAKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BAmHS42JqR51sZ6oqPhj4pcqi6dFFYDka77P4Q22pump.png?size=lg&key=382296",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

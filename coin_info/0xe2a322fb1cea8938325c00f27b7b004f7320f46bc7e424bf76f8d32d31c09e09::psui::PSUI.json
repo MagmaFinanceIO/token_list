@@ -1,0 +1,13 @@
+{
+  "name": "PEPESUI",
+  "symbol": "PSUI",
+  "decimals": 9,
+  "coin_type": "0xe2a322fb1cea8938325c00f27b7b004f7320f46bc7e424bf76f8d32d31c09e09::psui::PSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/db7ea27a-60f9-4aae-b249-b439de9c030d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

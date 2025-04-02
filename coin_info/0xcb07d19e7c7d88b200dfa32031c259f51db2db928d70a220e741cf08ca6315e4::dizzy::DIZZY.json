@@ -1,0 +1,13 @@
+{
+  "name": "DIZZY ON SUI",
+  "symbol": "DIZZY",
+  "decimals": 6,
+  "coin_type": "0xcb07d19e7c7d88b200dfa32031c259f51db2db928d70a220e741cf08ca6315e4::dizzy::DIZZY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/dizzy_25560c18e7.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

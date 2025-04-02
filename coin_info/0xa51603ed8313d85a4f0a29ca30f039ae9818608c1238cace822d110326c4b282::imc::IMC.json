@@ -1,0 +1,13 @@
+{
+  "name": "Indomaret",
+  "symbol": "IMC",
+  "decimals": 9,
+  "coin_type": "0xa51603ed8313d85a4f0a29ca30f039ae9818608c1238cace822d110326c4b282::imc::IMC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1198c384-f51f-4aad-81af-32e0cb851f5e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

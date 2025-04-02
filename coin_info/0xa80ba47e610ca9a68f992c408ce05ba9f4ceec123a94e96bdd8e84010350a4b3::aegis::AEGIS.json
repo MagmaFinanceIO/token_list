@@ -1,0 +1,13 @@
+{
+  "name": "AI DOGS ON SUI",
+  "symbol": "AEGIS",
+  "decimals": 9,
+  "coin_type": "0xa80ba47e610ca9a68f992c408ce05ba9f4ceec123a94e96bdd8e84010350a4b3::aegis::AEGIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/80915444-bd45-4666-903e-8f289c897ad6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

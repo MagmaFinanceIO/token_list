@@ -1,0 +1,13 @@
+{
+  "name": "DINO SHIBA SUI",
+  "symbol": "DINOSHIBA",
+  "decimals": 9,
+  "coin_type": "0x264b2be2be1adf6a9c80e0cebf610b087693c0a32dbc293d020c2d6836783c02::dinoshiba::DINOSHIBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ccec3495-9251-4977-b7af-5996814dcab6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

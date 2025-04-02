@@ -1,0 +1,13 @@
+{
+  "name": "RVOC2",
+  "symbol": "RVOcC",
+  "decimals": 9,
+  "coin_type": "0x6864c0088823f1d2e256d7282e219f87d176173ba6158762fa1edaa8d7fec0ac::rvocc::RVOCC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/64007bc2-46cc-43e2-9159-db12853d10b3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

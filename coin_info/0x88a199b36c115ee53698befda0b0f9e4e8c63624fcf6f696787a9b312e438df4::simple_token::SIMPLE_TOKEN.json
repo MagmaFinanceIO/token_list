@@ -1,0 +1,13 @@
+{
+  "name": "Chippy The Dog",
+  "symbol": "CHIPPY",
+  "decimals": 9,
+  "coin_type": "0x88a199b36c115ee53698befda0b0f9e4e8c63624fcf6f696787a9b312e438df4::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

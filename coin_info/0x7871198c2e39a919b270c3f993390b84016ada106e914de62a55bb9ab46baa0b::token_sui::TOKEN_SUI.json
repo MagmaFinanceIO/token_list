@@ -1,0 +1,13 @@
+{
+  "name": "Walker",
+  "symbol": "walker",
+  "decimals": 9,
+  "coin_type": "0x7871198c2e39a919b270c3f993390b84016ada106e914de62a55bb9ab46baa0b::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/981/076/large/pablo-dominguez-11.jpg?1729063685",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

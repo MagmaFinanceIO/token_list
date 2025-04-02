@@ -1,0 +1,13 @@
+{
+  "name": "BOG",
+  "symbol": "BOG",
+  "decimals": 9,
+  "coin_type": "0xef34d4134f532c218e403bdd6efa460264b8516a15543295f3e944da96ab5905::bog::BOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/698fa272-15be-4fbc-8e86-35c04fb28140.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

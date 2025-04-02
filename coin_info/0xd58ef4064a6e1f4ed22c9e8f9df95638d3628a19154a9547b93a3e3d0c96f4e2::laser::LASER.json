@@ -1,0 +1,13 @@
+{
+  "name": "Laser Eyes on Sui",
+  "symbol": "LASER",
+  "decimals": 6,
+  "coin_type": "0xd58ef4064a6e1f4ed22c9e8f9df95638d3628a19154a9547b93a3e3d0c96f4e2::laser::LASER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/20241109_185707_744cec92f4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

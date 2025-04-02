@@ -1,0 +1,13 @@
+{
+  "name": "Skimask Pnut",
+  "symbol": "SKIPNUT",
+  "decimals": 9,
+  "coin_type": "0x0d8547e89c8989674fef02c042c3df1803f70215317c986f622b8ad51b24e51e::skipnut::SKIPNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FG37QgnBBTSYroGpJTvfDuuq8e8CZSCQhMLTom3Ypump.png?size=lg&key=d14314",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

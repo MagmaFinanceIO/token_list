@@ -1,0 +1,13 @@
+{
+  "name": "Trump Sons",
+  "symbol": "TRUMPS",
+  "decimals": 6,
+  "coin_type": "0x1dc8cf69ad94a2ca0e19703aeada80dd133ef1fb1363777c57ac2ba05a3f5f02::trumps::TRUMPS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ece362f6-98d8-4041-9ccb-6c3a58e51f94.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

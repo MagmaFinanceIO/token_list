@@ -1,0 +1,13 @@
+{
+  "name": "SATOSHI",
+  "symbol": "TODD",
+  "decimals": 9,
+  "coin_type": "0x68e08a864c40a9be67c6bb239429445fc3dc21d24c3690e740059c29164c4667::todd::TODD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

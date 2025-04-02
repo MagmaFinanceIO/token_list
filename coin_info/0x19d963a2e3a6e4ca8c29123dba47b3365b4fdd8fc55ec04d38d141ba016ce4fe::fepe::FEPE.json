@@ -1,0 +1,13 @@
+{
+  "name": "FEPE COIN",
+  "symbol": "FEPE",
+  "decimals": 9,
+  "coin_type": "0x19d963a2e3a6e4ca8c29123dba47b3365b4fdd8fc55ec04d38d141ba016ce4fe::fepe::FEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/105420be-568e-43ec-ac83-a864e40d461e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

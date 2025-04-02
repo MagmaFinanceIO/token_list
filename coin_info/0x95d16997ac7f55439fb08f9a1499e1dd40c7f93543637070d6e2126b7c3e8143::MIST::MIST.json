@@ -1,0 +1,13 @@
+{
+  "name": "霞",
+  "symbol": "MIST",
+  "decimals": 9,
+  "coin_type": "0x95d16997ac7f55439fb08f9a1499e1dd40c7f93543637070d6e2126b7c3e8143::MIST::MIST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FjTJCCQpLU4fpH58mN1bTQXiQsjJVYai3QYFjYqYpump.png?size=xl&key=b1dad1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

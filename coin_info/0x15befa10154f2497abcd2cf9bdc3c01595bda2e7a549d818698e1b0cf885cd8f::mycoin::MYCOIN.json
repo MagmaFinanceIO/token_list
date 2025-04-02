@@ -1,0 +1,13 @@
+{
+  "name": "Cat the Cat",
+  "symbol": "CAT",
+  "decimals": 9,
+  "coin_type": "0x15befa10154f2497abcd2cf9bdc3c01595bda2e7a549d818698e1b0cf885cd8f::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

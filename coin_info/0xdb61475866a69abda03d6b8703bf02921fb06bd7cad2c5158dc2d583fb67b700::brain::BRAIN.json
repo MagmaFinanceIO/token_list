@@ -1,0 +1,13 @@
+{
+  "name": "Blormmy Brain",
+  "symbol": "Brain",
+  "decimals": 9,
+  "coin_type": "0xdb61475866a69abda03d6b8703bf02921fb06bd7cad2c5158dc2d583fb67b700::brain::BRAIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/71AZt4P5kc5vpfTJR1HjNbMzD84G7vxam4DtL3kJpump.png?size=lg&key=2d4bd5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

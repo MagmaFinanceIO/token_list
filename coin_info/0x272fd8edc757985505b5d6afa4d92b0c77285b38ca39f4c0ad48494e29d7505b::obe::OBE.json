@@ -1,0 +1,13 @@
+{
+  "name": "Out of Body Experience",
+  "symbol": "OBE",
+  "decimals": 9,
+  "coin_type": "0x272fd8edc757985505b5d6afa4d92b0c77285b38ca39f4c0ad48494e29d7505b::obe::OBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fe707892-60fc-4a8c-9976-dd3659a69bb1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

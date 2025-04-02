@@ -1,0 +1,13 @@
+{
+  "name": "Stonks",
+  "symbol": "Stonks",
+  "decimals": 9,
+  "coin_type": "0xb1232c650065bee4a2a775d5c26d91dc050c484112bf9593ead582f09751eb6a::stonks::STONKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/84603ac8-eb3d-4590-aca5-6fb25285461d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

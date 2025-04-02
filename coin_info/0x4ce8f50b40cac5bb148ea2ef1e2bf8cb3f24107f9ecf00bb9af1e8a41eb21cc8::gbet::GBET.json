@@ -1,0 +1,13 @@
+{
+  "name": "GangstaBet",
+  "symbol": "GBET",
+  "decimals": 6,
+  "coin_type": "0x4ce8f50b40cac5bb148ea2ef1e2bf8cb3f24107f9ecf00bb9af1e8a41eb21cc8::gbet::GBET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/efd337f1_736c_44c5_85c9_b6a0fac5a9e6_logo_152_71e259aa9f.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

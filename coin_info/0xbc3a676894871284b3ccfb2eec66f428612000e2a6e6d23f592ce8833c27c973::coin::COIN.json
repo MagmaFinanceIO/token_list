@@ -1,0 +1,13 @@
+{
+  "name": "tBTC v2",
+  "symbol": "tBTC",
+  "decimals": 8,
+  "coin_type": "0xbc3a676894871284b3ccfb2eec66f428612000e2a6e6d23f592ce8833c27c973::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

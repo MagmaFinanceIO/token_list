@@ -1,0 +1,13 @@
+{
+  "name": "Nigga Phantom",
+  "symbol": "PHANTOM",
+  "decimals": 6,
+  "coin_type": "0x019b4ab1ef79164b2e435584647c38e1cca819c50c847d6cf0a2dfc9fa6e3a7c::phantom::PHANTOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2025_01_30_00_04_59_8e3f6b3425.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

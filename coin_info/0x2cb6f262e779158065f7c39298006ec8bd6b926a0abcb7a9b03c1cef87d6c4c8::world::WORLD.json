@@ -1,0 +1,13 @@
+{
+  "name": "Camerons's World",
+  "symbol": "WORLD",
+  "decimals": 6,
+  "coin_type": "0x2cb6f262e779158065f7c39298006ec8bd6b926a0abcb7a9b03c1cef87d6c4c8::world::WORLD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qma_D_Gs4_S_Sj_Qc_Hv_QK_Nahsq_Ya2oa9z_Ggq4_M_Jq4ir4r_KUL_Uz_T_0bdd0157db.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

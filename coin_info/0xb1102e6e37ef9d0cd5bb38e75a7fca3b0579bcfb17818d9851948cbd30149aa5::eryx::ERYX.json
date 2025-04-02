@@ -1,0 +1,13 @@
+{
+  "name": "Eryx Engineer",
+  "symbol": "ERYX",
+  "decimals": 6,
+  "coin_type": "0xb1102e6e37ef9d0cd5bb38e75a7fca3b0579bcfb17818d9851948cbd30149aa5::eryx::ERYX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1734864064828.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

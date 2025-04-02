@@ -1,0 +1,13 @@
+{
+  "name": "GoldfishSurfer",
+  "symbol": "GoldfishSurfer",
+  "decimals": 9,
+  "coin_type": "0x348f34337950456aade81901f79e279a61f596aab37bc6b7ccfd1227e5ffd94a::goldfishsurfer::GOLDFISHSURFER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/461eb889-99a4-4e89-a4a9-81a1a9c99b56.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

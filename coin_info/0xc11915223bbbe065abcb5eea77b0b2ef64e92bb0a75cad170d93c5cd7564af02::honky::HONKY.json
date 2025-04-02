@@ -1,0 +1,13 @@
+{
+  "name": "Honkey Dong",
+  "symbol": "HONKY",
+  "decimals": 9,
+  "coin_type": "0xc11915223bbbe065abcb5eea77b0b2ef64e92bb0a75cad170d93c5cd7564af02::honky::HONKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/497f01f0-918f-4e72-8fb9-2b5def8c9f36.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

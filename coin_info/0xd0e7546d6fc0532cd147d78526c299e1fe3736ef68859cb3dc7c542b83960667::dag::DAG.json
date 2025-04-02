@@ -1,0 +1,13 @@
+{
+  "name": "DagSUI",
+  "symbol": "Dag",
+  "decimals": 6,
+  "coin_type": "0xd0e7546d6fc0532cd147d78526c299e1fe3736ef68859cb3dc7c542b83960667::dag::DAG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Qbgf6w4_Ja6_Vu_Wus6_R_Fhtwqr_Mr4_L_Dfb6kka_Xqdj_PL_8_U8j_1f9690e709.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

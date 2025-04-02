@@ -1,0 +1,13 @@
+{
+  "name": "Pepe",
+  "symbol": "pepe",
+  "decimals": 6,
+  "coin_type": "0x9f541a9a7fd929141df7397d0a055fb3fe95923e6213f82cfe80a269b63a38c6::pepe::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmeDbTg7ktsBoQwRU7t7oxhPrBXd56dPU7FEdkQh1qkoAT",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

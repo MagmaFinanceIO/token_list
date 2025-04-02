@@ -1,0 +1,13 @@
+{
+  "name": "Suite",
+  "symbol": "SUITE",
+  "decimals": 9,
+  "coin_type": "0x818e9258be113f30316dedd24703df7d2ba27eab925e1bf744166d71c487342a::suite::SUITE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/94860eb2-d038-4b45-aabe-e12a66bdfeb9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sui mascot",
+  "symbol": "BRETT",
+  "decimals": 6,
+  "coin_type": "0xe684d9e8c901c35030f4e7a9c0175f71eca65ac4689d97203556a623a54a62db::brett::BRETT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmWDYu5WFZDSfpKEFAaQw3BUDavKEoWA91E7kuTYHwNpPi",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

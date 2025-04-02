@@ -1,0 +1,13 @@
+{
+  "name": "HippopotaSUI",
+  "symbol": "HIPPOPOTASUI",
+  "decimals": 6,
+  "coin_type": "0xcc4b41038ae92cab0d5283a2a980394ee842345232f93d1cd59c61e92679f394::hippopotasui::HIPPOPOTASUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_11_25_11_12_50_2c6ad92e53.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

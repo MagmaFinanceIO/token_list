@@ -1,0 +1,13 @@
+{
+  "name": "Sui Starfish",
+  "symbol": "STARFISH",
+  "decimals": 9,
+  "coin_type": "0x8619a88bde5d18039c7d7e3646ce531822473f40e665241eb05d865d344d0509::starfish::STARFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1851741693789507588/hvxsN9py.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

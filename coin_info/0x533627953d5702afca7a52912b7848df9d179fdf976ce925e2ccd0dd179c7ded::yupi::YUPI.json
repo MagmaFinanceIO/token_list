@@ -1,0 +1,13 @@
+{
+  "name": "Yupi Dog",
+  "symbol": "YUPI",
+  "decimals": 9,
+  "coin_type": "0x533627953d5702afca7a52912b7848df9d179fdf976ce925e2ccd0dd179c7ded::yupi::YUPI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/iwmmfwAEJnFX77uhNKCSwjmZDn3nyZajbda2ED7pump.png?size=lg&key=a93358",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

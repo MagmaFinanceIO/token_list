@@ -1,0 +1,13 @@
+{
+  "name": "SUILEMAN",
+  "symbol": "SUILE",
+  "decimals": 9,
+  "coin_type": "0x753750734421d552ed390724761a8c330fd5dd6ccb60d7391a8ddc5b58aba74b::suile::SUILE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f3ff6aca-3eeb-4927-b4a7-449cc026f684.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

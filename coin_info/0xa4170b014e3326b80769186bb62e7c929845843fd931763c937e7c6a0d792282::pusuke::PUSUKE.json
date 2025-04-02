@@ -1,0 +1,13 @@
+{
+  "name": "Pusuke",
+  "symbol": "PUSUKE",
+  "decimals": 9,
+  "coin_type": "0xa4170b014e3326b80769186bb62e7c929845843fd931763c937e7c6a0d792282::pusuke::PUSUKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x79787a05d8f01d4251c8dc17cba8cda692c69e34.png?size=lg&key=c67b0b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

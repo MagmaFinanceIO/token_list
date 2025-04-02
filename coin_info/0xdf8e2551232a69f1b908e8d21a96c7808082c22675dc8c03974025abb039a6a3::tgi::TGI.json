@@ -1,0 +1,13 @@
+{
+  "name": "TheGreatIntern by SuiAI",
+  "symbol": "TGI",
+  "decimals": 6,
+  "coin_type": "0xdf8e2551232a69f1b908e8d21a96c7808082c22675dc8c03974025abb039a6a3::tgi::TGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Twitter_Photo_f7a570b8ec.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

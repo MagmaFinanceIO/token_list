@@ -1,0 +1,13 @@
+{
+  "name": "Duckzilla",
+  "symbol": "DZILLA",
+  "decimals": 9,
+  "coin_type": "0xdbce16e482b94fbefaca2fbdf172ac6f84dcd6a0b2243c06a93e6ab47e6d4933::dzilla::DZILLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/340d2e2f-b160-4d99-b6b6-19241de381d2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BioAI",
+  "symbol": "BioAI",
+  "decimals": 6,
+  "coin_type": "0x1b9d6a110406228d35918fcf671f15e1eda42949590d2f144effab167ca12df5::bioai::BIOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CgrxHFHdCSNX9SyJSa4Trp3vRW9NHTGQVx2RK5Kxw1HU.png?size=lg&key=9cb03c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

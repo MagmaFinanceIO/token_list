@@ -1,0 +1,13 @@
+{
+  "name": "Rug Me Sui",
+  "symbol": "RUGME",
+  "decimals": 6,
+  "coin_type": "0xce841b864f902314f13ce4823f3e8e16a7a6888e0e8166cfebd074e133ab2ce9::rugme::RUGME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/22_b3ab2843b1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

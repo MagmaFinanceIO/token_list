@@ -1,0 +1,13 @@
+{
+  "name": "Chiki Meme",
+  "symbol": "Chiki",
+  "decimals": 9,
+  "coin_type": "0x67a8f9b188c05a85084e0eda31bd7f37db78a099813b3e7c48c84b29440e6c79::chiki::CHIKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/54994796-0fd4-48c7-b7a0-ee0fe72781e5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

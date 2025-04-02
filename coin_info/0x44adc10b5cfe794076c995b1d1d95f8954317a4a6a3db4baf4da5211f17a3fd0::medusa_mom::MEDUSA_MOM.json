@@ -1,0 +1,13 @@
+{
+  "name": "Medusa Mom",
+  "symbol": "Medusa Mom",
+  "decimals": 9,
+  "coin_type": "0x44adc10b5cfe794076c995b1d1d95f8954317a4a6a3db4baf4da5211f17a3fd0::medusa_mom::MEDUSA_MOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/60c6901c-d668-4b2d-a520-00047c7e9ab0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

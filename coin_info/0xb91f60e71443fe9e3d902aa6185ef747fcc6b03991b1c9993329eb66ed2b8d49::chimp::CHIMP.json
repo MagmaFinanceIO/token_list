@@ -1,0 +1,13 @@
+{
+  "name": "KING OF CHIMPS",
+  "symbol": "CHIMP",
+  "decimals": 9,
+  "coin_type": "0xb91f60e71443fe9e3d902aa6185ef747fcc6b03991b1c9993329eb66ed2b8d49::chimp::CHIMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e23462b3-5b5b-4c17-a236-ced363487d2b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

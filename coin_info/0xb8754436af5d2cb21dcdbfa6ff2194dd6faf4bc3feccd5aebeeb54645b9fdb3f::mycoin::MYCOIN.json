@@ -1,0 +1,13 @@
+{
+  "name": "BITCOINTRUMP",
+  "symbol": "BITCOIN",
+  "decimals": 9,
+  "coin_type": "0xb8754436af5d2cb21dcdbfa6ff2194dd6faf4bc3feccd5aebeeb54645b9fdb3f::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

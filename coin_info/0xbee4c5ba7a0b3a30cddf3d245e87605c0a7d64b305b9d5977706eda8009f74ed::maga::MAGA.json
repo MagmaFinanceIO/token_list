@@ -1,0 +1,13 @@
+{
+  "name": "SUIPRESIDENT",
+  "symbol": "MAGA",
+  "decimals": 6,
+  "coin_type": "0xbee4c5ba7a0b3a30cddf3d245e87605c0a7d64b305b9d5977706eda8009f74ed::maga::MAGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/36ef57ce-5855-4a54-a344-067c63da5816.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AquaEvan",
+  "symbol": "AQUAEVAN",
+  "decimals": 6,
+  "coin_type": "0x38dd10b4fae016fbaedfbc697f6b289fabe0e7a5fde0e8a9bd90652a423c630a::aquaevan::AQUAEVAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/X8_Nsfd_EH_400x400_e7ed3f6814.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

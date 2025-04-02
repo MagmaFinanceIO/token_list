@@ -1,0 +1,13 @@
+{
+  "name": "Just a valentine guy",
+  "symbol": "VALENTINE",
+  "decimals": 9,
+  "coin_type": "0x5899dbb1c45de85c34927a8d9bd8aee91b3b0934942ffb146824f74eebfd9736::valentine::VALENTINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CWQ6WPgQNokFQVvAtzSC8J3E6U2eBhV4Lu5XH15xpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

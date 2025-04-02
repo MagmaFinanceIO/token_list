@@ -1,0 +1,13 @@
+{
+  "name": "Nutty",
+  "symbol": "NUTTY",
+  "decimals": 6,
+  "coin_type": "0x74c72e160db0b1ab6ab191cef586b9a70d8f2a97cdb54dc3c11517d018cb38ee::nutty::NUTTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Nutty_Logo_d4bcffeebb.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

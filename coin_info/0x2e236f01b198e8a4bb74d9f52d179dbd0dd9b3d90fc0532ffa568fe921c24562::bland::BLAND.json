@@ -1,0 +1,13 @@
+{
+  "name": "Mascot of Bitcoin",
+  "symbol": "BLAND",
+  "decimals": 9,
+  "coin_type": "0x2e236f01b198e8a4bb74d9f52d179dbd0dd9b3d90fc0532ffa568fe921c24562::bland::BLAND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x281c2c810c6a483a504c8f45091879f59619d305.png?size=lg&key=44e98a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

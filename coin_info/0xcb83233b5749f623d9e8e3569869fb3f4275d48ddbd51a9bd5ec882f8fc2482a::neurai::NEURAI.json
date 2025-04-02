@@ -1,0 +1,13 @@
+{
+  "name": "NEURATECH NEW PONZI JOIN US",
+  "symbol": "NEURAI",
+  "decimals": 6,
+  "coin_type": "0xcb83233b5749f623d9e8e3569869fb3f4275d48ddbd51a9bd5ec882f8fc2482a::neurai::NEURAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/neuratech_12fdcb2600.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

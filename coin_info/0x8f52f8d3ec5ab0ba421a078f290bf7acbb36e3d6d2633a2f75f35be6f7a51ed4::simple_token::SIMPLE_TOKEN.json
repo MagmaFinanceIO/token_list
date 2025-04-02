@@ -1,0 +1,13 @@
+{
+  "name": "MANAGED",
+  "symbol": "MANAGED",
+  "decimals": 9,
+  "coin_type": "0x8f52f8d3ec5ab0ba421a078f290bf7acbb36e3d6d2633a2f75f35be6f7a51ed4::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

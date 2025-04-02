@@ -1,0 +1,13 @@
+{
+  "name": "Flokai Token",
+  "symbol": "FLOKAI",
+  "decimals": 9,
+  "coin_type": "0x9e0a16283eabe9954f897900c89a267cee6b302a00a80f171bc02249c66bbb87::flokai::FLOKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

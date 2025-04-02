@@ -1,0 +1,13 @@
+{
+  "name": "ubiquitous",
+  "symbol": "UBIQUITOUS",
+  "decimals": 9,
+  "coin_type": "0xaf473ca6076c49ffd669a6acc60a470fe6cca898ebdd292d66667b94d11a2c97::ubiquitous::UBIQUITOUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6y7S5kvWjBBVaofHFCa147nvdBgyYSghiP5weS43pump.png?size=xl&key=c7069d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "WEWE",
+  "symbol": "WEWE",
+  "decimals": 9,
+  "coin_type": "0x46a3682cf7a53e47e407301f003331b9456af01a02b3da711fa94674da9b1c99::wewe::WEWE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1841294923657789441/vVBj80li_400x400.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

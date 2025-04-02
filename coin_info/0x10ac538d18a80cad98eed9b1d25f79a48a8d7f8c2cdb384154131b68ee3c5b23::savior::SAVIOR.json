@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL SAVIOR",
+  "symbol": "SAVIOR",
+  "decimals": 9,
+  "coin_type": "0x10ac538d18a80cad98eed9b1d25f79a48a8d7f8c2cdb384154131b68ee3c5b23::savior::SAVIOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmdBvz9nggNujGHdjdPtsiAEDH1kXzghqhcqxqb7TVSdh2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

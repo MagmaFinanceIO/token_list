@@ -1,0 +1,13 @@
+{
+  "name": "Sui Duk",
+  "symbol": "SUK",
+  "decimals": 6,
+  "coin_type": "0xe6fe7fcae9bb3f983cda1decd6bf64ff2ff7ca13d78ffeabc7d21380a4b54397::suk::SUK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7663_4f44a1cc68.PNG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

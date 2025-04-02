@@ -1,0 +1,13 @@
+{
+  "name": "KQR on SUI",
+  "symbol": "KQR",
+  "decimals": 4,
+  "coin_type": "0xda630937f46c9fdf11fdd106aabe159925b565fce18a0a4e0eed5dc030b6f899::kqr::KQR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8e64d0ac-dc37-449a-9455-b6995fc75c25.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

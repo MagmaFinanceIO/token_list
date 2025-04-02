@@ -1,0 +1,13 @@
+{
+  "name": "WAI by SuiAI",
+  "symbol": "WAI",
+  "decimals": 6,
+  "coin_type": "0x6e7587210245c4984340d15a06f787aca053d2ed734cb5b249817b88b7393807::wai::WAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/images_15_216674319c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

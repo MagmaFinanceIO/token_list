@@ -1,0 +1,13 @@
+{
+  "name": "G.A.M.A",
+  "symbol": "GAMA",
+  "decimals": 6,
+  "coin_type": "0x87735c51cc024df3571d85643a7128bb559831abbc8a33e0ae4e86b37fe7ee74::gama::GAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Designer_4_3b7c8c369e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

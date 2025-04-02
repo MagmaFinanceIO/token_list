@@ -1,0 +1,13 @@
+{
+  "name": "MONEY TREE",
+  "symbol": "MTREE",
+  "decimals": 9,
+  "coin_type": "0x740ad950a9f6b7d9f219ca62131cff53b7e222792112ca47d27fa80b4c76525a::money_tree::MONEY_TREE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreiapada6rrk365vz372hkoy4qhb67h2hwknm73qdgc7ciz6eikk5ty.ipfs.w3s.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

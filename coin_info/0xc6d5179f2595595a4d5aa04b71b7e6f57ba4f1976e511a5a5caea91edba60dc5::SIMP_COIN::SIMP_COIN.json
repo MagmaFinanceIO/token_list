@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "symbol": "SIMP_COIN",
+  "decimals": 9,
+  "coin_type": "0xc6d5179f2595595a4d5aa04b71b7e6f57ba4f1976e511a5a5caea91edba60dc5::SIMP_COIN::SIMP_COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

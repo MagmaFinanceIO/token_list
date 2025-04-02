@@ -1,0 +1,13 @@
+{
+  "name": "CHINSHURIN",
+  "symbol": "CHIN",
+  "decimals": 6,
+  "coin_type": "0x812c18a36b60b067f176fc514fd9a73c2d516a1e5ec4247dbe376ab278653dac::chin::CHIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/giant_red_pearlscale_goldfish_grade_aa_69488412ed.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

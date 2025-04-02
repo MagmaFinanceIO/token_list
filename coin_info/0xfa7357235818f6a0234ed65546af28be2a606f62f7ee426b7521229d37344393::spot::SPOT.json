@@ -1,0 +1,13 @@
+{
+  "name": "SPOT AI",
+  "symbol": "SPOT",
+  "decimals": 6,
+  "coin_type": "0xfa7357235818f6a0234ed65546af28be2a606f62f7ee426b7521229d37344393::spot::SPOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1884_4f6e347f24.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

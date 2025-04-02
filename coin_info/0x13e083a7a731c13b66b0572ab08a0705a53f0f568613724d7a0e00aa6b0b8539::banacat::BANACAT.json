@@ -1,0 +1,13 @@
+{
+  "name": "Banacat",
+  "symbol": "Banacat",
+  "decimals": 9,
+  "coin_type": "0x13e083a7a731c13b66b0572ab08a0705a53f0f568613724d7a0e00aa6b0b8539::banacat::BANACAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GBVaZABFUkH81F1cF3HHQkAtsz9gVE4qDaBBvfzGpump.png?size=lg&key=c23429",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

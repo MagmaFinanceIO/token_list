@@ -1,0 +1,13 @@
+{
+  "name": "SUI GOKU PEPE",
+  "symbol": "SGOPE",
+  "decimals": 9,
+  "coin_type": "0x24e1a73318ee85fd37fc1666f84a213adc0a1a75024edca7c71370da0e45962e::sgope::SGOPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/da64e351-a0ad-4498-bddf-34c0cd5d1752.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

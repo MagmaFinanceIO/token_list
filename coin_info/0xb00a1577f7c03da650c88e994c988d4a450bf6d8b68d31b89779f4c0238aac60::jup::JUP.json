@@ -1,0 +1,13 @@
+{
+  "name": "JUPITER",
+  "symbol": "JUP",
+  "decimals": 9,
+  "coin_type": "0xb00a1577f7c03da650c88e994c988d4a450bf6d8b68d31b89779f4c0238aac60::jup::JUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://jup.ag/svg/jupuary-cat.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

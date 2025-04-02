@@ -1,0 +1,13 @@
+{
+  "name": "TRUMPRESIDENT",
+  "symbol": "TRUMPRESIDENT",
+  "decimals": 9,
+  "coin_type": "0x29fe477527539e74edccb0ef8b0497bd18c023a41f60a7c259f0bd3245f7090b::TRUMPRESIDENT::TRUMPRESIDENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

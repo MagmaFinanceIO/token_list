@@ -1,0 +1,13 @@
+{
+  "name": "Sui Tate Terminal",
+  "symbol": "STATE",
+  "decimals": 9,
+  "coin_type": "0x4317437a6c1ee97d94519a7476f39a1869bea64e2fb5365b5e70ec0275936955::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6MQ8D4XgoLTPGgkz7sbJdFzA6F6iuepFXE2BtV9npump.png?size=xl&key=0a7a68",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

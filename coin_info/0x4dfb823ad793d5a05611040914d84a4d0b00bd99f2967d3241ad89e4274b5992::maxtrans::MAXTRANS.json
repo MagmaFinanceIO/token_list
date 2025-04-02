@@ -1,0 +1,13 @@
+{
+  "name": "Max Trans",
+  "symbol": "MAXTRANS",
+  "decimals": 9,
+  "coin_type": "0x4dfb823ad793d5a05611040914d84a4d0b00bd99f2967d3241ad89e4274b5992::maxtrans::MAXTRANS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A4i44SMVz7Mn9oGqmUMRmHfyxnAcukNy9qde5bTGpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

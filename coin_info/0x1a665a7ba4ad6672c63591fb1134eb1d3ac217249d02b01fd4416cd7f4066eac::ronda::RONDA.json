@@ -1,0 +1,13 @@
+{
+  "name": "Ronda",
+  "symbol": "RONDA",
+  "decimals": 6,
+  "coin_type": "0x1a665a7ba4ad6672c63591fb1134eb1d3ac217249d02b01fd4416cd7f4066eac::ronda::RONDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/RONDA_f0006342a0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

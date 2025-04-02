@@ -1,0 +1,13 @@
+{
+  "name": "FlipCoin",
+  "symbol": "FLIP",
+  "decimals": 2,
+  "coin_type": "0xda0b30f155b98edd21b05d7c6b8271a2d04a996902331de057aeee80e23dd5a1::flipcoin::FLIPCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "WORLDWAR JELLY AI",
+  "symbol": "JAI",
+  "decimals": 6,
+  "coin_type": "0x51397bc20b6c4008d7978c0573ccbad8a5cc4122249d52e600a723532e3fab62::jai::JAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731008221974.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

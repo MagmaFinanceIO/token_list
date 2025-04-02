@@ -1,0 +1,13 @@
+{
+  "name": "Sad Cat",
+  "symbol": "SADCAT",
+  "decimals": 9,
+  "coin_type": "0x5a8efa47508c7b6053f975abb4d02877da61969b538234099d12d8845e34e683::sadcat::SADCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HDYJeMymk4ZoQazoZvMg4JvxAGye8iKh7U1qhZ9eZwPx.png?size=xl&key=d46c31",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PEPU",
+  "symbol": "PEPU",
+  "decimals": 9,
+  "coin_type": "0x13323582536be8a1c8e0be06f36283b2803ddf553b456ef54c96b440ef3dbae5::pepu::PEPU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c40685ff-a24b-4638-a74b-13f18a0ca218.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

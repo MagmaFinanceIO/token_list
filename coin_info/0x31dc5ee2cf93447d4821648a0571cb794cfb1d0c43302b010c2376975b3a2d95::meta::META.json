@@ -1,0 +1,13 @@
+{
+  "name": "META",
+  "symbol": "META",
+  "decimals": 9,
+  "coin_type": "0x31dc5ee2cf93447d4821648a0571cb794cfb1d0c43302b010c2376975b3a2d95::meta::META",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

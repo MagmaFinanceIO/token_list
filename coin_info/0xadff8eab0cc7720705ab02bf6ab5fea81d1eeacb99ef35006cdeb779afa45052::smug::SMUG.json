@@ -1,0 +1,13 @@
+{
+  "name": "SmugCat Coin",
+  "symbol": "SMUG",
+  "decimals": 9,
+  "coin_type": "0xadff8eab0cc7720705ab02bf6ab5fea81d1eeacb99ef35006cdeb779afa45052::smug::SMUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/20903f42-1d35-4baf-8079-298037061709.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

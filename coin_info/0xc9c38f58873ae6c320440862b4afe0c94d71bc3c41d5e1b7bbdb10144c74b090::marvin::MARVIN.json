@@ -1,0 +1,13 @@
+{
+  "name": "Marvin the Martian",
+  "symbol": "MARVIN",
+  "decimals": 6,
+  "coin_type": "0xc9c38f58873ae6c320440862b4afe0c94d71bc3c41d5e1b7bbdb10144c74b090::marvin::MARVIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/NBB_Np8_Zm_400x400_07412f1923.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TURTLES",
+  "symbol": "turtles",
+  "decimals": 6,
+  "coin_type": "0xdf1b2e93581903952fc9a97cf554930dc1ae2f8ef8bfa4ab3c76b667c7c47ec7::turtles::TURTLES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cloudinary.com/dkpo6c3me/image/upload/v1728028065/turtles_m8wg5r.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

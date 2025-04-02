@@ -1,0 +1,13 @@
+{
+  "name": "Sui Dog Wif Hat",
+  "symbol": "SDOG",
+  "decimals": 6,
+  "coin_type": "0xef370a8773eb53367acb4af1d51b286c143aa57a49afe75651aaa9b5f10fd530::sdog::SDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qmd4F8GBXDgwuWXmBoHAzSwncnbhnNGXevijZZ9QPEMdde",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

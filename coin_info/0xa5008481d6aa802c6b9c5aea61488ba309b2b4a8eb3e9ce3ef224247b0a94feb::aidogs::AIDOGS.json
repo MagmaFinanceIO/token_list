@@ -1,0 +1,13 @@
+{
+  "name": "Aidogs On Sui",
+  "symbol": "AIDOGS",
+  "decimals": 9,
+  "coin_type": "0xa5008481d6aa802c6b9c5aea61488ba309b2b4a8eb3e9ce3ef224247b0a94feb::aidogs::AIDOGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/af013b9e-0013-47b9-99b2-d8936834a64c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

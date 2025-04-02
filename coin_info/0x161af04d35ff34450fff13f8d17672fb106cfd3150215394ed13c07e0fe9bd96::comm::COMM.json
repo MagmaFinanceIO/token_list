@@ -1,0 +1,13 @@
+{
+  "name": "Comm",
+  "symbol": "Comm",
+  "decimals": 9,
+  "coin_type": "0x161af04d35ff34450fff13f8d17672fb106cfd3150215394ed13c07e0fe9bd96::comm::COMM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aef662b6-1f7e-4e2a-b65e-1d5266170810.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

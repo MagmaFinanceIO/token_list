@@ -1,0 +1,13 @@
+{
+  "name": "Cereal Guy",
+  "symbol": "CEREAL",
+  "decimals": 9,
+  "coin_type": "0x9baf048afeaeaf1ed76cb74e96e481edf9028fae8575541fffd2265aa8901591::cereal::CEREAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmP3WgHYvzNYGKtZbajTk7FiEcJBjw3n3CrpHJeDJ9QBvu",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

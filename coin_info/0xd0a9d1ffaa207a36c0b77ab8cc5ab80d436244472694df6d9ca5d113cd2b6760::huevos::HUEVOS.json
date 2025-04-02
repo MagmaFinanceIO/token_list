@@ -1,0 +1,13 @@
+{
+  "name": "FIRST HUEVOS ON SUI",
+  "symbol": "HUEVOS",
+  "decimals": 6,
+  "coin_type": "0xd0a9d1ffaa207a36c0b77ab8cc5ab80d436244472694df6d9ca5d113cd2b6760::huevos::HUEVOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/BTC_3f784e736c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

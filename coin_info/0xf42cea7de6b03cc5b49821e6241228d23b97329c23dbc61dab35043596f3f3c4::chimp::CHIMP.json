@@ -1,0 +1,13 @@
+{
+  "name": "Hollywood Chimp",
+  "symbol": "CHIMP",
+  "decimals": 9,
+  "coin_type": "0xf42cea7de6b03cc5b49821e6241228d23b97329c23dbc61dab35043596f3f3c4::chimp::CHIMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9622c557-cedc-4669-91b3-970538102781.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

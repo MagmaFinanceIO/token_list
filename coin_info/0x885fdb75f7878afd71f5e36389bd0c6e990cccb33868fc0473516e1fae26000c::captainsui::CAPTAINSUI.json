@@ -1,0 +1,13 @@
+{
+  "name": "Captain Sui",
+  "symbol": "CAPTAINSUI",
+  "decimals": 6,
+  "coin_type": "0x885fdb75f7878afd71f5e36389bd0c6e990cccb33868fc0473516e1fae26000c::captainsui::CAPTAINSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_63_1_2d68ea0675.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Escaped Lab Monkeys",
+  "symbol": "MONKEY",
+  "decimals": 9,
+  "coin_type": "0x4ec8f1b1e28bbb76f2f77ef27d5c4b51a8e1ee3c413cc927c5d279a00cf1e6a4::monkey::MONKEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xdbcb9d7f10ce17757ff3181ab504aefdaca6b5c9.png?size=lg&key=bc11bd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Water Melon",
+  "symbol": "WMN",
+  "decimals": 9,
+  "coin_type": "0xdcc4b37b5d1c8be8c2dca8a9b1f2bdc8d344cbfdf1e2bf07120a34c3b478fdb0::wmn::WMN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0999fd60-b3a8-462a-bbdf-d78f8e772a5c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

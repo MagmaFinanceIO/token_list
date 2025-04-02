@@ -1,0 +1,13 @@
+{
+  "name": "OMEGA",
+  "symbol": "OMEGA",
+  "decimals": 6,
+  "coin_type": "0x9ae15c0b4e9a50c7c69a4b0aa86cb9e424f406b611186eae0597ef4469782d2e::omega::OMEGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.omegatermsui.xyz/OMEGA_files/icon.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

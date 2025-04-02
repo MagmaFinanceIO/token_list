@@ -1,0 +1,13 @@
+{
+  "name": "suilien",
+  "symbol": "SLN",
+  "decimals": 9,
+  "coin_type": "0xebc2d19b8530b9313c584bf8bec7ec907c51fdbd899a33ed956fbe8c75e379ff::sln::SLN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/92f7aba6-3d8a-4cb4-bc7e-e7e992b72ce3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

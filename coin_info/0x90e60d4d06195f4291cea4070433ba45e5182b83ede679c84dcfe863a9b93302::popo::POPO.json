@@ -1,0 +1,13 @@
+{
+  "name": "Popo The Frog",
+  "symbol": "POPO",
+  "decimals": 9,
+  "coin_type": "0x90e60d4d06195f4291cea4070433ba45e5182b83ede679c84dcfe863a9b93302::popo::POPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d17420e0-ad64-43e7-8b3a-8de9596e83bc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

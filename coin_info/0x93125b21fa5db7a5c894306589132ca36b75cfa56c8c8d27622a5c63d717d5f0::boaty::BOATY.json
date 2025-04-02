@@ -1,0 +1,13 @@
+{
+  "name": "Boaty McBoatface",
+  "symbol": "BOATY",
+  "decimals": 6,
+  "coin_type": "0x93125b21fa5db7a5c894306589132ca36b75cfa56c8c8d27622a5c63d717d5f0::boaty::BOATY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Boaty_NB_Master_Low_Res_c8acd952e1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

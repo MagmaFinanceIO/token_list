@@ -1,0 +1,13 @@
+{
+  "name": "Sui Chill Babe",
+  "symbol": "SBABE",
+  "decimals": 9,
+  "coin_type": "0x43227f883c96801d341d8ef10010c360db01dde33ce7ff9714d3fb07663b1c75::sbabe::SBABE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EFKaNc4hj996qFk8ZaJFm9EZ25wVVzx5L4Jd4eaWpump.png?size=lg&key=85fb2a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

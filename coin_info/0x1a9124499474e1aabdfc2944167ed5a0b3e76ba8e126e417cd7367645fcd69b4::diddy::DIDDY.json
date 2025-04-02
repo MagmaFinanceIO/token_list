@@ -1,0 +1,13 @@
+{
+  "name": "Diddy Meme King",
+  "symbol": "Diddy",
+  "decimals": 9,
+  "coin_type": "0x1a9124499474e1aabdfc2944167ed5a0b3e76ba8e126e417cd7367645fcd69b4::diddy::DIDDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f28b02bb-9f81-4b6f-a089-3044c8766f71.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

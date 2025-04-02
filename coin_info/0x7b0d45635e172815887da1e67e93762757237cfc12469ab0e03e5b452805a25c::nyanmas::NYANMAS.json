@@ -1,0 +1,13 @@
+{
+  "name": "Christmas's Nyan Cat",
+  "symbol": "NYANMAS",
+  "decimals": 9,
+  "coin_type": "0x7b0d45635e172815887da1e67e93762757237cfc12469ab0e03e5b452805a25c::nyanmas::NYANMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4rbAQqN2z5VCNe6AgvxnXC8muXoghEXEyADxdmXipump.png?size=lg&key=c70655",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIORACLE by SuiAI",
+  "symbol": "ORACLE",
+  "decimals": 6,
+  "coin_type": "0x8b6038027ed6f7af5fd5c4932458bec965aaf0b64822032db15cbcf9da6cc055::oracle::ORACLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/ARACLE_AI_b5272ec4fc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

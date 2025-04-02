@@ -1,0 +1,13 @@
+{
+  "name": "Larry Coin",
+  "symbol": "LARRY",
+  "decimals": 9,
+  "coin_type": "0x076db8a6e8659dcd7ca6082c933d069ce329e11b1131a8c21a50d1675f2864d2::larrya::LARRYA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6MGYZStqUzqdTkf8zjPeKnoeoPAnTWLK9zPYeKLcpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

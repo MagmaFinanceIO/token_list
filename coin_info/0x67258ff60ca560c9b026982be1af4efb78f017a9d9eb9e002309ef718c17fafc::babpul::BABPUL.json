@@ -1,0 +1,13 @@
+{
+  "name": "babpul",
+  "symbol": "BABPUL",
+  "decimals": 9,
+  "coin_type": "0x67258ff60ca560c9b026982be1af4efb78f017a9d9eb9e002309ef718c17fafc::babpul::BABPUL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/84BuEsyiLL9yMXYLenZ7cg1z8euPZUXvW6xaTDQCpump.png?size=lg&key=17ca35",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

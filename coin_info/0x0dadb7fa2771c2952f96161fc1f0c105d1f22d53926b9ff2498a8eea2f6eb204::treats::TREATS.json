@@ -1,0 +1,13 @@
+{
+  "name": "Treat Coin",
+  "symbol": "TREAT",
+  "decimals": 1,
+  "coin_type": "0x0dadb7fa2771c2952f96161fc1f0c105d1f22d53926b9ff2498a8eea2f6eb204::treats::TREATS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://d1fvsuv3rrz9o2.cloudfront.net/dogs/bone.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

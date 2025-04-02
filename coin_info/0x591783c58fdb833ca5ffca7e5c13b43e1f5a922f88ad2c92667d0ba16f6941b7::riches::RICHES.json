@@ -1,0 +1,13 @@
+{
+  "name": "RACCOON RICHES",
+  "symbol": "RICHES",
+  "decimals": 9,
+  "coin_type": "0x591783c58fdb833ca5ffca7e5c13b43e1f5a922f88ad2c92667d0ba16f6941b7::riches::RICHES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AYFyp2VTyFAUVYjFYbaxLjVHnpZnaoDs6UFyaBzopump.png?size=lg&key=04f901",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

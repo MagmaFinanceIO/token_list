@@ -1,0 +1,13 @@
+{
+  "name": "Lulli",
+  "symbol": "LULLI",
+  "decimals": 9,
+  "coin_type": "0x05c4d908ce47f124a82dfa0b7b68a54a9f9f5e490bea212204315259645d362e::lulli::LULLI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/CahFA_p-DMH02v2n?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "OwlFloral",
+  "symbol": "OwlFloral",
+  "decimals": 9,
+  "coin_type": "0x46fb609199ed409bca856bb08ab980585282f83f3131f3b9a7b92b3eee666764::owlfloral::OWLFLORAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0cecd658-6010-4a01-a100-939547cdccd2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

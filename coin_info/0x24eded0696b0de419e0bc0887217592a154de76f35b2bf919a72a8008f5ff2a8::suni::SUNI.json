@@ -1,0 +1,13 @@
+{
+  "name": "SUNIC",
+  "symbol": "SUNI",
+  "decimals": 9,
+  "coin_type": "0x24eded0696b0de419e0bc0887217592a154de76f35b2bf919a72a8008f5ff2a8::suni::SUNI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/afe4f2c7-12e4-4d43-8b17-b44cfc092ebf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

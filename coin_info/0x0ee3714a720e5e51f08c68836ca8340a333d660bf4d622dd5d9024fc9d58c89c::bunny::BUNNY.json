@@ -1,0 +1,13 @@
+{
+  "name": "Mecha Bunny",
+  "symbol": "BUNNY",
+  "decimals": 9,
+  "coin_type": "0x0ee3714a720e5e51f08c68836ca8340a333d660bf4d622dd5d9024fc9d58c89c::bunny::BUNNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/729/403/large/veronika-emerald-face3.jpg?1728372536",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

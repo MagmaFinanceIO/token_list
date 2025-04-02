@@ -1,0 +1,13 @@
+{
+  "name": "BORK SUI",
+  "symbol": "BORK",
+  "decimals": 6,
+  "coin_type": "0x22ca194337a1c5886e011916d6aa497d569060a827a12863020beb858980625c::bork::BORK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/cropped_6320894848764331458_1_removebg_preview_300x300_3a16454f48.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

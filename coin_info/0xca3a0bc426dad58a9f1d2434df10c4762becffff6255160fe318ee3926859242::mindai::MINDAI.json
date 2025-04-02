@@ -1,0 +1,13 @@
+{
+  "name": "Mind AI",
+  "symbol": "MINDAI",
+  "decimals": 9,
+  "coin_type": "0xca3a0bc426dad58a9f1d2434df10c4762becffff6255160fe318ee3926859242::mindai::MINDAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FwHvbcho6AVGnfMrmaRSGK7j8TzwhufqHRuQVf3rpump.png?size=lg&key=a8de19",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuiCooter",
+  "symbol": "Suicooter",
+  "decimals": 9,
+  "coin_type": "0x46a3debab835fc9ec1f8591b594046abde7a9e25835087f0e8a54e64f2559847::suicooter::SUICOOTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bfe54bbd-4923-43c0-aadd-4ba7c5fee275.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

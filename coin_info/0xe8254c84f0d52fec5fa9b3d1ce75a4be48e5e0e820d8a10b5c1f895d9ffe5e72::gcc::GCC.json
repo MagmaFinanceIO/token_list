@@ -1,0 +1,13 @@
+{
+  "name": "Golden Clover Coin",
+  "symbol": "GCC",
+  "decimals": 9,
+  "coin_type": "0xe8254c84f0d52fec5fa9b3d1ce75a4be48e5e0e820d8a10b5c1f895d9ffe5e72::gcc::GCC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4c8898ab-93b3-47dd-98f5-74f66c706849.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "KongDing Sui",
+  "symbol": "KONG",
+  "decimals": 6,
+  "coin_type": "0x93683cfaf49449aeeefa9a26106f27006677ad3175d249921ad8152d38b0a49a::kong::KONG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000331_fbf91a8036.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

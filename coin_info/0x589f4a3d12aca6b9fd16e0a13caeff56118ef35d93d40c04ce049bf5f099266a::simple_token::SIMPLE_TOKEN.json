@@ -1,0 +1,13 @@
+{
+  "name": "SAI",
+  "symbol": "SAI",
+  "decimals": 9,
+  "coin_type": "0x589f4a3d12aca6b9fd16e0a13caeff56118ef35d93d40c04ce049bf5f099266a::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

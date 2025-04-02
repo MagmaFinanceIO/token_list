@@ -1,0 +1,13 @@
+{
+  "name": "TIT$",
+  "symbol": "TITS",
+  "decimals": 2,
+  "coin_type": "0x318b9c61521e3e61e746517dd894d179805676546abd8f0159d0d146c717b4e4::tits::TITS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e4d72ac8-1332-43ea-b7a1-8ba907ae3b29.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

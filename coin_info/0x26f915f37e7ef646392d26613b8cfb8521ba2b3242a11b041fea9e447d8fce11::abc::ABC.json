@@ -1,0 +1,13 @@
+{
+  "name": "ABC",
+  "symbol": "ABC",
+  "decimals": 9,
+  "coin_type": "0x26f915f37e7ef646392d26613b8cfb8521ba2b3242a11b041fea9e447d8fce11::abc::ABC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

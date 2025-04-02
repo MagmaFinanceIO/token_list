@@ -1,0 +1,13 @@
+{
+  "name": "AXELSUI",
+  "symbol": "AXELSUI",
+  "decimals": 9,
+  "coin_type": "0x69cf3fcedf8420ef455f496880ac3fe105253a6d64d2ff3dc2c0928e6e88cba2::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

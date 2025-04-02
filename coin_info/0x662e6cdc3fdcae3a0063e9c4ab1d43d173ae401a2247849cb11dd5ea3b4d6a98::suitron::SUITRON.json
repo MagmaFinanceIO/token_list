@@ -1,0 +1,13 @@
+{
+  "name": "SuiTronPrime",
+  "symbol": "SUITRON",
+  "decimals": 6,
+  "coin_type": "0x662e6cdc3fdcae3a0063e9c4ab1d43d173ae401a2247849cb11dd5ea3b4d6a98::suitron::SUITRON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/log_A_2_edd5d31d7e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

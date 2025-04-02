@@ -1,0 +1,13 @@
+{
+  "name": "First Dog of 2025",
+  "symbol": "DOG",
+  "decimals": 9,
+  "coin_type": "0xbc19f78bbb5555273545048d456d06b01ab4aa41e39df7dc600cacd26a50dbd0::dog::DOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qmf7f2nnD9pP3QQRc1krmiKiD3StrDXXzCxA1KyMeFJnUX",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

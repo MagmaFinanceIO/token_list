@@ -1,0 +1,13 @@
+{
+  "name": "IKUN Token",
+  "symbol": "IKUN",
+  "decimals": 0,
+  "coin_type": "0x4479f41ce2694aa57b3343e60ce4ecc176059d9b3b7fea0a80489a313a29f73e::ikun::IKUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/vzx9XwyYdTb5DzjDe9xzn514tMK3YGd55dyjyxwII44",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

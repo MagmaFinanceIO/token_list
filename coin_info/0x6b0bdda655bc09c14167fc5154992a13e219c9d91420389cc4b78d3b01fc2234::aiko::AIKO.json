@@ -1,0 +1,13 @@
+{
+  "name": "Aiko Agent",
+  "symbol": "Aiko",
+  "decimals": 6,
+  "coin_type": "0x6b0bdda655bc09c14167fc5154992a13e219c9d91420389cc4b78d3b01fc2234::aiko::AIKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_2262_ae2ce947fd.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

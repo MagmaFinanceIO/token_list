@@ -1,0 +1,13 @@
+{
+  "name": "Jordan Belfort",
+  "symbol": "BELFORT",
+  "decimals": 9,
+  "coin_type": "0xf0bb036d7324c8c37131f0bfee57bc6e506c0c3aecf13a261ce128ff92f0222f::belfort::BELFORT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/276YVgJ1K1xyeyp9t7KTsxmRPW19munwwDSKpkwNpump.png?size=lg&key=e31b06",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

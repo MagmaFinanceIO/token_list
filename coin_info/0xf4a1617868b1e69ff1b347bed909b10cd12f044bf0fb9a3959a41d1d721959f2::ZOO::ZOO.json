@@ -1,0 +1,13 @@
+{
+  "name": "ZOO",
+  "symbol": "ZOO",
+  "decimals": 9,
+  "coin_type": "0xf4a1617868b1e69ff1b347bed909b10cd12f044bf0fb9a3959a41d1d721959f2::ZOO::ZOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

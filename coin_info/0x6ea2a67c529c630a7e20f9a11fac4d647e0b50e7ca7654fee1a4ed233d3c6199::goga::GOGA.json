@@ -1,0 +1,13 @@
+{
+  "name": "Goga",
+  "symbol": "Goga",
+  "decimals": 9,
+  "coin_type": "0x6ea2a67c529c630a7e20f9a11fac4d647e0b50e7ca7654fee1a4ed233d3c6199::goga::GOGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

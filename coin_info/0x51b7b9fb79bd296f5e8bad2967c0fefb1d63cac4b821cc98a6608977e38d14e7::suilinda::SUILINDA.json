@@ -1,0 +1,13 @@
+{
+  "name": "LINDA - AI Psychologist On Sui",
+  "symbol": "SuiLinda",
+  "decimals": 9,
+  "coin_type": "0x51b7b9fb79bd296f5e8bad2967c0fefb1d63cac4b821cc98a6608977e38d14e7::suilinda::SUILINDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9axezRVaDQYAo5RzJVv4fH1nQMjc5kXhP2EZAqgZQDrB.png?size=lg&key=0a1340",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

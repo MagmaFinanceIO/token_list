@@ -1,0 +1,13 @@
+{
+  "name": "Pat The Cat",
+  "symbol": "Pat",
+  "decimals": 6,
+  "coin_type": "0x51730ab10ed523e1baa01a5696ef26effc34d946c3368f22d8164bc49bcfc35c::pat::PAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_2257_fb621cf7f1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

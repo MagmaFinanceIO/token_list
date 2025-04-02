@@ -1,0 +1,13 @@
+{
+  "name": "TESLA6900",
+  "symbol": "TESLA",
+  "decimals": 6,
+  "coin_type": "0xa19cf21656e381f314fd5738994e29d4f99344252179f6bb63e1165a7a01ffd7::tesla::TESLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3578_e800df4a23.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

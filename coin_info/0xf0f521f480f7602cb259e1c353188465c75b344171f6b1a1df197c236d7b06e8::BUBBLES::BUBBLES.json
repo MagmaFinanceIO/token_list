@@ -1,0 +1,13 @@
+{
+  "name": "BUBE",
+  "symbol": "Bubbles",
+  "decimals": 2,
+  "coin_type": "0xf0f521f480f7602cb259e1c353188465c75b344171f6b1a1df197c236d7b06e8::BUBBLES::BUBBLES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.postimg.cc/WbLzRFjk/Bubbles-on-sui.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

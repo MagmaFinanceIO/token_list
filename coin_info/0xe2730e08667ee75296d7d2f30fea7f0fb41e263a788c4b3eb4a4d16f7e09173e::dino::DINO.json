@@ -1,0 +1,13 @@
+{
+  "name": "Dino Game",
+  "symbol": "DINO",
+  "decimals": 9,
+  "coin_type": "0xe2730e08667ee75296d7d2f30fea7f0fb41e263a788c4b3eb4a4d16f7e09173e::dino::DINO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/nZfXLiwZKPfY1boowcxbhkm4t5B3E2utTv2nCU3KXex.png?size=lg&key=003b17",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

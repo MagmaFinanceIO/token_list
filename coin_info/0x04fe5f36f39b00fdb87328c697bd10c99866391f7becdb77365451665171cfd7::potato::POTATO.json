@@ -1,0 +1,13 @@
+{
+  "name": "Cool Potato",
+  "symbol": "POTATO",
+  "decimals": 9,
+  "coin_type": "0x04fe5f36f39b00fdb87328c697bd10c99866391f7becdb77365451665171cfd7::potato::POTATO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/83cix3Dn82HpTsgkEe7R9hRy24PNMyMZjgH8FeeMX7KB.png?size=lg&key=c32942",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

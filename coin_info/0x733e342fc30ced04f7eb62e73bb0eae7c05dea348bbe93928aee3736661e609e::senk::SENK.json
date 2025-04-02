@@ -1,0 +1,13 @@
+{
+  "name": "Senk Token",
+  "symbol": "SENK",
+  "decimals": 6,
+  "coin_type": "0x733e342fc30ced04f7eb62e73bb0eae7c05dea348bbe93928aee3736661e609e::senk::SENK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1726079406000_bf89bf43dbc6ff64bc210cc79959d78f_09645742b5.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

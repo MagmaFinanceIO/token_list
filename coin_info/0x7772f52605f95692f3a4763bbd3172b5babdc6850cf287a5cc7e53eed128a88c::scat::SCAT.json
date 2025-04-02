@@ -1,0 +1,13 @@
+{
+  "name": "SPRITECAT",
+  "symbol": "SCAT",
+  "decimals": 9,
+  "coin_type": "0x7772f52605f95692f3a4763bbd3172b5babdc6850cf287a5cc7e53eed128a88c::scat::SCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6627cde0-e4e3-486d-883f-7c1e2fa515ef.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

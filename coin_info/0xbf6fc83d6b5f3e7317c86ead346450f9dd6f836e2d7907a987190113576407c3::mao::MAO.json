@@ -1,0 +1,13 @@
+{
+  "name": "Mao",
+  "symbol": "MAO",
+  "decimals": 9,
+  "coin_type": "0xbf6fc83d6b5f3e7317c86ead346450f9dd6f836e2d7907a987190113576407c3::mao::MAO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x556c3cbdca77a7f21afe15b17e644e0e98e64df4.png?size=xl&key=02300a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

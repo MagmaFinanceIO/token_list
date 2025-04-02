@@ -1,0 +1,13 @@
+{
+  "name": "BRQKO",
+  "symbol": "BRQKO",
+  "decimals": 9,
+  "coin_type": "0x0bd6dd9edace8806f22613050ac94bb186b57aee5bf489ef97c996afb6eeffe4::brqko::BRQKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2SNstbEYVEn2iTNQyZHKGzgTPZwBgnujwKa8hn5opump.png?size=lg&key=16c90b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

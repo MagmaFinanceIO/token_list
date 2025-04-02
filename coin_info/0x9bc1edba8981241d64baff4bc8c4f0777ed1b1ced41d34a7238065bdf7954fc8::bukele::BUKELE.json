@@ -1,0 +1,13 @@
+{
+  "name": "BUKELE TRUE HEROE",
+  "symbol": "BUKELE",
+  "decimals": 6,
+  "coin_type": "0x9bc1edba8981241d64baff4bc8c4f0777ed1b1ced41d34a7238065bdf7954fc8::bukele::BUKELE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/btc_2821ad3729.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

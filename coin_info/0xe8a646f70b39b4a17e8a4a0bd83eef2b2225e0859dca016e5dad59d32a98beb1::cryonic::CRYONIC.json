@@ -1,0 +1,13 @@
+{
+  "name": "$Cryonic",
+  "symbol": "Cryonic",
+  "decimals": 6,
+  "coin_type": "0xe8a646f70b39b4a17e8a4a0bd83eef2b2225e0859dca016e5dad59d32a98beb1::cryonic::CRYONIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20241129_102343_745_901e1f169a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

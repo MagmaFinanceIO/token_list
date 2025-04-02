@@ -1,0 +1,13 @@
+{
+  "name": "XRPonSUI",
+  "symbol": "XRPS",
+  "decimals": 6,
+  "coin_type": "0xf58d24711b66f4eedefc1c3de871715f3234964c99abf104eb33497acc85db49::xrps::XRPS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/xrp_95ebed70cf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

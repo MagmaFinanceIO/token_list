@@ -1,0 +1,13 @@
+{
+  "name": "BREAKING BAD",
+  "symbol": "BREAKING",
+  "decimals": 9,
+  "coin_type": "0x31bc513bce56791e545634003859bca5ea68a055210920e96fe5eecdfc8baba6::breaking::BREAKING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0c811b4d-5827-4b77-9bed-035d4f2af62b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

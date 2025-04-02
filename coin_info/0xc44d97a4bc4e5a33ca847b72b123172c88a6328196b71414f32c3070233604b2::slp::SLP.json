@@ -1,0 +1,15 @@
+{
+  "name": "Sudo LP Token",
+  "symbol": "SLP",
+  "decimals": 6,
+  "coin_type": "0xc44d97a4bc4e5a33ca847b72b123172c88a6328196b71414f32c3070233604b2::slp::SLP",
+  "pyth_id": "",
+  "birdeyeid": "0xc44d97a4bc4e5a33ca847b72b123172c88a6328196b71414f32c3070233604b2::slp::SLP",
+  "coin_priority": [
+    "720"
+  ],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/slp.png",
+  "project_url": "",
+  "coingecko_id": "slp",
+  "is_trusted": true
+}

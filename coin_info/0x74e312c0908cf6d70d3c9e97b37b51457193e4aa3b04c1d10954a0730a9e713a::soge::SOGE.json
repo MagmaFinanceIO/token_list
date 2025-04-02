@@ -1,0 +1,13 @@
+{
+  "name": "SOGE",
+  "symbol": "SOGE",
+  "decimals": 9,
+  "coin_type": "0x74e312c0908cf6d70d3c9e97b37b51457193e4aa3b04c1d10954a0730a9e713a::soge::SOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://nbope.github.io/foxy/soge256.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

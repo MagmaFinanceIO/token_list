@@ -1,0 +1,13 @@
+{
+  "name": "Test2",
+  "symbol": "TST",
+  "decimals": 6,
+  "coin_type": "0xc18a10ad157659d49b801b2972733e383524a3a2e3dc5a10c4a4377795ed777f::tst::TST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pngwing_com_5783b4cdec.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

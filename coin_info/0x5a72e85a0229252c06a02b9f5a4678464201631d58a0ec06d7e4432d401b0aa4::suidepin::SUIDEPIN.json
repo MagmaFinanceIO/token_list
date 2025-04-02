@@ -1,0 +1,13 @@
+{
+  "name": "Sui DePIN",
+  "symbol": "SUIDEPIN",
+  "decimals": 9,
+  "coin_type": "0x5a72e85a0229252c06a02b9f5a4678464201631d58a0ec06d7e4432d401b0aa4::suidepin::SUIDEPIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://framerusercontent.com/images/RO06bjNznXS3vSEzgXCQemqliA.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

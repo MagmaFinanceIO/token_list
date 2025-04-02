@@ -1,0 +1,13 @@
+{
+  "name": "PEPE on SUI",
+  "symbol": "PEPE",
+  "decimals": 9,
+  "coin_type": "0xf36d9372be3ddbc6a7500dd654d1289b5df0c5b2eb21ff0b4bf2cc9f9efb689d::pepe::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8457a86b-06a5-4950-9b8f-28eba5fdbb1b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

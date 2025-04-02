@@ -1,0 +1,13 @@
+{
+  "name": "BEBE",
+  "symbol": "BEBE",
+  "decimals": 9,
+  "coin_type": "0x7569a19f3c823d24e40ef6b39ceaf520c7569c6bd35bc74fc453f36dddb24d58::bebe::BEBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4avGANtzcU6FwUb57GkjjZVHBnGJuQ1BB4AwWzVV8JJW.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

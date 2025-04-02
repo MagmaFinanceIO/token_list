@@ -1,0 +1,13 @@
+{
+  "name": "MEGAx",
+  "symbol": "Make Europe Great Again",
+  "decimals": 2,
+  "coin_type": "0x021fcc468440c98011f378bc7161f8be688672db3f90729f879a4d47c9020898::managed::MANAGED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

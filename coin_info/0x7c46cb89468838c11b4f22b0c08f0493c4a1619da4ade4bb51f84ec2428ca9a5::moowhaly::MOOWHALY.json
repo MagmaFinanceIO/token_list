@@ -1,0 +1,13 @@
+{
+  "name": "MOOWHALY",
+  "symbol": "MOOWHALY",
+  "decimals": 9,
+  "coin_type": "0x7c46cb89468838c11b4f22b0c08f0493c4a1619da4ade4bb51f84ec2428ca9a5::moowhaly::MOOWHALY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5cff6015-e3a8-41a3-812f-b5c9204e02ee.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

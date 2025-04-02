@@ -1,0 +1,13 @@
+{
+  "name": "JINPING Meme",
+  "symbol": "JINPING",
+  "decimals": 9,
+  "coin_type": "0xa491e246f69df600fbbbd89a2eeaf1dd6aab12b30b34532b6968fdc239bb5576::jinping::JINPING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GfeYVzB9aky3RSZ1KMAwp2XnYvkwjFufT3uqyeH8pump.png?size=lg&key=3f040a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

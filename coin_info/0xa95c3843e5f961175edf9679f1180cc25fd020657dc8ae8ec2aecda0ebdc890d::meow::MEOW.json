@@ -1,0 +1,13 @@
+{
+  "name": "Sui Meow",
+  "symbol": "meow",
+  "decimals": 9,
+  "coin_type": "0xa95c3843e5f961175edf9679f1180cc25fd020657dc8ae8ec2aecda0ebdc890d::meow::MEOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b9e12b82-9759-4503-bbf5-0192b74560ce.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

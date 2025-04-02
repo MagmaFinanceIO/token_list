@@ -1,0 +1,13 @@
+{
+  "name": "REPUBLICAN ON SUI",
+  "symbol": "REPUBLICAN",
+  "decimals": 9,
+  "coin_type": "0xaa2cc5a0dea22f020cfee05047c0688ffc4c5209d885ed315da4e9add249cb1c::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

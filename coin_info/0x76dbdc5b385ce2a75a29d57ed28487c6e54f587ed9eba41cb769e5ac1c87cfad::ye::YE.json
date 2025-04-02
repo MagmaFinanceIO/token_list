@@ -1,0 +1,13 @@
+{
+  "name": "kanye",
+  "symbol": "YE",
+  "decimals": 9,
+  "coin_type": "0x76dbdc5b385ce2a75a29d57ed28487c6e54f587ed9eba41cb769e5ac1c87cfad::ye::YE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A5f62JkcdMjqxmPu1WJ6UJHjoCLoKMk7VyzTexcTF42Y.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

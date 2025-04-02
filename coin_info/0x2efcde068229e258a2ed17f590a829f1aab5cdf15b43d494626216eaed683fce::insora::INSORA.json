@@ -1,0 +1,13 @@
+{
+  "name": "Insora AI On Sui",
+  "symbol": "INSORA",
+  "decimals": 9,
+  "coin_type": "0x2efcde068229e258a2ed17f590a829f1aab5cdf15b43d494626216eaed683fce::insora::INSORA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4b22b3b7-150f-42b8-811e-3b267568b760.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

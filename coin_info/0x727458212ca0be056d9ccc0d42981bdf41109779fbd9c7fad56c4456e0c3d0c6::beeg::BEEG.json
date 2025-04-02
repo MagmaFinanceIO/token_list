@@ -1,0 +1,13 @@
+{
+  "name": "Beeg Blue Whale",
+  "symbol": "BEEG",
+  "decimals": 6,
+  "coin_type": "0x727458212ca0be056d9ccc0d42981bdf41109779fbd9c7fad56c4456e0c3d0c6::beeg::BEEG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_09_25_11_10_10_d820646a00.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

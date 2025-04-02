@@ -1,0 +1,13 @@
+{
+  "name": "Suizuki",
+  "symbol": "ZUKI",
+  "decimals": 9,
+  "coin_type": "0x8d84e98518cab8bd2941cfb23fa78ad0538ed07ba8887e451f0b93380d479908::zuki::ZUKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/41e84652-d5db-4ea4-8f7b-a767b503e7a1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

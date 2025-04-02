@@ -1,0 +1,13 @@
+{
+  "name": "GECKO on SUI",
+  "symbol": "GECKO",
+  "decimals": 6,
+  "coin_type": "0x29efdd11e52333fcbb5536a5fc712bc75ac3194b5b95b4e274c6e34e730a13fe::gecko::GECKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSff1TKR7VtLhDzUxCFS2xnLNCv8aiKeZoetM5a9dd8GR",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

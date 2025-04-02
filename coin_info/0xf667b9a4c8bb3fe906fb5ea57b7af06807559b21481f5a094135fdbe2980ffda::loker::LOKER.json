@@ -1,0 +1,13 @@
+{
+  "name": "LOKER",
+  "symbol": "LOKER",
+  "decimals": 9,
+  "coin_type": "0xf667b9a4c8bb3fe906fb5ea57b7af06807559b21481f5a094135fdbe2980ffda::loker::LOKER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4ad6f471-fe57-465f-b81d-b814736a4097.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

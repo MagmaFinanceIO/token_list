@@ -1,0 +1,13 @@
+{
+  "name": "Kabosu",
+  "symbol": "Kabosu",
+  "decimals": 9,
+  "coin_type": "0xb488eafe77204a033c5d7e1a091cb206458e5d4f3bc7299b3d8f4d1518a180a0::kabosu::KABOSU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

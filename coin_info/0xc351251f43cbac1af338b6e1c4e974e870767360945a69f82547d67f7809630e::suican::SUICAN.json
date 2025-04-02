@@ -1,0 +1,13 @@
+{
+  "name": "SUI CANCER",
+  "symbol": "SUICAN",
+  "decimals": 9,
+  "coin_type": "0xc351251f43cbac1af338b6e1c4e974e870767360945a69f82547d67f7809630e::suican::SUICAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4aaf0955-2e0a-43d1-93d6-fb029df73c9e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

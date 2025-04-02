@@ -1,0 +1,13 @@
+{
+  "name": "POGGY ON SUI",
+  "symbol": "POGGY",
+  "decimals": 9,
+  "coin_type": "0x013062e1462f074d8ba313a732b532b50e367f78265f2f3d77c81ed4f69ae565::poggy::POGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/30426da7-ddf8-4cd0-8c60-2e49189f2164.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

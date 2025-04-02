@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL TRUMP",
+  "symbol": "DJTRUMP",
+  "decimals": 9,
+  "coin_type": "0x8fc2accdaff330ed24a881475abf1e67bad2ed9f1dbf100dfb6b15f9ec814979::djtrump::DJTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN.png?size=lg&key=6384fd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

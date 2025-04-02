@@ -1,0 +1,13 @@
+{
+  "name": "Bad Boy on Sui",
+  "symbol": "BADBOY",
+  "decimals": 5,
+  "coin_type": "0x88701078055100184a52f4b93f857e7247b8d595d23ba88e8f632d128303c5e2::badboy::BADBOY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e3efc3dd-33dc-4c01-bb7f-00f9dcdb54ac.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

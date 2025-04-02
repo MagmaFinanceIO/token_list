@@ -1,0 +1,13 @@
+{
+  "name": "FWIZ The Frog",
+  "symbol": "FWIZ",
+  "decimals": 6,
+  "coin_type": "0x5758cab2d836d229fa9bbb9d41cfa8a12e8e6838c3fe35d9589bce4f6ac289df::fwiz::FWIZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4847_78423be1fd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

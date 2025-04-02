@@ -1,0 +1,13 @@
+{
+  "name": "Izumi Inu",
+  "symbol": "IZUMI",
+  "decimals": 9,
+  "coin_type": "0xfcea18907252c86890d0dc5dc99c40f468a6170c26bd8d3cca70bdb45bfab294::izumi::IZUMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0a7351f4-c9a2-4955-a5bd-9ebd81c8f00e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

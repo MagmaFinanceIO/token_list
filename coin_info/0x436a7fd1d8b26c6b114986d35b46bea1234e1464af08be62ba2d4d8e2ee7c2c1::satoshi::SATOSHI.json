@@ -1,0 +1,13 @@
+{
+  "name": "Official Satoshi Coin",
+  "symbol": "SATOSHI",
+  "decimals": 9,
+  "coin_type": "0x436a7fd1d8b26c6b114986d35b46bea1234e1464af08be62ba2d4d8e2ee7c2c1::satoshi::SATOSHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmUNMd9Rg9RM76g8MBvub8z7tSW5GzG6D8vj27m5F7N6XX",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

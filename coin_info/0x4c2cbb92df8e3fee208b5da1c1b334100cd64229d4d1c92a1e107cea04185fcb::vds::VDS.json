@@ -1,0 +1,13 @@
+{
+  "name": "VDS COIN",
+  "symbol": "VDS",
+  "decimals": 9,
+  "coin_type": "0x4c2cbb92df8e3fee208b5da1c1b334100cd64229d4d1c92a1e107cea04185fcb::vds::VDS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d91958d4-ae84-456a-97fa-8bc9f992d6ec.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

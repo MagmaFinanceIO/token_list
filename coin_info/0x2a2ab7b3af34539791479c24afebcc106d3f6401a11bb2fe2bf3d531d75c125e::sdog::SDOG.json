@@ -1,0 +1,13 @@
+{
+  "name": "SUIDOGX",
+  "symbol": "SDOG",
+  "decimals": 6,
+  "coin_type": "0x2a2ab7b3af34539791479c24afebcc106d3f6401a11bb2fe2bf3d531d75c125e::sdog::SDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Captura_de_tela_2024_12_16_083552_d0a7be1dd6.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

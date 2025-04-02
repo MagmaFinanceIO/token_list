@@ -1,0 +1,13 @@
+{
+  "name": "Mommo",
+  "symbol": "MOMMO",
+  "decimals": 9,
+  "coin_type": "0x8966fd257b7461e237de8cd7c37d5ec451877469674028e432626dcb9fa226fe::mommo::MOMMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1745345701188673536/5uVqYtz9.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

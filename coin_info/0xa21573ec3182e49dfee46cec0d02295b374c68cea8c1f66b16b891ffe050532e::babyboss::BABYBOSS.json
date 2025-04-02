@@ -1,0 +1,13 @@
+{
+  "name": "BABY BOSS",
+  "symbol": "BabyBoss",
+  "decimals": 9,
+  "coin_type": "0xa21573ec3182e49dfee46cec0d02295b374c68cea8c1f66b16b891ffe050532e::babyboss::BABYBOSS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bca6c6af-c553-46ee-a74e-eb53b8cb9a9c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

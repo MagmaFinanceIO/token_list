@@ -1,0 +1,13 @@
+{
+  "name": "SUDENG",
+  "symbol": "HIPPO",
+  "decimals": 9,
+  "coin_type": "0x3712913b5d0da2bcc6633b5c35d7784cad0a9525bfb83445daec0653a7a3ebb9::hippo::HIPPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b3735f24-9128-437a-944f-5af0fe40baa0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

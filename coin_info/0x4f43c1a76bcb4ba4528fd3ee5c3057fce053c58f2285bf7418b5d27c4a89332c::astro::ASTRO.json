@@ -1,0 +1,13 @@
+{
+  "name": "AstroAI",
+  "symbol": "ASTRO",
+  "decimals": 6,
+  "coin_type": "0x4f43c1a76bcb4ba4528fd3ee5c3057fce053c58f2285bf7418b5d27c4a89332c::astro::ASTRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/b31592a7_160f_40e7_9fdb_820d4e2f901b_dbe9459397.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

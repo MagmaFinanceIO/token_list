@@ -1,0 +1,13 @@
+{
+  "name": "STAX On SUI",
+  "symbol": "STAX",
+  "decimals": 9,
+  "coin_type": "0xd4491f9825994f31aca46d5299ef8e4aefb2df23f50a58d7ad8e35ab609d65a5::stax::STAX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2fe05c00-589d-45df-93bf-052a7de8330a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

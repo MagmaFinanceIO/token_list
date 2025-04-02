@@ -1,0 +1,13 @@
+{
+  "name": "MOBU",
+  "symbol": "MOBU",
+  "decimals": 9,
+  "coin_type": "0xc093c50c1a08c2922295908c80f7398d178da73a27956a635cf418475f01370f::mobu::MOBU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4bb878e7-7c8c-4620-8ae8-6095dbd8c25b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

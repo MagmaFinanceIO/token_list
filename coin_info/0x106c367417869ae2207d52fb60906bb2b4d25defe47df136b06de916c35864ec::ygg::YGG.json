@@ -1,0 +1,13 @@
+{
+  "name": "YGG",
+  "symbol": "YGG",
+  "decimals": 9,
+  "coin_type": "0x106c367417869ae2207d52fb60906bb2b4d25defe47df136b06de916c35864ec::ygg::YGG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.google.com/imgres?q=YGG%20token&imgurl=https%3A%2F%2Fs2.coinmarketcap.com%2Fstatic%2Fimg%2Fcoins%2F200x200%2F10688.png&imgrefurl=https%3A%2F%2Fcoinmarketcap.com%2Fcurrencies%2Fyield-guild-games%2F&docid=C6z-OQYGkZtjCM&tbnid=s4styPdGmPjw_M&vet=12ahUKEwicuKbRveOKAxV-ja8BHVkWGRQQM3oECB0QAA..i&w=200&h=200&hcb=2&ved=2ahUKEwicuKbRveOKAxV-ja8BHVkWGRQQM3oECB0QAA",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

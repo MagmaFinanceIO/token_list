@@ -1,0 +1,13 @@
+{
+  "name": "Elon DOGE",
+  "symbol": "DOGE",
+  "decimals": 9,
+  "coin_type": "0x303e05af7134fc4bf876c67ed78fec578dd47202270f1aa5ec47eb808d5ff6fc::doge::DOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x112db577cd17c1a34243fe6bef7c469513ce8420.png?size=lg&key=335989",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

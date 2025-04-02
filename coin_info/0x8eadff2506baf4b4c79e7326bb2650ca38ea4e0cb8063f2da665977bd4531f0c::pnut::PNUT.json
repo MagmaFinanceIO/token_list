@@ -1,0 +1,13 @@
+{
+  "name": "PNUT",
+  "symbol": "PNUT",
+  "decimals": 6,
+  "coin_type": "0x8eadff2506baf4b4c79e7326bb2650ca38ea4e0cb8063f2da665977bd4531f0c::pnut::PNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmRmSLrceFLKSQp84UqSvqbe8nJbdhQgSq3gJWQPKcb9aM",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

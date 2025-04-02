@@ -1,0 +1,13 @@
+{
+  "name": "PumpAI",
+  "symbol": "PumpAI",
+  "decimals": 9,
+  "coin_type": "0xcad0fdec60fbc56613dc37d75a0fe0d577afe1a5c32306e583f8b909ea77bf14::pumpai::PUMPAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7vsKatZ8BAKXXb16ZZMJyg9X3iLn8Zpq4yBPg8mWBLMd.png?size=lg&key=ce6e46",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

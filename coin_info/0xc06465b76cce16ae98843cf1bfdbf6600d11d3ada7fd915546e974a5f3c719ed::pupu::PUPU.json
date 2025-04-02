@@ -1,0 +1,13 @@
+{
+  "name": "Pupu",
+  "symbol": "PUPU",
+  "decimals": 9,
+  "coin_type": "0xc06465b76cce16ae98843cf1bfdbf6600d11d3ada7fd915546e974a5f3c719ed::pupu::PUPU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/127LNZfN3PbnkRfPdNgSdAFHW2duWZ6nXfQHnCjopump.png?size=lg&key=b38f34",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TIGGER",
+  "symbol": "TIGGER",
+  "decimals": 9,
+  "coin_type": "0xbcab598bc613fe366c6dcf8cb733a91cd39eb9df923e96999d4dbb225cd1402c::tigger::TIGGER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7keSKYdu4Aa6Z7iUUXWyWfFEZDGZJyBQ5FsE5HcRpump.png?size=lg&key=bdff0c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

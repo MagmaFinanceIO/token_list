@@ -1,0 +1,13 @@
+{
+  "name": "Gimble",
+  "symbol": "GM",
+  "decimals": 9,
+  "coin_type": "0x5bb09fb248347b3d49ad0ea5aab1c5dc825434f173e5f2ab63a51fdea099438b::gm::GM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1b39be9a-a8f8-4eb6-8da2-38067f9b5097.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

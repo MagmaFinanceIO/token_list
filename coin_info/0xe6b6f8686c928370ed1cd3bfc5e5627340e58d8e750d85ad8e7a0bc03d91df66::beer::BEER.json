@@ -1,0 +1,13 @@
+{
+  "name": "Sui Beer",
+  "symbol": "BEER",
+  "decimals": 9,
+  "coin_type": "0xe6b6f8686c928370ed1cd3bfc5e5627340e58d8e750d85ad8e7a0bc03d91df66::beer::BEER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/46aed40b-03dc-4eb9-a207-7fb86d146239.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

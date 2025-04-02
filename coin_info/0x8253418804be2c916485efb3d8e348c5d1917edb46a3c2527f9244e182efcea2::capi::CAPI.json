@@ -1,0 +1,13 @@
+{
+  "name": "Captain Capi",
+  "symbol": "CAPI",
+  "decimals": 9,
+  "coin_type": "0x8253418804be2c916485efb3d8e348c5d1917edb46a3c2527f9244e182efcea2::capi::CAPI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/Qme52teagQUHQnV9eJNA5mKY9aiL8qbHuEjFNQxSHqP1LN",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

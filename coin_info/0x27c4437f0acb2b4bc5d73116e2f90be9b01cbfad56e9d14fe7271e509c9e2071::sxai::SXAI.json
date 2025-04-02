@@ -1,0 +1,13 @@
+{
+  "name": "SpaceX AI",
+  "symbol": "SXAI",
+  "decimals": 9,
+  "coin_type": "0x27c4437f0acb2b4bc5d73116e2f90be9b01cbfad56e9d14fe7271e509c9e2071::sxai::SXAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GLRC1H8ES9pTVNWg74rKWDDrTF6QKVy29phYsh5ZjhaZ.png?size=lg&key=20981d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "rinwifhat",
+  "symbol": "RINWIF",
+  "decimals": 6,
+  "coin_type": "0x4c023b94ba2e42e5ce1400191d0228216359f4de894150b813b1f514d2668426::rinwif::RINWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://lavender-gentle-primate-223.mypinata.cloud/ipfs/QmUMrHW9c3S2GNSyX7LuDxk2ZU5wBGTzwo4D6xKvLCj5Sc?pinataGatewayToken=M45Jh03NicrVqTZJJhQIwDtl7G6fGS90bjJiIQrmyaQXC_xXj4BgRqjjBNyGV7q2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BabySealCat",
+  "symbol": "BABYSAT",
+  "decimals": 6,
+  "coin_type": "0xabba9e78d26063cc8c21cab4150fd956f9dd2de5b60445afea7769820a7a12c7::babysat::BABYSAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7264_9174db588f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

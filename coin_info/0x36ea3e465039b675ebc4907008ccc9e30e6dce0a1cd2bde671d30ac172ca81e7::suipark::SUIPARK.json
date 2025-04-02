@@ -1,0 +1,13 @@
+{
+  "name": "Sui Park",
+  "symbol": "SUIPARK",
+  "decimals": 2,
+  "coin_type": "0x36ea3e465039b675ebc4907008ccc9e30e6dce0a1cd2bde671d30ac172ca81e7::suipark::SUIPARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/36351653-d617-404e-8c5b-d62ad9b25279.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

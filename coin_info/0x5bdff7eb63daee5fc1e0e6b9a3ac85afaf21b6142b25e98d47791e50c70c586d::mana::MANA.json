@@ -1,0 +1,13 @@
+{
+  "name": "MANATEE SUI",
+  "symbol": "MANA",
+  "decimals": 6,
+  "coin_type": "0x5bdff7eb63daee5fc1e0e6b9a3ac85afaf21b6142b25e98d47791e50c70c586d::mana::MANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731169674256.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

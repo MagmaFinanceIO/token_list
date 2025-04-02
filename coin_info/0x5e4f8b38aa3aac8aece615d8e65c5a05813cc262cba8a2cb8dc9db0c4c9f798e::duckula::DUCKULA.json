@@ -1,0 +1,13 @@
+{
+  "name": "DUCKULA",
+  "symbol": "DUCKULA",
+  "decimals": 9,
+  "coin_type": "0x5e4f8b38aa3aac8aece615d8e65c5a05813cc262cba8a2cb8dc9db0c4c9f798e::duckula::DUCKULA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3HzLXY4ZBvzefQDCpV7qZSx3PdbANKK9VUfZYHsGpump.png?size=lg&key=700d82",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Book of Musk",
+  "symbol": "BOOM",
+  "decimals": 9,
+  "coin_type": "0xf76fd5c469369e66fcf3c20575b37acff54d5d8cf23f2c59e0a76a918554a094::boom::BOOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AcYqS9MmitbC2fH9T7PNgFVyd7hJqV4ZnsNqFv3bpump.png?size=lg&key=fb1b82",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

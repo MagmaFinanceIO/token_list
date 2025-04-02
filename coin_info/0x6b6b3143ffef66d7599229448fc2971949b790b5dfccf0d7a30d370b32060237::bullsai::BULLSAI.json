@@ -1,0 +1,13 @@
+{
+  "name": "Bullseye",
+  "symbol": "BullsAI",
+  "decimals": 6,
+  "coin_type": "0x6b6b3143ffef66d7599229448fc2971949b790b5dfccf0d7a30d370b32060237::bullsai::BULLSAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/giphy_ezgif_com_webp_to_gif_converter_c026dce3f9.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

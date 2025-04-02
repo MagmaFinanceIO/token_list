@@ -1,0 +1,13 @@
+{
+  "name": "Thug Bug",
+  "symbol": "BUGGY",
+  "decimals": 9,
+  "coin_type": "0x0d22e63794bce454261de744a66861eafa9e2e6f29b5e98b09cfe6fd5889cd5e::buggy::BUGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/54f39fa1-7244-4bec-962a-bbdf783f8536.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

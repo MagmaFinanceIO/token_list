@@ -1,0 +1,13 @@
+{
+  "name": "ChiikawaSUI",
+  "symbol": "Chiikawa",
+  "decimals": 6,
+  "coin_type": "0xb125893e8a3c76c5ea8846799cdb3337a4773b00004fc0863e43f446cbf8c369::chiikawa::CHIIKAWA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/message_Image_1728753652207_e27c21d3fe.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

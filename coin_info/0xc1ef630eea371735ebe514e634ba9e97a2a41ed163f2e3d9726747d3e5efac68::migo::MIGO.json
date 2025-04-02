@@ -1,0 +1,13 @@
+{
+  "name": "Amigos",
+  "symbol": "Migo",
+  "decimals": 6,
+  "coin_type": "0xc1ef630eea371735ebe514e634ba9e97a2a41ed163f2e3d9726747d3e5efac68::migo::MIGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmXQJRsvAxiLHmv21kdwCEF6vyzWXiVJv1oV84cPUUpa9P",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

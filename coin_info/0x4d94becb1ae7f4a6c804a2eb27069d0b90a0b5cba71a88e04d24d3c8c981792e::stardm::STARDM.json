@@ -1,0 +1,13 @@
+{
+  "name": "Stardom AI",
+  "symbol": "STARDM",
+  "decimals": 9,
+  "coin_type": "0x4d94becb1ae7f4a6c804a2eb27069d0b90a0b5cba71a88e04d24d3c8c981792e::stardm::STARDM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Faph9CjPwV9pRz642sbgnhhXVQFhQJZrWp8jspEDpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

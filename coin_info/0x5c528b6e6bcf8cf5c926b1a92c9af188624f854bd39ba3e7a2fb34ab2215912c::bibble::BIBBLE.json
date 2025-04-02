@@ -1,0 +1,13 @@
+{
+  "name": "BIBBLE",
+  "symbol": "BIBBLE",
+  "decimals": 9,
+  "coin_type": "0x5c528b6e6bcf8cf5c926b1a92c9af188624f854bd39ba3e7a2fb34ab2215912c::bibble::BIBBLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

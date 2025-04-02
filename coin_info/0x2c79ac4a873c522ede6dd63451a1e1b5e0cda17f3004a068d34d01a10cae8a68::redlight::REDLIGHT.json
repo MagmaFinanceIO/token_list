@@ -1,0 +1,13 @@
+{
+  "name": "RED LIGHT GREEN LIGHT",
+  "symbol": "REDLIGHT",
+  "decimals": 9,
+  "coin_type": "0x2c79ac4a873c522ede6dd63451a1e1b5e0cda17f3004a068d34d01a10cae8a68::redlight::REDLIGHT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BJZ4VQ2SDjM9osGa9qBLUXpobqWTNcxVtEHz1nDwpump.png?size=lg&key=eb207a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

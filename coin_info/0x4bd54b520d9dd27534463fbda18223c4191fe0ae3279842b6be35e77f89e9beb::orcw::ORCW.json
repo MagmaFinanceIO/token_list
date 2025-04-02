@@ -1,0 +1,13 @@
+{
+  "name": "Orc Woman",
+  "symbol": "ORCW",
+  "decimals": 9,
+  "coin_type": "0x4bd54b520d9dd27534463fbda18223c4191fe0ae3279842b6be35e77f89e9beb::orcw::ORCW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/057/967/889/large/stasia-bubnova-orc-woman-1.jpg?1673082931",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

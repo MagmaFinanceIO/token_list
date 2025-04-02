@@ -1,0 +1,13 @@
+{
+  "name": "dogwifouthat",
+  "symbol": "dogwifouth",
+  "decimals": 9,
+  "coin_type": "0xc70287a737e0623a633627bed3076a14b7f8b5e0c620edd956ae0ef21a7a853f::dogwifouth::DOGWIFOUTH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/399DmbmPgM8wPLQGDWs47W525RJRPn5K714nU6N5pump.png?size=lg&key=de4d8f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

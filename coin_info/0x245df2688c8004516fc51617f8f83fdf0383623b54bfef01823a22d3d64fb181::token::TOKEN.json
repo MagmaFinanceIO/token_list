@@ -1,0 +1,13 @@
+{
+  "name": "Test Token",
+  "symbol": "TEST",
+  "decimals": 9,
+  "coin_type": "0x245df2688c8004516fc51617f8f83fdf0383623b54bfef01823a22d3d64fb181::token::TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.wikimedia.org/wikipedia/en/6/63/Feels_good_man.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

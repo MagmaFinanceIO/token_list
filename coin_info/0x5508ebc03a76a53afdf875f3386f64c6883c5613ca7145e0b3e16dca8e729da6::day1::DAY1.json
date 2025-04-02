@@ -1,0 +1,13 @@
+{
+  "name": "DAY 1",
+  "symbol": "DAY1",
+  "decimals": 9,
+  "coin_type": "0x5508ebc03a76a53afdf875f3386f64c6883c5613ca7145e0b3e16dca8e729da6::day1::DAY1",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EFk7NkJF4NsW3toXivz7XuyqtKxoYLXGL5TVHXXuE32z.png?size=lg&key=702743",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BIG BAD WOLF",
+  "symbol": "BBW",
+  "decimals": 9,
+  "coin_type": "0xf96454723a0a51a85f5307d34277025ebedac679b6b28edd7f275ca548551c0b::bbw::BBW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmUDcWdptm52ynhs75ioKcszVDbm8nZUgBUcBQGTstjxC2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

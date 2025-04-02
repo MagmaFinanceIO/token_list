@@ -1,0 +1,13 @@
+{
+  "name": "Pengu Gyatt",
+  "symbol": "Gyatt",
+  "decimals": 9,
+  "coin_type": "0x1a67341b1f2b52d52c5549709d725b2f24b888e2998c131baafb39bdfa559bde::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

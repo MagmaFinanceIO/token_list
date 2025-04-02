@@ -1,0 +1,13 @@
+{
+  "name": "VIRTUA AI",
+  "symbol": "VRT",
+  "decimals": 9,
+  "coin_type": "0x33254c6cdf02805eb2f6dd160417547d520fee0b10628862324197af8b41c404::vrt::VRT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a1634d7e-3a80-46eb-b4a4-c71a0d283f5d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

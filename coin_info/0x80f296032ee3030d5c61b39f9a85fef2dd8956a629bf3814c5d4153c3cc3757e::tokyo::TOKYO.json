@@ -1,0 +1,13 @@
+{
+  "name": "TokyoVerseV1",
+  "symbol": "TOKYO",
+  "decimals": 6,
+  "coin_type": "0x80f296032ee3030d5c61b39f9a85fef2dd8956a629bf3814c5d4153c3cc3757e::tokyo::TOKYO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Tokyo_1c4ee76da8.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

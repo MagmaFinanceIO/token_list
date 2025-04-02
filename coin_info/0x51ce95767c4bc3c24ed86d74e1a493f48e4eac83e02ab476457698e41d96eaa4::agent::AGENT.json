@@ -1,0 +1,13 @@
+{
+  "name": "MatrixOracle",
+  "symbol": "AGENT",
+  "decimals": 6,
+  "coin_type": "0x51ce95767c4bc3c24ed86d74e1a493f48e4eac83e02ab476457698e41d96eaa4::agent::AGENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1734976279594.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PEPESUI",
+  "symbol": "PEPESUI",
+  "decimals": 9,
+  "coin_type": "0x49267912968f537866fd80344210f563f0348c4bf8b858a4a69e5d2d1a61369b::pepesui::PEPESUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.stakingrewards.com/_next/image?url=https%3A%2F%2Fcoin-images.coingecko.com%2Fcoins%2Fimages%2F30251%2Flarge%2FSuiPePe_Logo_200x200.png%3F1696529160&w=3840&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

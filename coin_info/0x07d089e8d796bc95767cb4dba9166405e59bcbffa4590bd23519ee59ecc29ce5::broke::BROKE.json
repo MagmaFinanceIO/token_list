@@ -1,0 +1,13 @@
+{
+  "name": "Broke Sui",
+  "symbol": "BROKE",
+  "decimals": 6,
+  "coin_type": "0x07d089e8d796bc95767cb4dba9166405e59bcbffa4590bd23519ee59ecc29ce5::broke::BROKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/broke_74510aea27.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

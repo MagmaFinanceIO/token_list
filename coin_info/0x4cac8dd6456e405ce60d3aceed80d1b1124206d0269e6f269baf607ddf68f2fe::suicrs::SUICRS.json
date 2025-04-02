@@ -1,0 +1,13 @@
+{
+  "name": "SUUUIII",
+  "symbol": "SUICRS",
+  "decimals": 9,
+  "coin_type": "0x4cac8dd6456e405ce60d3aceed80d1b1124206d0269e6f269baf607ddf68f2fe::suicrs::SUICRS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://app.magmafinance.io/api/logo/0x4cac8dd6456e405ce60d3aceed80d1b1124206d0269e6f269baf607ddf68f2fe::suicrs::SUICRS.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

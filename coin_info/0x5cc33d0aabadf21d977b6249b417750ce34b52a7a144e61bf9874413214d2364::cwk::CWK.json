@@ -1,0 +1,13 @@
+{
+  "name": "crab with knife",
+  "symbol": "CWK",
+  "decimals": 6,
+  "coin_type": "0x5cc33d0aabadf21d977b6249b417750ce34b52a7a144e61bf9874413214d2364::cwk::CWK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0150_e48d84bcb0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

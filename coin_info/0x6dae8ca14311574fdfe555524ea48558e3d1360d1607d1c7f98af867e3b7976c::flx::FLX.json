@@ -1,0 +1,13 @@
+{
+  "name": "FlowX",
+  "symbol": "FLX",
+  "decimals": 8,
+  "coin_type": "0x6dae8ca14311574fdfe555524ea48558e3d1360d1607d1c7f98af867e3b7976c::flx::FLX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

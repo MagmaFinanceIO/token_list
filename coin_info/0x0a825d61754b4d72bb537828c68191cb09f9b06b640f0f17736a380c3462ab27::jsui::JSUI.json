@@ -1,0 +1,13 @@
+{
+  "name": "JEJE ON SUI",
+  "symbol": "JSUI",
+  "decimals": 6,
+  "coin_type": "0x0a825d61754b4d72bb537828c68191cb09f9b06b640f0f17736a380c3462ab27::jsui::JSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/3_2_304b385125.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

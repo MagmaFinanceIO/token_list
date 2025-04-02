@@ -1,0 +1,13 @@
+{
+  "name": "Nova",
+  "symbol": "NVA",
+  "decimals": 9,
+  "coin_type": "0x72051b602f56eb2189452379704141c8ac62a82ccf1a20f14296352e7e698f77::nva::NVA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6cd65a66-6f0c-443b-a32d-86d24518dc7f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

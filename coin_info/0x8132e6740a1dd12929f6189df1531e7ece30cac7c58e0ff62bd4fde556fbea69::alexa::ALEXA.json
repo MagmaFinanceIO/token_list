@@ -1,0 +1,13 @@
+{
+  "name": "ALEXA",
+  "symbol": "ALEXA",
+  "decimals": 9,
+  "coin_type": "0x8132e6740a1dd12929f6189df1531e7ece30cac7c58e0ff62bd4fde556fbea69::alexa::ALEXA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AEzof2Z2ifCS4mLCZB7pjQVKn4DB8VxcGLWdCeM9o9U.png?size=lg&key=a75d59",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

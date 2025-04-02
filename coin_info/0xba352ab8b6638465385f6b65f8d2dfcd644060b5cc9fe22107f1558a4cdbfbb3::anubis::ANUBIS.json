@@ -1,0 +1,13 @@
+{
+  "name": "Top Dog of Meme",
+  "symbol": "Anubis",
+  "decimals": 9,
+  "coin_type": "0xba352ab8b6638465385f6b65f8d2dfcd644060b5cc9fe22107f1558a4cdbfbb3::anubis::ANUBIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x44c3c186aaa156fd572fcd3f8ccc93034e3ba4fa.png?size=lg&key=24f78c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

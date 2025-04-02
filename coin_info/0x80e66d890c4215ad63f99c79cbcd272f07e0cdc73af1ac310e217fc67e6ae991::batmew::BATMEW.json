@@ -1,0 +1,13 @@
+{
+  "name": "Sui Superhero",
+  "symbol": "BATMEW",
+  "decimals": 9,
+  "coin_type": "0x80e66d890c4215ad63f99c79cbcd272f07e0cdc73af1ac310e217fc67e6ae991::batmew::BATMEW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BU4JrvEzD6j4NQDn2f34o58W5XALmi9eAD4V1wJ8pump.png?size=lg&key=c9f469",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

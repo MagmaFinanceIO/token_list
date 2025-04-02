@@ -1,0 +1,13 @@
+{
+  "name": "RUBY CORP",
+  "symbol": "RUBY",
+  "decimals": 9,
+  "coin_type": "0x90ee91ff449d1956d5d503b7ed62978d5e2099164f1b190ae180b88453c59202::ruby::RUBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a75883d7-ff74-44b3-bd6e-982b2eed93d2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

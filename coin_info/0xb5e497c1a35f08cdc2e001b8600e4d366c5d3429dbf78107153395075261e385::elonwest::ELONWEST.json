@@ -1,0 +1,13 @@
+{
+  "name": "ELON WEST",
+  "symbol": "ElonWest",
+  "decimals": 9,
+  "coin_type": "0xb5e497c1a35f08cdc2e001b8600e4d366c5d3429dbf78107153395075261e385::elonwest::ELONWEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B4vKdm8JaXHR4rLrZDKYiAB8ZrhVyUW8uBVrBijrpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

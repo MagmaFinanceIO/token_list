@@ -1,0 +1,13 @@
+{
+  "name": "Groggo Sui",
+  "symbol": "Grogoss",
+  "decimals": 6,
+  "coin_type": "0xc1149caf6ca431ee36b05938b4b245b9ede02bbcf4dd7deac2799dcd720d7f0d::grogoss::GROGOSS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_9315_d6045ac767.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

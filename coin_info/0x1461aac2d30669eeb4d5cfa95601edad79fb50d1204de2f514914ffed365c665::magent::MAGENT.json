@@ -1,0 +1,13 @@
+{
+  "name": "The Magent",
+  "symbol": "Magent",
+  "decimals": 6,
+  "coin_type": "0x1461aac2d30669eeb4d5cfa95601edad79fb50d1204de2f514914ffed365c665::magent::MAGENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/magnet_1f9f2_a4972b92c4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

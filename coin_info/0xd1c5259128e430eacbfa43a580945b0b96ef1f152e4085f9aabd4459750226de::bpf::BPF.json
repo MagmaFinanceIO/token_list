@@ -1,0 +1,13 @@
+{
+  "name": "BubblePuffFish",
+  "symbol": "BPF",
+  "decimals": 9,
+  "coin_type": "0xd1c5259128e430eacbfa43a580945b0b96ef1f152e4085f9aabd4459750226de::bpf::BPF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/90491718-aa89-4a0a-88e4-34d775fb56d8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Kiyama Ino",
+  "symbol": "KIYAMA",
+  "decimals": 9,
+  "coin_type": "0x22a3a5dbcc8b7104fdd9910d9752fa64aa48873e6b3d84b3590ab0053a34d8ab::KIYAMA::KIYAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9gnHyT6J6SpoawXD8e1JMwXB7eVzF2heYBtCeLZKpump.png?size=xl&key=047b40",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

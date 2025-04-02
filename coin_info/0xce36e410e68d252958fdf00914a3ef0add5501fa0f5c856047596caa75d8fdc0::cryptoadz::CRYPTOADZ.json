@@ -1,0 +1,13 @@
+{
+  "name": "Cryptoadz by SuiAI",
+  "symbol": "CRYPTOADZ",
+  "decimals": 6,
+  "coin_type": "0xce36e410e68d252958fdf00914a3ef0add5501fa0f5c856047596caa75d8fdc0::cryptoadz::CRYPTOADZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/king_a8154c475f.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

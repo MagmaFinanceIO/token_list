@@ -1,0 +1,13 @@
+{
+  "name": "SENSUI",
+  "symbol": "SENS",
+  "decimals": 6,
+  "coin_type": "0xbc96506f63a81718c55082799c7657bec25ffc6740865e201f795baa9854372f::sens::SENS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4846_8388d0f020.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TUNP",
+  "symbol": "TUNP",
+  "decimals": 9,
+  "coin_type": "0xd3b12ac8136541f67577752e3ad04cbafa1ef2e599dbbf16b2f7398ee84787c2::tunp::TUNP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7QF4XJzSJkVK989bJsLkkuqQp3J2deZtAPUPzrUxFqJJ.png?size=lg&key=c3202e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

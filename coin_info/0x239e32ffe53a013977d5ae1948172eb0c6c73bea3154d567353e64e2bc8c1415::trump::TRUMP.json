@@ -1,0 +1,13 @@
+{
+  "name": "Donald J. Trump",
+  "symbol": "TRUMP",
+  "decimals": 9,
+  "coin_type": "0x239e32ffe53a013977d5ae1948172eb0c6c73bea3154d567353e64e2bc8c1415::trump::TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQdfX1P4UMiNYY6ojsnqecMy5DgusmAc6fkyXGJUHx7NS",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

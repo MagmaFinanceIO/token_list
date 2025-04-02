@@ -1,0 +1,13 @@
+{
+  "name": "SINVERSE by SuiAI",
+  "symbol": "SIN",
+  "decimals": 6,
+  "coin_type": "0x570e60fcf8070ad1c5a854cadbd5fc569fdb95cc0149597c3f8196892eb28d5b::sin::SIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/logosin_7ce6eb12e8.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

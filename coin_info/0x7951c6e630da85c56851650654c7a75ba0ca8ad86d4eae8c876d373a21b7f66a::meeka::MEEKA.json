@@ -1,0 +1,13 @@
+{
+  "name": "TikTok Talking Husky",
+  "symbol": "MEEKA",
+  "decimals": 9,
+  "coin_type": "0x7951c6e630da85c56851650654c7a75ba0ca8ad86d4eae8c876d373a21b7f66a::meeka::MEEKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5R6m74xGVoXsNoWs1ZWg881KFV6eQ4C1uzC78VyJpump.png?size=lg&key=c85bc0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

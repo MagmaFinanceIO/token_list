@@ -1,0 +1,13 @@
+{
+  "name": "Official Kai Meme",
+  "symbol": "KAI",
+  "decimals": 9,
+  "coin_type": "0xef5fa7e322df0d0e7570b4cda7d065cdccc049287f9345e4b2606489cc88ecb4::kai::KAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/vS55ddUZPqDxwKJqUwi1XjzzjYvBpbJNcagtR58pump.png?size=lg&key=c91a07",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TESUI",
+  "symbol": "TES",
+  "decimals": 9,
+  "coin_type": "0xa4b2a8f4994c4f79d301444ed95988521549b790e5fa02e942b74b81a13bd1a1::tes::TES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

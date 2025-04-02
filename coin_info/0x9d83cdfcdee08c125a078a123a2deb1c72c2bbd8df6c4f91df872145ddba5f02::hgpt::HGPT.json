@@ -1,0 +1,13 @@
+{
+  "name": "HyperGPT",
+  "symbol": "HGPT",
+  "decimals": 6,
+  "coin_type": "0x9d83cdfcdee08c125a078a123a2deb1c72c2bbd8df6c4f91df872145ddba5f02::hgpt::HGPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/790b53a0-f241-4de9-aa5f-bec274a88e99.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

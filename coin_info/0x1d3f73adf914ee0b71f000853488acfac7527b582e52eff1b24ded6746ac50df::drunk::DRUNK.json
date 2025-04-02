@@ -1,0 +1,13 @@
+{
+  "name": "Kamala is DRUNK AGAIN",
+  "symbol": "DRUNK",
+  "decimals": 6,
+  "coin_type": "0x1d3f73adf914ee0b71f000853488acfac7527b582e52eff1b24ded6746ac50df::drunk::DRUNK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_8309_e0d501d9fd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

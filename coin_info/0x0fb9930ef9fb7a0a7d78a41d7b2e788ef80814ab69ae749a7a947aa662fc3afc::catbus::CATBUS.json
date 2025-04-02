@@ -1,0 +1,13 @@
+{
+  "name": "CatBus",
+  "symbol": "CATBUS",
+  "decimals": 9,
+  "coin_type": "0x0fb9930ef9fb7a0a7d78a41d7b2e788ef80814ab69ae749a7a947aa662fc3afc::catbus::CATBUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9a68eadd-ff80-4584-8605-aba48fa0cee4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

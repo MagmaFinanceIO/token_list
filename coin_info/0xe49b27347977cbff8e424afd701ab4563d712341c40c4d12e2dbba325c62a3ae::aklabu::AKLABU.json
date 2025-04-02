@@ -1,0 +1,13 @@
+{
+  "name": "Bonk Baby Inu",
+  "symbol": "AKLABU",
+  "decimals": 2,
+  "coin_type": "0xe49b27347977cbff8e424afd701ab4563d712341c40c4d12e2dbba325c62a3ae::aklabu::AKLABU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/419f9fd7-577a-4bd2-9157-ca756a13df59.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

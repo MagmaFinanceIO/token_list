@@ -1,0 +1,13 @@
+{
+  "name": "SHORK",
+  "symbol": "SHORK",
+  "decimals": 9,
+  "coin_type": "0xaad805c97b5217b324105def1c4d7ab1e10edd857c62f8b21cbde62a81bdcf28::shork::SHORK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2fb5bdab-dae2-4e9a-85a3-c36a03353727.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

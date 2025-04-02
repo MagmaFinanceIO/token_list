@@ -1,0 +1,13 @@
+{
+  "name": "Strong Cat",
+  "symbol": "STRONG",
+  "decimals": 6,
+  "coin_type": "0xffe30fc584f33d08bf9992f87e471b5a6319e15ac647701da8266fbc4a37e3b2::strong::STRONG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Stronk_Cat_4f192adbca.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

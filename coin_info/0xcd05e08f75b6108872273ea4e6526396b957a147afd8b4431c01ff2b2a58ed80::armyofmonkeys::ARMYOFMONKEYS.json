@@ -1,0 +1,13 @@
+{
+  "name": "Army Of Monkeys",
+  "symbol": "ArmyOfMonkeys",
+  "decimals": 6,
+  "coin_type": "0xcd05e08f75b6108872273ea4e6526396b957a147afd8b4431c01ff2b2a58ed80::armyofmonkeys::ARMYOFMONKEYS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000006899_f9f5f06136.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

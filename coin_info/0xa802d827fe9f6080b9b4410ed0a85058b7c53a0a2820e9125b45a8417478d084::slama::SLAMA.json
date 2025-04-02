@@ -1,0 +1,13 @@
+{
+  "name": "Suillama",
+  "symbol": "SLAMA",
+  "decimals": 6,
+  "coin_type": "0xa802d827fe9f6080b9b4410ed0a85058b7c53a0a2820e9125b45a8417478d084::slama::SLAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/slama_f76bc6d99d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

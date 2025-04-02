@@ -1,0 +1,13 @@
+{
+  "name": "ROBODOG",
+  "symbol": "ROBODG",
+  "decimals": 9,
+  "coin_type": "0xb3b1934e8919ffde16a2c64b367e201776c6717910f43f9041013f3756cf7953::robodg::ROBODG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Er2mtAhfbZUWbLhxY3ShN5Prj2DrnGjy6d8FYoMXpump.png?size=xl&key=61dc20",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

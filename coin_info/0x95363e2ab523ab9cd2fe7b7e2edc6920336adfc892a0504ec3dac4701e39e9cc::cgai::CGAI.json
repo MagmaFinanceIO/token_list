@@ -1,0 +1,13 @@
+{
+  "name": "CryptoGoat AI by SuiAI",
+  "symbol": "CGAI",
+  "decimals": 6,
+  "coin_type": "0x95363e2ab523ab9cd2fe7b7e2edc6920336adfc892a0504ec3dac4701e39e9cc::cgai::CGAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Photoroom_20250112_182121_6495bddc5f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Olona Limacodidae",
+  "symbol": "OLONA",
+  "decimals": 9,
+  "coin_type": "0x40410aa294d707af1481a23396ce9bf934dc6711ccd9d8b5d6e367a30498380b::olona::OLONA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EbAfsga3Cm8s3FKH3k8yKGQ4QQ2L3PbgKoWEJkDPpump.png?size=lg&key=3b0d93",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

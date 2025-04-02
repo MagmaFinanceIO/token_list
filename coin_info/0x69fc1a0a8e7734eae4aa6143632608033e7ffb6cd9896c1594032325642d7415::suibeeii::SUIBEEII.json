@@ -1,0 +1,13 @@
+{
+  "name": "Sui Bee V2",
+  "symbol": "SuiBeeii",
+  "decimals": 6,
+  "coin_type": "0x69fc1a0a8e7734eae4aa6143632608033e7ffb6cd9896c1594032325642d7415::suibeeii::SUIBEEII",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1734045306102.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "JOJO",
+  "symbol": "JOJO",
+  "decimals": 9,
+  "coin_type": "0xd19fa4df6a1e4db49329b2ceb22090370906293c4b6cadbbbb4b49f7b1a0817b::jojo::JOJO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sign Language Hub",
+  "symbol": "SLHUB",
+  "decimals": 9,
+  "coin_type": "0x17acb7de0f4b331c4163c92517dbe8e17c7a99eae45c0a46c7bc9b5512581cda::slhub::SLHUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GbXpaZ3XzVRGQsnpFTyQoi3ywd3DfVWg7W3Z4qTHpump.png?size=lg&key=9ff2e4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CABAL",
+  "symbol": "CABAL",
+  "decimals": 9,
+  "coin_type": "0x6a27d000bb63594112a58865386abb5d2e123770ba1e6f76752443f757098ab0::cabal::CABAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x6666664b8362444280b7859f40265e5a2e54b661.png?size=xl&key=a37fe6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

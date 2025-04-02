@@ -1,0 +1,13 @@
+{
+  "name": "Barron Trump Meme",
+  "symbol": "Barron",
+  "decimals": 9,
+  "coin_type": "0xeca123002a934fe3f8234833b4c70dc714e66b67ce2f1bcd360ae5315cb6415e::barron::BARRON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8ByDmBFetL7kNzdWh9NPGY1Xmqpqyv1btfe3mwvFdRrw.png?size=lg&key=98295a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

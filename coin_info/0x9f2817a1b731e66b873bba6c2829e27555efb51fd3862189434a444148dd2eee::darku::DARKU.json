@@ -1,0 +1,13 @@
+{
+  "name": "Dark Pengu",
+  "symbol": "DARKU",
+  "decimals": 9,
+  "coin_type": "0x9f2817a1b731e66b873bba6c2829e27555efb51fd3862189434a444148dd2eee::darku::DARKU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HXXfVF2wCVHY8MSpJPr97TUN53RCFxSuXAUt1HXpump.png?size=lg&key=8e39a5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

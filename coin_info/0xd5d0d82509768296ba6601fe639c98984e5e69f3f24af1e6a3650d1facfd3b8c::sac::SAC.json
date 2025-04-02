@@ -1,0 +1,13 @@
+{
+  "name": "SUI ALPHA CALLS COIN",
+  "symbol": "SAC",
+  "decimals": 6,
+  "coin_type": "0xd5d0d82509768296ba6601fe639c98984e5e69f3f24af1e6a3650d1facfd3b8c::sac::SAC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_img2_b04309cf69.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

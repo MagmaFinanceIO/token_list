@@ -1,0 +1,13 @@
+{
+  "name": "Suey",
+  "symbol": "SUEY",
+  "decimals": 9,
+  "coin_type": "0x072384f803bfecb389181ee2453a6d19d8edf373a94f4f933e3a01ae1676b98a::suey::SUEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4c2d8b5b-1571-4004-ae9a-f5b5ba3a3faa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

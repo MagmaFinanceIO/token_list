@@ -1,0 +1,13 @@
+{
+  "name": "Suiza",
+  "symbol": "SUIZA",
+  "decimals": 6,
+  "coin_type": "0x2c6b14eb9521bf84919d39e65a05e9278fabdba68f38780393192d3ebaa4cfda::suiza::SUIZA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SUIZA_c56e1dffc5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "POPDOG ON SUI",
+  "symbol": "POPDOG",
+  "decimals": 6,
+  "coin_type": "0x1e215a81ab850e8c1461bdb78bedfe53691594cb5bf0c978fd4edc64d7eaeb22::popdog::POPDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/H9_BC_Hf_J5n_K8c4fd_N5_E_Xi_EYK_Hjf_F_Mn_E_Ldw9bpr_Bpepump_6e7d59d86d.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

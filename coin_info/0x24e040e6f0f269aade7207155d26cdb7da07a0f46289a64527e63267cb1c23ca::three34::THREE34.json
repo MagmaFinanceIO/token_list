@@ -1,0 +1,13 @@
+{
+  "name": "FWOG",
+  "symbol": "334",
+  "decimals": 6,
+  "coin_type": "0x24e040e6f0f269aade7207155d26cdb7da07a0f46289a64527e63267cb1c23ca::three34::THREE34",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmaSj7FAiStKkgRE1KZVmRYrN7wytKDWe3zZttUHAW6PPB",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

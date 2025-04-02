@@ -1,0 +1,13 @@
+{
+  "name": "ATH",
+  "symbol": "CHURCH",
+  "decimals": 6,
+  "coin_type": "0x13853e9e517b437562485effc8bdfb5db146842470b6bf15a0752ac9c60f0136::church::CHURCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1732592490026.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

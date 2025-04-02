@@ -1,0 +1,13 @@
+{
+  "name": "peanut",
+  "symbol": "peanut ",
+  "decimals": 6,
+  "coin_type": "0xeb44d070a535e3d2e3daf467b60cfbdc5782d5d3cff823f3596a83162c8c3946::peanut::PEANUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmPAo1rx8PpMhqe1RjoK8J9TNUUn9NYyxVKsVzZWMmE4bP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

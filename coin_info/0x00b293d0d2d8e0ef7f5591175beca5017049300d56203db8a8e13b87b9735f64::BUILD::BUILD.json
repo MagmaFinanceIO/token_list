@@ -1,0 +1,13 @@
+{
+  "name": "BUILD",
+  "symbol": "BUILD",
+  "decimals": 9,
+  "coin_type": "0x00b293d0d2d8e0ef7f5591175beca5017049300d56203db8a8e13b87b9735f64::BUILD::BUILD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

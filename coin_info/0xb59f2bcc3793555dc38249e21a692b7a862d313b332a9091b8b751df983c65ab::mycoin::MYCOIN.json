@@ -1,0 +1,13 @@
+{
+  "name": "DEEPAI",
+  "symbol": "DEEPAI",
+  "decimals": 9,
+  "coin_type": "0xb59f2bcc3793555dc38249e21a692b7a862d313b332a9091b8b751df983c65ab::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

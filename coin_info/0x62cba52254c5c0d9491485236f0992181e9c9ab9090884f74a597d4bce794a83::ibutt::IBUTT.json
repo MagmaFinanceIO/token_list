@@ -1,0 +1,13 @@
+{
+  "name": "I-Butthole",
+  "symbol": "IBUTT",
+  "decimals": 8,
+  "coin_type": "0x62cba52254c5c0d9491485236f0992181e9c9ab9090884f74a597d4bce794a83::ibutt::IBUTT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/017630e2-2e35-4922-a1e0-87120db247cd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

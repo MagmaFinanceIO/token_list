@@ -1,0 +1,13 @@
+{
+  "name": "Cheeks Coin",
+  "symbol": "HODLMYASS",
+  "decimals": 9,
+  "coin_type": "0xd220b728a367db8d76a5344951d2986e8c0b8cc7a8751088cad8d063ebf77210::hodlmyass::HODLMYASS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/S2SRdnAYGW1dRnBRrqm9iwHsuJbh1KsvgkB9Nzfpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

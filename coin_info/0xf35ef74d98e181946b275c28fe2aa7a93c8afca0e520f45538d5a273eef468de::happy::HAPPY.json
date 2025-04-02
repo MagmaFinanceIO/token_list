@@ -1,0 +1,13 @@
+{
+  "name": "HAPPY",
+  "symbol": "HAPPY",
+  "decimals": 6,
+  "coin_type": "0xf35ef74d98e181946b275c28fe2aa7a93c8afca0e520f45538d5a273eef468de::happy::HAPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmXF6bpU6CdL8BFKY9XnCX8x6tqJNWrsRSnbgNN1wZuAx7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "KONG SUI",
+  "symbol": "KONG",
+  "decimals": 1,
+  "coin_type": "0xb0c3e7ae67c9161273aab9a06e589c1c13479337d14c794251a97df46822f2cb::kong::KONG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6c81ce36-7aef-4765-af7a-fa1f8dc9de2d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

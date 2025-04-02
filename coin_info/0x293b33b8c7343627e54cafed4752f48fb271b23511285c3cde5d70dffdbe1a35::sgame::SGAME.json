@@ -1,0 +1,13 @@
+{
+  "name": "Suid Game",
+  "symbol": "SGAME",
+  "decimals": 6,
+  "coin_type": "0x293b33b8c7343627e54cafed4752f48fb271b23511285c3cde5d70dffdbe1a35::sgame::SGAME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735423214292.com",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

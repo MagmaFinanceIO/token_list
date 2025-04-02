@@ -1,0 +1,13 @@
+{
+  "name": "Find4.io Coin",
+  "symbol": "FFIO",
+  "decimals": 9,
+  "coin_type": "0xd9fc80a30c89489764bc07f557dc17162a477d34a9b44e65aae48af8ead006e7::FFIO::FFIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.find4.io/f4-42.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

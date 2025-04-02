@@ -1,0 +1,13 @@
+{
+  "name": "Aped",
+  "symbol": "APED",
+  "decimals": 6,
+  "coin_type": "0x13fd165a9a726c208b2566eb77e5ce09e8d2954d9c4e224d86953601bdbd2829::aped::APED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/S6r_J7r_Uc_400x400_4c6af888f1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

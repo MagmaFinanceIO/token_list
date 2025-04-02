@@ -1,0 +1,13 @@
+{
+  "name": "Minidoge",
+  "symbol": "MINIDOGE",
+  "decimals": 9,
+  "coin_type": "0xa53dcf669d5d59717251820a0c8163dfe37dbde87a7d456f87244fad353167d3::minidoge::MINIDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/52734/large/2024-12-11_23.05.35.jpg?1734104756",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

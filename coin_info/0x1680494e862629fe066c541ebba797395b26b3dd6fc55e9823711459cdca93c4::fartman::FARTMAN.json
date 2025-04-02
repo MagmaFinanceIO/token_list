@@ -1,0 +1,13 @@
+{
+  "name": "Fartman",
+  "symbol": "Fartman",
+  "decimals": 9,
+  "coin_type": "0x1680494e862629fe066c541ebba797395b26b3dd6fc55e9823711459cdca93c4::fartman::FARTMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GuzqEbCrGuL6cx7PAPmMBg1yh2tZKNqX4XCFcwj7pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

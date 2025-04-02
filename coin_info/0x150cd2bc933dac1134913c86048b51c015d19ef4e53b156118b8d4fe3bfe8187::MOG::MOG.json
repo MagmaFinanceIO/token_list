@@ -1,0 +1,13 @@
+{
+  "name": "Mog Coin",
+  "symbol": "MOG",
+  "decimals": 2,
+  "coin_type": "0x150cd2bc933dac1134913c86048b51c015d19ef4e53b156118b8d4fe3bfe8187::MOG::MOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/Jev35nKGoD5CPD9FE-2G6oPm958Yc45mbFpy-hAm-Zc?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

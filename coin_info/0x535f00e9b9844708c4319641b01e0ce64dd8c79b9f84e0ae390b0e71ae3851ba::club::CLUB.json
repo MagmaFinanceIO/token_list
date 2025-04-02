@@ -1,0 +1,13 @@
+{
+  "name": "27 Club",
+  "symbol": "CLUB",
+  "decimals": 6,
+  "coin_type": "0x535f00e9b9844708c4319641b01e0ce64dd8c79b9f84e0ae390b0e71ae3851ba::club::CLUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000031342_c8c233bb60.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

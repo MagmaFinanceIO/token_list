@@ -1,0 +1,13 @@
+{
+  "name": "believe",
+  "symbol": "BELIEVE",
+  "decimals": 9,
+  "coin_type": "0x42509eb4e3a4d208e5d915372297a5e67ad6004c87320c0288ecad4111b7199e::believe::BELIEVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6d65180c-360b-4574-b303-a27aeab7a3a4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

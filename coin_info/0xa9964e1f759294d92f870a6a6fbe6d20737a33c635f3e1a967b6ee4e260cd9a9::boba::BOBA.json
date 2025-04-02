@@ -1,0 +1,13 @@
+{
+  "name": "BOBA",
+  "symbol": "BOBA",
+  "decimals": 9,
+  "coin_type": "0xa9964e1f759294d92f870a6a6fbe6d20737a33c635f3e1a967b6ee4e260cd9a9::boba::BOBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

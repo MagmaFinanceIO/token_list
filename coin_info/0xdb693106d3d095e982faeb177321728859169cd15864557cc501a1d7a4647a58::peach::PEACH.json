@@ -1,0 +1,13 @@
+{
+  "name": "PEACH",
+  "symbol": "PEACH",
+  "decimals": 9,
+  "coin_type": "0xdb693106d3d095e982faeb177321728859169cd15864557cc501a1d7a4647a58::peach::PEACH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d1bd4973-558c-4e05-9313-9fba7c1a79ac.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

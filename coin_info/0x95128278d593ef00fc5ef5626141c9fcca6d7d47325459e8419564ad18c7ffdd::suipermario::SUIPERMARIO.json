@@ -1,0 +1,13 @@
+{
+  "name": "SUIper Mario",
+  "symbol": "SUIperMario",
+  "decimals": 9,
+  "coin_type": "0x95128278d593ef00fc5ef5626141c9fcca6d7d47325459e8419564ad18c7ffdd::suipermario::SUIPERMARIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ea26c2b9-b4cf-43f3-83a6-a6358db05c9d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

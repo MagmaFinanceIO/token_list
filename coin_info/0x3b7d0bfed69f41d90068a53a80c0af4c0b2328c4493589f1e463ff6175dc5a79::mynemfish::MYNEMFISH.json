@@ -1,0 +1,13 @@
+{
+  "name": "mynemfish",
+  "symbol": "mynemfish",
+  "decimals": 9,
+  "coin_type": "0x3b7d0bfed69f41d90068a53a80c0af4c0b2328c4493589f1e463ff6175dc5a79::mynemfish::MYNEMFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8163cad9-0470-4b89-b975-a8b03506db66.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

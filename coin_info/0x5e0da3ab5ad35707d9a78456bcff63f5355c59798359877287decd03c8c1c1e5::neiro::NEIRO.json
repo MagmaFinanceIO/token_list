@@ -1,0 +1,13 @@
+{
+  "name": "SUINEIRO",
+  "symbol": "Sui Neiro",
+  "decimals": 9,
+  "coin_type": "0x5e0da3ab5ad35707d9a78456bcff63f5355c59798359877287decd03c8c1c1e5::neiro::NEIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/QmbZqfdHARmLK2iHJVvkgLPc5fJZeGiv4kekXQasRUMC8i",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

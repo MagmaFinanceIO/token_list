@@ -1,0 +1,13 @@
+{
+  "name": "pizzasui",
+  "symbol": "pizza",
+  "decimals": 6,
+  "coin_type": "0x4975e31d8bad38e7f2bc2c4fe60e867e8d03e8161d4d29e78cbfd853555ec1c1::pizza::PIZZA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmXCcVQRykHR9LJQi3a1jSLD7mT4aqDw2u418WqkRM7FFj",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

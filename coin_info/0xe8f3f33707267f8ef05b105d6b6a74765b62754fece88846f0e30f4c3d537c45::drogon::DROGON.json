@@ -1,0 +1,13 @@
+{
+  "name": "The Drogon",
+  "symbol": "Drogon",
+  "decimals": 9,
+  "coin_type": "0xe8f3f33707267f8ef05b105d6b6a74765b62754fece88846f0e30f4c3d537c45::drogon::DROGON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2dee6f22-4abd-4ab3-a07e-13cebb7c3fab.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

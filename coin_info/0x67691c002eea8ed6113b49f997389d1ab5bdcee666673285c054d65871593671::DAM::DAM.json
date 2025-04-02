@@ -1,0 +1,13 @@
+{
+  "name": "DAM",
+  "symbol": "DAM",
+  "decimals": 9,
+  "coin_type": "0x67691c002eea8ed6113b49f997389d1ab5bdcee666673285c054d65871593671::DAM::DAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://suibeaver.xyz/images/logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CLEVELAND",
+  "symbol": "CLEVELAND",
+  "decimals": 9,
+  "coin_type": "0xd1db813855586a648e9f8b5130fb05b748669cbd14b68420de5ab30e42af6125::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

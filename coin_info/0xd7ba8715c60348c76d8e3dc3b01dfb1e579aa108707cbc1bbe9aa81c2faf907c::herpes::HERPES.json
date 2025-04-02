@@ -1,0 +1,13 @@
+{
+  "name": "HERPES AI",
+  "symbol": "HERPES",
+  "decimals": 6,
+  "coin_type": "0xd7ba8715c60348c76d8e3dc3b01dfb1e579aa108707cbc1bbe9aa81c2faf907c::herpes::HERPES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_1709_baecf23780.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

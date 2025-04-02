@@ -1,0 +1,13 @@
+{
+  "name": "Stimulation Clicker DVD",
+  "symbol": "SDVD",
+  "decimals": 6,
+  "coin_type": "0x6e6f709a75659aa91108d4ad87c827f1a765887385ef2ff02bdfed83e6aae68f::sdvd::SDVD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/images_ef826abf0e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

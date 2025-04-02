@@ -1,0 +1,13 @@
+{
+  "name": "Bat Pepe",
+  "symbol": "BATPEPE",
+  "decimals": 9,
+  "coin_type": "0x36cf28a74a1614df6c039686737bfbbb0a351264e80ea4700b592c0ccbb5cf40::batpepe::BATPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BdM5ymSWFvPqb4g2McTUq2xjH8EpP8CYsnFAywj8NLt2.png?size=lg&key=9eed87",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

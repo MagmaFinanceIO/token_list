@@ -1,0 +1,13 @@
+{
+  "name": "Putin Maximus",
+  "symbol": "Putius",
+  "decimals": 9,
+  "coin_type": "0xd09e038db88c454811b5f7a2ac2304614d92901f6a74abaafbffbce694b5dbfb::putius::PUTIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/x4XW8nB3s3ocG8WR3GGPornRnDcn9QqQgdbhtvppump.png?size=lg&key=c0e525",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

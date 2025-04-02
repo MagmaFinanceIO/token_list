@@ -1,0 +1,13 @@
+{
+  "name": "Blue Peace",
+  "symbol": "Peace",
+  "decimals": 9,
+  "coin_type": "0x6614d81efdcf87b60d0f03ca6eb0ea0cd57e3fb15dd52aa90e78a39e6c1b9884::peace::PEACE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/faa91f9a-f509-469a-95ff-aa2170685ca0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

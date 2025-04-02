@@ -1,0 +1,13 @@
+{
+  "name": "Egyptian PEPE",
+  "symbol": "EPEPE",
+  "decimals": 9,
+  "coin_type": "0xedfb663aae840b5e9a39267599bb2fb4c9302b093496a0278c4d88c546d42946::epepe::EPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/Wk5LVdy/aigen-20240520154847111.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

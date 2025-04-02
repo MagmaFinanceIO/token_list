@@ -1,0 +1,13 @@
+{
+  "name": "HOME COIN",
+  "symbol": "HOME",
+  "decimals": 3,
+  "coin_type": "0x7196554e81bb66e2ad891be0d7dcde34ddc3398f109825122e17f85ada37b05f::home::HOME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e15fdf6f-6b55-4c39-9a68-b6cd86084373.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

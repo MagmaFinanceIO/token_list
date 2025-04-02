@@ -1,0 +1,13 @@
+{
+  "name": "LUNO",
+  "symbol": "LUNO",
+  "decimals": 9,
+  "coin_type": "0x38f8d19463dad2ff122e0dbf8dc58c71889045508130303ae6faeb5720f9aada::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

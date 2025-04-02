@@ -1,0 +1,13 @@
+{
+  "name": "Gain Coins That Are Great",
+  "symbol": "GCTAG",
+  "decimals": 9,
+  "coin_type": "0x6336652cdf7f54239d2ec96a03cd55cf4ae8ace6c21092bcee5464ffafbebe32::gctag::GCTAG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d63a96e7-4096-4fe9-9cf4-b37464b0317e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

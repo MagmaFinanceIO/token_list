@@ -1,0 +1,13 @@
+{
+  "name": "PepeDoge",
+  "symbol": "PepeDoge",
+  "decimals": 9,
+  "coin_type": "0x4e7180a7dde2bab3966c20f73eb608d3d68dc9fb4491cfbe0864e2fb655bde7d::pepedoge::PEPEDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6pCQ9kx82BWpe5iejvPdL3xEJrocBnGW9Q3xb78q7PDt.png?size=lg&key=eda5e4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

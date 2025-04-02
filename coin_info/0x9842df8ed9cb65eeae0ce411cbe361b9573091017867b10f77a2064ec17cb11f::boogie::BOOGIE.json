@@ -1,0 +1,13 @@
+{
+  "name": "Boogie",
+  "symbol": "BOOGIE",
+  "decimals": 9,
+  "coin_type": "0x9842df8ed9cb65eeae0ce411cbe361b9573091017867b10f77a2064ec17cb11f::boogie::BOOGIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmRqy7keJexPS2iAS4A7TqpMRRJsKE79mJ9FhRS6woWYxr",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

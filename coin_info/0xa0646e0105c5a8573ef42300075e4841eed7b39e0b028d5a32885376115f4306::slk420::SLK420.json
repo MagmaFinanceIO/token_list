@@ -1,0 +1,13 @@
+{
+  "name": "Silk Road 420",
+  "symbol": "SLK420",
+  "decimals": 6,
+  "coin_type": "0xa0646e0105c5a8573ef42300075e4841eed7b39e0b028d5a32885376115f4306::slk420::SLK420",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/silk_road_4a68e2eaa0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

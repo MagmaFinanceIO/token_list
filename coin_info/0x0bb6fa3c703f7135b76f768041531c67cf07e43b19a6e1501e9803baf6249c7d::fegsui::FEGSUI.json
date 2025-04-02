@@ -1,0 +1,13 @@
+{
+  "name": "FEGSUI",
+  "symbol": "Fegsui",
+  "decimals": 6,
+  "coin_type": "0x0bb6fa3c703f7135b76f768041531c67cf07e43b19a6e1501e9803baf6249c7d::fegsui::FEGSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/gorila_174a3e1d3f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

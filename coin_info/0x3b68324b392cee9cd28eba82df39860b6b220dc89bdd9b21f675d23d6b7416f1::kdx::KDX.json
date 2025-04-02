@@ -1,0 +1,13 @@
+{
+  "name": "KDX",
+  "symbol": "KDX",
+  "decimals": 6,
+  "coin_type": "0x3b68324b392cee9cd28eba82df39860b6b220dc89bdd9b21f675d23d6b7416f1::kdx::KDX",
+  "pyth_id": "",
+  "birdeyeid": "0x3b68324b392cee9cd28eba82df39860b6b220dc89bdd9b21f675d23d6b7416f1::kdx::KDX",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/Wsbch2z/kriya.png",
+  "project_url": "",
+  "coingecko_id": "kriyadex",
+  "is_trusted": true
+}

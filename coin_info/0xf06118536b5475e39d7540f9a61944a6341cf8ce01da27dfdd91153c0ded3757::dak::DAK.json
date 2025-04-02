@@ -1,0 +1,13 @@
+{
+  "name": "dak",
+  "symbol": "dak",
+  "decimals": 6,
+  "coin_type": "0xf06118536b5475e39d7540f9a61944a6341cf8ce01da27dfdd91153c0ded3757::dak::DAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/qJtYL10/ava-1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

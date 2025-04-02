@@ -1,0 +1,13 @@
+{
+  "name": "Dog Wif Tie",
+  "symbol": "DogWifTie",
+  "decimals": 6,
+  "coin_type": "0x68343bab343a78e536af2c77617a00f47f12547be7b38dcd6e8054c6cec582f5::dogwiftie::DOGWIFTIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731183528248.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

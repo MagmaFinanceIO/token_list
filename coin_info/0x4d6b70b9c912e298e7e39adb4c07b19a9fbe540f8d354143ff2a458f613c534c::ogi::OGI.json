@@ -1,0 +1,13 @@
+{
+  "name": "Matt Furie's Frog",
+  "symbol": "OGI",
+  "decimals": 9,
+  "coin_type": "0x4d6b70b9c912e298e7e39adb4c07b19a9fbe540f8d354143ff2a458f613c534c::ogi::OGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x83cc526543d9cc2289d6834f44590efda419bd8d.png?size=xl&key=204ae3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

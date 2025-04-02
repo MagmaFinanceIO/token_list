@@ -1,0 +1,13 @@
+{
+  "name": "UP ONLY",
+  "symbol": "UPSUI",
+  "decimals": 9,
+  "coin_type": "0xce104e123d1d311657e51c6f2cd9654e6b6f0486cb227140b6cba60f4d5960ff::upsui::UPSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/771b231c-4c1c-480e-a46e-587663184d2e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

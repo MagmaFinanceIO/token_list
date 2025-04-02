@@ -1,0 +1,13 @@
+{
+  "name": "__name here__",
+  "symbol": "__symbol here__",
+  "decimals": 6,
+  "coin_type": "0x6ac0187dbe7763e2a215c860e45b3e934fd354b7fc7a5cd78f06e3807804c47e::cak::CAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "__Url here__",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

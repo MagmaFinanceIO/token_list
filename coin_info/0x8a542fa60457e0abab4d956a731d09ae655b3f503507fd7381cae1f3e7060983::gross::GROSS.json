@@ -1,0 +1,13 @@
+{
+  "name": "Grok Bonk Boss",
+  "symbol": "GROSS",
+  "decimals": 9,
+  "coin_type": "0x8a542fa60457e0abab4d956a731d09ae655b3f503507fd7381cae1f3e7060983::gross::GROSS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/09d3f840-488e-446b-9588-b5b27ce869fc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

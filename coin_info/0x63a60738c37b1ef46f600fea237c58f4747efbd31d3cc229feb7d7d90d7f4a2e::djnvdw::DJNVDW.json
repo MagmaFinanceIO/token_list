@@ -1,0 +1,13 @@
+{
+  "name": "djnvdw",
+  "symbol": "djnvdw",
+  "decimals": 9,
+  "coin_type": "0x63a60738c37b1ef46f600fea237c58f4747efbd31d3cc229feb7d7d90d7f4a2e::djnvdw::DJNVDW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Nigel Farage Patriot Coin",
+  "symbol": "Farage",
+  "decimals": 6,
+  "coin_type": "0xbc50fe7c03121ecbd9be2df76b3f797c07076aff2fc2e4dd42961a4a4c180dbb::farage::FARAGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/farage_f0739482ce.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

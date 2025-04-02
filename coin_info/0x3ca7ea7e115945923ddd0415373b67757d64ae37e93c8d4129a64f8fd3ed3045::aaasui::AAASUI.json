@@ -1,0 +1,13 @@
+{
+  "name": "Triple A Sui",
+  "symbol": "AAASUI",
+  "decimals": 6,
+  "coin_type": "0x3ca7ea7e115945923ddd0415373b67757d64ae37e93c8d4129a64f8fd3ed3045::aaasui::AAASUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d52ffcbb-3d93-43b6-bfde-8d37b06e96f3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

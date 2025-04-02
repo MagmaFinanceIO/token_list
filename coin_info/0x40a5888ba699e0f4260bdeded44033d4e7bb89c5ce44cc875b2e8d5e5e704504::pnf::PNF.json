@@ -1,0 +1,13 @@
+{
+  "name": "Phineas & Ferb",
+  "symbol": "PNF",
+  "decimals": 6,
+  "coin_type": "0x40a5888ba699e0f4260bdeded44033d4e7bb89c5ce44cc875b2e8d5e5e704504::pnf::PNF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736265250192.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

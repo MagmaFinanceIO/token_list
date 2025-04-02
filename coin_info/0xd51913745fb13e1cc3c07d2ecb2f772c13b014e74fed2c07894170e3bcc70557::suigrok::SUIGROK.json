@@ -1,0 +1,13 @@
+{
+  "name": "SuiGrok",
+  "symbol": "SuiGrok",
+  "decimals": 9,
+  "coin_type": "0xd51913745fb13e1cc3c07d2ecb2f772c13b014e74fed2c07894170e3bcc70557::suigrok::SUIGROK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/db831cad-c7a6-44e2-aae7-af0ec26565c1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

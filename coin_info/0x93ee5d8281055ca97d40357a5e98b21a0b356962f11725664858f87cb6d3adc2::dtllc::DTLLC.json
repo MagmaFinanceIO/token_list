@@ -1,0 +1,13 @@
+{
+  "name": "DiceCo",
+  "symbol": "DTLLC",
+  "decimals": 6,
+  "coin_type": "0x93ee5d8281055ca97d40357a5e98b21a0b356962f11725664858f87cb6d3adc2::dtllc::DTLLC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmXBBmc2FHhh6WFAx3SaP1gpkW29RHWMVA1PiSgU41q7DS",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

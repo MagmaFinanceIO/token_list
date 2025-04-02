@@ -1,0 +1,13 @@
+{
+  "name": "Degen Apes",
+  "symbol": "Degen",
+  "decimals": 6,
+  "coin_type": "0x80adf8023342466bfc980553ac0bdee792a009815caf5873dd26bfb785beb6d7::degen::DEGEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Degen_Apes_5906b7822c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

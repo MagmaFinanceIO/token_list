@@ -1,0 +1,13 @@
+{
+  "name": "First BTC Encrypted Dog",
+  "symbol": "Doggo",
+  "decimals": 9,
+  "coin_type": "0xe09f3a41a89310e4e6f9178629f278370504838a9b464b9254f4dce236d4e62f::doggo::DOGGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EHKwhV1eS7GttxxwLe8UaoaFGn7fga251oyc4ssJpump.png?claimId=c2KI17NPr7dD3Fee",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

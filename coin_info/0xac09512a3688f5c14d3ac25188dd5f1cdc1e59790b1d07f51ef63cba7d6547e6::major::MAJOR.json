@@ -1,0 +1,13 @@
+{
+  "name": "MAJOR ON SUI",
+  "symbol": "MAJOR",
+  "decimals": 6,
+  "coin_type": "0xac09512a3688f5c14d3ac25188dd5f1cdc1e59790b1d07f51ef63cba7d6547e6::major::MAJOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/logo_d25f1742aa.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

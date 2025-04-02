@@ -1,0 +1,13 @@
+{
+  "name": "wrapped sui",
+  "symbol": "WSUI",
+  "decimals": 6,
+  "coin_type": "0xb052d7abfb7401087aabdc815b1346647d880d4d2f8eb5f1aad6d92073e00110::wsui::WSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731428152301.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Neural Agent by SuiAI",
+  "symbol": "NEURAL",
+  "decimals": 6,
+  "coin_type": "0x827734388245173b7be16f9c5e8e91a6d9c1e327017a20f5c9ee26e69143ce26::neural::NEURAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/artificilbrain_ai_64c4c8d8a9.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

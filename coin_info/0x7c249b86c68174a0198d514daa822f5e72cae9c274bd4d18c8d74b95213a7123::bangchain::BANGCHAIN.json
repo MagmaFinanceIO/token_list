@@ -1,0 +1,13 @@
+{
+  "name": "Bangchain AI",
+  "symbol": "BANGCHAIN",
+  "decimals": 9,
+  "coin_type": "0x7c249b86c68174a0198d514daa822f5e72cae9c274bd4d18c8d74b95213a7123::bangchain::BANGCHAIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8SVVCGzYwnAkDwwvc5fSHZdCenUyhPccnGirWecVpump.png?size=lg&key=2551b5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

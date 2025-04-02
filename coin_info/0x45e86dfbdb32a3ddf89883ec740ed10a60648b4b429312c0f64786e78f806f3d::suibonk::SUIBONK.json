@@ -1,0 +1,13 @@
+{
+  "name": "suiBONK",
+  "symbol": "suiBONK",
+  "decimals": 9,
+  "coin_type": "0x45e86dfbdb32a3ddf89883ec740ed10a60648b4b429312c0f64786e78f806f3d::suibonk::SUIBONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/18838610-9efa-4e6a-989a-4dae2eb6b562.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

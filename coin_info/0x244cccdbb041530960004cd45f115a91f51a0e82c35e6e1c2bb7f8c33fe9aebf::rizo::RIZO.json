@@ -1,0 +1,13 @@
+{
+  "name": "HahaYes",
+  "symbol": "RIZO",
+  "decimals": 9,
+  "coin_type": "0x244cccdbb041530960004cd45f115a91f51a0e82c35e6e1c2bb7f8c33fe9aebf::rizo::RIZO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2214b942-7a58-4f25-8f54-a24a46006607.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

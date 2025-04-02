@@ -1,0 +1,13 @@
+{
+  "name": "whatever",
+  "symbol": "WHATEVER",
+  "decimals": 9,
+  "coin_type": "0xb66ee17b92968484686af2db7d878faca3d5ff674a2b2c7f26a5d530c7e58c5d::whatever::WHATEVER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.lovethispic.com/uploaded_images/13568-Whatever.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

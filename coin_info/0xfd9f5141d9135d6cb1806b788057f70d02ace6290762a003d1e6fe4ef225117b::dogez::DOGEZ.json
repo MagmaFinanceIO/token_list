@@ -1,0 +1,13 @@
+{
+  "name": "Doge-Z",
+  "symbol": "DogeZ",
+  "decimals": 4,
+  "coin_type": "0xfd9f5141d9135d6cb1806b788057f70d02ace6290762a003d1e6fe4ef225117b::dogez::DOGEZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ed5f66b8-7604-46c1-a1f4-fcf893f6a282.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Baby Sui",
+  "symbol": "BABYSUI",
+  "decimals": 9,
+  "coin_type": "0x02c56cb2595ece1f8201a5f04d97c0457973df8b392d35e4d6aa9a6d10600810::babysui::BABYSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pepecat.org/wp-content/uploads/2024/10/COIN-LOGO.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

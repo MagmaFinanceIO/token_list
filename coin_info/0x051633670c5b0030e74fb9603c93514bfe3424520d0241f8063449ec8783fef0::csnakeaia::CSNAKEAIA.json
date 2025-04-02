@@ -1,0 +1,13 @@
+{
+  "name": "Chinese zodiac's Snake",
+  "symbol": "CSNAKEAI",
+  "decimals": 9,
+  "coin_type": "0x051633670c5b0030e74fb9603c93514bfe3424520d0241f8063449ec8783fef0::csnakeaia::CSNAKEAIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CwJk7KK9CaoJtHdyetp41anUxLJKutCkStVidwzgpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

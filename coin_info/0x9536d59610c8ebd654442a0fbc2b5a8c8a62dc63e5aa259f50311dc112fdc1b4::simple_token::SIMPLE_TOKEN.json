@@ -1,0 +1,13 @@
+{
+  "name": "mearth",
+  "symbol": "mearth",
+  "decimals": 9,
+  "coin_type": "0x9536d59610c8ebd654442a0fbc2b5a8c8a62dc63e5aa259f50311dc112fdc1b4::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

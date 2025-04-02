@@ -1,0 +1,13 @@
+{
+  "name": "Fartcoin",
+  "symbol": "FARTCOIN",
+  "decimals": 2,
+  "coin_type": "0x501096bdded05565f845642646ebc2291d0acd46dbb9ab1cbba2ba7407d3aefc::FARTCOIN::FARTCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/jl2hpZyB8wdOb_lEit_9m0WNaONpIqWH-YYXkh4l1zE?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

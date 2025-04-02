@@ -1,0 +1,13 @@
+{
+  "name": "fug",
+  "symbol": "fug",
+  "decimals": 9,
+  "coin_type": "0xa5bb0f4a7b7468f37a480c39d031a554191314a1657dc5e6b83fd8a5c070d72c::fug::FUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQa8WNs4gYpBZKsLKBWXSZcLxu7rUuksGouiAUXu6PxkH",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

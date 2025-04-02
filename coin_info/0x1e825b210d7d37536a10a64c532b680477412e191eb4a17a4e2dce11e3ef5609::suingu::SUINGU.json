@@ -1,0 +1,13 @@
+{
+  "name": "Suingu",
+  "symbol": "SUINGU",
+  "decimals": 6,
+  "coin_type": "0x1e825b210d7d37536a10a64c532b680477412e191eb4a17a4e2dce11e3ef5609::suingu::SUINGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suingu_61d963001d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

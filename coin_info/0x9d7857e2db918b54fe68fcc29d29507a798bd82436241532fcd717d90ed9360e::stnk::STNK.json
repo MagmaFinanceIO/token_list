@@ -1,0 +1,13 @@
+{
+  "name": "STONK COIN  by SuiAI",
+  "symbol": "STNK",
+  "decimals": 6,
+  "coin_type": "0x9d7857e2db918b54fe68fcc29d29507a798bd82436241532fcd717d90ed9360e::stnk::STNK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/X2_Twitter_com_Gd5i3_GU_Xg_AA_8tlv_gif_c478465e0f.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

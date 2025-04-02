@@ -1,0 +1,13 @@
+{
+  "name": "BAKKT",
+  "symbol": "BAKKT",
+  "decimals": 9,
+  "coin_type": "0xce4e24868251546db493aa08bef648c2f0d51fd02e77dea6a8f553c250ab94d9::bakkt::BAKKT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmTmf8fdHDtxE9MRNxFCKpQXemyStAQJ9twtMZrfDfWMjk",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Labubu",
+  "symbol": "Labubu",
+  "decimals": 6,
+  "coin_type": "0x4d104b469572bb27bf1c573ac2a921820465795348440fa9a81adefe3a44112d::labubu::LABUBU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/aglabu_524e2c3c74.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "D.O.G.E",
+  "symbol": "DOGE",
+  "decimals": 6,
+  "coin_type": "0xc5a2fadda325bb7c8d29a5d95b7bbf1bbbd5ab7408db6cc8fd7bcbc81003cbb6::doge::DOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Gc_Oy_C21_W4_A_At_T7_P_1_bd3c359838.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

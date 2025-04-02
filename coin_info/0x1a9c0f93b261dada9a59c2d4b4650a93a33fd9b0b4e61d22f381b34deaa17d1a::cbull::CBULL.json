@@ -1,0 +1,13 @@
+{
+  "name": "Just a chill bull",
+  "symbol": "CBULL",
+  "decimals": 9,
+  "coin_type": "0x1a9c0f93b261dada9a59c2d4b4650a93a33fd9b0b4e61d22f381b34deaa17d1a::cbull::CBULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/86fQACfYLte66C6srNNtYXraBn8Gpci58M53VNNQpump.png?size=lg&key=b7f7f1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

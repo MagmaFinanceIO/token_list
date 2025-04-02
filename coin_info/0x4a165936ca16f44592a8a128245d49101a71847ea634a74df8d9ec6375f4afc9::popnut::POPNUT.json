@@ -1,0 +1,13 @@
+{
+  "name": "PopNut",
+  "symbol": "POPNUT",
+  "decimals": 9,
+  "coin_type": "0x4a165936ca16f44592a8a128245d49101a71847ea634a74df8d9ec6375f4afc9::popnut::POPNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f1f0ddf8-8791-4231-9262-6785f231722a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

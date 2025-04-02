@@ -1,0 +1,13 @@
+{
+  "name": "SUILLY",
+  "symbol": "SUILLY",
+  "decimals": 9,
+  "coin_type": "0x0cf238c3d8a10b6dacb7e2ad5e73984d083b2db6a6fbd669121aa2b20d921f7d::suilly::SUILLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f4f6d29a-99c6-482b-9597-f01a887a49a9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

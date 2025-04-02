@@ -1,0 +1,13 @@
+{
+  "name": "dog wif sheisty",
+  "symbol": "DWS",
+  "decimals": 9,
+  "coin_type": "0x03c067bb97d3fbb3fbb35223f6ce4c1d692fd001ef2101fe2e946787e091ae33::dws::DWS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DHmzc6FHR83dGB2bg8MSWS7SV8W5JSMP7pr58R8bpump.png?size=lg&key=d47f21",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

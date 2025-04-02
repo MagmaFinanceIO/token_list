@@ -1,0 +1,13 @@
+{
+  "name": "Suilana AGI Agent",
+  "symbol": "Suilana",
+  "decimals": 6,
+  "coin_type": "0xf3d9e85d3da45645517c2722f31c96274a2184d971c85d78292ebdf8f39b3727::suilana::SUILANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Suilana_b8ed51ccfd.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

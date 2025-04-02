@@ -1,0 +1,13 @@
+{
+  "name": "Jeetius Maximus",
+  "symbol": "JEETIUS",
+  "decimals": 9,
+  "coin_type": "0x44f9072faf861f77b5095873390f808915d5e9e39f1cd159724f152b0bc830f2::jeetius::JEETIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/JUXqm5X9zyLhcEuNUqbit3Vo5V4PEBrQTqAcrV2pump.png?size=lg&key=d8cab7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

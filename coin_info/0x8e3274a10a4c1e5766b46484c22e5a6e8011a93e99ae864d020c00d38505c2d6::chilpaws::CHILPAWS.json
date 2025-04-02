@@ -1,0 +1,13 @@
+{
+  "name": "CHILL PAWS MOON",
+  "symbol": "CHILPAWS",
+  "decimals": 6,
+  "coin_type": "0x8e3274a10a4c1e5766b46484c22e5a6e8011a93e99ae864d020c00d38505c2d6::chilpaws::CHILPAWS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000007048_a1db57d5a6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

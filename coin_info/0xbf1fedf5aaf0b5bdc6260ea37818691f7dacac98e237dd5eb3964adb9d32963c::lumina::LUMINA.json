@@ -1,0 +1,13 @@
+{
+  "name": "Lumina AI Agent",
+  "symbol": "LUMINA",
+  "decimals": 9,
+  "coin_type": "0xbf1fedf5aaf0b5bdc6260ea37818691f7dacac98e237dd5eb3964adb9d32963c::lumina::LUMINA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4C3B6A5c3D4CqckdkntsTr4urxMrwHDz7pc8r7Bzpump.png?size=lg&key=35be42",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

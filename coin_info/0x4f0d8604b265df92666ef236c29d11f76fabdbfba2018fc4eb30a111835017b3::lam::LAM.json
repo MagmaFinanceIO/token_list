@@ -1,0 +1,13 @@
+{
+  "name": "LammCoin",
+  "symbol": "LAM",
+  "decimals": 9,
+  "coin_type": "0x4f0d8604b265df92666ef236c29d11f76fabdbfba2018fc4eb30a111835017b3::lam::LAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2a4e5fd4-d231-41d7-997c-a12abaa78fb9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

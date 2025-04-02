@@ -1,0 +1,13 @@
+{
+  "name": "Gatekeeper",
+  "symbol": "GATE",
+  "decimals": 9,
+  "coin_type": "0xbd3554f6b8d58236bc7994c215db7046fc4c8ff0c891dbecf2bb28006e9ab378::gate::GATE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQUH5eujPJTDAbBEhJSi7QQ8syfVVMfRZFaULoiNdqccc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

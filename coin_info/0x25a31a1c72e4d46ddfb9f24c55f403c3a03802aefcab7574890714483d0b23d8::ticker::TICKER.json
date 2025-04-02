@@ -1,0 +1,13 @@
+{
+  "name": "Ticker for test",
+  "symbol": "Ticker",
+  "decimals": 1,
+  "coin_type": "0x25a31a1c72e4d46ddfb9f24c55f403c3a03802aefcab7574890714483d0b23d8::ticker::TICKER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

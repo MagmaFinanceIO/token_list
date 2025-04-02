@@ -1,0 +1,13 @@
+{
+  "name": "Sui Cappy",
+  "symbol": "CAPPY",
+  "decimals": 9,
+  "coin_type": "0xd8a78a180fc47fad9e7d42277d0ab82316b954e824acb39256210a4055c040b9::cappy::CAPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/c7c1bd90e81e39d4bc81c9448ba1814bblob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

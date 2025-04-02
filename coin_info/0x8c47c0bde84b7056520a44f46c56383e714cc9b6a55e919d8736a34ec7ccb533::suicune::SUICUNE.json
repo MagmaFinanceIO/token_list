@@ -1,0 +1,13 @@
+{
+  "name": "Suicune",
+  "symbol": "HSUI",
+  "decimals": 9,
+  "coin_type": "0x8c47c0bde84b7056520a44f46c56383e714cc9b6a55e919d8736a34ec7ccb533::suicune::SUICUNE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/rmQPsBG.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

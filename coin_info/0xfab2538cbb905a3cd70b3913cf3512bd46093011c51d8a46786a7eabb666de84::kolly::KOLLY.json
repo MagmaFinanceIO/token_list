@@ -1,0 +1,13 @@
+{
+  "name": "Kolly",
+  "symbol": "Kolly",
+  "decimals": 9,
+  "coin_type": "0xfab2538cbb905a3cd70b3913cf3512bd46093011c51d8a46786a7eabb666de84::kolly::KOLLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

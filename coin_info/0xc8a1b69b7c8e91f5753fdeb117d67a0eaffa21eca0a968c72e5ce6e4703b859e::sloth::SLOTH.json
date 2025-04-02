@@ -1,0 +1,13 @@
+{
+  "name": "Sloth On Sui",
+  "symbol": "SLOTH",
+  "decimals": 6,
+  "coin_type": "0xc8a1b69b7c8e91f5753fdeb117d67a0eaffa21eca0a968c72e5ce6e4703b859e::sloth::SLOTH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_91e0ce3fdb_3e0cf16405.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

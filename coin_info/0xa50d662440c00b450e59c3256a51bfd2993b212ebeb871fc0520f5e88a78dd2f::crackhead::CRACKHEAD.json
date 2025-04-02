@@ -1,0 +1,13 @@
+{
+  "name": "Crackhead",
+  "symbol": "CRACKHEAD",
+  "decimals": 9,
+  "coin_type": "0xa50d662440c00b450e59c3256a51bfd2993b212ebeb871fc0520f5e88a78dd2f::crackhead::CRACKHEAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://iili.io/JkSZbrG.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

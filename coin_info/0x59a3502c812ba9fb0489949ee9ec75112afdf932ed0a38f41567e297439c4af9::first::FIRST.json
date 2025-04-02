@@ -1,0 +1,13 @@
+{
+  "name": "The First",
+  "symbol": "FIRST",
+  "decimals": 6,
+  "coin_type": "0x59a3502c812ba9fb0489949ee9ec75112afdf932ed0a38f41567e297439c4af9::first::FIRST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmUNzFRPW4z3yzPS1A2KX6QdEZz27GN4aH3cQZoGSvxgAA",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

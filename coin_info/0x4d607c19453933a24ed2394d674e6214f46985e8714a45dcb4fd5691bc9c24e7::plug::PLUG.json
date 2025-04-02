@@ -1,0 +1,13 @@
+{
+  "name": "PLUGSUI",
+  "symbol": "PLUG",
+  "decimals": 6,
+  "coin_type": "0x4d607c19453933a24ed2394d674e6214f46985e8714a45dcb4fd5691bc9c24e7::plug::PLUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Whats_App_Image_2024_12_15_at_18_38_58_11e23a7dbb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

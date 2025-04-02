@@ -1,0 +1,13 @@
+{
+  "name": "Hoshimachi Suisei",
+  "symbol": "SuiSei",
+  "decimals": 9,
+  "coin_type": "0xa79ffe9600f7cd8bb1e17efae9ed9886e4d9ba5048f2c122a138210b3b51abbb::suisei::SUISEI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2Flogo_token_3ec1cfd723_8ca92bb050.gif&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

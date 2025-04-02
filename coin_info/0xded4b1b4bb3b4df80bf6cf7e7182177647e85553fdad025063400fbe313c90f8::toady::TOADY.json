@@ -1,0 +1,13 @@
+{
+  "name": "ToadyCoin",
+  "symbol": "TOADY",
+  "decimals": 9,
+  "coin_type": "0xded4b1b4bb3b4df80bf6cf7e7182177647e85553fdad025063400fbe313c90f8::toady::TOADY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2aa10be7-1bcc-49fb-8ba7-1be288b877fb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

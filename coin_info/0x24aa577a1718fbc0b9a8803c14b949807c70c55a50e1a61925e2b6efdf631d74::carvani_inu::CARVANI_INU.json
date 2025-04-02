@@ -1,0 +1,13 @@
+{
+  "name": "Carvani Inu",
+  "symbol": "Carvani Inu",
+  "decimals": 8,
+  "coin_type": "0x24aa577a1718fbc0b9a8803c14b949807c70c55a50e1a61925e2b6efdf631d74::carvani_inu::CARVANI_INU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7ddaf534-4d60-44b6-9c58-29fa8a460fe4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

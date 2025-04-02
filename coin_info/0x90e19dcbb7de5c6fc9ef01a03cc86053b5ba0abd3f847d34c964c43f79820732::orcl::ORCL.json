@@ -1,0 +1,13 @@
+{
+  "name": "Oracle ai by SuiAI",
+  "symbol": "ORCL",
+  "decimals": 6,
+  "coin_type": "0x90e19dcbb7de5c6fc9ef01a03cc86053b5ba0abd3f847d34c964c43f79820732::orcl::ORCL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000015047_7683ff2f48.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

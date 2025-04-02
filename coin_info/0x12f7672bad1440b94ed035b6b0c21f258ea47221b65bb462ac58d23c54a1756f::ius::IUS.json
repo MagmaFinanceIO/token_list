@@ -1,0 +1,13 @@
+{
+  "name": "IUS reversed SUI",
+  "symbol": "IUS",
+  "decimals": 6,
+  "coin_type": "0x12f7672bad1440b94ed035b6b0c21f258ea47221b65bb462ac58d23c54a1756f::ius::IUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736617404954.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

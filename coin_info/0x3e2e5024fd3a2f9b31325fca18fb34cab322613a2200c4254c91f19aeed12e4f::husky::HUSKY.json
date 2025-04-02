@@ -1,0 +1,13 @@
+{
+  "name": "Ice The Husky",
+  "symbol": "HUSKY",
+  "decimals": 9,
+  "coin_type": "0x3e2e5024fd3a2f9b31325fca18fb34cab322613a2200c4254c91f19aeed12e4f::husky::HUSKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/70fa94c4-8ad0-4ab3-9e7f-eb02b66b540e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

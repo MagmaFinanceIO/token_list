@@ -1,0 +1,13 @@
+{
+  "name": "Chocho",
+  "symbol": "CHO",
+  "decimals": 9,
+  "coin_type": "0x14b8989399b963d4017109787f43ddff533bb1c28522a81b842e17a7971ddb17::cho::CHO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b4e3ad64-e160-4694-a9be-cf026924dc46.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

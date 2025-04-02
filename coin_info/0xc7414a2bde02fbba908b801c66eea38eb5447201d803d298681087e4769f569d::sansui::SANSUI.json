@@ -1,0 +1,13 @@
+{
+  "name": "Sanswer.ai on Sui",
+  "symbol": "SANSUI",
+  "decimals": 9,
+  "coin_type": "0xc7414a2bde02fbba908b801c66eea38eb5447201d803d298681087e4769f569d::sansui::SANSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ADdktHBVqieG5B5T3XeYn8cemRuppiLqXtKiD43c6mrB.png?size=lg&key=1490a7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "$NAKE",
+  "symbol": "SUI SNAKE",
+  "decimals": 9,
+  "coin_type": "0x8fe38a33e3768f34939e4a07627e583d62de5a4b5fbe48b27e9ebf8ad9e83f1a::suisnake::SUISNAKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3245d654-441d-4035-9328-8fde77dcff84.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Soil",
+  "symbol": "SOIL",
+  "decimals": 6,
+  "coin_type": "0x76bcf6691912aa12d6a4f78eb663caa0b9565841f6490391bc2335848f56d525::soil::SOIL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmPs1DZQxpfav8AKpBSJtVuwx8JnF2LPb5XeAEYCQqdoJo",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

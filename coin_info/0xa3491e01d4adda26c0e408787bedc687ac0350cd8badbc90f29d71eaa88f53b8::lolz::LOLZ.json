@@ -1,0 +1,13 @@
+{
+  "name": "Chucklez",
+  "symbol": "LOLZ",
+  "decimals": 9,
+  "coin_type": "0xa3491e01d4adda26c0e408787bedc687ac0350cd8badbc90f29d71eaa88f53b8::lolz::LOLZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1639006959256084480/5n3Cdt1D.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

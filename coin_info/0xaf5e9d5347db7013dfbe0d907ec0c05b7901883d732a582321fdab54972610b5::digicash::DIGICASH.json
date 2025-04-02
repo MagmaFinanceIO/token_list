@@ -1,0 +1,13 @@
+{
+  "name": "DIGICASH INC.",
+  "symbol": "DIGICASH",
+  "decimals": 9,
+  "coin_type": "0xaf5e9d5347db7013dfbe0d907ec0c05b7901883d732a582321fdab54972610b5::digicash::DIGICASH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EjJhYzvz2vhmZrq8fP7offFpeuTxdP1dWJuW1q6w8cHH.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

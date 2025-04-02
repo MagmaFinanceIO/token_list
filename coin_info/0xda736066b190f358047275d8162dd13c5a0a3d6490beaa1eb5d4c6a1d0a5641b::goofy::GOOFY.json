@@ -1,0 +1,13 @@
+{
+  "name": "GOOFY",
+  "symbol": "GOOFY",
+  "decimals": 9,
+  "coin_type": "0xda736066b190f358047275d8162dd13c5a0a3d6490beaa1eb5d4c6a1d0a5641b::goofy::GOOFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HBGTJze4FJqa4MSgUf2sVtkcUbRmnQwXEUaFwRDgYigv.png?size=lg&key=b77220",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

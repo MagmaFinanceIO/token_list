@@ -1,0 +1,13 @@
+{
+  "name": "Croc Cat",
+  "symbol": "CROC",
+  "decimals": 9,
+  "coin_type": "0xd984597ea5b270df7b22fccedac957b5872f2659e0c378d5deef14c45f01ef68::croc::CROC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fa0f8a0d-ddcd-458c-af92-5a70916fc69f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

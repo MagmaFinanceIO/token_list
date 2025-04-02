@@ -1,0 +1,13 @@
+{
+  "name": "HOPDOG",
+  "symbol": "HPD",
+  "decimals": 6,
+  "coin_type": "0x88035636d2787e6247d9ea5cd2ca6b8c5ff3d78fa09e32b37ac4208a2db64cf3::hpd::HPD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmRKatJ6xRmwJ3NaK24UT4WwU7YqCXTWQbTf4AZGnHPn8R",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

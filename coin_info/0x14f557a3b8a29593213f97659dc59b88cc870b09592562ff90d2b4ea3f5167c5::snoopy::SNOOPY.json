@@ -1,0 +1,13 @@
+{
+  "name": "SUI NOOPY",
+  "symbol": "SNOOPY",
+  "decimals": 9,
+  "coin_type": "0x14f557a3b8a29593213f97659dc59b88cc870b09592562ff90d2b4ea3f5167c5::snoopy::SNOOPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CSh9t2fx2TAE25AiZ9oagdcuHomTQoCE1PGxaMjfpump.png?size=lg&key=729de1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

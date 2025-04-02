@@ -1,0 +1,13 @@
+{
+  "name": "RAINBOW AI by SuiAI",
+  "symbol": "RNBW",
+  "decimals": 6,
+  "coin_type": "0x5026b8a19067197d765c92af7d453de4ad286d2477fe07a717675fc7fe9cd556::rnbw::RNBW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/LOGO_1733b205e9.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

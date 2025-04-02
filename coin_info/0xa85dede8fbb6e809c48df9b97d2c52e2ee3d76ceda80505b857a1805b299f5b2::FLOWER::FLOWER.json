@@ -1,0 +1,13 @@
+{
+  "name": "FlowerAI",
+  "symbol": "FLOWER",
+  "decimals": 2,
+  "coin_type": "0xa85dede8fbb6e809c48df9b97d2c52e2ee3d76ceda80505b857a1805b299f5b2::FLOWER::FLOWER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/MCn5Jd6fdHJfhM88a6aqXt7d84bMW0DbjIFdsJL-KuI?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

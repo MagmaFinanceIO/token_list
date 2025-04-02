@@ -1,0 +1,13 @@
+{
+  "name": "Baby Peng",
+  "symbol": "BPENG",
+  "decimals": 9,
+  "coin_type": "0xbf6e65a0febfeaaae9318336557d1ef814378fe0388882aa12f50a29c93beb71::bpeng::BPENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6129d321-09dc-42c5-b989-761af4a2bc6d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

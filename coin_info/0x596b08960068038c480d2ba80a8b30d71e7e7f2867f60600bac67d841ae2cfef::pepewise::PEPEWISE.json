@@ -1,0 +1,13 @@
+{
+  "name": "PepeWise",
+  "symbol": "PEPEWISE",
+  "decimals": 6,
+  "coin_type": "0x596b08960068038c480d2ba80a8b30d71e7e7f2867f60600bac67d841ae2cfef::pepewise::PEPEWISE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/b35e21d0_f309_4e8e_87d9_420ab98a9156_15f056d855.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

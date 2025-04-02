@@ -1,0 +1,13 @@
+{
+  "name": "CSR",
+  "symbol": "CSR",
+  "decimals": 9,
+  "coin_type": "0x8c79cc8d385cd528ad02731c6345457a8925db909daab34b13c254ac630bb19b::csr::CSR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2SNstbEYVEn2iTNQyZHKGzgTPZwBgnujwKa8hn5opump.png?size=lg&key=16c90b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

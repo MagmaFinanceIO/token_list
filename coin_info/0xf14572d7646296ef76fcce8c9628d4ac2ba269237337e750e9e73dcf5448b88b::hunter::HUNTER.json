@@ -1,0 +1,13 @@
+{
+  "name": "Hunter AI",
+  "symbol": "HUNTER",
+  "decimals": 9,
+  "coin_type": "0xf14572d7646296ef76fcce8c9628d4ac2ba269237337e750e9e73dcf5448b88b::hunter::HUNTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7ZAhWFMYbKvMaorshBzL91mUHwAf6w9P64huwc8dpump.png?size=lg&key=01721e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

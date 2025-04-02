@@ -1,0 +1,13 @@
+{
+  "name": "Jungle Goat",
+  "symbol": "Junggoat",
+  "decimals": 9,
+  "coin_type": "0x01d83047407437d07d769ad55f3438e8554f05144282da5870896c223465639c::junggoat::JUNGGOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/20a7957b-0a09-4700-9f4a-61e6c8f84c93.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

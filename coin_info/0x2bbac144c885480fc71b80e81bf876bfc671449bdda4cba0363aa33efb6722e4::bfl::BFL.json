@@ -1,0 +1,13 @@
+{
+  "name": "BITCOIN FLO",
+  "symbol": "BFL",
+  "decimals": 6,
+  "coin_type": "0x2bbac144c885480fc71b80e81bf876bfc671449bdda4cba0363aa33efb6722e4::bfl::BFL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Pretty_Severe_Consequences_2bf77503ae.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

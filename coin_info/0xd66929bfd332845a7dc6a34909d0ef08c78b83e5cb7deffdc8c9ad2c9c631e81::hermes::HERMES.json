@@ -1,0 +1,13 @@
+{
+  "name": "Hermesui",
+  "symbol": "Hermes",
+  "decimals": 9,
+  "coin_type": "0xd66929bfd332845a7dc6a34909d0ef08c78b83e5cb7deffdc8c9ad2c9c631e81::hermes::HERMES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/de88e3ad-3753-496f-8468-abd3404e58d0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

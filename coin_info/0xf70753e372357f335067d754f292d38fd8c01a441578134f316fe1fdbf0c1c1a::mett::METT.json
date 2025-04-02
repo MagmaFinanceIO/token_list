@@ -1,0 +1,13 @@
+{
+  "name": "MettFurie",
+  "symbol": "Mett",
+  "decimals": 9,
+  "coin_type": "0xf70753e372357f335067d754f292d38fd8c01a441578134f316fe1fdbf0c1c1a::mett::METT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2a2a1262-6e1f-4535-9c58-55eeb1c7ed32.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

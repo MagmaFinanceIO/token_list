@@ -1,0 +1,13 @@
+{
+  "name": "VUniversal Basic Compute",
+  "symbol": "UBC",
+  "decimals": 9,
+  "coin_type": "0xa24d4410932f35e9d9dd003f29f01649c6a08b4a60e1982a5aba6c84edead454::ubc::UBC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreihlp4cmowty46aiuimcd3pgmda4ansfrbxjhz5joqlufcn23urmkq.ipfs.w3s.link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

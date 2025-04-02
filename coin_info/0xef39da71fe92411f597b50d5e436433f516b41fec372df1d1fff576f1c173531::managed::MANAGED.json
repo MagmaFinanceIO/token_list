@@ -1,0 +1,13 @@
+{
+  "name": "SUN",
+  "symbol": "Sun",
+  "decimals": 2,
+  "coin_type": "0xef39da71fe92411f597b50d5e436433f516b41fec372df1d1fff576f1c173531::managed::MANAGED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

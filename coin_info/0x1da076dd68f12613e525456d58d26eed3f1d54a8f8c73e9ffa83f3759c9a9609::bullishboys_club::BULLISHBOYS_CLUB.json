@@ -1,0 +1,13 @@
+{
+  "name": "BULLISHBOYS_CLUB6900",
+  "symbol": "BULLISHBOYS_CLUB",
+  "decimals": 9,
+  "coin_type": "0x1da076dd68f12613e525456d58d26eed3f1d54a8f8c73e9ffa83f3759c9a9609::bullishboys_club::BULLISHBOYS_CLUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ccc0cdc3-5e59-45ef-b2c3-84cf6b87264b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

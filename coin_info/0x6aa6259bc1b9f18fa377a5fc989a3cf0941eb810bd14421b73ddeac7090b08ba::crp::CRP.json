@@ -1,0 +1,13 @@
+{
+  "name": "CRP",
+  "symbol": "CRP",
+  "decimals": 9,
+  "coin_type": "0x6aa6259bc1b9f18fa377a5fc989a3cf0941eb810bd14421b73ddeac7090b08ba::crp::CRP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://amber-hilarious-ostrich-689.mypinata.cloud/files/bafkreidxafmelx4leds5kgqwwxvkapageyq4tf7f74k2nw4nkz4wbgwzqy?X-Algorithm=PINATA1&X-Date=1733167642&X-Expires=315360000&X-Method=GET&X-Signature=152542400a9515cea4cbe7971b02403b216476f283f53dd8caf85a3b54a1c46c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

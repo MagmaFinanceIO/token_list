@@ -1,0 +1,13 @@
+{
+  "name": "NEW SPACE",
+  "symbol": "newspace",
+  "decimals": 9,
+  "coin_type": "0xd19c553b7d9dee081bb6d004a4236eb1a48e8c4b80de1fc80c5ce976ede38407::newspace::NEWSPACE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2keMELQmALCMgJwTcoT94ZRTgtQyodKdAxQtgmFhpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

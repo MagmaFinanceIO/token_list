@@ -1,0 +1,13 @@
+{
+  "name": "JEPE",
+  "symbol": "JEPE",
+  "decimals": 6,
+  "coin_type": "0xf278951a03feb79005ad981f47663cb268dc1a3cdc0ab053c2e8c347d1401aa3::jepe::JEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmXsmK5y1Tzd3D3qXAHQjd2LRXsZUXEoYBcbLUahTcg6vd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

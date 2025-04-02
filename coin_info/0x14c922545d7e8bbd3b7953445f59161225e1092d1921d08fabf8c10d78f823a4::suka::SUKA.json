@@ -1,0 +1,13 @@
+{
+  "name": "SUI SUKA INU",
+  "symbol": "SUKA",
+  "decimals": 9,
+  "coin_type": "0x14c922545d7e8bbd3b7953445f59161225e1092d1921d08fabf8c10d78f823a4::suka::SUKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5dbadd21-6f17-4ae1-9668-3da770a03aae.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

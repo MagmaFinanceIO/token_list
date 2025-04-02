@@ -1,0 +1,13 @@
+{
+  "name": "Project Strawberry",
+  "symbol": "STRAWB",
+  "decimals": 9,
+  "coin_type": "0xf0b22d78a0491e1c15d8112eeaadd07771c08cc7d7f2cc5dabd15a38a2acb049::strawb::STRAWB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/H6QvmSwAEfpG2r7K7PJK7yCM2b42oWnWte7jZP6cpump.png?size=lg&key=b94dfe",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

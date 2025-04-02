@@ -1,0 +1,13 @@
+{
+  "name": "Sappy Seals",
+  "symbol": "SAPPY",
+  "decimals": 0,
+  "coin_type": "0x717ee7e5bea96df304c851abe6ba86bec4ddd8586862817866da33d4dc2c4507::sappy::SAPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0e204db5-42e6-4b34-bd5f-6fea18ccffc0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

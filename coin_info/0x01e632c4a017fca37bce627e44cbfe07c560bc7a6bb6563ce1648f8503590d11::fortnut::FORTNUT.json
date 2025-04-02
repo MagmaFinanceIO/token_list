@@ -1,0 +1,13 @@
+{
+  "name": "fortnut",
+  "symbol": "fortnut",
+  "decimals": 9,
+  "coin_type": "0x01e632c4a017fca37bce627e44cbfe07c560bc7a6bb6563ce1648f8503590d11::fortnut::FORTNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/E3US4jAiW8mLd23btj9V3HmRDGGyUrNiTcJuhQNTpump.png?size=lg&key=b25164",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

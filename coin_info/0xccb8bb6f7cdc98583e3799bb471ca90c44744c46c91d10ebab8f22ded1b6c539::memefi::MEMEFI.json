@@ -1,0 +1,13 @@
+{
+  "name": "MemeFi",
+  "symbol": "MEMEFI",
+  "decimals": 6,
+  "coin_type": "0xccb8bb6f7cdc98583e3799bb471ca90c44744c46c91d10ebab8f22ded1b6c539::memefi::MEMEFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a46652af-7a6b-4e0b-81bf-beea351eec45.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Paul Atkins - SEC Chair",
+  "symbol": "PAUL",
+  "decimals": 9,
+  "coin_type": "0x27c460760c7aba29f33a80f8f96cbd8b02056c2840af6dbe4c25e05ddfa31a12::paul::PAUL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A7jMk9sLgQJVDRjsmWWUay95aCRwMGoqXSpNLmk3pump.png?size=lg&key=86d960",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

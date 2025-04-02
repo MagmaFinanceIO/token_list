@@ -1,0 +1,13 @@
+{
+  "name": "Memora Core",
+  "symbol": "MEMORA",
+  "decimals": 9,
+  "coin_type": "0xe5db92cfcbd6666fe448bf3dae74badc631f218b075d246295c7e5f0f4800cbb::memora::MEMORA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3m7cEgx6iRtWvpek83C99nTbuyhqHaJuULYViY3tpump.png?size=lg&key=f82cf2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

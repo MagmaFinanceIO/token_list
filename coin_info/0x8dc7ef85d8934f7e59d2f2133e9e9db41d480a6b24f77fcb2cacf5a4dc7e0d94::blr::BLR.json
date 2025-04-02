@@ -1,0 +1,13 @@
+{
+  "name": "Bearly Rich",
+  "symbol": "BLR",
+  "decimals": 9,
+  "coin_type": "0x8dc7ef85d8934f7e59d2f2133e9e9db41d480a6b24f77fcb2cacf5a4dc7e0d94::blr::BLR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d6989e70-8aef-4d88-810c-0591f69dc637.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIKOSKY",
+  "symbol": "SUIKOSKY",
+  "decimals": 9,
+  "coin_type": "0xa1e14cd17d5caaa10756e53dca279363a8735c8b52312ddf141dfec3fda9ede2::suikosky::SUIKOSKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f3252847-94cf-4fc0-9afe-ecea58f58a2c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

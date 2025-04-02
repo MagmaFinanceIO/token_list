@@ -1,0 +1,13 @@
+{
+  "name": "MOMO BOYS CLUB SUI",
+  "symbol": "MOMOS",
+  "decimals": 9,
+  "coin_type": "0xc8ee6968ca9acb352c22d94d4317bcbd8d06a106c1069c993dc0809b22ec2335::momos::MOMOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5a09e22a-0efc-4382-b44e-a5db6162325b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

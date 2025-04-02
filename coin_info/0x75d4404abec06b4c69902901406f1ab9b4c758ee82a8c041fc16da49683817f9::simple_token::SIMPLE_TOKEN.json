@@ -1,0 +1,13 @@
+{
+  "name": "ROSSUI",
+  "symbol": "ROSSUI",
+  "decimals": 9,
+  "coin_type": "0x75d4404abec06b4c69902901406f1ab9b4c758ee82a8c041fc16da49683817f9::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

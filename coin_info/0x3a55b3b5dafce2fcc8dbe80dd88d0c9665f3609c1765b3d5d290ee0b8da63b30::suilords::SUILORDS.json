@@ -1,0 +1,13 @@
+{
+  "name": "SuiLords",
+  "symbol": "SUILORDS",
+  "decimals": 6,
+  "coin_type": "0x3a55b3b5dafce2fcc8dbe80dd88d0c9665f3609c1765b3d5d290ee0b8da63b30::suilords::SUILORDS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5559_6512781891.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BETTER CALL SUI",
+  "symbol": "BCSUI",
+  "decimals": 6,
+  "coin_type": "0x9921f2760ec68b958836273fa3694f962d6e656e32a1eb683bc3f791d4576d26::bcsui::BCSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2024_10_12_19_06_51_04cef9911b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

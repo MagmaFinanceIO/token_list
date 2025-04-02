@@ -1,0 +1,13 @@
+{
+  "name": "Naughty cat",
+  "symbol": "NAU",
+  "decimals": 9,
+  "coin_type": "0x154f697a90950f58997ea31fa93c1a1adb68c7bee324a0516d1960bd697eff96::nau::NAU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3c159f03-df65-452f-98ee-9d75f3864d32.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

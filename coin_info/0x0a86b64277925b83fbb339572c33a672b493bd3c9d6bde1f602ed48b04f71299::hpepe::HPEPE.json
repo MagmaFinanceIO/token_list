@@ -1,0 +1,13 @@
+{
+  "name": "HopPEPE",
+  "symbol": "HPEPE",
+  "decimals": 6,
+  "coin_type": "0x0a86b64277925b83fbb339572c33a672b493bd3c9d6bde1f602ed48b04f71299::hpepe::HPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmZMTnCNYincJTTtNvxptHGEnB36F336C544Re5Zjo2QLj",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

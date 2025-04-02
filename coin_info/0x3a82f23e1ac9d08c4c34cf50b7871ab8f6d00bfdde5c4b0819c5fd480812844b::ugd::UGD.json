@@ -1,0 +1,13 @@
+{
+  "name": "Unicorn Gold Dust",
+  "symbol": "UGD",
+  "decimals": 9,
+  "coin_type": "0x3a82f23e1ac9d08c4c34cf50b7871ab8f6d00bfdde5c4b0819c5fd480812844b::ugd::UGD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FAJnoXZfsyu5DqoGbSxmBkchji68J9ZzpxmgyAcipump.png?size=lg&key=9b9d17",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

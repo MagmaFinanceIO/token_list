@@ -1,0 +1,13 @@
+{
+  "name": "Phanta Clause",
+  "symbol": "Phanta",
+  "decimals": 9,
+  "coin_type": "0x5c843f1676029d07371be945dd5392963533301338885169c78ec598dc101395::phanta::PHANTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BvqD1QSxw8UAptF2Ej5emBrvTtbPVWM65YQBQKnjpump.png?size=lg&key=d4cdf3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

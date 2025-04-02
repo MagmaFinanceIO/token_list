@@ -1,0 +1,13 @@
+{
+  "name": "SUI Dog wif haglt",
+  "symbol": "SDOG",
+  "decimals": 6,
+  "coin_type": "0xd852c2a215253d5d4c1b5c444a08660cbb239c61ac601dc284cae249196d939d::sdog::SDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qmd4F8GBXDgwuWXmBoHAzSwncnbhnNGXevijZZ9QPEMdde",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

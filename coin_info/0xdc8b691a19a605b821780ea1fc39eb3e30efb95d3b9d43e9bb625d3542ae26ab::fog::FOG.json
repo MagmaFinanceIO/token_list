@@ -1,0 +1,13 @@
+{
+  "name": "fog",
+  "symbol": "fog",
+  "decimals": 9,
+  "coin_type": "0xdc8b691a19a605b821780ea1fc39eb3e30efb95d3b9d43e9bb625d3542ae26ab::fog::FOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ENaL5cX5Z8AUPx4qf7y1xDL4NainmsbmgXDz5jaXpump.png?size=lg&key=f3384d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

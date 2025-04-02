@@ -1,0 +1,13 @@
+{
+  "name": "Suiro",
+  "symbol": "SUIRO",
+  "decimals": 9,
+  "coin_type": "0xb9642f8324e910bc1203989cb13f0c5c2309d45b3dce36e7d7e8b0c5ee91e169::suiro::SUIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5c545898-45cf-40d2-9bf0-0ee5c1ccaaf0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

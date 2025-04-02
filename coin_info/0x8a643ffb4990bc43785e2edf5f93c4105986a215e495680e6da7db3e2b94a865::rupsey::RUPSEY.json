@@ -1,0 +1,13 @@
+{
+  "name": "Cupsey Brother",
+  "symbol": "Rupsey",
+  "decimals": 9,
+  "coin_type": "0x8a643ffb4990bc43785e2edf5f93c4105986a215e495680e6da7db3e2b94a865::rupsey::RUPSEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7jPg8Fa3SbD8inu7LxBj5yPj3g472iEY6Spkt4ATpump.png?size=lg&key=5fba28",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

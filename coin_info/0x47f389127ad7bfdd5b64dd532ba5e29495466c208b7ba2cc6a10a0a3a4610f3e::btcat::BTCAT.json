@@ -1,0 +1,13 @@
+{
+  "name": "BTCat",
+  "symbol": "BTCat",
+  "decimals": 0,
+  "coin_type": "0x47f389127ad7bfdd5b64dd532ba5e29495466c208b7ba2cc6a10a0a3a4610f3e::btcat::BTCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bu5fld7zeafvdqkvn6czfadjun54xh4kmkftsgmjc3p6nny4fm7a.arweave.net/DTpVj_kgC1HBVW-FkoBpo3vLn4piizkZiRbf5rccKz4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

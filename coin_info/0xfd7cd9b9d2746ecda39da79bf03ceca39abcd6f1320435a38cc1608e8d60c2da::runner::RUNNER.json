@@ -1,0 +1,13 @@
+{
+  "name": "Homestar Runner",
+  "symbol": "RUNNER",
+  "decimals": 9,
+  "coin_type": "0xfd7cd9b9d2746ecda39da79bf03ceca39abcd6f1320435a38cc1608e8d60c2da::runner::RUNNER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AvSnzt6KCyvKiKXE6FAFsw2z493dkSm349hRqN3epump.png?size=lg&key=cc3f1d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

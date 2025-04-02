@@ -1,0 +1,13 @@
+{
+  "name": "Suipersui",
+  "symbol": "Suiper11",
+  "decimals": 6,
+  "coin_type": "0x1e47a76dfce4142b58d20f311a0c03ed870976f478a7570a37474085c05018e8::suiper11::SUIPER11",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000158868_53e25eeb47.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

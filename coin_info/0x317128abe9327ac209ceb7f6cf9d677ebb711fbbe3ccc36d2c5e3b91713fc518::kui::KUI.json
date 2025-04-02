@@ -1,0 +1,13 @@
+{
+  "name": "SHARKUI SUI",
+  "symbol": "KUI",
+  "decimals": 9,
+  "coin_type": "0x317128abe9327ac209ceb7f6cf9d677ebb711fbbe3ccc36d2c5e3b91713fc518::kui::KUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3b4ae375-7850-4388-8f0f-1da1a4b1b2c3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

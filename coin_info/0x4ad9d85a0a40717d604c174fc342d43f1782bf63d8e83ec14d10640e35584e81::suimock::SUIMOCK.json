@@ -1,0 +1,13 @@
+{
+  "name": "MOCK",
+  "symbol": "SuiMOCK",
+  "decimals": 6,
+  "coin_type": "0x4ad9d85a0a40717d604c174fc342d43f1782bf63d8e83ec14d10640e35584e81::suimock::SUIMOCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/12_ca0245d5ca.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

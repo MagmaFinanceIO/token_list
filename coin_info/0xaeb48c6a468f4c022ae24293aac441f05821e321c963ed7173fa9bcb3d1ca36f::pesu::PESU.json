@@ -1,0 +1,13 @@
+{
+  "name": "Pengsu",
+  "symbol": "PESU",
+  "decimals": 2,
+  "coin_type": "0xaeb48c6a468f4c022ae24293aac441f05821e321c963ed7173fa9bcb3d1ca36f::pesu::PESU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/43f507e2-8d6e-4809-b580-349b014f2749.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

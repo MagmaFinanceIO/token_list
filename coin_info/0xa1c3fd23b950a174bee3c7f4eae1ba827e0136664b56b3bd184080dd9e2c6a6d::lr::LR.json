@@ -1,0 +1,13 @@
+{
+  "name": "Landlord Ronald",
+  "symbol": "LR",
+  "decimals": 6,
+  "coin_type": "0xa1c3fd23b950a174bee3c7f4eae1ba827e0136664b56b3bd184080dd9e2c6a6d::lr::LR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmWHuuMWwCXd2ubez9Q5u1QauN2XDbu2simgin54XaSsgf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "KitCat",
+  "symbol": "KitCat",
+  "decimals": 9,
+  "coin_type": "0xf2c14ac848f603f82c78737aeefcca4d89bb2f889a8f996a4c63745fd3e3562d::kitcat::KITCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aad53bf7-eb6e-4a71-ab05-f71cb9a7b83b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "United Sui Donald Trump",
+  "symbol": "U S D T",
+  "decimals": 9,
+  "coin_type": "0xb9c90bbbd983a4570da831da5e6bd7be5094595236e6d83831bb6bdad1c9f463::u_s_d_t::U_S_D_T",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/444a9a9f-20ac-47c5-866d-3e44fffd3974.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

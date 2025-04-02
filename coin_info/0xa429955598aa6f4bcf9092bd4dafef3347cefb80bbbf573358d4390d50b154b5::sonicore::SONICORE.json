@@ -1,0 +1,13 @@
+{
+  "name": "SONICORE",
+  "symbol": "SONICORE",
+  "decimals": 9,
+  "coin_type": "0xa429955598aa6f4bcf9092bd4dafef3347cefb80bbbf573358d4390d50b154b5::sonicore::SONICORE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2ThdfzG3WhXjBDAzRnz6qSrVe5neX44BGVHYVrZWpump.png?size=lg&key=15dcc8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

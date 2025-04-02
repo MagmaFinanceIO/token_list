@@ -1,0 +1,13 @@
+{
+  "name": "Super Sui AI",
+  "symbol": "SUSUAI",
+  "decimals": 9,
+  "coin_type": "0x05f63ff5b527eeb3f8b70920a79757e1c5b1d21b38eba8a3545df07e733b569b::susuai::SUSUAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/acbc44ec-9007-455f-92cd-f73adfabb90a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

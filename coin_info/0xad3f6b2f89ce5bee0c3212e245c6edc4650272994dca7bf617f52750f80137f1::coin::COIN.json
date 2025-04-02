@@ -1,0 +1,13 @@
+{
+  "name": "SUIDOG",
+  "symbol": "SDOG",
+  "decimals": 6,
+  "coin_type": "0xad3f6b2f89ce5bee0c3212e245c6edc4650272994dca7bf617f52750f80137f1::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "http://207.148.66.213:4137/uploads/dog_143eab2683.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HANA",
+  "symbol": "Hana",
+  "decimals": 6,
+  "coin_type": "0xdbbea430c60bd57dffbdf9e6d7fe20375d819292dfbf5e817a5f921e6f19d40b::hana::HANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3366_44679bc77d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

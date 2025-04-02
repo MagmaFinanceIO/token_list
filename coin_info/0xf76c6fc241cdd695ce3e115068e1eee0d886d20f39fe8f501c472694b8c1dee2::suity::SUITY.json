@@ -1,0 +1,13 @@
+{
+  "name": "SUINITY",
+  "symbol": "SUITY",
+  "decimals": 6,
+  "coin_type": "0xf76c6fc241cdd695ce3e115068e1eee0d886d20f39fe8f501c472694b8c1dee2::suity::SUITY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/A6_A140_EB_63_A7_4947_91_F9_C2019_C2_E0_FD_5_e7519c44cb.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "epepsui",
+  "symbol": "EPEPSUI",
+  "decimals": 6,
+  "coin_type": "0x27f0b0dae25351d635b359d6b52f2b82a07065f847fa1664e5a196a373cfc02d::epepsui::EPEPSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TESTCOIN",
+  "symbol": "TEST",
+  "decimals": 6,
+  "coin_type": "0x14384a92c15fbef72b733e6b51666f32eb27576436d3313489a5c7fe262e7cf8::test_coin::TEST_COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1701260390771081216/Cd_FelPe_400x400.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

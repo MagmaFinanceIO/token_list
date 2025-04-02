@@ -1,0 +1,13 @@
+{
+  "name": "Pagsuids",
+  "symbol": "PASUIsd",
+  "decimals": 9,
+  "coin_type": "0x93a63f987201abd268fb8c20b215cb7556e73d0052fe3d9182910963e3b70a71::pasuisd::PASUISD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/983e4709-8da2-44a7-a6c3-5b62a1476641.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

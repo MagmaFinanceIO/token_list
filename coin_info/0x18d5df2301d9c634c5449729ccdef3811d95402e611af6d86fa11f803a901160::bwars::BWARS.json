@@ -1,0 +1,13 @@
+{
+  "name": "BlockWars",
+  "symbol": "BWars",
+  "decimals": 9,
+  "coin_type": "0x18d5df2301d9c634c5449729ccdef3811d95402e611af6d86fa11f803a901160::bwars::BWARS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8MzVdJ6u2T8pxGn5j1XQDpUqWKjtH8vMcjzBzpk3pump.png?size=lg&key=7f0498",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

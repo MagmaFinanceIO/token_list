@@ -1,0 +1,13 @@
+{
+  "name": "Razty Rooster",
+  "symbol": "RAZTY",
+  "decimals": 6,
+  "coin_type": "0xa04f6ebc13fbb16706b675fa4c94eb33994dd9e36eafa750851f2d9234eb5bda::razty::RAZTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000021177_948ef441c5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

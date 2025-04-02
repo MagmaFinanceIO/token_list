@@ -1,0 +1,13 @@
+{
+  "name": "POPSUI",
+  "symbol": "POPSUI",
+  "decimals": 2,
+  "coin_type": "0xf5c71b5525a6c280fe4c8f20a4541179991ce96f4094f385c96377a1656ab2f7::popsui::POPSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/uAdFrJl.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

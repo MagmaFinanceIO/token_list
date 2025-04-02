@@ -1,0 +1,13 @@
+{
+  "name": "S&P 500",
+  "symbol": "SNP500",
+  "decimals": 9,
+  "coin_type": "0x3240a3d18637e279cbf5b0bccdc7fa88079cc4568c081df41d5264aa603fbe71::snp500::SNP500",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4L13wwBBibKJfJXwmBXiUaRv44MPAKVhikSwJhW6pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

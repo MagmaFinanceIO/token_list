@@ -1,0 +1,13 @@
+{
+  "name": "SUIBADO",
+  "symbol": "The Sui Balloon Dog",
+  "decimals": 9,
+  "coin_type": "0x1f2b14bad7eda7860ed339f0d35384095ad58302cc92a2f25f4bd14a6a646664::thesuiballoondog::THESUIBALLOONDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7048db95-c082-4bcd-80ca-3747dbbfab64.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

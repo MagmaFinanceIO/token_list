@@ -1,0 +1,13 @@
+{
+  "name": "Casper the Sui",
+  "symbol": "CASPER",
+  "decimals": 6,
+  "coin_type": "0xfd7a4ac6048ce9aa14a919b6756d6a949c569e413312f443bd1ed81fada57498::casper::CASPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Casper_1_ae2983e54e.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

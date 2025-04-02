@@ -1,0 +1,13 @@
+{
+  "name": "DOGAT",
+  "symbol": "doge cat",
+  "decimals": 9,
+  "coin_type": "0x9936283fff3b6378367d9ee2bb6b660811d371a0d2ae109986471066e188194a::dogat::DOGAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5pQSTDfeUppb6tV415RWygL8n3ctyakBTV7QzBn5pump.png?size=xl&key=578d76",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BREAK THE AI",
+  "symbol": "BRKAI",
+  "decimals": 9,
+  "coin_type": "0x8bcf8e159c881c97fd57eb50851c171ab90a354956ffc9e2f0995eac8e881c19::brkai::BRKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8wvBh1FoLzMF5ymSHVGJ3NF3aXNANUMo1BjvSb6gpump.png?size=lg&key=77e964",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

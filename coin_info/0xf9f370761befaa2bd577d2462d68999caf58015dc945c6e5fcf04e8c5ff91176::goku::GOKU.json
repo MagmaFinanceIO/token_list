@@ -1,0 +1,13 @@
+{
+  "name": "GokuMemeSUI",
+  "symbol": "GOKU",
+  "decimals": 6,
+  "coin_type": "0xf9f370761befaa2bd577d2462d68999caf58015dc945c6e5fcf04e8c5ff91176::goku::GOKU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731059601513.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI aaaMOODENG",
+  "symbol": "aaaMOODENG",
+  "decimals": 6,
+  "coin_type": "0x3a3a490f65bdd3db24e87465d3ced1753cca199b0a6b0f7de7382f45a71b3ba0::aaamoodeng::AAAMOODENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/AAAMOODENG_5ff8224daa.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

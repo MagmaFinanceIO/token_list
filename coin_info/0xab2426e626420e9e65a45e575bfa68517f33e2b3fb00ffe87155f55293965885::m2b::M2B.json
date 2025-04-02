@@ -1,0 +1,13 @@
+{
+  "name": "M2B",
+  "symbol": "M2B",
+  "decimals": 9,
+  "coin_type": "0xab2426e626420e9e65a45e575bfa68517f33e2b3fb00ffe87155f55293965885::m2b::M2B",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6aR99cUHkm9cs3GzwFgtqXgVD6rZHRQkBkeSaCjpump.png?size=lg&key=29f8e5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "D.O.G.E End The Fed",
+  "symbol": "DOGETF",
+  "decimals": 9,
+  "coin_type": "0x0c4b2064bb7b3ab5b15b0589216746749702c50532d75b462198cbabbf4c0273::dogetf::DOGETF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b913bf66-9af1-46fb-b105-ec7177c391da.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

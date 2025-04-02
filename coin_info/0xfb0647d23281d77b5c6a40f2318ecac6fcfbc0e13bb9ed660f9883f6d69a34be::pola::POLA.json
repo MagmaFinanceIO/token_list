@@ -1,0 +1,13 @@
+{
+  "name": "POLA on SUI",
+  "symbol": "POLA",
+  "decimals": 6,
+  "coin_type": "0xfb0647d23281d77b5c6a40f2318ecac6fcfbc0e13bb9ed660f9883f6d69a34be::pola::POLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/l_Ox_Lm_Bh_A_400x400_26c313e82e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dPPs",
+  "symbol": "dPPs",
+  "decimals": 9,
+  "coin_type": "0xa0eac6645bcecb3f3ed60fea7b603c01e01cb3610e0f526a4e799d9ac428b1e8::dpps::DPPS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CB48KiK1oi1tWtjmPWxVR2NPeEr9ewzmZQ8ERk79Ue4b.png?size=lg&key=e3d4b7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

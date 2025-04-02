@@ -1,0 +1,13 @@
+{
+  "name": "Wagey Sui",
+  "symbol": "WAGEY",
+  "decimals": 6,
+  "coin_type": "0xb80efe34ed58dc286792623c806c4b70d23ac4e690ac78686cb0b964634cffe9::wagey::WAGEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/wag_f31229e42b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

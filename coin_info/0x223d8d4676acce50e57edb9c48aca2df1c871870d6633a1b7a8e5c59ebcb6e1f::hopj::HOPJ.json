@@ -1,0 +1,13 @@
+{
+  "name": "Hopthisjerks",
+  "symbol": "HopJ",
+  "decimals": 6,
+  "coin_type": "0x223d8d4676acce50e57edb9c48aca2df1c871870d6633a1b7a8e5c59ebcb6e1f::hopj::HOPJ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmYM5UY4BWvkccQRTYwe5j38usBjGe7iGdZTBEVe4XRbA8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

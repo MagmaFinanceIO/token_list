@@ -1,0 +1,13 @@
+{
+  "name": "UNR",
+  "symbol": "UNR",
+  "decimals": 9,
+  "coin_type": "0xf22b7077638acc7939415a5a8c65076872158cf6ce8e9a015eedd9130529c4a6::unr::UNR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7G5PiWzwhVtjcRgVfoN27AMNZhSWRxLKdGusxFtWPKSz.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

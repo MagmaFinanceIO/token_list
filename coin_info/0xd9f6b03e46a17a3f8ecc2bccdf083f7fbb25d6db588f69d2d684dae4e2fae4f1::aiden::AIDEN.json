@@ -1,0 +1,13 @@
+{
+  "name": "AI_den_bot",
+  "symbol": "AIDEN",
+  "decimals": 9,
+  "coin_type": "0xd9f6b03e46a17a3f8ecc2bccdf083f7fbb25d6db588f69d2d684dae4e2fae4f1::aiden::AIDEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qmdv1SphrpWskFq4wwYHwYyPk6SuLJJ2GwD9PSSEKnGtaw",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

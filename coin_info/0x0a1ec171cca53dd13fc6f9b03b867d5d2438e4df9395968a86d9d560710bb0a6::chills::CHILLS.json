@@ -1,0 +1,13 @@
+{
+  "name": "Mariachi Chilli Peppers",
+  "symbol": "CHILLS",
+  "decimals": 9,
+  "coin_type": "0x0a1ec171cca53dd13fc6f9b03b867d5d2438e4df9395968a86d9d560710bb0a6::chills::CHILLS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/985861c8-2412-475a-9a6f-6624c027bf79.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

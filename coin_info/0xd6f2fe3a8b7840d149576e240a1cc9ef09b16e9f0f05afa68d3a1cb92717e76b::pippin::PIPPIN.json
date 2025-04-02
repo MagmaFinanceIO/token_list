@@ -1,0 +1,13 @@
+{
+  "name": "Pippin",
+  "symbol": "Pippin",
+  "decimals": 9,
+  "coin_type": "0xd6f2fe3a8b7840d149576e240a1cc9ef09b16e9f0f05afa68d3a1cb92717e76b::pippin::PIPPIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump.png?size=lg&key=42cca4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

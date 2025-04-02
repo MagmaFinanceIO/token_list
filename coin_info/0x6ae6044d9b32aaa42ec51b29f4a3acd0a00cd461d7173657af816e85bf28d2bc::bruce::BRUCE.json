@@ -1,0 +1,13 @@
+{
+  "name": "Bruce The Shark",
+  "symbol": "BRUCE",
+  "decimals": 9,
+  "coin_type": "0x6ae6044d9b32aaa42ec51b29f4a3acd0a00cd461d7173657af816e85bf28d2bc::bruce::BRUCE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/60ad5c5e-faa4-4b28-be34-781a2d7c1e47.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

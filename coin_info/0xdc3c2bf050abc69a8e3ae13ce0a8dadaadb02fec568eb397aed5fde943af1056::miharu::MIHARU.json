@@ -1,0 +1,13 @@
+{
+  "name": "Smiling Dolphin Sui",
+  "symbol": "MIHARU",
+  "decimals": 9,
+  "coin_type": "0xdc3c2bf050abc69a8e3ae13ce0a8dadaadb02fec568eb397aed5fde943af1056::miharu::MIHARU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6tVZVjcppH2BZ9Xj5yFU1Zt34m2rYcyDqqpSeMDZpump.png?size=lg&key=21828c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

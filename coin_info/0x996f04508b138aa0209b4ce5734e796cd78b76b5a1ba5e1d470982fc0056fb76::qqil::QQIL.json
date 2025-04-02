@@ -1,0 +1,13 @@
+{
+  "name": "QUICK QUAIL",
+  "symbol": "QQIL",
+  "decimals": 6,
+  "coin_type": "0x996f04508b138aa0209b4ce5734e796cd78b76b5a1ba5e1d470982fc0056fb76::qqil::QQIL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_21_035724847_4cc6771c7b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

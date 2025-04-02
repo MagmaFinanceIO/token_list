@@ -1,0 +1,13 @@
+{
+  "name": "Trump401K",
+  "symbol": "Trump401",
+  "decimals": 9,
+  "coin_type": "0x57415c4204707dd7e1abf604f633f1d43f6743154e5dda40c619627bc55dc789::trump401::TRUMP401",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BqzUkjzdfeYNUGZsnx6ZdiC2BmBH9WDW3iBCQb5e2FNn.png?size=lg&key=97c27a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

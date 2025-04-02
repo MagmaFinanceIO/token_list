@@ -1,0 +1,13 @@
+{
+  "name": "Sui Feta",
+  "symbol": "FETA",
+  "decimals": 6,
+  "coin_type": "0x5387d06f12c6fafc057b87a090b84750b7c444a028428a004e4e8f962740e3a5::feta::FETA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000014479_3de3669d81.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

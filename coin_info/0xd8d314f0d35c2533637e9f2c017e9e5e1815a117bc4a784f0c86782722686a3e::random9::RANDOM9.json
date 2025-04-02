@@ -1,0 +1,13 @@
+{
+  "name": "Elons Gamertag",
+  "symbol": "RANDOM9",
+  "decimals": 9,
+  "coin_type": "0xd8d314f0d35c2533637e9f2c017e9e5e1815a117bc4a784f0c86782722686a3e::random9::RANDOM9",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x156994e6cabea296e7a73cf3742355bf71a64cec.png?size=lg&key=3194a2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "King of Apes",
+  "symbol": "APE",
+  "decimals": 9,
+  "coin_type": "0x061cbf727b343c02c4fd2e1439f3464044ed21f4bef28c241cde2d30a6c906e3::ape::APE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/42f05481-681d-422b-942b-ebd674c076be.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

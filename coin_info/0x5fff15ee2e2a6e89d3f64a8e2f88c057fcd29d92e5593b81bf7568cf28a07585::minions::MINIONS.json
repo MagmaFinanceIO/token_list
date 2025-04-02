@@ -1,0 +1,13 @@
+{
+  "name": "MINIONS ON SUI",
+  "symbol": "MINIONS",
+  "decimals": 6,
+  "coin_type": "0x5fff15ee2e2a6e89d3f64a8e2f88c057fcd29d92e5593b81bf7568cf28a07585::minions::MINIONS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_minions_5deb805ad8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

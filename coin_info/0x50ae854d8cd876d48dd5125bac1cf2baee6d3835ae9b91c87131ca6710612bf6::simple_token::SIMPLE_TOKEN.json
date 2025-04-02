@@ -1,0 +1,13 @@
+{
+  "name": "CSAI",
+  "symbol": "CSAI",
+  "decimals": 9,
+  "coin_type": "0x50ae854d8cd876d48dd5125bac1cf2baee6d3835ae9b91c87131ca6710612bf6::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

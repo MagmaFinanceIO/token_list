@@ -1,0 +1,13 @@
+{
+  "name": "test22",
+  "symbol": "abcd",
+  "decimals": 6,
+  "coin_type": "0x0e2b0621a50d436ec1cfa1a55062cb5bec53d6a2ef5070661af18b9c673c7002::abcd::ABCD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pub-efea87dea3f94e8084e073588c980c50.r2.dev/logo/01JB6ABKQK6SYTGM8P0P30C6J9/01JB6CYBPMXJX5BS695SRHWTTN",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

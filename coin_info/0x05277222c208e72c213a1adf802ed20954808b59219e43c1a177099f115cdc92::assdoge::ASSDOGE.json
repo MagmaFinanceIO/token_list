@@ -1,0 +1,13 @@
+{
+  "name": "Ass Doge",
+  "symbol": "ASSDOGE",
+  "decimals": 9,
+  "coin_type": "0x05277222c208e72c213a1adf802ed20954808b59219e43c1a177099f115cdc92::assdoge::ASSDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5xxGbaxeUGm9jNSmRUbACLz13VjZnQ9KSCUQbWae5V8H.png?size=lg&key=63be95",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

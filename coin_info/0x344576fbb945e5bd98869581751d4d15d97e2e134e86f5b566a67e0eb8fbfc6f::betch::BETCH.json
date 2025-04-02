@@ -1,0 +1,13 @@
+{
+  "name": "BETCH SQUIRREL",
+  "symbol": "BETCH",
+  "decimals": 9,
+  "coin_type": "0x344576fbb945e5bd98869581751d4d15d97e2e134e86f5b566a67e0eb8fbfc6f::betch::BETCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/M3K46iSATg4QWstK86NrQKy7wDqvb5EBSNv8M2Lpump.png?size=lg&key=6c53e6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

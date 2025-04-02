@@ -1,0 +1,13 @@
+{
+  "name": "GORILLAZ",
+  "symbol": "GORILLAZ",
+  "decimals": 9,
+  "coin_type": "0x65658c4e51e7ed6c33eaa43f1b69fd23e1a894d4b9ca553cb36ebe699a4caba9::gorillaz::GORILLAZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5u4VxhQeqQAbGt1h6YGSqmN7iP2Bi4sBF8hh1CZbpump.png?size=lg&key=9440d4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

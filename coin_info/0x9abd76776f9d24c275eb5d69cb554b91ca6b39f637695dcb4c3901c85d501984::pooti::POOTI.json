@@ -1,0 +1,13 @@
+{
+  "name": "POOTI GANG",
+  "symbol": "Pooti",
+  "decimals": 6,
+  "coin_type": "0x9abd76776f9d24c275eb5d69cb554b91ca6b39f637695dcb4c3901c85d501984::pooti::POOTI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3063_fb55dfc0ec.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "suimobb",
+  "symbol": "MOBB",
+  "decimals": 6,
+  "coin_type": "0x6baeeac5754cf6ec4a7be86361e189b3304ecf70014116d66abf6ac5771418be::mobb::MOBB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000137323_d063d5acfb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "The Cat Of War",
+  "symbol": "ARES",
+  "decimals": 9,
+  "coin_type": "0xa2662bd165874ddd950b68259408f343b78fe436647cbb491822be5b0e39ebcc::ares::ARES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/739dec9d-ba30-42ca-99bb-79473fd40776.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

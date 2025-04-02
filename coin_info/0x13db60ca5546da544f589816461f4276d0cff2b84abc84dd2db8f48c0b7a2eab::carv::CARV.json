@@ -1,0 +1,13 @@
+{
+  "name": "CARV",
+  "symbol": "carv",
+  "decimals": 6,
+  "coin_type": "0x13db60ca5546da544f589816461f4276d0cff2b84abc84dd2db8f48c0b7a2eab::carv::CARV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cloudinary.com/dkpo6c3me/image/upload/v1728913279/carv_cbwfph.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

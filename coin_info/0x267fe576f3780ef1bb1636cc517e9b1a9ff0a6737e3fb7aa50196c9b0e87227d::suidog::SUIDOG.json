@@ -1,0 +1,13 @@
+{
+  "name": "Sui smiling dog",
+  "symbol": "Suidog",
+  "decimals": 9,
+  "coin_type": "0x267fe576f3780ef1bb1636cc517e9b1a9ff0a6737e3fb7aa50196c9b0e87227d::suidog::SUIDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/eec26725-aea2-44ba-a40b-c6c265280d8c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

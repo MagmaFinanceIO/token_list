@@ -1,0 +1,13 @@
+{
+  "name": "Santa Pepe Sui",
+  "symbol": "SANTAPE",
+  "decimals": 9,
+  "coin_type": "0xd452146d0de6b4b48c3de65e40a2994ae260794d112c22cf8c036c67f258291a::santape::SANTAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/51885475-a7c1-4a79-90a9-b5115c446dcf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

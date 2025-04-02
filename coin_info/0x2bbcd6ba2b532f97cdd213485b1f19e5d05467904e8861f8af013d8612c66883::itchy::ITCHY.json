@@ -1,0 +1,13 @@
+{
+  "name": "Itchy",
+  "symbol": "ITCHY",
+  "decimals": 9,
+  "coin_type": "0x2bbcd6ba2b532f97cdd213485b1f19e5d05467904e8861f8af013d8612c66883::itchy::ITCHY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/949d2bd5-3fbf-45a1-885d-057e08b6d2af.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

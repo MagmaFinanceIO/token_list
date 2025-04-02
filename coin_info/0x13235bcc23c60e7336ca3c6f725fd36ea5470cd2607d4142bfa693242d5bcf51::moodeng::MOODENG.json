@@ -1,0 +1,13 @@
+{
+  "name": "moodeng",
+  "symbol": "Moodeng",
+  "decimals": 6,
+  "coin_type": "0x13235bcc23c60e7336ca3c6f725fd36ea5470cd2607d4142bfa693242d5bcf51::moodeng::MOODENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Image_1729934045929_3ca0fe8650.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

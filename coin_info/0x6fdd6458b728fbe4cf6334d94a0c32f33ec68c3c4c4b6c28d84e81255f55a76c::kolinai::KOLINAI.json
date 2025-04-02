@@ -1,0 +1,13 @@
+{
+  "name": "KOLIN AI",
+  "symbol": "KOLINAI",
+  "decimals": 9,
+  "coin_type": "0x6fdd6458b728fbe4cf6334d94a0c32f33ec68c3c4c4b6c28d84e81255f55a76c::kolinai::KOLINAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EijTo7ad7t3Eh56jyiuadEPsDgZA3khaQ8AQR9w2mFSU.png?size=lg&key=787cca",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

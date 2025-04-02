@@ -1,0 +1,13 @@
+{
+  "name": "Lucky 7 sui buy",
+  "symbol": "Lucky7suibuy",
+  "decimals": 6,
+  "coin_type": "0x9ae19a215b3ea2c95c8e3d56f51933de57f1d4a3f9a127f281a4439141ac2aff::lucky7suibuy::LUCKY7SUIBUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000071734_6a182ad3b6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

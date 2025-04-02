@@ -1,0 +1,13 @@
+{
+  "name": "SANTA DOGE COIN",
+  "symbol": "SANTADOGE",
+  "decimals": 6,
+  "coin_type": "0xdd3a08fb6b0deaf2c2c54ffad98efc9b731eb24502a3ac3c8a8b28e00c30a627::santadoge::SANTADOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/6_802de95840.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

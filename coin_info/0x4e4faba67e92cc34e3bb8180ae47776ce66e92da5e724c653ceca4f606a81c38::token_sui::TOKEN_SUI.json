@@ -1,0 +1,13 @@
+{
+  "name": "Minecraft Gem",
+  "symbol": "MGEM",
+  "decimals": 9,
+  "coin_type": "0x4e4faba67e92cc34e3bb8180ae47776ce66e92da5e724c653ceca4f606a81c38::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.pikpng.com/pngl/m/17-177869_minecraft-diamond-png-diamond-minecraft-clipart.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

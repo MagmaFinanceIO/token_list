@@ -1,0 +1,13 @@
+{
+  "name": "Lollipop",
+  "symbol": "LOLLIPOP",
+  "decimals": 6,
+  "coin_type": "0x12eac8486d0120f0964f1bbcb5bba3decefa341d83cdf94850c21d2533527ed3::lollipop::LOLLIPOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731187855351.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

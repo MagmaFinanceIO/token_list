@@ -1,0 +1,13 @@
+{
+  "name": "Sivah Finance",
+  "symbol": "SAX",
+  "decimals": 9,
+  "coin_type": "0x5e5f476a6618cb0613bdd32865bedf9e098890deea13742a316970f3974e56bf::sax::SAX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/59716739-87b8-46dd-9388-8771a55d0c09.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

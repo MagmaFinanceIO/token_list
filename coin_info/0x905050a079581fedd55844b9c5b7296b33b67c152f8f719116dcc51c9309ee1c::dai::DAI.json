@@ -1,0 +1,13 @@
+{
+  "name": "DOGGIEAI  by SuiAI",
+  "symbol": "DAI",
+  "decimals": 6,
+  "coin_type": "0x905050a079581fedd55844b9c5b7296b33b67c152f8f719116dcc51c9309ee1c::dai::DAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1001210218_0e7c47e908.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

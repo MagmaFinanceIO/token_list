@@ -1,0 +1,13 @@
+{
+  "name": "Cuttle Fish",
+  "symbol": "CUTTLEFISH",
+  "decimals": 6,
+  "coin_type": "0x9fbc14edea7fa4c6f395b9cdd3c84e828a5a237f5b44c42cdaa00274cf659c7f::cuttlefish::CUTTLEFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Cuttlefish_f9ec97c356.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

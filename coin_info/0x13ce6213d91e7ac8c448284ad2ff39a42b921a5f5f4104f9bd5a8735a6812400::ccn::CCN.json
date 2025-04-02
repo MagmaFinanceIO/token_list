@@ -1,0 +1,13 @@
+{
+  "name": "ChuckCoin",
+  "symbol": "CCN",
+  "decimals": 9,
+  "coin_type": "0x13ce6213d91e7ac8c448284ad2ff39a42b921a5f5f4104f9bd5a8735a6812400::ccn::CCN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6e86a5f5-8b20-4fe6-a8ef-de850cd92687.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Donald Trumpkin",
+  "symbol": "DONALDTRUMPKIN",
+  "decimals": 6,
+  "coin_type": "0x24ef2f3b09bdbd6cf5f929f037ae41f95165b422805a284e92d2f01a6812fa38::donaldtrumpkin::DONALDTRUMPKIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000031390_f10826b8b8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

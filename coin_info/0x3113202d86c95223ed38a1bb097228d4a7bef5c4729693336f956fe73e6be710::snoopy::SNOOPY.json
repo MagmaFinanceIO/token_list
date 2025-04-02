@@ -1,0 +1,13 @@
+{
+  "name": "SNOOPY",
+  "symbol": "SNOOPY",
+  "decimals": 9,
+  "coin_type": "0x3113202d86c95223ed38a1bb097228d4a7bef5c4729693336f956fe73e6be710::snoopy::SNOOPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CSh9t2fx2TAE25AiZ9oagdcuHomTQoCE1PGxaMjfpump.png?size=lg&key=a1c299",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

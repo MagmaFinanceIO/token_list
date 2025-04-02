@@ -1,0 +1,13 @@
+{
+  "name": "Capybara On Sui",
+  "symbol": "CAPY",
+  "decimals": 9,
+  "coin_type": "0x407a958a3e0ec5cf7613815e18fdbd0b74c31433f229fb3d33b98288c2dece4a::capy::CAPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6fd5a0a0-c3fc-4458-82f6-83a01ec7bf97.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

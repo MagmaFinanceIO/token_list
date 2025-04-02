@@ -1,0 +1,13 @@
+{
+  "name": "A chill fisherman",
+  "symbol": "FISHERMAN",
+  "decimals": 6,
+  "coin_type": "0x33dc8ad8a39749799e0dc4ff22a84378cb96e55526fa30c0506557bbaefe1153::fisherman::FISHERMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735499459416.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

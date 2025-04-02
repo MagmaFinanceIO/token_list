@@ -1,0 +1,13 @@
+{
+  "name": "UNI DOG",
+  "symbol": "UNI",
+  "decimals": 6,
+  "coin_type": "0xc89f362e52384c3f3d0d2e888126f8a6b9a1f7a2c93ead4b5c8d3b2651aabd3e::uni::UNI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmaDNCGSuLUqitJNugBBCMLhdmPBNFZCdhU2eSYJzixpYK",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TEST",
+  "symbol": "TEST",
+  "decimals": 9,
+  "coin_type": "0xe79254b2a26da5653b381a0af46d482a57c73645cafffad37f2cb4023614df9a::test::TEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://media.sketchfab.com/models/c5551633ee9542d3968c072384e73555/thumbnails/dc3f06c445c340e0a4d9a836a4895e93/fb886eb915414762b0f1fcee107b858e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

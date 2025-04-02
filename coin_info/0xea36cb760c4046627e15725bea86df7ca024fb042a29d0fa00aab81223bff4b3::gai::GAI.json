@@ -1,0 +1,13 @@
+{
+  "name": "Genius AI ",
+  "symbol": "GAI",
+  "decimals": 6,
+  "coin_type": "0xea36cb760c4046627e15725bea86df7ca024fb042a29d0fa00aab81223bff4b3::gai::GAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000169818_bf9721cb97.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

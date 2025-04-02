@@ -1,0 +1,13 @@
+{
+  "name": "Cat Fish",
+  "symbol": "CATFISH",
+  "decimals": 6,
+  "coin_type": "0x3dc56850533e37f707eb0d19227715278406b4332b438fe813625675c4337a7b::catfish::CATFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/7363a6b38d2a9721648189e8372d3a97_0f9239f7b0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

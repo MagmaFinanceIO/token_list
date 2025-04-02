@@ -1,0 +1,13 @@
+{
+  "name": "Penguin with PePe",
+  "symbol": "PEPENG",
+  "decimals": 9,
+  "coin_type": "0xd0209b1afbfa02510390091cfc733d4fe79da0ea5f3e681553f50b39d2e00a7b::pepeng::PEPENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4sD9rpU44vEwRzRuCnTpkYkUeJcrZb6oXEdB7yTbVzCw.png?size=lg&key=481716",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

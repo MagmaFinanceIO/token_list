@@ -1,0 +1,13 @@
+{
+  "name": "Talking TOM",
+  "symbol": "TOM",
+  "decimals": 9,
+  "coin_type": "0xcd5925f4fe4098c7cdc7ec1ef05f13d0776739fb70757151716ca1268000af48::talkingtom::TALKINGTOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/45f3c83f-b703-47c7-9314-21e4c5cdc57d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

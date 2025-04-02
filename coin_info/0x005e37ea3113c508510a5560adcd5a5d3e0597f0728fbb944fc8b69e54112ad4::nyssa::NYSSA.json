@@ -1,0 +1,13 @@
+{
+  "name": "Nyssa by SuiAI",
+  "symbol": "NYSSA",
+  "decimals": 6,
+  "coin_type": "0x005e37ea3113c508510a5560adcd5a5d3e0597f0728fbb944fc8b69e54112ad4::nyssa::NYSSA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_2111_f2f8d884dd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

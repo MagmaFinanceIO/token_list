@@ -1,0 +1,13 @@
+{
+  "name": "Friend3.AI",
+  "symbol": "FRIEND3",
+  "decimals": 9,
+  "coin_type": "0x94fa7df79a6ad82e797897f5a4a3a6f2a50b8dd6d5d9255a5b96914db21b50f5::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

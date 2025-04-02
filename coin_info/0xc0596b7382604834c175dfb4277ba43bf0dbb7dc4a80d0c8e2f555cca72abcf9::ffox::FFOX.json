@@ -1,0 +1,13 @@
+{
+  "name": "FRISKY FOX",
+  "symbol": "FFOX",
+  "decimals": 6,
+  "coin_type": "0xc0596b7382604834c175dfb4277ba43bf0dbb7dc4a80d0c8e2f555cca72abcf9::ffox::FFOX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_21_032255983_672407a735.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

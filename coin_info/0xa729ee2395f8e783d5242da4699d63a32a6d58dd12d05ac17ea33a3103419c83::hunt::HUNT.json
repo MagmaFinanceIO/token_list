@@ -1,0 +1,13 @@
+{
+  "name": "HunterXHunter",
+  "symbol": "HUNT",
+  "decimals": 6,
+  "coin_type": "0xa729ee2395f8e783d5242da4699d63a32a6d58dd12d05ac17ea33a3103419c83::hunt::HUNT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/WIF_Token_sol_Deth_Code_1892f1e712.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

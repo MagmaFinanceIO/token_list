@@ -1,0 +1,13 @@
+{
+  "name": "COPE on SUI",
+  "symbol": "COPE",
+  "decimals": 6,
+  "coin_type": "0x671cfb96143adcf7616ca733b91a706fb0b43b33d373957ad2545cc8eea6d7da::cope::COPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Poster1_f537ccabfa.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

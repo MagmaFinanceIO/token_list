@@ -1,0 +1,13 @@
+{
+  "name": "Sui Baby Panda",
+  "symbol": "SuiBabyPanda",
+  "decimals": 9,
+  "coin_type": "0xb54b206a5abb28261b17b44a7b9e31d7dd22ad62e9cc64dfaf15117dc40b2213::babypanda::BABYPANDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/11d43aa0-f201-415f-8bd2-acf8855749a6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GINO THE GOBLIN",
+  "symbol": "GTG",
+  "decimals": 6,
+  "coin_type": "0xd7da75e9bc8303ff08e1c7eea4dd847444881eedf7a2e895938a19523608bf93::gtg::GTG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_20250110_121207_Chrome_3142311596.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

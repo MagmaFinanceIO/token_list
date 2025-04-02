@@ -1,0 +1,13 @@
+{
+  "name": "bVardg",
+  "symbol": "BVdg",
+  "decimals": 9,
+  "coin_type": "0x0f211ab8bc43632e1696145928b5765a798f3594078eef79f7c2a924c300e3ad::bvdg::BVDG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1577e322-26f9-4e27-bf4c-72b4abfb15c0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

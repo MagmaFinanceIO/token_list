@@ -1,0 +1,13 @@
+{
+  "name": "MAD BABY",
+  "symbol": "MADBABY",
+  "decimals": 9,
+  "coin_type": "0x2554c4af1fa6c68a0ced3373f0be2d40a69dfbaa3961539b00771982dd096390::madbaby::MADBABY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HtawVAvttVQcTMFNZWLPfLAXc6FncUQcreq4pa1pump.png?size=lg&key=848858",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

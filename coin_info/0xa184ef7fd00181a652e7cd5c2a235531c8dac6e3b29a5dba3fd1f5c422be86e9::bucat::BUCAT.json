@@ -1,0 +1,13 @@
+{
+  "name": "Business Cat",
+  "symbol": "BUCAT",
+  "decimals": 6,
+  "coin_type": "0xa184ef7fd00181a652e7cd5c2a235531c8dac6e3b29a5dba3fd1f5c422be86e9::bucat::BUCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3261fad3-6280-4f0e-86c6-e727bc792748.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

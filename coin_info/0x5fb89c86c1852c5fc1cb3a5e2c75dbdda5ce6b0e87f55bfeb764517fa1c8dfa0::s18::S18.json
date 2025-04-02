@@ -1,0 +1,13 @@
+{
+  "name": "Sui Glock 18",
+  "symbol": "S18",
+  "decimals": 6,
+  "coin_type": "0x5fb89c86c1852c5fc1cb3a5e2c75dbdda5ce6b0e87f55bfeb764517fa1c8dfa0::s18::S18",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_50_acbc036346.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

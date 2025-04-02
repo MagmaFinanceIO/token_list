@@ -1,0 +1,13 @@
+{
+  "name": "Wonton The Bulldog",
+  "symbol": "WONTON",
+  "decimals": 9,
+  "coin_type": "0x1272de32a534eb1ae9332938e39214c14fce1dd03fcb60ce363c36ee4947b190::wonton::WONTON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/qoKMpLjrscX1AAc3Qm92KPtueAbbnLR5A8p3Huhpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

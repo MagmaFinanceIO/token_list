@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "symbol": "IDOG",
+  "decimals": 6,
+  "coin_type": "0x3b88429baaf8f993f2a725e438f38283b314d147dcc91c44418f35efbe4ccfaa::idog::IDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

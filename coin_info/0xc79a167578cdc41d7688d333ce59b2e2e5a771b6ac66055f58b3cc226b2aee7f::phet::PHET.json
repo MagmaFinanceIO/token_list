@@ -1,0 +1,13 @@
+{
+  "name": "Crypto Prophet by SuiAI",
+  "symbol": "PHET",
+  "decimals": 6,
+  "coin_type": "0xc79a167578cdc41d7688d333ce59b2e2e5a771b6ac66055f58b3cc226b2aee7f::phet::PHET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Crypto_Prophet_eb85f96292_c81a2e2d44.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

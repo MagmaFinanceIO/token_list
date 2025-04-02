@@ -1,0 +1,13 @@
+{
+  "name": "Bucket USD",
+  "symbol": "BUCK",
+  "decimals": 9,
+  "coin_type": "0x21535b1dd8d3285dc8486394a9f8c6173c1934185dd8a4c1c194036aaba6d9ba::buck::BUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmYH4seo7K9CiFqHGDmhbZmzewHEapAhN9aqLRA7af2vMW",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

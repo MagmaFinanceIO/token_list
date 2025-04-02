@@ -1,0 +1,13 @@
+{
+  "name": "Doliti",
+  "symbol": "doliti",
+  "decimals": 9,
+  "coin_type": "0xdd21111ec27dd80f1ac7d27004fcaf40f3c694cc52f290a614795da719c77cb5::doliti::DOLITI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/576/298/large/w-_press-suv.jpg?1727936579",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

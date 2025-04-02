@@ -1,0 +1,13 @@
+{
+  "name": "Lambo Coin",
+  "symbol": "LAMBO",
+  "decimals": 6,
+  "coin_type": "0x67815cfb6cb3a1005202be641f8337869e0250c0938eecab321c9aa19132f95f::lambo::LAMBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Whats_App_Image_2025_01_29_at_15_54_11_55e1680bcc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

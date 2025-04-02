@@ -1,0 +1,13 @@
+{
+  "name": "Zenny on Sui",
+  "symbol": "Zenny",
+  "decimals": 9,
+  "coin_type": "0x31d8a83727376ff5c965e1eb404c5ce64df92c49b99e88903943f02c9f016637::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

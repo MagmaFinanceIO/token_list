@@ -1,0 +1,13 @@
+{
+  "name": "CZAI",
+  "symbol": "CZAI",
+  "decimals": 6,
+  "coin_type": "0x190247a548120f8556d0e20bfa1fc8bab2d5af0ef3b8f590579bca6eec889e23::czai::CZAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/CZ_5_f70a15209d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Cheesed",
+  "symbol": "Cheesed",
+  "decimals": 6,
+  "coin_type": "0x5ceddf679b24cac11584387da3bb2b192707e6be3ca8ec090f3fc2f19b0a4027::cheesed::CHEESED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/006960f0-9450-4e22-b047-b87f9a078e5d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

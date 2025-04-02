@@ -1,0 +1,13 @@
+{
+  "name": "Monkey SUI Inu",
+  "symbol": "MSI",
+  "decimals": 9,
+  "coin_type": "0x70f826a8a8f1c4df688a63301d7be2835a3ceadb90360f7bf58ccb594702978d::msi::MSI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmWFrQTsVWXZePSeWu4oLSG9n938vtVsdeqrXHX7QJnREv",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

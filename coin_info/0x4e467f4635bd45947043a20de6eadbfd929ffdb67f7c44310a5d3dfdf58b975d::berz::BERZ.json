@@ -1,0 +1,13 @@
+{
+  "name": "Sui Berz",
+  "symbol": "BERZ",
+  "decimals": 9,
+  "coin_type": "0x4e467f4635bd45947043a20de6eadbfd929ffdb67f7c44310a5d3dfdf58b975d::berz::BERZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0f73fae3-d5e9-4389-acc7-63c81ede49d6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

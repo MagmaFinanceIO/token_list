@@ -1,0 +1,13 @@
+{
+  "name": "Genesis AI",
+  "symbol": "GENAI",
+  "decimals": 6,
+  "coin_type": "0x41600e0db93c40dbca6e2731890635dc8a16137c6bd897f350af8aabfdc77606::genai::GENAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1738338582616.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

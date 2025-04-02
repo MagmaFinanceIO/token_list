@@ -1,0 +1,13 @@
+{
+  "name": "H2+O2=H2O",
+  "symbol": "H2O",
+  "decimals": 9,
+  "coin_type": "0x027c08207166dbb86cb12ad5c64aab9c1cb1bc254969b735011ef29917ebe6b4::H2O::H2O",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://h2ox.xyz/logo_h2o.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

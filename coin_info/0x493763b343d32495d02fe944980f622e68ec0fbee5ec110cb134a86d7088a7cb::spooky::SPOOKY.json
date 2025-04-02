@@ -1,0 +1,13 @@
+{
+  "name": "Spooky Sui",
+  "symbol": "SPOOKY",
+  "decimals": 2,
+  "coin_type": "0x493763b343d32495d02fe944980f622e68ec0fbee5ec110cb134a86d7088a7cb::spooky::SPOOKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/09450be5-2af8-4aaa-8b4d-a1f8c3489b23.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

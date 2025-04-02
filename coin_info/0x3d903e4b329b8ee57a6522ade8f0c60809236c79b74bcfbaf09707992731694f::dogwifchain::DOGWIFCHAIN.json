@@ -1,0 +1,13 @@
+{
+  "name": "Dog Wif Chain",
+  "symbol": "DOGWIFCHAIN",
+  "decimals": 6,
+  "coin_type": "0x3d903e4b329b8ee57a6522ade8f0c60809236c79b74bcfbaf09707992731694f::dogwifchain::DOGWIFCHAIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Whats_App_Image_2024_11_09_at_21_02_23_1_cb2b066adc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

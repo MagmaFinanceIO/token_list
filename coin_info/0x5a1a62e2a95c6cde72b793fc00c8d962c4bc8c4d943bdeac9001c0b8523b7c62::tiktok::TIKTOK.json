@@ -1,0 +1,13 @@
+{
+  "name": "TikTok Coin",
+  "symbol": "TikTok",
+  "decimals": 9,
+  "coin_type": "0x5a1a62e2a95c6cde72b793fc00c8d962c4bc8c4d943bdeac9001c0b8523b7c62::tiktok::TIKTOK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7FiY95UnYpXe2zB22NggrDLU99TH3B3r6NkJqmBZpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

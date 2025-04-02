@@ -1,0 +1,13 @@
+{
+  "name": "LUCKY BULL",
+  "symbol": "LuckyBull",
+  "decimals": 9,
+  "coin_type": "0xea34c221fddc4faef8212d7cb5d1f9c166fb7e963fa2642200bded51d46200ab::luckybull::LUCKYBULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/be8b953b-5635-4f7b-bb37-001f8e44dd2a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

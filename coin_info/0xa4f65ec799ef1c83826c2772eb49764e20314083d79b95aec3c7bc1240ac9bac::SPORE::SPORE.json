@@ -1,0 +1,13 @@
+{
+  "name": "SPORE",
+  "symbol": "SPORE",
+  "decimals": 2,
+  "coin_type": "0xa4f65ec799ef1c83826c2772eb49764e20314083d79b95aec3c7bc1240ac9bac::SPORE::SPORE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/7DPA36nVs2AsTPbVQ1XprEO0o9Qcsa4ZXRo_NnRRRoY?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

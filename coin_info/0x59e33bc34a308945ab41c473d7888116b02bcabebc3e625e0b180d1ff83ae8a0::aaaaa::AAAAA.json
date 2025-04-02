@@ -1,0 +1,13 @@
+{
+  "name": "aaaBeaver",
+  "symbol": "AAAAA",
+  "decimals": 6,
+  "coin_type": "0x59e33bc34a308945ab41c473d7888116b02bcabebc3e625e0b180d1ff83ae8a0::aaaaa::AAAAA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_7abe9db602.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suitoshi Nakamoto",
+  "symbol": "Suitoshi",
+  "decimals": 6,
+  "coin_type": "0x95452684f3d7cb0fac03cf69d6407867cde90b1af194ec8d0e2d60b1b9724bc8::suitoshi::SUITOSHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_12_12_12_29_01_db8cfe208e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

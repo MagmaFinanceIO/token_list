@@ -1,0 +1,13 @@
+{
+  "name": "FrogteusMaximus",
+  "symbol": "FrogteusMaximus",
+  "decimals": 9,
+  "coin_type": "0xab823a42bd9ce1a4330685e3fb8b316d84d8d16317729d1bfb1e358a7a388083::frogteusmaximus::FROGTEUSMAXIMUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c4b64fa7-9606-40bd-8c89-b74511a32aea.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

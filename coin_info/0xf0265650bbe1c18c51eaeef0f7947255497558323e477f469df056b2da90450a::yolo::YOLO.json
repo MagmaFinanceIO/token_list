@@ -1,0 +1,13 @@
+{
+  "name": "Sui YOLO",
+  "symbol": "YOLO",
+  "decimals": 9,
+  "coin_type": "0xf0265650bbe1c18c51eaeef0f7947255497558323e477f469df056b2da90450a::yolo::YOLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/db8df3a8-3341-415b-ab23-730809cbfff0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

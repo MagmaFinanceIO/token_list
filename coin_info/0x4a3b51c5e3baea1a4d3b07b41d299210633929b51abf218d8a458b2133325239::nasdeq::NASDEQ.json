@@ -1,0 +1,13 @@
+{
+  "name": "Nasdeq",
+  "symbol": "NASDEQ",
+  "decimals": 9,
+  "coin_type": "0x4a3b51c5e3baea1a4d3b07b41d299210633929b51abf218d8a458b2133325239::nasdeq::NASDEQ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmZaPk4sdtXt29MJWGgBVHCrfPvbWARozSboFeB7HH4itH",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

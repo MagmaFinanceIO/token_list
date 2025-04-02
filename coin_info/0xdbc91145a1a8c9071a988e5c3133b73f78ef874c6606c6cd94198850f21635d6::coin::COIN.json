@@ -1,0 +1,13 @@
+{
+  "name": "SuiPad",
+  "symbol": "SUIPAD",
+  "decimals": 8,
+  "coin_type": "0xdbc91145a1a8c9071a988e5c3133b73f78ef874c6606c6cd94198850f21635d6::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

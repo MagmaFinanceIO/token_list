@@ -1,0 +1,13 @@
+{
+  "name": "LibertAI",
+  "symbol": "LTAI",
+  "decimals": 6,
+  "coin_type": "0xe76a4507ce0216cb6605bcf3d760ca14c91cee49029950b09f1fc54329f6fda3::ltai::LTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bd5d712a-848b-4b0c-9e33-b6280427e2d9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

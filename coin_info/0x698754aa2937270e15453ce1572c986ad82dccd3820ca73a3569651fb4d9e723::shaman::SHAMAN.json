@@ -1,0 +1,13 @@
+{
+  "name": "Shaman",
+  "symbol": "SHAMAN",
+  "decimals": 9,
+  "coin_type": "0x698754aa2937270e15453ce1572c986ad82dccd3820ca73a3569651fb4d9e723::shaman::SHAMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/828/099/large/liu-xing-qiuzhang-lv-3-0000.jpg?1728612657",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "turtles",
+  "symbol": "Turtles",
+  "decimals": 6,
+  "coin_type": "0x57ecdb0c14aa3ef101ca521bae0e7b984d79bd23cfd7a2a40d9b1563a0204f3a::turtles::TURTLES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_10_15_07_47_048b76fdc8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

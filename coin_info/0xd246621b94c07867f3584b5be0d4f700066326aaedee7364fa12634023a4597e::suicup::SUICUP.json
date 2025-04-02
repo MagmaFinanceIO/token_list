@@ -1,0 +1,13 @@
+{
+  "name": "CupSui",
+  "symbol": "SuiCup",
+  "decimals": 6,
+  "coin_type": "0xd246621b94c07867f3584b5be0d4f700066326aaedee7364fa12634023a4597e::suicup::SUICUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/69469_AB_0_5_F3_E_4_AE_2_87_BD_FCC_43_A043_FA_0_42b3a0c4a9.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

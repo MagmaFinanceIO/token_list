@@ -1,0 +1,13 @@
+{
+  "name": "TrumpDoge",
+  "symbol": "TDO",
+  "decimals": 9,
+  "coin_type": "0xa24c49a912c29e8905aedc9ee8c7438a2569def05c60656ab0bc1f93b43730c6::tdo::TDO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1aa63741-e93f-4e0d-81db-691f301c3b0b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

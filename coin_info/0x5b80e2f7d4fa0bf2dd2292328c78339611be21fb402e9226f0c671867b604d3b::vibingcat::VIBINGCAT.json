@@ -1,0 +1,13 @@
+{
+  "name": "Vibing Cat",
+  "symbol": "VIBINGCAT",
+  "decimals": 9,
+  "coin_type": "0x5b80e2f7d4fa0bf2dd2292328c78339611be21fb402e9226f0c671867b604d3b::vibingcat::VIBINGCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "2AT8r6XVVmPuec62",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

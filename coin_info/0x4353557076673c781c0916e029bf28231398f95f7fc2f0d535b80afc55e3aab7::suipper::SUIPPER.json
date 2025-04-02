@@ -1,0 +1,13 @@
+{
+  "name": "SUIPPER",
+  "symbol": "$SUPP",
+  "decimals": 0,
+  "coin_type": "0x4353557076673c781c0916e029bf28231398f95f7fc2f0d535b80afc55e3aab7::suipper::SUIPPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

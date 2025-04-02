@@ -1,0 +1,13 @@
+{
+  "name": "Chinese Tiktok",
+  "symbol": "REDNOTE",
+  "decimals": 6,
+  "coin_type": "0x7601eb02a29b06513174c507e472ae9cfc4f8147280ae8f94001a5eade407ff3::rednote::REDNOTE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736864948429.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

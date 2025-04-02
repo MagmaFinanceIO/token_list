@@ -1,0 +1,13 @@
+{
+  "name": "Groggo on SUI",
+  "symbol": "GROGGO",
+  "decimals": 6,
+  "coin_type": "0xda0c1e23e7cb0eeb948d8da77900546a0244d43c10007ece804c7b1bbf763bb6::groggo::GROGGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/groggo_200_by_200_d84f8479f5.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

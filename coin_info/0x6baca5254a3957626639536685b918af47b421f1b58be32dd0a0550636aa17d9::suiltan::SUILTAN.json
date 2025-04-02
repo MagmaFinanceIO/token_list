@@ -1,0 +1,13 @@
+{
+  "name": "Suiltan 🤴",
+  "symbol": "SUILTAN",
+  "decimals": 9,
+  "coin_type": "0x6baca5254a3957626639536685b918af47b421f1b58be32dd0a0550636aa17d9::suiltan::SUILTAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3f389759-19f1-4836-8587-c32edfde9fae.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

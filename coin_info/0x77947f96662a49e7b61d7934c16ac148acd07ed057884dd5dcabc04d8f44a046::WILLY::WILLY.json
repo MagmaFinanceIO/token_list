@@ -1,0 +1,13 @@
+{
+  "name": "WILLY",
+  "symbol": "WILLY",
+  "decimals": 9,
+  "coin_type": "0x77947f96662a49e7b61d7934c16ac148acd07ed057884dd5dcabc04d8f44a046::WILLY::WILLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

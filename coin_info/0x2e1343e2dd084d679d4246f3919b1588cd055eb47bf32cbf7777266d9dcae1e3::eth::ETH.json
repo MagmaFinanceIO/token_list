@@ -1,0 +1,13 @@
+{
+  "name": "ELON TRUMP VS HARRIS",
+  "symbol": "ETH",
+  "decimals": 9,
+  "coin_type": "0x2e1343e2dd084d679d4246f3919b1588cd055eb47bf32cbf7777266d9dcae1e3::eth::ETH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x12465d8753b9e2a9bb7bcedbca0bb39446600e70.png?size=lg&key=4ea4c8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Official Elon Coin on Sui",
+  "symbol": "ELONSUI",
+  "decimals": 9,
+  "coin_type": "0x4436d24f2231515cb54d2cb2c35368c546455390daef8c371f8037f217538a5b::elonsui::ELONSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmXgt6TEGac8Mx8EKKYR9mjjJLmvd9BBVdyRYJzw3kk3mu",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "EXTREMELY RETARDED PNUT",
+  "symbol": "XRPNUT",
+  "decimals": 9,
+  "coin_type": "0x58c076ac6ba8773ec8733e78890638dda81c42b7ae60374be99ac7a49963e60d::xrpnut::XRPNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EqNBsZ6rckymzTNzmx3r1DppQhChtEW5LYKT8TpWpump.png?size=lg&key=bf7627",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

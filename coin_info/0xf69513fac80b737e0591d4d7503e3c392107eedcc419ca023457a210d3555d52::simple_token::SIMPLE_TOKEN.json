@@ -1,0 +1,13 @@
+{
+  "name": "TRUDONE",
+  "symbol": "TRUDONE",
+  "decimals": 9,
+  "coin_type": "0xf69513fac80b737e0591d4d7503e3c392107eedcc419ca023457a210d3555d52::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

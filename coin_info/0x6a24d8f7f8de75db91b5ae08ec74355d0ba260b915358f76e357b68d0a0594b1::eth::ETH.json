@@ -1,0 +1,13 @@
+{
+  "name": "BUTERIN",
+  "symbol": "ETH",
+  "decimals": 9,
+  "coin_type": "0x6a24d8f7f8de75db91b5ae08ec74355d0ba260b915358f76e357b68d0a0594b1::eth::ETH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FjowVf4Q3grrB9ZCSuV3iXfamCT9D9J7cBEBFDLzpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

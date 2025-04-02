@@ -1,0 +1,13 @@
+{
+  "name": "PopKid",
+  "symbol": "POPKID",
+  "decimals": 6,
+  "coin_type": "0xcee0a23659a3667d5e2af9d2fc0d5142de65998963bd1dbcdec1e7371fd3f49e::popkid::POPKID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_17_14_09_06_eb826764b0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

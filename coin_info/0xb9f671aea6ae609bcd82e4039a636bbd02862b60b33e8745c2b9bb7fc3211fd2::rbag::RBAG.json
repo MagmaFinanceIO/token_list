@@ -1,0 +1,13 @@
+{
+  "name": "RegardWifBags",
+  "symbol": "RBAG",
+  "decimals": 9,
+  "coin_type": "0xb9f671aea6ae609bcd82e4039a636bbd02862b60b33e8745c2b9bb7fc3211fd2::rbag::RBAG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ae35e91f-8384-4552-8d09-70c4e6fce3c5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

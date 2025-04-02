@@ -1,0 +1,13 @@
+{
+  "name": "DOKY",
+  "symbol": "Doky",
+  "decimals": 6,
+  "coin_type": "0x5a8b2b7b7c2c25a4090ced259e21bfabef9a274824bd2a9c56bc7c1a80ce51ec::doky::DOKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/20241105_155233_b27329aa99.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mommy Lofi",
+  "symbol": "Mommylofi",
+  "decimals": 6,
+  "coin_type": "0x0456f40c8948de70ad74aaeecae1ad448bea3a9f185580f48fe7f7ef020b5787::mommylofi::MOMMYLOFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735735466812.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

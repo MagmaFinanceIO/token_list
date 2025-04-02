@@ -1,0 +1,13 @@
+{
+  "name": "Pweanut",
+  "symbol": "PWNUT",
+  "decimals": 9,
+  "coin_type": "0xe9adb19ed53e3beece7e1f7dddd4cab773cec5b2bd48c35318bee2b91e60b107::pwnut::PWNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmPyxnYqVYZ6LWa7BBQAszQBGp1DZkeRLYydLRsxSCSYG8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

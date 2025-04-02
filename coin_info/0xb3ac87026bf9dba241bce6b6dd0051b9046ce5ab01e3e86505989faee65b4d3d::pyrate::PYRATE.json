@@ -1,0 +1,13 @@
+{
+  "name": "PYRATE GANG",
+  "symbol": "PYRATE",
+  "decimals": 6,
+  "coin_type": "0xb3ac87026bf9dba241bce6b6dd0051b9046ce5ab01e3e86505989faee65b4d3d::pyrate::PYRATE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737549898732.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

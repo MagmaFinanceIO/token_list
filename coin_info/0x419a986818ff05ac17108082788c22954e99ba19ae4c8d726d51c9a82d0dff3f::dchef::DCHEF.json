@@ -1,0 +1,13 @@
+{
+  "name": "DChefSui",
+  "symbol": "DChef",
+  "decimals": 9,
+  "coin_type": "0x419a986818ff05ac17108082788c22954e99ba19ae4c8d726d51c9a82d0dff3f::dchef::DCHEF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Eoo3LNvzyMm5K1jfwY7PkSdxBSBgXYJJ7DERTdFBpump.png?size=lg&key=702c8a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Scroll",
+  "symbol": "SCR",
+  "decimals": 9,
+  "coin_type": "0xaf8b3cb36c448e665ed72d9e1e36b053050a2039b119fb3aa868b86a440d055d::scr::SCR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

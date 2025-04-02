@@ -1,0 +1,13 @@
+{
+  "name": "CAPO",
+  "symbol": "CAPO",
+  "decimals": 9,
+  "coin_type": "0x3fddda62e0401074242097515fdd890bcb5c6c41054edba99d5d45cd7c40948a::CAPO::CAPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

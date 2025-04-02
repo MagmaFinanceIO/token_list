@@ -1,0 +1,13 @@
+{
+  "name": "Loud Mouth",
+  "symbol": "NOISY",
+  "decimals": 9,
+  "coin_type": "0xe1c43930d6a3e5f35c76ac163f88af27acf55f2520f822db49a24681d52f2d0d::noisy::NOISY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/310b3fda-99d1-4d5c-83d9-ef69a9a1defd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

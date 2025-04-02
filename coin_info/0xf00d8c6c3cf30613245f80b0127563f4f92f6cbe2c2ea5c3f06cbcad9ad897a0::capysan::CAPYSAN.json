@@ -1,0 +1,13 @@
+{
+  "name": "Capybara Santa On Sui",
+  "symbol": "CAPYSAN",
+  "decimals": 9,
+  "coin_type": "0xf00d8c6c3cf30613245f80b0127563f4f92f6cbe2c2ea5c3f06cbcad9ad897a0::capysan::CAPYSAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9637743c-6b9b-42b6-bd04-5c3a617c2076.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

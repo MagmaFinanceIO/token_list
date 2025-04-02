@@ -1,0 +1,13 @@
+{
+  "name": "Barking Dog",
+  "symbol": "BARK",
+  "decimals": 9,
+  "coin_type": "0x2c5231cfc4af69f41af34da673541e9401fd38e377679e78c9900253ae70af97::bark::BARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HWcmFw19wHSuxJFXz4xSzLqVz9sAFykNYdBc4eGfpump.png?size=lg&key=41c6de",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

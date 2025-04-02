@@ -1,0 +1,13 @@
+{
+  "name": "Sui Ratana",
+  "symbol": "RATANA",
+  "decimals": 6,
+  "coin_type": "0x513b53f66197223cecb1ebb3d9489cbe7df5c297cdb639f41dae8171d30bcc7b::ratana::RATANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000012553_803a3703a0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

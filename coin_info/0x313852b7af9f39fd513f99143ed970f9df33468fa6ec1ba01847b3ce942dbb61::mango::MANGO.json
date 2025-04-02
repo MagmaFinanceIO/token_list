@@ -1,0 +1,13 @@
+{
+  "name": "Mango Mango Mango",
+  "symbol": "Mango",
+  "decimals": 9,
+  "coin_type": "0x313852b7af9f39fd513f99143ed970f9df33468fa6ec1ba01847b3ce942dbb61::mango::MANGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AR93GKHVzGKsY5MVUur8S9yq2KucVL62job4qsdhpump.png?size=lg&key=6b601b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

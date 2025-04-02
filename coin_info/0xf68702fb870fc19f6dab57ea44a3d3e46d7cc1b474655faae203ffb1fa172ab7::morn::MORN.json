@@ -1,0 +1,13 @@
+{
+  "name": "MORN",
+  "symbol": "morn",
+  "decimals": 9,
+  "coin_type": "0xf68702fb870fc19f6dab57ea44a3d3e46d7cc1b474655faae203ffb1fa172ab7::morn::MORN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

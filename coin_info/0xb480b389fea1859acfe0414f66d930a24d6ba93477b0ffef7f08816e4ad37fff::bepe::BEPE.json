@@ -1,0 +1,13 @@
+{
+  "name": "BEPE",
+  "symbol": "BEPE",
+  "decimals": 9,
+  "coin_type": "0xb480b389fea1859acfe0414f66d930a24d6ba93477b0ffef7f08816e4ad37fff::bepe::BEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x10f434b3d1cc13a4a79b062dcc25706f64d10d47.png?size=lg&key=846d3a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

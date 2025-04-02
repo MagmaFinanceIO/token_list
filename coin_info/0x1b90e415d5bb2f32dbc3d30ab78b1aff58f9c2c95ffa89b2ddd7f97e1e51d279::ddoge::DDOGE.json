@@ -1,0 +1,13 @@
+{
+  "name": "Dumble Doge",
+  "symbol": "dDoge",
+  "decimals": 9,
+  "coin_type": "0x1b90e415d5bb2f32dbc3d30ab78b1aff58f9c2c95ffa89b2ddd7f97e1e51d279::ddoge::DDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmemW2e8FieUfqv6bUgDvBb6jjd7LHyYVxf5aRHqWvXzv8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BUBBLES",
+  "symbol": "BUBBLES",
+  "decimals": 9,
+  "coin_type": "0x71431532ea72f2e8e4810c1046d4409c10fef7533651de610f42d27e32e2e575::bubbles::BUBBLES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a136a3f8-d729-4009-9f03-14a6b44fcd20.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

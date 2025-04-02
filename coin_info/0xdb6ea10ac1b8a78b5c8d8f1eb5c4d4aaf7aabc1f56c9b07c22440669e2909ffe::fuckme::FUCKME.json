@@ -1,0 +1,13 @@
+{
+  "name": "Tood",
+  "symbol": "FUCKME",
+  "decimals": 9,
+  "coin_type": "0xdb6ea10ac1b8a78b5c8d8f1eb5c4d4aaf7aabc1f56c9b07c22440669e2909ffe::fuckme::FUCKME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://waterpump.fun/api/file/5929ed72c70a4ba68a9316ed91f592f7.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

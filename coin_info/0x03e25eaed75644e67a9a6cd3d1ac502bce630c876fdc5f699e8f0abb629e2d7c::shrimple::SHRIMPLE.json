@@ -1,0 +1,13 @@
+{
+  "name": "Shrimple On Sui",
+  "symbol": "SHRIMPLE",
+  "decimals": 6,
+  "coin_type": "0x03e25eaed75644e67a9a6cd3d1ac502bce630c876fdc5f699e8f0abb629e2d7c::shrimple::SHRIMPLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/20241003_045507_06d6ace431.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

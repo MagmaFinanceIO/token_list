@@ -1,0 +1,13 @@
+{
+  "name": "SINVERSE",
+  "symbol": "SIN",
+  "decimals": 6,
+  "coin_type": "0xb7cc8d3abc4dd0e33c8c604d9261a2ea9f1de0690bda5c1257674cf87c1d82f9::sin::SIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_1a99ce8895.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

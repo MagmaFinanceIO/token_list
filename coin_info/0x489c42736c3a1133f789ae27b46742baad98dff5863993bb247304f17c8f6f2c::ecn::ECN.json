@@ -1,0 +1,13 @@
+{
+  "name": "THE ECONOMIST COIN",
+  "symbol": "ECN",
+  "decimals": 9,
+  "coin_type": "0x489c42736c3a1133f789ae27b46742baad98dff5863993bb247304f17c8f6f2c::ecn::ECN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8CJY4fpowPJSKuZavWzcNzPRNDtoMLupnpifKSXgmpbf.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

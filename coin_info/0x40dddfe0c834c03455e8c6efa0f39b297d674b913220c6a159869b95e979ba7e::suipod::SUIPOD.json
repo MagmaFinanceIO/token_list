@@ -1,0 +1,13 @@
+{
+  "name": "POD",
+  "symbol": "SUIPOD",
+  "decimals": 10,
+  "coin_type": "0x40dddfe0c834c03455e8c6efa0f39b297d674b913220c6a159869b95e979ba7e::suipod::SUIPOD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

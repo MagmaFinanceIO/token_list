@@ -1,0 +1,13 @@
+{
+  "name": "Sniper AI",
+  "symbol": "SNIPER",
+  "decimals": 9,
+  "coin_type": "0x71a456929ab1bcad7c52cb8ce495be3a928ef94486605893d3c512c3726c4a04::sniper::SNIPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3MA25YiqyaGUJ7GVZSsNYrJ3URqraWMmLQ6k8qrvpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

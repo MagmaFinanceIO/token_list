@@ -1,0 +1,13 @@
+{
+  "name": "Spielberg AI",
+  "symbol": "SpielbergAI",
+  "decimals": 6,
+  "coin_type": "0xa17330b23091292e6c211098174a2015fc27e164b5932b75552755ed5fd51eea::spielbergai::SPIELBERGAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1229_6_a3b4a8e69c.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

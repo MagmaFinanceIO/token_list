@@ -1,0 +1,13 @@
+{
+  "name": "Sui Baby Tiger",
+  "symbol": "SBT",
+  "decimals": 6,
+  "coin_type": "0xa62a91276a833d990d45b25b0b5cc3bc3d7fb79bc3b814161103483df7e918cf::sbt::SBT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731161017089.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

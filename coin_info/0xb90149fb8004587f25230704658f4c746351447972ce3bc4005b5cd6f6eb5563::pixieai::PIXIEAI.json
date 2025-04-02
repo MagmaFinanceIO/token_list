@@ -1,0 +1,13 @@
+{
+  "name": "Pixie AI",
+  "symbol": "PIXIEAI",
+  "decimals": 9,
+  "coin_type": "0xb90149fb8004587f25230704658f4c746351447972ce3bc4005b5cd6f6eb5563::pixieai::PIXIEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmfLbDNYsbtQEHMecwLi4FKxNszGarBrF8NhcECmGrD5T5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

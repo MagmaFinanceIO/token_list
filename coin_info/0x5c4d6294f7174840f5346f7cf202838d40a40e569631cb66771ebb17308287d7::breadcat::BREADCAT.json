@@ -1,0 +1,13 @@
+{
+  "name": "Bread Cat",
+  "symbol": "BREADCAT",
+  "decimals": 9,
+  "coin_type": "0x5c4d6294f7174840f5346f7cf202838d40a40e569631cb66771ebb17308287d7::breadcat::BREADCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6d3a5984-35c0-490e-9336-10d47ad0e383.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Agent AiKo",
+  "symbol": "AIKO",
+  "decimals": 9,
+  "coin_type": "0x4825f10f48b54b57fc27a86d6f8d06945173813d951ed5af122ccc1dc7d1b549::aiko::AIKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e283e88b-3a61-4108-9ef1-c15183e2a9e1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

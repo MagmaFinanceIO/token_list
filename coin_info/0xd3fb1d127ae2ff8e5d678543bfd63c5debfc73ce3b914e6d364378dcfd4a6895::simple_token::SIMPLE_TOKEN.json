@@ -1,0 +1,13 @@
+{
+  "name": "RUGTEK",
+  "symbol": "RUGTEK",
+  "decimals": 9,
+  "coin_type": "0xd3fb1d127ae2ff8e5d678543bfd63c5debfc73ce3b914e6d364378dcfd4a6895::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

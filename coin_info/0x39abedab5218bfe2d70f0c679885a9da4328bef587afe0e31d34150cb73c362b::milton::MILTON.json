@@ -1,0 +1,13 @@
+{
+  "name": "ratomilton",
+  "symbol": "MILTON",
+  "decimals": 9,
+  "coin_type": "0x39abedab5218bfe2d70f0c679885a9da4328bef587afe0e31d34150cb73c362b::milton::MILTON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FFXsbx4rPwM8CyKKZiPU3YS9xFFirww6QEzb6KCCpump.png?claimId=84s4xM-NTox2BtVi",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

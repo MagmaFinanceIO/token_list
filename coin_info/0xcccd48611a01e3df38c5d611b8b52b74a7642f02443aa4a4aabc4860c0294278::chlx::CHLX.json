@@ -1,0 +1,13 @@
+{
+  "name": "CHILLAXO",
+  "symbol": "CHLX",
+  "decimals": 6,
+  "coin_type": "0xcccd48611a01e3df38c5d611b8b52b74a7642f02443aa4a4aabc4860c0294278::chlx::CHLX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/CHLX_TOKEN_ICON_45a31f8df1.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

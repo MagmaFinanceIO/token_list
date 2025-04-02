@@ -1,0 +1,13 @@
+{
+  "name": "PEPE CZ CAT BOY",
+  "symbol": "PEPEZ",
+  "decimals": 9,
+  "coin_type": "0x950c10f5b79b963e0d61239dcdfb87f108a622b5101a4cc80f8128333d0cde87::pepez::PEPEZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cb7cb8e7-3ae2-4c40-8b1f-3b964e02c0b3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

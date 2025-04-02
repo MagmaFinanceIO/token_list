@@ -1,0 +1,13 @@
+{
+  "name": "The Nutfather",
+  "symbol": "DON",
+  "decimals": 6,
+  "coin_type": "0xbcfb8e54ef44ee2e0fde96796529a81dfd1e7ef55df55fd656d4fa7e48a109fc::don::DON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2025_01_17_00_19_33_b6f64fba16.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Blue Eye Husky",
+  "symbol": "BEH",
+  "decimals": 6,
+  "coin_type": "0x519b183c311c00ef6039d3fecdf4221e98c7557f5fa7cb2d618ada8ec3ed9192::beh::BEH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/bb800e8a32b65606c3a8687df447a027_752635e316.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

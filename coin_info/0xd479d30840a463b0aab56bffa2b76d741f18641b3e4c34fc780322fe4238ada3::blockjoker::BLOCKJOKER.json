@@ -1,0 +1,13 @@
+{
+  "name": "SuiJoker",
+  "symbol": "BlockJoker",
+  "decimals": 6,
+  "coin_type": "0xd479d30840a463b0aab56bffa2b76d741f18641b3e4c34fc780322fe4238ada3::blockjoker::BLOCKJOKER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/222_41039a3411.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Football Arena Sui",
+  "symbol": "FASui",
+  "decimals": 6,
+  "coin_type": "0x27c7ae4f24429af0a043770fe8259d119a0977e715350438c39ad0e95c05fa5c::fasui::FASUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/BA_4_E96_E8_84_F0_47_F2_A92_A_9995_AC_118_AFD_f9ca5f15dd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

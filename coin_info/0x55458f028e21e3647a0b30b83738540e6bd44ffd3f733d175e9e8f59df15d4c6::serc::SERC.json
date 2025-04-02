@@ -1,0 +1,13 @@
+{
+  "name": "serebro_turdcoin",
+  "symbol": "SERC",
+  "decimals": 9,
+  "coin_type": "0x55458f028e21e3647a0b30b83738540e6bd44ffd3f733d175e9e8f59df15d4c6::serc::SERC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9BSbmsxZ3wk6x3H1CgTjj4ErhgroRzxP76RTKpAvpump.png?size=lg&key=0a018c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

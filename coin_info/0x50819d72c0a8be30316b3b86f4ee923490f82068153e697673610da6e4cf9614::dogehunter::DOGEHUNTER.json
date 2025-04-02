@@ -1,0 +1,13 @@
+{
+  "name": "Doge the Bounty Hunter",
+  "symbol": "DOGEHUNTER",
+  "decimals": 9,
+  "coin_type": "0x50819d72c0a8be30316b3b86f4ee923490f82068153e697673610da6e4cf9614::dogehunter::DOGEHUNTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DvebBWPW1t2Cjfxq3M7SRPwqWJ2xdHinwWHSTWTapump.png?size=lg&key=32fe07",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "JadyCat",
+  "symbol": "JadyCat",
+  "decimals": 9,
+  "coin_type": "0xd0918f3d38279f4b5dc59a470f80ee8225254c518fe8bc42093ec0cba7952a4d::jadycat::JADYCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9d27075b-99a2-4a55-a18b-f0c4faec732a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

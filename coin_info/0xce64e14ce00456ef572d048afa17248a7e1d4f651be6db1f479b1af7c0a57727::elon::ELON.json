@@ -1,0 +1,13 @@
+{
+  "name": "Elon Musk Real",
+  "symbol": "ELON",
+  "decimals": 6,
+  "coin_type": "0xce64e14ce00456ef572d048afa17248a7e1d4f651be6db1f479b1af7c0a57727::elon::ELON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737369674386.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

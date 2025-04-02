@@ -1,0 +1,13 @@
+{
+  "name": "HOP TOAST CAT",
+  "symbol": "TOAST",
+  "decimals": 6,
+  "coin_type": "0xa866581c68a353b8112510c43f86bb67856c850b488819aea6cf0c2f2b0a6834::toast::TOAST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmVLxXBdm3ijhZ3mEQZtaX8H3H6SgZdRyCfDfjurndQmHP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HAMU Coin",
+  "symbol": "HAMU",
+  "decimals": 9,
+  "coin_type": "0xe4d4fec0ea1787306f7842482bb26fe8190243e7126675eedac197cf5ef2e986::hamu::HAMU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/eaf63976-cd53-448c-a0ec-b50d0a2b5a04.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

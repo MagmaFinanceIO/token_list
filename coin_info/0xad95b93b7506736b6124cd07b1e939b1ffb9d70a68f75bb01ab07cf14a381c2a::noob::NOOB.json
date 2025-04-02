@@ -1,0 +1,13 @@
+{
+  "name": "noob",
+  "symbol": "noob",
+  "decimals": 9,
+  "coin_type": "0xad95b93b7506736b6124cd07b1e939b1ffb9d70a68f75bb01ab07cf14a381c2a::noob::NOOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmP7o4pdP6jdZRaU4CtDBE3Hhyq28WARGEarQZHcPp39ht",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

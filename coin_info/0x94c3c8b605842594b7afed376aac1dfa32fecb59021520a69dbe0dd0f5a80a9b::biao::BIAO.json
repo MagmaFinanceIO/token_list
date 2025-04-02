@@ -1,0 +1,13 @@
+{
+  "name": "SuiBiaoQing",
+  "symbol": "BIAO",
+  "decimals": 6,
+  "coin_type": "0x94c3c8b605842594b7afed376aac1dfa32fecb59021520a69dbe0dd0f5a80a9b::biao::BIAO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Picsart_24_10_08_02_56_21_578_12c54d5724.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

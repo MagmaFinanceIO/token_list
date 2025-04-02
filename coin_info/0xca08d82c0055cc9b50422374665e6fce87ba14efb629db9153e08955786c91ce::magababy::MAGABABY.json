@@ -1,0 +1,13 @@
+{
+  "name": "MAGA BABY",
+  "symbol": "MAGABABY",
+  "decimals": 6,
+  "coin_type": "0xca08d82c0055cc9b50422374665e6fce87ba14efb629db9153e08955786c91ce::magababy::MAGABABY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_10_27_010455_e034d2651d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

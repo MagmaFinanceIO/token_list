@@ -1,0 +1,13 @@
+{
+  "name": "GOATS",
+  "symbol": "GOAT",
+  "decimals": 6,
+  "coin_type": "0xf1bea165b26f29ba6c413bde0d9ca8f2e04be658e361b4daffd6c82f8888a898::goat::GOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/jw_Zu_T3_OI_400x400_ef9a54de16.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

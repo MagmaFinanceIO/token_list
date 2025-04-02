@@ -1,0 +1,13 @@
+{
+  "name": "SuiMooch",
+  "symbol": "SUIMOOCH",
+  "decimals": 6,
+  "coin_type": "0xd6064603ca353f05305fe1e0702e693314377143895d24f26d3b0557fab7fe39::suimooch::SUIMOOCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://suimooch.com/coinlogo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

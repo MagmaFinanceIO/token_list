@@ -1,0 +1,13 @@
+{
+  "name": "VAULT AI",
+  "symbol": "VAULTAI",
+  "decimals": 9,
+  "coin_type": "0x6bf850c12fcf14b7f721b6b2ca866709c2079be6b91c8e2cecfc707c01e6a511::vaultai::VAULTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FUvPaVyUo2qJyGWTJY1PdKzAe9qAVYbo7VRmF3hEpump.png?size=lg&key=a79c82",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

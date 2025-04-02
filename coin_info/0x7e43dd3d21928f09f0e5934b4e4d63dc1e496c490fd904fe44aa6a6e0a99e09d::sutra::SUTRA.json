@@ -1,0 +1,13 @@
+{
+  "name": "Sutra Rebirth by SuiAI",
+  "symbol": "SUTRA",
+  "decimals": 6,
+  "coin_type": "0x7e43dd3d21928f09f0e5934b4e4d63dc1e496c490fd904fe44aa6a6e0a99e09d::sutra::SUTRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/B2_C69715_24_D8_44_F0_A367_8_AD_0_A932_F13_A_259a10b86b.JPEG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

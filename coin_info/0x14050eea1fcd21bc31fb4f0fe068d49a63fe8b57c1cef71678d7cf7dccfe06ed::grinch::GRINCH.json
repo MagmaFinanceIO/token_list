@@ -1,0 +1,13 @@
+{
+  "name": "GRINCH",
+  "symbol": "GRINCH",
+  "decimals": 9,
+  "coin_type": "0x14050eea1fcd21bc31fb4f0fe068d49a63fe8b57c1cef71678d7cf7dccfe06ed::grinch::GRINCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/F2JLbzaA8tavGNpJSYGinXth3JEB8xrPXDwJ78sTpump.png?size=lg&key=5481ea",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

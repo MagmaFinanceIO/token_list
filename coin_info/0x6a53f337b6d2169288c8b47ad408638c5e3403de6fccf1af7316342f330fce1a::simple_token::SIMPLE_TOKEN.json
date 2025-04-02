@@ -1,0 +1,13 @@
+{
+  "name": "SUIBULL",
+  "symbol": "SUIBULL",
+  "decimals": 9,
+  "coin_type": "0x6a53f337b6d2169288c8b47ad408638c5e3403de6fccf1af7316342f330fce1a::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

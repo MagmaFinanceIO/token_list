@@ -1,0 +1,13 @@
+{
+  "name": "Money Tree",
+  "symbol": "MONEY TREE",
+  "decimals": 9,
+  "coin_type": "0xc3ea471e114e568225169a290ecfccbfeaa5f3fa15e06300533410f0dd7e730d::money_tree::MONEY_TREE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3892f423-7016-40d3-ae89-e812303b10ed.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

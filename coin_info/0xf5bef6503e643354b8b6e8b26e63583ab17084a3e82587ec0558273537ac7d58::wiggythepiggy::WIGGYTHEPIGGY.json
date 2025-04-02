@@ -1,0 +1,13 @@
+{
+  "name": "Wiggy The Piggy",
+  "symbol": "WIGGY",
+  "decimals": 9,
+  "coin_type": "0xf5bef6503e643354b8b6e8b26e63583ab17084a3e82587ec0558273537ac7d58::wiggythepiggy::WIGGYTHEPIGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/365fd673-f768-4f68-9ca4-c06e28fbdafc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

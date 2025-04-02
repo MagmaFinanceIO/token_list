@@ -1,0 +1,13 @@
+{
+  "name": "Suilama",
+  "symbol": "Suilama",
+  "decimals": 9,
+  "coin_type": "0xdf1cf1fa46e9ca8b86054401a2a755439434a1bc92f7b9e00e353d8d337802cc::suilama::SUILAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6c7d6777-d283-44ef-a49e-d24e69062153.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

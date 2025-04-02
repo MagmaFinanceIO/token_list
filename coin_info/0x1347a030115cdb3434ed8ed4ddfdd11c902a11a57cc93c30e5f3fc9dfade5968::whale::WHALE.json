@@ -1,0 +1,13 @@
+{
+  "name": "Whale",
+  "symbol": "WHALE",
+  "decimals": 9,
+  "coin_type": "0x1347a030115cdb3434ed8ed4ddfdd11c902a11a57cc93c30e5f3fc9dfade5968::whale::WHALE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/71f88b3a-1c1e-4ac1-9a24-8aa91a0f4823.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

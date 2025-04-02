@@ -1,0 +1,13 @@
+{
+  "name": "NYANCAT",
+  "symbol": "NYAN",
+  "decimals": 6,
+  "coin_type": "0x12bc9dc243543c73de0d46672d3778483c77c570c3b61dc243a2447dcb6a3eaf::nyan::NYAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/INSTA_POST_111bf8f501.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

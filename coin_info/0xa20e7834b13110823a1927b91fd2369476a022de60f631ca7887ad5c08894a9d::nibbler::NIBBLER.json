@@ -1,0 +1,13 @@
+{
+  "name": "Nibbler",
+  "symbol": "NIBBLER",
+  "decimals": 9,
+  "coin_type": "0xa20e7834b13110823a1927b91fd2369476a022de60f631ca7887ad5c08894a9d::nibbler::NIBBLER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2Ykurvb1oNKZTGAuRcpENXoQNnTM9hd96yQ7SrWvv1YD.png?size=lg&key=14ba25",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

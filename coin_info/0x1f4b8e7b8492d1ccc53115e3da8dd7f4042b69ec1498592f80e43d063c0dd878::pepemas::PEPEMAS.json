@@ -1,0 +1,13 @@
+{
+  "name": "Merry Pepemas",
+  "symbol": "PEPEMAS",
+  "decimals": 9,
+  "coin_type": "0x1f4b8e7b8492d1ccc53115e3da8dd7f4042b69ec1498592f80e43d063c0dd878::pepemas::PEPEMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3TqFMpBN7YLaPzLb3xW6XNqVBAdrMqWWmnoRsMyZ54F9.png?size=lg&key=5f7131",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

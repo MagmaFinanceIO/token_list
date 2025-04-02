@@ -1,0 +1,13 @@
+{
+  "name": "Flame Token",
+  "symbol": "FLAME",
+  "decimals": 6,
+  "coin_type": "0x247a6d271810efbe80943433e84b9360e2f976fce89e7c19dc680f5aae8738e2::flame::FLAME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://flameswap.io/assets/coins/FLAME.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

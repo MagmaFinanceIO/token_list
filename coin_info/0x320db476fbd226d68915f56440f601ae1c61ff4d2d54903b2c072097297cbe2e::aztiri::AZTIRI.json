@@ -1,0 +1,13 @@
+{
+  "name": "Aztiri",
+  "symbol": "AZTIRI",
+  "decimals": 9,
+  "coin_type": "0x320db476fbd226d68915f56440f601ae1c61ff4d2d54903b2c072097297cbe2e::aztiri::AZTIRI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/672/048/large/choi-hye-rim-heart04.jpg?1728221583",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

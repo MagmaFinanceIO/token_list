@@ -1,0 +1,13 @@
+{
+  "name": "Twromp",
+  "symbol": "TWROMP",
+  "decimals": 6,
+  "coin_type": "0xca516ae81979a9784986a5cdba48264a0f4b3d911b6287a16f6d51b2e6c24f7c::twromp::TWROMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731419970578.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

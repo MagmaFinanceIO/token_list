@@ -1,0 +1,13 @@
+{
+  "name": "ondaxbt",
+  "symbol": "ONDA",
+  "decimals": 9,
+  "coin_type": "0xdf7f1208c2833f36b1bd31baf5639666ea01a55ec83a60c6895a82d7a87ef4c0::onda::ONDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CJRXkuaDcnXpPB7yEYw5uRp4F9j57DdzmmJyp37upump.png?size=lg&key=079a41",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

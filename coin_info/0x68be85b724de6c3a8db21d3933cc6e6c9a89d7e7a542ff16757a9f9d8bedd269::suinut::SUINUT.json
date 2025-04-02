@@ -1,0 +1,13 @@
+{
+  "name": "SUI NUT",
+  "symbol": "SUINUT",
+  "decimals": 9,
+  "coin_type": "0x68be85b724de6c3a8db21d3933cc6e6c9a89d7e7a542ff16757a9f9d8bedd269::suinut::SUINUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BPmyWCdetMPsvDx1xw4nNv5JanGdxQ16DXq5as9Dpump.png?size=lg&key=a1ecfe",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

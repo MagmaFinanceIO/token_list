@@ -1,0 +1,13 @@
+{
+  "name": "SUICY",
+  "symbol": "SUICY",
+  "decimals": 6,
+  "coin_type": "0x6091c58bb85835fa4f6113d70590a830052f7724c5a5d5383b8938218fb3c6df::suicy::SUICY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.okx.com/cdn/web3/currency/token/784-0x8989c726bf1ea8736919e41938f3801e286bc71d9612bfe250703232a375eaab::suicy::SUICY-96.png/type=default_350_0?v=1735502689979&x-oss-process=image/format,webp/ignore-error,1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

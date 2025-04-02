@@ -1,0 +1,13 @@
+{
+  "name": "RoSui",
+  "symbol": "ROSUI",
+  "decimals": 6,
+  "coin_type": "0xc81e3b0c0f96e3ed0b1afe63523e7e439d9643fd29bbccc1247fa39250d89e69::rosui::ROSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730962781659.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

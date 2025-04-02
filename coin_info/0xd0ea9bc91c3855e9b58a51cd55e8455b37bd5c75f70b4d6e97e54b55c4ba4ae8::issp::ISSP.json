@@ -1,0 +1,13 @@
+{
+  "name": "ISSP Coin",
+  "symbol": "ISSP",
+  "decimals": 6,
+  "coin_type": "0xd0ea9bc91c3855e9b58a51cd55e8455b37bd5c75f70b4d6e97e54b55c4ba4ae8::issp::ISSP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

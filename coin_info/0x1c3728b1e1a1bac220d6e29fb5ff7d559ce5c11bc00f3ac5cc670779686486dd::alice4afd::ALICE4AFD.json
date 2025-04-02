@@ -1,0 +1,13 @@
+{
+  "name": "Alice4AfD",
+  "symbol": "Alice4AfD",
+  "decimals": 9,
+  "coin_type": "0x1c3728b1e1a1bac220d6e29fb5ff7d559ce5c11bc00f3ac5cc670779686486dd::alice4afd::ALICE4AFD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4AcYXDMsTQvTyAhBjWKP7rYK8eL8mF1iueJNQADtpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

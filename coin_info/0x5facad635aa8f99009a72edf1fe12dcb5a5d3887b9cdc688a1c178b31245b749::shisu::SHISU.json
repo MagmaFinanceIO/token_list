@@ -1,0 +1,13 @@
+{
+  "name": "SuiShiba",
+  "symbol": "SHISU",
+  "decimals": 9,
+  "coin_type": "0x5facad635aa8f99009a72edf1fe12dcb5a5d3887b9cdc688a1c178b31245b749::shisu::SHISU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4595dd02-8e4d-4e57-8c9a-f46958adef99.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Keke The Frog",
+  "symbol": "KEKE",
+  "decimals": 9,
+  "coin_type": "0x0b363f261cd014b9c660645c8638f1c74cd8d32f7e428a364a0d1d49bbadd08a::keke::KEKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HXziT5AzwNfts8Cac7tCvVc6PXeyvhvLCwLaptppump.png?size=lg&key=8340d3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

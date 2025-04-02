@@ -1,0 +1,13 @@
+{
+  "name": "PayPal USD",
+  "symbol": "PYUSD",
+  "decimals": 9,
+  "coin_type": "0x5bdf21e36bbb99c61acf3aedfd2d30e788fce3f230334faaf0ece0c7642a0dfb::pyusd::PYUSD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.gtokentool.com/1738680756/1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

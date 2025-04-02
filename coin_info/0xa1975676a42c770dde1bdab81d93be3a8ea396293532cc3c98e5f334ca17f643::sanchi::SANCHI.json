@@ -1,0 +1,13 @@
+{
+  "name": "Sanchi the Noel dog",
+  "symbol": "SANCHI",
+  "decimals": 9,
+  "coin_type": "0xa1975676a42c770dde1bdab81d93be3a8ea396293532cc3c98e5f334ca17f643::sanchi::SANCHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2H2r56488VCAsKVJ9kM4WqsmnM7gjikRzS4MkSM4pump.png?size=lg&key=51d339",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

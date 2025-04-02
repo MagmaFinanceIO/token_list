@@ -1,0 +1,13 @@
+{
+  "name": "SANTA ON SUIAI",
+  "symbol": "SANTA",
+  "decimals": 6,
+  "coin_type": "0x4b2b95070991f1665f1fa6620058418146d03bb390826c58b82446736a16b549::santa::SANTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/LOGO_SANTA_bb44af94f0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

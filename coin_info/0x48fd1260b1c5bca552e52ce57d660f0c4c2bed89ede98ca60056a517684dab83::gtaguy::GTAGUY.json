@@ -1,0 +1,13 @@
+{
+  "name": "GTA Guy",
+  "symbol": "GTAGUY",
+  "decimals": 9,
+  "coin_type": "0x48fd1260b1c5bca552e52ce57d660f0c4c2bed89ede98ca60056a517684dab83::gtaguy::GTAGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DSMPWmng1sikswtgABYwLKJmVxdUFBbG6Qfcs8ydpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

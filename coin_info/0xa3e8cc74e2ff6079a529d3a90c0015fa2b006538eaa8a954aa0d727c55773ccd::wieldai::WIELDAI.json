@@ -1,0 +1,13 @@
+{
+  "name": "Wield Labs",
+  "symbol": "WieldAI",
+  "decimals": 9,
+  "coin_type": "0xa3e8cc74e2ff6079a529d3a90c0015fa2b006538eaa8a954aa0d727c55773ccd::wieldai::WIELDAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6WxSTFbp6bhAN4BTkACiEM97C7dUwzDeGF9VLST9pump.png?size=lg&key=dd077b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI APE",
+  "symbol": "SUIAPE",
+  "decimals": 6,
+  "coin_type": "0x335423002f51181277856e6d82478c8fb3c6626a9a1f3a6793a740815d846cbc::suiape::SUIAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suiape_02bd11ad5f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

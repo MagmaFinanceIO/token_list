@@ -1,0 +1,13 @@
+{
+  "name": "Sancho Service Coin",
+  "symbol": "SSC",
+  "decimals": 8,
+  "coin_type": "0x0d969ac681db38d5ff50629edbcab803fcdfa461fff4387a506033fa93842cfc::ssc::SSC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a73bb724-8428-4e7f-a409-bcb6246f0db9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

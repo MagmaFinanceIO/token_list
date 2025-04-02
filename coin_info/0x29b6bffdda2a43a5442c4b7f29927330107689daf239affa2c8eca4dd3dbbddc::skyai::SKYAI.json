@@ -1,0 +1,13 @@
+{
+  "name": "Sky the AI",
+  "symbol": "SkyAI",
+  "decimals": 9,
+  "coin_type": "0x29b6bffdda2a43a5442c4b7f29927330107689daf239affa2c8eca4dd3dbbddc::skyai::SKYAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AC96m8vYAqtmY47QRvX3pfrPzmVmMWirAUyh5jvtpump.png?size=lg&key=73f5cc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

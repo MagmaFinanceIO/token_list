@@ -1,0 +1,13 @@
+{
+  "name": "SHITCOIN",
+  "symbol": "SHITCOIN",
+  "decimals": 9,
+  "coin_type": "0x19953c1ed04a919c4d883277afe2feab4c6376494d4c6b717be32d460c5bd04f::shitcoin::SHITCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/42PZx7bPF1EMnP9L7vcjihTx7Nryxh81GG9Xs6fdpump.png?size=lg&key=5df52b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

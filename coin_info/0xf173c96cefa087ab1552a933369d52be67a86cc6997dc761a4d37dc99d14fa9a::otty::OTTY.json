@@ -1,0 +1,13 @@
+{
+  "name": "OTTY ON SUI",
+  "symbol": "OTTY",
+  "decimals": 6,
+  "coin_type": "0xf173c96cefa087ab1552a933369d52be67a86cc6997dc761a4d37dc99d14fa9a::otty::OTTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/OTTIER_9bf750e1e0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "King Pepe",
+  "symbol": "KNGPEPE",
+  "decimals": 6,
+  "coin_type": "0xe86448b8058c300460a1d77f7fa31754a141d478de8e0154e86e6186b0a0f9d7::kngpepe::KNGPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/70171845_52e3_4292_b770_8501e818879e_85b2c4e87d.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

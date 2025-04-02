@@ -1,0 +1,13 @@
+{
+  "name": "coby",
+  "symbol": "coby",
+  "decimals": 9,
+  "coin_type": "0xeedef4c4fd0291e36dfd83fb3edec5b8e937eed8a5043f98971d0332922f2524::coby::COBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5dd5db02-c77c-476e-9ef2-3cdb250a303d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

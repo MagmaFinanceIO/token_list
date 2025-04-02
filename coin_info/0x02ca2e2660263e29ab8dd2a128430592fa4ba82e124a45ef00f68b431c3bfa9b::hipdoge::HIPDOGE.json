@@ -1,0 +1,13 @@
+{
+  "name": "HIPPO D.O.G.E",
+  "symbol": "HIPDOGE",
+  "decimals": 9,
+  "coin_type": "0x02ca2e2660263e29ab8dd2a128430592fa4ba82e124a45ef00f68b431c3bfa9b::hipdoge::HIPDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c1ec4124-9a33-41fb-aa83-3cc4b00f65e1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

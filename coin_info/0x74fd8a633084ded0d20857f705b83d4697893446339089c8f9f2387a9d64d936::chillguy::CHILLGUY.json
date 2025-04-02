@@ -1,0 +1,13 @@
+{
+  "name": "Just a chill guy",
+  "symbol": "CHILLGUY",
+  "decimals": 9,
+  "coin_type": "0x74fd8a633084ded0d20857f705b83d4697893446339089c8f9f2387a9d64d936::chillguy::CHILLGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmaFy59TMnLb4jGgL6LpquyXSxTRXKR4mEfSobUSsPoR46",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

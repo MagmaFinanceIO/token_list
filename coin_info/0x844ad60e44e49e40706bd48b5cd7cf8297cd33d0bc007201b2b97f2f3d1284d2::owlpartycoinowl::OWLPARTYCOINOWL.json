@@ -1,0 +1,13 @@
+{
+  "name": "OwlPartyCoin | OWL",
+  "symbol": "OwlPartyCoinOWL",
+  "decimals": 9,
+  "coin_type": "0x844ad60e44e49e40706bd48b5cd7cf8297cd33d0bc007201b2b97f2f3d1284d2::owlpartycoinowl::OWLPARTYCOINOWL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/25862084-0105-45fc-8cb6-0cdd78a36435.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

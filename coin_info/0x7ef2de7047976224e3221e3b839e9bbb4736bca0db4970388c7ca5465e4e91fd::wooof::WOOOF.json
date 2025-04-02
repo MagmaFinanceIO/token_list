@@ -1,0 +1,13 @@
+{
+  "name": "DogWifSombrero",
+  "symbol": "WOOOF",
+  "decimals": 9,
+  "coin_type": "0x7ef2de7047976224e3221e3b839e9bbb4736bca0db4970388c7ca5465e4e91fd::wooof::WOOOF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/46a1a634-1997-4939-a388-3f83318b5466.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "VetCoin",
+  "symbol": "RVC",
+  "decimals": 9,
+  "coin_type": "0x3100225404604c9bf071082c08961520733a211f5e7603d8e32adf6252d8c925::rvc::RVC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

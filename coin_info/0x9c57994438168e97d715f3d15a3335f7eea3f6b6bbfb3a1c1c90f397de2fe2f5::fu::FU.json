@@ -1,0 +1,13 @@
+{
+  "name": "Fu",
+  "symbol": "Fu",
+  "decimals": 9,
+  "coin_type": "0x9c57994438168e97d715f3d15a3335f7eea3f6b6bbfb3a1c1c90f397de2fe2f5::fu::FU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/F2xBLb6jj39LJ5rg6wh8VaTq9CLEvDqLFL9gxmEapump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

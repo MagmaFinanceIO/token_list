@@ -1,0 +1,13 @@
+{
+  "name": "Cepybala Suibala",
+  "symbol": "Cepybala",
+  "decimals": 6,
+  "coin_type": "0x3be95a15bffc2a3a4f543f32e47055b6fb4ba566999073e0ae99718dd4c407ac::cepybala::CEPYBALA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/capybl_2a59707330.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Catnip on Sui",
+  "symbol": "catnip",
+  "decimals": 9,
+  "coin_type": "0xcb6725c80e078aecfa6040953b0cb7b3422a9630840afc87c7dc8686115444e9::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

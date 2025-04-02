@@ -1,0 +1,13 @@
+{
+  "name": "Future Of World",
+  "symbol": "FOW",
+  "decimals": 9,
+  "coin_type": "0x28aeb268a85823688548f89dfb32873a905e8e312544fc800dc014e11d251a7a::fow::FOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5c07be9b-5c2e-4589-890b-97a910d07dac.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Black CATY",
+  "symbol": "CATY",
+  "decimals": 9,
+  "coin_type": "0x82e1e9144aee2d4874de185b045945b26649da74aa4fbcc6d2dc47052156fdf5::caty::CATY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/75a94e20-d2c6-4769-9c36-14649b9bcc08.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

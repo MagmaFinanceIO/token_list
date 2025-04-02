@@ -1,0 +1,13 @@
+{
+  "name": "Anonymous Cat",
+  "symbol": "Anon",
+  "decimals": 6,
+  "coin_type": "0x607350c961722e8b63b7447e9223b519461c36df923e9c9e1a47387e02471d2a::anon::ANON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0663_d36fe5b08d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

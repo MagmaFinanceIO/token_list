@@ -1,0 +1,13 @@
+{
+  "name": "Bert",
+  "symbol": "BERT",
+  "decimals": 9,
+  "coin_type": "0x3c55ccde00ab83d92a7383f20d34d8e8ac366bd2623af146cce0edc76d2239da::bert::BERT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x2113e4493f652dda5fdf1b67fc5141e7a394374b.png?size=lg&key=c24a35",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

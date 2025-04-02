@@ -1,0 +1,13 @@
+{
+  "name": "Citadel AI",
+  "symbol": "CITAI",
+  "decimals": 9,
+  "coin_type": "0xa858ab079262a3871412ae2c3df2eba157eec89f2e6ebaf9942bdfe7858a641f::citai::CITAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d15adebe-2829-4885-9bc8-1293a0b7d9de.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

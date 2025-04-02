@@ -1,0 +1,13 @@
+{
+  "name": "Black Frog",
+  "symbol": "BF",
+  "decimals": 8,
+  "coin_type": "0xdd3c7e77de07b19e2593ec4b557f1a304fdd46284f16205c2aec50be5578967d::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

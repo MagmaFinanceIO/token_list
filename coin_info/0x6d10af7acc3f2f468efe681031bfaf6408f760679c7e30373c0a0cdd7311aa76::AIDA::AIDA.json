@@ -1,0 +1,13 @@
+{
+  "name": "AIDA",
+  "symbol": "AIDA",
+  "decimals": 9,
+  "coin_type": "0x6d10af7acc3f2f468efe681031bfaf6408f760679c7e30373c0a0cdd7311aa76::AIDA::AIDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

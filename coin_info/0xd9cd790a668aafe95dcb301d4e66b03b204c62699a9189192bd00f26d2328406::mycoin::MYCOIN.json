@@ -1,0 +1,13 @@
+{
+  "name": "DOODIEMAN",
+  "symbol": "DOODIEMAN",
+  "decimals": 9,
+  "coin_type": "0xd9cd790a668aafe95dcb301d4e66b03b204c62699a9189192bd00f26d2328406::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

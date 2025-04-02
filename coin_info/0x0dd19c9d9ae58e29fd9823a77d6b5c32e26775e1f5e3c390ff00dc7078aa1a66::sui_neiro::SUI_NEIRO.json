@@ -1,0 +1,13 @@
+{
+  "name": "Sui Neiro",
+  "symbol": "Sui Neiro",
+  "decimals": 9,
+  "coin_type": "0x0dd19c9d9ae58e29fd9823a77d6b5c32e26775e1f5e3c390ff00dc7078aa1a66::sui_neiro::SUI_NEIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://framerusercontent.com/images/4mw5jbqvu6qrOu6kJ7Nni6VXJs.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

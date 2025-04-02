@@ -1,0 +1,13 @@
+{
+  "name": "DUNNO ON SUI",
+  "symbol": "DUNNO",
+  "decimals": 6,
+  "coin_type": "0x011578a1ddc5f0e5798c846a903e21c3eac3793c6375a3dc3efd97ffac4da52b::dunno::DUNNO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/DUNNO_fbe12c7d49.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

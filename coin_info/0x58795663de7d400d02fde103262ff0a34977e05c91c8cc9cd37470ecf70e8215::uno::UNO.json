@@ -1,0 +1,13 @@
+{
+  "name": "Uno Reverse",
+  "symbol": "UNO",
+  "decimals": 9,
+  "coin_type": "0x58795663de7d400d02fde103262ff0a34977e05c91c8cc9cd37470ecf70e8215::uno::UNO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BeZicwE387Rut9JDnLhRiLFDwimMMheU5BVMjuvChxhA.png?size=lg&key=aa1b52",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

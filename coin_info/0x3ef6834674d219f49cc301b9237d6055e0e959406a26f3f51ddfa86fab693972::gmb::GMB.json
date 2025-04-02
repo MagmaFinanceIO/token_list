@@ -1,0 +1,13 @@
+{
+  "name": "GUMBOLL",
+  "symbol": "GMB",
+  "decimals": 9,
+  "coin_type": "0x3ef6834674d219f49cc301b9237d6055e0e959406a26f3f51ddfa86fab693972::gmb::GMB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9e67c3ec-aa1a-4ea1-8958-59bd99973190.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TrumpPEPE",
+  "symbol": "TrumpPEPE",
+  "decimals": 9,
+  "coin_type": "0x3902e65496158df7ae47c70bc2375d0b36c75378fc79864d25d2b9b0f2b6196a::trumppepe::TRUMPPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/16ce6691-a1f5-45bf-8370-53927f5300fb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIZARD TWINS",
+  "symbol": "SUIZARD",
+  "decimals": 6,
+  "coin_type": "0xbb333d114af7736cf82562288158dac48e00988310492c94d9d31b3510d3b699::suizard::SUIZARD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/h0bdq_H_Rx_400x400_b9d2dda70a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

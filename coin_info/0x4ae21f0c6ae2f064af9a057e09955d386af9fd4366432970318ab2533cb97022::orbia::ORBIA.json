@@ -1,0 +1,13 @@
+{
+  "name": "Orbia AI",
+  "symbol": "ORBIA",
+  "decimals": 9,
+  "coin_type": "0x4ae21f0c6ae2f064af9a057e09955d386af9fd4366432970318ab2533cb97022::orbia::ORBIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BQmKv2ek7cwntqm9vrQmdcwsWp6hbezh22MWC64Mpump.png?size=lg&key=8e451e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

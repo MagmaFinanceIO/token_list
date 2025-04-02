@@ -1,0 +1,13 @@
+{
+  "name": "SUI CROCO DOG",
+  "symbol": "CROCODOG",
+  "decimals": 6,
+  "coin_type": "0xf64c69547ae56b029eebdfb65e73d9f6988abe58103560804e654a7a8b6d2be4::crocodog::CROCODOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/37f2d1af-217f-4cfa-87d1-e40c0d0ffd1d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

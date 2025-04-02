@@ -1,0 +1,13 @@
+{
+  "name": "Sprite Cat On Sui",
+  "symbol": "Scat",
+  "decimals": 6,
+  "coin_type": "0x6945dd7e73e23c22f42cf3e62e7473c1fd2915a561ffd3ff720c91014b994b89::scat::SCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/sprite_Cat_logo_11edd40bab.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

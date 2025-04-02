@@ -1,0 +1,13 @@
+{
+  "name": "Hive AI",
+  "symbol": "BUZZ",
+  "decimals": 9,
+  "coin_type": "0x5eb623603f9657aafb0d7d0bc04959408ebb0179ca1c56740b3bb11951d02adf::buzz::BUZZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9DHe3pycTuymFk4H4bbPoAJ4hQrr2kaLDF6J6aAKpump.png?size=lg&key=77c663",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

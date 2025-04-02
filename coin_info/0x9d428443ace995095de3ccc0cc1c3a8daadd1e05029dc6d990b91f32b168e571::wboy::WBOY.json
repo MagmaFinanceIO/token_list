@@ -1,0 +1,13 @@
+{
+  "name": "Waterboy on SUI",
+  "symbol": "WBOY",
+  "decimals": 6,
+  "coin_type": "0x9d428443ace995095de3ccc0cc1c3a8daadd1e05029dc6d990b91f32b168e571::wboy::WBOY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000022324_7c5d8782a3.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

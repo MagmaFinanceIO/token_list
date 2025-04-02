@@ -1,0 +1,13 @@
+{
+  "name": "WEAREALLSUITOSHI",
+  "symbol": "SUITOSHI",
+  "decimals": 6,
+  "coin_type": "0x8e2fe25e11f0c2442af5e71d85963f7be443227c60f9364a43a45dbb7c0fbf82::suitoshi::SUITOSHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_10_09_3_15_48_PM_2b42ba0a55.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

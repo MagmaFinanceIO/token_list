@@ -1,0 +1,13 @@
+{
+  "name": "SUIM",
+  "symbol": "Suim",
+  "decimals": 6,
+  "coin_type": "0xb75dbe6f3a64163d35e998deb85720e85d1048398a8ac955883f7014911aa111::suim::SUIM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FAlbedo_Base_XL_a_person_swimming_freely_in_the_sea_only_blue_an_3_1_3_447be7b649.png&w=256&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

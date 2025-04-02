@@ -1,0 +1,13 @@
+{
+  "name": "AAAA",
+  "symbol": "AAA",
+  "decimals": 9,
+  "coin_type": "0x3b3ad3efe980b0641b32158a433144245d1a1de71f6daeb85e66e44e6454c84c::aaa::AAA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4e19011e-c5bd-45da-8341-302c9c08c7cd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

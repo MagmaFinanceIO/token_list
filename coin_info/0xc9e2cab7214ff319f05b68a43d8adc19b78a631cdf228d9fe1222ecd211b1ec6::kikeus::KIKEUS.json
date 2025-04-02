@@ -1,0 +1,13 @@
+{
+  "name": "King Kekius Maximus",
+  "symbol": "KIKEUS",
+  "decimals": 9,
+  "coin_type": "0xc9e2cab7214ff319f05b68a43d8adc19b78a631cdf228d9fe1222ecd211b1ec6::kikeus::KIKEUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/47Qzoftu23baz36MGPSnobjK5BFyQGT9oT1ALi5vJtD3.png?size=lg&key=136bf4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

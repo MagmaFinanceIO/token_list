@@ -1,0 +1,13 @@
+{
+  "name": "jeffthebear",
+  "symbol": "JTBEAR",
+  "decimals": 9,
+  "coin_type": "0x5f864cef0784dfbbd5fd7e77958fa23d20f6c3305e90fc99a88f1aa9324a38cf::jtbear::JTBEAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ccd48c8c-a120-4a8a-ac75-356aa33e5d7a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

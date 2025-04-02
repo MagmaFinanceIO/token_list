@@ -1,0 +1,13 @@
+{
+  "name": "yoshi-toshi",
+  "symbol": "yosh",
+  "decimals": 9,
+  "coin_type": "0xb3da5c89594014783f6d94c27dc70aef7945a66f95a45279de9a0137edcf46c9::yosh::YOSH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9ee5ad25-7db2-4672-ba8f-457220c9c2b7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

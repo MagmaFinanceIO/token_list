@@ -1,0 +1,13 @@
+{
+  "name": "POKEMON MEME SUI",
+  "symbol": "POKE",
+  "decimals": 6,
+  "coin_type": "0xa6c34e274cc3e66c4938735acbe663a3ba99e34ebd67eeeb79eab1dbc08918ad::poke::POKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/123_f4a8713d82.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

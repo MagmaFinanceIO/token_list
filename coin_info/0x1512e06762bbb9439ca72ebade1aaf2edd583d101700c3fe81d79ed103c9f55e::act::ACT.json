@@ -1,0 +1,13 @@
+{
+  "name": "Jolie Token",
+  "symbol": "JOLIE",
+  "decimals": 9,
+  "coin_type": "0x1512e06762bbb9439ca72ebade1aaf2edd583d101700c3fe81d79ed103c9f55e::act::ACT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.sarapnow.com/cdn/shop/products/pecknorder-art-collectibles-red-jolly-bee-food-mascot-sticker-30056228323415.jpg?v=1676779431&width=1295",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

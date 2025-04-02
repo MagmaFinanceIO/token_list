@@ -1,0 +1,13 @@
+{
+  "name": "BOBO Marley",
+  "symbol": "BOBO",
+  "decimals": 9,
+  "coin_type": "0xd2e6b23de7aec2d35c0ba73a3a49d05d1e4d5b18239f7b67400950fd0fd7d43d::bobo::BOBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cc68d269-85c7-48f3-88de-329bc3dbc6df.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

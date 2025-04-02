@@ -1,0 +1,13 @@
+{
+  "name": "Marky",
+  "symbol": "Marky",
+  "decimals": 9,
+  "coin_type": "0x32e1afe45ddec1967c1bbb3a63c120968870b8c4bb92d9f1b13b8e2b6a0e36e2::marky::MARKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

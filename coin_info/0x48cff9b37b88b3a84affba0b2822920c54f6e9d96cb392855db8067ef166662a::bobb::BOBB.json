@@ -1,0 +1,13 @@
+{
+  "name": "BOB BACK ON SUI",
+  "symbol": "BOBB",
+  "decimals": 9,
+  "coin_type": "0x48cff9b37b88b3a84affba0b2822920c54f6e9d96cb392855db8067ef166662a::bobb::BOBB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4eba694b-eb59-445d-bcae-53709ca7114f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

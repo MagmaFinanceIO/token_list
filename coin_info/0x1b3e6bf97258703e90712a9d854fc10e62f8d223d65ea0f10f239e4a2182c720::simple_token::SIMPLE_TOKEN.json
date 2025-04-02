@@ -1,0 +1,13 @@
+{
+  "name": "Beno on Sui",
+  "symbol": "BENO",
+  "decimals": 9,
+  "coin_type": "0x1b3e6bf97258703e90712a9d854fc10e62f8d223d65ea0f10f239e4a2182c720::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

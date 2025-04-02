@@ -1,0 +1,13 @@
+{
+  "name": "UTU",
+  "symbol": "UTURN",
+  "decimals": 6,
+  "coin_type": "0x34bc4064a21d6d01add70d473b9fac30816b74e2b7e0f701e6290f8dcb74b3cf::uturn::UTURN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmRk1tn7dbk7gkNYwMtDsvVJhQuCpz5aYBTcDqDLZzzuSQ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

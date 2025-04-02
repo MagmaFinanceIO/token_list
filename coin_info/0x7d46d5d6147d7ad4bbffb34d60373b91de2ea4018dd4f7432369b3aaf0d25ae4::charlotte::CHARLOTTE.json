@@ -1,0 +1,13 @@
+{
+  "name": "Charlotte AI  by SuiAI",
+  "symbol": "CHARLOTTE",
+  "decimals": 6,
+  "coin_type": "0x7d46d5d6147d7ad4bbffb34d60373b91de2ea4018dd4f7432369b3aaf0d25ae4::charlotte::CHARLOTTE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/frente_charlote_fd93f3eb9f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

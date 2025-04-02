@@ -1,0 +1,13 @@
+{
+  "name": "The Joker",
+  "symbol": "JOKER",
+  "decimals": 9,
+  "coin_type": "0x842e56ca14bcd22f20d6629321d3bd15fb6046debd4fcac4f4bf182bb1f6f7bc::joker::JOKER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dcd3c52f-9552-4b31-a514-50d3bebe5f24.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

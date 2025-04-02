@@ -1,0 +1,13 @@
+{
+  "name": "letssui",
+  "symbol": "LLSUI",
+  "decimals": 9,
+  "coin_type": "0xec84296be1cd7e7c1b015804e0602e264b4091cc41d1139dbf6fccd15fba3f63::llsui::LLSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/23950e7b-c4a5-4dd1-8f5e-f5a9705c0291.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

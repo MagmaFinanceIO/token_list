@@ -1,0 +1,13 @@
+{
+  "name": "PIGS",
+  "symbol": "PIG",
+  "decimals": 6,
+  "coin_type": "0x1fd68adb6e2ccbe5ee0952d67fd670da69d7cf99334492b65ef34d481613bf99::pig::PIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/OE_Yv4_J2l_400x400_680dc7d6df.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

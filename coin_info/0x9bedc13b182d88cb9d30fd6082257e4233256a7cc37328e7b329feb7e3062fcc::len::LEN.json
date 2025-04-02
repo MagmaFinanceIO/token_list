@@ -1,0 +1,13 @@
+{
+  "name": "Len Sassaman",
+  "symbol": "LEN",
+  "decimals": 9,
+  "coin_type": "0x9bedc13b182d88cb9d30fd6082257e4233256a7cc37328e7b329feb7e3062fcc::len::LEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1b0367b8-b2d2-4482-bc97-9df559e80ccd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Calum Sui",
+  "symbol": "Calum",
+  "decimals": 9,
+  "coin_type": "0x8afeaef845f5c09261e398918fda3895d462fe65bfd94f3d2a8c7d2a1aeab27e::calum::CALUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4KMTubLvU8pMRffjr6C7Uy22SxXjxSCjkKXr849Npump.png?size=lg&key=503c69",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

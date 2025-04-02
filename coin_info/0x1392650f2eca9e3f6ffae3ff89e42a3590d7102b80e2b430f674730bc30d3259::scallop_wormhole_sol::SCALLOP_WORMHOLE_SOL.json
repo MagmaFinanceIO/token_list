@@ -1,0 +1,13 @@
+{
+  "name": "swSOL",
+  "symbol": "swSOL",
+  "decimals": 8,
+  "coin_type": "0x1392650f2eca9e3f6ffae3ff89e42a3590d7102b80e2b430f674730bc30d3259::scallop_wormhole_sol::SCALLOP_WORMHOLE_SOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://gateway.irys.xyz/38CYobsZ6resAMb939doWgMwcKrVJm7mDXzXNjKHxTfX",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

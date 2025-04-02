@@ -1,0 +1,13 @@
+{
+  "name": "Chubby",
+  "symbol": "CHUBBY",
+  "decimals": 9,
+  "coin_type": "0x1ada9f4ba173b8b79d8fff22efc6f0673edfde79287b62f700d2b5615cfd559a::chubby::CHUBBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B4DbbCZzjLCnTEUjjQef9A57VW7VQQcmr59WxVuTCXHV.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

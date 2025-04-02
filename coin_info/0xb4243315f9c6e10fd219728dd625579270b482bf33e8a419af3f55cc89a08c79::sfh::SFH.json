@@ -1,0 +1,13 @@
+{
+  "name": "SFH",
+  "symbol": "SFH",
+  "decimals": 9,
+  "coin_type": "0xb4243315f9c6e10fd219728dd625579270b482bf33e8a419af3f55cc89a08c79::sfh::SFH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

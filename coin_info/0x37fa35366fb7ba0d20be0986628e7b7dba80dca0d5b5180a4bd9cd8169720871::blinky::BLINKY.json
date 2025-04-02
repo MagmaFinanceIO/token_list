@@ -1,0 +1,13 @@
+{
+  "name": "SUI BLINKY",
+  "symbol": "BLINKY",
+  "decimals": 6,
+  "coin_type": "0x37fa35366fb7ba0d20be0986628e7b7dba80dca0d5b5180a4bd9cd8169720871::blinky::BLINKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/3eye_bdfb0c505d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

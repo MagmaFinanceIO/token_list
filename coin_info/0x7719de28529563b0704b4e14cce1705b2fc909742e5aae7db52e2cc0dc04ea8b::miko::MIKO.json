@@ -1,0 +1,13 @@
+{
+  "name": "Miko Cash",
+  "symbol": "MIKO",
+  "decimals": 6,
+  "coin_type": "0x7719de28529563b0704b4e14cce1705b2fc909742e5aae7db52e2cc0dc04ea8b::miko::MIKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000005044_3a2fc25414.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

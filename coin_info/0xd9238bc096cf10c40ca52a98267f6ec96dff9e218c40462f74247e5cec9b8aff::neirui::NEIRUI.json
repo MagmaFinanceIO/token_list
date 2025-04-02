@@ -1,0 +1,13 @@
+{
+  "name": "NEIRO GF ON SUI",
+  "symbol": "NEIRUI",
+  "decimals": 6,
+  "coin_type": "0xd9238bc096cf10c40ca52a98267f6ec96dff9e218c40462f74247e5cec9b8aff::neirui::NEIRUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/neiro_gf_282a35fbea.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

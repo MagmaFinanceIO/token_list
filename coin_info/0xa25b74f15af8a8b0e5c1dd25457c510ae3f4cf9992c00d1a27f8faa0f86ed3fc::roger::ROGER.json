@@ -1,0 +1,13 @@
+{
+  "name": "ROGER ON SUI",
+  "symbol": "ROGER",
+  "decimals": 9,
+  "coin_type": "0xa25b74f15af8a8b0e5c1dd25457c510ae3f4cf9992c00d1a27f8faa0f86ed3fc::roger::ROGER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2e85f7fd-7dd8-4133-9b5a-d56fc1484ba3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

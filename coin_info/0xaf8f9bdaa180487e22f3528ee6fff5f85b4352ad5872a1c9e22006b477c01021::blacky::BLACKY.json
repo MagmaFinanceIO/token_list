@@ -1,0 +1,13 @@
+{
+  "name": "Blacky The Kitty",
+  "symbol": "Blacky",
+  "decimals": 9,
+  "coin_type": "0xaf8f9bdaa180487e22f3528ee6fff5f85b4352ad5872a1c9e22006b477c01021::blacky::BLACKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/867eef9a-98d4-4c80-b357-8ffb1196a66f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

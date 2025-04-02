@@ -1,0 +1,13 @@
+{
+  "name": "New Baby Rhino",
+  "symbol": "jai",
+  "decimals": 9,
+  "coin_type": "0xb7d77e50c0a1a05b1dee6c8ee68c26d172160f2b8c55b2b1c8668b4f233822f7::jai::JAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/J7n9siV.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

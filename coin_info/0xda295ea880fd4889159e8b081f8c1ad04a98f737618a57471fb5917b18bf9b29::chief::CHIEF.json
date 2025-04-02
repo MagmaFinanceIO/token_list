@@ -1,0 +1,13 @@
+{
+  "name": "Chief Nut",
+  "symbol": "CHIEF",
+  "decimals": 9,
+  "coin_type": "0xda295ea880fd4889159e8b081f8c1ad04a98f737618a57471fb5917b18bf9b29::chief::CHIEF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmWzb2rbg8NSRry1LbtqHaFG2p1MceHFQH1MoR7HDiuREw",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

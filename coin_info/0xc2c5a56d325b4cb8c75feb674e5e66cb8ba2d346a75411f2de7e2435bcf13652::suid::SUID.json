@@ -1,0 +1,13 @@
+{
+  "name": "GET SUID",
+  "symbol": "SUID",
+  "decimals": 6,
+  "coin_type": "0xc2c5a56d325b4cb8c75feb674e5e66cb8ba2d346a75411f2de7e2435bcf13652::suid::SUID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pfp_4fd0dd2dfa.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

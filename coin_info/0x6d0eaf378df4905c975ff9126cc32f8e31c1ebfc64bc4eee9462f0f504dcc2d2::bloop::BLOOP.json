@@ -1,0 +1,13 @@
+{
+  "name": "Bloop By Matt Furie",
+  "symbol": "BLOOP",
+  "decimals": 9,
+  "coin_type": "0x6d0eaf378df4905c975ff9126cc32f8e31c1ebfc64bc4eee9462f0f504dcc2d2::bloop::BLOOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2Fphoto_2024_10_25_15_03_19_ee943fbc32.jpg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

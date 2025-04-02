@@ -1,0 +1,13 @@
+{
+  "name": "The Banditos",
+  "symbol": "BANDITO",
+  "decimals": 6,
+  "coin_type": "0xfa84644b76f9779624573ad3e237d63f562e917da1df413c5ea211a946a59919::bandito::BANDITO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/AFTBGK_79_Yytfmvn_QS_Ua26svc5aofm_Jt_Tb_Wrrg9b4pump_16c3f09b87.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

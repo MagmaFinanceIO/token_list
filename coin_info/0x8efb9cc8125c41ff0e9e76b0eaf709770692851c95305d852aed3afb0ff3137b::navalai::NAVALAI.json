@@ -1,0 +1,13 @@
+{
+  "name": "Naval AI",
+  "symbol": "NAVALAI",
+  "decimals": 9,
+  "coin_type": "0x8efb9cc8125c41ff0e9e76b0eaf709770692851c95305d852aed3afb0ff3137b::navalai::NAVALAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7wM4MnbsPsG95A3WhZgbrPWvMtydKmJjqKr2ZVJVpump.png?size=lg&key=f215a9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

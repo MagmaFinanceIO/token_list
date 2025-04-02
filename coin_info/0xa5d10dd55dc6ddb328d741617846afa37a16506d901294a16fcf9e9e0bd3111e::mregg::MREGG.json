@@ -1,0 +1,13 @@
+{
+  "name": "Mr. Eggcellent",
+  "symbol": "MrEgg",
+  "decimals": 9,
+  "coin_type": "0xa5d10dd55dc6ddb328d741617846afa37a16506d901294a16fcf9e9e0bd3111e::mregg::MREGG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/136z1zH6JAKP6UVkgnnT6scxHbezzUFYMjsu4CRVPpAa.png?size=lg&key=0854ce",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

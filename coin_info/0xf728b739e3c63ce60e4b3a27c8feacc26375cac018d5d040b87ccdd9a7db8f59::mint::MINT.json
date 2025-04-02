@@ -1,0 +1,13 @@
+{
+  "name": "Mint AI",
+  "symbol": "MINT",
+  "decimals": 9,
+  "coin_type": "0xf728b739e3c63ce60e4b3a27c8feacc26375cac018d5d040b87ccdd9a7db8f59::mint::MINT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/J4X9behU3TV5uzkXUfPYY9DDSgPHm7TFxVfhwCbmpump.png?size=lg&key=180d09",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

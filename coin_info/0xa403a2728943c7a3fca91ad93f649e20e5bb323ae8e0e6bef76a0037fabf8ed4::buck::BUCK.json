@@ -1,0 +1,13 @@
+{
+  "name": "Buck The Bunny",
+  "symbol": "BUCK",
+  "decimals": 6,
+  "coin_type": "0xa403a2728943c7a3fca91ad93f649e20e5bb323ae8e0e6bef76a0037fabf8ed4::buck::BUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_ed3af7e126.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

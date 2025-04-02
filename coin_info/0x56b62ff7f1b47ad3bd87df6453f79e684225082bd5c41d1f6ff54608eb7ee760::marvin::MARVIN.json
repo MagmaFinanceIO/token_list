@@ -1,0 +1,13 @@
+{
+  "name": "The Martian Dog",
+  "symbol": "MARVIN",
+  "decimals": 9,
+  "coin_type": "0x56b62ff7f1b47ad3bd87df6453f79e684225082bd5c41d1f6ff54608eb7ee760::marvin::MARVIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b539dbfa-7d26-449b-806d-b88e46125b2c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

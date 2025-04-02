@@ -1,0 +1,13 @@
+{
+  "name": "Sui gold",
+  "symbol": "SGOLD",
+  "decimals": 9,
+  "coin_type": "0xf86825cfc254283821262e774da6449b402a07496d6f021c83c0f6e43360aa1a::sgold::SGOLD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

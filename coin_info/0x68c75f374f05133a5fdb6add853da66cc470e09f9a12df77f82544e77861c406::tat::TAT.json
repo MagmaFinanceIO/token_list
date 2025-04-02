@@ -1,0 +1,13 @@
+{
+  "name": "TaWsHe",
+  "symbol": "TAT",
+  "decimals": 9,
+  "coin_type": "0x68c75f374f05133a5fdb6add853da66cc470e09f9a12df77f82544e77861c406::tat::TAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/eeb2f810-3e36-4a91-bd7a-03c675eb2326.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

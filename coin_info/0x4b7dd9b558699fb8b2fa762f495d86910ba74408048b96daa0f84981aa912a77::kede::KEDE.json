@@ -1,0 +1,13 @@
+{
+  "name": "VAN KEDE",
+  "symbol": "KEDE",
+  "decimals": 9,
+  "coin_type": "0x4b7dd9b558699fb8b2fa762f495d86910ba74408048b96daa0f84981aa912a77::kede::KEDE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ac9180eb-ecb1-49a7-b670-e936d654e82e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

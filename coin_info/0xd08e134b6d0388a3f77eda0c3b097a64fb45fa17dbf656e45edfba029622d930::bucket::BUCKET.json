@@ -1,0 +1,13 @@
+{
+  "name": "Sui Bucket",
+  "symbol": "BUCKET",
+  "decimals": 6,
+  "coin_type": "0xd08e134b6d0388a3f77eda0c3b097a64fb45fa17dbf656e45edfba029622d930::bucket::BUCKET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/zodiac000z_rpg_item_icon_of_a_based_bucketconcept_artart_gamecr_1c49b3c1_ac54_40e8_b3cb_7568bd383a07_c900513b47.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

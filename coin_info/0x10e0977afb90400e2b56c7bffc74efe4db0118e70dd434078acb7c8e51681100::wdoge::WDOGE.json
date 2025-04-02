@@ -1,0 +1,13 @@
+{
+  "name": "Water Doge",
+  "symbol": "WDOGE",
+  "decimals": 6,
+  "coin_type": "0x10e0977afb90400e2b56c7bffc74efe4db0118e70dd434078acb7c8e51681100::wdoge::WDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/5q_Awkg_OW_400x400_a768dc7308.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

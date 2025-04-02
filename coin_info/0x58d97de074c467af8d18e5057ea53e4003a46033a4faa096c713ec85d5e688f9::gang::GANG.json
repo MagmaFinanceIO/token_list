@@ -1,0 +1,13 @@
+{
+  "name": "THUG LIFE",
+  "symbol": "GANG",
+  "decimals": 9,
+  "coin_type": "0x58d97de074c467af8d18e5057ea53e4003a46033a4faa096c713ec85d5e688f9::gang::GANG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmXhufDfYvHxGqzadVmndVpeW9VRTbWCusfyB2mhK2h5W6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

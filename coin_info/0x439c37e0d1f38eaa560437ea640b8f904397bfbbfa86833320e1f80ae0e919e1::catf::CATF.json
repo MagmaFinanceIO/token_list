@@ -1,0 +1,13 @@
+{
+  "name": "CATF",
+  "symbol": "CATF",
+  "decimals": 6,
+  "coin_type": "0x439c37e0d1f38eaa560437ea640b8f904397bfbbfa86833320e1f80ae0e919e1::catf::CATF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.okx.com/cdn/web3/currency/token/501-7uCHQdxAz2ojRgEpXRHas1nJAeTTo9b7JWNgpXXi9D9p-98.png/type=default_350_0?v=1735918971738&x-oss-process=image/format,webp/ignore-error,1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

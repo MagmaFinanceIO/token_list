@@ -1,0 +1,13 @@
+{
+  "name": "Sui Dragon",
+  "symbol": "SDRAG",
+  "decimals": 9,
+  "coin_type": "0x87bc2fbd590f7b517593fca0bff1bdd8a0244a151390d6e88a2247942dc97491::sdrag::SDRAG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/01b10a73-de10-401d-abed-3daf8c27fe02.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

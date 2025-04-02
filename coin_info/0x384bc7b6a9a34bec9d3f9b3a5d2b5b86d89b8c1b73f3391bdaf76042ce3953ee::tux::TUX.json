@@ -1,0 +1,13 @@
+{
+  "name": "Tux Penguin",
+  "symbol": "TUX",
+  "decimals": 9,
+  "coin_type": "0x384bc7b6a9a34bec9d3f9b3a5d2b5b86d89b8c1b73f3391bdaf76042ce3953ee::tux::TUX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/21e8967c-3911-4d55-9b93-9d526e1e3fbf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

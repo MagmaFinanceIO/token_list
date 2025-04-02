@@ -1,0 +1,13 @@
+{
+  "name": "Brother Lofi",
+  "symbol": "BLOFI",
+  "decimals": 6,
+  "coin_type": "0x091b6466da0e9682aa26bdb9f22b117e7cfa316fda75f44678ba316c03f72e89::blofi::BLOFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5870_13512657aa.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

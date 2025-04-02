@@ -1,0 +1,13 @@
+{
+  "name": "MOOTUN",
+  "symbol": "MOOTUN",
+  "decimals": 9,
+  "coin_type": "0x5065dbd2cf8bd554afcb55c4bc4e70ec1c9d3c89ac89311909b143210c844c05::mootun::MOOTUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e66f6dbe-ca9b-4bdd-9331-487ad4f1b32e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

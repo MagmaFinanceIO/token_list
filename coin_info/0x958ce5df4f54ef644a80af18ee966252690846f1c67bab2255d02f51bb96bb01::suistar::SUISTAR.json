@@ -1,0 +1,13 @@
+{
+  "name": "Sui Star",
+  "symbol": "SUISTAR",
+  "decimals": 9,
+  "coin_type": "0x958ce5df4f54ef644a80af18ee966252690846f1c67bab2255d02f51bb96bb01::suistar::SUISTAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1843774875712016385/Q0olVMTI.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

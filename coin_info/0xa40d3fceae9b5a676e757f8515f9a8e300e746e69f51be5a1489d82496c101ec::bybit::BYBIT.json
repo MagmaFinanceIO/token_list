@@ -1,0 +1,13 @@
+{
+  "name": "Bybit",
+  "symbol": "BYBIT",
+  "decimals": 9,
+  "coin_type": "0xa40d3fceae9b5a676e757f8515f9a8e300e746e69f51be5a1489d82496c101ec::bybit::BYBIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5MwDqQy5AUMxf7ryApWQP9LZTuU9kCj6b4fFJtr9pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

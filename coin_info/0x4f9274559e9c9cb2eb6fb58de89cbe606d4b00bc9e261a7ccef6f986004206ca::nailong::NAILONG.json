@@ -1,0 +1,13 @@
+{
+  "name": "Nailong On Sui",
+  "symbol": "NAILONG",
+  "decimals": 6,
+  "coin_type": "0x4f9274559e9c9cb2eb6fb58de89cbe606d4b00bc9e261a7ccef6f986004206ca::nailong::NAILONG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/meme3_f6d2c9711e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

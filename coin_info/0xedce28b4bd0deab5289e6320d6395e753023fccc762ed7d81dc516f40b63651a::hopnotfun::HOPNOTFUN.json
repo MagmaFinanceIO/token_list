@@ -1,0 +1,13 @@
+{
+  "name": "HOP_NOT_FUN",
+  "symbol": "HOPNOTFUN",
+  "decimals": 6,
+  "coin_type": "0xedce28b4bd0deab5289e6320d6395e753023fccc762ed7d81dc516f40b63651a::hopnotfun::HOPNOTFUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Cropped_Image_801681c304.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

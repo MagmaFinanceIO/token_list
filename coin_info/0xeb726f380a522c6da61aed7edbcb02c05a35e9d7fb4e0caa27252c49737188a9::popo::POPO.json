@@ -1,0 +1,13 @@
+{
+  "name": "Chill Pepe Doge",
+  "symbol": "POPO",
+  "decimals": 9,
+  "coin_type": "0xeb726f380a522c6da61aed7edbcb02c05a35e9d7fb4e0caa27252c49737188a9::popo::POPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/be17f144-6fa2-4e9e-8843-1d23885f4de9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

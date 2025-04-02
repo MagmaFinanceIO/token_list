@@ -1,0 +1,13 @@
+{
+  "name": "My Awesome ZEPHR",
+  "symbol": "ZEPHR",
+  "decimals": 9,
+  "coin_type": "0xd882feaed0c1896866129b7d3ec5e6e08e95d9bd022dc96adfe12ef61fdd52a6::zephr::ZEPHR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://red-rainy-catfish-636.mypinata.cloud/ipfs/QmfF9erhWqxTqrMjeX5w9NtqqLdh7bkKxeBFKGSHDeNudY",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

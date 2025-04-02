@@ -1,0 +1,13 @@
+{
+  "name": "Suigerians",
+  "symbol": "Suigeria",
+  "decimals": 6,
+  "coin_type": "0x648783b982c8af7aeb84762f9db419116da01a1fb9b686216fe56dd7f5123257::suigeria::SUIGERIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_b408131743.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

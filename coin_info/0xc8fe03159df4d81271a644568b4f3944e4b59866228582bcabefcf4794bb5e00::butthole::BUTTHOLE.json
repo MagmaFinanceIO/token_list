@@ -1,0 +1,13 @@
+{
+  "name": "Butthole Coin on SUI",
+  "symbol": "BUTTHOLE",
+  "decimals": 6,
+  "coin_type": "0xc8fe03159df4d81271a644568b4f3944e4b59866228582bcabefcf4794bb5e00::butthole::BUTTHOLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a2871980-a4a3-423d-ad84-d90c29176e06.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

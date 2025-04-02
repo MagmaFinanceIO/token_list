@@ -1,0 +1,13 @@
+{
+  "name": "Oldest Cat",
+  "symbol": "FLOSSIE",
+  "decimals": 6,
+  "coin_type": "0x2f782dd5e14947ae1d2748ab461106027b9ee0fd17f03dc6836576acc40d50bd::flossie::FLOSSIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000004433_1dcecb5f30.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

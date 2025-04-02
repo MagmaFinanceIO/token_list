@@ -1,0 +1,13 @@
+{
+  "name": "DIANO",
+  "symbol": "DNO",
+  "decimals": 9,
+  "coin_type": "0x1ab04c058b4df53a3bfc4d179c38f0e2cf4b45ae4c742317eb274fa42611cc09::dno::DNO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b71618dd-403d-48ab-a50c-0295cff0cfbe.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

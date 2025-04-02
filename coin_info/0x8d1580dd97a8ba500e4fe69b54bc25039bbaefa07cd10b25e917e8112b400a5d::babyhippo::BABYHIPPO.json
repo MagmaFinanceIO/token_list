@@ -1,0 +1,13 @@
+{
+  "name": "BABYHIPPO",
+  "symbol": "BabyHippo",
+  "decimals": 9,
+  "coin_type": "0x8d1580dd97a8ba500e4fe69b54bc25039bbaefa07cd10b25e917e8112b400a5d::babyhippo::BABYHIPPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1840439596548493312/8ohcTVBD_400x400.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

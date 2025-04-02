@@ -1,0 +1,13 @@
+{
+  "name": "SHEEP",
+  "symbol": "SHEEP",
+  "decimals": 4,
+  "coin_type": "0xeb57e5289457f4e7fff1327743481bc079629d33fd6a7a20cc17b8843ded7287::sheep::SHEEP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9d7dPmPKXFgpzwo4ecoYPnG5NkopKsGiE2eGoTfmMoGG.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

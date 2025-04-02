@@ -1,0 +1,13 @@
+{
+  "name": "JesterCoin",
+  "symbol": "JRC",
+  "decimals": 9,
+  "coin_type": "0xecda234aad3450b6bb009a34093c17aefc2255714aa20c7cad55d5b31c8c962b::jrc::JRC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e690d943-853b-408d-b14a-35fe4bc1f0e9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

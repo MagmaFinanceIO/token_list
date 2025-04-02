@@ -1,0 +1,13 @@
+{
+  "name": "CatWitHat",
+  "symbol": "CWH",
+  "decimals": 9,
+  "coin_type": "0xd44abfdef2f15fd538c1d06d69a51602a85c27b8df5fb338d5982e26e1f7447e::cwh::CWH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c065851c-aebc-45c4-90e0-c349ae893e19.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

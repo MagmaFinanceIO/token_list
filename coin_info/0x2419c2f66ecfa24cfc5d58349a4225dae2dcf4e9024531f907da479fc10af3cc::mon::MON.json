@@ -1,0 +1,13 @@
+{
+  "name": "MonsCoin",
+  "symbol": "MON",
+  "decimals": 9,
+  "coin_type": "0x2419c2f66ecfa24cfc5d58349a4225dae2dcf4e9024531f907da479fc10af3cc::mon::MON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/25e31496-e31b-43ba-89a2-bab45f260802.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL DONALD TRUMP",
+  "symbol": "ODTRUMP",
+  "decimals": 9,
+  "coin_type": "0x12142a2759f31abc854f4e4866c3fac98e1d247cdec225026651811719804c04::odtrump::ODTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN.png?size=lg&key=6384fd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

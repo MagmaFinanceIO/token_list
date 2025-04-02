@@ -1,0 +1,13 @@
+{
+  "name": "RECYCLE HEART",
+  "symbol": "REC",
+  "decimals": 9,
+  "coin_type": "0x35bcb6c33e9dacec97c28975ff76205fad4143a233341113c204b8eb9ad8e2e8::rec::REC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8f0179d0-41ad-4415-9457-fa2382b5e8d3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

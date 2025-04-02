@@ -1,0 +1,13 @@
+{
+  "name": "Joko on Sui",
+  "symbol": "JokoSui",
+  "decimals": 6,
+  "coin_type": "0xa0fd7028c74d9e8715787f8732713a0a26773c44a28a6c9021f03b024bc6c7b8::jokosui::JOKOSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000645132_005da6ba16.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

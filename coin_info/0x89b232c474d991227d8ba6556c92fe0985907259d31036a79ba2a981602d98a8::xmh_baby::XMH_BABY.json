@@ -1,0 +1,13 @@
+{
+  "name": "xmh",
+  "symbol": "xmh baby",
+  "decimals": 6,
+  "coin_type": "0x89b232c474d991227d8ba6556c92fe0985907259d31036a79ba2a981602d98a8::xmh_baby::XMH_BABY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmQs6VuxHA1Yk3njbrnf1L5NJKqyhJWqGtucQcEiXxHMsy",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

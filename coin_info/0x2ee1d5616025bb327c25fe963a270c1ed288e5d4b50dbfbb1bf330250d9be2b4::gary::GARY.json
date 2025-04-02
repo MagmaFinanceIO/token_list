@@ -1,0 +1,13 @@
+{
+  "name": "Gary The Ski Cat",
+  "symbol": "GARY",
+  "decimals": 9,
+  "coin_type": "0x2ee1d5616025bb327c25fe963a270c1ed288e5d4b50dbfbb1bf330250d9be2b4::gary::GARY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/G5NcunuFb8EPSDmK4JNzyfhtv7JGZ21wFcrFmKfvpump.png?size=lg&key=69ed92",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

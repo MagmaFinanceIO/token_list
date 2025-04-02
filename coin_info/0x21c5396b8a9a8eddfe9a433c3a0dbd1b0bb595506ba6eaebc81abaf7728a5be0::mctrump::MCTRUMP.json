@@ -1,0 +1,13 @@
+{
+  "name": "McTrump",
+  "symbol": "mctrump",
+  "decimals": 9,
+  "coin_type": "0x21c5396b8a9a8eddfe9a433c3a0dbd1b0bb595506ba6eaebc81abaf7728a5be0::mctrump::MCTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b014f063-5f99-4c01-b35c-ce5fa380dc23.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

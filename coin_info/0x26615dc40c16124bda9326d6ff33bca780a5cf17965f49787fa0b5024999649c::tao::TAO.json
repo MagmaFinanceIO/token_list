@@ -1,0 +1,13 @@
+{
+  "name": "The Anthropic Order",
+  "symbol": "TAO",
+  "decimals": 9,
+  "coin_type": "0x26615dc40c16124bda9326d6ff33bca780a5cf17965f49787fa0b5024999649c::tao::TAO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dbe5c07e-6979-49b5-9941-17d9e2432ed9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

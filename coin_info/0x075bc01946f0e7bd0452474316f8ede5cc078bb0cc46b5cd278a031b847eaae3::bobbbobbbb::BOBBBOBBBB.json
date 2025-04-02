@@ -1,0 +1,13 @@
+{
+  "name": "BOB",
+  "symbol": "BOBBBOBBBB",
+  "decimals": 9,
+  "coin_type": "0x075bc01946f0e7bd0452474316f8ede5cc078bb0cc46b5cd278a031b847eaae3::bobbbobbbb::BOBBBOBBBB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9118ed50-a44f-4bb1-99e3-4e86fb2b8c7b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

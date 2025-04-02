@@ -1,0 +1,13 @@
+{
+  "name": "Boys club  on  Sui",
+  "symbol": "SCLUB",
+  "decimals": 6,
+  "coin_type": "0x6ac3d69c8b81c074436fa9b7cc39c1d0a3ba48c3fed1c05b9c44752a6f164ee3::sclub::SCLUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/boy_308f4f7ea8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

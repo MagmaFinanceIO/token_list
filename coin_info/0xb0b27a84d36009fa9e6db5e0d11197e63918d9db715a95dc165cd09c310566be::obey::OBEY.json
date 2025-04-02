@@ -1,0 +1,13 @@
+{
+  "name": "OBEY",
+  "symbol": "OBEY",
+  "decimals": 9,
+  "coin_type": "0xb0b27a84d36009fa9e6db5e0d11197e63918d9db715a95dc165cd09c310566be::obey::OBEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9VbeaDPLgX5nBth8J6RLSW2KMQZvPbGMR8gokHnEpump.png?size=lg&key=6ce520",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

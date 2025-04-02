@@ -1,0 +1,13 @@
+{
+  "name": "D.O.P.E",
+  "symbol": "DOPE",
+  "decimals": 9,
+  "coin_type": "0xd4291701a1cd588e622fa56087caf1a2e7740556d407280694dfce8796c533b5::dope::DOPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a1f296c7-c043-4bf9-b668-d16c1188def4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

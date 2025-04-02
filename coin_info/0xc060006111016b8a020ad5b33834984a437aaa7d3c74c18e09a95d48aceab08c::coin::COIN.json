@@ -1,0 +1,15 @@
+{
+  "name": "Tether (Portal from Eth)",
+  "symbol": "wUSDT",
+  "decimals": 6,
+  "coin_type": "0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN",
+  "pyth_id": "2b89b9dc8fdf9f34709a5b106b472f0f39bb6ca9ce04b0fd7f2e971688e2e53b",
+  "birdeyeid": "0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN",
+  "coin_priority": [
+    "980"
+  ],
+  "logo_url": "https://kbjqugvqmnqhcwzoc4cxd5d57apkgpvn24nc5q4e6kvdmtlku6la.arweave.net/UFMKGrBjYHFbLhcFcfR9-B6jPq3XGi7DhPKqNk1qp5Y",
+  "project_url": "",
+  "coingecko_id": "tether-usd-wormhole-from-ethereum",
+  "is_trusted": true
+}

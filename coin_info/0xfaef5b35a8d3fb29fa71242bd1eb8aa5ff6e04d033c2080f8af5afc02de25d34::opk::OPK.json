@@ -1,0 +1,13 @@
+{
+  "name": "Obi PNut Kenobi",
+  "symbol": "OPK",
+  "decimals": 6,
+  "coin_type": "0xfaef5b35a8d3fb29fa71242bd1eb8aa5ff6e04d033c2080f8af5afc02de25d34::opk::OPK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/001_fc9d53cb13.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

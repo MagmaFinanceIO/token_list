@@ -1,0 +1,13 @@
+{
+  "name": "KYORA AI",
+  "symbol": "KYORA",
+  "decimals": 9,
+  "coin_type": "0x1049d5f92e31b017f54d135dd1a63d6404fe0bcba48196f445ea41c8eda47d8e::kyora::KYORA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8BDnLQ7YaHjyu1bGvRTq39jUEp7kb73dSTLQgnRypump.png?size=lg&key=faf8cc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

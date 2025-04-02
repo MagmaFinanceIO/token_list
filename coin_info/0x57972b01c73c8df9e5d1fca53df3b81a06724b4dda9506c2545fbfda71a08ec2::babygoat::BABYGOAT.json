@@ -1,0 +1,13 @@
+{
+  "name": "Baby Goatseus Maximus",
+  "symbol": "BABYGOAT",
+  "decimals": 9,
+  "coin_type": "0x57972b01c73c8df9e5d1fca53df3b81a06724b4dda9506c2545fbfda71a08ec2::babygoat::BABYGOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qmd4FRyEYrr9QthjQG19G5PDkf8n2FcSYGEfgJXNTwW831",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

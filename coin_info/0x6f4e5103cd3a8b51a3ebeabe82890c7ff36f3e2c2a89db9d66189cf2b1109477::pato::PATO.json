@@ -1,0 +1,13 @@
+{
+  "name": "PATO SUI",
+  "symbol": "PATO",
+  "decimals": 6,
+  "coin_type": "0x6f4e5103cd3a8b51a3ebeabe82890c7ff36f3e2c2a89db9d66189cf2b1109477::pato::PATO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6580_f1235a4ae5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

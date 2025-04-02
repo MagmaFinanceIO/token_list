@@ -1,0 +1,13 @@
+{
+  "name": "Rekt ai",
+  "symbol": "Rekt",
+  "decimals": 9,
+  "coin_type": "0xf42687e60aeece46032fce25c9e9ba417bb22d69f97cd7e19708609fdc6c6c8a::rekt::REKT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6Y9bduDh9RHgA9PLj6HxbMz66pihtXkpD84HAhEnpump.png?size=lg&key=80dd3c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suipenguin",
+  "symbol": "PENGU",
+  "decimals": 6,
+  "coin_type": "0x1566c6f9368389224763647ab365c204fb9d5e99d6a59e4171f94feeff2bc155::pengu::PENGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/b_I_Rx_DL_7_400x400_61322605cb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

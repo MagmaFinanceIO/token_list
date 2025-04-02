@@ -1,0 +1,13 @@
+{
+  "name": "2025sui",
+  "symbol": "SUI",
+  "decimals": 6,
+  "coin_type": "0xec6868df6cdfa933a7b0dcdabbd4527fa8f793208865f6c78a574514631f558e::sui::SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1302_9d25017f81.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

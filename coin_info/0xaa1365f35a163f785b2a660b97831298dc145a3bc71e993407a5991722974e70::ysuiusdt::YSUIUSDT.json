@@ -1,0 +1,13 @@
+{
+  "name": "Kai Vault suiUSDT",
+  "symbol": "ysuiUSDT",
+  "decimals": 6,
+  "coin_type": "0xaa1365f35a163f785b2a660b97831298dc145a3bc71e993407a5991722974e70::ysuiusdt::YSUIUSDT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

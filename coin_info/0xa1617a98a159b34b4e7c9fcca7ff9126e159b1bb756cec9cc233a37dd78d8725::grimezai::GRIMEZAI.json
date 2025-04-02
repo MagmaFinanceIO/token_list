@@ -1,0 +1,13 @@
+{
+  "name": "Grimezsz on Sui",
+  "symbol": "GrimezAI",
+  "decimals": 9,
+  "coin_type": "0xa1617a98a159b34b4e7c9fcca7ff9126e159b1bb756cec9cc233a37dd78d8725::grimezai::GRIMEZAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8oH2LTe1Khdu5DQwnR2WHsC3VK7uwB5UhV9UxmSppump.png?size=lg&key=b719c8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

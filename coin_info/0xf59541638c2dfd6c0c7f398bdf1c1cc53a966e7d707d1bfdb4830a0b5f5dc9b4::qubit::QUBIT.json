@@ -1,0 +1,13 @@
+{
+  "name": "The Quantum Dog",
+  "symbol": "QUBIT",
+  "decimals": 9,
+  "coin_type": "0xf59541638c2dfd6c0c7f398bdf1c1cc53a966e7d707d1bfdb4830a0b5f5dc9b4::qubit::QUBIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/788G3o96oTnXDVgDxMpopnxT8UYKiHpbAywddFadsNST.png?size=lg&key=8a9e42",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

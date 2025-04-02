@@ -1,0 +1,13 @@
+{
+  "name": "Muffy the Muff Muncher",
+  "symbol": "MUFF",
+  "decimals": 9,
+  "coin_type": "0xce0f9ce7030d3ca86185261cf38519be2ac3a9281b5bbb4aebf5b59c8e3272ba::muff::MUFF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/rfue5NU3KAH6giow?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

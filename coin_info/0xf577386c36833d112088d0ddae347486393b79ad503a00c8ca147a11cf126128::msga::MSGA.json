@@ -1,0 +1,13 @@
+{
+  "name": "MakeSUIGreatAgain",
+  "symbol": "MSGA",
+  "decimals": 6,
+  "coin_type": "0xf577386c36833d112088d0ddae347486393b79ad503a00c8ca147a11cf126128::msga::MSGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737467932437.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

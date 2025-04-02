@@ -1,0 +1,13 @@
+{
+  "name": "My Awesome DIGBAN",
+  "symbol": "DIGBAN",
+  "decimals": 9,
+  "coin_type": "0xb9ec89ea6c290d4cee94ea6d6d1f160fd4045f26d81bd925fc2d45d562aa98e1::digban::DIGBAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://red-rainy-catfish-636.mypinata.cloud/ipfs/QmfF9erhWqxTqrMjeX5w9NtqqLdh7bkKxeBFKGSHDeNudY",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

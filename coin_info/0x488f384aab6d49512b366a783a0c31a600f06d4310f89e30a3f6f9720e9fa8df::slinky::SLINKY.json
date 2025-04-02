@@ -1,0 +1,13 @@
+{
+  "name": "Slinky",
+  "symbol": "SLINKY",
+  "decimals": 9,
+  "coin_type": "0x488f384aab6d49512b366a783a0c31a600f06d4310f89e30a3f6f9720e9fa8df::slinky::SLINKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/jjrj9Yc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

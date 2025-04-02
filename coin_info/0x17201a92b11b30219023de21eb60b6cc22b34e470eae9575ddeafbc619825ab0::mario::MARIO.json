@@ -1,0 +1,13 @@
+{
+  "name": "Super Mario",
+  "symbol": "Mario",
+  "decimals": 9,
+  "coin_type": "0x17201a92b11b30219023de21eb60b6cc22b34e470eae9575ddeafbc619825ab0::mario::MARIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/20ac63f2-a831-4c13-8323-e8ea4799f44d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

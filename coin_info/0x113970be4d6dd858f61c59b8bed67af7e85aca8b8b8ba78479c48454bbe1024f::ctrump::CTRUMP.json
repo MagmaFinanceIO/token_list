@@ -1,0 +1,13 @@
+{
+  "name": "CollectorTrump",
+  "symbol": "CTRUMP",
+  "decimals": 9,
+  "coin_type": "0x113970be4d6dd858f61c59b8bed67af7e85aca8b8b8ba78479c48454bbe1024f::ctrump::CTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/35dc7fa8-11a6-43b4-9f57-89b4cfd2a4b8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

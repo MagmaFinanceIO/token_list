@@ -1,0 +1,13 @@
+{
+  "name": "BlubDOG",
+  "symbol": "BlubDOG",
+  "decimals": 9,
+  "coin_type": "0x68213a48cfb020390820ee81c8e9a08cb92d4da30d3447f18cd8a6ad887c4e94::blubdog::BLUBDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d22060a5-9cb6-439d-998e-362ddb2b153e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

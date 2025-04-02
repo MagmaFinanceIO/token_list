@@ -1,0 +1,13 @@
+{
+  "name": "Clowd",
+  "symbol": "Clowd",
+  "decimals": 9,
+  "coin_type": "0x54f98c8237a69047be1e6f8cd3c3aa5f622bbaefb9f3f0dfc2e787761c242d86::clowd::CLOWD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HXP2vgx64NC89S8GxkPvqg6tcGCkZgUyjLoTkip1pump.png?size=lg&key=d960d2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

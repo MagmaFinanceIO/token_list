@@ -1,0 +1,13 @@
+{
+  "name": "Fartcoin",
+  "symbol": "Fartcoin",
+  "decimals": 9,
+  "coin_type": "0xd813f9d0d177bad17900a1c29ac2f9a12fc53cbc899622524cd46cd26bac070e::fartcoin::FARTCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQr3Fz4h1etNsF7oLGMRHiCzhB5y9a7GjyodnF7zLHK1g",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

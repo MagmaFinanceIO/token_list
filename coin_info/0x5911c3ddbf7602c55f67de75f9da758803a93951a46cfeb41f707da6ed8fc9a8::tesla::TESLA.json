@@ -1,0 +1,13 @@
+{
+  "name": "Tesla tokens",
+  "symbol": "Tesla",
+  "decimals": 6,
+  "coin_type": "0x5911c3ddbf7602c55f67de75f9da758803a93951a46cfeb41f707da6ed8fc9a8::tesla::TESLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/a_ae_a_c_20240426014853_06b8e66c2f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

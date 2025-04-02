@@ -1,0 +1,13 @@
+{
+  "name": "BabySimonsCat",
+  "symbol": "BabySimons",
+  "decimals": 6,
+  "coin_type": "0x07ca2e2053af64943c436e891d9b0f2e23876c65442dc164a1bc34e2413d751d::babysimons::BABYSIMONS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1724034700909_164b74b8cbdf8866510d51cf77d4c3ec_5c12e419dd.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Tap to Earn",
+  "symbol": "TAP",
+  "decimals": 2,
+  "coin_type": "0xcfad0ed60f3d8fd97d7b298ac0607d4a033c437263fcea4c3dbc2106c55ca089::tap::TAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/34654c4d-a422-4207-a183-c4c5b1dad53c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

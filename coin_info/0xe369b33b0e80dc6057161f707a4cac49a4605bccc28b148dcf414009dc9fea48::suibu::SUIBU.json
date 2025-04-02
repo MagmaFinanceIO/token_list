@@ -1,0 +1,13 @@
+{
+  "name": "Sui Mascot Suibu",
+  "symbol": "Suibu",
+  "decimals": 9,
+  "coin_type": "0xe369b33b0e80dc6057161f707a4cac49a4605bccc28b148dcf414009dc9fea48::suibu::SUIBU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b339c7b4-ed7f-4536-95c1-de47a7d3de3e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

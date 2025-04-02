@@ -1,0 +1,13 @@
+{
+  "name": "MoonDog",
+  "symbol": "MoonDog",
+  "decimals": 9,
+  "coin_type": "0x8e1684925fbc839b6a613edee32bb55614880d5dfc2eaa30c8eaacab1fc65a49::moondog::MOONDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b32367be-a701-4f76-82b0-a4dd22b7ad20.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

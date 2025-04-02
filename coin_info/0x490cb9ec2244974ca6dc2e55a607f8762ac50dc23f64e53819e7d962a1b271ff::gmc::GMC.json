@@ -1,0 +1,13 @@
+{
+  "name": "Gift Me Coffee",
+  "symbol": "GMC",
+  "decimals": 6,
+  "coin_type": "0x490cb9ec2244974ca6dc2e55a607f8762ac50dc23f64e53819e7d962a1b271ff::gmc::GMC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9983466b-0001-4faa-b547-406eccd2696d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

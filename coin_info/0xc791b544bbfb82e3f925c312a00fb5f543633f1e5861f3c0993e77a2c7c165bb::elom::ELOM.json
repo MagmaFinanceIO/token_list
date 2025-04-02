@@ -1,0 +1,13 @@
+{
+  "name": "Elom Mars",
+  "symbol": "Elom",
+  "decimals": 6,
+  "coin_type": "0xc791b544bbfb82e3f925c312a00fb5f543633f1e5861f3c0993e77a2c7c165bb::elom::ELOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ykahd3_2e2db75592.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

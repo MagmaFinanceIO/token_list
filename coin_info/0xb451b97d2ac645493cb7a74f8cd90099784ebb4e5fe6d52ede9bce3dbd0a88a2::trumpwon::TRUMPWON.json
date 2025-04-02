@@ -1,0 +1,13 @@
+{
+  "name": "Trump Won On Sui",
+  "symbol": "TRUMPWON",
+  "decimals": 9,
+  "coin_type": "0xb451b97d2ac645493cb7a74f8cd90099784ebb4e5fe6d52ede9bce3dbd0a88a2::trumpwon::TRUMPWON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fcc46c5b-ce26-4936-bda7-ed50e77d791b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

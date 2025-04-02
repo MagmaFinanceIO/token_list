@@ -1,0 +1,13 @@
+{
+  "name": "Sui Video Cat",
+  "symbol": "VCat",
+  "decimals": 6,
+  "coin_type": "0xe9119a7fc544b376e2b24ef3cda7b3f73eb07955a85812fa6d014188ebd7e518::vcat::VCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731578344922.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

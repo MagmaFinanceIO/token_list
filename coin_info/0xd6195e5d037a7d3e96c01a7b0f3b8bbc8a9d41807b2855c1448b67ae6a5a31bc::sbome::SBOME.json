@@ -1,0 +1,13 @@
+{
+  "name": "SUI BOME",
+  "symbol": "SBOME",
+  "decimals": 9,
+  "coin_type": "0xd6195e5d037a7d3e96c01a7b0f3b8bbc8a9d41807b2855c1448b67ae6a5a31bc::sbome::SBOME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://teal-deliberate-skunk-670.mypinata.cloud/ipfs/QmRGmFU7rh16UQ3hwopBSPao479ubQxfxRP51yMgRwTtkC",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

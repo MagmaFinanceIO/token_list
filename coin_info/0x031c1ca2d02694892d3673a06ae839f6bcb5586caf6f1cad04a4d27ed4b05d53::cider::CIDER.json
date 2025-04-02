@@ -1,0 +1,13 @@
+{
+  "name": "Cider 🍺",
+  "symbol": "CIDER",
+  "decimals": 9,
+  "coin_type": "0x031c1ca2d02694892d3673a06ae839f6bcb5586caf6f1cad04a4d27ed4b05d53::cider::CIDER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8319b15a-7271-4495-91f2-386d29acb06a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

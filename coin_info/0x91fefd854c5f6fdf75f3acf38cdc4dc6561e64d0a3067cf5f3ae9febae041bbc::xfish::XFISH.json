@@ -1,0 +1,13 @@
+{
+  "name": "XFish AI On Sui",
+  "symbol": "XFISH",
+  "decimals": 9,
+  "coin_type": "0x91fefd854c5f6fdf75f3acf38cdc4dc6561e64d0a3067cf5f3ae9febae041bbc::xfish::XFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c551e63c-8419-460b-ba11-876b7cda18ee.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

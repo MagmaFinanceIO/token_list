@@ -1,0 +1,13 @@
+{
+  "name": "Popmas",
+  "symbol": "POPMAS",
+  "decimals": 9,
+  "coin_type": "0x9738d9979c47cc55e8b6a40f1dc429a1fb7c3d1a415367c247adecc962000805::popmas::POPMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreigiykahc6bw3qm7xfvi2m6fxerztdh5ciltb2qnvkdec2vca5qwwe.ipfs.w3s.link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

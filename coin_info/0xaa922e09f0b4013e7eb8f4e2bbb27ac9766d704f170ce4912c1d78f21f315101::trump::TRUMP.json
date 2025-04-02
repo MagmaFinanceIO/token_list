@@ -1,0 +1,13 @@
+{
+  "name": "Trump 47",
+  "symbol": "TRUMP",
+  "decimals": 9,
+  "coin_type": "0xaa922e09f0b4013e7eb8f4e2bbb27ac9766d704f170ce4912c1d78f21f315101::trump::TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d993816c-574f-4562-872e-e0052db141d8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

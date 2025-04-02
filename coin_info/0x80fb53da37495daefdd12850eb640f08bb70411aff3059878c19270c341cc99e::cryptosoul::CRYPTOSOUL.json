@@ -1,0 +1,13 @@
+{
+  "name": "CryptoSoul by SuiAI",
+  "symbol": "CRYPTOSOUL",
+  "decimals": 6,
+  "coin_type": "0x80fb53da37495daefdd12850eb640f08bb70411aff3059878c19270c341cc99e::cryptosoul::CRYPTOSOUL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000198821_6c7ef5cc80.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

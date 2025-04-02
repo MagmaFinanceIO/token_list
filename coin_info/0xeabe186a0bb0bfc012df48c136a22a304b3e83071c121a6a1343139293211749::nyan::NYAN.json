@@ -1,0 +1,13 @@
+{
+  "name": "Nyan Cat",
+  "symbol": "NYAN",
+  "decimals": 9,
+  "coin_type": "0xeabe186a0bb0bfc012df48c136a22a304b3e83071c121a6a1343139293211749::nyan::NYAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0a68c804-2e4f-4ebe-9348-f7ccc8252700.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Dork",
+  "symbol": "DORK",
+  "decimals": 6,
+  "coin_type": "0xbecc4b6cc2450a453754f100b07a8b3d741b427e5accd3fc0c8de88c54f2cee2::dork::DORK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731213980286.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Snowly",
+  "symbol": "SNOWLY",
+  "decimals": 6,
+  "coin_type": "0xefff19ffe7b3944da9a02711863f14ec40ae53526ff2f5959a7be6fb3da794e8::snowly::SNOWLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2025_01_14_17_41_28_removebg_preview_4365035866.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

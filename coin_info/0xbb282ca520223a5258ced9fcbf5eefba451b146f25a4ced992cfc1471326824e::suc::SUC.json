@@ -1,0 +1,13 @@
+{
+  "name": "Sui Cat",
+  "symbol": "SUC",
+  "decimals": 6,
+  "coin_type": "0xbb282ca520223a5258ced9fcbf5eefba451b146f25a4ced992cfc1471326824e::suc::SUC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_09_19_20_15_12_891136c020.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

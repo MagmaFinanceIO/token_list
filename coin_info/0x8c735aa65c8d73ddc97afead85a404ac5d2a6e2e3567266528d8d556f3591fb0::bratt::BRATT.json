@@ -1,0 +1,13 @@
+{
+  "name": "Tyson Bratt",
+  "symbol": "Bratt",
+  "decimals": 9,
+  "coin_type": "0x8c735aa65c8d73ddc97afead85a404ac5d2a6e2e3567266528d8d556f3591fb0::bratt::BRATT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8d3046c1-4c6d-45cf-83b2-7fb2ee63c978.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

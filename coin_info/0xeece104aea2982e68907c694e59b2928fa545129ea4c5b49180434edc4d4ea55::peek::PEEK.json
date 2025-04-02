@@ -1,0 +1,13 @@
+{
+  "name": "PEEK SUI",
+  "symbol": "PEEK",
+  "decimals": 9,
+  "coin_type": "0xeece104aea2982e68907c694e59b2928fa545129ea4c5b49180434edc4d4ea55::peek::PEEK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f5180558-8435-4cdf-9310-dd4a4961f33b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CHOW",
+  "symbol": "CHOW",
+  "decimals": 9,
+  "coin_type": "0xbb73f2f8ced1c98b526f1219f57eef944e8e2c61f505453ca6b35ab863a1341e::chow::CHOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/D3e6q5q8TbNWrZ4mDVLNMnjL9HfGFtwD5YVEue5zpump.png?size=lg&key=920f88",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

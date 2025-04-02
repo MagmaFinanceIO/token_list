@@ -1,0 +1,13 @@
+{
+  "name": "OctoSuiCoin",
+  "symbol": "OCTO",
+  "decimals": 9,
+  "coin_type": "0x965df75806780183f8146245aa1a93f2d64280fa303e016f5b3e30280c181e78::octo::OCTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0240fc9f-83a8-4b50-904c-4255cf7590e4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

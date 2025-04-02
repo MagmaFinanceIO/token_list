@@ -1,0 +1,13 @@
+{
+  "name": "Book of SUI",
+  "symbol": "BOOK",
+  "decimals": 9,
+  "coin_type": "0x10d0e6eb87a5de0cb5dcfd501e668e07ab9b28d254096bb6e86dc91757160a77::book::BOOK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2cc33c93-73e4-4edd-aa32-aaaea6db2c2e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

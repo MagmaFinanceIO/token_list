@@ -1,0 +1,13 @@
+{
+  "name": "Bob the bear",
+  "symbol": "BOB",
+  "decimals": 9,
+  "coin_type": "0xf46302cbd078bfc6bad2f4f821ddd085aa5d8f958c0a6d362cc7a3bb775745b4::bob::BOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPe3b08Bu5qcv_qzsiYPQA05-Pauc1HOVLiw&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PLAYBOI CARTI",
+  "symbol": "CARTI",
+  "decimals": 9,
+  "coin_type": "0x3109fdbde13afe6a9af14e6c645e79208e44499bd5a29fadc72ad6995109f70c::carti::CARTI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

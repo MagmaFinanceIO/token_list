@@ -1,0 +1,13 @@
+{
+  "name": "Fartbrothers",
+  "symbol": "FART",
+  "decimals": 6,
+  "coin_type": "0x0deca2e15d25586923c2d096fb5fdadb3358907c36dd58a0b7753d9a79d53a31::fart::FART",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/49e4d664-0b69-4f0f-acd1-43f683ecbe3f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

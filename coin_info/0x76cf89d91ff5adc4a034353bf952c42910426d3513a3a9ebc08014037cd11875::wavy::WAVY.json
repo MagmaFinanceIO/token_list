@@ -1,0 +1,13 @@
+{
+  "name": "Wavy",
+  "symbol": "WAVY",
+  "decimals": 6,
+  "coin_type": "0x76cf89d91ff5adc4a034353bf952c42910426d3513a3a9ebc08014037cd11875::wavy::WAVY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/c3d86307_9572_4ca1_8910_3498cd3ac1ed_faa46d3cb9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

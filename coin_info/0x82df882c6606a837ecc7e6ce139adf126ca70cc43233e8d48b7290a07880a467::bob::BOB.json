@@ -1,0 +1,13 @@
+{
+  "name": "This is Bob. Copy and paste him",
+  "symbol": "Bob",
+  "decimals": 9,
+  "coin_type": "0x82df882c6606a837ecc7e6ce139adf126ca70cc43233e8d48b7290a07880a467::bob::BOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmS7oXaAwsvUEPVTiitMUruxEHWWJuWZDCYkzHHtzqjdEX",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

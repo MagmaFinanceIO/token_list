@@ -1,0 +1,13 @@
+{
+  "name": "Bebe Coin",
+  "symbol": "BEBE",
+  "decimals": 6,
+  "coin_type": "0x6547e38b5fdb36d0641b361639514357ead272fb69a1033e4748c1ba588afc80::bebe::BEBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_2_4_7c83df47ae.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

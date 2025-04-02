@@ -1,0 +1,13 @@
+{
+  "name": "RAI AI AGENT",
+  "symbol": "RAI",
+  "decimals": 9,
+  "coin_type": "0x660e7696128af462a42909959e399fed80128f4aee465bc9e4adcb22851e17bd::rai::RAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dexscreener.com/solana/88do16qs1rbwuknhw8nsorjjtkicam5kyy9wlfn8pump",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

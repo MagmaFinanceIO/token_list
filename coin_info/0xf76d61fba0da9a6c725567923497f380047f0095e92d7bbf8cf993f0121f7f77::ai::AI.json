@@ -1,0 +1,13 @@
+{
+  "name": "AI",
+  "symbol": "AI",
+  "decimals": 9,
+  "coin_type": "0xf76d61fba0da9a6c725567923497f380047f0095e92d7bbf8cf993f0121f7f77::ai::AI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

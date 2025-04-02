@@ -1,0 +1,13 @@
+{
+  "name": "Ravora AI",
+  "symbol": "RAVORA",
+  "decimals": 9,
+  "coin_type": "0x755c322b6554c74698987aa2a0b02c50a20c87ddef012646fa452c669671bf4d::ravora::RAVORA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8QJviDd3QpaNpQaaAmUYtvxW4wyM34yY39ozBsghpump.png?size=lg&key=e800b4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

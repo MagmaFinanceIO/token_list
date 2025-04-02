@@ -1,0 +1,13 @@
+{
+  "name": "Victims of Pump Fun",
+  "symbol": "VICTIM",
+  "decimals": 9,
+  "coin_type": "0x89b20ddc0bd7512dd61ecf8ba20a2bc26caf3a4d8858ab54a642111766e68f25::victim::VICTIM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreieuqvyvy7oa7fvjdgntfgwblcbfkwl63umpmse427nryezd5q4eja.ipfs.w3s.link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

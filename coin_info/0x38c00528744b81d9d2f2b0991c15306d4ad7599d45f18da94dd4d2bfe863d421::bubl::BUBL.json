@@ -1,0 +1,13 @@
+{
+  "name": "BUBL ",
+  "symbol": "BUBL",
+  "decimals": 6,
+  "coin_type": "0x38c00528744b81d9d2f2b0991c15306d4ad7599d45f18da94dd4d2bfe863d421::bubl::BUBL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731010522485.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

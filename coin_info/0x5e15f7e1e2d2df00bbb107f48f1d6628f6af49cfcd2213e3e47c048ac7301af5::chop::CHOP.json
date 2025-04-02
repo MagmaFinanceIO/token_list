@@ -1,0 +1,13 @@
+{
+  "name": "CHOP",
+  "symbol": "CHOP",
+  "decimals": 9,
+  "coin_type": "0x5e15f7e1e2d2df00bbb107f48f1d6628f6af49cfcd2213e3e47c048ac7301af5::chop::CHOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/003048aa-0108-453c-88b0-7353481b189f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

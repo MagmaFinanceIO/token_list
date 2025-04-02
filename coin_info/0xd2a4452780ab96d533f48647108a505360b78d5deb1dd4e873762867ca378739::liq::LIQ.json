@@ -1,0 +1,13 @@
+{
+  "name": "Liquid Protocol",
+  "symbol": "LIQ",
+  "decimals": 9,
+  "coin_type": "0xd2a4452780ab96d533f48647108a505360b78d5deb1dd4e873762867ca378739::liq::LIQ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/286ce542-6721-4489-9241-d50567c3f66d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

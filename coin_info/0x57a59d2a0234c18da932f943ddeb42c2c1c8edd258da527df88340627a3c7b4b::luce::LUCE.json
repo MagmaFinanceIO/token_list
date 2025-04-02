@@ -1,0 +1,13 @@
+{
+  "name": "Sui’s Mascot LUCE",
+  "symbol": "$LUCE",
+  "decimals": 6,
+  "coin_type": "0x57a59d2a0234c18da932f943ddeb42c2c1c8edd258da527df88340627a3c7b4b::luce::LUCE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmeEerocjzoMJDiP2rNaSTzHvB5XkhLT9LyLKAkYsZ4Kqs",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

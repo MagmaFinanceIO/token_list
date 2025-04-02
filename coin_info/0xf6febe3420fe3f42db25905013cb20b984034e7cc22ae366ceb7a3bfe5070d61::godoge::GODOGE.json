@@ -1,0 +1,13 @@
+{
+  "name": "Goat D.O.G.E",
+  "symbol": "GODOGE",
+  "decimals": 9,
+  "coin_type": "0xf6febe3420fe3f42db25905013cb20b984034e7cc22ae366ceb7a3bfe5070d61::godoge::GODOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/90baa7a0-4237-40d1-8d02-ea0f881f29ea.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

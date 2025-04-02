@@ -1,0 +1,13 @@
+{
+  "name": "PePeWifPuPe",
+  "symbol": "PEPEWIF",
+  "decimals": 9,
+  "coin_type": "0x6aadde56da5c5e45590677cecd1900717f0f68a208920bcdfb20591e65146db7::pepewif::PEPEWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/67fe399c-ae81-48b9-8ea2-9a2a73679ed6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

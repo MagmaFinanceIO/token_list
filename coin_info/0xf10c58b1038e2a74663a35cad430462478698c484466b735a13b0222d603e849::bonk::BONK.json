@@ -1,0 +1,13 @@
+{
+  "name": "BONK",
+  "symbol": "Bonk on SUI",
+  "decimals": 9,
+  "coin_type": "0xf10c58b1038e2a74663a35cad430462478698c484466b735a13b0222d603e849::bonk::BONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Digital Grouper",
+  "symbol": "DG",
+  "decimals": 9,
+  "coin_type": "0x6655851b645d6f3ae5b8b7fd77d0f400f5493933847ff847940e65348e1a7ede::dg::DG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a54eb1f6-0290-4755-bbad-d3a5c0756403.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

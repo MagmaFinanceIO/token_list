@@ -1,0 +1,13 @@
+{
+  "name": "POPNUT",
+  "symbol": "POPNUT",
+  "decimals": 9,
+  "coin_type": "0xe009860f5dde5180699e3d1807c323d5e09ddb17bfcdd25625d4f2553e41e066::popnut::POPNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7pnmPg7C1nA3x4455TKw5YSSdfSdTmKRiwhxbKy6pump.png?size=lg&key=fad96d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

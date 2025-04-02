@@ -1,0 +1,15 @@
+{
+  "name": "Ondo US Dollar Yield",
+  "symbol": "USDY",
+  "decimals": 6,
+  "coin_type": "0x960b531667636f39e85867775f52f6b1f220a058c4de786905bdf761e06a56bb::usdy::USDY",
+  "pyth_id": "e393449f6aff8a4b6d3e1165a7c9ebec103685f3b41e60db4277b5b6d10e7326",
+  "birdeyeid": "0x960b531667636f39e85867775f52f6b1f220a058c4de786905bdf761e06a56bb::usdy::USDY",
+  "coin_priority": [
+    "880"
+  ],
+  "logo_url": "https://66wosxwjgpz7qbv4psulb555d35nxqn6h6jtgu2cxzw4awrbtw3q.arweave.net/96zpXskz8_gGvHyosPe9Hvrbwb4_kzNTQr5twFohnbc",
+  "project_url": "",
+  "coingecko_id": "ondo-us-dollar-yield",
+  "is_trusted": true
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Jollof",
+  "symbol": "JOLLOF",
+  "decimals": 9,
+  "coin_type": "0xe22c022cae0f0b471c47769fe6d989fe02c9c65449b3e6227b5ebfe53f135025::jollof::JOLLOF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/55c85159-331c-4792-b8b8-cf7601d6e4a1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

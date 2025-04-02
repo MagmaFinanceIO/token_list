@@ -1,0 +1,13 @@
+{
+  "name": "Effinrats",
+  "symbol": "Frats",
+  "decimals": 9,
+  "coin_type": "0xca24394dcb0eb43470e51d7a8edfb62699e9f95d11b7e47c3162fe89cb3785d0::frats::FRATS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/76418f31-a173-418b-960c-1b884d70304d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

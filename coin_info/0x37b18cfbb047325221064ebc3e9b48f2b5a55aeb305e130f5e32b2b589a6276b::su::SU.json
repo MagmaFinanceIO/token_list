@@ -1,0 +1,13 @@
+{
+  "name": "Sui universal",
+  "symbol": "SU",
+  "decimals": 6,
+  "coin_type": "0x37b18cfbb047325221064ebc3e9b48f2b5a55aeb305e130f5e32b2b589a6276b::su::SU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000056941_15e6d60a35.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ADoge",
+  "symbol": "ADOGE",
+  "decimals": 9,
+  "coin_type": "0xb2bb4fcc0b138705955b3a00560e3ebe9ce870de73f0c81b501f72fe3051af9d::adoge::ADOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a2d1cc08-85ea-47ec-8f6c-207ac587389e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

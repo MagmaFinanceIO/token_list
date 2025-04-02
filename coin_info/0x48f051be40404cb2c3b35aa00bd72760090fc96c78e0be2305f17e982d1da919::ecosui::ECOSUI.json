@@ -1,0 +1,13 @@
+{
+  "name": "E.C.O.S.U.I.S.T.E.M",
+  "symbol": "ECOSUI",
+  "decimals": 4,
+  "coin_type": "0x48f051be40404cb2c3b35aa00bd72760090fc96c78e0be2305f17e982d1da919::ecosui::ECOSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d6899c10-6465-41cd-b63d-2677b3063ad0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

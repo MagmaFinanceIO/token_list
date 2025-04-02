@@ -1,0 +1,13 @@
+{
+  "name": "Space Monky",
+  "symbol": "Monky",
+  "decimals": 9,
+  "coin_type": "0xafa1f92a2f5450fd518b809faf2f403d2687128faffe1947de2c6291d24a9647::monky::MONKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f1bfa01f-371a-449d-aca3-161dfa399385.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

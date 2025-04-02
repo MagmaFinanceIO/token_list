@@ -1,0 +1,13 @@
+{
+  "name": "My Awesome Token",
+  "symbol": "MAT",
+  "decimals": 9,
+  "coin_type": "0x28a33cc752f725387ecfad06c01b26754b2fe8a36702016e2782fef7f46d6de3::token::TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://red-rainy-catfish-636.mypinata.cloud/ipfs/QmfF9erhWqxTqrMjeX5w9NtqqLdh7bkKxeBFKGSHDeNudY",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

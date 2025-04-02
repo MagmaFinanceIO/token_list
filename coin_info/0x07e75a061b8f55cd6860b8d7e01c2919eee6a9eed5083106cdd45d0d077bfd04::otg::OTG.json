@@ -1,0 +1,13 @@
+{
+  "name": "Only two genders",
+  "symbol": "OTG",
+  "decimals": 9,
+  "coin_type": "0x07e75a061b8f55cd6860b8d7e01c2919eee6a9eed5083106cdd45d0d077bfd04::otg::OTG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AqHusHSkyokKs7wTY6YxikQ24gomqE5HF96jy9DMpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

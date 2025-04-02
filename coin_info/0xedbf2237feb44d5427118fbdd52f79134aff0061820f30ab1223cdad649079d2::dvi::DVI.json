@@ -1,0 +1,13 @@
+{
+  "name": "Doge Verse Inu",
+  "symbol": "DVI",
+  "decimals": 1,
+  "coin_type": "0xedbf2237feb44d5427118fbdd52f79134aff0061820f30ab1223cdad649079d2::dvi::DVI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4977bb9e-4fdd-4b54-8593-a26957b7df1e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

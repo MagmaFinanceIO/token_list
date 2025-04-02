@@ -1,0 +1,13 @@
+{
+  "name": "Armenia",
+  "symbol": "Armenia",
+  "decimals": 2,
+  "coin_type": "0xc698f0ca03a24a689107f5845fdb8f146d841610239fca2b8a14761bb1358798::armenia::ARMENIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/86631ace-c7d6-489b-afe7-62b90bef428b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

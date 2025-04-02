@@ -1,0 +1,13 @@
+{
+  "name": "Make Europe Great Again",
+  "symbol": "MEGA",
+  "decimals": 9,
+  "coin_type": "0x58d6b915622961bcc861d9912f4fae9581fabd67b54bb36ad35898931853b1b1::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HABIBISUI",
+  "symbol": "HABIBISUI",
+  "decimals": 9,
+  "coin_type": "0xa61826454d2f1f9dd059238ff0fba235bfb3e90f064ef43b7d4e2e320ad17f01::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

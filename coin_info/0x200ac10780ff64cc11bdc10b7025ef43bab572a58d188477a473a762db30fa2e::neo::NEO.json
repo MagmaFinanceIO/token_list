@@ -1,0 +1,13 @@
+{
+  "name": "Neo Whale AI",
+  "symbol": "NEO",
+  "decimals": 6,
+  "coin_type": "0x200ac10780ff64cc11bdc10b7025ef43bab572a58d188477a473a762db30fa2e::neo::NEO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/e52aa2a1_a6f0_494c_8f49_0577e3efc4a1_2fec072cbb.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

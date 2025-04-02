@@ -1,0 +1,13 @@
+{
+  "name": "TSM COIN",
+  "symbol": "TSMC",
+  "decimals": 9,
+  "coin_type": "0xd37ae69825ef64dce9f2d7eecbc8246fe5a1950c477163c7bc4a27bd4c0e70cf::tsmc::TSMC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3f3f29e4-b5be-459f-a8bf-fe6c604a7f6c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

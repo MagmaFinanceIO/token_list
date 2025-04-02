@@ -1,0 +1,13 @@
+{
+  "name": "Twitch",
+  "symbol": "TWITCH",
+  "decimals": 6,
+  "coin_type": "0xc4614ea8676ba03974d8aff4d4d84401d58d347a88746b9f6669ba5f21a8db62::twitch::TWITCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Twitch_fab21728a6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

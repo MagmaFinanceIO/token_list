@@ -1,0 +1,13 @@
+{
+  "name": "Blue Move Pump",
+  "symbol": "BMP",
+  "decimals": 6,
+  "coin_type": "0x7a2b93cded2d073e2c9939968278951f3ea0015da5ff2dd61e52e43fadedbc21::bmp::BMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Sk_Agauhd_400x400_1_f6ce3b686e_afe2e532e2.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

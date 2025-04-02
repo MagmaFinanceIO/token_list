@@ -1,0 +1,15 @@
+{
+  "name": "OTTER",
+  "symbol": "OTTER",
+  "decimals": 9,
+  "coin_type": "0x297b7f887a47fdcdf82364b5b175c2f00c2ece012c06ec7dc58ee7bc0c63aa07::otter::OTTER",
+  "pyth_id": "",
+  "birdeyeid": "0x297b7f887a47fdcdf82364b5b175c2f00c2ece012c06ec7dc58ee7bc0c63aa07::otter::OTTER",
+  "coin_priority": [
+    "660"
+  ],
+  "logo_url": "https://i52dwsbjw2rvuagb4yknsxruq2vwqprdhga6p53ik3co6kzdiwea.arweave.net/R3Q7SCm2o1oAweYU2V40hqtoPiM5gef3aFbE7ysjRYg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Viper",
+  "symbol": "Viper",
+  "decimals": 9,
+  "coin_type": "0x49099066ce96efb96af8cdcf25c818ccd63967546b2f3d32cfb9d1eb8b47d6e2::viper::VIPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GoCddnnjLq8mF8qgwNjYN1NL51yHT3bokbrzir8Rpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

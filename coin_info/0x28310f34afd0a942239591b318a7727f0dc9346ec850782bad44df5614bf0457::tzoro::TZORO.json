@@ -1,0 +1,13 @@
+{
+  "name": "tzoro",
+  "symbol": "tzoro",
+  "decimals": 9,
+  "coin_type": "0x28310f34afd0a942239591b318a7727f0dc9346ec850782bad44df5614bf0457::tzoro::TZORO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

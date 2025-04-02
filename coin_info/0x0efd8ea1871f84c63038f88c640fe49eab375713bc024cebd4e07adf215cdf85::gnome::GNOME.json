@@ -1,0 +1,13 @@
+{
+  "name": "Gnome",
+  "symbol": "GNOME",
+  "decimals": 9,
+  "coin_type": "0x0efd8ea1871f84c63038f88c640fe49eab375713bc024cebd4e07adf215cdf85::gnome::GNOME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2J5Dpp57RsjLBkJrEvyrAQpg8qWvgadUeJR4Ln7bpump.png?size=lg&key=f3edfa",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

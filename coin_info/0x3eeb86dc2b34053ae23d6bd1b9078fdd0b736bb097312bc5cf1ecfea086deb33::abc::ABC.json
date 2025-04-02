@@ -1,0 +1,13 @@
+{
+  "name": "ai binary cat",
+  "symbol": "ABC",
+  "decimals": 6,
+  "coin_type": "0x3eeb86dc2b34053ae23d6bd1b9078fdd0b736bb097312bc5cf1ecfea086deb33::abc::ABC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_T2d_S6q_CL_3q_X6_G5i_MC_1v_N_Yr2_Wyt3_T_Et_K_Nqi9_D_Afnr_QX_49_c15d0e17a1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

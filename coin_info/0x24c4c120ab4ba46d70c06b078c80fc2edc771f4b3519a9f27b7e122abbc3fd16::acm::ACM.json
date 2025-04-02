@@ -1,0 +1,13 @@
+{
+  "name": "Alicius Muskimus",
+  "symbol": "ACM",
+  "decimals": 9,
+  "coin_type": "0x24c4c120ab4ba46d70c06b078c80fc2edc771f4b3519a9f27b7e122abbc3fd16::acm::ACM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BM7qSiFCiveaYmmB1ueGCGDXVWvgBivqdDgmxQgupump.png?size=lg&key=c4de94",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

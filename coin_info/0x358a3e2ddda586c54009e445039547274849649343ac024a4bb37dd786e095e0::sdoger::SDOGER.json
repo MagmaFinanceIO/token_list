@@ -1,0 +1,13 @@
+{
+  "name": "SANTA D.O.G.E RIDE ROCKET",
+  "symbol": "SDOGER",
+  "decimals": 9,
+  "coin_type": "0x358a3e2ddda586c54009e445039547274849649343ac024a4bb37dd786e095e0::sdoger::SDOGER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ea0ba728-c579-4753-9a00-379c0424ca24.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

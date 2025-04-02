@@ -1,0 +1,13 @@
+{
+  "name": "FUCKSD",
+  "symbol": "FUCKSD",
+  "decimals": 2,
+  "coin_type": "0x76ecfa49c110d4b11d370350ea3df6010346134aebdb00ac329dd0a6dc2a1419::fucksd::FUCKSD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

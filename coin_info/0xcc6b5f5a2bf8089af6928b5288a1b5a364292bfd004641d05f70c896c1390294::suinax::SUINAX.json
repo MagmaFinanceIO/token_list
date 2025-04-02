@@ -1,0 +1,13 @@
+{
+  "name": "SuinaX",
+  "symbol": "SUINAX",
+  "decimals": 6,
+  "coin_type": "0xcc6b5f5a2bf8089af6928b5288a1b5a364292bfd004641d05f70c896c1390294::suinax::SUINAX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/profile_33764066d5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

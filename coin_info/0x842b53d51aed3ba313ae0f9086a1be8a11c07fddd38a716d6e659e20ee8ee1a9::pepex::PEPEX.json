@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Unchained X",
+  "symbol": "PepeX",
+  "decimals": 9,
+  "coin_type": "0x842b53d51aed3ba313ae0f9086a1be8a11c07fddd38a716d6e659e20ee8ee1a9::pepex::PEPEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a4ebef61-8965-42fe-ac75-5675717d3f6b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

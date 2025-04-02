@@ -1,0 +1,13 @@
+{
+  "name": "SMILING CAT",
+  "symbol": "GRINNER",
+  "decimals": 1,
+  "coin_type": "0x2799e295c130305b68b0c8330607433fa4051c80b1a5ebed8eac9435ae312bc1::grinner::GRINNER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/804295fd-7b2e-4905-8d93-c6ea8c450c92.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

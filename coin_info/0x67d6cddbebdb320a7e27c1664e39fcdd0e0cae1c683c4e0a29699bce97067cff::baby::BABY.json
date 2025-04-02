@@ -1,0 +1,13 @@
+{
+  "name": "BabySUI",
+  "symbol": "BABY",
+  "decimals": 9,
+  "coin_type": "0x67d6cddbebdb320a7e27c1664e39fcdd0e0cae1c683c4e0a29699bce97067cff::baby::BABY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9808c517-992f-4a4f-abfa-635ae2a8b93c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "he",
+  "symbol": "He",
+  "decimals": 6,
+  "coin_type": "0xe99e88835454f8eb175da94c2e055a3bc603ea64a201ef4e0d2495223b26269e::he::HE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730953662250.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

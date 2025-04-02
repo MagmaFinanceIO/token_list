@@ -1,0 +1,13 @@
+{
+  "name": "SKYpurr",
+  "symbol": "SKY",
+  "decimals": 6,
+  "coin_type": "0x7611fd0407721a42f7c508279beedef9d7eb0781746f2dadd66c2718ac6d3200::sky::SKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20240920_WA_0005_12ef884dbd.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

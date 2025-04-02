@@ -1,0 +1,13 @@
+{
+  "name": "Jhon BOBE recovery",
+  "symbol": "JHONBOBE",
+  "decimals": 6,
+  "coin_type": "0x662289a64805606ae00ccbdeee5008d01349b305c51648893f795b164ec826de::jhonbobe::JHONBOBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000037915_f3d0c4b028.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

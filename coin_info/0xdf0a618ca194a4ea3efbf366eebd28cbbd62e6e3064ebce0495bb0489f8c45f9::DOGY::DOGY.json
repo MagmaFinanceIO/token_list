@@ -1,0 +1,13 @@
+{
+  "name": "DOGY",
+  "symbol": "DOGY",
+  "decimals": 9,
+  "coin_type": "0xdf0a618ca194a4ea3efbf366eebd28cbbd62e6e3064ebce0495bb0489f8c45f9::DOGY::DOGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

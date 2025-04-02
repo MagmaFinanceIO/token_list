@@ -1,0 +1,13 @@
+{
+  "name": "BaySwap Token",
+  "symbol": "BSWT",
+  "decimals": 9,
+  "coin_type": "0xf0fe2210b4f0c4e3aff7ed147f14980cf14f1114c6ad8fd531ab748ccf33373b::bswt::BSWT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://app.bayswap.io/bswt.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

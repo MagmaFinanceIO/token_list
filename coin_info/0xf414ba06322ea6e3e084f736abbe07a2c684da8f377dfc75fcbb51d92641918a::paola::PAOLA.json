@@ -1,0 +1,13 @@
+{
+  "name": "PAOLA",
+  "symbol": "PAOLA",
+  "decimals": 9,
+  "coin_type": "0xf414ba06322ea6e3e084f736abbe07a2c684da8f377dfc75fcbb51d92641918a::paola::PAOLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bd876b8b-ef73-4848-a4e0-973246c8f56e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

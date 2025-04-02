@@ -1,0 +1,13 @@
+{
+  "name": "Infinity Ai Agent",
+  "symbol": "IAI",
+  "decimals": 6,
+  "coin_type": "0x8da2d8b41820b663ce892372b3b7bb6d1bd819ae509afb4b6d84deda8e612c81::iai::IAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/DC_98_B04_A_B308_4558_8327_51_A579_C55341_bcee1f6c64.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Base Monsters",
+  "symbol": "BMON",
+  "decimals": 6,
+  "coin_type": "0xabfaa6e239a0dd62a4cbe3c70fed9084f288f1b8a0ffde1883aef4dec196754c::bmon::BMON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/YU_2dty_Sa_400x400_93129d319e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Chill Pou",
+  "symbol": "CHILPOU",
+  "decimals": 9,
+  "coin_type": "0x4059b35d11428442b94d55248c748557a0085c7e304d0f860c8641f0a14f8a27::chilpou::CHILPOU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6abzx8ZTLnmS5Yr2JEVSmqp68maxn1cNCu6dxssQpump.png?size=lg&key=0a6420",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

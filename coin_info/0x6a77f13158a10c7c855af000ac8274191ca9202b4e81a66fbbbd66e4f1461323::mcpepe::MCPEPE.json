@@ -1,0 +1,13 @@
+{
+  "name": "Wagecoin McPepe",
+  "symbol": "MCPEPE",
+  "decimals": 9,
+  "coin_type": "0x6a77f13158a10c7c855af000ac8274191ca9202b4e81a66fbbbd66e4f1461323::mcpepe::MCPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5Tg9C3Q93RQQSjpvLjQZ8GeFq3LnEAjTgMmc5NEKH8C9.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

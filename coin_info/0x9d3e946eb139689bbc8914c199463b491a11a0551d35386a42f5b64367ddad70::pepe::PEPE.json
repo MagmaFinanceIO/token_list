@@ -1,0 +1,13 @@
+{
+  "name": "OG PEPE",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "coin_type": "0x9d3e946eb139689bbc8914c199463b491a11a0551d35386a42f5b64367ddad70::pepe::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_06_08_15_16_23_e78bb9d088.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

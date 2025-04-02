@@ -1,0 +1,13 @@
+{
+  "name": "MetaGreen",
+  "symbol": "MGN",
+  "decimals": 6,
+  "coin_type": "0xb3bdf28c8f547ca15f79e31abe2b62a5a6689ec018ef8f8dcdf4021941ba1e79::mgn::MGN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/metagreen_1aa9bb9ba5.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

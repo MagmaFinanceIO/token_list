@@ -1,0 +1,13 @@
+{
+  "name": "WEN",
+  "symbol": "WEN",
+  "decimals": 8,
+  "coin_type": "0x654ead0e41e402de86474d867d56b3ccb27dc0998127789723670284b966b5f9::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mystery",
+  "symbol": "MYSTERY",
+  "decimals": 6,
+  "coin_type": "0x84815b5c3ff084c28153a20dc4c4d7b290fae4a5109983df2149b11144c03871::mystery::MYSTERY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2025_01_03_18_47_24_528cdb4cdc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

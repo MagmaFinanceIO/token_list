@@ -1,0 +1,13 @@
+{
+  "name": "Mr.Green",
+  "symbol": "MrGreen",
+  "decimals": 9,
+  "coin_type": "0x2b7a94d38e3a09853366f26644232cfe2bbeeb685416099d5b62595c3daa3015::mrgreen::MRGREEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7162567e-469a-4d6c-be16-73891b57c9d6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

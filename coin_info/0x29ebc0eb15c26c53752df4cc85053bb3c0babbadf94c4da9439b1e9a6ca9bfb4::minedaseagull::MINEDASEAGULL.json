@@ -1,0 +1,13 @@
+{
+  "name": "MineDaSeagull",
+  "symbol": "MineDaSeagull",
+  "decimals": 9,
+  "coin_type": "0x29ebc0eb15c26c53752df4cc85053bb3c0babbadf94c4da9439b1e9a6ca9bfb4::minedaseagull::MINEDASEAGULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/479d11eb-d2ea-4204-a648-057106de439f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

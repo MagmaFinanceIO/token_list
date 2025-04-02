@@ -1,0 +1,13 @@
+{
+  "name": "Just a Poor Guy",
+  "symbol": "POOR",
+  "decimals": 9,
+  "coin_type": "0x5bba249133708d12a9ed0437fee3e34c50d2d5dc7f7405bf53e87c29e070b7c2::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

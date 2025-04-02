@@ -1,0 +1,13 @@
+{
+  "name": "Rip Bodhi",
+  "symbol": "BODHI",
+  "decimals": 9,
+  "coin_type": "0xb0367bacefed527cb8c1c6beefaa942b188e64326534826bdc939e2c85756171::bodhi::BODHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmbK8Vnxz2CdKmNdkDKYvC2PHiJyBs9fVJsvWsr1qShVoZ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

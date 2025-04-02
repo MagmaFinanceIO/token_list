@@ -1,0 +1,13 @@
+{
+  "name": "Harold",
+  "symbol": "HAROLD",
+  "decimals": 9,
+  "coin_type": "0xb515e1115cf72064be8a847f059251252aaafce7c1367d4ef27acdd105c91f5e::harold::HAROLD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://s2.coinmarketcap.com/static/img/coins/64x64/34109.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

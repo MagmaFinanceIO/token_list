@@ -1,0 +1,13 @@
+{
+  "name": "Googly Cat",
+  "symbol": "Googly",
+  "decimals": 6,
+  "coin_type": "0xeb405ff27b7f875b31f39fc9c8505b627df0f75a93dcdc216d0f5f6b255dd2ee::googly::GOOGLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_f5df1473b1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

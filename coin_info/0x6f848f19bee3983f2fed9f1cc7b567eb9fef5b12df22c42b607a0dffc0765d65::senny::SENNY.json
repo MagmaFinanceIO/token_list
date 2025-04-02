@@ -1,0 +1,13 @@
+{
+  "name": "Sui Kenny",
+  "symbol": "SENNY",
+  "decimals": 6,
+  "coin_type": "0x6f848f19bee3983f2fed9f1cc7b567eb9fef5b12df22c42b607a0dffc0765d65::senny::SENNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000030386_043ae0f1e1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

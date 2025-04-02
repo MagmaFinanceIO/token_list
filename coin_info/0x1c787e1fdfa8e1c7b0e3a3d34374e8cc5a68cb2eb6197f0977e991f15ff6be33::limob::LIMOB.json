@@ -1,0 +1,13 @@
+{
+  "name": "Sui Lion",
+  "symbol": "LIMOB",
+  "decimals": 9,
+  "coin_type": "0x1c787e1fdfa8e1c7b0e3a3d34374e8cc5a68cb2eb6197f0977e991f15ff6be33::limob::LIMOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/697/995/large/l-zz-0370.jpg?1728297608",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

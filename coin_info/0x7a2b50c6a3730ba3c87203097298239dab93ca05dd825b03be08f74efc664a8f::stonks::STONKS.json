@@ -1,0 +1,13 @@
+{
+  "name": "STONKS on Sui",
+  "symbol": "STONKS",
+  "decimals": 9,
+  "coin_type": "0x7a2b50c6a3730ba3c87203097298239dab93ca05dd825b03be08f74efc664a8f::stonks::STONKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmSHW37vAK1F4Y6uUD76ZFzerih8DcV7KNMT2tQh5SP8fP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

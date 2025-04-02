@@ -1,0 +1,13 @@
+{
+  "name": "Sui Godzilla",
+  "symbol": "SUILLA",
+  "decimals": 9,
+  "coin_type": "0x3e64d3473c441474bf4019876bcefa7602668f23886dc5f309bd5d2c642189e1::suilla::SUILLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/48599042-51f8-4149-a05f-154c7fa2a314.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

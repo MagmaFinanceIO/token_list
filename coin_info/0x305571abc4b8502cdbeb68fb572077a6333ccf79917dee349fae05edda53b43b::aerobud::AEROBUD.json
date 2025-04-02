@@ -1,0 +1,13 @@
+{
+  "name": "AEROBUD SUI",
+  "symbol": "AEROBUD",
+  "decimals": 6,
+  "coin_type": "0x305571abc4b8502cdbeb68fb572077a6333ccf79917dee349fae05edda53b43b::aerobud::AEROBUD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/0xfad8cb754230dbfd249db0e8eccb5142dd675a0d_3f3ad9cecf.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Kohime AI",
+  "symbol": "Kohime",
+  "decimals": 9,
+  "coin_type": "0xc19a0a73285d5ab1e928e703ed09ab5add8e19bddd19eeb2dfc943a3d1ea5051::kohime::KOHIME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HLdjqjjb32dSXyDSkokFpXeT81F1JdceTSjAbFC9pump.png?size=lg&key=59481e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

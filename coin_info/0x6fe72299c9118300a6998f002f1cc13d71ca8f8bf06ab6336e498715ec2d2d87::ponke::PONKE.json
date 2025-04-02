@@ -1,0 +1,13 @@
+{
+  "name": "Gym Bro Ponke",
+  "symbol": "PONKE",
+  "decimals": 9,
+  "coin_type": "0x6fe72299c9118300a6998f002f1cc13d71ca8f8bf06ab6336e498715ec2d2d87::ponke::PONKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9d2aee32-cab1-4b89-a1fc-8f778e0f7e6c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

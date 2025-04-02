@@ -1,0 +1,13 @@
+{
+  "name": "Diamond Hands Guy",
+  "symbol": "DIAMOND",
+  "decimals": 9,
+  "coin_type": "0xccf5bbf8e1a7edb365dd13fe218542ba7ff45c34356bf876bbb437fbefad819f::diamond::DIAMOND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/TowR6PGvw3uPihCkRCfoQXXB4wz8xcCaqoBAenypump.png?size=lg&key=c9c43c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

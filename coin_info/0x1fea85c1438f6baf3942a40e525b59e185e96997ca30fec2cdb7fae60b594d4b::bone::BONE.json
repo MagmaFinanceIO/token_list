@@ -1,0 +1,13 @@
+{
+  "name": "BONE DOG",
+  "symbol": "BONE",
+  "decimals": 9,
+  "coin_type": "0x1fea85c1438f6baf3942a40e525b59e185e96997ca30fec2cdb7fae60b594d4b::bone::BONE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1ad49f1c-4ab3-4b8a-8411-6a91e67ab295.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

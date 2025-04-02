@@ -1,0 +1,13 @@
+{
+  "name": "TSUNAMI",
+  "symbol": "TSUNAMI",
+  "decimals": 9,
+  "coin_type": "0x44c2408d343443aadc385cab5fca8f9d1587a9296d0dd5f634297c5a79fc5115::tsunami::TSUNAMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f316d274-e44c-416c-b02f-c78be5077061.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

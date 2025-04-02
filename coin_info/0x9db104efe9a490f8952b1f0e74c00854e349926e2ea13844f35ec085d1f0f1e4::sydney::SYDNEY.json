@@ -1,0 +1,13 @@
+{
+  "name": "Truth Terminal Girlfriend",
+  "symbol": "SYDNEY",
+  "decimals": 9,
+  "coin_type": "0x9db104efe9a490f8952b1f0e74c00854e349926e2ea13844f35ec085d1f0f1e4::sydney::SYDNEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CUzSRjBvqFFq45mg6j9oyQrDxyUTHEKM2xqKzDkZpump.png?size=lg&key=282340",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

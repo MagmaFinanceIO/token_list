@@ -1,0 +1,13 @@
+{
+  "name": "Wall Street Pepe",
+  "symbol": "WEPE",
+  "decimals": 9,
+  "coin_type": "0x3ffb9bc8b955d47f119d476ef8337c620191cef99f2146c9e9895aac7f62ebe7::wepe::WEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/HCUBYFfqashXe0FJ?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

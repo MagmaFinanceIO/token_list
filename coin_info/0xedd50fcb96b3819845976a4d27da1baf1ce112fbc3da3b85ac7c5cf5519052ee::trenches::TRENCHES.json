@@ -1,0 +1,13 @@
+{
+  "name": "Trenches on Sui",
+  "symbol": "TRENCHES",
+  "decimals": 9,
+  "coin_type": "0xedd50fcb96b3819845976a4d27da1baf1ce112fbc3da3b85ac7c5cf5519052ee::trenches::TRENCHES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/1h8Ft5jbTXBjijisLbg3jzdf6pBQ12nHDouMf8kpump.png?size=lg&key=15e948",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

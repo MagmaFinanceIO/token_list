@@ -1,0 +1,13 @@
+{
+  "name": "KASHIKO",
+  "symbol": "KASHIKO",
+  "decimals": 9,
+  "coin_type": "0x72fcfae6c8b6b76bb28f6bc7edadba8801934333a5e9e8c56ac0eb08d8c00200::kashiko::KASHIKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7b5d5e7a-0d3d-4dfd-8411-f229f6f1d6a8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Neuro AI Agent",
+  "symbol": "NA",
+  "decimals": 6,
+  "coin_type": "0xb14f4aed0413795b485f8f3ae53096098662d6bea9622818a407264133652dbe::na::NA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0e94d002-5d5c-4f96-8065-10c03f5e6222.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

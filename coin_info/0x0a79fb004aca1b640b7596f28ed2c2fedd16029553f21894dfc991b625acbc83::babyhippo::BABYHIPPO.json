@@ -1,0 +1,13 @@
+{
+  "name": "Baby Hippo",
+  "symbol": "BabyHippo",
+  "decimals": 6,
+  "coin_type": "0x0a79fb004aca1b640b7596f28ed2c2fedd16029553f21894dfc991b625acbc83::babyhippo::BABYHIPPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/4222c639_8e82_4ea5_be09_d979ef89f23f_61058fa959.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

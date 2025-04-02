@@ -1,0 +1,13 @@
+{
+  "name": "CHILL HIPPO DENG",
+  "symbol": "CHILPO",
+  "decimals": 9,
+  "coin_type": "0x2e88bad19c28c3b50bd544aa153c88f9c6d07683b028bc9eaa9d6bc480dd2445::chilpo::CHILPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d9707aac-7ecf-4689-aa89-713248a23318.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

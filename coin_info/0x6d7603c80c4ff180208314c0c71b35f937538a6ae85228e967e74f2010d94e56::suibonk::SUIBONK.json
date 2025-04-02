@@ -1,0 +1,13 @@
+{
+  "name": "SuiBonk",
+  "symbol": "SUIBONK",
+  "decimals": 6,
+  "coin_type": "0x6d7603c80c4ff180208314c0c71b35f937538a6ae85228e967e74f2010d94e56::suibonk::SUIBONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

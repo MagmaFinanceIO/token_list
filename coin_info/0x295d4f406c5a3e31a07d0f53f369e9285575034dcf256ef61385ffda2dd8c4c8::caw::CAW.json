@@ -1,0 +1,13 @@
+{
+  "name": "Crow with knife",
+  "symbol": "CAW",
+  "decimals": 9,
+  "coin_type": "0x295d4f406c5a3e31a07d0f53f369e9285575034dcf256ef61385ffda2dd8c4c8::caw::CAW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/945155a3-8d9f-479c-88f8-44a32c84e513.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NewYork",
+  "symbol": "NY",
+  "decimals": 9,
+  "coin_type": "0x735ba01a6f4c6ab0b7543e1e4c1ff10648772183863ae49dfd0b2ab5b8912960::ny::NY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

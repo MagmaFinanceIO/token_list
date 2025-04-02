@@ -1,0 +1,13 @@
+{
+  "name": "Unicat",
+  "symbol": "UCAT",
+  "decimals": 9,
+  "coin_type": "0xa5893cfdb3560bcfe96793aea64d5a35c785624bee04652a9880dfa7b648d3ac::ucat::UCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/unichain/0xc7436169cfc6ebc03e71dd18c50a43321e87b6c8.png?size=lg&key=410aa8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

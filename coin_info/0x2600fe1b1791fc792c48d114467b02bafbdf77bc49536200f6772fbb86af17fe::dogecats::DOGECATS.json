@@ -1,0 +1,13 @@
+{
+  "name": "DOGE CAT SUI",
+  "symbol": "DOGECATS",
+  "decimals": 9,
+  "coin_type": "0x2600fe1b1791fc792c48d114467b02bafbdf77bc49536200f6772fbb86af17fe::dogecats::DOGECATS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6d07795a-34b9-46b0-a2b0-b1d8c085b06f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

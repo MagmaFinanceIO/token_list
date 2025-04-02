@@ -1,0 +1,13 @@
+{
+  "name": "Bob's Burgers",
+  "symbol": "BORGERS",
+  "decimals": 9,
+  "coin_type": "0x36d43fb9838d8c247683b9b67126a568aa41129f357e18d7755753154ec48508::borgers::BORGERS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5tqxHk9gaHgFmUqMrZ9EYghBiBmqtn7hDeRJQ8QSgiNA.png?size=lg&key=8324a6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

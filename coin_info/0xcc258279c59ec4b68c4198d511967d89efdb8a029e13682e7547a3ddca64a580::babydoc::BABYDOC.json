@@ -1,0 +1,13 @@
+{
+  "name": "BabyDoctor",
+  "symbol": "BabyDoc",
+  "decimals": 9,
+  "coin_type": "0xcc258279c59ec4b68c4198d511967d89efdb8a029e13682e7547a3ddca64a580::babydoc::BABYDOC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/26847d97-a357-42df-a56d-44439d65d30c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

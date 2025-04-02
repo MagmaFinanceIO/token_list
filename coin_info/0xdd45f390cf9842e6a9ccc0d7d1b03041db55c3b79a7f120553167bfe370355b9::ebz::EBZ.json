@@ -1,0 +1,13 @@
+{
+  "name": "EcoBeez",
+  "symbol": "EBZ",
+  "decimals": 6,
+  "coin_type": "0xdd45f390cf9842e6a9ccc0d7d1b03041db55c3b79a7f120553167bfe370355b9::ebz::EBZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/27596e4e_c772_47b1_8dd8_1c1d12fb2b33_1_1ea92fd616.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

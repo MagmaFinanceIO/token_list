@@ -1,0 +1,13 @@
+{
+  "name": "IUS",
+  "symbol": "IUS",
+  "decimals": 6,
+  "coin_type": "0xe93a37714cff07c6fc1a4d19b1124b55ab17259c6fd375c06a18569144a7942f::ius::IUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmWMp5GNdW8h9RJgkrDSMbSDuQYPMop335DKr8YPCuSuP5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

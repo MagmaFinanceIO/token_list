@@ -1,0 +1,13 @@
+{
+  "name": "Grok D.O.G.E",
+  "symbol": "GDOGE",
+  "decimals": 9,
+  "coin_type": "0x85690f7a623d887cea01c09d6f3c4c8cb66a82c495eadfb293665f4b9ec97f6e::gdoge::GDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b488cd0f-a45a-4f4a-a7eb-aceac6c63e6b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NSUP",
+  "symbol": "NSUP",
+  "decimals": 9,
+  "coin_type": "0xff457bbe524a08cf2ca1320f9ede0f8285ebf96c5d43069444cf1c391a0aebbd::NSUP::NSUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

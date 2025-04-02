@@ -1,0 +1,13 @@
+{
+  "name": "Shit SUI",
+  "symbol": "SS",
+  "decimals": 9,
+  "coin_type": "0x7f8b5030df03d2fcfeeab42e68d6cbeaf2bf84c1d0a0a2a118c9cc7cb683d895::ss::SS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e80e9532-8afd-4b61-b6fd-07827ae65eab.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

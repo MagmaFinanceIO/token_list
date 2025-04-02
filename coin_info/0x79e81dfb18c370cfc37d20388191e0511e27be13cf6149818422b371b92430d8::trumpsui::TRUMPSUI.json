@@ -1,0 +1,13 @@
+{
+  "name": "TRUMPFART",
+  "symbol": "TRUMPSUI",
+  "decimals": 9,
+  "coin_type": "0x79e81dfb18c370cfc37d20388191e0511e27be13cf6149818422b371b92430d8::trumpsui::TRUMPSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DmjRobL5Xim83Zy2DXkXTsWbpdnx7bVg4qhVuXRRpump.png?size=lg&key=15a3c0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

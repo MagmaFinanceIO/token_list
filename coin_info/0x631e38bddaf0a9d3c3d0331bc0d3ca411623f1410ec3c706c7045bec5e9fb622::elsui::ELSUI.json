@@ -1,0 +1,13 @@
+{
+  "name": "ELSUI",
+  "symbol": "ELSUI",
+  "decimals": 9,
+  "coin_type": "0x631e38bddaf0a9d3c3d0331bc0d3ca411623f1410ec3c706c7045bec5e9fb622::elsui::ELSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/89d8eece-e885-4f1c-abee-fd175273bd15.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

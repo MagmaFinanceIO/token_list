@@ -1,0 +1,13 @@
+{
+  "name": "Sui Pnut",
+  "symbol": "$SNUT",
+  "decimals": 6,
+  "coin_type": "0x05ac5e4d6453c006d6ba0a6eb3936c457c55a4991058c9447a491abe5c40e184::snut::SNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qmbnpp7WVCfooUVPHWgQZAaPaHPDT2SpAuizdwiAiJjna4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Gamma",
+  "symbol": "Gamma",
+  "decimals": 9,
+  "coin_type": "0x1857aec33575af7720fe12d9968b9dbea96bb62e3146d954f1f0c6aa6a0924bf::gamma::GAMMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/93MCjhxe56soTv4Hb5gTDCXeN7T86t3ojt21GppYpump.png?size=lg&key=551163",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "EllyAI by SuiAI",
+  "symbol": "EARTH",
+  "decimals": 6,
+  "coin_type": "0xe5ae7f4bb9c2c9b4f33994468ea34dd82ea1000a7797fbb61adfc84a54bbbc7e::earth::EARTH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/x5wh_L_Mv4new_5131f01527.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

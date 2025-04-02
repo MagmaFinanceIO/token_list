@@ -1,0 +1,13 @@
+{
+  "name": "Seal Pnut Sui",
+  "symbol": "SEALP",
+  "decimals": 6,
+  "coin_type": "0x5e15380d42fd07d1ebf75a2fb4466072c5ac67b9aafa7b8cab4a7b28bd6d257e::sealp::SEALP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_6f035b60_6e0b_48fd_a293_d7dc509be7dd_98fd63bb17.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

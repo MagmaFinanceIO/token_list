@@ -1,0 +1,13 @@
+{
+  "name": "LAZY",
+  "symbol": "ZZZ",
+  "decimals": 9,
+  "coin_type": "0x658392dd40097b9bd5450a956e90bcb99979a0742d831cdd96e666e394d6b6c5::zzz::ZZZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

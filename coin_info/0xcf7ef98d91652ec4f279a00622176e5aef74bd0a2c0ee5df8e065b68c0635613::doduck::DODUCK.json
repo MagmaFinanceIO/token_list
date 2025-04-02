@@ -1,0 +1,13 @@
+{
+  "name": "Donal Duck Wif Hat",
+  "symbol": "DODUCK",
+  "decimals": 9,
+  "coin_type": "0xcf7ef98d91652ec4f279a00622176e5aef74bd0a2c0ee5df8e065b68c0635613::doduck::DODUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/031bf281-5d77-4b66-b5d2-dc6d0a796814.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

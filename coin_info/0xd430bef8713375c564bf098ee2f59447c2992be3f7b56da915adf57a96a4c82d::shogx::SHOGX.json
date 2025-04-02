@@ -1,0 +1,13 @@
+{
+  "name": "SHARK DOG 2.0",
+  "symbol": "SHOGX",
+  "decimals": 6,
+  "coin_type": "0xd430bef8713375c564bf098ee2f59447c2992be3f7b56da915adf57a96a4c82d::shogx::SHOGX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SHOGX_2_a992279e7c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PRIME",
+  "symbol": "PRIME",
+  "decimals": 9,
+  "coin_type": "0x491ebe1f05347e0bcbc5ddb835b82b8906dc9ad39eb2f0e6979fcff10e4741f7::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

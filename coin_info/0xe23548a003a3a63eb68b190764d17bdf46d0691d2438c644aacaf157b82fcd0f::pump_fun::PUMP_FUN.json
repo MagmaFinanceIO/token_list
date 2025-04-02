@@ -1,0 +1,13 @@
+{
+  "name": "PFN",
+  "symbol": "PUMP_FUN_1728620907",
+  "decimals": 9,
+  "coin_type": "0xe23548a003a3a63eb68b190764d17bdf46d0691d2438c644aacaf157b82fcd0f::pump_fun::PUMP_FUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

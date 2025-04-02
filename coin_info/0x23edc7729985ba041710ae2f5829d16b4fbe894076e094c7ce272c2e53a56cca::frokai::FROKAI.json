@@ -1,0 +1,13 @@
+{
+  "name": "Frok Dao AI on SUI",
+  "symbol": "FROKAI",
+  "decimals": 9,
+  "coin_type": "0x23edc7729985ba041710ae2f5829d16b4fbe894076e094c7ce272c2e53a56cca::frokai::FROKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://public-cdn.daossui.io/assets/tokens/de6c05a0-da43-11ef-80e8-811f7f414973",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

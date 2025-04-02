@@ -1,0 +1,13 @@
+{
+  "name": "Touch Grass",
+  "symbol": "GRASS",
+  "decimals": 9,
+  "coin_type": "0xa08114e3f980212840ad0efed069512855ec7d71274241aecf6207410a7179d4::grass::GRASS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5EYsHuyYGriuoYah7e9FfbSYuGW3vJevHnm2mtnJPfto.png?size=lg&key=6f8f7f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

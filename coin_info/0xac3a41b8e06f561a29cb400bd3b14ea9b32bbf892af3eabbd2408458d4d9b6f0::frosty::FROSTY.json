@@ -1,0 +1,13 @@
+{
+  "name": "FROSTY THE COLDEST SEAL",
+  "symbol": "FROSTY",
+  "decimals": 6,
+  "coin_type": "0xac3a41b8e06f561a29cb400bd3b14ea9b32bbf892af3eabbd2408458d4d9b6f0::frosty::FROSTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/74aff708-8637-4c38-81fa-c735c2900aec.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

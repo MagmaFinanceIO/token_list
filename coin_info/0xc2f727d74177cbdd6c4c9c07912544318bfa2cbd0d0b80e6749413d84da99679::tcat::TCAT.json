@@ -1,0 +1,13 @@
+{
+  "name": "trumpy cat",
+  "symbol": "TCAT",
+  "decimals": 9,
+  "coin_type": "0xc2f727d74177cbdd6c4c9c07912544318bfa2cbd0d0b80e6749413d84da99679::tcat::TCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8mcG3rtJTCbpChrpJUJDXV5dp45HiUUuAuqiCRvubies.png?size=lg&key=8b975c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

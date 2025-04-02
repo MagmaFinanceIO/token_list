@@ -1,0 +1,13 @@
+{
+  "name": "BATCAT AI",
+  "symbol": "BATCAT",
+  "decimals": 6,
+  "coin_type": "0x78670b19c218b9decfc30983d5bd9f4eab5941fd7dfdd9b42b7fd536148fe3b1::batcat::BATCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736263534407.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

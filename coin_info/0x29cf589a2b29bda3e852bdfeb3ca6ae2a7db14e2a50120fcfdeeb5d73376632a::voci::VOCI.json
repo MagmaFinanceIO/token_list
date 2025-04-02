@@ -1,0 +1,13 @@
+{
+  "name": "Voci AI",
+  "symbol": "VOCI",
+  "decimals": 9,
+  "coin_type": "0x29cf589a2b29bda3e852bdfeb3ca6ae2a7db14e2a50120fcfdeeb5d73376632a::voci::VOCI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GvmTPPD7M38kpkncdEr3K25fk64TDYWHuLjKU2WXVoci.png?size=lg&key=d5f932",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

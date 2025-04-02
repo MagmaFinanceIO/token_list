@@ -1,0 +1,13 @@
+{
+  "name": "aaaDeng",
+  "symbol": "AAADENG",
+  "decimals": 6,
+  "coin_type": "0xcf622b09753dd208f90397df6c025f74ecd106cd4ca26f3264ae79e3086df75c::aaadeng::AAADENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0fb8ad3a-724a-409d-80c4-789fd160f153.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

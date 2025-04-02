@@ -1,0 +1,13 @@
+{
+  "name": "Battle Bulls",
+  "symbol": "BULLS",
+  "decimals": 6,
+  "coin_type": "0xc7a8c34294813f3a26d8a8627048f8191db270f5c2351643cf70c547d69fdd1c::bulls::BULLS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Jih_OCKNO_400x400_4b08301fd4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

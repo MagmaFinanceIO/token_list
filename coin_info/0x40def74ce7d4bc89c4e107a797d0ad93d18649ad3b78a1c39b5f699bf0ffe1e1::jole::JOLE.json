@@ -1,0 +1,13 @@
+{
+  "name": "JOLE me",
+  "symbol": "JOLE",
+  "decimals": 6,
+  "coin_type": "0x40def74ce7d4bc89c4e107a797d0ad93d18649ad3b78a1c39b5f699bf0ffe1e1::jole::JOLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/HJ_e88877be7c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

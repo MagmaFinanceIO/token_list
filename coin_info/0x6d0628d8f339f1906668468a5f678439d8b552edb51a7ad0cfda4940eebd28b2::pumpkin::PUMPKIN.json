@@ -1,0 +1,13 @@
+{
+  "name": "PUMPKIN TOKE",
+  "symbol": "PUMPKIN",
+  "decimals": 6,
+  "coin_type": "0x6d0628d8f339f1906668468a5f678439d8b552edb51a7ad0cfda4940eebd28b2::pumpkin::PUMPKIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/07bb3040-6833-4f46-82b9-ab1a4040b0a4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

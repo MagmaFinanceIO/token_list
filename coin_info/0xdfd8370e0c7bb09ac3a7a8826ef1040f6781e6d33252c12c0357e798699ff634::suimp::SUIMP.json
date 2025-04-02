@@ -1,0 +1,13 @@
+{
+  "name": "Sui Simp",
+  "symbol": "SUIMP",
+  "decimals": 9,
+  "coin_type": "0xdfd8370e0c7bb09ac3a7a8826ef1040f6781e6d33252c12c0357e798699ff634::suimp::SUIMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4f8e2e3d-c059-492b-a684-06343c8c235c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

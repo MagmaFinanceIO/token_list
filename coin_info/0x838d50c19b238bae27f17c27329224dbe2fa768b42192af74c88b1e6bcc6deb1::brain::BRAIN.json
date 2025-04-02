@@ -1,0 +1,13 @@
+{
+  "name": "BRAIN AI",
+  "symbol": "BRAIN",
+  "decimals": 9,
+  "coin_type": "0x838d50c19b238bae27f17c27329224dbe2fa768b42192af74c88b1e6bcc6deb1::brain::BRAIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3baf5768-a877-4477-ae3e-3d4a3c6a17c6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

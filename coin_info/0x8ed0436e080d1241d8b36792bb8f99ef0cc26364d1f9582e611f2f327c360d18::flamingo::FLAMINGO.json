@@ -1,0 +1,13 @@
+{
+  "name": "FLAMINGO GRINGO",
+  "symbol": "FLAMINGO",
+  "decimals": 6,
+  "coin_type": "0x8ed0436e080d1241d8b36792bb8f99ef0cc26364d1f9582e611f2f327c360d18::flamingo::FLAMINGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0b6b564a-0d06-4d0e-bdb2-ec3038d1759b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

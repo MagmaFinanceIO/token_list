@@ -1,0 +1,13 @@
+{
+  "name": "MEET ARNOLD ON SUI by SuiAI",
+  "symbol": "ARNOLD",
+  "decimals": 6,
+  "coin_type": "0x586f239a2e85032146856ece74c5b13d1729fdd5770833c9ff367338a59a24a6::arnold::ARNOLD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/logo_b224b3996b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

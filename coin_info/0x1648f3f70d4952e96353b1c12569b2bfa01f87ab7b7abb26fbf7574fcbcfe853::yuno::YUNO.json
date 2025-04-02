@@ -1,0 +1,13 @@
+{
+  "name": "Y U No Guy",
+  "symbol": "YUNO",
+  "decimals": 9,
+  "coin_type": "0x1648f3f70d4952e96353b1c12569b2bfa01f87ab7b7abb26fbf7574fcbcfe853::yuno::YUNO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Ds7nVDxF22qCWNQL28dVSnAF6YhyEDD9DPzmbfaQXF1A.png?size=lg&key=75cfff",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

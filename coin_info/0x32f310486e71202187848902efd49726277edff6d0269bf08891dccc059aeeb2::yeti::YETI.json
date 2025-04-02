@@ -1,0 +1,13 @@
+{
+  "name": "Yeti",
+  "symbol": "YETI",
+  "decimals": 6,
+  "coin_type": "0x32f310486e71202187848902efd49726277edff6d0269bf08891dccc059aeeb2::yeti::YETI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmTPcNsitTYs1hbs2jYKJUmUMCAm5FZHUcsv8bJNrYGYf8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

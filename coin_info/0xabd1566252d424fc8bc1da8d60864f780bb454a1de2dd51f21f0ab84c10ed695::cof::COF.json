@@ -1,0 +1,13 @@
+{
+  "name": "Condom Fish",
+  "symbol": "COF",
+  "decimals": 6,
+  "coin_type": "0xabd1566252d424fc8bc1da8d60864f780bb454a1de2dd51f21f0ab84c10ed695::cof::COF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2025_01_02_15_36_57_2d2e936c33.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

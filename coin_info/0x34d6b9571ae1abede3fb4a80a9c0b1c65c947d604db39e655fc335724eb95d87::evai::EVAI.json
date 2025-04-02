@@ -1,0 +1,13 @@
+{
+  "name": "Eva AI",
+  "symbol": "EVAI",
+  "decimals": 9,
+  "coin_type": "0x34d6b9571ae1abede3fb4a80a9c0b1c65c947d604db39e655fc335724eb95d87::evai::EVAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/MLGBmJJTWdmmoS2W2VxNmGEHj2iz15h1nZmzLx5pump.png?size=lg&key=1b8d94",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

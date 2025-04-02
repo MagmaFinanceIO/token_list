@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Billionaire Club",
+  "symbol": "PBC",
+  "decimals": 9,
+  "coin_type": "0x910bc66c0d0545dde8126f57483541a178202bc0b62ea379f3eb0665117e4099::pbc::PBC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmZHDAU6VxkiCtHNkLbgfAoUq4cuqnuT2nQZa4KB3axu7o",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

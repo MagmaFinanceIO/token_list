@@ -1,0 +1,13 @@
+{
+  "name": "Apus Revolution AI by SuiAI",
+  "symbol": "APUSAI",
+  "decimals": 6,
+  "coin_type": "0x0014b976dc55e825a685598020032c275fed611964c964757d7b9440f7cb8fc2::apusai::APUSAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/hbbi_5088138f56.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

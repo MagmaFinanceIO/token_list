@@ -1,0 +1,13 @@
+{
+  "name": "PEPE Wif Hat",
+  "symbol": "PEPEWIFHAT",
+  "decimals": 9,
+  "coin_type": "0xf1d25a3b81beffc652029c308db470c86b5ae0bb29dcc0f90c09afc75861a926::pepewifhat::PEPEWIFHAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ed01594e-d7e5-4d63-aca0-475857a48780.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

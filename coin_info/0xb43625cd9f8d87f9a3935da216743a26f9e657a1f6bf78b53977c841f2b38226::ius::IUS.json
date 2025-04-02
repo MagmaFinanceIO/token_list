@@ -1,0 +1,13 @@
+{
+  "name": "ius",
+  "symbol": "Ius",
+  "decimals": 6,
+  "coin_type": "0xb43625cd9f8d87f9a3935da216743a26f9e657a1f6bf78b53977c841f2b38226::ius::IUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731022844251.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Boo Deng",
+  "symbol": "BHIPPO",
+  "decimals": 9,
+  "coin_type": "0xe3917fdf0e9554600bd17f6b333d24daef273266d0e9aa15933f7b03a36835a5::bhippo::BHIPPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/db8d418e-df7b-4c6f-9500-86e4f1602a12.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

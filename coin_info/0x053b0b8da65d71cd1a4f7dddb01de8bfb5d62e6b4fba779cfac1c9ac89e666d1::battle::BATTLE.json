@@ -1,0 +1,13 @@
+{
+  "name": "Arena Battles",
+  "symbol": "BATTLE",
+  "decimals": 9,
+  "coin_type": "0x053b0b8da65d71cd1a4f7dddb01de8bfb5d62e6b4fba779cfac1c9ac89e666d1::battle::BATTLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5bfe99c8-15fd-43da-9213-131230e60907.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

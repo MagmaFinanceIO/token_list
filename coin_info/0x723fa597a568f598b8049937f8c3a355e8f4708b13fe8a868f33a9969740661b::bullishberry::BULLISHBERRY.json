@@ -1,0 +1,13 @@
+{
+  "name": "Bullish Berry",
+  "symbol": "BullishBerry",
+  "decimals": 9,
+  "coin_type": "0x723fa597a568f598b8049937f8c3a355e8f4708b13fe8a868f33a9969740661b::bullishberry::BULLISHBERRY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8d4f8b84-d20c-4dfd-90aa-a2d23d49c6f8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

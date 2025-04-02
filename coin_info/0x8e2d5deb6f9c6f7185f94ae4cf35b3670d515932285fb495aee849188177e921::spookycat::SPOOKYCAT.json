@@ -1,0 +1,13 @@
+{
+  "name": "SPOOKYCAT",
+  "symbol": "SPOOKYCAT",
+  "decimals": 9,
+  "coin_type": "0x8e2d5deb6f9c6f7185f94ae4cf35b3670d515932285fb495aee849188177e921::spookycat::SPOOKYCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2ba6f462-36d9-46c8-b4ea-a45e48231b7e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIOLUME",
+  "symbol": "SUIOLUME",
+  "decimals": 6,
+  "coin_type": "0xf3a0b155af48f11b41889dfa5890cc5f16cd1394751118b18178b24b753b41e1::suiolume::SUIOLUME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8be64df5-eab1-4ddd-bb29-26bd060541c1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

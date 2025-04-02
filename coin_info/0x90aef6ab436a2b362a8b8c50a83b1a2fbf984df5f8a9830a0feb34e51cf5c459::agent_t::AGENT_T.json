@@ -1,0 +1,13 @@
+{
+  "name": "Agent T",
+  "symbol": "T",
+  "decimals": 9,
+  "coin_type": "0x90aef6ab436a2b362a8b8c50a83b1a2fbf984df5f8a9830a0feb34e51cf5c459::agent_t::AGENT_T",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmP8ceaJGyKsMuthJPKDH56myNMqnPJiMwXEyPfS5t1F3U",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

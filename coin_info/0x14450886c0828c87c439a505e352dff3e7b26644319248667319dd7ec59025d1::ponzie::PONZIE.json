@@ -1,0 +1,13 @@
+{
+  "name": "Ponzi Express",
+  "symbol": "PONZIE",
+  "decimals": 9,
+  "coin_type": "0x14450886c0828c87c439a505e352dff3e7b26644319248667319dd7ec59025d1::ponzie::PONZIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/9BgCltyohjgREk_j?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

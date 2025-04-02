@@ -1,0 +1,13 @@
+{
+  "name": "SLIZZY SUI",
+  "symbol": "SLIZZY",
+  "decimals": 6,
+  "coin_type": "0x6da938418f04b8612cedfd9dcd11c38399c8c24be6408512e3250b358a3044cc::slizzy::SLIZZY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6687_0a7d923436.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

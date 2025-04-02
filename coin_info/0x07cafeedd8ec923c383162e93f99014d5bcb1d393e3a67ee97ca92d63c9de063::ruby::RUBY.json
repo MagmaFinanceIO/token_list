@@ -1,0 +1,13 @@
+{
+  "name": "Justice For Ruby",
+  "symbol": "RUBY",
+  "decimals": 9,
+  "coin_type": "0x07cafeedd8ec923c383162e93f99014d5bcb1d393e3a67ee97ca92d63c9de063::ruby::RUBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GMdvxF5ZHyfKAXaSBLXhtVSfC4erzSJKURjWMXptpump.png?size=lg&key=c2372e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

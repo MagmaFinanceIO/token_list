@@ -1,0 +1,13 @@
+{
+  "name": "Floppa",
+  "symbol": "FLOPPA",
+  "decimals": 6,
+  "coin_type": "0x92b1c72a2bff390fb54d45b4aa3015923bffc23668092221b0b55252083e989f::floppa::FLOPPA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/C_Tavr_C7o_400x400_335e1120a3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

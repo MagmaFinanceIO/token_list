@@ -1,0 +1,13 @@
+{
+  "name": "FIRST 2025 PEPE",
+  "symbol": "PEPE2025",
+  "decimals": 9,
+  "coin_type": "0x19524027ce0044d23af9e352cfc3e3423246e6308a641b23f0f04ce515233860::pepe2025::PEPE2025",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/FZZNyjG0SDZ0IQH6?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuiApes",
+  "symbol": "SUI APES MAFIA",
+  "decimals": 6,
+  "coin_type": "0xea83ea3ee246b1e76f147510f1572676e33b0de93585810ba528cc067c8b1750::suiapes::SUIAPES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/73a3ac00-7f30-4cd4-87ca-1b49d469b101.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

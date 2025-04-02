@@ -1,0 +1,13 @@
+{
+  "name": "GUARDIAN OF SUN",
+  "symbol": "GOSUN",
+  "decimals": 6,
+  "coin_type": "0x16e84aa4174898d7d8d4aa7ace98533598daa6a2d12155ace11bdb8b55c8e04c::gosun::GOSUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logocover1_f359002d3a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

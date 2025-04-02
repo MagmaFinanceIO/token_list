@@ -1,0 +1,13 @@
+{
+  "name": "Mama Dept of Gov Efficiency",
+  "symbol": "MAMADOGE",
+  "decimals": 9,
+  "coin_type": "0xf606fe037096aa2e935690820de6609f6c2383a3bea59bc6287189cc1b43c3b3::mamadoge::MAMADOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FKHV3p9yqpkrF1KVPkbsciFwmQhwkk3FWyLxUDZpQxuE.png?size=lg&key=b9c0c6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

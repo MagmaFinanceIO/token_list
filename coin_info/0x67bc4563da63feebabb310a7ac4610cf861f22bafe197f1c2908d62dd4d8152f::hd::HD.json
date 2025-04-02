@@ -1,0 +1,13 @@
+{
+  "name": "Horni Degen",
+  "symbol": "HD",
+  "decimals": 9,
+  "coin_type": "0x67bc4563da63feebabb310a7ac4610cf861f22bafe197f1c2908d62dd4d8152f::hd::HD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/degenchain/0xa950f10504a4ac539625df334664b0f1308c5bf1.png?size=xl&key=8bfe6b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

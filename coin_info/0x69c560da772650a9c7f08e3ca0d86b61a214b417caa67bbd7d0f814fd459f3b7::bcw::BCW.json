@@ -1,0 +1,13 @@
+{
+  "name": "Blue Collar Workers",
+  "symbol": "BCW",
+  "decimals": 9,
+  "coin_type": "0x69c560da772650a9c7f08e3ca0d86b61a214b417caa67bbd7d0f814fd459f3b7::bcw::BCW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b77cd10b-bdd9-45ac-95c7-e06a5848937c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

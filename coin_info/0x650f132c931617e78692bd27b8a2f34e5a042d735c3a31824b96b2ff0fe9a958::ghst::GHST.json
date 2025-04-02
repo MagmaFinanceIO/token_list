@@ -1,0 +1,13 @@
+{
+  "name": "SuiMascot",
+  "symbol": "GHST",
+  "decimals": 6,
+  "coin_type": "0x650f132c931617e78692bd27b8a2f34e5a042d735c3a31824b96b2ff0fe9a958::ghst::GHST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Pfp_6882d51105.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

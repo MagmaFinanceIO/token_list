@@ -1,0 +1,13 @@
+{
+  "name": "AI Interactive Forest",
+  "symbol": "FOREST",
+  "decimals": 6,
+  "coin_type": "0x9d0900fd4974bb355b4dcf1c8ff375772f3e5381a6ebb240c88381614b9d9e98::forest::FOREST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/c2_72b2d497e4.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

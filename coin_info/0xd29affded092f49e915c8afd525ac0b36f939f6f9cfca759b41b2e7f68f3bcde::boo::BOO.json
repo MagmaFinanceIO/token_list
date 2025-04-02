@@ -1,0 +1,13 @@
+{
+  "name": "BOO ON SUI",
+  "symbol": "BOO",
+  "decimals": 6,
+  "coin_type": "0xd29affded092f49e915c8afd525ac0b36f939f6f9cfca759b41b2e7f68f3bcde::boo::BOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_25_15_55_44_328116a87a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

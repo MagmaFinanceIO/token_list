@@ -1,0 +1,13 @@
+{
+  "name": "aaa cat 20",
+  "symbol": "AAA20",
+  "decimals": 9,
+  "coin_type": "0xe7777c8cfee498385cab671a95e7e9241d4a771cefa8690a149b4c165a6ea2b3::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4995_cfd6177d03.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

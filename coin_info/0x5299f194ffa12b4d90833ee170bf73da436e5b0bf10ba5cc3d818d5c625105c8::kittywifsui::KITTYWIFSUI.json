@@ -1,0 +1,13 @@
+{
+  "name": "KittyWifSui",
+  "symbol": "KittyWifSui",
+  "decimals": 9,
+  "coin_type": "0x5299f194ffa12b4d90833ee170bf73da436e5b0bf10ba5cc3d818d5c625105c8::kittywifsui::KITTYWIFSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/10a05ab0-77bc-4712-b8c9-405bb3f87fca.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

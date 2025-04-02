@@ -1,0 +1,13 @@
+{
+  "name": "SBRETT",
+  "symbol": "SBRETT",
+  "decimals": 6,
+  "coin_type": "0x237de75172ae54040b2165101e04f8978a3f4b3480f6ab65faccb0c5e28ac6bd::sbrett::SBRETT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/abd28783-ca04-47c8-84a3-58cd00bdc90e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

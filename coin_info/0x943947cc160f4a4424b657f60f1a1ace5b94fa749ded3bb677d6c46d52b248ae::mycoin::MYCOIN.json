@@ -1,0 +1,13 @@
+{
+  "name": "CHILLBABY",
+  "symbol": "CHILLBABY",
+  "decimals": 9,
+  "coin_type": "0x943947cc160f4a4424b657f60f1a1ace5b94fa749ded3bb677d6c46d52b248ae::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

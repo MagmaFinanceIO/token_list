@@ -1,0 +1,13 @@
+{
+  "name": "SuiFisher",
+  "symbol": "Fisher",
+  "decimals": 9,
+  "coin_type": "0x0a0f5ac6470700179dd8b4f58012e028714a1d491db8f20cb06fbc1c95638b63::fisher::FISHER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9d6db85c-d868-4852-a12e-a822afbe177b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

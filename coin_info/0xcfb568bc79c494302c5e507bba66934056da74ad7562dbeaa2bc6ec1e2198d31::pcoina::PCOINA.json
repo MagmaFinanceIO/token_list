@@ -1,0 +1,13 @@
+{
+  "name": "People's Coin",
+  "symbol": "PCOIN",
+  "decimals": 9,
+  "coin_type": "0xcfb568bc79c494302c5e507bba66934056da74ad7562dbeaa2bc6ec1e2198d31::pcoina::PCOINA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "vS6hizmfnVjS6kvl",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

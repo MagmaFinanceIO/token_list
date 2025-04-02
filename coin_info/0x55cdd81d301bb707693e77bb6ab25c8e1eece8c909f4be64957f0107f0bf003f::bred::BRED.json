@@ -1,0 +1,13 @@
+{
+  "name": "bred",
+  "symbol": "bred",
+  "decimals": 9,
+  "coin_type": "0x55cdd81d301bb707693e77bb6ab25c8e1eece8c909f4be64957f0107f0bf003f::bred::BRED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/97uEPvMjeZpGtM6Fc37nnXNAVBGvh5pAmG7jUBx7pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

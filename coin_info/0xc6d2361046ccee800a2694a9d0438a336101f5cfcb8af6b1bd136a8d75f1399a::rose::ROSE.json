@@ -1,0 +1,13 @@
+{
+  "name": "Rose Token",
+  "symbol": "ROSE",
+  "decimals": 9,
+  "coin_type": "0xc6d2361046ccee800a2694a9d0438a336101f5cfcb8af6b1bd136a8d75f1399a::rose::ROSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.rosecoinonsui.xyz/images/1.1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

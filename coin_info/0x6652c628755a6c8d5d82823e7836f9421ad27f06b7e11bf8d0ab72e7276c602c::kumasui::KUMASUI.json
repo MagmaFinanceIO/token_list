@@ -1,0 +1,13 @@
+{
+  "name": "Kuma",
+  "symbol": "KumaSui",
+  "decimals": 6,
+  "coin_type": "0x6652c628755a6c8d5d82823e7836f9421ad27f06b7e11bf8d0ab72e7276c602c::kumasui::KUMASUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1732419938410.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MEME GREAT AGAIN",
+  "symbol": "MMEGA",
+  "decimals": 9,
+  "coin_type": "0x4982663ea59150f4191a97236bb0b1fdfdbdeea40a80ed2d466de7fd76bd8d85::mmega::MMEGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d795676d-ca41-40b1-a9de-63dfa06f9eee.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

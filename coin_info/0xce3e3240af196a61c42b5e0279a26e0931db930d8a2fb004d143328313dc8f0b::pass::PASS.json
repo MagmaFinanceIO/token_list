@@ -1,0 +1,13 @@
+{
+  "name": "ape and pass it on",
+  "symbol": "PASS",
+  "decimals": 9,
+  "coin_type": "0xce3e3240af196a61c42b5e0279a26e0931db930d8a2fb004d143328313dc8f0b::pass::PASS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3UwYVprWE6ctjLQMbbsGtQXYFetLGVRtakRnqrAvpump.png?size=lg&key=24642a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

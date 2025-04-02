@@ -1,0 +1,13 @@
+{
+  "name": "Donut Trump",
+  "symbol": "DNUT",
+  "decimals": 9,
+  "coin_type": "0xc8824af3f3e9f8615816b6227aa445d73969b80557a19d6dfd54147e6c24783b::dnut::DNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f9e68e50-854e-4e35-8504-305d4340dcdb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

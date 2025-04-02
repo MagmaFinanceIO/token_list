@@ -1,0 +1,13 @@
+{
+  "name": "Sui Doggos",
+  "symbol": "DOGGOS",
+  "decimals": 6,
+  "coin_type": "0x743daec453bfe09ed2fe1ac348ab5422132f99714f0932ef32cbb7df17685ba6::doggos::DOGGOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/doggos_f8e4757d83.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

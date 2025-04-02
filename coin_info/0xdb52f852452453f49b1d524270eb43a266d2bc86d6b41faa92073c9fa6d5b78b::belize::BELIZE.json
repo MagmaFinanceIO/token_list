@@ -1,0 +1,13 @@
+{
+  "name": "Belize",
+  "symbol": "Belize",
+  "decimals": 2,
+  "coin_type": "0xdb52f852452453f49b1d524270eb43a266d2bc86d6b41faa92073c9fa6d5b78b::belize::BELIZE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/36a09ce2-5852-45b3-a0f8-48f9c84e589c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

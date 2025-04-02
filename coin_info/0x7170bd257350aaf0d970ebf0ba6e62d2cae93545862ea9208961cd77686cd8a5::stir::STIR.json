@@ -1,0 +1,13 @@
+{
+  "name": "Stir",
+  "symbol": "STIR",
+  "decimals": 9,
+  "coin_type": "0x7170bd257350aaf0d970ebf0ba6e62d2cae93545862ea9208961cd77686cd8a5::stir::STIR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2474d30c-9f62-4f79-84fe-fff3f2883b91.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

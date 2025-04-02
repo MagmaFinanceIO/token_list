@@ -1,0 +1,13 @@
+{
+  "name": "Brian Griffin",
+  "symbol": "BRIAN",
+  "decimals": 9,
+  "coin_type": "0x020467d1267b8d3ee806b223ed7b0918d831d5b20b96006574c74a831b2d8f73::brian::BRIAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://raw.githubusercontent.com/briansuichain/brian/refs/heads/main/Brian%20Logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

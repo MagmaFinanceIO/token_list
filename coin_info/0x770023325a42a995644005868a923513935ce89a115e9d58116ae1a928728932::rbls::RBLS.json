@@ -1,0 +1,13 @@
+{
+  "name": "Rebel Bots",
+  "symbol": "RBLS",
+  "decimals": 9,
+  "coin_type": "0x770023325a42a995644005868a923513935ce89a115e9d58116ae1a928728932::rbls::RBLS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dfd10832-cffe-428f-84a9-19562c84e376.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

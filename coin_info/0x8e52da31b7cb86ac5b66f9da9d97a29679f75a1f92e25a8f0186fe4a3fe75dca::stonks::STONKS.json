@@ -1,0 +1,13 @@
+{
+  "name": "STONKS",
+  "symbol": "STONKS",
+  "decimals": 9,
+  "coin_type": "0x8e52da31b7cb86ac5b66f9da9d97a29679f75a1f92e25a8f0186fe4a3fe75dca::stonks::STONKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6NcdiK8B5KK2DzKvzvCfqi8EHaEqu48fyEzC8Mm9pump.png?size=lg&key=4a39a8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

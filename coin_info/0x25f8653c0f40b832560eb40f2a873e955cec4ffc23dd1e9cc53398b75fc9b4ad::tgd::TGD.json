@@ -1,0 +1,13 @@
+{
+  "name": "THE GOOD DOG",
+  "symbol": "TGD",
+  "decimals": 9,
+  "coin_type": "0x25f8653c0f40b832560eb40f2a873e955cec4ffc23dd1e9cc53398b75fc9b4ad::tgd::TGD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bcdef66f-d8c6-4de2-a32e-a8135c3ae24d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

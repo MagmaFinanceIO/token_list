@@ -1,0 +1,13 @@
+{
+  "name": "GobAI",
+  "symbol": "GAI",
+  "decimals": 6,
+  "coin_type": "0xd2163757790b79fc51220824f7c620f9f22eebaa4385cde756b1c39e4233f64f::gai::GAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PFPFIXXXXXXX_f8a6d32c60.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

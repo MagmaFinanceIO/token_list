@@ -1,0 +1,13 @@
+{
+  "name": "zerebro dog",
+  "symbol": "ZDOG",
+  "decimals": 9,
+  "coin_type": "0x27a985a9646f2102e0d1c8e0f1a2be2d3eea7548617c28c6570e809ce895cb12::zdog::ZDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://assets.geckoterminal.com/pl5ux2dh4bvsf39e461zo763julm",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

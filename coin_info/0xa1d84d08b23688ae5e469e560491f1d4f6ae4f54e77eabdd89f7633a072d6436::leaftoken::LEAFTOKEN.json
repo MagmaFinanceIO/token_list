@@ -1,0 +1,13 @@
+{
+  "name": "LEAFTOKEN",
+  "symbol": "LEAFTOKEN",
+  "decimals": 0,
+  "coin_type": "0xa1d84d08b23688ae5e469e560491f1d4f6ae4f54e77eabdd89f7633a072d6436::leaftoken::LEAFTOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/20b73a10-2a2d-4729-a80f-89f76a565517.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

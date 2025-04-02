@@ -1,0 +1,13 @@
+{
+  "name": "SAM",
+  "symbol": "SSAM",
+  "decimals": 9,
+  "coin_type": "0x5ecd59523d2bf9406b893c9b7a35cb99a71e62b22758fe0184a62964c54f7e2d::ssam::SSAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://goods-photos.static1-sima-land.com/items/7175055/1/700-nw.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

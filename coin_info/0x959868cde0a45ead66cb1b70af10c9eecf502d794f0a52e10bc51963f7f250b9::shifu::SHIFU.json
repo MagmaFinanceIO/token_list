@@ -1,0 +1,13 @@
+{
+  "name": "Shifu in SUI",
+  "symbol": "SHIFU",
+  "decimals": 9,
+  "coin_type": "0x959868cde0a45ead66cb1b70af10c9eecf502d794f0a52e10bc51963f7f250b9::shifu::SHIFU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x2cc7a972ebc1865b346085655f929abfa74cd4dc.png?size=xl&key=95e1ba",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

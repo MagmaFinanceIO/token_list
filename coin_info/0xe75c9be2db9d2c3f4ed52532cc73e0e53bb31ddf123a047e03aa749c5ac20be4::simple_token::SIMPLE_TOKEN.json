@@ -1,0 +1,13 @@
+{
+  "name": "Sonic on Sui",
+  "symbol": "SONICSUI",
+  "decimals": 9,
+  "coin_type": "0xe75c9be2db9d2c3f4ed52532cc73e0e53bb31ddf123a047e03aa749c5ac20be4::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

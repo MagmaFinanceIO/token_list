@@ -1,0 +1,13 @@
+{
+  "name": "Red Kingdom",
+  "symbol": "Chiefs",
+  "decimals": 6,
+  "coin_type": "0x278a60de7c586a173982de9843169eaacd1b77681f088318cc4b9a3afad04059::chiefs::CHIEFS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737262505664.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

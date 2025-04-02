@@ -1,0 +1,13 @@
+{
+  "name": "ovan suu",
+  "symbol": "SUU",
+  "decimals": 2,
+  "coin_type": "0x64c37820fa974745c91c30f21a9266ccbea3790525e7a9d1687da16423de1d7e::suu::SUU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/5fChOAv.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

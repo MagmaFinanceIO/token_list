@@ -1,0 +1,13 @@
+{
+  "name": "Blue Kolt",
+  "symbol": "KOLT",
+  "decimals": 9,
+  "coin_type": "0x55758414091036001e6be5bdad542a62d39586d499d1c7af15a7ae47418102fd::kolt::KOLT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c57b9f71-980f-4e8f-ab86-d72968b8adcb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

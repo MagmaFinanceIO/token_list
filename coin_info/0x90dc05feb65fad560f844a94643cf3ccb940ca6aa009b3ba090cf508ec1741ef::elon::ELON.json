@@ -1,0 +1,13 @@
+{
+  "name": "ELON",
+  "symbol": "ELON",
+  "decimals": 9,
+  "coin_type": "0x90dc05feb65fad560f844a94643cf3ccb940ca6aa009b3ba090cf508ec1741ef::elon::ELON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cc54fbfd-1210-40a2-920b-017ab86d8cdc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

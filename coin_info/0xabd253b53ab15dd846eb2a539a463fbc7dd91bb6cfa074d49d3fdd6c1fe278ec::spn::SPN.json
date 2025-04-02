@@ -1,0 +1,13 @@
+{
+  "name": "SPN Coin",
+  "symbol": "SPN",
+  "decimals": 9,
+  "coin_type": "0xabd253b53ab15dd846eb2a539a463fbc7dd91bb6cfa074d49d3fdd6c1fe278ec::spn::SPN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/219d6b48-ac93-4c1e-a158-9e0cbf7fac85.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

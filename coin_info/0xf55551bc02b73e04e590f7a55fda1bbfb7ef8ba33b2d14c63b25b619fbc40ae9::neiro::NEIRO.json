@@ -1,0 +1,13 @@
+{
+  "name": "Neiro",
+  "symbol": "NEIRO",
+  "decimals": 2,
+  "coin_type": "0xf55551bc02b73e04e590f7a55fda1bbfb7ef8ba33b2d14c63b25b619fbc40ae9::neiro::NEIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c9f6e086-8afd-4e8d-8879-0b89c8d85bde.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

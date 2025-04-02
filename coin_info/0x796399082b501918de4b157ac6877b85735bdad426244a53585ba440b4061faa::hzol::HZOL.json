@@ -1,0 +1,13 @@
+{
+  "name": "Hzol",
+  "symbol": "HZOL",
+  "decimals": 9,
+  "coin_type": "0x796399082b501918de4b157ac6877b85735bdad426244a53585ba440b4061faa::hzol::HZOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/dLkSZMp/gorilla.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

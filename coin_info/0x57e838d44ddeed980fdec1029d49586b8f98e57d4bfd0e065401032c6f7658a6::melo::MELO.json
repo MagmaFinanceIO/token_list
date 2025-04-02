@@ -1,0 +1,13 @@
+{
+  "name": "CARAMELO DOG",
+  "symbol": "MELO",
+  "decimals": 6,
+  "coin_type": "0x57e838d44ddeed980fdec1029d49586b8f98e57d4bfd0e065401032c6f7658a6::melo::MELO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_PR_Ug6_F_Khx7udsw_LN_6a_X_Vo_Zk_Mh_Y_Pig_W_Gvys_Rj_Yt175m_Q2_7174b3e540.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

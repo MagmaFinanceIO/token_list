@@ -1,0 +1,13 @@
+{
+  "name": "MONSTER",
+  "symbol": "MONSTER",
+  "decimals": 9,
+  "coin_type": "0xee1703194693213b94b6ff2a9dc2049b54440315be8931212d54478468bc1c10::monster::MONSTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CihjDh2tUGqbAbxKCmxKd7ssMsvMaWecFBBZNeNZpump.png?size=lg&key=c60efb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Snake",
+  "symbol": "Snake",
+  "decimals": 9,
+  "coin_type": "0xd0cec9d43af65d2e5f41ad608fb823882f702487c0810d297f6a7260e18ee5c4::snake::SNAKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2d81af87-3388-4753-82da-739167b75e4a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

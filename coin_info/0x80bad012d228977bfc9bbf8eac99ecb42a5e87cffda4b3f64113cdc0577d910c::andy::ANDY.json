@@ -1,0 +1,13 @@
+{
+  "name": "Andy",
+  "symbol": "Andy",
+  "decimals": 9,
+  "coin_type": "0x80bad012d228977bfc9bbf8eac99ecb42a5e87cffda4b3f64113cdc0577d910c::andy::ANDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ed18bdc4-778b-4cea-a1cc-cf74236b1274.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

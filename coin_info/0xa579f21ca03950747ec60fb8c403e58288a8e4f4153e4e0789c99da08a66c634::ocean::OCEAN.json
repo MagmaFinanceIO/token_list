@@ -1,0 +1,13 @@
+{
+  "name": "WATER WAVE",
+  "symbol": "OCEAN",
+  "decimals": 6,
+  "coin_type": "0xa579f21ca03950747ec60fb8c403e58288a8e4f4153e4e0789c99da08a66c634::ocean::OCEAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/ocean.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

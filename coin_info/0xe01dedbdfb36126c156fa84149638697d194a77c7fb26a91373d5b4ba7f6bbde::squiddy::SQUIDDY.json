@@ -1,0 +1,13 @@
+{
+  "name": "Squiddy",
+  "symbol": "SQUIDDY",
+  "decimals": 9,
+  "coin_type": "0xe01dedbdfb36126c156fa84149638697d194a77c7fb26a91373d5b4ba7f6bbde::squiddy::SQUIDDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/635dc75d-be88-46bd-b138-573beb15c1f7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

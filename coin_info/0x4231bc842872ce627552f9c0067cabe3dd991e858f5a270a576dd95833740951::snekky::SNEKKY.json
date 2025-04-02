@@ -1,0 +1,13 @@
+{
+  "name": "Snekky by Matt Furrie",
+  "symbol": "SNEKKY",
+  "decimals": 9,
+  "coin_type": "0x4231bc842872ce627552f9c0067cabe3dd991e858f5a270a576dd95833740951::snekky::SNEKKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A6P2hkMgnBmCfLsioqY98v5MwT6uiVnsRwL2qYuapump.png?size=lg&key=973b3c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

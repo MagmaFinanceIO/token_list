@@ -1,0 +1,13 @@
+{
+  "name": "Decentralized Dog",
+  "symbol": "DDog",
+  "decimals": 9,
+  "coin_type": "0xa4497695b0ef03877e5065c5c38cc60447342bf50c7a48625b7c2e7299dbc0a9::ddog::DDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3YaEAZeqhxQMbo6r2Bb3SCxr6dcaWeQWjf7cvA5Tpump.png?size=lg&key=58565a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

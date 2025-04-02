@@ -1,0 +1,13 @@
+{
+  "name": "AGENT WINTER AI",
+  "symbol": "WINTER",
+  "decimals": 6,
+  "coin_type": "0x6477e697116a7c151a4a9f8ec9a4aad80c9ccc1602a1a306f539cb4749842d04::winter::WINTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_12_31_01_09_48_2cb726611f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

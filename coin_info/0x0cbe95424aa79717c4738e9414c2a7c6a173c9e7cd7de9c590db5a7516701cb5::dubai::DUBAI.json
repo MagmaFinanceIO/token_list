@@ -1,0 +1,13 @@
+{
+  "name": "dubai",
+  "symbol": "dubai",
+  "decimals": 9,
+  "coin_type": "0x0cbe95424aa79717c4738e9414c2a7c6a173c9e7cd7de9c590db5a7516701cb5::dubai::DUBAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

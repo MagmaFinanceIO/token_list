@@ -1,0 +1,13 @@
+{
+  "name": "🐷Pig Pepe",
+  "symbol": "PIPPE",
+  "decimals": 9,
+  "coin_type": "0xaa2d3981be18371500e75ad8a3cbe5df1120bf747ba4ffeacd1235d4f34fea1e::pippe::PIPPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b77f4106-1e30-4395-823c-ced77a3ac041.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

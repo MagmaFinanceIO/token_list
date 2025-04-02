@@ -1,0 +1,13 @@
+{
+  "name": "FrogOnDog",
+  "symbol": "FOG",
+  "decimals": 9,
+  "coin_type": "0xfe188eca33ce1d854ad44b69c1c631aeff0c27ea56006b40fb118b18102ed24d::frogondog::FROGONDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5dd0d114-e11f-4c91-9910-72185eca6053.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

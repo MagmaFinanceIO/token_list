@@ -1,0 +1,13 @@
+{
+  "name": "SANTA DOGE On Sui",
+  "symbol": "SDOGE",
+  "decimals": 9,
+  "coin_type": "0x5ef72c776040c3d1b00cd837a5a4925bf02568d5b3b256fe3f2e65ed9ca31230::sdoge::SDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9xNsb3ySJsiNQxTVSVa1YXJLjpWqXX4g1xZNh4w5DyPB.png?size=lg&key=78f979",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

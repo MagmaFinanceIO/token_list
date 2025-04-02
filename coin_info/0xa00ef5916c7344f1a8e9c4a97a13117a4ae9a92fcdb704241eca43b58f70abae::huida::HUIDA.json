@@ -1,0 +1,13 @@
+{
+  "name": "Sui Huida",
+  "symbol": "HUIDA",
+  "decimals": 6,
+  "coin_type": "0xa00ef5916c7344f1a8e9c4a97a13117a4ae9a92fcdb704241eca43b58f70abae::huida::HUIDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000018264_f9a2e5bb3c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

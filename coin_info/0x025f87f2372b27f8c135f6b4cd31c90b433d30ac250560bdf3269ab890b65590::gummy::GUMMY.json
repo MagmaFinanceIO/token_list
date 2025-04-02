@@ -1,0 +1,13 @@
+{
+  "name": "Gummy Bear",
+  "symbol": "GUMMY",
+  "decimals": 9,
+  "coin_type": "0x025f87f2372b27f8c135f6b4cd31c90b433d30ac250560bdf3269ab890b65590::gummy::GUMMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7ai1PtaQR6csy223QygzfQ2kAaBtpkLFJedUiQoipump.png?size=lg&key=778e0e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Man of Sin",
+  "symbol": "ANTICHRIST",
+  "decimals": 6,
+  "coin_type": "0x9032506d9fa925a22047f988192da970c3dfb293b3bb65fd3fd7a43d3a50e875::antichrist::ANTICHRIST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ac_340c7bf538.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

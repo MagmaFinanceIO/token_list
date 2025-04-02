@@ -1,0 +1,13 @@
+{
+  "name": "GOOF TROOP",
+  "symbol": "GOOF",
+  "decimals": 9,
+  "coin_type": "0xbc8387cd079a4b2bbd66eb3b662189af3cfef477e31a666672f9305e657da0a2::goof::GOOF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/95BuuTvdg8NTpzwSRjvSzMD2y4D4RDECGTtshP9Qpump.png?size=lg&key=67ec14",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

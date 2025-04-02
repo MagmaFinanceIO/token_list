@@ -1,0 +1,13 @@
+{
+  "name": "https://hopdogsui.fu",
+  "symbol": "BDOG",
+  "decimals": 6,
+  "coin_type": "0x19480096c29cf69aefd99e07f81d8f243e949418ec69d6abc97ffbaeb1b650a8::bdog::BDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731009746710.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

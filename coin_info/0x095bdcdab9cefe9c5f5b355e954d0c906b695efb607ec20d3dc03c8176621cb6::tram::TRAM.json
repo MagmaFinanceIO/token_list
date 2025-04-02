@@ -1,0 +1,13 @@
+{
+  "name": "Tramcoin",
+  "symbol": "Tram",
+  "decimals": 6,
+  "coin_type": "0x095bdcdab9cefe9c5f5b355e954d0c906b695efb607ec20d3dc03c8176621cb6::tram::TRAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736522120375.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

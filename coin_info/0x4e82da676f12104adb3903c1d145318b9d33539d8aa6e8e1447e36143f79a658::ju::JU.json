@@ -1,0 +1,13 @@
+{
+  "name": "Jungle juice",
+  "symbol": "JU",
+  "decimals": 6,
+  "coin_type": "0x4e82da676f12104adb3903c1d145318b9d33539d8aa6e8e1447e36143f79a658::ju::JU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1901_ae680f557b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

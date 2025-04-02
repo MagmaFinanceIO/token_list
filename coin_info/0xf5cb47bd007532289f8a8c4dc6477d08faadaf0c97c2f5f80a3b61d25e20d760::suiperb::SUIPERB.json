@@ -1,0 +1,13 @@
+{
+  "name": "SUIPERB",
+  "symbol": "SUIPERB",
+  "decimals": 9,
+  "coin_type": "0xf5cb47bd007532289f8a8c4dc6477d08faadaf0c97c2f5f80a3b61d25e20d760::suiperb::SUIPERB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/96546791-08dc-4b2b-8e3f-4dcde42dd020.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

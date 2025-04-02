@@ -1,0 +1,13 @@
+{
+  "name": "Sui Rihno",
+  "symbol": "SUIRIHNO",
+  "decimals": 9,
+  "coin_type": "0x61c7cac534f4cb45680761eb42dec8a03316e5652a4aeec72f4033206d2e2eb5::suirihno::SUIRIHNO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/458ec813-841c-4f9d-ab9e-8249fbe0ff11.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

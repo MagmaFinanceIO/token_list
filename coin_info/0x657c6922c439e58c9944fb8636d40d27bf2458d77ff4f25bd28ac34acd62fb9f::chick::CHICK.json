@@ -1,0 +1,13 @@
+{
+  "name": "POP CHICKEN",
+  "symbol": "CHICK",
+  "decimals": 9,
+  "coin_type": "0x657c6922c439e58c9944fb8636d40d27bf2458d77ff4f25bd28ac34acd62fb9f::chick::CHICK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6309b47f-1d7f-4f0e-8791-e85c201f0951.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

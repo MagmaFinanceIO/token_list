@@ -1,0 +1,13 @@
+{
+  "name": "Holy Grail",
+  "symbol": "HOLY",
+  "decimals": 9,
+  "coin_type": "0xc97d96a8ed8c5a4c3e7171d06429622b0273716aedc99829d2435c6b14d5f164::holy::HOLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3qEJsZCpUtWUykipdQXKZ88aexQKVcuGRJYA3ezmUMHt.png?size=lg&key=736feb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

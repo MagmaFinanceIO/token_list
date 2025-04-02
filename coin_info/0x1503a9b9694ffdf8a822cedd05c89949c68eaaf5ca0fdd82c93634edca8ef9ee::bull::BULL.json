@@ -1,0 +1,13 @@
+{
+  "name": "BULLMOON",
+  "symbol": "BULL",
+  "decimals": 6,
+  "coin_type": "0x1503a9b9694ffdf8a822cedd05c89949c68eaaf5ca0fdd82c93634edca8ef9ee::bull::BULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000020806_0916c06ab9.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

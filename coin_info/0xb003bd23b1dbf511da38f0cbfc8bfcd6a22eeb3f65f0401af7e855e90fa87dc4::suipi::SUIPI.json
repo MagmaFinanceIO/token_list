@@ -1,0 +1,13 @@
+{
+  "name": "Suipinguin",
+  "symbol": "SUIPI",
+  "decimals": 6,
+  "coin_type": "0xb003bd23b1dbf511da38f0cbfc8bfcd6a22eeb3f65f0401af7e855e90fa87dc4::suipi::SUIPI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3552_2e54515063.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

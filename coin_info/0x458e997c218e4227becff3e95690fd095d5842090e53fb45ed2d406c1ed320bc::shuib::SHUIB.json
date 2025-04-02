@@ -1,0 +1,13 @@
+{
+  "name": "SHUIB INU",
+  "symbol": "SHUIB",
+  "decimals": 6,
+  "coin_type": "0x458e997c218e4227becff3e95690fd095d5842090e53fb45ed2d406c1ed320bc::shuib::SHUIB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/22da3628_430a_4d88_aea4_4609ec5571f1_17716735a1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

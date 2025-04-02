@@ -1,0 +1,13 @@
+{
+  "name": "Suiswap",
+  "symbol": "SSWP",
+  "decimals": 4,
+  "coin_type": "0x334efdd70ef820020e0f57985be925e5a8af17c105b16f5d48496dee71933659::SSWP::SSWP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://gateway.pinata.cloud/ipfs/QmNRzw4in4nRFqh4MYXYG19GPfKmjgwvzMnwGLCmXsrUrw?_gl=1*15pcnop*rs_ga*ODJhNjIwYmEtMWRiOC00MTRlLWIwMDctOTI1NDY2ODFjZGQ2*rs_ga_5RMPXG14TE*MTY4MzM4MTcwOC44LjEuMTY4MzM4MTczMy4zNS4wLjA.",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

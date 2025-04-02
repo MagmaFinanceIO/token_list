@@ -1,0 +1,13 @@
+{
+  "name": "SUI SNEK",
+  "symbol": "SSNEK",
+  "decimals": 6,
+  "coin_type": "0xfcf454408efbfb9fc808e3d9abfc86a386505dc6bb48dbfccfb75119a73d427e::ssnek::SSNEK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3635_2ee37f2e7a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "xAIFRENS",
+  "symbol": "xAIFRENS",
+  "decimals": 0,
+  "coin_type": "0x9fe1780ac27ec50c9c441fb31822f5c148f841f09ee455c6a0daf7c634a30a27::aifrens::AIFRENS",
+  "pyth_id": "",
+  "birdeyeid": "0x9fe1780ac27ec50c9c441fb31822f5c148f841f09ee455c6a0daf7c634a30a27::aifrens::AIFRENS",
+  "coin_priority": [
+    "620"
+  ],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/xAIFRENS.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

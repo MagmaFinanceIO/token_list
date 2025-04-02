@@ -1,0 +1,13 @@
+{
+  "name": "SUI SLIME",
+  "symbol": "SLIME",
+  "decimals": 6,
+  "coin_type": "0xc4c8ad3813f96b3ea3c3bfa8895f8fc99b36dbbea9d9d591f6aed87633a204aa::SLIME::SLIME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/L6grFX5/400jpg.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

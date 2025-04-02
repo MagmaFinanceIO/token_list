@@ -1,0 +1,13 @@
+{
+  "name": "SuiFloki-Inu",
+  "symbol": "SFLOKI",
+  "decimals": 9,
+  "coin_type": "0xafde00ead81e23ace89f1410e1495f23f6000a488aac6afd42352331888d248f::sfloki::SFLOKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://imagetolink.com/ib/xND7a2PK0X.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

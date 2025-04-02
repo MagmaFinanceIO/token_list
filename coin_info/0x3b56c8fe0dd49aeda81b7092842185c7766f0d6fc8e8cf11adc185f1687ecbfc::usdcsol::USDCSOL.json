@@ -1,0 +1,13 @@
+{
+  "name": "Usdcs",
+  "symbol": "USDCsol",
+  "decimals": 9,
+  "coin_type": "0x3b56c8fe0dd49aeda81b7092842185c7766f0d6fc8e8cf11adc185f1687ecbfc::usdcsol::USDCSOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/15c35ce4-d920-4fa0-b2bb-77f0f2c80a80.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

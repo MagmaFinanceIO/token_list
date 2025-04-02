@@ -1,0 +1,13 @@
+{
+  "name": "BONGO COIN",
+  "symbol": "BONGO",
+  "decimals": 9,
+  "coin_type": "0x65a220ea5ba7440254c1f9a9b178cbeaca6a8f2421bac21e9deeff5a58e09afc::bongo::BONGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/88bc9220-108d-4268-a65b-0ee121f32e00.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

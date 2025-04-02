@@ -1,0 +1,13 @@
+{
+  "name": "FUCK HOP",
+  "symbol": "FCKH",
+  "decimals": 6,
+  "coin_type": "0xf11dc1c9b737aa040ef42f521cb79306a51330156e42852949433c5214ec10a7::fckh::FCKH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSt9Demj7SpA3zPL5wRc5Y4GKgd3xnFXAjyEE9uNGRnMy",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

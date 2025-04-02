@@ -1,0 +1,13 @@
+{
+  "name": "Pink Pepe",
+  "symbol": "PINPE",
+  "decimals": 9,
+  "coin_type": "0xe20f45c809569235ea8424ddf610f9136fe9cb0d6c7fe2f3930e3d8b58e4ef71::pinpe::PINPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Dm9trcncDhwhWAGQDGqxcjeo7xY8dHgw5BA583CQrysC.png?size=lg&key=7e46e5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

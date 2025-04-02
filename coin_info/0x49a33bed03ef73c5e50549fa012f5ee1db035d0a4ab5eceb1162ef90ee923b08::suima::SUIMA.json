@@ -1,0 +1,13 @@
+{
+  "name": "Saitama On Sui",
+  "symbol": "SUIMA",
+  "decimals": 6,
+  "coin_type": "0x49a33bed03ef73c5e50549fa012f5ee1db035d0a4ab5eceb1162ef90ee923b08::suima::SUIMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_02_21_36_03_1f7bce0bc2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

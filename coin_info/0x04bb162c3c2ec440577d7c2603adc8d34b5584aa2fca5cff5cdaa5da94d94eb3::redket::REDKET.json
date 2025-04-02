@@ -1,0 +1,13 @@
+{
+  "name": "RED KET",
+  "symbol": "REDKET",
+  "decimals": 6,
+  "coin_type": "0x04bb162c3c2ec440577d7c2603adc8d34b5584aa2fca5cff5cdaa5da94d94eb3::redket::REDKET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737049158945.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

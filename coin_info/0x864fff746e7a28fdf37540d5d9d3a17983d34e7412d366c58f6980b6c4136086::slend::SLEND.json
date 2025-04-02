@@ -1,0 +1,13 @@
+{
+  "name": "Sui Lend",
+  "symbol": "SLEND",
+  "decimals": 9,
+  "coin_type": "0x864fff746e7a28fdf37540d5d9d3a17983d34e7412d366c58f6980b6c4136086::slend::SLEND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1b61a0ba-7e2e-47c4-96e8-df88431a9ec4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

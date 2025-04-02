@@ -1,0 +1,13 @@
+{
+  "name": "JobsAI",
+  "symbol": "JAI",
+  "decimals": 6,
+  "coin_type": "0xc38cc512f20cffee261f246f567098e79ff13dcbaeee61b0cefec187bfa56998::jai::JAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1907_a62f62b29b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

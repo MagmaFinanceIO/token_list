@@ -1,0 +1,13 @@
+{
+  "name": "Cupsey",
+  "symbol": "Cupsey",
+  "decimals": 9,
+  "coin_type": "0x7e2ba014eacf188df83273b366a7b2337d2e946e42bd0232a32840b85a1231c8::cupsey::CUPSEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5PsnNwPmMtsGZgG6ZqMoDJJi28BR5xpAotXHHiQhpump.png?size=lg&key=c06915",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

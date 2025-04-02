@@ -1,0 +1,13 @@
+{
+  "name": "WIF PUDGY",
+  "symbol": "WIFP",
+  "decimals": 9,
+  "coin_type": "0xa077334c4de107b085c742c1251ec892c681de065eac7c7f57bf5ae8b1b9912b::wifp::WIFP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/83AckcL2cgyPfXqHHhhEKFjXyrhGDHNp38WhVppUneF1.png?size=lg&key=a1adf7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

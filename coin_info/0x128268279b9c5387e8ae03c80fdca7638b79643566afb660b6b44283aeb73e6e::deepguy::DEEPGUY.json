@@ -1,0 +1,13 @@
+{
+  "name": "Just a deepseek guy",
+  "symbol": "DEEPGUY",
+  "decimals": 9,
+  "coin_type": "0x128268279b9c5387e8ae03c80fdca7638b79643566afb660b6b44283aeb73e6e::deepguy::DEEPGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7EgBdsmkJYYSJVntxUiVtZWNRMe4pCnKRe6Rz1q8pump.png?size=lg&key=aa237e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

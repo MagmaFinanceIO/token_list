@@ -1,0 +1,13 @@
+{
+  "name": "ETENomics",
+  "symbol": "ETE",
+  "decimals": 7,
+  "coin_type": "0x4d39fb81734e00fd13707426987253c9d9faad3515ab2eb738e1508ccf5f01b6::ete::ETE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f7c5b429-fbb8-4742-9a20-4cf93ccbcd7f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

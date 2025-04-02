@@ -1,0 +1,13 @@
+{
+  "name": "ElonTrump",
+  "symbol": "ET",
+  "decimals": 6,
+  "coin_type": "0xfb9d26a4bd022f71c7d7bdcc8e7b4fc3d4985eda4f2256764f83a71c6715e22e::et::ET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f67faed4-0cb6-456e-bb96-2daeba01f5fd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Chady On Sui",
+  "symbol": "CHADY",
+  "decimals": 9,
+  "coin_type": "0x3271dc61958ef0b013d4838dc70b9e62c3609b41042c73c8357aade5fea4695b::chady::CHADY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FC3pmLVy4ufCfBXZenJyFHaQicj1hyVtD3UrDtF9uKNg.png?size=lg&key=77277e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

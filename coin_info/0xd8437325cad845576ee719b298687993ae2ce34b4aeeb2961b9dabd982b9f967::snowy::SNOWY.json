@@ -1,0 +1,13 @@
+{
+  "name": "SNOWY on Sui",
+  "symbol": "SNOWY",
+  "decimals": 6,
+  "coin_type": "0xd8437325cad845576ee719b298687993ae2ce34b4aeeb2961b9dabd982b9f967::snowy::SNOWY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736586723048.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

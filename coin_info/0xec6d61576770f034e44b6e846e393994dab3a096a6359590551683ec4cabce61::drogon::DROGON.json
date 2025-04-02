@@ -1,0 +1,13 @@
+{
+  "name": "The Dragon Dog",
+  "symbol": "Drogon",
+  "decimals": 9,
+  "coin_type": "0xec6d61576770f034e44b6e846e393994dab3a096a6359590551683ec4cabce61::drogon::DROGON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/896dc0b5-2814-4c1d-b06e-161273c29037.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

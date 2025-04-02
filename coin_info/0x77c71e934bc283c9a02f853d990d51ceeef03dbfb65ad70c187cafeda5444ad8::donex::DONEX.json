@@ -1,0 +1,13 @@
+{
+  "name": "DONEX",
+  "symbol": "donex",
+  "decimals": 9,
+  "coin_type": "0x77c71e934bc283c9a02f853d990d51ceeef03dbfb65ad70c187cafeda5444ad8::donex::DONEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

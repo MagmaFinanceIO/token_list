@@ -1,0 +1,13 @@
+{
+  "name": "Truth Terminals First Coin",
+  "symbol": "Thinker",
+  "decimals": 9,
+  "coin_type": "0x4f9e13f9720acd6ddee41bf4f3bea7b83b321870c7ee102a497e2bf95fc73fcd::thinker::THINKER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EjCdnqp7u6Y1WrK3mp2EA6Bu77jUnD45ceaZqwgTpump.png?size=lg&key=fa0ae5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

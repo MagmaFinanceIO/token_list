@@ -1,0 +1,13 @@
+{
+  "name": "Spinal muscular atrophy",
+  "symbol": "SMA",
+  "decimals": 9,
+  "coin_type": "0xbd31caf983649150103c9a2cb070da78133a53c1e0cb5988a4715c6ee109ca4c::sma::SMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/922e4f9b-5835-4ce5-832c-646a64e2cf69.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

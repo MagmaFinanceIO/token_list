@@ -1,0 +1,13 @@
+{
+  "name": "Groove",
+  "symbol": "GRO",
+  "decimals": 8,
+  "coin_type": "0x87b455156d6176421ac24b900038131259a725cd770128bffa7947a6a16914b8::gro::GRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4eb51efd-4b92-4d11-bf3b-d7c9d07c0a38.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

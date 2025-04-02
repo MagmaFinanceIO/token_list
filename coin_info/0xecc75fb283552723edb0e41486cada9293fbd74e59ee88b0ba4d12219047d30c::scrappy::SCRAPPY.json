@@ -1,0 +1,13 @@
+{
+  "name": "Scrappy on Sui",
+  "symbol": "SCRAPPY",
+  "decimals": 6,
+  "coin_type": "0xecc75fb283552723edb0e41486cada9293fbd74e59ee88b0ba4d12219047d30c::scrappy::SCRAPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/7363726170000000000000000000000000000000_rghtynnigyuahehwgfadoehkoirkgndzzo_1_3b26bb8d09.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

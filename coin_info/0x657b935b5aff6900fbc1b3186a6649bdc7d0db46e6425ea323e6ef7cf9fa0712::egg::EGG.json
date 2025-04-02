@@ -1,0 +1,13 @@
+{
+  "name": "EggSui",
+  "symbol": "EGG",
+  "decimals": 6,
+  "coin_type": "0x657b935b5aff6900fbc1b3186a6649bdc7d0db46e6425ea323e6ef7cf9fa0712::egg::EGG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/EGG_abc1337f0a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

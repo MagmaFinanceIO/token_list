@@ -1,0 +1,13 @@
+{
+  "name": "Monkey Toshi Coin",
+  "symbol": "MTC",
+  "decimals": 9,
+  "coin_type": "0xf898ac3330515accd6c5dc9b1645f971b438ba1138fca792a5c3b804913bc411::mtc::MTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FSpfzKUFnhwUkaP9iSnuA7ZQCQUHMVbXbbtzL1vGpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

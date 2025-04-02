@@ -1,0 +1,13 @@
+{
+  "name": "WOG The Frog",
+  "symbol": "WOG",
+  "decimals": 6,
+  "coin_type": "0x5a9a716fc5be254cc28d500dfc80f9ea38ad36bc20491c3c8a63428cd2d9a7bb::wog::WOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logoo_9023fbea38.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Wave",
+  "symbol": "WAVE",
+  "decimals": 9,
+  "coin_type": "0xc7e1a7eb770dd94927a45ada92dd6fcaf8e3a881eae709da42026e78de49f15a::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://static.coinpaprika.com/coin/wave-wave-token/logo.png?rev=11020739",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

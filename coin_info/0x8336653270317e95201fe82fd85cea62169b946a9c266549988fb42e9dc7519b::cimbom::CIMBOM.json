@@ -1,0 +1,13 @@
+{
+  "name": "Cimbom",
+  "symbol": "CIMBOM",
+  "decimals": 9,
+  "coin_type": "0x8336653270317e95201fe82fd85cea62169b946a9c266549988fb42e9dc7519b::cimbom::CIMBOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ffa8db29-31d0-4931-8e68-1ff1eb92ea0d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

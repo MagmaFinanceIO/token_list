@@ -1,0 +1,13 @@
+{
+  "name": "BUIRT SIMPSON",
+  "symbol": "Buirt",
+  "decimals": 6,
+  "coin_type": "0x9d746e9275a4ec436bca071c281a262e22d6eb4ec6b7d7b64c7bdf6e541747e4::buirt::BUIRT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3366_00ab8c7946.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

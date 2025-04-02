@@ -1,0 +1,13 @@
+{
+  "name": "Trade GPT by SuiAI",
+  "symbol": "TRADEGPT",
+  "decimals": 6,
+  "coin_type": "0x491529978648f6506c21045f70bfad2830a6da83723e120ed6fff889ee747b99::tradegpt::TRADEGPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/images_16_80e9ecee48.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

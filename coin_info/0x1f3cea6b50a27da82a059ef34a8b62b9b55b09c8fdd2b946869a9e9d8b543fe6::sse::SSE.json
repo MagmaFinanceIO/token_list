@@ -1,0 +1,13 @@
+{
+  "name": "Solana Social Explorer",
+  "symbol": "SSE",
+  "decimals": 9,
+  "coin_type": "0x1f3cea6b50a27da82a059ef34a8b62b9b55b09c8fdd2b946869a9e9d8b543fe6::sse::SSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HnFmJ17ibRiTaPXhbjbqFCDW847QSYnYAdWSbXw3rRKm.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

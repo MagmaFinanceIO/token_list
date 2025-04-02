@@ -1,0 +1,13 @@
+{
+  "name": "BirdDog",
+  "symbol": "BDOG",
+  "decimals": 9,
+  "coin_type": "0xfcdb2d4c5d69214849f536b9858c81816f89362ad2ee85fc8ca98cec23155483::bdog::BDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0a9ca24a-8a3f-4a4e-b327-b0ccc3fe0323.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

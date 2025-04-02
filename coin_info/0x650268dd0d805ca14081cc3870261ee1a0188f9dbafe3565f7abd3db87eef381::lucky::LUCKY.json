@@ -1,0 +1,13 @@
+{
+  "name": "LUCKY",
+  "symbol": "Lucky SuI",
+  "decimals": 6,
+  "coin_type": "0x650268dd0d805ca14081cc3870261ee1a0188f9dbafe3565f7abd3db87eef381::lucky::LUCKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dashboard-assets.dappradar.com/document/46519/luckysea-project-gambling-46519-logo-166x166_d2960ff8daf005c1994e556c6650cfc6.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CryptoPunks",
+  "symbol": "Punks",
+  "decimals": 9,
+  "coin_type": "0xb3acc9e6d8bebf84f85314c30aada95f835ebb9ccd156285b86740f38cca1d55::punks::PUNKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qmds4HefHRBjk4c89k6GHErjTCHbdYd2SLAmNEraotnGhG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

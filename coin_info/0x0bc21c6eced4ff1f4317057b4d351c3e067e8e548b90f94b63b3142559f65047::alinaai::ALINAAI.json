@@ -1,0 +1,13 @@
+{
+  "name": "ALINA intel",
+  "symbol": "ALINAAI",
+  "decimals": 9,
+  "coin_type": "0x0bc21c6eced4ff1f4317057b4d351c3e067e8e548b90f94b63b3142559f65047::alinaai::ALINAAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HPgsCBk6gkTw5FFPYc9WeeBU8EU2Ye1AYmeTYq5apump.png?size=lg&key=bfdf71",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

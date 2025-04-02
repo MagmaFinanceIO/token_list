@@ -1,0 +1,13 @@
+{
+  "name": "Sharpei Sui",
+  "symbol": "SHAR",
+  "decimals": 6,
+  "coin_type": "0x78004128d7dc579b35f4bbfe166fed0b683f670e329f30aa8c5d41499d5a395c::shar::SHAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/4_841c3f345b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

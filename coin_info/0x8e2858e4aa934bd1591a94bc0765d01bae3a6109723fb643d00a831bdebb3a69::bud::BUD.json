@@ -1,0 +1,13 @@
+{
+  "name": "BudBot",
+  "symbol": "BUD",
+  "decimals": 6,
+  "coin_type": "0x8e2858e4aa934bd1591a94bc0765d01bae3a6109723fb643d00a831bdebb3a69::bud::BUD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1734200582513.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

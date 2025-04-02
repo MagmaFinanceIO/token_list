@@ -1,0 +1,13 @@
+{
+  "name": "Snoo AI",
+  "symbol": "SnooAI",
+  "decimals": 9,
+  "coin_type": "0x6b0f3afdf0b2222b9a785c55f4443a93e6743a7de5c55ae6cea84ed20ca053e5::snooai::SNOOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/eL9gobNvDnSw5UkwdnEeaQRvaw9S7YzezySmQoLVzBf.png?size=lg&key=06b873",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

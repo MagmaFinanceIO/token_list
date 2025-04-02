@@ -1,0 +1,13 @@
+{
+  "name": "Chilla Bean",
+  "symbol": "CHILLI",
+  "decimals": 9,
+  "coin_type": "0x43816e28bc007944078ec87e206e83d5927d3dd833d91d417741a0fb2b3d99e7::chilli::CHILLI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f3d41188-c31f-4ad1-82c4-cbd80475cbf2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

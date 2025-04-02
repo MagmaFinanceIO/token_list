@@ -1,0 +1,13 @@
+{
+  "name": "#1 chill animal",
+  "symbol": "CAPYBARA",
+  "decimals": 9,
+  "coin_type": "0xd491c1ad0b67a7f555ce3b791d604f8e4abfb931fc4edc709e1a0c3dc14493df::capybara::CAPYBARA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7cWeM4kSGP2Mfm83k6F9BHukqeWccSYXq6bWFuu8THMN.png?size=lg&key=3437ae",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

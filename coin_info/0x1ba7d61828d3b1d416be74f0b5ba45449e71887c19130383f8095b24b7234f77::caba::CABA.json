@@ -1,0 +1,13 @@
+{
+  "name": "CapyBaron",
+  "symbol": "CABA",
+  "decimals": 9,
+  "coin_type": "0x1ba7d61828d3b1d416be74f0b5ba45449e71887c19130383f8095b24b7234f77::caba::CABA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/66fe89c5-08b2-4967-959a-b2e3a8c0f3ba.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

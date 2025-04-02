@@ -1,0 +1,13 @@
+{
+  "name": "suibao",
+  "symbol": "SUBAO",
+  "decimals": 6,
+  "coin_type": "0xab4a44873d1f9b2130b9cdc240951cc0310227e98ba01ac62da18dbb38df3a66::subao::SUBAO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_11_03_01_37_03_3e9f6b44ff.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

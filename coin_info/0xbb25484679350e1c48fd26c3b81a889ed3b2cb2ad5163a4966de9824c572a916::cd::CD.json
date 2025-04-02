@@ -1,0 +1,13 @@
+{
+  "name": "chill dude",
+  "symbol": "CD",
+  "decimals": 6,
+  "coin_type": "0xbb25484679350e1c48fd26c3b81a889ed3b2cb2ad5163a4966de9824c572a916::cd::CD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

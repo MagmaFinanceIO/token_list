@@ -1,0 +1,13 @@
+{
+  "name": "GTS-mau AI",
+  "symbol": "MAUGTS",
+  "decimals": 9,
+  "coin_type": "0x269048d159cb42f957f317ffa850d6d74752afb2c58e91a3610d0ed78e804e0f::maugts::MAUGTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2L9ZF3psDvLkKLyHkuze4b9LtC62vYkmUERBsYARpump.png?size=lg&key=00a987",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

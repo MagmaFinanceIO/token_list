@@ -1,0 +1,13 @@
+{
+  "name": "DUBAI AI ربوط إنسان آلي",
+  "symbol": "DUBAI",
+  "decimals": 9,
+  "coin_type": "0x480eeb7f10fda0c674b7444110a780164f9cf96b3e70d0d030b362faa6d8b20f::dubai::DUBAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0248a883-d5a7-4b52-a9f9-e113b04611e4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

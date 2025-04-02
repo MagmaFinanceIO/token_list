@@ -1,0 +1,13 @@
+{
+  "name": "MyBot",
+  "symbol": "MYBOT",
+  "decimals": 9,
+  "coin_type": "0xb3be823582443f8d629ba76f8e625c8d5807a1dadfedf610a3fd75dfd508cbaf::mybot::MYBOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CHg6qLapQhtkJmUAR8k93PEB6ZUB1aD71NH9cMTTpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

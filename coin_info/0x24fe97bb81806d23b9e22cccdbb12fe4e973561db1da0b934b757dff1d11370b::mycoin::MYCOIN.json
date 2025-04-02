@@ -1,0 +1,13 @@
+{
+  "name": "EVOAI",
+  "symbol": "EVOAI",
+  "decimals": 9,
+  "coin_type": "0x24fe97bb81806d23b9e22cccdbb12fe4e973561db1da0b934b757dff1d11370b::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

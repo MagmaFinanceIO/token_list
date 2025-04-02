@@ -1,0 +1,13 @@
+{
+  "name": "Black Pepe",
+  "symbol": "BLACKPEPE",
+  "decimals": 6,
+  "coin_type": "0x9a6b57da3d81d6fafdbf82a362c4bb8f842ce03cf8016a646428d85588f40aee::blackpepe::BLACKPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_10_11_085324_0de655582a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

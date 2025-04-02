@@ -1,0 +1,13 @@
+{
+  "name": "Blum On Sui",
+  "symbol": "Sui BLUM",
+  "decimals": 9,
+  "coin_type": "0xfeeda0f1205dda1ea5fd56d96436337b4af74df7a49cae68c673031991a22711::sui_blum::SUI_BLUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1843749862053163008/2ULVg4Hc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ROGI",
+  "symbol": "ROGI",
+  "decimals": 9,
+  "coin_type": "0x145078b8bb8c7244e05f0f3954281e91b7c901135c985ecdd33ab623187f141d::rogi::ROGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/E1Bke3PvckrEBPh1QjioDMXcy2vdsUCQuDfqw4p5pump.png?size=lg&key=0c723c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

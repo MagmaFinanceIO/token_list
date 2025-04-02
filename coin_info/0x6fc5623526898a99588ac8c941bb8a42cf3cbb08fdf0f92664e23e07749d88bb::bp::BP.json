@@ -1,0 +1,13 @@
+{
+  "name": "Baby Pepe",
+  "symbol": "BP",
+  "decimals": 9,
+  "coin_type": "0x6fc5623526898a99588ac8c941bb8a42cf3cbb08fdf0f92664e23e07749d88bb::bp::BP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c8c544fb-e428-4d86-bedd-5421fdda93f3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

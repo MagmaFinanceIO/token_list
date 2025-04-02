@@ -1,0 +1,13 @@
+{
+  "name": "Payment 17",
+  "symbol": "Payment 17",
+  "decimals": 6,
+  "coin_type": "0xc7b676ebc30df94c743b77b2094f0a1a947ec93cc196af0726bf95e9ec5de8f6::cak::CAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "__Url here__",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

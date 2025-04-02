@@ -1,0 +1,13 @@
+{
+  "name": "popsui",
+  "symbol": "POPSUI",
+  "decimals": 6,
+  "coin_type": "0xc7f13395a80e08e00c7fdf0fd0155b70920e88a637850d1f6e1108de7574cb62::popsui::POPSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

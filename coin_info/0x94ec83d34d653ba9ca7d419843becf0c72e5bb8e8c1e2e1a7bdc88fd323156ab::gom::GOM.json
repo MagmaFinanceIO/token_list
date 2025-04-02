@@ -1,0 +1,13 @@
+{
+  "name": "God of Memes",
+  "symbol": "GOM",
+  "decimals": 2,
+  "coin_type": "0x94ec83d34d653ba9ca7d419843becf0c72e5bb8e8c1e2e1a7bdc88fd323156ab::gom::GOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b938d578-6b79-4528-9563-356048c89d3d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

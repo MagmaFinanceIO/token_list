@@ -1,0 +1,13 @@
+{
+  "name": "Tickle",
+  "symbol": "TICKLE",
+  "decimals": 9,
+  "coin_type": "0x48081d0b03d9d12a8d74558ccf0882f6b9ccc31bb7fef473ef9c931531a7d447::tickle::TICKLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/60b788ec-466c-42bb-af12-815a3371543e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

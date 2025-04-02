@@ -1,0 +1,13 @@
+{
+  "name": "DOG TOSHI SUI",
+  "symbol": "DOG TOSHI",
+  "decimals": 9,
+  "coin_type": "0x974a687892ffbdab179d3ed5694e176360b7127c5c546768e3b6f4a862b33a7f::dog_toshi::DOG_TOSHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/17d474cc-dc71-4eb4-a11f-9cbfa87deeda.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

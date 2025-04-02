@@ -1,0 +1,13 @@
+{
+  "name": "NEURON",
+  "symbol": "NRN",
+  "decimals": 6,
+  "coin_type": "0xc7bf23fce582ed2d37db9b569983eccea21fb22474de25403c70ce39d25786fc::nrn::NRN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731516944034.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

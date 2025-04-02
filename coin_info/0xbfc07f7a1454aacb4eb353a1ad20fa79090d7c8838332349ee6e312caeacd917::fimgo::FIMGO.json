@@ -1,0 +1,13 @@
+{
+  "name": "Sword Ghost Fimgo",
+  "symbol": "FIMGO",
+  "decimals": 9,
+  "coin_type": "0xbfc07f7a1454aacb4eb353a1ad20fa79090d7c8838332349ee6e312caeacd917::fimgo::FIMGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/078/291/146/large/keny-bigny-samurairender1.jpg?1721724513",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

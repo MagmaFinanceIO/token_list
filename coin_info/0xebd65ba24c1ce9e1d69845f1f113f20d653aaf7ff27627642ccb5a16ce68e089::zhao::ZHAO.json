@@ -1,0 +1,13 @@
+{
+  "name": "Official Changpeng Zhao Coin",
+  "symbol": "ZHAO",
+  "decimals": 9,
+  "coin_type": "0xebd65ba24c1ce9e1d69845f1f113f20d653aaf7ff27627642ccb5a16ce68e089::zhao::ZHAO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9GuodFwbge2u3aNQyNkgp7bzBya3xZ3qe7yuWDBSpump.png?size=lg&key=1350d0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

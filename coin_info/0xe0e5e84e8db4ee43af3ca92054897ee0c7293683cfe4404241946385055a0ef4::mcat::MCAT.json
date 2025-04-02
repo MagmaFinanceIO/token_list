@@ -1,0 +1,13 @@
+{
+  "name": "Muscle Cats",
+  "symbol": "MCAT",
+  "decimals": 6,
+  "coin_type": "0xe0e5e84e8db4ee43af3ca92054897ee0c7293683cfe4404241946385055a0ef4::mcat::MCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/MONKEY_13_150e65cd6d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

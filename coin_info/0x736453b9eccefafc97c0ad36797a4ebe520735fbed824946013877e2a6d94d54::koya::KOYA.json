@@ -1,0 +1,13 @@
+{
+  "name": "KOYA",
+  "symbol": "KOYA",
+  "decimals": 9,
+  "coin_type": "0x736453b9eccefafc97c0ad36797a4ebe520735fbed824946013877e2a6d94d54::koya::KOYA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HGW9fbnC7RDNPAe5NJdyh9qvJ6EkYafMm5Bh8Hh9gu4d.png?size=lg&key=90c188",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

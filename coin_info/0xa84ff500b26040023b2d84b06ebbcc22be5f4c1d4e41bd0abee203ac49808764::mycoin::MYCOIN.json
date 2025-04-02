@@ -1,0 +1,13 @@
+{
+  "name": "JIMCARRTER",
+  "symbol": "JIMC",
+  "decimals": 9,
+  "coin_type": "0xa84ff500b26040023b2d84b06ebbcc22be5f4c1d4e41bd0abee203ac49808764::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

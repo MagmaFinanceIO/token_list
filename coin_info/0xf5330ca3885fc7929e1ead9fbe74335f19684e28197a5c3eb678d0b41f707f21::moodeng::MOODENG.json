@@ -1,0 +1,13 @@
+{
+  "name": "Moo Deng",
+  "symbol": "MOODENG",
+  "decimals": 9,
+  "coin_type": "0xf5330ca3885fc7929e1ead9fbe74335f19684e28197a5c3eb678d0b41f707f21::moodeng::MOODENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/56245877-75f7-4aec-be23-99924ec688da.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

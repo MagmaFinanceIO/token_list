@@ -1,0 +1,13 @@
+{
+  "name": "POPO ARMY",
+  "symbol": "POPO",
+  "decimals": 9,
+  "coin_type": "0xb7b872d056b346b6bdf5e76bea9e6215f68c9bcff87ec6de0e683ef16ea3a529::popo::POPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

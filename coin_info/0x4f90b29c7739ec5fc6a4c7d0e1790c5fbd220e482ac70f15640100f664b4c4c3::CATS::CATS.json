@@ -1,0 +1,13 @@
+{
+  "name": "CATS",
+  "symbol": "CATS",
+  "decimals": 9,
+  "coin_type": "0x4f90b29c7739ec5fc6a4c7d0e1790c5fbd220e482ac70f15640100f664b4c4c3::CATS::CATS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

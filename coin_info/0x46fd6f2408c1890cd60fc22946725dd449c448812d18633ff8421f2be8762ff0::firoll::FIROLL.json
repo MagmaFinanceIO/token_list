@@ -1,0 +1,13 @@
+{
+  "name": "QUACK",
+  "symbol": "QUACK",
+  "decimals": 9,
+  "coin_type": "0x46fd6f2408c1890cd60fc22946725dd449c448812d18633ff8421f2be8762ff0::firoll::FIROLL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafybeiecppfzpgx7xosf7h4a2zistip2d4lawqkwsp2dtp3ucmjpmnb6tq.ipfs.nftstorage.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

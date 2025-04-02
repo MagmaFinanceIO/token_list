@@ -1,0 +1,13 @@
+{
+  "name": "bitpro",
+  "symbol": "BIT",
+  "decimals": 9,
+  "coin_type": "0xe645d6721726d82e4d2648870ab9cc37bc50545d4a4adda4ec2b14afaeef6483::bit::BIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8b9a518f-f8a7-4de0-955c-1596fa166309.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

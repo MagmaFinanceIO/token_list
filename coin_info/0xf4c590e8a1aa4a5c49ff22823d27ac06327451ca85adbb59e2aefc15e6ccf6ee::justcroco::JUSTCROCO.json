@@ -1,0 +1,13 @@
+{
+  "name": "JUST CROCO",
+  "symbol": "JustCroco",
+  "decimals": 9,
+  "coin_type": "0xf4c590e8a1aa4a5c49ff22823d27ac06327451ca85adbb59e2aefc15e6ccf6ee::justcroco::JUSTCROCO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1b7910d4-aa59-49af-b49c-a62867ea5063.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

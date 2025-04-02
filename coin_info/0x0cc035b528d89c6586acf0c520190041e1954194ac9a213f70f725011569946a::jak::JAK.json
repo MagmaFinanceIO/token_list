@@ -1,0 +1,13 @@
+{
+  "name": "Jak",
+  "symbol": "JAK",
+  "decimals": 9,
+  "coin_type": "0x0cc035b528d89c6586acf0c520190041e1954194ac9a213f70f725011569946a::jak::JAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FBbnzHwJ1WHYwP425cqMNb2t7o7sm6AXQjsQ3sZRpump.png?size=lg&key=4f7e08",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Fiona",
+  "symbol": "FIONA",
+  "decimals": 9,
+  "coin_type": "0x19dcfadfc2a644478a0c598a0f5a66a403f4096f4fe975c727049c02fb9eb205::fiona::FIONA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a10a7cff-fd8e-4d05-9cb2-b54ce2d351c9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

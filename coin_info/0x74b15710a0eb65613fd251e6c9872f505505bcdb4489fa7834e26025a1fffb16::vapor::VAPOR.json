@@ -1,0 +1,13 @@
+{
+  "name": "Vaporware",
+  "symbol": "VAPOR",
+  "decimals": 6,
+  "coin_type": "0x74b15710a0eb65613fd251e6c9872f505505bcdb4489fa7834e26025a1fffb16::vapor::VAPOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/JqQcpVK/favicon.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

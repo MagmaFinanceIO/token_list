@@ -1,0 +1,13 @@
+{
+  "name": "SUYKKUNO",
+  "symbol": "SUYK",
+  "decimals": 6,
+  "coin_type": "0x9b2af133b25f3cece248e4e3008c9127c480861dea4b0c5afc8b0e1e45a8e6d5::suyk::SUYK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/qxma_Y99_400x400_6cdc1894c0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

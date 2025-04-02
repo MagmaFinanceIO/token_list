@@ -1,0 +1,13 @@
+{
+  "name": "WAG THE TRADER",
+  "symbol": "WATT",
+  "decimals": 9,
+  "coin_type": "0x834da9e999b2a960d92e53bef8a29129420b50b667c68319fef4b72b68ae953a::watt::WATT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c0803aa5-ef02-47c8-ae0b-a0653fb8841d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

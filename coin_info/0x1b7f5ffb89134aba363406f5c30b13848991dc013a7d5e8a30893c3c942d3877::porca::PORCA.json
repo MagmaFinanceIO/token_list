@@ -1,0 +1,13 @@
+{
+  "name": "Pudgy Orcas",
+  "symbol": "PORCA",
+  "decimals": 9,
+  "coin_type": "0x1b7f5ffb89134aba363406f5c30b13848991dc013a7d5e8a30893c3c942d3877::porca::PORCA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7QLEYLx27uF5C2V6k8F3Q6vqppkC6XKUBPMiirLcpump.png?size=lg&key=ce4e3d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

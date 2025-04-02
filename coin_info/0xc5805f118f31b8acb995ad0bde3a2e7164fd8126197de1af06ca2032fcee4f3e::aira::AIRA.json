@@ -1,0 +1,13 @@
+{
+  "name": "AiRA - AI",
+  "symbol": "AiRA",
+  "decimals": 6,
+  "coin_type": "0xc5805f118f31b8acb995ad0bde3a2e7164fd8126197de1af06ca2032fcee4f3e::aira::AIRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/01_Logo_907bcc8cf1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

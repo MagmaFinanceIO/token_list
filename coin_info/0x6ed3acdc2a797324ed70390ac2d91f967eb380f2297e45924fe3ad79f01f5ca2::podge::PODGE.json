@@ -1,0 +1,13 @@
+{
+  "name": "PEPE ON DOGE",
+  "symbol": "PODGE",
+  "decimals": 9,
+  "coin_type": "0x6ed3acdc2a797324ed70390ac2d91f967eb380f2297e45924fe3ad79f01f5ca2::podge::PODGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a703de2c-ba0a-4b89-9c49-d4ac6e2e295f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

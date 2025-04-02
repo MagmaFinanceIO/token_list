@@ -1,0 +1,13 @@
+{
+  "name": "Water Doge",
+  "symbol": "WDoge",
+  "decimals": 6,
+  "coin_type": "0x06f27bb472006b81beb392e49a7e374d80ed5d3f096f93b061e56b374d273c9c::wdoge::WDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a33c018e-1bfb-42a7-adc3-0bc8bf79ed78.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

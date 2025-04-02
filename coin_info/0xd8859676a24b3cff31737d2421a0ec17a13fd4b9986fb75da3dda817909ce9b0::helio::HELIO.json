@@ -1,0 +1,13 @@
+{
+  "name": "HELIO AI",
+  "symbol": "HELIO",
+  "decimals": 9,
+  "coin_type": "0xd8859676a24b3cff31737d2421a0ec17a13fd4b9986fb75da3dda817909ce9b0::helio::HELIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/3ho1Oa54cUtIyWOP?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

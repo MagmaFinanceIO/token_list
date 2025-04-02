@@ -1,0 +1,13 @@
+{
+  "name": "Jackie Fine Chicken",
+  "symbol": "JFC",
+  "decimals": 6,
+  "coin_type": "0xbbd2eaa43dc163f52d1bb77c8c5d1ff03b5a66528570272eb74675a47fd720c5::jfc::JFC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/a625619927d60f2e74a7708288c305a4_f2859398a3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "qingge",
+  "symbol": "QINGGE",
+  "decimals": 9,
+  "coin_type": "0xc3e1a1b98a68aef0d73a6c2bb615b7186004c4367c61df7e8292ae375785272c::qingge::QINGGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d8176df2-a1bc-46ec-acdf-f4454c750a48.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

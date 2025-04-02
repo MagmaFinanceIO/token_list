@@ -1,0 +1,13 @@
+{
+  "name": "Sea YODA",
+  "symbol": "YODA",
+  "decimals": 6,
+  "coin_type": "0xb78fec72bf33367d2644834f10d6fe80ec0dd6a7c6b097efeaca4a9c22f05854::yoda::YODA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Vq_Atf_J_fd9f79dd34.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

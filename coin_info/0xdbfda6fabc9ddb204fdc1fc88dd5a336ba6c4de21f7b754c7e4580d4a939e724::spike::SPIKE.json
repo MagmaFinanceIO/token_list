@@ -1,0 +1,13 @@
+{
+  "name": "SUIPIKE",
+  "symbol": "SPIKE",
+  "decimals": 6,
+  "coin_type": "0xdbfda6fabc9ddb204fdc1fc88dd5a336ba6c4de21f7b754c7e4580d4a939e724::spike::SPIKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/RP_Xpr_WLP_400x400_c6335fe102.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

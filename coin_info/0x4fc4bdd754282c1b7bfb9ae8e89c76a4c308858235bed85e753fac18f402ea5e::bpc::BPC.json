@@ -1,0 +1,13 @@
+{
+  "name": "BluePunisherCoin",
+  "symbol": "BPC",
+  "decimals": 6,
+  "coin_type": "0x4fc4bdd754282c1b7bfb9ae8e89c76a4c308858235bed85e753fac18f402ea5e::bpc::BPC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/a031fc2e_c81b_474c_b1d4_ef2a98b9c972_a9a878fdcb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

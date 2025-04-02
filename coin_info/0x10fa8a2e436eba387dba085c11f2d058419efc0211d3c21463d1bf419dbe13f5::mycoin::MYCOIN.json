@@ -1,0 +1,13 @@
+{
+  "name": "NAUTILUSANGENT",
+  "symbol": "NATL",
+  "decimals": 9,
+  "coin_type": "0x10fa8a2e436eba387dba085c11f2d058419efc0211d3c21463d1bf419dbe13f5::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

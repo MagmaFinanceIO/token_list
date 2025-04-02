@@ -1,0 +1,13 @@
+{
+  "name": "Popeye Pepe",
+  "symbol": "POPEPE",
+  "decimals": 9,
+  "coin_type": "0x817ffa1689f03ce4ffcca6d8504acf3a138d30c0e137fe6a949ce23ca52e712c::popepe::POPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0xa7c981f79d490c0b1f3120589671dc8caacbb9ab720aa383351c54f451071d3c::popepe::popepe.png?size=lg&key=1180b8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

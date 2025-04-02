@@ -1,0 +1,13 @@
+{
+  "name": "CHILLA",
+  "symbol": "CHILLA",
+  "decimals": 9,
+  "coin_type": "0x862101b2ed8eb5714a0d52dbdf687e45dc74ae9aec280af8985052caf9a78599::chilla::CHILLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4bxQ3bQarmDqpTmnnfnw2gDsugL1wn8eUg8H3rPcpump.png?size=lg&key=8661c7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

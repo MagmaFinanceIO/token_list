@@ -1,0 +1,13 @@
+{
+  "name": "iujni",
+  "symbol": "iononi",
+  "decimals": 6,
+  "coin_type": "0x6d31a3ca65c7602708fa63ad43f7f4f7387342a5d6ba3c8b5934641303f6f5d4::iononi::IONONI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Toto meme",
+  "symbol": "Meme",
+  "decimals": 9,
+  "coin_type": "0x993318d4cbd0d1cac53349ec48e0f96cf5f640d5f0c30b4c6e0c3a5556d2b79b::meme::MEME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Chicken Tendies",
+  "symbol": "TENDIES",
+  "decimals": 9,
+  "coin_type": "0x955f29428081a161594db37f16cae478dde35747b473340f8a1af8aaae61b9f9::tendies::TENDIES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1bbcf5d3-842d-489e-9b3c-372303447417.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

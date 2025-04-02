@@ -1,0 +1,13 @@
+{
+  "name": "Eric Trump",
+  "symbol": "EricTrump",
+  "decimals": 9,
+  "coin_type": "0xca60f1decb9386936eb71e9f24430538625f50e48ce2c69f21966e92c6f90a61::erictrump::ERICTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BZU23mtBUtX4TEEwfmtEuUU571Y9EySBzA84sA1GkZaR.png?size=lg&key=e1c74f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TRYX",
+  "symbol": "tryx",
+  "decimals": 9,
+  "coin_type": "0xc3b2af5833efd5560f032631c10dd16614860269ea26ddb6b461cc8944359f99::tryx::TRYX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

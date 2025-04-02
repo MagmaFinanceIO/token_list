@@ -1,0 +1,13 @@
+{
+  "name": "SUWI on SUI",
+  "symbol": "SUWI",
+  "decimals": 6,
+  "coin_type": "0x7b672acda9e52047e4b8916f2809fbdd74fccb739b02bf6d4f70908fbe077975::suwi::SUWI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/w_B_Uuzt_Ug_400x400_c601005622.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

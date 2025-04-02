@@ -1,0 +1,13 @@
+{
+  "name": "Sui Dog",
+  "symbol": "SUIDOG",
+  "decimals": 9,
+  "coin_type": "0x208250035e8288141700bd820da5b08d2efbd1e74c9f15bf9ff9987d6e5305a7::suidog::SUIDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://aquamarine-giant-muskox-172.mypinata.cloud/ipfs/QmWXsFg9brFaNjQPvVrUF9VrmeDzuGASCWYusa1QhuMM4K",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

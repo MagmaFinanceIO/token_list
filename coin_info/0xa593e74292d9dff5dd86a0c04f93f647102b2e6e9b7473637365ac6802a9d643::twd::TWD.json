@@ -1,0 +1,13 @@
+{
+  "name": "TWD",
+  "symbol": "TWD",
+  "decimals": 9,
+  "coin_type": "0xa593e74292d9dff5dd86a0c04f93f647102b2e6e9b7473637365ac6802a9d643::twd::TWD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/FYgPptas1RVnQUxRfv84Qukvi4O5VVz6cfcO90hSDCU",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

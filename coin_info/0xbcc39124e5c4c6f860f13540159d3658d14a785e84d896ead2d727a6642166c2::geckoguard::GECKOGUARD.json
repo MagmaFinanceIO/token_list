@@ -1,0 +1,13 @@
+{
+  "name": "GeckoGuard",
+  "symbol": "GeckoGuard",
+  "decimals": 9,
+  "coin_type": "0xbcc39124e5c4c6f860f13540159d3658d14a785e84d896ead2d727a6642166c2::geckoguard::GECKOGUARD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/460eaff6-a421-4e8d-b9e7-974047a38b92.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

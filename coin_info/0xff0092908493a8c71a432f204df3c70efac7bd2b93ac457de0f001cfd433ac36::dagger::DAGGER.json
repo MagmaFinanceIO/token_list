@@ -1,0 +1,13 @@
+{
+  "name": "Dagger of Sui",
+  "symbol": "DAGGER",
+  "decimals": 6,
+  "coin_type": "0xff0092908493a8c71a432f204df3c70efac7bd2b93ac457de0f001cfd433ac36::dagger::DAGGER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_1_22_eba54db0dd.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

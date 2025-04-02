@@ -1,0 +1,13 @@
+{
+  "name": "Sui Kōri",
+  "symbol": "SUIK",
+  "decimals": 9,
+  "coin_type": "0xcd45a8ba447de2ba10dd8d30aeba26c9e97f86e5c1258ac4d8ed9a75a35b0975::suik::SUIK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a68912ac-5286-46a5-98bc-e45023ea53bd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

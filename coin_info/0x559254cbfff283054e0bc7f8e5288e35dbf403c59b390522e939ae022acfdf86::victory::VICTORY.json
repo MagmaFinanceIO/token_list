@@ -1,0 +1,13 @@
+{
+  "name": "The Bull Stays ON",
+  "symbol": "VICTORY",
+  "decimals": 9,
+  "coin_type": "0x559254cbfff283054e0bc7f8e5288e35dbf403c59b390522e939ae022acfdf86::victory::VICTORY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FLKfw994crsYZ3GW6QE97wGfCyyezyWZbZQQGonYpump.png?size=lg&key=902217",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

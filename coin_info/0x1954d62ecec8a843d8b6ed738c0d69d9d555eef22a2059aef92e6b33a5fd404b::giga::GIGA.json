@@ -1,0 +1,13 @@
+{
+  "name": "Giga Chad",
+  "symbol": "GIGA",
+  "decimals": 9,
+  "coin_type": "0x1954d62ecec8a843d8b6ed738c0d69d9d555eef22a2059aef92e6b33a5fd404b::giga::GIGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3c33d5c5-44f9-4349-b4d4-e3e945b592d2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

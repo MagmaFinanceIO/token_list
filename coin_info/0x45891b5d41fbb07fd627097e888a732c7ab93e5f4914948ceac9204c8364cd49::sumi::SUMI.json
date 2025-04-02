@@ -1,0 +1,13 @@
+{
+  "name": "Catsuimi",
+  "symbol": "SUMI",
+  "decimals": 9,
+  "coin_type": "0x45891b5d41fbb07fd627097e888a732c7ab93e5f4914948ceac9204c8364cd49::sumi::SUMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/bsc/0x59f4f336bf3d0c49dbfba4a74ebd2a6ace40539a.png?size=lg&key=da153d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

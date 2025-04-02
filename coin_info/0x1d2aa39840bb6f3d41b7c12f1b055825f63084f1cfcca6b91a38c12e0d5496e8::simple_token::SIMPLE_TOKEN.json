@@ -1,0 +1,13 @@
+{
+  "name": "BLM",
+  "symbol": "BLM",
+  "decimals": 9,
+  "coin_type": "0x1d2aa39840bb6f3d41b7c12f1b055825f63084f1cfcca6b91a38c12e0d5496e8::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

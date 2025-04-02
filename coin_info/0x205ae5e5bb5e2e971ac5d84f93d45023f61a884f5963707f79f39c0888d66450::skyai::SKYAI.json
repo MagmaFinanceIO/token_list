@@ -1,0 +1,13 @@
+{
+  "name": "SKYAI TRADER",
+  "symbol": "SKYAI",
+  "decimals": 0,
+  "coin_type": "0x205ae5e5bb5e2e971ac5d84f93d45023f61a884f5963707f79f39c0888d66450::skyai::SKYAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b9af1d1f-ff75-43d5-852b-a532b717c965.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

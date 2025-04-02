@@ -1,0 +1,13 @@
+{
+  "name": "SUINAMI",
+  "symbol": "NAMI",
+  "decimals": 6,
+  "coin_type": "0xe7397f9f6a5a60010a729ed1a470130936f090cafcdc0cdca6c3260b17ac0c9b::nami::NAMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7395_2_123d3c8b60.PNG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

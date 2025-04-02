@@ -1,0 +1,13 @@
+{
+  "name": "INFINITUM",
+  "symbol": "INF",
+  "decimals": 9,
+  "coin_type": "0xdcf73b5233f8e28d2be3aa9bb7259bbb4909c194027a7bb977a2fa305cd547ee::inf::INF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bd302798-6bbf-42b1-b7ff-5a786c4a8bca.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

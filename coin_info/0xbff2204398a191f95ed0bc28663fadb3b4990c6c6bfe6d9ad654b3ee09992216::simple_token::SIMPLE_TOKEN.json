@@ -1,0 +1,13 @@
+{
+  "name": "SADDOG",
+  "symbol": "SADDOG",
+  "decimals": 9,
+  "coin_type": "0xbff2204398a191f95ed0bc28663fadb3b4990c6c6bfe6d9ad654b3ee09992216::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Speakerman",
+  "symbol": "SPKR",
+  "decimals": 9,
+  "coin_type": "0x17a6b9c454e6509bfc4afa410d0d3ab727706a26b7fff9203bd28499176e9fdd::spkr::SPKR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmbERLrbzAEvQqWPwUhSH5eb9w9fRJKsJB4CC4GGJRpLuS",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

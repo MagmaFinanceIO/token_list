@@ -1,0 +1,13 @@
+{
+  "name": "Earth Pay",
+  "symbol": "EPAY",
+  "decimals": 2,
+  "coin_type": "0xd0a5bbab7535718c5de73c535c68ea14b532b3ff4e7adc8f42df3f0a68b76e7b::epay::EPAY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/866b8e42-a41a-45d0-a8c7-bfd4877631a5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

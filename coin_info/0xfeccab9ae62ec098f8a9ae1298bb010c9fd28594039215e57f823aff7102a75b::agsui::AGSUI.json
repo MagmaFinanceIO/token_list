@@ -1,0 +1,13 @@
+{
+  "name": "AiGent Sui by SuiAI",
+  "symbol": "AGSUI",
+  "decimals": 6,
+  "coin_type": "0xfeccab9ae62ec098f8a9ae1298bb010c9fd28594039215e57f823aff7102a75b::agsui::AGSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/photo_2025_01_06_00_19_20_b3a8bff891.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

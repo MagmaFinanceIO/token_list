@@ -1,0 +1,13 @@
+{
+  "name": "Suinnie The Pooh ",
+  "symbol": "SUINNIE",
+  "decimals": 6,
+  "coin_type": "0x8ef1e8904dc844a701e21b9d024abbd66607a48d00dfdb844290832aa20a19ff::suinnie::SUINNIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731358904644.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Beavy",
+  "symbol": "BEAVY",
+  "decimals": 6,
+  "coin_type": "0x180b7f745563a170bb9e781d19fa3a5abb7df61fc7b84eaa790095824fac75b7::beavy::BEAVY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/profile_bbc0ca67fb.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

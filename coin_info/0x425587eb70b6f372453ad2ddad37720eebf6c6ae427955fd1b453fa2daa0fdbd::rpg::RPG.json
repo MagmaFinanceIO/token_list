@@ -1,0 +1,13 @@
+{
+  "name": "Massive Meme Outbreak",
+  "symbol": "RPG",
+  "decimals": 9,
+  "coin_type": "0x425587eb70b6f372453ad2ddad37720eebf6c6ae427955fd1b453fa2daa0fdbd::rpg::RPG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9USFQKnGrRC2ieoHVL2bJg4CRtpKUiSob9Qc4BA211dC.png?size=lg&key=a5be29",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

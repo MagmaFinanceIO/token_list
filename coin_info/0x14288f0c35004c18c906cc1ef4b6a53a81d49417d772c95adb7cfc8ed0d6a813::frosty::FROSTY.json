@@ -1,0 +1,13 @@
+{
+  "name": "Christmas's Mascot",
+  "symbol": "FROSTY",
+  "decimals": 9,
+  "coin_type": "0x14288f0c35004c18c906cc1ef4b6a53a81d49417d772c95adb7cfc8ed0d6a813::frosty::FROSTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3SvA625EDjVgqZgDwwAtZSbzWq16wmwobvTZyyPZfqe8.png?size=lg&key=3b8ccb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

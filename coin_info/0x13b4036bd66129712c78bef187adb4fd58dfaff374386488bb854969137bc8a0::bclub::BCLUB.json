@@ -1,0 +1,13 @@
+{
+  "name": "BoysClub",
+  "symbol": "BCLUB",
+  "decimals": 9,
+  "coin_type": "0x13b4036bd66129712c78bef187adb4fd58dfaff374386488bb854969137bc8a0::bclub::BCLUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1831718661666570240/eWgIzz7e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

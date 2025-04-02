@@ -1,0 +1,13 @@
+{
+  "name": "BLUB",
+  "symbol": "BLUB",
+  "decimals": 2,
+  "coin_type": "0xe2653967d484ecc1f782ee39a122db2de2826ce66a90205b4dddd4f21e9ff91f::DUGONG::DUGONG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7b26205b-00cd-4486-8f91-83bdd0ad2323.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

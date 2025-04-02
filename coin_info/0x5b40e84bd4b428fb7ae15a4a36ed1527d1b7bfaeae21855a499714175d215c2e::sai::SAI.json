@@ -1,0 +1,13 @@
+{
+  "name": "STONEFISH AI",
+  "symbol": "SAI",
+  "decimals": 6,
+  "coin_type": "0x5b40e84bd4b428fb7ae15a4a36ed1527d1b7bfaeae21855a499714175d215c2e::sai::SAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1733624223100.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

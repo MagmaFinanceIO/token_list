@@ -1,0 +1,13 @@
+{
+  "name": "The Trump Index Fund (TIF)",
+  "symbol": "TIF",
+  "decimals": 9,
+  "coin_type": "0x17a23eef4aae366f0d79f4f42ed2ead4f99005d33b4f8dddd5110f615ebf50e2::tif::TIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

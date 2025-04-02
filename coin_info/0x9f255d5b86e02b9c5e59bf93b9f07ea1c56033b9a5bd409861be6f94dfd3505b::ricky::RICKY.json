@@ -1,0 +1,13 @@
+{
+  "name": "Ricky The Penguin",
+  "symbol": "RICKY",
+  "decimals": 9,
+  "coin_type": "0x9f255d5b86e02b9c5e59bf93b9f07ea1c56033b9a5bd409861be6f94dfd3505b::ricky::RICKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cd41165c-5e1f-45ba-8866-f932220cc1ad.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

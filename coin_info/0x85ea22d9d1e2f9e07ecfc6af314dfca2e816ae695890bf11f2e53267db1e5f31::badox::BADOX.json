@@ -1,0 +1,13 @@
+{
+  "name": "ratobadox",
+  "symbol": "BADOX",
+  "decimals": 9,
+  "coin_type": "0x85ea22d9d1e2f9e07ecfc6af314dfca2e816ae695890bf11f2e53267db1e5f31::badox::BADOX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4TZcSSPRnHE2ihbWK52WWQN9V7XvsXxthhJTgwCqpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

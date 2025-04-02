@@ -1,0 +1,13 @@
+{
+  "name": "GUAP",
+  "symbol": "GUAP",
+  "decimals": 9,
+  "coin_type": "0xd1f3d82cb0f17f64b6be0a94a9fd06e71bdecf02c6d435a5acce6ebeba49807c::guap::GUAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://source.boomplaymusic.com/group10/M00/07/24/a23c9736285741b083f841a58367c9b4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

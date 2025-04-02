@@ -1,0 +1,13 @@
+{
+  "name": "The Lokie Cabal",
+  "symbol": "CABAL",
+  "decimals": 9,
+  "coin_type": "0xad9dc4b3e9de56ab2650d5c97616b0ff0fb84f55a7a9a8b6bf2979592f728ce4::cabal::CABAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Fpfu1JcTgKnFKuB1ufMT78qoSPEkQpV4w99c4DYupump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

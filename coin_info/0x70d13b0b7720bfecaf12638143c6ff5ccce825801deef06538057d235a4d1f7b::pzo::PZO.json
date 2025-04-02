@@ -1,0 +1,13 @@
+{
+  "name": "PZO on SUI",
+  "symbol": "PZO",
+  "decimals": 9,
+  "coin_type": "0x70d13b0b7720bfecaf12638143c6ff5ccce825801deef06538057d235a4d1f7b::pzo::PZO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1f6c9a00-d741-4f30-9f11-e4b1541461f6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "REDNSUI",
+  "symbol": "REDNSUI",
+  "decimals": 9,
+  "coin_type": "0xd292c1e1c793500dd031d452f1f74dc961dae23a14893abda3572020063bd25f::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

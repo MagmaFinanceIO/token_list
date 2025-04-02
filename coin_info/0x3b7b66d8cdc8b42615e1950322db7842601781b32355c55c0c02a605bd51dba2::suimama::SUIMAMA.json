@@ -1,0 +1,13 @@
+{
+  "name": "SuiMama",
+  "symbol": "SUIMAMA",
+  "decimals": 6,
+  "coin_type": "0x3b7b66d8cdc8b42615e1950322db7842601781b32355c55c0c02a605bd51dba2::suimama::SUIMAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/knockout_c93c8a28b8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

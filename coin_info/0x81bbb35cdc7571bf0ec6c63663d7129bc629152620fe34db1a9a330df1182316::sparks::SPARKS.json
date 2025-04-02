@@ -1,0 +1,13 @@
+{
+  "name": "SparksAI  by SuiAI",
+  "symbol": "SPARKS",
+  "decimals": 6,
+  "coin_type": "0x81bbb35cdc7571bf0ec6c63663d7129bc629152620fe34db1a9a330df1182316::sparks::SPARKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/kijk_d40967cdcd.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

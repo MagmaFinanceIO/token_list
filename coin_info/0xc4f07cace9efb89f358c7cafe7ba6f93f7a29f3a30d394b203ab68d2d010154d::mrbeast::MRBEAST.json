@@ -1,0 +1,13 @@
+{
+  "name": "Mr. BEAST",
+  "symbol": "MrBEAST",
+  "decimals": 6,
+  "coin_type": "0xc4f07cace9efb89f358c7cafe7ba6f93f7a29f3a30d394b203ab68d2d010154d::mrbeast::MRBEAST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Mr_Beast_fa7cf64cfa.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

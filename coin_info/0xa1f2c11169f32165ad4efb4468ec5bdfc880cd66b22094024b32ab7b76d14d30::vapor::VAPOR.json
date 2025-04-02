@@ -1,0 +1,13 @@
+{
+  "name": "Vapor DAO",
+  "symbol": "VAPOR",
+  "decimals": 9,
+  "coin_type": "0xa1f2c11169f32165ad4efb4468ec5bdfc880cd66b22094024b32ab7b76d14d30::vapor::VAPOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafybeibdttsqfi355hzrc4jecsn2pk2yip7kdxie52c7zf72eiq3pucvqq.ipfs.nftstorage.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PUMPFUN REAL NAME",
+  "symbol": "BATON",
+  "decimals": 9,
+  "coin_type": "0xd4de48b07c4f5613fa46025285e1b889966105799f8473b84ce8808592bb0fb3::baton::BATON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CsDLrwRw6FEZWaSeTSrZJfs93jmzb6UJios477Rdpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

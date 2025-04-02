@@ -1,0 +1,13 @@
+{
+  "name": "CyberKongz on Sui",
+  "symbol": "KONGZ",
+  "decimals": 9,
+  "coin_type": "0xc93aedce5322508708e477a70e4d4798ed0ee4973deced98198ee4ad2ef09c57::kongz::KONGZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3qhShHhZvduHoea19hYLBsZd358gKLc9mLrUVCHye6YV.png?size=lg&key=863390",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

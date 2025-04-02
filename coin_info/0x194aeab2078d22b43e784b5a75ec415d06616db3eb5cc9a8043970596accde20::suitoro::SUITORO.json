@@ -1,0 +1,13 @@
+{
+  "name": "Suitoro",
+  "symbol": "SUITORO",
+  "decimals": 6,
+  "coin_type": "0x194aeab2078d22b43e784b5a75ec415d06616db3eb5cc9a8043970596accde20::suitoro::SUITORO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Suitoro_twitter_profile_a1460d11c2.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

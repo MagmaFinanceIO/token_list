@@ -1,0 +1,13 @@
+{
+  "name": "Sui Olympus",
+  "symbol": "OHM",
+  "decimals": 2,
+  "coin_type": "0x03ec7795aa4daa8a0d3c6179a5513463f9ad4c85dbc670a6b921ccc6a2394ad4::OHM::OHM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/rAlFCD95_mv-ub2uKgVla-GWJwUdiraTn2FJEujAgoo?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

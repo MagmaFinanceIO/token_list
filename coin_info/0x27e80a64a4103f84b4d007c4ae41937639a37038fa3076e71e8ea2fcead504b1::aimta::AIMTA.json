@@ -1,0 +1,13 @@
+{
+  "name": "Aimta by SuiAI",
+  "symbol": "AIMTA",
+  "decimals": 6,
+  "coin_type": "0x27e80a64a4103f84b4d007c4ae41937639a37038fa3076e71e8ea2fcead504b1::aimta::AIMTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/b13fcd74_7497_42dc_9356_faf192485bd2_47908f979b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

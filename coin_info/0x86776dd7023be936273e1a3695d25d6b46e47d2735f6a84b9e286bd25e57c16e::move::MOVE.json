@@ -1,0 +1,13 @@
+{
+  "name": "MOVE",
+  "symbol": "MOVE",
+  "decimals": 9,
+  "coin_type": "0x86776dd7023be936273e1a3695d25d6b46e47d2735f6a84b9e286bd25e57c16e::move::MOVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f0033fb5-2d3e-4086-8ea0-5534568bb210.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

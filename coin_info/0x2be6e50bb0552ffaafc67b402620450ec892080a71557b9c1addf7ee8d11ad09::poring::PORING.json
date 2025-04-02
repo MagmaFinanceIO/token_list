@@ -1,0 +1,13 @@
+{
+  "name": "Poring",
+  "symbol": "PORING",
+  "decimals": 6,
+  "coin_type": "0x2be6e50bb0552ffaafc67b402620450ec892080a71557b9c1addf7ee8d11ad09::poring::PORING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmRqMXgfJPNEJ2S4uXsAyAGDmcseXYeJ7CGqfKABZoBddR",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

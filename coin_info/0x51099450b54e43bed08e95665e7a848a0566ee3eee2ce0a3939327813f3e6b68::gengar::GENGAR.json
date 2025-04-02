@@ -1,0 +1,13 @@
+{
+  "name": "Gengar",
+  "symbol": "GENGAR",
+  "decimals": 6,
+  "coin_type": "0x51099450b54e43bed08e95665e7a848a0566ee3eee2ce0a3939327813f3e6b68::gengar::GENGAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/G_Engar_33e5e3b47c.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

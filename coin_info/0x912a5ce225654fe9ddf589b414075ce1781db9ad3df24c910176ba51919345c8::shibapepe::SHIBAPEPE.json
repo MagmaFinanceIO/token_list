@@ -1,0 +1,13 @@
+{
+  "name": "Shiba Pepe",
+  "symbol": "ShibaPEPE",
+  "decimals": 3,
+  "coin_type": "0x912a5ce225654fe9ddf589b414075ce1781db9ad3df24c910176ba51919345c8::shibapepe::SHIBAPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/118717a2-2d77-4e01-a77e-6937b4d3e299.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

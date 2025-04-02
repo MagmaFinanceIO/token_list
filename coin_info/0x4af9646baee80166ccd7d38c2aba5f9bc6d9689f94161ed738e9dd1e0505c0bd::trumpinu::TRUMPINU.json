@@ -1,0 +1,13 @@
+{
+  "name": "Trump Inu",
+  "symbol": "TRUMPINU",
+  "decimals": 6,
+  "coin_type": "0x4af9646baee80166ccd7d38c2aba5f9bc6d9689f94161ed738e9dd1e0505c0bd::trumpinu::TRUMPINU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/136f8188-392f-428d-9d42-da5b0c5f8a98.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

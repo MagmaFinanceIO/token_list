@@ -1,0 +1,13 @@
+{
+  "name": "SNOWY",
+  "symbol": "SNWY",
+  "decimals": 6,
+  "coin_type": "0x439dc5b02f643131f94cfbfeb577bba3c02ff23b4e5158bad436f79293a37685::snwy::SNWY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logolaunchfix_069e996f07.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

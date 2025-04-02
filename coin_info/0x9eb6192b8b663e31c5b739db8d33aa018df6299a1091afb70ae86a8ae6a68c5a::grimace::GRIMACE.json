@@ -1,0 +1,13 @@
+{
+  "name": "First Grimace on SUI",
+  "symbol": "GRIMACE",
+  "decimals": 9,
+  "coin_type": "0x9eb6192b8b663e31c5b739db8d33aa018df6299a1091afb70ae86a8ae6a68c5a::grimace::GRIMACE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3756dc6b-b3cd-4e54-9428-5b92c37ecdce.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

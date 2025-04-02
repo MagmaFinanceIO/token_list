@@ -1,0 +1,13 @@
+{
+  "name": "Ocean Swampers",
+  "symbol": "Swampers",
+  "decimals": 9,
+  "coin_type": "0x2f36f9a98e89970044770a9e6261ae1dca38449965d4358d50b34cd1af33136f::swampers::SWAMPERS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/31DkpBrELuonQvenSYKdZCezA8UF7x2MuQ3ZtSdCpump.png?size=lg&key=c7391e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

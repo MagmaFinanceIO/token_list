@@ -1,0 +1,13 @@
+{
+  "name": "Suitify",
+  "symbol": "SUIT",
+  "decimals": 6,
+  "coin_type": "0x22c4709d59531765d70d80e309f2f640e5d7199dd9baa71f60e348887dbb9c75::suit::SUIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cfe6a745-987b-4db6-b2cd-bf6f9514e6b1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

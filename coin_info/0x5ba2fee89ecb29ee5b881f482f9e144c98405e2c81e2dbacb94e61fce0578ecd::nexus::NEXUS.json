@@ -1,0 +1,13 @@
+{
+  "name": "Nexus",
+  "symbol": "NEXUS",
+  "decimals": 6,
+  "coin_type": "0x5ba2fee89ecb29ee5b881f482f9e144c98405e2c81e2dbacb94e61fce0578ecd::nexus::NEXUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000190507_d5b4a0852f.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

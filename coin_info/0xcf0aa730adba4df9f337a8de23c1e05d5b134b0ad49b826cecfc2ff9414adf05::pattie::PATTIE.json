@@ -1,0 +1,13 @@
+{
+  "name": "Pattie on sui",
+  "symbol": "PATTIE",
+  "decimals": 6,
+  "coin_type": "0xcf0aa730adba4df9f337a8de23c1e05d5b134b0ad49b826cecfc2ff9414adf05::pattie::PATTIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000052844_b4f67d2763.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

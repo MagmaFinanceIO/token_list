@@ -1,0 +1,13 @@
+{
+  "name": "oinoj",
+  "symbol": "ijn",
+  "decimals": 6,
+  "coin_type": "0xb87b8fccf2c27660c35631097fcd95248b3e6bc0faec1301689934abf57ad980::ijn::IJN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

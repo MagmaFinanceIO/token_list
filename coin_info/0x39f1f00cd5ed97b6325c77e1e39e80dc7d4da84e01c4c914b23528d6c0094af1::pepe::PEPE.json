@@ -1,0 +1,13 @@
+{
+  "name": "sui pepe",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "coin_type": "0x39f1f00cd5ed97b6325c77e1e39e80dc7d4da84e01c4c914b23528d6c0094af1::pepe::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmZMTnCNYincJTTtNvxptHGEnB36F336C544Re5Zjo2QLj",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

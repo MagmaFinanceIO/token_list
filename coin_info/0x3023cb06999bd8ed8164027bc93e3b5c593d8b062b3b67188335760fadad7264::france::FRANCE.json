@@ -1,0 +1,13 @@
+{
+  "name": "France",
+  "symbol": "France",
+  "decimals": 2,
+  "coin_type": "0x3023cb06999bd8ed8164027bc93e3b5c593d8b062b3b67188335760fadad7264::france::FRANCE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d413d07f-7c1f-4e32-b463-aac6629982ea.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

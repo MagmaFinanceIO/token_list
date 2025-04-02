@@ -1,0 +1,13 @@
+{
+  "name": "TOKEN_NAME",
+  "symbol": "TOKEN_SYMBOL",
+  "decimals": 9,
+  "coin_type": "0x502bd1dd98746daeff33e69ae94d365d47e6071fb8817e4c31052ddae033b451::template::TEMPLATE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump-image.tucanadev.net/icon/3bc1fdcb-8196-468e-bb9d-059e58cb7e52_Group 1533210903.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

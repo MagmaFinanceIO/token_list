@@ -1,0 +1,13 @@
+{
+  "name": "PRESUIDANT",
+  "symbol": "PRESUIDANT",
+  "decimals": 9,
+  "coin_type": "0xcc2f6377b02c0e4b08ae6be46520a451de7c9d1326bab5544e99cfde79fcd04f::presuidant::PRESUIDANT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ad0db0e7-69f4-4655-a535-c846d64dd473.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

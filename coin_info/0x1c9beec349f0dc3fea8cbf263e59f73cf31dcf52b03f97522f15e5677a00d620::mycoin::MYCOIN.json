@@ -1,0 +1,13 @@
+{
+  "name": "ELONAI",
+  "symbol": "ELONAI",
+  "decimals": 9,
+  "coin_type": "0x1c9beec349f0dc3fea8cbf263e59f73cf31dcf52b03f97522f15e5677a00d620::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

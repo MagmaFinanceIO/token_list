@@ -1,0 +1,13 @@
+{
+  "name": "PUFFI ON SUI",
+  "symbol": "PUFFI",
+  "decimals": 6,
+  "coin_type": "0x7b29dd97534ff728c55fdf5c067b8b4f0fbf2a3c87c3581d2d8643cf3894a6e9::puffi::PUFFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1626_cf5553d61f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

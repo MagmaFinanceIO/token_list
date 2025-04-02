@@ -1,0 +1,13 @@
+{
+  "name": "SMASHIE THE PICKLEBALL",
+  "symbol": "SMASHIE",
+  "decimals": 6,
+  "coin_type": "0x07c0dcc1f7eb610d2bd2dba0c440f2edb7962944f878c7bca25839aeeba4f6a2::smashie::SMASHIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/zzrn_Sk_Mo_400x400_7f38621e75.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "JEFF ON SUI",
+  "symbol": "JSUI",
+  "decimals": 6,
+  "coin_type": "0x648c480566ef7b6e2983d2ee36fe9f0b28d3d85b70bd448e55c6bc26bbbbab4b::jsui::JSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9a59eb06-a7c8-4502-9710-5a16c9c177b8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

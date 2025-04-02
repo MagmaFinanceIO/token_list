@@ -1,0 +1,13 @@
+{
+  "name": "SUI SHARK",
+  "symbol": "SSHARK",
+  "decimals": 9,
+  "coin_type": "0xf158c72a3571ac106a7e97dffb841dc99276a6671b4dc11ebca91465a37940d9::sshark::SSHARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0x33a8d9dbe11aa2b91e5de7b4b779328b39cd127989f9f8beb7676d084e2079da::shark::shark.png?size=lg&key=56d686",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

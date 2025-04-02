@@ -1,0 +1,13 @@
+{
+  "name": "MiniMe",
+  "symbol": "MINI",
+  "decimals": 9,
+  "coin_type": "0x3025896e391cdb5afaffdfbb8b99e3ec6dbf8bee734a848de42d4cd7057fa9c4::modern_token::MODERN_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmaKr41gXz7tBXWTJtnyPisRADbSy9oELVsvs35x7UgATe",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

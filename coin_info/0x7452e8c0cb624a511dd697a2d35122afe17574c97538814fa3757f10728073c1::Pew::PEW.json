@@ -1,0 +1,13 @@
+{
+  "name": "pepe in a memes world",
+  "symbol": "PEW",
+  "decimals": 6,
+  "coin_type": "0x7452e8c0cb624a511dd697a2d35122afe17574c97538814fa3757f10728073c1::Pew::PEW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.postimg.cc/vTwbDb07/pew.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

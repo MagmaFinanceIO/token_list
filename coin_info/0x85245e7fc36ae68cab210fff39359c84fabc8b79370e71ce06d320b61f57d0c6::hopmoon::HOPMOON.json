@@ -1,0 +1,13 @@
+{
+  "name": "HOP MOON",
+  "symbol": "HOPMOON",
+  "decimals": 6,
+  "coin_type": "0x85245e7fc36ae68cab210fff39359c84fabc8b79370e71ce06d320b61f57d0c6::hopmoon::HOPMOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmfVVYWYUPjqJEZS5qv9GKi1bhpxs54Cc8yCMHwdNz6jHe",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

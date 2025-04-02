@@ -1,0 +1,13 @@
+{
+  "name": "SuimonsCat",
+  "symbol": "SUCAT",
+  "decimals": 6,
+  "coin_type": "0xef969094745272745ebdab7dc8d2c1c0468e2ffcafd57b5348c3464e12acfcbf::sucat::SUCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_png_9d5b12e4b1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

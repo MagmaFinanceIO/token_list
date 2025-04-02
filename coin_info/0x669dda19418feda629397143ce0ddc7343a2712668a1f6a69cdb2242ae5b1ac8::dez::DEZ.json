@@ -1,0 +1,13 @@
+{
+  "name": "DEXZONE",
+  "symbol": "DEZ",
+  "decimals": 9,
+  "coin_type": "0x669dda19418feda629397143ce0ddc7343a2712668a1f6a69cdb2242ae5b1ac8::dez::DEZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

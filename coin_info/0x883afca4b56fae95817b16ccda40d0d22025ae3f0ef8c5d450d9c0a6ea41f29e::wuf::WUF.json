@@ -1,0 +1,13 @@
+{
+  "name": "wuf",
+  "symbol": "WUF",
+  "decimals": 6,
+  "coin_type": "0x883afca4b56fae95817b16ccda40d0d22025ae3f0ef8c5d450d9c0a6ea41f29e::wuf::WUF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_190_e25a2c5d8d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

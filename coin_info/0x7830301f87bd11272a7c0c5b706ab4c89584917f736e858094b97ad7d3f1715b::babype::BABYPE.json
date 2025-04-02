@@ -1,0 +1,13 @@
+{
+  "name": "Baby Sui Pepe",
+  "symbol": "BABYPE",
+  "decimals": 9,
+  "coin_type": "0x7830301f87bd11272a7c0c5b706ab4c89584917f736e858094b97ad7d3f1715b::babype::BABYPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2a7abcd3-1ef6-4555-92cc-70583a7acb94.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

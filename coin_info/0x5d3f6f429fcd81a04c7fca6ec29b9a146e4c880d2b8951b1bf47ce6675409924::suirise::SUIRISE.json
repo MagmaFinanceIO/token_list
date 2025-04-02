@@ -1,0 +1,13 @@
+{
+  "name": "SUIRISE  by SuiAI",
+  "symbol": "SUIRISE",
+  "decimals": 6,
+  "coin_type": "0x5d3f6f429fcd81a04c7fca6ec29b9a146e4c880d2b8951b1bf47ce6675409924::suirise::SUIRISE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/SUIRISE_c5c7e234e9.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

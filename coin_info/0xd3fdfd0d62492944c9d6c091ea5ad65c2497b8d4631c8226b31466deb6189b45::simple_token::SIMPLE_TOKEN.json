@@ -1,0 +1,13 @@
+{
+  "name": "dug",
+  "symbol": "dug",
+  "decimals": 9,
+  "coin_type": "0xd3fdfd0d62492944c9d6c091ea5ad65c2497b8d4631c8226b31466deb6189b45::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

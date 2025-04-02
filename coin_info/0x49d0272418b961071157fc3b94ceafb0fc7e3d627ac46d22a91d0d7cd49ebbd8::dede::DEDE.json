@@ -1,0 +1,13 @@
+{
+  "name": "DEDE",
+  "symbol": "DEDE",
+  "decimals": 9,
+  "coin_type": "0x49d0272418b961071157fc3b94ceafb0fc7e3d627ac46d22a91d0d7cd49ebbd8::dede::DEDE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xdd69c4c6c7fe3aa3ac2ea256ab253616ea318ce0.png?size=lg&key=74ed3a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TOBI SUI MEME",
+  "symbol": "TOBI",
+  "decimals": 6,
+  "coin_type": "0x61cf51871012962e2c98cac187f7e3812a25dbf4c569f9b2f7979e72d0415b4b::tobi::TOBI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/xobi_292ebef48e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

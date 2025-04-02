@@ -1,0 +1,13 @@
+{
+  "name": "Sui Kong",
+  "symbol": "KONG",
+  "decimals": 6,
+  "coin_type": "0xb0977db9c4d90085d2dfe052dc33ae738f85205c2ab62ef8ea2378165eaa1f6d::kong::KONG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_2024_05_29_T182646_980_98cd3ecc16.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

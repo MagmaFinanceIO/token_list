@@ -1,0 +1,13 @@
+{
+  "name": "Sui South Park",
+  "symbol": "SUIPARK",
+  "decimals": 6,
+  "coin_type": "0x5346aa58aa7e03cf8cf8d519283efa15b762ab96167cf6d7c4eae7d49848bf73::suipark::SUIPARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suiparkprofff_95cdfecbc0.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

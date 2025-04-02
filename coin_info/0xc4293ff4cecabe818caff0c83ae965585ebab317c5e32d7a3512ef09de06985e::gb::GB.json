@@ -1,0 +1,13 @@
+{
+  "name": "GYGAbite",
+  "symbol": "GB",
+  "decimals": 6,
+  "coin_type": "0xc4293ff4cecabe818caff0c83ae965585ebab317c5e32d7a3512ef09de06985e::gb::GB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000258875_71f63bef92.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

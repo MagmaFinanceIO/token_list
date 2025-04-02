@@ -1,0 +1,13 @@
+{
+  "name": "Siu Mew",
+  "symbol": "SIUMEW",
+  "decimals": 9,
+  "coin_type": "0x75570fc7f84170481f8ff40deb9cf5332a8460132028c944d5e97c6e803c005c::siumew::SIUMEW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://aquamarine-giant-muskox-172.mypinata.cloud/ipfs/QmZdVZMmyCfaCXgEWcJ3jsWRzxFWdN38qYUSHxHuoxzJi2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

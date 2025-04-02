@@ -1,0 +1,13 @@
+{
+  "name": "SUI Long Nose",
+  "symbol": "SNOSE",
+  "decimals": 6,
+  "coin_type": "0xe4199f0a7eeb2ff89e877963fb21035abf04a3d516eba2aa6dac50a78607b5e1::snose::SNOSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/funny_3613177e27.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

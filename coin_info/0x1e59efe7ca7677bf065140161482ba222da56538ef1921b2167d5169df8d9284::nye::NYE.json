@@ -1,0 +1,13 @@
+{
+  "name": "NYE",
+  "symbol": "NYE",
+  "decimals": 9,
+  "coin_type": "0x1e59efe7ca7677bf065140161482ba222da56538ef1921b2167d5169df8d9284::nye::NYE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qme45Tq22VpxbLcc2u2FLhxcfvAuxyFiUUyVSQvFX4vLZt",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

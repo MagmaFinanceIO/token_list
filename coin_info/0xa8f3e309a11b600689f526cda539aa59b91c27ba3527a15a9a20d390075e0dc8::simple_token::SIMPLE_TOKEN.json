@@ -1,0 +1,13 @@
+{
+  "name": "SUl",
+  "symbol": "SUl",
+  "decimals": 9,
+  "coin_type": "0xa8f3e309a11b600689f526cda539aa59b91c27ba3527a15a9a20d390075e0dc8::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

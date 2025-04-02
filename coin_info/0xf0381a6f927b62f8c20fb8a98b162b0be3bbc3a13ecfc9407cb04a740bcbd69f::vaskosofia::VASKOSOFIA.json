@@ -1,0 +1,13 @@
+{
+  "name": "vaskosofia",
+  "symbol": "vaskosofia",
+  "decimals": 9,
+  "coin_type": "0xf0381a6f927b62f8c20fb8a98b162b0be3bbc3a13ecfc9407cb04a740bcbd69f::vaskosofia::VASKOSOFIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

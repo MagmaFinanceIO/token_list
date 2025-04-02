@@ -1,0 +1,13 @@
+{
+  "name": "Blue Bitcoin",
+  "symbol": "BBTC",
+  "decimals": 6,
+  "coin_type": "0x5c06a97d2bc27396433cd6f4df87132154e0b849456e8999dcda8b521f149476::bbtc::BBTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9291f2bb-6c9c-4359-b135-fe3a04b2924d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

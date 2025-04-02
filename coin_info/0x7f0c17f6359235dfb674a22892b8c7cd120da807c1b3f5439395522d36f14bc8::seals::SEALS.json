@@ -1,0 +1,13 @@
+{
+  "name": "sealsToken",
+  "symbol": "SEALS",
+  "decimals": 9,
+  "coin_type": "0x7f0c17f6359235dfb674a22892b8c7cd120da807c1b3f5439395522d36f14bc8::seals::SEALS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ArpFwTgAvd7meUdpCcdkxXBt1yoVpKiCJpGAKLe1pump.png?size=lg&key=3ae74e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

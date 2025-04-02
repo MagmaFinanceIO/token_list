@@ -1,0 +1,13 @@
+{
+  "name": "Kamallah",
+  "symbol": "KAMALLAH",
+  "decimals": 9,
+  "coin_type": "0xf92468251c173e5d3d7b91d3f5311220540348380203855d5a4a0648e77a9283::kamallah::KAMALLAH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3561eb4a-39f3-4aa3-9ddd-c9921575e689.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

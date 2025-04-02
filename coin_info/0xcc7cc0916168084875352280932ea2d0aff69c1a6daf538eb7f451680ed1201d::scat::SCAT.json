@@ -1,0 +1,13 @@
+{
+  "name": "Sweet Cat",
+  "symbol": "SCAT",
+  "decimals": 9,
+  "coin_type": "0xcc7cc0916168084875352280932ea2d0aff69c1a6daf538eb7f451680ed1201d::scat::SCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://iili.io/27sSM2S.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

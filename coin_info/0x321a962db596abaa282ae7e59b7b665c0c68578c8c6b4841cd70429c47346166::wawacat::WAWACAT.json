@@ -1,0 +1,13 @@
+{
+  "name": "Wawa Cat Sui",
+  "symbol": "WAWACAT",
+  "decimals": 9,
+  "coin_type": "0x321a962db596abaa282ae7e59b7b665c0c68578c8c6b4841cd70429c47346166::wawacat::WAWACAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ce8b7aac-df76-4cb7-9765-8cde52eda965.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

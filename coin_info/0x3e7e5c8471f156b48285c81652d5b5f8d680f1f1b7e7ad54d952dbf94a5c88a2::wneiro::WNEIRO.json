@@ -1,0 +1,13 @@
+{
+  "name": "Wrapped Neiro",
+  "symbol": "WNEIRO",
+  "decimals": 9,
+  "coin_type": "0x3e7e5c8471f156b48285c81652d5b5f8d680f1f1b7e7ad54d952dbf94a5c88a2::wneiro::WNEIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://aquamarine-giant-muskox-172.mypinata.cloud/ipfs/QmeseZEBxuEYiQLBDwr66wkhRCqwpZQ9DWPCXozbMc99dY",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

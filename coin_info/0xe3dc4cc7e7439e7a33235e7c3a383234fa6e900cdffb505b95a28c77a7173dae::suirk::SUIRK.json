@@ -1,0 +1,13 @@
+{
+  "name": "suirg",
+  "symbol": "SUIRK",
+  "decimals": 6,
+  "coin_type": "0xe3dc4cc7e7439e7a33235e7c3a383234fa6e900cdffb505b95a28c77a7173dae::suirk::SUIRK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/23_c2f3492906.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

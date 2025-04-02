@@ -1,0 +1,13 @@
+{
+  "name": "i-Playgrounds",
+  "symbol": "IPLAY",
+  "decimals": 9,
+  "coin_type": "0x87af84423d8d9e616ba12cb80b9e89896c3530b19ced1e2a98dc79bbd7c08ec7::iplay::IPLAY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5860e21e-f343-4044-bbf2-4f45f6fb893f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

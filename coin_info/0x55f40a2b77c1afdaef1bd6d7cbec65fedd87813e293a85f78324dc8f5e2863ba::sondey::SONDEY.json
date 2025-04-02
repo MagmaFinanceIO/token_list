@@ -1,0 +1,13 @@
+{
+  "name": "it's friday then its saturday Sondey",
+  "symbol": "SONDEY",
+  "decimals": 9,
+  "coin_type": "0x55f40a2b77c1afdaef1bd6d7cbec65fedd87813e293a85f78324dc8f5e2863ba::sondey::SONDEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a36d1c8e-dcfe-4e7d-828c-1ae388096549.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

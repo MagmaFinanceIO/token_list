@@ -1,0 +1,13 @@
+{
+  "name": "IGT",
+  "symbol": "IGT",
+  "decimals": 9,
+  "coin_type": "0x4252ee404b4474ef60547921031f1cfc62c3125a186040b8e1908ff955bd9bfd::igt::IGT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2SNstbEYVEn2iTNQyZHKGzgTPZwBgnujwKa8hn5opump.png?size=lg&key=16c90b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

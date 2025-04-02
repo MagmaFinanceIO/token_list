@@ -1,0 +1,13 @@
+{
+  "name": "SuiTeaTims",
+  "symbol": "SUITEA",
+  "decimals": 9,
+  "coin_type": "0x09d9d505e643ddb269de1cee21844ebb3112171eb1c7932960c6c7e3d9b94629::suitea::SUITEA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://x.com/BirdandBlendTea?t=klda_I2MIYcBZz0YJBuksw&s=09",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

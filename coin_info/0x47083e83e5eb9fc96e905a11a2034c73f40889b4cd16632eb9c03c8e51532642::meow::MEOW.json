@@ -1,0 +1,13 @@
+{
+  "name": "MEOW",
+  "symbol": "MEOW",
+  "decimals": 6,
+  "coin_type": "0x47083e83e5eb9fc96e905a11a2034c73f40889b4cd16632eb9c03c8e51532642::meow::MEOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2c32b1d8-a5b7-4675-818d-e55a66170856.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

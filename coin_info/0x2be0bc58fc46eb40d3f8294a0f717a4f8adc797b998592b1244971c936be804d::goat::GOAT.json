@@ -1,0 +1,13 @@
+{
+  "name": "GOAT",
+  "symbol": "GOAT",
+  "decimals": 9,
+  "coin_type": "0x2be0bc58fc46eb40d3f8294a0f717a4f8adc797b998592b1244971c936be804d::goat::GOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c4c6db3d-4cf8-4a43-b088-10160a243eab.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HMM Coin",
+  "symbol": "HMM",
+  "decimals": 9,
+  "coin_type": "0x64790716b26f8c5a5f4c6e3edbf59bd8b9e28a5fff25c23bb2e1343578a9f9a9::hmm::HMM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

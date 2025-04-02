@@ -1,0 +1,13 @@
+{
+  "name": "BLUE BULL",
+  "symbol": "BBULL",
+  "decimals": 6,
+  "coin_type": "0xdb2050b99b4f17beb6faaba0bc658bdffcc4e9656c3e13ed436b6edb4e397cf4::bbull::BBULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_Logo_176affefd2.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

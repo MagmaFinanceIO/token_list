@@ -1,0 +1,13 @@
+{
+  "name": "QUANTNICE on SUI",
+  "symbol": "QUANTNICE",
+  "decimals": 6,
+  "coin_type": "0xeadd1b7d7a55b27eb684e535106ad9e3b39b8d0474f04dd1c2e275626dea617d::quantnice::QUANTNICE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Gczs93_Ubc_AAZ_Sx_K_3fc9cfeb5c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Solana Domain Services",
+  "symbol": "DOMAIN",
+  "decimals": 9,
+  "coin_type": "0x1089511443c64065a08fa3d3a3fa0af4f80f341d7bb7877336b4c4a520eaa9c4::domain::DOMAIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AvXUVjPXc6S9vpnqBioCicDztH2DTNkhX8FGt3zHpump.png?size=lg&key=62c5a8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

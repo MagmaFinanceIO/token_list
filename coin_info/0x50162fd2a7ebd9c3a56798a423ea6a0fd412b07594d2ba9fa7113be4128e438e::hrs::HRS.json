@@ -1,0 +1,13 @@
+{
+  "name": "Horse Rides Seahorse",
+  "symbol": "HRS",
+  "decimals": 9,
+  "coin_type": "0x50162fd2a7ebd9c3a56798a423ea6a0fd412b07594d2ba9fa7113be4128e438e::hrs::HRS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/12046198-bada-43f9-82e3-628d92f9beab.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

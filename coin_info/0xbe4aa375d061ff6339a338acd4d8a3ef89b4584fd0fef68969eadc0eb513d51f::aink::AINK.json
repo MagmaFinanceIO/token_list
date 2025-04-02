@@ -1,0 +1,13 @@
+{
+  "name": "AInk Agent by SuiAI",
+  "symbol": "AINK",
+  "decimals": 6,
+  "coin_type": "0xbe4aa375d061ff6339a338acd4d8a3ef89b4584fd0fef68969eadc0eb513d51f::aink::AINK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1219_B15_F_D39_C_4_BCA_AE_44_52_B41_D91298_C_fda370f497.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

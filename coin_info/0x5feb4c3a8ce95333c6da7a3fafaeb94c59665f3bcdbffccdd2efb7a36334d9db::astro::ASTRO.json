@@ -1,0 +1,13 @@
+{
+  "name": "AstroAI",
+  "symbol": "ASTRO",
+  "decimals": 9,
+  "coin_type": "0x5feb4c3a8ce95333c6da7a3fafaeb94c59665f3bcdbffccdd2efb7a36334d9db::astro::ASTRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a5561b42-06b8-4cc1-9db1-46ac499b069d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

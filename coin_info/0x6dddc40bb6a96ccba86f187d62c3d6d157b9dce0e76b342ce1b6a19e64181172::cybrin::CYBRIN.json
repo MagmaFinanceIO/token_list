@@ -1,0 +1,13 @@
+{
+  "name": "Cybrina",
+  "symbol": "CYBRIN",
+  "decimals": 6,
+  "coin_type": "0x6dddc40bb6a96ccba86f187d62c3d6d157b9dce0e76b342ce1b6a19e64181172::cybrin::CYBRIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/DALL_E_2024_11_29_18_07_55_A_highly_pixelated_pixel_art_illustration_of_a_cute_and_sexy_doll_like_character_with_exaggerated_proportions_big_expressive_eyes_and_a_playful_pose_a49b21ae6f.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

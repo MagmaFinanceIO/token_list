@@ -1,0 +1,13 @@
+{
+  "name": "MELLOW PENGUIN",
+  "symbol": "MPNG",
+  "decimals": 6,
+  "coin_type": "0x400649703e6bb6d3385fea55bcb18b01f9ecc3d5cb81138cc4dd8ca12673433f::mpng::MPNG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_21_031159890_e35b20a1ce.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

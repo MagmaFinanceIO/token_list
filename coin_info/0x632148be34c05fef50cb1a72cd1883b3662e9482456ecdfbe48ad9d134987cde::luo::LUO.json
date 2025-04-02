@@ -1,0 +1,13 @@
+{
+  "name": "luo",
+  "symbol": "luo",
+  "decimals": 9,
+  "coin_type": "0x632148be34c05fef50cb1a72cd1883b3662e9482456ecdfbe48ad9d134987cde::luo::LUO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/33a3fc88-eff2-4374-9b3e-215a95f8d5e3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

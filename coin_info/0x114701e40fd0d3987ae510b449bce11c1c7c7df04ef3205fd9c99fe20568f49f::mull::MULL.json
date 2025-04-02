@@ -1,0 +1,13 @@
+{
+  "name": "Mullet Dog",
+  "symbol": "Mull",
+  "decimals": 6,
+  "coin_type": "0x114701e40fd0d3987ae510b449bce11c1c7c7df04ef3205fd9c99fe20568f49f::mull::MULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_2008_84513b44f5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

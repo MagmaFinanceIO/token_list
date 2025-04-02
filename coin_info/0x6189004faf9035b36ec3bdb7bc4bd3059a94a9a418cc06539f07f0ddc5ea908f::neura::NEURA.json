@@ -1,0 +1,13 @@
+{
+  "name": "Neura Android",
+  "symbol": "NEURA",
+  "decimals": 6,
+  "coin_type": "0x6189004faf9035b36ec3bdb7bc4bd3059a94a9a418cc06539f07f0ddc5ea908f::neura::NEURA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736362363013.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

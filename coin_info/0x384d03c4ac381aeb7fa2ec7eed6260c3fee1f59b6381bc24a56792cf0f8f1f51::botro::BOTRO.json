@@ -1,0 +1,13 @@
+{
+  "name": "Botro - Ai agent & Trading bot on sui by SuiAI",
+  "symbol": "BOTRO",
+  "decimals": 6,
+  "coin_type": "0x384d03c4ac381aeb7fa2ec7eed6260c3fee1f59b6381bc24a56792cf0f8f1f51::botro::BOTRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Screenshot_2025_01_10_001522_494332783f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

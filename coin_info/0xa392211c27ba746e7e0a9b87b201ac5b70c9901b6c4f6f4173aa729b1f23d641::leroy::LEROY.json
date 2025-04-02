@@ -1,0 +1,13 @@
+{
+  "name": "Leroy",
+  "symbol": "Leroy",
+  "decimals": 9,
+  "coin_type": "0xa392211c27ba746e7e0a9b87b201ac5b70c9901b6c4f6f4173aa729b1f23d641::leroy::LEROY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CC14ifDeZRhdY667xULCjeSDRACTFY3EV4Huizzipump.png?size=lg&key=a7c672",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

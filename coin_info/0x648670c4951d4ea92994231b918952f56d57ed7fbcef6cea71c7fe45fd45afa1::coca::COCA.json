@@ -1,0 +1,13 @@
+{
+  "name": "COCA",
+  "symbol": "COCA",
+  "decimals": 2,
+  "coin_type": "0x648670c4951d4ea92994231b918952f56d57ed7fbcef6cea71c7fe45fd45afa1::coca::COCA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/12280cab-9035-4e60-b698-f2d5be3ea604.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

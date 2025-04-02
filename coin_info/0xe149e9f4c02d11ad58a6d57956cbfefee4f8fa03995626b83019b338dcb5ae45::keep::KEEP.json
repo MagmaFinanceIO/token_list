@@ -1,0 +1,13 @@
+{
+  "name": "Suikeeper",
+  "symbol": "KEEP",
+  "decimals": 9,
+  "coin_type": "0xe149e9f4c02d11ad58a6d57956cbfefee4f8fa03995626b83019b338dcb5ae45::keep::KEEP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BabyCapy",
+  "symbol": "BabyCapy",
+  "decimals": 9,
+  "coin_type": "0xc5552f68688c1a9c15b91e615841c171ace37ef63e8a4f47998bc682577cef8a::babycapy::BABYCAPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3de962eb-1df6-43f2-b0eb-cfa1af1b1b60.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

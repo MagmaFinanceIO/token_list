@@ -1,0 +1,13 @@
+{
+  "name": "suigirl",
+  "symbol": "Suigirl",
+  "decimals": 6,
+  "coin_type": "0x17293cd480d104612243160f4b81ae0b8a7d84f69d137044578ee3b20f6cfe95::suigirl::SUIGIRL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_20241012_192000_com_kiwibrowser_browser_239e31f52d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

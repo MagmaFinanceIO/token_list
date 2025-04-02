@@ -1,0 +1,13 @@
+{
+  "name": "Yurei",
+  "symbol": "YUREI",
+  "decimals": 9,
+  "coin_type": "0xb8395ef8b67784b7764d4a4baeb4e6f38e7c796603b7849e218da7204d5f50b5::yurei::YUREI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/494/891/large/eduardo-fiore-03.jpg?1727727646",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

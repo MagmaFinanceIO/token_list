@@ -1,0 +1,13 @@
+{
+  "name": "Network Spirituality Agency",
+  "symbol": "NSA",
+  "decimals": 6,
+  "coin_type": "0xe80a9665596712d6d24d5c9b933e08ca35fcdf2a645f2c7d32de1dca9b130e09::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

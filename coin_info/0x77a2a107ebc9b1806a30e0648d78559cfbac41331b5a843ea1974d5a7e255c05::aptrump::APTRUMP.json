@@ -1,0 +1,13 @@
+{
+  "name": "Andy Pepe Trump 2024",
+  "symbol": "APTRUMP",
+  "decimals": 9,
+  "coin_type": "0x77a2a107ebc9b1806a30e0648d78559cfbac41331b5a843ea1974d5a7e255c05::aptrump::APTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/13709321-5073-43cd-b97e-68d2296f8757.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

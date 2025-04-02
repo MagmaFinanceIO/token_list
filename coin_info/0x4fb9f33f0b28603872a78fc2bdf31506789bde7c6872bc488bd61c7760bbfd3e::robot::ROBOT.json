@@ -1,0 +1,13 @@
+{
+  "name": "ROBOT Musk",
+  "symbol": "ROBOT",
+  "decimals": 6,
+  "coin_type": "0x4fb9f33f0b28603872a78fc2bdf31506789bde7c6872bc488bd61c7760bbfd3e::robot::ROBOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/G_Yeb_OREXEAARVN_7_b28128758c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

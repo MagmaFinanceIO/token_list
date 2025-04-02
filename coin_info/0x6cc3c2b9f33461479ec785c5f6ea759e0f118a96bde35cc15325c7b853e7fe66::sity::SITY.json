@@ -1,0 +1,13 @@
+{
+  "name": "SITY",
+  "symbol": "SITY",
+  "decimals": 3,
+  "coin_type": "0x6cc3c2b9f33461479ec785c5f6ea759e0f118a96bde35cc15325c7b853e7fe66::sity::SITY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafybeig4236djyafwvxzkb3km7o3xa25lsfg55bxvyrwbxyemlzjnjjpsi.ipfs.w3s.link/sity%20logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

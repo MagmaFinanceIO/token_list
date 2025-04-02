@@ -1,0 +1,13 @@
+{
+  "name": "Tiktok Rugged",
+  "symbol": "RUGTOK",
+  "decimals": 9,
+  "coin_type": "0x7780e8b092b285e1309becd18277be4bce20f9448a294cd618fb484b082b9bfb::rugtok::RUGTOK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3qzQD6JtfsuHmgjesGA6f8pQn9DBg1WRgChTQfEapump.png?size=lg&key=a23427",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

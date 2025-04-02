@@ -1,0 +1,13 @@
+{
+  "name": "YOGOO",
+  "symbol": "yogoo",
+  "decimals": 9,
+  "coin_type": "0x0019f6915ddd61bfcd522a632b757fbfe02ecbff0fecb29a03e694f22a05fa16::yogoo::YOGOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

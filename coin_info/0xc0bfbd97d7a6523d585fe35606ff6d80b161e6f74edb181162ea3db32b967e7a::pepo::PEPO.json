@@ -1,0 +1,13 @@
+{
+  "name": "Chillius Maximus Pepo",
+  "symbol": "PEPO",
+  "decimals": 9,
+  "coin_type": "0xc0bfbd97d7a6523d585fe35606ff6d80b161e6f74edb181162ea3db32b967e7a::pepo::PEPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/37ea6822-4fc9-4c24-a007-4053dd7cd16d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

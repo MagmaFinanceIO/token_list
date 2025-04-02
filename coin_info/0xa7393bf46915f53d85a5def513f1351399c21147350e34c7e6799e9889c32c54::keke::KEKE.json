@@ -1,0 +1,13 @@
+{
+  "name": "Keke",
+  "symbol": "KEKE",
+  "decimals": 9,
+  "coin_type": "0xa7393bf46915f53d85a5def513f1351399c21147350e34c7e6799e9889c32c54::keke::KEKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/843082ae-1005-4a32-bed2-92d8ac2dca18.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

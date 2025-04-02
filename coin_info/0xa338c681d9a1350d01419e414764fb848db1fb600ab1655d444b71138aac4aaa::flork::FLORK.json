@@ -1,0 +1,13 @@
+{
+  "name": "Flork On Sui",
+  "symbol": "Flork",
+  "decimals": 6,
+  "coin_type": "0xa338c681d9a1350d01419e414764fb848db1fb600ab1655d444b71138aac4aaa::flork::FLORK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/gif2_3b5defb8e3.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

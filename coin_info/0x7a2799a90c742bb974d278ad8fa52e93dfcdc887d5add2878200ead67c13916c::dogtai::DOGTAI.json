@@ -1,0 +1,13 @@
+{
+  "name": "DogTranslatorAI",
+  "symbol": "DOGTAI",
+  "decimals": 6,
+  "coin_type": "0x7a2799a90c742bb974d278ad8fa52e93dfcdc887d5add2878200ead67c13916c::dogtai::DOGTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Whats_App_Image_2025_01_14_at_16_41_54_e6068342c2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

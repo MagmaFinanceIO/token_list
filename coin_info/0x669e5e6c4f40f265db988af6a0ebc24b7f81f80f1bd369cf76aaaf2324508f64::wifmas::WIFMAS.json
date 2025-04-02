@@ -1,0 +1,13 @@
+{
+  "name": "wifmas",
+  "symbol": "WIFMAS",
+  "decimals": 9,
+  "coin_type": "0x669e5e6c4f40f265db988af6a0ebc24b7f81f80f1bd369cf76aaaf2324508f64::wifmas::WIFMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CoRQpMjhBx6AsrzKJJZyzJoH52GoEKShM3CVumyzpump.png?size=xl&key=41bce7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

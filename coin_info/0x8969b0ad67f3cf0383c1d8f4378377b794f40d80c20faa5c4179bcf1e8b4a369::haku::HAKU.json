@@ -1,0 +1,13 @@
+{
+  "name": "HAKU",
+  "symbol": "HAKU",
+  "decimals": 9,
+  "coin_type": "0x8969b0ad67f3cf0383c1d8f4378377b794f40d80c20faa5c4179bcf1e8b4a369::haku::HAKU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HaoHBFBjc5UgcFvWDHsGb3n6qtyJkvP27yd4cei5pump.png?size=lg&key=54ed54",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

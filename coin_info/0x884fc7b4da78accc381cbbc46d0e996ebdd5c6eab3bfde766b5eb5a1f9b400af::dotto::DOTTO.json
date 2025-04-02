@@ -1,0 +1,13 @@
+{
+  "name": "Dotto",
+  "symbol": "Dotto",
+  "decimals": 9,
+  "coin_type": "0x884fc7b4da78accc381cbbc46d0e996ebdd5c6eab3bfde766b5eb5a1f9b400af::dotto::DOTTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

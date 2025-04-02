@@ -1,0 +1,13 @@
+{
+  "name": "Mystery",
+  "symbol": "MYSTERY",
+  "decimals": 9,
+  "coin_type": "0x0163022017059e2a92a250eb24ec0f50fd4e224751dd83e7186f782845e05015::mystery::MYSTERY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x64c5cba9a1bfbd2a5faf601d91beff2dcac2c974.png?size=lg&key=6af830",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

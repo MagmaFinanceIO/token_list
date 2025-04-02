@@ -1,0 +1,13 @@
+{
+  "name": "SHILLGUY",
+  "symbol": "SHILL",
+  "decimals": 9,
+  "coin_type": "0x7e460dd9146e10923de8d1ad1c3d86c3e366f68be9666a189dc1c4c4f3a308ae::shill::SHILL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4Q7UJpgqrD51Y9DuJjeKuVnEmanJTbqPRGazVsUZpump.png?size=lg&key=f94788",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

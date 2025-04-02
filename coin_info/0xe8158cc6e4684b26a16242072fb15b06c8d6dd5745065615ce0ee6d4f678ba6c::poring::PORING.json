@@ -1,0 +1,13 @@
+{
+  "name": "Poring Sui",
+  "symbol": "PORING",
+  "decimals": 9,
+  "coin_type": "0xe8158cc6e4684b26a16242072fb15b06c8d6dd5745065615ce0ee6d4f678ba6c::poring::PORING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/adf9002c-44d3-4bf8-ba77-197215998085.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

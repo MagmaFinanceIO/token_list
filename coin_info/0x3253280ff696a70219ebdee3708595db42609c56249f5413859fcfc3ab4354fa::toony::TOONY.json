@@ -1,0 +1,13 @@
+{
+  "name": "TOONY STARS",
+  "symbol": "TOONY",
+  "decimals": 6,
+  "coin_type": "0x3253280ff696a70219ebdee3708595db42609c56249f5413859fcfc3ab4354fa::toony::TOONY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_3291653b21.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

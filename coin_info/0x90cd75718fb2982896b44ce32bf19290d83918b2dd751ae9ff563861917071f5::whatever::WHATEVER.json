@@ -1,0 +1,13 @@
+{
+  "name": "WHATEVER",
+  "symbol": "POOP",
+  "decimals": 9,
+  "coin_type": "0x90cd75718fb2982896b44ce32bf19290d83918b2dd751ae9ff563861917071f5::whatever::WHATEVER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://d3hnfqimznafg0.cloudfront.net/image-handler/ts/20200218065624/ri/950/src/images/Article_Images/ImageForArticle_227_15820269818147731.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

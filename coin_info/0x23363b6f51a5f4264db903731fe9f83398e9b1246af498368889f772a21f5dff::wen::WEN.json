@@ -1,0 +1,13 @@
+{
+  "name": "Wen on Sui",
+  "symbol": "WEN",
+  "decimals": 9,
+  "coin_type": "0x23363b6f51a5f4264db903731fe9f83398e9b1246af498368889f772a21f5dff::wen::WEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/948c2dec-fc49-4aad-9657-e58677874168.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

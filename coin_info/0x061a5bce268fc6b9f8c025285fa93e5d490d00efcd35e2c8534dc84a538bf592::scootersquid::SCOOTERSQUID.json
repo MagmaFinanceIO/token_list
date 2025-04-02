@@ -1,0 +1,13 @@
+{
+  "name": "ScooterSquid",
+  "symbol": "ScooterSquid",
+  "decimals": 9,
+  "coin_type": "0x061a5bce268fc6b9f8c025285fa93e5d490d00efcd35e2c8534dc84a538bf592::scootersquid::SCOOTERSQUID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/284e172a-3053-4636-b981-bc1bed648f7d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AETHER",
+  "symbol": "ATH",
+  "decimals": 6,
+  "coin_type": "0x326093a06d6c5afc70bc06eb119b86b60b6b1085158d4879c38fee50bb31ad22::ath::ATH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Picsart_24_11_26_21_19_52_561_fcbf216ace.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

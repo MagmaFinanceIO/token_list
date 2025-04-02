@@ -1,0 +1,13 @@
+{
+  "name": "SuiLander",
+  "symbol": "SUILANDER",
+  "decimals": 6,
+  "coin_type": "0x40e5745dc262b3fad8de972eb34d1deeacd77c020469a0eff154cd92c61818eb::suilander::SUILANDER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmRLjAX2Fdue4K95hT6EBpBwMpZHZx5qP77upYS9K9W6Ci",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

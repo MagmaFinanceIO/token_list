@@ -1,0 +1,13 @@
+{
+  "name": "Gold Suil",
+  "symbol": "Bar",
+  "decimals": 6,
+  "coin_type": "0xfc572300a42376950d4eb2757c92b0d2638ac48f997cd3f168fd538df631b7b1::bar::BAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_9299_7a66dcb1c3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

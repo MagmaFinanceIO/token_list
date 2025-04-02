@@ -1,0 +1,13 @@
+{
+  "name": "SUI BUBLE",
+  "symbol": "BUBL",
+  "decimals": 9,
+  "coin_type": "0x7b5c35175128189e60b5f2c8fadd6dccfc72e075c44aa0403b4e4addbe6cb0f6::bubl::BUBL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

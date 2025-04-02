@@ -1,0 +1,13 @@
+{
+  "name": "BRITISH DOG",
+  "symbol": "BDOG",
+  "decimals": 9,
+  "coin_type": "0x906cfaa02b3e3663183d94449fe6ec6720300f436bc37c74af3758a77bc4655b::bdog::BDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GL3x6RAgBb4YdBYM43TscQHJpqsPR77DWCuEeXjKpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

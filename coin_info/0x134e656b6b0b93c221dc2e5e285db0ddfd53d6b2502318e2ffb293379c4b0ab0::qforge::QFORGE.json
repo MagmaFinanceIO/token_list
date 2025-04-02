@@ -1,0 +1,13 @@
+{
+  "name": "Quantum Forge Master",
+  "symbol": "QFORGE",
+  "decimals": 9,
+  "coin_type": "0x134e656b6b0b93c221dc2e5e285db0ddfd53d6b2502318e2ffb293379c4b0ab0::qforge::QFORGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CDZ6oGm9eogpGS3stqqnrG2fkBdpZUSKiq7J5m1xEGFe.png?size=lg&key=272324",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

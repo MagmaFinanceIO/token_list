@@ -1,0 +1,13 @@
+{
+  "name": "GG",
+  "symbol": "GG",
+  "decimals": 9,
+  "coin_type": "0x9f8e060fe976fc4ee8806891bd9fd84d5b11571cedcb305c4b74acf87257c89e::gg::GG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://as2.ftcdn.net/v2/jpg/01/77/28/55/1000_F_177285569_UbNLMkzig06WQUKxnXdLxR0Q4QtS8V2S.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FOMO SUI",
+  "symbol": "FOMO",
+  "decimals": 9,
+  "coin_type": "0xbbd6351b327adcbc08b0b7c4eac54c0f2b24066a24456f77602b1daac874ba58::fomo_::FOMO_",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2afc4e20-8d95-4504-9724-8e3f671b7969.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

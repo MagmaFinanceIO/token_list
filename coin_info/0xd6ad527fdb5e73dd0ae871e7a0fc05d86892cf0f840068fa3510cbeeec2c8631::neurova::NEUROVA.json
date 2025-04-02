@@ -1,0 +1,13 @@
+{
+  "name": "Neurova AI",
+  "symbol": "Neurova",
+  "decimals": 9,
+  "coin_type": "0xd6ad527fdb5e73dd0ae871e7a0fc05d86892cf0f840068fa3510cbeeec2c8631::neurova::NEUROVA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dexscreener.com/solana/bo2bnr6jype65tzwcrvgmdghwdpgzs6ixodgfrdlpump",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

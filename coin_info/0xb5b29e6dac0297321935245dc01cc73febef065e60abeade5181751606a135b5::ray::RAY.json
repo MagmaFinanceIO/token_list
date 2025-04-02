@@ -1,0 +1,13 @@
+{
+  "name": "RAY on Sui DONT BUY",
+  "symbol": "RAY",
+  "decimals": 6,
+  "coin_type": "0xb5b29e6dac0297321935245dc01cc73febef065e60abeade5181751606a135b5::ray::RAY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_09_22_16_33_17_3bc9055c00.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

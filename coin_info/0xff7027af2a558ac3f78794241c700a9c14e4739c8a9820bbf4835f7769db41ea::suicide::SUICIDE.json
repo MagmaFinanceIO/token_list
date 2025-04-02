@@ -1,0 +1,13 @@
+{
+  "name": "suiside",
+  "symbol": "suicide",
+  "decimals": 9,
+  "coin_type": "0xff7027af2a558ac3f78794241c700a9c14e4739c8a9820bbf4835f7769db41ea::suicide::SUICIDE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cae75861-18fe-4a94-8bef-e06fbebd3217.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

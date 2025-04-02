@@ -1,0 +1,13 @@
+{
+  "name": "Akamaru Sui",
+  "symbol": "Akamaru",
+  "decimals": 6,
+  "coin_type": "0x8f156e22447f1e111e9be484ad67e4588080a952f54199a6801bdc77259bdd61::akamaru::AKAMARU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/akamaru_5844276294.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

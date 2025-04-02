@@ -1,0 +1,13 @@
+{
+  "name": "Sui Bluey",
+  "symbol": "Bluey",
+  "decimals": 6,
+  "coin_type": "0x25ddd819ce2b16162606d41279a013d5f59c2be25bef5f3c27ec691aad533465::bluey::BLUEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Bluey_S3_Exercise_010_scaled_6598bc8492.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

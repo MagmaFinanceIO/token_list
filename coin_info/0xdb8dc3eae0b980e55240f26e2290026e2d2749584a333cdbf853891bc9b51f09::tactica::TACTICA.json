@@ -1,0 +1,13 @@
+{
+  "name": "Tactica AI",
+  "symbol": "TACTICA",
+  "decimals": 9,
+  "coin_type": "0xdb8dc3eae0b980e55240f26e2290026e2d2749584a333cdbf853891bc9b51f09::tactica::TACTICA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9fRRps24aAuXqeD6ujrNy1pdagEcFveU8m7PUkeTpump.png?size=lg&key=a72dcd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

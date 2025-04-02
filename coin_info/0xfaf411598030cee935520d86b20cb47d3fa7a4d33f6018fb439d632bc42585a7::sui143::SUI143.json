@@ -1,0 +1,13 @@
+{
+  "name": "143",
+  "symbol": "Sui143",
+  "decimals": 6,
+  "coin_type": "0xfaf411598030cee935520d86b20cb47d3fa7a4d33f6018fb439d632bc42585a7::sui143::SUI143",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1341_9bf05c9bc7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

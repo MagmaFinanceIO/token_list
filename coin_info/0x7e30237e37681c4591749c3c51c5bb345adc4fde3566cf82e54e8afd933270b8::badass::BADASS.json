@@ -1,0 +1,13 @@
+{
+  "name": "BADASS",
+  "symbol": "Badass",
+  "decimals": 9,
+  "coin_type": "0x7e30237e37681c4591749c3c51c5bb345adc4fde3566cf82e54e8afd933270b8::badass::BADASS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Derp",
+  "symbol": "DERP",
+  "decimals": 9,
+  "coin_type": "0x1032a48a34b013d4512bb9c988751a35667d5135989d94e7ea377b186826691f::derp::DERP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A4dZBMg8ZxxBo21RPHJ8BD8zLKpJGTabTgfQRosSpump.png?size=lg&key=6c5cf7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

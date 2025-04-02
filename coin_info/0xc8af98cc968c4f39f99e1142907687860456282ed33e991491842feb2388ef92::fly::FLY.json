@@ -1,0 +1,13 @@
+{
+  "name": "TOKEN FLY",
+  "symbol": "FLY",
+  "decimals": 9,
+  "coin_type": "0xc8af98cc968c4f39f99e1142907687860456282ed33e991491842feb2388ef92::fly::FLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/G5JZtDFrypBtCSfsDZ5nc5MkzJVAy4RvhXx7mnUmpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

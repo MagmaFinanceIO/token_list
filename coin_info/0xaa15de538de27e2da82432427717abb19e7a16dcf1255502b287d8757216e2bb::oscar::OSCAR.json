@@ -1,0 +1,13 @@
+{
+  "name": "Oscar the Grouch",
+  "symbol": "OSCAR",
+  "decimals": 9,
+  "coin_type": "0xaa15de538de27e2da82432427717abb19e7a16dcf1255502b287d8757216e2bb::oscar::OSCAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3d4e5547-b319-437f-86aa-7bbeaf2a5e34.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

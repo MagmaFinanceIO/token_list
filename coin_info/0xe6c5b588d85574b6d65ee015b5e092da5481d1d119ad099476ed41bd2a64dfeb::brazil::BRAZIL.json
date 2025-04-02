@@ -1,0 +1,13 @@
+{
+  "name": "Brazil",
+  "symbol": "Brazil",
+  "decimals": 2,
+  "coin_type": "0xe6c5b588d85574b6d65ee015b5e092da5481d1d119ad099476ed41bd2a64dfeb::brazil::BRAZIL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a7ef65ce-0fcb-4d00-961d-e12394cd4b7f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

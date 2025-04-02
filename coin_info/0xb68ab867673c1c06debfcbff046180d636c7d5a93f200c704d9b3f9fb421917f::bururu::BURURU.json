@@ -1,0 +1,13 @@
+{
+  "name": "Bururu",
+  "symbol": "BURURU",
+  "decimals": 9,
+  "coin_type": "0xb68ab867673c1c06debfcbff046180d636c7d5a93f200c704d9b3f9fb421917f::bururu::BURURU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AYb3x3nTJ9c6K5wopQa58jiWcYbvMriDRra3Q3b8pump.png?size=lg&key=25d5b7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

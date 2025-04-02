@@ -1,0 +1,13 @@
+{
+  "name": "SorayaAI by SuiAI",
+  "symbol": "SORAYA",
+  "decimals": 6,
+  "coin_type": "0x99b1bba98fa0453d7582de96336360068dc438c669bfb92096ab3e432b1a03bd::soraya::SORAYA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/sorayalog_b1668ccfe6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

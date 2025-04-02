@@ -1,0 +1,13 @@
+{
+  "name": "MovePump",
+  "symbol": "MP",
+  "decimals": 6,
+  "coin_type": "0x24f15ea9b69510e4a44df44e84d10e0dc01bc6506e3cfa58b8703eae9f634c35::mp::MP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Blue_Move_logo_cfb3437931.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

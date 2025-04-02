@@ -1,0 +1,13 @@
+{
+  "name": "Sui Dork",
+  "symbol": "DORK",
+  "decimals": 6,
+  "coin_type": "0x715921323dfe5080bc80f1fe7102b14eddc500e16805bbc88a2ee7ff4dd8ac57::dork::DORK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "http://movepump.xyz/uploads/PP_65_0a66b10b0e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

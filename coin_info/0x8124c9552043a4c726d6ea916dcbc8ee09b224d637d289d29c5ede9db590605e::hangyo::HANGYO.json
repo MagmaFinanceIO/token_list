@@ -1,0 +1,13 @@
+{
+  "name": "Hangyodon",
+  "symbol": "HANGYO",
+  "decimals": 9,
+  "coin_type": "0x8124c9552043a4c726d6ea916dcbc8ee09b224d637d289d29c5ede9db590605e::hangyo::HANGYO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/13NGsFNJjmaFjtoMbnEpp8Xsj7JeCaRfrDbRYzVqqeQP.png?size=lg&key=9ff4eb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sheesh",
+  "symbol": "SHEESH",
+  "decimals": 6,
+  "coin_type": "0x20a053e995caf0f2d8fc25ed85b67a4d6c6bc713aa71b8833f6f395d3a7e782e::sheesh::SHEESH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736881603387.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

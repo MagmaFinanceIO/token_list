@@ -1,0 +1,13 @@
+{
+  "name": "Mc Sui",
+  "symbol": "MCSUI",
+  "decimals": 9,
+  "coin_type": "0x0c8f0e73701a9d7b893779dd4ba0506e83b9ad7fd234e9b29fff787a3a5e2719::mcsui::MCSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fce2287a-177b-4bfb-9880-87e28b40b21a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

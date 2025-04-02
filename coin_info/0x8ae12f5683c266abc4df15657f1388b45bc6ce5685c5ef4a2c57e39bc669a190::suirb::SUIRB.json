@@ -1,0 +1,13 @@
+{
+  "name": "SUIRB SUI",
+  "symbol": "SUIRB",
+  "decimals": 6,
+  "coin_type": "0x8ae12f5683c266abc4df15657f1388b45bc6ce5685c5ef4a2c57e39bc669a190::suirb::SUIRB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6778_329616e818.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

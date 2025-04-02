@@ -1,0 +1,13 @@
+{
+  "name": "First Pnut on Sui",
+  "symbol": "FPNUT",
+  "decimals": 6,
+  "coin_type": "0x0fbaa586d87caa19c90fd1678ec5d3e37c88fee76e1e09f4f08f5a9207735da0::fpnut::FPNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmUkmJW32gqRkKoybQgH4h6XH5y1SvsotRUA3JhiGDwJkH",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

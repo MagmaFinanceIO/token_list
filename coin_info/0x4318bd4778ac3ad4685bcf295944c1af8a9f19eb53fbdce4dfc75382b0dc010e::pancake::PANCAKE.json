@@ -1,0 +1,13 @@
+{
+  "name": "Space Pancake",
+  "symbol": "PANCAKE",
+  "decimals": 9,
+  "coin_type": "0x4318bd4778ac3ad4685bcf295944c1af8a9f19eb53fbdce4dfc75382b0dc010e::pancake::PANCAKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3ddfdc2d-3d86-4f49-96ad-383c86706dec.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Meowy Catmas",
+  "symbol": "CATMAS",
+  "decimals": 9,
+  "coin_type": "0xf4d82a41580dfe3a3948613b0627543dd37c0bab7a7ae582bb3c55798bef2b1a::catmas::CATMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c2f8598c-c3f9-44a0-9968-947670f74ae1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

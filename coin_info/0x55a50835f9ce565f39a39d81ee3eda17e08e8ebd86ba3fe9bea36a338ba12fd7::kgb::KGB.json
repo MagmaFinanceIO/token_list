@@ -1,0 +1,13 @@
+{
+  "name": "Kangreburguer",
+  "symbol": "KGB",
+  "decimals": 9,
+  "coin_type": "0x55a50835f9ce565f39a39d81ee3eda17e08e8ebd86ba3fe9bea36a338ba12fd7::kgb::KGB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/25a4faf5-53a6-47b6-ac46-ad6e1a2008e1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

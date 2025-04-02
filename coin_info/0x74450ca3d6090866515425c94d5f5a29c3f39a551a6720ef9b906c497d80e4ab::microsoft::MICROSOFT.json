@@ -1,0 +1,13 @@
+{
+  "name": "Microsoft",
+  "symbol": "Microsoft",
+  "decimals": 2,
+  "coin_type": "0x74450ca3d6090866515425c94d5f5a29c3f39a551a6720ef9b906c497d80e4ab::microsoft::MICROSOFT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/71ea76f1-f35b-44e4-8750-fa780b92b176.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

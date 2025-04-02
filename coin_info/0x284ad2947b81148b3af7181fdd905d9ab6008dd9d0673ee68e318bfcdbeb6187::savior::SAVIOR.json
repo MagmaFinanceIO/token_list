@@ -1,0 +1,13 @@
+{
+  "name": "Savior Trump",
+  "symbol": "SAVIOR",
+  "decimals": 9,
+  "coin_type": "0x284ad2947b81148b3af7181fdd905d9ab6008dd9d0673ee68e318bfcdbeb6187::savior::SAVIOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ba2cb401-1110-449e-852e-7e653dbb392e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

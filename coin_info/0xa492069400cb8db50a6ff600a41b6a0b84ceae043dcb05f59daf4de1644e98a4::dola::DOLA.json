@@ -1,0 +1,13 @@
+{
+  "name": "Dolphin Agent",
+  "symbol": "DOLA",
+  "decimals": 6,
+  "coin_type": "0xa492069400cb8db50a6ff600a41b6a0b84ceae043dcb05f59daf4de1644e98a4::dola::DOLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/27_12_5_nho_hon_1_MB_01_afec78f0c4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BoboCoin",
+  "symbol": "BoboCoin",
+  "decimals": 9,
+  "coin_type": "0xb402f9f36e0337e8cf82e0d04884c4e5e9ff22420db16747f19c02a687791e34::my_coin::MY_COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

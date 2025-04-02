@@ -1,0 +1,13 @@
+{
+  "name": "Peanut the Squirrel",
+  "symbol": "PNUT",
+  "decimals": 9,
+  "coin_type": "0x945c8aab6b40912e7fda79ddf0463e283240319ec58804f6f50c233fb8367560::pnut::PNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://image.coinpedia.org/wp-content/uploads/2024/11/14190742/PNUT-Coin-Price-Prediction-Largest-PNUT-Holder-Makes-56M%E2%80%94Will-the-Trend-Persist.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

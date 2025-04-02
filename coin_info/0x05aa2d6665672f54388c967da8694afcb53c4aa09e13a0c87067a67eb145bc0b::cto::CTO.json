@@ -1,0 +1,13 @@
+{
+  "name": "Cto All Chain",
+  "symbol": "CTO",
+  "decimals": 6,
+  "coin_type": "0x05aa2d6665672f54388c967da8694afcb53c4aa09e13a0c87067a67eb145bc0b::cto::CTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/piccto2_6e4f290c28.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

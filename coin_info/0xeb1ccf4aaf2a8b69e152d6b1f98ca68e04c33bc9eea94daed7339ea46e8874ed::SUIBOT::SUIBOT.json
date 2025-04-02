@@ -1,0 +1,13 @@
+{
+  "name": "SuiTradingBot",
+  "symbol": "Sui Bot",
+  "decimals": 6,
+  "coin_type": "0xeb1ccf4aaf2a8b69e152d6b1f98ca68e04c33bc9eea94daed7339ea46e8874ed::SUIBOT::SUIBOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/xwoFpqlYbLvwJ2idY11I8td2G85dOjkNmTgdpXFAEC8?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

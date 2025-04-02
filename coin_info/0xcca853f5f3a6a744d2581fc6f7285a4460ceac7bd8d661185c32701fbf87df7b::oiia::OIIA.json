@@ -1,0 +1,13 @@
+{
+  "name": "OiiA - The Agent Cat",
+  "symbol": "OiiA",
+  "decimals": 6,
+  "coin_type": "0xcca853f5f3a6a744d2581fc6f7285a4460ceac7bd8d661185c32701fbf87df7b::oiia::OIIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736000752629.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

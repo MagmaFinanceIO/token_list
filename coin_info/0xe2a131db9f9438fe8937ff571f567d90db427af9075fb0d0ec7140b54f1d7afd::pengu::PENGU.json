@@ -1,0 +1,13 @@
+{
+  "name": "Pengu Penguins",
+  "symbol": "PENGU",
+  "decimals": 9,
+  "coin_type": "0xe2a131db9f9438fe8937ff571f567d90db427af9075fb0d0ec7140b54f1d7afd::pengu::PENGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2eJAkrBeJwSM1dJLsGCpBYDjMXyPsfUzAuMPeVCyof25.png?size=xl&key=e200f6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

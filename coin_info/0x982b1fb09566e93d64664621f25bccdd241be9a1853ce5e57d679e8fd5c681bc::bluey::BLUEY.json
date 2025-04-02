@@ -1,0 +1,13 @@
+{
+  "name": "BLUEY",
+  "symbol": "BLUEY",
+  "decimals": 9,
+  "coin_type": "0x982b1fb09566e93d64664621f25bccdd241be9a1853ce5e57d679e8fd5c681bc::bluey::BLUEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/74d54d5f-9a5c-42ae-9744-a191f1c85299.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

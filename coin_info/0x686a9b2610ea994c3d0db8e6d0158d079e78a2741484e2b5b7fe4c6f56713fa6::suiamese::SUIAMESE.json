@@ -1,0 +1,13 @@
+{
+  "name": "SUIAMESE",
+  "symbol": "SUIAMESE",
+  "decimals": 6,
+  "coin_type": "0x686a9b2610ea994c3d0db8e6d0158d079e78a2741484e2b5b7fe4c6f56713fa6::suiamese::SUIAMESE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmWH5eVPRXrDRZGESQugsshjC5FrFqAt67Kui6eVcL9G8h",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

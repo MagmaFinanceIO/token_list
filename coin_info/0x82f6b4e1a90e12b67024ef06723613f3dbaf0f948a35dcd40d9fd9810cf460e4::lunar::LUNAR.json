@@ -1,0 +1,13 @@
+{
+  "name": "Wood Snake Coin",
+  "symbol": "Lunar",
+  "decimals": 9,
+  "coin_type": "0x82f6b4e1a90e12b67024ef06723613f3dbaf0f948a35dcd40d9fd9810cf460e4::lunar::LUNAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9Pg5CXe6eM3A1ojJrxLC2MH7Hc5LwNK6qSuWpabqpump.png?size=lg&key=0e128e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

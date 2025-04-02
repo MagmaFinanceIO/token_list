@@ -1,0 +1,13 @@
+{
+  "name": "MOGY SUI",
+  "symbol": "MOGY",
+  "decimals": 9,
+  "coin_type": "0x98289c5f156a97d32241b4bb59bddcf35a3f7b8fb710f7651dce54ab1e4d1813::mogy::MOGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5547a65a-3187-4276-ba79-ee44b463f4e3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

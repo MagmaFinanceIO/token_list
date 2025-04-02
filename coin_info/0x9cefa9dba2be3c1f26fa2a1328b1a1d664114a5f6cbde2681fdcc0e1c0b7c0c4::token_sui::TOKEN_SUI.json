@@ -1,0 +1,13 @@
+{
+  "name": "MagaWinCat",
+  "symbol": "MAWC",
+  "decimals": 9,
+  "coin_type": "0x9cefa9dba2be3c1f26fa2a1328b1a1d664114a5f6cbde2681fdcc0e1c0b7c0c4::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8a6K7jwnFHuLTBcLcFQR6k4FBWVtGFqP7jMg8xhxzJkJ.png?size=xl&key=1a3c46",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

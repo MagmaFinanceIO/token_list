@@ -1,0 +1,13 @@
+{
+  "name": "Meme Tremp",
+  "symbol": "Tremp",
+  "decimals": 6,
+  "coin_type": "0x4a83294c81b7d4f50dbfb9bbef77675dedafdab984408f0cc9985a7dd598b445::tremp::TREMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_20240611_220131_8ef0b72761.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

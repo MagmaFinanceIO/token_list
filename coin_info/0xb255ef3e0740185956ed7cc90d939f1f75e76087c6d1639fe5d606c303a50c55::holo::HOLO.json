@@ -1,0 +1,13 @@
+{
+  "name": "Holozone AI",
+  "symbol": "HOLO",
+  "decimals": 9,
+  "coin_type": "0xb255ef3e0740185956ed7cc90d939f1f75e76087c6d1639fe5d606c303a50c55::holo::HOLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B8hCuoikV9gLeuwmTyhNdLbPnb5k3P77Q7WTtEM7pump.png?size=lg&key=92d413",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

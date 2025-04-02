@@ -1,0 +1,13 @@
+{
+  "name": "Brony Alliance",
+  "symbol": "BRONY",
+  "decimals": 9,
+  "coin_type": "0xe839c20a09c979b26501eb38a87165bfc3f07e3ae2a80a748d38826f6ca1d914::brony::BRONY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1115398c-e12f-4caa-8819-5fb1ef36a602.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

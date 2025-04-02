@@ -1,0 +1,13 @@
+{
+  "name": "$SUIFWOG",
+  "symbol": "SFWOG",
+  "decimals": 6,
+  "coin_type": "0xce7c4090e519a0a345404a550ad4587a309a12ef2852b5d02a7ff1644ce56c46::sfwog::SFWOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suifwog_1_778ef58ac5.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

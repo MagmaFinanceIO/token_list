@@ -1,0 +1,13 @@
+{
+  "name": "Walrus Protocol",
+  "symbol": "WAL",
+  "decimals": 9,
+  "coin_type": "0x74dd646590f33345abf9cf28799c78605abf52e89778487af052f3e50880a077::wal::WAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3e2c9f4e-07d0-458d-bc80-0d76aa4213ee.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIpotamus",
+  "symbol": "Suipotamus",
+  "decimals": 6,
+  "coin_type": "0x723eeeb7dbc9fb8d62fd537a371e8d2d68c9b2e7b517d72eac103a00a1c27f70::suipotamus::SUIPOTAMUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Wallet_hdr_eedb077b6a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

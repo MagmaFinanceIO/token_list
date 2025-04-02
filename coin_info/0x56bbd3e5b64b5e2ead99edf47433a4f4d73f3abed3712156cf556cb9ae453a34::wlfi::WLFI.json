@@ -1,0 +1,13 @@
+{
+  "name": "World Liberty Financial",
+  "symbol": "WLFI",
+  "decimals": 6,
+  "coin_type": "0x56bbd3e5b64b5e2ead99edf47433a4f4d73f3abed3712156cf556cb9ae453a34::wlfi::WLFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/30_Q2_SFVH_400x400_1970d3a150.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

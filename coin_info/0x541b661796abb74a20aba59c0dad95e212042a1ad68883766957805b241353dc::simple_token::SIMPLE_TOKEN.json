@@ -1,0 +1,13 @@
+{
+  "name": "AI 3 Arrows",
+  "symbol": "ai3arrows",
+  "decimals": 9,
+  "coin_type": "0x541b661796abb74a20aba59c0dad95e212042a1ad68883766957805b241353dc::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

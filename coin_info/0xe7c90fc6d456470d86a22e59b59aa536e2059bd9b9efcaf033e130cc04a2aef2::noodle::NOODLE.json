@@ -1,0 +1,13 @@
+{
+  "name": "Noodle",
+  "symbol": "Noodle",
+  "decimals": 9,
+  "coin_type": "0xe7c90fc6d456470d86a22e59b59aa536e2059bd9b9efcaf033e130cc04a2aef2::noodle::NOODLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/406644ed-7ee7-4234-9794-b412078a2a84.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

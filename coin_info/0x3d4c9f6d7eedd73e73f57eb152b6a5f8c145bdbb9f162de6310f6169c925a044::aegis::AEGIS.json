@@ -1,0 +1,13 @@
+{
+  "name": "AI DOGE SUI",
+  "symbol": "AEGIS",
+  "decimals": 9,
+  "coin_type": "0x3d4c9f6d7eedd73e73f57eb152b6a5f8c145bdbb9f162de6310f6169c925a044::aegis::AEGIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5HMW7nJtQ1TZSG1T9FMbEMc72dHCFMUYGsNGP1Bnpump.png?size=lg&key=9e33be",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

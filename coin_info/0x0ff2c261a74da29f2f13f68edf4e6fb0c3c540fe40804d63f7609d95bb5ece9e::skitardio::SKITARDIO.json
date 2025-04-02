@@ -1,0 +1,13 @@
+{
+  "name": "SKITARDIO SUI",
+  "symbol": "SKITARDIO",
+  "decimals": 6,
+  "coin_type": "0x0ff2c261a74da29f2f13f68edf4e6fb0c3c540fe40804d63f7609d95bb5ece9e::skitardio::SKITARDIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6631_895fb5bef3.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

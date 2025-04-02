@@ -1,0 +1,13 @@
+{
+  "name": "DeVitalik",
+  "symbol": "DeV",
+  "decimals": 9,
+  "coin_type": "0x44a62906d347286498b2bd92f5e7b3153c0d9b4fbbf4945fa35b61b6a1ea029e::dev::DEV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmVHaMvzVxfhXVsBicXsMzQpGs49a7K4yZBZkeeeAc4ca2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Just a Chill Sui",
+  "symbol": "CHILLSUI",
+  "decimals": 9,
+  "coin_type": "0x81591e52dad89c3079de5197550e5fc3a6d9d2c2396ca46125135468d576e45c::chillsui::CHILLSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/269f6a89-c08b-423f-89ee-6d3540774a16.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

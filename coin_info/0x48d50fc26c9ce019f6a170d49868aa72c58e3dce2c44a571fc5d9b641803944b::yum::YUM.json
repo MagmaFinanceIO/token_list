@@ -1,0 +1,13 @@
+{
+  "name": "YUMMY",
+  "symbol": "YUM",
+  "decimals": 6,
+  "coin_type": "0x48d50fc26c9ce019f6a170d49868aa72c58e3dce2c44a571fc5d9b641803944b::yum::YUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730994323744.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

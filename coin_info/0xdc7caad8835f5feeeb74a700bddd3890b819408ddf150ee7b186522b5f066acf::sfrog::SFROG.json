@@ -1,0 +1,13 @@
+{
+  "name": "SUI FROG",
+  "symbol": "SFROG",
+  "decimals": 9,
+  "coin_type": "0xdc7caad8835f5feeeb74a700bddd3890b819408ddf150ee7b186522b5f066acf::sfrog::SFROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/27bfc03b-2c46-414d-abc0-4e4a652fc2f0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

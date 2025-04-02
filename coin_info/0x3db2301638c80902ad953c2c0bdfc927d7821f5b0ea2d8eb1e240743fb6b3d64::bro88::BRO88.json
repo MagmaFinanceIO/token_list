@@ -1,0 +1,13 @@
+{
+  "name": "Brotastic",
+  "symbol": "BRO88",
+  "decimals": 6,
+  "coin_type": "0x3db2301638c80902ad953c2c0bdfc927d7821f5b0ea2d8eb1e240743fb6b3d64::bro88::BRO88",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1585_a993a12daa.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

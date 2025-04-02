@@ -1,0 +1,13 @@
+{
+  "name": "AquaPeanut",
+  "symbol": "APNUT",
+  "decimals": 6,
+  "coin_type": "0xaaa033485e4d79c5fb7d3aa6be9da23f742b6df324ea3a617b5fb8b4b5866616::apnut::APNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000008479_e8278b1402.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

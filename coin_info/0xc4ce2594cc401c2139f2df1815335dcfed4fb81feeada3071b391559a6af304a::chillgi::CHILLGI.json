@@ -1,0 +1,13 @@
+{
+  "name": "Chill Luigi",
+  "symbol": "CHILLGI",
+  "decimals": 9,
+  "coin_type": "0xc4ce2594cc401c2139f2df1815335dcfed4fb81feeada3071b391559a6af304a::chillgi::CHILLGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/84ojwP18giMgeazbe6Mq2gZ4x3XTXUVQ7Ec7Er1gpump.png?size=lg&key=02bf0f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

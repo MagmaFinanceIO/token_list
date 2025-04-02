@@ -1,0 +1,13 @@
+{
+  "name": "DeepBook",
+  "symbol": "DEEP",
+  "decimals": 6,
+  "coin_type": "0x8223d85933999939d7653427188731bac75a5abc5e482ac7a13434b2d3bd4082::deep::DEEP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://tomato-rapid-stork-14.mypinata.cloud/ipfs/QmR1ewwEm8QNW7eWdUuAK6dDnNyqB5zWN1oZrrtUHi3jWE",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

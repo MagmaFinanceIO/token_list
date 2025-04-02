@@ -1,0 +1,13 @@
+{
+  "name": "Silk AI",
+  "symbol": "SILK",
+  "decimals": 9,
+  "coin_type": "0x339a5d04deca79ee62582e2c9e4a6545bf6a65aa99078dbe878d7b7d49e0b733::silk::SILK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/74Zdi3vRAGsr7Jf2fsFq9JC4oPkDHTokXzHwc1RYpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

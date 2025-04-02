@@ -1,0 +1,13 @@
+{
+  "name": "Sui Mugu",
+  "symbol": "MUGU",
+  "decimals": 9,
+  "coin_type": "0x312203abeb2edc0ffcc9a04e6ac66ee872384b25031d41b1c67ef4073bcab81d::mugu::MUGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FKarya_Seni_Tanpa_Judul_36_cac61d364b.png&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

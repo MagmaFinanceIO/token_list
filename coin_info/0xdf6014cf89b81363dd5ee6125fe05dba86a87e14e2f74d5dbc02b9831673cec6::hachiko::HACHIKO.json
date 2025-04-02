@@ -1,0 +1,13 @@
+{
+  "name": "Hachiko",
+  "symbol": "Hachiko",
+  "decimals": 9,
+  "coin_type": "0xdf6014cf89b81363dd5ee6125fe05dba86a87e14e2f74d5dbc02b9831673cec6::hachiko::HACHIKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ebc4dc29-0d6e-4333-99b9-a8cfe1276ec0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

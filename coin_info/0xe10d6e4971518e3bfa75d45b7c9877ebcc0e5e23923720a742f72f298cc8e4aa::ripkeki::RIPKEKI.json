@@ -1,0 +1,13 @@
+{
+  "name": "Rip Kekius Maximus",
+  "symbol": "RIPKEKI",
+  "decimals": 9,
+  "coin_type": "0xe10d6e4971518e3bfa75d45b7c9877ebcc0e5e23923720a742f72f298cc8e4aa::ripkeki::RIPKEKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x16ed2931cb79f26b7a9de5b5d39cadad7af0399a.png?size=lg&key=e0b8fc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

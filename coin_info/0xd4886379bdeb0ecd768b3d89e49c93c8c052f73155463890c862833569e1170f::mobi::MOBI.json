@@ -1,0 +1,13 @@
+{
+  "name": "MOBI",
+  "symbol": "MOBi",
+  "decimals": 9,
+  "coin_type": "0xd4886379bdeb0ecd768b3d89e49c93c8c052f73155463890c862833569e1170f::mobi::MOBI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://red-legislative-sawfish-352.mypinata.cloud/ipfs/QmWNHd1eKmAXMoBof5LaAh9pEMBencN9KumfJ8KapCFzFF?pinataGatewayToken=qwXZ2V8f36cUnXhRN8WejldrMXAV9ybajZho4GEPLei95CQZ1fgKR_W8BqgDfTVM",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Lumpy Loop The God",
+  "symbol": "Lumpy",
+  "decimals": 9,
+  "coin_type": "0x8c380640aee4310395f2c55efd365efb6c11b242baa5462dc33793173ef99a6d::lumpyloopthegod::LUMPYLOOPTHEGOD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/60373a79-30cc-4f21-a97a-cdbfa7181199.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

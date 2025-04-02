@@ -1,0 +1,13 @@
+{
+  "name": "BITCORN",
+  "symbol": "BITCORN",
+  "decimals": 9,
+  "coin_type": "0x115c47e4bfaede8e964a8552a70c96bae5587e3f33a4ca35978530d064de4df5::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

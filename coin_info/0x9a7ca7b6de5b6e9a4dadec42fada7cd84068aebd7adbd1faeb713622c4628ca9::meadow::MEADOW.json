@@ -1,0 +1,15 @@
+{
+  "name": "Meadow",
+  "symbol": "MED",
+  "decimals": 9,
+  "coin_type": "0x9a7ca7b6de5b6e9a4dadec42fada7cd84068aebd7adbd1faeb713622c4628ca9::meadow::MEADOW",
+  "pyth_id": "",
+  "birdeyeid": "0x9a7ca7b6de5b6e9a4dadec42fada7cd84068aebd7adbd1faeb713622c4628ca9::meadow::MEADOW",
+  "coin_priority": [
+    "670"
+  ],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/meadow.png",
+  "project_url": "",
+  "coingecko_id": "meadow",
+  "is_trusted": true
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ChadGPT",
+  "symbol": "GIGA",
+  "decimals": 9,
+  "coin_type": "0xb0d1f3799b3c630b5513fe1556cd11a71268e6e6cac6b8ee52f122e2323f9efa::giga::GIGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/N2jAJu9ymjNwvKuSWJ4EvmS94MsxkNGL64g2xPPpump.png?size=lg&key=ac7d74",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Dave",
+  "symbol": "DAVE",
+  "decimals": 9,
+  "coin_type": "0x015402862e1fc545783762eb69fe16ab038a50dda329e120bbb43fb90a0dd217::dave::DAVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AyC3vxC3JWX5iK7HjzLm3iKRVPQQR163JifcRom9pump.png?size=xl&key=c1f108",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

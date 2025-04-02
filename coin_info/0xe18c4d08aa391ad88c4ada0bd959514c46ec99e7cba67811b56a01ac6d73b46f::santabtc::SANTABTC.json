@@ -1,0 +1,13 @@
+{
+  "name": "Santa Bitcoin",
+  "symbol": "SANTABTC",
+  "decimals": 9,
+  "coin_type": "0xe18c4d08aa391ad88c4ada0bd959514c46ec99e7cba67811b56a01ac6d73b46f::santabtc::SANTABTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3NTXFMCBu8BF6M4X7T5CqgaumBHrBJb8hhefruNjpump.png?size=lg&key=0dec2e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

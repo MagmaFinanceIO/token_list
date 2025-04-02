@@ -1,0 +1,13 @@
+{
+  "name": "FRENCH",
+  "symbol": "french",
+  "decimals": 9,
+  "coin_type": "0x36afb0c859f2fb3baf4fa5b08d859c1aa8d30439745efedbd77b2d412788373e::french::FRENCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "example.com",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

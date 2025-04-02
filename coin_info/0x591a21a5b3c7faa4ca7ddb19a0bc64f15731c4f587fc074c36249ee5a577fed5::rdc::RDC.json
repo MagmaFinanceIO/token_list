@@ -1,0 +1,13 @@
+{
+  "name": "Ridiculous",
+  "symbol": "RDC",
+  "decimals": 9,
+  "coin_type": "0x591a21a5b3c7faa4ca7ddb19a0bc64f15731c4f587fc074c36249ee5a577fed5::rdc::RDC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e2fb6f1d-c612-487e-88e2-5c522ddee8af.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

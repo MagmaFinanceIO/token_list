@@ -1,0 +1,13 @@
+{
+  "name": "Popfish",
+  "symbol": "POPFISH",
+  "decimals": 6,
+  "coin_type": "0x0be2c79c5f3e165518e3b3a420a4e35c134e87d8d0f6034ecb5b633f02dd935c::popfish::POPFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0383_5ba80109b7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

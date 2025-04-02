@@ -1,0 +1,13 @@
+{
+  "name": "Fayte AI",
+  "symbol": "FAYTE",
+  "decimals": 9,
+  "coin_type": "0x012247d0c9a32e44e4df62fcaf70e37cf59da0550778b1ae5528c552fc1ffc42::fayte::FAYTE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7ZSDihRzYvrQLfK5rZ69QYNgE7KLuBSbUFWTLMkdpump.png?size=lg&key=0e1a88",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

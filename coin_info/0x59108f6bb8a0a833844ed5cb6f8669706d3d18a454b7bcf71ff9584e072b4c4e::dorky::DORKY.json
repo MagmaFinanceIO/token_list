@@ -1,0 +1,13 @@
+{
+  "name": "DorkySui",
+  "symbol": "Dorky",
+  "decimals": 6,
+  "coin_type": "0x59108f6bb8a0a833844ed5cb6f8669706d3d18a454b7bcf71ff9584e072b4c4e::dorky::DORKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_16_074301675_7037d1b65f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuiPunks",
+  "symbol": "Punks",
+  "decimals": 6,
+  "coin_type": "0xb3dcb716ea56bc265d4a63197cbd4c785b98c51176b7a51755e0d9c394bf25b2::punks::PUNKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/punk_9a9b79a239.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

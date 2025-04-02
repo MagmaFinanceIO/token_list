@@ -1,0 +1,13 @@
+{
+  "name": "SUI DOGE",
+  "symbol": "sDOGE",
+  "decimals": 9,
+  "coin_type": "0xf861e6b785cf34e486574ea26f45411a5639ee2e5aec66f86ee8b8d025c29551::sdoge::SDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.wikimedia.org/wikipedia/en/d/d0/Dogecoin_Logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

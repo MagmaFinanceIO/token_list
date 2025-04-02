@@ -1,0 +1,13 @@
+{
+  "name": "First Clone-born animal",
+  "symbol": "SIBERT",
+  "decimals": 9,
+  "coin_type": "0x5c40a4b9cf613733bd06c3a09015d5e2d508b1036dbb877c862c3aa2952993b1::sibert::SIBERT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQUWaedi3pzCYzUE9rw8kDNU1jwV8kdPGSq1zbb7U2LoB",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

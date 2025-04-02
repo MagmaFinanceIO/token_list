@@ -1,0 +1,13 @@
+{
+  "name": "Microstrategy",
+  "symbol": "MSTR",
+  "decimals": 9,
+  "coin_type": "0xfb2121aee40d3001960b4a2ac7f5de09158cab195b6b1ce14b5997e0b8556840::mstr::MSTR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/058c909a-cab6-4338-b067-a2ad7b3b0f32.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

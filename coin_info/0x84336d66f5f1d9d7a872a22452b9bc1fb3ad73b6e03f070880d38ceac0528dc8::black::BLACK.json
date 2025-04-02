@@ -1,0 +1,13 @@
+{
+  "name": "Black Cat",
+  "symbol": "BLACK",
+  "decimals": 4,
+  "coin_type": "0x84336d66f5f1d9d7a872a22452b9bc1fb3ad73b6e03f070880d38ceac0528dc8::black::BLACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1407b3ed-c95b-426e-b25b-8a284adc9744.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

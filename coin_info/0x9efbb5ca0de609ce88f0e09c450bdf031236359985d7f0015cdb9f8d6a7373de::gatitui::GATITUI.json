@@ -1,0 +1,13 @@
+{
+  "name": "GATITO SUI",
+  "symbol": "GATITUI",
+  "decimals": 9,
+  "coin_type": "0x9efbb5ca0de609ce88f0e09c450bdf031236359985d7f0015cdb9f8d6a7373de::gatitui::GATITUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8806f6a8-89e3-4fa1-847f-9017725c7507.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

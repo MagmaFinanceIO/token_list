@@ -1,0 +1,13 @@
+{
+  "name": "Ailien by SuiAI",
+  "symbol": "AILIEN",
+  "decimals": 6,
+  "coin_type": "0x5a3ccf01052272e4f60a67ccc3911cc8113b072f692b76a484042b67e2c5835d::ailien::AILIEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000001470_ceb0fe67ab.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

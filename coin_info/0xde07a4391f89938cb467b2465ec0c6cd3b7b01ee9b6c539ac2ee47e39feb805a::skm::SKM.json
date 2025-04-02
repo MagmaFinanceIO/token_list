@@ -1,0 +1,13 @@
+{
+  "name": "SITISI NIKIMITI",
+  "symbol": "SKM",
+  "decimals": 6,
+  "coin_type": "0xde07a4391f89938cb467b2465ec0c6cd3b7b01ee9b6c539ac2ee47e39feb805a::skm::SKM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/satoshi_nakamto_1bb7ffb454.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

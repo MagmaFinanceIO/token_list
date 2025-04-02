@@ -1,0 +1,13 @@
+{
+  "name": "Aassui",
+  "symbol": "Aasui",
+  "decimals": 9,
+  "coin_type": "0xd1915e0e33a7435248b78340154bc78c7586726aa0532eee8948fcc6401caf8b::aasui::AASUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c78f7972-9001-42d0-b6dc-2c26f2e327eb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

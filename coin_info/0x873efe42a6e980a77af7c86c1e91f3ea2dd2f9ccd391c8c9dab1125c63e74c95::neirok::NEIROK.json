@@ -1,0 +1,13 @@
+{
+  "name": "Neiro Grok",
+  "symbol": "NEIROK",
+  "decimals": 6,
+  "coin_type": "0x873efe42a6e980a77af7c86c1e91f3ea2dd2f9ccd391c8c9dab1125c63e74c95::neirok::NEIROK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "http://movepump.xyz/uploads/Profpic_neirok_a41db4e514.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

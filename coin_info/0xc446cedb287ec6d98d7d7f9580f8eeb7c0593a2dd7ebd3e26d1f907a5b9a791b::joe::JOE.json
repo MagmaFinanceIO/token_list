@@ -1,0 +1,13 @@
+{
+  "name": "Depressed Joe",
+  "symbol": "JOE",
+  "decimals": 6,
+  "coin_type": "0xc446cedb287ec6d98d7d7f9580f8eeb7c0593a2dd7ebd3e26d1f907a5b9a791b::joe::JOE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PFP_trans_3_8fb081f5b3.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BUNNY MEME",
+  "symbol": "BUNNY",
+  "decimals": 6,
+  "coin_type": "0xc5aa2099de80a197b3fc47ff74d84c755d907b141fe89e68a0b6801d63f6e044::bunny::BUNNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/p_Llw_HM_Qk_400x400_adb55b4216.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

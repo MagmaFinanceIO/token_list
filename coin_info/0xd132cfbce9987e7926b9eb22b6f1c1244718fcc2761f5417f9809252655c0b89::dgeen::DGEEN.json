@@ -1,0 +1,13 @@
+{
+  "name": "Dgeenius Ulteemus",
+  "symbol": "DGEEN",
+  "decimals": 9,
+  "coin_type": "0xd132cfbce9987e7926b9eb22b6f1c1244718fcc2761f5417f9809252655c0b89::dgeen::DGEEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GU3LYRfX4b16ntquxVYvAmYPcYfSGicySrTWWYGBpump.png?size=lg&key=673135",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

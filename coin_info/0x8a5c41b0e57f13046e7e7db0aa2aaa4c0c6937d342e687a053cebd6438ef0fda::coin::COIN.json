@@ -1,0 +1,13 @@
+{
+  "name": "Aptos Coin",
+  "symbol": "APT",
+  "decimals": 8,
+  "coin_type": "0x8a5c41b0e57f13046e7e7db0aa2aaa4c0c6937d342e687a053cebd6438ef0fda::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,15 @@
+{
+  "name": "SuiPad",
+  "symbol": "SUIP",
+  "decimals": 9,
+  "coin_type": "0xe4239cd951f6c53d9c41e25270d80d31f925ad1655e5ba5b543843d4a66975ee::SUIP::SUIP",
+  "pyth_id": "",
+  "birdeyeid": "0xe4239cd951f6c53d9c41e25270d80d31f925ad1655e5ba5b543843d4a66975ee::SUIP::SUIP",
+  "coin_priority": [
+    "780"
+  ],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/suip.png",
+  "project_url": "",
+  "coingecko_id": "suipad",
+  "is_trusted": true
+}

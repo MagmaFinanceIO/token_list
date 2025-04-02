@@ -1,0 +1,13 @@
+{
+  "name": "Official Satoshi Nakamoto",
+  "symbol": "STS",
+  "decimals": 9,
+  "coin_type": "0x0b9a1c8b0887973641a954b55317c89472b8b34dabd1c35de287f0a196f745a5::sts::STS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HR8XXXMDrNFBsYrVXu3rioxHe1uZGrocrZGofKcMpump.png?size=lg&key=49a610",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

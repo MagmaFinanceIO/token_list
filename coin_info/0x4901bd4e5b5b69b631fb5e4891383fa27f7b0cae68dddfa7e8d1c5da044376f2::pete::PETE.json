@@ -1,0 +1,13 @@
+{
+  "name": "Pete",
+  "symbol": "PETE",
+  "decimals": 9,
+  "coin_type": "0x4901bd4e5b5b69b631fb5e4891383fa27f7b0cae68dddfa7e8d1c5da044376f2::pete::PETE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/10fc9c0e-f1f0-49db-9242-3313265605b9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sphooky",
+  "symbol": "Sphooky",
+  "decimals": 9,
+  "coin_type": "0x66ff37fba0cdb28d6d370c6f8466e67ddd49c2bb36a2b30fed50a763ed2cbfc3::sphooky::SPHOOKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1201d720-1c3d-4721-8ad5-8895be54ee5f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

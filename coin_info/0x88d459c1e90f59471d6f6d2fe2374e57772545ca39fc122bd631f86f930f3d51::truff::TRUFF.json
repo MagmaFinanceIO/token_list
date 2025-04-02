@@ -1,0 +1,13 @@
+{
+  "name": "Truffle Token",
+  "symbol": "TRUFF",
+  "decimals": 9,
+  "coin_type": "0x88d459c1e90f59471d6f6d2fe2374e57772545ca39fc122bd631f86f930f3d51::truff::TRUFF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AJ4WgaM2rqJg51FVatUEL63c9tPrmcQH8f6nvVdjpump.png?size=lg&key=c147e0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

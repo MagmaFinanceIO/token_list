@@ -1,0 +1,13 @@
+{
+  "name": "BULLCAT",
+  "symbol": "BULLCAT",
+  "decimals": 9,
+  "coin_type": "0x8bbe77a2067655e3db07e190c6fd0e67ba6f84bfbffd092bacc1e0594f877bdb::bullcat::BULLCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GmTXrcQtTvnzJoTJANqmbbBE9FpFwnmHCDsFHpCKpump.png?size=lg&key=67b826",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

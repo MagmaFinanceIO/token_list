@@ -1,0 +1,13 @@
+{
+  "name": "doge on sui",
+  "symbol": "SDOGE",
+  "decimals": 9,
+  "coin_type": "0x3ae7e484e49caf6864c9a5d27239975f58bb68733d600ed9ff5741040d5a7a0e::sdoge::SDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

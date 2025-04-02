@@ -1,0 +1,13 @@
+{
+  "name": "Money Team Chonpy",
+  "symbol": "CHONPY",
+  "decimals": 9,
+  "coin_type": "0x484e4677e04907b26c1179936d140e512301e0d70b4631b0c1395a3fe8927341::chonpy::CHONPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ed42019c-7c23-4d23-af47-d39eab18d6e1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

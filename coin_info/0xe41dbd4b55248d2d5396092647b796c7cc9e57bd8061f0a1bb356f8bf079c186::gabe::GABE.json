@@ -1,0 +1,13 @@
+{
+  "name": "Gabe",
+  "symbol": "GABE",
+  "decimals": 9,
+  "coin_type": "0xe41dbd4b55248d2d5396092647b796c7cc9e57bd8061f0a1bb356f8bf079c186::gabe::GABE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1bb4ddda-eb33-4e0d-b20b-53524b977e33.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

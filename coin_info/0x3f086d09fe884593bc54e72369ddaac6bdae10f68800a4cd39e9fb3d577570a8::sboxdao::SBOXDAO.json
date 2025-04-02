@@ -1,0 +1,13 @@
+{
+  "name": "SBOX Community DAO",
+  "symbol": "SBOXDAO",
+  "decimals": 9,
+  "coin_type": "0x3f086d09fe884593bc54e72369ddaac6bdae10f68800a4cd39e9fb3d577570a8::sboxdao::SBOXDAO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://public-cdn.daossui.io/assets/tokens/24191000-e081-11ef-9eb9-99543e8f5bed",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

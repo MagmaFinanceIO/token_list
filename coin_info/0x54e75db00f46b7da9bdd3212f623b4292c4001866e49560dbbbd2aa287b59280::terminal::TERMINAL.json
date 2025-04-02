@@ -1,0 +1,13 @@
+{
+  "name": "TERMINAL OF SUI",
+  "symbol": "TERMINAL",
+  "decimals": 6,
+  "coin_type": "0x54e75db00f46b7da9bdd3212f623b4292c4001866e49560dbbbd2aa287b59280::terminal::TERMINAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1_8d38a82919.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

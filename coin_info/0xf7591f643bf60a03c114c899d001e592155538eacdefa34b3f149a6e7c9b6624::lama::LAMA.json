@@ -1,0 +1,13 @@
+{
+  "name": "LAMA-CTO",
+  "symbol": "LAMA",
+  "decimals": 9,
+  "coin_type": "0xf7591f643bf60a03c114c899d001e592155538eacdefa34b3f149a6e7c9b6624::lama::LAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EDHrQBSssKYGNht9FZMhB9zzf52MZaBe4N35iyRgpump.png?size=lg&key=45313a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

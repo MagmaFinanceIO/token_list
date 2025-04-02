@@ -1,0 +1,13 @@
+{
+  "name": "ORBAI SUI",
+  "symbol": "ORBAI",
+  "decimals": 9,
+  "coin_type": "0x7b87865c8f687fe335bd12019c963e4cec7d579b07a560c401bae2fb34eb8723::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

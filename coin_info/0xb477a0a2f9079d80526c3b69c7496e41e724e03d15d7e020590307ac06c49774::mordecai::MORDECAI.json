@@ -1,0 +1,13 @@
+{
+  "name": "Mordecai on Sui",
+  "symbol": "MORDECAI",
+  "decimals": 6,
+  "coin_type": "0xb477a0a2f9079d80526c3b69c7496e41e724e03d15d7e020590307ac06c49774::mordecai::MORDECAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Morde_PP_92c25f96aa.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

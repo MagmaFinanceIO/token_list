@@ -1,0 +1,13 @@
+{
+  "name": "Distrikt App",
+  "symbol": "APP",
+  "decimals": 6,
+  "coin_type": "0x66ae3d4cb16c1c09d4d95bef0b45fcc18a102d8896ed04e9562155fce2ffe148::app::APP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5e23cb4e-4e81-426b-94de-20f34afd64aa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

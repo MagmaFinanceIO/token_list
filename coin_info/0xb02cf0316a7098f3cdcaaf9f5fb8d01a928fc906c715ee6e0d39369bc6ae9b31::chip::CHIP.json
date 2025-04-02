@@ -1,0 +1,13 @@
+{
+  "name": "CHIPMUNKS",
+  "symbol": "CHIP",
+  "decimals": 9,
+  "coin_type": "0xb02cf0316a7098f3cdcaaf9f5fb8d01a928fc906c715ee6e0d39369bc6ae9b31::chip::CHIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6BBSHAXduBu8u5rwAgtaAurzFjwYh3FLsLQkLfUZpump.png?size=lg&key=4c3d73",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

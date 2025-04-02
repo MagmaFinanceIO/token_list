@@ -1,0 +1,13 @@
+{
+  "name": "Pac Hat",
+  "symbol": "PACHAT",
+  "decimals": 9,
+  "coin_type": "0x4bb6493e35c3a605dc0a8fbdc3608aa5c55efcb3744c4074fed5ba0dd3b275d5::pachat::PACHAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BfR85571aW39rkSwLgD5yYHApyijDuNRFSkGuYogpump.png?size=lg&key=117d82",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

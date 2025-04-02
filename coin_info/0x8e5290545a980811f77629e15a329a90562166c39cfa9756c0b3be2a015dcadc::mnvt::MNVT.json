@@ -1,0 +1,13 @@
+{
+  "name": "MoonVault Ai",
+  "symbol": "MNVT",
+  "decimals": 9,
+  "coin_type": "0x8e5290545a980811f77629e15a329a90562166c39cfa9756c0b3be2a015dcadc::mnvt::MNVT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "lHp8EZt8tMyw9O2U",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

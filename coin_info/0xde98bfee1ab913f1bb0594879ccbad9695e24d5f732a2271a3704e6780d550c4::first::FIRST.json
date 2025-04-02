@@ -1,0 +1,13 @@
+{
+  "name": "First Project",
+  "symbol": "FIRST",
+  "decimals": 6,
+  "coin_type": "0xde98bfee1ab913f1bb0594879ccbad9695e24d5f732a2271a3704e6780d550c4::first::FIRST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730947034529.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

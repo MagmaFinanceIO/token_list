@@ -1,0 +1,13 @@
+{
+  "name": "Trump Peanut",
+  "symbol": "TrumPnut",
+  "decimals": 9,
+  "coin_type": "0x40c4a08a003c6ccf4ab25404d3c03bd0e898b9e7698c4f08434d4d61bb14f7bc::trumpnut::TRUMPNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f755dcc8-0b82-4bbc-acc5-99afaeee970c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

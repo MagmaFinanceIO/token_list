@@ -1,0 +1,13 @@
+{
+  "name": "Rug pull",
+  "symbol": "RUG",
+  "decimals": 6,
+  "coin_type": "0x337b2e655953959accc312201f8243f416180f3e607bcee49c69fe21190cc086::rug::RUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ae_a_2024_09_16_21_25_05_a14567bfde.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

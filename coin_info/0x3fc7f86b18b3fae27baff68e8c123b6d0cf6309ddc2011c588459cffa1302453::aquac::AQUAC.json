@@ -1,0 +1,13 @@
+{
+  "name": "Aquatic Aces",
+  "symbol": "AQUAC",
+  "decimals": 6,
+  "coin_type": "0x3fc7f86b18b3fae27baff68e8c123b6d0cf6309ddc2011c588459cffa1302453::aquac::AQUAC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/162d18e7-dd70-4bab-9265-4bed790eac2d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

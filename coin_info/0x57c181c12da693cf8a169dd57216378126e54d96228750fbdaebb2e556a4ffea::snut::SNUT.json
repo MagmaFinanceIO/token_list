@@ -1,0 +1,13 @@
+{
+  "name": "SNUT - ARC ON SUI",
+  "symbol": "SNUT",
+  "decimals": 9,
+  "coin_type": "0x57c181c12da693cf8a169dd57216378126e54d96228750fbdaebb2e556a4ffea::snut::SNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/d1e12f3d7d071e5516bc94c38fd4cc31blob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

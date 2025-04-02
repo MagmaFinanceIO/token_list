@@ -1,0 +1,13 @@
+{
+  "name": "REAL",
+  "symbol": "REAL",
+  "decimals": 9,
+  "coin_type": "0x729d2139f9a89135a0758a097e3849f90e25a3d2cd7288af162090a5ab74969e::real::REAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

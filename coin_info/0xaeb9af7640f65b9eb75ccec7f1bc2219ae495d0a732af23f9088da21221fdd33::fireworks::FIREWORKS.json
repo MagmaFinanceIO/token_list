@@ -1,0 +1,13 @@
+{
+  "name": "FIREWORKS",
+  "symbol": "FIREWORKS",
+  "decimals": 9,
+  "coin_type": "0xaeb9af7640f65b9eb75ccec7f1bc2219ae495d0a732af23f9088da21221fdd33::fireworks::FIREWORKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6JAeEZsp4HvZZuRCLWLbvTg7f4gdpcWS6xJzLQKepump.png?size=lg&key=c6759d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

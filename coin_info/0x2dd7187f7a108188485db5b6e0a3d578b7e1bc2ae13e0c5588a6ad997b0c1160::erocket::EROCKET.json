@@ -1,0 +1,13 @@
+{
+  "name": "Elon rocket",
+  "symbol": "Erocket",
+  "decimals": 9,
+  "coin_type": "0x2dd7187f7a108188485db5b6e0a3d578b7e1bc2ae13e0c5588a6ad997b0c1160::erocket::EROCKET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/20f45deb-38d8-4e4c-b278-8889158d7571.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

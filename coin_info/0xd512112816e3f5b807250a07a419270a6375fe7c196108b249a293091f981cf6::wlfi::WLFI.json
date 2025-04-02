@@ -1,0 +1,13 @@
+{
+  "name": "WorldLibertyFin",
+  "symbol": "WLFI",
+  "decimals": 9,
+  "coin_type": "0xd512112816e3f5b807250a07a419270a6375fe7c196108b249a293091f981cf6::wlfi::WLFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FFKsQ6zW97zdd93dMavxTkruebkTRf3nHavorYeqafUG.png?size=lg&key=7b4fd3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

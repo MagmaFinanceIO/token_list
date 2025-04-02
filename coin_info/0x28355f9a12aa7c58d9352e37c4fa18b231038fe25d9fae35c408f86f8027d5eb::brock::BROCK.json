@@ -1,0 +1,13 @@
+{
+  "name": "BLUE ROCK",
+  "symbol": "BROCK",
+  "decimals": 9,
+  "coin_type": "0x28355f9a12aa7c58d9352e37c4fa18b231038fe25d9fae35c408f86f8027d5eb::brock::BROCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/17f13d47-915c-4d25-a597-0d4a9e9c5b55.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Saku Garden",
+  "symbol": "SAKU",
+  "decimals": 6,
+  "coin_type": "0x7f37dbb1f6f55ce30c3c0a18770191f14ad96a31360e94c34869b12e623cbc8c::saku::SAKU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Yug_UTCZJ_Du9_Udyg_HY_Ybq_Edcn62_S_Akx_J1n_FU_Mqn_R143_We_0510c21e7f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

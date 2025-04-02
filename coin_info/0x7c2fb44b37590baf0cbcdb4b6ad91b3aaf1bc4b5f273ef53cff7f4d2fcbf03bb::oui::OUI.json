@@ -1,0 +1,13 @@
+{
+  "name": "OuiOnSui",
+  "symbol": "Oui",
+  "decimals": 6,
+  "coin_type": "0x7c2fb44b37590baf0cbcdb4b6ad91b3aaf1bc4b5f273ef53cff7f4d2fcbf03bb::oui::OUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/oui_1_56dafff99b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

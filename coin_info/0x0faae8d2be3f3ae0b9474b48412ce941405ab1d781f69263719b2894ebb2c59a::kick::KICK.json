@@ -1,0 +1,13 @@
+{
+  "name": "KICK Coin",
+  "symbol": "KICK",
+  "decimals": 9,
+  "coin_type": "0x0faae8d2be3f3ae0b9474b48412ce941405ab1d781f69263719b2894ebb2c59a::kick::KICK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/L3pPxdYbZDY11UJg9avmEdkoEDvtqMdTCR98FF4pump.png?size=lg&key=6dc8d8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

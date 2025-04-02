@@ -1,0 +1,13 @@
+{
+  "name": "BARRON ON SUI",
+  "symbol": "BARRON",
+  "decimals": 9,
+  "coin_type": "0x8bc758f60a65dd12662122c74e8f53a1ce9148bbc21f2280184ed4a93e170dfc::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

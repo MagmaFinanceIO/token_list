@@ -1,0 +1,13 @@
+{
+  "name": "Bolt AI",
+  "symbol": "BOLTAI",
+  "decimals": 9,
+  "coin_type": "0xe9d9575216e8459678a7d403080fd2130d7c9d7fd31da65b04eea68308198549::boltai::BOLTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6P7emJG6eErTv8KZhxRJDsFUdLxrx4eKs2td4B4npump.png?size=lg&key=5dafd5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mad Cat",
+  "symbol": "MADCAT",
+  "decimals": 6,
+  "coin_type": "0x9bbd4d7ccb794e0c3270ab84d4c1bbd13bf2fe1743fa3a96f921c8515d9db0c5::madcat::MADCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1299_7db60d0a90.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

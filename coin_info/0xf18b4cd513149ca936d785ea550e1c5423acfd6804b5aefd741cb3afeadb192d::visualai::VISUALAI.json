@@ -1,0 +1,13 @@
+{
+  "name": "Visual.Ai",
+  "symbol": "VISUALAI",
+  "decimals": 6,
+  "coin_type": "0xf18b4cd513149ca936d785ea550e1c5423acfd6804b5aefd741cb3afeadb192d::visualai::VISUALAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000268039_dbd5c724f4.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

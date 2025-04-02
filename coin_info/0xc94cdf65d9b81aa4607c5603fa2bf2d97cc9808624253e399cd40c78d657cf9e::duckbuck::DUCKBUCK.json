@@ -1,0 +1,13 @@
+{
+  "name": "DUCK BUCK AI",
+  "symbol": "DUCKBUCK",
+  "decimals": 9,
+  "coin_type": "0xc94cdf65d9b81aa4607c5603fa2bf2d97cc9808624253e399cd40c78d657cf9e::duckbuck::DUCKBUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b54d0e3a-f284-4708-bdf6-db5d7f4a64de.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

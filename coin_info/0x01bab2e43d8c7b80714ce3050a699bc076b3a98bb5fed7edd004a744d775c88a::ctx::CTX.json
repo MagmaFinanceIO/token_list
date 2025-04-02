@@ -1,0 +1,13 @@
+{
+  "name": "Suilend",
+  "symbol": "SEND",
+  "decimals": 9,
+  "coin_type": "0x01bab2e43d8c7b80714ce3050a699bc076b3a98bb5fed7edd004a744d775c88a::ctx::CTX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/oCqlM51.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

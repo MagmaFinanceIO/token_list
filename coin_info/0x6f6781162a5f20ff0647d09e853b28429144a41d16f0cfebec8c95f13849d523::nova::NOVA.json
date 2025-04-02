@@ -1,0 +1,13 @@
+{
+  "name": "Nova AI by SuiAI",
+  "symbol": "NOVA",
+  "decimals": 6,
+  "coin_type": "0x6f6781162a5f20ff0647d09e853b28429144a41d16f0cfebec8c95f13849d523::nova::NOVA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/niova_4a13d4a131.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

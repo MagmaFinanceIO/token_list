@@ -1,0 +1,13 @@
+{
+  "name": "VEST ON SUI",
+  "symbol": "VEST",
+  "decimals": 9,
+  "coin_type": "0x05206e4d5a9e83a9c22724978a95e4c7860b01b0c61abb4e4b2882ff576d6587::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

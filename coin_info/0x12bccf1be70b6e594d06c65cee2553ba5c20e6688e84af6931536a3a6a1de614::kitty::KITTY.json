@@ -1,0 +1,13 @@
+{
+  "name": "SUI KITTY",
+  "symbol": "KITTY",
+  "decimals": 9,
+  "coin_type": "0x12bccf1be70b6e594d06c65cee2553ba5c20e6688e84af6931536a3a6a1de614::kitty::KITTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1f0ccbc9-3f9a-44d2-be74-9b66dc01f64c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

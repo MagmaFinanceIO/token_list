@@ -1,0 +1,13 @@
+{
+  "name": "Jesui",
+  "symbol": "Jesui",
+  "decimals": 9,
+  "coin_type": "0xe4be05c06d2a661716953ba075cd5a07e60530b88c7df463b3fc19e9c61ef552::jesui::JESUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ac004b32-b118-4601-8f50-a135c759fff3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

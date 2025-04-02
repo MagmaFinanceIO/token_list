@@ -1,0 +1,13 @@
+{
+  "name": "Lofi",
+  "symbol": "LOFI",
+  "decimals": 9,
+  "coin_type": "0xe8cfd6e60a89ff7bf0f57e77decadd9482b1642781926392b5671435497ec65a::lofi::LOFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/fM8QZXh/LOFI-PFP.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

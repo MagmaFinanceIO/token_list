@@ -1,0 +1,13 @@
+{
+  "name": "SUICY",
+  "symbol": "SUICY",
+  "decimals": 9,
+  "coin_type": "0xaba31e2b897593900456fc92326f834ceb087c4793cea193d99e55606cd8cca1::suicy::SUICY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmYeve6vnXnNWrhwLBKkugb1hDJNjkpP2tj64Y2HWJeKSf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

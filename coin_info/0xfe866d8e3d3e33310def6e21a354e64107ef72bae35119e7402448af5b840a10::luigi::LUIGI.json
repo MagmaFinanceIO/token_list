@@ -1,0 +1,13 @@
+{
+  "name": "Luigi Mangione",
+  "symbol": "LUIGI",
+  "decimals": 6,
+  "coin_type": "0xfe866d8e3d3e33310def6e21a354e64107ef72bae35119e7402448af5b840a10::luigi::LUIGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e5554a96-01a6-490b-a819-7a4da53053a9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

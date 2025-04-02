@@ -1,0 +1,13 @@
+{
+  "name": "PROFIT",
+  "symbol": "PROFIT",
+  "decimals": 9,
+  "coin_type": "0xfb0d8f08f8f527a44b88abf62b8006401223a328e7069a06e80d1ffdbe5f88cf::profit::PROFIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fd8915f3-4488-4432-97af-d25386233f36.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

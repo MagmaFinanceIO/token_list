@@ -1,0 +1,13 @@
+{
+  "name": "Suigetsu",
+  "symbol": "GETSU",
+  "decimals": 9,
+  "coin_type": "0x741638efd73f3bd0978dcf568c6614acfeac69175a63eb43747d6b2e129c8c5c::getsu::GETSU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/16691ab6-105f-441f-bd6f-081ed391c8ad.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

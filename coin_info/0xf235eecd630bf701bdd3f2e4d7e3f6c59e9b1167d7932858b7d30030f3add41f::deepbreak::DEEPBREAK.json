@@ -1,0 +1,13 @@
+{
+  "name": "DeepBreak",
+  "symbol": "DeepBreak",
+  "decimals": 9,
+  "coin_type": "0xf235eecd630bf701bdd3f2e4d7e3f6c59e9b1167d7932858b7d30030f3add41f::deepbreak::DEEPBREAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FQWsVhZS9b1NeNkBZD7mwKJD8XfXbBks5Q7Ph7Yepump.png?size=lg&key=dfa04a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

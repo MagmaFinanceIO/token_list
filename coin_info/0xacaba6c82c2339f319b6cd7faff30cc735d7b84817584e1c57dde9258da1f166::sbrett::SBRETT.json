@@ -1,0 +1,13 @@
+{
+  "name": "SUIBRETT",
+  "symbol": "SBRETT",
+  "decimals": 6,
+  "coin_type": "0xacaba6c82c2339f319b6cd7faff30cc735d7b84817584e1c57dde9258da1f166::sbrett::SBRETT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f3aaa6e8-0459-43e3-b988-799da0de9597.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

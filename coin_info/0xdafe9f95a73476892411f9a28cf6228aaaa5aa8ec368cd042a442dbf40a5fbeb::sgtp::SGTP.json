@@ -1,0 +1,13 @@
+{
+  "name": "Sui Gpt Tools by SuiAI",
+  "symbol": "SGTP",
+  "decimals": 6,
+  "coin_type": "0xdafe9f95a73476892411f9a28cf6228aaaa5aa8ec368cd042a442dbf40a5fbeb::sgtp::SGTP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/gpt_d22b9805ac.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

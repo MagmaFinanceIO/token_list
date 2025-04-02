@@ -1,0 +1,13 @@
+{
+  "name": "Suipurdo",
+  "symbol": "SUIDO",
+  "decimals": 6,
+  "coin_type": "0xec43d2f9282e3a443e4526132012496317d1146629d62693120d43d092acaa5c::suido::SUIDO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_Fix_8ec322deab.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

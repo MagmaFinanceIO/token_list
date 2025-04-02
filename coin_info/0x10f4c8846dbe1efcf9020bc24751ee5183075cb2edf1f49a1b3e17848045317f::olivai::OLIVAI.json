@@ -1,0 +1,13 @@
+{
+  "name": "olivAI by SuiAI",
+  "symbol": "OLIVAI",
+  "decimals": 6,
+  "coin_type": "0x10f4c8846dbe1efcf9020bc24751ee5183075cb2edf1f49a1b3e17848045317f::olivai::OLIVAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_20250113_011520_456_9eb2f93385.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

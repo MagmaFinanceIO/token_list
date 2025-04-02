@@ -1,0 +1,13 @@
+{
+  "name": "SONIC SNIPE BOT",
+  "symbol": "SONIC",
+  "decimals": 2,
+  "coin_type": "0x957dd80b20707d607e96fd64ac6217b27e1a2de94461009b7ee96033fb7fa94c::SONIC::SONIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.postimg.cc/hvS5wVx4/sonicsnipebot.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

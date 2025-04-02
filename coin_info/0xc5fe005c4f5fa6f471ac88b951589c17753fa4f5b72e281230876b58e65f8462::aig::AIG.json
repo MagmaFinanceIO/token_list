@@ -1,0 +1,13 @@
+{
+  "name": "AI Galactic Warfare on Sui Ecosystem",
+  "symbol": "AIG",
+  "decimals": 6,
+  "coin_type": "0xc5fe005c4f5fa6f471ac88b951589c17753fa4f5b72e281230876b58e65f8462::aig::AIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Nevtelen_829ae3ec7c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Fesh",
+  "symbol": "FESH",
+  "decimals": 9,
+  "coin_type": "0x1b67b00a89013e957b517c88eccdf08cf79426c8e9c312aa4a219acc729c51f4::fesh::FESH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/16ba1dd5-e9bf-4aee-b851-6fafa3bf86b1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

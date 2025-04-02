@@ -1,0 +1,13 @@
+{
+  "name": "Synapse AI",
+  "symbol": "SYNAPSE",
+  "decimals": 9,
+  "coin_type": "0xe0253e42b387b8c9c6493f89085d72bd819fec4b9e20c555d4e66559346ec253::synapse::SYNAPSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dexscreener.com/solana/4k97teyxtvzgeab2tbkszx3lk2phablhoq5u5wvr8scf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

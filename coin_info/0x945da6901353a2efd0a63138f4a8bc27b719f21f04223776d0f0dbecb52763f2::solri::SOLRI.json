@@ -1,0 +1,13 @@
+{
+  "name": "Solri",
+  "symbol": "SOLRI",
+  "decimals": 9,
+  "coin_type": "0x945da6901353a2efd0a63138f4a8bc27b719f21f04223776d0f0dbecb52763f2::solri::SOLRI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FLRoYJRKKDgRvJVYe8ybiVrw1Rd9VPqgc5F38e7Bkvkf.png?size=lg&key=d8f1c7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BLUB 104",
+  "symbol": "BLUB104",
+  "decimals": 9,
+  "coin_type": "0xc1db91e86c3a3864e8d5450b217f07437de5712363ce0273310cf9fde56a5dc9::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0xfa7ac3951fdca92c5200d468d31a365eb03b2be9936fde615e69f0c1274ad3a0::blub::blub.png?size=xl&key=015554",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

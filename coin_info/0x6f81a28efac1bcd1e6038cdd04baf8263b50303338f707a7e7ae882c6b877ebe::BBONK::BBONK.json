@@ -1,0 +1,13 @@
+{
+  "name": "BBONK",
+  "symbol": "Blub Bonk",
+  "decimals": 2,
+  "coin_type": "0x6f81a28efac1bcd1e6038cdd04baf8263b50303338f707a7e7ae882c6b877ebe::BBONK::BBONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/010eb023-7534-4175-85c7-009e2da00ef3.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

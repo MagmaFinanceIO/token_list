@@ -1,0 +1,13 @@
+{
+  "name": "FUN AI by SuiAI",
+  "symbol": "FUNAI",
+  "decimals": 6,
+  "coin_type": "0xedbf6d23680ac11875fa8fbdf892618bd7af28d36bb65f743b2e20d7cba97eb4::funai::FUNAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/download_0fe2198636.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

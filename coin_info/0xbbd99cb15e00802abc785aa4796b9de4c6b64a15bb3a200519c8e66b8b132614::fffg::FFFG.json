@@ -1,0 +1,13 @@
+{
+  "name": "DD",
+  "symbol": "FFFG",
+  "decimals": 9,
+  "coin_type": "0xbbd99cb15e00802abc785aa4796b9de4c6b64a15bb3a200519c8e66b8b132614::fffg::FFFG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump-static.cetus.zone/icon/08b3d00d-287a-405a-b083-cf1514047636",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

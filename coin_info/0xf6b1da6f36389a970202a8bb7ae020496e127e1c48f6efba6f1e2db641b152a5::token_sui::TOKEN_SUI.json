@@ -1,0 +1,13 @@
+{
+  "name": "Suizuki",
+  "symbol": "SZUKI",
+  "decimals": 9,
+  "coin_type": "0xf6b1da6f36389a970202a8bb7ae020496e127e1c48f6efba6f1e2db641b152a5::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://assets.coingecko.com/coins/images/34814/standard/200x200.png?1706123955",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

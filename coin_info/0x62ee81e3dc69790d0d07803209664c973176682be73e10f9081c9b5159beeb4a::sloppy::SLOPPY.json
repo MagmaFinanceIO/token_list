@@ -1,0 +1,13 @@
+{
+  "name": "Sloppy Joe",
+  "symbol": "SLOPPY",
+  "decimals": 9,
+  "coin_type": "0x62ee81e3dc69790d0d07803209664c973176682be73e10f9081c9b5159beeb4a::sloppy::SLOPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/69a96f8c-affa-402f-93d9-e1f61d6a4a4d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

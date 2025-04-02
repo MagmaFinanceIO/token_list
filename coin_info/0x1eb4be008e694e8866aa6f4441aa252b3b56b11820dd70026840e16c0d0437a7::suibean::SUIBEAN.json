@@ -1,0 +1,13 @@
+{
+  "name": "Sui Bean",
+  "symbol": "SUIBEAN",
+  "decimals": 9,
+  "coin_type": "0x1eb4be008e694e8866aa6f4441aa252b3b56b11820dd70026840e16c0d0437a7::suibean::SUIBEAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://purple-neat-mole-319.mypinata.cloud/ipfs/QmR9bnvqfSb1Hsw95Ajcr4DTEAu1ba2MeepLYy8X8KLLC4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

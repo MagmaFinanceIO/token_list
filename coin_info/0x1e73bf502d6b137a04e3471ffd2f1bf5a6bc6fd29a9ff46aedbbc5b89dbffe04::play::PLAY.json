@@ -1,0 +1,13 @@
+{
+  "name": "Last Play of 24",
+  "symbol": "PLAY",
+  "decimals": 9,
+  "coin_type": "0x1e73bf502d6b137a04e3471ffd2f1bf5a6bc6fd29a9ff46aedbbc5b89dbffe04::play::PLAY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4eVyqhSHGwf7xSv2MJpUKUumDFSUxxmuddgq7dYXP1ry.png?size=lg&key=9215cc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

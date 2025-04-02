@@ -1,0 +1,13 @@
+{
+  "name": "NPC",
+  "symbol": "NPC",
+  "decimals": 9,
+  "coin_type": "0x59740f4074674c9ac47851dbf8aa9a57abef71ba1ed8de2f82c48dcb4d4ce5cb::npc::NPC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Eq39Q9bwTx1YHY5pkHLVeahVA6JYZmmMJ71rPjQek3Hb.png?size=xl&key=ec67c3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

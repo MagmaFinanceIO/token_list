@@ -1,0 +1,15 @@
+{
+  "name": "Native USDC",
+  "symbol": "USDC",
+  "decimals": 6,
+  "coin_type": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+  "pyth_id": "eaa020c61cc479712813461ce153894a96a6c00b21ed0cfc2798d1f9a9e9c94a",
+  "birdeyeid": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+  "coin_priority": [
+    "991"
+  ],
+  "logo_url": "https://sigvc4wfhz5h7om4dg4y47mhiwnnzd77gatnd7hmqjadm7lt5ima.arweave.net/kg1RcsU-en-5nBm5jn2HRZrcj_8wJtH87IJANn1z6hg",
+  "project_url": "",
+  "coingecko_id": "usd-coin",
+  "is_trusted": true
+}

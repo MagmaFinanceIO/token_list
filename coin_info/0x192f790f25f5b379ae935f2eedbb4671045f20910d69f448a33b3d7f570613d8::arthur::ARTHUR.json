@@ -1,0 +1,13 @@
+{
+  "name": "Arthur The Aardvark Revolution",
+  "symbol": "ARTHUR",
+  "decimals": 9,
+  "coin_type": "0x192f790f25f5b379ae935f2eedbb4671045f20910d69f448a33b3d7f570613d8::arthur::ARTHUR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f3884daa-242d-488c-afcb-314a07794ebe.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

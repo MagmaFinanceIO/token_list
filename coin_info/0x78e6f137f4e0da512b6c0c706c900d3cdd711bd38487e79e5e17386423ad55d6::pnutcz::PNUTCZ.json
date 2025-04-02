@@ -1,0 +1,13 @@
+{
+  "name": "First Connected Squirrel with CZ",
+  "symbol": "PnutCZ",
+  "decimals": 9,
+  "coin_type": "0x78e6f137f4e0da512b6c0c706c900d3cdd711bd38487e79e5e17386423ad55d6::pnutcz::PNUTCZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmZKuhvsb4PjwuhbCqyKfrdWtpGfk1P3LYvPi7pSpTVvjV",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "YTUBE",
+  "symbol": "YTUBE",
+  "decimals": 9,
+  "coin_type": "0xee5f75ca3eb6268e48e231492de2d5f21dea1030ae011cb53eac093101270d6f::ytube::YTUBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/D4BVDXMtcPmBCpj2PBHGSqsGhVMqkCpAmND1NnBfyyR.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

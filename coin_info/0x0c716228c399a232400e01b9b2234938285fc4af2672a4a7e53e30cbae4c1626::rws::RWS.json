@@ -1,0 +1,13 @@
+{
+  "name": "RINGWINGSUI",
+  "symbol": "RWS",
+  "decimals": 9,
+  "coin_type": "0x0c716228c399a232400e01b9b2234938285fc4af2672a4a7e53e30cbae4c1626::rws::RWS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8915c391-9551-45f9-b47e-fd8496603670.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

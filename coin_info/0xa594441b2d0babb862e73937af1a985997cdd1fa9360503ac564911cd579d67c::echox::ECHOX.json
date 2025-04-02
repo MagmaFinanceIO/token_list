@@ -1,0 +1,13 @@
+{
+  "name": "EchoX Runner",
+  "symbol": "ECHOX",
+  "decimals": 6,
+  "coin_type": "0xa594441b2d0babb862e73937af1a985997cdd1fa9360503ac564911cd579d67c::echox::ECHOX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736713605538.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

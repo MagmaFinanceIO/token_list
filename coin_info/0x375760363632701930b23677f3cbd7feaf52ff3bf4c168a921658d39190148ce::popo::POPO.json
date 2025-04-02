@@ -1,0 +1,13 @@
+{
+  "name": "POPO THE CHILLDOG",
+  "symbol": "POPO",
+  "decimals": 9,
+  "coin_type": "0x375760363632701930b23677f3cbd7feaf52ff3bf4c168a921658d39190148ce::popo::POPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/675647e3-12f8-486e-b6bf-5b17b1b1f123.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

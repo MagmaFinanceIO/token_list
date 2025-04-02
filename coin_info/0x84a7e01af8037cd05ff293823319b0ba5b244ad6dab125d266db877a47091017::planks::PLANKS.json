@@ -1,0 +1,13 @@
+{
+  "name": "Plankton on Sui",
+  "symbol": "PLANKS",
+  "decimals": 6,
+  "coin_type": "0x84a7e01af8037cd05ff293823319b0ba5b244ad6dab125d266db877a47091017::planks::PLANKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logofix_c7dbe84908.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

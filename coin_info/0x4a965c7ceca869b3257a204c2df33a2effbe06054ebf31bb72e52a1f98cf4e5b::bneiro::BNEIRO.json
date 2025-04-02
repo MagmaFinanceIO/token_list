@@ -1,0 +1,13 @@
+{
+  "name": "Baby Neiro",
+  "symbol": "BNeiro",
+  "decimals": 9,
+  "coin_type": "0x4a965c7ceca869b3257a204c2df33a2effbe06054ebf31bb72e52a1f98cf4e5b::bneiro::BNEIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3JVE9Syjsw3S7TxQAZm1FXfhVJBJmDJDGb2cbEVgpump.png?size=lg&key=415a19",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

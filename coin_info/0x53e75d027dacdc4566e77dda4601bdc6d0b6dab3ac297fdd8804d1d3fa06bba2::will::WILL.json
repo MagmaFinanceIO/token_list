@@ -1,0 +1,13 @@
+{
+  "name": "WILLIE",
+  "symbol": "WILL",
+  "decimals": 6,
+  "coin_type": "0x53e75d027dacdc4566e77dda4601bdc6d0b6dab3ac297fdd8804d1d3fa06bba2::will::WILL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2025_01_05_02_30_04_a24c59d993.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

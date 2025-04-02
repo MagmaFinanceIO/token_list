@@ -1,0 +1,13 @@
+{
+  "name": "DeepBook Token",
+  "symbol": "DEEP",
+  "decimals": 6,
+  "coin_type": "0xf505a11074f2f2400d5512a6b7140dda45ab347862f69c70e1acd1eb68d2d631::deep::DEEP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/228d6a4c-4ac3-4441-be72-91a782445dd9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

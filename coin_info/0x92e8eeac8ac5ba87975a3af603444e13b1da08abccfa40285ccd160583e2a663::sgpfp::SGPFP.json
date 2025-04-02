@@ -1,0 +1,13 @@
+{
+  "name": "Squid Game PFP Agent",
+  "symbol": "SGPFP",
+  "decimals": 6,
+  "coin_type": "0x92e8eeac8ac5ba87975a3af603444e13b1da08abccfa40285ccd160583e2a663::sgpfp::SGPFP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736514193713.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

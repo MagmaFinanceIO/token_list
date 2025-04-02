@@ -1,0 +1,13 @@
+{
+  "name": "THE FROG",
+  "symbol": "PUNK",
+  "decimals": 9,
+  "coin_type": "0x3c7b1ad905258d4fc0378388c40def9bb6cac947db2990ef5d14a3fb6f6b5dc2::punk::PUNK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6fv7gDeWqyDNNg6fY3VGtnHJAMgbCD3JZfPibi6Wpump.png?size=lg&key=400ae0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

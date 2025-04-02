@@ -1,0 +1,13 @@
+{
+  "name": "ICON MEME",
+  "symbol": "ICON",
+  "decimals": 9,
+  "coin_type": "0xa6778e6e8e7fc1d7534d87b0c8795a59fe4d4cefc9326333fdc6172f38dfb3a8::icon::ICON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/31e25e9c-9bcf-4637-ba3f-6229a701e810.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

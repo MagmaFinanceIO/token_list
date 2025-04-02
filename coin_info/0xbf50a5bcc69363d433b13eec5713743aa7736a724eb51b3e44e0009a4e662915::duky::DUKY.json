@@ -1,0 +1,13 @@
+{
+  "name": "Duky",
+  "symbol": "DUKY",
+  "decimals": 6,
+  "coin_type": "0xbf50a5bcc69363d433b13eec5713743aa7736a724eb51b3e44e0009a4e662915::duky::DUKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/P_Td_Bu8_WX_400x400_8a844b4332.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

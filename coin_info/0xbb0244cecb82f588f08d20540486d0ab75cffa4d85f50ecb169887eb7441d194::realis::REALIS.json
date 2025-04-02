@@ -1,0 +1,13 @@
+{
+  "name": "Realis Worlds",
+  "symbol": "REALIS",
+  "decimals": 9,
+  "coin_type": "0xbb0244cecb82f588f08d20540486d0ab75cffa4d85f50ecb169887eb7441d194::realis::REALIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EBGaJP7srpUUN8eRdta1MsojrNtweuHYsdP3P1TRpump.png?size=lg&key=803e5e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

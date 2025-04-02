@@ -1,0 +1,13 @@
+{
+  "name": "DUCKS",
+  "symbol": "DUCK",
+  "decimals": 6,
+  "coin_type": "0x5fa88ae5e3377a683412908cac2380c16641480bd4ab0509b92bffe489b840f6::duck::DUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/5t_IY_Obc9_400x400_0c1edd56f6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "The Balkan Dwarf",
+  "symbol": "Kekec",
+  "decimals": 9,
+  "coin_type": "0x15429cbbdafe83941002cec6b94d5af2337130bc60f334b9849816b73ebc986d::kekec::KEKEC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x8c7ac134ed985367eadc6f727d79e8295e11435c.png?size=lg&key=88c9af",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

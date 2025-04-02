@@ -1,0 +1,13 @@
+{
+  "name": "SHAWK",
+  "symbol": "SHAWK",
+  "decimals": 9,
+  "coin_type": "0xe228c027ff511fe584f0ac3a1a9605dbfa1975f88a12040a6b3835b1b7586aa7::shawk::SHAWK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/830035bb-9962-4f48-94fc-f0296668d8dc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

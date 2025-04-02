@@ -1,0 +1,13 @@
+{
+  "name": "scrnx",
+  "symbol": "scrnx",
+  "decimals": 9,
+  "coin_type": "0x4ca4183f14a28571cc26031a3c78b2618cae59c85e68f8aca0f9e3b9c54ef66d::scrnx::SCRNX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/JBD8mccmQeZVeVEQW16nymthrA6BuYhUiY2Gh65npump.png?size=lg&key=bb6c10",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

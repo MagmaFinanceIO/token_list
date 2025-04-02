@@ -1,0 +1,13 @@
+{
+  "name": "HopCat",
+  "symbol": "HOPCAT",
+  "decimals": 9,
+  "coin_type": "0x5872062c973aff864a28a108754671339a4f985c8ed8a004f45d8eb780247835::hopcat::HOPCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c7cd11a6-1825-43f4-8024-ebffd32de324.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

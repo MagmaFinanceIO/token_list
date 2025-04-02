@@ -1,0 +1,13 @@
+{
+  "name": "Koan",
+  "symbol": "Koin",
+  "decimals": 9,
+  "coin_type": "0xd0a2b47ffc2e5f3e338cee7b305d9728c6ab6c46eae79d726bafb48c51e37fb0::koin::KOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8ca4beb4-91cf-4740-8c93-56a339ef4b42.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

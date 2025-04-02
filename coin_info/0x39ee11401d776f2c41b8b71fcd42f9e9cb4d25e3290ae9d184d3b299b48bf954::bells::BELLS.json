@@ -1,0 +1,13 @@
+{
+  "name": "Bellscoin Sui",
+  "symbol": "BELLS",
+  "decimals": 6,
+  "coin_type": "0x39ee11401d776f2c41b8b71fcd42f9e9cb4d25e3290ae9d184d3b299b48bf954::bells::BELLS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_139e7c8bdc.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

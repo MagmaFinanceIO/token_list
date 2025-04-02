@@ -1,0 +1,13 @@
+{
+  "name": "CatFrogDogShark",
+  "symbol": "CFDS",
+  "decimals": 6,
+  "coin_type": "0x91c789817dffa88fef82fb19ebfce2f0f7ca944e90feff0c8cf77dd9e5eebbc0::cfds::CFDS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/f_E_Sb_U_Kju_MY_6jz_DH_9_VP_8cy4p3pu2q5_W2r_K2_Xgh_Vf_Nse_P_7b90110699.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

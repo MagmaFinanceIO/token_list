@@ -1,0 +1,13 @@
+{
+  "name": "TrenchBunny AI",
+  "symbol": "TRENCH",
+  "decimals": 9,
+  "coin_type": "0xc8434375cc3140199ca699bd6c8ea6ccb0fe98933b1363cd3f808da36bab38ff::trench::TRENCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/68bQi61SpnzTWfG43coD9S944nspHgr2dAkpniZBpump.png?size=lg&key=b649da",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

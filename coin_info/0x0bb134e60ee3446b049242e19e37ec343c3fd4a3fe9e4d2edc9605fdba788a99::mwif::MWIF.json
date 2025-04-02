@@ -1,0 +1,13 @@
+{
+  "name": "melania wif hat by SuiAI",
+  "symbol": "MWIF",
+  "decimals": 6,
+  "coin_type": "0x0bb134e60ee3446b049242e19e37ec343c3fd4a3fe9e4d2edc9605fdba788a99::mwif::MWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/lea_1_3f0391c0cd.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HELLYEAH",
+  "symbol": "HELL",
+  "decimals": 2,
+  "coin_type": "0x8fd6ccc1742a760d0277f9e33a7be58fb9a6fe255b8d36007323072792c58f30::hellyeah::HELLYEAH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

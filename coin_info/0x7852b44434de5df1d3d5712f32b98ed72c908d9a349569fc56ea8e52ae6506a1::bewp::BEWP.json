@@ -1,0 +1,13 @@
+{
+  "name": "Blue Eyes White Pnut",
+  "symbol": "BEWP",
+  "decimals": 9,
+  "coin_type": "0x7852b44434de5df1d3d5712f32b98ed72c908d9a349569fc56ea8e52ae6506a1::bewp::BEWP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/pamaWadFQ8jMt5xseFHCPW4U5dMoBbSQuxhADt2pump.png?size=lg&key=a55bfe",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

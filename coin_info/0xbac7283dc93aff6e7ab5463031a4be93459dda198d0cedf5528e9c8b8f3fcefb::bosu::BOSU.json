@@ -1,0 +1,13 @@
+{
+  "name": "Book of Sui",
+  "symbol": "BOSU",
+  "decimals": 2,
+  "coin_type": "0xbac7283dc93aff6e7ab5463031a4be93459dda198d0cedf5528e9c8b8f3fcefb::bosu::BOSU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2456596b-5ce1-493b-b934-e7ae7f6afcef.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

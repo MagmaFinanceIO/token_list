@@ -1,0 +1,13 @@
+{
+  "name": "MortoCoinX",
+  "symbol": "MORTOX",
+  "decimals": 9,
+  "coin_type": "0x2237b39d78d62ac583d44a91e885276ef7052325a4ddefe409d40e924ecececa::mortox::MORTOX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/45603d57-b6f3-4340-bc21-5d343285959f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

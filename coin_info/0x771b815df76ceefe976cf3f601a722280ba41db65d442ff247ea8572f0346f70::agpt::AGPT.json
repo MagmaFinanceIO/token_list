@@ -1,0 +1,13 @@
+{
+  "name": "AuraGPT",
+  "symbol": "AGPT",
+  "decimals": 6,
+  "coin_type": "0x771b815df76ceefe976cf3f601a722280ba41db65d442ff247ea8572f0346f70::agpt::AGPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/09023e94-217b-42a7-910d-7814eae23ff1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

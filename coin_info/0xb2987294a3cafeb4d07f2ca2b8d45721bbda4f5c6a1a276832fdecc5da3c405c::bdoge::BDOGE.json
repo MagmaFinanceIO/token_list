@@ -1,0 +1,13 @@
+{
+  "name": "Doge But Blue",
+  "symbol": "BDOGE",
+  "decimals": 8,
+  "coin_type": "0xb2987294a3cafeb4d07f2ca2b8d45721bbda4f5c6a1a276832fdecc5da3c405c::bdoge::BDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x4c9f149825dd84b9b938916ee618e5283168fbd7.png?size=xl&key=bfb8db",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

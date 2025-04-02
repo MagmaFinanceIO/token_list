@@ -1,0 +1,13 @@
+{
+  "name": "BITCOINERS",
+  "symbol": "BITCOIN",
+  "decimals": 9,
+  "coin_type": "0xe903a3b9de7b120b0f2793fe0e781a4965c4f20fde0008d3b1afb8a2959986b4::bitcoin::BITCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/69fJFbHWThYWQ3KXnY2spoT1rSX29SezWdhVXAhLwN6Q.png?size=lg&key=1ea93a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

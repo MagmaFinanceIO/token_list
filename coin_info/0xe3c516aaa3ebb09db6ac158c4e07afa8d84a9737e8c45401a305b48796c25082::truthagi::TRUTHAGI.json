@@ -1,0 +1,13 @@
+{
+  "name": "Truth AGI AI reporter",
+  "symbol": "TruthAGI",
+  "decimals": 6,
+  "coin_type": "0xe3c516aaa3ebb09db6ac158c4e07afa8d84a9737e8c45401a305b48796c25082::truthagi::TRUTHAGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/333_56f71c6d1e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

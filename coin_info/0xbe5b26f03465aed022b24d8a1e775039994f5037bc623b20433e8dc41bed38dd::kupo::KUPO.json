@@ -1,0 +1,13 @@
+{
+  "name": "MAKUPO",
+  "symbol": "KUPO",
+  "decimals": 8,
+  "coin_type": "0xbe5b26f03465aed022b24d8a1e775039994f5037bc623b20433e8dc41bed38dd::kupo::KUPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f2a25b10-c5c7-448f-9a17-a12446ccb67f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

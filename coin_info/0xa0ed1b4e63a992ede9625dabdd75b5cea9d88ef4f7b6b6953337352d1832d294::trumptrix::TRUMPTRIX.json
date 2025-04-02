@@ -1,0 +1,13 @@
+{
+  "name": "Matrix trump",
+  "symbol": "Trumptrix",
+  "decimals": 6,
+  "coin_type": "0xa0ed1b4e63a992ede9625dabdd75b5cea9d88ef4f7b6b6953337352d1832d294::trumptrix::TRUMPTRIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737145048893.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

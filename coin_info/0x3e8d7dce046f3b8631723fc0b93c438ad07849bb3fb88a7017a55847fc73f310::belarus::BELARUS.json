@@ -1,0 +1,13 @@
+{
+  "name": "Belarus",
+  "symbol": "Belarus",
+  "decimals": 2,
+  "coin_type": "0x3e8d7dce046f3b8631723fc0b93c438ad07849bb3fb88a7017a55847fc73f310::belarus::BELARUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/205dac54-5c80-4eee-a6f6-d081b500d8ac.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

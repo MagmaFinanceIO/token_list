@@ -1,0 +1,13 @@
+{
+  "name": "Not",
+  "symbol": "NOT",
+  "decimals": 9,
+  "coin_type": "0x728febb5c9855bd1c43fd5e6668a83b6c19641dea3d3fb17731de84fa60e6c71::not::NOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dev-file-walletapp.waveonsui.com/images/wave-pumps/f5bc28fa-735f-47b8-8b04-eab6f95fd528-download (2).jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

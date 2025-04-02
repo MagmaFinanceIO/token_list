@@ -1,0 +1,13 @@
+{
+  "name": "Swoop 💧🐤",
+  "symbol": "SWOOP",
+  "decimals": 9,
+  "coin_type": "0xcaa3dcd0bc8af883ae8517b814252ef362e46ee9d3e1c19f2e0d2d3f1beeb007::swoop::SWOOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/330368c9-ab1d-4417-9d34-4c400d137551.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

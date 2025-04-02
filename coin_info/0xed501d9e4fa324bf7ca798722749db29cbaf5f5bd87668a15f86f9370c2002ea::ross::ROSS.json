@@ -1,0 +1,13 @@
+{
+  "name": "ROSS IS FREE",
+  "symbol": "ROSS",
+  "decimals": 9,
+  "coin_type": "0xed501d9e4fa324bf7ca798722749db29cbaf5f5bd87668a15f86f9370c2002ea::ross::ROSS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6X5LXqEgorNtyVH3KbP7sDHca9YBdmuzhyQKoCjpump.png?size=lg&key=fa96c2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DarkGuardians",
+  "symbol": "DRG",
+  "decimals": 9,
+  "coin_type": "0x0b12af66f5543d7946bc4c65bb48611885041f0e686c10ade56662747922b58f::drg::DRG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/7GnUJrb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

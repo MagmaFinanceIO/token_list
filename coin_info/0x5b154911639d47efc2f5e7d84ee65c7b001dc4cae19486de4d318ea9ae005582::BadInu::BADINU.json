@@ -1,0 +1,13 @@
+{
+  "name": "Bad Inu",
+  "symbol": "BADINU",
+  "decimals": 4,
+  "coin_type": "0x5b154911639d47efc2f5e7d84ee65c7b001dc4cae19486de4d318ea9ae005582::BadInu::BADINU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bnv7c2vca7utfq2zvnzeef4i4fiqkjhh2igavtbyoyugdqzir6ua.arweave.net/C2vxaqIH6TLDWatyQheI4VEFJOfSDArMOHYoYcMoj6g",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

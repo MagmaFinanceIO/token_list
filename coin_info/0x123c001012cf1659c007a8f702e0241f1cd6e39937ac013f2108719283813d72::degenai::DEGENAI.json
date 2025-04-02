@@ -1,0 +1,13 @@
+{
+  "name": "DegenSanta AI",
+  "symbol": "DegenAI",
+  "decimals": 9,
+  "coin_type": "0x123c001012cf1659c007a8f702e0241f1cd6e39937ac013f2108719283813d72::degenai::DEGENAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4sifLiMtLNFCk4DWANEqtcAFcawJvbT6TwgBYhznpump.png?size=lg&key=277b81",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MUMMAT SUI",
+  "symbol": "MUMMAT",
+  "decimals": 9,
+  "coin_type": "0x196b893d53b3046990b6a6a5a1e6843e7dc9c9ea0d4327e84444eae6d37cb2f8::mummat::MUMMAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2c78d0b7-154e-4df3-99c8-d66d56b26b89.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

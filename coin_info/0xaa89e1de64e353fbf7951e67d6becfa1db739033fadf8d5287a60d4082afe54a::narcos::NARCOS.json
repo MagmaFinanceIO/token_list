@@ -1,0 +1,13 @@
+{
+  "name": "Narcos",
+  "symbol": "Narcos",
+  "decimals": 9,
+  "coin_type": "0xaa89e1de64e353fbf7951e67d6becfa1db739033fadf8d5287a60d4082afe54a::narcos::NARCOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8733eb70-5084-469d-b1f7-fb0871e80017.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

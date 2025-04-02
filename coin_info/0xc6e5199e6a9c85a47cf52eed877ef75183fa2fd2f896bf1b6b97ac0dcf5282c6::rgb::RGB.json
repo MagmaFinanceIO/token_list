@@ -1,0 +1,13 @@
+{
+  "name": "RGB",
+  "symbol": "RGB",
+  "decimals": 9,
+  "coin_type": "0xc6e5199e6a9c85a47cf52eed877ef75183fa2fd2f896bf1b6b97ac0dcf5282c6::rgb::RGB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/RGBccWixJSM5wVgc2bHYbZeYvE9N5vXo1FVf1MVsySr.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

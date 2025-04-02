@@ -1,0 +1,13 @@
+{
+  "name": "Based Pope",
+  "symbol": "BOPE",
+  "decimals": 6,
+  "coin_type": "0xa796d151768bfa202fa5a72415799281df4f306cc23f9ca4adb8807212a0ac37::bope::BOPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Xo8xw_Wozepg2_Zz_Dn4_R_Gde5_NEML_Sk7rhf_EN_7e_Vev9_H8t_A_fd8467d36b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BENZ",
+  "symbol": "BENZ",
+  "decimals": 9,
+  "coin_type": "0xe0b1ddc43fa41dea43c21d0b70c7e6bf0b7d4557f31acefc8a00ce7a6e5b0096::benz::BENZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

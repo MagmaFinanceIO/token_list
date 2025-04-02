@@ -1,0 +1,13 @@
+{
+  "name": "SuiBunny",
+  "symbol": "SBunny",
+  "decimals": 6,
+  "coin_type": "0xad6c3e997ffd51a05775f499752c3ba4d9de501849c0ad926854cf287dd8f849::sbunny::SBUNNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/a_fee8d98a24.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

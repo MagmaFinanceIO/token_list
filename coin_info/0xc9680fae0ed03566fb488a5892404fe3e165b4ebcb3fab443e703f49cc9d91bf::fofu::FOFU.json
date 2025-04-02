@@ -1,0 +1,13 @@
+{
+  "name": "Foxy Fujin",
+  "symbol": "FOFU",
+  "decimals": 9,
+  "coin_type": "0xc9680fae0ed03566fb488a5892404fe3e165b4ebcb3fab443e703f49cc9d91bf::fofu::FOFU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/226f74c5-b6bc-450d-aa18-e4359eccf067.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

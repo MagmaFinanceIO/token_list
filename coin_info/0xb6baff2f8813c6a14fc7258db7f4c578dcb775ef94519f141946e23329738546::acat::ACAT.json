@@ -1,0 +1,13 @@
+{
+  "name": "American Cat",
+  "symbol": "ACAT",
+  "decimals": 9,
+  "coin_type": "0xb6baff2f8813c6a14fc7258db7f4c578dcb775ef94519f141946e23329738546::acat::ACAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7c578f07-c112-47fa-bea8-3c4f7b7a7a41.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

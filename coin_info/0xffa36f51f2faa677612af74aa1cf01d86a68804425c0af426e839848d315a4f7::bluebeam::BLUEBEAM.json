@@ -1,0 +1,13 @@
+{
+  "name": "Project Blue Beam",
+  "symbol": "BLUEBEAM",
+  "decimals": 9,
+  "coin_type": "0xffa36f51f2faa677612af74aa1cf01d86a68804425c0af426e839848d315a4f7::bluebeam::BLUEBEAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7Y6V89naHZkWXsCxxpXjGHLV6uEcD5BHMdPShXwoM27L.png?size=lg&key=3ce46f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

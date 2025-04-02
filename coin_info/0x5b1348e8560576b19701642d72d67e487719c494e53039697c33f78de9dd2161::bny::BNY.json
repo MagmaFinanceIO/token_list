@@ -1,0 +1,13 @@
+{
+  "name": "Bunny",
+  "symbol": "BNY",
+  "decimals": 7,
+  "coin_type": "0x5b1348e8560576b19701642d72d67e487719c494e53039697c33f78de9dd2161::bny::BNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3efdcd02-80cd-4876-88e0-16a234466880.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

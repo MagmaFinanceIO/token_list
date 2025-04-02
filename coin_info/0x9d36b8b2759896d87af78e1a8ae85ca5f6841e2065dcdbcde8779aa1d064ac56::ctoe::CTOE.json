@@ -1,0 +1,13 @@
+{
+  "name": "CreepToe",
+  "symbol": "CTOE",
+  "decimals": 6,
+  "coin_type": "0x9d36b8b2759896d87af78e1a8ae85ca5f6841e2065dcdbcde8779aa1d064ac56::ctoe::CTOE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/304320b2-0296-4362-b4aa-f7a2fdf55e1d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

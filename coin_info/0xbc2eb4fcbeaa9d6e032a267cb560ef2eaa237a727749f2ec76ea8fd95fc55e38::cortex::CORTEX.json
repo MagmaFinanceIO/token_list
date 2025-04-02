@@ -1,0 +1,13 @@
+{
+  "name": "CORTEX AI",
+  "symbol": "CORTEX",
+  "decimals": 9,
+  "coin_type": "0xbc2eb4fcbeaa9d6e032a267cb560ef2eaa237a727749f2ec76ea8fd95fc55e38::cortex::CORTEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/43WRcxebmScYH9ZniGPbPYHtvB2QMDx6ARziuCUApump.png?size=lg&key=7989bd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIUS Maximus",
+  "symbol": "SUIUS",
+  "decimals": 6,
+  "coin_type": "0x7fe92402b080ad840af9e98b38ce042780047cfb85093d7711031f43a16bcfde::suius::SUIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/kek_max_212e98ba87.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

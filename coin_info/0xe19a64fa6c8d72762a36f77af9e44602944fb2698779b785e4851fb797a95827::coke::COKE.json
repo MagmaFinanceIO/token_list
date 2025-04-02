@@ -1,0 +1,13 @@
+{
+  "name": "Coke Bear",
+  "symbol": "COKE",
+  "decimals": 6,
+  "coin_type": "0xe19a64fa6c8d72762a36f77af9e44602944fb2698779b785e4851fb797a95827::coke::COKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/cokebbbear_c713711fff.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

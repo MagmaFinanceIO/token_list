@@ -1,0 +1,13 @@
+{
+  "name": "Goalolo",
+  "symbol": "Goal",
+  "decimals": 2,
+  "coin_type": "0xe4c583e02636a753c65435e19be2baa71834e157efb8e63a5c4879081ecb1a53::goal::GOAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9c11bfa0-d7a5-419e-98df-eb7178a8e195.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "lTW",
+  "symbol": "lTW",
+  "decimals": 9,
+  "coin_type": "0xb1ac0b579aac196510acb2b7281a82df4ab20f372cf0c4f53b5965e2941cb8a5::ltw::LTW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CB48KiK1oi1tWtjmPWxVR2NPeEr9ewzmZQ8ERk79Ue4b.png?size=lg&key=e3d4b7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

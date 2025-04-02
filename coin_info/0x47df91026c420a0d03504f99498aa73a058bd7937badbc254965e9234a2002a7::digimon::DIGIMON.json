@@ -1,0 +1,13 @@
+{
+  "name": "Digimon",
+  "symbol": "DIGIMON",
+  "decimals": 9,
+  "coin_type": "0x47df91026c420a0d03504f99498aa73a058bd7937badbc254965e9234a2002a7::digimon::DIGIMON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmVUqkAtbb79ip2H5LTgfCwmQcPqrrPbTXMJCCbDrgoWEA",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIHUB",
+  "symbol": "SHUB",
+  "decimals": 6,
+  "coin_type": "0x361b655145465f6a8113f9fdca0ad01ff19b4ec31e0f0bf7514dba47d8e766db::shub::SHUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ezgif_3_45d3aefc3a_6d4e6b5806.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

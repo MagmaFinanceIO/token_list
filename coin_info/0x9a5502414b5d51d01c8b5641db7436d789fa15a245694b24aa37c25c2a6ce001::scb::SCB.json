@@ -1,0 +1,15 @@
+{
+  "name": "Sacabam",
+  "symbol": "SCB",
+  "decimals": 5,
+  "coin_type": "0x9a5502414b5d51d01c8b5641db7436d789fa15a245694b24aa37c25c2a6ce001::scb::SCB",
+  "pyth_id": "",
+  "birdeyeid": "0x9a5502414b5d51d01c8b5641db7436d789fa15a245694b24aa37c25c2a6ce001::scb::SCB",
+  "coin_priority": [
+    "730"
+  ],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/scb.png",
+  "project_url": "",
+  "coingecko_id": "sacabam",
+  "is_trusted": true
+}

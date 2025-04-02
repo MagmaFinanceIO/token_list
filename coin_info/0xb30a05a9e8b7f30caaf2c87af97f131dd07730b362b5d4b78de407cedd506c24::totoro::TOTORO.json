@@ -1,0 +1,13 @@
+{
+  "name": "TOTORO",
+  "symbol": "TOTORO",
+  "decimals": 9,
+  "coin_type": "0xb30a05a9e8b7f30caaf2c87af97f131dd07730b362b5d4b78de407cedd506c24::totoro::TOTORO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2p9mPBSgkHhLvjmbFRcuhZWouyFhA86TaHcKGCzQpump.png?size=lg&key=11424a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Frai",
+  "symbol": "FRAI",
+  "decimals": 6,
+  "coin_type": "0x34ae4a9d5ca9395116317f01454d5f62661358bd5f731dc16e77d4cead35c04c::frai::FRAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735492331713.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

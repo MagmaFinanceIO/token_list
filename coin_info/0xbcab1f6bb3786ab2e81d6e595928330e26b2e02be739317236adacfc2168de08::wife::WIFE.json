@@ -1,0 +1,13 @@
+{
+  "name": "Pocket Waifu",
+  "symbol": "WIFE",
+  "decimals": 9,
+  "coin_type": "0xbcab1f6bb3786ab2e81d6e595928330e26b2e02be739317236adacfc2168de08::wife::WIFE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7cea499c-887c-48a8-89d1-097a6eef9d73.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

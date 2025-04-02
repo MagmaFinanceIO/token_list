@@ -1,0 +1,13 @@
+{
+  "name": "Cat Sui",
+  "symbol": "CATS",
+  "decimals": 9,
+  "coin_type": "0x614fdb860cda05ccfa7a6ba22f3b96c48cfabbec45b957a1c000d5c1a2094b4f::cats::CATS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4887a40d-ac08-4105-8a57-ac6d2fe0c33c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

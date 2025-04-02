@@ -1,0 +1,13 @@
+{
+  "name": "Beast AI",
+  "symbol": "BEASTAI",
+  "decimals": 9,
+  "coin_type": "0x75480de4e512aa75a9acd796b25eb5bdf44d1b8599fad9b595f20fefa7b0cdc4::beastai::BEASTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/sKh55hyTPdRFyocWprncRMq4hG78G44Cqy2c7Qymrbt.png?size=lg&key=f44bd8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

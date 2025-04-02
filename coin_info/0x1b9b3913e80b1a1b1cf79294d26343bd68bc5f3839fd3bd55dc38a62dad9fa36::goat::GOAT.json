@@ -1,0 +1,13 @@
+{
+  "name": "Goatseus Maximus",
+  "symbol": "GOAT",
+  "decimals": 9,
+  "coin_type": "0x1b9b3913e80b1a1b1cf79294d26343bd68bc5f3839fd3bd55dc38a62dad9fa36::goat::GOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump.png?size=lg&key=827b44",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

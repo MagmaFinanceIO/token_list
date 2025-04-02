@@ -1,0 +1,13 @@
+{
+  "name": "Bored Pepe",
+  "symbol": "BPEPE",
+  "decimals": 0,
+  "coin_type": "0x6d6f4793915c3f3d7a14591e16f8c1c1b5d2efcbf4f64f83554b3023178421c0::bpepe::BPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://nftstorage.link/ipfs/bafkreicrhktu365lhha5p74dcd455kagkouyyiogquieu4d4xwez3uljou",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

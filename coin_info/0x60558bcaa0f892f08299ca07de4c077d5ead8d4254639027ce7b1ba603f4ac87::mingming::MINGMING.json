@@ -1,0 +1,13 @@
+{
+  "name": "mingming",
+  "symbol": "mingming",
+  "decimals": 9,
+  "coin_type": "0x60558bcaa0f892f08299ca07de4c077d5ead8d4254639027ce7b1ba603f4ac87::mingming::MINGMING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/44765230-a14e-4add-852e-649d31e4bbfe.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

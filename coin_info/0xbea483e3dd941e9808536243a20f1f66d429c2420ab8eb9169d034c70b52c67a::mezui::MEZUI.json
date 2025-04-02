@@ -1,0 +1,13 @@
+{
+  "name": "Mezui",
+  "symbol": "Mezui",
+  "decimals": 10,
+  "coin_type": "0xbea483e3dd941e9808536243a20f1f66d429c2420ab8eb9169d034c70b52c67a::mezui::MEZUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1efc3790-cf9e-490c-b5ac-a0d1382ac4dc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

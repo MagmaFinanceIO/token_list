@@ -1,0 +1,13 @@
+{
+  "name": "Orion",
+  "symbol": "ORION",
+  "decimals": 9,
+  "coin_type": "0x25f6d509801f5462fd568aa9be1091a060870ed45cb1271acd54e36c29eb0b42::orion::ORION",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DoHJhvbVXJeyAGpdGuBauYnkHVXtoQg1oLahDgnhpump.png?size=lg&key=3a5268",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

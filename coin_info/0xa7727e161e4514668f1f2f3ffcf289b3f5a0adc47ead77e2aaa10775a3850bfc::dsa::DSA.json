@@ -1,0 +1,13 @@
+{
+  "name": "ASD",
+  "symbol": "DSA",
+  "decimals": 9,
+  "coin_type": "0xa7727e161e4514668f1f2f3ffcf289b3f5a0adc47ead77e2aaa10775a3850bfc::dsa::DSA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/577a5117-c7c4-494a-83ee-f44521c6b790.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

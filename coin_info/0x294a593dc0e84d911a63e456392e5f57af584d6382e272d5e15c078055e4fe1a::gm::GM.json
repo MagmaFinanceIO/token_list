@@ -1,0 +1,13 @@
+{
+  "name": "GoodMorning",
+  "symbol": "Gm",
+  "decimals": 9,
+  "coin_type": "0x294a593dc0e84d911a63e456392e5f57af584d6382e272d5e15c078055e4fe1a::gm::GM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Ku3V94EVH9Arvun63VrHs-vBtP-omlffnOJq1EGG10ru0vj2PAKOMfsyRN5TrO-UInQ&usqp=CAU",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

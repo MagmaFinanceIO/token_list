@@ -1,0 +1,13 @@
+{
+  "name": "Sui Seal",
+  "symbol": "SUISEAL",
+  "decimals": 9,
+  "coin_type": "0x6ccf247e20bccb75e4d9ed7c25727a3ece1a277df5c29ea3676fcdd5236c6ac2::suiseal::SUISEAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/QmZaTABDpfCCNFx7ggWzvDstkc1rhpp6fPcvf5sgagQzPM",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

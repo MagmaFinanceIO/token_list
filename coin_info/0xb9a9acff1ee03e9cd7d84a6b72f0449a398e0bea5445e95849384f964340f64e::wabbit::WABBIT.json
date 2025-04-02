@@ -1,0 +1,13 @@
+{
+  "name": "SUI WABBIT",
+  "symbol": "WABBIT",
+  "decimals": 6,
+  "coin_type": "0xb9a9acff1ee03e9cd7d84a6b72f0449a398e0bea5445e95849384f964340f64e::wabbit::WABBIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3041_3a917be1ee_8fe60db8fd.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

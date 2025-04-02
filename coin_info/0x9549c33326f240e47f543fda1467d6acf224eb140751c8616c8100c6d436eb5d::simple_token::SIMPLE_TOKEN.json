@@ -1,0 +1,13 @@
+{
+  "name": "DUCK",
+  "symbol": "DUCK",
+  "decimals": 9,
+  "coin_type": "0x9549c33326f240e47f543fda1467d6acf224eb140751c8616c8100c6d436eb5d::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

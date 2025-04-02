@@ -1,0 +1,13 @@
+{
+  "name": "Pita",
+  "symbol": "PITA",
+  "decimals": 9,
+  "coin_type": "0x48876bbeec84e8727e939400afcf0ee51df9bebc1cb05902ecf0403dc588b462::pita::PITA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

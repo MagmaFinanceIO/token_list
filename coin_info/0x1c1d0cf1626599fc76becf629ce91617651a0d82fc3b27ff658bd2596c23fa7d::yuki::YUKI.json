@@ -1,0 +1,13 @@
+{
+  "name": "YUKI",
+  "symbol": "YUKI",
+  "decimals": 9,
+  "coin_type": "0x1c1d0cf1626599fc76becf629ce91617651a0d82fc3b27ff658bd2596c23fa7d::yuki::YUKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HnaZaySA7GVPndpq9sZkWEjt4BpVfmeKgnanZpiipump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

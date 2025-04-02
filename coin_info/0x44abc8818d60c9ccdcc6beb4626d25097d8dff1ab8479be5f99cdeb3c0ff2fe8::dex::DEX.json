@@ -1,0 +1,13 @@
+{
+  "name": "DeX",
+  "symbol": "DEX",
+  "decimals": 9,
+  "coin_type": "0x44abc8818d60c9ccdcc6beb4626d25097d8dff1ab8479be5f99cdeb3c0ff2fe8::dex::DEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0c094c04-d184-42f3-8d37-c034b6c017f3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

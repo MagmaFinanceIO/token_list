@@ -1,0 +1,13 @@
+{
+  "name": "Notcoin",
+  "symbol": "Not",
+  "decimals": 9,
+  "coin_type": "0xf52057330dc2bce01b078a8e62fda1f4dc0f6839b4caed498ffe4486f9bf18c3::not::NOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

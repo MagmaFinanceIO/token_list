@@ -1,0 +1,13 @@
+{
+  "name": "Pudgy Penguins",
+  "symbol": "PENGU",
+  "decimals": 2,
+  "coin_type": "0x9b847b4fe475968ca6fc7ac3bc39a5c68fb778842287852438e618d9dd527a53::PENGU::PENGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/pDOvfj4YKNQc5uljIRpzyeMDHxvSbiBuTtNIBSgBwnY?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

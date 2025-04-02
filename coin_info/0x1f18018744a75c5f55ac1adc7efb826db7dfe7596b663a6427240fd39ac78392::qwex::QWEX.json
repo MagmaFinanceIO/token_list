@@ -1,0 +1,13 @@
+{
+  "name": "Qwex",
+  "symbol": "QWEX",
+  "decimals": 9,
+  "coin_type": "0x1f18018744a75c5f55ac1adc7efb826db7dfe7596b663a6427240fd39ac78392::qwex::QWEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dribbble.com/userupload/16064155/file/original-a52370e0a2d9a06b79170de617c56bd7.jpg?resize=752x564",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

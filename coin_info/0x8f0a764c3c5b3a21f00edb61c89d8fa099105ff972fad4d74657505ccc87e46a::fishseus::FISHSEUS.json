@@ -1,0 +1,13 @@
+{
+  "name": "Fishseus Maximus",
+  "symbol": "Fishseus",
+  "decimals": 6,
+  "coin_type": "0x8f0a764c3c5b3a21f00edb61c89d8fa099105ff972fad4d74657505ccc87e46a::fishseus::FISHSEUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/fishmaximus_14b682791d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

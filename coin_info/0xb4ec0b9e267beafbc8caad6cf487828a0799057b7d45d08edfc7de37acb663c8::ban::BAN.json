@@ -1,0 +1,13 @@
+{
+  "name": "ban",
+  "symbol": "BAN",
+  "decimals": 6,
+  "coin_type": "0xb4ec0b9e267beafbc8caad6cf487828a0799057b7d45d08edfc7de37acb663c8::ban::BAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000347_6da2b97890.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

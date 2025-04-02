@@ -1,0 +1,13 @@
+{
+  "name": "GRASS",
+  "symbol": "GRASS",
+  "decimals": 9,
+  "coin_type": "0xb4e64af39f8266e739c2a58f35cb93168d72f456b36bb71836a6299b2d8328bd::grass::GRASS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1858556758844702720/XWqrLumk_400x400.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

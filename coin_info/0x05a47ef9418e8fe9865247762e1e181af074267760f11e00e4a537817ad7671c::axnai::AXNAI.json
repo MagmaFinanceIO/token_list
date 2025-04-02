@@ -1,0 +1,13 @@
+{
+  "name": "Axone AI",
+  "symbol": "AXNAI",
+  "decimals": 9,
+  "coin_type": "0x05a47ef9418e8fe9865247762e1e181af074267760f11e00e4a537817ad7671c::axnai::AXNAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/iSiSCKKNCMUYfxCv4KrRnYteboyKEfYB5mBNgMCpump.png?size=lg&key=e0f391",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

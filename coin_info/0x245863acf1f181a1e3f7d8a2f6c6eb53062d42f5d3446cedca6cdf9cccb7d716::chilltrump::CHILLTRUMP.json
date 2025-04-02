@@ -1,0 +1,13 @@
+{
+  "name": "Just a chill Trump",
+  "symbol": "CHILLTRUMP",
+  "decimals": 9,
+  "coin_type": "0x245863acf1f181a1e3f7d8a2f6c6eb53062d42f5d3446cedca6cdf9cccb7d716::chilltrump::CHILLTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmXNJ1zQfKNn1z8Eiq6vASP7N24d4PpnL83zbwWj2vYD1G",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

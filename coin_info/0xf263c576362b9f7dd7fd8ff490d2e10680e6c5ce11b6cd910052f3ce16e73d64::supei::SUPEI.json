@@ -1,0 +1,13 @@
+{
+  "name": "SUI PEIPEI",
+  "symbol": "SUPEI",
+  "decimals": 9,
+  "coin_type": "0xf263c576362b9f7dd7fd8ff490d2e10680e6c5ce11b6cd910052f3ce16e73d64::supei::SUPEI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dd38ad33-4bed-4e3b-80ea-81a0c74a8e33.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

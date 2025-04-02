@@ -1,0 +1,13 @@
+{
+  "name": "MIMI",
+  "symbol": "MIMI",
+  "decimals": 9,
+  "coin_type": "0xa5755cd6bc694fe8e22b20f3c4223ff744de73e547539369c876295da2dd6045::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SBONK",
+  "symbol": "SUI BONK",
+  "decimals": 9,
+  "coin_type": "0x0bc6747c695b793510a40908e83617b4a64160a86f0a541a04da1cfd8e56ac91::sui_bonk::SUI_BONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0x030bccd304b2922d51823de94e5905a389c24b052dd870698c4874d52a22864d::sbonk::sbonk.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

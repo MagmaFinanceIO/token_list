@@ -1,0 +1,13 @@
+{
+  "name": "OrTCOIN",
+  "symbol": "OrT",
+  "decimals": 9,
+  "coin_type": "0xfe8632fdf24040aeb421fa338b91e6c36f3938806c7f711722b3679d9c32f2d5::ort::ORT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/56161eeb-a90a-4172-b63c-6ed2080ae9f9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

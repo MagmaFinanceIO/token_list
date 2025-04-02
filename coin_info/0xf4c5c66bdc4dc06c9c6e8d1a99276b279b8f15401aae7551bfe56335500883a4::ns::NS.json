@@ -1,0 +1,13 @@
+{
+  "name": "Sui Name Service",
+  "symbol": "NS",
+  "decimals": 6,
+  "coin_type": "0xf4c5c66bdc4dc06c9c6e8d1a99276b279b8f15401aae7551bfe56335500883a4::ns::NS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731666710693.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

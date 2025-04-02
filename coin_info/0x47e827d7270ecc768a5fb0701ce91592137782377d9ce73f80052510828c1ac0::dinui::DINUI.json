@@ -1,0 +1,13 @@
+{
+  "name": "Dinosaurs on SUI",
+  "symbol": "DINUI",
+  "decimals": 6,
+  "coin_type": "0x47e827d7270ecc768a5fb0701ce91592137782377d9ce73f80052510828c1ac0::dinui::DINUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSoqSoLBNZKXXmA6KuLaSeJKr9LpVeqYkpJv1HFuNbg5M",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

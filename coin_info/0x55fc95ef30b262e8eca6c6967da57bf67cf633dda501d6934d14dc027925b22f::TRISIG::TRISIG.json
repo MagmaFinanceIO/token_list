@@ -1,0 +1,13 @@
+{
+  "name": "TRI SIGMA",
+  "symbol": "TRISIG",
+  "decimals": 2,
+  "coin_type": "0x55fc95ef30b262e8eca6c6967da57bf67cf633dda501d6934d14dc027925b22f::TRISIG::TRISIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/m90Dhd1athlq6dYHXGxA51PHYbxVCJJuoZhfzBmhkkM?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

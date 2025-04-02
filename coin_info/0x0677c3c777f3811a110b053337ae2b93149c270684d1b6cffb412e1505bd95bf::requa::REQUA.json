@@ -1,0 +1,13 @@
+{
+  "name": "Requa",
+  "symbol": "REQUA",
+  "decimals": 9,
+  "coin_type": "0x0677c3c777f3811a110b053337ae2b93149c270684d1b6cffb412e1505bd95bf::requa::REQUA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dribbble.com/users/5638/screenshots/7156724/image.png?resize=800x600&vertical=center",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

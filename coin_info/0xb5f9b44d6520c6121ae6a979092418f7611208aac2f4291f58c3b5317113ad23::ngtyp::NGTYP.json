@@ -1,0 +1,13 @@
+{
+  "name": "ctLoL",
+  "symbol": "NGTYP",
+  "decimals": 9,
+  "coin_type": "0xb5f9b44d6520c6121ae6a979092418f7611208aac2f4291f58c3b5317113ad23::ngtyp::NGTYP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HheTmXNNkrzN78Qsyz6obfGSL1HvFttG7FU5fok3pump.png?size=lg&key=282918",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

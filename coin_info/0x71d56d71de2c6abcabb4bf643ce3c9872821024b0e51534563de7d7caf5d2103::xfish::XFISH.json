@@ -1,0 +1,13 @@
+{
+  "name": "XFish Sui",
+  "symbol": "XFISH",
+  "decimals": 6,
+  "coin_type": "0x71d56d71de2c6abcabb4bf643ce3c9872821024b0e51534563de7d7caf5d2103::xfish::XFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Whats_App_Image_2024_12_20_at_4_58_59_PM_5de836cd4f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

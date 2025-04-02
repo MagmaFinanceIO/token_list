@@ -1,0 +1,13 @@
+{
+  "name": "Klaus",
+  "symbol": "KLAUS",
+  "decimals": 6,
+  "coin_type": "0xaed696ec87f6719b91a2de3956e04ea2a292c631cd25c12d2d225062cf79ff5a::klaus::KLAUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/0xb612bfc5ce2fb1337bd29f5af24ca85dbb181ce2_6210981c30.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

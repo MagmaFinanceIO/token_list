@@ -1,0 +1,13 @@
+{
+  "name": "Bobo Jr.",
+  "symbol": "BOBOJR",
+  "decimals": 9,
+  "coin_type": "0xf30da5408b22815ec34c3de87b836a876f81483ecab3e6bc7b0e0f7b8209345e::bobojr::BOBOJR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/103337b1-680d-480a-9b06-79692df1c609.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

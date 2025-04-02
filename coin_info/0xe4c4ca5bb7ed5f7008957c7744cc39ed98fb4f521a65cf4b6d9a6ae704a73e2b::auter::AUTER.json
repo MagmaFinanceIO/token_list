@@ -1,0 +1,13 @@
+{
+  "name": "Autistic Terminal",
+  "symbol": "AUTER",
+  "decimals": 9,
+  "coin_type": "0xe4c4ca5bb7ed5f7008957c7744cc39ed98fb4f521a65cf4b6d9a6ae704a73e2b::auter::AUTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/NmpfpJ7s7UBA4dLbrHVe8utkZqGjCEf2w552uZ5pump.png?size=lg&key=cc79b4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AI Token Hunter Zoro",
+  "symbol": "ZOROX",
+  "decimals": 9,
+  "coin_type": "0xc4e90ade274cc6ac35d407563497fb69e7adb6044d2d9ac2518933ebaae1fdf5::zorox::ZOROX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BQ6yqeqDinHtTUHH4JMzUAZ1MqGdNzcu9sDVcLrmpump.png?size=lg&key=bfec26",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

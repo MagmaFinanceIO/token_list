@@ -1,0 +1,13 @@
+{
+  "name": "Ripple On Sui",
+  "symbol": "XRP",
+  "decimals": 9,
+  "coin_type": "0x61136f70a4419cfe29a708458ac83aaaa0e94e3a7bdaa6d975088f350c35f3ff::xrp::XRP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/1397d6c7ed556b8808513f853acb7157blob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

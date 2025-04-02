@@ -1,0 +1,13 @@
+{
+  "name": "FLOKIBLUE",
+  "symbol": "FlokiBlue",
+  "decimals": 6,
+  "coin_type": "0x11b559b4f5ca46c7da459d0b47fe91f1ca6a03212895a740a6461e1045fcab9d::flokiblue::FLOKIBLUE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/GIFFLOKIBLUE_d3c08366b1.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "OceanAI Protocol",
+  "symbol": "OceanAI",
+  "decimals": 9,
+  "coin_type": "0xdb3407e59d80a35af4e9227c30fe8efe2eab1d407cee9e47d5b36d8de91fdd14::oceanai::OCEANAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f919888f-600b-4841-abc1-4f6a126fa0bb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

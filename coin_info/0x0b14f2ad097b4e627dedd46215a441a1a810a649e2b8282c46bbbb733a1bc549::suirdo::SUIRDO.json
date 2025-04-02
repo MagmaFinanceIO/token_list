@@ -1,0 +1,13 @@
+{
+  "name": "Sui Weirdo",
+  "symbol": "SUIRDO",
+  "decimals": 9,
+  "coin_type": "0x0b14f2ad097b4e627dedd46215a441a1a810a649e2b8282c46bbbb733a1bc549::suirdo::SUIRDO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0a9d05b4-4aa6-4e68-8be8-9f31fbb77858.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

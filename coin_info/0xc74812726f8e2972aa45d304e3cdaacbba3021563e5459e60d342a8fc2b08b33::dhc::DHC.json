@@ -1,0 +1,13 @@
+{
+  "name": "Diamond Head Coin",
+  "symbol": "DHC",
+  "decimals": 9,
+  "coin_type": "0xc74812726f8e2972aa45d304e3cdaacbba3021563e5459e60d342a8fc2b08b33::dhc::DHC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cca90ff6-6e55-4a75-84ef-b2611243e475.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ban sui",
+  "symbol": "SUIBAN",
+  "decimals": 9,
+  "coin_type": "0x77dafc24a90ac7de4c66113e534f51998478ef1f64c6ebff244be774144a854e::suiban::SUIBAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0e7fcd76-7076-4fd2-ba1c-bc838b5b62c2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

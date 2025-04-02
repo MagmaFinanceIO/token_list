@@ -1,0 +1,13 @@
+{
+  "name": "Kekius Maximus CEO",
+  "symbol": "KEKICEO",
+  "decimals": 9,
+  "coin_type": "0x71618968726f91bfd6f66a5fc4b24dd763220888daaa30efc541b711df5985b3::kekiceo::KEKICEO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GBMdSuCfj4ZeMCgUZ8JZMF7d8D3WkQTSWC3fbAnxpump.png?size=lg&key=e27de2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

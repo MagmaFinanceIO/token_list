@@ -1,0 +1,13 @@
+{
+  "name": "dogwifouthat",
+  "symbol": "WIFOUT",
+  "decimals": 9,
+  "coin_type": "0xed7374f117c2432046a016509c19a7eb1366aee4a04f5974b1f9ad57eadb45f6::wifout::WIFOUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/399DmbmPgM8wPLQGDWs47W525RJRPn5K714nU6N5pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

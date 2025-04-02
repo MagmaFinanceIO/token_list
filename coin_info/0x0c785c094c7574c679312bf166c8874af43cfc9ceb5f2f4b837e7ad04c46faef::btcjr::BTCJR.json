@@ -1,0 +1,13 @@
+{
+  "name": "BitCoinjr",
+  "symbol": "BTCjr",
+  "decimals": 9,
+  "coin_type": "0x0c785c094c7574c679312bf166c8874af43cfc9ceb5f2f4b837e7ad04c46faef::btcjr::BTCJR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c5e4880e-d6d3-4a15-a73d-68b6802c3a43.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

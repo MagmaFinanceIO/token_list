@@ -1,0 +1,13 @@
+{
+  "name": "Super Zuper Sui",
+  "symbol": "SUZS",
+  "decimals": 9,
+  "coin_type": "0xa932d433dc9c126927fa2128ab811d7902a6e395a0f2063502f3aff107f4a897::suzs::SUZS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a1e164e8-107c-442f-86c9-093ff3e8097c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

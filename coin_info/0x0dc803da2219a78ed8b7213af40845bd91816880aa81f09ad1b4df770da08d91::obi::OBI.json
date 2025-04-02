@@ -1,0 +1,13 @@
+{
+  "name": "OBI PNUT KENOBI",
+  "symbol": "OBI",
+  "decimals": 9,
+  "coin_type": "0x0dc803da2219a78ed8b7213af40845bd91816880aa81f09ad1b4df770da08d91::obi::OBI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/1Q1EgiHRqTGLYMmbsTNArnnPM6yRdqWPcY7AaK4pump.png?size=lg&key=94a40e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

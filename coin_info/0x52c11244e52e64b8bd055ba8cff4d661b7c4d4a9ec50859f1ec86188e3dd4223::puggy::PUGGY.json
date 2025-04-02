@@ -1,0 +1,13 @@
+{
+  "name": "$PUGGY",
+  "symbol": "PUGGY",
+  "decimals": 6,
+  "coin_type": "0x52c11244e52e64b8bd055ba8cff4d661b7c4d4a9ec50859f1ec86188e3dd4223::puggy::PUGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20241018_135856_658_39f80fb2ba.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

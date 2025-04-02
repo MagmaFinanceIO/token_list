@@ -1,0 +1,13 @@
+{
+  "name": "Auva",
+  "symbol": "AUVA",
+  "decimals": 6,
+  "coin_type": "0x670beb5e45da315a36341ef2870ef6a6d1516aa67064cf001a46f7955ef7cef8::auva::AUVA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/e5_NHDR_5o_400x400_7813452e01.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

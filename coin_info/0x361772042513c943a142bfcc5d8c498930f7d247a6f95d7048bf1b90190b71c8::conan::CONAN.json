@@ -1,0 +1,13 @@
+{
+  "name": "Justice for Conan",
+  "symbol": "Conan",
+  "decimals": 9,
+  "coin_type": "0x361772042513c943a142bfcc5d8c498930f7d247a6f95d7048bf1b90190b71c8::conan::CONAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/D135ctX8k6ZnoSG1jXttLk6oVasBjuZT9QG2Cxbkpump.png?size=lg&key=5a7fe1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

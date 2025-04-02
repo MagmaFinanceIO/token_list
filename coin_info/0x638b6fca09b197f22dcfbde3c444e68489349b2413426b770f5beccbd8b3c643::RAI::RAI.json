@@ -1,0 +1,13 @@
+{
+  "name": "Reploy",
+  "symbol": "RAI",
+  "decimals": 2,
+  "coin_type": "0x638b6fca09b197f22dcfbde3c444e68489349b2413426b770f5beccbd8b3c643::RAI::RAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/sYxdGo7a4cNsgKpJj2jOfu-SX1D26IyJuZ9pRh-CuWc?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

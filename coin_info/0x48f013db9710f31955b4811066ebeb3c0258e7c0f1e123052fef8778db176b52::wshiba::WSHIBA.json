@@ -1,0 +1,13 @@
+{
+  "name": "WaterShiba",
+  "symbol": "WSHIBA",
+  "decimals": 6,
+  "coin_type": "0x48f013db9710f31955b4811066ebeb3c0258e7c0f1e123052fef8778db176b52::wshiba::WSHIBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c3fd59a6-80e5-476a-9ba9-fe3890fc7369.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Infinia AI",
+  "symbol": "INFI",
+  "decimals": 6,
+  "coin_type": "0xf1f460f3cfcbd4e540b55b42753d88ee22fe30817757f5e2d0457f29401cdfb0::infi::INFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736246143566.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

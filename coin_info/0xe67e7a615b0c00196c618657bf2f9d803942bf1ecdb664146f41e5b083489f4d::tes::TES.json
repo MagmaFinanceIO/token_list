@@ -1,0 +1,13 @@
+{
+  "name": "Tessera",
+  "symbol": "TES",
+  "decimals": 9,
+  "coin_type": "0xe67e7a615b0c00196c618657bf2f9d803942bf1ecdb664146f41e5b083489f4d::tes::TES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a7ded953-bff7-409e-9765-e8e26ba33b12.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

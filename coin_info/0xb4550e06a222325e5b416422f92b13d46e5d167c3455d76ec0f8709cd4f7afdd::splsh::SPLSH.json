@@ -1,0 +1,13 @@
+{
+  "name": "SuiSplash",
+  "symbol": "SPLSH",
+  "decimals": 9,
+  "coin_type": "0xb4550e06a222325e5b416422f92b13d46e5d167c3455d76ec0f8709cd4f7afdd::splsh::SPLSH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1620009358661939200/5KoIti_p.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "KITTY",
+  "symbol": "KITTY",
+  "decimals": 9,
+  "coin_type": "0x40ce937620adb711df534a2d55becd3ce4783ec7bf67d4647e2dd1fcbf0b3330::kitty::KITTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9926c791-2ddc-4a7c-bc7d-7ba58c9e3dd3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

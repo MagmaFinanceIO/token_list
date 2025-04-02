@@ -1,0 +1,13 @@
+{
+  "name": "GAMESTOP",
+  "symbol": "GME",
+  "decimals": 9,
+  "coin_type": "0x799e0c181638d4077d9404c788c9034ecaedc5433ae656865d496ae3d06de24b::gme::GME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DD8CHhhT4VeD2GphX7FUo3N3ejVCkzHXLy7ncHG6QMAt.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

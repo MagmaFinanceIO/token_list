@@ -1,0 +1,13 @@
+{
+  "name": "DRIFE",
+  "symbol": "DRF",
+  "decimals": 6,
+  "coin_type": "0xcf3a7cc09ddb7e689e6c30082ce9e968d00ea60f8367455fed4ff3bb4faf5ca2::drf::DRF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5c47f069-1552-4af5-b9ec-be232f92ddad.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

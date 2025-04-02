@@ -1,0 +1,13 @@
+{
+  "name": "SUIAGENT",
+  "symbol": "SUIAGENT",
+  "decimals": 9,
+  "coin_type": "0xf1b6b83761ed8287d19b4e10114f162486a60f8595904213edc220eefa2b36fc::SUIAGENT::SUIAGENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

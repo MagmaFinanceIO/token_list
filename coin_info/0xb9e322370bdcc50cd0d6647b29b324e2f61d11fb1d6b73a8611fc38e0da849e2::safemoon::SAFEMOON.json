@@ -1,0 +1,13 @@
+{
+  "name": "SafeMoon",
+  "symbol": "SAFEMOON",
+  "decimals": 9,
+  "coin_type": "0xb9e322370bdcc50cd0d6647b29b324e2f61d11fb1d6b73a8611fc38e0da849e2::safemoon::SAFEMOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2kGfWRgNp1QaxUMFCX9CMN78E1iCbgjBAZuQNUjWpump.png?size=lg&key=6802c2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

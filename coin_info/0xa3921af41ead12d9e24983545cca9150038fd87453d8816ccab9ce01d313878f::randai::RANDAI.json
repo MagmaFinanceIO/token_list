@@ -1,0 +1,13 @@
+{
+  "name": "Randy AI",
+  "symbol": "RANDAI",
+  "decimals": 9,
+  "coin_type": "0xa3921af41ead12d9e24983545cca9150038fd87453d8816ccab9ce01d313878f::randai::RANDAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DS3VWhxXsWZHtyeSB8ni9M91fjoGunzKcH7duvvpump.png?size=lg&key=ea7ebc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

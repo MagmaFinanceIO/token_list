@@ -1,0 +1,13 @@
+{
+  "name": "Assisterr AI",
+  "symbol": "AIRR",
+  "decimals": 6,
+  "coin_type": "0xe73326c6d5b3ccfac149ade395c26f3f3762d3a3e7dd40bd8b09b3e9db9ed074::airr::AIRR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f5d2286b-85be-4d5b-9777-abaf13ecb966.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

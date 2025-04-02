@@ -1,0 +1,13 @@
+{
+  "name": "SUI TRENCH",
+  "symbol": "TRNCH",
+  "decimals": 6,
+  "coin_type": "0x5da1ff110719893cb203281dfe06a139204f26a10d82a9372b3fa81d3a08fdaf::trnch::TRNCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/6296497115240710909_e42d62518a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

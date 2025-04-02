@@ -1,0 +1,13 @@
+{
+  "name": "BARK",
+  "symbol": "BARK",
+  "decimals": 9,
+  "coin_type": "0xbd1f217bea31082ad4e1a8136efb5168ae8b6a3d6fac7cd16836fbb114d1efe6::bark::BARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d42452e6-1214-41c3-a95f-1eac8d90d65d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

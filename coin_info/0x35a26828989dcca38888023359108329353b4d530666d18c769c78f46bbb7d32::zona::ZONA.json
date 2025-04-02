@@ -1,0 +1,13 @@
+{
+  "name": "Zona Zurvival",
+  "symbol": "ZONA",
+  "decimals": 6,
+  "coin_type": "0x35a26828989dcca38888023359108329353b4d530666d18c769c78f46bbb7d32::zona::ZONA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Mg_G_Bov2_SBX_79c_Ze_C9_Immaoh_Dlo_ac992a670a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

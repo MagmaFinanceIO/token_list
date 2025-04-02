@@ -1,0 +1,13 @@
+{
+  "name": "Kiyama World",
+  "symbol": "KiyamaAi",
+  "decimals": 9,
+  "coin_type": "0xd42e9ef39518d2d245edced13d6a93710d9a90ad79ee339fad2aeb69f14d8784::kiyamaai::KIYAMAAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmVzXpgFbwLyZGs4TVs9BrDXG8GH6cncUbNrAqY1BHzCEG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

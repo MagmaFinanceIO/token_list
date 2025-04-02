@@ -1,0 +1,13 @@
+{
+  "name": "5 Bucks",
+  "symbol": "FiveBucks",
+  "decimals": 9,
+  "coin_type": "0xf9fa428c444db5aa93a7f35a08a852aeb517e7aa0cbcd7e83e5fcb038187ce6f::fivebucks::FIVEBUCKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/52ix8DA1MUo9SjKtwC2gvnranJZVYTp99mLyuj5upump.png?size=lg&key=d0edd7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

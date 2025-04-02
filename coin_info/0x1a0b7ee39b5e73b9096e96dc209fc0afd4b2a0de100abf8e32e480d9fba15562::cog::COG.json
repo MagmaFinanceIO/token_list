@@ -1,0 +1,13 @@
+{
+  "name": "CATDOGSUI",
+  "symbol": "COG",
+  "decimals": 6,
+  "coin_type": "0x1a0b7ee39b5e73b9096e96dc209fc0afd4b2a0de100abf8e32e480d9fba15562::cog::COG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000004216_10b0a183e5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

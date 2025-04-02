@@ -1,0 +1,13 @@
+{
+  "name": "People with 1 IQ",
+  "symbol": "IQ1",
+  "decimals": 9,
+  "coin_type": "0xee8a3c090fb14b85b2578bed8ad261251893505d5cccb383001f152ea9ce060f::iq1::IQ1",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CkuMHK2YNntSmFCQbr9thJD1778XXkuag8eRs3Jwpump.png?size=lg&key=9a9fd4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

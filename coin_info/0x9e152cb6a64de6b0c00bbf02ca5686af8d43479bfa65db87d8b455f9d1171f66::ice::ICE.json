@@ -1,0 +1,13 @@
+{
+  "name": "🍦 ICE",
+  "symbol": "ICE",
+  "decimals": 9,
+  "coin_type": "0x9e152cb6a64de6b0c00bbf02ca5686af8d43479bfa65db87d8b455f9d1171f66::ice::ICE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/76d367ba-5555-4c1e-99a2-412133c04e89.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

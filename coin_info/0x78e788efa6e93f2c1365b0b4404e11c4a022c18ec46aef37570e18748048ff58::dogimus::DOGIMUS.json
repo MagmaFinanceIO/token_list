@@ -1,0 +1,13 @@
+{
+  "name": "DOGIMUs",
+  "symbol": "DOGIMUS",
+  "decimals": 6,
+  "coin_type": "0x78e788efa6e93f2c1365b0b4404e11c4a022c18ec46aef37570e18748048ff58::dogimus::DOGIMUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/0xda4da6dc1dca253621a371ee2788951c90a9f117_c5923d8163.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

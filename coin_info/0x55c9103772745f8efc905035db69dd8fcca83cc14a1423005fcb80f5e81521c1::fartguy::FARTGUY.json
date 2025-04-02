@@ -1,0 +1,13 @@
+{
+  "name": "FartGuy",
+  "symbol": "FartGuy",
+  "decimals": 9,
+  "coin_type": "0x55c9103772745f8efc905035db69dd8fcca83cc14a1423005fcb80f5e81521c1::fartguy::FARTGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EzVkdRYRACWKQeY7fHg4BBL7gx8WC5DvNxWm4ZA2pump.png?size=lg&key=48100a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

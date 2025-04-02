@@ -1,0 +1,13 @@
+{
+  "name": "DegenSUI",
+  "symbol": "DegenSUI",
+  "decimals": 9,
+  "coin_type": "0xc6443323a85632603f1d75ff71778247e387bf98bfe68d9cf7d367cfc4b5c550::degensui::DEGENSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/449bf619-b569-4bc4-ac54-b4b656e689c2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

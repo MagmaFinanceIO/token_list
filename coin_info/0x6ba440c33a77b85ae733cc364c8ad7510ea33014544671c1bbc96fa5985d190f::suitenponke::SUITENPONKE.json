@@ -1,0 +1,13 @@
+{
+  "name": "SUIten Mafia Ponke",
+  "symbol": "SuitenPonke",
+  "decimals": 9,
+  "coin_type": "0x6ba440c33a77b85ae733cc364c8ad7510ea33014544671c1bbc96fa5985d190f::suitenponke::SUITENPONKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3aa8bd8f-420c-45a6-946a-c8c0d007be25.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

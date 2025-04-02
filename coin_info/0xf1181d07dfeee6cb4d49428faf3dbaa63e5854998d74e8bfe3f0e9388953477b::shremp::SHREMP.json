@@ -1,0 +1,13 @@
+{
+  "name": "Shremp",
+  "symbol": "Shremp",
+  "decimals": 9,
+  "coin_type": "0xf1181d07dfeee6cb4d49428faf3dbaa63e5854998d74e8bfe3f0e9388953477b::shremp::SHREMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4270849b-3b12-406f-ae1e-72cbe71a5150.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

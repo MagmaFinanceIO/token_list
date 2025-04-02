@@ -1,0 +1,13 @@
+{
+  "name": "PIPSUI",
+  "symbol": "PIP",
+  "decimals": 9,
+  "coin_type": "0xb973dc8ed0b48cf1542bda14614e1242c8ac324c7ae44ead6f96f8e538791bbb::pip::PIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e64d6335-2ee2-416e-81d7-c597a8d381fe.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

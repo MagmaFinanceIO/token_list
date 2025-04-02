@@ -1,0 +1,13 @@
+{
+  "name": "6 Infinty SUI",
+  "symbol": "SUIFINITY",
+  "decimals": 6,
+  "coin_type": "0x390ba7ac6e0551be7bf74d2821f46a324124bbaaa9fa0a86618b75d2d1870d73::suifinity::SUIFINITY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_68a691d6eb.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "The Dev Is A Cat",
+  "symbol": "Kira",
+  "decimals": 9,
+  "coin_type": "0xfb3d2ed26ac13db388fd679bf5365ebc8bd61d985f4eb3dacb9268ca086106b3::kira::KIRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/wpU56BR9qLyA9bxxF2uLtULERVZFvtuLtcXdL9xpump.png?size=lg&key=1a5a0b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

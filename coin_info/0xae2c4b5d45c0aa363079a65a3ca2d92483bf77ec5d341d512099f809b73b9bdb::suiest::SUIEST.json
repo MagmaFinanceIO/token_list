@@ -1,0 +1,13 @@
+{
+  "name": "SUIEST",
+  "symbol": "SUIEST",
+  "decimals": 9,
+  "coin_type": "0xae2c4b5d45c0aa363079a65a3ca2d92483bf77ec5d341d512099f809b73b9bdb::suiest::SUIEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3b706c11-59ed-4c14-9c9c-3133135b0597.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

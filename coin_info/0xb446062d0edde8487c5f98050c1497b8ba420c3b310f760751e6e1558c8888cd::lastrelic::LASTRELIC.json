@@ -1,0 +1,13 @@
+{
+  "name": "Last Relic",
+  "symbol": "LASTRELIC",
+  "decimals": 9,
+  "coin_type": "0xb446062d0edde8487c5f98050c1497b8ba420c3b310f760751e6e1558c8888cd::lastrelic::LASTRELIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CSvSFqRGWcEFY3W8Ht2461zVSvXXGQ3F85aT6DYypump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

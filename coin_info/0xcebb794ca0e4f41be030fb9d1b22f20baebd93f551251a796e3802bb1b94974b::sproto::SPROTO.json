@@ -1,0 +1,13 @@
+{
+  "name": "Sproto Gremlin  $SPROTO",
+  "symbol": "SPROTO",
+  "decimals": 6,
+  "coin_type": "0xcebb794ca0e4f41be030fb9d1b22f20baebd93f551251a796e3802bb1b94974b::sproto::SPROTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6498_b1dd8ba93c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

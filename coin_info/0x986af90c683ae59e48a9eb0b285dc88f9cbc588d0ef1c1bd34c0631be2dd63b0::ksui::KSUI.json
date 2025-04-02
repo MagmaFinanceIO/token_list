@@ -1,0 +1,13 @@
+{
+  "name": "Kriya Staked SUI",
+  "symbol": "kSUI",
+  "decimals": 9,
+  "coin_type": "0x986af90c683ae59e48a9eb0b285dc88f9cbc588d0ef1c1bd34c0631be2dd63b0::ksui::KSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c285d326-66c6-4423-a31d-d73838e48250.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

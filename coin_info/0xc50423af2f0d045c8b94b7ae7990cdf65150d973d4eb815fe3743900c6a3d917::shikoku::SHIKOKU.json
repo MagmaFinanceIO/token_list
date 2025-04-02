@@ -1,0 +1,13 @@
+{
+  "name": "ShiKoKu DOgs",
+  "symbol": "ShiKoKu",
+  "decimals": 6,
+  "coin_type": "0xc50423af2f0d045c8b94b7ae7990cdf65150d973d4eb815fe3743900c6a3d917::shikoku::SHIKOKU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1logo_bdee6d5473.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

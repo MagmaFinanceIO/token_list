@@ -1,0 +1,13 @@
+{
+  "name": "CHILL SANTA",
+  "symbol": "CHILLSNT",
+  "decimals": 9,
+  "coin_type": "0x1d092007254f2a9668d15956a82fdede31496213e64bbe91367a0c345817fce7::chillsnt::CHILLSNT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/D23jR96uyb1WhdEhQ4whm6bGMJrsFkhXrZCKpei1pump.png?size=lg&key=49e420",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

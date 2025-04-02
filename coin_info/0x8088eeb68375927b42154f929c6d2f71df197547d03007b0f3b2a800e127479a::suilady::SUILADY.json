@@ -1,0 +1,13 @@
+{
+  "name": "The Queen Of Sui Ocean",
+  "symbol": "SUILADY",
+  "decimals": 6,
+  "coin_type": "0x8088eeb68375927b42154f929c6d2f71df197547d03007b0f3b2a800e127479a::suilady::SUILADY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmQeHxQXeguR8oeqf1zwciNn51oKRfkCszfBLwraBBhhB5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

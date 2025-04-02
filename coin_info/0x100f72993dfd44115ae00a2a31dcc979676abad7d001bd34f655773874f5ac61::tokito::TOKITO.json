@@ -1,0 +1,13 @@
+{
+  "name": "Tokito AI",
+  "symbol": "Tokito",
+  "decimals": 9,
+  "coin_type": "0x100f72993dfd44115ae00a2a31dcc979676abad7d001bd34f655773874f5ac61::tokito::TOKITO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/iOphMDPDRINjU_9H?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

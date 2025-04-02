@@ -1,0 +1,13 @@
+{
+  "name": "Pug Coin",
+  "symbol": "PUGCOIN",
+  "decimals": 6,
+  "coin_type": "0x11eaccef3066c5c296cb65c286b5a54a237855e32a6c55d2702cb5f91863ba76::pugcoin::PUGCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_tg_1_3f0292de22.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

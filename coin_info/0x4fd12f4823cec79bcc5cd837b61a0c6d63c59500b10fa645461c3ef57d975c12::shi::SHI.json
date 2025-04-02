@@ -1,0 +1,13 @@
+{
+  "name": "Ryoshi Research",
+  "symbol": "SHI",
+  "decimals": 6,
+  "coin_type": "0x4fd12f4823cec79bcc5cd837b61a0c6d63c59500b10fa645461c3ef57d975c12::shi::SHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2024_11_19_03_11_22_38d17485f4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

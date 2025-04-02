@@ -1,0 +1,13 @@
+{
+  "name": "SONK",
+  "symbol": "SONK",
+  "decimals": 9,
+  "coin_type": "0x0157fd8fd5fcc49f6808c6f9c12a6443da5af327519193030f55f221a7b8ab91::SONK::SONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

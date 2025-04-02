@@ -1,0 +1,13 @@
+{
+  "name": "Vindicta",
+  "symbol": "VINDICTA",
+  "decimals": 9,
+  "coin_type": "0x1e08e399f207bb560ca1908c02f2d2e781e3ccba190e2d317eb489648c32cd51::vindicta::VINDICTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/224/252/large/ino-moon-vindicta.jpg?1727029347",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

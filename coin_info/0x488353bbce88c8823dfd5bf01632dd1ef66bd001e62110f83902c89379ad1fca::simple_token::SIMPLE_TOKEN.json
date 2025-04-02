@@ -1,0 +1,13 @@
+{
+  "name": "NOUVA",
+  "symbol": "NOUVA AI",
+  "decimals": 9,
+  "coin_type": "0x488353bbce88c8823dfd5bf01632dd1ef66bd001e62110f83902c89379ad1fca::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

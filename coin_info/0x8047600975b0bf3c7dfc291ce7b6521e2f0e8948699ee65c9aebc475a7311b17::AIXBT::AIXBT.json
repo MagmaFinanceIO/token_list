@@ -1,0 +1,13 @@
+{
+  "name": "AIXBT ON SUI",
+  "symbol": "AIXBT",
+  "decimals": 2,
+  "coin_type": "0x8047600975b0bf3c7dfc291ce7b6521e2f0e8948699ee65c9aebc475a7311b17::AIXBT::AIXBT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/cseDTNe4TXkA2CQz9Vg_Bt2Qi0RThccQHsWlRRb-cx8?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

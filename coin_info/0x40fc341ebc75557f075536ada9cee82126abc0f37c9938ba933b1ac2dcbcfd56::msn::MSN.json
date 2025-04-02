@@ -1,0 +1,13 @@
+{
+  "name": "Mouse Coin",
+  "symbol": "MSN",
+  "decimals": 6,
+  "coin_type": "0x40fc341ebc75557f075536ada9cee82126abc0f37c9938ba933b1ac2dcbcfd56::msn::MSN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Stressed_Mouse_meme_10_d9451a8a27.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

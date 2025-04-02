@@ -1,0 +1,13 @@
+{
+  "name": "Kamala Harris",
+  "symbol": "KAMALA",
+  "decimals": 6,
+  "coin_type": "0xb5e6b8b046234cc3edff3bf5d2d420465a15e6e15b35759a95cc1316965d17e5::kamala::KAMALA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9c3f7b52-945d-41a1-9303-3aee526e4297.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

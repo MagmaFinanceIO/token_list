@@ -1,0 +1,13 @@
+{
+  "name": "Senta Klaws",
+  "symbol": "SENTA",
+  "decimals": 9,
+  "coin_type": "0x260f4e7da3555051e8934e911942e1c0c20ba61a3a4aeb97fad307c6f1bad388::senta::SENTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6e9a3fdc-b6f5-4f38-83c4-4c9c3bfda0ea.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

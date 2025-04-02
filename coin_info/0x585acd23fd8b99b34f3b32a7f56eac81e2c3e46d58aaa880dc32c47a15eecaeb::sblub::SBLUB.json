@@ -1,0 +1,13 @@
+{
+  "name": "SUIBLUB",
+  "symbol": "SBLUB",
+  "decimals": 6,
+  "coin_type": "0x585acd23fd8b99b34f3b32a7f56eac81e2c3e46d58aaa880dc32c47a15eecaeb::sblub::SBLUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6e17ca02-0156-41f1-9f01-fb967ede46da.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

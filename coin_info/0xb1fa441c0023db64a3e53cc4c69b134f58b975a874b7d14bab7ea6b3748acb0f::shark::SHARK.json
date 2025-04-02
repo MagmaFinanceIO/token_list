@@ -1,0 +1,13 @@
+{
+  "name": "Turbo Shark",
+  "symbol": "SHARK",
+  "decimals": 6,
+  "coin_type": "0xb1fa441c0023db64a3e53cc4c69b134f58b975a874b7d14bab7ea6b3748acb0f::shark::SHARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730969477764.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FEDEX rate",
+  "symbol": "FEDEX",
+  "decimals": 9,
+  "coin_type": "0xa0f48ded83ffa372cf62800d746e4e06da461c5f981ab38517080d292636648f::FED::FED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/71ebd28e-f5bf-495f-8ad9-426378c7b09b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

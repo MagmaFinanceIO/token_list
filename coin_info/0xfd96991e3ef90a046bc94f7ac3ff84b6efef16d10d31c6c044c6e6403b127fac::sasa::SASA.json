@@ -1,0 +1,13 @@
+{
+  "name": "Sardine",
+  "symbol": "SASA",
+  "decimals": 9,
+  "coin_type": "0xfd96991e3ef90a046bc94f7ac3ff84b6efef16d10d31c6c044c6e6403b127fac::sasa::SASA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1a0197c3-d9b1-4c45-8a8e-0900c102c4d6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

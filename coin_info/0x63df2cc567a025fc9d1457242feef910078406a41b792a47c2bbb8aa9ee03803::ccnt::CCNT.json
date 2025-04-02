@@ -1,0 +1,13 @@
+{
+  "name": "Coconut Tree",
+  "symbol": "CCNT",
+  "decimals": 6,
+  "coin_type": "0x63df2cc567a025fc9d1457242feef910078406a41b792a47c2bbb8aa9ee03803::ccnt::CCNT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f9d420cf-effb-4dbc-9074-be6af1858553.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Lord Of Memes",
+  "symbol": "MatFurie",
+  "decimals": 9,
+  "coin_type": "0x335e3dcd3f5515e096f371c7e23dafadb8ec22179ee3cde055de77b44b01f36d::matfurie::MATFURIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x44c3c186aaa156fd572fcd3f8ccc93034e3ba4fa.png?size=lg&key=24f78c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "RENKA",
+  "symbol": "RENKA",
+  "decimals": 9,
+  "coin_type": "0x61921cf9ae3105154aa1dddea7d94352bcd2e66acfbd77fde3fdc04cd395837d::renka::RENKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3vn1dudoPuoGJM3wgMGZKCd7TKmaxas32df35nfLpump.png?size=lg&key=3422a0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

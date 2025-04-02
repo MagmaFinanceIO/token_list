@@ -1,0 +1,13 @@
+{
+  "name": "Seal Cat",
+  "symbol": "SAT",
+  "decimals": 6,
+  "coin_type": "0xb4e925f14b7ef38f506b9935c7f48f2f30777ad353b1cbfbc2c74d1bff2394e8::sat::SAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f9f3243b-42d5-46a0-817f-a5503297820b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

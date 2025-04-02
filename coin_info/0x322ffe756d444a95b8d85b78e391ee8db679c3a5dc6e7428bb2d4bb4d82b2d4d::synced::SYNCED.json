@@ -1,0 +1,13 @@
+{
+  "name": "Synced",
+  "symbol": "SYNCED",
+  "decimals": 9,
+  "coin_type": "0x322ffe756d444a95b8d85b78e391ee8db679c3a5dc6e7428bb2d4bb4d82b2d4d::synced::SYNCED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/760/792/large/ranx-zz2.jpg?1728453554",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

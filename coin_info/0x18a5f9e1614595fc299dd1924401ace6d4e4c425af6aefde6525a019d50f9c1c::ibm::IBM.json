@@ -1,0 +1,13 @@
+{
+  "name": "IBM",
+  "symbol": "IBM",
+  "decimals": 9,
+  "coin_type": "0x18a5f9e1614595fc299dd1924401ace6d4e4c425af6aefde6525a019d50f9c1c::ibm::IBM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

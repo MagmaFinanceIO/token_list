@@ -1,0 +1,13 @@
+{
+  "name": "Sui Chad",
+  "symbol": "Chad",
+  "decimals": 6,
+  "coin_type": "0x4c407edd882f5ba66813856676c486ce4dd16ed7c534d07cf5d50e015c288ab8::chad::CHAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6648_ea88388af9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

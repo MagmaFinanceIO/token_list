@@ -1,0 +1,13 @@
+{
+  "name": "Spectre AI",
+  "symbol": "S",
+  "decimals": 6,
+  "coin_type": "0x55f7659b17dd552baeedab467a0dcfdf4e13b0dd8c2d36ba9f0c93e364311458::s::S",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4fa0c9df-858d-41b3-88b1-5af33b227ee8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sChapoDog",
+  "symbol": "Sui Chapo Dog",
+  "decimals": 6,
+  "coin_type": "0x91da7e2bce91fbbf1987391b6925351f51e35dea6f9a037927c0a5f35c49d3c9::chapodog::CHAPODOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/55344675-b88c-49a4-b699-4a134c1a2e01.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

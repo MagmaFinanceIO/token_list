@@ -1,0 +1,13 @@
+{
+  "name": "Sui_Shark",
+  "symbol": "Sui_Shark",
+  "decimals": 9,
+  "coin_type": "0x5dba10aa664ce74bd4faaae89846437737c967bb91c874f58ecf82861114ce5c::sui_shark::SUI_SHARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0fc3b216-e058-48b1-aef2-65a5ad82d49d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

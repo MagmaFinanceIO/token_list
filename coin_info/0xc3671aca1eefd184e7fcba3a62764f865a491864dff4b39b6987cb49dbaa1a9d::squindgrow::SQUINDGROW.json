@@ -1,0 +1,13 @@
+{
+  "name": "Squid Grow",
+  "symbol": "SquindGrow",
+  "decimals": 9,
+  "coin_type": "0xc3671aca1eefd184e7fcba3a62764f865a491864dff4b39b6987cb49dbaa1a9d::squindgrow::SQUINDGROW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cfab8667-20d9-4c69-962b-09106fbb11ef.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

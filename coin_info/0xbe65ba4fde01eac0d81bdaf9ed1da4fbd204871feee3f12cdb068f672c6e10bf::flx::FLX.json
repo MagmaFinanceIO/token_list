@@ -1,0 +1,13 @@
+{
+  "name": "FlowX",
+  "symbol": "FLX",
+  "decimals": 5,
+  "coin_type": "0xbe65ba4fde01eac0d81bdaf9ed1da4fbd204871feee3f12cdb068f672c6e10bf::flx::FLX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1e6f9c67-7bfb-45f8-825a-4e6c5ba5e34d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

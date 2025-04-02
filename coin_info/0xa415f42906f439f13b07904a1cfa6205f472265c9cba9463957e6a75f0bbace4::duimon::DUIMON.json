@@ -1,0 +1,13 @@
+{
+  "name": "Duimon",
+  "symbol": "DUIMON",
+  "decimals": 6,
+  "coin_type": "0xa415f42906f439f13b07904a1cfa6205f472265c9cba9463957e6a75f0bbace4::duimon::DUIMON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Whats_App_Image_2024_10_04_at_10_52_03_PM_1ef8eb7464.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

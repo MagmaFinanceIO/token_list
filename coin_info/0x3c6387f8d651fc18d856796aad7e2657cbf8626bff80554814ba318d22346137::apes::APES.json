@@ -1,0 +1,13 @@
+{
+  "name": "Amazing Primates Earn Sui",
+  "symbol": "APES",
+  "decimals": 9,
+  "coin_type": "0x3c6387f8d651fc18d856796aad7e2657cbf8626bff80554814ba318d22346137::apes::APES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f4ab406e-b152-4a2a-afe7-c5d788603b3a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

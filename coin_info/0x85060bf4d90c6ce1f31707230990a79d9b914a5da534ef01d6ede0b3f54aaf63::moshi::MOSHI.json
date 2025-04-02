@@ -1,0 +1,13 @@
+{
+  "name": "Moshi",
+  "symbol": "MOSHI",
+  "decimals": 9,
+  "coin_type": "0x85060bf4d90c6ce1f31707230990a79d9b914a5da534ef01d6ede0b3f54aaf63::moshi::MOSHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8SM5zQerbmduhBQjWZf2RwmgheSVXkhVVSx9BFGmQoyW.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

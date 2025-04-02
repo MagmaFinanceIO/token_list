@@ -1,0 +1,13 @@
+{
+  "name": "NGMI",
+  "symbol": "NGMI",
+  "decimals": 6,
+  "coin_type": "0x1d6e478a2e7aa98503415e2217c2dd8ab2a0119de88fb6963da86a841bf164ed::ngmi::NGMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/43af1d3d-2306-486a-8a29-7f6b68bb328c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

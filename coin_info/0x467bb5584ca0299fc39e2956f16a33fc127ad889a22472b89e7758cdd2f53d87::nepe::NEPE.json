@@ -1,0 +1,13 @@
+{
+  "name": "Neiro Pepe Wif Suit",
+  "symbol": "NEPE",
+  "decimals": 9,
+  "coin_type": "0x467bb5584ca0299fc39e2956f16a33fc127ad889a22472b89e7758cdd2f53d87::nepe::NEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x89b9d56969a930bd3b4b56dd040f218e5dc4aba6.png?size=lg&key=89834f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

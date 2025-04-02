@@ -1,0 +1,13 @@
+{
+  "name": "Grand Theft Trump",
+  "symbol": "GtTrump",
+  "decimals": 6,
+  "coin_type": "0x9ade65d4729d5d4b1cd2000f86c0b22dcb74edbaf3e0ebbf089b1543aac44513::gttrump::GTTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/LOGO_GT_TRUMP_a6f7bf2fef.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DragonBall",
+  "symbol": "Dragon",
+  "decimals": 6,
+  "coin_type": "0xedd5ad84bb24fcb045ca8a8ffb60503863c4977229fc4b8cb9cf1258d5180a05::dragon::DRAGON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmfV4hUT8yxWs4wotYEUYfAh4gyfcBBHUqYgvfzVAuGRii",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

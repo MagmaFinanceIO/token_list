@@ -1,0 +1,13 @@
+{
+  "name": "Snoopy the dog",
+  "symbol": "SNOOPY",
+  "decimals": 9,
+  "coin_type": "0xa5ecabc5166c87a888c70c9d58cafa7d153ba35218ac031d61db85a2d114b01a::snoopy::SNOOPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EZVLh3aham9GcvG36SHpf68pgAt9Bj8cQLCnGFRTpump.png?size=lg&key=069226",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

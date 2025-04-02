@@ -1,0 +1,13 @@
+{
+  "name": "Goalolol",
+  "symbol": "Goalo",
+  "decimals": 3,
+  "coin_type": "0xdc897ed2e5ef7a4686e76f39d8a172b9707a126d6ab14a92f74b150b5b4a765d::goalo::GOALO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/886d18bb-c423-4ff6-aceb-11138db94cdc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

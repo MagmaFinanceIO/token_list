@@ -1,0 +1,13 @@
+{
+  "name": "MELODY CAT",
+  "symbol": "MELODY",
+  "decimals": 9,
+  "coin_type": "0xcd22a4ca221a72f8e3470441c7990dbea48eeda7fd7223eaa231a11d713856a1::melody::MELODY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FhiNeF9uqoLiy2uUTh5ysWxJSUeXnmo4ZRqnAtiU5vdB.png?size=lg&key=a2e815",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

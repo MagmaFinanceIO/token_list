@@ -1,0 +1,13 @@
+{
+  "name": "Stand Goat",
+  "symbol": "SGOAT",
+  "decimals": 9,
+  "coin_type": "0x7ac5ddc85e64ce9c0b05b0fe7eef679a88a7f8c9210d2e9b263b9819b9bd49c0::sgoat::SGOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/Ms6f1hm/standgoatt.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

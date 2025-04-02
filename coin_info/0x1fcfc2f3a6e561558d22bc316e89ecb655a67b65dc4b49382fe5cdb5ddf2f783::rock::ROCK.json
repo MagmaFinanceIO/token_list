@@ -1,0 +1,13 @@
+{
+  "name": "Official Rock Coin",
+  "symbol": "ROCK",
+  "decimals": 9,
+  "coin_type": "0x1fcfc2f3a6e561558d22bc316e89ecb655a67b65dc4b49382fe5cdb5ddf2f783::rock::ROCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8Y8hA3kwBNMCDySaYwpJEXSbHqWida7t4mFuwcjSpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

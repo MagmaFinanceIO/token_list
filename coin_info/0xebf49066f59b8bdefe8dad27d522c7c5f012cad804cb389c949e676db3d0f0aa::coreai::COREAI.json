@@ -1,0 +1,13 @@
+{
+  "name": "Core AI Sui",
+  "symbol": "COREAI",
+  "decimals": 9,
+  "coin_type": "0xebf49066f59b8bdefe8dad27d522c7c5f012cad804cb389c949e676db3d0f0aa::coreai::COREAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/251134b3-bced-440d-bb43-0be69ab0085e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

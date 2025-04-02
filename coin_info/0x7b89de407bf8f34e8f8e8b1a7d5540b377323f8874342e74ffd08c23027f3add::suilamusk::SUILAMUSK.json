@@ -1,0 +1,13 @@
+{
+  "name": "Suilamusk",
+  "symbol": "SUILAMUSK",
+  "decimals": 9,
+  "coin_type": "0x7b89de407bf8f34e8f8e8b1a7d5540b377323f8874342e74ffd08c23027f3add::suilamusk::SUILAMUSK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a7d7bd60-07d0-496f-8a27-097ea14edc58.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

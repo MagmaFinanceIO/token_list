@@ -1,0 +1,13 @@
+{
+  "name": "Pinky CTO Sui",
+  "symbol": "PISUI",
+  "decimals": 6,
+  "coin_type": "0x7a101e0c2f53400e7df71de64e458485322ee9eab5155e6dea3f931f4aca3ffb::pisui::PISUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_1_14_80f646a9b2.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

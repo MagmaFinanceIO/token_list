@@ -1,0 +1,13 @@
+{
+  "name": "SuiSquirtle",
+  "symbol": "SuiSquirtle",
+  "decimals": 6,
+  "coin_type": "0x83af25e17f4f7050f6e37bc74e6c0078d695ef28b6a06fd7562f9b6c80cdbec4::suisquirtle::SUISQUIRTLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d1b6acfa-1814-417d-9a4a-e62a279ad700.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

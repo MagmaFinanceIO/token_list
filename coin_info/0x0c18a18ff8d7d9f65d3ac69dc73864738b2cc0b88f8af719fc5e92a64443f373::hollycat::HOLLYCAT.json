@@ -1,0 +1,13 @@
+{
+  "name": "Holly Molly Cat",
+  "symbol": "HOLLYCAT",
+  "decimals": 9,
+  "coin_type": "0x0c18a18ff8d7d9f65d3ac69dc73864738b2cc0b88f8af719fc5e92a64443f373::hollycat::HOLLYCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b362f048-67a4-4390-9f0d-7d4529721b66.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

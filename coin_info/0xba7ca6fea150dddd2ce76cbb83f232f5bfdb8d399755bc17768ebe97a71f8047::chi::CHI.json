@@ -1,0 +1,13 @@
+{
+  "name": "suicchini",
+  "symbol": "CHI",
+  "decimals": 6,
+  "coin_type": "0xba7ca6fea150dddd2ce76cbb83f232f5bfdb8d399755bc17768ebe97a71f8047::chi::CHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2024_10_16_09_11_30_bfb01e75df.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

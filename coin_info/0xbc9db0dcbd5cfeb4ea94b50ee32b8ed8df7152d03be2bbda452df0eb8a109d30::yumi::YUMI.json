@@ -1,0 +1,13 @@
+{
+  "name": "New Doge",
+  "symbol": "yumi",
+  "decimals": 9,
+  "coin_type": "0xbc9db0dcbd5cfeb4ea94b50ee32b8ed8df7152d03be2bbda452df0eb8a109d30::yumi::YUMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FhbqJtDE5XXk9Netjvrx5nhmnXxFRAS9eoGLwMi2pump.png?size=xl&key=76fd28",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

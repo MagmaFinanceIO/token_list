@@ -1,0 +1,13 @@
+{
+  "name": "Just a doge guy",
+  "symbol": "DOGEGUY",
+  "decimals": 9,
+  "coin_type": "0xeea694df1a305243c9bc54b043e49201371c1dda998886cac1e5b9e3c8d6487c::dogeguy::DOGEGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4bC1KrDsYgGB9b5eas1hdYT8yEKMVvqeTgA6x5SEHGgv.png?size=lg&key=61a641",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

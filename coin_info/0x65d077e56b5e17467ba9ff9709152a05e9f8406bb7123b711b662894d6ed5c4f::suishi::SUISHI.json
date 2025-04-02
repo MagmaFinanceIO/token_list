@@ -1,0 +1,13 @@
+{
+  "name": "SUISHI Swap",
+  "symbol": "SUISHI",
+  "decimals": 2,
+  "coin_type": "0x65d077e56b5e17467ba9ff9709152a05e9f8406bb7123b711b662894d6ed5c4f::suishi::SUISHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6bb6a3bc-f6f8-4cc7-8941-3b8b480590a9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

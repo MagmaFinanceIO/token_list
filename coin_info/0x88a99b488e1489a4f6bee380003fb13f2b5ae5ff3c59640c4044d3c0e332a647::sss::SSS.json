@@ -1,0 +1,13 @@
+{
+  "name": "Super Speed Sui",
+  "symbol": "SSS",
+  "decimals": 9,
+  "coin_type": "0x88a99b488e1489a4f6bee380003fb13f2b5ae5ff3c59640c4044d3c0e332a647::sss::SSS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a91da2b7-10c8-46ee-80b0-bf35ba7964ae.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

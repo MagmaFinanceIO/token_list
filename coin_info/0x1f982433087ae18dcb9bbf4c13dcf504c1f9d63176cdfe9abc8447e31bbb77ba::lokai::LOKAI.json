@@ -1,0 +1,13 @@
+{
+  "name": "LOKAI by SuiAI",
+  "symbol": "LOKAI",
+  "decimals": 6,
+  "coin_type": "0x1f982433087ae18dcb9bbf4c13dcf504c1f9d63176cdfe9abc8447e31bbb77ba::lokai::LOKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/let0443_Create_a_blue_adult_Yeti_with_a_white_face_slim_and_a_3ab9a810_e06f_4547_b13b_1f3225cf094a_2_1_39200e6285.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

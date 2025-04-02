@@ -1,0 +1,13 @@
+{
+  "name": "TestToken",
+  "symbol": "TT",
+  "decimals": 9,
+  "coin_type": "0x8c7a30e5eb6522dc134d9fad4da047074ffe67db4f2bd5cf87f948b3ecf4bf27::tt::TT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2e307c30-e16f-4f18-a4e7-704d3079daff.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NYU",
+  "symbol": "NYU",
+  "decimals": 9,
+  "coin_type": "0x50bf7a12d607bc5abbf77523a8a3209b70c32bf7b468abaa4276efc9619f7c4f::nyu::NYU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2SNstbEYVEn2iTNQyZHKGzgTPZwBgnujwKa8hn5opump.png?size=lg&key=16c90b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

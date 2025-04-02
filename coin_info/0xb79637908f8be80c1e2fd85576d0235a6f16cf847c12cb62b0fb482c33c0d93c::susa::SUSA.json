@@ -1,0 +1,13 @@
+{
+  "name": "SUI-USA",
+  "symbol": "SUSA",
+  "decimals": 9,
+  "coin_type": "0xb79637908f8be80c1e2fd85576d0235a6f16cf847c12cb62b0fb482c33c0d93c::susa::SUSA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c44c5f5d-452c-433b-815c-5377beee750b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

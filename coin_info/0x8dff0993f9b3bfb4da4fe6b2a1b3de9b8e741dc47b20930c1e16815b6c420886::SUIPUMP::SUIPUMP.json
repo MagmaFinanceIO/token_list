@@ -1,0 +1,13 @@
+{
+  "name": "SUI PUMP",
+  "symbol": "SPUMP",
+  "decimals": 2,
+  "coin_type": "0x8dff0993f9b3bfb4da4fe6b2a1b3de9b8e741dc47b20930c1e16815b6c420886::SUIPUMP::SUIPUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/yB6WhuSdu2sKN4xHIBQOmTBWvEFm8dqT-Pq9TsU5c3I?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

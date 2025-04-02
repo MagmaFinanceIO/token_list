@@ -1,0 +1,13 @@
+{
+  "name": "StoneFish AI",
+  "symbol": "SAI",
+  "decimals": 9,
+  "coin_type": "0xb13bbad195b9a16cf9e15f513cb00d7ea369122d076f9d78f5264998d98d0f2d::sai::SAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4267b686-ab53-414e-b9e3-84168233a352.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

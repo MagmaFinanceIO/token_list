@@ -1,0 +1,13 @@
+{
+  "name": "tSOdi",
+  "symbol": "wtoxo",
+  "decimals": 9,
+  "coin_type": "0xda670d046b9b87b4e3143724d9209bbb6327c27cd1ee2809178fba0f643ed6d3::wtoxo::WTOXO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HheTmXNNkrzN78Qsyz6obfGSL1HvFttG7FU5fok3pump.png?size=lg&key=282918",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

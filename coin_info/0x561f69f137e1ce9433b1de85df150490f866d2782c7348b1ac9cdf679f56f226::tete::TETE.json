@@ -1,0 +1,13 @@
+{
+  "name": "TETE",
+  "symbol": "TETE",
+  "decimals": 9,
+  "coin_type": "0x561f69f137e1ce9433b1de85df150490f866d2782c7348b1ac9cdf679f56f226::tete::TETE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/05b1ab82-4c3b-4869-b35b-b882ae58d9bc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Laughing Cat Coin",
+  "symbol": "LOLAcat",
+  "decimals": 9,
+  "coin_type": "0x41e31b823dd6e6aa453c3db0e849a39f92ca1b0f3cad34bd355a096d541c9397::lolacat::LOLACAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aa6d1fc5-db10-4aec-8361-ab395fe6c969.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

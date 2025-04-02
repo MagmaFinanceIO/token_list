@@ -1,0 +1,13 @@
+{
+  "name": "digital-twin-70b",
+  "symbol": "DT70B",
+  "decimals": 9,
+  "coin_type": "0xd97e9ed5aaaef8e419316bee6a990b655fdd8bc8d501205648c8675f2c7958ae::dt70b::DT70B",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/G1ykB1WkxEC2T4VvYufTQkYMNh7TdfAjTahEPabxpump.png?size=lg&key=66f306",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

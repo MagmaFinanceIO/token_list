@@ -1,0 +1,13 @@
+{
+  "name": "Trenches AI",
+  "symbol": "TrenchAI",
+  "decimals": 9,
+  "coin_type": "0x9d0347645d68ab866628bd9666c70784c6c71866e41fc49f15432d3f078a8159::trenchai::TRENCHAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AaWVpk6eZbgBfVbq1UfXw3EXBmAvw4QXov1xHuG7pump.png?size=lg&key=f46fff",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

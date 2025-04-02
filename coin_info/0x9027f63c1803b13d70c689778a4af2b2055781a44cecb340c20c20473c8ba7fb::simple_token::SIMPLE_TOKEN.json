@@ -1,0 +1,13 @@
+{
+  "name": "SCRAT",
+  "symbol": "SCRAT",
+  "decimals": 9,
+  "coin_type": "0x9027f63c1803b13d70c689778a4af2b2055781a44cecb340c20c20473c8ba7fb::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

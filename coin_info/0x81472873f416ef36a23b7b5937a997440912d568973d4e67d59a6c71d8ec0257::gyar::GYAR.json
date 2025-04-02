@@ -1,0 +1,13 @@
+{
+  "name": "HydroGyar",
+  "symbol": "GYAR",
+  "decimals": 9,
+  "coin_type": "0x81472873f416ef36a23b7b5937a997440912d568973d4e67d59a6c71d8ec0257::gyar::GYAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b7bec3bf-0a0e-47fc-bf69-7354b6dd434c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

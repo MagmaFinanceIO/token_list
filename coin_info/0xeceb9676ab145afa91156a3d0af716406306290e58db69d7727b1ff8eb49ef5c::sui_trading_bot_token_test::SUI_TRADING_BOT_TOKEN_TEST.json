@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "symbol": "SUI_TRADING_BOT_TOKEN_TEST",
+  "decimals": 6,
+  "coin_type": "0xeceb9676ab145afa91156a3d0af716406306290e58db69d7727b1ff8eb49ef5c::sui_trading_bot_token_test::SUI_TRADING_BOT_TOKEN_TEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

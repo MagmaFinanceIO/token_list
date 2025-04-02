@@ -1,0 +1,13 @@
+{
+  "name": "Dalek",
+  "symbol": "DALEK",
+  "decimals": 6,
+  "coin_type": "0x9bf44a1100a69b35b9d1b4c0c32b2a87711e3711d244e76e70ef0eadf93889b4::dalek::DALEK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/log_A_2_15a5ce4f22.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

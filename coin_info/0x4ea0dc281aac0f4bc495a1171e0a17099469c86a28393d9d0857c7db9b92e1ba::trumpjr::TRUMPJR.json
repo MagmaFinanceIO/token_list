@@ -1,0 +1,13 @@
+{
+  "name": "Donald Trump Jr",
+  "symbol": "TrumpJr",
+  "decimals": 9,
+  "coin_type": "0x4ea0dc281aac0f4bc495a1171e0a17099469c86a28393d9d0857c7db9b92e1ba::trumpjr::TRUMPJR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cc41f0e0-18c8-48f6-a67c-9c2c079e0188.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

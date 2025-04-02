@@ -1,0 +1,13 @@
+{
+  "name": "POTUS MAXIMUS",
+  "symbol": "POTUSMAX",
+  "decimals": 9,
+  "coin_type": "0xd1d05efc91416b7cba4c679afd5c94e12602ce250fe9eed8b45b7763e6bff15c::potusmax::POTUSMAX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/PXjOYfr2HZnF4ANM?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

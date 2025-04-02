@@ -1,0 +1,13 @@
+{
+  "name": "kCKVD",
+  "symbol": "mexlX",
+  "decimals": 9,
+  "coin_type": "0x161bfcf72cb0d20182a5b3873dfa5c8f5aa33165ed0f477960adee7b4bed1797::mexlx::MEXLX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HheTmXNNkrzN78Qsyz6obfGSL1HvFttG7FU5fok3pump.png?size=lg&key=282918",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

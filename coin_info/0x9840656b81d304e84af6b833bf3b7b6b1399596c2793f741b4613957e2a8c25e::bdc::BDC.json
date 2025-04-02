@@ -1,0 +1,13 @@
+{
+  "name": "BILLIONDOLLARCAT",
+  "symbol": "BDC",
+  "decimals": 6,
+  "coin_type": "0x9840656b81d304e84af6b833bf3b7b6b1399596c2793f741b4613957e2a8c25e::bdc::BDC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Wv_A945q_L_400x400_32c6dde18a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

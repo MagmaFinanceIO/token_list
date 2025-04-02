@@ -1,0 +1,13 @@
+{
+  "name": "4chan on Sui",
+  "symbol": "FOURCHAN",
+  "decimals": 9,
+  "coin_type": "0x632dadbcc1ef80219c42558eb4f48d8d6e43a73b5caabd72667a405de9f6740a::fourchan::FOURCHAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmRp5TADnDo6VKPtAXM6bJz9TDRVWyZNhbrwRw7bXHEshV",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

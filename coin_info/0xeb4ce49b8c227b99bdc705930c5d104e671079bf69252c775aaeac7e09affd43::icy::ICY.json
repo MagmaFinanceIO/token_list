@@ -1,0 +1,13 @@
+{
+  "name": "ICY THE SEAL",
+  "symbol": "ICY",
+  "decimals": 9,
+  "coin_type": "0xeb4ce49b8c227b99bdc705930c5d104e671079bf69252c775aaeac7e09affd43::icy::ICY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/178c7f41-f67b-4852-90fa-627679054d33.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

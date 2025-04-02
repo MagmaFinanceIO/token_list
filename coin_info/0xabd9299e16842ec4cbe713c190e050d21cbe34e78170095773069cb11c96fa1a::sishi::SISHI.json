@@ -1,0 +1,13 @@
+{
+  "name": "SUISHIBA",
+  "symbol": "SISHI",
+  "decimals": 6,
+  "coin_type": "0xabd9299e16842ec4cbe713c190e050d21cbe34e78170095773069cb11c96fa1a::sishi::SISHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2Fphoto_2024_10_17_23_29_21_94fb9d11f6.jpg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PENGUIN AI",
+  "symbol": "PENGUAI",
+  "decimals": 9,
+  "coin_type": "0x55cc0f0978c344d3d8970668b984e54d556088a93db7faafd71ed424e7ed97cb::penguai::PENGUAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HtawVAvttVQcTMFNZWLPfLAXc6FncUQcreq4pa1pump.png?size=lg&key=848858",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

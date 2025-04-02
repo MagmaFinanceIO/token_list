@@ -1,0 +1,13 @@
+{
+  "name": "Ser Alpha",
+  "symbol": "SerAlpha",
+  "decimals": 9,
+  "coin_type": "0x4ebe4ad00eeb1ded8d7d1f4e6da3de24fedb757fa493808540d2d3245530f009::seralpha::SERALPHA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8GrhA85mcgnaMjyXZ8Hdicayu7byXxbKyEd5UjLnpump.png?size=lg&key=1dc026",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

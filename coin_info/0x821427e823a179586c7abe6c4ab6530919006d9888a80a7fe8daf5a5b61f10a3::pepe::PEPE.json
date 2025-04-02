@@ -1,0 +1,13 @@
+{
+  "name": "SUI",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "coin_type": "0x821427e823a179586c7abe6c4ab6530919006d9888a80a7fe8daf5a5b61f10a3::pepe::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000012722_27c2c77767.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

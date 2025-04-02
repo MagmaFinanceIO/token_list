@@ -1,0 +1,13 @@
+{
+  "name": "Wiencoin",
+  "symbol": "WCN",
+  "decimals": 9,
+  "coin_type": "0xa4bf5778fe667ced1dd785dbc9a7896027f2193d8c89afef838fd3382a1a5df1::wcn::WCN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fc423e13-e194-4f64-aa01-13ab0434c2c2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

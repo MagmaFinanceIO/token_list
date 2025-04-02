@@ -1,0 +1,13 @@
+{
+  "name": "Satoshi AI",
+  "symbol": "SAI",
+  "decimals": 9,
+  "coin_type": "0x7c3a11d86e55eb1487e821517f1ab91f81bb3ab5db63acceec2a25c78c263bd9::sai::SAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmbNRLc2G9UKPFYEMBr4euSTzdjBiRyfYFGXLgHwoxoUG2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

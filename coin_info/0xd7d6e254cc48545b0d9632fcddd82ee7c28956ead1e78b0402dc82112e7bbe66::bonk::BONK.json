@@ -1,0 +1,13 @@
+{
+  "name": "SUI BONK",
+  "symbol": "BONK",
+  "decimals": 6,
+  "coin_type": "0xd7d6e254cc48545b0d9632fcddd82ee7c28956ead1e78b0402dc82112e7bbe66::bonk::BONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_8622_34953740a5.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

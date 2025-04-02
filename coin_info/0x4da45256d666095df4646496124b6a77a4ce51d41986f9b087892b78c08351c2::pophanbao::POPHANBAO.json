@@ -1,0 +1,13 @@
+{
+  "name": "Pophanbao",
+  "symbol": "POPHANBAO",
+  "decimals": 6,
+  "coin_type": "0x4da45256d666095df4646496124b6a77a4ce51d41986f9b087892b78c08351c2::pophanbao::POPHANBAO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6846_8666e13bfd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

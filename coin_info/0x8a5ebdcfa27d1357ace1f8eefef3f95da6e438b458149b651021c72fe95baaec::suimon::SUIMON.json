@@ -1,0 +1,13 @@
+{
+  "name": "SUIMON",
+  "symbol": "SUIMON",
+  "decimals": 7,
+  "coin_type": "0x8a5ebdcfa27d1357ace1f8eefef3f95da6e438b458149b651021c72fe95baaec::suimon::SUIMON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Sui",
+  "symbol": "PEPU",
+  "decimals": 9,
+  "coin_type": "0x580bec54fd2efb3dacbf62d806628aa1a78f0e9b00df43e796c692ef6225a1f7::pepu::PEPU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xadd39272e83895e7d3f244f696b7a25635f34234.png?size=lg&key=115a72",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

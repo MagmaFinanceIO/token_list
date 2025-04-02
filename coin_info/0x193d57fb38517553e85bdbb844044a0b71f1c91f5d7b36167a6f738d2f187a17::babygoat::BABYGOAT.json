@@ -1,0 +1,13 @@
+{
+  "name": "BABYGOAT",
+  "symbol": "BABYGOAT",
+  "decimals": 9,
+  "coin_type": "0x193d57fb38517553e85bdbb844044a0b71f1c91f5d7b36167a6f738d2f187a17::babygoat::BABYGOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/658161c7-3dd7-4688-b786-accf9ac2a6d2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

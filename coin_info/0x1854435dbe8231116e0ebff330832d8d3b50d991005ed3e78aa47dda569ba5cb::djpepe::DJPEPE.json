@@ -1,0 +1,13 @@
+{
+  "name": "DJ PEPE",
+  "symbol": "DJPEPE",
+  "decimals": 9,
+  "coin_type": "0x1854435dbe8231116e0ebff330832d8d3b50d991005ed3e78aa47dda569ba5cb::djpepe::DJPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/RED1EQ0BP6twPwXd?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

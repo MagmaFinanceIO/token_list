@@ -1,0 +1,13 @@
+{
+  "name": "HopFrog",
+  "symbol": "$FROG",
+  "decimals": 6,
+  "coin_type": "0x3b7deccf9a10af8dd2445a93be9786ccde9f219a58110c7b21c4b1f38962dafa::frog::FROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmUxugtFwfRN2WVLSW9BTrKqM9c6udo7bM7aU81NkhTcUr",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui cute dog",
+  "symbol": "Cdog",
+  "decimals": 6,
+  "coin_type": "0x95603503f6e034e57ec479f065939eac9708a6515e4ef93a5d6e3ff65dc597bd::cdog::CDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/cute_dog_6d093063c8.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

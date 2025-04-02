@@ -1,0 +1,13 @@
+{
+  "name": "MemePad",
+  "symbol": "MPAD",
+  "decimals": 6,
+  "coin_type": "0x89ae74cfb124e2b122bf7beb82e707529233e4ed59754fd2209c7096342d98f9::mpad::MPAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b2cee243-2c52-4471-9993-3b5cff38c629.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

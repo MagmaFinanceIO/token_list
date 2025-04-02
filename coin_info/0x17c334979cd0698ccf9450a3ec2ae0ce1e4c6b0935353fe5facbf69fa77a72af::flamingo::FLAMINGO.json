@@ -1,0 +1,13 @@
+{
+  "name": "FLAMINGO GRINGO",
+  "symbol": "FLAMINGO",
+  "decimals": 6,
+  "coin_type": "0x17c334979cd0698ccf9450a3ec2ae0ce1e4c6b0935353fe5facbf69fa77a72af::flamingo::FLAMINGO",
+  "pyth_id": "",
+  "birdeyeid": "0x17c334979cd0698ccf9450a3ec2ae0ce1e4c6b0935353fe5facbf69fa77a72af::flamingo::FLAMINGO",
+  "coin_priority": [],
+  "logo_url": "https://oggdkiqjw4niipp2w7r2ooeujubnhynevxkdwlqlqzqnrb7lufwa.arweave.net/cYw1Igm3GoQ9-rfjpziUTQLT4aSt1DsuC4Zg2IfroWw",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

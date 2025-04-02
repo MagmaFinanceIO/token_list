@@ -1,0 +1,13 @@
+{
+  "name": "Mr.Freg",
+  "symbol": "Freg",
+  "decimals": 6,
+  "coin_type": "0x88f5b81e302a361a98cefbeeb766f41e373265c81526f0b4ff669306440e0ddb::freg::FREG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/fregggg_a6700584c2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

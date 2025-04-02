@@ -1,0 +1,13 @@
+{
+  "name": "SPX6900",
+  "symbol": "SPX",
+  "decimals": 9,
+  "coin_type": "0x4511f86a42c8e299c65e9808f2dbb29e76d1d10e927f1623fd6537dd1b67d16d::spx::SPX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c.png?size=lg&key=655313",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

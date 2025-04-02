@@ -1,0 +1,13 @@
+{
+  "name": "the world's first Cyber-Rodent",
+  "symbol": "PYTHIA",
+  "decimals": 6,
+  "coin_type": "0x81c54255a4b7206bd8c163dea09c420e6f3d2f843fa6ba6ed2163cf61e879de5::pythia::PYTHIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/X8_L91s_Cu_400x400_b17b75ac96.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

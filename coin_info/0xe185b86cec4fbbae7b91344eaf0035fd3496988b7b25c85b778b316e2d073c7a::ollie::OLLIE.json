@@ -1,0 +1,13 @@
+{
+  "name": "Rockstar Otter",
+  "symbol": "Ollie",
+  "decimals": 6,
+  "coin_type": "0xe185b86cec4fbbae7b91344eaf0035fd3496988b7b25c85b778b316e2d073c7a::ollie::OLLIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmYfPDSwukxiDGbfiKBm1Tg7qLYJvR76Am5yUAHF2vk58Z",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

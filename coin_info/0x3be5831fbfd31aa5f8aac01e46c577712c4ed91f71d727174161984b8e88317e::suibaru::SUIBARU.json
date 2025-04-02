@@ -1,0 +1,13 @@
+{
+  "name": "Suibaru",
+  "symbol": "SUIBARU",
+  "decimals": 6,
+  "coin_type": "0x3be5831fbfd31aa5f8aac01e46c577712c4ed91f71d727174161984b8e88317e::suibaru::SUIBARU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/eb2a6ddf-de1e-4dca-a0ce-a3136e0a15bb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

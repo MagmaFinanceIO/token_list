@@ -1,0 +1,15 @@
+{
+  "name": "SUI Token",
+  "symbol": "SUI",
+  "decimals": 9,
+  "coin_type": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+  "pyth_id": "23d7315113f5b1d3ba7a83604c44b94d79f4fd69af77f804fc7f920a6dc65744",
+  "birdeyeid": "0x2::sui::SUI",
+  "coin_priority": [
+    "1000"
+  ],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/sui.png",
+  "project_url": "",
+  "coingecko_id": "sui",
+  "is_trusted": true
+}

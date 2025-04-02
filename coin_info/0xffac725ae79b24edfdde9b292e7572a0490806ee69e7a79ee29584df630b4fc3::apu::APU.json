@@ -1,0 +1,13 @@
+{
+  "name": "Apu",
+  "symbol": "Apu",
+  "decimals": 9,
+  "coin_type": "0xffac725ae79b24edfdde9b292e7572a0490806ee69e7a79ee29584df630b4fc3::apu::APU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9eea76e9-e76e-48e3-a508-d0019f4cbceb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

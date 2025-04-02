@@ -1,0 +1,13 @@
+{
+  "name": "Smog the Destroyer",
+  "symbol": "SMOG",
+  "decimals": 9,
+  "coin_type": "0x0674aa28e511a3be092e08fa92b67facfc7d51b290b309063588ff6368eb425e::smog::SMOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/662a58947731d0b9b59a721781183d56blob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

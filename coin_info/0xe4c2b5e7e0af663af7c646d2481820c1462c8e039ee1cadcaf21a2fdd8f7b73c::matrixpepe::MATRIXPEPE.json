@@ -1,0 +1,13 @@
+{
+  "name": "MatrixPepeCoin",
+  "symbol": "MatrixPepe",
+  "decimals": 9,
+  "coin_type": "0xe4c2b5e7e0af663af7c646d2481820c1462c8e039ee1cadcaf21a2fdd8f7b73c::matrixpepe::MATRIXPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "A meme-powered digital currency combining the cultural influence of Pepe the Frog with the futuristic vibe of the Matrix aesthetic",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

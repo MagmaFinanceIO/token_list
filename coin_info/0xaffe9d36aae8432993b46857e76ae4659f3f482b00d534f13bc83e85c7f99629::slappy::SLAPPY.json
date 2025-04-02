@@ -1,0 +1,13 @@
+{
+  "name": "SLAPPY",
+  "symbol": "SLAPPY",
+  "decimals": 9,
+  "coin_type": "0xaffe9d36aae8432993b46857e76ae4659f3f482b00d534f13bc83e85c7f99629::slappy::SLAPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BceBNYA5piejo5th9B1aQedCP1PmcaP7bN36F4cvpump.png?size=lg&key=fba31a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

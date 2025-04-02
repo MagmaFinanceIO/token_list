@@ -1,0 +1,13 @@
+{
+  "name": "Lion King",
+  "symbol": "LK",
+  "decimals": 9,
+  "coin_type": "0xb251f64398c5f77ba0bccb428d981c4fcb2c465378eaefc7791fb59f75927172::lk::LK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0307bf32-d5d4-4b1f-80b5-6c695e176661.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

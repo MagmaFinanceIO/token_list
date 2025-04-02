@@ -1,0 +1,13 @@
+{
+  "name": "Bull On Sui",
+  "symbol": "SBULL",
+  "decimals": 9,
+  "coin_type": "0x95cf374d4fb3605f8d76c2d22061155831e09311c9bdf83e31558623cc9984e0::sbull::SBULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0x32b016fcfe724daf045da331cb12eb0d9fa3c1e20e2c48f8dee04cc42ef208c4::sbull::sbull.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

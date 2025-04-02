@@ -1,0 +1,13 @@
+{
+  "name": "Gamer",
+  "symbol": "Gamer",
+  "decimals": 9,
+  "coin_type": "0xc4ad7da875d265107e887382c239d03d8e8dd314f66d92e596b44c6b9c9ca226::gamer::GAMER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/91531971-07de-44b3-9099-770ecb6937eb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

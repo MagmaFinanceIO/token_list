@@ -1,0 +1,15 @@
+{
+  "name": "Haedal staked SUI",
+  "symbol": "haSUI",
+  "decimals": 9,
+  "coin_type": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+  "pyth_id": "6120ffcf96395c70aa77e72dcb900bf9d40dccab228efca59a17b90ce423d5e8",
+  "birdeyeid": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d::hasui::HASUI",
+  "coin_priority": [
+    "960"
+  ],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/hasui.png",
+  "project_url": "",
+  "coingecko_id": "haedal-staked-sui",
+  "is_trusted": true
+}

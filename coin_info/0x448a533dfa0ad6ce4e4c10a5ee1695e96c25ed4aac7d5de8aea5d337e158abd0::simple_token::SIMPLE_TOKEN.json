@@ -1,0 +1,13 @@
+{
+  "name": "Web AI",
+  "symbol": "WAI",
+  "decimals": 9,
+  "coin_type": "0x448a533dfa0ad6ce4e4c10a5ee1695e96c25ed4aac7d5de8aea5d337e158abd0::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

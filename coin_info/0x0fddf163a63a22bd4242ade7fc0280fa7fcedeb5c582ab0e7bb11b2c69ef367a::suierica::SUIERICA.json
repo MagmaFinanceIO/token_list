@@ -1,0 +1,13 @@
+{
+  "name": "Captain Suierica",
+  "symbol": "SUIERICA",
+  "decimals": 9,
+  "coin_type": "0x0fddf163a63a22bd4242ade7fc0280fa7fcedeb5c582ab0e7bb11b2c69ef367a::suierica::SUIERICA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DbzV3vajS2HRd7LE2F5v9xt3L4J7mv5PCSDzqofxpdWg.png?size=lg&key=12235e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

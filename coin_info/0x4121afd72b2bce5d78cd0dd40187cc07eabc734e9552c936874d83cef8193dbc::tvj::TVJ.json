@@ -1,0 +1,13 @@
+{
+  "name": "Token Van Java",
+  "symbol": "TVJ",
+  "decimals": 9,
+  "coin_type": "0x4121afd72b2bce5d78cd0dd40187cc07eabc734e9552c936874d83cef8193dbc::tvj::TVJ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/04dc318f-d607-4600-97ea-61e9c6fd1e30.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

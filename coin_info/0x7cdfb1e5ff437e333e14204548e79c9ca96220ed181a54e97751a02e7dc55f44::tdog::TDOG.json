@@ -1,0 +1,13 @@
+{
+  "name": "tDOG",
+  "symbol": "Terminal Dog",
+  "decimals": 9,
+  "coin_type": "0x7cdfb1e5ff437e333e14204548e79c9ca96220ed181a54e97751a02e7dc55f44::tdog::TDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CPx6vEEAsk4NTLau19LC2KqdDwvs2DAwnjEYUL6ypump.png?size=lg&key=5ec8fc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

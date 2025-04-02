@@ -1,0 +1,13 @@
+{
+  "name": "Okayeg On Ethirium",
+  "symbol": "OKAYEG",
+  "decimals": 6,
+  "coin_type": "0xac178d291745d492fdfa4fdb822cd939f8d5b31752a043ff9e002badf4a6d7ae::okayeg::OKAYEG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/OKAY_9cfcd6fb82.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

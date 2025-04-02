@@ -1,0 +1,13 @@
+{
+  "name": "CHeRCH SUI",
+  "symbol": "CHeRCH",
+  "decimals": 6,
+  "coin_type": "0xf01cbb501bc5b19ddc9489f55619576ce9f80b50d566a79bf9ffc785a39bcd6d::cherch::CHERCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7700_fa7483af2e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

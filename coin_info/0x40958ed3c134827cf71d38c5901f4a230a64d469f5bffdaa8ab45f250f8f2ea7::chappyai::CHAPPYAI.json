@@ -1,0 +1,13 @@
+{
+  "name": "CHAPPY AI",
+  "symbol": "CHAPPYAI",
+  "decimals": 9,
+  "coin_type": "0x40958ed3c134827cf71d38c5901f4a230a64d469f5bffdaa8ab45f250f8f2ea7::chappyai::CHAPPYAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5pEPzGgDcHww7WQyaNZMumybwqWbeix9P8UBRAV3pump.png?size=lg&key=ab637e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

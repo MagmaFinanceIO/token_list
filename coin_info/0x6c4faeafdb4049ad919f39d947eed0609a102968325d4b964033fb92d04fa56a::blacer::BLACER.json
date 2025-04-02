@@ -1,0 +1,13 @@
+{
+  "name": "Sem Blacer",
+  "symbol": "BLACER",
+  "decimals": 6,
+  "coin_type": "0x6c4faeafdb4049ad919f39d947eed0609a102968325d4b964033fb92d04fa56a::blacer::BLACER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logoo_f8ad8b8787.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Wrapped Neiro",
+  "symbol": "WNEIRO",
+  "decimals": 9,
+  "coin_type": "0xe9a866e5444125a765aa6f05c5bbbe833897d98f9a89443b51b278d05bd08ee2::wneiro::WNEIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3q8b3zx8fmToCNZAvZQYsVXmBt1Qgz56uVroC8CMshPg.png?size=lg&key=a4178d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

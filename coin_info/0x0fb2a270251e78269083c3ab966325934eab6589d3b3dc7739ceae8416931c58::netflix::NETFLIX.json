@@ -1,0 +1,13 @@
+{
+  "name": "Netflix Coin",
+  "symbol": "NETFLIX",
+  "decimals": 9,
+  "coin_type": "0x0fb2a270251e78269083c3ab966325934eab6589d3b3dc7739ceae8416931c58::netflix::NETFLIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ULZYAEmnvEumAFS32M3XctopDKjk4pNUfn2RVD2AEP5.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

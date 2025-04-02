@@ -1,0 +1,13 @@
+{
+  "name": "SUISUNI",
+  "symbol": "SUNI",
+  "decimals": 6,
+  "coin_type": "0x9e0bdb813c45990dd977028b8cbe1e5dcbd8c2b5147882f16e682f29456c4c2d::suni::SUNI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/file_z3_Ru_IF_3lt_Pv_MF_Ob85ft_F7u_ZS_b593c4128c.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

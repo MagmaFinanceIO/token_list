@@ -1,0 +1,13 @@
+{
+  "name": "SUI TRUMP",
+  "symbol": "SUITRUMP",
+  "decimals": 6,
+  "coin_type": "0xdeb831e796f16f8257681c0d5d4108fa94333060300b2459133a96631bf470b8::suitrump::SUITRUMP",
+  "pyth_id": "",
+  "birdeyeid": "0xdeb831e796f16f8257681c0d5d4108fa94333060300b2459133a96631bf470b8::suitrump::SUITRUMP",
+  "coin_priority": [],
+  "logo_url": "https://gateway.irys.xyz/9Q89LeyqhQSDGun24w1PYZC6zZ4KTGhCPDC2rJpQieY1",
+  "project_url": "",
+  "coingecko_id": "sui-trump",
+  "is_trusted": true
+}

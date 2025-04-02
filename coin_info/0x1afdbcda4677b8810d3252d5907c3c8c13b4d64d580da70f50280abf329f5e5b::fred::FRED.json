@@ -1,0 +1,13 @@
+{
+  "name": "FRED",
+  "symbol": "FRED",
+  "decimals": 9,
+  "coin_type": "0x1afdbcda4677b8810d3252d5907c3c8c13b4d64d580da70f50280abf329f5e5b::fred::FRED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "g1CgzxDEDt30HW2Q",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

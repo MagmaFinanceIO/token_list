@@ -1,0 +1,13 @@
+{
+  "name": "Baby Goatseus Maximus",
+  "symbol": "BABYGOAT",
+  "decimals": 9,
+  "coin_type": "0x3a3953ce72e50ba332fe7c92325db201e5e69c44c0a74a2f37b543c2e56334a7::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/F4aLcMxQy6CPcXAuER3J5QgB89n4fqBMs2bcrqQBpump.png?size=lg&key=19c3f1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

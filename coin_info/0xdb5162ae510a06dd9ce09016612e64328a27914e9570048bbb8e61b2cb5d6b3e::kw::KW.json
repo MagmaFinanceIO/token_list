@@ -1,0 +1,13 @@
+{
+  "name": "GBCMOBILE",
+  "symbol": "KW",
+  "decimals": 9,
+  "coin_type": "0xdb5162ae510a06dd9ce09016612e64328a27914e9570048bbb8e61b2cb5d6b3e::kw::KW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://gbcmobile.com/en/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

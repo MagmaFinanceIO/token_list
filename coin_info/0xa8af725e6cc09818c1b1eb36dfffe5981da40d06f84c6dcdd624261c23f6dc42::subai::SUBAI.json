@@ -1,0 +1,13 @@
+{
+  "name": "SUBAI",
+  "symbol": "SUBAI",
+  "decimals": 6,
+  "coin_type": "0xa8af725e6cc09818c1b1eb36dfffe5981da40d06f84c6dcdd624261c23f6dc42::subai::SUBAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://subaizheng.com/wp-content/uploads/2023/08/sign.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

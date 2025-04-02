@@ -1,0 +1,13 @@
+{
+  "name": "Halloumi Cheese",
+  "symbol": "CY",
+  "decimals": 9,
+  "coin_type": "0xb612848ed9b01de88a35ce3551a11911f48e74139a11e70894172657c45ec2a1::cy::CY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/70215d1c-a480-4b97-92c3-8c80fd462c00.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

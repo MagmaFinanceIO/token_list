@@ -1,0 +1,13 @@
+{
+  "name": "Suidoku",
+  "symbol": "SUIDOKU",
+  "decimals": 6,
+  "coin_type": "0xc6c993b4a13c426f4430a4db3fa91c56f9ec594d326f253cdb4d98cadd16a38b::suidoku::SUIDOKU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmeGwAY8xRRu4NDqCQFAjpXMckjS4HjjjjepuLjULHHyMg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

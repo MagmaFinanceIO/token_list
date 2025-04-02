@@ -1,0 +1,13 @@
+{
+  "name": "SUBWAY SURFERS",
+  "symbol": "SURF",
+  "decimals": 9,
+  "coin_type": "0x1741f24828a459558f7caedbde535d5553ca4926c796db4c5bb02a82ef196db4::surf::SURF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EqssUPB2LfeAhQVLS5HDXiBZhyFL8xrZ1kfrC1bmpump.png?size=lg&key=1dd706",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

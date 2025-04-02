@@ -1,0 +1,13 @@
+{
+  "name": "tate terminal",
+  "symbol": "TATE",
+  "decimals": 9,
+  "coin_type": "0x5c4f9ac0451b9db91fadd70a8593d1286c675075d8c3f62a8ee245b90f4e55ec::tate::TATE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GRmiQNSV66fT4TqBhscRFMUKPbmpUXmrct8CJGt58e7p.png?size=lg&key=3d3589",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

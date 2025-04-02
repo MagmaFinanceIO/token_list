@@ -1,0 +1,13 @@
+{
+  "name": "Dippy",
+  "symbol": "DIP",
+  "decimals": 6,
+  "coin_type": "0xa21206bc8f1466a8d93794d69c15d25dfca14a4db19ebdf4f48afea2ff3edbcc::dip::DIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_13_12_26_23_7fed25540d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

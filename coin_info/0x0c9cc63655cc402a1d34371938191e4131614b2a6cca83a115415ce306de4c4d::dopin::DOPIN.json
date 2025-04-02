@@ -1,0 +1,13 @@
+{
+  "name": "Dopin the Dolphin",
+  "symbol": "DOPIN",
+  "decimals": 9,
+  "coin_type": "0x0c9cc63655cc402a1d34371938191e4131614b2a6cca83a115415ce306de4c4d::dopin::DOPIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/02a37407-2a6d-422d-aa1d-1179281234bf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

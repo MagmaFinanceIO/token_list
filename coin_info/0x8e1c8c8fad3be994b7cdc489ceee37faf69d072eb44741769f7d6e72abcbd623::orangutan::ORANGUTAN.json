@@ -1,0 +1,13 @@
+{
+  "name": "ORANGUTAN",
+  "symbol": "ORANGUTAN",
+  "decimals": 6,
+  "coin_type": "0x8e1c8c8fad3be994b7cdc489ceee37faf69d072eb44741769f7d6e72abcbd623::orangutan::ORANGUTAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/orangutan.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

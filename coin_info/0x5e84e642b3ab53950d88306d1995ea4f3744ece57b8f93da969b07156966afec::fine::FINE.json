@@ -1,0 +1,13 @@
+{
+  "name": "ITSFINE",
+  "symbol": "FINE",
+  "decimals": 6,
+  "coin_type": "0x5e84e642b3ab53950d88306d1995ea4f3744ece57b8f93da969b07156966afec::fine::FINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8c478842-9f86-45a5-8316-67b9f5de87fb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

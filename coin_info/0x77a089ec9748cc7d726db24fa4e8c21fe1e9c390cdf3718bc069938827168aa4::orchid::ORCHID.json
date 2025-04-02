@@ -1,0 +1,13 @@
+{
+  "name": "Orchid Master",
+  "symbol": "ORCHID",
+  "decimals": 9,
+  "coin_type": "0x77a089ec9748cc7d726db24fa4e8c21fe1e9c390cdf3718bc069938827168aa4::orchid::ORCHID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ec16bdab-440d-45cb-ab9f-9be7f8469bbf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

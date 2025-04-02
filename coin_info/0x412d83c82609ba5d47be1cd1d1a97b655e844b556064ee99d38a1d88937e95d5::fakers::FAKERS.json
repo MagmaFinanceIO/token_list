@@ -1,0 +1,13 @@
+{
+  "name": "FakersAI",
+  "symbol": "FAKERS",
+  "decimals": 6,
+  "coin_type": "0x412d83c82609ba5d47be1cd1d1a97b655e844b556064ee99d38a1d88937e95d5::fakers::FAKERS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qmc_Bry_V_Lhrapappr_D_Cvq_Doa_ML_Jr_Jvop_BL_Vz_GY_7_Mv_Y6_Sr_YA_c5d125b0ca.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

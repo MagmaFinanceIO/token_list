@@ -1,0 +1,13 @@
+{
+  "name": "Boomer ZK",
+  "symbol": "BOOMER",
+  "decimals": 9,
+  "coin_type": "0x4505db47668fb1e7ad6b21d8bc0635f7b91309085432aed86f1bc953cc3e6260::boomer::BOOMER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/df8c8788-75f5-44ad-914d-79a85d5778d7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

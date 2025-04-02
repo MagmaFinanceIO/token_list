@@ -1,0 +1,13 @@
+{
+  "name": "SHAWK SUI",
+  "symbol": "SHAWK",
+  "decimals": 9,
+  "coin_type": "0xbbc4b9b5bb593093208e34c657f34d342df934b1e5a55974c85f2d67033c1eb1::shawk::SHAWK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e45bfd4b-b672-474a-857c-10c51a1fdc1a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Satoshi AI",
+  "symbol": "SAI",
+  "decimals": 6,
+  "coin_type": "0xf965379c82847d5af4267aef5a6c8c327ca4de6b844e154ee026a18c3c1d3ccb::sai::SAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6320_2f9f65e7ab.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

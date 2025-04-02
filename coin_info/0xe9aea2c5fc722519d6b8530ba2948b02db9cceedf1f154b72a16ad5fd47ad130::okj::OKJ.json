@@ -1,0 +1,13 @@
+{
+  "name": "OKJ",
+  "symbol": "OKJ",
+  "decimals": 9,
+  "coin_type": "0xe9aea2c5fc722519d6b8530ba2948b02db9cceedf1f154b72a16ad5fd47ad130::okj::OKJ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2SNstbEYVEn2iTNQyZHKGzgTPZwBgnujwKa8hn5opump.png?size=lg&key=16c90b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

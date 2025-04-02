@@ -1,0 +1,13 @@
+{
+  "name": "CHILD'S PLAY",
+  "symbol": "CHUCKY",
+  "decimals": 9,
+  "coin_type": "0xc580f28e18d6105bde97bb60b20aba9fec651648f6764a410dd0f6176267f635::chucky::CHUCKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/F1dSzbFvC9uMbFeDQpsJvfosbkEdttYZ2riqhEivaQYZ.png?size=xl&key=ad42db",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Big Yacht 🛥️",
+  "symbol": "YACHT",
+  "decimals": 9,
+  "coin_type": "0xd1cc0f5e321b5deeb4f1ae3a794b3185447f0283ed037ba7498eb7369e0bbc6e::yacht::YACHT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ef93a43e-61c3-4a7b-91b3-ff1ad113b9a4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

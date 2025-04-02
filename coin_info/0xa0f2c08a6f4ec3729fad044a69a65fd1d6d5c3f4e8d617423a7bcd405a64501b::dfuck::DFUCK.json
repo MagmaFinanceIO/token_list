@@ -1,0 +1,13 @@
+{
+  "name": "DuckFuck",
+  "symbol": "DFUCK",
+  "decimals": 6,
+  "coin_type": "0xa0f2c08a6f4ec3729fad044a69a65fd1d6d5c3f4e8d617423a7bcd405a64501b::dfuck::DFUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730996240415.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

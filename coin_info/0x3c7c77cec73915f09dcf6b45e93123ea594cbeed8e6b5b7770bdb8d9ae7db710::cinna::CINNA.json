@@ -1,0 +1,13 @@
+{
+  "name": "Cinnamoroll",
+  "symbol": "CINNA",
+  "decimals": 9,
+  "coin_type": "0x3c7c77cec73915f09dcf6b45e93123ea594cbeed8e6b5b7770bdb8d9ae7db710::cinna::CINNA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/56Xp5vxLwBV1UUu2H2wMDDMnwvxoN1As1mWaFeQ8FaFe.png?size=lg&key=67351b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

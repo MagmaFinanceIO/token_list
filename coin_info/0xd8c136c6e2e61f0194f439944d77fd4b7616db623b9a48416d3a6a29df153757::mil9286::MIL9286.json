@@ -1,0 +1,13 @@
+{
+  "name": "Vitalik Milady",
+  "symbol": "MIL9286",
+  "decimals": 9,
+  "coin_type": "0xd8c136c6e2e61f0194f439944d77fd4b7616db623b9a48416d3a6a29df153757::mil9286::MIL9286",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x76fd9febfece13a88377cec82a19429c94ef925b.png?size=lg&key=39bfff",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

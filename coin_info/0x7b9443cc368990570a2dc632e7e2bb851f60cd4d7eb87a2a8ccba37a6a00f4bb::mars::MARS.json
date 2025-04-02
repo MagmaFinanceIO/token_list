@@ -1,0 +1,13 @@
+{
+  "name": "mars",
+  "symbol": "MARS",
+  "decimals": 9,
+  "coin_type": "0x7b9443cc368990570a2dc632e7e2bb851f60cd4d7eb87a2a8ccba37a6a00f4bb::mars::MARS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1498674368179752961/pxpja-GA_400x400.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

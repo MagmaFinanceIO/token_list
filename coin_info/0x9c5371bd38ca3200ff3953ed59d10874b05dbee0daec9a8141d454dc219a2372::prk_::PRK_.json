@@ -1,0 +1,13 @@
+{
+  "name": "Prickle",
+  "symbol": "Prk",
+  "decimals": 9,
+  "coin_type": "0x9c5371bd38ca3200ff3953ed59d10874b05dbee0daec9a8141d454dc219a2372::prk_::PRK_",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/943655a6-dede-4583-8c9e-a5b135ef00f8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

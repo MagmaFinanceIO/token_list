@@ -1,0 +1,13 @@
+{
+  "name": "SUI BENY",
+  "symbol": "BENY",
+  "decimals": 6,
+  "coin_type": "0x5f6b1dddbdf82609757e8dfbdd5daa24d386001c8b0fec05bacfdf75728565e0::beny::BENY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/beny_3322558467.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

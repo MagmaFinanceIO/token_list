@@ -1,0 +1,13 @@
+{
+  "name": "MADAI",
+  "symbol": "MADAI",
+  "decimals": 9,
+  "coin_type": "0x831896aaef7a33ef4dde19c068744ba8a6a8f60f375a1ea12b64b6d4d75260c3::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

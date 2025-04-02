@@ -1,0 +1,13 @@
+{
+  "name": "PVE",
+  "symbol": "PVE",
+  "decimals": 9,
+  "coin_type": "0x0a7b2066bed7663c559ce7dbc191dcad5041fd3e4b228ea09c0e26e85a0da98b::pve::PVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmQ6NUT6j8ByLkJbKKSTNmqzuxqs3Bgrke2AV5v9MXJeyx?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

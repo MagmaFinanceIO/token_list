@@ -1,0 +1,13 @@
+{
+  "name": "Aigent Sumith by SuiAI",
+  "symbol": "SUMITH",
+  "decimals": 6,
+  "coin_type": "0x10b3dc2dd6ac49c23e92f602bc339d1c5a1fc821a3df04d56a22474a43f957ff::sumith::SUMITH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/6771911_E_87_CD_423_A_BE_9_F_FF_4560533377_1e9280ea94.JPEG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

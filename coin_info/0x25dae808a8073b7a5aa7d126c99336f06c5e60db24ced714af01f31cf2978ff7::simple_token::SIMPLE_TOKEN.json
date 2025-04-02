@@ -1,0 +1,13 @@
+{
+  "name": "LITTLEPIGS",
+  "symbol": "LITTLEPIGS",
+  "decimals": 9,
+  "coin_type": "0x25dae808a8073b7a5aa7d126c99336f06c5e60db24ced714af01f31cf2978ff7::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

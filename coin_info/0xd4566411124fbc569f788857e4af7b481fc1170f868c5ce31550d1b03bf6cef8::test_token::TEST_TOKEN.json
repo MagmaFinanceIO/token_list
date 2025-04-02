@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "symbol": "test",
+  "decimals": 6,
+  "coin_type": "0xd4566411124fbc569f788857e4af7b481fc1170f868c5ce31550d1b03bf6cef8::test_token::TEST_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co.com/hgzBkYX/istockphoto-1218296719-612x612.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

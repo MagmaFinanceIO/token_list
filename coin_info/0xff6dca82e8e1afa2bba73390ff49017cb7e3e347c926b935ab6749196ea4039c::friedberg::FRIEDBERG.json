@@ -1,0 +1,13 @@
+{
+  "name": "friedberg",
+  "symbol": "friedberg",
+  "decimals": 9,
+  "coin_type": "0xff6dca82e8e1afa2bba73390ff49017cb7e3e347c926b935ab6749196ea4039c::friedberg::FRIEDBERG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

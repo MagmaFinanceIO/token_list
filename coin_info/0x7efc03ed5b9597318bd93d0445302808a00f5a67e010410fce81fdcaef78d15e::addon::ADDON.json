@@ -1,0 +1,13 @@
+{
+  "name": "AddOn AI",
+  "symbol": "AddOn",
+  "decimals": 6,
+  "coin_type": "0x7efc03ed5b9597318bd93d0445302808a00f5a67e010410fce81fdcaef78d15e::addon::ADDON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737341325819.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CRISTIANO RONADO",
+  "symbol": "RONADO",
+  "decimals": 6,
+  "coin_type": "0x4802c573538c7eb1f68a891be873e65a9b7e8a54dbee80bcedf1f371672d399d::ronado::RONADO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qmf9wTVZEsGyiXDGzzjxgta3vtSuHPkfzoUxXZqdo5LQ8Q",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SAFELUNA",
+  "symbol": "SAFELUNA",
+  "decimals": 9,
+  "coin_type": "0x71cf1bd95c1b1308a132be5d820a3214d34507dde8216be70e3d5bb62555686c::safeluna::SAFELUNA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5coNhSRtCGPtLNjNnLumGLqD8iM4MJGvDM1iGspKpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

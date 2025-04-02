@@ -1,0 +1,13 @@
+{
+  "name": "DONALDMUSK",
+  "symbol": "DONALD",
+  "decimals": 9,
+  "coin_type": "0x8163e66940b149defd13e3db31f8ea1c1a6a9916e5d9a0b020347c4c1f7e2c19::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

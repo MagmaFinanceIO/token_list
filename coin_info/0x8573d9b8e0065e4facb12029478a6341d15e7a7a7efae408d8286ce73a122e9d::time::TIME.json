@@ -1,0 +1,13 @@
+{
+  "name": "MOST VALUABLE CURRENCY",
+  "symbol": "TIME",
+  "decimals": 9,
+  "coin_type": "0x8573d9b8e0065e4facb12029478a6341d15e7a7a7efae408d8286ce73a122e9d::time::TIME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AC6zMqNcJ69AoPg41UCK5yinPSVzZB6owRuLCH4tpump.png?size=lg&key=80537e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

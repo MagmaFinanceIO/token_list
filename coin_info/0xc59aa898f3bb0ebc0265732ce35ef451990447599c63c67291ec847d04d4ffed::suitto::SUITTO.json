@@ -1,0 +1,13 @@
+{
+  "name": "Suitto",
+  "symbol": "SUITTO",
+  "decimals": 9,
+  "coin_type": "0xc59aa898f3bb0ebc0265732ce35ef451990447599c63c67291ec847d04d4ffed::suitto::SUITTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c12dcb8d-d0ea-44a1-a6e6-b70ee5aafea6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

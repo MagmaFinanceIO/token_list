@@ -1,0 +1,13 @@
+{
+  "name": "Donald Pump",
+  "symbol": "PUMP",
+  "decimals": 2,
+  "coin_type": "0x5fb7ef076a3fd634a473fb19f55c33fa4dd188069b513a83d32e15c330679620::pump::PUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0a1bf93f-39a5-40da-87ae-d849af4b6dc6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

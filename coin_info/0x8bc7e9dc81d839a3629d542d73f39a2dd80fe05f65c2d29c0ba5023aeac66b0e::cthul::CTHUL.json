@@ -1,0 +1,13 @@
+{
+  "name": "Cthulhu",
+  "symbol": "CTHUL",
+  "decimals": 9,
+  "coin_type": "0x8bc7e9dc81d839a3629d542d73f39a2dd80fe05f65c2d29c0ba5023aeac66b0e::cthul::CTHUL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bba1edd5-f3b6-42dc-8047-0969c7b5169a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

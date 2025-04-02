@@ -1,0 +1,13 @@
+{
+  "name": "Yin Yang",
+  "symbol": "Balance",
+  "decimals": 6,
+  "coin_type": "0x53f3a26bb61a154938e58f54cb607cf19601f0380ddd586f860e82c13852bc40::balance::BALANCE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/download_6111f9cc20.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

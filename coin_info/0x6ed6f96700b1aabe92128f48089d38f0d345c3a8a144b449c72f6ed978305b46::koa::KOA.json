@@ -1,0 +1,13 @@
+{
+  "name": "koa",
+  "symbol": "KOA",
+  "decimals": 9,
+  "coin_type": "0x6ed6f96700b1aabe92128f48089d38f0d345c3a8a144b449c72f6ed978305b46::koa::KOA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/df9184f0-4923-48aa-be30-0a65d3e46d89.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

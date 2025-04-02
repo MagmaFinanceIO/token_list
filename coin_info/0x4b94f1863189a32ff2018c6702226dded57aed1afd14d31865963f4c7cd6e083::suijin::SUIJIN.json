@@ -1,0 +1,13 @@
+{
+  "name": "Suijin",
+  "symbol": "SUIJIN",
+  "decimals": 6,
+  "coin_type": "0x4b94f1863189a32ff2018c6702226dded57aed1afd14d31865963f4c7cd6e083::suijin::SUIJIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5264_3278b65bd7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

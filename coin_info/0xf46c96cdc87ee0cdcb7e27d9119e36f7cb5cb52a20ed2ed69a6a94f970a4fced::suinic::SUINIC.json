@@ -1,0 +1,13 @@
+{
+  "name": "SONIC",
+  "symbol": "SUINIC",
+  "decimals": 6,
+  "coin_type": "0xf46c96cdc87ee0cdcb7e27d9119e36f7cb5cb52a20ed2ed69a6a94f970a4fced::suinic::SUINIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_11_08_11_51_27_8039412fc0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

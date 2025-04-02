@@ -1,0 +1,13 @@
+{
+  "name": "goomba",
+  "symbol": "GOOMBA",
+  "decimals": 6,
+  "coin_type": "0x0b244a25095e5faa28458adc452a1ec657e5d0a8291d46e550c9e1b5be925512::goomba::GOOMBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1222222_6a6dbea92d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

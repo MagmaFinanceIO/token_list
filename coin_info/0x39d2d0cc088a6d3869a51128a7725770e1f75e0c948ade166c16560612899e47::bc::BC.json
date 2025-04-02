@@ -1,0 +1,13 @@
+{
+  "name": "Old Bitcoin On Sui",
+  "symbol": "BC",
+  "decimals": 9,
+  "coin_type": "0x39d2d0cc088a6d3869a51128a7725770e1f75e0c948ade166c16560612899e47::bc::BC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn.png?size=lg&key=2785d3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

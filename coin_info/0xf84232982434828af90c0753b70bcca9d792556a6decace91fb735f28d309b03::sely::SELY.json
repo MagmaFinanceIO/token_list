@@ -1,0 +1,13 @@
+{
+  "name": "Sui Sely",
+  "symbol": "SELY",
+  "decimals": 6,
+  "coin_type": "0xf84232982434828af90c0753b70bcca9d792556a6decace91fb735f28d309b03::sely::SELY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_2024_10_10_T211451_779_7f11abfc83.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

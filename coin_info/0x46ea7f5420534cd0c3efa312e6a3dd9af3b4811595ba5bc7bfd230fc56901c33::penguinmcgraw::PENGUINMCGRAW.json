@@ -1,0 +1,13 @@
+{
+  "name": "Penguin McGraw",
+  "symbol": "PenguinMcGraw",
+  "decimals": 6,
+  "coin_type": "0x46ea7f5420534cd0c3efa312e6a3dd9af3b4811595ba5bc7bfd230fc56901c33::penguinmcgraw::PENGUINMCGRAW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/345345_d5421c5d35.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

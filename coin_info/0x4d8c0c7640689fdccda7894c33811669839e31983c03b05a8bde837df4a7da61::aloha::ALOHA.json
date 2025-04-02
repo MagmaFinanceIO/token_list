@@ -1,0 +1,13 @@
+{
+  "name": "Aloha coin",
+  "symbol": "ALOHA",
+  "decimals": 9,
+  "coin_type": "0x4d8c0c7640689fdccda7894c33811669839e31983c03b05a8bde837df4a7da61::aloha::ALOHA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a028b212-9b82-4e8f-b6d4-05ccb473d1b8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

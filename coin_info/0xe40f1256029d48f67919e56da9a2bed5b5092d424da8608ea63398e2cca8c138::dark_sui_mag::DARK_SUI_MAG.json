@@ -1,0 +1,13 @@
+{
+  "name": "Dark Sui MAG",
+  "symbol": "Dark Sui MAG",
+  "decimals": 9,
+  "coin_type": "0xe40f1256029d48f67919e56da9a2bed5b5092d424da8608ea63398e2cca8c138::dark_sui_mag::DARK_SUI_MAG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c991ef33-781c-47d4-b82d-4b9bce161ecf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

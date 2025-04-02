@@ -1,0 +1,13 @@
+{
+  "name": "Jhol",
+  "symbol": "JHOL",
+  "decimals": 8,
+  "coin_type": "0xa687447bb6bfb195f1135fc1e6f8dfc84d8fb75049d73516d4607530851e59b3::jhol::JHOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/424e17e2-c1a8-4b16-a816-dd13f3fa7669.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

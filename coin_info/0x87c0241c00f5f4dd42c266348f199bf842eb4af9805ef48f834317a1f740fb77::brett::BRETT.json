@@ -1,0 +1,13 @@
+{
+  "name": "Alpha Brett",
+  "symbol": "Brett",
+  "decimals": 9,
+  "coin_type": "0x87c0241c00f5f4dd42c266348f199bf842eb4af9805ef48f834317a1f740fb77::brett::BRETT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ac99181d-1d0d-4f5e-aeef-b1599a36024c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Avocado",
+  "symbol": "AVOCADO",
+  "decimals": 8,
+  "coin_type": "0xfeebdef99f874f7deed91aaa13b5d4d2571139c3e8ce08a97a3321445aa36299::avocado::AVOCADO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/20518769-f44c-4161-8084-4edc32b22e5b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

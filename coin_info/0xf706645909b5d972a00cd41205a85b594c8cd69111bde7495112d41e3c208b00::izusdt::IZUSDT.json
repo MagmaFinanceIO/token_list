@@ -1,0 +1,13 @@
+{
+  "name": "Tether USD",
+  "symbol": "izUSDT",
+  "decimals": 8,
+  "coin_type": "0xf706645909b5d972a00cd41205a85b594c8cd69111bde7495112d41e3c208b00::izusdt::IZUSDT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9134ae76-56d8-409f-83b3-c2b61d64282e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

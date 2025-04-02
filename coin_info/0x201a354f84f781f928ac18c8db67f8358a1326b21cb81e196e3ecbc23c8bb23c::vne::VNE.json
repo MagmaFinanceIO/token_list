@@ -1,0 +1,13 @@
+{
+  "name": "VINE",
+  "symbol": "VNE",
+  "decimals": 9,
+  "coin_type": "0x201a354f84f781f928ac18c8db67f8358a1326b21cb81e196e3ecbc23c8bb23c::vne::VNE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1de5a320-ff29-4106-a226-f74e734fe823.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

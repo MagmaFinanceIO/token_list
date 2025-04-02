@@ -1,0 +1,13 @@
+{
+  "name": "Pudgy Ape Sui",
+  "symbol": "PAPES",
+  "decimals": 9,
+  "coin_type": "0x61675a044cf60648f5ae22eb7af92c7110583e4607e83cf9b1c968b5fe609639::papes::PAPES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b96e271a-e0a9-40ad-9fd2-ffd080891f2a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

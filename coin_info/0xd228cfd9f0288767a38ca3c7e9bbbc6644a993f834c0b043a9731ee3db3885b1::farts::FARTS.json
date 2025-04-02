@@ -1,0 +1,13 @@
+{
+  "name": "Fart Simpson Sui",
+  "symbol": "FARTS",
+  "decimals": 9,
+  "coin_type": "0xd228cfd9f0288767a38ca3c7e9bbbc6644a993f834c0b043a9731ee3db3885b1::farts::FARTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/30a890cd-e053-4fc6-b72b-9fcbd661a869.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

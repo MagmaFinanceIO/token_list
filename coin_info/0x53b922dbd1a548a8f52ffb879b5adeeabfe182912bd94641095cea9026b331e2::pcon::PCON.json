@@ -1,0 +1,13 @@
+{
+  "name": "PepyCon",
+  "symbol": "PCON",
+  "decimals": 6,
+  "coin_type": "0x53b922dbd1a548a8f52ffb879b5adeeabfe182912bd94641095cea9026b331e2::pcon::PCON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000004400_d7a8625478.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

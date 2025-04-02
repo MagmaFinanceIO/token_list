@@ -1,0 +1,13 @@
+{
+  "name": "Sydney Suiney",
+  "symbol": "SUINEY",
+  "decimals": 6,
+  "coin_type": "0x9c8376adab9e7753d25a2b1834e92d3627419fc72bfb278f6d52010c2e7e07ca::suiney::SUINEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_2737_d2c6ebe41f.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

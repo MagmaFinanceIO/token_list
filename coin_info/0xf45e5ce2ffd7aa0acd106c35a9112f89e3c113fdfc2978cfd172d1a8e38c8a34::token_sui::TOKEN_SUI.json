@@ -1,0 +1,13 @@
+{
+  "name": "Nazgul - Game of Throne",
+  "symbol": "NAZGUL",
+  "decimals": 9,
+  "coin_type": "0xf45e5ce2ffd7aa0acd106c35a9112f89e3c113fdfc2978cfd172d1a8e38c8a34::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/988/741/large/romain-kurdi-nazgul-sketches03-protected-intensity-low-v2-nightshade-intensity-low-v1.jpg?1729083025",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

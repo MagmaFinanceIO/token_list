@@ -1,0 +1,13 @@
+{
+  "name": "Sui Chef",
+  "symbol": "Chef",
+  "decimals": 6,
+  "coin_type": "0x1b126f44f3c8d9dc18b2123e399ac0e20b59c4b5a28af46ad7218dcac2105db2::chef::CHEF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2F2024_10_19_10_47_09_8f6c4be573.jpg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nothing",
+  "symbol": "Nt",
+  "decimals": 6,
+  "coin_type": "0xe8a827b61397df8ee83e46f69a4e48398484b6c9e36e3e458e5c96ee5e07e9f1::nt::NT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6768_a055c617c9.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

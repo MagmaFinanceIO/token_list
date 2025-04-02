@@ -1,0 +1,13 @@
+{
+  "name": "IDOSOL COMEBACK",
+  "symbol": "IDOSOL",
+  "decimals": 9,
+  "coin_type": "0xae0505f41a712c72bf6ae23ac14d022617444e7e7493dc7a38a9378c2b5efab0::idosol::IDOSOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4mqmpLMmT4xgeqqXTXSUbK6G1jjFeDHbAexBzw9Upump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

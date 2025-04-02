@@ -1,0 +1,13 @@
+{
+  "name": "burnt.fun",
+  "symbol": "SuiBurnt",
+  "decimals": 9,
+  "coin_type": "0x1cccb4a9f9451085c727f647e7feacd8be10cbf4d47c2fe9c2a075ac6c4cffed::suiburnt::SUIBURNT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/burnt3JjFJvvAbKznwrDKxW5U9ZcsKUuCyJVCjKdSVB.png?size=lg&key=7d611d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

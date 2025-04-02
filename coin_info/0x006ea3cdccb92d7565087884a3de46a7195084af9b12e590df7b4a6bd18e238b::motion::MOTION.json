@@ -1,0 +1,13 @@
+{
+  "name": "Motion AI",
+  "symbol": "MOTION",
+  "decimals": 9,
+  "coin_type": "0x006ea3cdccb92d7565087884a3de46a7195084af9b12e590df7b4a6bd18e238b::motion::MOTION",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EMnNbcue6kgBxvqWY85JUjVqaxFn1fG7bzcGa1S8pump.png?size=lg&key=b5e243",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

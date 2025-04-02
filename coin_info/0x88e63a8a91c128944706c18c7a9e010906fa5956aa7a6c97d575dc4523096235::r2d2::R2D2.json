@@ -1,0 +1,13 @@
+{
+  "name": "R2D2 AI",
+  "symbol": "R2D2",
+  "decimals": 6,
+  "coin_type": "0x88e63a8a91c128944706c18c7a9e010906fa5956aa7a6c97d575dc4523096235::r2d2::R2D2",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000523_98969115ad.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

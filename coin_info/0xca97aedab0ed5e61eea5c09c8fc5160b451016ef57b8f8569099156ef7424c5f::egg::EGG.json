@@ -1,0 +1,13 @@
+{
+  "name": "Egg",
+  "symbol": "EGG",
+  "decimals": 9,
+  "coin_type": "0xca97aedab0ed5e61eea5c09c8fc5160b451016ef57b8f8569099156ef7424c5f::egg::EGG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0b02b87e-c648-491a-8a11-5ba0e7be0583.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

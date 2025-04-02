@@ -1,0 +1,13 @@
+{
+  "name": "CoinMarketCat",
+  "symbol": "CHARLIE",
+  "decimals": 9,
+  "coin_type": "0x1fe51a88513cc9415de0b55535b35428483fd7cef63f5d622959989951571993::charlie::CHARLIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "MUrdeY7rHlAv9Dks",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

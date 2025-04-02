@@ -1,0 +1,13 @@
+{
+  "name": "QueToken",
+  "symbol": "QUETKN",
+  "decimals": 9,
+  "coin_type": "0x6e7abd1a4e9244ca41c216a34aea40acb92819e418e827215b95edd5d1761bce::quetkn::QUETKN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b75f975a-70b7-41d8-9bf1-19b388bc0c8d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

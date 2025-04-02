@@ -1,0 +1,13 @@
+{
+  "name": "ROCK AI",
+  "symbol": "ROCAI",
+  "decimals": 6,
+  "coin_type": "0xabff6bd6d7318f551685ed09509a3f67c6ab0df051aa6de4614555baa4200f4f::rocai::ROCAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7761_41a005f43a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

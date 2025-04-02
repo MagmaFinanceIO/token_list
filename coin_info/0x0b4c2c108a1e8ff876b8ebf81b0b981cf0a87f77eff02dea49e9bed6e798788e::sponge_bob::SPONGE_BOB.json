@@ -1,0 +1,13 @@
+{
+  "name": "SPONGE BOB",
+  "symbol": "SPNG",
+  "decimals": 6,
+  "coin_type": "0x0b4c2c108a1e8ff876b8ebf81b0b981cf0a87f77eff02dea49e9bed6e798788e::sponge_bob::SPONGE_BOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://live.staticflickr.com/2010/2110721622_2c15433541_m.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

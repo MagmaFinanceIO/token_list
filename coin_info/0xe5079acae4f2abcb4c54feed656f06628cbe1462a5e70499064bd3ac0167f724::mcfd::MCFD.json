@@ -1,0 +1,13 @@
+{
+  "name": "MemeCoinsForDummies",
+  "symbol": "MCFD",
+  "decimals": 9,
+  "coin_type": "0xe5079acae4f2abcb4c54feed656f06628cbe1462a5e70499064bd3ac0167f724::mcfd::MCFD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/ibOte3jmrVMpbZ9H?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

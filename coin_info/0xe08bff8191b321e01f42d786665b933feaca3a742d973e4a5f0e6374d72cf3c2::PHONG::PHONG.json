@@ -1,0 +1,13 @@
+{
+  "name": "PHONG",
+  "symbol": "PHONG",
+  "decimals": 9,
+  "coin_type": "0xe08bff8191b321e01f42d786665b933feaca3a742d973e4a5f0e6374d72cf3c2::PHONG::PHONG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

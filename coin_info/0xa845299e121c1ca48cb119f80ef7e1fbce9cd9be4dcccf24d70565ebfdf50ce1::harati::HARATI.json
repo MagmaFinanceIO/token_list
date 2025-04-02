@@ -1,0 +1,13 @@
+{
+  "name": "HARATI",
+  "symbol": "HARATI",
+  "decimals": 9,
+  "coin_type": "0xa845299e121c1ca48cb119f80ef7e1fbce9cd9be4dcccf24d70565ebfdf50ce1::harati::HARATI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Fu65bGzfLBhF7hzg9nBMfb2Bb2U2SwZz2kjSyNqjpump.png?size=lg&key=0cd904",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

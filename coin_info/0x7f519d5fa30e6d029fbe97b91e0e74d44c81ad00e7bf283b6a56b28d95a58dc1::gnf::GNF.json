@@ -1,0 +1,13 @@
+{
+  "name": "Gain Frog",
+  "symbol": "GNF",
+  "decimals": 9,
+  "coin_type": "0x7f519d5fa30e6d029fbe97b91e0e74d44c81ad00e7bf283b6a56b28d95a58dc1::gnf::GNF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4dpkB1pjkTY46uby65YxXZ7CH4pbhimLbQP2rURbcDob.png?size=lg&key=ae12a1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "LiLi the Capybara",
+  "symbol": "LiLi",
+  "decimals": 9,
+  "coin_type": "0xe7d04f7c8407a6413884a24703ebad35524b3f398cca1ac3c27fdddada6cd47e::lili::LILI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/986h3rNLNCUyHmdCKxPwvjxGFQYF8duekFG4cQRjpump.png?size=lg&key=7fa271",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

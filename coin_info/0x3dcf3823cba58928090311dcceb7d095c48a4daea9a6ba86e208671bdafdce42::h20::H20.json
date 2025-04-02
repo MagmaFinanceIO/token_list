@@ -1,0 +1,13 @@
+{
+  "name": "H2O SUI",
+  "symbol": "H20",
+  "decimals": 9,
+  "coin_type": "0x3dcf3823cba58928090311dcceb7d095c48a4daea9a6ba86e208671bdafdce42::h20::H20",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dfb34c7e-1423-4375-a6e7-de88e212433b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

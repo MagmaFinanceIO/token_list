@@ -1,0 +1,13 @@
+{
+  "name": "Jeff The Land Shark",
+  "symbol": "JEFF",
+  "decimals": 9,
+  "coin_type": "0xfffb3aa88402ea08f7550ac057d3d5e0d9c9792af075f63ada3634afd13ccf2c::jeff::JEFF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A8LCx85weSxU4ubQS16twdSdYphbAEDdMd9GkZq5pump.png?size=lg&key=08c1d3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

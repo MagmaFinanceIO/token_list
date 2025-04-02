@@ -1,0 +1,13 @@
+{
+  "name": "AWDACT",
+  "symbol": "AWDC",
+  "decimals": 9,
+  "coin_type": "0xab43d74bf5385b11519ebc8abd221c07dabb0dc56d4caa5224464cfda06b8fcc::awdc::AWDC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a110a36d-334b-4d3f-b6ba-8803adaab02e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

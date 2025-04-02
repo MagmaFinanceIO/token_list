@@ -1,0 +1,13 @@
+{
+  "name": "Axolt - The Water Dog",
+  "symbol": "Axolt",
+  "decimals": 9,
+  "coin_type": "0xcc61332060af6f366d2ad1ec686fe04d870ad4dc00b528c9c92a1bd9816653d7::axolt::AXOLT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Cyri7pBfkkKfqyN5CK4NiSt11FrR1JH4vXVAAXdwMHbk.png?size=lg&key=17ce58",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

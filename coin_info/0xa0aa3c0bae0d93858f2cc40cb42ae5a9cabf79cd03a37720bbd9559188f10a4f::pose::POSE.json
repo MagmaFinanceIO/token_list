@@ -1,0 +1,13 @@
+{
+  "name": "POSUIDON.AI by SuiAI",
+  "symbol": "POSE",
+  "decimals": 6,
+  "coin_type": "0xa0aa3c0bae0d93858f2cc40cb42ae5a9cabf79cd03a37720bbd9559188f10a4f::pose::POSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Gh_TW_Ho_Hb_QA_Arfz_N_279e6f2733.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Currency Cat",
+  "symbol": "Currency",
+  "decimals": 9,
+  "coin_type": "0xec3975eda561f32cc4032f445fe87d7113b405002b0e0b81c35ba3b8dd9e86d5::currency::CURRENCY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5GCn2Y8kwxynD7syLLX3QcC8VBDCQevGmy1hSnmdpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

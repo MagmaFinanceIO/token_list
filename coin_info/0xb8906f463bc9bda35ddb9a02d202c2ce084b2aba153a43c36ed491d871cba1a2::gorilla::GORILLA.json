@@ -1,0 +1,13 @@
+{
+  "name": "GORILLA",
+  "symbol": "GORILLA",
+  "decimals": 6,
+  "coin_type": "0xb8906f463bc9bda35ddb9a02d202c2ce084b2aba153a43c36ed491d871cba1a2::gorilla::GORILLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/gorilla.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pou",
+  "symbol": "POU",
+  "decimals": 9,
+  "coin_type": "0x545ad49116b95f60f8d3343498792e9913edb813b23f7eef9ecb54263912ced6::pou::POU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qmd1VSfGibKa2wi5rBpQGXP3tJGThzTmgFtpS4oxzJjTnc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

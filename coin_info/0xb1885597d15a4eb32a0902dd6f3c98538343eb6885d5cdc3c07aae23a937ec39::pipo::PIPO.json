@@ -1,0 +1,13 @@
+{
+  "name": "PIPO",
+  "symbol": "PIPO",
+  "decimals": 9,
+  "coin_type": "0xb1885597d15a4eb32a0902dd6f3c98538343eb6885d5cdc3c07aae23a937ec39::pipo::PIPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "QAPSt_nM-aT_w-o7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

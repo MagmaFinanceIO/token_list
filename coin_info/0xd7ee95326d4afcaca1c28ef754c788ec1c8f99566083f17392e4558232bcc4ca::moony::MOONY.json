@@ -1,0 +1,13 @@
+{
+  "name": "Moonshot",
+  "symbol": "MOONY",
+  "decimals": 9,
+  "coin_type": "0xd7ee95326d4afcaca1c28ef754c788ec1c8f99566083f17392e4558232bcc4ca::moony::MOONY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4cdefedc-c6fd-42df-8ec3-835a1b513c32.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

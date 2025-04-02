@@ -1,0 +1,13 @@
+{
+  "name": "Meowpump",
+  "symbol": "Meooow",
+  "decimals": 6,
+  "coin_type": "0x5663d00661e9dcfb7c2bf5d345058b8eea84db6c86240aeb219300425fa66806::meooow::MEOOOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/GWB_Ua_B0_Wc_A_Ar_F_p_024b012933.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suivenir",
+  "symbol": "SUIVENIR",
+  "decimals": 6,
+  "coin_type": "0xc2c2addbdfba72538910f8f96b31c2b942ec129dd5ac14c15b145349d849644b::suivenir::SUIVENIR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/ai_therium_2_a8b8204ed0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

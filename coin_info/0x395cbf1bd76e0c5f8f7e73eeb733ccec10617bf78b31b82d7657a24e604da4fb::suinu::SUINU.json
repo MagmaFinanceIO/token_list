@@ -1,0 +1,13 @@
+{
+  "name": "Sui inu",
+  "symbol": "SUINU",
+  "decimals": 6,
+  "coin_type": "0x395cbf1bd76e0c5f8f7e73eeb733ccec10617bf78b31b82d7657a24e604da4fb::suinu::SUINU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000029182_0339b6c0a8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

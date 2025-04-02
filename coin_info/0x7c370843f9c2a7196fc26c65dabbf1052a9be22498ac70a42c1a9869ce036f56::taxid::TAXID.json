@@ -1,0 +1,13 @@
+{
+  "name": "TAXI DRIVER",
+  "symbol": "TAXID",
+  "decimals": 6,
+  "coin_type": "0x7c370843f9c2a7196fc26c65dabbf1052a9be22498ac70a42c1a9869ce036f56::taxid::TAXID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000060106_f3001576a4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

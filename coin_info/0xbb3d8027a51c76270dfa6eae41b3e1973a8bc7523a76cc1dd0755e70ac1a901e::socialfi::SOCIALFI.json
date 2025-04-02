@@ -1,0 +1,13 @@
+{
+  "name": "SocialFi On Sui",
+  "symbol": "SocialFi",
+  "decimals": 9,
+  "coin_type": "0xbb3d8027a51c76270dfa6eae41b3e1973a8bc7523a76cc1dd0755e70ac1a901e::socialfi::SOCIALFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQAPrfWHGcKeR16yLeAL4ioWci8ose4tBYG5KTbP8NXMU",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

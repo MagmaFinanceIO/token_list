@@ -1,0 +1,13 @@
+{
+  "name": "Suimba",
+  "symbol": "SUIMBA",
+  "decimals": 6,
+  "coin_type": "0x1f36ef86487579d4997a86861369be9815eef3c1b547bf61b92de18ed2359208::suimba::SUIMBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730656691695.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

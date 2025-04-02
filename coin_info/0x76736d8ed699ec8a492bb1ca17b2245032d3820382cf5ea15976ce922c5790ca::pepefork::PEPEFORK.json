@@ -1,0 +1,13 @@
+{
+  "name": "PepeFork",
+  "symbol": "PepeFork",
+  "decimals": 9,
+  "coin_type": "0x76736d8ed699ec8a492bb1ca17b2245032d3820382cf5ea15976ce922c5790ca::pepefork::PEPEFORK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/59c4c662-7810-47e5-89ef-b0bad7a09c83.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

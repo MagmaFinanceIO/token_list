@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL PENGSU",
+  "symbol": "PESSU",
+  "decimals": 9,
+  "coin_type": "0x55d1c35e40ad6af1bb546db959d4978752b8c71a2876c22788d737ffbcd8b3e2::pessu::PESSU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/9e81702c95d5ff8775ee27f451077b9eblob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

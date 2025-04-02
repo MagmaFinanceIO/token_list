@@ -1,0 +1,13 @@
+{
+  "name": "Hallowkin",
+  "symbol": "Hallowkin",
+  "decimals": 9,
+  "coin_type": "0x322f835ef9ffd7e25a1edf00f8eed7b26fba77c59f1a257724f139c395f0983e::hallowkin::HALLOWKIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3eea22e2-0ebd-46e9-91c8-cecdd818c12b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

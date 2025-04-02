@@ -1,0 +1,13 @@
+{
+  "name": "ALY",
+  "symbol": "ALY",
+  "decimals": 9,
+  "coin_type": "0x371ea31e9e0eb9986a6527eb482ccd3c6d82c253170c1c30170b741bef188ef0::aly::ALY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.tbstat.com/wp/uploads/2023/10/sui_asset.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BLACK COIN",
+  "symbol": "BLACK",
+  "decimals": 9,
+  "coin_type": "0x31ca4383d115439cc7caf989465e82bde9d148484e76773da54a30436140784a::black::BLACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/JAgdRnfc6B9UdGTBGgn8KtrfU61aLizcKz4p51pFpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

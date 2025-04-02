@@ -1,0 +1,13 @@
+{
+  "name": "toby the turtle",
+  "symbol": "TOBY",
+  "decimals": 9,
+  "coin_type": "0xed3ed55603c350549b1c4be6867d28b835a264f0a38b9a883aaeb5ce5c5754a6::toby::TOBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Hxh5JQY45Aas92Ag3KTeZfcxQf1hnD1ZpoMk5cKBpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

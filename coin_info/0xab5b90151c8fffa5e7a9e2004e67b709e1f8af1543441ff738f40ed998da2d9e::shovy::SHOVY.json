@@ -1,0 +1,13 @@
+{
+  "name": "Baby Shovel",
+  "symbol": "SHOVY",
+  "decimals": 9,
+  "coin_type": "0xab5b90151c8fffa5e7a9e2004e67b709e1f8af1543441ff738f40ed998da2d9e::shovy::SHOVY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a714f2c0-8d4b-4657-84b7-80b27b492e2c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

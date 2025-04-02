@@ -1,0 +1,13 @@
+{
+  "name": "BOT AI",
+  "symbol": "BOAI",
+  "decimals": 6,
+  "coin_type": "0x07130ad3a77f11c46ce0013736babbcfd57b7aaf64e61f9b6358e19a504130ce::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/qJtYL10/ava-1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

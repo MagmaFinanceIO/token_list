@@ -1,0 +1,13 @@
+{
+  "name": "BLUE PANTHER",
+  "symbol": "BLUP",
+  "decimals": 6,
+  "coin_type": "0xce96ea01ac5b0aa497ac3ae218636e5ffa06111f41913d5ae462911626e39011::blup::BLUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo3_155b04dc17.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

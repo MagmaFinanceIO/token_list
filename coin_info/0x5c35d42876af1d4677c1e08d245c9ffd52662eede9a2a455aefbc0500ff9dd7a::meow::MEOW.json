@@ -1,0 +1,13 @@
+{
+  "name": "Meow Meow",
+  "symbol": "Meow",
+  "decimals": 9,
+  "coin_type": "0x5c35d42876af1d4677c1e08d245c9ffd52662eede9a2a455aefbc0500ff9dd7a::meow::MEOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://framerusercontent.com/images/4U7niESpBrGhxPnpD4wsVRuRIM.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Deddy Deng Wif Hat",
+  "symbol": "DEDENG",
+  "decimals": 9,
+  "coin_type": "0xc5573985175c0bbbc4e2f6d6c681046894568a8ad830524cb345ce1041a76fbb::dedeng::DEDENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/01793e06-e5e4-4d8d-bee0-eaa6bbf0c59f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

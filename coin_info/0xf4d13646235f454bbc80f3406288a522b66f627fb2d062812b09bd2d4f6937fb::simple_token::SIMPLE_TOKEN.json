@@ -1,0 +1,13 @@
+{
+  "name": "boringbot",
+  "symbol": "boringbot",
+  "decimals": 9,
+  "coin_type": "0xf4d13646235f454bbc80f3406288a522b66f627fb2d062812b09bd2d4f6937fb::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

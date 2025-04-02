@@ -1,0 +1,13 @@
+{
+  "name": "ATH",
+  "symbol": "ATH",
+  "decimals": 9,
+  "coin_type": "0x61c8bc7f2488101c909796c710c797d69a8978a3fa37aff9d7a73eb11f467077::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

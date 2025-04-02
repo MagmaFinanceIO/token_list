@@ -1,0 +1,13 @@
+{
+  "name": "Junk Crab",
+  "symbol": "JUNKCRAB",
+  "decimals": 9,
+  "coin_type": "0x1018b97878bdce5919431f0f656636717502a111f9f636c1a79af4c39df82e93::junkcrab::JUNKCRAB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/273/391/large/jack-yan-d.jpg?1727162902",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

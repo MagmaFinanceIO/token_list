@@ -1,0 +1,13 @@
+{
+  "name": "Oh My Cod!",
+  "symbol": "OHMYCOD",
+  "decimals": 9,
+  "coin_type": "0x325ad2fa1a19835082a37d17549dc2ee3e64db49cfead75ddf1f84cbbb8ffd9f::ohmycod::OHMYCOD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/eba93833-a3a7-4e03-ac23-fb4bf3917e07.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

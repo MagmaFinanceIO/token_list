@@ -1,0 +1,13 @@
+{
+  "name": "YURI",
+  "symbol": "YURI",
+  "decimals": 9,
+  "coin_type": "0x9bd7c7eb5f7c9220438959b3f067baa77205c30048fe833cd822da99bea9d322::yuri::YURI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9zGjSYsr44zi6kjYbSoKsPx9YQ5y6xFZRhj2nignpump.png?size=lg&key=6b7dff",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

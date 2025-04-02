@@ -1,0 +1,13 @@
+{
+  "name": "Garfield On SUI",
+  "symbol": "GARF",
+  "decimals": 6,
+  "coin_type": "0xbb437452f6a894b973dee53f41a1b0d2b43986ee8fa83081e518c6ca8b0850d2::garf::GARF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2024_10_11_21_14_19_52c6571f99.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

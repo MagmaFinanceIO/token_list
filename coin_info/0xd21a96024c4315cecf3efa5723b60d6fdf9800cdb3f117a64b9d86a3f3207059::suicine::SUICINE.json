@@ -1,0 +1,13 @@
+{
+  "name": "SUIcine Pill",
+  "symbol": "SUICINE",
+  "decimals": 9,
+  "coin_type": "0xd21a96024c4315cecf3efa5723b60d6fdf9800cdb3f117a64b9d86a3f3207059::suicine::SUICINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ebe97625-5b72-47af-88c1-d226545aa263.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

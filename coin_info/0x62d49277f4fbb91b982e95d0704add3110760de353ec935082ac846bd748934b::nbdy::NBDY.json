@@ -1,0 +1,13 @@
+{
+  "name": "Nobody",
+  "symbol": "NBDY",
+  "decimals": 9,
+  "coin_type": "0x62d49277f4fbb91b982e95d0704add3110760de353ec935082ac846bd748934b::nbdy::NBDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/933341f4-ab5f-4a75-98c8-124a2aaf4ecb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

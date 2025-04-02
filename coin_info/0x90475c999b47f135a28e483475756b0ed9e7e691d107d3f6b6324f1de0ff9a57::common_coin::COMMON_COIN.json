@@ -1,0 +1,13 @@
+{
+  "name": "SUINEO",
+  "symbol": "Suineo",
+  "decimals": 6,
+  "coin_type": "0x90475c999b47f135a28e483475756b0ed9e7e691d107d3f6b6324f1de0ff9a57::common_coin::COMMON_COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2Fprofpic_suineo_dff79971bf.png&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

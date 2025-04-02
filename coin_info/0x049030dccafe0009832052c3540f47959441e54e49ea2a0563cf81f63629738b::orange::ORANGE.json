@@ -1,0 +1,13 @@
+{
+  "name": "OrangeBot App",
+  "symbol": "ORANGE",
+  "decimals": 6,
+  "coin_type": "0x049030dccafe0009832052c3540f47959441e54e49ea2a0563cf81f63629738b::orange::ORANGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736519440456.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

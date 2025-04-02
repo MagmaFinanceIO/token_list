@@ -1,0 +1,13 @@
+{
+  "name": "SUIBET",
+  "symbol": "SUIBET",
+  "decimals": 6,
+  "coin_type": "0xd4870d3a66654929368e8303bdef1115fe06e27c376da53592ada589e742dcc9::suibet::SUIBET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://beige-shocked-dinosaur-182.mypinata.cloud/ipfs/QmYdAkuPf89vnoJgVzDiFjAMU6hJSUBxLSedLoHnacNRgP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

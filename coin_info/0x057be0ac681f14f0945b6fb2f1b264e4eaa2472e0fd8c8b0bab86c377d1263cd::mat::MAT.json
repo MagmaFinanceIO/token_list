@@ -1,0 +1,13 @@
+{
+  "name": "Move Cat",
+  "symbol": "MAT",
+  "decimals": 9,
+  "coin_type": "0x057be0ac681f14f0945b6fb2f1b264e4eaa2472e0fd8c8b0bab86c377d1263cd::mat::MAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/25069a8e-7e29-4f16-a018-8327430efc73.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

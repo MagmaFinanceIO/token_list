@@ -1,0 +1,13 @@
+{
+  "name": "Modern Stoic AI",
+  "symbol": "STOIC",
+  "decimals": 9,
+  "coin_type": "0x3f65f76a6670178e72a6efe808de4ed17a2f8a18eb9fe35c6e0de547d3fd96b2::stoic::STOIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FHM9ASBDry5uT8HgSkEFpCbhnWU3zsrPGwYgprmGCJzz.png?size=lg&key=6890f0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

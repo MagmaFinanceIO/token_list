@@ -1,0 +1,13 @@
+{
+  "name": "0xAuditGPT",
+  "symbol": "AUDITGPT",
+  "decimals": 6,
+  "coin_type": "0x4f038a9b7227fd1ccdc06f74999996a59f0fe1c7a8320b0cce56e5f905c855ce::auditgpt::AUDITGPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ac694af8-0d89-452b-ae03-771e64def053.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "YO Token",
+  "symbol": "YOT",
+  "decimals": 6,
+  "coin_type": "0xf0782690e57fd61a7702bdb548d5cd2b9f719f800499a868e5c91a0bb3aeac08::yot::YOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://mqer437zuw4u4ntyk5aftetyb4fbwuzvvaygwpfuk5mw6w75dkna.arweave.net/ZAkeb_mluU42eFdAWZJ4DwobUzWoMGs8tFdZb1v9Gpo",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

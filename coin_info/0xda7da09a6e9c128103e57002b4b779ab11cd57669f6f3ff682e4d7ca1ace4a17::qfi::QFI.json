@@ -1,0 +1,13 @@
+{
+  "name": "QFI",
+  "symbol": "QFI",
+  "decimals": 9,
+  "coin_type": "0xda7da09a6e9c128103e57002b4b779ab11cd57669f6f3ff682e4d7ca1ace4a17::qfi::QFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

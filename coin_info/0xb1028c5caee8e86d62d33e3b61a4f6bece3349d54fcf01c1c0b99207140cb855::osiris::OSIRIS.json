@@ -1,0 +1,13 @@
+{
+  "name": "Osiris Coin",
+  "symbol": "OSIRIS",
+  "decimals": 6,
+  "coin_type": "0xb1028c5caee8e86d62d33e3b61a4f6bece3349d54fcf01c1c0b99207140cb855::osiris::OSIRIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/acd50755-623f-4955-b862-2b6dc88028c3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

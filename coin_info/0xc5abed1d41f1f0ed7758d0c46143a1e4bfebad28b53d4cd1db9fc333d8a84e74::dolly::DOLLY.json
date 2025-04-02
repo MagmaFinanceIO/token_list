@@ -1,0 +1,13 @@
+{
+  "name": "Dolly",
+  "symbol": "Dolly",
+  "decimals": 9,
+  "coin_type": "0xc5abed1d41f1f0ed7758d0c46143a1e4bfebad28b53d4cd1db9fc333d8a84e74::dolly::DOLLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/91zBQrYLwZS2MfNKvHpn5CMydHvEwrmvphvNdx35pump.png?size=lg&key=c6ad32",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

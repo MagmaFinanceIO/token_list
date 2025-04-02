@@ -1,0 +1,13 @@
+{
+  "name": "Pabble The CapyBara",
+  "symbol": "PABBLE",
+  "decimals": 6,
+  "coin_type": "0x30275854dfb6a38e0af89a8fd08bd3b0e4b0ee5f2ff55e8f195cddcf00dcde9e::pabble::PABBLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000048023_8e75208e5f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

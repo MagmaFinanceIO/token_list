@@ -1,0 +1,13 @@
+{
+  "name": "Don Quixote",
+  "symbol": "Sancho",
+  "decimals": 6,
+  "coin_type": "0x126b3fb095ce7c665ff2fe432147b4a95559271fcd2be112799bdef560affec3::sancho::SANCHO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8010d7a0-09de-4c1c-ad46-e4fedce1a017.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

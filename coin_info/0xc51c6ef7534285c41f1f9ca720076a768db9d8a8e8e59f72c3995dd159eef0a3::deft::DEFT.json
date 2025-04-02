@@ -1,0 +1,13 @@
+{
+  "name": "Deft",
+  "symbol": "DEFT",
+  "decimals": 0,
+  "coin_type": "0xc51c6ef7534285c41f1f9ca720076a768db9d8a8e8e59f72c3995dd159eef0a3::deft::DEFT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Visa Coin",
+  "symbol": "VISA",
+  "decimals": 9,
+  "coin_type": "0x7ca2b886494e3240aadfe6b3b9123876d393033f24b22188883ab31028dec578::visa::VISA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/97bR1cWyHXXSbPhg6eZkBGwwdKTV5ru1oJbNrXoopump.png?claimId=HI6yWzXBt7qWJp82",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

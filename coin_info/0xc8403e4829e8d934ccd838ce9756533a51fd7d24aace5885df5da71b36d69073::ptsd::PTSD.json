@@ -1,0 +1,13 @@
+{
+  "name": "PTSD SUI",
+  "symbol": "PTSD",
+  "decimals": 6,
+  "coin_type": "0xc8403e4829e8d934ccd838ce9756533a51fd7d24aace5885df5da71b36d69073::ptsd::PTSD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pfp_c9e5d06a65.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

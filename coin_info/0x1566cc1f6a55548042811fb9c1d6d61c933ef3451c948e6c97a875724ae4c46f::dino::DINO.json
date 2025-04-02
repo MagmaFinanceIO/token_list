@@ -1,0 +1,13 @@
+{
+  "name": "DINO",
+  "symbol": "DINO",
+  "decimals": 9,
+  "coin_type": "0x1566cc1f6a55548042811fb9c1d6d61c933ef3451c948e6c97a875724ae4c46f::dino::DINO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2CtNzAD8aLvMQpN4Vu7pGfy5BMf94P765coW1B9EUN9o.png?size=lg&key=22f828",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

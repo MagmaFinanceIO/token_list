@@ -1,0 +1,13 @@
+{
+  "name": "We Robot",
+  "symbol": "WR",
+  "decimals": 6,
+  "coin_type": "0x43e39b4a2da90aca829b6af66d2a4d5f20641f31b8139bd7bffaf149eb567030::wr::WR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/wer_fbe3813ab8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

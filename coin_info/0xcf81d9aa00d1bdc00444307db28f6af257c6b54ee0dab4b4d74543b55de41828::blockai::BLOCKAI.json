@@ -1,0 +1,13 @@
+{
+  "name": "BlockAI Protocol",
+  "symbol": "BlockAI",
+  "decimals": 9,
+  "coin_type": "0xcf81d9aa00d1bdc00444307db28f6af257c6b54ee0dab4b4d74543b55de41828::blockai::BLOCKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7b01d521-be8b-4a91-89c5-898ae757b926.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

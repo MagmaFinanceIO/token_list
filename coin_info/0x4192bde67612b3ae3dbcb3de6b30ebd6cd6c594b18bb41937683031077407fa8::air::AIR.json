@@ -1,0 +1,13 @@
+{
+  "name": "Air Coins",
+  "symbol": "AIR",
+  "decimals": 9,
+  "coin_type": "0x4192bde67612b3ae3dbcb3de6b30ebd6cd6c594b18bb41937683031077407fa8::air::AIR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c1126153-664b-47ba-b942-eb472b7388de.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

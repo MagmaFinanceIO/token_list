@@ -1,0 +1,13 @@
+{
+  "name": "MagMooDeng",
+  "symbol": "Magnet",
+  "decimals": 6,
+  "coin_type": "0xe396a61e3888b08d42f6f2181bf89a0d4ab71d64327902dc2855c9b51b949e95::magnet::MAGNET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/9_Ve_SR_1_RD_9z_N2_AR_Cp_Rs_RF_Ji_Kr_V4ww_Vz_A_Migq_T7_C_Qwv28v_6ffdccc419.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

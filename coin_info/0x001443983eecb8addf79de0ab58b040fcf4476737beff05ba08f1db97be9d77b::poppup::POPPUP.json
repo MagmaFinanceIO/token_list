@@ -1,0 +1,13 @@
+{
+  "name": "PopPup",
+  "symbol": "POPPUP",
+  "decimals": 9,
+  "coin_type": "0x001443983eecb8addf79de0ab58b040fcf4476737beff05ba08f1db97be9d77b::poppup::POPPUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6b9530d8-80ee-44d3-bfb7-77c2aa3392a6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Teslafart",
+  "symbol": "TESF",
+  "decimals": 9,
+  "coin_type": "0x9000f51fc7aed132521a01383d4210dca2fdf1a6d0ee8d4ddc6de2fedf8db8e3::tesf::TESF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/24cbd99e-987b-4aa7-8de7-b7549c5a6dc8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

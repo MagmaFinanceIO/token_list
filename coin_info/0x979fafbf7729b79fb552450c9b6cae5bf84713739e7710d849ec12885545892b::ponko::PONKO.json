@@ -1,0 +1,13 @@
+{
+  "name": "Ponko",
+  "symbol": "Ponko",
+  "decimals": 9,
+  "coin_type": "0x979fafbf7729b79fb552450c9b6cae5bf84713739e7710d849ec12885545892b::ponko::PONKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

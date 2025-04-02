@@ -1,0 +1,13 @@
+{
+  "name": "DogWifHat On SUI",
+  "symbol": "DogWifHat",
+  "decimals": 9,
+  "coin_type": "0x44a11cdc6ffb08748e53a66f7ff549b411ccb09c1246aafb0d0f623f30a02272::dogwifhat::DOGWIFHAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/44e63541-9467-4367-8baf-5349d9e86630.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

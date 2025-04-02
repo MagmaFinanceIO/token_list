@@ -1,0 +1,13 @@
+{
+  "name": "Duckzy Sui",
+  "symbol": "Duckzy",
+  "decimals": 6,
+  "coin_type": "0x23499f723fbe0e9c91ca45b19a959f815d5acb56862a5f13471ee21e8c79fc0a::duckzy::DUCKZY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/jim_vermeer_duckmario_6_1_2b59a799cc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

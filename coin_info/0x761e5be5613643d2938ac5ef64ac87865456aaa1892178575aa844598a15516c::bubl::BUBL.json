@@ -1,0 +1,13 @@
+{
+  "name": "BUBL ON SUI",
+  "symbol": "BUBL",
+  "decimals": 9,
+  "coin_type": "0x761e5be5613643d2938ac5ef64ac87865456aaa1892178575aa844598a15516c::bubl::BUBL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f2c0b4c8-33ff-45aa-8075-da3fd3be6e30.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

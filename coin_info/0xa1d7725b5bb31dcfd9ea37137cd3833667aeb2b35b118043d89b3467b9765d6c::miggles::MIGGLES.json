@@ -1,0 +1,13 @@
+{
+  "name": "Mister Miggles",
+  "symbol": "MIGGLES",
+  "decimals": 9,
+  "coin_type": "0xa1d7725b5bb31dcfd9ea37137cd3833667aeb2b35b118043d89b3467b9765d6c::miggles::MIGGLES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0xb1a03eda10342529bbf8eb700a06c60441fef25d.png?size=lg&key=a2f9f4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Lil Bub (ticker: BUB)",
+  "symbol": "BUB",
+  "decimals": 9,
+  "coin_type": "0xe1ca8388032f19dbb77e6b7a49631e3965da322edff83c9bb6665b22879b6675::bub::BUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmVz633Cr1Vsy1JrsNUU1txX8Sp14vqGv5pqMiSZr5iEtF?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

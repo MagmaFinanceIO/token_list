@@ -1,0 +1,13 @@
+{
+  "name": "Official Tariff",
+  "symbol": "TARIFF",
+  "decimals": 9,
+  "coin_type": "0x8084902680c3de6102976901d5c0e2b02dc70c6dc2d6b74e81311308ebb2d9b4::tariff::TARIFF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HWGurnpW8DQPMZvZ14VqaTJcvr4eBLWKF2QE4dYCRmXK.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Oink",
+  "symbol": "Oink",
+  "decimals": 6,
+  "coin_type": "0x62bcd74c56ce75d1c3cb8d9b86a1aefff776bee809e9f9cd4c31607f6a9a604f::oink::OINK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730952253322.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

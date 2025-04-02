@@ -1,0 +1,13 @@
+{
+  "name": "THECAT",
+  "symbol": "THECAT",
+  "decimals": 9,
+  "coin_type": "0x3c50a684d79b8a76d1bf717d925da9cb1453368d7d162c701dba418ccfec5714::thecat::THECAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DRTeDJXZYYZxmq3tmgSPvLi3ef5E51cRH1KzzwXvC5M7.png?size=xl&key=53da97",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

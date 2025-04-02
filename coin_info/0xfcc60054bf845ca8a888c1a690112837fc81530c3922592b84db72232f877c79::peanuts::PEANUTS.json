@@ -1,0 +1,13 @@
+{
+  "name": "Peanut Santa",
+  "symbol": "PeanutS",
+  "decimals": 9,
+  "coin_type": "0xfcc60054bf845ca8a888c1a690112837fc81530c3922592b84db72232f877c79::peanuts::PEANUTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DR9hR7e44uss7QGXgsijehim9T8XUiQGgjGhn3h2pump.png?size=lg&key=680b2c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "suicat",
+  "symbol": "suicat",
+  "decimals": 6,
+  "coin_type": "0xf77b745efcdbb2f266b3552637c93f050be22a3eb186c450cb4861ae8b684f63::suicat::SUICAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmQnbVQ6ft5A9xvRzbcuBHnvvtqbi5V7HpvpFU9zygLvSa",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

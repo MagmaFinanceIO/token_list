@@ -1,0 +1,13 @@
+{
+  "name": "Hopper the rabbit",
+  "symbol": "HOP",
+  "decimals": 6,
+  "coin_type": "0x7ff4aa56abdc86f72cfef32be84881245b119e0d612b75380c8fa1e33678100f::hop::HOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2fc2fab4-09fb-4acf-9a14-bf4c556ee5d1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

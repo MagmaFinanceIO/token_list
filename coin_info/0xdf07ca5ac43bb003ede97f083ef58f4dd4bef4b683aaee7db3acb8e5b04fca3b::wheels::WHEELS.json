@@ -1,0 +1,13 @@
+{
+  "name": "Official Wheels Coin",
+  "symbol": "Wheels",
+  "decimals": 9,
+  "coin_type": "0xdf07ca5ac43bb003ede97f083ef58f4dd4bef4b683aaee7db3acb8e5b04fca3b::wheels::WHEELS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EacyohodVjEyYGdeBsLQ1asxqixs8LbqbayAVQTkpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Cash",
+  "symbol": "PEPCA",
+  "decimals": 9,
+  "coin_type": "0x7fcce031d1a0f8fda054db477fa31ef8719cc3a213b1657b944df7d25be4357f::pepca::PEPCA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/PcKLWSPLaWuoXTDn5DuPDMWDcodwT4jqykVpQvupump.png?size=lg&key=1eb43d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

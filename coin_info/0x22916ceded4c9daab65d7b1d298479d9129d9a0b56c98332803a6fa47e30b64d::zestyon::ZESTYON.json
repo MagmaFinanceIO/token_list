@@ -1,0 +1,13 @@
+{
+  "name": "Zestyon Sui",
+  "symbol": "ZESTYON",
+  "decimals": 9,
+  "coin_type": "0x22916ceded4c9daab65d7b1d298479d9129d9a0b56c98332803a6fa47e30b64d::zestyon::ZESTYON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://framerusercontent.com/images/4U7niESpBrGhxPnpD4wsVRuRIM.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

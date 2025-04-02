@@ -1,0 +1,13 @@
+{
+  "name": "Ondo Finance",
+  "symbol": "ONDO",
+  "decimals": 6,
+  "coin_type": "0x6b8df0a20ed37d6145a3730f9aab59a0b2e20909016c37d0d75ba14daf88ab9c::ondo::ONDO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1619993c-b829-4d7b-acff-3fe8e83f2ae2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

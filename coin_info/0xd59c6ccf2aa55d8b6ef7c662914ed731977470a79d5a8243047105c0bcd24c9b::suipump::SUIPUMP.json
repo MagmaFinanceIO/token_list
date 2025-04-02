@@ -1,0 +1,13 @@
+{
+  "name": "Sui Pump Fun",
+  "symbol": "SuiPUMP",
+  "decimals": 9,
+  "coin_type": "0xd59c6ccf2aa55d8b6ef7c662914ed731977470a79d5a8243047105c0bcd24c9b::suipump::SUIPUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1a7c680f-1657-4f02-b334-823e5c4aef30.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

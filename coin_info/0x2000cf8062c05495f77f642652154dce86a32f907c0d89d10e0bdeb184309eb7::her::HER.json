@@ -1,0 +1,13 @@
+{
+  "name": "Her Devotion",
+  "symbol": "HER",
+  "decimals": 6,
+  "coin_type": "0x2000cf8062c05495f77f642652154dce86a32f907c0d89d10e0bdeb184309eb7::her::HER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736039613155.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

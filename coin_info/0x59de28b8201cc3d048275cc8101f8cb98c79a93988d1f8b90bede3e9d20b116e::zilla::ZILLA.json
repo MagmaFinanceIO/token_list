@@ -1,0 +1,13 @@
+{
+  "name": "ZillaCoin",
+  "symbol": "ZILLA",
+  "decimals": 6,
+  "coin_type": "0x59de28b8201cc3d048275cc8101f8cb98c79a93988d1f8b90bede3e9d20b116e::zilla::ZILLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/079bfbe3-3407-47d5-ae3a-a1d5f324454a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

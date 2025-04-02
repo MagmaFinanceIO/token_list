@@ -1,0 +1,13 @@
+{
+  "name": "Vio AI",
+  "symbol": "VIO",
+  "decimals": 6,
+  "coin_type": "0x76e56583f65d40b6c068e3ce856d792ef7a275a910b693f8164b477fb16b327d::vio::VIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_2141_2d2a6f70fd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

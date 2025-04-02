@@ -1,0 +1,13 @@
+{
+  "name": "Pleasance",
+  "symbol": "PLS",
+  "decimals": 6,
+  "coin_type": "0xb67cfacb5bd2f51fec30d4aa97ec6cda9f686dd2f71f12ec3fee794e68ee0486::pls::PLS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.postimg.cc/28k4J3TQ/AF4-C6-D93-5-C07-4-B08-8961-3549-C606-B092.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

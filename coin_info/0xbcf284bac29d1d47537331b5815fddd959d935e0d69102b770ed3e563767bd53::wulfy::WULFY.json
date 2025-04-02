@@ -1,0 +1,13 @@
+{
+  "name": "Wulfy",
+  "symbol": "WULFY",
+  "decimals": 9,
+  "coin_type": "0xbcf284bac29d1d47537331b5815fddd959d935e0d69102b770ed3e563767bd53::wulfy::WULFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2sDxG3aMbfZmaivn6hiuzTEv4EEyJtnacSpi7M6nkdjm.png?size=lg&key=acd6fe",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

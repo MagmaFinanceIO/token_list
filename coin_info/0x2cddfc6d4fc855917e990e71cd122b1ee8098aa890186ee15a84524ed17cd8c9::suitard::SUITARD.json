@@ -1,0 +1,13 @@
+{
+  "name": "suitard",
+  "symbol": "STD",
+  "decimals": 9,
+  "coin_type": "0x2cddfc6d4fc855917e990e71cd122b1ee8098aa890186ee15a84524ed17cd8c9::suitard::SUITARD",
+  "pyth_id": "",
+  "birdeyeid": "0x2cddfc6d4fc855917e990e71cd122b1ee8098aa890186ee15a84524ed17cd8c9::suitard::SUITARD",
+  "coin_priority": [],
+  "logo_url": "https://hawbf2zd3vl47ileyqlznfwluvtyis7bnbfkadg7vpsvxbpe5h4a.arweave.net/OCwS6yPdV8-hZMQXlpbLpWeES-FoSqAM36vlW4Xk6fg",
+  "project_url": "",
+  "coingecko_id": "suitard",
+  "is_trusted": true
+}

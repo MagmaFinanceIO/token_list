@@ -1,0 +1,13 @@
+{
+  "name": "Museum Of Memes",
+  "symbol": "MUSE",
+  "decimals": 9,
+  "coin_type": "0xee06908cbf3023fa05ebe740793be6f80841c58cd6e180cbcb02044824846bca::muse::MUSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2YDMeite4gKusVQGAXvQPnbEXwkLKm2pUz8CTqHBpump.png?size=lg&key=faff7f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

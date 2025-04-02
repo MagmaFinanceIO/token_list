@@ -1,0 +1,13 @@
+{
+  "name": "Sui Lovers Club",
+  "symbol": "SLC",
+  "decimals": 6,
+  "coin_type": "0xe22c9b758d4205bdcd6f6d7c470fcaff96037c7f47c45417ea609bb7f7c80980::slc::SLC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Aida_c52272cb54.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

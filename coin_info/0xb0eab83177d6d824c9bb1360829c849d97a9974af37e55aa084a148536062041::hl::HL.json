@@ -1,0 +1,13 @@
+{
+  "name": "xhlq",
+  "symbol": "HL",
+  "decimals": 6,
+  "coin_type": "0xb0eab83177d6d824c9bb1360829c849d97a9974af37e55aa084a148536062041::hl::HL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/images_2_0988353340.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

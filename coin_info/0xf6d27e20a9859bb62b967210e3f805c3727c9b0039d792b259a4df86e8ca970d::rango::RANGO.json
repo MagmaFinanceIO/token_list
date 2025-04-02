@@ -1,0 +1,13 @@
+{
+  "name": "Rango SUI",
+  "symbol": "RANGO",
+  "decimals": 6,
+  "coin_type": "0xf6d27e20a9859bb62b967210e3f805c3727c9b0039d792b259a4df86e8ca970d::rango::RANGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/v0_Wv_X4u_D_400x400_879afdc226.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

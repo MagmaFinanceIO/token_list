@@ -1,0 +1,13 @@
+{
+  "name": "BeegBlue",
+  "symbol": "BB",
+  "decimals": 6,
+  "coin_type": "0xd4ddd02b1387484d0f4b5e8db33fb1c4ba4907b39b25e564edf943983e949e19::bb::BB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/beeg_43a7413a46.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

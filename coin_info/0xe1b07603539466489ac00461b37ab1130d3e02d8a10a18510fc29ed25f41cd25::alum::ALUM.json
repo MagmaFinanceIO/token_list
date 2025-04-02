@@ -1,0 +1,13 @@
+{
+  "name": "ALUM",
+  "symbol": "ALUM",
+  "decimals": 9,
+  "coin_type": "0xe1b07603539466489ac00461b37ab1130d3e02d8a10a18510fc29ed25f41cd25::alum::ALUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/tjzVp70NzoUG8O0r?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

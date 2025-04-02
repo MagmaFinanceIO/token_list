@@ -1,0 +1,13 @@
+{
+  "name": "Frank",
+  "symbol": "FRANK",
+  "decimals": 9,
+  "coin_type": "0x1f9c2b5bda7e50ccf9ff9c615e14eafa189f31a12ed3e88f57b164e75d9ae03f::frank::FRANK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/73rx3z8cYfNkK2FKFiV9CMsyXeCFeD8TPMkf3aVapump.png?size=lg&key=845c85",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

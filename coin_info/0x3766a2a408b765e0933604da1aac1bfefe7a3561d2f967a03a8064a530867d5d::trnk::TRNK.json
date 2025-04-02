@@ -1,0 +1,13 @@
+{
+  "name": "Trunky",
+  "symbol": "TRNK",
+  "decimals": 9,
+  "coin_type": "0x3766a2a408b765e0933604da1aac1bfefe7a3561d2f967a03a8064a530867d5d::trnk::TRNK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xced88f3ca5034abfc1f5492a808a39ee2b16f321.png?size=xl&key=bc0888te",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

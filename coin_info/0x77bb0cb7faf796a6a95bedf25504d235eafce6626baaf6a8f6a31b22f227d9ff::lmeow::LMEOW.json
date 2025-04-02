@@ -1,0 +1,13 @@
+{
+  "name": "Lmeow",
+  "symbol": "Lmeow",
+  "decimals": 9,
+  "coin_type": "0x77bb0cb7faf796a6a95bedf25504d235eafce6626baaf6a8f6a31b22f227d9ff::lmeow::LMEOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e0b75d13-63d2-4db9-bae4-52185d704c8f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

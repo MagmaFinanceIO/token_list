@@ -1,0 +1,13 @@
+{
+  "name": "CAT THEFT AUTO",
+  "symbol": "CTA",
+  "decimals": 6,
+  "coin_type": "0x58154620ca9617df46190a53e9f7ba2e371e142f6212682db5dfa8307db8a212::cta::CTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7060_ba4b4588c6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

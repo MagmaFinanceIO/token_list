@@ -1,0 +1,13 @@
+{
+  "name": "Bunbun on Sui",
+  "symbol": "BunSui",
+  "decimals": 9,
+  "coin_type": "0x740924dbaf8c4ef700b875572d84482e1a3807cd33f40e51dc8725a9ec7a019b::bunsui::BUNSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/D6UCc5rVyivAS6LYEDqPQSXLHUH5HoiczbvbhgLtUovz.png?size=lg&key=c1eb9f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

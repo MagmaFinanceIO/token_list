@@ -1,0 +1,13 @@
+{
+  "name": "Young King",
+  "symbol": "youngking",
+  "decimals": 9,
+  "coin_type": "0x399f9361c6156eed9c0ea1a75b43bdabc388551e9820adc0fac5816e83315829::youngking::YOUNGKING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/814/853/large/demiurge-ash-here-is-your-crown.jpg?1728576298",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

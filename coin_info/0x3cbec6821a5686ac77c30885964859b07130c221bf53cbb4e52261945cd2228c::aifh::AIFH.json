@@ -1,0 +1,13 @@
+{
+  "name": "AI500 by SuiAI",
+  "symbol": "AIFH",
+  "decimals": 6,
+  "coin_type": "0x3cbec6821a5686ac77c30885964859b07130c221bf53cbb4e52261945cd2228c::aifh::AIFH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/A_colorful_and_detailed_unicorn_2802e46ce8.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

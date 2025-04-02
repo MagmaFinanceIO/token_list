@@ -1,0 +1,13 @@
+{
+  "name": "CapyBridge",
+  "symbol": "Capy",
+  "decimals": 6,
+  "coin_type": "0x5f082aa886bd67ed0528598fced16b61c043e5fb181557f5ea8c4776da253f38::capy::CAPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/05227cb6-d566-4676-a8c3-c6974e03bd78.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ELON X",
+  "symbol": "ELONX",
+  "decimals": 9,
+  "coin_type": "0xfff9ab0259df3f460098a0ba545cd54bb518e163f8a51ce3c21268ec27d09f8b::elonx::ELONX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/88cf06de-6753-44d2-8f44-62908bb564ea.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

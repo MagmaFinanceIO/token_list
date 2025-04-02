@@ -1,0 +1,13 @@
+{
+  "name": "POOFED",
+  "symbol": "POOF ON SUI",
+  "decimals": 9,
+  "coin_type": "0x9e11cee10b47cff1fd6eedfcf8c3e7fad03d7ce6478789c6fb5ec90fe463b892::poof_on_sui::POOF_ON_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

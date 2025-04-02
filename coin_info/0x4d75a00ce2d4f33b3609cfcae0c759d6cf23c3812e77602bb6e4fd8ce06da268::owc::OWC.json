@@ -1,0 +1,13 @@
+{
+  "name": "Open Worlds Coin",
+  "symbol": "OWC",
+  "decimals": 9,
+  "coin_type": "0x4d75a00ce2d4f33b3609cfcae0c759d6cf23c3812e77602bb6e4fd8ce06da268::owc::OWC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4f659d4e-deb2-4fad-a568-a1e02afb5f77.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

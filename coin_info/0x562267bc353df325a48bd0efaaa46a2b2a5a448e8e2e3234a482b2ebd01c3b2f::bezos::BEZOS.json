@@ -1,0 +1,13 @@
+{
+  "name": "Playboy Bezos",
+  "symbol": "BEZOS",
+  "decimals": 9,
+  "coin_type": "0x562267bc353df325a48bd0efaaa46a2b2a5a448e8e2e3234a482b2ebd01c3b2f::bezos::BEZOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B8q1emW1dKLerpaiLi9n4ZVSCMLaDZUe8T6mPekPpump.png?size=lg&key=b022de",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

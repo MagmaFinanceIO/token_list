@@ -1,0 +1,13 @@
+{
+  "name": "AI Rig Complex",
+  "symbol": "arc",
+  "decimals": 9,
+  "coin_type": "0xf4df482ab36d0254251f13e603bc1aceb9c2a4130f93669e126773d8158a79e6::arc::ARC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmPDJuEobBcLZihjFCvkWA8c1FiW7UzM2ctFdiffSLxf1d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

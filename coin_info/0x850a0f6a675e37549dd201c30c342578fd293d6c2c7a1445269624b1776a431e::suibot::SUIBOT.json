@@ -1,0 +1,13 @@
+{
+  "name": "SuiBot",
+  "symbol": "suiBot",
+  "decimals": 9,
+  "coin_type": "0x850a0f6a675e37549dd201c30c342578fd293d6c2c7a1445269624b1776a431e::suibot::SUIBOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/06b0bfb2-4db9-48fc-9d6a-91da0f5024f6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

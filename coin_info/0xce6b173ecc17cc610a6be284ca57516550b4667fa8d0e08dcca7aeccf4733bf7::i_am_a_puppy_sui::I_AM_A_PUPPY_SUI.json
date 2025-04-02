@@ -1,0 +1,13 @@
+{
+  "name": "I am a Puppy Sui",
+  "symbol": "I am a Puppy Sui",
+  "decimals": 9,
+  "coin_type": "0xce6b173ecc17cc610a6be284ca57516550b4667fa8d0e08dcca7aeccf4733bf7::i_am_a_puppy_sui::I_AM_A_PUPPY_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/20dc5e45-b2e3-4aa6-b6f9-5e37eab27e54.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

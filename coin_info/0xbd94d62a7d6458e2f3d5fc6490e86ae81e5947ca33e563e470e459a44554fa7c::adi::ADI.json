@@ -1,0 +1,13 @@
+{
+  "name": "AiDogeInu",
+  "symbol": "ADI",
+  "decimals": 9,
+  "coin_type": "0xbd94d62a7d6458e2f3d5fc6490e86ae81e5947ca33e563e470e459a44554fa7c::adi::ADI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c2e50777-fb18-4a6e-8a57-b4e5ffb45104.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

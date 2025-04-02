@@ -1,0 +1,13 @@
+{
+  "name": "Bored Ape Yacht Club",
+  "symbol": "BAYC",
+  "decimals": 9,
+  "coin_type": "0x11b70c38f71de84f266b42d161a337aa6984346dd156066d349163c8a7e53d25::bayc::BAYC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6m7jFs2kaNrTWjFmdHCvvBeQoVxbhK76qBsvaYYCpump.png?size=lg&key=eda8d4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

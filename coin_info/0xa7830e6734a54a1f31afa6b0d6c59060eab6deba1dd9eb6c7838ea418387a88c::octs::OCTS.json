@@ -1,0 +1,13 @@
+{
+  "name": "octopuses",
+  "symbol": "OCTS",
+  "decimals": 6,
+  "coin_type": "0xa7830e6734a54a1f31afa6b0d6c59060eab6deba1dd9eb6c7838ea418387a88c::octs::OCTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/images_2da4ad7c8e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

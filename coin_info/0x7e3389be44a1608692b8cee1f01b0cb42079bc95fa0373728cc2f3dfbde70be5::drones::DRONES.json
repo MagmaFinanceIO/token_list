@@ -1,0 +1,13 @@
+{
+  "name": "SkyNet",
+  "symbol": "Drones",
+  "decimals": 9,
+  "coin_type": "0x7e3389be44a1608692b8cee1f01b0cb42079bc95fa0373728cc2f3dfbde70be5::drones::DRONES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/459cb35f-8ac1-4fad-99be-ed7491d752d9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

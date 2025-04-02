@@ -1,0 +1,13 @@
+{
+  "name": "SUIZZMAS",
+  "symbol": "Suizzmas",
+  "decimals": 6,
+  "coin_type": "0x6ec2b94aebd98aed425df7a441522aea4890954495cc4fa232c94d2f94ff7441::suizzmas::SUIZZMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

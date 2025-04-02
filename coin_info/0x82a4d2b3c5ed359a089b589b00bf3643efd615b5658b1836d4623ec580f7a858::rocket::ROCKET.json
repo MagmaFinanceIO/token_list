@@ -1,0 +1,13 @@
+{
+  "name": "ROCKET",
+  "symbol": "ROCKET",
+  "decimals": 6,
+  "coin_type": "0x82a4d2b3c5ed359a089b589b00bf3643efd615b5658b1836d4623ec580f7a858::rocket::ROCKET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/rocket.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

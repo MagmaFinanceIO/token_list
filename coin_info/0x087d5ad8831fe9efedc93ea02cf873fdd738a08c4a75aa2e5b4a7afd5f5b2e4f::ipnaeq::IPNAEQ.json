@@ -1,0 +1,13 @@
+{
+  "name": "ipnaeq",
+  "symbol": "ipnaeq",
+  "decimals": 6,
+  "coin_type": "0x087d5ad8831fe9efedc93ea02cf873fdd738a08c4a75aa2e5b4a7afd5f5b2e4f::ipnaeq::IPNAEQ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

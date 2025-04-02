@@ -1,0 +1,13 @@
+{
+  "name": "Jellyfish",
+  "symbol": "JELLYFISH",
+  "decimals": 9,
+  "coin_type": "0x04706a800e0843331c52ae7ef7a91c7320fabb1d81bd5d95beddb158671fec77::jellyfish::JELLYFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b5054e80-5c9e-4816-ae18-ffcc2a2ba64b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

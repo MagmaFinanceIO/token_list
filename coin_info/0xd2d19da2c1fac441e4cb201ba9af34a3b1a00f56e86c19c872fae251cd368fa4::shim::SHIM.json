@@ -1,0 +1,13 @@
+{
+  "name": "Shima Enaga",
+  "symbol": "SHIM",
+  "decimals": 6,
+  "coin_type": "0xd2d19da2c1fac441e4cb201ba9af34a3b1a00f56e86c19c872fae251cd368fa4::shim::SHIM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d7119805-da27-4fe0-b4cf-0a5914a2ff7a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "RAYAN",
+  "symbol": "RAYAN",
+  "decimals": 9,
+  "coin_type": "0x28ed06cbe4b9d585d3db630428fa99765869c6ef469f7fb59978052b02debb6a::rayan::RAYAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

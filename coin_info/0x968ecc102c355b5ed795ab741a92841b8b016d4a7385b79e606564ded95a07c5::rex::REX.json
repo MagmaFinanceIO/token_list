@@ -1,0 +1,13 @@
+{
+  "name": "suirex",
+  "symbol": "REX",
+  "decimals": 9,
+  "coin_type": "0x968ecc102c355b5ed795ab741a92841b8b016d4a7385b79e606564ded95a07c5::rex::REX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/70f7b466-49ab-4030-bb7c-e82f832c49b1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

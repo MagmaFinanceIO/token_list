@@ -1,0 +1,13 @@
+{
+  "name": "Mister Pongo",
+  "symbol": "PONGO",
+  "decimals": 9,
+  "coin_type": "0x67f14f12e6bee49c7ff4b002dcaba809c744742024f26aa50663721f7205b9c4::pongo::PONGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/14372b0b-572f-4d53-88fa-6972298584a4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

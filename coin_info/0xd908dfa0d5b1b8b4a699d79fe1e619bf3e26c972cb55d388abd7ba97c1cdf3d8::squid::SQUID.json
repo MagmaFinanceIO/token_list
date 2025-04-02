@@ -1,0 +1,13 @@
+{
+  "name": "squid de game",
+  "symbol": "squid",
+  "decimals": 9,
+  "coin_type": "0xd908dfa0d5b1b8b4a699d79fe1e619bf3e26c972cb55d388abd7ba97c1cdf3d8::squid::SQUID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f0bd4ba3-2577-44a9-9026-76eaa59621aa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

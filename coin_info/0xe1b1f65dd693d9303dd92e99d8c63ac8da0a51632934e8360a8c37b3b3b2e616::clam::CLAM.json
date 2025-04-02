@@ -1,0 +1,13 @@
+{
+  "name": "Clam",
+  "symbol": "CLAM",
+  "decimals": 4,
+  "coin_type": "0xe1b1f65dd693d9303dd92e99d8c63ac8da0a51632934e8360a8c37b3b3b2e616::clam::CLAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/138fde18-8cef-4da1-8286-713b3dfe13e1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

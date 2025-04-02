@@ -1,0 +1,13 @@
+{
+  "name": "M.A.G.A P.E.P.E",
+  "symbol": "MAGAPE",
+  "decimals": 9,
+  "coin_type": "0xbb597bfbb5db6ba92999bd576a54c74e89aed31a2fc414f16d3f45535af836fe::magape::MAGAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a5c91dc4-2016-4ce1-be8c-cae11f1fed8b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

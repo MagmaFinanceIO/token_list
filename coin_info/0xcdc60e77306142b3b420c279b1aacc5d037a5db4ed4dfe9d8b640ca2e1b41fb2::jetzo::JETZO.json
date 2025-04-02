@@ -1,0 +1,13 @@
+{
+  "name": "JETZO ON SUI",
+  "symbol": "JETZO",
+  "decimals": 9,
+  "coin_type": "0xcdc60e77306142b3b420c279b1aacc5d037a5db4ed4dfe9d8b640ca2e1b41fb2::jetzo::JETZO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://tokenjungle.mypinata.cloud/ipfs/QmNhPGCBZJX7otAYsoEwrTkLxxSQjzeDv25uZxKwvDTX7Q",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

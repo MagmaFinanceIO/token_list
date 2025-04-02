@@ -1,0 +1,13 @@
+{
+  "name": "VKCtT",
+  "symbol": "BivDP",
+  "decimals": 9,
+  "coin_type": "0x74a12cbf1f811cfaf273fb01426bb281d0dbadcb9ab19bff5f02a686b82c7f41::bivdp::BIVDP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HheTmXNNkrzN78Qsyz6obfGSL1HvFttG7FU5fok3pump.png?size=lg&key=282918",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

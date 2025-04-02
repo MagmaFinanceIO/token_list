@@ -1,0 +1,13 @@
+{
+  "name": "Holozone",
+  "symbol": "HOLO",
+  "decimals": 9,
+  "coin_type": "0xc5f47e341ea4ea5fec11c5bf9f1d22006298c41e86aba1f8de859b2e799081a3::holo::HOLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmNdoSm354T3GWRiYxkK6NB7uZBvwnaUz24t6vTZELExxB",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

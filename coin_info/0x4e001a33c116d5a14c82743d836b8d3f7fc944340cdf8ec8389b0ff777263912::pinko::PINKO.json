@@ -1,0 +1,13 @@
+{
+  "name": "Pinko The Panter",
+  "symbol": "PINKO",
+  "decimals": 9,
+  "coin_type": "0x4e001a33c116d5a14c82743d836b8d3f7fc944340cdf8ec8389b0ff777263912::pinko::PINKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/999049c8-3bf1-4e7f-bbc6-11e005e31a4d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

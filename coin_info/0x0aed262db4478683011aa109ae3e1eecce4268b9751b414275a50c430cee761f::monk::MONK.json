@@ -1,0 +1,13 @@
+{
+  "name": "Monk",
+  "symbol": "Monk",
+  "decimals": 9,
+  "coin_type": "0x0aed262db4478683011aa109ae3e1eecce4268b9751b414275a50c430cee761f::monk::MONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

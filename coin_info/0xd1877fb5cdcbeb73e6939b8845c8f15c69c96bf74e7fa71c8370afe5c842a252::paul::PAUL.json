@@ -1,0 +1,13 @@
+{
+  "name": "Paul",
+  "symbol": "PAUL",
+  "decimals": 6,
+  "coin_type": "0xd1877fb5cdcbeb73e6939b8845c8f15c69c96bf74e7fa71c8370afe5c842a252::paul::PAUL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1734562102983.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

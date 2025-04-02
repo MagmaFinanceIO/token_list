@@ -1,0 +1,13 @@
+{
+  "name": "Bubl Whale Sui",
+  "symbol": "Bubl",
+  "decimals": 8,
+  "coin_type": "0x0dfa0c23b91b7440c16ec7c56afaf8703adfd29e32cb82aa5223d042401cab77::bubl::BUBL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f8d5a81f-66df-4510-8b1d-06e5242aeabb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

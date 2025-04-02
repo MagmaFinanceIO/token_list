@@ -1,0 +1,13 @@
+{
+  "name": "MANECO",
+  "symbol": "NECO",
+  "decimals": 9,
+  "coin_type": "0x3ce6b7278ab8444f86bfb32f35b53763914aa3f8aae0e61a72175a5b7f433a2b::neco::NECO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2ca225a7-bd0e-4915-979f-b301e3bd04af.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI RACCOON",
+  "symbol": "RACCOON",
+  "decimals": 9,
+  "coin_type": "0x13bc060e16b29cac32bd591c1107e77704813b91355ad1e241f79d4a7b9eeec7::raccoon::RACCOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Gg7yp9ZL4Fszk26zPmVToCvEqSXWLRR25KsgKQdFpump.png?size=lg&key=a6d537",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

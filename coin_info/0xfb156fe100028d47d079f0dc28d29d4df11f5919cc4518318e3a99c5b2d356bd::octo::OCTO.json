@@ -1,0 +1,13 @@
+{
+  "name": "OctoSui",
+  "symbol": "Octo",
+  "decimals": 6,
+  "coin_type": "0xfb156fe100028d47d079f0dc28d29d4df11f5919cc4518318e3a99c5b2d356bd::octo::OCTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736073063095.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

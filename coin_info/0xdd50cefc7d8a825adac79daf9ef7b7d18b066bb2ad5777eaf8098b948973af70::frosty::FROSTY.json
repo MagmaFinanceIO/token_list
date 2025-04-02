@@ -1,0 +1,13 @@
+{
+  "name": "Frosty",
+  "symbol": "FROSTY",
+  "decimals": 6,
+  "coin_type": "0xdd50cefc7d8a825adac79daf9ef7b7d18b066bb2ad5777eaf8098b948973af70::frosty::FROSTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/imagen_2025_01_03_153944665_1f56a5be0a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SANA AI",
+  "symbol": "SANAAI",
+  "decimals": 9,
+  "coin_type": "0x64595702624e2c43d7dc711aedadd4da8b0e14b0409dd569da419d72a90e60ac::sanaai::SANAAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmXcisCd33Sm4hT97JBNnm3bhijUzHTfmdEC7tLWmYUhLa",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

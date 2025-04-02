@@ -1,0 +1,13 @@
+{
+  "name": "Effinrats",
+  "symbol": "Effinrats",
+  "decimals": 9,
+  "coin_type": "0xc69f95334ec0da57e08245cc6f2c95997fcfab9213bc718c5b1a90220e793160::effinrats_::EFFINRATS_",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2b5398ae-11b5-4077-ad53-1bf29ef06236.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "KIT2.0",
+  "symbol": "KIT",
+  "decimals": 9,
+  "coin_type": "0x2ea9707caaa3edf0f7d4f1db0aa10d9a54cf8e5039b24264671e8043ec254e12::kit::KIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c7bfbbc0-5968-430e-8d55-6e50840ef6b1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

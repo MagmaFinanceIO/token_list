@@ -1,0 +1,13 @@
+{
+  "name": "SroomAI",
+  "symbol": "SHRO",
+  "decimals": 9,
+  "coin_type": "0x16db920b1d1c80f1b107c06b6132e99f11f0f7a1fc669aa6c0aafe8e9477ed20::shro::SHRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/589d62f7-0617-4a1a-a00e-393abdded797.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

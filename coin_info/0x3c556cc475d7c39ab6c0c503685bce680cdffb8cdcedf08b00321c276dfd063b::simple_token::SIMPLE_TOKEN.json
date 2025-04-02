@@ -1,0 +1,13 @@
+{
+  "name": "DRUMP",
+  "symbol": "DRUMP",
+  "decimals": 9,
+  "coin_type": "0x3c556cc475d7c39ab6c0c503685bce680cdffb8cdcedf08b00321c276dfd063b::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

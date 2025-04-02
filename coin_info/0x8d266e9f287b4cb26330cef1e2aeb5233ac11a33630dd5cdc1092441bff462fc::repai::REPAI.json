@@ -1,0 +1,13 @@
+{
+  "name": "Repo AI",
+  "symbol": "REPAI",
+  "decimals": 9,
+  "coin_type": "0x8d266e9f287b4cb26330cef1e2aeb5233ac11a33630dd5cdc1092441bff462fc::repai::REPAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6otfZ2hXzQ1n2QNbxEvB3TjXcPVh6jvCPZR3Yy7Rpump.png?size=lg&key=4ea2d8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

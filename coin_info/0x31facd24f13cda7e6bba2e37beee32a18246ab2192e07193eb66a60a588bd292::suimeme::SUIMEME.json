@@ -1,0 +1,13 @@
+{
+  "name": "Sui Meme",
+  "symbol": "SUIMEME",
+  "decimals": 9,
+  "coin_type": "0x31facd24f13cda7e6bba2e37beee32a18246ab2192e07193eb66a60a588bd292::suimeme::SUIMEME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://purple-neat-mole-319.mypinata.cloud/ipfs/QmU2EXvt93JnFqaEesztAtagA1vCZT4uaUTuGb39XCEB5N",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

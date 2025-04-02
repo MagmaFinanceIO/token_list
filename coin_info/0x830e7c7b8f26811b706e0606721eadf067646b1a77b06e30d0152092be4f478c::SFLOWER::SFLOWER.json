@@ -1,0 +1,13 @@
+{
+  "name": "Sui Flower",
+  "symbol": "SFlower",
+  "decimals": 9,
+  "coin_type": "0x830e7c7b8f26811b706e0606721eadf067646b1a77b06e30d0152092be4f478c::SFLOWER::SFLOWER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dribbble.com/userupload/8716608/file/original-f7b324821b3dcd437b85fa2e27b7a07d.png?resize=1024x768",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

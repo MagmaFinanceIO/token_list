@@ -1,0 +1,13 @@
+{
+  "name": "AI Bear",
+  "symbol": "AIBEAR",
+  "decimals": 6,
+  "coin_type": "0x42078609783b30f9324ea771e26bd460f8efd1fb2691144e8ba41d85329a7020::aibear::AIBEAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmWDKkhGNZqAopFdXJWvjFrhvdy8sqYg7WspWCd3jrekoK",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

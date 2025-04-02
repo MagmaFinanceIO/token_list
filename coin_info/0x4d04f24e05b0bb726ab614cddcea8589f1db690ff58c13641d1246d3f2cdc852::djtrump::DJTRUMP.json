@@ -1,0 +1,13 @@
+{
+  "name": "Make America Dance Again",
+  "symbol": "DJTRUMP",
+  "decimals": 9,
+  "coin_type": "0x4d04f24e05b0bb726ab614cddcea8589f1db690ff58c13641d1246d3f2cdc852::djtrump::DJTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AA1Gtb6rMQkreqYe2zb8SinbtdpzhCRBakZur1MYCHj2.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

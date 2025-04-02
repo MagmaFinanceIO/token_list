@@ -1,0 +1,13 @@
+{
+  "name": "SNOOPY",
+  "symbol": "SNP",
+  "decimals": 9,
+  "coin_type": "0x6bfbc4c63694389afd9d508f4edebb79d95b5bc02d7e67c8932935a9495b1855::snoopy::SNOOPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://https://utfs.io/f/twuH73scZrUE39t7nvpMafgjxvuliYGzkLdQP5r0oFSV68nM",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

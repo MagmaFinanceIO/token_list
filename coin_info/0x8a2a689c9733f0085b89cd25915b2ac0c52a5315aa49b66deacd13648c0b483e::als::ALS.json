@@ -1,0 +1,13 @@
+{
+  "name": "Ailen On Sui",
+  "symbol": "ALS",
+  "decimals": 9,
+  "coin_type": "0x8a2a689c9733f0085b89cd25915b2ac0c52a5315aa49b66deacd13648c0b483e::als::ALS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5a2e5542-6306-4121-bd3a-66234423871a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

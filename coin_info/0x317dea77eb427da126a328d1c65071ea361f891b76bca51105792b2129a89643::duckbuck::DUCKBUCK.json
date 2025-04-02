@@ -1,0 +1,13 @@
+{
+  "name": "DUCK BUCK",
+  "symbol": "DUCKBUCK",
+  "decimals": 6,
+  "coin_type": "0x317dea77eb427da126a328d1c65071ea361f891b76bca51105792b2129a89643::duckbuck::DUCKBUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736373165172.32",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

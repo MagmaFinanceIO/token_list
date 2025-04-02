@@ -1,0 +1,13 @@
+{
+  "name": "My Cleo Ai",
+  "symbol": "CleoAi",
+  "decimals": 9,
+  "coin_type": "0x66f18d69c7dede175e9475f476cada4b35dbaf3c068f1f54a4d7aa18b8833477::cleoai::CLEOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EkwUMaSCi8FRhLcjb5r3CiRKNAvbsWRGVarTeGYpump.png?size=lg&key=eb89c6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

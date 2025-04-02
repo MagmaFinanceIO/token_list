@@ -1,0 +1,13 @@
+{
+  "name": "cloudyheart",
+  "symbol": "cloudy",
+  "decimals": 9,
+  "coin_type": "0x8a8eb72200f024a5f43605c297f040a699dfc7cfe8bf9e51b23f8da78effd017::cloudy::CLOUDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmWtXVb38JHE141KGP3GLQhZCJvEmjahLF4Jg7m9UfM1ZC",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

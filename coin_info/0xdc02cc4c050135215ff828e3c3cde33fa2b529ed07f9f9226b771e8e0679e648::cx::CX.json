@@ -1,0 +1,13 @@
+{
+  "name": "CryptoX",
+  "symbol": "CX",
+  "decimals": 8,
+  "coin_type": "0xdc02cc4c050135215ff828e3c3cde33fa2b529ed07f9f9226b771e8e0679e648::cx::CX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b664e24e-01ee-4256-b55e-b89ee19adb8b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

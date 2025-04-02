@@ -1,0 +1,13 @@
+{
+  "name": "Tiktok",
+  "symbol": "Tiktok",
+  "decimals": 9,
+  "coin_type": "0x815e958973bc4a303d98208bc76317499221268b7cfa6af9196c786e035d1cad::tiktok::TIKTOK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fc65aa92-1cad-47df-bb04-8de44e50fe19.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

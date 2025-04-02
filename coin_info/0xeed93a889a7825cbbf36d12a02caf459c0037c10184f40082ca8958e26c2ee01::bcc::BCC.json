@@ -1,0 +1,13 @@
+{
+  "name": "BitCast Coin",
+  "symbol": "BCC",
+  "decimals": 9,
+  "coin_type": "0xeed93a889a7825cbbf36d12a02caf459c0037c10184f40082ca8958e26c2ee01::bcc::BCC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/69ba9668-e920-490f-b4cf-949d46a23c7e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Meme World",
+  "symbol": "MEWO",
+  "decimals": 9,
+  "coin_type": "0xf70406970111f73d8893b7abe89a4e0277ecc69dd43d40533f7e008f24e3cbbe::mewo::MEWO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cf65559f-4436-4a00-bc33-75433491cc2f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

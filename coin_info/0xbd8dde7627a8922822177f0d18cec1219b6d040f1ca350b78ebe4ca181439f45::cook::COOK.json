@@ -1,0 +1,13 @@
+{
+  "name": "COOK on Sui",
+  "symbol": "COOK",
+  "decimals": 6,
+  "coin_type": "0xbd8dde7627a8922822177f0d18cec1219b6d040f1ca350b78ebe4ca181439f45::cook::COOK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731527448799.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

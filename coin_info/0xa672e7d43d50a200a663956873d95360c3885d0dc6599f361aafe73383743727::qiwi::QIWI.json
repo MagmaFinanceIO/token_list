@@ -1,0 +1,13 @@
+{
+  "name": "QIWI",
+  "symbol": "QIWI",
+  "decimals": 9,
+  "coin_type": "0xa672e7d43d50a200a663956873d95360c3885d0dc6599f361aafe73383743727::qiwi::QIWI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8yQJDT8Qg8JkyYVVGiUPribrqCH76wZnXbw2EvmVpump.png?size=lg&key=954cb4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

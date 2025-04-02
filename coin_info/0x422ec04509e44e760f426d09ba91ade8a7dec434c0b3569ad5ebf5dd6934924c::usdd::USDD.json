@@ -1,0 +1,13 @@
+{
+  "name": "USDD",
+  "symbol": "USDD",
+  "decimals": 9,
+  "coin_type": "0x422ec04509e44e760f426d09ba91ade8a7dec434c0b3569ad5ebf5dd6934924c::usdd::USDD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/Ctl4ORqrrQsCAP5tejITnaUPS0LkX2WcAdza_oxgs9A",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

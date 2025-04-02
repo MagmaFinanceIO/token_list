@@ -1,0 +1,13 @@
+{
+  "name": "ZIRAAI",
+  "symbol": "ZIRAAI",
+  "decimals": 9,
+  "coin_type": "0x8efca8f7189211c3575bbe22f542438bd954dc86d91065875f70b84f3f5249fa::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

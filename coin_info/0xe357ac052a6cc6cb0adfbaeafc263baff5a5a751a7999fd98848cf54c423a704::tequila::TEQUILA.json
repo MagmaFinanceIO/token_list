@@ -1,0 +1,13 @@
+{
+  "name": "Tequila",
+  "symbol": "Tequila",
+  "decimals": 9,
+  "coin_type": "0xe357ac052a6cc6cb0adfbaeafc263baff5a5a751a7999fd98848cf54c423a704::tequila::TEQUILA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GCWjhURJebNnU6CwgjBz8uByyBGeFSt4UUGT6wh2XCPE.png?size=lg&key=ded536",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

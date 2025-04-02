@@ -1,0 +1,13 @@
+{
+  "name": "ElonAndTrump",
+  "symbol": "ElonTrump",
+  "decimals": 6,
+  "coin_type": "0xb343ca16a76f4eda4fa25a658d85f39cb773c82b0a04082c9e1aba1d7fc81b68::elontrump::ELONTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731044058086.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AgentiPy",
+  "symbol": "APY",
+  "decimals": 9,
+  "coin_type": "0xf6e94b1fa805b46f10fbed2b4b11b408b78edf51302f21ef39b8b5ce29de30bc::apy::APY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmbFik3oCbTJ2L4Ggqqsg9W9C2KWJW7srysZ2824a6L1Vz",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

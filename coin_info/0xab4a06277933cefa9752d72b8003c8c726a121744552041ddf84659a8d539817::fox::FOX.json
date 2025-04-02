@@ -1,0 +1,13 @@
+{
+  "name": "Official FoxSwap",
+  "symbol": "FOX",
+  "decimals": 6,
+  "coin_type": "0xab4a06277933cefa9752d72b8003c8c726a121744552041ddf84659a8d539817::fox::FOX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737683209408.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

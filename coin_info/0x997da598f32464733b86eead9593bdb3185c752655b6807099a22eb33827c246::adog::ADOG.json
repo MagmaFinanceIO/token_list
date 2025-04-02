@@ -1,0 +1,13 @@
+{
+  "name": "AquaDog",
+  "symbol": "ADOG",
+  "decimals": 6,
+  "coin_type": "0x997da598f32464733b86eead9593bdb3185c752655b6807099a22eb33827c246::adog::ADOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/28ab30fa-76cb-4a3f-b0cf-e2495ca1e0ad.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

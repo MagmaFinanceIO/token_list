@@ -1,0 +1,13 @@
+{
+  "name": "Toly On Sui",
+  "symbol": "Toly",
+  "decimals": 9,
+  "coin_type": "0x398692af13e3019d547989f4370095235cf07b84779abbb159b1796c012b4f52::toly::TOLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmNrD7NAQ3Ls3eYxFnRWKdGihnjPMFMKpTbuZsXDe3Gjqb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI Hades",
+  "symbol": "Hades",
+  "decimals": 6,
+  "coin_type": "0x4716ce652425d851a976809ea3069f7af67165db6c7d997a5c2356bab76877e6::hades::HADES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/260762098_0_final_b833cdd7fe.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

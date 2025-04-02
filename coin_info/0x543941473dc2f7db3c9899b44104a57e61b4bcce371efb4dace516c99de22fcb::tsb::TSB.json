@@ -1,0 +1,13 @@
+{
+  "name": "TECSOBOL",
+  "symbol": "TSB",
+  "decimals": 3,
+  "coin_type": "0x543941473dc2f7db3c9899b44104a57e61b4bcce371efb4dace516c99de22fcb::tsb::TSB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://app.magmafinance.io/api/logo/0x543941473dc2f7db3c9899b44104a57e61b4bcce371efb4dace516c99de22fcb::tsb::TSB.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

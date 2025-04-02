@@ -1,0 +1,13 @@
+{
+  "name": "Baby Kekius Maximus",
+  "symbol": "BabyKekMax",
+  "decimals": 9,
+  "coin_type": "0xa1d4ca095a458f5725567c365a6314903319d0b90676d9ea1dacac0368cef21c::babykekmax::BABYKEKMAX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Gdykwkw9WZK6weYwkRJEzyJ5dC9ZHEx2KNBSJvZjpump.png?size=lg&key=026d1c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

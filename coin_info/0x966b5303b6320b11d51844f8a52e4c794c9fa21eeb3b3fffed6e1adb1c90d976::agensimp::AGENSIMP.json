@@ -1,0 +1,13 @@
+{
+  "name": "AGENT SIMP",
+  "symbol": "AGENSIMP",
+  "decimals": 6,
+  "coin_type": "0x966b5303b6320b11d51844f8a52e4c794c9fa21eeb3b3fffed6e1adb1c90d976::agensimp::AGENSIMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736172652283.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

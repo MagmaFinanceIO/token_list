@@ -1,0 +1,13 @@
+{
+  "name": "CHADSUI",
+  "symbol": "CHADSUI",
+  "decimals": 9,
+  "coin_type": "0xd1e071b5660bf6beb15831df28a80e29d0880d485a9b93f1da60e72e8093315e::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

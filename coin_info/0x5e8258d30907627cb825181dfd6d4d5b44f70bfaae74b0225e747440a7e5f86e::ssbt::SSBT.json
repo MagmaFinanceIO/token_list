@@ -1,0 +1,13 @@
+{
+  "name": "SSBT",
+  "symbol": "SSBT",
+  "decimals": 9,
+  "coin_type": "0x5e8258d30907627cb825181dfd6d4d5b44f70bfaae74b0225e747440a7e5f86e::ssbt::SSBT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cloudflare-ipfs.com/ipfs/QmQ8yZBRFwwe2bk1BXmnizujKKGDqDevWoFb1zjXpX3VqC",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

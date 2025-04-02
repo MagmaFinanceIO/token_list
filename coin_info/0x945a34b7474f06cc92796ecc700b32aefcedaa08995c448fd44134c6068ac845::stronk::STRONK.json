@@ -1,0 +1,13 @@
+{
+  "name": "Stronk on Sui",
+  "symbol": "STRONK",
+  "decimals": 6,
+  "coin_type": "0x945a34b7474f06cc92796ecc700b32aefcedaa08995c448fd44134c6068ac845::stronk::STRONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Stronk_f491309083.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

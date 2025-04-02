@@ -1,0 +1,13 @@
+{
+  "name": "Homer Trump",
+  "symbol": "HOMER",
+  "decimals": 6,
+  "coin_type": "0x22af965c4339aa35132de12f1f516e7a926fd318505dc2ee5b06e0d846fc7b36::homer::HOMER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_21_17_55_38_f32ce06fd7.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Pako",
+  "symbol": "PAKO",
+  "decimals": 6,
+  "coin_type": "0x6f3d1b6ee6d229562e62e960f6ea049145ddf6c4478d72b625390c1405418157::pako::PAKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_5940c0503a.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

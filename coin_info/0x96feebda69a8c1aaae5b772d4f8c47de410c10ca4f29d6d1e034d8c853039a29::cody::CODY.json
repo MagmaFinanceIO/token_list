@@ -1,0 +1,13 @@
+{
+  "name": "Cody",
+  "symbol": "Cody",
+  "decimals": 9,
+  "coin_type": "0x96feebda69a8c1aaae5b772d4f8c47de410c10ca4f29d6d1e034d8c853039a29::cody::CODY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/J7QoEcvcpieuDcuqrA9GZjunGQ3ofkGx4MzgyPmrpump.png?size=lg&key=b1d3e9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

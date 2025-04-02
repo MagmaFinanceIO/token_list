@@ -1,0 +1,13 @@
+{
+  "name": "Aquarsui",
+  "symbol": "AQUA",
+  "decimals": 8,
+  "coin_type": "0xd5c84090124cb9f9665e855ef364a6fe6363d86b27d0f4f066e596065b18203b::aqua::AQUA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_6BE0shrhTMDU4MA0RN2JfeoJG73YT2fFnQ&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

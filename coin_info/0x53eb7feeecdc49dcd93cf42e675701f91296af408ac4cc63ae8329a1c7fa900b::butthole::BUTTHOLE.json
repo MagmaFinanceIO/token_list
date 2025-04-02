@@ -1,0 +1,13 @@
+{
+  "name": "Butthole Coin",
+  "symbol": "BUTTHOLE",
+  "decimals": 6,
+  "coin_type": "0x53eb7feeecdc49dcd93cf42e675701f91296af408ac4cc63ae8329a1c7fa900b::butthole::BUTTHOLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ecb914ef-edcb-431c-a7f5-d86d126aa301.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

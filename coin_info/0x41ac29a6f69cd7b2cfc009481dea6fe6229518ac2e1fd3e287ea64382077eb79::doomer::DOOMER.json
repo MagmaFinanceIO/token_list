@@ -1,0 +1,13 @@
+{
+  "name": "Doomer",
+  "symbol": "DOOMER",
+  "decimals": 9,
+  "coin_type": "0x41ac29a6f69cd7b2cfc009481dea6fe6229518ac2e1fd3e287ea64382077eb79::doomer::DOOMER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5tweC8q9jbKi3JawkM6WnxVDRL5Yi5h8Y5mdq4wA9wP5.png?size=lg&key=240751",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

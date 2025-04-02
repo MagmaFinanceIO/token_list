@@ -1,0 +1,13 @@
+{
+  "name": "Squi on Sui",
+  "symbol": "SQUI",
+  "decimals": 6,
+  "coin_type": "0x8b38d417cc26841189700e9674029a66a064a23881e45ff6894571f3352b6c04::squi::SQUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/de2aa068_d5ae_474d_99f5_82f836ee48f8_5012706bbe.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

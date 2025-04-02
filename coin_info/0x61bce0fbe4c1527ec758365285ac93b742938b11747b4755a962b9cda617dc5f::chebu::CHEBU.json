@@ -1,0 +1,13 @@
+{
+  "name": "Cheburashkasui",
+  "symbol": "Chebu",
+  "decimals": 6,
+  "coin_type": "0x61bce0fbe4c1527ec758365285ac93b742938b11747b4755a962b9cda617dc5f::chebu::CHEBU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730993794478.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

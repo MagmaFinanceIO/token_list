@@ -1,0 +1,13 @@
+{
+  "name": "Bird Flu",
+  "symbol": "BIRDFLU",
+  "decimals": 9,
+  "coin_type": "0x0b811bdb1f95f9937a7300008a5d471450aa17e5318d85f1a4313d009c28f8f0::birdflu::BIRDFLU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5hBFLZRxLEhxxG7AJMcDojk2harZJ3AmpJLaqPPJMnPL.png?size=lg&key=684aa4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Dragon",
+  "symbol": "DRAGON",
+  "decimals": 6,
+  "coin_type": "0x0e33bb01a55b2150c78019c14d2fd070e095101a062692301f24a80a43aa727d::dragon::DRAGON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1b4bbc3e-bd7a-405d-8914-2eb5207b2ddd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

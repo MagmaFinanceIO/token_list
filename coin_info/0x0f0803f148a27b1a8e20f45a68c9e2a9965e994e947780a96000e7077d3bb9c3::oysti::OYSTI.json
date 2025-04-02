@@ -1,0 +1,13 @@
+{
+  "name": "Oysti and his Precious Pearl",
+  "symbol": "OYSTI",
+  "decimals": 6,
+  "coin_type": "0x0f0803f148a27b1a8e20f45a68c9e2a9965e994e947780a96000e7077d3bb9c3::oysti::OYSTI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ebb452df-89ea-4d95-a096-0c26d3616e03.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

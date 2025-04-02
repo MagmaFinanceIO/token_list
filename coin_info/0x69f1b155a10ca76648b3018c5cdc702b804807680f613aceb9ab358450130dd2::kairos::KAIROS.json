@@ -1,0 +1,13 @@
+{
+  "name": "Kairos",
+  "symbol": "KAIROS",
+  "decimals": 9,
+  "coin_type": "0x69f1b155a10ca76648b3018c5cdc702b804807680f613aceb9ab358450130dd2::kairos::KAIROS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/805f35d1-e261-4d77-bc3f-6a7773c10cd5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

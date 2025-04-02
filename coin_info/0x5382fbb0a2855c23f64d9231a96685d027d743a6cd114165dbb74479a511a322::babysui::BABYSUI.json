@@ -1,0 +1,13 @@
+{
+  "name": "Baby SUI",
+  "symbol": "BABYSUI",
+  "decimals": 9,
+  "coin_type": "0x5382fbb0a2855c23f64d9231a96685d027d743a6cd114165dbb74479a511a322::babysui::BABYSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FYKM766Wf38yWQzFqGbf3vnhyojqq2hAYaUW4gxFdphf.png?size=lg&key=370bfe",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

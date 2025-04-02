@@ -1,0 +1,13 @@
+{
+  "name": "RUCKUS on Sui",
+  "symbol": "RUCKUS",
+  "decimals": 9,
+  "coin_type": "0xa6f0c7c3c83f8bcb6c6e20a1aefdc3adcc0c8cbeb7ae6c14ec4423fef8030206::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

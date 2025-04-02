@@ -1,0 +1,13 @@
+{
+  "name": "Cybercab",
+  "symbol": "Robot",
+  "decimals": 9,
+  "coin_type": "0xc699da32307216fba1fedaaa82c37066afa0908eea03b3d08fc130582b4b379b::robot::ROBOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5450a0c0-e3ad-41fb-bbc7-e5210a9a0464.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

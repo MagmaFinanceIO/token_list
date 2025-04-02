@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL JORDAN",
+  "symbol": "JORDAN",
+  "decimals": 9,
+  "coin_type": "0x0a8bd4e5af71bd4a98e3ee05cc902b6ae5d02f30dfc3f38cb0487c41ec21c76d::jordan::JORDAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmNtMappdVAs3ZLUjC1PVbDdk2jzw5WhRmsLMnANRRgtug",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

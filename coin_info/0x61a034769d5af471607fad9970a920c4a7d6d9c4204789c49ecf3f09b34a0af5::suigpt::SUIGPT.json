@@ -1,0 +1,13 @@
+{
+  "name": "Sui GPT",
+  "symbol": "SuiGPT",
+  "decimals": 6,
+  "coin_type": "0x61a034769d5af471607fad9970a920c4a7d6d9c4204789c49ecf3f09b34a0af5::suigpt::SUIGPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736045225565.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

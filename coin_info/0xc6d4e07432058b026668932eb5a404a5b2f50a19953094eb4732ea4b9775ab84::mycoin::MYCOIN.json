@@ -1,0 +1,13 @@
+{
+  "name": "ENRON",
+  "symbol": "ENRON",
+  "decimals": 9,
+  "coin_type": "0xc6d4e07432058b026668932eb5a404a5b2f50a19953094eb4732ea4b9775ab84::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

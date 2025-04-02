@@ -1,0 +1,13 @@
+{
+  "name": "SUI Doraemon",
+  "symbol": "SUMON",
+  "decimals": 9,
+  "coin_type": "0x471ab91eca1594a05eddbfe7217ddd0be47218627eaf10f97a47a594117d4e02::sumon::SUMON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/25b633e4-da69-4e68-9436-fe4011262fae.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

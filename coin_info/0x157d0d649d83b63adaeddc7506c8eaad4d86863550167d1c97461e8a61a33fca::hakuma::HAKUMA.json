@@ -1,0 +1,13 @@
+{
+  "name": "HAKUMA",
+  "symbol": "HAKUMA",
+  "decimals": 9,
+  "coin_type": "0x157d0d649d83b63adaeddc7506c8eaad4d86863550167d1c97461e8a61a33fca::hakuma::HAKUMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/D4gE9PYQ9RQ9CR1VkvnAViWwZZ61fHKfRtNJNgdbMmQd.png?size=lg&key=561645",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

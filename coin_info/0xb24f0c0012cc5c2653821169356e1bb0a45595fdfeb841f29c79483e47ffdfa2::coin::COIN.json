@@ -1,0 +1,13 @@
+{
+  "name": "LESTER",
+  "symbol": "LESTER",
+  "decimals": 4,
+  "coin_type": "0xb24f0c0012cc5c2653821169356e1bb0a45595fdfeb841f29c79483e47ffdfa2::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c251c882-9b02-4764-8760-5ef570fb4282.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hippo Hippo",
+  "symbol": "Hippo",
+  "decimals": 6,
+  "coin_type": "0xcea4677e21a0c93fbfa58397b303eb6d56ca9e28b799a4f6e2279342fe81606c::hippo::HIPPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/28828c23b2ea628d407fa5985cb837e1_63eadd8e2e_0737dfda72.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

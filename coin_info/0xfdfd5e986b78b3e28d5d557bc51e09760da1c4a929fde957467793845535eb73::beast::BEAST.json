@@ -1,0 +1,13 @@
+{
+  "name": "ART BEAST",
+  "symbol": "BEAST",
+  "decimals": 9,
+  "coin_type": "0xfdfd5e986b78b3e28d5d557bc51e09760da1c4a929fde957467793845535eb73::beast::BEAST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3WkxZjDHBcux7z7TGwbWHxRvwJVjxPsfTmCd5ZUopump.png?size=lg&key=8912d4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

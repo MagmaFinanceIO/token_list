@@ -1,0 +1,13 @@
+{
+  "name": "just buy 1 USDC of this coin",
+  "symbol": "ONEUSDC",
+  "decimals": 9,
+  "coin_type": "0xc1b7bb9fee447d78f9975b7387b59ba67e36dc70eebd6342b09c0471276eb3ec::oneusdc::ONEUSDC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/nXnBq2hSxTTqXuspgAzXpUgYHrEyhrTiVUGkYqVpump.png?size=lg&key=6f23cd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

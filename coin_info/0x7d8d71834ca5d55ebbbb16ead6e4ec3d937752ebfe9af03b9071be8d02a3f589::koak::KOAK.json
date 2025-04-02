@@ -1,0 +1,13 @@
+{
+  "name": "Koak On Sui",
+  "symbol": "KOAK",
+  "decimals": 9,
+  "coin_type": "0x7d8d71834ca5d55ebbbb16ead6e4ec3d937752ebfe9af03b9071be8d02a3f589::koak::KOAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3412ae01-3e1f-4d8f-a489-fddb5c3cfb8b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

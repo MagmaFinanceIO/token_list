@@ -1,0 +1,13 @@
+{
+  "name": "Trainer AI",
+  "symbol": "TAI",
+  "decimals": 6,
+  "coin_type": "0x5c5095a50257ac218c9a1ff23718c4daaf1e00b3c5ab585abaf2d78fa9a86666::tai::TAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/SUI_AI_Trainer_57c0ea370a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

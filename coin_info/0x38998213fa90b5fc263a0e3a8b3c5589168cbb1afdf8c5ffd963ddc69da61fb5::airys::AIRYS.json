@@ -1,0 +1,13 @@
+{
+  "name": "AIRYS AI",
+  "symbol": "AIRYS",
+  "decimals": 9,
+  "coin_type": "0x38998213fa90b5fc263a0e3a8b3c5589168cbb1afdf8c5ffd963ddc69da61fb5::airys::AIRYS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FeyqsrZdBK4KFFB1fbLJ1tHznYJjHqTdy7bDcmj8SpWx.png?size=lg&key=a655b5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

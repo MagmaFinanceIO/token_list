@@ -1,0 +1,13 @@
+{
+  "name": "Krazy Fried Crypto",
+  "symbol": "KFC",
+  "decimals": 9,
+  "coin_type": "0xfc1f66cb2f3217431051e49fa558daccbfb4db4fe17921a12fc563403ca5ec12::kfc::KFC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8T6RR8xqk3oXLN1YktJag9ZNGobLc2CAWtG5UWwL9qzU.png?size=lg&key=7062fa",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

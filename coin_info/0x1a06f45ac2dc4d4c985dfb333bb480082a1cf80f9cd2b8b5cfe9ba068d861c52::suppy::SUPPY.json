@@ -1,0 +1,13 @@
+{
+  "name": "Suppy",
+  "symbol": "SUPPY",
+  "decimals": 6,
+  "coin_type": "0x1a06f45ac2dc4d4c985dfb333bb480082a1cf80f9cd2b8b5cfe9ba068d861c52::suppy::SUPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_03_13_26_49_405032ce34.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DogWifGlasses",
+  "symbol": "DogWifGlasses",
+  "decimals": 9,
+  "coin_type": "0xe52405accb4268b5c415001d3c80c1f174cd3c36a5315e288acf095061cdd1d0::dogwifglasses::DOGWIFGLASSES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d79ae933-acf0-4d3c-ab71-0e50ee69f3b4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

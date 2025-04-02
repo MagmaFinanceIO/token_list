@@ -1,0 +1,13 @@
+{
+  "name": "Piplup",
+  "symbol": "PIPLUP",
+  "decimals": 9,
+  "coin_type": "0xb65ed707883729c06b70497ed7030502ace1a624d25c76c614d218f482d4c74a::piplup::PIPLUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FLASAb39wRP6Q8StBcEnxu48xjUtoQc5zSxAFdu3pump.png?size=lg&key=57e0c6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

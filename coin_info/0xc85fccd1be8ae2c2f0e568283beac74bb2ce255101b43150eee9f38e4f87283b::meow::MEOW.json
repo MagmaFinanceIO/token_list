@@ -1,0 +1,13 @@
+{
+  "name": "Meowing cat",
+  "symbol": "MEOW",
+  "decimals": 9,
+  "coin_type": "0xc85fccd1be8ae2c2f0e568283beac74bb2ce255101b43150eee9f38e4f87283b::meow::MEOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQ21XSGs6FBUHXm6VLxEf1PukAeeARnNvXfWugPkeK2bx",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

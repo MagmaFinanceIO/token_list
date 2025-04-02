@@ -1,0 +1,13 @@
+{
+  "name": "Jota",
+  "symbol": "JOTA",
+  "decimals": 6,
+  "coin_type": "0x23c3f2d8020c37b4f411c6d35369e70c9b343c77258991f7e37f9b76a35f6312::jota::JOTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/jota_profil_90a1d43af7.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

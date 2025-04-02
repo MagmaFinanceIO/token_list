@@ -1,0 +1,13 @@
+{
+  "name": "King Neiro",
+  "symbol": "KgNeiro",
+  "decimals": 9,
+  "coin_type": "0x07dc9a7d73248fe91f00b8a6171a3a299af2b8dfaa3efac42fc27895ecd7f2d3::kgneiro::KGNEIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://photos.pinksale.finance/file/pinksale-logo-upload/1729374044829-04e4489c37f95f63816f99112a42ac09.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

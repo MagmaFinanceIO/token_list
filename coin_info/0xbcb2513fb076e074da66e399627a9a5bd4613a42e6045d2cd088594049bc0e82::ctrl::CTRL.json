@@ -1,0 +1,13 @@
+{
+  "name": "AltCTRL",
+  "symbol": "CTRL",
+  "decimals": 6,
+  "coin_type": "0xbcb2513fb076e074da66e399627a9a5bd4613a42e6045d2cd088594049bc0e82::ctrl::CTRL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/10f1d7e9-40a9-42b2-be6b-1baa6bdd3636.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

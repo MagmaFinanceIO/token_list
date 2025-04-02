@@ -1,0 +1,13 @@
+{
+  "name": "JAKE ON SUI",
+  "symbol": "JAKE",
+  "decimals": 9,
+  "coin_type": "0x5ea963ef2427342e2b31a0ebad4b8a63601baa32d4d17133f2bec8a7a8d15a31::jake::JAKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BtZKrN2mk1oqZw4w8Utpqhp3D61H8qf6JfyW4e9Apump.png?size=lg&key=f15be4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

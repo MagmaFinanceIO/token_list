@@ -1,0 +1,13 @@
+{
+  "name": "Brett Trump",
+  "symbol": "BRUMP",
+  "decimals": 6,
+  "coin_type": "0xe66aead38d17efd7fa41d3d30d3059a061de8947dde2289de8e3040cb9b00780::brump::BRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://belaunchio.infura-ipfs.io/ipfs/QmVKmwe9zYnJHi25pcBqAr3i97UxYE8HxeGguFjpPM3EW8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Instagram Coin",
+  "symbol": "IGSUI",
+  "decimals": 9,
+  "coin_type": "0x53085cea37db0d483414c6cac1406f427d21f5e4e5e972b5332acc3dd90ce691::igsui::IGSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3s1M6sMAvu9fBi6XCJFwCabdxgv3T9Uo3cpzKG2Epump.png?size=lg&key=971465",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

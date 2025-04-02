@@ -1,0 +1,13 @@
+{
+  "name": "CATE ON SUI",
+  "symbol": "CATESUI",
+  "decimals": 6,
+  "coin_type": "0x829dc85f4aea0744bd552d91169e4c1d3dba2d2ec20e3347c9e42260e30c7b37::catesui::CATESUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/catesuilogo_020a3d0f6c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

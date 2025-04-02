@@ -1,0 +1,13 @@
+{
+  "name": "Tom And Jerry",
+  "symbol": "TomJerry",
+  "decimals": 9,
+  "coin_type": "0xfbd61c9d00b6c725f25534c42d5c333878c3c6566b9b9a2c62bfb88d71530bb0::tomjerry::TOMJERRY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d5aa769d-5d1a-44b1-b700-be99fe4df52d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TrumpElon47",
+  "symbol": "TE",
+  "decimals": 6,
+  "coin_type": "0x73265345349b361baaef584f33de42c66282ef52e1232070bed78f1aa87334d4::te::TE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/519483b9-3a4a-4f46-a0af-2f063775ce43.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

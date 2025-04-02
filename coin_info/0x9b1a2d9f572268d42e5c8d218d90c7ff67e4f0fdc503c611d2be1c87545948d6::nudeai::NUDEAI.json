@@ -1,0 +1,13 @@
+{
+  "name": "Nude AI",
+  "symbol": "NUDEAI",
+  "decimals": 9,
+  "coin_type": "0x9b1a2d9f572268d42e5c8d218d90c7ff67e4f0fdc503c611d2be1c87545948d6::nudeai::NUDEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0xcb33289e6fc28dbe78716fa44b85d4cf95af3574.png?size=lg&key=5afab6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

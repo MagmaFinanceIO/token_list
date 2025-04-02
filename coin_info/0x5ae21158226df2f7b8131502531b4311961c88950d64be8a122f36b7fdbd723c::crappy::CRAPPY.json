@@ -1,0 +1,13 @@
+{
+  "name": "CRAPPY BIRD ON SUI",
+  "symbol": "CRAPPY",
+  "decimals": 6,
+  "coin_type": "0x5ae21158226df2f7b8131502531b4311961c88950d64be8a122f36b7fdbd723c::crappy::CRAPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Il05_Y1_Yv_J_Fa19n_KS_Iw3b_Wg_Ic4_1_18a25e7837.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

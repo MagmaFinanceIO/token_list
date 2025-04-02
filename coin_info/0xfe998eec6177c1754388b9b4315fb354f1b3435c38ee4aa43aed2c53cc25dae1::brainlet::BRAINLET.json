@@ -1,0 +1,13 @@
+{
+  "name": "Brainlet",
+  "symbol": "BRAINLET",
+  "decimals": 6,
+  "coin_type": "0xfe998eec6177c1754388b9b4315fb354f1b3435c38ee4aa43aed2c53cc25dae1::brainlet::BRAINLET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB7tFLpP-9S8iME7Z8AcOCjT_4kE5uYgfAkw&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

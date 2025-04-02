@@ -1,0 +1,13 @@
+{
+  "name": "Sui Lion",
+  "symbol": "SUILION",
+  "decimals": 6,
+  "coin_type": "0x0878aa96703aa5d7fcfc72ccc7124516ba30263f89969f03bd1c6a11880144eb::suilion::SUILION",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_10_19_09_37_ASCDAS_58ceb38082.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

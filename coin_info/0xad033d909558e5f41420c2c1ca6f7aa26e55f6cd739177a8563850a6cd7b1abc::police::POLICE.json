@@ -1,0 +1,13 @@
+{
+  "name": "SUIDAE",
+  "symbol": "POLICE",
+  "decimals": 9,
+  "coin_type": "0xad033d909558e5f41420c2c1ca6f7aa26e55f6cd739177a8563850a6cd7b1abc::police::POLICE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c1ae1682-54ea-4e42-b003-a760addd34bb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

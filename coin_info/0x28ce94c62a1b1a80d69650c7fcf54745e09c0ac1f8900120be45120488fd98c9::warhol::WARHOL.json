@@ -1,0 +1,13 @@
+{
+  "name": "Agent Warhol",
+  "symbol": "WARHOL",
+  "decimals": 9,
+  "coin_type": "0x28ce94c62a1b1a80d69650c7fcf54745e09c0ac1f8900120be45120488fd98c9::warhol::WARHOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/H4pvjxQsYhJh16J7LBrqsUK11TGADA31hWnDeMoepump.png?size=lg&key=bc83aa",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

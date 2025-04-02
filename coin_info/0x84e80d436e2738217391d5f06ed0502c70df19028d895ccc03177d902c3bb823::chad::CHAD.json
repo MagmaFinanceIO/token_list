@@ -1,0 +1,13 @@
+{
+  "name": "Chad",
+  "symbol": "Chad",
+  "decimals": 9,
+  "coin_type": "0x84e80d436e2738217391d5f06ed0502c70df19028d895ccc03177d902c3bb823::chad::CHAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bfa6ea22-5afc-4dd1-95dd-87d76b91402b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

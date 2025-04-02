@@ -1,0 +1,13 @@
+{
+  "name": "Samurai DOGEI",
+  "symbol": "DOGEI",
+  "decimals": 9,
+  "coin_type": "0xb8beebfcc03455c582ed8bef344216d0fd14244f5fb7fba68a2967e2514a44f7::dogei::DOGEI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a6f84e80-c6c6-456c-a403-eab89dcb8c6a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

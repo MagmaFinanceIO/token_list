@@ -1,0 +1,13 @@
+{
+  "name": "PollyAI",
+  "symbol": "POLLYAI",
+  "decimals": 6,
+  "coin_type": "0x4ea25149b42258a84c7f2365a7214684ee211576c5c5244e6d1e2974cee256e1::pollyai::POLLYAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/3c5f9b5d_7d65_4f7d_b706_80867a9e258d_650b481d5c.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

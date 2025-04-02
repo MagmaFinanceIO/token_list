@@ -1,0 +1,13 @@
+{
+  "name": "Mr. Greeman",
+  "symbol": "GREENO",
+  "decimals": 9,
+  "coin_type": "0x0c3df7c39489191acce3bf00a70b521b7793cba752cf1cc721a751a5eb5e7e16::greeno::GREENO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5gKR96iBmgH2XLDZ4EfAkSjz86yYjCSAgm1mEih1pump.png?size=lg&key=b23eed",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

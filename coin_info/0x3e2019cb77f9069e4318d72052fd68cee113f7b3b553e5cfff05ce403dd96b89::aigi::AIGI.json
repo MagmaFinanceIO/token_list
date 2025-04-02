@@ -1,0 +1,13 @@
+{
+  "name": "AI Glitch Cat",
+  "symbol": "AIGI",
+  "decimals": 9,
+  "coin_type": "0x3e2019cb77f9069e4318d72052fd68cee113f7b3b553e5cfff05ce403dd96b89::aigi::AIGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Gpd5Scf43bzGCTPAdy6L5Es4t47yJQCCVjLg4Y1hpump.png?size=lg&key=531103",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

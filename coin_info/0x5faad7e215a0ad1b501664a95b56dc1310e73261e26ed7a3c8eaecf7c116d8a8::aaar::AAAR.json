@@ -1,0 +1,13 @@
+{
+  "name": "AAA RatSui",
+  "symbol": "AAAR",
+  "decimals": 6,
+  "coin_type": "0x5faad7e215a0ad1b501664a95b56dc1310e73261e26ed7a3c8eaecf7c116d8a8::aaar::AAAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ccccc_5732a72d73.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

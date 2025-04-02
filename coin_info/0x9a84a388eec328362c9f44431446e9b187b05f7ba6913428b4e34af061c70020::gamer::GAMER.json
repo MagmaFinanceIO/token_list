@@ -1,0 +1,13 @@
+{
+  "name": "GAMER",
+  "symbol": "GAMER",
+  "decimals": 9,
+  "coin_type": "0x9a84a388eec328362c9f44431446e9b187b05f7ba6913428b4e34af061c70020::gamer::GAMER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/E6Afu2XpobyrE9m9FpctaZ6G4oXLLreUuZrVJ85cpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

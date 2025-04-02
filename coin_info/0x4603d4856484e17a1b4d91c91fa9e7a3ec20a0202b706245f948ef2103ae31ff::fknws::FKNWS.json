@@ -1,0 +1,13 @@
+{
+  "name": "Fake News",
+  "symbol": "FKNWS",
+  "decimals": 9,
+  "coin_type": "0x4603d4856484e17a1b4d91c91fa9e7a3ec20a0202b706245f948ef2103ae31ff::fknws::FKNWS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2865792a-3708-4e6b-8ede-842eb73d926c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

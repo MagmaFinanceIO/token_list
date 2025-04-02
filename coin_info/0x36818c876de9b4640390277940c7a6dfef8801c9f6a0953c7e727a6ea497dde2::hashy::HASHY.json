@@ -1,0 +1,13 @@
+{
+  "name": "Hashy",
+  "symbol": "HASHY",
+  "decimals": 9,
+  "coin_type": "0x36818c876de9b4640390277940c7a6dfef8801c9f6a0953c7e727a6ea497dde2::hashy::HASHY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HaxQBW9HvfbC9mJeuUtca11bzDTCfaCpyAMU5YFffRUx.png?size=lg&key=4101a6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

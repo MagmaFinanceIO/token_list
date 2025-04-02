@@ -1,0 +1,13 @@
+{
+  "name": "SPOPCAT",
+  "symbol": "Sui POPCAT",
+  "decimals": 9,
+  "coin_type": "0x06c1170bb7f6ebaa3a3804fce26a83f4b7fc22307974569b59e4c7b167af7009::spopcat::SPOPCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/184kK4k/sui-popcat.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

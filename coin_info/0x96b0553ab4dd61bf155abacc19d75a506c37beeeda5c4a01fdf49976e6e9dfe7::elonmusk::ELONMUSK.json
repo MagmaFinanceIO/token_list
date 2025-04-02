@@ -1,0 +1,13 @@
+{
+  "name": "Elon Musk Coin",
+  "symbol": "ELONMUSK",
+  "decimals": 9,
+  "coin_type": "0x96b0553ab4dd61bf155abacc19d75a506c37beeeda5c4a01fdf49976e6e9dfe7::elonmusk::ELONMUSK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5TcBjwE3HHiN6wVfyZEQWerQWhKna7a7dyCzr3dDpump.png?size=lg&key=e14488",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

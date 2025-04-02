@@ -1,0 +1,13 @@
+{
+  "name": "EYRTH AI",
+  "symbol": "EYRTH",
+  "decimals": 9,
+  "coin_type": "0x0e64e32b7b4d234b963c4578327fc44c87f6e3451da2a68aef0baabf5abbb544::eyrth::EYRTH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3LLA986v7D87ov9a4HDkLNGH4DFCTPGWmfWp4cPipump.png?size=lg&key=5a35e3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

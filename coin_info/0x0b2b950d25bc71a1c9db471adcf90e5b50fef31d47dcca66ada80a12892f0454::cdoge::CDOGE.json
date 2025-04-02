@@ -1,0 +1,13 @@
+{
+  "name": "Communist Doge",
+  "symbol": "CDOGE",
+  "decimals": 9,
+  "coin_type": "0x0b2b950d25bc71a1c9db471adcf90e5b50fef31d47dcca66ada80a12892f0454::cdoge::CDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Dp84u1JKviqZCDU8cbSbeh1omYTrn6Z1EnGetPo8oKRD.png?size=lg&key=cec046",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

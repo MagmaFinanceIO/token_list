@@ -1,0 +1,13 @@
+{
+  "name": "Kitchen Koin",
+  "symbol": "Kitchen",
+  "decimals": 2,
+  "coin_type": "0x63bb606696067c9cde1b069f7c588de77b363b69a665f0e01d149d61a1c955ec::kitchen::KITCHEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9164207f-2fbe-4b98-b9dd-b8062d5cf1bc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

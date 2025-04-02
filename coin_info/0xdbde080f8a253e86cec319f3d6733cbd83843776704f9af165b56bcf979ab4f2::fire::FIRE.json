@@ -1,0 +1,13 @@
+{
+  "name": "#Palisades Fire",
+  "symbol": "FIRE",
+  "decimals": 6,
+  "coin_type": "0xdbde080f8a253e86cec319f3d6733cbd83843776704f9af165b56bcf979ab4f2::fire::FIRE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/rai_RF_4hw_400x400_0251560a68.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

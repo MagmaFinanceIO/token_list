@@ -1,0 +1,13 @@
+{
+  "name": "GCR ai",
+  "symbol": "GCRAI",
+  "decimals": 9,
+  "coin_type": "0x6c5019309820560bc9534028fac7ac844c96c36286405fc02d05b1e1dd0a83f6::gcrai::GCRAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmV7ievq8NPLwh9w8gtX6EVzSpuVP7z6A9AyHkd27hMTxL",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

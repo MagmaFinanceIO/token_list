@@ -1,0 +1,13 @@
+{
+  "name": "Bullshit Fantasy Coin",
+  "symbol": "BFC",
+  "decimals": 9,
+  "coin_type": "0xccf0ae5bc16f36e45d97683ace44bb5b2a50955615ad932c6ad96c07ba8b2c53::bfc::BFC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmVtHtbQtwVJ8ZogA6r8LuLqByDXZ4Gwrh6cMzy87Qz5bm",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AIROS TOKEN by SuiAI",
+  "symbol": "AIROS",
+  "decimals": 6,
+  "coin_type": "0xe4e02d0a8b84da32f57d384bd7ed5eca4c4086593ed677acbf5ef3655b1531dc::airos::AIROS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/photo_2025_01_14_10_20_51_ecca434aa0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

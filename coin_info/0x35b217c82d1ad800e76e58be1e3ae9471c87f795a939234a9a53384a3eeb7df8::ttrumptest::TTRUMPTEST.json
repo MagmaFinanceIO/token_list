@@ -1,0 +1,13 @@
+{
+  "name": "TTRUMPTEST",
+  "symbol": "TTRUMPTEST",
+  "decimals": 6,
+  "coin_type": "0x35b217c82d1ad800e76e58be1e3ae9471c87f795a939234a9a53384a3eeb7df8::ttrumptest::TTRUMPTEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bb97ddc1-4e9e-45c4-b59d-019e371346bb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

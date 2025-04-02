@@ -1,0 +1,13 @@
+{
+  "name": "PURGE",
+  "symbol": "PURGE",
+  "decimals": 9,
+  "coin_type": "0xcf75c5f3f3032f9a7611b05e4fe9ad8ff00e486c27d554a6dc17ba12135c313c::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

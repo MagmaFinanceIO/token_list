@@ -1,0 +1,13 @@
+{
+  "name": "CHAT GPT",
+  "symbol": "CHTGPT",
+  "decimals": 7,
+  "coin_type": "0x084fefb4fdb0d04c758ba7cf2d42fb03d2888c9235738bc20e057baf9f78c0c2::chtgpt::CHTGPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2edbe41b-b202-4726-a229-d4e5cadc413c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

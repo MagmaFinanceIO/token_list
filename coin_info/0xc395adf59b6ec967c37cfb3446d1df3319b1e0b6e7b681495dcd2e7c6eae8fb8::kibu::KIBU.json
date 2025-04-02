@@ -1,0 +1,13 @@
+{
+  "name": "KibuOnSui",
+  "symbol": "KIBU",
+  "decimals": 9,
+  "coin_type": "0xc395adf59b6ec967c37cfb3446d1df3319b1e0b6e7b681495dcd2e7c6eae8fb8::kibu::KIBU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x853ac006b41026ad31963c29788525170fa30163.png?size=xl&key=0c3ba9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI Rabbit",
+  "symbol": "SUIBBIT",
+  "decimals": 9,
+  "coin_type": "0x1b6ae70aa26d35812f2c6a5726d4a5e3430be0755398ec04b32c4334dccac8a9::suibbit::SUIBBIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2a59c7c0-0b43-4b8f-993a-7ed7eba014a7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

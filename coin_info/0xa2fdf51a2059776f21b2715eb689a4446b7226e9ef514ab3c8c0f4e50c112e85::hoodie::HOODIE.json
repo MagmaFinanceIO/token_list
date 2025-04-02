@@ -1,0 +1,13 @@
+{
+  "name": "Hoodie Cat",
+  "symbol": "Hoodie",
+  "decimals": 9,
+  "coin_type": "0xa2fdf51a2059776f21b2715eb689a4446b7226e9ef514ab3c8c0f4e50c112e85::hoodie::HOODIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/71aa0dec-c082-4fdf-832d-f315007bb48f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

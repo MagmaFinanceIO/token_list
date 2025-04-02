@@ -1,0 +1,13 @@
+{
+  "name": "Suileman On Sui",
+  "symbol": "SUILEMAN",
+  "decimals": 9,
+  "coin_type": "0x8c558961616545c0c030bc374b77982caa67bf2fe496e1acca5d331bb01f050d::suileman::SUILEMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/76570cbd-4dde-4b92-a3d1-6c8581ce1af2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

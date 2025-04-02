@@ -1,0 +1,13 @@
+{
+  "name": "Black Hayate",
+  "symbol": "HAYATE",
+  "decimals": 9,
+  "coin_type": "0xf8910d8a7e9d20f7fdd9d264ae1c2e7b1e4d566f2c1c476bcaf2a5c0585d11eb::hayate::HAYATE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e62a058e-c602-490b-9f47-d73d1a23d6c1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

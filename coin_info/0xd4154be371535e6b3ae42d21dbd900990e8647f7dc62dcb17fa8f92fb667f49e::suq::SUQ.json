@@ -1,0 +1,13 @@
+{
+  "name": "SuQuirtle",
+  "symbol": "SUQ",
+  "decimals": 9,
+  "coin_type": "0xd4154be371535e6b3ae42d21dbd900990e8647f7dc62dcb17fa8f92fb667f49e::suq::SUQ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a1957fc6-75cf-4ce0-bf8d-1e7e5636fae2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

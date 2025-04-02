@@ -1,0 +1,13 @@
+{
+  "name": "SNEK",
+  "symbol": "SNEK",
+  "decimals": 9,
+  "coin_type": "0xbd4eac45b3af5173df1c290cabee00165da3f99da27f17c144ed324536995712::snek::SNEK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8843e784-06c9-49b3-9a6f-a266f68e1e08.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

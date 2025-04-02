@@ -1,0 +1,13 @@
+{
+  "name": "TEST COIN",
+  "symbol": "TEST",
+  "decimals": 6,
+  "coin_type": "0x2cbb9cae62404a8f26a5b72c7e62094f809eeeb6a58358bb671b15a3fc31aa5a::test::TEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmNbm298Tu3H1BmuVytxD6HSYCjmhk4j8bMwCNubtaHaCK",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

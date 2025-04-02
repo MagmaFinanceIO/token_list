@@ -1,0 +1,13 @@
+{
+  "name": "BANGO APE",
+  "symbol": "BANGO",
+  "decimals": 9,
+  "coin_type": "0xa4d80221833c27ffb0b9e0ff992f6f5b4ff3fbf236b25d60dfe63e1adc4fe7e7::bangoape::BANGOAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuiSage Dog",
+  "symbol": "SUID",
+  "decimals": 6,
+  "coin_type": "0x81a0263f2d012a7c8845c043d5895b15553d3be450053074cb40b0c01fc227f2::suid::SUID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000004307_47ad9838aa.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

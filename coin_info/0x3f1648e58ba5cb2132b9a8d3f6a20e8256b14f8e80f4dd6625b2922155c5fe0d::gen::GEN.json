@@ -1,0 +1,13 @@
+{
+  "name": "Genies",
+  "symbol": "GEN",
+  "decimals": 9,
+  "coin_type": "0x3f1648e58ba5cb2132b9a8d3f6a20e8256b14f8e80f4dd6625b2922155c5fe0d::gen::GEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b7442bc8-96ad-42fd-9da8-2cc37ff80003.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

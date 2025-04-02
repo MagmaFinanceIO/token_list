@@ -1,0 +1,13 @@
+{
+  "name": "Ursa",
+  "symbol": "Ursa",
+  "decimals": 6,
+  "coin_type": "0x177f6ca5fc36e9db2c6578dee08b6f36b07d6d01f747c8d526c2539d65d2a7a3::ursa::URSA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmQdcPJPTjijSd2SernGAANhTVrzZ5kfw55eUZiAedpj2u",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

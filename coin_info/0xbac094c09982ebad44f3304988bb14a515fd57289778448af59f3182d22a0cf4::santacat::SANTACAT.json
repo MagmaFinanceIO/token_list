@@ -1,0 +1,13 @@
+{
+  "name": "Spin Cat",
+  "symbol": "SANTACAT",
+  "decimals": 9,
+  "coin_type": "0xbac094c09982ebad44f3304988bb14a515fd57289778448af59f3182d22a0cf4::santacat::SANTACAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DU6eKdghQCiSmPJ9gUpecR9T7ufMmaBBCS3d77bspump.png?size=xl&key=472bf8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

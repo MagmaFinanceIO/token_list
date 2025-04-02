@@ -1,0 +1,13 @@
+{
+  "name": "Anubis",
+  "symbol": "ANUBIS",
+  "decimals": 9,
+  "coin_type": "0xc46fbc2022f045f478d0cb0ece80ad6cefce7c675af67db3041cbb0115f5cb68::anubis::ANUBIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/854/242/large/sergio-khazov-serghaz-cape.jpg?1728685663",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

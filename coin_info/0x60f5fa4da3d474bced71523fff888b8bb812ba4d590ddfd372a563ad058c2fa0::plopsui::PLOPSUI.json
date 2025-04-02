@@ -1,0 +1,13 @@
+{
+  "name": "PLOP SUI",
+  "symbol": "PLOPSUI",
+  "decimals": 6,
+  "coin_type": "0x60f5fa4da3d474bced71523fff888b8bb812ba4d590ddfd372a563ad058c2fa0::plopsui::PLOPSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Plop_a8cc9b3975.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

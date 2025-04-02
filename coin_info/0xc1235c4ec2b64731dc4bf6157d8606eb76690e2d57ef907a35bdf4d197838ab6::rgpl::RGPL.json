@@ -1,0 +1,13 @@
+{
+  "name": "RUGPULL",
+  "symbol": "RGPL",
+  "decimals": 9,
+  "coin_type": "0xc1235c4ec2b64731dc4bf6157d8606eb76690e2d57ef907a35bdf4d197838ab6::rgpl::RGPL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/89307fd4-3d3a-45c7-902b-9ac39797ffda.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

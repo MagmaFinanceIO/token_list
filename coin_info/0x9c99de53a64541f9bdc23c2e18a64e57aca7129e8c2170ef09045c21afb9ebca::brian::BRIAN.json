@@ -1,0 +1,13 @@
+{
+  "name": "Brian Griffin",
+  "symbol": "BRIAN",
+  "decimals": 9,
+  "coin_type": "0x9c99de53a64541f9bdc23c2e18a64e57aca7129e8c2170ef09045c21afb9ebca::brian::BRIAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x13ecf9467683e838fa8808e7a5b54974352b522f.png?size=lg&key=236c6c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Harry AI: Where Magic Meets Technology by SuiAI",
+  "symbol": "HARRY",
+  "decimals": 6,
+  "coin_type": "0x21ad0ce8823857b61f2a20378a255eeb7c792073e0d15e113761331e3e967863::harry::HARRY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/photo_2025_01_10_09_07_01_66ffe27e60.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

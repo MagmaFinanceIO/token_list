@@ -1,0 +1,13 @@
+{
+  "name": "Curtis",
+  "symbol": "CURTIS",
+  "decimals": 9,
+  "coin_type": "0x6faed1d65569a0c7f391b51ecc023f921131f396f34256c33e2f2d1bfdc2280d::curtis::CURTIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/apechain/0xfc2744a6db0f97c606df786b97255dff6f27e320.png?size=lg&key=9cb822",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

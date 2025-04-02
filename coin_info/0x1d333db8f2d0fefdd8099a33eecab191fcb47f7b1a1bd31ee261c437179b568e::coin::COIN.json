@@ -1,0 +1,13 @@
+{
+  "name": "Jito Staked SOL",
+  "symbol": "JitoSOL",
+  "decimals": 8,
+  "coin_type": "0x1d333db8f2d0fefdd8099a33eecab191fcb47f7b1a1bd31ee261c437179b568e::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

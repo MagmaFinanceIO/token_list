@@ -1,0 +1,13 @@
+{
+  "name": "BAYC on Sui",
+  "symbol": "BAYC",
+  "decimals": 9,
+  "coin_type": "0xc54f3ce803ff7c9d2c2bf6727d4fca2c64324de8ec5b711dd2e11da2cc158814::bayc::BAYC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.seadn.io/gae/Ju9CkWtV-1Okvf45wo8UctR-M9He2PjILP0oOvxE89AyiPPGtrR3gysu1Zgy0hjd2xKIgjJJtWIc0ybj4Vd7wv8t3pxDGHoJBzDB?auto=format&dpr=1&w=256",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

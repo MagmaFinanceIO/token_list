@@ -1,0 +1,13 @@
+{
+  "name": "FISH",
+  "symbol": "FISH",
+  "decimals": 9,
+  "coin_type": "0x3587750864d499cfb5c2bee5660ddb9c9905c9cc32e82b219182b66a5732e284::fish::FISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

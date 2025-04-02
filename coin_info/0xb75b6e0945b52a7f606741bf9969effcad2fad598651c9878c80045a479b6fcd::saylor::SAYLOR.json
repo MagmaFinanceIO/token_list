@@ -1,0 +1,13 @@
+{
+  "name": "Official Saylor Coin",
+  "symbol": "SAYLOR",
+  "decimals": 9,
+  "coin_type": "0xb75b6e0945b52a7f606741bf9969effcad2fad598651c9878c80045a479b6fcd::saylor::SAYLOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4tMT3mjqgJ2LCKa6cLxS2n8JGCZXmYPNtAgEVmU1pump.png?size=lg&key=e18884",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

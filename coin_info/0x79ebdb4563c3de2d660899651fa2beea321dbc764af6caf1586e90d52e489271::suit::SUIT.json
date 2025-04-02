@@ -1,0 +1,13 @@
+{
+  "name": "SUITARDIO",
+  "symbol": "SUIT",
+  "decimals": 6,
+  "coin_type": "0x79ebdb4563c3de2d660899651fa2beea321dbc764af6caf1586e90d52e489271::suit::SUIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qman7tyZQTrW7fZDJ4xPxRtE6sEy7eipTKnGwAMgt56mAM",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

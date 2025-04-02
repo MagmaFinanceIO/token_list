@@ -1,0 +1,13 @@
+{
+  "name": "HOPBUNNY",
+  "symbol": "HOP",
+  "decimals": 6,
+  "coin_type": "0x5cc594f35ab358d26e1aec25440d7d98e36599edee9638a9aabe90bb700cdb02::hop::HOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5984_0e8ea301d0.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

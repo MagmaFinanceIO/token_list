@@ -1,0 +1,13 @@
+{
+  "name": "Targate AI",
+  "symbol": "TARGATE",
+  "decimals": 9,
+  "coin_type": "0xc41d333fcd7238da515139e18cc73808930c66d0c97b966666157dfd91058600::targate::TARGATE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9eGkWN76LYC4NnHjJsNfoGzCsBCYXibtGfvyhoewpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

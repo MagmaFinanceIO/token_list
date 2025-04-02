@@ -1,0 +1,13 @@
+{
+  "name": "SMOOCH CAT",
+  "symbol": "SMOOCHCAT",
+  "decimals": 9,
+  "coin_type": "0xb437811bd0a5f50be61b553a95a80284f1105312ffee7bb74376fd746f6845e1::smoochcat::SMOOCHCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AtGRbrhHoNvtoPvAruVkWYr3334UpGYqMXwqrjtXMDN4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

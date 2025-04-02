@@ -1,0 +1,13 @@
+{
+  "name": "GARY",
+  "symbol": "MEOW",
+  "decimals": 6,
+  "coin_type": "0xc5cfb32667994a88319db13bcb6b5fa4378af1199441649bfa99aa3a916ae6fd::meow::MEOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1_b04f1f653b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "First Crappy Bird On Sui",
+  "symbol": "CRAPPY",
+  "decimals": 6,
+  "coin_type": "0x7b3103b624969782bffe505d58bc04bb78dfccbd29d66f4666e7ba31fcec95c0::crappy::CRAPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_1_27_f17a7006d4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

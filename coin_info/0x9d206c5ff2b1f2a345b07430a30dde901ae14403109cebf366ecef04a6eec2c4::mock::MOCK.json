@@ -1,0 +1,13 @@
+{
+  "name": "SpongeMock",
+  "symbol": "MOCK",
+  "decimals": 6,
+  "coin_type": "0x9d206c5ff2b1f2a345b07430a30dde901ae14403109cebf366ecef04a6eec2c4::mock::MOCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmP5Ei3RVwqCNNfnzrJWBMKCoyc25115HBNMoxWXNDiVfQ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

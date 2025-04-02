@@ -1,0 +1,13 @@
+{
+  "name": "HOPPI",
+  "symbol": "HOPPI",
+  "decimals": 9,
+  "coin_type": "0x1d5f2aeb65d45bf12ee7f1afe9c6c8febed18355576482ec99f5c7fb116c0056::hoppi::HOPPI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/12232c78-d510-47f9-bde3-f983e1c9a968.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

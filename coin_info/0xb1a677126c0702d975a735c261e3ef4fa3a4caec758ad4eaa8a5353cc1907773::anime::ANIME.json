@@ -1,0 +1,13 @@
+{
+  "name": "AnimeCoin",
+  "symbol": "ANIME",
+  "decimals": 9,
+  "coin_type": "0xb1a677126c0702d975a735c261e3ef4fa3a4caec758ad4eaa8a5353cc1907773::anime::ANIME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Eb525rJzxdRea2HE9QeR7K1zk6UByZh152aJBjUEr8RA.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

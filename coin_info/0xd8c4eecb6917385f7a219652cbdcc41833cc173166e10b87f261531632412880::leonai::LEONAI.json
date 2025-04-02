@@ -1,0 +1,13 @@
+{
+  "name": "Leonardo AI Agent",
+  "symbol": "LEONAI",
+  "decimals": 9,
+  "coin_type": "0xd8c4eecb6917385f7a219652cbdcc41833cc173166e10b87f261531632412880::leonai::LEONAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0xb933d4ff5a0e7bfe6ab7da72b5dce2259030252f.png?size=lg&key=faed65",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

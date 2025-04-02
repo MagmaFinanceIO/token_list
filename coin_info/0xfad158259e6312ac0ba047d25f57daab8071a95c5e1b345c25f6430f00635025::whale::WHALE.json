@@ -1,0 +1,13 @@
+{
+  "name": "Sui Pepe Whale",
+  "symbol": "WHALE",
+  "decimals": 6,
+  "coin_type": "0xfad158259e6312ac0ba047d25f57daab8071a95c5e1b345c25f6430f00635025::whale::WHALE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ovmon_54dabdfabd.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

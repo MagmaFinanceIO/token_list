@@ -1,0 +1,13 @@
+{
+  "name": "It's Fine!",
+  "symbol": "FINE",
+  "decimals": 9,
+  "coin_type": "0x8a8488d6e3fd6acc34cd5a2a23a0d48128ee7cf46b51f84c4e33180026d5fb00::IFINE::IFINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2F2024_10_14_15_29_10_4c5f464c4d.jpg&w=256&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

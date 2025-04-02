@@ -1,0 +1,13 @@
+{
+  "name": "Book Of Apes",
+  "symbol": "BAPE",
+  "decimals": 9,
+  "coin_type": "0x610d4d7922cf77660e8d74d17d1ac0d13a1236f215e6689c5f2d53cf8c3cfe58::bape::BAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/08291a61-bb90-40f0-924e-d674b40720b9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

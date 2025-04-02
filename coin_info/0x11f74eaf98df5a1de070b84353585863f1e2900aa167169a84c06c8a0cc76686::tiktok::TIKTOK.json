@@ -1,0 +1,13 @@
+{
+  "name": "Elon Musk's TikTok",
+  "symbol": "TIKTOK",
+  "decimals": 9,
+  "coin_type": "0x11f74eaf98df5a1de070b84353585863f1e2900aa167169a84c06c8a0cc76686::tiktok::TIKTOK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7Yx81jyXBjBYLZa42feShyEdPJwmbLghu19cVM9Apump.png?size=lg&key=890398",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

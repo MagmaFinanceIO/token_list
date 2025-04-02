@@ -1,0 +1,13 @@
+{
+  "name": "Doge Terminal AI",
+  "symbol": "DOGEAI",
+  "decimals": 9,
+  "coin_type": "0xd624677027f41f49e1ddef6181ec820ef30f88e5684ff59009b78b2169649632::dogeai::DOGEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dexscreener.com/solana/aqx9rw7azpgmfde5s9u6eanpxkudg95kc9fhkfchp9c9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

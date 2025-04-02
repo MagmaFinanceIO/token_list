@@ -1,0 +1,13 @@
+{
+  "name": "TIMES",
+  "symbol": "TIMES",
+  "decimals": 5,
+  "coin_type": "0x46fbe54691b27d7abd2c9e5a01088913531f241b98f3c2351f8215e45cc17a4c::times::TIMES",
+  "pyth_id": "",
+  "birdeyeid": "0x46fbe54691b27d7abd2c9e5a01088913531f241b98f3c2351f8215e45cc17a4c::times::TIMES",
+  "coin_priority": [],
+  "logo_url": "https://assets.playdarktimes.com/images/icons/darktimes_logo.png",
+  "project_url": "",
+  "coingecko_id": "times",
+  "is_trusted": true
+}

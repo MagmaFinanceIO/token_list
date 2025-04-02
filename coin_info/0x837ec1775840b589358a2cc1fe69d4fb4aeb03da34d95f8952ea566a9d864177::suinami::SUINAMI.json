@@ -1,0 +1,13 @@
+{
+  "name": "NAMI",
+  "symbol": "SUINAMI",
+  "decimals": 6,
+  "coin_type": "0x837ec1775840b589358a2cc1fe69d4fb4aeb03da34d95f8952ea566a9d864177::suinami::SUINAMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

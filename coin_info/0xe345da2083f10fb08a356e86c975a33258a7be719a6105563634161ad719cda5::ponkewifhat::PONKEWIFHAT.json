@@ -1,0 +1,13 @@
+{
+  "name": "PonkeWifHat",
+  "symbol": "PonkeWifHat",
+  "decimals": 9,
+  "coin_type": "0xe345da2083f10fb08a356e86c975a33258a7be719a6105563634161ad719cda5::ponkewifhat::PONKEWIFHAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8733cf4b-a202-4233-8b7f-44579414e94e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

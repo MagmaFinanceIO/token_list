@@ -1,0 +1,13 @@
+{
+  "name": "FatPengu on SUI",
+  "symbol": "FATPENGU",
+  "decimals": 9,
+  "coin_type": "0x20788fdca2f4117deebdccb0ac972dbf8c0906d71b1c2f944e107afdaaf5195f::fatpengu::FATPENGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qmbf6oMB5RX1Ld8GZzjqiudBFfYFUjkx4J7mSDz2FVt3ZB",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

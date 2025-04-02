@@ -1,0 +1,13 @@
+{
+  "name": "GigaTrumpPepe",
+  "symbol": "GIGATRUMP",
+  "decimals": 9,
+  "coin_type": "0x13270207cad0c580c486fd36c6edb20dcc2aa6a901732c07dff49a73644a47af::gigatrump::GIGATRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dexscreener.com/solana/3pkrglexocxp9qju3ezeu8j2uazwmfir624ec4mnpump",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

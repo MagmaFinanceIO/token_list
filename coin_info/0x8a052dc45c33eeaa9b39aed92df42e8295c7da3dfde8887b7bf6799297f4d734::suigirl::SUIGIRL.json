@@ -1,0 +1,13 @@
+{
+  "name": "Sui Girl",
+  "symbol": "SuiGirl",
+  "decimals": 9,
+  "coin_type": "0x8a052dc45c33eeaa9b39aed92df42e8295c7da3dfde8887b7bf6799297f4d734::suigirl::SUIGIRL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

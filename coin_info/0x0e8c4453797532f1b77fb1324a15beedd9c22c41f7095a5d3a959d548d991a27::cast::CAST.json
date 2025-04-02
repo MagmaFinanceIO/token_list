@@ -1,0 +1,13 @@
+{
+  "name": "CoinCast",
+  "symbol": "CAST",
+  "decimals": 6,
+  "coin_type": "0x0e8c4453797532f1b77fb1324a15beedd9c22c41f7095a5d3a959d548d991a27::cast::CAST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e0ec82ce-5c93-426a-a132-90c2cd973309.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

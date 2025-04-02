@@ -1,0 +1,13 @@
+{
+  "name": "SXTOKEN CON CAC",
+  "symbol": "SXTOKEN",
+  "decimals": 6,
+  "coin_type": "0xf6ded7a2518fc51fa2cb5aa7f48b328483d5faf5f4748a1dddc6383df6dfa92e::suito::SUITO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "vSUI",
+  "symbol": "vSUI",
+  "decimals": 9,
+  "coin_type": "0x39534626c70d6c43221f992393bdac9f2c5bb137823faacb7fc9bac0f7782484::Shark::SHARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/vsui.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

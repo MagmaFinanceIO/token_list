@@ -1,0 +1,13 @@
+{
+  "name": "Suishicat",
+  "symbol": "suishi",
+  "decimals": 9,
+  "coin_type": "0xebb4eb552f807a28a1601e804ccaf91796ddc46407ba1b07381333111ed29d46::suishi::SUISHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://suishicat.com/suishi.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

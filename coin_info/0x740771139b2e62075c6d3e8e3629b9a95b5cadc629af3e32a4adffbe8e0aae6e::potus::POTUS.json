@@ -1,0 +1,13 @@
+{
+  "name": "JUST A CHILL PRESIDENT",
+  "symbol": "POTUS",
+  "decimals": 6,
+  "coin_type": "0x740771139b2e62075c6d3e8e3629b9a95b5cadc629af3e32a4adffbe8e0aae6e::potus::POTUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20241220_122012_1200_x_1200_pixel_986ff5f266.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

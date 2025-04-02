@@ -1,0 +1,13 @@
+{
+  "name": "Axel Inu",
+  "symbol": "AXEL",
+  "decimals": 6,
+  "coin_type": "0xf2951143abc8a376f890feece460205aafbac0b326eb41015f456c942d73098c::axel::AXEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/f10922f3_e296_414e_aa7e_a11dff634ac1_0638ecb8f0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

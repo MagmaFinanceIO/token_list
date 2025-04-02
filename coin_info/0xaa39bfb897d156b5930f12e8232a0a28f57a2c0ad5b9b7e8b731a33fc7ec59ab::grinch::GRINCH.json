@@ -1,0 +1,13 @@
+{
+  "name": "Grinch Ai",
+  "symbol": "GRINCH",
+  "decimals": 9,
+  "coin_type": "0xaa39bfb897d156b5930f12e8232a0a28f57a2c0ad5b9b7e8b731a33fc7ec59ab::grinch::GRINCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/gakQVemy8DYRh4KpNJW2mV2fwKzqNhtGLf58URupump.png?size=lg&key=8f619f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "berlin",
+  "symbol": "berlin",
+  "decimals": 9,
+  "coin_type": "0x7834a9e9a79c69c267966c4962ff21b030a5066cca0ed4d47b64eef3fe7d6a9a::berlin::BERLIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

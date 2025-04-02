@@ -1,0 +1,13 @@
+{
+  "name": "BANANA BOOM",
+  "symbol": "BABOOM",
+  "decimals": 6,
+  "coin_type": "0xc573da4f3042cbf5a371f3cadd3d3b16b1fe99d2fae7567c4e9461adbef7f7a5::baboom::BABOOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/BABOOM_2827baf103.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

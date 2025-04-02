@@ -1,0 +1,13 @@
+{
+  "name": "Path Of Exile",
+  "symbol": "POE",
+  "decimals": 9,
+  "coin_type": "0x02da60e3b6aa5cf450cd3f82a68650b3fa2cf1ade624d5a71333a8744da2363b::poe::POE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8xR2rTpdNLcNXEsWLYDGMpfreuqRgVND9X8opvx5pump.png?size=lg&key=cfc630",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

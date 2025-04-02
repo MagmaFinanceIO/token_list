@@ -1,0 +1,13 @@
+{
+  "name": "Cosmic Joke",
+  "symbol": "JOKE",
+  "decimals": 9,
+  "coin_type": "0x0cf9df51a2f77ab72b5c3b4e147ce4c42369f20f6c98fb29699f87a8cc1d29a7::joke::JOKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2HL9Wap72Ju8QJRsL9uHhuHFjpfJUzkPfdDGJ3rYpump.png?size=lg&key=391a2c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

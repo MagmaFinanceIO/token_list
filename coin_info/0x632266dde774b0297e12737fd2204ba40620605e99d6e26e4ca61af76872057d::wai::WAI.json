@@ -1,0 +1,13 @@
+{
+  "name": "🐳  Whale AI",
+  "symbol": "WAI",
+  "decimals": 3,
+  "coin_type": "0x632266dde774b0297e12737fd2204ba40620605e99d6e26e4ca61af76872057d::wai::WAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5014c6f1-d7bb-4741-adea-6aedab9af108.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

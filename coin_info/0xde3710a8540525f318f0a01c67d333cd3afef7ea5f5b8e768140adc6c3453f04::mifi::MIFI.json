@@ -1,0 +1,13 @@
+{
+  "name": "MIFI on SUI",
+  "symbol": "MIFI",
+  "decimals": 6,
+  "coin_type": "0xde3710a8540525f318f0a01c67d333cd3afef7ea5f5b8e768140adc6c3453f04::mifi::MIFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000027438_320467ba43.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

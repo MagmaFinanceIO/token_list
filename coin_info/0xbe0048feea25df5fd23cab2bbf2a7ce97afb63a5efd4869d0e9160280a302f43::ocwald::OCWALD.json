@@ -1,0 +1,13 @@
+{
+  "name": "OCWALD SUI",
+  "symbol": "OCWALD",
+  "decimals": 6,
+  "coin_type": "0xbe0048feea25df5fd23cab2bbf2a7ce97afb63a5efd4869d0e9160280a302f43::ocwald::OCWALD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7615_65e6082d27.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BIRDS",
+  "symbol": "BIRDS",
+  "decimals": 6,
+  "coin_type": "0xa950cc9fcf3e3f25f92baccb215d9f30a6a8f54b0918b4997f5eaebf8003fc7b::birds::BIRDS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmdxvG2gowhJZZihWpPam2RHXFJE1xzyxhaDfSLRB5iH72",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

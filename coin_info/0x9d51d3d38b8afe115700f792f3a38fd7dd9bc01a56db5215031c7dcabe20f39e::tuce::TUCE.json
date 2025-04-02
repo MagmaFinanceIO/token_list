@@ -1,0 +1,13 @@
+{
+  "name": "Lettuce",
+  "symbol": "TUCE",
+  "decimals": 6,
+  "coin_type": "0x9d51d3d38b8afe115700f792f3a38fd7dd9bc01a56db5215031c7dcabe20f39e::tuce::TUCE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000009730_73dad01acc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

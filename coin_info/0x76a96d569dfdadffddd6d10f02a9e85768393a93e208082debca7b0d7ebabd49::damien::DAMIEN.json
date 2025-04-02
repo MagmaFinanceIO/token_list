@@ -1,0 +1,13 @@
+{
+  "name": "damn",
+  "symbol": "DAMIEN",
+  "decimals": 9,
+  "coin_type": "0x76a96d569dfdadffddd6d10f02a9e85768393a93e208082debca7b0d7ebabd49::damien::DAMIEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3b4d3d10-4cf6-42d5-9f19-d4f4fd2dc517.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Jesus On Sui",
+  "symbol": "Jesus",
+  "decimals": 6,
+  "coin_type": "0x862d1781b46eba90732868b8cb060c5b29e566cc68b34455ac8e2d88e01fd839::jesus::JESUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Whats_App_Image_2024_10_07_at_22_38_26_e407262724.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

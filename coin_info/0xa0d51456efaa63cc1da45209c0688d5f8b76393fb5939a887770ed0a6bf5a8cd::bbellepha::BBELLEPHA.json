@@ -1,0 +1,13 @@
+{
+  "name": "baby ellephant",
+  "symbol": "Bbellepha",
+  "decimals": 6,
+  "coin_type": "0xa0d51456efaa63cc1da45209c0688d5f8b76393fb5939a887770ed0a6bf5a8cd::bbellepha::BBELLEPHA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736619656507.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

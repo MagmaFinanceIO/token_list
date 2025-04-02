@@ -1,0 +1,13 @@
+{
+  "name": "SUI Genie",
+  "symbol": "GENIES",
+  "decimals": 9,
+  "coin_type": "0x4a1e3a47b382a458b96bb4aa08ee1cb6563e96aa8b7866b5bccfc8865043774e::genies::GENIES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/445c619c-68c0-4da3-ab7c-7c41708391bc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

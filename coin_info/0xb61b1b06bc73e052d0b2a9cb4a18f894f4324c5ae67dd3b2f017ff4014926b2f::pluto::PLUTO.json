@@ -1,0 +1,13 @@
+{
+  "name": "Pluto on Sui",
+  "symbol": "PLUTO",
+  "decimals": 9,
+  "coin_type": "0xb61b1b06bc73e052d0b2a9cb4a18f894f4324c5ae67dd3b2f017ff4014926b2f::pluto::PLUTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.plutotokenonsui.fun/images/logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

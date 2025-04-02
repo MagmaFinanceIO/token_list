@@ -1,0 +1,13 @@
+{
+  "name": "Sui Language Ai Model",
+  "symbol": "SLAM",
+  "decimals": 6,
+  "coin_type": "0x6c97a1e7981f4110577a5a741153ebd64ca6047a0099b8c4c1be450915306cb9::slam::SLAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000034065_4596df4afa.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

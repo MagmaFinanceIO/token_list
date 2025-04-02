@@ -1,0 +1,13 @@
+{
+  "name": "Banana Cat",
+  "symbol": "BCAT",
+  "decimals": 3,
+  "coin_type": "0xe0a34088e32f50ab31ac1fd42ab55eaad62cdaf454155f455174d1684901af84::bcat::BCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bcc61cc0-6f38-4228-957f-6144879b64cc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

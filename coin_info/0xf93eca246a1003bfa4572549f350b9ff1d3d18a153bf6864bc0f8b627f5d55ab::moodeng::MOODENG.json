@@ -1,0 +1,13 @@
+{
+  "name": "Bouncy Pork",
+  "symbol": "MOODENG",
+  "decimals": 9,
+  "coin_type": "0xf93eca246a1003bfa4572549f350b9ff1d3d18a153bf6864bc0f8b627f5d55ab::moodeng::MOODENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f4401bc9-11da-40d9-ba6e-30f80c39d91e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

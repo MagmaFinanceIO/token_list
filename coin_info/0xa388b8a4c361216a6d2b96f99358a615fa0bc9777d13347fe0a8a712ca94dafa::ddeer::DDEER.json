@@ -1,0 +1,13 @@
+{
+  "name": "DAPPER DEER",
+  "symbol": "DDEER",
+  "decimals": 6,
+  "coin_type": "0xa388b8a4c361216a6d2b96f99358a615fa0bc9777d13347fe0a8a712ca94dafa::ddeer::DDEER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_21_041329208_433c92028c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

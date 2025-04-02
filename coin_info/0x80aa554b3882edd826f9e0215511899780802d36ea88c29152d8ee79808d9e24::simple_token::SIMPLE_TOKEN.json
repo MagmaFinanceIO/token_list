@@ -1,0 +1,13 @@
+{
+  "name": "DOGEFATHER",
+  "symbol": "DOGEFATHER",
+  "decimals": 9,
+  "coin_type": "0x80aa554b3882edd826f9e0215511899780802d36ea88c29152d8ee79808d9e24::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Future V1",
+  "symbol": "FUT",
+  "decimals": 9,
+  "coin_type": "0x4bad5b13a940c20be045636345aaea24ca7ea9b887a96979adf3854cbfcc8f14::fut::FUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/937e9a1e-9ee7-4cdc-843f-0266892b44a1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

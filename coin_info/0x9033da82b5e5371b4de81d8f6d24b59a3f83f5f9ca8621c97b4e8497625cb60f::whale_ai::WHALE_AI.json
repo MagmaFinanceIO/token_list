@@ -1,0 +1,13 @@
+{
+  "name": "Whale AI",
+  "symbol": "Whale AI",
+  "decimals": 9,
+  "coin_type": "0x9033da82b5e5371b4de81d8f6d24b59a3f83f5f9ca8621c97b4e8497625cb60f::whale_ai::WHALE_AI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8d71c120-f8cf-4b7c-a60d-eb3c17d711ca.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Downsyndrome Goat",
+  "symbol": "DGoat",
+  "decimals": 6,
+  "coin_type": "0x1c84c121a9caeba2b4100b220706495c36157547b5f6895c53a63b57b478e5a0::dgoat::DGOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Design_ohne_Titel_f6439cebc3.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

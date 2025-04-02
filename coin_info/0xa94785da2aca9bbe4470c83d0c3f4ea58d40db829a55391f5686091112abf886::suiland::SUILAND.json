@@ -1,0 +1,13 @@
+{
+  "name": "LANDS OF SUI NETWORK",
+  "symbol": "SUILAND",
+  "decimals": 6,
+  "coin_type": "0xa94785da2aca9bbe4470c83d0c3f4ea58d40db829a55391f5686091112abf886::suiland::SUILAND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suiland_8f457606a5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ONIC PIG",
+  "symbol": "ONIC",
+  "decimals": 9,
+  "coin_type": "0xd972cf0bfadb8be80d8f68deb43a263bf996b9c2e562c57ede1d7fd021eedc28::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

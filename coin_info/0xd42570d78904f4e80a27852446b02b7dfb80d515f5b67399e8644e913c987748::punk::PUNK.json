@@ -1,0 +1,13 @@
+{
+  "name": "SuiPunks",
+  "symbol": "PUNK",
+  "decimals": 6,
+  "coin_type": "0xd42570d78904f4e80a27852446b02b7dfb80d515f5b67399e8644e913c987748::punk::PUNK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/A85_CFE_6_E_4671_4_DFA_85_F9_DA_8_CAB_2_BB_8_A1_ddf696328b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

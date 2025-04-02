@@ -1,0 +1,13 @@
+{
+  "name": "Orami",
+  "symbol": "Orami",
+  "decimals": 9,
+  "coin_type": "0x5911318ef2ba37862703a6e39698dfba09c846b437a377d0d50733f7e498092d::orami::ORAMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Fe7zmQjAUMDTjnRwt2PVEuMUTJ8ynDS6Ts7anhjxpump.png?size=lg&key=ad8e8b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

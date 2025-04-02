@@ -1,0 +1,13 @@
+{
+  "name": "NUTZ",
+  "symbol": "NUTZ",
+  "decimals": 9,
+  "coin_type": "0x011a69f9129bdba94075cb8f9bc6d9317e42064951777f60c1b51451d31c1090::nutz::NUTZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmTcShp6xSqxCujJLzmAziPGQk3RaqXyYSgEE2qTTwz3UN",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

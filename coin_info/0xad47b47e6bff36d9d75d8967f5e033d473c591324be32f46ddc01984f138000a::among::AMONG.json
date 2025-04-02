@@ -1,0 +1,13 @@
+{
+  "name": "AMONG US SUI",
+  "symbol": "AMONG",
+  "decimals": 9,
+  "coin_type": "0xad47b47e6bff36d9d75d8967f5e033d473c591324be32f46ddc01984f138000a::among::AMONG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/64e4a6b1-74a1-49ec-bc42-6cba673c9add.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

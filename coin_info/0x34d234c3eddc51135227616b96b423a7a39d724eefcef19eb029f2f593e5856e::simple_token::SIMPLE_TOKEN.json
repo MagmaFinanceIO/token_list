@@ -1,0 +1,13 @@
+{
+  "name": "BARRONSUI",
+  "symbol": "BARRONSUI",
+  "decimals": 9,
+  "coin_type": "0x34d234c3eddc51135227616b96b423a7a39d724eefcef19eb029f2f593e5856e::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

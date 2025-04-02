@@ -1,0 +1,13 @@
+{
+  "name": "SUITOP",
+  "symbol": "SUITOP",
+  "decimals": 9,
+  "coin_type": "0xd06b20d9dbb7e0948504cb463be3c402e3261463a57ae7a1ffcc0bf161613b72::suitop::SUITOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

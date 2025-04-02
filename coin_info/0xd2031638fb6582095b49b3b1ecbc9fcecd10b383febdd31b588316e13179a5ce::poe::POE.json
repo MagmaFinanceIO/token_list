@@ -1,0 +1,13 @@
+{
+  "name": "Poe The Polar Bear",
+  "symbol": "POE",
+  "decimals": 6,
+  "coin_type": "0xd2031638fb6582095b49b3b1ecbc9fcecd10b383febdd31b588316e13179a5ce::poe::POE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/coinerpfp_02896d5832.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

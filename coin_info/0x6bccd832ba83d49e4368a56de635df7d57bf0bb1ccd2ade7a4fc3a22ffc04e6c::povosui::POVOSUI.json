@@ -1,0 +1,13 @@
+{
+  "name": "Povo Coin",
+  "symbol": "POVOSUI",
+  "decimals": 9,
+  "coin_type": "0x6bccd832ba83d49e4368a56de635df7d57bf0bb1ccd2ade7a4fc3a22ffc04e6c::povosui::POVOSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.imagenspng.com.br/wp-content/uploads/2021/11/bolofofos-pow-png-01.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

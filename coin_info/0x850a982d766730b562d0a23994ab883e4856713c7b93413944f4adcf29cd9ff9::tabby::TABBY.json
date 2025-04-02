@@ -1,0 +1,13 @@
+{
+  "name": "Trump's Tabby",
+  "symbol": "TABBY",
+  "decimals": 6,
+  "coin_type": "0x850a982d766730b562d0a23994ab883e4856713c7b93413944f4adcf29cd9ff9::tabby::TABBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1a4f4682-9fc0-4995-a87c-966ba8c7fe65.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

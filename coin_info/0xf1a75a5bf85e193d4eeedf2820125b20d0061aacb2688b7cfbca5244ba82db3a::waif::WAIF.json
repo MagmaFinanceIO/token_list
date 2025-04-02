@@ -1,0 +1,13 @@
+{
+  "name": "Waifu Companion",
+  "symbol": "WAIF",
+  "decimals": 6,
+  "coin_type": "0xf1a75a5bf85e193d4eeedf2820125b20d0061aacb2688b7cfbca5244ba82db3a::waif::WAIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/amara4_a5bfe054de.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

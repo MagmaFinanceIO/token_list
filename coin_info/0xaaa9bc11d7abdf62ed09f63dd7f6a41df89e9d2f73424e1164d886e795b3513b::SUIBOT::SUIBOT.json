@@ -1,0 +1,13 @@
+{
+  "name": "SuiSniperBot",
+  "symbol": "SUIBOT",
+  "decimals": 2,
+  "coin_type": "0xaaa9bc11d7abdf62ed09f63dd7f6a41df89e9d2f73424e1164d886e795b3513b::SUIBOT::SUIBOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/BqObosAFnktR3nvABUXZF4NMDFbWRs63Y5yAn_ZzcgE?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

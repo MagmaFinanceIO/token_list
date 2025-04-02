@@ -1,0 +1,13 @@
+{
+  "name": "DOGE x NUTELLA",
+  "symbol": "DOGETELLA",
+  "decimals": 9,
+  "coin_type": "0x759a2c5c9679c9f525e7c70ae682a80c9a3ab002ba64b1b2a4f78617eac9840f::dogetella::DOGETELLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/n9ajaGZmec0Q3mgF?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

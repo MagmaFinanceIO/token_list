@@ -1,0 +1,13 @@
+{
+  "name": "SUI Mummy",
+  "symbol": "MUMMIES",
+  "decimals": 6,
+  "coin_type": "0x03d23d2a04808144b32de515cd99ed9c818bdcf244deb6b970983af663071b46::mummies::MUMMIES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/MGA_LOGO_SOL_1_bd51e92b98.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

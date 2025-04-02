@@ -1,0 +1,13 @@
+{
+  "name": "BROSUI",
+  "symbol": "BRO",
+  "decimals": 9,
+  "coin_type": "0xfd0d90c55f76f5eb49f0effb1180bc552ee4edbab913b36f720d84de5e1e9b6b::bro::BRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/87e41a53-a56a-41b2-926c-eb51f102e56a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

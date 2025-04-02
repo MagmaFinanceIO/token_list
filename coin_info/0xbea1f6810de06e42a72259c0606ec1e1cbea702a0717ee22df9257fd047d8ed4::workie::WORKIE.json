@@ -1,0 +1,13 @@
+{
+  "name": "WORKIE ON SUI",
+  "symbol": "WORKIE",
+  "decimals": 9,
+  "coin_type": "0xbea1f6810de06e42a72259c0606ec1e1cbea702a0717ee22df9257fd047d8ed4::workie::WORKIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qma1Zct5adnNKsoVa5MBtqUfxQ6AmUmjfuwx2fn1mqMYAS",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

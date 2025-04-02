@@ -1,0 +1,13 @@
+{
+  "name": "Elonium",
+  "symbol": "ELM",
+  "decimals": 9,
+  "coin_type": "0x125da2a0c497a9ef4fe212f54eda5d52bb930d73fe7bd85629403b6603c58eb4::elm::ELM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/279c5958-720f-44f7-99a0-84d7737512e8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

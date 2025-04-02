@@ -1,0 +1,13 @@
+{
+  "name": "Trinity AI",
+  "symbol": "TRINITY",
+  "decimals": 6,
+  "coin_type": "0x41d086946951a15c683d509d0d2603690ded4ffdc1f73e90f0c869ce18b3484a::trinity::TRINITY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1732461169770.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

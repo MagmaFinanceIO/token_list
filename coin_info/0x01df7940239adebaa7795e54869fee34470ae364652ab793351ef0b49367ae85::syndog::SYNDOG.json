@@ -1,0 +1,13 @@
+{
+  "name": "Synthesizer Dog",
+  "symbol": "SYNDOG",
+  "decimals": 6,
+  "coin_type": "0x01df7940239adebaa7795e54869fee34470ae364652ab793351ef0b49367ae85::syndog::SYNDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/40f71762-18cd-495d-b409-66f59df93e41.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

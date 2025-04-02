@@ -1,0 +1,13 @@
+{
+  "name": "SUI Raccoon",
+  "symbol": "Suiraccoon",
+  "decimals": 9,
+  "coin_type": "0xb8b9f9bf3607cb219b32921d7d95507ff2f2b83d177f99a115312b02b10bd27e::suiraccoon::SUIRACCOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/5328ea0f6a031d4a3ea267516d3474c4blob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

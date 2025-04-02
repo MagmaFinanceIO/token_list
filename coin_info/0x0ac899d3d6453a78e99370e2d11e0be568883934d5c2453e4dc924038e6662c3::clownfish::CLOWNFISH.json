@@ -1,0 +1,13 @@
+{
+  "name": "ClownFish",
+  "symbol": "CLOWNFISH",
+  "decimals": 9,
+  "coin_type": "0x0ac899d3d6453a78e99370e2d11e0be568883934d5c2453e4dc924038e6662c3::clownfish::CLOWNFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3ad42576-71d3-4130-a2d2-7407b3cefe3c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

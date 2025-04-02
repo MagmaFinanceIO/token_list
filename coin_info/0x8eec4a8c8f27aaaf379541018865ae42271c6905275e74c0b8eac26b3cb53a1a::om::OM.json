@@ -1,0 +1,13 @@
+{
+  "name": "OM COIN ON SUI",
+  "symbol": "OM",
+  "decimals": 9,
+  "coin_type": "0x8eec4a8c8f27aaaf379541018865ae42271c6905275e74c0b8eac26b3cb53a1a::om::OM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c5520d86-1b0b-4ca4-81d5-c6ea86a17781.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

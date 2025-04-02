@@ -1,0 +1,13 @@
+{
+  "name": "Hop Fubao",
+  "symbol": "FUBAO",
+  "decimals": 6,
+  "coin_type": "0x27568cfb7c28c8f5bf838c2b9ffa52a023b241df21baa6f0ef19d3a1d030dc69::fubao::FUBAO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSn1MHFmeNtQGxoCSp5H2zQrNeqGmNUd98XmFRnh8n2qd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

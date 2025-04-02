@@ -1,0 +1,13 @@
+{
+  "name": "Cooker Sui",
+  "symbol": "Cooker",
+  "decimals": 9,
+  "coin_type": "0xa9fe2e4d026b20dfa37a12998f297cf5d5101decde3f956a73c9e3a84140397a::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "goldberg",
+  "symbol": "goldberg",
+  "decimals": 9,
+  "coin_type": "0x99774535fb8775b8aac4ab6b8a8868c853d3a522425ac13c522172bee64066eb::goldberg::GOLDBERG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "EL PATRON",
+  "symbol": "PATRON",
+  "decimals": 6,
+  "coin_type": "0xd2939957feb180f0a239dca79c902922549c4c714d038217ba2c21b859e8a189::patron::PATRON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000023654_f1b26e9854.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

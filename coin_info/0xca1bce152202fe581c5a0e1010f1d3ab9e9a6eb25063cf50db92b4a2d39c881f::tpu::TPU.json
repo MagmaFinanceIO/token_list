@@ -1,0 +1,13 @@
+{
+  "name": "First bitcoin kid",
+  "symbol": "TPU",
+  "decimals": 9,
+  "coin_type": "0xca1bce152202fe581c5a0e1010f1d3ab9e9a6eb25063cf50db92b4a2d39c881f::tpu::TPU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/RdTSEwJwHA8vh6BALTu9hYVYv4FgWDS5JsK9hnApump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

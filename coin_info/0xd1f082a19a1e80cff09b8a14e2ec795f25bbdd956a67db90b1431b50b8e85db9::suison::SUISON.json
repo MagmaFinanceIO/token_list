@@ -1,0 +1,13 @@
+{
+  "name": "Sui Simpsons",
+  "symbol": "SUISON",
+  "decimals": 6,
+  "coin_type": "0xd1f082a19a1e80cff09b8a14e2ec795f25bbdd956a67db90b1431b50b8e85db9::suison::SUISON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20241013_224110_544_b14367d8b4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

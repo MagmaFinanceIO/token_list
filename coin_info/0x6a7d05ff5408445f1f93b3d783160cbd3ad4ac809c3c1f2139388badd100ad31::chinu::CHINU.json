@@ -1,0 +1,13 @@
+{
+  "name": "Chinu",
+  "symbol": "Chinu",
+  "decimals": 9,
+  "coin_type": "0x6a7d05ff5408445f1f93b3d783160cbd3ad4ac809c3c1f2139388badd100ad31::chinu::CHINU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/48819vnYxDiPhwcmd3aAJWSa9S4mQBbJdMV8DzXHYyRa.png?size=lg&key=62ab99",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

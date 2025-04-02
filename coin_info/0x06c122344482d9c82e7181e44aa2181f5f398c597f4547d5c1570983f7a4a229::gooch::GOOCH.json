@@ -1,0 +1,13 @@
+{
+  "name": "gooch coin",
+  "symbol": "gooch",
+  "decimals": 9,
+  "coin_type": "0x06c122344482d9c82e7181e44aa2181f5f398c597f4547d5c1570983f7a4a229::gooch::GOOCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/e8NFqLCMJBfDTUUARoniADgQtSEFmZNBksPxYzepump.png?size=xl&key=1ef678",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SLARFY",
+  "symbol": "SLARFY",
+  "decimals": 9,
+  "coin_type": "0xfb60ee51d4b73e181d9627d3d97a98e2ea6f3aaeeaedb14a7939f341e3029d84::slarfy::SLARFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/APANmAjewS2nJQ8Win3BiA4JnQ2Qf5ur9e7mbCRF8ziy.png?size=lg&key=f16f90",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

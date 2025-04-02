@@ -1,0 +1,13 @@
+{
+  "name": "BuyTheDeep",
+  "symbol": "DeepMigra",
+  "decimals": 9,
+  "coin_type": "0xadf0d13e56fc81afedebd3816cbedd829b9ea6b68ae927135dad2f99c082e891::deepmigra::DEEPMIGRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "-ZQjM_FoSzRxZ6Tx",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Official Musk Salute",
+  "symbol": "MUSK",
+  "decimals": 9,
+  "coin_type": "0x3ffad3e23148ffe30ea8faf08814df57611a048d760803b7d83d4d023e16a2e3::musk::MUSK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GoADCfRxrwNbDAVYzd8TH1V3FxXT6wnKb2mr6bHgpump.png?size=lg&key=43d3ff",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

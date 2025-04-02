@@ -1,0 +1,13 @@
+{
+  "name": "Official CZ Coin",
+  "symbol": "CZCOIN",
+  "decimals": 9,
+  "coin_type": "0x4a264ff88e0227d2d0e7e3ba57bf5b1de94ac5992fe07d79b04195d659e40589::czcoin::CZCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4cn5Mhj2y4HQoJJ41jPpk397g2bKZQqq8m8EYKEfpump.png?size=lg&key=58cfdd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

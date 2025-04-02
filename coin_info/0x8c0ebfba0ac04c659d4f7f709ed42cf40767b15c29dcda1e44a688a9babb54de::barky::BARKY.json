@@ -1,0 +1,13 @@
+{
+  "name": "BARKY DOG",
+  "symbol": "BARKY",
+  "decimals": 9,
+  "coin_type": "0x8c0ebfba0ac04c659d4f7f709ed42cf40767b15c29dcda1e44a688a9babb54de::barky::BARKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9826c642-9195-4e78-8a0c-b66648578bc4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

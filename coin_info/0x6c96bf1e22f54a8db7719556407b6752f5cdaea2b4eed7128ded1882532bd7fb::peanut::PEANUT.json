@@ -1,0 +1,13 @@
+{
+  "name": "TikTok Squirrel",
+  "symbol": "Peanut",
+  "decimals": 9,
+  "coin_type": "0x6c96bf1e22f54a8db7719556407b6752f5cdaea2b4eed7128ded1882532bd7fb::peanut::PEANUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/bGxHNbsacaVL35pkYWae5PYQDZXSpuQb3QDyW31pump.png?size=lg&key=7a0278",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

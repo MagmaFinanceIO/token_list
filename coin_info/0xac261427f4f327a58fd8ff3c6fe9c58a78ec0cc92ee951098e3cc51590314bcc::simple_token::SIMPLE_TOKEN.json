@@ -1,0 +1,13 @@
+{
+  "name": "xyz protocol",
+  "symbol": "xyz",
+  "decimals": 9,
+  "coin_type": "0xac261427f4f327a58fd8ff3c6fe9c58a78ec0cc92ee951098e3cc51590314bcc::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

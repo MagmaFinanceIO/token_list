@@ -1,0 +1,13 @@
+{
+  "name": "Golden Age",
+  "symbol": "GOLDEN",
+  "decimals": 9,
+  "coin_type": "0xbbc4c14630d68318051c87d7407d12e841a81bd9e38d43b76e1c35da20c5823b::golden::GOLDEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GjqpHLGPUtmBbfGvEAEvVG6GJkfyAozNZb1uJLoppump.png?size=lg&key=0d5e27",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

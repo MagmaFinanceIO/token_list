@@ -1,0 +1,13 @@
+{
+  "name": "God and Guns",
+  "symbol": "GG",
+  "decimals": 6,
+  "coin_type": "0xa7b5160e1c0c51ed179cf99d29c2c312763cdca40f5a136b410d353d3ef6754f::gg::GG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/jesus_5_cc10453e29.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

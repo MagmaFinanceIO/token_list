@@ -1,0 +1,13 @@
+{
+  "name": "Robin On Sui",
+  "symbol": "ROBIN",
+  "decimals": 9,
+  "coin_type": "0xbd5fb644bd29d4ef5e6ad7fb55d8322eb0966fd67733fc62803c57a963f14fc1::robin::ROBIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c6a3d9d7-0bd1-48d2-95cf-a493c3d87415.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

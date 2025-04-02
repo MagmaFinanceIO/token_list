@@ -1,0 +1,13 @@
+{
+  "name": "Kobe Bryant",
+  "symbol": "KOBE",
+  "decimals": 9,
+  "coin_type": "0xbedcb3f91785da957cb578cdf38bdf167e4faeb676be8bdc56f3ba0cefb93708::kobe::KOBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/JzCQQ6nUkeAF94vV27durWhY9zXXgn393GAvVUNpump.png?size=lg&key=760399",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ToonOnsui",
+  "symbol": "TOOn",
+  "decimals": 6,
+  "coin_type": "0xbcfb881b630fb81586c5ce0dd43eb1e280d1ad65d9e23e545a5f54d4355152f6::toon::TOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000346_0be7341a68.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

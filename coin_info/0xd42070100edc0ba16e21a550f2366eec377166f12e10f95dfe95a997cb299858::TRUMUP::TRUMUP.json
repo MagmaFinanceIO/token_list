@@ -1,0 +1,13 @@
+{
+  "name": "TRUMUP",
+  "symbol": "TRUMUP",
+  "decimals": 9,
+  "coin_type": "0xd42070100edc0ba16e21a550f2366eec377166f12e10f95dfe95a997cb299858::TRUMUP::TRUMUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

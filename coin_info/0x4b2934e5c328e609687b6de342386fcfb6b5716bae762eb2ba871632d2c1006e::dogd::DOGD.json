@@ -1,0 +1,13 @@
+{
+  "name": "Doge Dollars",
+  "symbol": "DOGD",
+  "decimals": 6,
+  "coin_type": "0x4b2934e5c328e609687b6de342386fcfb6b5716bae762eb2ba871632d2c1006e::dogd::DOGD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0f0606f7-9670-4c76-972a-bf7760d6928c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

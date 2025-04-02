@@ -1,0 +1,13 @@
+{
+  "name": "Eclipsera by SuiAI",
+  "symbol": "ECL",
+  "decimals": 6,
+  "coin_type": "0x5bfe1bc3725d55c0dd688b4ebc2adebb804e7f30809044e95b98a071a32a9354::ecl::ECL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/168e6d16_c04b_4bfa_b71f_a40f6c6ba6e9_34ea30235f.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SOUP",
+  "symbol": "SOUP",
+  "decimals": 9,
+  "coin_type": "0x72fdb79c7a9013732e783d2c63a413bfe391be379ec25dfb3e7c06da8ffce9f6::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

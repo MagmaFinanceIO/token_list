@@ -1,0 +1,13 @@
+{
+  "name": "XEREBRO AI",
+  "symbol": "Xerebro",
+  "decimals": 9,
+  "coin_type": "0x7b22a12f3f75d25f990b3d86520b58b4184ee38eb5571eb0e67b88781b37f32e::xerebro::XEREBRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/eh2sdumcevQErCjwzUDZAvJjfdaTkBxd8578ybmpump.png?size=lg&key=ea9dea",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

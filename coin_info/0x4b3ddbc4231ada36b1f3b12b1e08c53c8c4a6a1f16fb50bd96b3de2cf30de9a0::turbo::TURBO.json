@@ -1,0 +1,13 @@
+{
+  "name": "Turbo",
+  "symbol": "TURBO",
+  "decimals": 6,
+  "coin_type": "0x4b3ddbc4231ada36b1f3b12b1e08c53c8c4a6a1f16fb50bd96b3de2cf30de9a0::turbo::TURBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730952154373.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

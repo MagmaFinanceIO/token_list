@@ -1,0 +1,13 @@
+{
+  "name": "HammerHead",
+  "symbol": "HHS",
+  "decimals": 9,
+  "coin_type": "0x996374e9df45796fe8112663a37272af4d33e7531c67d21aaa5cc93b3d1ded5c::hhs::HHS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://magenta-protestant-falcon-171.mypinata.cloud/ipfs/QmNb1caN8xkkdGJEqLa3wuqtF5wS7AwLjpWk3bD1Uh7Ue8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

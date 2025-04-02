@@ -1,0 +1,13 @@
+{
+  "name": "Real Side Eye Dog",
+  "symbol": "BUDDY",
+  "decimals": 9,
+  "coin_type": "0xa6ec706ce4d64f483b2c0dfe7335359d6fee63d25b9b3b5e6f9f338e48718ea8::buddy::BUDDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GXUpp4pWztDzfeY4debxLSWrbYcNANcNrNAKKfcpump.png?size=lg&key=c79a9d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BSKT",
+  "symbol": "BSKT",
+  "decimals": 5,
+  "coin_type": "0xd4d52a6bf452401c0c70a1d19ff6cec2933f22a548eae552f3e514f64f61703a::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

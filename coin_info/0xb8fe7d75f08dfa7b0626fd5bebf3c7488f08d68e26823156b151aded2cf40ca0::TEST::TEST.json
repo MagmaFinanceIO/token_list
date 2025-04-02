@@ -1,0 +1,13 @@
+{
+  "name": "Test",
+  "symbol": "TEST3",
+  "decimals": 9,
+  "coin_type": "0xb8fe7d75f08dfa7b0626fd5bebf3c7488f08d68e26823156b151aded2cf40ca0::TEST::TEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://yt3.ggpht.com/a/AATXAJzsHPys1EoSnxprcPapwsQsb1gr97KzKfnRBw=s900-c-k-c0xffffffff-no-rj-mo",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

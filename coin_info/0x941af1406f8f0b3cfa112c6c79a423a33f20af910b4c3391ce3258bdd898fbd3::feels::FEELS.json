@@ -1,0 +1,13 @@
+{
+  "name": "FEELS MEME COIN",
+  "symbol": "FEELS",
+  "decimals": 6,
+  "coin_type": "0x941af1406f8f0b3cfa112c6c79a423a33f20af910b4c3391ce3258bdd898fbd3::feels::FEELS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_08_17_22_56_23_4711000cab.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

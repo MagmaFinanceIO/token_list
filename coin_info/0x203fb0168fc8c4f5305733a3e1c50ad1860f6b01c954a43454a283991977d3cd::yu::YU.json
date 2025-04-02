@@ -1,0 +1,13 @@
+{
+  "name": "tyu",
+  "symbol": "yu",
+  "decimals": 9,
+  "coin_type": "0x203fb0168fc8c4f5305733a3e1c50ad1860f6b01c954a43454a283991977d3cd::yu::YU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuiMoon",
+  "symbol": "MOON",
+  "decimals": 7,
+  "coin_type": "0x32940121dee806b58bae0f0814db3a4514a71372ae913adb5fe6c6e18dcb96b5::moon::MOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8b4042fa-0934-4d79-adb7-5b3c3bd6c3b1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Brett the Squirrel",
+  "symbol": "BNUT",
+  "decimals": 6,
+  "coin_type": "0x0e989133ddcf49e0915400c99c1a899dfcec303e554f6cb5422b4144e4dfa2db::bnut::BNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Dise_A_o_sin_t_A_tulo_8_8f399371da.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

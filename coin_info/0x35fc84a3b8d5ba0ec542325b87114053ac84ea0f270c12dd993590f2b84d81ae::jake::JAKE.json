@@ -1,0 +1,13 @@
+{
+  "name": "Jake Awakening",
+  "symbol": "JAKE",
+  "decimals": 9,
+  "coin_type": "0x35fc84a3b8d5ba0ec542325b87114053ac84ea0f270c12dd993590f2b84d81ae::jake::JAKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9df24b13-bf6f-4285-bfea-1b8e5822c5ff.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

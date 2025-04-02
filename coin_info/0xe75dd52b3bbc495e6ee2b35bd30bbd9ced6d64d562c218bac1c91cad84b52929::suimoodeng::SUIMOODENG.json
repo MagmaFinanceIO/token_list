@@ -1,0 +1,13 @@
+{
+  "name": "Sui Moo Deng",
+  "symbol": "SuiMooDeng",
+  "decimals": 6,
+  "coin_type": "0xe75dd52b3bbc495e6ee2b35bd30bbd9ced6d64d562c218bac1c91cad84b52929::suimoodeng::SUIMOODENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Sui_Moo_Deng_67d397d770.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ZPU",
+  "symbol": "ZPU",
+  "decimals": 9,
+  "coin_type": "0x094b31a1426acb1f25d06829116d2430d7370ffb1ab0228457550852e06c6034::zpu::ZPU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2SNstbEYVEn2iTNQyZHKGzgTPZwBgnujwKa8hn5opump.png?size=lg&key=16c90b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FIGHT",
+  "symbol": "FIGHT",
+  "decimals": 9,
+  "coin_type": "0x321b3163f0c836ea60f9ba326ed02fd5f84a0b211defe1af13ca54272b196123::fight::FIGHT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/KMnDBXcPXoz6oMJW5XG4tXdwSWpmWEP2RQM1Uujpump.png?size=lg&key=7f5af7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

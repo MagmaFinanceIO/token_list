@@ -1,0 +1,13 @@
+{
+  "name": "CCC",
+  "symbol": "CCCC",
+  "decimals": 9,
+  "coin_type": "0x9285e70477bd6f198bbf08381cc8f01b2c03e2119fe0eb198e11342d4cfd3704::cccc::CCCC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dev-file.walletapp.waveonsui.com/images/wave-pumps/6edbd2a5-2ec6-4a30-9971-60121bd5a160.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

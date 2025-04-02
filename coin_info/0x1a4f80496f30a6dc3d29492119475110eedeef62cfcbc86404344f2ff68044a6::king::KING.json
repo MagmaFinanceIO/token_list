@@ -1,0 +1,13 @@
+{
+  "name": "Richard Petty",
+  "symbol": "KING",
+  "decimals": 6,
+  "coin_type": "0x1a4f80496f30a6dc3d29492119475110eedeef62cfcbc86404344f2ff68044a6::king::KING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731559954608.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

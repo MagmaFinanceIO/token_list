@@ -1,0 +1,13 @@
+{
+  "name": "LAMPUT SUI",
+  "symbol": "LAMPUT",
+  "decimals": 6,
+  "coin_type": "0x268e642ffe8d8c132f0f328fbfc5dceb27758d351196285d266fce5ea6d274f9::lamput::LAMPUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6828_5244a4f8a8.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

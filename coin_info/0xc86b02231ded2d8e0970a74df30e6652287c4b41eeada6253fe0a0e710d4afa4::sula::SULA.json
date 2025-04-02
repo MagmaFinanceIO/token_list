@@ -1,0 +1,13 @@
+{
+  "name": "Suiland Coin",
+  "symbol": "SULA",
+  "decimals": 6,
+  "coin_type": "0xc86b02231ded2d8e0970a74df30e6652287c4b41eeada6253fe0a0e710d4afa4::sula::SULA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/rlogo_92ca347a19.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

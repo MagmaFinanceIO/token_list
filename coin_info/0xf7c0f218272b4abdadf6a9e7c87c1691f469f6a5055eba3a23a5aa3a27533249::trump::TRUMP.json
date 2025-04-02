@@ -1,0 +1,13 @@
+{
+  "name": "T47MP",
+  "symbol": "TRUMP",
+  "decimals": 9,
+  "coin_type": "0xf7c0f218272b4abdadf6a9e7c87c1691f469f6a5055eba3a23a5aa3a27533249::trump::TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/87b32133-21b4-42f9-bba7-611c4b8069c4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

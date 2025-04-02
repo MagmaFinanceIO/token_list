@@ -1,0 +1,13 @@
+{
+  "name": "ONYX",
+  "symbol": "ONYX",
+  "decimals": 9,
+  "coin_type": "0x9a5140ca67bce69c2352e5572c4069c9c4bdd49840ecd3f3fd46b37329b68a26::onyx::ONYX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://tomato-deep-eel-22.mypinata.cloud/ipfs/QmVWKkaBeehMNPCczio7VQMuHgqkPkoqfqdYqseXK8Srdg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

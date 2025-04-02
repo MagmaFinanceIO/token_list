@@ -1,0 +1,13 @@
+{
+  "name": "PinkFrog",
+  "symbol": "PFROG",
+  "decimals": 6,
+  "coin_type": "0xeae40459657834623ec43f13e43bba2dc72e23455bbe22806e124fbffd31343b::pfrog::PFROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "http://movepump.xyz/uploads/828e04e086b186f5db218be438c25993_1964750f7a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

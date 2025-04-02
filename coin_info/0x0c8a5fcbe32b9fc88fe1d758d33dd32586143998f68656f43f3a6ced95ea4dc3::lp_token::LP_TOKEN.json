@@ -1,0 +1,13 @@
+{
+  "name": "AFSUI-SUI Cetus Vault LP Token",
+  "symbol": "AFSUI-SUI vaultLP Cetus",
+  "decimals": 9,
+  "coin_type": "0x0c8a5fcbe32b9fc88fe1d758d33dd32586143998f68656f43f3a6ced95ea4dc3::lp_token::LP_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://j5w37hib4ojxo6bymogsbg5r5qkkdhuvfprizrw4kxakm3jxz24q.arweave.net/T22_nQHjk3d4OGONIJux7BShnpUr4ozG3FXApm03zrk",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TOSHI SUI",
+  "symbol": "TOSHI",
+  "decimals": 9,
+  "coin_type": "0x67bb60ace5f96a7a2bdebb3aa129643b0823674562578447fceffb4b81e9aa5b::toshi::TOSHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/eff3421f-6598-47db-acf0-7e7b0969842b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

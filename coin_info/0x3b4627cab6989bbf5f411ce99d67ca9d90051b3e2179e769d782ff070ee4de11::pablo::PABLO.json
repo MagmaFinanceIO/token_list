@@ -1,0 +1,13 @@
+{
+  "name": "Don Pablo",
+  "symbol": "Pablo",
+  "decimals": 6,
+  "coin_type": "0x3b4627cab6989bbf5f411ce99d67ca9d90051b3e2179e769d782ff070ee4de11::pablo::PABLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_8e2c5a849a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

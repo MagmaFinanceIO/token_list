@@ -1,0 +1,13 @@
+{
+  "name": "MOODERT",
+  "symbol": "MOODERT",
+  "decimals": 9,
+  "coin_type": "0x880b2bd8191d6300bdf709e15f5d35aa0d54a34ed5ecd1aad022e3abe3e03bb9::moodert::MOODERT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

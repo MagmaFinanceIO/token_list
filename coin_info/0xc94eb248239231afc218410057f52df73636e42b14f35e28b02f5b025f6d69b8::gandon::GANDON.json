@@ -1,0 +1,13 @@
+{
+  "name": "gandon",
+  "symbol": "gandon",
+  "decimals": 6,
+  "coin_type": "0xc94eb248239231afc218410057f52df73636e42b14f35e28b02f5b025f6d69b8::gandon::GANDON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmXv1HcSMWxh5g9foYs4yMrXup4VmAhrUwf8QLWbY1gXcV",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

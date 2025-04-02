@@ -1,0 +1,13 @@
+{
+  "name": "CATS",
+  "symbol": "CATS",
+  "decimals": 9,
+  "coin_type": "0x962de1e2c0e0b83fd0b1de918e479632d0ab5ed48b3215870017bff23857034e::cats::CATS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

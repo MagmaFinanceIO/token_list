@@ -1,0 +1,13 @@
+{
+  "name": "Merv The Cat",
+  "symbol": "Merv",
+  "decimals": 9,
+  "coin_type": "0x98967e7284a52577a984c0613015f49930fefcdcc68e3d6d2734874abd780405::merv::MERV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6u2rVeo7uu7HsiYRkXKJAA5ynBRMZXTCTkc8Nz76kyLt.png?size=lg&key=64750f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

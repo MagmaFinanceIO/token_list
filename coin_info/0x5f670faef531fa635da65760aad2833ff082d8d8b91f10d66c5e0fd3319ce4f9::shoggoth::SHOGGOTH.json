@@ -1,0 +1,13 @@
+{
+  "name": "Shoggoth",
+  "symbol": "Shoggoth",
+  "decimals": 6,
+  "coin_type": "0x5f670faef531fa635da65760aad2833ff082d8d8b91f10d66c5e0fd3319ce4f9::shoggoth::SHOGGOTH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/H2c31USxu35MDkBrGph8pUDUnmzo2e4Rf4hnvL2Upump.png?size=lg&key=cdf2da",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

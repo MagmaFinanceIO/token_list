@@ -1,0 +1,13 @@
+{
+  "name": "SUIPUMA",
+  "symbol": "PUMA",
+  "decimals": 6,
+  "coin_type": "0x3000e3ae15ed8bae0e97d0964c8abfbdcae11e30fd3e6d3f79be3d2c2de56a4c::puma::PUMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000197804_08b1718972.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

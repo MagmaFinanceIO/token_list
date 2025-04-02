@@ -1,0 +1,13 @@
+{
+  "name": "Make Crypto Great Again",
+  "symbol": "MCGA",
+  "decimals": 9,
+  "coin_type": "0xa87f7ad965691f56e3d1abcf7d3d2e8cc09f76c43c6475abf15edd607a8e3ce0::MCGA::MCGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DsTuRWqwZ3n99zEvsQVRcxP62uxDJekxzpfHr7bZpump.png?size=xl&key=ab2eb4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "YELLOW GROUPER ON SUI",
+  "symbol": "YGOS",
+  "decimals": 6,
+  "coin_type": "0xa8ebfcbbaa050796bd7b19a89aedfbc94df47e4c09169b402413efbd9f8f9dbd::ygos::YGOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Gemini_Generated_Image_8suk0f8suk0f8suk_jpeg_aa6a89f6f9.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

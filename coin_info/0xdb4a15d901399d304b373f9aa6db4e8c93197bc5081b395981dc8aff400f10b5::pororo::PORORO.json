@@ -1,0 +1,13 @@
+{
+  "name": "PororoSUI",
+  "symbol": "PORORO",
+  "decimals": 6,
+  "coin_type": "0xdb4a15d901399d304b373f9aa6db4e8c93197bc5081b395981dc8aff400f10b5::pororo::PORORO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/e_e_e_e_i_removebg_preview_29d2f4fb80.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

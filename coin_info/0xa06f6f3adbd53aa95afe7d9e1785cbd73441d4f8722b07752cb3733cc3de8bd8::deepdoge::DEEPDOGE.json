@@ -1,0 +1,13 @@
+{
+  "name": "DEEPSEEK DOGE",
+  "symbol": "DEEPDOGE",
+  "decimals": 9,
+  "coin_type": "0xa06f6f3adbd53aa95afe7d9e1785cbd73441d4f8722b07752cb3733cc3de8bd8::deepdoge::DEEPDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9Prq3stLxN63pcTMv534eiFuseCLvR6L8EsBUHCDpump.png?size=lg&key=cd7959",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

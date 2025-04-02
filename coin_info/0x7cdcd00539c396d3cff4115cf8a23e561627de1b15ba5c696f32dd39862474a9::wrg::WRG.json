@@ -1,0 +1,13 @@
+{
+  "name": "ertgrb",
+  "symbol": "wrg",
+  "decimals": 6,
+  "coin_type": "0x7cdcd00539c396d3cff4115cf8a23e561627de1b15ba5c696f32dd39862474a9::wrg::WRG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sapo The Frog",
+  "symbol": "SAPO",
+  "decimals": 9,
+  "coin_type": "0x9119e3b04509b0b05793508a35385620e45b3016b7c540bc2384765db17c56aa::sapo::SAPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmekJkYAC4jouW8bsBTPYyU1JtHtVJsCChpbesvpvSJtkW",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

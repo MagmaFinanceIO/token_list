@@ -1,0 +1,13 @@
+{
+  "name": "Sui Burger",
+  "symbol": "BURGER",
+  "decimals": 9,
+  "coin_type": "0xf8ae9d394ac71c65ece2e4d85b047747602272dd0605697682379ac245b2e360::burger::BURGER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/501b88eb-3f27-47ca-a507-b443b837029b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

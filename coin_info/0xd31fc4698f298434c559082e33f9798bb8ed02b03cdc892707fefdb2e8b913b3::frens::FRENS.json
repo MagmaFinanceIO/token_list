@@ -1,0 +1,13 @@
+{
+  "name": "Sui Frens",
+  "symbol": "FRENS",
+  "decimals": 6,
+  "coin_type": "0xd31fc4698f298434c559082e33f9798bb8ed02b03cdc892707fefdb2e8b913b3::frens::FRENS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2Fsuifrens_1027ca98fa.jpg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

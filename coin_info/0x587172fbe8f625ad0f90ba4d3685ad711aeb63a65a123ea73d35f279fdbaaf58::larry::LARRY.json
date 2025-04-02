@@ -1,0 +1,13 @@
+{
+  "name": "Larry The Bird",
+  "symbol": "LARRY",
+  "decimals": 6,
+  "coin_type": "0x587172fbe8f625ad0f90ba4d3685ad711aeb63a65a123ea73d35f279fdbaaf58::larry::LARRY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/portal_c8f2338b92.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

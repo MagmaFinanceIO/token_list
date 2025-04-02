@@ -1,0 +1,13 @@
+{
+  "name": "MAGATRUMP",
+  "symbol": "MAGATRUMP",
+  "decimals": 9,
+  "coin_type": "0x8c655a4b408d909af3d75cbf59d552f1fe434bc2fe60f602858787fa6401e48e::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

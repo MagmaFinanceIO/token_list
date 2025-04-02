@@ -1,0 +1,13 @@
+{
+  "name": "Sui Zombie",
+  "symbol": "ZOMBIE",
+  "decimals": 6,
+  "coin_type": "0x95a42d0d529b0e23b27f356e89bdcffbabd299c47d99a74c2750cfde3c62a3b1::zombie::ZOMBIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Zombie_2abe2c5416.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

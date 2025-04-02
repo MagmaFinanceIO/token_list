@@ -1,0 +1,13 @@
+{
+  "name": "Sui Goku",
+  "symbol": "SuiGoku",
+  "decimals": 6,
+  "coin_type": "0x47be77bcbc498813f30fc131c3ebc7163f6aca7fa16bf15651013ba91697e8f1::suigoku::SUIGOKU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c9fef448-30ba-4a8c-a82b-26fba2808421.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

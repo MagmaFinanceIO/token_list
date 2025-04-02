@@ -1,0 +1,13 @@
+{
+  "name": "EEVE AI",
+  "symbol": "EEVE",
+  "decimals": 9,
+  "coin_type": "0xdea8389de8ba499fe7876b0a50d32e0cd80e660bc55e8852e178446d89586557::eeve::EEVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DPh5xjSvGvXehAgTr9zGGP3wvqfyaSH2BgXPYJEtpump.png?size=lg&key=1acafd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

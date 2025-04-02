@@ -1,0 +1,13 @@
+{
+  "name": "HOPDOG",
+  "symbol": "HOPDOG",
+  "decimals": 9,
+  "coin_type": "0xed7dffab4f8621e777a8ef530677b1170cdba499a9b578c0711c0284da4fd4a0::hopdog::HOPDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/QmZpwj9TavAxjNScCmyLVdwuJYAYELVMxJEifKYEjMUUuk",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

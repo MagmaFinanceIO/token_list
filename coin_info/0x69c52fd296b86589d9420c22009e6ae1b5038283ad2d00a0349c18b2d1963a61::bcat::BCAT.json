@@ -1,0 +1,13 @@
+{
+  "name": "Burger Cat",
+  "symbol": "BCAT",
+  "decimals": 9,
+  "coin_type": "0x69c52fd296b86589d9420c22009e6ae1b5038283ad2d00a0349c18b2d1963a61::bcat::BCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/17b79732-21af-41cb-be46-552637c78745.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

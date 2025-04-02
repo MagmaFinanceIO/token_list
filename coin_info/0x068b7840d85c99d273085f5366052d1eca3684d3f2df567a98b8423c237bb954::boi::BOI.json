@@ -1,0 +1,13 @@
+{
+  "name": "BoiOnSui",
+  "symbol": "BOI",
+  "decimals": 6,
+  "coin_type": "0x068b7840d85c99d273085f5366052d1eca3684d3f2df567a98b8423c237bb954::boi::BOI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmVKNL7YQh94J1pUzwUqg8hdg84bkLjr2HXi6CEFk1zpK4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

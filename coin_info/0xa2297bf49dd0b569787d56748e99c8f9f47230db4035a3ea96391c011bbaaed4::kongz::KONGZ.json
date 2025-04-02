@@ -1,0 +1,13 @@
+{
+  "name": "CyberKongz on SOL",
+  "symbol": "KONGZ",
+  "decimals": 9,
+  "coin_type": "0xa2297bf49dd0b569787d56748e99c8f9f47230db4035a3ea96391c011bbaaed4::kongz::KONGZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3qhShHhZvduHoea19hYLBsZd358gKLc9mLrUVCHye6YV.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

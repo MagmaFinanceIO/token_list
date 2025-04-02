@@ -1,0 +1,13 @@
+{
+  "name": "Dogius Maximus",
+  "symbol": "DOGIUS",
+  "decimals": 9,
+  "coin_type": "0x68c85e2859a00142353666833de4bb4b01fbfab89a137ec9a4d67cc2450127d1::dogius::DOGIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5ABhEwJgZLeQxyB25z88nFbHjjm1LJEs8iDJ2CSmpump.png?size=lg&key=f693cf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

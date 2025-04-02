@@ -1,0 +1,13 @@
+{
+  "name": "Legal Torch GPT",
+  "symbol": "LGPT",
+  "decimals": 6,
+  "coin_type": "0xeca4d839e4bad90190394360d697abdca6602c7ddc1a688b89ecaa7b996a3c67::lgpt::LGPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0622189c-1bd1-46f5-9281-79977453a847.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

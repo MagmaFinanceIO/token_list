@@ -1,0 +1,13 @@
+{
+  "name": "OMG2",
+  "symbol": "OMGtwo",
+  "decimals": 9,
+  "coin_type": "0xf2ba7211f8de8f49398d99125107dbd412712b8cc91d873261766207e28796d2::omgtwo::OMGTWO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d4b10d29-a85b-44a8-9db7-18af42799f4e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

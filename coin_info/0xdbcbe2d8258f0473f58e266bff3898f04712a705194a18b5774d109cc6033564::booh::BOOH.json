@@ -1,0 +1,13 @@
+{
+  "name": "BoohToken",
+  "symbol": "BOOH",
+  "decimals": 9,
+  "coin_type": "0xdbcbe2d8258f0473f58e266bff3898f04712a705194a18b5774d109cc6033564::booh::BOOH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xc18b4c1e0b4d4d0f1e9627f25399f5073079ac3d.png?size=lg&key=c882db",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

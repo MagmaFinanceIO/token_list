@@ -1,0 +1,13 @@
+{
+  "name": "SIUUU on SUI",
+  "symbol": "SIUUU",
+  "decimals": 6,
+  "coin_type": "0x14988b51be4f430dfba9e6e06526e614dee93108714e192d45248b433e43e086::siuuu::SIUUU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/il_794x_N_3737930292_b1t9_02a75faeef.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DayTona",
+  "symbol": "FLOXI",
+  "decimals": 9,
+  "coin_type": "0xbed3b55d5d7073eb01f7665af9fccc7ff2bdf3e9e64fc1e858750adf3c7e8233::floxi::FLOXI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d23ee9ee-e89f-4a19-ac87-decd2889d094.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

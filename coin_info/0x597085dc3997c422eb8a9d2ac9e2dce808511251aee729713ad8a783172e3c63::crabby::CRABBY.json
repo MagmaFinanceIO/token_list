@@ -1,0 +1,13 @@
+{
+  "name": "Crabby The Crabb",
+  "symbol": "CRABBY",
+  "decimals": 9,
+  "coin_type": "0x597085dc3997c422eb8a9d2ac9e2dce808511251aee729713ad8a783172e3c63::crabby::CRABBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8474cf03-48fb-4508-a5f6-75504bcbaf9a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

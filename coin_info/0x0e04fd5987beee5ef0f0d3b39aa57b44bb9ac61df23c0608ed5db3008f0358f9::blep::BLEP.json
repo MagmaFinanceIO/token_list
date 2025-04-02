@@ -1,0 +1,13 @@
+{
+  "name": "BLEP SUI",
+  "symbol": "BLEP",
+  "decimals": 6,
+  "coin_type": "0x0e04fd5987beee5ef0f0d3b39aa57b44bb9ac61df23c0608ed5db3008f0358f9::blep::BLEP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6662_b587c8b242.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

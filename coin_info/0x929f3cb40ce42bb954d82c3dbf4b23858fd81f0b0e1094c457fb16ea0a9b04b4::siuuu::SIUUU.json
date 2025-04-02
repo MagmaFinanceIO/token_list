@@ -1,0 +1,13 @@
+{
+  "name": "SIUNALDO",
+  "symbol": "SIUUU",
+  "decimals": 9,
+  "coin_type": "0x929f3cb40ce42bb954d82c3dbf4b23858fd81f0b0e1094c457fb16ea0a9b04b4::siuuu::SIUUU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2667124f-361c-4a70-b53c-46a8ebcc2fdc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

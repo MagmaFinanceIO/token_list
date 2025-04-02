@@ -1,0 +1,13 @@
+{
+  "name": "EXTERNAL REVENUE SERVICE",
+  "symbol": "ERS",
+  "decimals": 9,
+  "coin_type": "0x5d4b8b976dfa79cacb1f351cc5b0a90f3f1d544d8e8b8c49a8d55ef6709528ca::ers::ERS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CgMfCgDUi3VYDyTYMy41oLC2fEviVZJ3kHSM7wA6im3d.png?size=lg&key=971205",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

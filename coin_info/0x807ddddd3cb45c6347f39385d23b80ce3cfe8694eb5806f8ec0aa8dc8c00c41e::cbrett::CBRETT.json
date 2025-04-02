@@ -1,0 +1,13 @@
+{
+  "name": "CAPTAIN BRETT",
+  "symbol": "CBRETT",
+  "decimals": 6,
+  "coin_type": "0x807ddddd3cb45c6347f39385d23b80ce3cfe8694eb5806f8ec0aa8dc8c00c41e::cbrett::CBRETT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_11_01_42_48_5a947389fd.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

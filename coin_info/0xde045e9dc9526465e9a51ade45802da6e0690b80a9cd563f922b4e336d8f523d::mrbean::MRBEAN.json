@@ -1,0 +1,13 @@
+{
+  "name": "Mr.Bean on SUI",
+  "symbol": "MrBean",
+  "decimals": 9,
+  "coin_type": "0xde045e9dc9526465e9a51ade45802da6e0690b80a9cd563f922b4e336d8f523d::mrbean::MRBEAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/80fb19bb-4ed5-4660-a6e8-977f8f58a8cf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

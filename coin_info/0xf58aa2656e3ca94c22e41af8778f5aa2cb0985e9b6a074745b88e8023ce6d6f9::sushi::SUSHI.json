@@ -1,0 +1,13 @@
+{
+  "name": "SUSHI",
+  "symbol": "SUSHI",
+  "decimals": 9,
+  "coin_type": "0xf58aa2656e3ca94c22e41af8778f5aa2cb0985e9b6a074745b88e8023ce6d6f9::sushi::SUSHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ad19971d-2392-446f-8fa7-34f75c3dd97a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

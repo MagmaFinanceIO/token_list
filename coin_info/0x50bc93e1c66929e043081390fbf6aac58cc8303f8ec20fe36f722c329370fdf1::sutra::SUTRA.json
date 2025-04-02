@@ -1,0 +1,13 @@
+{
+  "name": "Sui Terasu AI",
+  "symbol": "SUTRA",
+  "decimals": 9,
+  "coin_type": "0x50bc93e1c66929e043081390fbf6aac58cc8303f8ec20fe36f722c329370fdf1::sutra::SUTRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/487fb017-8ee9-45f8-b906-16d06aafeaf1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

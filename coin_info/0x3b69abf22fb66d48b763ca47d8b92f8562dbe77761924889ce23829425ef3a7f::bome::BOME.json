@@ -1,0 +1,13 @@
+{
+  "name": "BOOK OF MEME SUI",
+  "symbol": "BOME",
+  "decimals": 9,
+  "coin_type": "0x3b69abf22fb66d48b763ca47d8b92f8562dbe77761924889ce23829425ef3a7f::bome::BOME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://teal-deliberate-skunk-670.mypinata.cloud/ipfs/QmRGmFU7rh16UQ3hwopBSPao479ubQxfxRP51yMgRwTtkC",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

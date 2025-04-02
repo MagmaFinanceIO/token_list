@@ -1,0 +1,13 @@
+{
+  "name": "PopeyeAI SUI",
+  "symbol": "PopAI",
+  "decimals": 9,
+  "coin_type": "0xdfd0ff223bffb46b47da27bbfb9d97faa9c387dbb8b0bc753db73c2cff9b35a8::popai::POPAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BBZioNgzcYNuvMSESzkKiMJtbVqYRogXKpyz12fTAq31.png?size=lg&key=1e181c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HopRabbit",
+  "symbol": "HopRabbit",
+  "decimals": 6,
+  "coin_type": "0x3e295b4b835496ee460a503d37f44e1696cc2d38d2c27484ae8ab542e3ce0fe1::hoprabbit::HOPRABBIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmcjJPsYoytXCn1dmZDqXuCkv8rxn8N19iY7UGMQLsB7ya",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

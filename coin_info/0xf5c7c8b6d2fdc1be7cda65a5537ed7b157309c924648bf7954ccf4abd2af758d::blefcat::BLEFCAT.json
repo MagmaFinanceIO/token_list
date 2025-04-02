@@ -1,0 +1,13 @@
+{
+  "name": "Blue Eyed Fish Cat",
+  "symbol": "BLEFCAT",
+  "decimals": 6,
+  "coin_type": "0xf5c7c8b6d2fdc1be7cda65a5537ed7b157309c924648bf7954ccf4abd2af758d::blefcat::BLEFCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/04de8e6973daaf5f409e747b9f81d5f1_edad1908c3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIALTRUMP",
+  "symbol": "TRUMP",
+  "decimals": 9,
+  "coin_type": "0x0ca21bda855fd728946e45f61abaef4ad2432e88dbeab2ebfade036399e98584::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BananaForScale",
+  "symbol": "BNANA",
+  "decimals": 9,
+  "coin_type": "0x4fbdace4a6835d543b93947b8af708d0f12d69793c2191d02cab278e528c84f9::bananaforscale::BANANAFORSCALE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/63a81b33-1b7c-42fb-aa0e-44d49dbf9c6d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

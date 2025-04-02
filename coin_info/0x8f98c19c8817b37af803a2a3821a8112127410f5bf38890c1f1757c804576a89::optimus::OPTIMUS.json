@@ -1,0 +1,13 @@
+{
+  "name": "Optimus",
+  "symbol": "OPTIMUS",
+  "decimals": 9,
+  "coin_type": "0x8f98c19c8817b37af803a2a3821a8112127410f5bf38890c1f1757c804576a89::optimus::OPTIMUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/31n9Do8vj8Lu8EFSPGo5xBK8AAcycqTYKmNSM4bQpump.png?size=lg&key=70ef77",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

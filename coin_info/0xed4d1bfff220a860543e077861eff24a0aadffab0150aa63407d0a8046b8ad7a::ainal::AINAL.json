@@ -1,0 +1,13 @@
+{
+  "name": "AInalyzr",
+  "symbol": "AINAL",
+  "decimals": 9,
+  "coin_type": "0xed4d1bfff220a860543e077861eff24a0aadffab0150aa63407d0a8046b8ad7a::ainal::AINAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dexscreener.com/solana/2scar1kwir81rbrewpyepfsghcuog234grzlfsxspump",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

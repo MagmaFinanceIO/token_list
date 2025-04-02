@@ -1,0 +1,13 @@
+{
+  "name": "SendNuke",
+  "symbol": "missile",
+  "decimals": 0,
+  "coin_type": "0x2fe7b5b084ff07e0bf5ef0723ca457af1b208227100deb7de05dec4e52a28b94::missile::MISSILE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/75ba406b-c7a4-43c7-bc63-b768c2769975.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Grind And Make Earnings",
+  "symbol": "GAME",
+  "decimals": 9,
+  "coin_type": "0x95198ee99dcb9ac858bb70ff0405e2dddcf846a5f926a0f08880ffa514c751bf::game::GAME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9coVMcWpBb6NZuaaE4mLcru6BokRFAFcYp4adrmkpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

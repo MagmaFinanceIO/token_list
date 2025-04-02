@@ -1,0 +1,13 @@
+{
+  "name": "PIKAI AGENT by SuiAI",
+  "symbol": "PIKAI",
+  "decimals": 6,
+  "coin_type": "0x291bb1301b5a7c4895e290561e7ef5b1175c4e9508e397f39bf79de84daa02da::pikai::PIKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/f1080e90_7cba_4d35_ac49_85c3327cfa4c_1_24d927fb66.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

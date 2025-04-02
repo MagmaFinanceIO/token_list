@@ -1,0 +1,13 @@
+{
+  "name": "AiGA by SuiAI",
+  "symbol": "AIGA",
+  "decimals": 6,
+  "coin_type": "0x0fc342118b061bbfd78ddab3a1dae22d69a6eb1205fc74116b3a3acbeb3a2833::aiga::AIGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/7_e22ac7f33d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

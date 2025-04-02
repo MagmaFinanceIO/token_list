@@ -1,0 +1,13 @@
+{
+  "name": "Pepe",
+  "symbol": "420690",
+  "decimals": 6,
+  "coin_type": "0x52a5242fabb7c1136cdc8b4480fab3a540207228f173255ed79b42d155577a2e::four20690::FOUR20690",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmT3n9QXTeUQFVHGUGBeKCDT94S5HJJ6jHtYk99V5RyQ14",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

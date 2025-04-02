@@ -1,0 +1,13 @@
+{
+  "name": "BLU",
+  "symbol": "BLUEY",
+  "decimals": 6,
+  "coin_type": "0xabc3ceb72b96cfd7340cae0c68c4ae8f681267155fac24339adf9380580926bd::bluey::BLUEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5971_9927ae4268.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "KWEK TERMINAL",
+  "symbol": "KWEKAI",
+  "decimals": 9,
+  "coin_type": "0x3a48579e55c2a7d930cf535fd68a1d26141546550a1a2f65d54e0ff1a25e0d83::kwekai::KWEKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/iRxMSeQWmQ4d8Ea6b2RKSdJ7PajVceqHAwUvaDapump.png?size=lg&key=555849",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "The Dogefather",
+  "symbol": "FATHER",
+  "decimals": 9,
+  "coin_type": "0x40fb1f1c249311e9bcda4001d0579f4e2693b0709f12ac20a165720a609e30c1::father::FATHER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6Yu7rDFAqesesrQ6g3nUac6o7QMfA5hzjzMCzJfUpump.png?size=lg&key=4ac839",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Stompy",
+  "symbol": "STOMPY",
+  "decimals": 9,
+  "coin_type": "0x70fd0824aec6363197c8a69ad5c24c4b4d0d34f68b79c75b114cabacc81f00e1::stompy::STOMPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fe84134f-7e4b-44b2-b04b-3d5f3fbaa19a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

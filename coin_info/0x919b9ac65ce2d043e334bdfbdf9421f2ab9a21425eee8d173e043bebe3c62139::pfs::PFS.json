@@ -1,0 +1,13 @@
+{
+  "name": "PEPE FISH on Sui",
+  "symbol": "PFS",
+  "decimals": 6,
+  "coin_type": "0x919b9ac65ce2d043e334bdfbdf9421f2ab9a21425eee8d173e043bebe3c62139::pfs::PFS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Gemini_Generated_Image_2om90j2om90j2om9_2c4fd0f669.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

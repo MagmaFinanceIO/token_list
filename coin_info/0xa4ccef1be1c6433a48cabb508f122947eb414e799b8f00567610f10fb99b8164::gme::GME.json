@@ -1,0 +1,13 @@
+{
+  "name": "GameStop",
+  "symbol": "GME",
+  "decimals": 2,
+  "coin_type": "0xa4ccef1be1c6433a48cabb508f122947eb414e799b8f00567610f10fb99b8164::gme::GME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f12b0e8c-1046-4f23-8678-9dcf9bddf1fc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

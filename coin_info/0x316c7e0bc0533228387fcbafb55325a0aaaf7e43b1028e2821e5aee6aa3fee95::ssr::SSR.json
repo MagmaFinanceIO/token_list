@@ -1,0 +1,13 @@
+{
+  "name": "SUI STRATEGIC RESERVE",
+  "symbol": "SSR",
+  "decimals": 6,
+  "coin_type": "0x316c7e0bc0533228387fcbafb55325a0aaaf7e43b1028e2821e5aee6aa3fee95::ssr::SSR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ssr_logo_new_new_669f5730cc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

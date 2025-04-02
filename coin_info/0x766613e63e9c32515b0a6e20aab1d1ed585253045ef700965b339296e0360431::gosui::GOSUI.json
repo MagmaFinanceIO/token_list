@@ -1,0 +1,13 @@
+{
+  "name": "GoSuilla",
+  "symbol": "GOSUI",
+  "decimals": 6,
+  "coin_type": "0x766613e63e9c32515b0a6e20aab1d1ed585253045ef700965b339296e0360431::gosui::GOSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qmejws2hKXeAuinHHsZN46WaKKTYwfMVuXuWGy4qTATgVh",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

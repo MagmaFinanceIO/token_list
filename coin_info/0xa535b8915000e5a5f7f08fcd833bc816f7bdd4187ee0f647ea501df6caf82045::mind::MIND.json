@@ -1,0 +1,13 @@
+{
+  "name": "Mind AI",
+  "symbol": "MIND",
+  "decimals": 9,
+  "coin_type": "0xa535b8915000e5a5f7f08fcd833bc816f7bdd4187ee0f647ea501df6caf82045::mind::MIND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmR7frW7V57q7uMkkF5DThBW1XuS83qBCZcmvZsoFZ22x3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

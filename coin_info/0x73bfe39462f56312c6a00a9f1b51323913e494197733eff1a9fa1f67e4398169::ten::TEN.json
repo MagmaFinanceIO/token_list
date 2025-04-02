@@ -1,0 +1,13 @@
+{
+  "name": "tendog",
+  "symbol": "TEN",
+  "decimals": 9,
+  "coin_type": "0x73bfe39462f56312c6a00a9f1b51323913e494197733eff1a9fa1f67e4398169::ten::TEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/media/GXidfa2WgAAOXwV?format=jpg&name=medium",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

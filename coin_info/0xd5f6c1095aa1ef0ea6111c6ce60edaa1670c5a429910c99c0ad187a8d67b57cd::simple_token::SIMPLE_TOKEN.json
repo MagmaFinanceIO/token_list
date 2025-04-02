@@ -1,0 +1,13 @@
+{
+  "name": "MAGA TRUMP",
+  "symbol": "MAGATRUMP",
+  "decimals": 9,
+  "coin_type": "0xd5f6c1095aa1ef0ea6111c6ce60edaa1670c5a429910c99c0ad187a8d67b57cd::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

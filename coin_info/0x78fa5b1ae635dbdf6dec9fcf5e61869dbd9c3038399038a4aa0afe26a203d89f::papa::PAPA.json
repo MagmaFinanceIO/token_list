@@ -1,0 +1,13 @@
+{
+  "name": "Papa on sui",
+  "symbol": "PAPA",
+  "decimals": 6,
+  "coin_type": "0x78fa5b1ae635dbdf6dec9fcf5e61869dbd9c3038399038a4aa0afe26a203d89f::papa::PAPA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qma4cHoUL3SkNopMHUeC52kgemZJCaoAUP4a7zjLDf7rH2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

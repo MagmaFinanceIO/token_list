@@ -1,0 +1,13 @@
+{
+  "name": "TFinal",
+  "symbol": "TFINAL",
+  "decimals": 9,
+  "coin_type": "0x66dcfe2cfe79c440018db4786811569ca9a9a535997f44a4352d2910c63d42ea::tfinal::TFINAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c9d98db1-b148-4690-8511-0802acbecf6c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

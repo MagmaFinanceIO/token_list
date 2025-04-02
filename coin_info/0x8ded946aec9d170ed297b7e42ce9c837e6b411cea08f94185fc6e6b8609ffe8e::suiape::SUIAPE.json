@@ -1,0 +1,13 @@
+{
+  "name": "Bored Ape on SUI",
+  "symbol": "SUIAPE",
+  "decimals": 9,
+  "coin_type": "0x8ded946aec9d170ed297b7e42ce9c837e6b411cea08f94185fc6e6b8609ffe8e::suiape::SUIAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

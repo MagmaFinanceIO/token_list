@@ -1,0 +1,13 @@
+{
+  "name": "Popcatwifhat",
+  "symbol": "POPWIF",
+  "decimals": 9,
+  "coin_type": "0xcebcb8d3e1519dac6dc41f39c277b5f53c902042cd32d714d345d2d9b9326e65::popwif::POPWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/JYPzbZpgYgit2mtfU5cmcuhWJaB7KTdtfBvfJrepump.png?size=lg&key=acc27d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

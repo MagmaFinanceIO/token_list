@@ -1,0 +1,13 @@
+{
+  "name": "Chemicus",
+  "symbol": "CHEMICUS",
+  "decimals": 9,
+  "coin_type": "0x55ccccd0736f45858bdcc0eb3bd169cbb5f643b67081d88b9b86e80cf13c9333::chemicus::CHEMICUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6LXuwzWtySTMqKSCm4HqMXMszhCF6r3iCwusAJqApump.png?size=lg&key=87961d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

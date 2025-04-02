@@ -1,0 +1,13 @@
+{
+  "name": "NOVA AI",
+  "symbol": "NOVAI",
+  "decimals": 9,
+  "coin_type": "0xe246854fa4449c9dc8e9644541356c9f1f793b14db33a3b62f0458fea0904b82::novai::NOVAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/D4XzBCZxenxa7Mnr4GnqmCoCyAeQ2mERmUhbYkgEJBHj.png?size=lg&key=ab80a4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

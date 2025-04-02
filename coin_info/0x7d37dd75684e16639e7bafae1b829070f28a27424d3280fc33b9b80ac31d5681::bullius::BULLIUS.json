@@ -1,0 +1,13 @@
+{
+  "name": "Bullius Maximus",
+  "symbol": "BULLIUS",
+  "decimals": 9,
+  "coin_type": "0x7d37dd75684e16639e7bafae1b829070f28a27424d3280fc33b9b80ac31d5681::bullius::BULLIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ALHnXDB5GqiAjXZPrGdrQT4o6sVro7vcJnwu8ZvwdoBS.png?size=lg&key=505278",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

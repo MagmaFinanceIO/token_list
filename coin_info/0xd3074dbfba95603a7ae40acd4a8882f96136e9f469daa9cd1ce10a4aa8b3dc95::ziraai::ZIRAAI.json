@@ -1,0 +1,13 @@
+{
+  "name": "Zira AI",
+  "symbol": "ZiraAI",
+  "decimals": 9,
+  "coin_type": "0xd3074dbfba95603a7ae40acd4a8882f96136e9f469daa9cd1ce10a4aa8b3dc95::ziraai::ZIRAAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GVYygChZr2oyVMgSabwhtNhyGjqr5nPtto5aNx94pump.png?size=lg&key=0a016d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "YOLO",
+  "symbol": "YOLO",
+  "decimals": 9,
+  "coin_type": "0x2cf536e40d8ce811cd5e31c31094dc067994a8ed8c796e083475d1767588fe38::yolo::YOLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1756966165325443072/jYx9riJ0_400x400.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

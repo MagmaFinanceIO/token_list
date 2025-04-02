@@ -1,0 +1,13 @@
+{
+  "name": "Hippo Dog",
+  "symbol": "HOG",
+  "decimals": 6,
+  "coin_type": "0xc2450559dc909f5895ced92d1f6485ef3bd6011547222e40b582366f08adf10e::hog::HOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_11_18_23_30_32_149ea7e4d1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

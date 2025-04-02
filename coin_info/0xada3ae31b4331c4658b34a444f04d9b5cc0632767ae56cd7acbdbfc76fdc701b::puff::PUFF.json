@@ -1,0 +1,13 @@
+{
+  "name": "PUFFER",
+  "symbol": "PUFF",
+  "decimals": 6,
+  "coin_type": "0xada3ae31b4331c4658b34a444f04d9b5cc0632767ae56cd7acbdbfc76fdc701b::puff::PUFF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Df_EC_Chq_T_400x400_b8a050b9e6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

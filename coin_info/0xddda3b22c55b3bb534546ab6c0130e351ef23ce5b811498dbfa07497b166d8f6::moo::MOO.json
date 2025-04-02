@@ -1,0 +1,13 @@
+{
+  "name": "MooMaid",
+  "symbol": "Moo",
+  "decimals": 6,
+  "coin_type": "0xddda3b22c55b3bb534546ab6c0130e351ef23ce5b811498dbfa07497b166d8f6::moo::MOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Moo_Maid_PFP_ba1b519466.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

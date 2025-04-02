@@ -1,0 +1,13 @@
+{
+  "name": "WTF DUCK",
+  "symbol": "WTF",
+  "decimals": 9,
+  "coin_type": "0xae4dbcbd7dd3ce15ca683637de0bbd0d0d596497559d70d458c10f402c193bd8::wtf::WTF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4c988d73-358b-407b-a1f9-bb3669ca5465.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

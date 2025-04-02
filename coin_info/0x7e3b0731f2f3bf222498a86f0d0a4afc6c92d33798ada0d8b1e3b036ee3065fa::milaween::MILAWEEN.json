@@ -1,0 +1,13 @@
+{
+  "name": "Milaween",
+  "symbol": "Milaween",
+  "decimals": 9,
+  "coin_type": "0x7e3b0731f2f3bf222498a86f0d0a4afc6c92d33798ada0d8b1e3b036ee3065fa::milaween::MILAWEEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/qrfNri2mBaEPUPNAcX1ZtfFkUqLyLBnVRgJwMiPpump.png?size=lg&key=621a3b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

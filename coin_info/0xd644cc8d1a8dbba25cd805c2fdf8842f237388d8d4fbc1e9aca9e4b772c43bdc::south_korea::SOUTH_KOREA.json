@@ -1,0 +1,13 @@
+{
+  "name": "South Korea",
+  "symbol": "South Korea",
+  "decimals": 2,
+  "coin_type": "0xd644cc8d1a8dbba25cd805c2fdf8842f237388d8d4fbc1e9aca9e4b772c43bdc::south_korea::SOUTH_KOREA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7208e642-e37f-42e7-a03b-4fbfbad37269.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

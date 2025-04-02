@@ -1,0 +1,13 @@
+{
+  "name": "Eva AI Sui",
+  "symbol": "EvaAI",
+  "decimals": 6,
+  "coin_type": "0x8e80bd29c6ff6b7d311ea20c184a8c36c68c46265c09df7dbba65cb2505007d4::evaai::EVAAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bd552899-bef5-4bcb-a329-3d957ac537ac.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

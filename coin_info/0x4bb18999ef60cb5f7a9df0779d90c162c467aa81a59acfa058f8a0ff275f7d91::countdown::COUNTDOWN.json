@@ -1,0 +1,13 @@
+{
+  "name": "CountDuck",
+  "symbol": "Countdown",
+  "decimals": 6,
+  "coin_type": "0x4bb18999ef60cb5f7a9df0779d90c162c467aa81a59acfa058f8a0ff275f7d91::countdown::COUNTDOWN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731452411721.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Water Cat",
+  "symbol": "wCAT",
+  "decimals": 6,
+  "coin_type": "0x44b9ce13a1d3093e4768838d7d16656ef6a18550d9c4669a530e10722d677a95::wcat::WCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000001140_031b4f510c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

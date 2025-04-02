@@ -1,0 +1,13 @@
+{
+  "name": "Sui boom",
+  "symbol": "SUIBOOM",
+  "decimals": 9,
+  "coin_type": "0xe6bf56b7c9d00e2d40d79700319467468fb623f41195b282522071037e356fd1::suiboom::SUIBOOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ce782d28-171c-41c4-975e-cc76dc95558b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

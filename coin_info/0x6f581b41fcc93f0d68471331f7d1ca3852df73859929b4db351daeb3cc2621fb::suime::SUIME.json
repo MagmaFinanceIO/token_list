@@ -1,0 +1,13 @@
+{
+  "name": "SUIGAME",
+  "symbol": "SUIME",
+  "decimals": 6,
+  "coin_type": "0x6f581b41fcc93f0d68471331f7d1ca3852df73859929b4db351daeb3cc2621fb::suime::SUIME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_02_19_45_31_e11bbf7bf0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

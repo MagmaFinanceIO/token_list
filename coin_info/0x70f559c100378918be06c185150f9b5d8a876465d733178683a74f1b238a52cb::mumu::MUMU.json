@@ -1,0 +1,13 @@
+{
+  "name": "Mumu the Bull",
+  "symbol": "MUMU",
+  "decimals": 8,
+  "coin_type": "0x70f559c100378918be06c185150f9b5d8a876465d733178683a74f1b238a52cb::mumu::MUMU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://tomato-deep-eel-22.mypinata.cloud/ipfs/QmbuCSCpP5tYCpXAK8GuhPzYJsj1vsQREj7ZY34rFGm8wZ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

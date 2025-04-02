@@ -1,0 +1,13 @@
+{
+  "name": "Chill Santa On Sui",
+  "symbol": "CHILLSANTA",
+  "decimals": 9,
+  "coin_type": "0xc189a30b1fecfb38a54d8b8b1f7dde929960d815d5714d5e402b7c00392ce0ea::chillsanta::CHILLSANTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d17429a6-8ade-4a0d-97c4-749182b4cea7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

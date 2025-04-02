@@ -1,0 +1,13 @@
+{
+  "name": "Turbo Snail",
+  "symbol": "FAST",
+  "decimals": 9,
+  "coin_type": "0x1e1a65f60b61d6636d3694d612b5f7658981f0a7a7b3d1ab0ee481b6fe3fb981::fast::FAST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ee6b583e-e1ed-48fa-ac53-a9dd7c1e2173.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

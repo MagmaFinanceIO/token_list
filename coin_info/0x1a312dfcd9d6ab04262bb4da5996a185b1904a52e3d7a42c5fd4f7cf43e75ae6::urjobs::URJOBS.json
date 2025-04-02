@@ -1,0 +1,13 @@
+{
+  "name": "TheyTookUrJobs Coin",
+  "symbol": "URJOBS",
+  "decimals": 9,
+  "coin_type": "0x1a312dfcd9d6ab04262bb4da5996a185b1904a52e3d7a42c5fd4f7cf43e75ae6::urjobs::URJOBS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/141d010df8f4a76dca85c1358973aca8blob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

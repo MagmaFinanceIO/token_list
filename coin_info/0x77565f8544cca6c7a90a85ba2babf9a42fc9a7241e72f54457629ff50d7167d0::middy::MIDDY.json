@@ -1,0 +1,13 @@
+{
+  "name": "Middy",
+  "symbol": "MIDDY",
+  "decimals": 9,
+  "coin_type": "0x77565f8544cca6c7a90a85ba2babf9a42fc9a7241e72f54457629ff50d7167d0::middy::MIDDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8de48e6b-ec66-45b5-bdb8-e1e8dd204761.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

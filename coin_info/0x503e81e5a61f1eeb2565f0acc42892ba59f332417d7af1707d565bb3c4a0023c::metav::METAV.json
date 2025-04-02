@@ -1,0 +1,13 @@
+{
+  "name": "METAVERSE",
+  "symbol": "METAV",
+  "decimals": 9,
+  "coin_type": "0x503e81e5a61f1eeb2565f0acc42892ba59f332417d7af1707d565bb3c4a0023c::metav::METAV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HCgvbV9Qcf9TVGPGKMGbVEj8WwwVD6HhTt5E2i3qkeN9.png?size=lg&key=36cb15",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

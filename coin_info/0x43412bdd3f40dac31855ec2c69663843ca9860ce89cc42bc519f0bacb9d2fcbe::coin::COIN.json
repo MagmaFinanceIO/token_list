@@ -1,0 +1,13 @@
+{
+  "name": "NLC",
+  "symbol": "NAILONGCOIN",
+  "decimals": 2,
+  "coin_type": "0x43412bdd3f40dac31855ec2c69663843ca9860ce89cc42bc519f0bacb9d2fcbe::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4642f892-3eb1-4cbe-8f6e-c4d842f3505d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

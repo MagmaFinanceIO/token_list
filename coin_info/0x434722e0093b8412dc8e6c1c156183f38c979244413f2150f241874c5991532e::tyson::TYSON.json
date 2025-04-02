@@ -1,0 +1,13 @@
+{
+  "name": "Official Mike Tyson",
+  "symbol": "TYSON",
+  "decimals": 9,
+  "coin_type": "0x434722e0093b8412dc8e6c1c156183f38c979244413f2150f241874c5991532e::tyson::TYSON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/TtyHStgFviVpaE2CNnMri4ndhqNTsRhgPFshVtAmike.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

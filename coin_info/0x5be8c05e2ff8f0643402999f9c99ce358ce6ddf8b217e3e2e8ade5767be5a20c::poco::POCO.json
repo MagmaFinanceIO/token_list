@@ -1,0 +1,13 @@
+{
+  "name": "POCO by Matt Furie",
+  "symbol": "POCO",
+  "decimals": 6,
+  "coin_type": "0x5be8c05e2ff8f0643402999f9c99ce358ce6ddf8b217e3e2e8ade5767be5a20c::poco::POCO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2024_10_11_13_13_26_2a87a0ae9d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Bob the blob",
+  "symbol": "BOB",
+  "decimals": 6,
+  "coin_type": "0x5f3a18cdfd7ef0527a65ba5c07dbe0efe276507d4d1a4d1bebe87f5d40df6cf6::bob::BOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_01_20_47_00_8fc8fbd587.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

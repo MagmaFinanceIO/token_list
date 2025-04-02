@@ -1,0 +1,13 @@
+{
+  "name": "Heavy Breathing Cat",
+  "symbol": "HBCAT",
+  "decimals": 6,
+  "coin_type": "0xe6830841f18d5a614a0b98a9df2ccff16208f3c1fd96702c97ebe7c31a6a6521::hbcat::HBCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000040391_4c549c36aa.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

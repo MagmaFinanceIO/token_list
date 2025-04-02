@@ -1,0 +1,13 @@
+{
+  "name": "KRAKEN AI AGENT SUI",
+  "symbol": "KRAKEN",
+  "decimals": 9,
+  "coin_type": "0x8db54deca2ed059fb78f7ede4a000a9ea7d0224951fbfc284a1de8786944ace8::kraken::KRAKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f454af69-7b79-4d6d-9c2c-21da8814c644.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

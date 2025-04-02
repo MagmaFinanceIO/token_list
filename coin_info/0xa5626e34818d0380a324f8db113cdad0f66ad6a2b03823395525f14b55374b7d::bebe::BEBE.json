@@ -1,0 +1,13 @@
+{
+  "name": "Bebe on SUI",
+  "symbol": "BEBE",
+  "decimals": 6,
+  "coin_type": "0xa5626e34818d0380a324f8db113cdad0f66ad6a2b03823395525f14b55374b7d::bebe::BEBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/coin_6ee705946e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

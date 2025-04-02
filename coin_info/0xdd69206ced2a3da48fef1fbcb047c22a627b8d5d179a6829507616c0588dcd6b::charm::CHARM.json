@@ -1,0 +1,13 @@
+{
+  "name": "Charm AI",
+  "symbol": "CHARM",
+  "decimals": 9,
+  "coin_type": "0xdd69206ced2a3da48fef1fbcb047c22a627b8d5d179a6829507616c0588dcd6b::charm::CHARM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DBpVGmVbMrw2vEbkhBu2cC3MvEg63opeRHdakVMEpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

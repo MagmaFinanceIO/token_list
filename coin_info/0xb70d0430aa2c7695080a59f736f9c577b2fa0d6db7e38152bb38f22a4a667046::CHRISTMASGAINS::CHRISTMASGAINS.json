@@ -1,0 +1,13 @@
+{
+  "name": "CHG",
+  "symbol": "Christmas Gains",
+  "decimals": 6,
+  "coin_type": "0xb70d0430aa2c7695080a59f736f9c577b2fa0d6db7e38152bb38f22a4a667046::CHRISTMASGAINS::CHRISTMASGAINS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUPERSUIYAN",
+  "symbol": "SUIYAN",
+  "decimals": 6,
+  "coin_type": "0x651e4e864f6f82e8368fb0771f053b6c2f101910d563b2fd0651961bc75b9c87::suiyan::SUIYAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730956267329.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

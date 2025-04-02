@@ -1,0 +1,13 @@
+{
+  "name": "RAINBOW SUI DOG",
+  "symbol": "RAINBOW",
+  "decimals": 9,
+  "coin_type": "0xc8f77880294a16afc52a7c5831f11207055fef8815fdd9a9cac2c40c42f15f3f::rainbow::RAINBOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Akk85Dnqmt7Y2dFD6HEXrWu5LBvYimqMSqTstZPxpump.png?size=lg&key=3e4f8e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

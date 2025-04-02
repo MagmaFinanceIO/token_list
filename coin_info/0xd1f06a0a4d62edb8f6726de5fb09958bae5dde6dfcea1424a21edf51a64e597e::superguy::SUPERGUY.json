@@ -1,0 +1,13 @@
+{
+  "name": "SuperGuy",
+  "symbol": "SUPERGUY",
+  "decimals": 9,
+  "coin_type": "0xd1f06a0a4d62edb8f6726de5fb09958bae5dde6dfcea1424a21edf51a64e597e::superguy::SUPERGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5o1L6GL8CsZcwkq9gP5MQPSzLxhJHzHd7TYHP1Mipump.png?size=lg&key=113ccb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

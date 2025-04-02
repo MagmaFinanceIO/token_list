@@ -1,0 +1,13 @@
+{
+  "name": "SuirtleSUI",
+  "symbol": "SUIRTLE",
+  "decimals": 6,
+  "coin_type": "0xcc00fde681122b5cba7d5e769fd0f8ff78e70c7bbc925debf27fe5c100a52dcc::suirtle::SUIRTLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suirtle_0cb1d2ee30.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Duck",
+  "symbol": "SUIDUCK",
+  "decimals": 6,
+  "coin_type": "0x818eb6588327203c2bd7707a4d9d3501f41b7cfd9505c29db4e1b9687f4bd2c7::suiduck::SUIDUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730981076996.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Coge",
+  "symbol": "COGE",
+  "decimals": 6,
+  "coin_type": "0x8f772a64ed90bfcc0da9cfcf828c42afd6bede1cdba4a566ad84ea4bee72b57c::coge::COGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/20250106_024224_02e02647f4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

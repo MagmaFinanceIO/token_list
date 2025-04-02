@@ -1,0 +1,13 @@
+{
+  "name": "sleep dog ai",
+  "symbol": "SLDAI",
+  "decimals": 6,
+  "coin_type": "0xfd6a37d79e6cd32114831c3176b92ca30d4182f23e9c2f0291b4bd17d7824fe2::sldai::SLDAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000028495_016cfe5efd.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

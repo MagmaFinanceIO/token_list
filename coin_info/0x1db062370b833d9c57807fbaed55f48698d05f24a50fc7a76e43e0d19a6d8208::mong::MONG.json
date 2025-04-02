@@ -1,0 +1,13 @@
+{
+  "name": "MONG",
+  "symbol": "MONG",
+  "decimals": 9,
+  "coin_type": "0x1db062370b833d9c57807fbaed55f48698d05f24a50fc7a76e43e0d19a6d8208::mong::MONG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f34966d7-93ba-4103-bfb8-438ba3679481.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

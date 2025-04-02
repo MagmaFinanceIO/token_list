@@ -1,0 +1,13 @@
+{
+  "name": "Sui Donald Trump",
+  "symbol": "STRUMP",
+  "decimals": 6,
+  "coin_type": "0x41133900ebe15669d704afaf68e9dc743a3fb60a74ec156935bb50576d9638c4::strump::STRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e3187c0d-b7a4-4c45-b304-0b6d30abe94a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

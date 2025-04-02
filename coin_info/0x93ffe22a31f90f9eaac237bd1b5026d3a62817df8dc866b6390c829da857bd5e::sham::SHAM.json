@@ -1,0 +1,13 @@
+{
+  "name": "Shaman",
+  "symbol": "SHAM",
+  "decimals": 9,
+  "coin_type": "0x93ffe22a31f90f9eaac237bd1b5026d3a62817df8dc866b6390c829da857bd5e::sham::SHAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3f973408-8d4d-4b6e-ac36-4eea78db499a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

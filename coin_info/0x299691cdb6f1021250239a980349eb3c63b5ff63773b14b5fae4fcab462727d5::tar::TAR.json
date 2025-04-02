@@ -1,0 +1,13 @@
+{
+  "name": "Tardigrade",
+  "symbol": "TAR",
+  "decimals": 6,
+  "coin_type": "0x299691cdb6f1021250239a980349eb3c63b5ff63773b14b5fae4fcab462727d5::tar::TAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Ekran_g_A_r_A_nt_A_s_A_2024_11_14_125008_eade58b79b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

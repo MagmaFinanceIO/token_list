@@ -1,0 +1,13 @@
+{
+  "name": "MOOGENG",
+  "symbol": "MOOGENG",
+  "decimals": 9,
+  "coin_type": "0xb9d31a78a8aca146471df10d1eb59eb6e362b09c0d847691fe85836bb2cd81be::moogeng::MOOGENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9ec35f7d-c006-4d83-bb58-2eb93cd0c7c6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

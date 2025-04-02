@@ -1,0 +1,13 @@
+{
+  "name": "LAMBO",
+  "symbol": "LAMBO",
+  "decimals": 9,
+  "coin_type": "0xd4dc2dd8a5e0e99b069dcc093de823ca8e7dd36cb13074285bc95dbd0c5f4a99::lambo::LAMBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/mF4QBKp/AVA.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

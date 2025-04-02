@@ -1,0 +1,13 @@
+{
+  "name": "MEOWWOOF",
+  "symbol": "MEW",
+  "decimals": 6,
+  "coin_type": "0x705b2f96cec354d969b898889a1239e2a42faa66d7b4047301ddc48a2bafb3b0::mew::MEW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20241103_074717_683_f0533c540c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

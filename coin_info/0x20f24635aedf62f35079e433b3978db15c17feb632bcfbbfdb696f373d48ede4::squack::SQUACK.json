@@ -1,0 +1,13 @@
+{
+  "name": "QUACK SUI",
+  "symbol": "SQUACK",
+  "decimals": 6,
+  "coin_type": "0x20f24635aedf62f35079e433b3978db15c17feb632bcfbbfdb696f373d48ede4::squack::SQUACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/v_Q2w2_E3q_400x400_bfd83ac612.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

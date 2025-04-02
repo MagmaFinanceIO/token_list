@@ -1,0 +1,13 @@
+{
+  "name": "Flower 🌆",
+  "symbol": "Flower",
+  "decimals": 9,
+  "coin_type": "0xedf376407f38349b5259dc384c0533f6513507e05dbfa5d1bf5303c1d0874201::flower::FLOWER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiW58kzOcIrFufj5w7lEzXtr-Z3pTohJBTsA&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

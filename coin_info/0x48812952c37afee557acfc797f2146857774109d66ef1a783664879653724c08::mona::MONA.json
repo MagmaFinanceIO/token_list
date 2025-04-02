@@ -1,0 +1,13 @@
+{
+  "name": "MONAONSUI",
+  "symbol": "MONA",
+  "decimals": 6,
+  "coin_type": "0x48812952c37afee557acfc797f2146857774109d66ef1a783664879653724c08::mona::MONA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/vnck1_I_Aj_400x400_0c87ebe4d5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

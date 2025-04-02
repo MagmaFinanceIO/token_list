@@ -1,0 +1,13 @@
+{
+  "name": "Loopy 131",
+  "symbol": "LOOPY131",
+  "decimals": 9,
+  "coin_type": "0x43aa1ee69026d8b614adc4ca108f073b9b243e974212ec2bbe37ead9cb7fc2f5::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://strapi-dev.scand.app/uploads/image_3_e09c3cb20c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

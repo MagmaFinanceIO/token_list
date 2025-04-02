@@ -1,0 +1,13 @@
+{
+  "name": "Krabs daughter",
+  "symbol": "Pearl",
+  "decimals": 6,
+  "coin_type": "0xd80937d0226398aad0915e1d21ed09ba19edcbefdd3a69157c5b945bced62faa::pearl::PEARL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Pearl_Krabs_40a2a773f6.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

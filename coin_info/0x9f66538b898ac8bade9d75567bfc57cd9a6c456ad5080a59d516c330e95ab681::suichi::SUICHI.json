@@ -1,0 +1,13 @@
+{
+  "name": "SuiChi",
+  "symbol": "SuiChi",
+  "decimals": 9,
+  "coin_type": "0x9f66538b898ac8bade9d75567bfc57cd9a6c456ad5080a59d516c330e95ab681::suichi::SUICHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/74f87abb-f12a-465a-a8e8-8c39a9f5710e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

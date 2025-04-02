@@ -1,0 +1,13 @@
+{
+  "name": "Bitch Please!",
+  "symbol": "BPLS",
+  "decimals": 6,
+  "coin_type": "0x8e16fb7a3700e39bb219fc507b215dde11df54f1c643ec0cfe334c922caae96d::bpls::BPLS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Lol_f405095f7f.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

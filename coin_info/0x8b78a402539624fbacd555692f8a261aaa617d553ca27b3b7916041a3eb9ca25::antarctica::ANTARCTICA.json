@@ -1,0 +1,13 @@
+{
+  "name": "Antarctica",
+  "symbol": "Antarctica",
+  "decimals": 2,
+  "coin_type": "0x8b78a402539624fbacd555692f8a261aaa617d553ca27b3b7916041a3eb9ca25::antarctica::ANTARCTICA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/eb33d49b-e7c5-4fad-ba42-8e0f77075288.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

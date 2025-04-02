@@ -1,0 +1,13 @@
+{
+  "name": "SEO PUMP",
+  "symbol": "SEO",
+  "decimals": 9,
+  "coin_type": "0x486659f5e24d222d3a58594390bbd814f19ce88fe27e1dab8e61aef6954389d2::seo::SEO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

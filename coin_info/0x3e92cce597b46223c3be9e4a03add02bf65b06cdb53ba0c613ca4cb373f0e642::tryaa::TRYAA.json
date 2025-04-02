@@ -1,0 +1,13 @@
+{
+  "name": "TRYA",
+  "symbol": "TRYAA",
+  "decimals": 9,
+  "coin_type": "0x3e92cce597b46223c3be9e4a03add02bf65b06cdb53ba0c613ca4cb373f0e642::tryaa::TRYAA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

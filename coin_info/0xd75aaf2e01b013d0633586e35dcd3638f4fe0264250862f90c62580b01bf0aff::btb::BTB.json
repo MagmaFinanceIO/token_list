@@ -1,0 +1,13 @@
+{
+  "name": "BoBa The Bird",
+  "symbol": "BTB",
+  "decimals": 9,
+  "coin_type": "0xd75aaf2e01b013d0633586e35dcd3638f4fe0264250862f90c62580b01bf0aff::btb::BTB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/003b42e2-9389-40ca-99d0-f340879ae5fd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

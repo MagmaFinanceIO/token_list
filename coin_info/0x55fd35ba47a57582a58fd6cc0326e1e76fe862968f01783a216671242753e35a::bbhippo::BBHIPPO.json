@@ -1,0 +1,13 @@
+{
+  "name": "Baby Hippo",
+  "symbol": "BBHIPPO",
+  "decimals": 6,
+  "coin_type": "0x55fd35ba47a57582a58fd6cc0326e1e76fe862968f01783a216671242753e35a::bbhippo::BBHIPPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736550020242.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

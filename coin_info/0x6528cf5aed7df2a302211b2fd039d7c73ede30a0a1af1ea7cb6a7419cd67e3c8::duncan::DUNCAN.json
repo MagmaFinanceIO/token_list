@@ -1,0 +1,13 @@
+{
+  "name": "DUNCANVILLE",
+  "symbol": "DUNCAN",
+  "decimals": 9,
+  "coin_type": "0x6528cf5aed7df2a302211b2fd039d7c73ede30a0a1af1ea7cb6a7419cd67e3c8::duncan::DUNCAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5Y6Jvf4Mnq2oMoQdLT1DmQ2j62QcwN2FGsmCng5Wpump.png?size=lg&key=aabcd1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

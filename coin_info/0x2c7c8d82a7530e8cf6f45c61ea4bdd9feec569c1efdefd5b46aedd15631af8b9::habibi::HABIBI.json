@@ -1,0 +1,13 @@
+{
+  "name": "Arab Punks",
+  "symbol": "HABIBI",
+  "decimals": 6,
+  "coin_type": "0x2c7c8d82a7530e8cf6f45c61ea4bdd9feec569c1efdefd5b46aedd15631af8b9::habibi::HABIBI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Arab_7a76fc1ce8.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

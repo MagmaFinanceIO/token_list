@@ -1,0 +1,13 @@
+{
+  "name": "BullTober",
+  "symbol": "BULLTOBER",
+  "decimals": 9,
+  "coin_type": "0xefdee78d3fc89c9f369dcc0342f6a80d4b3fafb2da27549fc2371d8c2e2310df::bulltober::BULLTOBER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/84b45b92-52e0-4c18-8973-5444119514f1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

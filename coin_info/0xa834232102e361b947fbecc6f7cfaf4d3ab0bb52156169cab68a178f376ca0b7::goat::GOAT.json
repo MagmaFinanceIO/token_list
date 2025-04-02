@@ -1,0 +1,13 @@
+{
+  "name": "GOAT AI",
+  "symbol": "GOAT",
+  "decimals": 9,
+  "coin_type": "0xa834232102e361b947fbecc6f7cfaf4d3ab0bb52156169cab68a178f376ca0b7::goat::GOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/F8jmSBmNe8PP1a9xqXDe1X5NYQTS3B1zE27huRBCpump.png?size=lg&key=b612ae",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Manta Ray",
+  "symbol": "MANTA",
+  "decimals": 9,
+  "coin_type": "0x3ae9ecf64956fa6190c4ea7b5d7e3c2b52368e415f2c83379efcffd3a1a02312::manta::MANTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8c17f1f7-4615-49f9-80bc-8d6c4599e0e7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AUTOAI",
+  "symbol": "AUTOAI",
+  "decimals": 9,
+  "coin_type": "0x52ca3a495c4b3898f0116147f03101d7ef1b0f9947ab5b91986265861b30b7c8::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

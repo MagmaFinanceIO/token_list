@@ -1,0 +1,13 @@
+{
+  "name": "Yamero The Angry Crow",
+  "symbol": "YAMERO",
+  "decimals": 9,
+  "coin_type": "0x532ff6cfbf50f9cb5d7546089cc33d6edb3fd6bafbc1e00608883f0aa0eb8284::yamero::YAMERO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmXnWbxh759xcsB9g5VjDgHtAtKezmWSrEpde4nbbvuMdB?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

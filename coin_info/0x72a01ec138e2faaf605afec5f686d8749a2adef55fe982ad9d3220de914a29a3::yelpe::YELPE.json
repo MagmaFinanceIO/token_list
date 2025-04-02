@@ -1,0 +1,13 @@
+{
+  "name": "Yellow Pepe",
+  "symbol": "YELPE",
+  "decimals": 9,
+  "coin_type": "0x72a01ec138e2faaf605afec5f686d8749a2adef55fe982ad9d3220de914a29a3::yelpe::YELPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3JVxH5QT9z3v7Gi2z4K4N69Bma6PHj8uovX8tYdQpump.png?size=lg&key=92ba73",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

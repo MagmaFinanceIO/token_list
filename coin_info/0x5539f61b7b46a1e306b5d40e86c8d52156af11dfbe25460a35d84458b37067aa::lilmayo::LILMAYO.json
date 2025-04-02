@@ -1,0 +1,13 @@
+{
+  "name": "Lil Mayo Alien",
+  "symbol": "LILMAYO",
+  "decimals": 9,
+  "coin_type": "0x5539f61b7b46a1e306b5d40e86c8d52156af11dfbe25460a35d84458b37067aa::lilmayo::LILMAYO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/D49dUAjE3peETA94dcw2np4Tc3fCMDPanZjrWqsSpump.png?size=lg&key=909c50",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

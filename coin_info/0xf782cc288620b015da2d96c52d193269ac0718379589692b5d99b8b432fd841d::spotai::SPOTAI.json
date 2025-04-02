@@ -1,0 +1,13 @@
+{
+  "name": "SPOT AI",
+  "symbol": "SPOTAI",
+  "decimals": 9,
+  "coin_type": "0xf782cc288620b015da2d96c52d193269ac0718379589692b5d99b8b432fd841d::spotai::SPOTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/96c3a2f5-688e-4b9e-bd13-9f54c4b88165.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

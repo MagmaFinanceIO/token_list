@@ -1,0 +1,13 @@
+{
+  "name": "Quarterback Coin",
+  "symbol": "QBC",
+  "decimals": 9,
+  "coin_type": "0x96b6648cb70c4d52aab912760c44bffd35beb07520ad7e6287a143748057a99a::qbc::QBC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

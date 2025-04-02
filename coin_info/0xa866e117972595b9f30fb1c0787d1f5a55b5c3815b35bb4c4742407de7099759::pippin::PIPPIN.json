@@ -1,0 +1,13 @@
+{
+  "name": "Pippin On Sui",
+  "symbol": "pippin",
+  "decimals": 9,
+  "coin_type": "0xa866e117972595b9f30fb1c0787d1f5a55b5c3815b35bb4c4742407de7099759::pippin::PIPPIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmdcvSSBg7gWD4tvfXv3PuLtAiPyDZ5Z9w4LQVeRJKL3Lz",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

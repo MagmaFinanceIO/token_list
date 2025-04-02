@@ -1,0 +1,13 @@
+{
+  "name": "ai0x",
+  "symbol": "ai0x",
+  "decimals": 9,
+  "coin_type": "0x00f6610da3388edcb7a65322ed050da01002b1b44cefa7bc0c65b211994ff8e6::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

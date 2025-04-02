@@ -1,0 +1,13 @@
+{
+  "name": "First Bitcoin ATM",
+  "symbol": "robocoin",
+  "decimals": 9,
+  "coin_type": "0x42cbb95a48203ac9e62f495f222338ffd0b91b5592f90544a1abe2edcb923750::robocoin::ROBOCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmSDqoFvVH6fZq9cYxL2pppbuJEVzTWhCk4RQ8heD6jiaX",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

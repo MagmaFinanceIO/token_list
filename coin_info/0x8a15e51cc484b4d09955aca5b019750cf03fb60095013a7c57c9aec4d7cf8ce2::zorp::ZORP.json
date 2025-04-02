@@ -1,0 +1,13 @@
+{
+  "name": "Zorp is Famous",
+  "symbol": "ZORP",
+  "decimals": 6,
+  "coin_type": "0x8a15e51cc484b4d09955aca5b019750cf03fb60095013a7c57c9aec4d7cf8ce2::zorp::ZORP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Fv4_Sz23_SA_8tysoryzym7_Nnq4h_D_Rhw_XCQ_Be_Ud_V95tpump_a90da1bc48.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

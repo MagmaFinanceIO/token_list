@@ -1,0 +1,13 @@
+{
+  "name": "Susan",
+  "symbol": "SUSAN",
+  "decimals": 9,
+  "coin_type": "0x80f4830925da365afdcbb87026dc89ea53a3e0416c6fb6dcc072ffbe1b2b42d0::susan::SUSAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmPDCo9hs1fu4MA236gubkvvA9uy94JZeH9gsewF62hHRf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

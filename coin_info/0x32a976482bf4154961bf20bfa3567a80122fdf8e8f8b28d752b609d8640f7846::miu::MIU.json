@@ -1,0 +1,13 @@
+{
+  "name": "MIU",
+  "symbol": "MIU",
+  "decimals": 3,
+  "coin_type": "0x32a976482bf4154961bf20bfa3567a80122fdf8e8f8b28d752b609d8640f7846::miu::MIU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://miucoin.io/favicon.ico",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

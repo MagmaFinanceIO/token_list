@@ -1,0 +1,13 @@
+{
+  "name": "Suiman",
+  "symbol": "suiman",
+  "decimals": 6,
+  "coin_type": "0xceed4f2967cb15690621c92e0ad4aff188c59365a68baf546c7ef43ec8b846f8::suiman::SUIMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d353d84a-dd81-4c45-9b5a-07bb5a2f9e39.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

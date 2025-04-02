@@ -1,0 +1,13 @@
+{
+  "name": "MAGA DENG",
+  "symbol": "MADENG",
+  "decimals": 9,
+  "coin_type": "0xdf5dfe717e57db50b98aa6bce7e64ad609638233c78aa40fdf3cfadbd8839386::madeng::MADENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a24efb7e-a19f-4e92-9a16-7102da307d28.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

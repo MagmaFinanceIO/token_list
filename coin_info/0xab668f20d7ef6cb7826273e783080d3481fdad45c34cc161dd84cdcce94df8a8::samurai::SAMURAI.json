@@ -1,0 +1,13 @@
+{
+  "name": "SamUraI",
+  "symbol": "SAMURAI",
+  "decimals": 9,
+  "coin_type": "0xab668f20d7ef6cb7826273e783080d3481fdad45c34cc161dd84cdcce94df8a8::samurai::SAMURAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e25a147a-4c0b-4c0f-9acd-e191bc7f2277.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

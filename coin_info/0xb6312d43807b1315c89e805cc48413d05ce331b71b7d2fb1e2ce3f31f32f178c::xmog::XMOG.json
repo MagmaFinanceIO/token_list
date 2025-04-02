@@ -1,0 +1,13 @@
+{
+  "name": "XMog",
+  "symbol": "XMog",
+  "decimals": 9,
+  "coin_type": "0xb6312d43807b1315c89e805cc48413d05ce331b71b7d2fb1e2ce3f31f32f178c::xmog::XMOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f69965de-e352-4abd-8ebf-cec1090a59a5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

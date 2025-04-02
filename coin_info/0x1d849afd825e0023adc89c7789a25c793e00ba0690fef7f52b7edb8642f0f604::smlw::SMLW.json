@@ -1,0 +1,13 @@
+{
+  "name": "Suishmallow",
+  "symbol": "SMLW",
+  "decimals": 6,
+  "coin_type": "0x1d849afd825e0023adc89c7789a25c793e00ba0690fef7f52b7edb8642f0f604::smlw::SMLW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/coolsuieet_c847ca4b5b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Offical Token of Senet",
+  "symbol": "SENET",
+  "decimals": 9,
+  "coin_type": "0x1358a3dfae0f0f84490f7ab41d3ce0065c8d803b5e1f2598b203894eca780555::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://firebasestorage.googleapis.com/v0/b/colorapps-87bc6.appspot.com/o/senet%3Asui.png?alt=media&token=aa0d4c52-fbc2-411d-8d71-14a0cf148464",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

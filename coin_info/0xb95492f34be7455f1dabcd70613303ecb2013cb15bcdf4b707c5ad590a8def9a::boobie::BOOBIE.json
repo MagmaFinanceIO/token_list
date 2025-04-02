@@ -1,0 +1,13 @@
+{
+  "name": "Boobie World AI",
+  "symbol": "BOOBIE",
+  "decimals": 9,
+  "coin_type": "0xb95492f34be7455f1dabcd70613303ecb2013cb15bcdf4b707c5ad590a8def9a::boobie::BOOBIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Q5xgwpwh9h25qhbJY6f75VGLktChzutwzRfbpMspump.png?size=lg&key=cd2daf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

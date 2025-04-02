@@ -1,0 +1,13 @@
+{
+  "name": "Binance's dog",
+  "symbol": "baobao",
+  "decimals": 9,
+  "coin_type": "0x1f7b5c17e701360989441feb974c98650dbfedc6700c4337e0b6e50cefdf0c9d::baobao::BAOBAO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c2fa6d52-1a67-4e5e-8374-c5429a3a9b2b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

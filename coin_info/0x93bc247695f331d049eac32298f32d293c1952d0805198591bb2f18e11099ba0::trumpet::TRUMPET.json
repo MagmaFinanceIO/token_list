@@ -1,0 +1,13 @@
+{
+  "name": "Real Trumpet",
+  "symbol": "TRUMPET",
+  "decimals": 9,
+  "coin_type": "0x93bc247695f331d049eac32298f32d293c1952d0805198591bb2f18e11099ba0::trumpet::TRUMPET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HVUHLgaar4vxMRXqXM9BMP3UDRMQa2UAbsYo6ZWSLuzJ.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

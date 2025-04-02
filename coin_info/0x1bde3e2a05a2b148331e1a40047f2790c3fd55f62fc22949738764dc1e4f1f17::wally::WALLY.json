@@ -1,0 +1,13 @@
+{
+  "name": "Emotional Support Alligator",
+  "symbol": "WALLY",
+  "decimals": 9,
+  "coin_type": "0x1bde3e2a05a2b148331e1a40047f2790c3fd55f62fc22949738764dc1e4f1f17::wally::WALLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafybeihug5fddbci4bw3ybahaqqnrcagcgbadnfwiq2534zmrdgxz6yyai.ipfs.w3s.link/0x4f7d2d728ce137dd01ec63ef7b225805c7b54575.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ayame AI by SuiAI",
+  "symbol": "AYAME",
+  "decimals": 6,
+  "coin_type": "0x5250db910b584f523a9c1fd56890a0b54d0239834afee9f073b62e5f557514ce::ayame::AYAME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/ayame_5da486be79.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

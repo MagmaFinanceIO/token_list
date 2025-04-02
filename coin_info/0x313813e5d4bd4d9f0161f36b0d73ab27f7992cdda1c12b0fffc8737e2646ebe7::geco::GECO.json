@@ -1,0 +1,13 @@
+{
+  "name": "geco on sui",
+  "symbol": "GECO",
+  "decimals": 6,
+  "coin_type": "0x313813e5d4bd4d9f0161f36b0d73ab27f7992cdda1c12b0fffc8737e2646ebe7::geco::GECO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000117281_2dc1f2a06d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

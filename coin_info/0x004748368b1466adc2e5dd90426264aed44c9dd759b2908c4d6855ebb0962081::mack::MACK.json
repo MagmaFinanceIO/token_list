@@ -1,0 +1,13 @@
+{
+  "name": "Mack the Meowing Cat on SUI by SuiAI",
+  "symbol": "MACK",
+  "decimals": 6,
+  "coin_type": "0x004748368b1466adc2e5dd90426264aed44c9dd759b2908c4d6855ebb0962081::mack::MACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/c_Bc_MY_Acx_400x400_2218e5d6a8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

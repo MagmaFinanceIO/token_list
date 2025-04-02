@@ -1,0 +1,13 @@
+{
+  "name": "DOUGIE",
+  "symbol": "DOUG",
+  "decimals": 9,
+  "coin_type": "0x9cbd9684b8c126723cd994e13b144d9a254a839c4a72f6675b5e3bd860e56453::doug::DOUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d17c1774-a0e5-4476-a39c-60b13110f577.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

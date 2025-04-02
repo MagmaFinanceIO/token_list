@@ -1,0 +1,13 @@
+{
+  "name": "Sui + Solana",
+  "symbol": "SuiLANA",
+  "decimals": 6,
+  "coin_type": "0x7c557acc4c7de66c5f470d38d19cbda1f4244dc2b874bc8f2edbe60fbfcd52f5::suilana::SUILANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmWQA2U7dG7u5tz1AGabd9ZZebM6bpBvSdvpJ3yMrKtung",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ZaP⚡Token",
+  "symbol": "ZaP",
+  "decimals": 9,
+  "coin_type": "0xb4785a752307498100d8b66aa077698545e4435e86ce34375afbf4b28cc73b86::ZaP::ZAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/67614ffd-056b-4298-9702-5ec114d3f3f1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

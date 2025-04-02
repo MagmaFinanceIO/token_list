@@ -1,0 +1,13 @@
+{
+  "name": "EMMA",
+  "symbol": "EMA",
+  "decimals": 9,
+  "coin_type": "0x811bd093e2ead41f8ed3ce505383ad43c75c88a07fc68c77fa1bb893aeb889a7::ema::EMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9cc88366-e38d-4bc7-900c-e46a73c00a9a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

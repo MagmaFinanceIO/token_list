@@ -1,0 +1,13 @@
+{
+  "name": "Bread Cat",
+  "symbol": "BREADCAT",
+  "decimals": 6,
+  "coin_type": "0xc48856072ef8bbe457134001c5a27838c6b75010887bf15e37156c1428a9d323::breadcat::BREADCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/breadcatprofil_35db8ad9d0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

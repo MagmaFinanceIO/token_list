@@ -1,0 +1,13 @@
+{
+  "name": "Suiliphant",
+  "symbol": "SUILE",
+  "decimals": 9,
+  "coin_type": "0x48630331a0128299c995433ea6b17001c0bb114a56fd1af83015b088b14c423b::suile::SUILE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/25399066-7ba7-4c8e-86d4-b483d4093f83.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sofie AI Cat",
+  "symbol": "SAC",
+  "decimals": 9,
+  "coin_type": "0xbf384e7c7250408886c67469ea65cc9199d96baad38276d867ff6e26203ab564::sac::SAC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/65a7bba8-b5a5-4587-8882-c327a205af5a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

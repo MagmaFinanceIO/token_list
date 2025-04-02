@@ -1,0 +1,13 @@
+{
+  "name": "Suitendo Games",
+  "symbol": "Suitendo",
+  "decimals": 6,
+  "coin_type": "0x45d401fca5ed9825c1d3f55886f66f41f2dd06382f7b7759aabf6c9d475f3280::suitendo::SUITENDO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e04309cf-dffe-4cdf-b7c4-f144fc1d2483.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

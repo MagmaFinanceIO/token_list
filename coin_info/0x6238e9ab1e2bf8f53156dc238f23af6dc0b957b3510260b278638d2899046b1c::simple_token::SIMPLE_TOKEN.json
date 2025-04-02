@@ -1,0 +1,13 @@
+{
+  "name": "PYTHIA",
+  "symbol": "PYTHIA",
+  "decimals": 9,
+  "coin_type": "0x6238e9ab1e2bf8f53156dc238f23af6dc0b957b3510260b278638d2899046b1c::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

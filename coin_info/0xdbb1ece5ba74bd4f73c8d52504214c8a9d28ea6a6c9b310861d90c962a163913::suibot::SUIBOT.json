@@ -1,0 +1,13 @@
+{
+  "name": "Sui Sniper Bot",
+  "symbol": "SUIBOT",
+  "decimals": 9,
+  "coin_type": "0xdbb1ece5ba74bd4f73c8d52504214c8a9d28ea6a6c9b310861d90c962a163913::suibot::SUIBOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://purple-neat-mole-319.mypinata.cloud/ipfs/QmSzEDkPZe1Ap8YgvqiquPZ2B7pzccLHfBz4pt9DK7BtR8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

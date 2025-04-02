@@ -1,0 +1,13 @@
+{
+  "name": "Cetus",
+  "symbol": "CETUS",
+  "decimals": 9,
+  "coin_type": "0x6434436a4e9568f9347f5ec66d9bb0a4a1c6144f2eb73aa10d980d163ea2f33c::cetus::CETUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f8e4602d-0176-4319-b84c-be1d122fdd0b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

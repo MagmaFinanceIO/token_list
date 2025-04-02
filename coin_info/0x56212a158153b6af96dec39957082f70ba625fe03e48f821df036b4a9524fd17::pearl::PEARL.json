@@ -1,0 +1,13 @@
+{
+  "name": "PEARL",
+  "symbol": "PEARL",
+  "decimals": 9,
+  "coin_type": "0x56212a158153b6af96dec39957082f70ba625fe03e48f821df036b4a9524fd17::pearl::PEARL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/XUAIZlbFeayMOyXh?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUINU",
+  "symbol": "SUINU",
+  "decimals": 8,
+  "coin_type": "0xa42fd1b4b202f2901dd2f32ce5f84fec3f5e4c8c75cf95f892ed2965b588e482::suinu::SUINU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://tinyurl.com/suinua",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

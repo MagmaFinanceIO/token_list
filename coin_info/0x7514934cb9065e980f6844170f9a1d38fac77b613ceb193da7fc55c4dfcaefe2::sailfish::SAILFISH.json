@@ -1,0 +1,13 @@
+{
+  "name": "Sailfish",
+  "symbol": "SAILFISH",
+  "decimals": 9,
+  "coin_type": "0x7514934cb9065e980f6844170f9a1d38fac77b613ceb193da7fc55c4dfcaefe2::sailfish::SAILFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e3683641-0ba0-4339-a4f0-00f0d781ae2c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

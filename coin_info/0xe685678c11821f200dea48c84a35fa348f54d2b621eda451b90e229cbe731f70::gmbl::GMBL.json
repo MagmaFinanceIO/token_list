@@ -1,0 +1,13 @@
+{
+  "name": "GAMBLE COIN",
+  "symbol": "GMBL",
+  "decimals": 9,
+  "coin_type": "0xe685678c11821f200dea48c84a35fa348f54d2b621eda451b90e229cbe731f70::gmbl::GMBL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2623e7e4-b987-4456-b4d7-3049f94d4f5e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

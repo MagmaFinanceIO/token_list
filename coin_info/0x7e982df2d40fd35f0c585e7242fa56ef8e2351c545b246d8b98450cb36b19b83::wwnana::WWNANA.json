@@ -1,0 +1,13 @@
+{
+  "name": "WALL WIF BANANA",
+  "symbol": "WWNANA",
+  "decimals": 9,
+  "coin_type": "0x7e982df2d40fd35f0c585e7242fa56ef8e2351c545b246d8b98450cb36b19b83::wwnana::WWNANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/af1dc865-73ea-4515-a63e-c63c13493bf5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

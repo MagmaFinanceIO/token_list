@@ -1,0 +1,13 @@
+{
+  "name": "Buck $GME Mascot",
+  "symbol": "BUCK",
+  "decimals": 6,
+  "coin_type": "0x3d9886dcf24535d1c132466f57861eb50d431175d53c1c159ca01460b8d6dece::buck::BUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3add14a8-44f1-4997-9cb9-ff7a5722ca28.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

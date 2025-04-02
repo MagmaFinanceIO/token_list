@@ -1,0 +1,13 @@
+{
+  "name": "FIROLL",
+  "symbol": "PRO",
+  "decimals": 9,
+  "coin_type": "0xc52908e3783181b81d32890646bda7e12af4969bdb79d3dbcce481c1f630d62a::firoll::FIROLL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafybeiecppfzpgx7xosf7h4a2zistip2d4lawqkwsp2dtp3ucmjpmnb6tq.ipfs.nftstorage.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

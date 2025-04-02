@@ -1,0 +1,13 @@
+{
+  "name": "Big Red Robot Token",
+  "symbol": "BIGRED",
+  "decimals": 9,
+  "coin_type": "0x11b2a3f9890c26f015f225d0cf50b3beb888093f4f73eef7153892fcb5499780::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/603/851/large/adam-baines-scribsbots3a.jpg?1727996365",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

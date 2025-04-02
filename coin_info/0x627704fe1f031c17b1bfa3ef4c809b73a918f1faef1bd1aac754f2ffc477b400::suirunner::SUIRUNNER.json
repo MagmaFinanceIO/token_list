@@ -1,0 +1,13 @@
+{
+  "name": "Sui Runner",
+  "symbol": "SUIRUNNER",
+  "decimals": 6,
+  "coin_type": "0x627704fe1f031c17b1bfa3ef4c809b73a918f1faef1bd1aac754f2ffc477b400::suirunner::SUIRUNNER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000033435_80dca9cb4f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

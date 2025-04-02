@@ -1,0 +1,13 @@
+{
+  "name": "Fox Society Token",
+  "symbol": "FOXYST",
+  "decimals": 9,
+  "coin_type": "0xdf1cf8371b1f5cd800e5d5dfcdbe4c698793dafe289e5cfaf7ca69b352fa5a49::foxyst::FOXYST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafybeidfufdlneqqwoct6l3qfhen6zzwf6icvp7eofimvgutcvxdlf65ca.ipfs.dweb.link/FOXSOCIETYTOKEN.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

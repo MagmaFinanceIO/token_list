@@ -1,0 +1,13 @@
+{
+  "name": "Sui Foxy",
+  "symbol": "FOXY",
+  "decimals": 6,
+  "coin_type": "0x14a515e38155cb50bd95f94009349a6465cb30251df54dd5f9a78a49cf293102::foxy::FOXY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Fox_c2736d032e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

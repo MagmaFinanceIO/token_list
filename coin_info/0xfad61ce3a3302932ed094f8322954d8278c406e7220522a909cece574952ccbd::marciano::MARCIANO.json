@@ -1,0 +1,13 @@
+{
+  "name": "Marciano",
+  "symbol": "Marciano",
+  "decimals": 9,
+  "coin_type": "0xfad61ce3a3302932ed094f8322954d8278c406e7220522a909cece574952ccbd::marciano::MARCIANO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b1c1c4d3-987f-4f5b-bb2f-aeec898de969.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

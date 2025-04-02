@@ -1,0 +1,13 @@
+{
+  "name": "SPUNK",
+  "symbol": "SPUNK",
+  "decimals": 6,
+  "coin_type": "0x90caed5fb955c8da1fca83de32d8cafba2d931538a4d6ac89d7967f27b299047::spunk::SPUNK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafybeifaicnh7ae4w6awgp7mbg7i4twd7ab2vsgk2gkhic2zyr5ijjgv4m.ipfs.w3s.link/%24SPUNK-WBG.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

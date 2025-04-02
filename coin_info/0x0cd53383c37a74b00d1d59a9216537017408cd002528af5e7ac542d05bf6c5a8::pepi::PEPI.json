@@ -1,0 +1,13 @@
+{
+  "name": "Pepi",
+  "symbol": "Pepi",
+  "decimals": 9,
+  "coin_type": "0x0cd53383c37a74b00d1d59a9216537017408cd002528af5e7ac542d05bf6c5a8::pepi::PEPI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/85XyvUmzYqwmsgMX9pLPFm7g6C642YLYHePTDg6ipump.png?size=lg&key=b728d4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

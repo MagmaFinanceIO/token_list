@@ -1,0 +1,13 @@
+{
+  "name": "Elephant on sui",
+  "symbol": "Elephantsui",
+  "decimals": 6,
+  "coin_type": "0x648e0c0dd46b4b5fab1f4c6e70b9c2b731a79da2f54776bba513629470afd38c::elephantsui::ELEPHANTSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000904314_a5a32f2725.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

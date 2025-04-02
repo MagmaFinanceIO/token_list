@@ -1,0 +1,13 @@
+{
+  "name": "eliza ai16z mascot",
+  "symbol": "eliza",
+  "decimals": 9,
+  "coin_type": "0x65722b5d3c139e44da222b76f7de89476ee4e6dd6957a51eecc74730dae24b9a::eliza::ELIZA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4qe5LzsmEJwr2rusq2Q4tvtEB1wdtpH6CokuCmAKpump.png?size=lg&key=e79ea8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

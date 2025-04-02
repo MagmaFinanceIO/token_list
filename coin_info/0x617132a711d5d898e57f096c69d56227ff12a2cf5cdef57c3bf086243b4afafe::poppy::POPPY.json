@@ -1,0 +1,13 @@
+{
+  "name": "POPPY THE SEA LION",
+  "symbol": "POPPY",
+  "decimals": 9,
+  "coin_type": "0x617132a711d5d898e57f096c69d56227ff12a2cf5cdef57c3bf086243b4afafe::poppy::POPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FPOPPY_BUY_GIF_813c06cc7e.png&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

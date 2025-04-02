@@ -1,0 +1,13 @@
+{
+  "name": "Suileman",
+  "symbol": "SLEMAN",
+  "decimals": 9,
+  "coin_type": "0x085b84efdd7263d975bad1c967c685ceb9864a69cc7787559e61c0be523b22cf::sleman::SLEMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8d68b705-ab79-4d16-9611-6c2e529cba3e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

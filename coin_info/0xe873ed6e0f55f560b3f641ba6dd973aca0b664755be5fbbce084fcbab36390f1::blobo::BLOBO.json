@@ -1,0 +1,13 @@
+{
+  "name": "Blobo",
+  "symbol": "BLOBO",
+  "decimals": 9,
+  "coin_type": "0xe873ed6e0f55f560b3f641ba6dd973aca0b664755be5fbbce084fcbab36390f1::blobo::BLOBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f0831760-8911-4a93-b724-6522edbf9651.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

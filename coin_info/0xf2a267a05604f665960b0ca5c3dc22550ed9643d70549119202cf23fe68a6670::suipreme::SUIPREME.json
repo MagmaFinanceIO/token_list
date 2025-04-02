@@ -1,0 +1,13 @@
+{
+  "name": "Suipreme",
+  "symbol": "SUIPREME",
+  "decimals": 6,
+  "coin_type": "0xf2a267a05604f665960b0ca5c3dc22550ed9643d70549119202cf23fe68a6670::suipreme::SUIPREME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmWCLr7TLrhSR1XtdpX4ymDSkpAnkiwWQvGByB3H3m2Byy",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

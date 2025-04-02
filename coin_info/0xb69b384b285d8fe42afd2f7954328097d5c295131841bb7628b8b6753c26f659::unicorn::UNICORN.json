@@ -1,0 +1,13 @@
+{
+  "name": "Peaceful Unicorn Token",
+  "symbol": "UNICORN",
+  "decimals": 6,
+  "coin_type": "0xb69b384b285d8fe42afd2f7954328097d5c295131841bb7628b8b6753c26f659::unicorn::UNICORN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_10_21_170835_49b947fb1d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

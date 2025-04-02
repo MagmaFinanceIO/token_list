@@ -1,0 +1,13 @@
+{
+  "name": "DeepBook 104",
+  "symbol": "DEEP104",
+  "decimals": 9,
+  "coin_type": "0x2350a27d95a9814b29c18cc432f27ef0b924cf741c70e37b172165d815d59958::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.deepbook.tech/icon.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

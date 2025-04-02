@@ -1,0 +1,13 @@
+{
+  "name": "Suilend Protocol",
+  "symbol": "SEND",
+  "decimals": 9,
+  "coin_type": "0x8057eb868536da1a4367fc43b6f39fcc446d510d4f29358027fb063ea48c5ab9::send::SEND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/77b9d941-d85e-4f31-b22e-87770b6b88f3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

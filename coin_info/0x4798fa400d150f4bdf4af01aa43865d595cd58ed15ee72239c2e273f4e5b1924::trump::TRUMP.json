@@ -1,0 +1,13 @@
+{
+  "name": "Official Trump meme",
+  "symbol": "TRUMP",
+  "decimals": 9,
+  "coin_type": "0x4798fa400d150f4bdf4af01aa43865d595cd58ed15ee72239c2e273f4e5b1924::trump::TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9f006284-5b1a-4001-8220-e0ada9454194.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

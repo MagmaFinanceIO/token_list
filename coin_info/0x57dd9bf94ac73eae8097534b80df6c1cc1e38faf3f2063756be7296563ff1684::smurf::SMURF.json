@@ -1,0 +1,13 @@
+{
+  "name": "Smurf",
+  "symbol": "SMURF",
+  "decimals": 6,
+  "coin_type": "0x57dd9bf94ac73eae8097534b80df6c1cc1e38faf3f2063756be7296563ff1684::smurf::SMURF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_fbb1da1d62.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

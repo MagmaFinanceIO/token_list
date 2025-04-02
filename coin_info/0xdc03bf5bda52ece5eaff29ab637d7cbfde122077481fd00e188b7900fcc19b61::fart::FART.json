@@ -1,0 +1,13 @@
+{
+  "name": "FartChick",
+  "symbol": "FART",
+  "decimals": 9,
+  "coin_type": "0xdc03bf5bda52ece5eaff29ab637d7cbfde122077481fd00e188b7900fcc19b61::fart::FART",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/961a4ed1-fd2c-4d4e-ba57-00fc33d5b712.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

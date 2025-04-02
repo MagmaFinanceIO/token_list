@@ -1,0 +1,13 @@
+{
+  "name": "Super Gotinha",
+  "symbol": "Gotinha",
+  "decimals": 9,
+  "coin_type": "0xfe08c26edc9cc00aa39550099ff37ac0ebcef4b39c6301004b688bb92cbe370e::gotinha::GOTINHA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8bd4d6ba-c0ce-4ff3-b809-351b8a57df15.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

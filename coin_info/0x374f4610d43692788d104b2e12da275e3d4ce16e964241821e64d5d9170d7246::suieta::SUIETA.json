@@ -1,0 +1,13 @@
+{
+  "name": "Suieta",
+  "symbol": "Suieta",
+  "decimals": 9,
+  "coin_type": "0x374f4610d43692788d104b2e12da275e3d4ce16e964241821e64d5d9170d7246::suieta::SUIETA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/97a46d64-9cc6-437a-a83b-fe9fa69663ad.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

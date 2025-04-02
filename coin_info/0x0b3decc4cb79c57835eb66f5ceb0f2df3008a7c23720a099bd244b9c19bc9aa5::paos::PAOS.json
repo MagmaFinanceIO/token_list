@@ -1,0 +1,13 @@
+{
+  "name": "pumpkin Ai on sui",
+  "symbol": "PAOS",
+  "decimals": 6,
+  "coin_type": "0x0b3decc4cb79c57835eb66f5ceb0f2df3008a7c23720a099bd244b9c19bc9aa5::paos::PAOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/mmexport1730374319274_0f14fdd0a5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

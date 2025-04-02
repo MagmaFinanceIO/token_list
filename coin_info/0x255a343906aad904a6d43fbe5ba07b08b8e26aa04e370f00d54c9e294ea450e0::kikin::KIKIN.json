@@ -1,0 +1,13 @@
+{
+  "name": "Kikincoin",
+  "symbol": "KIKIN",
+  "decimals": 9,
+  "coin_type": "0x255a343906aad904a6d43fbe5ba07b08b8e26aa04e370f00d54c9e294ea450e0::kikin::KIKIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GLNKGX5b5vWmjbNqEoMKSXqRuwW2yayL3ENiBVjoqEsF.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

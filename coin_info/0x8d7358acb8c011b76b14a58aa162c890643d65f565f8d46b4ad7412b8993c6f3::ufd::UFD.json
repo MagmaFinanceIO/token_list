@@ -1,0 +1,13 @@
+{
+  "name": "Unicorn Fart Dust on SUI",
+  "symbol": "UFD",
+  "decimals": 6,
+  "coin_type": "0x8d7358acb8c011b76b14a58aa162c890643d65f565f8d46b4ad7412b8993c6f3::ufd::UFD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Unicorn_ddef2ac0aa.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

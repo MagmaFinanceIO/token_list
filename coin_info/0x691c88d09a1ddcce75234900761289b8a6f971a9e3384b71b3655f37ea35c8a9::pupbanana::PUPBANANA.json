@@ -1,0 +1,13 @@
+{
+  "name": "PUPBANANA",
+  "symbol": "PUPBANANA",
+  "decimals": 6,
+  "coin_type": "0x691c88d09a1ddcce75234900761289b8a6f971a9e3384b71b3655f37ea35c8a9::pupbanana::PUPBANANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9e48f2c1-cbbf-4731-825b-9eaf18d53bb4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

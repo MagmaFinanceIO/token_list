@@ -1,0 +1,13 @@
+{
+  "name": "Monkey Baby Business Sui",
+  "symbol": "MONKEYB",
+  "decimals": 9,
+  "coin_type": "0xd8c178fad8a5340411ba1d3b5321bb4a772ccaec03647f35bef6ce41e6015d5d::monkeyb::MONKEYB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e2db2273-4e6b-4730-948e-730bca7232d5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Stellix Protocol",
+  "symbol": "STELLIX",
+  "decimals": 6,
+  "coin_type": "0xa077735e34e202e6074fab914534d0970b825e7c43044842e8bc9c8b1fe9c133::stellix::STELLIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20250112_004421_931_c7836f9906.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

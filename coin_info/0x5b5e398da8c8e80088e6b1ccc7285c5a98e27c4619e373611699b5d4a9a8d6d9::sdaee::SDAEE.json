@@ -1,0 +1,13 @@
+{
+  "name": "www",
+  "symbol": "SDAEE",
+  "decimals": 9,
+  "coin_type": "0x5b5e398da8c8e80088e6b1ccc7285c5a98e27c4619e373611699b5d4a9a8d6d9::sdaee::SDAEE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d918446d-b416-43dc-9025-72f952a4aaa8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

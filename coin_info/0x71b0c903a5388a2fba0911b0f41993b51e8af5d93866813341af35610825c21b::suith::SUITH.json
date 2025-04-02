@@ -1,0 +1,13 @@
+{
+  "name": "SUIthereum",
+  "symbol": "SUITH",
+  "decimals": 6,
+  "coin_type": "0x71b0c903a5388a2fba0911b0f41993b51e8af5d93866813341af35610825c21b::suith::SUITH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/c23baf86_6f61_4ea9_a322_2b5113236e87_b1cc650672.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

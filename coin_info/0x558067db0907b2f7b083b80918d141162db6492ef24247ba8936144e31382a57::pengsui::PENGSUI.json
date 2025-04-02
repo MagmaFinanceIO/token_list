@@ -1,0 +1,13 @@
+{
+  "name": "Penguin on Sui",
+  "symbol": "PengSui",
+  "decimals": 6,
+  "coin_type": "0x558067db0907b2f7b083b80918d141162db6492ef24247ba8936144e31382a57::pengsui::PENGSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/4ed795f7_f38b_41ee_8eec_2b6355a892c8_57427fb3a8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "stpappi",
+  "symbol": "PAPPI",
+  "decimals": 9,
+  "coin_type": "0x4108491305112bfe1dc96718fbd3846d3a1dc81c225c0da4f1ed693457a5d91c::pappi::PAPPI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmNT7ChvNpnAeBeBF7H1WMJJTxwSUExBHg9y4VeFbw984c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

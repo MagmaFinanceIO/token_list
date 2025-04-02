@@ -1,0 +1,13 @@
+{
+  "name": "MASHIACH token",
+  "symbol": "MASHIACH",
+  "decimals": 9,
+  "coin_type": "0x86da1aa8dc7f8a8f87e56683f8fb22e17df54d0aedab2a62ca796138b6377260::mashiach::MASHIACH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7f67bb5e-a57f-4c89-b208-259e0efc4e36.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

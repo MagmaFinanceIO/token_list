@@ -1,0 +1,13 @@
+{
+  "name": "Sui Draggy",
+  "symbol": "DRAGGY",
+  "decimals": 6,
+  "coin_type": "0x3416f6733975612ab929b9bc850af40cb54eb2d6e1e0426b54dc82d4ddf52b60::draggy::DRAGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000045661_4070acca89.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Blob",
+  "symbol": "BLOB",
+  "decimals": 9,
+  "coin_type": "0xcc2de2cb36ba422aa716300eafa54610dd8eea32ab14a18abd4d1a71bda78845::blob::BLOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ea92c8f1-8451-453f-9fc6-4175e648b39f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

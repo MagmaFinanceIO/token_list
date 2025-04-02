@@ -1,0 +1,13 @@
+{
+  "name": "SHIBORI",
+  "symbol": "SHIBORI",
+  "decimals": 9,
+  "coin_type": "0x1279b7f7396740e40a08d1180b86111f0d8932a30b24b72fd1c8d91a59469cad::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Paca Suinami",
+  "symbol": "ALSUI",
+  "decimals": 9,
+  "coin_type": "0xc83ef77ec830e34e2dd3fdb250539bbc0e9ac2ea61409ad4999f0ef8de8672a7::alsui::ALSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2Funmadesugar_a_alpaca_in_the_sea_in_a_snorkel_28697ac3_fc61_43b1_8046_01c0595a6369_5bc67ec92e.jpg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Yuki Deepseek AI Agent",
+  "symbol": "Yuki",
+  "decimals": 9,
+  "coin_type": "0x5b1f0fae4b465f69806e1dbd5455029e5997dfe2ba72b361edd99ad79110ce29::yuki::YUKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GKd8HwvQaHcLquMWBvLUdbzU6uWTmyHqzVLxLTWppump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

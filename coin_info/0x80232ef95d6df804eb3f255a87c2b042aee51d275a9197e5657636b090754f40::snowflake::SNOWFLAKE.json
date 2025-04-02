@@ -1,0 +1,13 @@
+{
+  "name": "SNOWFLAKE",
+  "symbol": "SNOWFLAKE",
+  "decimals": 6,
+  "coin_type": "0x80232ef95d6df804eb3f255a87c2b042aee51d275a9197e5657636b090754f40::snowflake::SNOWFLAKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/snowflake.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "chile",
+  "symbol": "chile",
+  "decimals": 9,
+  "coin_type": "0xb74f8b378fef712972a80d83a086f0d7a4d738eb5c6578866b6fe768f104ce33::chile::CHILE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

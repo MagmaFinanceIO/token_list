@@ -1,0 +1,13 @@
+{
+  "name": "Lamp Coin",
+  "symbol": "Lamp Coin",
+  "decimals": 9,
+  "coin_type": "0x69d5b235be2ef83ca6ed2d169b4f86848828a6209a5d02c9e2d82b56adaed83a::lamp_coin::LAMP_COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.app.goo.gl/Pmuo7Y994DQ6NtVJ6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

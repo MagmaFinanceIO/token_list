@@ -1,0 +1,13 @@
+{
+  "name": "GEO AI",
+  "symbol": "GEO",
+  "decimals": 9,
+  "coin_type": "0x932bf2263c7db9e49572215714e61ad74681f0f4d2e41e28757fe57583e70997::geo::GEO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6BvUM3ephxUg19W7Fk6bDmdfouM2htb35V7NGj6Qpump.png?size=lg&key=581b86",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

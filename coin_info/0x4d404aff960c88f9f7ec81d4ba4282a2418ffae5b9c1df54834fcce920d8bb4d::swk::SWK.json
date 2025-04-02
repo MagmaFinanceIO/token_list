@@ -1,0 +1,13 @@
+{
+  "name": "SuiWuWuKong",
+  "symbol": "SWK",
+  "decimals": 6,
+  "coin_type": "0x4d404aff960c88f9f7ec81d4ba4282a2418ffae5b9c1df54834fcce920d8bb4d::swk::SWK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7098_6438504ad5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

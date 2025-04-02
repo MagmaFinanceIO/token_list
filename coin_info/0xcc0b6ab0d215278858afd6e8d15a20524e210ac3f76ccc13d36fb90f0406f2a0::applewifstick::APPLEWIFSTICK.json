@@ -1,0 +1,13 @@
+{
+  "name": "AppleWifStick",
+  "symbol": "AppleWifStick",
+  "decimals": 9,
+  "coin_type": "0xcc0b6ab0d215278858afd6e8d15a20524e210ac3f76ccc13d36fb90f0406f2a0::applewifstick::APPLEWIFSTICK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6b0e7032-77c4-40db-82aa-4f112d5ab651.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

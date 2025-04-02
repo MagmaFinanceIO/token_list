@@ -1,0 +1,13 @@
+{
+  "name": "Persui",
+  "symbol": "Persuis",
+  "decimals": 9,
+  "coin_type": "0xc18a120da6665a601bcbb00acf1f8bf732417c468b99c15bf9ccfa10b67b17a1::persuis::PERSUIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/58e99337-bb53-45b6-a562-bb35f58ba52a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

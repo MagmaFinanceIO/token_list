@@ -1,0 +1,13 @@
+{
+  "name": "Mascot of Tesla on Sui",
+  "symbol": "BorgoBot",
+  "decimals": 6,
+  "coin_type": "0xa0be2d1a42179a470e20fd8077f07393d76677d00e6a6d0b5a88a902097e5960::borgobot::BORGOBOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/coin2_300x300_b50279bc71.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

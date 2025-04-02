@@ -1,0 +1,13 @@
+{
+  "name": "Brains",
+  "symbol": "BRAINS",
+  "decimals": 6,
+  "coin_type": "0x3814185742c27525fd7ef14c6a9ac02b863a5009e992eb3522497751be464f0c::brains::BRAINS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Brain_9c70047cbd.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BlackBox AI",
+  "symbol": "BB",
+  "decimals": 6,
+  "coin_type": "0xd3c2cb5fedf3ac5c938cc232fdc1067af36d1879eb165fdc385eb614464742dd::bb::BB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3bc0a31d-29d9-4228-b201-b458f5c118f3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

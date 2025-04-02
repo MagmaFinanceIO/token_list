@@ -1,0 +1,13 @@
+{
+  "name": "Mr Mayonnaise the Cat",
+  "symbol": "MAYO",
+  "decimals": 9,
+  "coin_type": "0xdac3b0468e640f1213919b29037ec11fbd3bc3a45202d7d308be6856877f00f9::mayo::MAYO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/81GRrR2oudSsxTajwxGsfqcW88FaC4Q1Xx4HKfGipump.png?size=lg&key=08b03e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

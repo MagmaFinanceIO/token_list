@@ -1,0 +1,13 @@
+{
+  "name": "Sui Whaly",
+  "symbol": "WHALY",
+  "decimals": 6,
+  "coin_type": "0xc6a59a4baeee768365a423078c45a8db6e8792f50adb7a42fedd3bd70ab38e63::whaly::WHALY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_09_23_00_14_d8d9b79299.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

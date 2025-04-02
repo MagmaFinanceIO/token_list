@@ -1,0 +1,13 @@
+{
+  "name": "Sui Founders Dog",
+  "symbol": "UNI",
+  "decimals": 6,
+  "coin_type": "0x8a814a826e9e29777a4874abc5007560052ef39a236373795cf741113c8a228c::uni::UNI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmTtssCS6nqc6Rr7oyuqCjtNPthe5RF3jeugVase7uQw59",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

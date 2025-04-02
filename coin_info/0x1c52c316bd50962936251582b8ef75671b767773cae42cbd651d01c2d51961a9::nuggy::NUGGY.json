@@ -1,0 +1,13 @@
+{
+  "name": "Nuggy",
+  "symbol": "NUGGY",
+  "decimals": 9,
+  "coin_type": "0x1c52c316bd50962936251582b8ef75671b767773cae42cbd651d01c2d51961a9::nuggy::NUGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/142b7bb3-dee4-4eb8-bb77-312106057517.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

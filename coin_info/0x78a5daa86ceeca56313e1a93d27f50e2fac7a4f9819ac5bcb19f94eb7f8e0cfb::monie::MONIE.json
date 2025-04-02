@@ -1,0 +1,13 @@
+{
+  "name": "Sui Monie",
+  "symbol": "Monie",
+  "decimals": 9,
+  "coin_type": "0x78a5daa86ceeca56313e1a93d27f50e2fac7a4f9819ac5bcb19f94eb7f8e0cfb::monie::MONIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/edbbd3bb-25b4-46bb-b550-8b7a4be0402c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

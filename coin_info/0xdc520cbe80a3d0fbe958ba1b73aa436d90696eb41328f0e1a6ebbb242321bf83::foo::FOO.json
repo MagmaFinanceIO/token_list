@@ -1,0 +1,13 @@
+{
+  "name": "Foocat",
+  "symbol": "FOO",
+  "decimals": 6,
+  "coin_type": "0xdc520cbe80a3d0fbe958ba1b73aa436d90696eb41328f0e1a6ebbb242321bf83::foo::FOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_09_13_204438_51000dc26f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

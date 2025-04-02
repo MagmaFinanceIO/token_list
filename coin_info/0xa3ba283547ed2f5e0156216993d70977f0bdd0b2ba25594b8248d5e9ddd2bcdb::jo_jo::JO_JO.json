@@ -1,0 +1,13 @@
+{
+  "name": "JO JO ARMANI",
+  "symbol": "JO JO",
+  "decimals": 9,
+  "coin_type": "0xa3ba283547ed2f5e0156216993d70977f0bdd0b2ba25594b8248d5e9ddd2bcdb::jo_jo::JO_JO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1dbc6819-5ed9-48cc-9d90-a1f64481db13.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

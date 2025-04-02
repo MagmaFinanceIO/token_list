@@ -1,0 +1,13 @@
+{
+  "name": "Dolpi on sui",
+  "symbol": "DOLPI",
+  "decimals": 6,
+  "coin_type": "0xc52bf46d76734d99d1dfcbaafd158ff296bf30e01512aaea3c73cec94e10677a::dolpi::DOLPI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000044066_4366d3de34.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

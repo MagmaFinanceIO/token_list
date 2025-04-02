@@ -1,0 +1,13 @@
+{
+  "name": "AiTi",
+  "symbol": "AiTi",
+  "decimals": 9,
+  "coin_type": "0x8185ff39b4f830c2fe9956a04abc780a344263f10d0522501567a04a21f2986f::AiTi::AITI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/86128c02-44da-412a-b757-738d62c89b74.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

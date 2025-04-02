@@ -1,0 +1,13 @@
+{
+  "name": "FIJI.EXE",
+  "symbol": "FIJI",
+  "decimals": 6,
+  "coin_type": "0xdb76153d1a655ccdf40eaea2d06689590bae0e01c67baf04fc1608b4e90334e5::fiji::FIJI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A9e6JzPQstmz94pMnzxgyV14QUqoULSXuf5FPsq8UiRa.png?size=lg&key=0266df",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

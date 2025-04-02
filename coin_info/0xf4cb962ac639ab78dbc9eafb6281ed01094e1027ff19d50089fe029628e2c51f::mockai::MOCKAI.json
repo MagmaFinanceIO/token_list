@@ -1,0 +1,13 @@
+{
+  "name": "MOCKBOT AI ON SUI",
+  "symbol": "MOCKAI",
+  "decimals": 9,
+  "coin_type": "0xf4cb962ac639ab78dbc9eafb6281ed01094e1027ff19d50089fe029628e2c51f::mockai::MOCKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aceb40b0-3dd7-41df-aec9-763f0160088e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Gieco the Gecko",
+  "symbol": "Gieco",
+  "decimals": 9,
+  "coin_type": "0x31421713063768e4c4d0fe51b265b8fedc0e9aad97286ca8d1c519f61b138132::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

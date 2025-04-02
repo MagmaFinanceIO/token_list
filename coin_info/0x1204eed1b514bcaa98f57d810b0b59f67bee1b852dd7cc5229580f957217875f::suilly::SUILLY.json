@@ -1,0 +1,13 @@
+{
+  "name": "Suilly",
+  "symbol": "SUILLY",
+  "decimals": 6,
+  "coin_type": "0x1204eed1b514bcaa98f57d810b0b59f67bee1b852dd7cc5229580f957217875f::suilly::SUILLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suilly_logo_6b1c777995.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Frog Maga Tremp",
+  "symbol": "FATREMP",
+  "decimals": 9,
+  "coin_type": "0xe622e548980df55d3b32ff2a580024e3d756c237757924b7f35635691e474c93::fatremp::FATREMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f5a5c06a-ad5e-498e-ab46-1f17311820c1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

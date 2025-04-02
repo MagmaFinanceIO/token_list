@@ -1,0 +1,13 @@
+{
+  "name": "Tiny Agent SPL",
+  "symbol": "TinyAI",
+  "decimals": 9,
+  "coin_type": "0x8853e56550e1c5c980a21fa179f55661c1db2f6e41ecc5cd45b7b505b2dfdaf7::tinyai::TINYAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DVgoKN4D5yEATnE58ztiSUerBrZKhSbYZL31EkdYpump.png?size=lg&key=c62710",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

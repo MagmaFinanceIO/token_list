@@ -1,0 +1,13 @@
+{
+  "name": "Beautiful Majestic Wings",
+  "symbol": "BMW",
+  "decimals": 9,
+  "coin_type": "0x47c0b6bb650c37c0fb57c006470ed176053bbbaea9294f284112f538f2e7d368::bmw::BMW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/58dc4870-cfa3-4dc7-a4fd-0f792100f54f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Derp",
+  "symbol": "Derp",
+  "decimals": 6,
+  "coin_type": "0x9bf782555def322e2c9ec5c8bfa7ee7403649bcfe566247c8b0efc38fd0501f5::derp::DERP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGS355pTxy89ZEfSoNA8DsxPL5C3yGXkDi3A&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

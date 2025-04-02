@@ -1,0 +1,13 @@
+{
+  "name": "Cult of Dogs",
+  "symbol": "CODED",
+  "decimals": 9,
+  "coin_type": "0x47ae4927d98083372eb60fb50a2b2e25cdbfc4b1bf0fbc9252bda812aa3ff28f::coded::CODED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7MfGkue7FYaBdNhvBatkKGwNE6cxG9b1MuwYabJgpump.png?size=lg&key=1803ce",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

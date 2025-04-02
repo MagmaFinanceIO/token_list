@@ -1,0 +1,13 @@
+{
+  "name": "BeLaunch Token",
+  "symbol": "BLAT",
+  "decimals": 9,
+  "coin_type": "0x57abb7118d78d6b4fbb0ddfa3aed1383efa066a477f60986686fe6898ad4ff80::BLAT::BLAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://belaunchio.infura-ipfs.io/ipfs/Qme9yNdWnEVgJA4wMK3HeEm6UdvVpJa1gv2y5jLBJK8Jbe",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

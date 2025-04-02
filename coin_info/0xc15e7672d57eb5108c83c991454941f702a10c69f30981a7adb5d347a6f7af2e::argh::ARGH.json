@@ -1,0 +1,13 @@
+{
+  "name": "Angry Pepe",
+  "symbol": "ARGH",
+  "decimals": 9,
+  "coin_type": "0xc15e7672d57eb5108c83c991454941f702a10c69f30981a7adb5d347a6f7af2e::argh::ARGH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/843cd74b-0833-4dd5-9244-c6467cfc3759.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

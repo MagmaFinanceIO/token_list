@@ -1,0 +1,13 @@
+{
+  "name": "Giko",
+  "symbol": "GIKO",
+  "decimals": 6,
+  "coin_type": "0xeb8df2d4c6ca2221f722193ed8b94b1549e0e7002dd2912f10331ff4068ec545::giko::GIKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/K7q_Zi_SK_1_400x400_a8e784372e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Beeg Blue Whal",
+  "symbol": "BEEG",
+  "decimals": 6,
+  "coin_type": "0x25e0c31438efc79d9f30c40f0799a97074e2d4bedf9e518ee6781fbb55855add::beeg::BEEG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a9437a68-9981-412b-9492-94067482d184.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

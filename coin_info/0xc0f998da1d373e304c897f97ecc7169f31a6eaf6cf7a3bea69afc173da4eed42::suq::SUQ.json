@@ -1,0 +1,13 @@
+{
+  "name": "SuiQueen",
+  "symbol": "SUQ",
+  "decimals": 9,
+  "coin_type": "0xc0f998da1d373e304c897f97ecc7169f31a6eaf6cf7a3bea69afc173da4eed42::suq::SUQ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2ceb3539-0e01-49fa-9839-d4116352c15f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

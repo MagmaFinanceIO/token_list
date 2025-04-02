@@ -1,0 +1,13 @@
+{
+  "name": "Trump Inauguration",
+  "symbol": "TRUMPINAUG",
+  "decimals": 9,
+  "coin_type": "0x06134a7cbb1fd952071ab4a604696e8feff2e033cd1ba70e0f08c6f9693f45cb::trumpinaug::TRUMPINAUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/gaakltaxfm6ExbDT?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

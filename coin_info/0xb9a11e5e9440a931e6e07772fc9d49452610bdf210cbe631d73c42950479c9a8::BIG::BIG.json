@@ -1,0 +1,13 @@
+{
+  "name": "BIG",
+  "symbol": "BIG",
+  "decimals": 9,
+  "coin_type": "0xb9a11e5e9440a931e6e07772fc9d49452610bdf210cbe631d73c42950479c9a8::BIG::BIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

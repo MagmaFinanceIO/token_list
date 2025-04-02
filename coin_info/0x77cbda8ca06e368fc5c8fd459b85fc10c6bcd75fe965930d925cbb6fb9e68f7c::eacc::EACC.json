@@ -1,0 +1,13 @@
+{
+  "name": "Accelerated Intelligence",
+  "symbol": "EACC",
+  "decimals": 9,
+  "coin_type": "0x77cbda8ca06e368fc5c8fd459b85fc10c6bcd75fe965930d925cbb6fb9e68f7c::eacc::EACC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HzhhfexEbj3dnVr55mBhiq4Zzh7kSQdDWdjxrMX3pump.png?size=lg&key=4d8aba",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "fda",
+  "symbol": "fda",
+  "decimals": 6,
+  "coin_type": "0xfca652e971ae396d39ebaed8eb1166e0457494b51e42eba2cbfa534f0bdf5817::fda::FDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

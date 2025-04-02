@@ -1,0 +1,13 @@
+{
+  "name": "Liberty Coin",
+  "symbol": "LBT",
+  "decimals": 9,
+  "coin_type": "0xe9a116120616b64f41a27d76f15cc3082a3c00b6a6c9cf7eb4691fed2b5938d6::lbt::LBT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b5a77378-c645-4abb-9dc8-1476ba05b49f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

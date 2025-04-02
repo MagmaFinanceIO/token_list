@@ -1,0 +1,13 @@
+{
+  "name": "SUIKEUS MAXIMUS",
+  "symbol": "SUIKEUS",
+  "decimals": 9,
+  "coin_type": "0x3f1472a10a1d12709f5ced1b5dfd8cead92fb3862ba8bf392e6097be16063ada::suikeus::SUIKEUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4d37faf7-4259-4fc1-83e3-2b3af991a400.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

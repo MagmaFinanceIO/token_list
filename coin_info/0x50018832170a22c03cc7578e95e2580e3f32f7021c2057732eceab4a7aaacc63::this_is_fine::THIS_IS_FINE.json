@@ -1,0 +1,13 @@
+{
+  "name": "This is Fine",
+  "symbol": "This is Fine",
+  "decimals": 9,
+  "coin_type": "0x50018832170a22c03cc7578e95e2580e3f32f7021c2057732eceab4a7aaacc63::this_is_fine::THIS_IS_FINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/55094a6b-92b4-494e-a716-172f2b2f68fa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

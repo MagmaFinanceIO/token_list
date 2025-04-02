@@ -1,0 +1,13 @@
+{
+  "name": "Alchemist AI",
+  "symbol": "Alchemist",
+  "decimals": 9,
+  "coin_type": "0xe82945aaa2a20df337b3642b12fb33e51fbc3dead23b25eede0f724ad854d814::alchemist::ALCHEMIST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HNg5PYJmtqcmzXrv6S9zP1CDKk5BgDuyFBxbvNApump.png?size=lg&key=a88f75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

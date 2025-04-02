@@ -1,0 +1,13 @@
+{
+  "name": "Suirek",
+  "symbol": "Sui Shrek",
+  "decimals": 9,
+  "coin_type": "0x572739298022c6ddea936b385fc12c512832a2b751f0c03eb3e1685408b2fa13::sui_shrek_::SUI_SHREK_",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/381b7f8a-7635-4522-ad5c-ed62321ee040.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

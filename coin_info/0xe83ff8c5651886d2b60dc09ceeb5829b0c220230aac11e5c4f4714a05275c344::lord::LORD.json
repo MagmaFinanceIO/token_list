@@ -1,0 +1,13 @@
+{
+  "name": "OVERLORD",
+  "symbol": "LORD",
+  "decimals": 6,
+  "coin_type": "0xe83ff8c5651886d2b60dc09ceeb5829b0c220230aac11e5c4f4714a05275c344::lord::LORD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731066642679.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

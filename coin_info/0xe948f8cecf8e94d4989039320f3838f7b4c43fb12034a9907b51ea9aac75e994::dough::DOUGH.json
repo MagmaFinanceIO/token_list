@@ -1,0 +1,13 @@
+{
+  "name": "Dough the Silly",
+  "symbol": "DOUGH",
+  "decimals": 9,
+  "coin_type": "0xe948f8cecf8e94d4989039320f3838f7b4c43fb12034a9907b51ea9aac75e994::dough::DOUGH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6ruQceD6uEuQgDiHFgrnBufCfV33XYcjnJRGfufXeU5j.png?size=lg&key=4d3d25",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

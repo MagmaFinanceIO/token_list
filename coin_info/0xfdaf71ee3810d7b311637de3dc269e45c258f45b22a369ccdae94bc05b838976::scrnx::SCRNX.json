@@ -1,0 +1,13 @@
+{
+  "name": "scrnx AI by SuiAI",
+  "symbol": "SCRNX",
+  "decimals": 6,
+  "coin_type": "0xfdaf71ee3810d7b311637de3dc269e45c258f45b22a369ccdae94bc05b838976::scrnx::SCRNX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_2144_4108c8e725.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

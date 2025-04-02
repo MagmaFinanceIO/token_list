@@ -1,0 +1,13 @@
+{
+  "name": "Pesto the Penguin",
+  "symbol": "PESTO",
+  "decimals": 9,
+  "coin_type": "0xc8f531239756916ed9635560fb9cc71174402305b8e761b62a7885288be012c2::pesto::PESTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ce9f00e8-de42-4f55-86ba-ffa4409c8c7f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

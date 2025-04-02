@@ -1,0 +1,13 @@
+{
+  "name": "SuiDino",
+  "symbol": "Dino",
+  "decimals": 9,
+  "coin_type": "0x234db4a1dfc0aef4431a8d0fc35bbee9e58840e4b7a8d7b939a8249576f7c9e8::dino::DINO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/53f0205c-97aa-4f29-a62a-d41a618134c8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

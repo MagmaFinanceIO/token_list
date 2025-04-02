@@ -1,0 +1,13 @@
+{
+  "name": "JUUGG",
+  "symbol": "JUUG",
+  "decimals": 6,
+  "coin_type": "0xaf0643a3acf21f7bb3f1440bb39c4e1c63d273feac458502cbc730d4cae7ac2b::Juug::JUUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "data:image/jpeg;base64,/valid-image-data",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

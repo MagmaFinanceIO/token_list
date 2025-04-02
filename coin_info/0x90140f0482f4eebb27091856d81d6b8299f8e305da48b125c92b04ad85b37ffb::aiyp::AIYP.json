@@ -1,0 +1,13 @@
+{
+  "name": " Agent YP by SuiAI",
+  "symbol": "AIYP",
+  "decimals": 6,
+  "coin_type": "0x90140f0482f4eebb27091856d81d6b8299f8e305da48b125c92b04ad85b37ffb::aiyp::AIYP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/name_fdd90b7c64_7d534d085f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

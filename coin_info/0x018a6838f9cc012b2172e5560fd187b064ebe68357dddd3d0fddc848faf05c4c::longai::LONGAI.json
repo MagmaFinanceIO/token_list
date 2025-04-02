@@ -1,0 +1,13 @@
+{
+  "name": "Longevity AI",
+  "symbol": "LONGAI",
+  "decimals": 9,
+  "coin_type": "0x018a6838f9cc012b2172e5560fd187b064ebe68357dddd3d0fddc848faf05c4c::longai::LONGAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmaNrGEBvGY8kqAPdjT12JUeP2uA8EyMFcgwpq2yYmGaj8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

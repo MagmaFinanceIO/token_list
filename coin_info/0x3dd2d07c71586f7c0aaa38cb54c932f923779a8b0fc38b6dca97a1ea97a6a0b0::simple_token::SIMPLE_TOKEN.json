@@ -1,0 +1,13 @@
+{
+  "name": "Stoxus on Sui",
+  "symbol": "STOXUS",
+  "decimals": 9,
+  "coin_type": "0x3dd2d07c71586f7c0aaa38cb54c932f923779a8b0fc38b6dca97a1ea97a6a0b0::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

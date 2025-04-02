@@ -1,0 +1,13 @@
+{
+  "name": "EGG on SUI",
+  "symbol": "EOS",
+  "decimals": 9,
+  "coin_type": "0x2809d90ad7705000344f41efffd4e8fea6ca880dd5cb2a9eef0f01d2f9add6f3::eos::EOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/837fe7d7-fde4-422e-a572-c4cc5d58c6bd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

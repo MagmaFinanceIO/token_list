@@ -1,0 +1,13 @@
+{
+  "name": "EvoAi Brain Computer Systems",
+  "symbol": "EVOAI",
+  "decimals": 6,
+  "coin_type": "0x990e032ae1d5469907eb3025f56640d5e77f96e338de6acf8d2480db4a281409::evoai::EVOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/076c64a2-c941-46a7-8948-f1aa3c347dd1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

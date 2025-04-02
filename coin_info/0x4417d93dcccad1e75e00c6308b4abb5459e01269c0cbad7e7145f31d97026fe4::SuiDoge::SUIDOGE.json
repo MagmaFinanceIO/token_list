@@ -1,0 +1,13 @@
+{
+  "name": "Sui Doge Token",
+  "symbol": "SuiDoge",
+  "decimals": 6,
+  "coin_type": "0x4417d93dcccad1e75e00c6308b4abb5459e01269c0cbad7e7145f31d97026fe4::SuiDoge::SUIDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://sui-doge.4everland.store/logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

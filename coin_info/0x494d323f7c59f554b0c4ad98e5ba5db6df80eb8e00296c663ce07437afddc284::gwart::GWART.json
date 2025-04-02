@@ -1,0 +1,13 @@
+{
+  "name": "Zero Knowledge Snark",
+  "symbol": "GWART",
+  "decimals": 9,
+  "coin_type": "0x494d323f7c59f554b0c4ad98e5ba5db6df80eb8e00296c663ce07437afddc284::gwart::GWART",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Eg62MR4n7xX5vfvCqkP8LypbYsGK7EkfDi69pkycYhat.png?size=lg&key=a00091",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

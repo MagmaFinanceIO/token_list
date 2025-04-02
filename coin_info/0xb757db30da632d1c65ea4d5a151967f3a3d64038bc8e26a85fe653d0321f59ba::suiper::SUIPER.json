@@ -1,0 +1,13 @@
+{
+  "name": "Suiperman",
+  "symbol": "Suiper",
+  "decimals": 6,
+  "coin_type": "0xb757db30da632d1c65ea4d5a151967f3a3d64038bc8e26a85fe653d0321f59ba::suiper::SUIPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Captura_de_tela_2024_10_09_144825_removebg_preview_b5c00092a6.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

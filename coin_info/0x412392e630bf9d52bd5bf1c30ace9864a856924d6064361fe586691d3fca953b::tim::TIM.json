@@ -1,0 +1,13 @@
+{
+  "name": "Tim the button puppet",
+  "symbol": "tim",
+  "decimals": 9,
+  "coin_type": "0x412392e630bf9d52bd5bf1c30ace9864a856924d6064361fe586691d3fca953b::tim::TIM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmXG5pktHxjBEk435snC8jsK8yDDJoX5wns3jVMJtLuGx2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

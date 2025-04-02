@@ -1,0 +1,13 @@
+{
+  "name": "SUIMOON",
+  "symbol": "SAFEMOON",
+  "decimals": 9,
+  "coin_type": "0xc42769b7c6a3e65df9041fa95a30c357f82f166c030fc68d08939f32164fc1dd::safemoon::SAFEMOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e76e0f6f-7b9a-42db-8f21-6084fc76d94e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

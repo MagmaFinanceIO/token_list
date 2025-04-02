@@ -1,0 +1,13 @@
+{
+  "name": "Precipitate AI",
+  "symbol": "PREAI",
+  "decimals": 6,
+  "coin_type": "0xfe4bc68f7c0e977d31e93778d868b9652fe003b40e5d1fa06054884f600487fb::preai::PREAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2980ddbb-e507-4244-9f42-ae0412d1b179.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

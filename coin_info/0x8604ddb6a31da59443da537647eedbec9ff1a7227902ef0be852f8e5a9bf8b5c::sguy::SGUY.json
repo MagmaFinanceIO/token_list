@@ -1,0 +1,13 @@
+{
+  "name": "STRESS GUY",
+  "symbol": "SGUY",
+  "decimals": 9,
+  "coin_type": "0x8604ddb6a31da59443da537647eedbec9ff1a7227902ef0be852f8e5a9bf8b5c::sguy::SGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/dHadSsY2dvsoEDwDRP7rgq7EVYRZZ17qvpwkwsQpump.png?size=lg&key=8b75ef",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

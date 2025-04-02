@@ -1,0 +1,13 @@
+{
+  "name": "Thunder Moo Deng",
+  "symbol": "TDENG",
+  "decimals": 9,
+  "coin_type": "0xebcf9321a952682f326f2c92c922895e8dbae690d4780912dd8c034a0bf39527::tdeng::TDENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a2a161e2-e3f3-49fc-86f6-175f55af7b6d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

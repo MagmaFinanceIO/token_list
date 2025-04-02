@@ -1,0 +1,13 @@
+{
+  "name": "SUISHI CAT",
+  "symbol": "SuishiCat",
+  "decimals": 9,
+  "coin_type": "0x82c66f003d455446c391b459417ddd811fb50e3ea030d8d6f36214ae12f7ba07::suishicat::SUISHICAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/53883d1f-e0e5-418a-b4c9-87c86b1c0612.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

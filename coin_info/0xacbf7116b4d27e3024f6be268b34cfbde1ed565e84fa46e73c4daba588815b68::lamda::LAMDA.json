@@ -1,0 +1,13 @@
+{
+  "name": "LAMDA SUI",
+  "symbol": "LAMDA",
+  "decimals": 9,
+  "coin_type": "0xacbf7116b4d27e3024f6be268b34cfbde1ed565e84fa46e73c4daba588815b68::lamda::LAMDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cc3b8f98-153a-4928-97a7-363e501d26a7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

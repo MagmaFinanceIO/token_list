@@ -1,0 +1,13 @@
+{
+  "name": "HOPeless",
+  "symbol": "HOPELESS",
+  "decimals": 6,
+  "coin_type": "0x35ec45f1927663cbe36b07555b30bd25ccce7b0b938f2564ea185ffd879be4a2::hopeless::HOPELESS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmUSUvz6LgTdwnsTauQf5u6kPex8NwaMV2QVxgprTqc5Si",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

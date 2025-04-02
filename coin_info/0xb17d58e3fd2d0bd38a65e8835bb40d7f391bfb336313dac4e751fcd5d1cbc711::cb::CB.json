@@ -1,0 +1,13 @@
+{
+  "name": "t-CallBoyZ",
+  "symbol": "CB",
+  "decimals": 6,
+  "coin_type": "0xb17d58e3fd2d0bd38a65e8835bb40d7f391bfb336313dac4e751fcd5d1cbc711::cb::CB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmZRMjD582M84ZRZBMkmAmzXQV5vLTbLqbt7CL27nuTXYN",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

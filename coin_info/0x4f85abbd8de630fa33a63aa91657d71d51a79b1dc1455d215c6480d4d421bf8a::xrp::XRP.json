@@ -1,0 +1,13 @@
+{
+  "name": "XRP SANTA",
+  "symbol": "XRP",
+  "decimals": 9,
+  "coin_type": "0x4f85abbd8de630fa33a63aa91657d71d51a79b1dc1455d215c6480d4d421bf8a::xrp::XRP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4p4zDHas1zJ3tSjKQqsEydNahSgnhb2MYEBCMn2Rpump.png?size=lg&key=3386aa",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

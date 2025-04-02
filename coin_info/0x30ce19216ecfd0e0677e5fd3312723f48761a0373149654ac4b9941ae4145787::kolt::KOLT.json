@@ -1,0 +1,13 @@
+{
+  "name": "Sui Kolt",
+  "symbol": "KOLT",
+  "decimals": 9,
+  "coin_type": "0x30ce19216ecfd0e0677e5fd3312723f48761a0373149654ac4b9941ae4145787::kolt::KOLT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/116ddd93-8d95-44d5-84b7-40e766422dfb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

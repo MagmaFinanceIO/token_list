@@ -1,0 +1,13 @@
+{
+  "name": "Lenda ON Sui by SuiAI",
+  "symbol": "LENDA",
+  "decimals": 6,
+  "coin_type": "0xabd1440e65dc9115c109f344e48405e3ef5ef837cbc53f623e4eacc02316cfa3::lenda::LENDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Pld_CEKC_8_400x400_1_f56539fdd8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

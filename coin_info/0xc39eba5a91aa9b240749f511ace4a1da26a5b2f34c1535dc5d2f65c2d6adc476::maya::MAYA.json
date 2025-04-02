@@ -1,0 +1,13 @@
+{
+  "name": "Maya",
+  "symbol": "MAYA",
+  "decimals": 9,
+  "coin_type": "0xc39eba5a91aa9b240749f511ace4a1da26a5b2f34c1535dc5d2f65c2d6adc476::maya::MAYA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/25x9Av7ddPJQFVJy512VzzQ96A2Tqza22LtfHTKCpump.png?size=lg&key=8fde9b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

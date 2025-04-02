@@ -1,0 +1,13 @@
+{
+  "name": "CHERRY",
+  "symbol": "CHERRY",
+  "decimals": 9,
+  "coin_type": "0xce7b9b206801a4d46c7928ca27ff41631f71c32254e77c5cbc8d6632edd3f376::cherry::CHERRY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ca3a2769-8c2e-4e80-abe3-a80fa85b4c67.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

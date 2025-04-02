@@ -1,0 +1,13 @@
+{
+  "name": "SUITEMBER",
+  "symbol": "SUIT",
+  "decimals": 9,
+  "coin_type": "0x1940c88736958b1dfbd70b08a9ca30639c5e10cb55835693ba458ff7c87cf024::suit::SUIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e2d33862-ce6e-4fa9-b07f-c658ec75af76.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

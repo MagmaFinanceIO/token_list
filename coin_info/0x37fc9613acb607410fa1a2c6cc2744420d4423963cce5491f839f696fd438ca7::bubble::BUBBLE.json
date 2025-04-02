@@ -1,0 +1,13 @@
+{
+  "name": "Bubble",
+  "symbol": "BUBBLE",
+  "decimals": 9,
+  "coin_type": "0x37fc9613acb607410fa1a2c6cc2744420d4423963cce5491f839f696fd438ca7::bubble::BUBBLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1a5058a7-2522-4891-b6a2-5e0eadfdffc2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

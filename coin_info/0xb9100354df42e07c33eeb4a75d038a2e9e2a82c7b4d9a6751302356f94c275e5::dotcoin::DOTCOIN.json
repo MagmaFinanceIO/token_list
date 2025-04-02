@@ -1,0 +1,13 @@
+{
+  "name": "DOTCOIN",
+  "symbol": "DOTCOIN",
+  "decimals": 9,
+  "coin_type": "0xb9100354df42e07c33eeb4a75d038a2e9e2a82c7b4d9a6751302356f94c275e5::dotcoin::DOTCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMFQ-QMjSoRCL2GVf2qgGa1SQyDT2VAv5QBg&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

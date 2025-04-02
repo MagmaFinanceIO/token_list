@@ -1,0 +1,13 @@
+{
+  "name": "Sui Nut the Squirrel",
+  "symbol": "SNUT",
+  "decimals": 6,
+  "coin_type": "0x052fd541f39010829efa7450f3f7ce67c4aa2d26555aa8ff00efcf23ac0845c3::snut::SNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_94_67fa494a92.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

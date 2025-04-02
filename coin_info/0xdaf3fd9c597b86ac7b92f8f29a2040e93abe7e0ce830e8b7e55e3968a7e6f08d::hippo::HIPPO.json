@@ -1,0 +1,13 @@
+{
+  "name": "HIPPO Token",
+  "symbol": "HIPPO",
+  "decimals": 9,
+  "coin_type": "0xdaf3fd9c597b86ac7b92f8f29a2040e93abe7e0ce830e8b7e55e3968a7e6f08d::hippo::HIPPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Portrait_Hippopotamus_in_the_water.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

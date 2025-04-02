@@ -1,0 +1,13 @@
+{
+  "name": "Funky Blaze Sui",
+  "symbol": "FBS",
+  "decimals": 9,
+  "coin_type": "0xf720a34e226dee423906a278c7beea74d3bed38dd78639cd5d4fcb7f6c9af030::fbs::FBS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0e5044ff-c905-464a-8b79-16711bc9bb93.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

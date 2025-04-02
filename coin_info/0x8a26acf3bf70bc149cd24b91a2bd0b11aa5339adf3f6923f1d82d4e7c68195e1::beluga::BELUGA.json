@@ -1,0 +1,13 @@
+{
+  "name": "Beluga",
+  "symbol": "BELUGA",
+  "decimals": 6,
+  "coin_type": "0x8a26acf3bf70bc149cd24b91a2bd0b11aa5339adf3f6923f1d82d4e7c68195e1::beluga::BELUGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0117_8ac55de9a0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

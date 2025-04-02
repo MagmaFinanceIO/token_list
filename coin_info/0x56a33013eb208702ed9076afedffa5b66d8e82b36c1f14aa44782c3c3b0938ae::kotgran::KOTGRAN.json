@@ -1,0 +1,13 @@
+{
+  "name": "KotaroGranny",
+  "symbol": "KOTGRAN",
+  "decimals": 9,
+  "coin_type": "0x56a33013eb208702ed9076afedffa5b66d8e82b36c1f14aa44782c3c3b0938ae::kotgran::KOTGRAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FIMG_3522_fe16662ab5.jpeg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

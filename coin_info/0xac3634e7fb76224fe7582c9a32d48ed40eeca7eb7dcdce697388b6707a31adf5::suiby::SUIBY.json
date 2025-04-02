@@ -1,0 +1,13 @@
+{
+  "name": "Suibydoo",
+  "symbol": "SUIBY",
+  "decimals": 6,
+  "coin_type": "0xac3634e7fb76224fe7582c9a32d48ed40eeca7eb7dcdce697388b6707a31adf5::suiby::SUIBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_21672a0743.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

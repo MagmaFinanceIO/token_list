@@ -1,0 +1,13 @@
+{
+  "name": "Madi",
+  "symbol": "MADI",
+  "decimals": 9,
+  "coin_type": "0xdf11b29d2cc93d4f932d875ce8b159916de2e2c3624343d6e7638eca3120e110::madi::MADI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ddef5a19-d515-4e6f-8d7a-98c3c52cf347.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

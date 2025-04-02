@@ -1,0 +1,13 @@
+{
+  "name": "JIT COIN",
+  "symbol": "JIT",
+  "decimals": 9,
+  "coin_type": "0x1f6258804f17616a1b6d31efddc3b9025b5a0ecd22914b059b522ece34ab3198::jit::JIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6f51f6b8-a4f9-4fae-a807-7f83cc312277.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

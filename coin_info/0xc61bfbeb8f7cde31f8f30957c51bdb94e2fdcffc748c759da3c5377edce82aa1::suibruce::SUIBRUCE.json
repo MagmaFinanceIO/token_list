@@ -1,0 +1,13 @@
+{
+  "name": "Sui Bruce",
+  "symbol": "SUIBRUCE",
+  "decimals": 6,
+  "coin_type": "0xc61bfbeb8f7cde31f8f30957c51bdb94e2fdcffc748c759da3c5377edce82aa1::suibruce::SUIBRUCE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Bruce_9fa9c3dab3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

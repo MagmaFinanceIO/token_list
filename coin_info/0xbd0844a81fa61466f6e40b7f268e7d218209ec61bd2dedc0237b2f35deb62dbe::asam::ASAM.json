@@ -1,0 +1,13 @@
+{
+  "name": "Amasana",
+  "symbol": "ASAM",
+  "decimals": 9,
+  "coin_type": "0xbd0844a81fa61466f6e40b7f268e7d218209ec61bd2dedc0237b2f35deb62dbe::asam::ASAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c93cfaae-b180-4e22-a4c8-b713a5ebca18.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

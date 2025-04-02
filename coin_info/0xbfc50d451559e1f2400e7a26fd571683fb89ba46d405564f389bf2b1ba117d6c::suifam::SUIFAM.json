@@ -1,0 +1,13 @@
+{
+  "name": "SUITS FAM",
+  "symbol": "SUIFAM",
+  "decimals": 6,
+  "coin_type": "0xbfc50d451559e1f2400e7a26fd571683fb89ba46d405564f389bf2b1ba117d6c::suifam::SUIFAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SUITS_53ac9686fb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

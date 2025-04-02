@@ -1,0 +1,13 @@
+{
+  "name": "AlgoMLCoin",
+  "symbol": "ALML",
+  "decimals": 9,
+  "coin_type": "0x70a3af01dbfece112c02bebdeac5724e217f8eab06b40cd2b8c0298a364bd1bb::alml::ALML",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c59cdc7e-68d4-4126-8367-02ddb6a83e37.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

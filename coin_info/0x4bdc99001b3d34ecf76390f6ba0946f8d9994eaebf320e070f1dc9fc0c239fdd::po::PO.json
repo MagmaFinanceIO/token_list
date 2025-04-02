@@ -1,0 +1,13 @@
+{
+  "name": "Po The Polar Bear",
+  "symbol": "PO",
+  "decimals": 6,
+  "coin_type": "0x4bdc99001b3d34ecf76390f6ba0946f8d9994eaebf320e070f1dc9fc0c239fdd::po::PO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/4268acc9bb523b67c92fc03bcc437ebf_8951235708.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

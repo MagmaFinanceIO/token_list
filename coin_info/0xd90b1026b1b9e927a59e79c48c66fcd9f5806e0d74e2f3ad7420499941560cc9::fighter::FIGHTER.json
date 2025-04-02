@@ -1,0 +1,13 @@
+{
+  "name": "FIGHTER DOG",
+  "symbol": "FIGHTER",
+  "decimals": 6,
+  "coin_type": "0xd90b1026b1b9e927a59e79c48c66fcd9f5806e0d74e2f3ad7420499941560cc9::fighter::FIGHTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_2219_1213411000.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

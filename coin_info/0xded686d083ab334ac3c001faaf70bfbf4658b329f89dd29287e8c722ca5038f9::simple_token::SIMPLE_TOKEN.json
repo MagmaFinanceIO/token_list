@@ -1,0 +1,13 @@
+{
+  "name": "PETRUS",
+  "symbol": "PETRUS",
+  "decimals": 9,
+  "coin_type": "0xded686d083ab334ac3c001faaf70bfbf4658b329f89dd29287e8c722ca5038f9::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

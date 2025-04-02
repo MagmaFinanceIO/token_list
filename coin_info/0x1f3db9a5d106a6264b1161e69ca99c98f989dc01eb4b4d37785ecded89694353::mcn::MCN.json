@@ -1,0 +1,13 @@
+{
+  "name": "MaCoin",
+  "symbol": "MCN",
+  "decimals": 9,
+  "coin_type": "0x1f3db9a5d106a6264b1161e69ca99c98f989dc01eb4b4d37785ecded89694353::mcn::MCN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0e7e5d7b-5405-48db-a5eb-d8abe86b61b2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

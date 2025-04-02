@@ -1,0 +1,13 @@
+{
+  "name": "Brett on SUI",
+  "symbol": "SUIBRETT",
+  "decimals": 9,
+  "coin_type": "0x566923c3995f64c3f861e694da52cdc79d8b968bfcdb7f8a275c19c73fd9b99d::brett::BRETT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pink-naval-kingfisher-12.mypinata.cloud/ipfs/QmNRWbrAB3qXjjLX5h1MVL3hQN5aa2ruiyeDd8nBzo1Vjd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ai Moo deng",
+  "symbol": "Moodeng",
+  "decimals": 6,
+  "coin_type": "0x5e71fb4d72e47838d1bb13bb5357dc230318f0d25b5d64b5d38bc123e7bbc479::moodeng::MOODENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Kszb5k_LA_400x400_21dbc11f07.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

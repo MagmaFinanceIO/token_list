@@ -1,0 +1,13 @@
+{
+  "name": "Official Pinky Sui",
+  "symbol": "PINS",
+  "decimals": 6,
+  "coin_type": "0xa79f52bef769cca3ad3aa0dd06bf684fe455520f18f358b72005dafcd0d91f27::pins::PINS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_27_4b55d0d55b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

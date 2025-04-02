@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "symbol": "RIP",
+  "decimals": 6,
+  "coin_type": "0x50e04dea7319e075b93f766c030d986f229d0324aa277b17eabee6eea08f2d2c::my_coin::MY_COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

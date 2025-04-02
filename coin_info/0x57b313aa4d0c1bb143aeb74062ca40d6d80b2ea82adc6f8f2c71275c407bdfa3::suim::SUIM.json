@@ -1,0 +1,13 @@
+{
+  "name": "Sui Media",
+  "symbol": "SUIM",
+  "decimals": 5,
+  "coin_type": "0x57b313aa4d0c1bb143aeb74062ca40d6d80b2ea82adc6f8f2c71275c407bdfa3::suim::SUIM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/46634381-fb61-4149-821d-fcc198ca0111.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Santa Moo",
+  "symbol": "SANMOO",
+  "decimals": 9,
+  "coin_type": "0x3454ac84f62f491a98b6971b653c4a70bb99bf64c7836b59845cecca1ae0d79c::sanmoo::SANMOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/88Y69BnL7DVhftaW?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

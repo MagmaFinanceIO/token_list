@@ -1,0 +1,13 @@
+{
+  "name": "Pumpkin Dogs",
+  "symbol": "PUMDOG",
+  "decimals": 9,
+  "coin_type": "0x56757ebfb0939a59e0f8b67d7830cf198aa498d3b8428cb3a2a0a978edb4ad44::pumdog::PUMDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/69fdc615-90a1-404b-afc2-3395c0fcb11a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

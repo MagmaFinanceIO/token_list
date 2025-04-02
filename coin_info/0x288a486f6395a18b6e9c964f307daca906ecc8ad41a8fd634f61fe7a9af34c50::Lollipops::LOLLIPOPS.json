@@ -1,0 +1,13 @@
+{
+  "name": "Lollipop",
+  "symbol": "LOPOPS",
+  "decimals": 9,
+  "coin_type": "0x288a486f6395a18b6e9c964f307daca906ecc8ad41a8fd634f61fe7a9af34c50::Lollipops::LOLLIPOPS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

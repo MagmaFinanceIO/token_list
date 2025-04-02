@@ -1,0 +1,13 @@
+{
+  "name": "OMG3",
+  "symbol": "OMGthree",
+  "decimals": 9,
+  "coin_type": "0x992659de53fa1a0d0cdbe6d0b3c903578e2b34e17841fdcdee3f86b4bf8ab921::omgthree::OMGTHREE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fd674483-7882-441a-b514-359dbfd65db2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

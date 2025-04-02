@@ -1,0 +1,13 @@
+{
+  "name": "Duo Of The United States",
+  "symbol": "DOTUS",
+  "decimals": 9,
+  "coin_type": "0x660bfcfbe2399c6962be225b81afdbca763f065c2a8cf0b58746f29129ed01af::dotusa::DOTUSA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B6KCK3SFNcYAqTYXujvXD9mYQykzSz66BJto5moQpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

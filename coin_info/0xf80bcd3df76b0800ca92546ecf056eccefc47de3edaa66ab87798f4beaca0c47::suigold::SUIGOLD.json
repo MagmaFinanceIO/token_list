@@ -1,0 +1,13 @@
+{
+  "name": "SUIGOLD",
+  "symbol": "SUIGOLD",
+  "decimals": 9,
+  "coin_type": "0xf80bcd3df76b0800ca92546ecf056eccefc47de3edaa66ab87798f4beaca0c47::suigold::SUIGOLD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

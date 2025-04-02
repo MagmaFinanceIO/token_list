@@ -1,0 +1,13 @@
+{
+  "name": "ABC",
+  "symbol": "Armored Barbie Chicken",
+  "decimals": 9,
+  "coin_type": "0x772295b809c7a672d0d4351c698bb6b82456e17634e47dfddd3835ba526124bd::armored_barbie_chicken::ARMORED_BARBIE_CHICKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fa4d4f3d-0557-4358-b137-152e034651fe.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

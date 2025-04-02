@@ -1,0 +1,13 @@
+{
+  "name": "PEPE POND CHEF",
+  "symbol": "PEPOF",
+  "decimals": 9,
+  "coin_type": "0x7095515ffe1f84faf6a8d21fe950ae66f5b9d75fa808631c71dcba937f313042::pepof::PEPOF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f02d3d25-41b3-4db0-ba79-9b75e1fd3c29.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

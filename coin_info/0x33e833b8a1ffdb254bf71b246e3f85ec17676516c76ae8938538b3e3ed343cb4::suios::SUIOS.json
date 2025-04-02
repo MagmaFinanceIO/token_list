@@ -1,0 +1,13 @@
+{
+  "name": "SuiOS",
+  "symbol": "SuiOS",
+  "decimals": 6,
+  "coin_type": "0x33e833b8a1ffdb254bf71b246e3f85ec17676516c76ae8938538b3e3ed343cb4::suios::SUIOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://plum-accurate-ermine-64.mypinata.cloud/ipfs/QmdXg1BaAaq3UNbenGKZZnyL8dqNUyQbdgj8XWd4ab9RDq",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

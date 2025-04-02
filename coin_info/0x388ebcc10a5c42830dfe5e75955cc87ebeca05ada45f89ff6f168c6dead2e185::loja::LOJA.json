@@ -1,0 +1,13 @@
+{
+  "name": "LOJA COIN",
+  "symbol": "LOJA",
+  "decimals": 9,
+  "coin_type": "0x388ebcc10a5c42830dfe5e75955cc87ebeca05ada45f89ff6f168c6dead2e185::loja::LOJA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://gateway.irys.xyz/1Ms5W17CgDiv1o_0zKs_cqdCPBY2TgyvtqzEyYUSUyE",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

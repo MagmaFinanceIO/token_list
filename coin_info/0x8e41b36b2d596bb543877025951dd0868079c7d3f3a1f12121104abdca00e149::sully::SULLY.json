@@ -1,0 +1,13 @@
+{
+  "name": "SullyTheShrimp",
+  "symbol": "SULLY",
+  "decimals": 6,
+  "coin_type": "0x8e41b36b2d596bb543877025951dd0868079c7d3f3a1f12121104abdca00e149::sully::SULLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Sully_The_Shrimp_0d26f0d367.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

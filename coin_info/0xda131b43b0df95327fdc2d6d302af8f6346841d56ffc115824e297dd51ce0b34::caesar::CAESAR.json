@@ -1,0 +1,13 @@
+{
+  "name": "caesarape sui",
+  "symbol": "CAESAR",
+  "decimals": 6,
+  "coin_type": "0xda131b43b0df95327fdc2d6d302af8f6346841d56ffc115824e297dd51ce0b34::caesar::CAESAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_1_22_76d545bb61.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

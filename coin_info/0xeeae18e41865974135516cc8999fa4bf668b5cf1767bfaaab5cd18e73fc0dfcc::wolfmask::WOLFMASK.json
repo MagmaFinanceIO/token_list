@@ -1,0 +1,13 @@
+{
+  "name": "WolfMask",
+  "symbol": "WolfMask",
+  "decimals": 9,
+  "coin_type": "0xeeae18e41865974135516cc8999fa4bf668b5cf1767bfaaab5cd18e73fc0dfcc::wolfmask::WOLFMASK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ea50df8f-e0bf-4498-a532-3546bc06dffc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "KHORA AI",
+  "symbol": "KHORA",
+  "decimals": 9,
+  "coin_type": "0x6101b0a82539324b98444dda6eadd301f14c1b40018b93a713e8810b556f03bf::khora::KHORA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/xpwp_eoZEQrsqqgL?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

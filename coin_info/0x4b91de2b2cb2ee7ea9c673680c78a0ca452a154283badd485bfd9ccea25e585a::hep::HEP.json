@@ -1,0 +1,13 @@
+{
+  "name": "Hep",
+  "symbol": "Hep",
+  "decimals": 6,
+  "coin_type": "0x4b91de2b2cb2ee7ea9c673680c78a0ca452a154283badd485bfd9ccea25e585a::hep::HEP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmTiWn4JR3nJGz7P2FhJBQW1B6A3NMy8KeSxmE857dnRJK",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

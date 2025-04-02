@@ -1,0 +1,13 @@
+{
+  "name": "ECO AI",
+  "symbol": "ECO",
+  "decimals": 6,
+  "coin_type": "0x0e1d7e74553516edbdc56f1406d1c6baecdca876d61fd0cb1b981a9fd8c977a5::eco::ECO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736679248221.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

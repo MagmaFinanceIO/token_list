@@ -1,0 +1,13 @@
+{
+  "name": "Sui Cats",
+  "symbol": "SUICATS",
+  "decimals": 9,
+  "coin_type": "0xd6bb6e613c74612ea30de816d24866b5d20f7671c8c794a1c969e83cb675125c::suicats::SUICATS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://aquamarine-giant-muskox-172.mypinata.cloud/ipfs/Qmara5dGbj7yBQLMG3xXmGAuLTksRKwg9XPHk7up1EZBKh",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI.BOX",
+  "symbol": "BOX",
+  "decimals": 9,
+  "coin_type": "0x164cd071c6f60f1f841d868036e0954e1ade9661aee192e336f09f8285f5e681::box::BOX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/91858e1a-597f-46f8-a298-55f51f2d5553.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

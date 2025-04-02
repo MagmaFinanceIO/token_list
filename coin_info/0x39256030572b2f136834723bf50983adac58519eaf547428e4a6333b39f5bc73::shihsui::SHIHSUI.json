@@ -1,0 +1,13 @@
+{
+  "name": "Shih Sui",
+  "symbol": "ShihSui",
+  "decimals": 6,
+  "coin_type": "0x39256030572b2f136834723bf50983adac58519eaf547428e4a6333b39f5bc73::shihsui::SHIHSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_11_00_14_52_582ad6a260.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

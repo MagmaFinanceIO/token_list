@@ -1,0 +1,13 @@
+{
+  "name": "Hello Kitty",
+  "symbol": "KITTY",
+  "decimals": 9,
+  "coin_type": "0x7226419fabc2f63bf3c340a823f636c93975d9a80d9cdca9800718494bc6dbd0::kitty::KITTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/98cf08fd-6f9d-4c59-bbb4-49817187a97b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

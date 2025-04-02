@@ -1,0 +1,13 @@
+{
+  "name": "Fat Builder by SuiAI",
+  "symbol": "FATBUILDER",
+  "decimals": 6,
+  "coin_type": "0x7fb18d0d41dbb3fd3815f5ae8abdf379094a5c28c1c083959738f6bbb8c4afca::fatbuilder::FATBUILDER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/88da51af8d058e515441baffd912e1f7_high_df28e56d16.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

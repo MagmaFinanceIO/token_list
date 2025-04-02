@@ -1,0 +1,13 @@
+{
+  "name": "Suibi",
+  "symbol": "SUIBI",
+  "decimals": 6,
+  "coin_type": "0x2b196acd6cf2ad5b26359ac5a450f5c4e5fa571604c39768dea663f10c79a5af::suibi::SUIBI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000035371_594ab9bcdc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

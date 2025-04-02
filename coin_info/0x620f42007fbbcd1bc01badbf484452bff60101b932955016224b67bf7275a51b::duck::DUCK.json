@@ -1,0 +1,13 @@
+{
+  "name": "DUCK",
+  "symbol": "DUCK",
+  "decimals": 2,
+  "coin_type": "0x620f42007fbbcd1bc01badbf484452bff60101b932955016224b67bf7275a51b::duck::DUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/af1ed11c-1968-482f-b650-228fe0131a71.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

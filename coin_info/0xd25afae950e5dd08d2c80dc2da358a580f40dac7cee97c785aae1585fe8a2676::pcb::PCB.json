@@ -1,0 +1,13 @@
+{
+  "name": "Poseidon Club",
+  "symbol": "PCB",
+  "decimals": 8,
+  "coin_type": "0xd25afae950e5dd08d2c80dc2da358a580f40dac7cee97c785aae1585fe8a2676::pcb::PCB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://iili.io/J0hxBqu.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

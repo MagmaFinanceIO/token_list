@@ -1,0 +1,13 @@
+{
+  "name": "LOAF",
+  "symbol": "LOAF",
+  "decimals": 9,
+  "coin_type": "0x666e1b1ef00934d9c2b68aa8a77456afc2be32413b03f295ccc1ca6bd17b622f::loaf::LOAF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AkxfNWRo9vdhQ4LPXPXNMvybUyJVvrQAWnFQ6HXpump.png?size=lg&key=7952a9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

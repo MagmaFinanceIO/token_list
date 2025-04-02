@@ -1,0 +1,13 @@
+{
+  "name": "Pop fish on sui",
+  "symbol": "POPFISH",
+  "decimals": 6,
+  "coin_type": "0xb630cc87d1705948b49c64df0e0fceff318d8f7c365d3321ee31c023f4cda6a5::popfish::POPFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20250105_214847_111_5b3947a2c3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

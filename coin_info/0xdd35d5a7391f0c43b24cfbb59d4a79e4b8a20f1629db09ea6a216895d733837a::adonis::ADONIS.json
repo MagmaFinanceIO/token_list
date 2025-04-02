@@ -1,0 +1,13 @@
+{
+  "name": "AdonisCoin",
+  "symbol": "ADONIS",
+  "decimals": 6,
+  "coin_type": "0xdd35d5a7391f0c43b24cfbb59d4a79e4b8a20f1629db09ea6a216895d733837a::adonis::ADONIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Ultima_077_764e510f9a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

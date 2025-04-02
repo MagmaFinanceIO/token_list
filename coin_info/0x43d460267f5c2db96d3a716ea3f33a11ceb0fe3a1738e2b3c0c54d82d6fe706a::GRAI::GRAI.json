@@ -1,0 +1,13 @@
+{
+  "name": "GRAI",
+  "symbol": "GRAI",
+  "decimals": 9,
+  "coin_type": "0x43d460267f5c2db96d3a716ea3f33a11ceb0fe3a1738e2b3c0c54d82d6fe706a::GRAI::GRAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GOAT GAINS",
+  "symbol": "GGAINS",
+  "decimals": 9,
+  "coin_type": "0x78203254a691ce0a346b24da06c2fb26d59b8d63a9b98c4427bb34eaa9b0b150::ggains::GGAINS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/TX7BC6b9zyhKgUVxpJv4gYMpAkRTiWUCd7eeY5xpump.png?size=lg&key=a2ea51",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

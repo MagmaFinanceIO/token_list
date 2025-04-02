@@ -1,0 +1,13 @@
+{
+  "name": "STARS",
+  "symbol": "STARS",
+  "decimals": 9,
+  "coin_type": "0xf3d70219f9579e8c3b2232a04a2bf07b3a71e7475d4f56d2a9188cce2ad3975b::stars::STARS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

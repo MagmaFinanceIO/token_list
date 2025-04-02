@@ -1,0 +1,13 @@
+{
+  "name": "Infinity Links",
+  "symbol": "ILK",
+  "decimals": 6,
+  "coin_type": "0x342a978832cb7211c75713808f15c0888825b926b4942966e8816fd772590d9a::ilk::ILK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000388_1165fc7639.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

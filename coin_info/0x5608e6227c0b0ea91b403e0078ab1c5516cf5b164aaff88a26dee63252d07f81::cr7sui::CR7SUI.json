@@ -1,0 +1,13 @@
+{
+  "name": "CR7SUI *",
+  "symbol": "CR7SUI",
+  "decimals": 6,
+  "coin_type": "0x5608e6227c0b0ea91b403e0078ab1c5516cf5b164aaff88a26dee63252d07f81::cr7sui::CR7SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/C_Rsui_615a44e313.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

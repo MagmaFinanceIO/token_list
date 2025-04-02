@@ -1,0 +1,13 @@
+{
+  "name": "Minion cat",
+  "symbol": "MINIC",
+  "decimals": 6,
+  "coin_type": "0x5d2be9d4b1519234d78006e4e4ef87bc56eb00d0a8f3fb72d76b5dc4d1978c39::minic::MINIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_2046_5969a36712.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

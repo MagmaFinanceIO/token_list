@@ -1,0 +1,13 @@
+{
+  "name": "Chonky on SUI",
+  "symbol": "CHONKY",
+  "decimals": 9,
+  "coin_type": "0xe8af8ab5e0414b539975830c3374ee0ac67e2e9857ded09ee48d754165e6ddf3::chonky::CHONKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xbb0dda4a8a26cf753865ee281dc38dd3a27d23a2.png?size=xl&key=2f20b8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

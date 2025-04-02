@@ -1,0 +1,13 @@
+{
+  "name": "OpenAI Protocol",
+  "symbol": "OpenAI",
+  "decimals": 9,
+  "coin_type": "0x60024cb8cd14816e9aa680f1bf03271e9fd2260f7db694028fccee23350b1eb5::openai::OPENAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d1156a8f-ea38-4d13-8861-9e89d7258aa8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

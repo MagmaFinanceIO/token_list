@@ -1,0 +1,13 @@
+{
+  "name": "Sui MEGAMIND",
+  "symbol": "SMIND",
+  "decimals": 6,
+  "coin_type": "0xaf62165aba17baca49113584f6d61a9f5bed96052dbe6e3ec3dd4e1f6a5aa174::smind::SMIND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a426a909-2394-48f4-8c94-3cee69f19657.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

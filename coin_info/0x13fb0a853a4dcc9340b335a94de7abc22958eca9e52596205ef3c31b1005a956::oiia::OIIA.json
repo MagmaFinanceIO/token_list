@@ -1,0 +1,13 @@
+{
+  "name": "OiiaOiia",
+  "symbol": "OIIA",
+  "decimals": 9,
+  "coin_type": "0x13fb0a853a4dcc9340b335a94de7abc22958eca9e52596205ef3c31b1005a956::oiia::OIIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c6e552ce-b3b3-46eb-a48a-e460e48f6729.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

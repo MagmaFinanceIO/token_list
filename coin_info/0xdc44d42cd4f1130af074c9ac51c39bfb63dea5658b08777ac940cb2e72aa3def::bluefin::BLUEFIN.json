@@ -1,0 +1,13 @@
+{
+  "name": "Bluefin Tuna 👑",
+  "symbol": "BLUEFIN",
+  "decimals": 9,
+  "coin_type": "0xdc44d42cd4f1130af074c9ac51c39bfb63dea5658b08777ac940cb2e72aa3def::bluefin::BLUEFIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a08f4398-7571-44dc-8cdf-9506f1f83502.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

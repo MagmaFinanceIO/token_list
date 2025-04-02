@@ -1,0 +1,13 @@
+{
+  "name": "FLOCKERZ ON SUI",
+  "symbol": "FLOCKERZ",
+  "decimals": 9,
+  "coin_type": "0x9d9a81c256dcdc7fe8ef5912233b069271f1553c705e99d40fa97c31366f3dba::flockerz::FLOCKERZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8c2cc9b8-e870-4412-93b5-a33a78f5d722.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

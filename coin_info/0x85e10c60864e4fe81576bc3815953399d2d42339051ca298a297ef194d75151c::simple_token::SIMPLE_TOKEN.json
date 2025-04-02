@@ -1,0 +1,13 @@
+{
+  "name": "POTUSUI",
+  "symbol": "POTUSUI",
+  "decimals": 9,
+  "coin_type": "0x85e10c60864e4fe81576bc3815953399d2d42339051ca298a297ef194d75151c::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

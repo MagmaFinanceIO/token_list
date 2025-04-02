@@ -1,0 +1,13 @@
+{
+  "name": "Super Cat",
+  "symbol": "SUPERCAT",
+  "decimals": 6,
+  "coin_type": "0x913fc933df142bd91de298c2769aa4aea7c842df06d424c45ee86f957a3825bf::supercat::SUPERCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000859_7b593a149c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

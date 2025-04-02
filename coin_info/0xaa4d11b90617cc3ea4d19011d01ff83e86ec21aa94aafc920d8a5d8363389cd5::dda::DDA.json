@@ -1,0 +1,13 @@
+{
+  "name": "dda",
+  "symbol": "dda",
+  "decimals": 6,
+  "coin_type": "0xaa4d11b90617cc3ea4d19011d01ff83e86ec21aa94aafc920d8a5d8363389cd5::dda::DDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

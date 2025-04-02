@@ -1,0 +1,13 @@
+{
+  "name": "HippoWifHat",
+  "symbol": "HippoWHat",
+  "decimals": 9,
+  "coin_type": "0xa217a303665b103f2461fd56d89025150893bbb39f87f452d61475a785823568::hippowhat::HIPPOWHAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aaad5264-ec41-4066-8d61-7ad082e47705.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

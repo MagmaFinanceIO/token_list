@@ -1,0 +1,13 @@
+{
+  "name": "Sui Joker AI",
+  "symbol": "JOKER",
+  "decimals": 9,
+  "coin_type": "0xb4616b7217ec5e4fc256bc97da82f513f12eab16972c38283be33e705fc89e92::joker::JOKER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/85366974-db03-4132-a6fa-ad752d6b2b28.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

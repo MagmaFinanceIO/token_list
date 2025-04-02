@@ -1,0 +1,13 @@
+{
+  "name": "WISE AGENT",
+  "symbol": "WISE",
+  "decimals": 6,
+  "coin_type": "0xc245f2fdca721c1b37b44bf3c82bc60666df11655c8be44cce79211d8be05945::wise::WISE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/God_of_nature_ff4b40f7d9.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

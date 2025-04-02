@@ -1,0 +1,13 @@
+{
+  "name": "JOJI",
+  "symbol": "JOJI",
+  "decimals": 9,
+  "coin_type": "0xf2b689c05baa7b854d9f8702fc4176d5ac33af3fa9fbd3f5d78bc5fece990b9e::joji::JOJI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AvfcWBJ9MeDJXUFpKiaBxxdT7hHZg7oKXUK6jY5vpump.png?size=lg&key=fda76d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuiCake",
+  "symbol": "SCAKE",
+  "decimals": 6,
+  "coin_type": "0x318bfbccd2824945379a3b27e33203b6b81dcb369336fdeafd810c2411bbbecb::scake::SCAKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000260487_088abbfaef.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

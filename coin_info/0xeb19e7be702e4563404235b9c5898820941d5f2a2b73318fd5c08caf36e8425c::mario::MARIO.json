@@ -1,0 +1,13 @@
+{
+  "name": "First Mario On Sui",
+  "symbol": "MARIO",
+  "decimals": 6,
+  "coin_type": "0xeb19e7be702e4563404235b9c5898820941d5f2a2b73318fd5c08caf36e8425c::mario::MARIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/future_ff08272a32.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Happy Cat",
+  "symbol": "HAPPYCAT",
+  "decimals": 6,
+  "coin_type": "0xc2b21ce70b1329a2d9e383977afefed5a81d3b77223c268b173cdb6ae7e403ca::happycat::HAPPYCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BOW WOW SUI",
+  "symbol": "BOWSUI",
+  "decimals": 9,
+  "coin_type": "0x091e43927f956bddcd38fe1afaf1c38fb07b7c124631336f35c938b09de82ffa::bowsui::BOWSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d53211f3-454c-4d85-89b8-0937be717783.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

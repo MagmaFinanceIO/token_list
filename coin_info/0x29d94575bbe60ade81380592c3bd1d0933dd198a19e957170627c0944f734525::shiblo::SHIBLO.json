@@ -1,0 +1,13 @@
+{
+  "name": "Shiba Diablo",
+  "symbol": "SHIBLO",
+  "decimals": 9,
+  "coin_type": "0x29d94575bbe60ade81380592c3bd1d0933dd198a19e957170627c0944f734525::shiblo::SHIBLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5ae7ab02-09b6-4e7e-85ba-98da2cd510f6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

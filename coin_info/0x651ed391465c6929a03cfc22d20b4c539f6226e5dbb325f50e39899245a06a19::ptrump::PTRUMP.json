@@ -1,0 +1,13 @@
+{
+  "name": "PopTrump",
+  "symbol": "PTrump",
+  "decimals": 6,
+  "coin_type": "0x651ed391465c6929a03cfc22d20b4c539f6226e5dbb325f50e39899245a06a19::ptrump::PTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_XDHD_Ey2uf7_S_Fbb_F35_Spyn_Awef_V_Pf_T_Qr72_Vk_AF_Zg_Sjv_Xf_0efaa88860.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

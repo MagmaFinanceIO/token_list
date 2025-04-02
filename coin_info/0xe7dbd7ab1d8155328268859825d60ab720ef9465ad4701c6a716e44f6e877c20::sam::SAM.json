@@ -1,0 +1,13 @@
+{
+  "name": "Samtoshi",
+  "symbol": "SAM",
+  "decimals": 6,
+  "coin_type": "0xe7dbd7ab1d8155328268859825d60ab720ef9465ad4701c6a716e44f6e877c20::sam::SAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_2025_01_09_T205757_582_af638e5298.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

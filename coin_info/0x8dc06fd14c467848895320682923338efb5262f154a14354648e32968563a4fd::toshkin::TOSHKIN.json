@@ -1,0 +1,13 @@
+{
+  "name": "TOSHKIN",
+  "symbol": "TOSHKIN",
+  "decimals": 9,
+  "coin_type": "0x8dc06fd14c467848895320682923338efb5262f154a14354648e32968563a4fd::toshkin::TOSHKIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b1e3bc49-c966-416e-8a6f-f7cde8418a54.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

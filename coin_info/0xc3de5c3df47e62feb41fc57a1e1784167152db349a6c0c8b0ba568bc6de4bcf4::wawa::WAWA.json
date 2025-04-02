@@ -1,0 +1,13 @@
+{
+  "name": "Wawa Inu",
+  "symbol": "WAWA",
+  "decimals": 9,
+  "coin_type": "0xc3de5c3df47e62feb41fc57a1e1784167152db349a6c0c8b0ba568bc6de4bcf4::wawa::WAWA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9b31965a-62de-4a34-9dfc-4de82cd8214c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

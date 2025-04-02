@@ -1,0 +1,13 @@
+{
+  "name": "MOLEDENG",
+  "symbol": "MOLEDENG",
+  "decimals": 9,
+  "coin_type": "0x4558d0705be64247b825f1ab7e3c24de54b9b2ed55f81f685cecc879a2d619f6::moledeng::MOLEDENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5e554664-e651-4e07-9f57-5844da9b4fd1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

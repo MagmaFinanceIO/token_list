@@ -1,0 +1,13 @@
+{
+  "name": "Runestone coin",
+  "symbol": "RSC",
+  "decimals": 9,
+  "coin_type": "0xda61b276e752ef38b3fd0eb9b8f8a33bd79d393fdd2fe828c758e51f0a6c10d4::rsc::RSC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

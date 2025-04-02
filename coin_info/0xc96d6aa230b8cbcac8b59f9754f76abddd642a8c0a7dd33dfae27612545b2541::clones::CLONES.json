@@ -1,0 +1,13 @@
+{
+  "name": "Clones Coin",
+  "symbol": "clones",
+  "decimals": 9,
+  "coin_type": "0xc96d6aa230b8cbcac8b59f9754f76abddd642a8c0a7dd33dfae27612545b2541::clones::CLONES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2ocRmgxFPnfvTJzT8mMTJDFDSFq5BmXFPRRPdEf3WT9r.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

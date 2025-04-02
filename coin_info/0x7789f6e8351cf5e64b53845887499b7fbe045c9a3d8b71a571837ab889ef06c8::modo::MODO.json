@@ -1,0 +1,13 @@
+{
+  "name": "Modo",
+  "symbol": "MODO",
+  "decimals": 9,
+  "coin_type": "0x7789f6e8351cf5e64b53845887499b7fbe045c9a3d8b71a571837ab889ef06c8::modo::MODO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CE2v8YWo6bpLto31CSQBnMQh5hKuH5HiDLJtr4sYZEF4.png?size=lg&key=6890e3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

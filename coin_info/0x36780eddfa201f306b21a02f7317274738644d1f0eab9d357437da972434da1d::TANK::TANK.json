@@ -1,0 +1,13 @@
+{
+  "name": "AgentTank",
+  "symbol": "TANK",
+  "decimals": 2,
+  "coin_type": "0x36780eddfa201f306b21a02f7317274738644d1f0eab9d357437da972434da1d::TANK::TANK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/mWUxR_wxZP73iK4ZOZ63AVdfC2eFhJI1Je7ynzJSM6w?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

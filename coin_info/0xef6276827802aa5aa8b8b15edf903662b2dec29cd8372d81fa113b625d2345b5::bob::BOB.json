@@ -1,0 +1,13 @@
+{
+  "name": "Build on Bnb",
+  "symbol": "BOB",
+  "decimals": 9,
+  "coin_type": "0xef6276827802aa5aa8b8b15edf903662b2dec29cd8372d81fa113b625d2345b5::bob::BOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7YgnRD1dvX1feXsXsMc3Fz7CArpKXPnG1hA6WuTCpump.png?size=lg&key=00b537",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

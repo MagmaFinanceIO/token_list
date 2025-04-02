@@ -1,0 +1,13 @@
+{
+  "name": "Sui Chipi",
+  "symbol": "CHIPI",
+  "decimals": 9,
+  "coin_type": "0x5f441e77f33e1b275e80c7b6836eb60f10e9ca1a8b425c4fa0b1b247a1073da7::chipi::CHIPI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4c94c155-246b-4d3e-87d2-a0fc3b27db57.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

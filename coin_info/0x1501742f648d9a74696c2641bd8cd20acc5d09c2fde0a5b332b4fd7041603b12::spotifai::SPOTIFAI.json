@@ -1,0 +1,13 @@
+{
+  "name": "SpotifAI by SuiAI",
+  "symbol": "SPOTIFAI",
+  "decimals": 6,
+  "coin_type": "0x1501742f648d9a74696c2641bd8cd20acc5d09c2fde0a5b332b4fd7041603b12::spotifai::SPOTIFAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Diseno_sin_titulo_2025_01_14_T231022_462_4a7b6b9bab.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

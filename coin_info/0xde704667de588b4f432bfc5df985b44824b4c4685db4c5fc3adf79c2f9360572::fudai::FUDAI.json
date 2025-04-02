@@ -1,0 +1,13 @@
+{
+  "name": "FUD AI",
+  "symbol": "FUDAI",
+  "decimals": 9,
+  "coin_type": "0xde704667de588b4f432bfc5df985b44824b4c4685db4c5fc3adf79c2f9360572::fudai::FUDAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/87dd5167-c48a-4001-ac5a-19bf02dee40d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

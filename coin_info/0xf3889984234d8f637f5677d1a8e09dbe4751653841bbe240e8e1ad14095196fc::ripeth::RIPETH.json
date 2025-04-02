@@ -1,0 +1,13 @@
+{
+  "name": "RIP ETH",
+  "symbol": "RIPETH",
+  "decimals": 9,
+  "coin_type": "0xf3889984234d8f637f5677d1a8e09dbe4751653841bbe240e8e1ad14095196fc::ripeth::RIPETH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HHyqD6kLviJzTHxrNzgzjXLr2WLprbJBbzwziybKpump.png?size=xl&key=d6265b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

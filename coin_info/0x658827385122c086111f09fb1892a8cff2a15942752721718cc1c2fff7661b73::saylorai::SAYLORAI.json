@@ -1,0 +1,13 @@
+{
+  "name": "SaylorBot",
+  "symbol": "SAYLORAI",
+  "decimals": 6,
+  "coin_type": "0x658827385122c086111f09fb1892a8cff2a15942752721718cc1c2fff7661b73::saylorai::SAYLORAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000083287_58abae8aa9.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

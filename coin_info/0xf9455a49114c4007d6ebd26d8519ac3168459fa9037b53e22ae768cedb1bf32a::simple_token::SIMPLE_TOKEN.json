@@ -1,0 +1,13 @@
+{
+  "name": "UltraAI",
+  "symbol": "UltraAI",
+  "decimals": 9,
+  "coin_type": "0xf9455a49114c4007d6ebd26d8519ac3168459fa9037b53e22ae768cedb1bf32a::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

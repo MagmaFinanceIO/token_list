@@ -1,0 +1,13 @@
+{
+  "name": "Skurtl",
+  "symbol": "SKURTL",
+  "decimals": 6,
+  "coin_type": "0x7ddddb5162502d27d4a2bd309dcc8a45365442c583662e24f7e1712e65b541d9::skurtl::SKURTL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/JM_9_GP_Yjh_400x400_1_a60fdc9a52.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

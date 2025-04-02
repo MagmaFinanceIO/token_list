@@ -1,0 +1,13 @@
+{
+  "name": "AL1CE AGENT",
+  "symbol": "ALICE",
+  "decimals": 9,
+  "coin_type": "0x0e975ca68a7cad7607271c173c784d34aaaeb1116e4887901a8bafef5732c6bf::alice::ALICE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://agent-alice.xyz/alice.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

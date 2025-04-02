@@ -1,0 +1,13 @@
+{
+  "name": "DeepBook Token",
+  "symbol": "DEEP",
+  "decimals": 6,
+  "coin_type": "0xdeeb7a4662eec9f2f3def03fb937a663dddaa2e215b8078a284d026b7946c270::deep::DEEP",
+  "pyth_id": "",
+  "birdeyeid": "0xdeeb7a4662eec9f2f3def03fb937a663dddaa2e215b8078a284d026b7946c270::deep::DEEP",
+  "coin_priority": [],
+  "logo_url": "https://oyflsj63aqulztiwsfy3cg4oly6m34pyw2uirqpbfz2rllr6dzoa.arweave.net/dgq5J9sEKLzNFpFxsRuOXjzN8fi2qIjB4S51Fa4-Hlw",
+  "project_url": "",
+  "coingecko_id": "deep",
+  "is_trusted": true
+}

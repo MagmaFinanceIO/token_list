@@ -1,0 +1,13 @@
+{
+  "name": "SuiBertie",
+  "symbol": "Bertie",
+  "decimals": 6,
+  "coin_type": "0x4f50ced57adc68b5987b6bf987213b794e54956261c01044d18ed08e6d0e698d::bertie::BERTIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Qqis_X_Yzfr_ZB_Se_C49_Sok_Ga2c2_Wj_X_Ht_Zc_Ab_Ao1_U3p_BD_Jty_9610b78d5c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

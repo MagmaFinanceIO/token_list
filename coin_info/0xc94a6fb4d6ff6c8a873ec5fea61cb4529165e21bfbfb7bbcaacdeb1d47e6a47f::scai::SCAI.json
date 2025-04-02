@@ -1,0 +1,13 @@
+{
+  "name": "SynthCode AI",
+  "symbol": "SCAI",
+  "decimals": 9,
+  "coin_type": "0xc94a6fb4d6ff6c8a873ec5fea61cb4529165e21bfbfb7bbcaacdeb1d47e6a47f::scai::SCAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmWFnESAurag65GiBTibkyGqn8RhqiDoEYUix4vZZn5xqu",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Colosseum AI",
+  "symbol": "Emperor",
+  "decimals": 6,
+  "coin_type": "0xcadfa03b1ce64698642cc39ff76e114c7649c75719b8ed19a279d8c146363f21::emperor::EMPEROR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_TJ_42_G2dd_Sc_Db1jsr_Yjc_BVD_Zwf_AS_Wv_N7e9m_F_Edi_Juyt_Nt_13128bd961.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

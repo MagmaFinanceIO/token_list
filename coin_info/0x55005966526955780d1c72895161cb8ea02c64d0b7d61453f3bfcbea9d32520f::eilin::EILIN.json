@@ -1,0 +1,13 @@
+{
+  "name": "Eilin AI by SuiAI",
+  "symbol": "EILIN",
+  "decimals": 6,
+  "coin_type": "0x55005966526955780d1c72895161cb8ea02c64d0b7d61453f3bfcbea9d32520f::eilin::EILIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_2086_a3803ac827.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

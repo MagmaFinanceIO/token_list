@@ -1,0 +1,13 @@
+{
+  "name": "Chevalanier Sui by SuiAI",
+  "symbol": "CHEVA",
+  "decimals": 6,
+  "coin_type": "0x77ef2fef6f19ef03d29746373c207a8eea6b1b2909c5db6209d04928f8a559e6::cheva::CHEVA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/cheva_06c66fc742.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

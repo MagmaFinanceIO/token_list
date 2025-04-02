@@ -1,0 +1,13 @@
+{
+  "name": "Degen Cartman",
+  "symbol": "Degen",
+  "decimals": 9,
+  "coin_type": "0xb731b0698c840135574d0868acc7c9d5be9c45b2cd144fdfda5bd56cd76788c5::degen::DEGEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Cv5w6oLCquS4M3WN7DcwFrFiCCJwiL31MCJu3jTXpump.png?size=lg&key=b6f8f8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

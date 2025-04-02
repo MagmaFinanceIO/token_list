@@ -1,0 +1,13 @@
+{
+  "name": "qqq",
+  "symbol": "QQQ",
+  "decimals": 9,
+  "coin_type": "0x567b61f081b7c7b72064b69916f66090520a30ceb85d15baf131a43af1e252fd::qqq::QQQ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://amber-hilarious-ostrich-689.mypinata.cloud/files/bafkreic5rvww44r365h66omnrhxft5fsz7v4cliq45xbiv4d4g7isbl7sm?X-Algorithm=PINATA1&X-Date=1736744514&X-Expires=315360000&X-Method=GET&X-Signature=86ddaeb3a2094269dbc20e378462cfbff7ae960525b06b406d2065a514aa7cd8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "VibeAI Agent by SuiAI",
+  "symbol": "VIBEAI",
+  "decimals": 6,
+  "coin_type": "0x959f07e259ef6e0ffe3a64cf0021ac9e964d8fc78f146268dd4b0c55c26793c1::vibeai::VIBEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/undefined_image_1_79341d4b4a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Icy the Seal",
+  "symbol": "ICY",
+  "decimals": 9,
+  "coin_type": "0x43687c0bb82ad36ca06841b6d830520d7a1153780c399eb07c61cd79e32a4bed::icy::ICY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6HAgBL4ANWQaxKoJQ4zsL41rJuPZxAvBf82qRMqghYou.png?size=lg&key=e9d8d2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

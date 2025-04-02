@@ -1,0 +1,13 @@
+{
+  "name": "Guy",
+  "symbol": "GUY",
+  "decimals": 9,
+  "coin_type": "0x7c1dfc94c2bed22eecafde1e757817864d1f7dfb9bcc74bfa1109e9bb825065e::guy::GUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/864/535/large/nkta-photo-2024-10-12-14-07-30.jpg?1728731516",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

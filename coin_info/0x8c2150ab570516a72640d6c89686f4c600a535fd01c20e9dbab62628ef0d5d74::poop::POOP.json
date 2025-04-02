@@ -1,0 +1,13 @@
+{
+  "name": "Poop Nuggets",
+  "symbol": "POOP",
+  "decimals": 6,
+  "coin_type": "0x8c2150ab570516a72640d6c89686f4c600a535fd01c20e9dbab62628ef0d5d74::poop::POOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1738522977988.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

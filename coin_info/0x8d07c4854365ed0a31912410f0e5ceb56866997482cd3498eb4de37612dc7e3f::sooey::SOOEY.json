@@ -1,0 +1,13 @@
+{
+  "name": "Sooey The Pig",
+  "symbol": "SOOEY",
+  "decimals": 6,
+  "coin_type": "0x8d07c4854365ed0a31912410f0e5ceb56866997482cd3498eb4de37612dc7e3f::sooey::SOOEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/3j_Tv_S61_400x400_880b31ca7b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

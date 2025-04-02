@@ -1,0 +1,13 @@
+{
+  "name": "Uncle Urf",
+  "symbol": "URF",
+  "decimals": 9,
+  "coin_type": "0xe5bdb759678c954ce782c4ea36fa21a97de0734f652bbe345d8c5de2f415b8db::urf::URF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/X2L3QorhcFxtkbhf76AKUvJMAsTtv7f4ALmWXBzV1zn.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

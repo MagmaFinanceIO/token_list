@@ -1,0 +1,13 @@
+{
+  "name": "Sala The Cat",
+  "symbol": "SALA",
+  "decimals": 9,
+  "coin_type": "0xc92752ed5cf8e288e5a3606c0d9dd12654f6114b235f514eb08c66f4f0ef6fd2::sala::SALA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FSjfY5gMgX2mUssmrwXir1ZGcghex45StVgcSHpUpump.png?size=lg&key=ea3ce7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

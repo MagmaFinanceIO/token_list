@@ -1,0 +1,13 @@
+{
+  "name": "Pakkun",
+  "symbol": "PAK",
+  "decimals": 9,
+  "coin_type": "0xb9c9a440915cc3e8010860a23cefffb9d6c7f652574d6a276912c3b1709f64ca::pak::PAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/44eb0c1f-77ce-4ddf-b0b6-c25841a012db.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

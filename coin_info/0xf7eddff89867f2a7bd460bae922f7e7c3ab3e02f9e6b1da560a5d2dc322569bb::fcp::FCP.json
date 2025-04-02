@@ -1,0 +1,13 @@
+{
+  "name": "First Crypto President",
+  "symbol": "FCP",
+  "decimals": 9,
+  "coin_type": "0xf7eddff89867f2a7bd460bae922f7e7c3ab3e02f9e6b1da560a5d2dc322569bb::fcp::FCP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ix6yKSNAFZwxAigWDnYcCNW5kqUAgSmVwysx1MKpump.png?size=lg&key=d12634",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

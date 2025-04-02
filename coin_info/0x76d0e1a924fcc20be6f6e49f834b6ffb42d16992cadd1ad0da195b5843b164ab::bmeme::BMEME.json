@@ -1,0 +1,13 @@
+{
+  "name": "BABY M3M3 SUI",
+  "symbol": "BMEME",
+  "decimals": 9,
+  "coin_type": "0x76d0e1a924fcc20be6f6e49f834b6ffb42d16992cadd1ad0da195b5843b164ab::bmeme::BMEME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d0d8a4a3-d124-4c3e-bd49-a0bba288b143.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

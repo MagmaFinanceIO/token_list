@@ -1,0 +1,13 @@
+{
+  "name": "Sui's monster Glip Glop",
+  "symbol": "GLIP",
+  "decimals": 9,
+  "coin_type": "0xabc8e9a64518123991c8bdc093e2b96a9a9b825622167a712d8d8143244cbd2b::glipglop::GLIPGLOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b36c2949-44fb-4b2f-95d3-0bec84cbdb21.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

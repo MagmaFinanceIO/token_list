@@ -1,0 +1,13 @@
+{
+  "name": "SUIGO",
+  "symbol": "SUIGO",
+  "decimals": 9,
+  "coin_type": "0x0fbc84c21728a9e680d1825fc384c9004c78405b5c79a9bd69b7ec73843271d1::suigo::SUIGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0x7d2e89ec92799d75872a6392f8f6b577141ec97cd925cf5abf0c6a6171fc2ccc::suigo::suigo/header.png?size=xl&key=b8216c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

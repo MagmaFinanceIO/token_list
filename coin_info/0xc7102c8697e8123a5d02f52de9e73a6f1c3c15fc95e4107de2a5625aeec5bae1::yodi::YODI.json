@@ -1,0 +1,13 @@
+{
+  "name": "Yodi the christmas elf",
+  "symbol": "YODI",
+  "decimals": 6,
+  "coin_type": "0xc7102c8697e8123a5d02f52de9e73a6f1c3c15fc95e4107de2a5625aeec5bae1::yodi::YODI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_13_84b1b34ac0.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

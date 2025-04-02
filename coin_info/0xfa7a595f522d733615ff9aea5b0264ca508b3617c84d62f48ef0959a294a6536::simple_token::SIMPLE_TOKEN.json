@@ -1,0 +1,13 @@
+{
+  "name": "MYSTERY SUI",
+  "symbol": "MYSTERY",
+  "decimals": 9,
+  "coin_type": "0xfa7a595f522d733615ff9aea5b0264ca508b3617c84d62f48ef0959a294a6536::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

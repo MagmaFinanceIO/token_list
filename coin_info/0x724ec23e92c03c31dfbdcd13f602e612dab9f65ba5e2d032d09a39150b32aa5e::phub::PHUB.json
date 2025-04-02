@@ -1,0 +1,13 @@
+{
+  "name": "PHUB",
+  "symbol": "PHUB",
+  "decimals": 9,
+  "coin_type": "0x724ec23e92c03c31dfbdcd13f602e612dab9f65ba5e2d032d09a39150b32aa5e::phub::PHUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9YDqc1TARUKzQ4YX5NQgCqkAvrsNMvCyKHYGHzUegaic.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

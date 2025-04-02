@@ -1,0 +1,13 @@
+{
+  "name": "Distinguished Doge",
+  "symbol": "POSHDOGE",
+  "decimals": 9,
+  "coin_type": "0x0101b0233515addd07845d1856e5508616e44a404a1fbf64159287df11094476::poshdoge::POSHDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "RrFe4x_Df_sVxw-H",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

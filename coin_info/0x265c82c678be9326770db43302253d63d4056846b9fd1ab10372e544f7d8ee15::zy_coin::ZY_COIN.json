@@ -1,0 +1,13 @@
+{
+  "name": "ZY Coin",
+  "symbol": "ZY",
+  "decimals": 9,
+  "coin_type": "0x265c82c678be9326770db43302253d63d4056846b9fd1ab10372e544f7d8ee15::zy_coin::ZY_COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://example.com/zy_coin.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Side Eye Dog",
+  "symbol": "CHICO",
+  "decimals": 9,
+  "coin_type": "0x226c4cb648bfd5d9cc4a18410a9292a5f141f270761f6755ae03ece2f8aac106::chico::CHICO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2xWeKP4qq4pd8jyWm1kLvT3ei847AY5MTFVhwn2qpump.png?size=lg&key=a9fd05",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

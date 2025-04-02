@@ -1,0 +1,13 @@
+{
+  "name": "Los on Sol",
+  "symbol": "LOS",
+  "decimals": 9,
+  "coin_type": "0x21afb3fdb97a7cc04b993958b16da3202b87da5b6343ea1a12bf43ad1be3e1ad::los::LOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/rXJRSJm.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

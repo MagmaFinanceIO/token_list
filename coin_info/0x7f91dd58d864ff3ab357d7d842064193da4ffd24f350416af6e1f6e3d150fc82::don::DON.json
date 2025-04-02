@@ -1,0 +1,13 @@
+{
+  "name": "Donny the Dino",
+  "symbol": "DON",
+  "decimals": 9,
+  "coin_type": "0x7f91dd58d864ff3ab357d7d842064193da4ffd24f350416af6e1f6e3d150fc82::don::DON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bbf3e715-b1fb-413e-869b-8a2a4ed20e57.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

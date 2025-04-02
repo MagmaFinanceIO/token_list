@@ -1,0 +1,13 @@
+{
+  "name": "Cetus Escrowed Token",
+  "symbol": "XCETUS",
+  "decimals": 9,
+  "coin_type": "0x1f52d244c2f986471663bc28d3b6512fa52b44cf71f46831debb9e84a71316e9::xcetus::XCETUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e6232cd6-66f1-4ac6-9fbb-b49f9202a585.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

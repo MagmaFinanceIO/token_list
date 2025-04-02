@@ -1,0 +1,13 @@
+{
+  "name": "Ruby Floof",
+  "symbol": "RUBBY",
+  "decimals": 9,
+  "coin_type": "0x69fccbb68e5d4a804e1892015a52a913c2e0d4368c42c020574be69595d25d23::rubby::RUBBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/F5SzB4vYjQkqadmjoWDMMa5nBkaBPuMqDET6kBppump.png?size=lg&key=95d38c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

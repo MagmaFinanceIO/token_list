@@ -1,0 +1,13 @@
+{
+  "name": "pepewonderswhy",
+  "symbol": "pww",
+  "decimals": 9,
+  "coin_type": "0x5d5792e6fedcf5e9b10481d8cad337a37e01abe0c0cb062c56e6e7b9b98e304c::pww::PWW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3d6b90ec-6c69-480e-ad7a-44f6330f4213.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

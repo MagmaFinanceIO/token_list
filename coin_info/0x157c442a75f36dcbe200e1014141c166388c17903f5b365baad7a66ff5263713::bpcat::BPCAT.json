@@ -1,0 +1,13 @@
+{
+  "name": "Blueprint Cat",
+  "symbol": "BPCAT",
+  "decimals": 6,
+  "coin_type": "0x157c442a75f36dcbe200e1014141c166388c17903f5b365baad7a66ff5263713::bpcat::BPCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/prop_8112b26eb0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Don't buy this coin",
+  "symbol": "DBTC",
+  "decimals": 9,
+  "coin_type": "0xe049fa0829f38833cc420d803f14fbbd2e40849f4f906289d150031c227ad1e8::dbtc::DBTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BUAv6q4v5E2Pt5ms15uzxhFF1L6rXsG5i4NmSim9pump.png?size=lg&key=74296c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

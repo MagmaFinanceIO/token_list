@@ -1,0 +1,13 @@
+{
+  "name": "Trust The Process",
+  "symbol": "TRUST",
+  "decimals": 6,
+  "coin_type": "0xa21516b9418fd8ccb4f6ddf04db891625fa3206fc908e2710a29c9c544260ca1::trust::TRUST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/plain_black_background_d9475b5bb7.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

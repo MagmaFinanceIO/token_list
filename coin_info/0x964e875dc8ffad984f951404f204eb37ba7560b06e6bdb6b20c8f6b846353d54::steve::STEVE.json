@@ -1,0 +1,13 @@
+{
+  "name": "STEVE",
+  "symbol": "STEVE",
+  "decimals": 6,
+  "coin_type": "0x964e875dc8ffad984f951404f204eb37ba7560b06e6bdb6b20c8f6b846353d54::steve::STEVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/21a32b63-ef9a-4319-a9e3-8a12091bd084.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

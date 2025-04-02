@@ -1,0 +1,13 @@
+{
+  "name": "SquidOnSui",
+  "symbol": "SQID",
+  "decimals": 9,
+  "coin_type": "0x273faadb8565941495466c4bcf1f49605612bbefaffb6afde656c2447a0f7788::sqid::SQID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/20aa1ff2-fa38-4ec5-8b8f-c4a652e45bb7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Wormhole",
+  "symbol": "W",
+  "decimals": 8,
+  "coin_type": "0x3b646cd7f9469a4b2e04887f6f31de221e57d2d72a162be9a7529110010ffec1::w::W",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/27805cf4-0253-414d-b3c5-37db6d4dc2ec.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Remilia",
+  "symbol": "Remilia",
+  "decimals": 9,
+  "coin_type": "0x6009132dd1e39cb7864d3afb14b48401fd28d6eb11f64e423d0784969a2bab88::remilia::REMILIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8wZvGcGePvWEa8tKQUYctMXFSkqS39scozVU9xBVrUjY.png?size=lg&key=3b3606",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

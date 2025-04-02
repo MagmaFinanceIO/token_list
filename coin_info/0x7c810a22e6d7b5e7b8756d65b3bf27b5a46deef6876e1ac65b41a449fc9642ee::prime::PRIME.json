@@ -1,0 +1,13 @@
+{
+  "name": "Optimus",
+  "symbol": "PRIME",
+  "decimals": 9,
+  "coin_type": "0x7c810a22e6d7b5e7b8756d65b3bf27b5a46deef6876e1ac65b41a449fc9642ee::prime::PRIME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1841153200688074755/HU0WuOuL.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

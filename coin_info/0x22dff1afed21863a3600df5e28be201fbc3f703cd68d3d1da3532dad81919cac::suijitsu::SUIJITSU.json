@@ -1,0 +1,13 @@
+{
+  "name": "SUIJITSU SHIH-TZU",
+  "symbol": "SUIJITSU",
+  "decimals": 9,
+  "coin_type": "0x22dff1afed21863a3600df5e28be201fbc3f703cd68d3d1da3532dad81919cac::suijitsu::SUIJITSU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/800fbed5-bcad-4229-bc40-42f1b18a8da2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

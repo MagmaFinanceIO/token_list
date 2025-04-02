@@ -1,0 +1,13 @@
+{
+  "name": "Popfwog",
+  "symbol": "POPFWOG",
+  "decimals": 9,
+  "coin_type": "0xb506c732d02db16856fc0c42d92a6bb307b22f2852b6e258f42d83686be85136::popfwog::POPFWOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5c315683-6536-44d5-800f-bcfba30fc4a7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

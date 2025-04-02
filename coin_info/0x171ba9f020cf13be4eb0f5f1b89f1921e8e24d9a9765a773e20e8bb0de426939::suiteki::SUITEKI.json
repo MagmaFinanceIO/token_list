@@ -1,0 +1,13 @@
+{
+  "name": "Suiteki",
+  "symbol": "SUITEKI",
+  "decimals": 6,
+  "coin_type": "0x171ba9f020cf13be4eb0f5f1b89f1921e8e24d9a9765a773e20e8bb0de426939::suiteki::SUITEKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitledsds_design_b27c3cdd00.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

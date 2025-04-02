@@ -1,0 +1,13 @@
+{
+  "name": "Sui Pepig",
+  "symbol": "PEPIG",
+  "decimals": 9,
+  "coin_type": "0x8185e7fcda1aca88217e84a6a03ccb4a2593f4b5a1f453bb2e0b25bccdb46db2::pepig::PEPIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmZ3jUBXN6g5mvuzBewcePWx4XRwPhAyFY1Z2fnULMR1NV?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

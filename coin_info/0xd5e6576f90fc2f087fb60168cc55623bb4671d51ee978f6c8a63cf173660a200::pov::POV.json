@@ -1,0 +1,13 @@
+{
+  "name": "You Held",
+  "symbol": "POV",
+  "decimals": 9,
+  "coin_type": "0xd5e6576f90fc2f087fb60168cc55623bb4671d51ee978f6c8a63cf173660a200::pov::POV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmW7E1Cik7TKwWxBMFUxDrJByzgPk2JkfKGcQw351EDp5B",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

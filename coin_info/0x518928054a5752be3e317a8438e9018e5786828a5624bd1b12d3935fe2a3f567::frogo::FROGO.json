@@ -1,0 +1,13 @@
+{
+  "name": "Frogo",
+  "symbol": "FROGO",
+  "decimals": 6,
+  "coin_type": "0x518928054a5752be3e317a8438e9018e5786828a5624bd1b12d3935fe2a3f567::frogo::FROGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_S8i_Jc_Bk_Psqm_FFF_De_Rc_V9_L6_U6r_X_Kia_Vz_Dccj_Qx_Aurra_S6_f65ccea89d.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

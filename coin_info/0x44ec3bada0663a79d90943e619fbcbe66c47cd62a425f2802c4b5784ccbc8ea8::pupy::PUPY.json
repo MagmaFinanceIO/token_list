@@ -1,0 +1,13 @@
+{
+  "name": "PUPY on SUI",
+  "symbol": "PUPY",
+  "decimals": 9,
+  "coin_type": "0x44ec3bada0663a79d90943e619fbcbe66c47cd62a425f2802c4b5784ccbc8ea8::pupy::PUPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Bykzp3Bd3hDFUEiVHJkmg9oMcFsKLbmMHLCJsu4Fpump.png?size=xl&key=e6d7ab",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

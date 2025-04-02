@@ -1,0 +1,13 @@
+{
+  "name": "Fullsend Fi",
+  "symbol": "FULLSEND",
+  "decimals": 9,
+  "coin_type": "0xdf32f3226d7e8da3becf9978e321a1f20035a23a98e97b89addb77c433042d4c::fullsend::FULLSEND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/522kHFQsf9NeDrMS8J7gpihV391ofgLqop2Sn4Efpump.png?size=lg&key=6dcf17",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

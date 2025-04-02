@@ -1,0 +1,13 @@
+{
+  "name": "Suiba Inu",
+  "symbol": "SUIB",
+  "decimals": 9,
+  "coin_type": "0xed4504e791e1dad7bf93b41e089b4733c27f35fde505693e18186c2ba8e2e14b::suib::SUIB",
+  "pyth_id": "",
+  "birdeyeid": "0xed4504e791e1dad7bf93b41e089b4733c27f35fde505693e18186c2ba8e2e14b::suib::SUIB",
+  "coin_priority": [],
+  "logo_url": "https://fvies4qayyhittfc6gxdfldafsmynmk5o5yitbrtnujlpbktv77a.arweave.net/LVBJcgDGDonMovGuMqxgLJmGsV13cImGM20St4VTr_4",
+  "project_url": "",
+  "coingecko_id": "suiba-inu",
+  "is_trusted": true
+}

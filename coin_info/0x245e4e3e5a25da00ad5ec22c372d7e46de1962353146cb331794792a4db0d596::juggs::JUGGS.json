@@ -1,0 +1,13 @@
+{
+  "name": "JUGGS",
+  "symbol": "JUGGS",
+  "decimals": 9,
+  "coin_type": "0x245e4e3e5a25da00ad5ec22c372d7e46de1962353146cb331794792a4db0d596::juggs::JUGGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CaXUzx64Ae1PxCXYbt8PMyufaVVFNM1aykyLW4Crpump.png?size=lg&key=9fbb05",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

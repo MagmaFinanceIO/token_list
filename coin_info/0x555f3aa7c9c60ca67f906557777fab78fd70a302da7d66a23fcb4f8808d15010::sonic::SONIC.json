@@ -1,0 +1,13 @@
+{
+  "name": "Sonic Snipe Bot",
+  "symbol": "Sonic",
+  "decimals": 9,
+  "coin_type": "0x555f3aa7c9c60ca67f906557777fab78fd70a302da7d66a23fcb4f8808d15010::sonic::SONIC",
+  "pyth_id": "",
+  "birdeyeid": "0x555f3aa7c9c60ca67f906557777fab78fd70a302da7d66a23fcb4f8808d15010::sonic::SONIC",
+  "coin_priority": [],
+  "logo_url": "https://gateway.irys.xyz/E82DQkogizAv1CYi8nbgWydVx49DHy42qSRzksMx4iwx",
+  "project_url": "",
+  "coingecko_id": "sonic-snipe-bot",
+  "is_trusted": true
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Blum",
+  "symbol": "BLUM",
+  "decimals": 9,
+  "coin_type": "0x574f129ae0ee6ad117bd595cacbfba586a4ffa5756c85367f4c2b196fda03265::blum::BLUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/76994349-1724-413b-81c2-dc509293a171.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

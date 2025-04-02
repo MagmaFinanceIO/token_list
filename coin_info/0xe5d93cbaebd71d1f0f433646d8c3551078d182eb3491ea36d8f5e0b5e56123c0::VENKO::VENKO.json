@@ -1,0 +1,13 @@
+{
+  "name": "VENKO",
+  "symbol": "VENKO",
+  "decimals": 6,
+  "coin_type": "0xe5d93cbaebd71d1f0f433646d8c3551078d182eb3491ea36d8f5e0b5e56123c0::VENKO::VENKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://black-written-grasshopper-675.mypinata.cloud/ipfs/QmYg9AKqV3a6cDGZ2CP4wZFPnrytDFsseLuijjSDMC6TrH",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

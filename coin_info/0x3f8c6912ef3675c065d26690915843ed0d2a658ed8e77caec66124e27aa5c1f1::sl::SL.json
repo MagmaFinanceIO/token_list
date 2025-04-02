@@ -1,0 +1,13 @@
+{
+  "name": "The Society Library",
+  "symbol": "SL",
+  "decimals": 9,
+  "coin_type": "0x3f8c6912ef3675c065d26690915843ed0d2a658ed8e77caec66124e27aa5c1f1::sl::SL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmYK2EpTiGuRE2HgVHTATdXxvGrVdw5z59xp4GpazjxTdN",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "0xSui",
+  "symbol": "OXSUI",
+  "decimals": 9,
+  "coin_type": "0x01fae95cac478cc5a758b31c21e0f6ef2ed42a0d5563f5ee51951bfe563317dc::oxsui::OXSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3d9842cf-9a9d-4935-b00c-1416f17c4b8c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

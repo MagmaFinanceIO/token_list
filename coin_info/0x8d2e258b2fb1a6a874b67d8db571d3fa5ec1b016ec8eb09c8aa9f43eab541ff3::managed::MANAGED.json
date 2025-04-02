@@ -1,0 +1,13 @@
+{
+  "name": "KOX",
+  "symbol": "KOX",
+  "decimals": 9,
+  "coin_type": "0x8d2e258b2fb1a6a874b67d8db571d3fa5ec1b016ec8eb09c8aa9f43eab541ff3::managed::MANAGED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

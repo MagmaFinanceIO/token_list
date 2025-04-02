@@ -1,0 +1,13 @@
+{
+  "name": "Groggy Gus",
+  "symbol": "GUS",
+  "decimals": 6,
+  "coin_type": "0x457b032746c225d35489e3c260349125245656d44d1f048f2370d5edf4a66851::gus::GUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c0708aaa-067e-4212-8f78-edd1f9678905.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

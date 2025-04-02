@@ -1,0 +1,13 @@
+{
+  "name": "SUPER PEPE",
+  "symbol": "PEPES",
+  "decimals": 8,
+  "coin_type": "0x0745e2c9564c038581aa992f31a9254bbc0c2a68dbd1dbae76bfe2293de6b51f::pepes::PEPES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8948da0f-bc5e-41d1-99ed-b1374a546008.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

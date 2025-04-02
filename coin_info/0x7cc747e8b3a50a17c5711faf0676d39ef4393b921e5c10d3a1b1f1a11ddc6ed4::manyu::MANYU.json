@@ -1,0 +1,13 @@
+{
+  "name": "littlemanyu",
+  "symbol": "Manyu",
+  "decimals": 9,
+  "coin_type": "0x7cc747e8b3a50a17c5711faf0676d39ef4393b921e5c10d3a1b1f1a11ddc6ed4::manyu::MANYU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2a59dc44-f037-4028-adf6-83dafa038487.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

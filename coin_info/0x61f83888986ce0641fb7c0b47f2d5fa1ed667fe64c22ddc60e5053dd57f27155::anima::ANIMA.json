@@ -1,0 +1,13 @@
+{
+  "name": "ANIMA AI MODEL",
+  "symbol": "ANIMA",
+  "decimals": 9,
+  "coin_type": "0x61f83888986ce0641fb7c0b47f2d5fa1ed667fe64c22ddc60e5053dd57f27155::anima::ANIMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1bccf2b2-fb16-4b5d-b3d9-216342fe9754.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

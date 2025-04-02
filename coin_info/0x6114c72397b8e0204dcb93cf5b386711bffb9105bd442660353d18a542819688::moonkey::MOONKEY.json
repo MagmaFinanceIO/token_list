@@ -1,0 +1,13 @@
+{
+  "name": "Moonkey",
+  "symbol": "MOONKEY",
+  "decimals": 9,
+  "coin_type": "0x6114c72397b8e0204dcb93cf5b386711bffb9105bd442660353d18a542819688::moonkey::MOONKEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HVeMoxfsDyWtDvsspJKcd9Z6tthmcC9DNb2Jt1qTgpCe.png?size=lg&key=387267",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

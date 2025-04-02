@@ -1,0 +1,13 @@
+{
+  "name": "DystopiAI",
+  "symbol": "DAI",
+  "decimals": 6,
+  "coin_type": "0xeff9c76885a81d2cc8fc48a6e0869a7d06163e333ec7dd3ce0810f0b14c9085e::dai::DAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Dystopiai_coin_1_e662c0ce62.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

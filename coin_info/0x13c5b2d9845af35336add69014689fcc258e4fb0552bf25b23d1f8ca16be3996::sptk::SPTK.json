@@ -1,0 +1,13 @@
+{
+  "name": "SepthikTank",
+  "symbol": "SPTK",
+  "decimals": 6,
+  "coin_type": "0x13c5b2d9845af35336add69014689fcc258e4fb0552bf25b23d1f8ca16be3996::sptk::SPTK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_20241016_230327_1_e71fd2271a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

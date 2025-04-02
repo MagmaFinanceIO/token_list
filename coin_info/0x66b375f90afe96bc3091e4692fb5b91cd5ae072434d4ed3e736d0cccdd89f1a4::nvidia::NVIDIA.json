@@ -1,0 +1,13 @@
+{
+  "name": "NVIDIA",
+  "symbol": "NVIDIA",
+  "decimals": 9,
+  "coin_type": "0x66b375f90afe96bc3091e4692fb5b91cd5ae072434d4ed3e736d0cccdd89f1a4::nvidia::NVIDIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ANTAm5gdyNDkPaUSjBnpMA9XatZ6vo3YCoEkRsm9pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

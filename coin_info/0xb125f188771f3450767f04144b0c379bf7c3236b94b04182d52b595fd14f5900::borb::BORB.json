@@ -1,0 +1,13 @@
+{
+  "name": "BORB MEME",
+  "symbol": "BORB",
+  "decimals": 6,
+  "coin_type": "0xb125f188771f3450767f04144b0c379bf7c3236b94b04182d52b595fd14f5900::borb::BORB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/bork_ok_a11f0bc379.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

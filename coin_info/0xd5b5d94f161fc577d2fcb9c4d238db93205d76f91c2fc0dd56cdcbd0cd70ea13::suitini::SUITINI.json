@@ -1,0 +1,13 @@
+{
+  "name": "Suitini",
+  "symbol": "STI",
+  "decimals": 6,
+  "coin_type": "0xd5b5d94f161fc577d2fcb9c4d238db93205d76f91c2fc0dd56cdcbd0cd70ea13::suitini::SUITINI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

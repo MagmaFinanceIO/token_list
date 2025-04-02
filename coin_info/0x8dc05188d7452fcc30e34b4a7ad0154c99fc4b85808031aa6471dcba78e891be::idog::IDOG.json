@@ -1,0 +1,13 @@
+{
+  "name": "instadog",
+  "symbol": "idog",
+  "decimals": 6,
+  "coin_type": "0x8dc05188d7452fcc30e34b4a7ad0154c99fc4b85808031aa6471dcba78e891be::idog::IDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmawnaomKYfiWaVdV8tqnDQLh3WKBRFCPEbxNWLinYJATJ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

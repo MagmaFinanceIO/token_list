@@ -1,0 +1,13 @@
+{
+  "name": "FINDING DORY",
+  "symbol": "DORY",
+  "decimals": 6,
+  "coin_type": "0x911b7ce2248aaad41bd6b34aa6d94b3a2173bd798121fef666a4e43b151dae34::dory::DORY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3648_209d67c81b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

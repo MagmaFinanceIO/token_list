@@ -1,0 +1,13 @@
+{
+  "name": "DeepSeek First AI Agent",
+  "symbol": "LiLi",
+  "decimals": 9,
+  "coin_type": "0x906b4e7ddbaee59f22c7534319d04ba4a49cf5ea0c4d9f8e9dc86c56849f34a2::lili::LILI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/UcG568xghf8kHkG1WXmhze9QYb7oTEzVFbXc4Qspump.png?size=lg&key=d2b217",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

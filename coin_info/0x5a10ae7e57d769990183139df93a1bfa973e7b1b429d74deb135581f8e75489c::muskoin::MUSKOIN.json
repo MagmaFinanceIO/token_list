@@ -1,0 +1,13 @@
+{
+  "name": "Sultan Al-Muskcoin",
+  "symbol": "MUSKOIN",
+  "decimals": 9,
+  "coin_type": "0x5a10ae7e57d769990183139df93a1bfa973e7b1b429d74deb135581f8e75489c::muskoin::MUSKOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/56d79e8d-0f01-465e-abb0-d3fde0beb07f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

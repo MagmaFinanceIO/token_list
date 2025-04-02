@@ -1,0 +1,13 @@
+{
+  "name": "FatDog",
+  "symbol": "FAT",
+  "decimals": 9,
+  "coin_type": "0xf126f6e88a678f4fdfcfd62f71a703d80ccc9c1bf7aeac09f125ff3951b7604a::fat::FAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3debe7e3-90de-4110-abf0-4a874dd370e8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

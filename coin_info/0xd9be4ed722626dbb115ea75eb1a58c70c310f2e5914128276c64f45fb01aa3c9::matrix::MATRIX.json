@@ -1,0 +1,13 @@
+{
+  "name": "Escape the matrix",
+  "symbol": "MATRIX",
+  "decimals": 9,
+  "coin_type": "0xd9be4ed722626dbb115ea75eb1a58c70c310f2e5914128276c64f45fb01aa3c9::matrix::MATRIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B8rewgn27navW3tBXuzErWPBHEb8gKZhrGkx7NuUpump.png?size=lg&key=8b9837",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

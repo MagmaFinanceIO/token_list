@@ -1,0 +1,13 @@
+{
+  "name": "snail's pace",
+  "symbol": "Snailspace",
+  "decimals": 6,
+  "coin_type": "0xa3d61d53509ebcc297209d9f5dcd79f3bd42d4e0b2279c1c0881e8143dd5b0b6::snailspace::SNAILSPACE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_10_15_07_19_fad3faba7e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

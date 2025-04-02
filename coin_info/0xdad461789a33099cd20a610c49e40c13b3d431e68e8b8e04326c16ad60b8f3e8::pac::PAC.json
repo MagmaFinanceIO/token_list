@@ -1,0 +1,13 @@
+{
+  "name": "PacMoon SUI",
+  "symbol": "$PAC",
+  "decimals": 6,
+  "coin_type": "0xdad461789a33099cd20a610c49e40c13b3d431e68e8b8e04326c16ad60b8f3e8::pac::PAC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmaRFQwFAUMGZM8pGLfDm9eLBZavpWtgxTBXK9x9e5ZzLQ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

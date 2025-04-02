@@ -1,0 +1,13 @@
+{
+  "name": "Oink",
+  "symbol": "OINK",
+  "decimals": 6,
+  "coin_type": "0x812913861f25029206fd21eae955f4da6426d08d50527ed83096b1323f75f1e1::oink::OINK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731009880405.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

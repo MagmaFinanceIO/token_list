@@ -1,0 +1,13 @@
+{
+  "name": "Sui Cat",
+  "symbol": "SUICAT",
+  "decimals": 6,
+  "coin_type": "0x1d3d28ab91dc46734ca3fb96ef740e1747f68695d2664fedfc7074e880531918::suicat::SUICAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_aed3ccfa91.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

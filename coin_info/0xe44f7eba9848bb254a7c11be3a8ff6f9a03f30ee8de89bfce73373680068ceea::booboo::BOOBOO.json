@@ -1,0 +1,13 @@
+{
+  "name": "Boo-Boo Tummy",
+  "symbol": "BOOBOO",
+  "decimals": 6,
+  "coin_type": "0xe44f7eba9848bb254a7c11be3a8ff6f9a03f30ee8de89bfce73373680068ceea::booboo::BOOBOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/b_Vet6_Ta_400x400_cef3aba8ef.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

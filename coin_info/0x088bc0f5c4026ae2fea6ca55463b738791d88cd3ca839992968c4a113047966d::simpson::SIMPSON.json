@@ -1,0 +1,13 @@
+{
+  "name": "Sui Simpson",
+  "symbol": "SIMPSON",
+  "decimals": 9,
+  "coin_type": "0x088bc0f5c4026ae2fea6ca55463b738791d88cd3ca839992968c4a113047966d::simpson::SIMPSON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3b1c3b8f-76c6-450c-a16a-fc24db85c9b2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Baby Ponke",
+  "symbol": "BabyPonke",
+  "decimals": 9,
+  "coin_type": "0x5c129020c2c96c0345a03edf9310e98da3e934eea1a212d8f866bf559f3034e3::babyponke::BABYPONKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b8ba7821-b2c3-4695-9ff7-fe922ee37cce.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

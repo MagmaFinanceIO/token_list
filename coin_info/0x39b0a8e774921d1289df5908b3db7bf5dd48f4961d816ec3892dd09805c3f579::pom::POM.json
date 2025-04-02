@@ -1,0 +1,13 @@
+{
+  "name": "PomPumpCoin",
+  "symbol": "POM",
+  "decimals": 9,
+  "coin_type": "0x39b0a8e774921d1289df5908b3db7bf5dd48f4961d816ec3892dd09805c3f579::pom::POM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/71e1d95d-1f6a-432e-b147-3d3fbaa8b6e3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

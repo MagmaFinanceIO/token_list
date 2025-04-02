@@ -1,0 +1,13 @@
+{
+  "name": "BEER",
+  "symbol": "BEER",
+  "decimals": 9,
+  "coin_type": "0x310e49141684a597672fb989239b1cf3de57b12af8f7480a37da1d2919f5f15d::beer::BEER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.clawhammersupply.com/cdn/shop/articles/how_to_make_beer.jpg?v=1682910375&width=1532",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

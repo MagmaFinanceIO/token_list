@@ -1,0 +1,13 @@
+{
+  "name": "Pop Hamster Sui",
+  "symbol": "POPHAMSTER",
+  "decimals": 9,
+  "coin_type": "0x6934fd8aa699fd23bd49d372f15481b9a8f0d1e6491807c13e31d5d654c36f85::pophamster::POPHAMSTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/862e8e7b-ad7d-4820-92c8-ad0fb97fd1e7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

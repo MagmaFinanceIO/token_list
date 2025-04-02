@@ -1,0 +1,13 @@
+{
+  "name": "SPOUTING WHALE",
+  "symbol": "WHALE",
+  "decimals": 6,
+  "coin_type": "0x0073bab1f153e3e505e289c4f532ad109e50e65dbc383ee5a9cae27905f045c3::whale::WHALE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/whale.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TRYB",
+  "symbol": "TRYOS",
+  "decimals": 9,
+  "coin_type": "0xb474012695c43dd195268b0d457682441509935f4376e6853cf6ba1d0e1ba2d3::tryos::TRYOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

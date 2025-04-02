@@ -1,0 +1,13 @@
+{
+  "name": "Minke",
+  "symbol": "MINKE",
+  "decimals": 6,
+  "coin_type": "0x8a954c0c5159f8d91a2b94cfa2d82536e099c4d13b3cbc01051faa2895c8b814::minke::MINKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736386998750.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

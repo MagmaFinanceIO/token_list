@@ -1,0 +1,13 @@
+{
+  "name": "CheeseCoin",
+  "symbol": "CHEEZ",
+  "decimals": 6,
+  "coin_type": "0x70c77ccc6ad58094b8bc23f9976e151ff6c359e6eeff015b967a976d2c4b886f::cheez::CHEEZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/DALLA_E_2025_01_06_21_49_19_A_fun_and_colorful_meme_featuring_a_cartoon_mouse_mascot_Chuck_the_Cheesy_Mouse_holding_a_giant_gold_coin_labeled_CHEEZ_The_mouse_is_surrounded_42b6af0b66.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DeSQuill",
+  "symbol": "Qui",
+  "decimals": 6,
+  "coin_type": "0xa23874c6510cf3978068e8e71b83825c76d99d7f70ed225a5f23c7b459f0e5c6::qui::QUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmTkVX5LCn7iCvHJTTfMQr6kb2JCJ53xGfgmChbUBdg3gG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

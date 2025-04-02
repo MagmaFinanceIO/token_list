@@ -1,0 +1,13 @@
+{
+  "name": "SHIBAI TERMINAL",
+  "symbol": "SHIBAI",
+  "decimals": 9,
+  "coin_type": "0x0c16ee3d7e95cf350ed9eff56d675758c6e979ed3495ad6a6518f43ed1826c89::shibai::SHIBAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6sMacQ2tVRefXRJJYw2VVZg1UymnaFihvbkgdcS2upZy.png?size=lg&key=36a050",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

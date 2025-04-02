@@ -1,0 +1,13 @@
+{
+  "name": "Squid Memes",
+  "symbol": "SMEMES",
+  "decimals": 9,
+  "coin_type": "0x8c1eef2ef2373d51576b989d75a7f123f2f2b1f4b59242ea64ce77c0e5d383fb::smemes::SMEMES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cfa506a8-2b06-471c-96fd-ec146dab6d70.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Net View",
+  "symbol": "NV",
+  "decimals": 9,
+  "coin_type": "0x7c3d9f72a03798b34143492b301ae99c5579542cc48c9b9a03a1f77dc5d43ea5::nv::NV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

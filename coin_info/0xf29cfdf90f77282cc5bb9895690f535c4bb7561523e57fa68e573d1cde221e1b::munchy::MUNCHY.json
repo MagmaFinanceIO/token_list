@@ -1,0 +1,13 @@
+{
+  "name": "MunchySui",
+  "symbol": "Munchy",
+  "decimals": 6,
+  "coin_type": "0xf29cfdf90f77282cc5bb9895690f535c4bb7561523e57fa68e573d1cde221e1b::munchy::MUNCHY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_16_072745995_97f32704a7.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

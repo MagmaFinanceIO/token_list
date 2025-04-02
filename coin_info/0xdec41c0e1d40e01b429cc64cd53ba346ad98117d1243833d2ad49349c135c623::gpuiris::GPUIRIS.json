@@ -1,0 +1,13 @@
+{
+  "name": "GPU IRIS",
+  "symbol": "GPUIRIS",
+  "decimals": 9,
+  "coin_type": "0xdec41c0e1d40e01b429cc64cd53ba346ad98117d1243833d2ad49349c135c623::gpuiris::GPUIRIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8WiofC5AUFrdJBa7dMtBSYqTiBJ7rwBfFoL6YGDVpump.png?size=lg&key=a4a515",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

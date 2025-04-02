@@ -1,0 +1,13 @@
+{
+  "name": "Eren Jaeger AI",
+  "symbol": "EJSUAI",
+  "decimals": 6,
+  "coin_type": "0x47212861faf6885d9c111b33dbda410cb490fd08e0ad91a3471942019f546cd1::ejsuai::EJSUAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000045077_1a8a35fea3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

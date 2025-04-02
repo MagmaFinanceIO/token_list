@@ -1,0 +1,13 @@
+{
+  "name": "Sperm",
+  "symbol": "SPERM",
+  "decimals": 9,
+  "coin_type": "0x1ed50e928b4c1b4e8d0c4ce180f692ebd348f24ec561bb8bf4ce77e9e051c5a4::sperm::SPERM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3CjKuqo9gsstztuUSDybSfnycxoYZUru4LxpCiHxpump.png?size=xl&key=c61d98",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

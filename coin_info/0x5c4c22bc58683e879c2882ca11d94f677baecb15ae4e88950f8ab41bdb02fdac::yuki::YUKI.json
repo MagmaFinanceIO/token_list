@@ -1,0 +1,13 @@
+{
+  "name": "Yuki AI",
+  "symbol": "YUKI",
+  "decimals": 9,
+  "coin_type": "0x5c4c22bc58683e879c2882ca11d94f677baecb15ae4e88950f8ab41bdb02fdac::yuki::YUKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0x9bfd300c42ed4e59da4b886128d9002e9d071388d9ef318ded840880a7619cd8::yuki::yuki.png?size=lg&key=d2afd7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

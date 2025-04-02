@@ -1,0 +1,13 @@
+{
+  "name": "Sandy",
+  "symbol": "Sandy",
+  "decimals": 9,
+  "coin_type": "0xe2d6070d821b84712911c2839ba5c3e1cd7961b03f88c101f261cb0dc45c0ea9::sandy::SANDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/04f5fddc-b5b8-40ff-a9d0-71c6f3174f91.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

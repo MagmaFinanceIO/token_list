@@ -1,0 +1,13 @@
+{
+  "name": "Make America Based Again",
+  "symbol": "MABA",
+  "decimals": 9,
+  "coin_type": "0xf074815921fd539560d122aeb04d098ef06c3da0c587d6fa594d48c308a336d9::maba::MABA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0xd9ea93a38d1771c870128f9134d4622d331c04c8.png?size=lg&key=0429b2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

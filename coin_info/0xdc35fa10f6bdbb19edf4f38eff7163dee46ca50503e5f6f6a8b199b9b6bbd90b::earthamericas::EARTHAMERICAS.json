@@ -1,0 +1,13 @@
+{
+  "name": "EARTH GLOBE AMERICAS",
+  "symbol": "EARTHAMERICAS",
+  "decimals": 6,
+  "coin_type": "0xdc35fa10f6bdbb19edf4f38eff7163dee46ca50503e5f6f6a8b199b9b6bbd90b::earthamericas::EARTHAMERICAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/earthamericas.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

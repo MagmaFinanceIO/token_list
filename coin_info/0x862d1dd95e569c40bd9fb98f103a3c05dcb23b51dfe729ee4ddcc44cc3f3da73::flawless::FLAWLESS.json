@@ -1,0 +1,13 @@
+{
+  "name": "FLAWLESS",
+  "symbol": "FLAWLESS",
+  "decimals": 3,
+  "coin_type": "0x862d1dd95e569c40bd9fb98f103a3c05dcb23b51dfe729ee4ddcc44cc3f3da73::flawless::FLAWLESS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://static.vecteezy.com/system/resources/previews/011/947/129/original/gold-internet-icon-free-png.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

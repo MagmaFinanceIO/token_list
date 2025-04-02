@@ -1,0 +1,13 @@
+{
+  "name": "Li Yu INU",
+  "symbol": "LIYU",
+  "decimals": 9,
+  "coin_type": "0x05825b121c874ec2ba2eada785ecfcf49976707222d9ec4c335b12bb7c95763e::liyu::LIYU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e915f491-cef9-47a6-958b-e807569ad9eb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

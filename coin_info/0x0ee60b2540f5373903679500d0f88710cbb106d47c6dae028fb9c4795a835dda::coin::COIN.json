@@ -1,0 +1,13 @@
+{
+  "name": "SPX6900",
+  "symbol": "SPX",
+  "decimals": 8,
+  "coin_type": "0x0ee60b2540f5373903679500d0f88710cbb106d47c6dae028fb9c4795a835dda::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

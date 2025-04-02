@@ -1,0 +1,13 @@
+{
+  "name": "Fulfy",
+  "symbol": "FULFY",
+  "decimals": 9,
+  "coin_type": "0x76ce052f5e061330ef7be84855e11eefd83e144d139a1d52152fc91b83986e9f::fulfy::FULFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a7c084d8-fa6e-4ae7-80a0-eecead1d95ee.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

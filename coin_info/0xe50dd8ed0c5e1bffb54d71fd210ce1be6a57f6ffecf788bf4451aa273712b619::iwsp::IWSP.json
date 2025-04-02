@@ -1,0 +1,13 @@
+{
+  "name": "INDRAWSP",
+  "symbol": "IWSP",
+  "decimals": 9,
+  "coin_type": "0xe50dd8ed0c5e1bffb54d71fd210ce1be6a57f6ffecf788bf4451aa273712b619::iwsp::IWSP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/130f6c9d-5f29-412c-b866-183cd24e68b4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIFINKA",
+  "symbol": "SFNK",
+  "decimals": 9,
+  "coin_type": "0x3d10fc0ad9be846a0ba810bd927fef02d26b0bd6a4753373be3d926d15066a20::sfnk::SFNK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0a3cf2f3-057e-44a4-9726-715832acce7b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

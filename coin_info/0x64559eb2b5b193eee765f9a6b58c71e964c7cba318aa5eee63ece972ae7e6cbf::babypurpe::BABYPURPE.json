@@ -1,0 +1,13 @@
+{
+  "name": "BABY PURPLE PEPE",
+  "symbol": "BABYPURPE",
+  "decimals": 6,
+  "coin_type": "0x64559eb2b5b193eee765f9a6b58c71e964c7cba318aa5eee63ece972ae7e6cbf::babypurpe::BABYPURPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1234_9ab7040cc9.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Just a mad guy",
+  "symbol": "MADGUY",
+  "decimals": 9,
+  "coin_type": "0x9f9945cd48cb4b33da410ea497374c68dd096cbbbb6d71321873be0691d31e2c::madguy::MADGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/13Ltbk5PkGjp72x7VkxPS8Vzu9WAcV6nY7bgcQAapump.png?size=lg&key=5b8d22",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "XEN Coin Satoshi",
+  "symbol": "suiXEN",
+  "decimals": 9,
+  "coin_type": "0x36bea81d72e5eba16bf9f9bd6b0a5168f2a51f4b30fd2f1f1a4ba6569b1c6ffa::suixen::SUIXEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://photos.pinksale.finance/file/pinksale-logo-upload/1729699928784-0716924844693824ab07254c338c1cd0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

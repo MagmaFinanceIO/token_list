@@ -1,0 +1,13 @@
+{
+  "name": "Sui_BustedHamster",
+  "symbol": "Sui_BustedHamster",
+  "decimals": 9,
+  "coin_type": "0xf7fcf88dfb7c3f3c39b305bbb0b44458a9d8e0cfc1bbb1eff6c77a9faf09b9e4::sui_bustedhamster::SUI_BUSTEDHAMSTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a8953126-d407-403a-8d69-0aebd570a668.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

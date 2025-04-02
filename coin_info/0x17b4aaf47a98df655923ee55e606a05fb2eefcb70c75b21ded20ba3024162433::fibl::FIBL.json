@@ -1,0 +1,13 @@
+{
+  "name": "FIBLS",
+  "symbol": "FIBL",
+  "decimals": 6,
+  "coin_type": "0x17b4aaf47a98df655923ee55e606a05fb2eefcb70c75b21ded20ba3024162433::fibl::FIBL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1731364551_6052861_3_ED_42301_4_D1_D_4_C45_A7_F2_B43_D69_B1_F389_60fed306ea.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

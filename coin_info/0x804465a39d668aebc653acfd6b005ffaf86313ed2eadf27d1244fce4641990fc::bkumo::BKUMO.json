@@ -1,0 +1,13 @@
+{
+  "name": "babyKumo",
+  "symbol": "bKumo",
+  "decimals": 9,
+  "coin_type": "0x804465a39d668aebc653acfd6b005ffaf86313ed2eadf27d1244fce4641990fc::bkumo::BKUMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/43a5187b-4d2d-4ee6-ba41-df30091ee9ac.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

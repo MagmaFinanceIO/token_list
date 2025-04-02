@@ -1,0 +1,13 @@
+{
+  "name": "Blueberry",
+  "symbol": "Blueberry",
+  "decimals": 9,
+  "coin_type": "0x8651db6192fc505d1e770fcf1b785d359acbb7f3f6924d7fa43a60c21dcc75bb::blueberry::BLUEBERRY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4e22ea76-38b4-4678-9b43-10c1cf1fc468.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Advisor AI",
+  "symbol": "ADVAI",
+  "decimals": 6,
+  "coin_type": "0xaa82460923d8ce3d6f3bd67af5e5110df853d339bcb12531b2441caeb844d0bb::advai::ADVAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ADVAI_01bf81aaf6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

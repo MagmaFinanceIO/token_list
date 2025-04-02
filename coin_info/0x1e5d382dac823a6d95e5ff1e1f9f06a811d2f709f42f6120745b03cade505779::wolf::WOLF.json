@@ -1,0 +1,13 @@
+{
+  "name": "Sui LandWolf",
+  "symbol": "Wolf",
+  "decimals": 6,
+  "coin_type": "0x1e5d382dac823a6d95e5ff1e1f9f06a811d2f709f42f6120745b03cade505779::wolf::WOLF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/0_C597_AC_0_3_A34_41_BB_B2_BB_85_AF_50_CD_5291_06cae72981.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

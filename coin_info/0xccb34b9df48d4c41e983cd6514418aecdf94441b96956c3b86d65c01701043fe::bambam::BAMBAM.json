@@ -1,0 +1,13 @@
+{
+  "name": "Pnuts Brother",
+  "symbol": "BAMBAM",
+  "decimals": 9,
+  "coin_type": "0xccb34b9df48d4c41e983cd6514418aecdf94441b96956c3b86d65c01701043fe::bambam::BAMBAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6KqsVHaymMVsF1HMP4wFbPvYfReTMNJZTfWZ7mHWpy3B.png?size=lg&key=d0fc09",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

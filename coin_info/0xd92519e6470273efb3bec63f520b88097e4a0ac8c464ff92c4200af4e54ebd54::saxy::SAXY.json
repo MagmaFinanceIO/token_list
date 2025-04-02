@@ -1,0 +1,13 @@
+{
+  "name": "SaxyFrenchies",
+  "symbol": "Saxy",
+  "decimals": 9,
+  "coin_type": "0xd92519e6470273efb3bec63f520b88097e4a0ac8c464ff92c4200af4e54ebd54::saxy::SAXY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d28016b9-2106-411d-af0b-3b7cd358e3ed.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

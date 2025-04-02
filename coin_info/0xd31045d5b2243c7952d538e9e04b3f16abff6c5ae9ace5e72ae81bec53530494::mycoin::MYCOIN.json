@@ -1,0 +1,13 @@
+{
+  "name": "JIMCARREY",
+  "symbol": "JIMAI",
+  "decimals": 9,
+  "coin_type": "0xd31045d5b2243c7952d538e9e04b3f16abff6c5ae9ace5e72ae81bec53530494::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

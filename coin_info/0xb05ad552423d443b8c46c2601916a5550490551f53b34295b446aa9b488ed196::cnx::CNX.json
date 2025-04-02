@@ -1,0 +1,13 @@
+{
+  "name": "CipherNX AI",
+  "symbol": "CNX",
+  "decimals": 9,
+  "coin_type": "0xb05ad552423d443b8c46c2601916a5550490551f53b34295b446aa9b488ed196::cnx::CNX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8CoJkMhxaN3HJLSiR3QZpYxDqAH3RbGrSWnfzfNkpump.png?size=lg&key=5fda8f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

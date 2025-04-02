@@ -1,0 +1,13 @@
+{
+  "name": "SESE SUI",
+  "symbol": "SESE",
+  "decimals": 6,
+  "coin_type": "0x09c124ab70b28b5e904ad6698760d1e6700d1176f60bdd697a1959c450bfcd34::sese::SESE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_blue_87e10b84a3.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

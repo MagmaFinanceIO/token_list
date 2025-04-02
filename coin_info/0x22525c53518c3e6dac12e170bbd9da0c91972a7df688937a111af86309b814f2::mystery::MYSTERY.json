@@ -1,0 +1,13 @@
+{
+  "name": "MYSTERY ON SUIAI",
+  "symbol": "MYSTERY",
+  "decimals": 6,
+  "coin_type": "0x22525c53518c3e6dac12e170bbd9da0c91972a7df688937a111af86309b814f2::mystery::MYSTERY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/logo2_09b877c114.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

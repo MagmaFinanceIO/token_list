@@ -1,0 +1,13 @@
+{
+  "name": "Joker On Sui",
+  "symbol": "JOKER",
+  "decimals": 6,
+  "coin_type": "0xbc95967b9c1ef1ad82cbcbb6a44db003be3659f7d3625cef99b65b4f6a7cf5e4::joker::JOKER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_27_324232c7fb.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

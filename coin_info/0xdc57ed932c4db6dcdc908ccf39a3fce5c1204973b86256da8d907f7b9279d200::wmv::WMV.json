@@ -1,0 +1,13 @@
+{
+  "name": "BRINJAL",
+  "symbol": "WMV",
+  "decimals": 2,
+  "coin_type": "0xdc57ed932c4db6dcdc908ccf39a3fce5c1204973b86256da8d907f7b9279d200::wmv::WMV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1bf04b44-1358-4055-b91f-990537623d09.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

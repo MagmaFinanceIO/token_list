@@ -1,0 +1,13 @@
+{
+  "name": "Koby On Sui",
+  "symbol": "Koby",
+  "decimals": 9,
+  "coin_type": "0xfb19fc1aca1a87d7b5d3b3977bc1749d3f488ee3bbd83bf71eeba5ddf1d5dcdd::koby::KOBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a48d1d40-0e78-423c-a806-71c0e2226bf4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

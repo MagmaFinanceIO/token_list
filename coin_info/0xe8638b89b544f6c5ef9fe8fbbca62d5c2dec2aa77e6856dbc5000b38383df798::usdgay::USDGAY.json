@@ -1,0 +1,13 @@
+{
+  "name": "GAY DOLLAR",
+  "symbol": "USDGAY",
+  "decimals": 8,
+  "coin_type": "0xe8638b89b544f6c5ef9fe8fbbca62d5c2dec2aa77e6856dbc5000b38383df798::usdgay::USDGAY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b885b967-6e5d-4369-b14f-5eb9ed463c20.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

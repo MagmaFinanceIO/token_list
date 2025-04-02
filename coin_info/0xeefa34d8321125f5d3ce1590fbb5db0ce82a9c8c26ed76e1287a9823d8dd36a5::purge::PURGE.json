@@ -1,0 +1,13 @@
+{
+  "name": "Purge AI",
+  "symbol": "PURGE",
+  "decimals": 9,
+  "coin_type": "0xeefa34d8321125f5d3ce1590fbb5db0ce82a9c8c26ed76e1287a9823d8dd36a5::purge::PURGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/X963nSyoMeq8RwvJWQuuU4cFP9y1NFYaGZpwAgApump.png?size=lg&key=3c0fb9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

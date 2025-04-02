@@ -1,0 +1,13 @@
+{
+  "name": "Tete on Sui",
+  "symbol": "TeteAI",
+  "decimals": 9,
+  "coin_type": "0x55eaae9bab28a972d4cace9a3a43a1e030bd95e6a2a63826af80c526e05f0dd8::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

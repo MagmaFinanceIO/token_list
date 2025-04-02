@@ -1,0 +1,13 @@
+{
+  "name": "bullsui",
+  "symbol": "bullsui",
+  "decimals": 9,
+  "coin_type": "0x114e17c7a820644d55c35e6a45848887d6bd86ec669f19e9040415c79b3fdc18::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

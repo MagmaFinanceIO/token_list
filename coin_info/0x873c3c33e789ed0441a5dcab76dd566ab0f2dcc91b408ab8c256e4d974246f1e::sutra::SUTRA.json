@@ -1,0 +1,13 @@
+{
+  "name": "Sutra by SuiAI",
+  "symbol": "SUTRA",
+  "decimals": 6,
+  "coin_type": "0x873c3c33e789ed0441a5dcab76dd566ab0f2dcc91b408ab8c256e4d974246f1e::sutra::SUTRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/B2_C69715_24_D8_44_F0_A367_8_AD_0_A932_F13_A_5cbad69324.JPEG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "fuck you boss I'm late",
+  "symbol": "LATE",
+  "decimals": 9,
+  "coin_type": "0xda7103efe11a688f106270cb0c829b26b80ef7cb974b7f5b0d7774763ef12104::late::LATE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmSKCpRRPb7hKAsqSfQ1mfYcTig84rfRjZuXBRM1sWKETw",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

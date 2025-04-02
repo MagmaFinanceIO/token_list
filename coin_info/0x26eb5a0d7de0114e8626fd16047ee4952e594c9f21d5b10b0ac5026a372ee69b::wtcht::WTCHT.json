@@ -1,0 +1,13 @@
+{
+  "name": "Witch Hunt (Trump)",
+  "symbol": "WTCHT",
+  "decimals": 9,
+  "coin_type": "0x26eb5a0d7de0114e8626fd16047ee4952e594c9f21d5b10b0ac5026a372ee69b::wtcht::WTCHT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3ee1f2d8-377e-40d5-baed-4e99b214e080.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

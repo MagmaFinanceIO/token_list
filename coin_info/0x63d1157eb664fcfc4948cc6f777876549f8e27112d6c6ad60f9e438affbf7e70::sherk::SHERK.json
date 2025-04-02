@@ -1,0 +1,13 @@
+{
+  "name": "Shark or Shrek",
+  "symbol": "SHERK",
+  "decimals": 6,
+  "coin_type": "0x63d1157eb664fcfc4948cc6f777876549f8e27112d6c6ad60f9e438affbf7e70::sherk::SHERK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_11_25_15_56_19_3b82f0b9b8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "LION",
+  "symbol": "LION",
+  "decimals": 9,
+  "coin_type": "0xe89572b11402e58d5d93faf73ac78565c9e2eb4ea39922131294200d8074beaf::lion::LION",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f69820ba-afc7-48f6-8767-2b01601f5dc8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

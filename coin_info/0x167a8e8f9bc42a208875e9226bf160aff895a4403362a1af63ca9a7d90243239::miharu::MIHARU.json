@@ -1,0 +1,13 @@
+{
+  "name": "MIHARU",
+  "symbol": "MIHARU",
+  "decimals": 9,
+  "coin_type": "0x167a8e8f9bc42a208875e9226bf160aff895a4403362a1af63ca9a7d90243239::miharu::MIHARU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/35dae594-8872-4dcb-91c2-60c9dcd54998.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

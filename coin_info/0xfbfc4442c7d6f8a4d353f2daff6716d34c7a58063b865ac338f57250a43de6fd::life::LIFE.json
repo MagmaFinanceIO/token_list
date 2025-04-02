@@ -1,0 +1,13 @@
+{
+  "name": "LifeSaver",
+  "symbol": "LIFE",
+  "decimals": 9,
+  "coin_type": "0xfbfc4442c7d6f8a4d353f2daff6716d34c7a58063b865ac338f57250a43de6fd::life::LIFE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a14c929d-77dd-4a33-b53f-85ae05d22ad9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

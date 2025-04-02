@@ -1,0 +1,13 @@
+{
+  "name": "Happy Cat",
+  "symbol": "HAPPY",
+  "decimals": 9,
+  "coin_type": "0x709dc3ebea70b73401f8dfd6b6cfb2d3299c07ce6e6b5c4708775847fbfd2abd::happy::HAPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ffb9dc8d-f108-459a-bc16-e3e94bc0d692.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

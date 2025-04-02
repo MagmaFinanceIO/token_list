@@ -1,0 +1,13 @@
+{
+  "name": "Mom's Spaghetti",
+  "symbol": "PASTA",
+  "decimals": 9,
+  "coin_type": "0xfeccd1cbc88e450df9fe575859a1db2cc3e737797d6f20d296652718d98545ee::pasta::PASTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cb919ac5-2cda-4a19-a708-2f7b0ce969fb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

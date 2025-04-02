@@ -1,0 +1,13 @@
+{
+  "name": "GT Protocol AI",
+  "symbol": "GTAI",
+  "decimals": 6,
+  "coin_type": "0x5183ae846686c039dd48fcc386b14f51cc6703975cf24e74094fd12981c0b3fa::gtai::GTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a0b2c0bb-b375-4d09-b634-a6333f2770e3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

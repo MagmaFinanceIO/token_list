@@ -1,0 +1,13 @@
+{
+  "name": "Super Bowl LIX",
+  "symbol": "SBLIX",
+  "decimals": 9,
+  "coin_type": "0x13ba412ececcb40f8ee310d74908b3389278fb1878ab1dd3d4c44cf18bdfc9e5::sblix::SBLIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "uFBoJTVYPlV9kfOO",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

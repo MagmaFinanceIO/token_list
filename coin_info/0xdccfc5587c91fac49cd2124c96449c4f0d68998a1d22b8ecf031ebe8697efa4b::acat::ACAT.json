@@ -1,0 +1,13 @@
+{
+  "name": "ALIENCAT",
+  "symbol": "ACAT",
+  "decimals": 6,
+  "coin_type": "0xdccfc5587c91fac49cd2124c96449c4f0d68998a1d22b8ecf031ebe8697efa4b::acat::ACAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmUBtxPbX8YfHKzie827hP2YZfueztrXkPk5LENo4jXRHB?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

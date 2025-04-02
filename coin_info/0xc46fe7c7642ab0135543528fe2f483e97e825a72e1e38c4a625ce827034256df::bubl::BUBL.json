@@ -1,0 +1,13 @@
+{
+  "name": "BUBL",
+  "symbol": "BUBL",
+  "decimals": 6,
+  "coin_type": "0xc46fe7c7642ab0135543528fe2f483e97e825a72e1e38c4a625ce827034256df::bubl::BUBL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qmbf752EhgUbtLCph7R9XuGYiWQZKdyCaA8Bo5afpwuNiY",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

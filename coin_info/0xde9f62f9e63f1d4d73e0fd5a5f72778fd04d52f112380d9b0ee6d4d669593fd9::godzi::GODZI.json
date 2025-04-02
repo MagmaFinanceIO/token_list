@@ -1,0 +1,13 @@
+{
+  "name": "GODZI TG MASCOT",
+  "symbol": "GODZI",
+  "decimals": 6,
+  "coin_type": "0xde9f62f9e63f1d4d73e0fd5a5f72778fd04d52f112380d9b0ee6d4d669593fd9::godzi::GODZI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/gdz_fb5a83dc75.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

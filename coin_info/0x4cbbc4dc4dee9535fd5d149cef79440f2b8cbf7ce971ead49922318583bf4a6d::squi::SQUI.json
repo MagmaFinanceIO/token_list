@@ -1,0 +1,13 @@
+{
+  "name": "Square Head by SuiAI",
+  "symbol": "SQUI",
+  "decimals": 6,
+  "coin_type": "0x4cbbc4dc4dee9535fd5d149cef79440f2b8cbf7ce971ead49922318583bf4a6d::squi::SQUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Square_Head_20_1016a27c21.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

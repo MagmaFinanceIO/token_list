@@ -1,0 +1,13 @@
+{
+  "name": "Robotaxi",
+  "symbol": "Rt",
+  "decimals": 6,
+  "coin_type": "0x0f14974d73e920e952b06b3c760e86c6a9a8a810c73a0d4bba269b276fdbb6df::rt::RT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7135_389575da52.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

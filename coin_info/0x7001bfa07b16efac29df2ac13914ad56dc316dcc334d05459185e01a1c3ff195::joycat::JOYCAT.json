@@ -1,0 +1,13 @@
+{
+  "name": "JOYCAT",
+  "symbol": "JOYCAT",
+  "decimals": 9,
+  "coin_type": "0x7001bfa07b16efac29df2ac13914ad56dc316dcc334d05459185e01a1c3ff195::joycat::JOYCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1866a0e0-746e-4898-ba73-bb7614eec446.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

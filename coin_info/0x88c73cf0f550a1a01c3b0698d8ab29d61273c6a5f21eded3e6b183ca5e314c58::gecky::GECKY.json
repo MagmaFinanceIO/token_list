@@ -1,0 +1,13 @@
+{
+  "name": "Gecky on sui",
+  "symbol": "GECKY",
+  "decimals": 6,
+  "coin_type": "0x88c73cf0f550a1a01c3b0698d8ab29d61273c6a5f21eded3e6b183ca5e314c58::gecky::GECKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4237_0dd0492f85.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

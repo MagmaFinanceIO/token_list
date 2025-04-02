@@ -1,0 +1,13 @@
+{
+  "name": "Sui Onigiri",
+  "symbol": "ONI",
+  "decimals": 9,
+  "coin_type": "0x929c3617cc43e5c2c9697708f92121e14b73efaa8ae8e272741c97485f926055::oni::ONI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fc69ec29-63ee-4514-9795-d8773e6b0079.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

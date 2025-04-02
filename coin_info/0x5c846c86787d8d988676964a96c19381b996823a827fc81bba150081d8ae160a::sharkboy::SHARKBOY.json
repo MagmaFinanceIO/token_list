@@ -1,0 +1,13 @@
+{
+  "name": "SHARK BOY ON SUI",
+  "symbol": "SHARKBOY",
+  "decimals": 6,
+  "coin_type": "0x5c846c86787d8d988676964a96c19381b996823a827fc81bba150081d8ae160a::sharkboy::SHARKBOY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SHARK_BOY_0ee894c461.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

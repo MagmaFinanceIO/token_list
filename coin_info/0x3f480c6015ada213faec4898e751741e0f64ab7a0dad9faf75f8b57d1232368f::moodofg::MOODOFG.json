@@ -1,0 +1,13 @@
+{
+  "name": "MOODOFG",
+  "symbol": "MOODOFG",
+  "decimals": 9,
+  "coin_type": "0x3f480c6015ada213faec4898e751741e0f64ab7a0dad9faf75f8b57d1232368f::moodofg::MOODOFG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d926a3f2-1b4e-43da-9272-c5515d247253.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

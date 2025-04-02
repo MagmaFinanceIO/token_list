@@ -1,0 +1,13 @@
+{
+  "name": "AI Llama",
+  "symbol": "LLAMA",
+  "decimals": 6,
+  "coin_type": "0x25a4983e22911428d1fea6ca770cbb0172f2debac6b9b8babfcb12018ff9526f::llamacoin::LLAMACOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://salmon-bright-baboon-859.mypinata.cloud/ipfs/bafkreibtt334a723p6qkawq4uj5smsqckjpkq55eyibjhqqqqug3et53qa",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

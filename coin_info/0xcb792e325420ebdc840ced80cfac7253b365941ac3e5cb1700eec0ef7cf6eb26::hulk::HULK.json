@@ -1,0 +1,13 @@
+{
+  "name": "Hulk on SUI",
+  "symbol": "Hulk",
+  "decimals": 9,
+  "coin_type": "0xcb792e325420ebdc840ced80cfac7253b365941ac3e5cb1700eec0ef7cf6eb26::hulk::HULK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/99f942af-0324-4422-a2b4-6a87483e8a81.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

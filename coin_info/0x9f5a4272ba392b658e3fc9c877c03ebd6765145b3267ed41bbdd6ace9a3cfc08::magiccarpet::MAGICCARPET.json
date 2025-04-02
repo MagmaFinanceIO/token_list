@@ -1,0 +1,13 @@
+{
+  "name": "Magic Carpet",
+  "symbol": "MagicCarpet",
+  "decimals": 9,
+  "coin_type": "0x9f5a4272ba392b658e3fc9c877c03ebd6765145b3267ed41bbdd6ace9a3cfc08::magiccarpet::MAGICCARPET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6a07dc50-bbbc-4463-81e6-0f1a8b659d57.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

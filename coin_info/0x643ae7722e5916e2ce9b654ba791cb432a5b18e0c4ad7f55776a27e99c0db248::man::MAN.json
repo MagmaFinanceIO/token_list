@@ -1,0 +1,13 @@
+{
+  "name": "Man",
+  "symbol": "MAN",
+  "decimals": 9,
+  "coin_type": "0x643ae7722e5916e2ce9b654ba791cb432a5b18e0c4ad7f55776a27e99c0db248::man::MAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/WhZEoFj5uejcq392GeYEC7Fmwr5q49wyq9jD5U3pump.png?size=xl&key=12e7a4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

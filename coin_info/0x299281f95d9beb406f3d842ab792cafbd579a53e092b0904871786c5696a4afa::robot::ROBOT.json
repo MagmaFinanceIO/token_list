@@ -1,0 +1,13 @@
+{
+  "name": "ROBOT IS ALIVE",
+  "symbol": "ROBOT",
+  "decimals": 9,
+  "coin_type": "0x299281f95d9beb406f3d842ab792cafbd579a53e092b0904871786c5696a4afa::robot::ROBOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://img.freepik.com/darmowe-zdjecie/dzialajacy-robot-dostawczy-3d_23-2151150169.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

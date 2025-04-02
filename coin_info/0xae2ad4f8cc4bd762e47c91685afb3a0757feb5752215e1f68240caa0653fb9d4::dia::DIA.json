@@ -1,0 +1,13 @@
+{
+  "name": "Decentral Intelligence Agency",
+  "symbol": "DIA",
+  "decimals": 9,
+  "coin_type": "0xae2ad4f8cc4bd762e47c91685afb3a0757feb5752215e1f68240caa0653fb9d4::dia::DIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3LbZxMSmRe2mACnBMjsrng7U2FzgJh4hmUsa4w3bpump.png?size=lg&key=6c6096",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

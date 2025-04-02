@@ -1,0 +1,13 @@
+{
+  "name": "Dog FLA",
+  "symbol": "DogF",
+  "decimals": 6,
+  "coin_type": "0x336e823e8e45464381ab3187851fee77694a9587b7844dfd7479630a29b7bb7f::dogf::DOGF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/7e96fca5_872f_4d9f_bcc7_462ad770b2aa_cca140c457_033bd6e870.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

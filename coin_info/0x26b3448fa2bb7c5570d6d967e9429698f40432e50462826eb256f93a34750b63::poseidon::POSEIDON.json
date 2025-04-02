@@ -1,0 +1,13 @@
+{
+  "name": "Sui Gods Poseidon by SuiAI",
+  "symbol": "POSEIDON",
+  "decimals": 6,
+  "coin_type": "0x26b3448fa2bb7c5570d6d967e9429698f40432e50462826eb256f93a34750b63::poseidon::POSEIDON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/ai_generated_8329732_1280_aef36a2dad.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

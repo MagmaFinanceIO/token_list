@@ -1,0 +1,13 @@
+{
+  "name": "Josephine",
+  "symbol": "Josie",
+  "decimals": 9,
+  "coin_type": "0x000732d5ed967f8ee82fdf71bc73f9dcc352cd16b270e96340533daa1391111a::josie::JOSIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmPMbR5KsvgbFRzg1n1QWM4THRhKykCkARLdPW45dSPMEo",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SnoopyCat",
+  "symbol": "SnoopyCat",
+  "decimals": 9,
+  "coin_type": "0x7d643849728dcf2395ab5cdfcf76beb9e0e38a5eafc842f64efd14edf058e310::snoopycat::SNOOPYCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/04963a00-2ac9-4893-89b9-7117868b7d6c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HachiBond",
+  "symbol": "HBD",
+  "decimals": 9,
+  "coin_type": "0x8da08df8ed1637cd687daf30103e16679d08b81a7459423c2f4f5df64ecd4595::hbd::HBD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.gtokentool.com/1731323758/1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

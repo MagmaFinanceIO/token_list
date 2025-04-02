@@ -1,0 +1,13 @@
+{
+  "name": "Inga Coin",
+  "symbol": "ingco",
+  "decimals": 9,
+  "coin_type": "0x60fd5f67af8c98b166be9686a64d1b28dfbfaf349c597be258c92a9fda0910e2::ingco::INGCO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8898110a-70a9-408b-8e27-b8c68e6133d6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

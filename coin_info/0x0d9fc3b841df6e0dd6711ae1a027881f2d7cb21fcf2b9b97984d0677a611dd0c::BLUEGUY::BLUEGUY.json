@@ -1,0 +1,13 @@
+{
+  "name": "BLUEGUY",
+  "symbol": "BLUEGUY",
+  "decimals": 9,
+  "coin_type": "0x0d9fc3b841df6e0dd6711ae1a027881f2d7cb21fcf2b9b97984d0677a611dd0c::BLUEGUY::BLUEGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

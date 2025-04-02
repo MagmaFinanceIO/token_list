@@ -1,0 +1,13 @@
+{
+  "name": "Blui Planet by SuiAI",
+  "symbol": "BLUI",
+  "decimals": 6,
+  "coin_type": "0x61d48dde5a2f6702f6d04d8b94159ae982e2a0117c5b2ce2039ba8f26b7eee65::blui::BLUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/photo_2025_01_12_02_07_01_d16730c8a9.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

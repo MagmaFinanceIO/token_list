@@ -1,0 +1,13 @@
+{
+  "name": "DORA ON SUI",
+  "symbol": "DORA",
+  "decimals": 6,
+  "coin_type": "0x813a3414aa30951e6e246466bc26937d28a8ab426656777731bd64e0132c4329::dora::DORA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000147176_754e174089.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

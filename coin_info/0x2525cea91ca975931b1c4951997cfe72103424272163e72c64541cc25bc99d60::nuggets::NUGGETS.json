@@ -1,0 +1,13 @@
+{
+  "name": "Nuggets",
+  "symbol": "NUGGETS",
+  "decimals": 9,
+  "coin_type": "0x2525cea91ca975931b1c4951997cfe72103424272163e72c64541cc25bc99d60::nuggets::NUGGETS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A8YuMy7y6iyBTUk3qSSkv8ATTJoN2UJTV7X3cb5gpump.png?size=xl&key=db202b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

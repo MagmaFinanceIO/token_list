@@ -1,0 +1,13 @@
+{
+  "name": "SUITENDO",
+  "symbol": "SUITENDO",
+  "decimals": 9,
+  "coin_type": "0xff20c1bab80bd8203405a1994cacafdbc6aaf3ef3af74fa09502cd227de8a063::SUITENDO::SUITENDO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "poggy on sui",
+  "symbol": "POGGY",
+  "decimals": 6,
+  "coin_type": "0x7c0780c0bfbe9a24d0df77c1e053a1d62146592644485856dd9678c709464c62::poggy::POGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000129550_7a86777243.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

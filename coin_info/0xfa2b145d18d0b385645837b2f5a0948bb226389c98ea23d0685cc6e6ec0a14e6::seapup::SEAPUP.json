@@ -1,0 +1,13 @@
+{
+  "name": "SEA PUP",
+  "symbol": "SEAPUP",
+  "decimals": 6,
+  "coin_type": "0xfa2b145d18d0b385645837b2f5a0948bb226389c98ea23d0685cc6e6ec0a14e6::seapup::SEAPUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SEAPUP_Logo_cae5f3a460.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

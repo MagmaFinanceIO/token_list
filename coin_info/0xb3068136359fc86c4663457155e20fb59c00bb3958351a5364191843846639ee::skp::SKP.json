@@ -1,0 +1,13 @@
+{
+  "name": "SKOP",
+  "symbol": "SKP",
+  "decimals": 6,
+  "coin_type": "0xb3068136359fc86c4663457155e20fb59c00bb3958351a5364191843846639ee::skp::SKP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Cp_D_Ii_Dm2_400x400_6324b73afb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TRUMPDOGE",
+  "symbol": "TrumpDoge",
+  "decimals": 6,
+  "coin_type": "0x5f81ae8fe4fdeac38c025d93bb44fb04c02d9963a6c2855035ba1324691644f6::trumpdoge::TRUMPDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/0a053ad8_798a_4cc7_adf1_95becbb72123_1_1_1_1a4f471bd2.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

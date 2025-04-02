@@ -1,0 +1,13 @@
+{
+  "name": "SuiSoccer ",
+  "symbol": "SUSO",
+  "decimals": 9,
+  "coin_type": "0x4ed816abb33715958dbccf324e7e209f1f82e30d133cc20d052a673cc8574fbb::suso::SUSO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.resimlink.com/DHcEzo.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

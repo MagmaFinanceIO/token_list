@@ -1,0 +1,13 @@
+{
+  "name": "AI TRUMP by SuiAI",
+  "symbol": "AITRUMP",
+  "decimals": 6,
+  "coin_type": "0x394541ffa79d1131f7de73ae1645774a2a468de71fda71d8c5b802d48dcb6ca3::aitrump::AITRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000003949_f9cceb358e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

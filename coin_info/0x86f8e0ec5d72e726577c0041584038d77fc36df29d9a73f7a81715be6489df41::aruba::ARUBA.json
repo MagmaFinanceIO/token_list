@@ -1,0 +1,13 @@
+{
+  "name": "Aruba",
+  "symbol": "Aruba",
+  "decimals": 2,
+  "coin_type": "0x86f8e0ec5d72e726577c0041584038d77fc36df29d9a73f7a81715be6489df41::aruba::ARUBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/21af2f20-d81d-48a8-8a63-f107a9422a29.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

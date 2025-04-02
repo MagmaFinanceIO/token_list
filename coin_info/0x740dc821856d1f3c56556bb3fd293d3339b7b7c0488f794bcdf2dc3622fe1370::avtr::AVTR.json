@@ -1,0 +1,13 @@
+{
+  "name": "Avatar - The Last Sui Bender",
+  "symbol": "AVTR",
+  "decimals": 6,
+  "coin_type": "0x740dc821856d1f3c56556bb3fd293d3339b7b7c0488f794bcdf2dc3622fe1370::avtr::AVTR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a5b9b04c-422f-4849-bad5-d61c1d661324.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

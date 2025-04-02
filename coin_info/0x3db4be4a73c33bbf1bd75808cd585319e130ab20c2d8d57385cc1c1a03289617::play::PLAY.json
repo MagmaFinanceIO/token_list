@@ -1,0 +1,13 @@
+{
+  "name": "PLAY IT",
+  "symbol": "PLAY",
+  "decimals": 9,
+  "coin_type": "0x3db4be4a73c33bbf1bd75808cd585319e130ab20c2d8d57385cc1c1a03289617::play::PLAY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://png.pngtree.com/png-clipart/20210808/original/pngtree-play-editable-text-effect-png-image_6619863.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Googly Cat",
+  "symbol": "GOOGLY",
+  "decimals": 6,
+  "coin_type": "0xe8ba1aa56706844227b1c585cf9416f08657282eb3e421e3f14cb8f34885c667::googly::GOOGLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c4a77209-7467-4d40-935d-fd409efd5a26.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

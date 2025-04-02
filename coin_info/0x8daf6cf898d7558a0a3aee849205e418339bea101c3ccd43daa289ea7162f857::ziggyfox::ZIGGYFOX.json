@@ -1,0 +1,13 @@
+{
+  "name": "Ziggy The Fox",
+  "symbol": "ZiggyFox",
+  "decimals": 9,
+  "coin_type": "0x8daf6cf898d7558a0a3aee849205e418339bea101c3ccd43daa289ea7162f857::ziggyfox::ZIGGYFOX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DrUiU32pPJC1c8FatqVqNSRD4Jfz4jum8ynpN25vzbuA.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

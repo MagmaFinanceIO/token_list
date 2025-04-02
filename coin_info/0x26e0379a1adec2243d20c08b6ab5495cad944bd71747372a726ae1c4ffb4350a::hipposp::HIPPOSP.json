@@ -1,0 +1,13 @@
+{
+  "name": "SupperHippo",
+  "symbol": "Hipposp",
+  "decimals": 6,
+  "coin_type": "0x26e0379a1adec2243d20c08b6ab5495cad944bd71747372a726ae1c4ffb4350a::hipposp::HIPPOSP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/fga8_Z_Esw_400x400_b2039674f7.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Angry Rock",
+  "symbol": "ROCKY",
+  "decimals": 9,
+  "coin_type": "0x79b14f2fbe0ef2c7387c1580c42e994798e378015cd1592e4d0ab3a8ec3d2eb5::rocky::ROCKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/33e341ef-b316-4965-9a9e-f61de08dd6c8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

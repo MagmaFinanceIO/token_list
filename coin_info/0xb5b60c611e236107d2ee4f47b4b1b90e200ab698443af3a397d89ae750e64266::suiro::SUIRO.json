@@ -1,0 +1,13 @@
+{
+  "name": "Suirosaurus",
+  "symbol": "SUIRO",
+  "decimals": 9,
+  "coin_type": "0xb5b60c611e236107d2ee4f47b4b1b90e200ab698443af3a397d89ae750e64266::suiro::SUIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f9e46049-67b2-4c20-9525-f248d3c70608.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

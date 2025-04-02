@@ -1,0 +1,13 @@
+{
+  "name": "Rizz AI by SuiAI",
+  "symbol": "RIZZ",
+  "decimals": 6,
+  "coin_type": "0x71c360cb08fd2b2f6aa946b969aeebebd8abf06e2944b7cf8bb685da6d9e354c::rizz::RIZZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_6548_d776484baf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

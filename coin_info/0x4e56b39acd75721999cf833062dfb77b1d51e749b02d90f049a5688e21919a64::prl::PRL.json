@@ -1,0 +1,13 @@
+{
+  "name": "Pearl",
+  "symbol": "PRL",
+  "decimals": 12,
+  "coin_type": "0x4e56b39acd75721999cf833062dfb77b1d51e749b02d90f049a5688e21919a64::prl::PRL",
+  "pyth_id": "",
+  "birdeyeid": "0x4e56b39acd75721999cf833062dfb77b1d51e749b02d90f049a5688e21919a64::prl::PRL",
+  "coin_priority": [],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/pearl.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

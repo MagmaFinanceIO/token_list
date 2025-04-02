@@ -1,0 +1,13 @@
+{
+  "name": "Ocean Token",
+  "symbol": "OCEAN",
+  "decimals": 9,
+  "coin_type": "0xae425b1b96121f592494ada0277ef2a1cd4abe6a0da7694bc326e034b1d46b0b::ocean::OCEAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5902b1a8-1ede-4ced-ac3e-250824b65bf8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

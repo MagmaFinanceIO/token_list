@@ -1,0 +1,13 @@
+{
+  "name": "BIRDS GAME AI",
+  "symbol": "BIRDS",
+  "decimals": 9,
+  "coin_type": "0xe230d2225c3c4f8364eb3040e5b00a9d2d5d74d0e20fe6f92a7bf05f947f29bd::birds::BIRDS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6a771beb-ff8f-4ecf-96a6-572c416c624d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

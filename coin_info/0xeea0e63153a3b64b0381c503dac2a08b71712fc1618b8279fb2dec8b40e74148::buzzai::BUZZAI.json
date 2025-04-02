@@ -1,0 +1,13 @@
+{
+  "name": "Hive AI",
+  "symbol": "BUZZAI",
+  "decimals": 9,
+  "coin_type": "0xeea0e63153a3b64b0381c503dac2a08b71712fc1618b8279fb2dec8b40e74148::buzzai::BUZZAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9DHe3pycTuymFk4H4bbPoAJ4hQrr2kaLDF6J6aAKpump.png?size=lg&key=f8baeb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

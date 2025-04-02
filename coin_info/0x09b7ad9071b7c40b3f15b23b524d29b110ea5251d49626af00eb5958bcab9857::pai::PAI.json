@@ -1,0 +1,13 @@
+{
+  "name": "Panther AI",
+  "symbol": "PAI",
+  "decimals": 9,
+  "coin_type": "0x09b7ad9071b7c40b3f15b23b524d29b110ea5251d49626af00eb5958bcab9857::pai::PAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/bsc/0x13a5c811093dd001c328b59a0cc9dec88951f042.png?size=lg&key=d2abb7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

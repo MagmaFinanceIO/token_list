@@ -1,0 +1,13 @@
+{
+  "name": "KLAUS On Sui",
+  "symbol": "KLAUS",
+  "decimals": 6,
+  "coin_type": "0x487d265259b367c4cea21e3603cf5cc5b130384f257f5e87da4b783e8b039ab7::klaus::KLAUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_10_20_09_11_51f342cedf.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

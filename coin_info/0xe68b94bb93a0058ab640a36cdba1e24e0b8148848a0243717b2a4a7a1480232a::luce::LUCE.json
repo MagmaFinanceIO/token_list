@@ -1,0 +1,13 @@
+{
+  "name": "Luce",
+  "symbol": "LUCE",
+  "decimals": 6,
+  "coin_type": "0xe68b94bb93a0058ab640a36cdba1e24e0b8148848a0243717b2a4a7a1480232a::luce::LUCE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Design_sem_nome_58_7fc7199e02.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

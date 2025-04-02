@@ -1,0 +1,13 @@
+{
+  "name": "Doge Good Boy",
+  "symbol": "DOGEBOY",
+  "decimals": 9,
+  "coin_type": "0xb61c4eeef74a8864c6d29524ce467de6c7da18a184f7dd9b203fc1e058b03a1f::dogeboy::DOGEBOY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/57Dvj1X4H3fDjKBFfQSCgTVWpz7S8HhhAKMwiiRBJw2U.png?size=lg&key=a122b6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FRY on SUI",
+  "symbol": "FRY",
+  "decimals": 6,
+  "coin_type": "0xd1826abebbfb4aac5e4bb165d2c8e282fdb939f2d4e75ac14b95b53b95ca4bd7::fry::FRY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731343752644.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

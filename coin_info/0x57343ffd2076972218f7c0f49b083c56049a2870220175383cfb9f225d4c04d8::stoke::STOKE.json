@@ -1,0 +1,13 @@
+{
+  "name": "StokeCoin",
+  "symbol": "STOKE",
+  "decimals": 9,
+  "coin_type": "0x57343ffd2076972218f7c0f49b083c56049a2870220175383cfb9f225d4c04d8::stoke::STOKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ef0fe433-1770-4344-bed9-79c0c2de8ca2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

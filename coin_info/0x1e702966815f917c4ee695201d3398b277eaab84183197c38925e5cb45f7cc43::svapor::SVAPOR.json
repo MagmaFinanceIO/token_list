@@ -1,0 +1,13 @@
+{
+  "name": "Staked VAPOR",
+  "symbol": "sVAPOR",
+  "decimals": 6,
+  "coin_type": "0x1e702966815f917c4ee695201d3398b277eaab84183197c38925e5cb45f7cc43::svapor::SVAPOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ffd8fdee-ee87-4e43-a105-f0754b279820.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

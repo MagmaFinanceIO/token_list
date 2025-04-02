@@ -1,0 +1,13 @@
+{
+  "name": "EYE AI",
+  "symbol": "EYEAI",
+  "decimals": 9,
+  "coin_type": "0xfed355f3f7da21358702a34b0046ae7412142b993c09ef9cc8ec98249381be60::eyeai::EYEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmUhRXvSAbZpiG2j7UK85J4Kdt6AJbBAM844jz9SXpvSH6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

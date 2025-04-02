@@ -1,0 +1,13 @@
+{
+  "name": "NEUROWORKS",
+  "symbol": "NEURO",
+  "decimals": 9,
+  "coin_type": "0x4fc2fcdcfebe73a36edb453e16f5acab2c5d70f9c9b999b37d79d2f8afd9141f::neuro::NEURO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EinSknfeGeTL3sYoScXvfPAoao2EAKTnhU51fe8Epump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

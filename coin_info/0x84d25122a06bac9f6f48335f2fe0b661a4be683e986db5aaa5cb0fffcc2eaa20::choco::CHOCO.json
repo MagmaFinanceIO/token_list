@@ -1,0 +1,13 @@
+{
+  "name": "Choco",
+  "symbol": "CHOCO",
+  "decimals": 6,
+  "coin_type": "0x84d25122a06bac9f6f48335f2fe0b661a4be683e986db5aaa5cb0fffcc2eaa20::choco::CHOCO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/72fd1df4-07e2-4637-a2b3-3fcee8e7b351.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

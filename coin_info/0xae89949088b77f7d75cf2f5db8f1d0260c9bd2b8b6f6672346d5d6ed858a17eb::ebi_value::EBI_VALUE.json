@@ -1,0 +1,13 @@
+{
+  "name": "Bee scale duties",
+  "symbol": "EBI VALUE",
+  "decimals": 9,
+  "coin_type": "0xae89949088b77f7d75cf2f5db8f1d0260c9bd2b8b6f6672346d5d6ed858a17eb::ebi_value::EBI_VALUE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5d79cd56-5c87-4377-82d5-ceca544277bc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

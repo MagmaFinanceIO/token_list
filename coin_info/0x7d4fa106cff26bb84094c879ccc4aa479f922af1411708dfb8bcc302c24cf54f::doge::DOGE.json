@@ -1,0 +1,13 @@
+{
+  "name": "DOGE COIN ON SUI",
+  "symbol": "DOGE",
+  "decimals": 6,
+  "coin_type": "0x7d4fa106cff26bb84094c879ccc4aa479f922af1411708dfb8bcc302c24cf54f::doge::DOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/n_Ds4_N4_TI_400x400_f0bef7d7e3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

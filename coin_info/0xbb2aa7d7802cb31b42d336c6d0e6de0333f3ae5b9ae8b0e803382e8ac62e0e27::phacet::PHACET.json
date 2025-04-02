@@ -1,0 +1,13 @@
+{
+  "name": "PhacetAI",
+  "symbol": "Phacet",
+  "decimals": 9,
+  "coin_type": "0xbb2aa7d7802cb31b42d336c6d0e6de0333f3ae5b9ae8b0e803382e8ac62e0e27::phacet::PHACET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ApdzwoRC4ATocqjBFasGGZj9DpwhQGaiLYWoFsJrpump.png?size=lg&key=636da5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

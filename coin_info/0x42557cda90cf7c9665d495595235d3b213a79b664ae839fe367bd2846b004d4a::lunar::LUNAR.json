@@ -1,0 +1,13 @@
+{
+  "name": "LUNAR CHAIN",
+  "symbol": "LUNAR",
+  "decimals": 9,
+  "coin_type": "0x42557cda90cf7c9665d495595235d3b213a79b664ae839fe367bd2846b004d4a::lunar::LUNAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9wgttL4fX3ZmJz9duw8VD4R6DCuSicGxUn5kUmPxpump.png?size=lg&key=fd28f4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Miner Ai on Sui",
+  "symbol": "MINERS",
+  "decimals": 6,
+  "coin_type": "0x26bb15186f476589c6a5f7144ea9d736c16ba5f98211066182f8130ccbf1a1b6::miners::MINERS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Thia_t_ka_ch_AE_a_c_A_t_A_n_5_0939b0a170.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

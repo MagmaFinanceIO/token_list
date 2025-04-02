@@ -1,0 +1,13 @@
+{
+  "name": "Chungus Token",
+  "symbol": "CHUNGUS",
+  "decimals": 6,
+  "coin_type": "0xec872e9168e21e7f5049296eadea60ce8a6dbfe76fa0dee268bf53bc5ccb47e4::chungus::CHUNGUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/8_ED_3_CA_1_E_7_CC_1_40_FB_A660_E5_F13604_F0_C8_dc1e3d5ee7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI WAVE AI",
+  "symbol": "SWA",
+  "decimals": 6,
+  "coin_type": "0x85255db8b140b3cb74df1a386f98ed819b7097f4dde666ae64c8f6d58201bb2b::swa::SWA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/c6e87040_f7d3_4962_b0b1_9441acd9a206_9ea81f5609.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

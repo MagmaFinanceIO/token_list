@@ -1,0 +1,13 @@
+{
+  "name": "Just to the moon",
+  "symbol": "MOON",
+  "decimals": 6,
+  "coin_type": "0xe79adc3b2bc4c26d3c21f6c443b938b8f7db688d0601ac38c87ebce0428649f4::moon::MOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/raskraska_kosmos_dlya_malyshej_012_3425784223_e750d2a5c6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

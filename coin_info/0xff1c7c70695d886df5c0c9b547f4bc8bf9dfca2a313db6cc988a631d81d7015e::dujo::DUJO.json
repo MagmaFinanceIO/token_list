@@ -1,0 +1,13 @@
+{
+  "name": "Duck Joker",
+  "symbol": "DUJO",
+  "decimals": 6,
+  "coin_type": "0xff1c7c70695d886df5c0c9b547f4bc8bf9dfca2a313db6cc988a631d81d7015e::dujo::DUJO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_dujo_sui_08f1ebd1e3.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

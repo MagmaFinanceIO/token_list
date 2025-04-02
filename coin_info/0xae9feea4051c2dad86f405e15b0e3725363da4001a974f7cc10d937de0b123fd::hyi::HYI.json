@@ -1,0 +1,13 @@
+{
+  "name": "HYI",
+  "symbol": "HYI",
+  "decimals": 9,
+  "coin_type": "0xae9feea4051c2dad86f405e15b0e3725363da4001a974f7cc10d937de0b123fd::hyi::HYI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

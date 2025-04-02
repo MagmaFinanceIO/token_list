@@ -1,0 +1,13 @@
+{
+  "name": "Lol Cat",
+  "symbol": "LOLCAT",
+  "decimals": 9,
+  "coin_type": "0xdd3920e4a4228ef3481b1264d1aa27a9928d0bfd79bcc4721269372c92f5b139::cat::CAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/QmWRAMXsoo6S1dsohCwExf2g66MVrT3Mc5zJzAKPq156wH",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PnutTrump",
+  "symbol": "PnutTrump",
+  "decimals": 9,
+  "coin_type": "0xe9de2ce091d57125505d93e92efa791403c5b74d4dfcb8d980c433179b774f1d::pnuttrump::PNUTTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/322743f3-5e8f-4866-96d9-55501657f385.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

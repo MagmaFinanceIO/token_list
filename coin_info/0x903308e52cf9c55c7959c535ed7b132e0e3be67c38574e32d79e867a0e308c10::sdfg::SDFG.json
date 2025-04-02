@@ -1,0 +1,13 @@
+{
+  "name": "TTTT",
+  "symbol": "SDFG",
+  "decimals": 9,
+  "coin_type": "0x903308e52cf9c55c7959c535ed7b132e0e3be67c38574e32d79e867a0e308c10::sdfg::SDFG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://waterpump.fun/api/file/696b2cfdadf24ffaaf66ec8614e2778e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

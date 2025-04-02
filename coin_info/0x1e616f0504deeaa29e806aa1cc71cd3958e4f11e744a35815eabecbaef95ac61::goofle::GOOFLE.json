@@ -1,0 +1,13 @@
+{
+  "name": "Goofle",
+  "symbol": "GOOFLE",
+  "decimals": 6,
+  "coin_type": "0x1e616f0504deeaa29e806aa1cc71cd3958e4f11e744a35815eabecbaef95ac61::goofle::GOOFLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/65a0ebd3-a4ed-46c8-a613-af12fdda4c15.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

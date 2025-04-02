@@ -1,0 +1,13 @@
+{
+  "name": "SUI MURF",
+  "symbol": "SMURF",
+  "decimals": 9,
+  "coin_type": "0x66f201c5b11305a4e8b3afca3cb5b41a13a7415964ca2f69d6e31016d116d749::smurf::SMURF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/962eca67-368b-4138-b4ee-3fe7f30de9a9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

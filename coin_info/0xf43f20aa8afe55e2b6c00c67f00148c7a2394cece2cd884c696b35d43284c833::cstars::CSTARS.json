@@ -1,0 +1,13 @@
+{
+  "name": "CORN STARS",
+  "symbol": "CSTARS",
+  "decimals": 6,
+  "coin_type": "0xf43f20aa8afe55e2b6c00c67f00148c7a2394cece2cd884c696b35d43284c833::cstars::CSTARS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/CSTARS_3308db1ce2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Jake",
+  "symbol": "JAKE",
+  "decimals": 9,
+  "coin_type": "0xdd6bfea22fbf8d63325576d869bbceebcc08c77af25ff1f5f4100bccc42f883c::jake::JAKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fad811f3-e624-49b4-a7d2-92dddf40eccf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

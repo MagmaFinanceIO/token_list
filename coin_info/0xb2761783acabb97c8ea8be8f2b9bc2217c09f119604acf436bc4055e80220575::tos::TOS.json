@@ -1,0 +1,13 @@
+{
+  "name": "The Titans",
+  "symbol": "TOS",
+  "decimals": 6,
+  "coin_type": "0xb2761783acabb97c8ea8be8f2b9bc2217c09f119604acf436bc4055e80220575::tos::TOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5061_d2e21ff75f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

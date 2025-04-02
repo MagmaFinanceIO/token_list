@@ -1,0 +1,13 @@
+{
+  "name": "qai",
+  "symbol": "qai",
+  "decimals": 6,
+  "coin_type": "0xa4141ab914415271634cb50d37900af98f9aef0e4d99b301d577c03cf7cd5c15::qai::QAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/90552b9f-7cd3-44c1-b0ad-fec836454f46.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

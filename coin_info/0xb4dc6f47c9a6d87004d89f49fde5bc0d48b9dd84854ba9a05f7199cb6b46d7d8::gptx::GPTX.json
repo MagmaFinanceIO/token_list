@@ -1,0 +1,13 @@
+{
+  "name": "GPTToken",
+  "symbol": "GPTX",
+  "decimals": 9,
+  "coin_type": "0xb4dc6f47c9a6d87004d89f49fde5bc0d48b9dd84854ba9a05f7199cb6b46d7d8::gptx::GPTX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3JQSDD55hkEG1KoCUAijLtEgaLzq8soGugMEcfFQk12f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

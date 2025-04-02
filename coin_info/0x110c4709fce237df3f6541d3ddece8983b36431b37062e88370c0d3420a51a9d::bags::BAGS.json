@@ -1,0 +1,13 @@
+{
+  "name": "BAGS DOWN",
+  "symbol": "BAGS",
+  "decimals": 9,
+  "coin_type": "0x110c4709fce237df3f6541d3ddece8983b36431b37062e88370c0d3420a51a9d::bags::BAGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "x59bbKD4ckDCWmg3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

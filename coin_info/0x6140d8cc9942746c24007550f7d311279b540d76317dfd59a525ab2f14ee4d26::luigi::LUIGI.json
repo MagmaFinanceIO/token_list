@@ -1,0 +1,13 @@
+{
+  "name": "LUIGI SUI",
+  "symbol": "LUIGI",
+  "decimals": 6,
+  "coin_type": "0x6140d8cc9942746c24007550f7d311279b540d76317dfd59a525ab2f14ee4d26::luigi::LUIGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6562_fcc3338ae8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

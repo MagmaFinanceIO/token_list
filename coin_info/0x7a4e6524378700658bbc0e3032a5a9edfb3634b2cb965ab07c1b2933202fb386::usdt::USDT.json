@@ -1,0 +1,13 @@
+{
+  "name": "USDT",
+  "symbol": "USDT",
+  "decimals": 9,
+  "coin_type": "0x7a4e6524378700658bbc0e3032a5a9edfb3634b2cb965ab07c1b2933202fb386::usdt::USDT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/Sd3fMAuXsP98wh_fUnsp-7iWhVP8iRBj4FrjgClQALA",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

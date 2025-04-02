@@ -1,0 +1,13 @@
+{
+  "name": "TrenchorAI by SuiAI",
+  "symbol": "TRENCHORAI",
+  "decimals": 6,
+  "coin_type": "0x7890155177f61403a607069cc95f38580038333ebf993ab87b53fd83b7024d71::trenchorai::TRENCHORAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Trenchor_AI_a35fc0619f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

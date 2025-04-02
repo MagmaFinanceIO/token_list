@@ -1,0 +1,13 @@
+{
+  "name": "PUFF",
+  "symbol": "PDIDDY",
+  "decimals": 9,
+  "coin_type": "0xbf2196a6ffe6691bf2fb87468add6d092d7b9c5f9931ea08719118b82fee6a4a::pdiddy::PDIDDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

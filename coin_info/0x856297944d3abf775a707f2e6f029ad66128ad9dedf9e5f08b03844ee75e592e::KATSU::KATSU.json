@@ -1,0 +1,13 @@
+{
+  "name": "KATSU",
+  "symbol": "KATSU",
+  "decimals": 2,
+  "coin_type": "0x856297944d3abf775a707f2e6f029ad66128ad9dedf9e5f08b03844ee75e592e::KATSU::KATSU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f421b285-1d3f-4126-833b-828fa880cf15.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

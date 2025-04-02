@@ -1,0 +1,13 @@
+{
+  "name": "Squid Game",
+  "symbol": "SQUID",
+  "decimals": 2,
+  "coin_type": "0xd5c25cf7b10ab93c9d9eb6cc141c6d0a460cfe989d8c9eb1984e340832f65eb1::SQUID::SQUID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/hhHXcJGVyZzE0qRnI-bW4NVmOvCKA0QheYMZJ_7mYpQ?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Telegram Engine",
+  "symbol": "AIGRAM",
+  "decimals": 9,
+  "coin_type": "0x2a94e5379e8bb47d14fea6a469b7dc1d22304c6a4a323d7b10ff7cc6a4359ca1::aigram::AIGRAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/H6EnL9x9ycxcNdQ8YnuxfE4iCnQFcKADC7eoGd9npump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Symptoms",
+  "symbol": "Symptom",
+  "decimals": 6,
+  "coin_type": "0xa9b02749f9510da72edf855f9c14a64c34f75dd03bf88e90cd0c278c8dd0593f::symptom::SYMPTOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/sdgsdg_713fa456e9.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

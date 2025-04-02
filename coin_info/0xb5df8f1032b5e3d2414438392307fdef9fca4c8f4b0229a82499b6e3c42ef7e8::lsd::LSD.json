@@ -1,0 +1,13 @@
+{
+  "name": "little sleepy demons",
+  "symbol": "LSD",
+  "decimals": 9,
+  "coin_type": "0xb5df8f1032b5e3d2414438392307fdef9fca4c8f4b0229a82499b6e3c42ef7e8::lsd::LSD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Hr2YtKcw3fEzRq5LdG8XDeygrhYEx9jCVSd1Py2upump.png?size=lg&key=f8f0a5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

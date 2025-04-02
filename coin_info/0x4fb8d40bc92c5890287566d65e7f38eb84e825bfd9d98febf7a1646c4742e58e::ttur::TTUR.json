@@ -1,0 +1,13 @@
+{
+  "name": "TWIRLY TURKEY",
+  "symbol": "TTUR",
+  "decimals": 6,
+  "coin_type": "0x4fb8d40bc92c5890287566d65e7f38eb84e825bfd9d98febf7a1646c4742e58e::ttur::TTUR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_21_033818774_41ff15ab71.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

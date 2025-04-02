@@ -1,0 +1,13 @@
+{
+  "name": "FROGGY",
+  "symbol": "FROGG",
+  "decimals": 9,
+  "coin_type": "0xf2031fd162f8fb49b58e86bec074a885e0ebb60f8c32e3fef23f007d394012d5::frogg::FROGG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/3b11ab90a2e660d2f6a813223c3d8d35blob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

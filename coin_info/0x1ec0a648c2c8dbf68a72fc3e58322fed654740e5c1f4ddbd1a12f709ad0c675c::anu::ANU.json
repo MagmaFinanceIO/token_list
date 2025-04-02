@@ -1,0 +1,13 @@
+{
+  "name": "Anunna",
+  "symbol": "ANU",
+  "decimals": 9,
+  "coin_type": "0x1ec0a648c2c8dbf68a72fc3e58322fed654740e5c1f4ddbd1a12f709ad0c675c::anu::ANU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmWnG3ETUnauCspvLaAAg3AaZ15XLBnw72auDihYWwoehz?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

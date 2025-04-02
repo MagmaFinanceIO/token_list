@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Peaky Blinders",
+  "symbol": "PEEKY",
+  "decimals": 9,
+  "coin_type": "0x20da7e218d6ce7a695e6fa85c7386955afe4e6639e2e0c5135b1e7380f682c87::peeky::PEEKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/23a0f0d4-3511-4cdf-8bfb-82b535d5048c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

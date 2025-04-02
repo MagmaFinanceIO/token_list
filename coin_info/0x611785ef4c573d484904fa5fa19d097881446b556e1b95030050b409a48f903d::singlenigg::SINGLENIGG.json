@@ -1,0 +1,13 @@
+{
+  "name": "$SingleNiggaz",
+  "symbol": "SingleNigg",
+  "decimals": 9,
+  "coin_type": "0x611785ef4c573d484904fa5fa19d097881446b556e1b95030050b409a48f903d::singlenigg::SINGLENIGG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FrTP8M58zmvJLK1YKTJbTtPNhChmAgnCwWA8JG1spump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

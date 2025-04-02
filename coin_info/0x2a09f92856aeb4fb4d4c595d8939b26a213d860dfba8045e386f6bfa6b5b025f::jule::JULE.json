@@ -1,0 +1,13 @@
+{
+  "name": "JOULE",
+  "symbol": "JULE",
+  "decimals": 9,
+  "coin_type": "0x2a09f92856aeb4fb4d4c595d8939b26a213d860dfba8045e386f6bfa6b5b025f::jule::JULE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/becaef3f-523f-41e4-9fa6-2ac1085aee64.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "$E4C regular pool",
+  "symbol": "E4C",
+  "decimals": 6,
+  "coin_type": "0xfbc9bb084cf807039c318d1e1295c5113318290ffcf60473d06a5dbcc4421543::e4c::E4C",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1732636873198.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

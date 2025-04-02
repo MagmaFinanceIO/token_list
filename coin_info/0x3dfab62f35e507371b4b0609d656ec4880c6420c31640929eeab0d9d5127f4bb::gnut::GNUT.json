@@ -1,0 +1,13 @@
+{
+  "name": "GIGA PNUT",
+  "symbol": "GNUT",
+  "decimals": 9,
+  "coin_type": "0x3dfab62f35e507371b4b0609d656ec4880c6420c31640929eeab0d9d5127f4bb::gnut::GNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9fNdmReKKfEGic9RxzrB7Jvjg1aSNNfGfUWwEMi1pump.png?size=lg&key=d82b95",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

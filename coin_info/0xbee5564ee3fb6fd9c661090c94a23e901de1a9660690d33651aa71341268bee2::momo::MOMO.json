@@ -1,0 +1,13 @@
+{
+  "name": "MOMOSUI",
+  "symbol": "MOMO",
+  "decimals": 6,
+  "coin_type": "0xbee5564ee3fb6fd9c661090c94a23e901de1a9660690d33651aa71341268bee2::momo::MOMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000133726_0b494beff4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

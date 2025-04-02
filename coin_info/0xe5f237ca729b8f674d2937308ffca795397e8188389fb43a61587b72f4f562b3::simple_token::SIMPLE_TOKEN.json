@@ -1,0 +1,13 @@
+{
+  "name": "ARIA ON SUI",
+  "symbol": "ARIA",
+  "decimals": 9,
+  "coin_type": "0xe5f237ca729b8f674d2937308ffca795397e8188389fb43a61587b72f4f562b3::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

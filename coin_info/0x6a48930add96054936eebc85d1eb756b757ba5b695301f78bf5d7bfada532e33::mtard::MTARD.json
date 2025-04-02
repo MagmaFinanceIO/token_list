@@ -1,0 +1,13 @@
+{
+  "name": "MineTard AI",
+  "symbol": "MTard",
+  "decimals": 9,
+  "coin_type": "0x6a48930add96054936eebc85d1eb756b757ba5b695301f78bf5d7bfada532e33::mtard::MTARD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2P54W8Ei5vTNdxH9bktByaawrQ4HEJu3TrF4cqJUpump.png?size=lg&key=58e8b6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

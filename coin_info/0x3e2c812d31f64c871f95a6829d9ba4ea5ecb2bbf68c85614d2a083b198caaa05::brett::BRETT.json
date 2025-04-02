@@ -1,0 +1,13 @@
+{
+  "name": "Brett",
+  "symbol": "BRETT",
+  "decimals": 6,
+  "coin_type": "0x3e2c812d31f64c871f95a6829d9ba4ea5ecb2bbf68c85614d2a083b198caaa05::brett::BRETT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000030135_c5a2291a23.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

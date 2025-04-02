@@ -1,0 +1,13 @@
+{
+  "name": "Bored Shark",
+  "symbol": "SHARK",
+  "decimals": 9,
+  "coin_type": "0xc43f646fd7532c7322a120abbdd36da21e2335890f05b3b154c5d53b11327719::shark::SHARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/Qmc9eJiiWAhyNCDpo7wQ9uPyD3tBYSSSan6dvJeAHZ38fG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

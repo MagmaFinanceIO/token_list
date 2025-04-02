@@ -1,0 +1,13 @@
+{
+  "name": "ROKO'S BASILISK",
+  "symbol": "ROKO",
+  "decimals": 9,
+  "coin_type": "0xcaffaa451b7401a6d968cbcde3fcc732bd1a21e9d86217ed6dd1624ab8d9b3f4::roko::ROKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/41revsxLUZnoiUQoMT9eBVCzi4cs8Xbs48rp53gcpump.png?size=lg&key=e1b11a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

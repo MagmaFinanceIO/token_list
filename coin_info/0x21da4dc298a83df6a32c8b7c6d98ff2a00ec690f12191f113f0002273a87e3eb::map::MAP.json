@@ -1,0 +1,13 @@
+{
+  "name": "MAGAMAP",
+  "symbol": "MAP",
+  "decimals": 6,
+  "coin_type": "0x21da4dc298a83df6a32c8b7c6d98ff2a00ec690f12191f113f0002273a87e3eb::map::MAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/tumblr_190d3fbe8258ab2e9cc9dac0d93cbd69_8dc6805b_1280_8aec2b2e0b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

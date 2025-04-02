@@ -1,0 +1,13 @@
+{
+  "name": "Sui Puppi",
+  "symbol": "PUPPI",
+  "decimals": 9,
+  "coin_type": "0x706bfad17b393c0d37c6018ea9d5e075080691569b15157d5d8316da7090f816::puppi::PUPPI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f64ba859-6193-4e76-9053-eb2aaa361f08.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

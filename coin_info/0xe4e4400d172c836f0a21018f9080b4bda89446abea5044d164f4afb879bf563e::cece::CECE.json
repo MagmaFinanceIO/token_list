@@ -1,0 +1,13 @@
+{
+  "name": "CECE",
+  "symbol": "CECE",
+  "decimals": 6,
+  "coin_type": "0xe4e4400d172c836f0a21018f9080b4bda89446abea5044d164f4afb879bf563e::cece::CECE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4193a508-d9bc-4c89-8994-92b0b998149d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

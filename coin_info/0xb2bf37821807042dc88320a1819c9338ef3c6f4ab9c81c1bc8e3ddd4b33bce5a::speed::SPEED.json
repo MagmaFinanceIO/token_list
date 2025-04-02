@@ -1,0 +1,13 @@
+{
+  "name": "ISUISPEED",
+  "symbol": "SPEED",
+  "decimals": 6,
+  "coin_type": "0xb2bf37821807042dc88320a1819c9338ef3c6f4ab9c81c1bc8e3ddd4b33bce5a::speed::SPEED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/speed_1_6aad835c8a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

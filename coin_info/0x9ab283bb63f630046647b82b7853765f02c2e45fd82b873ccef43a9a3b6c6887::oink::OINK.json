@@ -1,0 +1,13 @@
+{
+  "name": "Oink",
+  "symbol": "Oink",
+  "decimals": 9,
+  "coin_type": "0x9ab283bb63f630046647b82b7853765f02c2e45fd82b873ccef43a9a3b6c6887::oink::OINK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/086c184e-caf4-472c-8442-bad61b649570.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

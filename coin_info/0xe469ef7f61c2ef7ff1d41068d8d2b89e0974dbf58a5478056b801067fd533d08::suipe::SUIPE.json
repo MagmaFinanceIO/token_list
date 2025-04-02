@@ -1,0 +1,13 @@
+{
+  "name": "Suipe",
+  "symbol": "SUIPE",
+  "decimals": 6,
+  "coin_type": "0xe469ef7f61c2ef7ff1d41068d8d2b89e0974dbf58a5478056b801067fd533d08::suipe::SUIPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731501276725.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

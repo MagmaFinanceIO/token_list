@@ -1,0 +1,13 @@
+{
+  "name": "AIDOGS",
+  "symbol": "AIDOGS",
+  "decimals": 9,
+  "coin_type": "0x2cc8c9cdfecd39b109f1ec3ea9082d4728e3e1b0387950d176f3ae5bff933851::aidogs::AIDOGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7c9471c8-0852-48d2-9e52-cc787035f927.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

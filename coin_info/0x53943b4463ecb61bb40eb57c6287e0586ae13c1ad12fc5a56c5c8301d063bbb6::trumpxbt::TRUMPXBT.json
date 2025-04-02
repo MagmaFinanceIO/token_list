@@ -1,0 +1,13 @@
+{
+  "name": "Trump XBT",
+  "symbol": "TrumpXBT",
+  "decimals": 9,
+  "coin_type": "0x53943b4463ecb61bb40eb57c6287e0586ae13c1ad12fc5a56c5c8301d063bbb6::trumpxbt::TRUMPXBT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/G6bdrcgYBxuMqq4fZGLxtywb8cW94VEDJ1mgNyU3pump.png?size=lg&key=6ec38b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DOGEUS MAXIMUS",
+  "symbol": "DOGEUS",
+  "decimals": 9,
+  "coin_type": "0xcace9bdfb4bd23ae35011e9e4b0fc49bf21741b0d5fa15954d852c52e582d922::dogeus::DOGEUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bf813b08-1ed2-48fc-a1bb-75353a44abc4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

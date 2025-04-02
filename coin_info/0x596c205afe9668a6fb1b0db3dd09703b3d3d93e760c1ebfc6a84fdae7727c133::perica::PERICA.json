@@ -1,0 +1,13 @@
+{
+  "name": "Captain Peperica",
+  "symbol": "PepeCap",
+  "decimals": 9,
+  "coin_type": "0x596c205afe9668a6fb1b0db3dd09703b3d3d93e760c1ebfc6a84fdae7727c133::perica::PERICA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/69d51961-8561-4e4e-b0be-3110c070b36f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

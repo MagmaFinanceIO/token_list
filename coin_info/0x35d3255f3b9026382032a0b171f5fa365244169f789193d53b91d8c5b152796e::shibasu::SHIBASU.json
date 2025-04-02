@@ -1,0 +1,13 @@
+{
+  "name": "ShibaSui",
+  "symbol": "ShibaSu",
+  "decimals": 9,
+  "coin_type": "0x35d3255f3b9026382032a0b171f5fa365244169f789193d53b91d8c5b152796e::shibasu::SHIBASU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4e697fa1-b2ff-45f4-aede-20696f7874a6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

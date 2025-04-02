@@ -1,0 +1,13 @@
+{
+  "name": "kisa",
+  "symbol": "kisa",
+  "decimals": 6,
+  "coin_type": "0xd6af51fce834575452ded3ea31f534fc27f73340e6a4fb70002ce8000a784759::kisa::KISA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/RTdgG7B/pfp.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

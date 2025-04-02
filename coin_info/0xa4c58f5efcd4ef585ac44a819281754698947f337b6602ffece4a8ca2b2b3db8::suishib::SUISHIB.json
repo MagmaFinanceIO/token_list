@@ -1,0 +1,13 @@
+{
+  "name": "BLUE SHIB",
+  "symbol": "SUISHIB",
+  "decimals": 6,
+  "coin_type": "0xa4c58f5efcd4ef585ac44a819281754698947f337b6602ffece4a8ca2b2b3db8::suishib::SUISHIB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3666_4ae40447dc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

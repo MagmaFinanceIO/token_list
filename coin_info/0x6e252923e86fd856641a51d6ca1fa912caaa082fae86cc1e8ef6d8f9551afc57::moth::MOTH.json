@@ -1,0 +1,13 @@
+{
+  "name": "Mammoth",
+  "symbol": "MOTH",
+  "decimals": 9,
+  "coin_type": "0x6e252923e86fd856641a51d6ca1fa912caaa082fae86cc1e8ef6d8f9551afc57::moth::MOTH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c3c0ea0c-3597-4d59-b7e0-0ccac1c121ed.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

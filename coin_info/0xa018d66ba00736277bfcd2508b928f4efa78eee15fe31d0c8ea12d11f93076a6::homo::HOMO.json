@@ -1,0 +1,13 @@
+{
+  "name": "Homo Memetus",
+  "symbol": "HOMO",
+  "decimals": 9,
+  "coin_type": "0xa018d66ba00736277bfcd2508b928f4efa78eee15fe31d0c8ea12d11f93076a6::homo::HOMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7Uuzh9JwqF8z3u6MWpQuQJbpD1u46xPDY6PGjwfwTh4o.png?size=lg&key=8ab6f0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

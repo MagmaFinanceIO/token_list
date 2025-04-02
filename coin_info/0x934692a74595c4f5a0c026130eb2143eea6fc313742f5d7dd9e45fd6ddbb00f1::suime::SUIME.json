@@ -1,0 +1,15 @@
+{
+  "name": "SUIME",
+  "symbol": "SUIME",
+  "decimals": 6,
+  "coin_type": "0x934692a74595c4f5a0c026130eb2143eea6fc313742f5d7dd9e45fd6ddbb00f1::suime::SUIME",
+  "pyth_id": "",
+  "birdeyeid": "0x934692a74595c4f5a0c026130eb2143eea6fc313742f5d7dd9e45fd6ddbb00f1::suime::SUIME",
+  "coin_priority": [
+    "610"
+  ],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/suime.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

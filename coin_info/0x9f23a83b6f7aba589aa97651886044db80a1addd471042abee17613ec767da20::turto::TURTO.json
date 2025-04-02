@@ -1,0 +1,13 @@
+{
+  "name": "Turto the Blue Turtle",
+  "symbol": "TURTO",
+  "decimals": 6,
+  "coin_type": "0x9f23a83b6f7aba589aa97651886044db80a1addd471042abee17613ec767da20::turto::TURTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_91131e5c39.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

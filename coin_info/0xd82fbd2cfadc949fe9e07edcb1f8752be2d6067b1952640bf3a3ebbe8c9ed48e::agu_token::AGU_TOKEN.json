@@ -1,0 +1,13 @@
+{
+  "name": "AGU Token",
+  "symbol": "AGU",
+  "decimals": 6,
+  "coin_type": "0xd82fbd2cfadc949fe9e07edcb1f8752be2d6067b1952640bf3a3ebbe8c9ed48e::agu_token::AGU_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cryptologos.cc/logos/agoras-tokens-agrs-logo.png?v=040",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

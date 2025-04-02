@@ -1,0 +1,13 @@
+{
+  "name": "POPCATSui",
+  "symbol": "SUICAT",
+  "decimals": 9,
+  "coin_type": "0xe80127993653a27d3b1b627a4c14c146169b741b95014bfa395e4e2413767bd9::suicat::SUICAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fbf87cd5-787b-4179-b65b-659d787b4b5d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

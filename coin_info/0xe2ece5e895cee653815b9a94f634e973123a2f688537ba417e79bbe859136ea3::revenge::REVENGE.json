@@ -1,0 +1,13 @@
+{
+  "name": "Dog Revenge",
+  "symbol": "REVENGE",
+  "decimals": 6,
+  "coin_type": "0xe2ece5e895cee653815b9a94f634e973123a2f688537ba417e79bbe859136ea3::revenge::REVENGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000007396_a02f62e533.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

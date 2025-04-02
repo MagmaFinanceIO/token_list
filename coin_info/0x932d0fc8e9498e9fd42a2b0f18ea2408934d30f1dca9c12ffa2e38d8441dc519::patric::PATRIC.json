@@ -1,0 +1,13 @@
+{
+  "name": "PATRICK ON SUI",
+  "symbol": "PATRIC",
+  "decimals": 6,
+  "coin_type": "0x932d0fc8e9498e9fd42a2b0f18ea2408934d30f1dca9c12ffa2e38d8441dc519::patric::PATRIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2025_02_05_12_26_48a_PM_59ed96968d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

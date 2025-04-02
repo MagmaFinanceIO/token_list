@@ -1,0 +1,13 @@
+{
+  "name": "Mudcrabs",
+  "symbol": "MUD",
+  "decimals": 6,
+  "coin_type": "0x006ae053adfe61d4eaf2a3bbf181c05d053877cec2077abc1150110d958f65a7::mud::MUD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/icon_c68e333c22.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

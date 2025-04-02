@@ -1,0 +1,13 @@
+{
+  "name": "MOCHA CAT",
+  "symbol": "MOCHA",
+  "decimals": 9,
+  "coin_type": "0xee6fb8cc8c35a8b3455338b96308210a4d54195ed164c79dadb70e78a36a0a3f::mocha::MOCHA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6wFQi3rprzceUEwbb7wKown4P5eJPRyXqU4sbF7PKzov.png?size=lg&key=990dd1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

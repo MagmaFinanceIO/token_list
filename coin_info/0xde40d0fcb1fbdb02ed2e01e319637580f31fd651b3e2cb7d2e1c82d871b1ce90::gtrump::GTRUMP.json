@@ -1,0 +1,13 @@
+{
+  "name": "GingerTrump",
+  "symbol": "GTrump",
+  "decimals": 9,
+  "coin_type": "0xde40d0fcb1fbdb02ed2e01e319637580f31fd651b3e2cb7d2e1c82d871b1ce90::gtrump::GTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DooZ3WXNpvxETXp5VsSeXeoBfVRShMPMaEKb6PXtpump.png?size=lg&key=6780e5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

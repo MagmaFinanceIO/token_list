@@ -1,0 +1,13 @@
+{
+  "name": "MartyParty",
+  "symbol": "MARTYPARTY",
+  "decimals": 9,
+  "coin_type": "0x16b382624391a9fc9b02c983dc3e363c97638e16e0ec5365995c9d1fef085e60::martyparty::MARTYPARTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9e78c883-cb9d-46c2-9a13-70d7eed65dcc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

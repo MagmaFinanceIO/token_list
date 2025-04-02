@@ -1,0 +1,13 @@
+{
+  "name": "Peach Cat On Sui",
+  "symbol": "PEACHES",
+  "decimals": 6,
+  "coin_type": "0xda9ab6b6fcf5b99bc91527f4a208efb8fd8d848ae034cf408c90ae4834a3b38c::peaches::PEACHES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Luj_Dy8_Jg_400x400_726144bdf1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

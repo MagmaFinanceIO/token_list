@@ -1,0 +1,13 @@
+{
+  "name": "CHILL A.I.",
+  "symbol": "CHILLAI",
+  "decimals": 9,
+  "coin_type": "0xfc1478f764bad7b2f0c548a681febb9038827168cdca60cbedc267a0a4ef738f::chillai::CHILLAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7aRu4CyPCuo7hejX96yzVBeCzi91Tq438NbmUZyipump.png?size=lg&key=f69c7d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

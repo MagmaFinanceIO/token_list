@@ -1,0 +1,13 @@
+{
+  "name": "Jeffy",
+  "symbol": "JFY",
+  "decimals": 9,
+  "coin_type": "0x9fc07244f9504ae6eafad05f9e18f89f0b532549c6bb2413b663d193c124fdcc::jfy::JFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/60b5a449-780e-444a-8e5e-2023675e4df3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

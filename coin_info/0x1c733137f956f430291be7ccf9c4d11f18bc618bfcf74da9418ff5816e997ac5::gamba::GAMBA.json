@@ -1,0 +1,13 @@
+{
+  "name": "Just another Gamba",
+  "symbol": "gamba",
+  "decimals": 9,
+  "coin_type": "0x1c733137f956f430291be7ccf9c4d11f18bc618bfcf74da9418ff5816e997ac5::gamba::GAMBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EMnNbcue6kgBxvqWY85JUjVqaxFn1fG7bzcGa1S8pump.png?size=lg&key=b5e243",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

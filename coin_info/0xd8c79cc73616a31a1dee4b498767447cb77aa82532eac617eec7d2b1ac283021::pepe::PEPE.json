@@ -1,0 +1,13 @@
+{
+  "name": "PEPE",
+  "symbol": "PEPE-SCREAM",
+  "decimals": 9,
+  "coin_type": "0xd8c79cc73616a31a1dee4b498767447cb77aa82532eac617eec7d2b1ac283021::pepe::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://storage.googleapis.com/raidenx-no-cors/token-icons/pepe-scream.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

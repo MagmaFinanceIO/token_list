@@ -1,0 +1,13 @@
+{
+  "name": "FartSwap",
+  "symbol": "FartSwap",
+  "decimals": 9,
+  "coin_type": "0x4f7e115f3ace52b07f846739b9a8580f99aba080211f8fc4129258ce87e1e068::fartswap::FARTSWAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9FLoRqzWDPpDbxfuHKEesaSnmmRBUJPagsebrWRLpump.png?claimId=wv9y3FcodT28kASB",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

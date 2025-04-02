@@ -1,0 +1,13 @@
+{
+  "name": "CAPYPEPE",
+  "symbol": "CAPYPEPE",
+  "decimals": 9,
+  "coin_type": "0xb996c5e21ac186a5eec85bd2a0afcf5ddd0740a72302741d078160927d7479e9::capypepe::CAPYPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8a2401e2-1637-4942-8e1c-ad27516c931b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

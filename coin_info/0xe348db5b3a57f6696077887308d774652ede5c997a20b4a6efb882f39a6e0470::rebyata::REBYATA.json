@@ -1,0 +1,13 @@
+{
+  "name": "REBYATA",
+  "symbol": "REBYATA",
+  "decimals": 6,
+  "coin_type": "0xe348db5b3a57f6696077887308d774652ede5c997a20b4a6efb882f39a6e0470::rebyata::REBYATA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSTAter1mysVmiA9S5hkL7S7EnXqXZLVhM7C8zCL4zWkK",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

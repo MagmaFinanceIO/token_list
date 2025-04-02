@@ -1,0 +1,13 @@
+{
+  "name": "MSTR",
+  "symbol": "MSTR",
+  "decimals": 9,
+  "coin_type": "0x8fcbdb432ac21b9a5a23816164e01fc5722a468ede18223967ab7e858f5d8de8::mstr::MSTR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

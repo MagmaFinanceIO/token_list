@@ -1,0 +1,13 @@
+{
+  "name": "Farmer Tom",
+  "symbol": "TOM",
+  "decimals": 6,
+  "coin_type": "0x5783b90be3d297a372b6111f46bae84652324a1a584fa10ced3b559e1910d37e::tom::TOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000008100_e9cfa40242.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

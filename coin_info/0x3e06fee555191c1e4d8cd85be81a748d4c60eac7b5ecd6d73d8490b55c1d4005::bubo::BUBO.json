@@ -1,0 +1,13 @@
+{
+  "name": "BUBO ON SUI",
+  "symbol": "BUBO",
+  "decimals": 6,
+  "coin_type": "0x3e06fee555191c1e4d8cd85be81a748d4c60eac7b5ecd6d73d8490b55c1d4005::bubo::BUBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20241002_233220_446_8261a3135d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

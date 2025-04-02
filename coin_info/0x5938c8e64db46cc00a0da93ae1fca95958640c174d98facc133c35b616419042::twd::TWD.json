@@ -1,0 +1,13 @@
+{
+  "name": "SUITWD",
+  "symbol": "TWD",
+  "decimals": 9,
+  "coin_type": "0x5938c8e64db46cc00a0da93ae1fca95958640c174d98facc133c35b616419042::twd::TWD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.gtokentool.com/1737300254/1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

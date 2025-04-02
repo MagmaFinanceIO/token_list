@@ -1,0 +1,13 @@
+{
+  "name": "CRAZY LEMON",
+  "symbol": "cLEMON",
+  "decimals": 9,
+  "coin_type": "0x3e1618fcc14e6199d38944ed4744813dde565bbf5acbbe8cd9b3af2199011a3c::clemon::CLEMON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b29d9633-b18e-43db-9900-edbf1d5c0b75.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

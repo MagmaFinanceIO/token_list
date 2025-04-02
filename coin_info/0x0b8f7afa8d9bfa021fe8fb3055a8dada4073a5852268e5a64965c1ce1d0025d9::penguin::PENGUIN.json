@@ -1,0 +1,13 @@
+{
+  "name": "supeng",
+  "symbol": "PENGUIN",
+  "decimals": 9,
+  "coin_type": "0x0b8f7afa8d9bfa021fe8fb3055a8dada4073a5852268e5a64965c1ce1d0025d9::penguin::PENGUIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cd50f317-fb0d-4170-a80d-2131c50608c6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

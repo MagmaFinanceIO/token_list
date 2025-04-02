@@ -1,0 +1,13 @@
+{
+  "name": "Lynk's Cat",
+  "symbol": "LUNA",
+  "decimals": 9,
+  "coin_type": "0xb09aaba19339804a177fb19c7e4bd259d2700338cf4fab77a1af892817be5f10::luna::LUNA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HxtQpNgKnK82XQvJfqiRNkaQRsTcNhNA7iZZmCsjpump.png?size=lg&key=176a13",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

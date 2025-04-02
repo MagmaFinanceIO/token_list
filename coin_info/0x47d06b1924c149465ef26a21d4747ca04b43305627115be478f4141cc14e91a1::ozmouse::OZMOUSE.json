@@ -1,0 +1,13 @@
+{
+  "name": "12 OZ MOUSE",
+  "symbol": "OZMOUSE",
+  "decimals": 9,
+  "coin_type": "0x47d06b1924c149465ef26a21d4747ca04b43305627115be478f4141cc14e91a1::ozmouse::OZMOUSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7UvtXFG2i5KaJY4NtcRwBuxK4ArZMruEmGi9W7qppump.png?size=lg&key=fa2fae",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

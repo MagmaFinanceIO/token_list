@@ -1,0 +1,13 @@
+{
+  "name": "Capacoin",
+  "symbol": "CAPA",
+  "decimals": 9,
+  "coin_type": "0x0ebf66aec4fd2bd837484be29e26505b2cea51ea2f5166fe9d29433186b48d50::capa::CAPA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DbxXuqsXDtBYiL7CHjz7qkSvGujk88mgGbt72qdtpump.png?size=lg&key=682769",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "movekenj",
+  "symbol": "Movekenj",
+  "decimals": 6,
+  "coin_type": "0xa4b83bd4fd50971d9cc492687a6531eec063b069249cd17b63fe15151efb5781::movekenj::MOVEKENJ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6942_066cfb5f35.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

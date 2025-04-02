@@ -1,0 +1,13 @@
+{
+  "name": "Mark Suickerberg",
+  "symbol": "SUICKERBERG",
+  "decimals": 9,
+  "coin_type": "0x19f9f47abafe35b3ca60de87f8dbce58a8742d744f2caf19027aa39e9d1177cd::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

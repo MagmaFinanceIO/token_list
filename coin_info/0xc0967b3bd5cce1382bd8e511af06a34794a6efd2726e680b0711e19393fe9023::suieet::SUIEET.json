@@ -1,0 +1,13 @@
+{
+  "name": "SUIEET",
+  "symbol": "Suieet",
+  "decimals": 6,
+  "coin_type": "0xc0967b3bd5cce1382bd8e511af06a34794a6efd2726e680b0711e19393fe9023::suieet::SUIEET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Suieet_logo_ae90e850c6.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

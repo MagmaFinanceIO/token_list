@@ -1,0 +1,13 @@
+{
+  "name": "NodeBook",
+  "symbol": "NODE",
+  "decimals": 6,
+  "coin_type": "0x977662275ee428e02faf6a9be6a6bd4e8794550a96b33415bcb0716ef73a0900::node::NODE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1734981379610.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

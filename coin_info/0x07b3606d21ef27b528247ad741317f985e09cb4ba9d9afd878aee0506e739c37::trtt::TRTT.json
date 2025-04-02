@@ -1,0 +1,13 @@
+{
+  "name": "TrTT",
+  "symbol": "TRTT",
+  "decimals": 9,
+  "coin_type": "0x07b3606d21ef27b528247ad741317f985e09cb4ba9d9afd878aee0506e739c37::trtt::TRTT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://waterpump.fun/api/file/0c7b7a68261f4007afb4e77de4d4d491.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DOGE DEPT",
+  "symbol": "DEPT",
+  "decimals": 9,
+  "coin_type": "0xa0bc8143c0676cc33ec7644488c0c8cca84f1ae1ba47cb788266adf2c333ddde::dept::DEPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HkVs1CuNJhTxniwL7tmgn9s8B3o5F9NXRywNa4dZDsCk.png?size=lg&key=3b0018",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

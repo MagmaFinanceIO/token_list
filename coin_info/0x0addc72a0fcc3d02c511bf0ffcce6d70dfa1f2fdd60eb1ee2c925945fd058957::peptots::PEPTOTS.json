@@ -1,0 +1,13 @@
+{
+  "name": "Peptots",
+  "symbol": "PEPTOTS",
+  "decimals": 9,
+  "coin_type": "0x0addc72a0fcc3d02c511bf0ffcce6d70dfa1f2fdd60eb1ee2c925945fd058957::peptots::PEPTOTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8738b097-9973-42e9-b012-e158d6ad92d2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

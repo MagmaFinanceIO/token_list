@@ -1,0 +1,13 @@
+{
+  "name": "Cruxus AI",
+  "symbol": "CRUXAI",
+  "decimals": 9,
+  "coin_type": "0x0e1004b7916e14e19761d1652faa65a93b6289d7f37d69361ba68f142e0a73db::cruxai::CRUXAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8v95RYPSTehnq736D9gBWiBF3GmgzKVVcZhSimPDpump.png?size=lg&key=7b9e3e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

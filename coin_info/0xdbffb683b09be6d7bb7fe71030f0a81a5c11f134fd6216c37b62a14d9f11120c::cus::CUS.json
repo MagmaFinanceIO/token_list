@@ -1,0 +1,13 @@
+{
+  "name": "CUS",
+  "symbol": "CUS",
+  "decimals": 9,
+  "coin_type": "0xdbffb683b09be6d7bb7fe71030f0a81a5c11f134fd6216c37b62a14d9f11120c::cus::CUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

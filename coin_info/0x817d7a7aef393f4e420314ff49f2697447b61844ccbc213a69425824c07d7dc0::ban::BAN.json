@@ -1,0 +1,13 @@
+{
+  "name": "ban",
+  "symbol": "Ban",
+  "decimals": 6,
+  "coin_type": "0x817d7a7aef393f4e420314ff49f2697447b61844ccbc213a69425824c07d7dc0::ban::BAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731080190303.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

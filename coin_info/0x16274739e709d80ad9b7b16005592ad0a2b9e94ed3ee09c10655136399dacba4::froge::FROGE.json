@@ -1,0 +1,13 @@
+{
+  "name": "FROGE On Sui",
+  "symbol": "Froge",
+  "decimals": 9,
+  "coin_type": "0x16274739e709d80ad9b7b16005592ad0a2b9e94ed3ee09c10655136399dacba4::froge::FROGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/69EsdaPzBbLS3VnBhSDwUJsFgGCUBhqinnyeDHiHiCDu.png?size=lg&key=2e986f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

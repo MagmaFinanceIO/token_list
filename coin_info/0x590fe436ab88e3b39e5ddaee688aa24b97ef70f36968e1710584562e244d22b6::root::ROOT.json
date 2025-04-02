@@ -1,0 +1,13 @@
+{
+  "name": "Rootlets",
+  "symbol": "ROOT",
+  "decimals": 6,
+  "coin_type": "0x590fe436ab88e3b39e5ddaee688aa24b97ef70f36968e1710584562e244d22b6::root::ROOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Rootlets_812a2b6180.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

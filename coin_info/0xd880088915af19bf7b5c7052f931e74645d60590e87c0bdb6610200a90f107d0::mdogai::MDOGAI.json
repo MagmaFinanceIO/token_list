@@ -1,0 +1,13 @@
+{
+  "name": "MoonDog AI",
+  "symbol": "MDOGAI",
+  "decimals": 9,
+  "coin_type": "0xd880088915af19bf7b5c7052f931e74645d60590e87c0bdb6610200a90f107d0::mdogai::MDOGAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0xd81cb23a4690f7fdf54e583f221d2c01882604f8.png?size=lg&key=5ffa95",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

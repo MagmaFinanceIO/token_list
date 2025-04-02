@@ -1,0 +1,13 @@
+{
+  "name": "Omnu Machine Learning Agent",
+  "symbol": "OMNU",
+  "decimals": 6,
+  "coin_type": "0x70d542064a3a6cf6a5d419e9289b13c7caed752dca24531068593009e087d2a4::omnu::OMNU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d70b061a-7b83-4b8d-9c79-172c252002bc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

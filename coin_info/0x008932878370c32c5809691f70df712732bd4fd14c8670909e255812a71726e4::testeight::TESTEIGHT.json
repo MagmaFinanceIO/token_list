@@ -1,0 +1,13 @@
+{
+  "name": "Test7",
+  "symbol": "TEstEight",
+  "decimals": 9,
+  "coin_type": "0x008932878370c32c5809691f70df712732bd4fd14c8670909e255812a71726e4::testeight::TESTEIGHT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f61f2827-0092-4538-9ea5-1c7f0d21fee4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

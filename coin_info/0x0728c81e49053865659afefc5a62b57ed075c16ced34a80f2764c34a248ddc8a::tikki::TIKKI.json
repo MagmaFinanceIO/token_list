@@ -1,0 +1,13 @@
+{
+  "name": "Tikki on Sui",
+  "symbol": "TIKKI",
+  "decimals": 6,
+  "coin_type": "0x0728c81e49053865659afefc5a62b57ed075c16ced34a80f2764c34a248ddc8a::tikki::TIKKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/gif_4af30c589c.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

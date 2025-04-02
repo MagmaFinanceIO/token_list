@@ -1,0 +1,13 @@
+{
+  "name": "Granpop  on Sui",
+  "symbol": "Granpop",
+  "decimals": 6,
+  "coin_type": "0x6c2e55c95011f51ebb95773e257bd2bf0b70ce2bc8b000fa880ddfb11e147f58::granpop::GRANPOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_5829922349586170767_y_da78e2e5fa.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Voci AI",
+  "symbol": "VOCI",
+  "decimals": 6,
+  "coin_type": "0x7f873661b036518a7fca9587a6ca949ad96fdf5111366fe210804464f09bf1b7::voci::VOCI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735353653800.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AvaCoach AI",
+  "symbol": "AVAC",
+  "decimals": 9,
+  "coin_type": "0xbc216236ede2f736869b78653891bbcaeb7181269566ee42ee45c4a1fd35364f::avac::AVAC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Fz7avoJ1LGFhnFgi4qZoC7fjWP9cgNYaz7Ms5QwHpump.png?size=lg&key=c7c6cd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

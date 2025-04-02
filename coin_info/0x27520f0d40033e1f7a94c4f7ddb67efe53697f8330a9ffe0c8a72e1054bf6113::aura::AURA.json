@@ -1,0 +1,13 @@
+{
+  "name": "Aurora",
+  "symbol": "AURA",
+  "decimals": 9,
+  "coin_type": "0x27520f0d40033e1f7a94c4f7ddb67efe53697f8330a9ffe0c8a72e1054bf6113::aura::AURA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c239224c-4e35-4218-a3c8-7bfd39767b8e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FUN Token",
+  "symbol": "FUN",
+  "decimals": 6,
+  "coin_type": "0x1947dfcb062fb1dcd42c831ac24fdcf2383c9f5965873379469093e1e79e1b67::fun::FUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmQvXjD3avEQMvYHXK9qGPA4ixefgNqQXLfyd5PiLz3y35",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

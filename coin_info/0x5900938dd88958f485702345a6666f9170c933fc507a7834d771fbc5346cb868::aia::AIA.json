@@ -1,0 +1,13 @@
+{
+  "name": "Ai Agents",
+  "symbol": "AiA",
+  "decimals": 6,
+  "coin_type": "0x5900938dd88958f485702345a6666f9170c933fc507a7834d771fbc5346cb868::aia::AIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_9397_bdce3983ea.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

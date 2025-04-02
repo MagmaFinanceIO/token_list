@@ -1,0 +1,13 @@
+{
+  "name": "LOUDER ON SUI",
+  "symbol": "LOUDER",
+  "decimals": 6,
+  "coin_type": "0x40280787f8b260473595c981b39fb12521b95b552846bf4760f8628354febbbf::louder::LOUDER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Y936u_VV_2_400x400_fb8ae75864.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Nicole Aniston",
+  "symbol": "nicole",
+  "decimals": 9,
+  "coin_type": "0x9a28a319fc2e7452f51cc400ce63872d69c66c96f547f58e0e5119ede75d61da::nicole::NICOLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdns-images.dzcdn.net/images/cover/adb1235539fa542efcd3d1152c5789a3/0x1900-000000-80-0-0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

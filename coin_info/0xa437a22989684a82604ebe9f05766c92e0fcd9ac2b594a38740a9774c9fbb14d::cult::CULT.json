@@ -1,0 +1,13 @@
+{
+  "name": "SUICULT",
+  "symbol": "CULT",
+  "decimals": 6,
+  "coin_type": "0xa437a22989684a82604ebe9f05766c92e0fcd9ac2b594a38740a9774c9fbb14d::cult::CULT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suicult_c010ebf6f2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

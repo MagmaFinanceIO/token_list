@@ -1,0 +1,13 @@
+{
+  "name": "SUIDRAGON",
+  "symbol": "DRAGON",
+  "decimals": 6,
+  "coin_type": "0x3d42a96485ae2142d4ea6c9b93824477ed464a8feb8c45c962f0a0a7e2aa1501::dragon::DRAGON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/dsui_8fad0eec34.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

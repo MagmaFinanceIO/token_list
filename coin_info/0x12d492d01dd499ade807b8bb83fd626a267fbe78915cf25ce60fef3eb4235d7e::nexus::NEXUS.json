@@ -1,0 +1,13 @@
+{
+  "name": "NEXUS NETWORK",
+  "symbol": "NEXUS",
+  "decimals": 6,
+  "coin_type": "0x12d492d01dd499ade807b8bb83fd626a267fbe78915cf25ce60fef3eb4235d7e::nexus::NEXUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3766_eb5734f563.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

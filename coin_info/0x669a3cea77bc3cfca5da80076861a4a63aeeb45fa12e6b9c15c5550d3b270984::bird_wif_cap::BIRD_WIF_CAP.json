@@ -1,0 +1,13 @@
+{
+  "name": "BIRD WIF CAP",
+  "symbol": "BIRD WIF CAP",
+  "decimals": 9,
+  "coin_type": "0x669a3cea77bc3cfca5da80076861a4a63aeeb45fa12e6b9c15c5550d3b270984::bird_wif_cap::BIRD_WIF_CAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/56aa61e2-a3da-4bfd-8195-7873ccdb6812.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Plop",
+  "symbol": "PLOP",
+  "decimals": 6,
+  "coin_type": "0x1c6cd615ed4c42a34977212a3407a28eec21acc572c8dbe7d0382bf0289a2590::plop::PLOP",
+  "pyth_id": "",
+  "birdeyeid": "0x1c6cd615ed4c42a34977212a3407a28eec21acc572c8dbe7d0382bf0289a2590::plop::PLOP",
+  "coin_priority": [],
+  "logo_url": "https://fj74jg6iknyhnkkajybduxndrgvp3r7lklyjnlj7w2cvflsc574a.arweave.net/Kn_Em8hTcHapQE4COl2jiar9x-tS8JatP7aFUq5C7_g",
+  "project_url": "",
+  "coingecko_id": "sui-plop",
+  "is_trusted": true
+}

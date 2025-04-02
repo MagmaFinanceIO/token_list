@@ -1,0 +1,13 @@
+{
+  "name": "Drippy",
+  "symbol": "DRIP",
+  "decimals": 9,
+  "coin_type": "0x94052f82f26f5abcb0519e62768375203d1832857874d1b3db1e5e6930c11986::drip::DRIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/99F9FcVphiocjUpZkqaMhFK5kvZ2ib5aWJRiCLfvoJsR.png?size=lg&key=6e2e12",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

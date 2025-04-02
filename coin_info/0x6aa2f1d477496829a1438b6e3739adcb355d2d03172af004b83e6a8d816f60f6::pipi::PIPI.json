@@ -1,0 +1,13 @@
+{
+  "name": "PIPI Coin",
+  "symbol": "PIPI",
+  "decimals": 9,
+  "coin_type": "0x6aa2f1d477496829a1438b6e3739adcb355d2d03172af004b83e6a8d816f60f6::pipi::PIPI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2820b52c-97b1-43b5-b392-80947137b6bd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

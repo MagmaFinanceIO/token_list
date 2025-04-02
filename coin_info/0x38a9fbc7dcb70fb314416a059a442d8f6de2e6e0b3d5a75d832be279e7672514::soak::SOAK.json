@@ -1,0 +1,13 @@
+{
+  "name": "Soak on Sui",
+  "symbol": "Soak",
+  "decimals": 6,
+  "coin_type": "0x38a9fbc7dcb70fb314416a059a442d8f6de2e6e0b3d5a75d832be279e7672514::soak::SOAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_12_17_at_02_41_18_99ecbf0b59.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

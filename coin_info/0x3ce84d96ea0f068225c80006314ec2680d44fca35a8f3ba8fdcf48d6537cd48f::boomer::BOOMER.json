@@ -1,0 +1,13 @@
+{
+  "name": "Boomer Coin",
+  "symbol": "BOOMER",
+  "decimals": 9,
+  "coin_type": "0x3ce84d96ea0f068225c80006314ec2680d44fca35a8f3ba8fdcf48d6537cd48f::boomer::BOOMER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/37ce05d8-40b7-4a11-b0b1-5c6dda78a8fc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

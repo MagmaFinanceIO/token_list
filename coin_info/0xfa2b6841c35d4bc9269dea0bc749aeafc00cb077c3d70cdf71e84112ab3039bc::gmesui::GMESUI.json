@@ -1,0 +1,13 @@
+{
+  "name": "Gamestop Sui",
+  "symbol": "GMESUI",
+  "decimals": 6,
+  "coin_type": "0xfa2b6841c35d4bc9269dea0bc749aeafc00cb077c3d70cdf71e84112ab3039bc::gmesui::GMESUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/db1c5132-e69e-4c13-9a62-3ee2cc2aa52e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

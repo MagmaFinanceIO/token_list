@@ -1,0 +1,13 @@
+{
+  "name": "Sissy Squirty",
+  "symbol": "SQRT",
+  "decimals": 9,
+  "coin_type": "0x18eb8454f2344ec1b9c2192762d4c2dabb2ec28952cdbdb8304c2ce261d841c0::sqrt::SQRT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6b01207f-c194-4a1f-b1b3-4944085ac651.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

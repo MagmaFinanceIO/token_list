@@ -1,0 +1,13 @@
+{
+  "name": "ZAI",
+  "symbol": "ZAI",
+  "decimals": 9,
+  "coin_type": "0xa2bb414418ca2ad509f8b903b163b63378cf7c4d173550d7cdd14fcc45855bd7::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

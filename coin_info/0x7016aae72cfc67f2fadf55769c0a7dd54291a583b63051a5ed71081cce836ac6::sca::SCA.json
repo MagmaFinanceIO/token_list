@@ -1,0 +1,15 @@
+{
+  "name": "Scallop",
+  "symbol": "SCA",
+  "decimals": 9,
+  "coin_type": "0x7016aae72cfc67f2fadf55769c0a7dd54291a583b63051a5ed71081cce836ac6::sca::SCA",
+  "pyth_id": "7e17f0ac105abe9214deb9944c30264f5986bf292869c6bd8e8da3ccd92d79bc",
+  "birdeyeid": "0x7016aae72cfc67f2fadf55769c0a7dd54291a583b63051a5ed71081cce836ac6::sca::SCA",
+  "coin_priority": [
+    "900"
+  ],
+  "logo_url": "https://vrr7y7aent4hea3r444jrrsvgvgwsz6zi2r2vv2odhgfrgvvs6iq.arweave.net/rGP8fARs-HIDcec4mMZVNU1pZ9lGo6rXThnMWJq1l5E",
+  "project_url": "",
+  "coingecko_id": "scallop-2",
+  "is_trusted": true
+}

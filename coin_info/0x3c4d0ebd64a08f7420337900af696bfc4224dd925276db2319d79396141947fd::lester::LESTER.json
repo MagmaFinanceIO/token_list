@@ -1,0 +1,13 @@
+{
+  "name": "Lester Virtu",
+  "symbol": "LESTER",
+  "decimals": 6,
+  "coin_type": "0x3c4d0ebd64a08f7420337900af696bfc4224dd925276db2319d79396141947fd::lester::LESTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736284156605.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

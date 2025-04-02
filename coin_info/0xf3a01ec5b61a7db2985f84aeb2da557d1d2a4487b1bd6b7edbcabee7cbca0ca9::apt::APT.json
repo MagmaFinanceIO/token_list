@@ -1,0 +1,13 @@
+{
+  "name": "Apateu",
+  "symbol": "APT",
+  "decimals": 9,
+  "coin_type": "0xf3a01ec5b61a7db2985f84aeb2da557d1d2a4487b1bd6b7edbcabee7cbca0ca9::apt::APT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/74ee3c2d-3341-478b-b8d0-5daa8bf535c3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

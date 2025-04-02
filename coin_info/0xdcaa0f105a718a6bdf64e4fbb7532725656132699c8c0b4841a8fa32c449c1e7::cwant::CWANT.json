@@ -1,0 +1,13 @@
+{
+  "name": "MY CWANT",
+  "symbol": "CWANT",
+  "decimals": 6,
+  "coin_type": "0xdcaa0f105a718a6bdf64e4fbb7532725656132699c8c0b4841a8fa32c449c1e7::cwant::CWANT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_11_21_03_47_39_389ac4b914.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

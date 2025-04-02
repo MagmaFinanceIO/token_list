@@ -1,0 +1,13 @@
+{
+  "name": "SUKI INU",
+  "symbol": "SUKI",
+  "decimals": 6,
+  "coin_type": "0x25c3cc55fb5509a459e5a0d46efdc6e1fff6e8b3e9ab9099c991d0f5e1625374::suki::SUKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suki_50b8107366.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

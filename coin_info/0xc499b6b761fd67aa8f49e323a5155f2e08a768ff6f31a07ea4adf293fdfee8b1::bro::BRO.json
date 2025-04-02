@@ -1,0 +1,13 @@
+{
+  "name": "Trust Me, Bro",
+  "symbol": "BRO",
+  "decimals": 9,
+  "coin_type": "0xc499b6b761fd67aa8f49e323a5155f2e08a768ff6f31a07ea4adf293fdfee8b1::bro::BRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/3346733f25e72c785bc98624382c7ad3blob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

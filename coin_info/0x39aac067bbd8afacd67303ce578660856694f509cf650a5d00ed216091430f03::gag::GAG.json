@@ -1,0 +1,13 @@
+{
+  "name": "GAG",
+  "symbol": "GAG",
+  "decimals": 9,
+  "coin_type": "0x39aac067bbd8afacd67303ce578660856694f509cf650a5d00ed216091430f03::gag::GAG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c1c3e967-f57b-44cc-a3ed-8ec88ede4af0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

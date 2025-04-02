@@ -1,0 +1,13 @@
+{
+  "name": "Chiikawa",
+  "symbol": "Usagi",
+  "decimals": 6,
+  "coin_type": "0x5236200f23e34af279cc49ed4f1a2edb80693d38f3d6a1d753be4ef09a8fcfeb::usagi::USAGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_8901_28b33d46c2.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

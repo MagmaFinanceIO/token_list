@@ -1,0 +1,13 @@
+{
+  "name": "MEGALODON",
+  "symbol": "MEGA",
+  "decimals": 2,
+  "coin_type": "0xf2786bc5cecbae94d11b5b4bc97d8ccf1e7b72054216f4ed68ea0b6c91074cb4::mega::MEGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f663e23b-5cb2-4caf-ab1c-47d3127f9c71.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

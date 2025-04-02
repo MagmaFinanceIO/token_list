@@ -1,0 +1,13 @@
+{
+  "name": "Money Bag",
+  "symbol": "MONEYBAG",
+  "decimals": 9,
+  "coin_type": "0xc0064474da579840d213ebecc0766bdb9c1614ffb95d942c59d0a96bd3b3dc34::moneybag::MONEYBAG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/893/320/large/danil-mishatkin-color.jpg?1728834863",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

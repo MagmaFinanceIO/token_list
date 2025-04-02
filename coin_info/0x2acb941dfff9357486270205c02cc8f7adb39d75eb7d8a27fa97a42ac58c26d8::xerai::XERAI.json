@@ -1,0 +1,13 @@
+{
+  "name": "Xerox Player Agent",
+  "symbol": "XERAI",
+  "decimals": 9,
+  "coin_type": "0x2acb941dfff9357486270205c02cc8f7adb39d75eb7d8a27fa97a42ac58c26d8::xerai::XERAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DKh7GZdmo9kNrv5RQcH1SPeQghCkhQso7KvMwhDEpump.png?size=lg&key=69eb24",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

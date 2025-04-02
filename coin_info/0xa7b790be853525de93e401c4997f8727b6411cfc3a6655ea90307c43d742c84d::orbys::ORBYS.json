@@ -1,0 +1,13 @@
+{
+  "name": "Orbys AI",
+  "symbol": "ORBYS",
+  "decimals": 9,
+  "coin_type": "0xa7b790be853525de93e401c4997f8727b6411cfc3a6655ea90307c43d742c84d::orbys::ORBYS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6CkeyR7eWjtVfYPgJJF2pqEC5W35smUr8Uui1NSKpump.png?size=lg&key=ad134b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

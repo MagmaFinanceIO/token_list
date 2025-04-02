@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Wif Puppy",
+  "symbol": "PWP",
+  "decimals": 9,
+  "coin_type": "0xd22000fa2fc20ed3afeef2c619e84b0419feed658766653e5faa32fede3672b1::pwp::PWP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/90b30bba-2dbe-4b4a-aec9-546268816647.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

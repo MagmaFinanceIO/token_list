@@ -1,0 +1,13 @@
+{
+  "name": "FOGY",
+  "symbol": "FOGY",
+  "decimals": 6,
+  "coin_type": "0xa508bb0e59c92c4b91f2244f7d3777409f962683abe117d0ba1c15486807f24f::fogy_sui::FOGY_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://turquoise-worried-tapir-661.mypinata.cloud/ipfs/QmRcdXTBdYYR2VG1SZF1ASxVXfWKoRFPTW1YxM8zV1qahf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

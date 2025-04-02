@@ -1,0 +1,13 @@
+{
+  "name": "SEAL FROG",
+  "symbol": "SROG",
+  "decimals": 6,
+  "coin_type": "0x7bd2c97e4f83123417376bffa6b701487c49d2a158904ed5d244901bdfc3c9fe::srog::SROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0283_3a805895ea.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pepemas On Sui",
+  "symbol": "PEPEMAS",
+  "decimals": 9,
+  "coin_type": "0x06c6b80598c3b78a29f1d4bf64b9bd6bcf41bec3426c2579a18f1e26419d1d33::pepemas::PEPEMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d0566835-8308-497f-8740-f93c6d270004.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

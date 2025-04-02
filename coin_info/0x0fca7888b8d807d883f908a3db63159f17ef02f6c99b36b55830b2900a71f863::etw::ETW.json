@@ -1,0 +1,13 @@
+{
+  "name": "Epic Trump Win",
+  "symbol": "ETW",
+  "decimals": 6,
+  "coin_type": "0x0fca7888b8d807d883f908a3db63159f17ef02f6c99b36b55830b2900a71f863::etw::ETW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qma7_U5_WQ_9_Pf1km_R8_Y_Vjdv_Hw_Sp26m3gfew8n_Fi7mx_FW_7s_VX_78a1f9ae8a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

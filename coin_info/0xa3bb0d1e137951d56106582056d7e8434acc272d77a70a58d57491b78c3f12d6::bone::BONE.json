@@ -1,0 +1,13 @@
+{
+  "name": "Bone On SUI",
+  "symbol": "BONE",
+  "decimals": 6,
+  "coin_type": "0xa3bb0d1e137951d56106582056d7e8434acc272d77a70a58d57491b78c3f12d6::bone::BONE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pfp_8e1b0a9599.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

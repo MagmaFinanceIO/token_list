@@ -1,0 +1,13 @@
+{
+  "name": "Dark Pepe",
+  "symbol": "DARKPEPE",
+  "decimals": 9,
+  "coin_type": "0xdfc29736759d03348c0bc949a7588308ee6bab6590c829013e7d560907cc777b::darkpepe::DARKPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b909d989-8665-491a-9477-bb3c3ade39a0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Claude Haiku",
+  "symbol": "HAIKU",
+  "decimals": 9,
+  "coin_type": "0xdae54b0a5761467ca402e401e2d805544fde11f7dde63e9e00047d43d0f9d9e7::haiku::HAIKU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/65FTWaP4ERLYFkQ4QaKgFUeKncACdtx1dfEFyKJapump.png?size=lg&key=789aca",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

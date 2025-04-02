@@ -1,0 +1,13 @@
+{
+  "name": "CORGI AI DOGE",
+  "symbol": "CORGIAI",
+  "decimals": 9,
+  "coin_type": "0x1fc5eb80d1b28985f064d48c34eb7eae1717fbae3d4075e0315052d63a07a9ec::corgiai::CORGIAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/64ebe267-bbdc-42d5-99dd-d39702d97e5e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

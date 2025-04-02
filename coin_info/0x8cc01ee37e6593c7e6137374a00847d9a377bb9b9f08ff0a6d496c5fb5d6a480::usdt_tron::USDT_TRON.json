@@ -1,0 +1,13 @@
+{
+  "name": "USDT TRON",
+  "symbol": "USDT TRON",
+  "decimals": 6,
+  "coin_type": "0x8cc01ee37e6593c7e6137374a00847d9a377bb9b9f08ff0a6d496c5fb5d6a480::usdt_tron::USDT_TRON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1d64cbef-913f-4e2a-a493-e2e63b913b04.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hare Dog",
+  "symbol": "Hare",
+  "decimals": 9,
+  "coin_type": "0x834eb5a83a8f740579c121af3e76403053f45995725f2390acea13ec6b29b729::hare::HARE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d1b9f889-25a9-479a-a29f-c7092cd9d428.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

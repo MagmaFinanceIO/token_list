@@ -1,0 +1,13 @@
+{
+  "name": "SUIBO",
+  "symbol": "SUIBO",
+  "decimals": 9,
+  "coin_type": "0x0d7672f350924ee0996d60587cb18b40ea3a14ebcaffa545b13f3b34a9350aeb::suibo::SUIBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5u4VxhQeqQAbGt1h6YGSqmN7iP2Bi4sBF8hh1CZbpump.png?size=lg&key=9440d4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

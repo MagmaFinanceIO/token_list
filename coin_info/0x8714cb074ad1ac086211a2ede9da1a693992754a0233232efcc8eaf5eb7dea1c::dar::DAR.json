@@ -1,0 +1,13 @@
+{
+  "name": "Darly",
+  "symbol": "DAR",
+  "decimals": 6,
+  "coin_type": "0x8714cb074ad1ac086211a2ede9da1a693992754a0233232efcc8eaf5eb7dea1c::dar::DAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/2926f134_727b_441e_9c1f_5f5abb53a21f_2d0da32f20.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

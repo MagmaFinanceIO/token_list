@@ -1,0 +1,13 @@
+{
+  "name": "SUI of Giving",
+  "symbol": "THANKS",
+  "decimals": 9,
+  "coin_type": "0x9ece4f15e7b71da1fb46bf2a235f750dfc71f40c5048875415f333fa7e7d26d0::thanks::THANKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmUM7hJ9C1Losbni6X3QqqPP7EPdpQuEFzq49AFpr21qgC?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

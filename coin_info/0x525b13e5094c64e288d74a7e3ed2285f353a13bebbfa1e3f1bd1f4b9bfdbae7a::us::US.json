@@ -1,0 +1,13 @@
+{
+  "name": "UNITED STATES FLAG",
+  "symbol": "US",
+  "decimals": 6,
+  "coin_type": "0x525b13e5094c64e288d74a7e3ed2285f353a13bebbfa1e3f1bd1f4b9bfdbae7a::us::US",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/us.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

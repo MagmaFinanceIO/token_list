@@ -1,0 +1,13 @@
+{
+  "name": "Giga Trump",
+  "symbol": "GIGATRUMP",
+  "decimals": 9,
+  "coin_type": "0xa59dd35f4a3d05265b6c897c5e6dfe6ec6863afbdb58c706083acc9e94153a2f::gigatrump::GIGATRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmeL7S2PRnc4KNkWUmHuvrErgZmagSfaayAcPiqxsnqd2A?img-width=800&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

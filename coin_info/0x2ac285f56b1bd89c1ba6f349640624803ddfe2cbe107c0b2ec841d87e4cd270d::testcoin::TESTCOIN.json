@@ -1,0 +1,13 @@
+{
+  "name": "TESTCOIN",
+  "symbol": "TESTCOIN",
+  "decimals": 9,
+  "coin_type": "0x2ac285f56b1bd89c1ba6f349640624803ddfe2cbe107c0b2ec841d87e4cd270d::testcoin::TESTCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://assets-global.website-files.com/6425f546844727ce5fb9e5ab/65690e5e73e9e2a416e3502f_sui-mark.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

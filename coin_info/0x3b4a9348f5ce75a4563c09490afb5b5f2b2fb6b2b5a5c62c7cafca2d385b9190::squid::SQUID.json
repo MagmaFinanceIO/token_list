@@ -1,0 +1,13 @@
+{
+  "name": "Squidgame",
+  "symbol": "SQUID",
+  "decimals": 6,
+  "coin_type": "0x3b4a9348f5ce75a4563c09490afb5b5f2b2fb6b2b5a5c62c7cafca2d385b9190::squid::SQUID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fead98b4-907e-4b42-89d0-625f640c8cd6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

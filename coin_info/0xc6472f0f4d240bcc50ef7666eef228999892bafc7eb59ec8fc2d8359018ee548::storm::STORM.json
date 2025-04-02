@@ -1,0 +1,13 @@
+{
+  "name": "STORM",
+  "symbol": "STORM",
+  "decimals": 9,
+  "coin_type": "0xc6472f0f4d240bcc50ef7666eef228999892bafc7eb59ec8fc2d8359018ee548::storm::STORM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.corporatefinanceinstitute.com/assets/risk3-1024x464.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

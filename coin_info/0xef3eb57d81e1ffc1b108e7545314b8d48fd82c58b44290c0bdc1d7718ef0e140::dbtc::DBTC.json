@@ -1,0 +1,13 @@
+{
+  "name": "Don't buy this coin",
+  "symbol": "DBTC",
+  "decimals": 9,
+  "coin_type": "0xef3eb57d81e1ffc1b108e7545314b8d48fd82c58b44290c0bdc1d7718ef0e140::dbtc::DBTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmT6dxH5Eam8vss9ygyHQ5tUSrFFakNVgMsBcFUq1TUcUc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

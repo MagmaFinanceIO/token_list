@@ -1,0 +1,13 @@
+{
+  "name": "Z3N-0X AI",
+  "symbol": "OXAI",
+  "decimals": 9,
+  "coin_type": "0xfc850b6d50fa1f50382c1728ac3d1687655baba07641ee1503ce538b733805a7::oxai::OXAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HYEUyQSbjvjJc68KicYk8AmwDTyNcEjX893ESwLLpump.png?size=lg&key=2cc514",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

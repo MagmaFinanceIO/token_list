@@ -1,0 +1,13 @@
+{
+  "name": "SUIDI",
+  "symbol": "SUIDI",
+  "decimals": 9,
+  "coin_type": "0x70afa4f061fb32549aaeca743f7be093a7904512669964b263b96fffd63978cc::suidi::SUIDI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/41ae7b61-0389-4b26-9337-21c058e4f1b5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

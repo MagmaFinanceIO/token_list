@@ -1,0 +1,13 @@
+{
+  "name": "First Doddy on Sui",
+  "symbol": "DODDY",
+  "decimals": 6,
+  "coin_type": "0xaeab9d48b3caf42e79ae6e30cc0e1f39a5fb122fecec1b30e29bf7103962b84b::doddy::DODDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/img1_a7d7ed1f6c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

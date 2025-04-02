@@ -1,0 +1,13 @@
+{
+  "name": "TTAIO",
+  "symbol": "TTAIO",
+  "decimals": 6,
+  "coin_type": "0x46b42b3c16092c9dcb7a6cace54f2ba783fc993b201b822b70c9287fcf014cdf::ttaio::TTAIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6a5e0593-faba-4052-8766-e5c3530a0e6d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

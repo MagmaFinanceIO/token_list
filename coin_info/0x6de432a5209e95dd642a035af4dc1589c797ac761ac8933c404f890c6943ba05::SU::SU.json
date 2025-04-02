@@ -1,0 +1,13 @@
+{
+  "name": "SU",
+  "symbol": "SU",
+  "decimals": 9,
+  "coin_type": "0x6de432a5209e95dd642a035af4dc1589c797ac761ac8933c404f890c6943ba05::SU::SU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

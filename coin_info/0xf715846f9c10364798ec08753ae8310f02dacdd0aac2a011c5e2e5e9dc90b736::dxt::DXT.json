@@ -1,0 +1,13 @@
+{
+  "name": "Dexter",
+  "symbol": "DXT",
+  "decimals": 9,
+  "coin_type": "0xf715846f9c10364798ec08753ae8310f02dacdd0aac2a011c5e2e5e9dc90b736::dxt::DXT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

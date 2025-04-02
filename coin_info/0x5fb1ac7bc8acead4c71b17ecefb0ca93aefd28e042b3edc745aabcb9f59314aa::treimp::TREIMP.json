@@ -1,0 +1,13 @@
+{
+  "name": "Donal Treimp",
+  "symbol": "TREIMP",
+  "decimals": 9,
+  "coin_type": "0x5fb1ac7bc8acead4c71b17ecefb0ca93aefd28e042b3edc745aabcb9f59314aa::treimp::TREIMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b3040bab-56ac-47f3-9653-0b100a3ec153.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

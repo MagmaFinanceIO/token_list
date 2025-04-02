@@ -1,0 +1,13 @@
+{
+  "name": "WcDognlad Sui",
+  "symbol": "WCDOGNLAD",
+  "decimals": 6,
+  "coin_type": "0x714111b7322e7d586ea41ed4f0da73460639053773b2c271fd043be72d06787e::wcdognlad::WCDOGNLAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.wcdognladsui.xyz/images/2.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

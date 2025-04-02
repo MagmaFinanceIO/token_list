@@ -1,0 +1,13 @@
+{
+  "name": "Axo",
+  "symbol": "AXO",
+  "decimals": 9,
+  "coin_type": "0x8fd1d26a829bcd8e66e29085292f66f13074bb0fc055dbfe5faebb52d9c40379::axo::AXO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fb57eadd-fc26-4f2d-afc7-6bfa2d5cde41.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

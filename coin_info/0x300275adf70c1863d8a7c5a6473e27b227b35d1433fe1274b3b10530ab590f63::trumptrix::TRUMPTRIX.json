@@ -1,0 +1,13 @@
+{
+  "name": "Matrix trump",
+  "symbol": "Trumptrix",
+  "decimals": 9,
+  "coin_type": "0x300275adf70c1863d8a7c5a6473e27b227b35d1433fe1274b3b10530ab590f63::trumptrix::TRUMPTRIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/835e8a7c-dfc5-403e-b8ef-a4e118a967f9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

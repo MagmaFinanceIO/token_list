@@ -1,0 +1,13 @@
+{
+  "name": "Suiboy Carti",
+  "symbol": "SARTI",
+  "decimals": 6,
+  "coin_type": "0xbe93d1eb761c97b71cf8dfc604727131e83b26120f7279bc130a0c54c297a368::sarti::SARTI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/artworks_so_B_Sgak6_K_Qm_IW_8it_q_GNA_Fw_t500x500_dd477a34a6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

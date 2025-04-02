@@ -1,0 +1,13 @@
+{
+  "name": "AI",
+  "symbol": "AI",
+  "decimals": 9,
+  "coin_type": "0x976f0dd3c21e1d32ee6f3cff1f8fe39dcff757a8da4a55a0965e161379eede67::ai::AI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/65bf6851-a98b-4665-b869-3602626c7c81.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

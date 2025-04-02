@@ -1,0 +1,13 @@
+{
+  "name": "OmegaX Health",
+  "symbol": "OmegaX",
+  "decimals": 9,
+  "coin_type": "0x66f4f85392ff8f9f134865aed304ee6ccb63ba74b4c08b6b110a6857fb9974c9::omegax::OMEGAX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Dmv9EpNQw5DQMCwwEZbZo5ztNbYwpMaDmDWPA8GQLXA.png?size=lg&key=931758",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

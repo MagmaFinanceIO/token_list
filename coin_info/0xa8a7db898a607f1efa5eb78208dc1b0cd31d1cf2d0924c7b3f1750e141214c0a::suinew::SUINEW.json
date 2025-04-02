@@ -1,0 +1,13 @@
+{
+  "name": "New Year Mascot",
+  "symbol": "SUINEW",
+  "decimals": 9,
+  "coin_type": "0xa8a7db898a607f1efa5eb78208dc1b0cd31d1cf2d0924c7b3f1750e141214c0a::suinew::SUINEW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A2PHmXjS2R1s1yz2v2mqE5jrhQ7roffUqqzUhMDmhsEv.png?size=lg&key=e20e3e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

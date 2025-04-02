@@ -1,0 +1,13 @@
+{
+  "name": "PtCoin",
+  "symbol": "PtCoin",
+  "decimals": 9,
+  "coin_type": "0xd45bd51865174f86442013e6037d8745c4f7c53133119a6bf4f1d15cc41765f4::ptcoin::PTCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/696efc53-f6eb-4470-b38b-62153962563b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

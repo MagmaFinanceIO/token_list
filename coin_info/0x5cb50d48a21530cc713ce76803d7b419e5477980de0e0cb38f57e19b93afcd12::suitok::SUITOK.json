@@ -1,0 +1,13 @@
+{
+  "name": "SUITOK",
+  "symbol": "SUITOK",
+  "decimals": 9,
+  "coin_type": "0x5cb50d48a21530cc713ce76803d7b419e5477980de0e0cb38f57e19b93afcd12::suitok::SUITOK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.bing.com/images/search?view=detailV2&ccid=I5NuzgzH&id=4CF46ABB39B81C172F548BE5A652B34660F46623&thid=OIP.I5NuzgzHLLp8Hat4-O4VRgHaEK&mediaurl=https%3a%2f%2fwww.bleepstatic.com%2fcontent%2fhl-images%2f2022%2f08%2f31%2fTikTok.jpg&exph=900&expw=1600&q=cute+token+logo&simid=607998517747529230&FORM=IRPRST&ck=EAB6C06A37F3447DF02DEA5E22BE3194&selectedIndex=83&itb=0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

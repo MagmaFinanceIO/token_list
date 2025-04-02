@@ -1,0 +1,13 @@
+{
+  "name": "Make Solana Great Again",
+  "symbol": "MSGA",
+  "decimals": 9,
+  "coin_type": "0x4f19cbfefa290aedee6bca4b22d1ad4303522abbd13b64cb52d1d589a9689606::msga::MSGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://makesolanagreatagain.tech/wp-content/uploads/2024/07/3-1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

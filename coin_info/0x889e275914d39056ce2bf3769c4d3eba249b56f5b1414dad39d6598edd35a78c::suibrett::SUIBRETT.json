@@ -1,0 +1,13 @@
+{
+  "name": "Brett on SUI",
+  "symbol": "SUIBRETT",
+  "decimals": 9,
+  "coin_type": "0x889e275914d39056ce2bf3769c4d3eba249b56f5b1414dad39d6598edd35a78c::suibrett::SUIBRETT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/40bc74ca-f144-4908-8eeb-ce16b64beb36.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

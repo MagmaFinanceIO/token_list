@@ -1,0 +1,13 @@
+{
+  "name": "Wall Wif Banana",
+  "symbol": "WALLWIF",
+  "decimals": 9,
+  "coin_type": "0x247e99e7d08b69dc95dfe65173516e5c3f9aaaa3ab4f1c3ce7dab889377a925b::wallwif::WALLWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/qwsNN74jBf0kmYJW?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

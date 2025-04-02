@@ -1,0 +1,13 @@
+{
+  "name": "TwoFaceCat",
+  "symbol": "VENUS",
+  "decimals": 9,
+  "coin_type": "0xe47c6b763fc828a1c934d58e737266bfc6da1d932b7a9c7249cd833a4e84c889::twofacecat::TWOFACECAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://belaunchio.infura-ipfs.io/ipfs/QmWoH5diSc6q2xAuPAFyaPHXS2iSGDAZwMTmQWfPmq1wfL",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

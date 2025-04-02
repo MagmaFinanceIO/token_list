@@ -1,0 +1,13 @@
+{
+  "name": "N21",
+  "symbol": "N21",
+  "decimals": 9,
+  "coin_type": "0xb0f0d13ddf763d45a7fa821a6c20c534f66d9f4edd826c5b78eb02ce6256447e::example::EXAMPLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

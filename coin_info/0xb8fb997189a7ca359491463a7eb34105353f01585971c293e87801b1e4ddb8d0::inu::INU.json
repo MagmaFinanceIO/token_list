@@ -1,0 +1,13 @@
+{
+  "name": "SonicObamaHarryPotterINU",
+  "symbol": "INU",
+  "decimals": 9,
+  "coin_type": "0xb8fb997189a7ca359491463a7eb34105353f01585971c293e87801b1e4ddb8d0::inu::INU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/98b805b2-10ca-41d7-a02c-52714e236cf2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

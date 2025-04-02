@@ -1,0 +1,13 @@
+{
+  "name": "Aqua",
+  "symbol": "AQUA",
+  "decimals": 9,
+  "coin_type": "0xa0d120fc2c9b61b5ba873b70a5a8259056dab1ab60126bce7c32b6e7170bfed3::aqua::AQUA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c6562b4c-80ac-4a5f-9b3c-dd46c0b3e0db.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

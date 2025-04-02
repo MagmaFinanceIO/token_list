@@ -1,0 +1,13 @@
+{
+  "name": "My Mind",
+  "symbol": "MIND",
+  "decimals": 9,
+  "coin_type": "0x25075f1f88e7d421dab1b8db7137d48dd8e0c1563f5e7a24ac2e07f2a2e99dd8::mind::MIND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GdUAYnK1LZLZi3qzU17Cz5VRtf1SdFwmnFhr1YxCpump.png?size=xl&key=18ce8a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

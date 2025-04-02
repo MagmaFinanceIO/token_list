@@ -1,0 +1,13 @@
+{
+  "name": "MONEY",
+  "symbol": "MONEY",
+  "decimals": 9,
+  "coin_type": "0xc69b807b6f04273238ae186f4e814c21f424c51eb90b1aedb24fdc9d7b593c39::money::MONEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/oPhG5-A-0hAIykmf?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

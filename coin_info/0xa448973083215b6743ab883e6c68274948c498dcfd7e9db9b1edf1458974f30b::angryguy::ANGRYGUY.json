@@ -1,0 +1,13 @@
+{
+  "name": "Just an angry guy",
+  "symbol": "angryguy",
+  "decimals": 9,
+  "coin_type": "0xa448973083215b6743ab883e6c68274948c498dcfd7e9db9b1edf1458974f30b::angryguy::ANGRYGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmZWR1N17tbPf2YGqtXjL7QMAmFxwbqiVPpj6tNBD63uiM",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

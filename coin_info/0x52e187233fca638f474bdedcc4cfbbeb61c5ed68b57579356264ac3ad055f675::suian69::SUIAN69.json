@@ -1,0 +1,13 @@
+{
+  "name": "Suiantel Core i69",
+  "symbol": "SUIAN69",
+  "decimals": 6,
+  "coin_type": "0x52e187233fca638f474bdedcc4cfbbeb61c5ed68b57579356264ac3ad055f675::suian69::SUIAN69",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Design_sem_nome_2024_10_10_T160842_303_d0d972198f_a77ef3ed28.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

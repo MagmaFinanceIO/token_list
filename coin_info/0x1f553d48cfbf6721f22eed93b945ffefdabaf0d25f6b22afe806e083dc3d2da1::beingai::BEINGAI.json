@@ -1,0 +1,13 @@
+{
+  "name": "Being AI",
+  "symbol": "BEINGAI",
+  "decimals": 6,
+  "coin_type": "0x1f553d48cfbf6721f22eed93b945ffefdabaf0d25f6b22afe806e083dc3d2da1::beingai::BEINGAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bb769429-5e45-4d14-a7a9-dad29353726e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BOGE",
+  "symbol": "BOGE",
+  "decimals": 9,
+  "coin_type": "0x0defb5c8747a183aaee4efde7e6ab508dac79b859645ddd36e1909653cf5a81b::boge::BOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/18916a82-f7cc-4b3f-8fef-5196110f3052.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ONE MUG PEPE SUI",
+  "symbol": "MUG",
+  "decimals": 9,
+  "coin_type": "0x0420604040b4ecd004efbe98d306ebc9e08c98ac5571e92b17353868a3a2b678::mug::MUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/21762ec1-8b0c-4707-9ac9-61f2a7d47c06.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

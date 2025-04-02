@@ -1,0 +1,13 @@
+{
+  "name": "Monk",
+  "symbol": "Monk",
+  "decimals": 9,
+  "coin_type": "0xb2d39739da93ba4bb7765b952efcc39609ec9195def000214258bbde7a8107ca::monk::MONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d3635083-da4e-4895-88d0-97e9c570b85f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

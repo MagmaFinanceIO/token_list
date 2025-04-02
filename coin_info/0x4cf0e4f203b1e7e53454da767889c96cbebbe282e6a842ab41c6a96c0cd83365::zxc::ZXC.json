@@ -1,0 +1,13 @@
+{
+  "name": "ZXC Token",
+  "symbol": "ZXC",
+  "decimals": 6,
+  "coin_type": "0x4cf0e4f203b1e7e53454da767889c96cbebbe282e6a842ab41c6a96c0cd83365::zxc::ZXC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreiepkmnmiwdxsvsldfefghfwkr2fzyrtaybfdx5nbmsynbdmppqd6q.ipfs.w3s.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

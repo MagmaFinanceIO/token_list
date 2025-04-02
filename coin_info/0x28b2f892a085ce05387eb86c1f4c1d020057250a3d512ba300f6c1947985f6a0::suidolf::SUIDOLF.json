@@ -1,0 +1,13 @@
+{
+  "name": "Suidolf The Blue Nose Reindeer",
+  "symbol": "SUIDOLF",
+  "decimals": 6,
+  "coin_type": "0x28b2f892a085ce05387eb86c1f4c1d020057250a3d512ba300f6c1947985f6a0::suidolf::SUIDOLF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/token_icon_SD_738d291b57.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

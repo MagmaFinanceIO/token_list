@@ -1,0 +1,13 @@
+{
+  "name": "Blue is bullish",
+  "symbol": "BLUE",
+  "decimals": 6,
+  "coin_type": "0x14629ad4a792f1093abc854d69dd015816f5caef42ce864d00b9c2d906c39a84::blue::BLUE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000427185_fb992997b5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Baby Whatever Ape",
+  "symbol": "BWAPE",
+  "decimals": 9,
+  "coin_type": "0x429d2d82fa285cf11ebe31ffbe9d10d8cb8e728943807cbe25af0ed562aa32f2::bwape::BWAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/C4u9GYmTvtaGa1a7q6iijn5DK2GYe78fqEeoPwrpump.png?size=xl&key=89f93d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

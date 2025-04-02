@@ -1,0 +1,13 @@
+{
+  "name": "COCK",
+  "symbol": "COCK",
+  "decimals": 2,
+  "coin_type": "0x8c3f78fca5c768e9820425348ea6f39be72bd3e5f968f3ab21a25357c8b3be0c::cock::COCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9a6d4713-e191-44b5-b486-d6ab7c6be969.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FISH HIPPO",
+  "symbol": "FOP",
+  "decimals": 9,
+  "coin_type": "0xf5594b24f3c553ce8ef630b0ba06180489323a48dc46b4deb36e7b4c573d4780::fop::FOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/855b666b-e7b9-4856-9efe-aa9d15b9ab65.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

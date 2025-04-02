@@ -1,0 +1,13 @@
+{
+  "name": "LunaCheck",
+  "symbol": "LUNA",
+  "decimals": 6,
+  "coin_type": "0x578d7bf9e96ba1f811aece4006991a20e0af52f84e252732c098b7992d5bb10d::luna::LUNA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/MEOW_b258c191e2.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

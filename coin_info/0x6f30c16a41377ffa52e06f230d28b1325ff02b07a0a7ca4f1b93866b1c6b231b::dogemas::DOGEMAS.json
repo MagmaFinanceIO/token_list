@@ -1,0 +1,13 @@
+{
+  "name": "Dogemas",
+  "symbol": "DOGEMAS",
+  "decimals": 9,
+  "coin_type": "0x6f30c16a41377ffa52e06f230d28b1325ff02b07a0a7ca4f1b93866b1c6b231b::dogemas::DOGEMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/59UBR8NebtKoRwWDa4MeRWd2fpq5PQCABQKXKkn9pump.png?size=lg&key=05880b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

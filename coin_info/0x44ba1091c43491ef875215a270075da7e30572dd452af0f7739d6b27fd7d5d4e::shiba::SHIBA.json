@@ -1,0 +1,13 @@
+{
+  "name": "American Shib",
+  "symbol": "SHIBA",
+  "decimals": 6,
+  "coin_type": "0x44ba1091c43491ef875215a270075da7e30572dd452af0f7739d6b27fd7d5d4e::shiba::SHIBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/c10f6606_fce3_4a21_93b4_b992dc3ba80f_4885efcbdf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

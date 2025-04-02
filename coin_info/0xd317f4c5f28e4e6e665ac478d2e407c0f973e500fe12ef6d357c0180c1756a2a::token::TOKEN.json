@@ -1,0 +1,13 @@
+{
+  "name": "tokeen",
+  "symbol": "TOKEN",
+  "decimals": 9,
+  "coin_type": "0xd317f4c5f28e4e6e665ac478d2e407c0f973e500fe12ef6d357c0180c1756a2a::token::TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6f94a0b7-78f2-40b3-95dc-877efaf98599.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

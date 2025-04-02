@@ -1,0 +1,13 @@
+{
+  "name": "Bubble",
+  "symbol": "BUBBLE",
+  "decimals": 9,
+  "coin_type": "0x0c45b55cb3da07b61e853251d3708895923d76747689db7f6e762fbc703ffeb8::bubble::BUBBLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xe9689028ede16c2fdfe3d11855d28f8e3fc452a3.png?size=lg&key=f86fc5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

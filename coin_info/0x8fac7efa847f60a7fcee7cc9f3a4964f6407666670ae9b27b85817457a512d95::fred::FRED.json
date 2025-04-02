@@ -1,0 +1,13 @@
+{
+  "name": "Fred the Platypus",
+  "symbol": "FRED",
+  "decimals": 6,
+  "coin_type": "0x8fac7efa847f60a7fcee7cc9f3a4964f6407666670ae9b27b85817457a512d95::fred::FRED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5b924454-b851-4cc4-95f3-a37177c3d5a7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

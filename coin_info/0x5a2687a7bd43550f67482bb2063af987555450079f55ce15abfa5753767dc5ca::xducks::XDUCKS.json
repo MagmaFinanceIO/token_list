@@ -1,0 +1,13 @@
+{
+  "name": "XDUCK ON SUI",
+  "symbol": "XDUCKS",
+  "decimals": 6,
+  "coin_type": "0x5a2687a7bd43550f67482bb2063af987555450079f55ce15abfa5753767dc5ca::xducks::XDUCKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_21_23_42_46_aba8e271eb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

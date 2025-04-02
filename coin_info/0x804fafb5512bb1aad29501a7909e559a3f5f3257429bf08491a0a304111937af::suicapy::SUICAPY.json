@@ -1,0 +1,13 @@
+{
+  "name": "SUICAPY",
+  "symbol": "SUICAPY",
+  "decimals": 9,
+  "coin_type": "0x804fafb5512bb1aad29501a7909e559a3f5f3257429bf08491a0a304111937af::suicapy::SUICAPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d5abedae-59ee-4dd2-907c-bc09c4fc770b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ShibaCheese",
+  "symbol": "SHBCS",
+  "decimals": 9,
+  "coin_type": "0xdf72d43b0116df46e5148a9f60e74ba81552f18ec2f4d3b1e0642d360969133e::shbcs::SHBCS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aa5d01f2-403a-4ec3-a929-89daea938a3f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Animal Spirits",
+  "symbol": "ASPRT",
+  "decimals": 8,
+  "coin_type": "0x709c007e2039abbb4da30dc52039bc95fb43070d0af9b218e02c70e8087aea80::asprt::ASPRT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e9a09c51-811b-49de-a799-3c08a08ad2bc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

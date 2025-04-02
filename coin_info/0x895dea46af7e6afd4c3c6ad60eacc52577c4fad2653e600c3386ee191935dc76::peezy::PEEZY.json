@@ -1,0 +1,13 @@
+{
+  "name": "PEEZY ON SUIAI",
+  "symbol": "PEEZY",
+  "decimals": 6,
+  "coin_type": "0x895dea46af7e6afd4c3c6ad60eacc52577c4fad2653e600c3386ee191935dc76::peezy::PEEZY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/logo_peezy_2659d777b5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

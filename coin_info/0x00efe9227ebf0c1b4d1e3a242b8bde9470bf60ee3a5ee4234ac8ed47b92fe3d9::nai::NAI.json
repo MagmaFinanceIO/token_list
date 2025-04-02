@@ -1,0 +1,13 @@
+{
+  "name": "Neuro AI",
+  "symbol": "NAI",
+  "decimals": 6,
+  "coin_type": "0x00efe9227ebf0c1b4d1e3a242b8bde9470bf60ee3a5ee4234ac8ed47b92fe3d9::nai::NAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b64df1e1-0075-431a-bf50-043da1dd4840.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

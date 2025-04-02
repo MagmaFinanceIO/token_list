@@ -1,0 +1,13 @@
+{
+  "name": "REMY ON SUI",
+  "symbol": "REMY",
+  "decimals": 9,
+  "coin_type": "0x7532567d91e4e1d163f65feed7ef5d7b9a1e0b8b5b9f6088800c574590980e34::remy::REMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmTSD2H9UFY7byGjC5CwPW9Y4LWFjkW6FecXDShuQXtadM",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "VAULT by SuiAI",
+  "symbol": "VAULT",
+  "decimals": 6,
+  "coin_type": "0x4b2fc73e784550a6721a459b5a36c2fb4f4dda95c5d5d43add540596d6e6eb0b::vault::VAULT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1737740213695_62846616_3a8b_413b_8756_fbefa363234e_1_2_71e3e51803.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

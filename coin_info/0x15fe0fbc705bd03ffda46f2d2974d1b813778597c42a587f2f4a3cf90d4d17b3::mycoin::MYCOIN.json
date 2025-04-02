@@ -1,0 +1,13 @@
+{
+  "name": "TRUMPMEXICO",
+  "symbol": "TRUMPMEXICO",
+  "decimals": 9,
+  "coin_type": "0x15fe0fbc705bd03ffda46f2d2974d1b813778597c42a587f2f4a3cf90d4d17b3::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

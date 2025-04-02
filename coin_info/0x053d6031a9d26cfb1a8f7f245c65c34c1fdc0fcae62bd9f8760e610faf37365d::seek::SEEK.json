@@ -1,0 +1,13 @@
+{
+  "name": "DeepSeek",
+  "symbol": "Seek",
+  "decimals": 9,
+  "coin_type": "0x053d6031a9d26cfb1a8f7f245c65c34c1fdc0fcae62bd9f8760e610faf37365d::seek::SEEK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/360bcdce-5e94-41bf-8ccb-99352ab9d477.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Oryza AI Agent",
+  "symbol": "ORYZA",
+  "decimals": 9,
+  "coin_type": "0xb60a57fa859049b82baadb743a551bb3c7c09feab8a312ef048637ef2117a450::oryza::ORYZA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/826898bd-5daf-4719-9bce-683cf5aad3eb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

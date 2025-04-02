@@ -1,0 +1,13 @@
+{
+  "name": "Vortex AI",
+  "symbol": "VRTX",
+  "decimals": 9,
+  "coin_type": "0x7062eb407b0e2c6c281c2904d938bcf4598c60ccf23dc063e685a636a38aaf48::vrtx::VRTX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0xe15308ef8abdba17c89a9eecadea7b092d7a73d6.png?size=lg&key=31847b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

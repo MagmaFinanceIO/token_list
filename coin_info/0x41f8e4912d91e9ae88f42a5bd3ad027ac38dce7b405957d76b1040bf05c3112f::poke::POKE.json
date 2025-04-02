@@ -1,0 +1,13 @@
+{
+  "name": "Sui Poke",
+  "symbol": "POKE",
+  "decimals": 6,
+  "coin_type": "0x41f8e4912d91e9ae88f42a5bd3ad027ac38dce7b405957d76b1040bf05c3112f::poke::POKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aa4ef099-b301-4f6f-9170-a285bacac154.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

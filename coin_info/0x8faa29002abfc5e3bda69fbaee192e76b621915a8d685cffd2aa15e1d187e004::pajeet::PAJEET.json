@@ -1,0 +1,13 @@
+{
+  "name": "Official Indian Coin",
+  "symbol": "PAJEET",
+  "decimals": 9,
+  "coin_type": "0x8faa29002abfc5e3bda69fbaee192e76b621915a8d685cffd2aa15e1d187e004::pajeet::PAJEET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmPyLaAF6TM9prqbx1jw9peCBFwXqDyCbb9PsFhPwuW1ZH",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

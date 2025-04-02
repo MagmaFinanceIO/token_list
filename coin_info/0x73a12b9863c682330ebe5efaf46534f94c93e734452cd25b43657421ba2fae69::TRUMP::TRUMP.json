@@ -1,0 +1,13 @@
+{
+  "name": "TRUMP",
+  "symbol": "TRUMP",
+  "decimals": 9,
+  "coin_type": "0x73a12b9863c682330ebe5efaf46534f94c93e734452cd25b43657421ba2fae69::TRUMP::TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

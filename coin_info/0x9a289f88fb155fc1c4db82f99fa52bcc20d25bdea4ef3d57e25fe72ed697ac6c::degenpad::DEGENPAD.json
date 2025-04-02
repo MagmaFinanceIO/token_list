@@ -1,0 +1,13 @@
+{
+  "name": "Degenpad",
+  "symbol": "DEGENPAD",
+  "decimals": 6,
+  "coin_type": "0x9a289f88fb155fc1c4db82f99fa52bcc20d25bdea4ef3d57e25fe72ed697ac6c::degenpad::DEGENPAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qme_Jg_TGG_8f_Pww_Tzfq_E_Bi_G6n1azfa_Yv_E_Lch_Jhj_Yk_BBAWR_3y_36a7a3cb17.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

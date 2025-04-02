@@ -1,0 +1,13 @@
+{
+  "name": "TOFI",
+  "symbol": "TOFI",
+  "decimals": 9,
+  "coin_type": "0x4c763e1dfc697d71e0298b5c8d0bdbdb8be67f35fe8af4900d25c72d3df93de7::tofi::TOFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

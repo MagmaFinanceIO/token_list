@@ -1,0 +1,13 @@
+{
+  "name": "PIKAXMAS",
+  "symbol": "PIKAX",
+  "decimals": 9,
+  "coin_type": "0x77e22bc510d5389c8b38f9f535c777b93cd341ac569250b1bad7191c10c1911a::pikax::PIKAX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/85509aa6-c110-4cd2-84c6-7bd38a132ca2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "KAPPI",
+  "symbol": "KAPPI",
+  "decimals": 9,
+  "coin_type": "0xc8ab9aa12f5b82897c9574a13790fcb56afe0a62d9ed4c5a6398377f009e232f::kappi::KAPPI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.kappi.fun/_next/image?url=%2Flogo.jpg&w=2048&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

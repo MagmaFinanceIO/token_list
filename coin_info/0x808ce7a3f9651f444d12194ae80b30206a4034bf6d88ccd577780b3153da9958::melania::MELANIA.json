@@ -1,0 +1,13 @@
+{
+  "name": "Melania Meme on SUI",
+  "symbol": "MELANIA",
+  "decimals": 9,
+  "coin_type": "0x808ce7a3f9651f444d12194ae80b30206a4034bf6d88ccd577780b3153da9958::melania::MELANIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/YHJGAU32z4r83KGvjrsq1cGrTkQGgsj16GU2zY6pump.png?size=lg&key=ab7da3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

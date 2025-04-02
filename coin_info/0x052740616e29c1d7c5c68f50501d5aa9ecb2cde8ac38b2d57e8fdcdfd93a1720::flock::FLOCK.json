@@ -1,0 +1,13 @@
+{
+  "name": "Flockerz",
+  "symbol": "FLOCK",
+  "decimals": 9,
+  "coin_type": "0x052740616e29c1d7c5c68f50501d5aa9ecb2cde8ac38b2d57e8fdcdfd93a1720::flock::FLOCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xb33d999469a7e6b9ebc25a3a05248287b855ed46.png?size=lg&key=2065fc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

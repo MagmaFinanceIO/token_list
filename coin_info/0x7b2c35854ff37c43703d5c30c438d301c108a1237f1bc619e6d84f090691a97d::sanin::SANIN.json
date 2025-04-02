@@ -1,0 +1,13 @@
+{
+  "name": "Sanin",
+  "symbol": "SANIN",
+  "decimals": 9,
+  "coin_type": "0x7b2c35854ff37c43703d5c30c438d301c108a1237f1bc619e6d84f090691a97d::sanin::SANIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xd3c5bdbc6de5ea3899a28f6cd419f29c09fa749f.png?size=lg&key=1b7e81",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

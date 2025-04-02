@@ -1,0 +1,13 @@
+{
+  "name": "Sui Trump",
+  "symbol": "STRUMP",
+  "decimals": 9,
+  "coin_type": "0x5f1ccb513179422ba52794da74090a979d8ccecbbe778260aafe8755b62836f4::strump::STRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x0b5413f35dfa207306c24763146fd4891c243960.png?size=lg&key=8876fb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

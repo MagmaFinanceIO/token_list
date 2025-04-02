@@ -1,0 +1,13 @@
+{
+  "name": "PEPMAN",
+  "symbol": "PEPMAN",
+  "decimals": 3,
+  "coin_type": "0x6063809b7eb6d325e81bcc938502703f55850f36635f22b11fe620455e9a5678::pepman::PEPMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/682a287b-0a69-4f0f-8f54-df89936ccb6e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

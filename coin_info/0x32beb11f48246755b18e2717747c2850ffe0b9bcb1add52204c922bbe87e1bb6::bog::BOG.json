@@ -1,0 +1,13 @@
+{
+  "name": "Bober Dog",
+  "symbol": "BOG",
+  "decimals": 6,
+  "coin_type": "0x32beb11f48246755b18e2717747c2850ffe0b9bcb1add52204c922bbe87e1bb6::bog::BOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/boberdogg_b991e67760.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

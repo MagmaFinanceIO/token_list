@@ -1,0 +1,13 @@
+{
+  "name": "GhostFind",
+  "symbol": "GhostFind",
+  "decimals": 9,
+  "coin_type": "0x0cbbc1d852fdb71c89916c4817b8698fe0abdd1e027aa1db9c4e45af8994793b::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

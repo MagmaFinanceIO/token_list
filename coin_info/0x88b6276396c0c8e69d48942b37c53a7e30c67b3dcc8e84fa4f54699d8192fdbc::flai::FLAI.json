@@ -1,0 +1,13 @@
+{
+  "name": "Flovv AI",
+  "symbol": "FLAI",
+  "decimals": 9,
+  "coin_type": "0x88b6276396c0c8e69d48942b37c53a7e30c67b3dcc8e84fa4f54699d8192fdbc::flai::FLAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/27JmgkyYyJhK3tzJiLtDVjNcZopa3EHFAx2PxQuDpump.png?size=lg&key=56698d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

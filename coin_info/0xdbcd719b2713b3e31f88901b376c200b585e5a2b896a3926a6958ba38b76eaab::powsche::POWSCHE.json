@@ -1,0 +1,13 @@
+{
+  "name": "POWSCHE ON SUI",
+  "symbol": "POWSCHE",
+  "decimals": 6,
+  "coin_type": "0xdbcd719b2713b3e31f88901b376c200b585e5a2b896a3926a6958ba38b76eaab::powsche::POWSCHE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/powsche_flying_bills_1_540ecd1af5.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

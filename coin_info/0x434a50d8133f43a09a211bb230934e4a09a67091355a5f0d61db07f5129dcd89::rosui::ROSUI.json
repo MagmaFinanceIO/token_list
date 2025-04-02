@@ -1,0 +1,13 @@
+{
+  "name": "Robosui AI",
+  "symbol": "ROSUI",
+  "decimals": 9,
+  "coin_type": "0x434a50d8133f43a09a211bb230934e4a09a67091355a5f0d61db07f5129dcd89::rosui::ROSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/347d1917-3dda-4f58-a334-dba3068529a3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

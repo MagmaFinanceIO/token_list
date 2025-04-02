@@ -1,0 +1,13 @@
+{
+  "name": "LFLFP",
+  "symbol": "LFL",
+  "decimals": 9,
+  "coin_type": "0x81ff49de4fc26c5250a2fbf39102ec4d1ccf4f32d2968b6d2133b8bd5cbd8c14::lfl::LFL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/69408838-7690-452e-8ad8-127da86fbaa0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

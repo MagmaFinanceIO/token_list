@@ -1,0 +1,13 @@
+{
+  "name": "AI1000 Token",
+  "symbol": "AI1000",
+  "decimals": 9,
+  "coin_type": "0x1a046badf30b138bdcc43666513e6f15ab749690440fb223eb4b95374266e412::ai1000::AI1000",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://public.daossui.io/dao-sui/assets/AI1000-token.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MeowGarong",
+  "symbol": "MGR",
+  "decimals": 9,
+  "coin_type": "0x5e9ecad03781c668f43a8a73cc10bbb58c5b6e067e46fe671d1df5818d51a433::mgr::MGR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/38d8276f-7084-4fb0-af49-c5437a94d0a1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

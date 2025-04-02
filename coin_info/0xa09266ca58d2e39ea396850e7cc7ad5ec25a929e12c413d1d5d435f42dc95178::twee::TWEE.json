@@ -1,0 +1,13 @@
+{
+  "name": "Twee",
+  "symbol": "TWEE",
+  "decimals": 6,
+  "coin_type": "0xa09266ca58d2e39ea396850e7cc7ad5ec25a929e12c413d1d5d435f42dc95178::twee::TWEE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/TWEE_01_af1fc13582.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

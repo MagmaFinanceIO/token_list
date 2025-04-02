@@ -1,0 +1,13 @@
+{
+  "name": "dogs",
+  "symbol": "DOGS",
+  "decimals": 6,
+  "coin_type": "0x271b9750f45069f34d9f0b0e538b3d1898446e9d4c80c391ddefba2b5a76a123::dogs::DOGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Gemini_Generated_Image_ud5ndmud5ndmud5n_f3fc9cfd4e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

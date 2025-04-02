@@ -1,0 +1,13 @@
+{
+  "name": "Maid Marian",
+  "symbol": "MAID",
+  "decimals": 9,
+  "coin_type": "0x89373a83b814ec678b0c86b7631d1b81d460a27bc1aea9330966f25c7325ec4c::maid::MAID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6AfXLCotnHHmKi6VC6zGonfMg7R6RhRmHjHpN6FPpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

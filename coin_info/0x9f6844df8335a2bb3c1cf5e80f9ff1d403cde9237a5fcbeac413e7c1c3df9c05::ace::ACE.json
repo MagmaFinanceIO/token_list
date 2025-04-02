@@ -1,0 +1,13 @@
+{
+  "name": "Ace",
+  "symbol": "Ace",
+  "decimals": 6,
+  "coin_type": "0x9f6844df8335a2bb3c1cf5e80f9ff1d403cde9237a5fcbeac413e7c1c3df9c05::ace::ACE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.neasc.org/sites/default/files/styles/large/public/2022-12/ace-logo-icon.png?itok=GY5DjoHD",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

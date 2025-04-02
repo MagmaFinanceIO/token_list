@@ -1,0 +1,13 @@
+{
+  "name": "LUMIRA AI",
+  "symbol": "LUMIRAI",
+  "decimals": 9,
+  "coin_type": "0x228c1c4a2d1fb37e75d55a3b092af8509082655fa3aa0f23723528392d2948d6::lumirai::LUMIRAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9McLqzxJzQt4z2Pg4BJQ26Vwoj4gRagtcG812W6xpump.png?size=lg&key=891d7e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

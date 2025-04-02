@@ -1,0 +1,13 @@
+{
+  "name": "Health AI",
+  "symbol": "HAI",
+  "decimals": 6,
+  "coin_type": "0xfd4cc8f9e2cf085a3700934f1a2822e41449e8f50e935e492a442cd2eccf8d5b::hai::HAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735547884795.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

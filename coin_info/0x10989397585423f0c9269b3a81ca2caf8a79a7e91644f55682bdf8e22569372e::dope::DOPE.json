@@ -1,0 +1,13 @@
+{
+  "name": "DOPEFINS",
+  "symbol": "DOPE",
+  "decimals": 9,
+  "coin_type": "0x10989397585423f0c9269b3a81ca2caf8a79a7e91644f55682bdf8e22569372e::dope::DOPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bce5e913-2599-4087-8d82-d0baf4647634.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

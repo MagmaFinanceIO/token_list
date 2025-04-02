@@ -1,0 +1,13 @@
+{
+  "name": "Sol Slayer",
+  "symbol": "SLAY",
+  "decimals": 6,
+  "coin_type": "0xf1b5663fb8fbc70fd509001437d66ca4c4a331955a60965f198de9902aa5232b::slay::SLAY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ezgif_com_croplo_d2c74e17ea.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

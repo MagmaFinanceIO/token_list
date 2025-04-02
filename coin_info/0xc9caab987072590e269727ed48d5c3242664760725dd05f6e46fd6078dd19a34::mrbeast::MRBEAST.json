@@ -1,0 +1,13 @@
+{
+  "name": "Official Mr Beast Coin",
+  "symbol": "MRBEAST",
+  "decimals": 6,
+  "coin_type": "0xc9caab987072590e269727ed48d5c3242664760725dd05f6e46fd6078dd19a34::mrbeast::MRBEAST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/77181377-8032-4b21-b19e-efefca79dcdd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

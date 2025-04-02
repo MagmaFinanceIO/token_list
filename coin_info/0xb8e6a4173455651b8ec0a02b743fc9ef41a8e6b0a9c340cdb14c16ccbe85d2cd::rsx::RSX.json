@@ -1,0 +1,13 @@
+{
+  "name": "ReserveX",
+  "symbol": "RSX",
+  "decimals": 9,
+  "coin_type": "0xb8e6a4173455651b8ec0a02b743fc9ef41a8e6b0a9c340cdb14c16ccbe85d2cd::rsx::RSX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/72d39acc-1fb5-47e9-a367-86da68fe167f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

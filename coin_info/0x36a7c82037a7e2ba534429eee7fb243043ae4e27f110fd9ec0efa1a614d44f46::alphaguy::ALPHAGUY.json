@@ -1,0 +1,13 @@
+{
+  "name": "Just a Alpha guy",
+  "symbol": "ALPHAGUY",
+  "decimals": 9,
+  "coin_type": "0x36a7c82037a7e2ba534429eee7fb243043ae4e27f110fd9ec0efa1a614d44f46::alphaguy::ALPHAGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6Cdcd9PHvtonEZUjR7eKVdu6EFURmEZq5yNxuCH8UAJc.png?size=lg&key=b1e153",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

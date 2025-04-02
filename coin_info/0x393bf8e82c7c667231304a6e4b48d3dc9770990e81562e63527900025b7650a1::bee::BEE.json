@@ -1,0 +1,13 @@
+{
+  "name": "BEESUI",
+  "symbol": "BEE",
+  "decimals": 6,
+  "coin_type": "0x393bf8e82c7c667231304a6e4b48d3dc9770990e81562e63527900025b7650a1::bee::BEE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730989794533.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

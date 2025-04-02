@@ -1,0 +1,13 @@
+{
+  "name": "HORIZON AI",
+  "symbol": "HORIZON",
+  "decimals": 9,
+  "coin_type": "0xd34009ed5ccc2d8c200acb4f4782e162a4e1b529ed3665b87f0996f24ad18c0d::horizon::HORIZON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FwMERp2A5679ECWiEfwA999QNZfXrF6DkhVJn3yZpump.png?size=lg&key=1cb15a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

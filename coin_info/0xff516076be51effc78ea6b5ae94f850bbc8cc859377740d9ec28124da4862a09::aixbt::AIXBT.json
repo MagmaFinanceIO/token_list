@@ -1,0 +1,13 @@
+{
+  "name": "aixbt",
+  "symbol": "AIXBT",
+  "decimals": 9,
+  "coin_type": "0xff516076be51effc78ea6b5ae94f850bbc8cc859377740d9ec28124da4862a09::aixbt::AIXBT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1874758416658509824/UPaVddbm_400x400.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

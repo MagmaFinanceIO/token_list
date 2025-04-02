@@ -1,0 +1,13 @@
+{
+  "name": "Griffain Agent Scrooge",
+  "symbol": "SCROOGE",
+  "decimals": 9,
+  "coin_type": "0xa842eb4e53d1fd5f63d02ad765cd6f2c1a2b5abb7af318a233d21861cf426c81::scrooge::SCROOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B9FRYtSikudV9EdHLwKdv3jqhyHgu19pYbuKQDYk6RSk.png?size=lg&key=52a65d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PepeCetusius",
+  "symbol": "PEPEC",
+  "decimals": 9,
+  "coin_type": "0x6562df3d8aed5129ccb0081ee6007ee5d9cd81475b7ef00e3003ffb909eef7b2::pepec::PEPEC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://miro.medium.com/v2/resize:fit:1358/1*A4L7alvTJLlLxzDXWvM11A.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

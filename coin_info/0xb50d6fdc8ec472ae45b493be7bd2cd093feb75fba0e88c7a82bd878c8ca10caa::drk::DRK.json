@@ -1,0 +1,13 @@
+{
+  "name": "Dark Kitty",
+  "symbol": "DRK",
+  "decimals": 9,
+  "coin_type": "0xb50d6fdc8ec472ae45b493be7bd2cd093feb75fba0e88c7a82bd878c8ca10caa::drk::DRK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3559653b-8a69-4d00-b455-8130bfc0b3a8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

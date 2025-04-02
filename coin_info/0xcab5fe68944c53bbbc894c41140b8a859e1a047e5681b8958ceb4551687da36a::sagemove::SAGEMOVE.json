@@ -1,0 +1,13 @@
+{
+  "name": "Sage",
+  "symbol": "SageMove",
+  "decimals": 6,
+  "coin_type": "0xcab5fe68944c53bbbc894c41140b8a859e1a047e5681b8958ceb4551687da36a::sagemove::SAGEMOVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/btc1_9a0cf403ab.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

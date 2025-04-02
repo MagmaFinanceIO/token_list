@@ -1,0 +1,13 @@
+{
+  "name": "Rainbow Trout",
+  "symbol": "RTROUT",
+  "decimals": 9,
+  "coin_type": "0x61b740483487395f81517f7ec40e7bd3106238a96d9300e3cac2a8f9a75e7029::rtrout::RTROUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9ed2db59-2488-4b89-bbe7-8d10f161f8f1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CAVEMAN",
+  "symbol": "CAVE",
+  "decimals": 9,
+  "coin_type": "0xeee9b45f9b0f11817c93eabd9311d1461d804a4753ea5e709a49076e6d86831a::cave::CAVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/01778b15-fcdc-4086-9f14-aae7b4cc7302.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

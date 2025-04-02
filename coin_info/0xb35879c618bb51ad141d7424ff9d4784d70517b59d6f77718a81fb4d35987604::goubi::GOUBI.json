@@ -1,0 +1,13 @@
+{
+  "name": "Goubi",
+  "symbol": "GOUBI",
+  "decimals": 6,
+  "coin_type": "0xb35879c618bb51ad141d7424ff9d4784d70517b59d6f77718a81fb4d35987604::goubi::GOUBI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000056311_4ce2e0fe80.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

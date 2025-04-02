@@ -1,0 +1,13 @@
+{
+  "name": "Cuca Cat",
+  "symbol": "Cuca",
+  "decimals": 6,
+  "coin_type": "0xbbf186a9c89f9e68fd7722abde12defb9862cea97b188f6e4f27d3c8dd88c95b::cuca::CUCA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1868_b2b4611aa0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

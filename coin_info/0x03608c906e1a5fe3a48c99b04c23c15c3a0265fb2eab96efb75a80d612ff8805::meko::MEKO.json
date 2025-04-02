@@ -1,0 +1,13 @@
+{
+  "name": "Meko V2",
+  "symbol": "MEKO",
+  "decimals": 6,
+  "coin_type": "0x03608c906e1a5fe3a48c99b04c23c15c3a0265fb2eab96efb75a80d612ff8805::meko::MEKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/20241119_004825_f77645612f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

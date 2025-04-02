@@ -1,0 +1,13 @@
+{
+  "name": "dogwifscarf",
+  "symbol": "SCARF",
+  "decimals": 9,
+  "coin_type": "0x71f2037be0dfdf003581178cce450bb2a5d2f2b5cdc8b930f71accd3860d179f::scarf::SCARF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ELdqGtj2MhejZzudGfz7b798si2Av5Asuw9ryEQSpump.png?size=lg&key=7691c6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

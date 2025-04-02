@@ -1,0 +1,13 @@
+{
+  "name": "Sui wallet token",
+  "symbol": "SWT",
+  "decimals": 9,
+  "coin_type": "0x828b49bab4e2a95729e535ae460a2f12fffaa0d7d5c652e31046d8c6fa7e7b61::swt::SWT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://play-lh.googleusercontent.com/w2KKtDdJmmTDSSXUD-YM3sAPUe7yMJHLGEOfYMxSIviTVBfMm1n2G3FOG6ys6xiVPkVw=w240-h480-rw",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "EYE AI",
+  "symbol": "EYEAI",
+  "decimals": 9,
+  "coin_type": "0xa876344ea90434f3874418c1c6de1d18918b3092917f58996df7fca93e54cb97::eyeai::EYEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GdWE5W4BWoQu24U3S6L1wAY8FGE4iPtb2NqRoCw2pump.png?size=lg&key=a4b899",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

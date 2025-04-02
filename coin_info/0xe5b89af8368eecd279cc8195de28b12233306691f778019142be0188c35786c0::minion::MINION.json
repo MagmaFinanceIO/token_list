@@ -1,0 +1,13 @@
+{
+  "name": "DESPICABLE ME",
+  "symbol": "MINION",
+  "decimals": 9,
+  "coin_type": "0xe5b89af8368eecd279cc8195de28b12233306691f778019142be0188c35786c0::minion::MINION",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2yXJnmeYp5rEhW1feAYwF1GaT5FGKNBtnGq39hprpump.png?size=lg&key=06c081",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

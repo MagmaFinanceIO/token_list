@@ -1,0 +1,13 @@
+{
+  "name": "Gatekeeper",
+  "symbol": "GATE",
+  "decimals": 9,
+  "coin_type": "0xf28fff3b5574845a6b597f870e2bce2a7ee9ec14b446f31af61aa1af00e75859::gate::GATE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/t5P8TH62EMrTDKDmhaC8zfLHiFWSSWt4mG2T3Xupump.png?size=lg&key=5dfbdd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Normie",
+  "symbol": "Normie",
+  "decimals": 9,
+  "coin_type": "0x1333e88504d9dc6adeee5be977154feade5a3d839633459da7627237f99c5a54::normie::NORMIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0e8aef0f-eaa6-436a-9b6f-c5b09b44517e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

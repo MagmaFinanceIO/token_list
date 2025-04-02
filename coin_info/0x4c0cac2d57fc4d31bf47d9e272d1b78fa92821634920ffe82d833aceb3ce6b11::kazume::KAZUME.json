@@ -1,0 +1,13 @@
+{
+  "name": "KAZUME AI by SuiAI",
+  "symbol": "KAZUME",
+  "decimals": 6,
+  "coin_type": "0x4c0cac2d57fc4d31bf47d9e272d1b78fa92821634920ffe82d833aceb3ce6b11::kazume::KAZUME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/logkazume_5595f9731f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

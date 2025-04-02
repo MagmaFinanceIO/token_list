@@ -1,0 +1,13 @@
+{
+  "name": "RIGBY",
+  "symbol": "RIGBY",
+  "decimals": 9,
+  "coin_type": "0x94d85100dbd528a5c15a4c24ca1b09ff6d607d4cdc53f692087a5b97ce76350f::rigby::RIGBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/KWYK4vsR6XkPD6KE?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

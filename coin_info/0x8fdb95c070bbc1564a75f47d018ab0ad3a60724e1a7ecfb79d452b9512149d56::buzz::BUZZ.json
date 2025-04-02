@@ -1,0 +1,13 @@
+{
+  "name": "Buzzarius",
+  "symbol": "BUZZ",
+  "decimals": 6,
+  "coin_type": "0x8fdb95c070bbc1564a75f47d018ab0ad3a60724e1a7ecfb79d452b9512149d56::buzz::BUZZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Buzzarius_the_Bee_Emperor_49f362eede.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

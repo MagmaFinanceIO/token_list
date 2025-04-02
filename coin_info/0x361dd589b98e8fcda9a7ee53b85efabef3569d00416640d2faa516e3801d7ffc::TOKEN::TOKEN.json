@@ -1,0 +1,15 @@
+{
+  "name": "Suiswap",
+  "symbol": "SSWP",
+  "decimals": 9,
+  "coin_type": "0x361dd589b98e8fcda9a7ee53b85efabef3569d00416640d2faa516e3801d7ffc::TOKEN::TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "0x361dd589b98e8fcda9a7ee53b85efabef3569d00416640d2faa516e3801d7ffc::TOKEN::TOKEN",
+  "coin_priority": [
+    "740"
+  ],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/sswp.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

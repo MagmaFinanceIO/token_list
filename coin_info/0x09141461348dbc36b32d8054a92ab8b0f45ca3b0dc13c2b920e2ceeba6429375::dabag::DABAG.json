@@ -1,0 +1,13 @@
+{
+  "name": "DaBag",
+  "symbol": "DABAG",
+  "decimals": 9,
+  "coin_type": "0x09141461348dbc36b32d8054a92ab8b0f45ca3b0dc13c2b920e2ceeba6429375::dabag::DABAG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3958ed6c-1efe-4bc8-9ebf-7bcb9abc6517.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

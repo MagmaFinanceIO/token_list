@@ -1,0 +1,13 @@
+{
+  "name": "GENESIS",
+  "symbol": "GENESIS",
+  "decimals": 9,
+  "coin_type": "0xeab2903893373db861af329d64ea2c9058ac428f9cadd6b1cb0b000310eb2875::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

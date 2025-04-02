@@ -1,0 +1,13 @@
+{
+  "name": "Elon Matrix",
+  "symbol": "ELONM",
+  "decimals": 6,
+  "coin_type": "0x6192395aeae84f8f62785e32650c255ffc3cfc9d3a2ce9c168aeea4fd45bc5d0::elonm::ELONM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/profmp_1667013204.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

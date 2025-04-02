@@ -1,0 +1,13 @@
+{
+  "name": "Suiala",
+  "symbol": "SUIALA",
+  "decimals": 6,
+  "coin_type": "0xceda788b335ec0a5cb74322445a996dcd1dae7edeb815618d09bca8f886dbc3c::suiala::SUIALA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Suiala_Logo_8ffe4ec47b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

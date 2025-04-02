@@ -1,0 +1,13 @@
+{
+  "name": "TRUMP WIF HAT",
+  "symbol": "TWH",
+  "decimals": 9,
+  "coin_type": "0x25843182d2cd002b94cadf8cad66533fbccab2bf38b89edb758a0e0319e18256::twh::TWH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3dN3iSG9SciKQzUS5cdQ2Jphmv4ynhhdfMbEt9eKYsNw.png?size=lg&key=8b47fb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

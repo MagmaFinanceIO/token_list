@@ -1,0 +1,13 @@
+{
+  "name": "Asuike",
+  "symbol": "ASUIKE",
+  "decimals": 9,
+  "coin_type": "0xabbf57829e561800da733ea77c0bfedcdc3826e979a7709322f22bddb6d2a75f::asuike::ASUIKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/20e3aa08-8fc6-4c82-8f13-82304150411a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

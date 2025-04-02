@@ -1,0 +1,13 @@
+{
+  "name": "Grimace on Sui",
+  "symbol": "GRIMACE",
+  "decimals": 6,
+  "coin_type": "0xdd84f89d5f377cb7ea001ef5ca6e76557c4bc8af20c509761d3c54916e3fdab5::grimace::GRIMACE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_1_300x300_5ee4784c7e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

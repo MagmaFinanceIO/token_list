@@ -1,0 +1,13 @@
+{
+  "name": "SDOGE",
+  "symbol": "Sui Doge",
+  "decimals": 6,
+  "coin_type": "0x83e6571118eaca12d7d428ae06341a8063711bc9983e0d6cefb3790a26b9d62c::SDOGE::SDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://gateway.pinata.cloud/ipfs/Qmc4rzRTCGZiZkTKtA1hZMd9LG6eK2wTTMjo5ZFh6QiJma",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

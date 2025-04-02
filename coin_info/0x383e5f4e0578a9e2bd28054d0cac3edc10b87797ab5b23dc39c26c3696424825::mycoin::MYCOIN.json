@@ -1,0 +1,13 @@
+{
+  "name": "Official Deep Seek Mascot",
+  "symbol": "Wally",
+  "decimals": 9,
+  "coin_type": "0x383e5f4e0578a9e2bd28054d0cac3edc10b87797ab5b23dc39c26c3696424825::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Maya",
+  "symbol": "MAYA",
+  "decimals": 6,
+  "coin_type": "0xfdb6b717d5c75f3840d2691565b0e2f22d9f922783325d9cbdd9d9738f3e8a26::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

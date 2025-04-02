@@ -1,0 +1,13 @@
+{
+  "name": "Fogy",
+  "symbol": "FOGY",
+  "decimals": 6,
+  "coin_type": "0x5856e61302ab8b15614f214827bed9485d7925d623ac7fb7aee7091888b8c665::fogy::FOGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/FOGY_9f66353fcb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

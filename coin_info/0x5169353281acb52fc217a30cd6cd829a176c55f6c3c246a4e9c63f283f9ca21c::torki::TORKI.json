@@ -1,0 +1,13 @@
+{
+  "name": "Torki",
+  "symbol": "Torki",
+  "decimals": 9,
+  "coin_type": "0x5169353281acb52fc217a30cd6cd829a176c55f6c3c246a4e9c63f283f9ca21c::torki::TORKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

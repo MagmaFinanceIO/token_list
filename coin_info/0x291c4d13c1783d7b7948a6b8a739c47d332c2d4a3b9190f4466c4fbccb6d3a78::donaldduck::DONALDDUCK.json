@@ -1,0 +1,13 @@
+{
+  "name": "Donald Duck",
+  "symbol": "DONALDDUCK",
+  "decimals": 9,
+  "coin_type": "0x291c4d13c1783d7b7948a6b8a739c47d332c2d4a3b9190f4466c4fbccb6d3a78::donaldduck::DONALDDUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "fup_LFqjc2xPmxh1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

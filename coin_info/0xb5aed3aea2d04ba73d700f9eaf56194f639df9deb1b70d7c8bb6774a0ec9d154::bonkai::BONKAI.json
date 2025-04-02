@@ -1,0 +1,13 @@
+{
+  "name": "Bonk AI",
+  "symbol": "BonkAI",
+  "decimals": 9,
+  "coin_type": "0xb5aed3aea2d04ba73d700f9eaf56194f639df9deb1b70d7c8bb6774a0ec9d154::bonkai::BONKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/h9bs7qV9AvWLxSZu?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

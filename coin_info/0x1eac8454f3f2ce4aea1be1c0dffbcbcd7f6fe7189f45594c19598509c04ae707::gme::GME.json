@@ -1,0 +1,13 @@
+{
+  "name": "Game Stop SUI",
+  "symbol": "GME",
+  "decimals": 6,
+  "coin_type": "0x1eac8454f3f2ce4aea1be1c0dffbcbcd7f6fe7189f45594c19598509c04ae707::gme::GME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/gamestop_78d07b6a5f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

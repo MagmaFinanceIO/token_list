@@ -1,0 +1,13 @@
+{
+  "name": "Flokius Maximus",
+  "symbol": "FLOKIUS",
+  "decimals": 9,
+  "coin_type": "0x85373667ca4f2ed53f65adc456cf99a4758deac1b183aba0c6959699062e3378::flokius::FLOKIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x218d9c9950f13301d5591e32f138464112cdacda.png?size=xl&key=7b2b77",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

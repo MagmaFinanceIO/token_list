@@ -1,0 +1,13 @@
+{
+  "name": "Muu Cow",
+  "symbol": "MUU",
+  "decimals": 6,
+  "coin_type": "0xafa0590e276f2e7f7aec9b78880ac85184376fd9fcfae5e5f99571d7b1e323bf::muu::MUU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_cow_39d40387a2.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

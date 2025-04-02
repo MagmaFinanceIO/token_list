@@ -1,0 +1,13 @@
+{
+  "name": "PNUT MOM",
+  "symbol": "DANI",
+  "decimals": 9,
+  "coin_type": "0xf54cec8f6c72ae2983586016ba7e4abbbdb40b7142f9077636a27ab32187743b::dani::DANI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FBMrqdGAsXmSozArKwMzzXqMfpoVTfJTQE472pWuz6ak.png?size=lg&key=86cb05",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

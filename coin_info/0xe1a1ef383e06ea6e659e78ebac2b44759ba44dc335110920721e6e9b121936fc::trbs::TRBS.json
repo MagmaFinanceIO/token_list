@@ -1,0 +1,13 @@
+{
+  "name": "Turbo on Sui",
+  "symbol": "TRBS",
+  "decimals": 9,
+  "coin_type": "0xe1a1ef383e06ea6e659e78ebac2b44759ba44dc335110920721e6e9b121936fc::trbs::TRBS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6d2a1d18-837d-467b-8519-8c5d9383be44.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

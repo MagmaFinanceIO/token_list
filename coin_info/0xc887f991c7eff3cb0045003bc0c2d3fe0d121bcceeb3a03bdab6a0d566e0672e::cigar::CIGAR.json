@@ -1,0 +1,13 @@
+{
+  "name": "Cigarette On Sui",
+  "symbol": "Cigar",
+  "decimals": 6,
+  "coin_type": "0xc887f991c7eff3cb0045003bc0c2d3fe0d121bcceeb3a03bdab6a0d566e0672e::cigar::CIGAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730978362096.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

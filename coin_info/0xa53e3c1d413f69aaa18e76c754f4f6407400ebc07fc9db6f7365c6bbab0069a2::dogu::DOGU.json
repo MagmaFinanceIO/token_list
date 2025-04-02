@@ -1,0 +1,13 @@
+{
+  "name": "Dogu",
+  "symbol": "DOGU",
+  "decimals": 9,
+  "coin_type": "0xa53e3c1d413f69aaa18e76c754f4f6407400ebc07fc9db6f7365c6bbab0069a2::dogu::DOGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bbcfdb13-db21-4af4-92b0-29d450dd3d25.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

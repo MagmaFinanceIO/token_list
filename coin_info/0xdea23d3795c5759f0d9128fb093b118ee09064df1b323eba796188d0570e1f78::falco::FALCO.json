@@ -1,0 +1,13 @@
+{
+  "name": "The Falcon of Sui",
+  "symbol": "FALCO",
+  "decimals": 9,
+  "coin_type": "0xdea23d3795c5759f0d9128fb093b118ee09064df1b323eba796188d0570e1f78::falco::FALCO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/26ffa859-fbf1-4f27-949f-f7d2c7589587.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

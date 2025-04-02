@@ -1,0 +1,13 @@
+{
+  "name": "REPUBLICAN TRUMP",
+  "symbol": "RETRUMP",
+  "decimals": 9,
+  "coin_type": "0x9ec61309b060436821a7d523ab1567268f768d57fd63e38716a443d3addb6520::retrump::RETRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8Qx2Ag6Lm4yEiSTDx6r2Ki2Xn1LqKzaEmGGMjQ9cpump.png?size=lg&key=41f948",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

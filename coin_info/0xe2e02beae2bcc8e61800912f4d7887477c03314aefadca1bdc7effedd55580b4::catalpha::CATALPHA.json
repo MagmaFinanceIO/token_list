@@ -1,0 +1,13 @@
+{
+  "name": "CatAlpha",
+  "symbol": "CatAlpha",
+  "decimals": 9,
+  "coin_type": "0xe2e02beae2bcc8e61800912f4d7887477c03314aefadca1bdc7effedd55580b4::catalpha::CATALPHA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e5c55dc3-f9c2-430d-99cb-3a7cc46a8e1f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

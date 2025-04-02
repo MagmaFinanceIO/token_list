@@ -1,0 +1,13 @@
+{
+  "name": "DROPLET",
+  "symbol": "DROPLET",
+  "decimals": 6,
+  "coin_type": "0xd0fd1c33445f1b8af1c47bb5956d0982ed0ccb53d68f54ef9c584974e4ee57fc::droplet::DROPLET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/droplet.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

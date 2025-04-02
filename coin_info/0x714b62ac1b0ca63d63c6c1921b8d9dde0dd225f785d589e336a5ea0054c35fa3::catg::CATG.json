@@ -1,0 +1,13 @@
+{
+  "name": "Crypto Agent Trading",
+  "symbol": "CATG",
+  "decimals": 9,
+  "coin_type": "0x714b62ac1b0ca63d63c6c1921b8d9dde0dd225f785d589e336a5ea0054c35fa3::catg::CATG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DqrcZRHM9JuCUhnLyaWF7rLLjxE5h3MbiG7iferUpump.png?size=lg&key=e865be",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

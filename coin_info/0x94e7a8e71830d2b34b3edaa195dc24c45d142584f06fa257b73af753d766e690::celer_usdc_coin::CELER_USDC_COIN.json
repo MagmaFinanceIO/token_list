@@ -1,0 +1,15 @@
+{
+  "name": "USD Coin (Celer)",
+  "symbol": "cUSDC",
+  "decimals": 6,
+  "coin_type": "0x94e7a8e71830d2b34b3edaa195dc24c45d142584f06fa257b73af753d766e690::celer_usdc_coin::CELER_USDC_COIN",
+  "pyth_id": "eaa020c61cc479712813461ce153894a96a6c00b21ed0cfc2798d1f9a9e9c94a",
+  "birdeyeid": "0x94e7a8e71830d2b34b3edaa195dc24c45d142584f06fa257b73af753d766e690::celer_usdc_coin::CELER_USDC_COIN",
+  "coin_priority": [
+    "830"
+  ],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/usdc_celer.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

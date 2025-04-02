@@ -1,0 +1,13 @@
+{
+  "name": "Fudzy Wudzy",
+  "symbol": "FUDWUD",
+  "decimals": 6,
+  "coin_type": "0x9c6530b05b44d701efee0ca1d68f6b27d617854cd08c3eade4c9dc3c79f833ce::fudwud::FUDWUD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_7478_9edc757fed.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

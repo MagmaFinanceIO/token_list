@@ -1,0 +1,13 @@
+{
+  "name": "HIPPO2.0",
+  "symbol": "HIPPO2.0",
+  "decimals": 6,
+  "coin_type": "0x43ed7f2573ec7100189614973357c9e8e822964bc88bcd1a52b1a0071f5b3223::hippocoin::HIPPOCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://d391b93f5f62d9c15f67142e43841acc.ipfscdn.io/ipfs/QmWeVfSw6yrezGS8PNsk2ipmDRR31FTBdffVhBULLQ2iQ2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

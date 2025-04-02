@@ -1,0 +1,13 @@
+{
+  "name": "Gregory the Climber",
+  "symbol": "GCLIMBER",
+  "decimals": 9,
+  "coin_type": "0x012e8280bec020abe431a86ae29e4ce346db53e237184fe139662cad290307e7::gclimber::GCLIMBER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmRcnGZJTiq2sWDeRn4qxvMCQ1s49chMheMCHmFUNdwhXY?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

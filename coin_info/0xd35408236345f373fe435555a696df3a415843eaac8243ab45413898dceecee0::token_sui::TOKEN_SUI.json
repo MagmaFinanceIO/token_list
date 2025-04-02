@@ -1,0 +1,13 @@
+{
+  "name": "sui bubbacat",
+  "symbol": "sbubbacat",
+  "decimals": 9,
+  "coin_type": "0xd35408236345f373fe435555a696df3a415843eaac8243ab45413898dceecee0::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/418QJC9cHmUXYFDEg78bAZE765WS4PX9Kxwznx2Hpump.png?size=xl&key=f87729",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

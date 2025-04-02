@@ -1,0 +1,13 @@
+{
+  "name": "ISKRA",
+  "symbol": "ISK",
+  "decimals": 6,
+  "coin_type": "0x3ada9774f0bc7dffacfe0537ef9fc0b2fb76ab7fcbb48ac914c33a412eafca01::isk::ISK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5094eb26-e869-4294-82f0-d1559b2a3ca8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

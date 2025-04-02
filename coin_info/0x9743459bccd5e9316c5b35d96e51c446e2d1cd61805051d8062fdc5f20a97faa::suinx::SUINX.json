@@ -1,0 +1,13 @@
+{
+  "name": "Sui Nyan Xcelerator",
+  "symbol": "SUINX",
+  "decimals": 9,
+  "coin_type": "0x9743459bccd5e9316c5b35d96e51c446e2d1cd61805051d8062fdc5f20a97faa::suinx::SUINX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9764a2ba-ff3b-4225-a4bb-1cf8bfdced61.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

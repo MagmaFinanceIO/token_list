@@ -1,0 +1,13 @@
+{
+  "name": "Snoopy Dog",
+  "symbol": "Snoopy",
+  "decimals": 9,
+  "coin_type": "0xa9e2d685158faf45ddba586e1af32d88bda00c23400c3b82d2ea38e195eac646::snoopy::SNOOPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/72af8824-e534-4dbe-b320-7fba27f2fe9d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

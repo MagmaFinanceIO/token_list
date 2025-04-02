@@ -1,0 +1,13 @@
+{
+  "name": "Ostrich Pepe",
+  "symbol": "OSEP",
+  "decimals": 6,
+  "coin_type": "0x6f756ddc3414eb62e28c56fc5570bea5271872fc504f5df5ce5a52a343270c29::osep::OSEP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a6603a68-da3b-45d0-ac77-162f0e7c6713.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

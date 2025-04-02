@@ -1,0 +1,13 @@
+{
+  "name": "Typus Finance",
+  "symbol": "TYPUS",
+  "decimals": 9,
+  "coin_type": "0x8f4de3ff42d434fb94b2f5449b534fec8e49396f58150c219d78ab1c95a6ac07::typus::TYPUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://strapi-dev.scand.app/uploads/Typus_Finance_27291411a1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

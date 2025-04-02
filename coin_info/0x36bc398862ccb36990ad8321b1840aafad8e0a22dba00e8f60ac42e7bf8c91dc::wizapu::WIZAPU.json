@@ -1,0 +1,13 @@
+{
+  "name": "Wizapu apu",
+  "symbol": "WIZAPU",
+  "decimals": 9,
+  "coin_type": "0x36bc398862ccb36990ad8321b1840aafad8e0a22dba00e8f60ac42e7bf8c91dc::wizapu::WIZAPU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/2a27e824270367ffde90c4f326dfe0d0blob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

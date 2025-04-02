@@ -1,0 +1,13 @@
+{
+  "name": "💦 Splash",
+  "symbol": "SPLSH",
+  "decimals": 9,
+  "coin_type": "0xa2746b44482cf47a4a4ce47a8efd1f272c43a5535883d828e55fda4b8c1e9213::splsh::SPLSH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7900049f-a9c5-4a49-8daa-f32f7301bacf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

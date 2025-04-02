@@ -1,0 +1,13 @@
+{
+  "name": "Just the real guy",
+  "symbol": "REALGUY",
+  "decimals": 9,
+  "coin_type": "0x4242b52fcfb02ba0db3c9b5de20106b5df6a8e429b86c398d386f477156d1ee9::realguy::REALGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4dPSGJE2xrqLYE2KDwyX8eVkgEMnFasArNT2QSSopump.png?size=lg&key=dcd924",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

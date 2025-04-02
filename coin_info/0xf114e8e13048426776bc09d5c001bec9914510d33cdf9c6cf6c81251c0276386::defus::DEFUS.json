@@ -1,0 +1,13 @@
+{
+  "name": "Defus AI",
+  "symbol": "DEFUS",
+  "decimals": 9,
+  "coin_type": "0xf114e8e13048426776bc09d5c001bec9914510d33cdf9c6cf6c81251c0276386::defus::DEFUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3dvCLLm3GmUAZHRYT1vDqbdnGfMUN17xxoCkZhJDpump.png?size=lg&key=de379f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

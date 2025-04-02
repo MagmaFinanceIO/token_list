@@ -1,0 +1,13 @@
+{
+  "name": "Bobby The Beaver",
+  "symbol": "BOBBY",
+  "decimals": 6,
+  "coin_type": "0x59131042f9f89adef945b2f3110ef7c55521612fb04d94e1145ec281339b936e::bobby::BOBBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/log_A_bb1fe1e5e4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

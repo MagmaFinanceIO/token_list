@@ -1,0 +1,13 @@
+{
+  "name": "PWOG ON SUI",
+  "symbol": "PWOG",
+  "decimals": 9,
+  "coin_type": "0x4b643d8014950e568647b6dff25c7a9f964ed20ddd18b7374f50afa9f40e2702::pwog::PWOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmeMuqrV615UuddYtMzG5WK6U64UeE58YNNYGoToqa4mQg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

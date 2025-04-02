@@ -1,0 +1,13 @@
+{
+  "name": "Sui Survey",
+  "symbol": "SUIRVEY",
+  "decimals": 6,
+  "coin_type": "0x064d06aaa3b43bb4b5dc316e0fab7ac9fa99c1e9835f1627c465b034bea78aec::suirvey::SUIRVEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ukbsanur_R62_BJ_7o_V_Lfm_WYA_a0ffd218df.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

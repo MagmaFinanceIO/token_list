@@ -1,0 +1,13 @@
+{
+  "name": "Trump Burner",
+  "symbol": "BURNER",
+  "decimals": 9,
+  "coin_type": "0xfcff634acf8d786ea943c7f4e790f735164f7ca5c054ce1f9ac1fccb72f44341::burner::BURNER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmcNff1nhf5ttJmmjPqU7WAkEnZuvpRKC4EkdJVtkYok1D",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

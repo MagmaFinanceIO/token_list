@@ -1,0 +1,13 @@
+{
+  "name": "Charity coin",
+  "symbol": "CC",
+  "decimals": 9,
+  "coin_type": "0xcab24e23fea1ea4df48fd8a54fe38a9278d47884244afd2f54112a42ce2810a9::cc::CC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b320ddc7-550d-400b-8c67-f9163b99b7fd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

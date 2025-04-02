@@ -1,0 +1,13 @@
+{
+  "name": "Daltonism On SUI",
+  "symbol": "COLOR On SUI",
+  "decimals": 9,
+  "coin_type": "0xe008435e904d3d0583863ba687e91e7682f0b942f3f31ade8891ee7029e1395c::color_on_sui::COLOR_ON_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/971f9ba8-b55c-421a-ae89-0a7336d5c7f6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

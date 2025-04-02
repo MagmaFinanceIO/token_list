@@ -1,0 +1,13 @@
+{
+  "name": "Hungry",
+  "symbol": "HG",
+  "decimals": 6,
+  "coin_type": "0x480c7b261d0b17f5be587fb5b97f769670f9b73896d6322114a7ea836388a367::hg::HG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/e_a_c_ae_ae_e_e_c_e_ae_e_a_a_i_ae_e_ae_c_a_5d22bbb37f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

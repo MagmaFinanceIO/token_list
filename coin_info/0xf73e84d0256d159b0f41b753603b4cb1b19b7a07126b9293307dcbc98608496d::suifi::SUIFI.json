@@ -1,0 +1,13 @@
+{
+  "name": "SuiFi by SuiAI",
+  "symbol": "SUIFI",
+  "decimals": 6,
+  "coin_type": "0xf73e84d0256d159b0f41b753603b4cb1b19b7a07126b9293307dcbc98608496d::suifi::SUIFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/utgdf_cd01bab89b.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

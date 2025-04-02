@@ -1,0 +1,13 @@
+{
+  "name": "Pigeon Toady",
+  "symbol": "PIGI",
+  "decimals": 9,
+  "coin_type": "0x3e7eda3b891f94633c80498634c85b568af25873330cb2d9c066c0947d092f0c::pigi::PIGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/93a153e9-d03c-49e4-b400-23a6d6e9cef0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

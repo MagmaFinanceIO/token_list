@@ -1,0 +1,13 @@
+{
+  "name": "DogWifWig",
+  "symbol": "WIG",
+  "decimals": 9,
+  "coin_type": "0x848cdffecd5bbf46c8bfda5f7083768a902110bbb9befd125b1f009c96c302ab::wig::WIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/863bd0e2-51d0-40e6-8080-592bd3161cbf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

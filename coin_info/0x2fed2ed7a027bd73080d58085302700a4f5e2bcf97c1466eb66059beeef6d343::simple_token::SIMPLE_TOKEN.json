@@ -1,0 +1,13 @@
+{
+  "name": "Suinic",
+  "symbol": "Suinic",
+  "decimals": 9,
+  "coin_type": "0x2fed2ed7a027bd73080d58085302700a4f5e2bcf97c1466eb66059beeef6d343::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

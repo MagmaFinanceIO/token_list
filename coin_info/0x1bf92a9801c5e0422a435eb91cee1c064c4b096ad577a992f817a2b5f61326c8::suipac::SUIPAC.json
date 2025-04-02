@@ -1,0 +1,13 @@
+{
+  "name": "Sui Pac-Man",
+  "symbol": "SuiPac",
+  "decimals": 9,
+  "coin_type": "0x1bf92a9801c5e0422a435eb91cee1c064c4b096ad577a992f817a2b5f61326c8::suipac::SUIPAC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1b9e8985-c5dd-42dc-84cc-ff8abfd220a3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

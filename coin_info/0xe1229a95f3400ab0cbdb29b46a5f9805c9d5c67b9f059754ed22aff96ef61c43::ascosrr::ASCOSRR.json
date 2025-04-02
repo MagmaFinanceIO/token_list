@@ -1,0 +1,13 @@
+{
+  "name": "ASCOSR",
+  "symbol": "ASCOSRR",
+  "decimals": 9,
+  "coin_type": "0xe1229a95f3400ab0cbdb29b46a5f9805c9d5c67b9f059754ed22aff96ef61c43::ascosrr::ASCOSRR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PEPE",
+  "symbol": "pepe",
+  "decimals": 9,
+  "coin_type": "0x1bbee63aac0421b793f65f2c3767b2fe36cb0402207b14f5d7a380f0db6cba70::PEPE::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://silver-blushing-woodpecker-143.mypinata.cloud/ipfs/Qmed2qynTAszs9SiZZpf58QeXcNcYgPnu6XzkD4oeLacU4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

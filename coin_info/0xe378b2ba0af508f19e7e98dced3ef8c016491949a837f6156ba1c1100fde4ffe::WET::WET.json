@@ -1,0 +1,13 @@
+{
+  "name": "WET",
+  "symbol": "WET",
+  "decimals": 2,
+  "coin_type": "0xe378b2ba0af508f19e7e98dced3ef8c016491949a837f6156ba1c1100fde4ffe::WET::WET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.postimg.cc/SNzW8gcz/WETsui-Asset-1-300x.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

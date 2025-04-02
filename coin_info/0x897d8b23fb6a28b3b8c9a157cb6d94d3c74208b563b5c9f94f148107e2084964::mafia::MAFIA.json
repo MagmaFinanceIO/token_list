@@ -1,0 +1,13 @@
+{
+  "name": "Mafia",
+  "symbol": "MAFIA",
+  "decimals": 9,
+  "coin_type": "0x897d8b23fb6a28b3b8c9a157cb6d94d3c74208b563b5c9f94f148107e2084964::mafia::MAFIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DJmsUWhMnvDczvda3oTPbiUqoARSJKsh47NHuU7GeYLz.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

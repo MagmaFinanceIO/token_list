@@ -1,0 +1,13 @@
+{
+  "name": "Captain Squirrel",
+  "symbol": "SUIRREL",
+  "decimals": 9,
+  "coin_type": "0x28b37a0dc0edb3d9fcf28b7616a73e1534e7176f1f44487b374447ff1d05d2db::suirrel::SUIRREL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/50cbbcb2-c694-4916-93de-d4fafcf56f35.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

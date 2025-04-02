@@ -1,0 +1,13 @@
+{
+  "name": "YJZ",
+  "symbol": "YJZ",
+  "decimals": 9,
+  "coin_type": "0x46b285e113870cc7ec07e705cacdcf4603958be82d5db45a5a83353c51eff796::yjz::YJZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2SNstbEYVEn2iTNQyZHKGzgTPZwBgnujwKa8hn5opump.png?size=lg&key=16c90b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

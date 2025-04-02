@@ -1,0 +1,13 @@
+{
+  "name": "Mancat",
+  "symbol": "Mancat",
+  "decimals": 9,
+  "coin_type": "0x31c93ad28411148e6f847ad54114e25335c936d3ffec76540cb4af5803b58436::mancat::MANCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1ef15b04-072b-46d3-8538-044b1e1e1b50.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

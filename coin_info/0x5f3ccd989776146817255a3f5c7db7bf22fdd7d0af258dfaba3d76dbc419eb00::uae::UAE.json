@@ -1,0 +1,13 @@
+{
+  "name": "uae",
+  "symbol": "uae",
+  "decimals": 9,
+  "coin_type": "0x5f3ccd989776146817255a3f5c7db7bf22fdd7d0af258dfaba3d76dbc419eb00::uae::UAE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Bross",
+  "symbol": "BROSS",
+  "decimals": 6,
+  "coin_type": "0x23b257141e2051e8c2a56513fa6c55016daabf64c9ec85537265e84fbbb19e21::bross::BROSS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/20241120_012532_2e9cc14019.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

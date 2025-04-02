@@ -1,0 +1,13 @@
+{
+  "name": "CHILLING PEANUT",
+  "symbol": "CHILLNUT",
+  "decimals": 9,
+  "coin_type": "0xc37e19946795b2562b39b1a2e613013796c1752388fc4b5a6ce31897c7e452d4::chillnut::CHILLNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b9defe2b-e8d3-40c4-91a6-243fa46ad6be.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

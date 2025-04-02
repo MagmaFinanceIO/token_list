@@ -1,0 +1,13 @@
+{
+  "name": "Khisu inu",
+  "symbol": "KHISU",
+  "decimals": 6,
+  "coin_type": "0x3a1c2f17358c9136af2ada8360f2651c03da82e0d32051c9e39cb2b407948c9f::khisu::KHISU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ccfa803a-3f80-4cf0-8607-40af35713cfd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

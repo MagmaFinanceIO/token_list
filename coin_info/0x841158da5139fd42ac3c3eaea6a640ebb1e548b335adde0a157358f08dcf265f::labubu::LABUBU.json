@@ -1,0 +1,13 @@
+{
+  "name": "LABUBU",
+  "symbol": "LABUBU",
+  "decimals": 9,
+  "coin_type": "0x841158da5139fd42ac3c3eaea6a640ebb1e548b335adde0a157358f08dcf265f::labubu::LABUBU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9gdPSkp9EH1g7UpfP9eHmWqzAW1cJdNrL9ypXnL6EEeF.png?size=lg&key=5c9882",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

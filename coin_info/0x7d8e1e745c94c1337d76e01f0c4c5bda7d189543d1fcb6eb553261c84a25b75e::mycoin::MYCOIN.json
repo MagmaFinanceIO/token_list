@@ -1,0 +1,13 @@
+{
+  "name": "BLOB",
+  "symbol": "BLOB",
+  "decimals": 9,
+  "coin_type": "0x7d8e1e745c94c1337d76e01f0c4c5bda7d189543d1fcb6eb553261c84a25b75e::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Xavier",
+  "symbol": "X",
+  "decimals": 9,
+  "coin_type": "0x339b22e746c8a2e4aaa1e02d0c10951c4f8f7dd78a0a9043e2373b2925040661::x::X",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/54a4c7ba-c8fb-4f86-a579-c30cba67c31a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

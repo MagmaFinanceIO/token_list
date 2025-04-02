@@ -1,0 +1,13 @@
+{
+  "name": "BABYCHIMP",
+  "symbol": "BABYCHIMP",
+  "decimals": 9,
+  "coin_type": "0x8c024b3c70bdc5f85701c9d5cbd2fc7e3f3d5855f4f5c2886cd72d372dafd70b::babychimp::BABYCHIMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/45rpJUMN39M2QfjCJsas5iqmdF61ByD4Wmn6oSMTpump.png?size=lg&key=318365",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

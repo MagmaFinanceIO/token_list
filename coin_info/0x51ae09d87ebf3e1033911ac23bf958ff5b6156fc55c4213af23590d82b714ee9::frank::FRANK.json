@@ -1,0 +1,13 @@
+{
+  "name": "Frank AI",
+  "symbol": "FRANK",
+  "decimals": 6,
+  "coin_type": "0x51ae09d87ebf3e1033911ac23bf958ff5b6156fc55c4213af23590d82b714ee9::frank::FRANK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_2673_0dee851fea.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

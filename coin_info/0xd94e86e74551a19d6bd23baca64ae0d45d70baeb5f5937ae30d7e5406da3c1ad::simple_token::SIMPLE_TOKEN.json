@@ -1,0 +1,13 @@
+{
+  "name": "bunbun",
+  "symbol": "bunbun",
+  "decimals": 9,
+  "coin_type": "0xd94e86e74551a19d6bd23baca64ae0d45d70baeb5f5937ae30d7e5406da3c1ad::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

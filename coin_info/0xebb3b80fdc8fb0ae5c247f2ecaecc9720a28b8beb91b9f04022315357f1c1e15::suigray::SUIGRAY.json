@@ -1,0 +1,13 @@
+{
+  "name": "SUIGRAY",
+  "symbol": "SUIGRAY",
+  "decimals": 9,
+  "coin_type": "0xebb3b80fdc8fb0ae5c247f2ecaecc9720a28b8beb91b9f04022315357f1c1e15::suigray::SUIGRAY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

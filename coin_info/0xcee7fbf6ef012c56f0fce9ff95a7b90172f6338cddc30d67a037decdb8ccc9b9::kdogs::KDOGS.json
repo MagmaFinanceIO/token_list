@@ -1,0 +1,13 @@
+{
+  "name": "KOL DOGS ON SUI",
+  "symbol": "KDOGS",
+  "decimals": 9,
+  "coin_type": "0xcee7fbf6ef012c56f0fce9ff95a7b90172f6338cddc30d67a037decdb8ccc9b9::kdogs::KDOGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8a222c72-faf9-425e-844f-45d02e8c7f1f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ilt5",
+  "symbol": "ilt5",
+  "decimals": 9,
+  "coin_type": "0x6b8d3ca095357e292a6aaa339fe50d7791a5ac5f100feb28d42a1ab607b3fa7c::ilt5::ILT5",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CB48KiK1oi1tWtjmPWxVR2NPeEr9ewzmZQ8ERk79Ue4b.png?size=lg&key=e3d4b7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

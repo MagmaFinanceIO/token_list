@@ -1,0 +1,13 @@
+{
+  "name": "Castle of Sui",
+  "symbol": "CASTLE",
+  "decimals": 6,
+  "coin_type": "0x61d63c2ba1bbfcdd93ef23d407290184a6e8b06373a466085badf1a9a4bbd17a::castle::CASTLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_1_30_ed6621f54b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

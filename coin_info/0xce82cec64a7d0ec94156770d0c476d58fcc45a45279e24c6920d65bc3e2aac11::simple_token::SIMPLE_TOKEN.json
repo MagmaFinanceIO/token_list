@@ -1,0 +1,13 @@
+{
+  "name": "PEPERCY",
+  "symbol": "PEPERCY",
+  "decimals": 9,
+  "coin_type": "0xce82cec64a7d0ec94156770d0c476d58fcc45a45279e24c6920d65bc3e2aac11::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

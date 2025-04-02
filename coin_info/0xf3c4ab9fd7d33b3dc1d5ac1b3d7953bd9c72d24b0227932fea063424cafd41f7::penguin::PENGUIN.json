@@ -1,0 +1,13 @@
+{
+  "name": "SuiPeng",
+  "symbol": "Penguin",
+  "decimals": 9,
+  "coin_type": "0xf3c4ab9fd7d33b3dc1d5ac1b3d7953bd9c72d24b0227932fea063424cafd41f7::penguin::PENGUIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/81bcb938-e031-4efa-8984-7ecdccc11ea3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

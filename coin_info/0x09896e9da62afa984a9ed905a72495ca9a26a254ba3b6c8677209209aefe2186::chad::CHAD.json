@@ -1,0 +1,13 @@
+{
+  "name": "Chad",
+  "symbol": "CHAD",
+  "decimals": 6,
+  "coin_type": "0x09896e9da62afa984a9ed905a72495ca9a26a254ba3b6c8677209209aefe2186::chad::CHAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_2527_5d82fb26b6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

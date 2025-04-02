@@ -1,0 +1,13 @@
+{
+  "name": "Maxwell",
+  "symbol": "Maxwell",
+  "decimals": 9,
+  "coin_type": "0x8112b393eddde5ccf8f34608eee9e107eb1f299e1f4a37929cb6c06d278ee07b::maxwell::MAXWELL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/H84qihes12nVQarr8rzmw87hDXUbHtFKRm5joBcbpump.png?size=lg&key=ffe182",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

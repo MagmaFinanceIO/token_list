@@ -1,0 +1,13 @@
+{
+  "name": "TOKI THE HIPPO DOG",
+  "symbol": "TOKI",
+  "decimals": 6,
+  "coin_type": "0x7ed8b44c92fb738345f5c77ade29935560ff7ac4c8bf95a8c16028aa2942e0c4::toki::TOKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3620_d4b692bfe2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

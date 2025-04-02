@@ -1,0 +1,13 @@
+{
+  "name": "DOGE",
+  "symbol": "Sui Doge",
+  "decimals": 9,
+  "coin_type": "0xfa0b42bae6a00492a447e6101c9f006b2f78d3007624ce2ee92b779cb01d49a6::doge::DOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/QmWAYXQjyRnsybnv4gNsVMjXjeqdzbcQ9ucEN4dZqc4Cj3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

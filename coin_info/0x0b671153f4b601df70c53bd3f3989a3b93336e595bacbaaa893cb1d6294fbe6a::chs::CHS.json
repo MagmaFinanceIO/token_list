@@ -1,0 +1,13 @@
+{
+  "name": "CHILLSANTA",
+  "symbol": "CHS",
+  "decimals": 6,
+  "coin_type": "0x0b671153f4b601df70c53bd3f3989a3b93336e595bacbaaa893cb1d6294fbe6a::chs::CHS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/9a832c1d_1dc3_4f99_a5e7_2a5a82f40409_142e7e00d3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

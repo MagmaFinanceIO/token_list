@@ -1,0 +1,13 @@
+{
+  "name": "FRUG",
+  "symbol": "FRUG",
+  "decimals": 9,
+  "coin_type": "0x04428605f1a6f9b3afba53c86db95fd7e416cd99e3f55e6daca30194134bfb9a::frug::FRUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1971afb5-98a3-4662-9a8c-27046dbb861d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

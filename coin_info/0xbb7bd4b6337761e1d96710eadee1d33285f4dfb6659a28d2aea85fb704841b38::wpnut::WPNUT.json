@@ -1,0 +1,13 @@
+{
+  "name": "WIF PNUT",
+  "symbol": "WPNUT",
+  "decimals": 6,
+  "coin_type": "0xbb7bd4b6337761e1d96710eadee1d33285f4dfb6659a28d2aea85fb704841b38::wpnut::WPNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731766881845.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

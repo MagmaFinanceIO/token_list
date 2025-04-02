@@ -1,0 +1,13 @@
+{
+  "name": "Fonx",
+  "symbol": "FONX",
+  "decimals": 9,
+  "coin_type": "0xe48d48870e186799fb4563efe4db287b1c41b4f1ef399bf1433089e33c9f7820::fonx::FONX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c836e5d2-589f-4cb7-afcc-c83f73599b30.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

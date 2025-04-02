@@ -1,0 +1,13 @@
+{
+  "name": "DARK PIKACHU",
+  "symbol": "DARKPIKA",
+  "decimals": 6,
+  "coin_type": "0x813b59892384056384cae2b92b6ac7a8e8b707ed17159faf18fd8cde9e49271a::darkpika::DARKPIKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7807_f33f92a4ca.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

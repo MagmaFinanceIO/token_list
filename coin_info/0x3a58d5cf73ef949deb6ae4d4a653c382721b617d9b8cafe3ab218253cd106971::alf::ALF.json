@@ -1,0 +1,13 @@
+{
+  "name": "Alf The Cocodrile",
+  "symbol": "ALF",
+  "decimals": 9,
+  "coin_type": "0x3a58d5cf73ef949deb6ae4d4a653c382721b617d9b8cafe3ab218253cd106971::alf::ALF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b396f564-42a5-4254-bdbf-1453c8d2ee79.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuiCHU",
+  "symbol": "SuiCHU",
+  "decimals": 9,
+  "coin_type": "0xc02bd1808fd514888b8f6ba0c8f5486535545c64565b3e651d93801b629672ac::suichu::SUICHU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6f67f4f0-2705-4f9c-a355-f24ca6680669.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

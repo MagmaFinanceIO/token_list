@@ -1,0 +1,13 @@
+{
+  "name": "MKOSR",
+  "symbol": "MCKOSRA",
+  "decimals": 9,
+  "coin_type": "0x52b8baa67b2775445054780baba965fbf0b930af7bf64974a9610374a9df8db2::mckosra::MCKOSRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

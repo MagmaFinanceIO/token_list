@@ -1,0 +1,13 @@
+{
+  "name": "SIGMASHARK",
+  "symbol": "SIGMASHARK",
+  "decimals": 2,
+  "coin_type": "0x9f329df6dad6a652e0aa1bc1e1b4098af4d7b80bad04aac779a25d1e149afe67::SIGMASHARK::SIGMASHARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://sigmashark.pro/wp-content/uploads/2024/12/Group-32-300x149.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

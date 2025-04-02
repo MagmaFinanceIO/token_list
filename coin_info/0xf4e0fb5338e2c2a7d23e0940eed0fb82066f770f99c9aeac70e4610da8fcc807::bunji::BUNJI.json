@@ -1,0 +1,13 @@
+{
+  "name": "Bunjamin",
+  "symbol": "BUNJI",
+  "decimals": 9,
+  "coin_type": "0xf4e0fb5338e2c2a7d23e0940eed0fb82066f770f99c9aeac70e4610da8fcc807::bunji::BUNJI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/813e3fb1-6940-4e93-8c28-b94b6cf02348.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suirados",
+  "symbol": "SUIRADOS",
+  "decimals": 6,
+  "coin_type": "0x5fbc8f2627ab5f46214ea0618a9ffccda7fbf3c253a474e9b2ed451d517c41bd::suirados::SUIRADOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e8faf6bd-3452-4262-9624-ccc754b4b781.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

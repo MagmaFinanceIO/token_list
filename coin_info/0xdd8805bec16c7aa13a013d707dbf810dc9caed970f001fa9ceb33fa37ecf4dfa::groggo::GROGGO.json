@@ -1,0 +1,13 @@
+{
+  "name": "GROGGO",
+  "symbol": "GROGGO",
+  "decimals": 9,
+  "coin_type": "0xdd8805bec16c7aa13a013d707dbf810dc9caed970f001fa9ceb33fa37ecf4dfa::groggo::GROGGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.postimg.cc/V6rPy47D/AVA-1.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

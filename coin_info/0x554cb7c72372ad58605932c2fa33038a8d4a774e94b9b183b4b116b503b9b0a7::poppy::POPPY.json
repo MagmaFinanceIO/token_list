@@ -1,0 +1,13 @@
+{
+  "name": "POPPY THE SEA LION",
+  "symbol": "POPPY",
+  "decimals": 9,
+  "coin_type": "0x554cb7c72372ad58605932c2fa33038a8d4a774e94b9b183b4b116b503b9b0a7::poppy::POPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/332a39f0-fd6d-4a31-bb07-7625a33eb80c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

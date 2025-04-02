@@ -1,0 +1,13 @@
+{
+  "name": "Otto the Opossum",
+  "symbol": "OTTO",
+  "decimals": 9,
+  "coin_type": "0x52f43becd32e8ba1b42df316f73222de4da9aaf8f60bc633b83ccecc28844dad::otto::OTTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8621f7ab-9038-4538-939a-c57c926ad830.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

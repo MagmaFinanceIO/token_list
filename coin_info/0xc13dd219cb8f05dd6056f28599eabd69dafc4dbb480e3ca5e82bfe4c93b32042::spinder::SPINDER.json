@@ -1,0 +1,13 @@
+{
+  "name": "Spinder Man",
+  "symbol": "Spinder",
+  "decimals": 9,
+  "coin_type": "0xc13dd219cb8f05dd6056f28599eabd69dafc4dbb480e3ca5e82bfe4c93b32042::spinder::SPINDER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d6c963ec-737d-45d2-857d-3ec290d0eb03.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

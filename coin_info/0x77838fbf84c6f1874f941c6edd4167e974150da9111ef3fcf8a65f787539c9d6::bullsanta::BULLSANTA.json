@@ -1,0 +1,13 @@
+{
+  "name": "Hasbulla Santa",
+  "symbol": "BULLSANTA",
+  "decimals": 9,
+  "coin_type": "0x77838fbf84c6f1874f941c6edd4167e974150da9111ef3fcf8a65f787539c9d6::bullsanta::BULLSANTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmSu4MVu9FASXTMnJULpLmjh9kcnGPyoaSfu4czttTmWTL",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

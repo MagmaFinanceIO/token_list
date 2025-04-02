@@ -1,0 +1,13 @@
+{
+  "name": "Yeti",
+  "symbol": "YETI",
+  "decimals": 9,
+  "coin_type": "0xa860c00eea5a6b5517ac07e0839e1e71fef6d59ad04c02dd3330cb10b43ae56f::yeti::YETI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8426d59f-9360-49ce-a2f3-41f31b98d7b6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

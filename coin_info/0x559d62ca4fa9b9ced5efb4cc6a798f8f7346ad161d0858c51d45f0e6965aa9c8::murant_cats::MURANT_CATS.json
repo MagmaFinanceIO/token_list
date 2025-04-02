@@ -1,0 +1,13 @@
+{
+  "name": "Murant Cats",
+  "symbol": "Murant Cats",
+  "decimals": 9,
+  "coin_type": "0x559d62ca4fa9b9ced5efb4cc6a798f8f7346ad161d0858c51d45f0e6965aa9c8::murant_cats::MURANT_CATS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e680794c-7563-4ce6-b28f-7ce43d35655c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

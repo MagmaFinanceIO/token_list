@@ -1,0 +1,13 @@
+{
+  "name": "uisiu",
+  "symbol": "UISIU",
+  "decimals": 6,
+  "coin_type": "0x5c3c76f436149d72239ad87821f2af46b15b80c8bac80d76ebb5c4869ae6d126::uisiu::UISIU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

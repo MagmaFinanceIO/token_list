@@ -1,0 +1,13 @@
+{
+  "name": "Orz",
+  "symbol": "Orz",
+  "decimals": 6,
+  "coin_type": "0x4b7955d6a88fd6d19423e9a349a5828c656c09929c4360a22ccf19560bf90870::orz::ORZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.gtokentool.com/1738751894/1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

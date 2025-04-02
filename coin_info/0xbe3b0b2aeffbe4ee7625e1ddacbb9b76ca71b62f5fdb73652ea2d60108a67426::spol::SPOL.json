@@ -1,0 +1,13 @@
+{
+  "name": "Sui Polar",
+  "symbol": "SPOL",
+  "decimals": 6,
+  "coin_type": "0xbe3b0b2aeffbe4ee7625e1ddacbb9b76ca71b62f5fdb73652ea2d60108a67426::spol::SPOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1_3d497f673f.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

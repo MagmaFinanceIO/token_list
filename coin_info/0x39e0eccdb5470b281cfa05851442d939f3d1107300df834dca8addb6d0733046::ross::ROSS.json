@@ -1,0 +1,13 @@
+{
+  "name": "Ross Ulbricht",
+  "symbol": "ROSS",
+  "decimals": 9,
+  "coin_type": "0x39e0eccdb5470b281cfa05851442d939f3d1107300df834dca8addb6d0733046::ross::ROSS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b2918026-9924-41d9-a6c8-fb024d08f2e5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

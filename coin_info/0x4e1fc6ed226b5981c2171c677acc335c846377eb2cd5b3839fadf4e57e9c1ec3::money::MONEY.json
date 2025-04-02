@@ -1,0 +1,13 @@
+{
+  "name": "MONEY",
+  "symbol": "MONEY",
+  "decimals": 9,
+  "coin_type": "0x4e1fc6ed226b5981c2171c677acc335c846377eb2cd5b3839fadf4e57e9c1ec3::money::MONEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

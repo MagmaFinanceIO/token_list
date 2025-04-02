@@ -1,0 +1,13 @@
+{
+  "name": "Bubblefish",
+  "symbol": "FISH",
+  "decimals": 6,
+  "coin_type": "0x72e08a7d76bebde3dcd0e28e79752b9edf14e23c4ea1d876fb5c407adaa6a4da::fish::FISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Bubblefish_profilbilde_427d20d220.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

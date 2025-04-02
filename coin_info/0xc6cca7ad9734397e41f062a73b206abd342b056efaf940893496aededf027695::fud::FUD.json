@@ -1,0 +1,13 @@
+{
+  "name": "Fud the pug",
+  "symbol": "FUD",
+  "decimals": 6,
+  "coin_type": "0xc6cca7ad9734397e41f062a73b206abd342b056efaf940893496aededf027695::fud::FUD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/6t_S_Ac_Uet_400x400_02f55274b3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

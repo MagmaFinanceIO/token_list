@@ -1,0 +1,13 @@
+{
+  "name": "China",
+  "symbol": "China",
+  "decimals": 2,
+  "coin_type": "0x7aaf79208461a04e9f317a522f6c5ec40fa92c86209c0f3c0be1034d619b6af4::china::CHINA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a04669ea-c86f-4ad7-8c66-b8bedfeaae48.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

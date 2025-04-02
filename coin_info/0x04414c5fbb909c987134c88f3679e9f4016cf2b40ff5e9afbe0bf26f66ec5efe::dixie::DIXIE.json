@@ -1,0 +1,13 @@
+{
+  "name": "JUSTICEFORDIXIE",
+  "symbol": "DIXIE",
+  "decimals": 9,
+  "coin_type": "0x04414c5fbb909c987134c88f3679e9f4016cf2b40ff5e9afbe0bf26f66ec5efe::dixie::DIXIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmRP7pCSmAVJXhRm1rS2mCK6xjsKXhCo1VwUKE5MCkGvSz",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

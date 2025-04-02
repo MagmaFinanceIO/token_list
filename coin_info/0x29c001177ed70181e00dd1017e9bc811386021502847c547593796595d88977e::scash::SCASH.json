@@ -1,0 +1,13 @@
+{
+  "name": "Space Cash",
+  "symbol": "SCASH",
+  "decimals": 9,
+  "coin_type": "0x29c001177ed70181e00dd1017e9bc811386021502847c547593796595d88977e::scash::SCASH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/beea10d9-cb2c-4336-b2a9-c31f923949b0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

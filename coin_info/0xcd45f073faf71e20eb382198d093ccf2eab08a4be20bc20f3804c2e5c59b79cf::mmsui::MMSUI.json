@@ -1,0 +1,13 @@
+{
+  "name": "Mystry meme Sui",
+  "symbol": "MMSui",
+  "decimals": 9,
+  "coin_type": "0xcd45f073faf71e20eb382198d093ccf2eab08a4be20bc20f3804c2e5c59b79cf::mmsui::MMSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2859048c-8f2a-4af0-87cf-1103d85d82c2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

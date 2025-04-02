@@ -1,0 +1,13 @@
+{
+  "name": "Grug",
+  "symbol": "GRUG",
+  "decimals": 9,
+  "coin_type": "0xf0f8e9acd661b00ce1651168e6e5b66fbf320b488f411ddeb4e21791c1cdaf42::grug::GRUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/eba7ef55-a9dd-48dc-95f1-a6ece45ba036.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

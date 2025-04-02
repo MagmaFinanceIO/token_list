@@ -1,0 +1,13 @@
+{
+  "name": "KASUIMI GIRL",
+  "symbol": "KASUIMI",
+  "decimals": 6,
+  "coin_type": "0x9cbf35c27d9355afe1fe29348387e53977d32927a7b67e26ca68f9a85cc7c3db::kasuimi::KASUIMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737393125347.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

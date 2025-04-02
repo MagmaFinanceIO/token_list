@@ -1,0 +1,13 @@
+{
+  "name": "Alive on SUI",
+  "symbol": "ALIVESUI",
+  "decimals": 9,
+  "coin_type": "0x7834f84d0cea226d937b0cb3884e6f0aa1c8e9c9e6a7ea9149df1e251d2bff93::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

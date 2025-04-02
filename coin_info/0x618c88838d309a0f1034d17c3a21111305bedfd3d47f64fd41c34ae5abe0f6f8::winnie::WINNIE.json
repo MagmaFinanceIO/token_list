@@ -1,0 +1,13 @@
+{
+  "name": "New Tiktok Doge",
+  "symbol": "Winnie",
+  "decimals": 9,
+  "coin_type": "0x618c88838d309a0f1034d17c3a21111305bedfd3d47f64fd41c34ae5abe0f6f8::winnie::WINNIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FJnp1PVACbtMWyWwZfsqzJgxZBZpvXuz288GjZ9ypump.png?size=lg&key=2e696e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

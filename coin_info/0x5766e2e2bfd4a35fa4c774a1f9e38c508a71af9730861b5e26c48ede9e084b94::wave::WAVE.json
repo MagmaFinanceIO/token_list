@@ -1,0 +1,13 @@
+{
+  "name": "Random Wave",
+  "symbol": "WAVE",
+  "decimals": 6,
+  "coin_type": "0x5766e2e2bfd4a35fa4c774a1f9e38c508a71af9730861b5e26c48ede9e084b94::wave::WAVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://files.catbox.moe/1ssrwp.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

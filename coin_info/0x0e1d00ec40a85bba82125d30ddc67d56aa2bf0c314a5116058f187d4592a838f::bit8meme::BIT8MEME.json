@@ -1,0 +1,13 @@
+{
+  "name": "Bit8Meme",
+  "symbol": "BIT8MEME",
+  "decimals": 6,
+  "coin_type": "0x0e1d00ec40a85bba82125d30ddc67d56aa2bf0c314a5116058f187d4592a838f::bit8meme::BIT8MEME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qmf_X8j_L4_L_We_DW_7j_SK_9q8xy4yg_Xa53uf_Cwq3_Nj_Fvk_Rc2dn_X_2b74478c20.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

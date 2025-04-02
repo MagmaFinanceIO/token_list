@@ -1,0 +1,13 @@
+{
+  "name": "Test by SuiAI",
+  "symbol": "TEST",
+  "decimals": 6,
+  "coin_type": "0xfa46a1f05cbac6a8dd8318ad7c243266111937288908c1b3321c0bc9a7178231::test::TEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/super_resolution_20250119224204729_83747466456631929246447_09152063868835068748879_4f07076f5a.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

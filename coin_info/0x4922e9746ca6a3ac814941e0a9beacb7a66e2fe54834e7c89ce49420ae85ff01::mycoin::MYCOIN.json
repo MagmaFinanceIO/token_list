@@ -1,0 +1,13 @@
+{
+  "name": "Melania on Sui",
+  "symbol": "SMELANIA",
+  "decimals": 9,
+  "coin_type": "0x4922e9746ca6a3ac814941e0a9beacb7a66e2fe54834e7c89ce49420ae85ff01::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

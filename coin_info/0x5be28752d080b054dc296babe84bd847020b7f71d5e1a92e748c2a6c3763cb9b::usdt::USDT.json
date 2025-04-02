@@ -1,0 +1,13 @@
+{
+  "name": "thterUSD",
+  "symbol": "USDT",
+  "decimals": 8,
+  "coin_type": "0x5be28752d080b054dc296babe84bd847020b7f71d5e1a92e748c2a6c3763cb9b::usdt::USDT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://gateway.irys.xyz/gAJhtV4GaDF8RKH0DiXTMVJ0UHzOJtSHKZUhhpRYIdc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

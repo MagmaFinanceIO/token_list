@@ -1,0 +1,13 @@
+{
+  "name": "DeSci PEPE",
+  "symbol": "DSPEPE",
+  "decimals": 9,
+  "coin_type": "0x0abd382ab88a4a32723adbda11c06000b5e0c8f184003e61a39f4fd86188d8bd::dspepe::DSPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7GyB4dtYc4zZhdyAWcNsceJYVAztjYTRhb2iKLbc9nUY.png?size=lg&key=cf77e2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

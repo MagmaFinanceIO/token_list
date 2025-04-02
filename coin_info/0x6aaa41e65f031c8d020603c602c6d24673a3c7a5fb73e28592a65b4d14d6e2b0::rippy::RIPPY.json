@@ -1,0 +1,13 @@
+{
+  "name": "Rippy Raccoon",
+  "symbol": "RIPPY",
+  "decimals": 9,
+  "coin_type": "0x6aaa41e65f031c8d020603c602c6d24673a3c7a5fb73e28592a65b4d14d6e2b0::rippy::RIPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8nbrvdhc5NGzXWVaEa6Gv1tN3q368oKv4pecaWcxpump.png?size=lg&key=f6f1bb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

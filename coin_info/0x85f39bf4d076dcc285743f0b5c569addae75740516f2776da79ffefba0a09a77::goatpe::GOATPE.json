@@ -1,0 +1,13 @@
+{
+  "name": "🐐 GOAT WIF PEPE",
+  "symbol": "GOATPE",
+  "decimals": 3,
+  "coin_type": "0x85f39bf4d076dcc285743f0b5c569addae75740516f2776da79ffefba0a09a77::goatpe::GOATPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6b71d301-9410-437f-a437-7458184414f6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

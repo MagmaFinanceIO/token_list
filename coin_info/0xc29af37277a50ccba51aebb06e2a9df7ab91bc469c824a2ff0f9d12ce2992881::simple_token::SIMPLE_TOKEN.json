@@ -1,0 +1,13 @@
+{
+  "name": "FINN",
+  "symbol": "FINN",
+  "decimals": 9,
+  "coin_type": "0xc29af37277a50ccba51aebb06e2a9df7ab91bc469c824a2ff0f9d12ce2992881::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

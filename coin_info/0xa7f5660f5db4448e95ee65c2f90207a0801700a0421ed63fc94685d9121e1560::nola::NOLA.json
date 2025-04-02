@@ -1,0 +1,13 @@
+{
+  "name": "NOLA",
+  "symbol": "NOLA",
+  "decimals": 9,
+  "coin_type": "0xa7f5660f5db4448e95ee65c2f90207a0801700a0421ed63fc94685d9121e1560::nola::NOLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/arbitrum/0xe934ab7e98d81e39477b1e47b961876c2d902598.png?size=lg&key=75ee4d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

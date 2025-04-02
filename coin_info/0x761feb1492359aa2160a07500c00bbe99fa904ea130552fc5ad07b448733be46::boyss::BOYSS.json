@@ -1,0 +1,13 @@
+{
+  "name": "Boysclub on Sui",
+  "symbol": "BOYSS",
+  "decimals": 9,
+  "coin_type": "0x761feb1492359aa2160a07500c00bbe99fa904ea130552fc5ad07b448733be46::boyss::BOYSS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ef0e2b6e-7e13-4b6a-8b1b-64a18646d64e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

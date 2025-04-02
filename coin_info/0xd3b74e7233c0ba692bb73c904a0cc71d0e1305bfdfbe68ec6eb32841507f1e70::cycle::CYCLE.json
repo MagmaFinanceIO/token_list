@@ -1,0 +1,13 @@
+{
+  "name": "Moon Cycle",
+  "symbol": "CYCLE",
+  "decimals": 6,
+  "coin_type": "0xd3b74e7233c0ba692bb73c904a0cc71d0e1305bfdfbe68ec6eb32841507f1e70::cycle::CYCLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_ead402ead5.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

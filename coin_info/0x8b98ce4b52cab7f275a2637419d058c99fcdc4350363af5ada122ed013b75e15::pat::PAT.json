@@ -1,0 +1,13 @@
+{
+  "name": "pat",
+  "symbol": "PAT",
+  "decimals": 6,
+  "coin_type": "0x8b98ce4b52cab7f275a2637419d058c99fcdc4350363af5ada122ed013b75e15::pat::PAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_14_03_12_15_db9d88f92e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

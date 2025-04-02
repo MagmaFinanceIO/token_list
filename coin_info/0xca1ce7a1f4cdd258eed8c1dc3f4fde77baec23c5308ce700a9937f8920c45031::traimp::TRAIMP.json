@@ -1,0 +1,13 @@
+{
+  "name": "TRUMP AI",
+  "symbol": "TRAIMP",
+  "decimals": 9,
+  "coin_type": "0xca1ce7a1f4cdd258eed8c1dc3f4fde77baec23c5308ce700a9937f8920c45031::traimp::TRAIMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/TrUPjEqGpUph6sMJX8C3yYja9u4RcVUGTCkGG4xLrjG.png?size=lg&key=c2ab30",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

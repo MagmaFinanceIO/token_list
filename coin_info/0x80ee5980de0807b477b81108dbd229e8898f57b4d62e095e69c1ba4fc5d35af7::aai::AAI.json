@@ -1,0 +1,13 @@
+{
+  "name": "Apex Node AI",
+  "symbol": "AAI",
+  "decimals": 6,
+  "coin_type": "0x80ee5980de0807b477b81108dbd229e8898f57b4d62e095e69c1ba4fc5d35af7::aai::AAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0c35c3c3-5f69-4250-b284-7e0dfebe0506.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

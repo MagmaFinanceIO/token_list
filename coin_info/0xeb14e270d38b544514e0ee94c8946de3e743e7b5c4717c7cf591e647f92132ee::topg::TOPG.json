@@ -1,0 +1,13 @@
+{
+  "name": "Tate Bros",
+  "symbol": "TOPG",
+  "decimals": 9,
+  "coin_type": "0xeb14e270d38b544514e0ee94c8946de3e743e7b5c4717c7cf591e647f92132ee::topg::TOPG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c2e4e54a-dbe0-4819-8723-1728fb45e137.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suili",
+  "symbol": "Suilli",
+  "decimals": 6,
+  "coin_type": "0x419e64d43404b604bf202197b474fcf4754b5f3c469408233d2dd93e77a42319::suilli::SUILLI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0541_8c57d866b8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

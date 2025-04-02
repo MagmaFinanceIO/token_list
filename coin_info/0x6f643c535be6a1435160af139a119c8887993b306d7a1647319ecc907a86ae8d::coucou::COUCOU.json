@@ -1,0 +1,13 @@
+{
+  "name": "Laxozer",
+  "symbol": "Coucou",
+  "decimals": 6,
+  "coin_type": "0x6f643c535be6a1435160af139a119c8887993b306d7a1647319ecc907a86ae8d::coucou::COUCOU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/438078007_10228027948458262_643429033324803823_n_41ba838639.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

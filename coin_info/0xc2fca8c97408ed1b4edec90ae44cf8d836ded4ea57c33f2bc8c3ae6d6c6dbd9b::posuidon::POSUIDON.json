@@ -1,0 +1,13 @@
+{
+  "name": "Posuidon",
+  "symbol": "POSUIDON",
+  "decimals": 9,
+  "coin_type": "0xc2fca8c97408ed1b4edec90ae44cf8d836ded4ea57c33f2bc8c3ae6d6c6dbd9b::posuidon::POSUIDON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/124d3ce8-dd4b-4b47-932b-75ead5b35ef3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

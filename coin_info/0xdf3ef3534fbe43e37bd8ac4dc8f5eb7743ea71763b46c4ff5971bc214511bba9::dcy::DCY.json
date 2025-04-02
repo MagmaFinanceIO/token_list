@@ -1,0 +1,13 @@
+{
+  "name": "Decay",
+  "symbol": "DCY",
+  "decimals": 9,
+  "coin_type": "0xdf3ef3534fbe43e37bd8ac4dc8f5eb7743ea71763b46c4ff5971bc214511bba9::dcy::DCY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0bc0b480-7f37-4464-b6c9-8b2382f8b86b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

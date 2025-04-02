@@ -1,0 +1,13 @@
+{
+  "name": "SupplyVestAI",
+  "symbol": "SupplyAI",
+  "decimals": 9,
+  "coin_type": "0xa94010ec0c2bb901cdb7e50f9633eac714f7d519362c13ca30893df06fda795f::supplyai::SUPPLYAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BAkwW3TuZJvaNoqmcm5tsWDFticnB57yJVT1di2apump.png?size=lg&key=1a4123",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

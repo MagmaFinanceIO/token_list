@@ -1,0 +1,13 @@
+{
+  "name": "Dolf",
+  "symbol": "DOLF",
+  "decimals": 9,
+  "coin_type": "0x3f4b733310803e80a4e77b82d3338616cfafc432887a8c46235509afacf6f363::dolf::DOLF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/248da95d-a1e3-4f56-83da-f9ccc0954f65.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

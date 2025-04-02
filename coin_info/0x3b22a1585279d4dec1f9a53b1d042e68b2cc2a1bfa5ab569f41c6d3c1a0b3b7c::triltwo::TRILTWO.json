@@ -1,0 +1,13 @@
+{
+  "name": "tril2",
+  "symbol": "TRILTWO",
+  "decimals": 9,
+  "coin_type": "0x3b22a1585279d4dec1f9a53b1d042e68b2cc2a1bfa5ab569f41c6d3c1a0b3b7c::triltwo::TRILTWO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d6d24884-33aa-4d54-81e0-c3d411020aa0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

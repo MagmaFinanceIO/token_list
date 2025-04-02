@@ -1,0 +1,13 @@
+{
+  "name": "Vote for Donald J. Trump",
+  "symbol": "VOTE",
+  "decimals": 9,
+  "coin_type": "0xb870b325faed9a32d7ebae5fc21213c5fa73d5c53b1d3b4cc1f767df8cc9c813::vote::VOTE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Fi97gn5ranUyRooNbLPwVMCyZrGYLNQF1o5N9oimpump.png?size=lg&key=275da8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

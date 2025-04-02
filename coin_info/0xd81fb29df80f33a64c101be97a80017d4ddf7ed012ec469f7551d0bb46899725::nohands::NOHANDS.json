@@ -1,0 +1,13 @@
+{
+  "name": "No Hands",
+  "symbol": "NoHands",
+  "decimals": 9,
+  "coin_type": "0xd81fb29df80f33a64c101be97a80017d4ddf7ed012ec469f7551d0bb46899725::nohands::NOHANDS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qmc3xyq1NmTQhofbMYqsZAmHRs4Z2JoZjFf38ysUKv4UcR",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

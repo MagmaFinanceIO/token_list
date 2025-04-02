@@ -1,0 +1,13 @@
+{
+  "name": "Guako",
+  "symbol": "GUAKO",
+  "decimals": 9,
+  "coin_type": "0xbcc0d588ac71c2a6e013401a8a1e1bc08b99e99950e830ce2e32baa5e32947ea::guako::GUAKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f2d5dc05-ba47-41b4-8560-6ffe0648aa12.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

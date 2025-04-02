@@ -1,0 +1,13 @@
+{
+  "name": "Trumpus Maximus",
+  "symbol": "TRUMPUS",
+  "decimals": 9,
+  "coin_type": "0x0736d64ce3af1aaabe054f17b13e3f50ccaab18862232eedec8d0d32498c055b::trumpus::TRUMPUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/WAJmwPfRFnuonu2SHy5YpZTAfwENGVAnECahSZPpump.png?size=lg&key=1dc622",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

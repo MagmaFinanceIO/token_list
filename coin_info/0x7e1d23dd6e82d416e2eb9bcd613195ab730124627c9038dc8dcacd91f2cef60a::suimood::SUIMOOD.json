@@ -1,0 +1,13 @@
+{
+  "name": "MOOD CAT",
+  "symbol": "SUIMOOD",
+  "decimals": 9,
+  "coin_type": "0x7e1d23dd6e82d416e2eb9bcd613195ab730124627c9038dc8dcacd91f2cef60a::suimood::SUIMOOD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FReRG2Q9uKNrcZVDxwyFZkAXMveFBXz1JMEkbbMGQCDW.png?size=lg&key=43f053",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

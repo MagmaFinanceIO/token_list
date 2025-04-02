@@ -1,0 +1,13 @@
+{
+  "name": "Yelon SpaceX",
+  "symbol": "YELON",
+  "decimals": 9,
+  "coin_type": "0x0a2fbc828ef20de588317d9de20b2988d086f9eaee15c69ab01e9d93c691bcc5::yelon::YELON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qmdpa5EQVCtexby4aH94AviyGcvxk6FmSZpAkZPcMqBaHR",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

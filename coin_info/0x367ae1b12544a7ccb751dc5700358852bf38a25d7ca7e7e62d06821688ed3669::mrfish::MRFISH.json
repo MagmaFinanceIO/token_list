@@ -1,0 +1,13 @@
+{
+  "name": "Mr. Fish",
+  "symbol": "MRFISH",
+  "decimals": 6,
+  "coin_type": "0x367ae1b12544a7ccb751dc5700358852bf38a25d7ca7e7e62d06821688ed3669::mrfish::MRFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_11_21_41_50_c34f30681d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

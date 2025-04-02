@@ -1,0 +1,13 @@
+{
+  "name": "BASO SUI",
+  "symbol": "BASO",
+  "decimals": 6,
+  "coin_type": "0x58a2bd34645046e85076026de76d35aaf61a5f4fae1539bf70c7d080ef7d1d76::baso::BASO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7895_825ec05e9d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

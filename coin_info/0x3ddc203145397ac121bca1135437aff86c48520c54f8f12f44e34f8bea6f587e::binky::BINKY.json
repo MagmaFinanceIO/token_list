@@ -1,0 +1,13 @@
+{
+  "name": "Binky Fish",
+  "symbol": "Binky",
+  "decimals": 6,
+  "coin_type": "0x3ddc203145397ac121bca1135437aff86c48520c54f8f12f44e34f8bea6f587e::binky::BINKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/imagen_2024_09_12_202007986_4ded90f779.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

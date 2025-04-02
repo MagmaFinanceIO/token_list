@@ -1,0 +1,13 @@
+{
+  "name": "aaacat",
+  "symbol": "AAA",
+  "decimals": 9,
+  "coin_type": "0xa0254ffb01f4f671a1ae085dd785edd442eb81295d73aba9a6ad64b100257f6a::aaacat::AAACAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://belaunchio.infura-ipfs.io/ipfs/QmbD9daEheM5E1EU3tuj3DgEsEfZuz5bmJKkPAyt12CoR5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

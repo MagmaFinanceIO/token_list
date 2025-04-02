@@ -1,0 +1,13 @@
+{
+  "name": "Turtel",
+  "symbol": "TURTEL",
+  "decimals": 6,
+  "coin_type": "0x66fa07923c2dfe8b0c984397e4862b3979c5fa2de949e3028bcd866a3747427b::turtel::TURTEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_13_13_39_12_9697d73fed.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

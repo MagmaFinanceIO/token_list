@@ -1,0 +1,13 @@
+{
+  "name": "SUIDNAI by SuiAI",
+  "symbol": "DNAI",
+  "decimals": 6,
+  "coin_type": "0x5b479300e7f4bb4614a633ef4cf399f18b9d0f3ad806cd199ec3e99f00e76a64::dnai::DNAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/0_846906baae.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

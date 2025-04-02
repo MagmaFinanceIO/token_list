@@ -1,0 +1,13 @@
+{
+  "name": "DOGX",
+  "symbol": "DOGX",
+  "decimals": 9,
+  "coin_type": "0x41661640dc73b91d9cd59a43646a6a3f410580ad3b104d26fa161bd28fd8f38d::dogx::DOGX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "bYBV0PdEf_To_qnX",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

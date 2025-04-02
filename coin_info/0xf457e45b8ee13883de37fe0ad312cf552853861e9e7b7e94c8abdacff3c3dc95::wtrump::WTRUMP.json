@@ -1,0 +1,13 @@
+{
+  "name": "Wrapped Trump",
+  "symbol": "WTRUMP",
+  "decimals": 9,
+  "coin_type": "0xf457e45b8ee13883de37fe0ad312cf552853861e9e7b7e94c8abdacff3c3dc95::wtrump::WTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/75u4n1shTL3SJd4PRub9JWYywoxDjxaQ3rvLfPjBwKZC.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

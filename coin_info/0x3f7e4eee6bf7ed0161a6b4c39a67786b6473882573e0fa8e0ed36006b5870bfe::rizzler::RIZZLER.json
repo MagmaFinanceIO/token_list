@@ -1,0 +1,13 @@
+{
+  "name": "Rizzler",
+  "symbol": "RIZZLER",
+  "decimals": 9,
+  "coin_type": "0x3f7e4eee6bf7ed0161a6b4c39a67786b6473882573e0fa8e0ed36006b5870bfe::rizzler::RIZZLER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BMniPiFA2TGq9Kqstq48JzEpdQQg1KrQcsGNbkKapump.png?size=lg&key=b4a47d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

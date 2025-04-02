@@ -1,0 +1,13 @@
+{
+  "name": "Polacoinbear",
+  "symbol": "POLA",
+  "decimals": 6,
+  "coin_type": "0xe1248eb592100a2f1c575f9bc84742f0a0a7f9fd5afdadd0236171b0e06eca42::pola::POLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731009881860.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HOPTRUMP",
+  "symbol": "HOPTR",
+  "decimals": 6,
+  "coin_type": "0xccf0256bd92e90df640fd754e5f4f07aab11c91477d460207932d6ec98ece252::hoptr::HOPTR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmcN9sisk3LacH4UnEE9RWcJFfoVMbjSqtnR5GUpYUWESZ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

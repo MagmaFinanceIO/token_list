@@ -1,0 +1,13 @@
+{
+  "name": "Nemo Sui Meme",
+  "symbol": "NEMO",
+  "decimals": 9,
+  "coin_type": "0x68e53612f8a949b8846d77a3bf36a23b242726128c205ed25a10b30df6f18fcb::nemo::NEMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/eca0c6ba-ab0f-4c41-b726-714bbbac2433.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

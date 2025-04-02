@@ -1,0 +1,13 @@
+{
+  "name": "SUIPAY",
+  "symbol": "SUIPAY",
+  "decimals": 9,
+  "coin_type": "0xa101f623b113ef0d043465449b9c9fb76985abd74b7e0d04ed98322877b3d075::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

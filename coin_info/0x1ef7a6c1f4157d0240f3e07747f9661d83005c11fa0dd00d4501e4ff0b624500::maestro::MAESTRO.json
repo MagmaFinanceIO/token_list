@@ -1,0 +1,13 @@
+{
+  "name": "MaestroAI",
+  "symbol": "MAESTRO",
+  "decimals": 9,
+  "coin_type": "0x1ef7a6c1f4157d0240f3e07747f9661d83005c11fa0dd00d4501e4ff0b624500::maestro::MAESTRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/MajEhfGYTGvYB3ofhm62bLnoVXEXrNpMpnLkJJnpump.png?size=lg&key=788b99",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

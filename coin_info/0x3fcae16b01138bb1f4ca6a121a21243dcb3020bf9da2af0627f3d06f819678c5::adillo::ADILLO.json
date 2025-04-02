@@ -1,0 +1,13 @@
+{
+  "name": "Adillo",
+  "symbol": "Adillo",
+  "decimals": 9,
+  "coin_type": "0x3fcae16b01138bb1f4ca6a121a21243dcb3020bf9da2af0627f3d06f819678c5::adillo::ADILLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4rVf66MSzyjpLLVnGEuFMuVikEfa4XLbrQq2Zuexpump.png?size=lg&key=afc630",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

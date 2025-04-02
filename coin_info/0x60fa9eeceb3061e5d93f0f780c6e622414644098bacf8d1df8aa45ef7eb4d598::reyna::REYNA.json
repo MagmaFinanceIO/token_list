@@ -1,0 +1,13 @@
+{
+  "name": "REYNA AI",
+  "symbol": "REYNA",
+  "decimals": 9,
+  "coin_type": "0x60fa9eeceb3061e5d93f0f780c6e622414644098bacf8d1df8aa45ef7eb4d598::reyna::REYNA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7na9JB1kjRbtiJFN1Nwhp24uyaz4A5BGReRevmJjpump.png?size=lg&key=734bf2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

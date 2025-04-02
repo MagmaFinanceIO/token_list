@@ -1,0 +1,13 @@
+{
+  "name": "omnisui",
+  "symbol": "omnisui",
+  "decimals": 9,
+  "coin_type": "0xce47556a8e235b06fd319818e3cd5449281499c12d9785068cea63a250788543::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

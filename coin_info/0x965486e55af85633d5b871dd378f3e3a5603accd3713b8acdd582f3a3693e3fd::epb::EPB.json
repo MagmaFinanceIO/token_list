@@ -1,0 +1,13 @@
+{
+  "name": "BOUNCY BALL of OFiD Fun",
+  "symbol": "ePB",
+  "decimals": 9,
+  "coin_type": "0x965486e55af85633d5b871dd378f3e3a5603accd3713b8acdd582f3a3693e3fd::epb::EPB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GsKuLQsKCEnfQxuk4icTEQjc11Av8WiqW31CxZqZpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pippin",
+  "symbol": "pippin",
+  "decimals": 6,
+  "coin_type": "0x303b3196dba9a8ff78a194eda7cac1b8d8ce6fa83858b6ff91255b005b65fc38::pippin::PIPPIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTsYhZfbpzEgYV17F1EcwslVVxJfWSdFkDkQ&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

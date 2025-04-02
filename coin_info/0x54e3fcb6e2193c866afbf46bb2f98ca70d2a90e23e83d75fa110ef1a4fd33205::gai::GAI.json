@@ -1,0 +1,13 @@
+{
+  "name": "GordonAi by SuiAI",
+  "symbol": "GAI",
+  "decimals": 6,
+  "coin_type": "0x54e3fcb6e2193c866afbf46bb2f98ca70d2a90e23e83d75fa110ef1a4fd33205::gai::GAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_0080_82c1965791.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

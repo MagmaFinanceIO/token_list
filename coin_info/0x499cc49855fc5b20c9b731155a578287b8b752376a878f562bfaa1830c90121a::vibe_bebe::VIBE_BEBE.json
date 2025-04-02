@@ -1,0 +1,13 @@
+{
+  "name": "Vibe Cat",
+  "symbol": "VIBE BEBE",
+  "decimals": 9,
+  "coin_type": "0x499cc49855fc5b20c9b731155a578287b8b752376a878f562bfaa1830c90121a::vibe_bebe::VIBE_BEBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b887ee40-95d4-4c2a-87fb-0c2eed1a86f5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

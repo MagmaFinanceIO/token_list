@@ -1,0 +1,13 @@
+{
+  "name": "Blue Grinch",
+  "symbol": "BGrinch",
+  "decimals": 6,
+  "coin_type": "0xe9a46b738af6db9e388d67e25570afd0029e54c65f43b8ee75da7e32ee40f20d::bgrinch::BGRINCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_11_25_065505_bfb75784e8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

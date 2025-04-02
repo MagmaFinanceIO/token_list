@@ -1,0 +1,13 @@
+{
+  "name": "Just a Chill GOVERNMENT",
+  "symbol": "CHILLGOV",
+  "decimals": 9,
+  "coin_type": "0x925105e469837660ad37dfa022557dc74d8bad6b03ff0ae1e38f1fd4527c8572::chillgov::CHILLGOV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Dcj15AURcbs4jWg8wvRfbeEXG5astUaVJXLx7uZ2LXDV.png?size=lg&key=97b289",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pou",
+  "symbol": "POU",
+  "decimals": 9,
+  "coin_type": "0x27bddc8be1fc15a01d07a0a72dc68bd86272b71c4361c8d3a57ef9f2ef87aca6::pou::POU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EZpTkDM7AH5hFsxXhaT4cMHm7wuFouEK9LdMHfvKpump.png?size=lg&key=7e5fb2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

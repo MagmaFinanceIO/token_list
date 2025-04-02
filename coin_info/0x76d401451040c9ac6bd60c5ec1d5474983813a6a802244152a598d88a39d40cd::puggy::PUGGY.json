@@ -1,0 +1,13 @@
+{
+  "name": "Puggy Sui",
+  "symbol": "PUGGY",
+  "decimals": 9,
+  "coin_type": "0x76d401451040c9ac6bd60c5ec1d5474983813a6a802244152a598d88a39d40cd::puggy::PUGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FIMG_20241018_135856_658_39f80fb2ba.jpg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

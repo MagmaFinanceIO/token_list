@@ -1,0 +1,13 @@
+{
+  "name": "Cobra Strike AI",
+  "symbol": "STRIKE",
+  "decimals": 9,
+  "coin_type": "0x264d43da609a8ec3407e708d22f86902737fefd126bdfa73d6a3a001888cb4e6::strike::STRIKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GCwiEq66gWrMp54qmDTLMqYuFjZsZLMZAttXceKQpump.png?size=lg&key=4ec3c7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

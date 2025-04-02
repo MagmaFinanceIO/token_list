@@ -1,0 +1,13 @@
+{
+  "name": "Chop Sui",
+  "symbol": "CHOP",
+  "decimals": 6,
+  "coin_type": "0xb97cef2708ca6d923f5db39c438f1df49c1c055469c4b6558b26b0a71ad5725f::chop::CHOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qme4mtJfcXaxR8Cw7iYxSMW5UMd5pYykbbTyzZgEjCT6Wh",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

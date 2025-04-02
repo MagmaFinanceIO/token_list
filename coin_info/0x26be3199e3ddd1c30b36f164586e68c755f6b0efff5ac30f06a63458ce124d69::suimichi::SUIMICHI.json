@@ -1,0 +1,13 @@
+{
+  "name": "Sui michi",
+  "symbol": "SUIMICHI",
+  "decimals": 9,
+  "coin_type": "0x26be3199e3ddd1c30b36f164586e68c755f6b0efff5ac30f06a63458ce124d69::suimichi::SUIMICHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0a888d86-f70c-4576-8819-5039f3a9de28.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

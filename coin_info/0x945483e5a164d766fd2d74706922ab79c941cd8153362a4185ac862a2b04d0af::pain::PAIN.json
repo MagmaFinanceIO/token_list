@@ -1,0 +1,13 @@
+{
+  "name": "PAIN",
+  "symbol": "PAIN",
+  "decimals": 9,
+  "coin_type": "0x945483e5a164d766fd2d74706922ab79c941cd8153362a4185ac862a2b04d0af::pain::PAIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AfiEC3RyKpyhe1kC8U9NfkJs6rGXDgW7EeVhWYVH5Ykh.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

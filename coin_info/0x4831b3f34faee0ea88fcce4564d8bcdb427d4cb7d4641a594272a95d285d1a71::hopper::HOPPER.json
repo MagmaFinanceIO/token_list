@@ -1,0 +1,13 @@
+{
+  "name": "HOPPER THE FUN",
+  "symbol": "HOPPER",
+  "decimals": 6,
+  "coin_type": "0x4831b3f34faee0ea88fcce4564d8bcdb427d4cb7d4641a594272a95d285d1a71::hopper::HOPPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmRbRssWarD6BpGu7HgMvvKrR8zwwuFMFgFp1ZS4sQx2VM",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

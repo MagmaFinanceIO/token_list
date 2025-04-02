@@ -1,0 +1,13 @@
+{
+  "name": "Seanut The Suirrel",
+  "symbol": "SEANUT",
+  "decimals": 6,
+  "coin_type": "0xa17ff626e4d5fc136fad6b3511c9a27254e68b5040223136a06a22f537902e3d::seanut::SEANUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmPncTECroMSa7Jxth4R69QNWwssKFFLrQ5Nvh3rFqBiJP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

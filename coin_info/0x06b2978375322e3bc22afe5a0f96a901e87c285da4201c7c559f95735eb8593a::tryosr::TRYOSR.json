@@ -1,0 +1,13 @@
+{
+  "name": "TRYOSRR",
+  "symbol": "TRYOSR",
+  "decimals": 9,
+  "coin_type": "0x06b2978375322e3bc22afe5a0f96a901e87c285da4201c7c559f95735eb8593a::tryosr::TRYOSR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

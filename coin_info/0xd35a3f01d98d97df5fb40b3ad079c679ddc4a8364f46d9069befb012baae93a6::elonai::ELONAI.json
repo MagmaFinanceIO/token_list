@@ -1,0 +1,13 @@
+{
+  "name": "Official Elon AI",
+  "symbol": "ELONAI",
+  "decimals": 9,
+  "coin_type": "0xd35a3f01d98d97df5fb40b3ad079c679ddc4a8364f46d9069befb012baae93a6::elonai::ELONAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9M7mYSq1CGNcRAiYy8pJG895djjux7g4UVM8ZDo5pump.png?size=lg&key=d1c663",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

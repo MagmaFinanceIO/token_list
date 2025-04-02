@@ -1,0 +1,13 @@
+{
+  "name": "TEST02",
+  "symbol": "TEST02",
+  "decimals": 6,
+  "coin_type": "0xf4b4e500af72e65b1d386eb92c81b67b432c5d5a11152f82f6b24ffff9171952::test::TEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co.com/fNmpBNH/photo-2024-11-06-19-37-22.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

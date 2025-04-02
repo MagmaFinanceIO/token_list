@@ -1,0 +1,13 @@
+{
+  "name": "Agent 47 by SuiAI",
+  "symbol": "FSVN",
+  "decimals": 6,
+  "coin_type": "0x11b6274674d99a567c61267f6855e76a4650313f508ff5709020449598492271::fsvn::FSVN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000000703_dbfad888f5.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

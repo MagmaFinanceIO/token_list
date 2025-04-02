@@ -1,0 +1,13 @@
+{
+  "name": "KingCobra",
+  "symbol": "KingCobra",
+  "decimals": 9,
+  "coin_type": "0xd1fc206d1fdd71c6da714ec8be4fd10a0896b95be2f2af36a9d4e2dcb8492a29::kingcobra::KINGCOBRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b5e76f4f-60ec-42dc-848f-6bcdba9723cf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CATBOSUI",
+  "symbol": "CATBOSU",
+  "decimals": 6,
+  "coin_type": "0x9a2b0491f0fac576b8cb7871f016bf36ced270ae71220571ae18d0d4db6ad87c::catbosu::CATBOSU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_13_06_37_03_36beb5f29a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

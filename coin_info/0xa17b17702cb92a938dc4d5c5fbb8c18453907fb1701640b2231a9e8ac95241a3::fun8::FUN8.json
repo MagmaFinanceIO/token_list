@@ -1,0 +1,13 @@
+{
+  "name": "8K Fun",
+  "symbol": "FUN8",
+  "decimals": 9,
+  "coin_type": "0xa17b17702cb92a938dc4d5c5fbb8c18453907fb1701640b2231a9e8ac95241a3::fun8::FUN8",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be-alpha.7k.fun/api/file-upload/b728aab2cc2cf699ac3571c37290ff7cblob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

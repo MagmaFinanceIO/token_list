@@ -1,0 +1,13 @@
+{
+  "name": "ClownFish",
+  "symbol": "CLOWNFISH",
+  "decimals": 6,
+  "coin_type": "0xee1291de2cdcf19be0d849bc183a416cd588fbaacff54ef857ef26ee4b9fe05a::clownfish::CLOWNFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/capa_peixe_0782783df0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

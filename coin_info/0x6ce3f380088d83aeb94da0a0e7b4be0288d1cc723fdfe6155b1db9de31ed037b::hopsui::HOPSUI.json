@@ -1,0 +1,13 @@
+{
+  "name": "Hop Sui",
+  "symbol": "HopSui",
+  "decimals": 6,
+  "coin_type": "0x6ce3f380088d83aeb94da0a0e7b4be0288d1cc723fdfe6155b1db9de31ed037b::hopsui::HOPSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Sin_t_A_tul2asdasdasd13123213o_1_85cbfff9ce.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

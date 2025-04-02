@@ -1,0 +1,13 @@
+{
+  "name": "MygirlfriendSu",
+  "symbol": "SUIMGE",
+  "decimals": 6,
+  "coin_type": "0x70cd22e8039c367d4c379401506161fc76aa10dd77014b9dc87b9742e79a049f::suimge::SUIMGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000015353_72b5703f2d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

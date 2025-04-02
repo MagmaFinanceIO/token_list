@@ -1,0 +1,13 @@
+{
+  "name": "Doge Mascot Shibu",
+  "symbol": "SHIBU",
+  "decimals": 9,
+  "coin_type": "0x74c49d6980b2b72894d89f35c21e5aacd8cbb9a4fd0679e9ef01eee7f1e1a4f9::shibu::SHIBU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1e72d372-6985-4966-b528-602fc7ae4d45.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

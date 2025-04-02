@@ -1,0 +1,13 @@
+{
+  "name": "MikuraAI",
+  "symbol": "MIKURA",
+  "decimals": 9,
+  "coin_type": "0xded89c630cd7f7807bb84d2ebc96bfe2f1de931bd71c912118145a98633490d7::mikura::MIKURA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6c419368-e326-44d6-84da-caa436b6e70e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

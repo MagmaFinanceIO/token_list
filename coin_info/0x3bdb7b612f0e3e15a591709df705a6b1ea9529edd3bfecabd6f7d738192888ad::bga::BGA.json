@@ -1,0 +1,13 @@
+{
+  "name": "Bugna",
+  "symbol": "BGA",
+  "decimals": 9,
+  "coin_type": "0x3bdb7b612f0e3e15a591709df705a6b1ea9529edd3bfecabd6f7d738192888ad::bga::BGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/23f17c91-e18b-442d-888e-20520f7d2d82.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

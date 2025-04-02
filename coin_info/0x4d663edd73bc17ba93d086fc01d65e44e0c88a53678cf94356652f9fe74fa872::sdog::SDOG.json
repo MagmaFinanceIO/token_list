@@ -1,0 +1,13 @@
+{
+  "name": "Dog On SUI",
+  "symbol": "SDog",
+  "decimals": 9,
+  "coin_type": "0x4d663edd73bc17ba93d086fc01d65e44e0c88a53678cf94356652f9fe74fa872::sdog::SDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DLScRnWofxiYGqnvZWGy9Gt98MPqKdznaK4TRukxpump.png?size=lg&key=7b0ed6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

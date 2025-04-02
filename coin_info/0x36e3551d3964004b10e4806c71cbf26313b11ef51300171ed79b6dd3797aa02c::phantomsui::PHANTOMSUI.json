@@ -1,0 +1,13 @@
+{
+  "name": "The First Meme Created and Signed on Phantom Wallet",
+  "symbol": "PHANTOMSUI",
+  "decimals": 9,
+  "coin_type": "0x36e3551d3964004b10e4806c71cbf26313b11ef51300171ed79b6dd3797aa02c::phantomsui::PHANTOMSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/4a18cdf1f3d78f5b08caa7f2d90a7906blob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

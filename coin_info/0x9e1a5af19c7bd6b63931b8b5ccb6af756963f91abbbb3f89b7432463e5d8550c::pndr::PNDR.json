@@ -1,0 +1,13 @@
+{
+  "name": "PenderCoin",
+  "symbol": "PNDR",
+  "decimals": 9,
+  "coin_type": "0x9e1a5af19c7bd6b63931b8b5ccb6af756963f91abbbb3f89b7432463e5d8550c::pndr::PNDR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cd1b5a24-cdb7-4bd2-b4c4-14fea77104bb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

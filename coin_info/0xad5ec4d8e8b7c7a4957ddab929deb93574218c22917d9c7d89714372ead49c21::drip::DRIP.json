@@ -1,0 +1,13 @@
+{
+  "name": "Drip",
+  "symbol": "DRIP",
+  "decimals": 9,
+  "coin_type": "0xad5ec4d8e8b7c7a4957ddab929deb93574218c22917d9c7d89714372ead49c21::drip::DRIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/115ffaeb-edbb-42d8-9fc9-2385a4b0274f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

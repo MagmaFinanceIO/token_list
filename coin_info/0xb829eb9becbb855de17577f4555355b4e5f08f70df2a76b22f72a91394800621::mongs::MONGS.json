@@ -1,0 +1,13 @@
+{
+  "name": "MONGSUI3.0",
+  "symbol": "MS3.0",
+  "decimals": 6,
+  "coin_type": "0xb829eb9becbb855de17577f4555355b4e5f08f70df2a76b22f72a91394800621::mongs::MONGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/h0omlTj.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

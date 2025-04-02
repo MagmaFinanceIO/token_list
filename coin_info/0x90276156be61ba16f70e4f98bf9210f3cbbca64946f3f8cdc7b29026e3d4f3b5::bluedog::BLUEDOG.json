@@ -1,0 +1,13 @@
+{
+  "name": "BlueDog",
+  "symbol": "Sui Blue Dog",
+  "decimals": 6,
+  "coin_type": "0x90276156be61ba16f70e4f98bf9210f3cbbca64946f3f8cdc7b29026e3d4f3b5::bluedog::BLUEDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/78050848-2a62-4c10-8fc4-764930c4a861.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BotCoin",
+  "symbol": "BOTC",
+  "decimals": 9,
+  "coin_type": "0xae06c1f42f478129a83392b8b21685680da95926e2249aa473e30caf053aaad3::botc::BOTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2cb2c9c0-ff73-44c6-96c3-6e3ae7262b1b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "OX",
+  "symbol": "OX",
+  "decimals": 6,
+  "coin_type": "0x89fb416df5dfcd70ee8eb770605d3a928a0f19ad165bb91e6d9a2cfadcd91f12::ox::OX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/ox.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

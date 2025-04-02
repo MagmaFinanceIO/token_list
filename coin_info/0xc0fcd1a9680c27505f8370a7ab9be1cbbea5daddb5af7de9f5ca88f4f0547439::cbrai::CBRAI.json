@@ -1,0 +1,13 @@
+{
+  "name": "Cebrix AI",
+  "symbol": "CBRAI",
+  "decimals": 9,
+  "coin_type": "0xc0fcd1a9680c27505f8370a7ab9be1cbbea5daddb5af7de9f5ca88f4f0547439::cbrai::CBRAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/WAftCZrK1GDFwZ3EM4NGAvoAsJkvpgm1EXVWPHQpump.png?size=lg&key=2f57d1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

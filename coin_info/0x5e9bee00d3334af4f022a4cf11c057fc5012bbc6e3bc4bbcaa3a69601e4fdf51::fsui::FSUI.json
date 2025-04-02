@@ -1,0 +1,13 @@
+{
+  "name": "Flame Sui",
+  "symbol": "FSUI",
+  "decimals": 6,
+  "coin_type": "0x5e9bee00d3334af4f022a4cf11c057fc5012bbc6e3bc4bbcaa3a69601e4fdf51::fsui::FSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/5_aea1d344df.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

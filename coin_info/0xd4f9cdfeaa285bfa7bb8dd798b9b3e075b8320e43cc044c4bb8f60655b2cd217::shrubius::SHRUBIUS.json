@@ -1,0 +1,13 @@
+{
+  "name": "Shrubius Maximus",
+  "symbol": "SHRUBIUS",
+  "decimals": 9,
+  "coin_type": "0xd4f9cdfeaa285bfa7bb8dd798b9b3e075b8320e43cc044c4bb8f60655b2cd217::shrubius::SHRUBIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x47000bd34d9a7b7cdbeef4ec2ae452e73280a8b5.png?size=lg&key=99c474",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

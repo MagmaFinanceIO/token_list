@@ -1,0 +1,13 @@
+{
+  "name": "FIRE",
+  "symbol": "FIRE",
+  "decimals": 6,
+  "coin_type": "0xc91e5ef2ef6788ffebd41f372f65c344c53167d3e0bff11a404c63f0a2792c39::fire::FIRE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/fire.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

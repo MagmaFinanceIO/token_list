@@ -1,0 +1,13 @@
+{
+  "name": "Amina's Unicorn",
+  "symbol": "Amina",
+  "decimals": 6,
+  "coin_type": "0x29c516130dfecc53a13ac288021cd5ebc27e19756f22f2111ba5e2cd51d35e35::amina::AMINA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000019045_2ab5513ab2.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

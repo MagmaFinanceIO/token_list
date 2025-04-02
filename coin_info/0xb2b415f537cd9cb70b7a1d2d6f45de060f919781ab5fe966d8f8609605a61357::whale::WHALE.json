@@ -1,0 +1,13 @@
+{
+  "name": "Sui Whale",
+  "symbol": "WHALE",
+  "decimals": 6,
+  "coin_type": "0xb2b415f537cd9cb70b7a1d2d6f45de060f919781ab5fe966d8f8609605a61357::whale::WHALE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/GM_2_c15c0a6740.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

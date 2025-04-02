@@ -1,0 +1,13 @@
+{
+  "name": "Duck White",
+  "symbol": "Duckwhitesui",
+  "decimals": 9,
+  "coin_type": "0x935234f8f268317c3f1c13a7c4306e564f6211aa5142317b41354d5f578745f8::duckwhitesui::DUCKWHITESUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8f0e6709-f8e8-447c-8003-a4a45339092f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

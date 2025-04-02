@@ -1,0 +1,13 @@
+{
+  "name": "RUSSEL on Sui",
+  "symbol": "RUSSEL",
+  "decimals": 6,
+  "coin_type": "0x9a4e07bd132356fa0ed6d399dedd674e751cef9f581e87c46c6edbd3c37286b7::russel::RUSSEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b6a70601-2ef6-4e4e-afca-14752fec54ce.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

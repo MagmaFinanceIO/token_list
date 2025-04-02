@@ -1,0 +1,13 @@
+{
+  "name": "MURAD",
+  "symbol": "MURADSUI",
+  "decimals": 6,
+  "coin_type": "0x7c9948918e748e030f4b0d25034c482bb189ab5577f2dc0a46b004ba6eb942f4::muradsui::MURADSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_10_08_at_15_41_54_a9e51fb70f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

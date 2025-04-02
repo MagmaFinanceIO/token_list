@@ -1,0 +1,13 @@
+{
+  "name": "PEPIUS MAXIMUS",
+  "symbol": "PEPIUS",
+  "decimals": 9,
+  "coin_type": "0xda8ce0bb35bdbe14feb919d4572c0bd16ee6568a18b4237d6ad9204d86812f54::pepius::PEPIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DikthgsBpNgZ1VYh9d4cHPDC3qoVEuhf1Hw7Hug6pump.png?size=lg&key=7cba8f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

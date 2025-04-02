@@ -1,0 +1,13 @@
+{
+  "name": "🦛",
+  "symbol": "HOPPO",
+  "decimals": 9,
+  "coin_type": "0xa0f5c4987a7c648071a3b9f107c186cdeef30270a694c7e74c715f3e1cf3c15d::hoppo::HOPPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/40076d70-9d68-4d52-81b1-81605ec269c1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

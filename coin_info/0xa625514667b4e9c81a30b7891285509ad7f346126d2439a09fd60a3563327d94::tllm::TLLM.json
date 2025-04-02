@@ -1,0 +1,13 @@
+{
+  "name": "TRUMP LLM",
+  "symbol": "TLLM",
+  "decimals": 9,
+  "coin_type": "0xa625514667b4e9c81a30b7891285509ad7f346126d2439a09fd60a3563327d94::tllm::TLLM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ZEkZrD9QtD1aLhBiJqhETMXsc5up9W7uMkiL7Wtrump.png?size=lg&key=15b548",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

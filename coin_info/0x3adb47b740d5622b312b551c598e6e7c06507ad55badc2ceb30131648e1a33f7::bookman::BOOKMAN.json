@@ -1,0 +1,13 @@
+{
+  "name": "Bookman AI Agent",
+  "symbol": "BOOKMAN",
+  "decimals": 9,
+  "coin_type": "0x3adb47b740d5622b312b551c598e6e7c06507ad55badc2ceb30131648e1a33f7::bookman::BOOKMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4fd58f24-e6ce-4150-b216-a7a545512798.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

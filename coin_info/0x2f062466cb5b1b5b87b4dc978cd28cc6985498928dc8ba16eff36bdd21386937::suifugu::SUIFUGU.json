@@ -1,0 +1,13 @@
+{
+  "name": "Sui Fugu",
+  "symbol": "SUIFUGU",
+  "decimals": 9,
+  "coin_type": "0x2f062466cb5b1b5b87b4dc978cd28cc6985498928dc8ba16eff36bdd21386937::suifugu::SUIFUGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/bafybeigla3tkq55v6zonl4w7re44llxait4jt5vr5x4sg7m4mt46kpwwqu",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

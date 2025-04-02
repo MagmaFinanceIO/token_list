@@ -1,0 +1,13 @@
+{
+  "name": "Sui Emoji",
+  "symbol": "Emoji",
+  "decimals": 6,
+  "coin_type": "0xb6bba07ca20147c6be10c22e7b4b254d871b88f08599df37dfe26c0f62245960::emoji::EMOJI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000348334_6e63a74967_1ab52f2eb9.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

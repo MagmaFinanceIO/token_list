@@ -1,0 +1,13 @@
+{
+  "name": "Baby Uni",
+  "symbol": "BUNI",
+  "decimals": 6,
+  "coin_type": "0x7b80888a9ca4b626ac1dbc1db26292820b575760680b523e6d3fe795f976b5df::buni::BUNI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7298_03b33cbc35.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

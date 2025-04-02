@@ -1,0 +1,13 @@
+{
+  "name": "UNIHOP",
+  "symbol": "UNIHOP",
+  "decimals": 6,
+  "coin_type": "0x660edaa68c5553d962d99770153e6acf564c7bc2ba7b85b856e41f3df39333e6::unihop::UNIHOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmTLVZuQqm4A1UQaktUSyVeGcA7hzba4qq6ZL4oM421nfs",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

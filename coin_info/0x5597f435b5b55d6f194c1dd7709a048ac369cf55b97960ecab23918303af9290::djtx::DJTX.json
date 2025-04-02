@@ -1,0 +1,13 @@
+{
+  "name": "Donald Trump",
+  "symbol": "DJTX",
+  "decimals": 9,
+  "coin_type": "0x5597f435b5b55d6f194c1dd7709a048ac369cf55b97960ecab23918303af9290::djtx::DJTX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7250641d-0f16-47aa-b6a1-47406aa130ee.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Wizard Cat",
+  "symbol": "WIZARDCAT",
+  "decimals": 9,
+  "coin_type": "0xeaa067357b1a15b4200274c2cd66be6f9c4a4f7fff6af7c75f756cc6182f77a8::wizardcat::WIZARDCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/85fae96e-8687-44bf-af30-705bf9c206bb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sea lion",
+  "symbol": "Suisl",
+  "decimals": 6,
+  "coin_type": "0x781b7416c1b3c0c04d56e19e85e836fc460374c8a2119da174151a44c4fb7a2d::suisl::SUISL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/a_a_ae_a_2024_08_31_175335_185d20349f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

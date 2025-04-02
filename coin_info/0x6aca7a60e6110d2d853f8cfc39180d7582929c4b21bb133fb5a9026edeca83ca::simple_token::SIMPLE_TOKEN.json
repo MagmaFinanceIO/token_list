@@ -1,0 +1,13 @@
+{
+  "name": "SquidGame3",
+  "symbol": "SquidGame3",
+  "decimals": 9,
+  "coin_type": "0x6aca7a60e6110d2d853f8cfc39180d7582929c4b21bb133fb5a9026edeca83ca::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

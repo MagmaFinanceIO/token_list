@@ -1,0 +1,13 @@
+{
+  "name": "SUIMON",
+  "symbol": "WOOF",
+  "decimals": 6,
+  "coin_type": "0xe03fda9f4a320a1d6cf5d8ddb341354851a5aab410a993baf25fd8184e5996ad::woof::WOOF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suimon_88e1884af9.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

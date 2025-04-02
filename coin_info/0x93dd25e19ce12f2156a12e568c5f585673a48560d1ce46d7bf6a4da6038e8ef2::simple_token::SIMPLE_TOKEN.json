@@ -1,0 +1,13 @@
+{
+  "name": "Petrus on Sui",
+  "symbol": "PETRUSUI",
+  "decimals": 9,
+  "coin_type": "0x93dd25e19ce12f2156a12e568c5f585673a48560d1ce46d7bf6a4da6038e8ef2::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

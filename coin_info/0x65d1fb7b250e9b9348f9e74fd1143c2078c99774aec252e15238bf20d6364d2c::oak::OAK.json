@@ -1,0 +1,13 @@
+{
+  "name": "OAK",
+  "symbol": "OAK",
+  "decimals": 9,
+  "coin_type": "0x65d1fb7b250e9b9348f9e74fd1143c2078c99774aec252e15238bf20d6364d2c::oak::OAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://play-lh.googleusercontent.com/n1mHYu6ORHM6HYPzTwRVSmxDGW91sfRn3lPrguSS2YxFbUPSwQzTGcWmo3Lx8IFzjMw=w240-h480-rw",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

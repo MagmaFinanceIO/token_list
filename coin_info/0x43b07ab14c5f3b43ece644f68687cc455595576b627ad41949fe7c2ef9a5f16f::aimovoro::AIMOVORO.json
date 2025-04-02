@@ -1,0 +1,13 @@
+{
+  "name": "AIMOVOROS",
+  "symbol": "AIMOVORO",
+  "decimals": 9,
+  "coin_type": "0x43b07ab14c5f3b43ece644f68687cc455595576b627ad41949fe7c2ef9a5f16f::aimovoro::AIMOVORO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/3339fba1992c9d48248e4d1e2df6232fblob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

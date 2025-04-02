@@ -1,0 +1,13 @@
+{
+  "name": "BlueCrown",
+  "symbol": "BLUECROWN",
+  "decimals": 9,
+  "coin_type": "0x44ff70278cf92b885671e339c31c271c43dd7fcb9b27ed0367e41ec2e748da21::bluecrown::BLUECROWN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/827ddba8-b006-433f-8e3a-b71bb548b59d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

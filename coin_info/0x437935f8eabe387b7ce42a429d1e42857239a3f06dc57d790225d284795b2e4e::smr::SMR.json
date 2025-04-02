@@ -1,0 +1,13 @@
+{
+  "name": "Strategic Meme Reserve",
+  "symbol": "SMR",
+  "decimals": 9,
+  "coin_type": "0x437935f8eabe387b7ce42a429d1e42857239a3f06dc57d790225d284795b2e4e::smr::SMR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EiRfZeWLW1NymAfjKUePz3jwtq5rZ69XM3zLDS1Npump.png?size=lg&key=c93b61",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "YOGUItesting",
+  "symbol": "YOGTest",
+  "decimals": 2,
+  "coin_type": "0x695463752d40160dd8bdcf0074ba1cd258e972b87f839a982ddd586c01b1a946::yogtest::YOGTEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0b974bd4-c0b5-43c9-88a8-9a5f94eadb28.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

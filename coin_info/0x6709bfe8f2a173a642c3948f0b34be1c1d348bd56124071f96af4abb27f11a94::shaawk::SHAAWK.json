@@ -1,0 +1,13 @@
+{
+  "name": "SHAAWK ON SUI",
+  "symbol": "SHAAWK",
+  "decimals": 9,
+  "coin_type": "0x6709bfe8f2a173a642c3948f0b34be1c1d348bd56124071f96af4abb27f11a94::shaawk::SHAAWK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/sIakSXgc9hlSWHF1?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Narwhal Whale on Sui",
+  "symbol": "NARW",
+  "decimals": 2,
+  "coin_type": "0x7be3152317308af26adf4f8763ef111f1952e116e43dd5d9094a22eb29edac03::narw::NARW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/20d33e4e-639c-489d-94cc-4ec4648f3311.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

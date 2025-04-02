@@ -1,0 +1,13 @@
+{
+  "name": "Mongolo",
+  "symbol": "MONGO",
+  "decimals": 6,
+  "coin_type": "0xa6ec9b09c84e161acfb0294d5f2eb63e98825ac3a5748cc7f37f71d80b2a247d::mongo::MONGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suitard_logo_68d477f383.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

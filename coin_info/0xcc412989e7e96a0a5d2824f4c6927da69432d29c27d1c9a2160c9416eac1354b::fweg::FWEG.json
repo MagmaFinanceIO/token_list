@@ -1,0 +1,13 @@
+{
+  "name": "FWEG",
+  "symbol": "FWEG",
+  "decimals": 9,
+  "coin_type": "0xcc412989e7e96a0a5d2824f4c6927da69432d29c27d1c9a2160c9416eac1354b::fweg::FWEG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1821fde6-6503-40bb-9a9b-e39371a8a1fd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

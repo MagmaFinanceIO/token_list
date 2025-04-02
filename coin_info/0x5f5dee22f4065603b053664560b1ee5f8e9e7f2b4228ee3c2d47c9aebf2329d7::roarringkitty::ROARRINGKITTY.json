@@ -1,0 +1,13 @@
+{
+  "name": "ROARING KITTY",
+  "symbol": "ROARRINGKITTY",
+  "decimals": 6,
+  "coin_type": "0x5f5dee22f4065603b053664560b1ee5f8e9e7f2b4228ee3c2d47c9aebf2329d7::roarringkitty::ROARRINGKITTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/cropped_Untitled_design_13_2c1cc74864_7b1850d563.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

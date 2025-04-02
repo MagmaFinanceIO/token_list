@@ -1,0 +1,13 @@
+{
+  "name": "Stoner Chomp",
+  "symbol": "CHOMP",
+  "decimals": 9,
+  "coin_type": "0x52a2624f014eba25db373ef6007b717ffb073ccbb198e7d7412fa94e87b6dfe9::chomp::CHOMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/edd144c2-bf54-4089-9f70-0e1f37ddc335.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

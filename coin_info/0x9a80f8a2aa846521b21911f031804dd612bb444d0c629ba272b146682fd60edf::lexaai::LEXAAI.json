@@ -1,0 +1,13 @@
+{
+  "name": "LEXA",
+  "symbol": "LEXAAI",
+  "decimals": 9,
+  "coin_type": "0x9a80f8a2aa846521b21911f031804dd612bb444d0c629ba272b146682fd60edf::lexaai::LEXAAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4x4umk1ZL2qFa1MBsHCqQfBZrshw35rXGk7nb2kjpump.png?size=lg&key=b11eb9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

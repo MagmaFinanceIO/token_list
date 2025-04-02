@@ -1,0 +1,13 @@
+{
+  "name": "SUISTAKE",
+  "symbol": "SUST",
+  "decimals": 9,
+  "coin_type": "0xcadaf0bacb09855fa08fa6c4c307c165c2e52ef06dd278ea5a63d85b9428c219::sust::SUST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f7737413-12e0-4c66-b6e8-2de0e844d7cf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

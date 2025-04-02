@@ -1,0 +1,13 @@
+{
+  "name": "Sui's Longest Cat",
+  "symbol": "LongCat",
+  "decimals": 6,
+  "coin_type": "0x71b1bfda1723a4a7abaf7fb85e3edc131f2b53d0aaa2a18848b323c37d410683::longcat::LONGCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Gbt_OIP_Wo_Ak0_C_t_01092c6344.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

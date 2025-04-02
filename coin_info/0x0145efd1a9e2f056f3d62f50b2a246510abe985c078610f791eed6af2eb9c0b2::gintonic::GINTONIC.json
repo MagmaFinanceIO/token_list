@@ -1,0 +1,13 @@
+{
+  "name": "gintonicAI",
+  "symbol": "gintonic",
+  "decimals": 9,
+  "coin_type": "0x0145efd1a9e2f056f3d62f50b2a246510abe985c078610f791eed6af2eb9c0b2::gintonic::GINTONIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dexscreener.com/solana/7qa4qxoa3jfy7s1czmp3ma3du9jputsuszk81ojwpump",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

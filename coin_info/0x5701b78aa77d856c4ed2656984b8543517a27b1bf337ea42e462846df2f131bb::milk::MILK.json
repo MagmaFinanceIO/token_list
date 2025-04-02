@@ -1,0 +1,13 @@
+{
+  "name": "Itty Bitty Kitty Committy",
+  "symbol": "MILK",
+  "decimals": 6,
+  "coin_type": "0x5701b78aa77d856c4ed2656984b8543517a27b1bf337ea42e462846df2f131bb::milk::MILK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2024_12_11_12_59_06_a015d70fb5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

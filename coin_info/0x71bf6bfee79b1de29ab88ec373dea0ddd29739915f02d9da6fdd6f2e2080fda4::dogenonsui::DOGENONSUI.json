@@ -1,0 +1,13 @@
+{
+  "name": "Dogen On Sui",
+  "symbol": "DogenOnSui",
+  "decimals": 9,
+  "coin_type": "0x71bf6bfee79b1de29ab88ec373dea0ddd29739915f02d9da6fdd6f2e2080fda4::dogenonsui::DOGENONSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/220fa9d3-1690-4698-b4d1-94190fa5de45.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

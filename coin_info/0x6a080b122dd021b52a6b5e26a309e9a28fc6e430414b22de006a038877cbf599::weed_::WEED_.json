@@ -1,0 +1,13 @@
+{
+  "name": "SeaWeed",
+  "symbol": "Weed",
+  "decimals": 8,
+  "coin_type": "0x6a080b122dd021b52a6b5e26a309e9a28fc6e430414b22de006a038877cbf599::weed_::WEED_",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/87653e4d-d7eb-462f-ac16-0e94b0b58c5a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

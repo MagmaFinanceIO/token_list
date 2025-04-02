@@ -1,0 +1,13 @@
+{
+  "name": "MMC",
+  "symbol": "Merkel Coin",
+  "decimals": 0,
+  "coin_type": "0x09d74bfe0d2a613ee166c94cc7a45877250972e1f7171a8468a2c17caef9b210::merkel_coin::MERKEL_COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://aggregator.walrus-testnet.walrus.space/v1/_j2HkAAbKHlaq7-5Fi7GCwMFQ-uyv4wQx5hdWP3AnZA",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "OGGIE",
+  "symbol": "Oggie",
+  "decimals": 9,
+  "coin_type": "0x33518935cd74247587651582f8d914240fd5f77526feb332f173d214baaafb27::oggie::OGGIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/D85UjuRzazGeSS24E8yFy4DtKczmipwFNew4SKe1dEBy.png?size=lg&key=391dc7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

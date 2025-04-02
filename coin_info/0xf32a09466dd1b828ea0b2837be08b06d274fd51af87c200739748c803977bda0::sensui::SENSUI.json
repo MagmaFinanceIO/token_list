@@ -1,0 +1,13 @@
+{
+  "name": "SenSui - Sensei of Sui",
+  "symbol": "SenSui",
+  "decimals": 6,
+  "coin_type": "0xf32a09466dd1b828ea0b2837be08b06d274fd51af87c200739748c803977bda0::sensui::SENSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/t09t_IE_5_Q_400x400_30e91939ec.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

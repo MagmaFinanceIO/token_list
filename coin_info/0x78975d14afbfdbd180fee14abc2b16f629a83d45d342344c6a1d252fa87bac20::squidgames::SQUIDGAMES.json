@@ -1,0 +1,13 @@
+{
+  "name": "Bio SquidGames",
+  "symbol": "SquidGames",
+  "decimals": 9,
+  "coin_type": "0x78975d14afbfdbd180fee14abc2b16f629a83d45d342344c6a1d252fa87bac20::squidgames::SQUIDGAMES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4xGyeQ9n6uX51i31sLFpjtFXRqSASXS8P1AC9HwazgWy.png?size=lg&key=5a0b1a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

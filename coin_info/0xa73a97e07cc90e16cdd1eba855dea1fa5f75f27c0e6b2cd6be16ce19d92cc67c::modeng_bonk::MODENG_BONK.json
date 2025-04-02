@@ -1,0 +1,13 @@
+{
+  "name": "Modeng Bonk",
+  "symbol": "Modeng Bonk",
+  "decimals": 9,
+  "coin_type": "0xa73a97e07cc90e16cdd1eba855dea1fa5f75f27c0e6b2cd6be16ce19d92cc67c::modeng_bonk::MODENG_BONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3e79ac97-6aab-4ef0-978e-bb9c497cd704.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Book of Trump",
+  "symbol": "BooT",
+  "decimals": 6,
+  "coin_type": "0xc87a5c3701bc7a8af34dfbabfea11c5be0394deb768c00a60ffd6a088bd2e652::boot::BOOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3ef1b677-5cd2-49a6-83b3-393b5f312795.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

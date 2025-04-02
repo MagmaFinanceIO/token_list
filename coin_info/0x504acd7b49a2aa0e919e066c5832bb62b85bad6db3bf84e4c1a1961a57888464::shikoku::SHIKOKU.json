@@ -1,0 +1,13 @@
+{
+  "name": "ShiKoKu DOgs",
+  "symbol": "ShiKoKu",
+  "decimals": 9,
+  "coin_type": "0x504acd7b49a2aa0e919e066c5832bb62b85bad6db3bf84e4c1a1961a57888464::shikoku::SHIKOKU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CoRQpMjhBx6AsrzKJJZyzJoH52GoEKShM3CVumyzpump.png?size=lg&key=41bce7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

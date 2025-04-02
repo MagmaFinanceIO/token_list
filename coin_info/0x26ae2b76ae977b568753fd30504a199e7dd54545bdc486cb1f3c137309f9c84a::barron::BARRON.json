@@ -1,0 +1,13 @@
+{
+  "name": "BARRONSUI",
+  "symbol": "BARRON",
+  "decimals": 6,
+  "coin_type": "0x26ae2b76ae977b568753fd30504a199e7dd54545bdc486cb1f3c137309f9c84a::barron::BARRON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_2851_e6d61bd6a8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

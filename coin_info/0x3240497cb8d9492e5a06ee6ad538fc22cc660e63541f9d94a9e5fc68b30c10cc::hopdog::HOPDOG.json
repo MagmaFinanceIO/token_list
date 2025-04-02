@@ -1,0 +1,13 @@
+{
+  "name": "Hopdog on SUI",
+  "symbol": "HOPDOG",
+  "decimals": 9,
+  "coin_type": "0x3240497cb8d9492e5a06ee6ad538fc22cc660e63541f9d94a9e5fc68b30c10cc::hopdog::HOPDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/37196e3f-0b24-49e0-8961-75a213b5b5cf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Legacy Media Killer",
+  "symbol": "ELONX",
+  "decimals": 9,
+  "coin_type": "0xb02a11d759a0b9234840a452a29ca1d3f7e322da9f8bc08ee737b015d2efa63a::elonx::ELONX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3KAeVfDbU6tZxSD2kqz3Pz6B6f42CW3FdA89GUZ8fw23.png?size=lg&key=6b7bc8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

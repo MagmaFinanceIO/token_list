@@ -1,0 +1,13 @@
+{
+  "name": "USDC",
+  "symbol": "USDC",
+  "decimals": 9,
+  "coin_type": "0xbaeaad9c48f20008bd610a605dd0a646156df90db86f28c858e5f8fd0c08bb20::usdc::USDC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/SlpcqQk4KZxROtjVaO_QrkEd4jp6A2NrxQ31LhCJCk4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

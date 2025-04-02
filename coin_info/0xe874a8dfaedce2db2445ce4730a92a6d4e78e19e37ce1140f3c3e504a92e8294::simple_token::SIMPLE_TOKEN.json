@@ -1,0 +1,13 @@
+{
+  "name": "DWACK",
+  "symbol": "DWACK",
+  "decimals": 9,
+  "coin_type": "0xe874a8dfaedce2db2445ce4730a92a6d4e78e19e37ce1140f3c3e504a92e8294::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

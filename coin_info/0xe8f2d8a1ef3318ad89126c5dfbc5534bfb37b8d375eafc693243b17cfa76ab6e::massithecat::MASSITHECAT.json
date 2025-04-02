@@ -1,0 +1,13 @@
+{
+  "name": "MassiTheCat",
+  "symbol": "MassiTheCat",
+  "decimals": 9,
+  "coin_type": "0xe8f2d8a1ef3318ad89126c5dfbc5534bfb37b8d375eafc693243b17cfa76ab6e::massithecat::MASSITHECAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

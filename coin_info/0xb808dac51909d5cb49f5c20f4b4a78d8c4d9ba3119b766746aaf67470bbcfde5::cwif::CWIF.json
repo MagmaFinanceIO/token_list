@@ -1,0 +1,13 @@
+{
+  "name": "catwifhat",
+  "symbol": "CWIF",
+  "decimals": 9,
+  "coin_type": "0xb808dac51909d5cb49f5c20f4b4a78d8c4d9ba3119b766746aaf67470bbcfde5::cwif::CWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e37b3cde-1b86-4010-8029-883cdfbce2e0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

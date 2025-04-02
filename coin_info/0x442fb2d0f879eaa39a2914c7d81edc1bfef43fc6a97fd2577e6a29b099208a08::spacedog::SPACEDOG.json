@@ -1,0 +1,13 @@
+{
+  "name": "SpaceDog",
+  "symbol": "SpaceDog",
+  "decimals": 9,
+  "coin_type": "0x442fb2d0f879eaa39a2914c7d81edc1bfef43fc6a97fd2577e6a29b099208a08::spacedog::SPACEDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8cf18151-a65c-4efb-9ded-b4ce5f103195.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

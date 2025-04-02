@@ -1,0 +1,13 @@
+{
+  "name": "DATBOI",
+  "symbol": "DATBOI",
+  "decimals": 9,
+  "coin_type": "0x623d22351d1b677e6c4862ec15523133d919f987393f9982b9652872f37dfb8a::datboi::DATBOI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0x5532bad51ac2ff97f5e73fb95e36b353701b0a0a553351953eb0a9567009967c::datboi::datboi.png?size=lg&key=e93f33",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

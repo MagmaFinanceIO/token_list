@@ -1,0 +1,13 @@
+{
+  "name": "🧽SPUNGY ON SUI🧽",
+  "symbol": "SPUNGY",
+  "decimals": 9,
+  "coin_type": "0x36a3ebc17b529b03f030059c3cb17f5a9e7b41c9a7829601943467f0685d00bf::spungy::SPUNGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e2fc7e0a-42cb-4849-b349-2b14c94ba6bf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

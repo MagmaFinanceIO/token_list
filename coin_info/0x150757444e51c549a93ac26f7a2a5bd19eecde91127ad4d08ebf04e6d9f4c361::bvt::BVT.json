@@ -1,0 +1,13 @@
+{
+  "name": "BVT",
+  "symbol": "BVT",
+  "decimals": 9,
+  "coin_type": "0x150757444e51c549a93ac26f7a2a5bd19eecde91127ad4d08ebf04e6d9f4c361::bvt::BVT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

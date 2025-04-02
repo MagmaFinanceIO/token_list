@@ -1,0 +1,13 @@
+{
+  "name": "DOGMAN",
+  "symbol": "DOGMAN",
+  "decimals": 9,
+  "coin_type": "0x483d57fc161da7f3cf5065e52135ff6b358c1bf4d77fe286765e7470b24726d3::dogman::DOGMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6W659ThPjjEF7PavBZwoRxnkwH4JrqdbbKuDXA5kpump.png?size=lg&key=cb6b02",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

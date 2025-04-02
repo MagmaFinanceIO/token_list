@@ -1,0 +1,13 @@
+{
+  "name": "ROBO",
+  "symbol": "ROBO",
+  "decimals": 9,
+  "coin_type": "0xb0fd85ca815d787ce6976b7e1f8ccb60a5c4feac02a561759545b93b2b602920::robo::ROBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7ce4b346-18ae-4d32-8bc6-05520714ce3a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

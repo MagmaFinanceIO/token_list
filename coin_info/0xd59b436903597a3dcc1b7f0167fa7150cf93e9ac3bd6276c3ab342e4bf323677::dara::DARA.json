@@ -1,0 +1,13 @@
+{
+  "name": "Dancing Rat",
+  "symbol": "DARA",
+  "decimals": 6,
+  "coin_type": "0xd59b436903597a3dcc1b7f0167fa7150cf93e9ac3bd6276c3ab342e4bf323677::dara::DARA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/rat_dance_0857c35e0c.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

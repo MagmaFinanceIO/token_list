@@ -1,0 +1,13 @@
+{
+  "name": "SeedFund Coin",
+  "symbol": "SFC",
+  "decimals": 9,
+  "coin_type": "0x12a477868fc024dbd5363336b0be3bcf00b9581a219abc30baadf55fc3c89701::sfc::SFC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c01f6570-dae4-4f22-9652-3b114dfccee2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

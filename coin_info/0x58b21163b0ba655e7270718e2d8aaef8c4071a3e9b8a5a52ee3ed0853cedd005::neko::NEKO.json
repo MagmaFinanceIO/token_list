@@ -1,0 +1,13 @@
+{
+  "name": "Neko Neko",
+  "symbol": "NEKO",
+  "decimals": 9,
+  "coin_type": "0x58b21163b0ba655e7270718e2d8aaef8c4071a3e9b8a5a52ee3ed0853cedd005::neko::NEKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreiaydyuqcedyjv27j54snxguzov2m55rr5fqnonv5tsa4sfztdzcd4.ipfs.w3s.link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

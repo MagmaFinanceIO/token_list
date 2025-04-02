@@ -1,0 +1,13 @@
+{
+  "name": "Justice For Pnut's AR15",
+  "symbol": "AR15",
+  "decimals": 9,
+  "coin_type": "0x717bdaa43c25c8b3da3b8d36654e2343682b6fdcc330db72b69d593cfade0171::ar15::AR15",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmYvAS8e7PqTDkKHRbu9k6FkFKykdrsauDAmruqxGEFZvr",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suipitu",
+  "symbol": "SUIPITU",
+  "decimals": 6,
+  "coin_type": "0x5a110919f89364df26e0d2d2f81556bf257cf1c0393151cecd98d33a4765752c::suipitu::SUIPITU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/W_My8_fd7c8256d6.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Son Goku",
+  "symbol": "SNGKU",
+  "decimals": 9,
+  "coin_type": "0x66ef9c1ab4f0574ce408fd3d15e3541cbc31b01ba4f01ca10d10fbb9d0bc84a8::sngku::SNGKU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Kek",
+  "symbol": "KEK",
+  "decimals": 5,
+  "coin_type": "0x8f0e23262280e631079f970bb8a424aa60dc87a32a7797d1f8ed76d1206c9334::kek::KEK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/10c0125b-06e0-4c62-a164-74ca22bab3a8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

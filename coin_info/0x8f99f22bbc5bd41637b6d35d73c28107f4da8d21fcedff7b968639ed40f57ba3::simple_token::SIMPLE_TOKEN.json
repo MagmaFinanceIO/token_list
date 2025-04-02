@@ -1,0 +1,13 @@
+{
+  "name": "Holyshit",
+  "symbol": "Holyshit",
+  "decimals": 9,
+  "coin_type": "0x8f99f22bbc5bd41637b6d35d73c28107f4da8d21fcedff7b968639ed40f57ba3::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

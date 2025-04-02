@@ -1,0 +1,13 @@
+{
+  "name": "NovaLink Token",
+  "symbol": "NOVA",
+  "decimals": 9,
+  "coin_type": "0x2c69989d6b2218107a193cfa88c92ba7722931b25902dd22c0db4d8fe524bc19::nova::NOVA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://novalink.network/nova.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

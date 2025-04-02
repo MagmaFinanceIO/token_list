@@ -1,0 +1,13 @@
+{
+  "name": "Nibles on Sui",
+  "symbol": "NIBLES",
+  "decimals": 9,
+  "coin_type": "0x0d6fe7e4a386adab6e605a9bb477359ce463692abe6db0c541f31a2e2598a172::nibles::NIBLES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dcd89800-d1dd-4591-93e7-55836d6e1f25.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

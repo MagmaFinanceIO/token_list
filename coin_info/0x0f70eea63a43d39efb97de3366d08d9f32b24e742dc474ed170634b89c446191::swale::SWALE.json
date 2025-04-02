@@ -1,0 +1,13 @@
+{
+  "name": "SUI Whale",
+  "symbol": "SWALE",
+  "decimals": 9,
+  "coin_type": "0x0f70eea63a43d39efb97de3366d08d9f32b24e742dc474ed170634b89c446191::swale::SWALE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c0b7e3f9-a983-4f7d-b7c1-2ab184af30c5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

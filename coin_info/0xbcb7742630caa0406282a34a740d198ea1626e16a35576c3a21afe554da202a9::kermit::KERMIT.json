@@ -1,0 +1,13 @@
+{
+  "name": "Kermit The Frog",
+  "symbol": "KERMIT",
+  "decimals": 6,
+  "coin_type": "0xbcb7742630caa0406282a34a740d198ea1626e16a35576c3a21afe554da202a9::kermit::KERMIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_62e0595118.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

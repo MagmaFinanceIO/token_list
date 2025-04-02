@@ -1,0 +1,13 @@
+{
+  "name": "Public AI",
+  "symbol": "PUBLIC",
+  "decimals": 9,
+  "coin_type": "0xbf04e6f7d30f332c99965c939ae68c8501d181ef26e2b267a0189a7950496298::public::PUBLIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9tT9vJXU9bU1mVT9gKPQ1uUqL2hKNH8DuDG5GsxNpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

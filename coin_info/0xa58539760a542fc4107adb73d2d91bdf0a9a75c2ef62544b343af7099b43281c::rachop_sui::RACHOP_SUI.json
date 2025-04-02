@@ -1,0 +1,13 @@
+{
+  "name": "rachop",
+  "symbol": "rachop_sui",
+  "decimals": 6,
+  "coin_type": "0xa58539760a542fc4107adb73d2d91bdf0a9a75c2ef62544b343af7099b43281c::rachop_sui::RACHOP_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSGQUYn4MkWnYhmmQCaf7rWtNrd4zcsRt1UWr9HFZ1Mgp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

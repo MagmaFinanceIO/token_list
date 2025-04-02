@@ -1,0 +1,13 @@
+{
+  "name": "Pumpfun Mascot",
+  "symbol": "Bumpie",
+  "decimals": 9,
+  "coin_type": "0x862a2e872264fac656e3537db914b64bc2fd9ab59cb3060d2ab1b1f56837da27::bumpie::BUMPIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/G6j4Hi39SE4xK9WAEg4Whso82d4cwwDfWUTjRsvbpump.png?size=lg&key=286df9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "IS PEPE MAN",
+  "symbol": "PEPE",
+  "decimals": 9,
+  "coin_type": "0xac17907dccfaf0d6f12a9dec4ef97d3f08149f5ec7ad1d8252b1b0137ab93fda::pepe::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

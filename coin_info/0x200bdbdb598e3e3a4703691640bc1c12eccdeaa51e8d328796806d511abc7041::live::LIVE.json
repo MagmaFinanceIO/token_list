@@ -1,0 +1,13 @@
+{
+  "name": "Stream until 100M MC",
+  "symbol": "LIVE",
+  "decimals": 9,
+  "coin_type": "0x200bdbdb598e3e3a4703691640bc1c12eccdeaa51e8d328796806d511abc7041::live::LIVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmU7SkWXMRufXFGsJ5aS6bcfzi4xG529Yo4QhgF6RDGUmt",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

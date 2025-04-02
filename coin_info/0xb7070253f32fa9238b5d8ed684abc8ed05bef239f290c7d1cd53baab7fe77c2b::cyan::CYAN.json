@@ -1,0 +1,13 @@
+{
+  "name": "Color Of SUI",
+  "symbol": "CYAN",
+  "decimals": 6,
+  "coin_type": "0xb7070253f32fa9238b5d8ed684abc8ed05bef239f290c7d1cd53baab7fe77c2b::cyan::CYAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731003523419.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

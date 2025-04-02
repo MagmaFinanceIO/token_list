@@ -1,0 +1,13 @@
+{
+  "name": "Sui Agent",
+  "symbol": "SA",
+  "decimals": 6,
+  "coin_type": "0xbd686a359e1c6924d5dd1a1b922d6e9bc6f5c7dc092f3833a1d1511675d98027::sa::SA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b93213fd-f7fa-4b5f-b4ab-8dd49efa9f65.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUISEA",
+  "symbol": "Suisea",
+  "decimals": 6,
+  "coin_type": "0x83383b617abd1c0bdcebade75f41c2908b1ccd14549d4d830225d6298b782b33::suisea::SUISEA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Designer_3_d01908818d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

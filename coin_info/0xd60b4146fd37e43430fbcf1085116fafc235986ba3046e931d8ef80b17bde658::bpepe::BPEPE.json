@@ -1,0 +1,13 @@
+{
+  "name": "Sui Baby PePe",
+  "symbol": "BPEPE",
+  "decimals": 6,
+  "coin_type": "0xd60b4146fd37e43430fbcf1085116fafc235986ba3046e931d8ef80b17bde658::bpepe::BPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/LOGO_FINAL_84cccaab29.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

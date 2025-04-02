@@ -1,0 +1,13 @@
+{
+  "name": "NUNU Token",
+  "symbol": "NUNU",
+  "decimals": 9,
+  "coin_type": "0x18330ce14b67ae670e275ad5b717f6715511c64924045aeb986b8340045ab0d2::nunu::NUNU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0aa8a5be-286d-4354-a826-ba91735625d4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

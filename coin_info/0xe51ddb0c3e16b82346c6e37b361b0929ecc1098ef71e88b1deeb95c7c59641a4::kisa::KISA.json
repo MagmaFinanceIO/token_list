@@ -1,0 +1,13 @@
+{
+  "name": "kisa",
+  "symbol": "kisa",
+  "decimals": 9,
+  "coin_type": "0xe51ddb0c3e16b82346c6e37b361b0929ecc1098ef71e88b1deeb95c7c59641a4::kisa::KISA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/909559b5-ac41-4cb6-92b3-116a67dda1d1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

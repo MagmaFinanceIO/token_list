@@ -1,0 +1,13 @@
+{
+  "name": "Chinese Max 2025 on SUI",
+  "symbol": "MAX2025",
+  "decimals": 9,
+  "coin_type": "0xa5e4c3c4b631bd12fcc599869ca295bbe35e75923846e1054b59c9677dcb68aa::max2025::MAX2025",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8jxXAi5Y4fonr5ZHeZgReq4vcdp9uJCSXxjb54jfpump.png?size=lg&key=e6960a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

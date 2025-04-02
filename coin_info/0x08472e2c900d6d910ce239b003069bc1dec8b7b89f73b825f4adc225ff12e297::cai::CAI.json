@@ -1,0 +1,13 @@
+{
+  "name": "CAI by SuiAI",
+  "symbol": "CAI",
+  "decimals": 6,
+  "coin_type": "0x08472e2c900d6d910ce239b003069bc1dec8b7b89f73b825f4adc225ff12e297::cai::CAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/images_12_b8c64a0c4a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

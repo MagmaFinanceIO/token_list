@@ -1,0 +1,13 @@
+{
+  "name": "TESTME",
+  "symbol": "TESTME",
+  "decimals": 6,
+  "coin_type": "0x38d2775064637c56970cf03aeaea7e03b983c4c36de95da176494e30c65180c7::testme::TESTME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuiMAXiMUM",
+  "symbol": "SuiMAX",
+  "decimals": 6,
+  "coin_type": "0xa50ab368bed2026f036358e8c59d3f92755a918e47e98c4ad05754f544f9fdaa::suimax::SUIMAX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000020169_83f2f9276e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Trump Win",
+  "symbol": "TRUMPWIN",
+  "decimals": 9,
+  "coin_type": "0x38d6ef57e89292f2fbdc05eb0dc53ca3146cb08c3b92598eb249daa561acfd75::trumpwin::TRUMPWIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/Qmea15FeJ66zpu9J6EYePXog8SzXw5b4SkyasnyRtTg7NA",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

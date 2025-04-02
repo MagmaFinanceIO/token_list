@@ -1,0 +1,13 @@
+{
+  "name": "Pop Frog",
+  "symbol": "PROG",
+  "decimals": 6,
+  "coin_type": "0x146ce0cf246e8e554cc286e4f3f75220781bc419d8c781f5ee065774af84fb4b::prog::PROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Zfmjm_Vkgnk7m_Yg_Ac_Cn_Gv8gip_Ycnhab_U5azdt_V1ya_Xfc7_54ab536644.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

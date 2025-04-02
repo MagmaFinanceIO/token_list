@@ -1,0 +1,13 @@
+{
+  "name": "Trump Club",
+  "symbol": "TRUMP2",
+  "decimals": 9,
+  "coin_type": "0x65205d4cac920eab86355a207dc13358eeba79e3c4ba102ffd5206bb7e388622::trump2::TRUMP2",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/F9gsY9g4ry8qmDWDpAfuecqYZiYyhzbNeSbHuC7pump.png?size=lg&key=5b6b7d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

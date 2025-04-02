@@ -1,0 +1,13 @@
+{
+  "name": "Birds Pump Sui",
+  "symbol": "BPS",
+  "decimals": 6,
+  "coin_type": "0xd426e078530d8f5713d8d51bdd80226524c30cba19a4d294e9b8dd4f1e4cfc66::bps::BPS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731003104679.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

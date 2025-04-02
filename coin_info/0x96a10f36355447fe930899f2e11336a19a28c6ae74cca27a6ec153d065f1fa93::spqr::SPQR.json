@@ -1,0 +1,13 @@
+{
+  "name": "Imperium Romanum Sacrum",
+  "symbol": "SPQR",
+  "decimals": 6,
+  "coin_type": "0x96a10f36355447fe930899f2e11336a19a28c6ae74cca27a6ec153d065f1fa93::spqr::SPQR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2_858d00b63a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

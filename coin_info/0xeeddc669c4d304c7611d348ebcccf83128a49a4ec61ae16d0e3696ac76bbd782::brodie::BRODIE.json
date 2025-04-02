@@ -1,0 +1,13 @@
+{
+  "name": "brodiethatdood",
+  "symbol": "Brodie",
+  "decimals": 9,
+  "coin_type": "0xeeddc669c4d304c7611d348ebcccf83128a49a4ec61ae16d0e3696ac76bbd782::brodie::BRODIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8v9PinzsdN1BtEQynj8URPo2U5gFXgGLzFhcgWEguvRs.png?size=lg&key=81e5d4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

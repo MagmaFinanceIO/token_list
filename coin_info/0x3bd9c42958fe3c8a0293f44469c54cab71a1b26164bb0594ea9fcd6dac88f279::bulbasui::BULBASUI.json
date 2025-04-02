@@ -1,0 +1,13 @@
+{
+  "name": "BulbaSUI",
+  "symbol": "BULBASUI",
+  "decimals": 6,
+  "coin_type": "0x3bd9c42958fe3c8a0293f44469c54cab71a1b26164bb0594ea9fcd6dac88f279::bulbasui::BULBASUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/bulba_031b95b542.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

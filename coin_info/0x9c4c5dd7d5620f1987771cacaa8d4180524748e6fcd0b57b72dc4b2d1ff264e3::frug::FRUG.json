@@ -1,0 +1,13 @@
+{
+  "name": "Origins of Fwog",
+  "symbol": "FRUG",
+  "decimals": 9,
+  "coin_type": "0x9c4c5dd7d5620f1987771cacaa8d4180524748e6fcd0b57b72dc4b2d1ff264e3::frug::FRUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8htHcawt8xCnSBupCm1kKUS9otEQh3XmXu9tU8qNpump.png?size=lg&key=5801d9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

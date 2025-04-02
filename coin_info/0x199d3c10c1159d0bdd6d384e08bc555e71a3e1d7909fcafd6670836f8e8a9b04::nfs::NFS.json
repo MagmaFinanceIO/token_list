@@ -1,0 +1,13 @@
+{
+  "name": "NOT FOR SALE",
+  "symbol": "NFS",
+  "decimals": 9,
+  "coin_type": "0x199d3c10c1159d0bdd6d384e08bc555e71a3e1d7909fcafd6670836f8e8a9b04::nfs::NFS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/185ce5de-ebe4-48f4-8b36-db3c52348591.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

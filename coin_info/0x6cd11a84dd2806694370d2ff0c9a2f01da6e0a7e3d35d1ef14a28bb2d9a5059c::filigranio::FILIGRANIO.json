@@ -1,0 +1,13 @@
+{
+  "name": "FILIGRANIO",
+  "symbol": "FILIGRANIO",
+  "decimals": 6,
+  "coin_type": "0x6cd11a84dd2806694370d2ff0c9a2f01da6e0a7e3d35d1ef14a28bb2d9a5059c::filigranio::FILIGRANIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmZP4hHqtgp37qrmcv5tPPAcBS4Mef9siLv6KxpQtMBtB8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

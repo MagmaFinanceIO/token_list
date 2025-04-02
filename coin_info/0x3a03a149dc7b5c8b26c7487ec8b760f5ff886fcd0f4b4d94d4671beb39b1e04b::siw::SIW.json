@@ -1,0 +1,13 @@
+{
+  "name": "Siw Token",
+  "symbol": "SIW",
+  "decimals": 6,
+  "coin_type": "0x3a03a149dc7b5c8b26c7487ec8b760f5ff886fcd0f4b4d94d4671beb39b1e04b::siw::SIW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

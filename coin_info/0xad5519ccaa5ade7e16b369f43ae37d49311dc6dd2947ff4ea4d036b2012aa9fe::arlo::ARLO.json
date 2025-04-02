@@ -1,0 +1,13 @@
+{
+  "name": "ArloCoin",
+  "symbol": "ARLO",
+  "decimals": 8,
+  "coin_type": "0xad5519ccaa5ade7e16b369f43ae37d49311dc6dd2947ff4ea4d036b2012aa9fe::arlo::ARLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b7500a1e-0edf-402e-949f-e84cbc808948.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

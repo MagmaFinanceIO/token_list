@@ -1,0 +1,13 @@
+{
+  "name": "GIGA (Wormhole)",
+  "symbol": "GIGACHAD",
+  "decimals": 9,
+  "coin_type": "0xd603ccd710ece4a1f5d3e045eba2183b13ec1d16e596831b7c7b28f0d39f4808::gigachad::GIGACHAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c55a6f4b-7a95-4a08-b0b1-c07282320acd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

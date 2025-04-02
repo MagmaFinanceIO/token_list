@@ -1,0 +1,13 @@
+{
+  "name": "Fred Ai by SuiAI",
+  "symbol": "FREDAI",
+  "decimals": 6,
+  "coin_type": "0x16ac9feb7cd0424b1ba8fc0e77b3b367b71a1943cbc7b3011a499a212457ba34::fredai::FREDAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_2166_b22eeb819a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

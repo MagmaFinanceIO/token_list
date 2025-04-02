@@ -1,0 +1,13 @@
+{
+  "name": "MEOWY",
+  "symbol": "MEOWY",
+  "decimals": 9,
+  "coin_type": "0x994875c6ec536d561f2958435d29b2f3de9cab4da8e85411bed4c490b6d6caa4::meowy::MEOWY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/da174def-fce5-46c2-bfc7-d9278b4bb7b8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

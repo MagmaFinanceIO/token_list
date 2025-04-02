@@ -1,0 +1,13 @@
+{
+  "name": "Sui Trump Nation",
+  "symbol": "TRUMPSUI",
+  "decimals": 6,
+  "coin_type": "0xc9cff49ade6bb3be10d85175766e8609679d4af6a7760caefa1f99bf85d27b2e::trumpsui::TRUMPSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20250121_034755_156_5577fa38dd.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

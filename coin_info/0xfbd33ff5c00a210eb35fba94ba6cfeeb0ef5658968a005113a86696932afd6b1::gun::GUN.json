@@ -1,0 +1,13 @@
+{
+  "name": "GUNTHER VI",
+  "symbol": "GUN",
+  "decimals": 9,
+  "coin_type": "0xfbd33ff5c00a210eb35fba94ba6cfeeb0ef5658968a005113a86696932afd6b1::gun::GUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3689e396-84f1-43cf-98b2-38a6a18138c8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

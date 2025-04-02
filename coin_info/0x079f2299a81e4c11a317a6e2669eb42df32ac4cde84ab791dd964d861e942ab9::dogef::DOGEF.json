@@ -1,0 +1,13 @@
+{
+  "name": "Doge food",
+  "symbol": "DOGEF",
+  "decimals": 9,
+  "coin_type": "0x079f2299a81e4c11a317a6e2669eb42df32ac4cde84ab791dd964d861e942ab9::dogef::DOGEF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/_uoZuWl053q-NWHy?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

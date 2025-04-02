@@ -1,0 +1,13 @@
+{
+  "name": "Hasbulla Cat Palito",
+  "symbol": "Palito",
+  "decimals": 9,
+  "coin_type": "0xb527e57172b81637b871c830f5ff44f568f7acb7f78ecab0f370d11081b69cf0::palito::PALITO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4cfcNbeQV8hUCavoy1HJqDYXLd1qePGqS3UNoRwTpump.png?size=lg&key=1a973c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

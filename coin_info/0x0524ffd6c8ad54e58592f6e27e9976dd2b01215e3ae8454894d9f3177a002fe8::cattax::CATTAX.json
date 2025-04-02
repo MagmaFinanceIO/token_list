@@ -1,0 +1,13 @@
+{
+  "name": "Pay Cat tax",
+  "symbol": "CatTax",
+  "decimals": 9,
+  "coin_type": "0x0524ffd6c8ad54e58592f6e27e9976dd2b01215e3ae8454894d9f3177a002fe8::cattax::CATTAX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ARmMherUjirQ4LuTU9RQHwrtNiX1abVgTbsocHHMpump.png?size=lg&key=dbf78d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

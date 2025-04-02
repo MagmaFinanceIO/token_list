@@ -1,0 +1,13 @@
+{
+  "name": "Suivester the cat",
+  "symbol": "SUIVESTER",
+  "decimals": 9,
+  "coin_type": "0x7a35a09528b77efc30379218246fdbad573666b049938ee2d9273aa35615a45f::suivester::SUIVESTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/db153b47-25f8-4ca5-88c1-e250dbd865b9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

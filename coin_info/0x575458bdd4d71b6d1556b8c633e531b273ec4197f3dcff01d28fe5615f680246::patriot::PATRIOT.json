@@ -1,0 +1,13 @@
+{
+  "name": "Patriot",
+  "symbol": "PATRIOT",
+  "decimals": 9,
+  "coin_type": "0x575458bdd4d71b6d1556b8c633e531b273ec4197f3dcff01d28fe5615f680246::patriot::PATRIOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xe9732d4b1e7d3789004ff029f032ba3034db059c.png?size=lg&key=d2345b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

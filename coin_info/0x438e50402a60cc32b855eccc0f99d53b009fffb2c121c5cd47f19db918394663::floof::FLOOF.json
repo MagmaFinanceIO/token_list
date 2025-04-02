@@ -1,0 +1,13 @@
+{
+  "name": "Floofnoodles",
+  "symbol": "FLOOF",
+  "decimals": 9,
+  "coin_type": "0x438e50402a60cc32b855eccc0f99d53b009fffb2c121c5cd47f19db918394663::floof::FLOOF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/X3rigWZSJhEE5DCQVWhnEChpWkJyHfidwXUSQPBpump.png?size=lg&key=ec4d3f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Monkey in a Suit",
+  "symbol": "MONKY",
+  "decimals": 9,
+  "coin_type": "0x65dc197de4b4e85cb5663dd8794d104f1d3a1206546a88d430471f771426ba35::monky::MONKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/775623ec-8494-4c44-9d4b-6ed72780230c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

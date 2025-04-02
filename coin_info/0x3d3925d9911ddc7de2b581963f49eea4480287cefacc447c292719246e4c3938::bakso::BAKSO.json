@@ -1,0 +1,13 @@
+{
+  "name": "A New Internet Money Era",
+  "symbol": "BAKSO",
+  "decimals": 9,
+  "coin_type": "0x3d3925d9911ddc7de2b581963f49eea4480287cefacc447c292719246e4c3938::bakso::BAKSO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://suiscan.xyz/mainnet/object/0xf0571aca186cae77a43487ecddac896f614765e04dacf016572747468d6a8e47",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

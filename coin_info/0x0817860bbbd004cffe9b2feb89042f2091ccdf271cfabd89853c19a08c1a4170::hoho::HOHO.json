@@ -1,0 +1,13 @@
+{
+  "name": "Santa Sniper",
+  "symbol": "HOHO",
+  "decimals": 9,
+  "coin_type": "0x0817860bbbd004cffe9b2feb89042f2091ccdf271cfabd89853c19a08c1a4170::hoho::HOHO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/E2Jywr7uYDiDYaKuqpWJtTTYm4rDcuYZH2hMDckWuckU.png?size=lg&key=b24823",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

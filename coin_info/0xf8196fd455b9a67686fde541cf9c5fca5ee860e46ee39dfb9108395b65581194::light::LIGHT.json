@@ -1,0 +1,13 @@
+{
+  "name": "Lightning Bot",
+  "symbol": "LIGHT",
+  "decimals": 9,
+  "coin_type": "0xf8196fd455b9a67686fde541cf9c5fca5ee860e46ee39dfb9108395b65581194::light::LIGHT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/wniwwwnnzJLGMGc5SQVK2eCD26N1ya221SiJDpMpump.png?size=lg&key=ee04d5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

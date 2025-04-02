@@ -1,0 +1,13 @@
+{
+  "name": "SuiPanda",
+  "symbol": "PANDA",
+  "decimals": 6,
+  "coin_type": "0xd451887bacd120c9fb1c8b4978e5650b53d1f5393ec17c2520e8f727b66d41d4::panda::PANDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c385426d-117a-448e-ae67-4bbd3a737ffb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

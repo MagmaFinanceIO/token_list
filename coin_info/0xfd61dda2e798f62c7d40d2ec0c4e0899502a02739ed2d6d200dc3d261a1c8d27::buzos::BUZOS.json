@@ -1,0 +1,13 @@
+{
+  "name": "Juff Buzos",
+  "symbol": "BUZOS",
+  "decimals": 5,
+  "coin_type": "0xfd61dda2e798f62c7d40d2ec0c4e0899502a02739ed2d6d200dc3d261a1c8d27::buzos::BUZOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/57125222-4b33-45ee-b424-addda56f7757.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

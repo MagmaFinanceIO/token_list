@@ -1,0 +1,13 @@
+{
+  "name": "Sui Frens",
+  "symbol": "Frens",
+  "decimals": 9,
+  "coin_type": "0xe90d1e484e99e0d21739d4e0bb3cecbea2688e98070c0f6a40f905ac472cc6d6::frens::FRENS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/056394cf-a546-4833-8cd1-8af012916768.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

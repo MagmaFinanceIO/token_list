@@ -1,0 +1,13 @@
+{
+  "name": "Suimba 🦁",
+  "symbol": "SUIMBA",
+  "decimals": 9,
+  "coin_type": "0x32f82a7091f93b1a9cf8297f308b152ddede6d7a2a4f12e97c816f266d768a75::suimba::SUIMBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/02c783dd-e5e7-48a9-91e0-8cef30faea06.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

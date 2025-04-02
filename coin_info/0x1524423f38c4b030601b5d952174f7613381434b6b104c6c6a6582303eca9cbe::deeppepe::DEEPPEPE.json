@@ -1,0 +1,13 @@
+{
+  "name": "DeepPepe",
+  "symbol": "DeepPepe",
+  "decimals": 9,
+  "coin_type": "0x1524423f38c4b030601b5d952174f7613381434b6b104c6c6a6582303eca9cbe::deeppepe::DEEPPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CmsaQiEZacrKHj68ERTbB2bgd6KNK7KRZmRKEdKspump.png?size=lg&key=72eab8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

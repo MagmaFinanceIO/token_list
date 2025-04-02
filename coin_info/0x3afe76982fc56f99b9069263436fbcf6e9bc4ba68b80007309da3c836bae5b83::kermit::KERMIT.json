@@ -1,0 +1,13 @@
+{
+  "name": "Kermit",
+  "symbol": "KERMIT",
+  "decimals": 6,
+  "coin_type": "0x3afe76982fc56f99b9069263436fbcf6e9bc4ba68b80007309da3c836bae5b83::kermit::KERMIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000029187_2389ca892c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

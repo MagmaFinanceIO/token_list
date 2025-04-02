@@ -1,0 +1,13 @@
+{
+  "name": "Baby Giga Chad",
+  "symbol": "BABYCHAD",
+  "decimals": 9,
+  "coin_type": "0x5c8b0a61d7770e8e622c1805b9ef8f35a05a0f078ba802cdd947de4783e8b287::babychad::BABYCHAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AzJYGdSmvfLSYaUi4zAf2ENkeyVLG9skm9Uqwnyc3PKz.png?claimId=8ZSalayRiiSkkPJn",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

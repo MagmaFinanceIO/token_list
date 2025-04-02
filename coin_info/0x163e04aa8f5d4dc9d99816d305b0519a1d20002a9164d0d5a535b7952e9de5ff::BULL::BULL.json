@@ -1,0 +1,13 @@
+{
+  "name": "BULL",
+  "symbol": "BULL",
+  "decimals": 2,
+  "coin_type": "0x163e04aa8f5d4dc9d99816d305b0519a1d20002a9164d0d5a535b7952e9de5ff::BULL::BULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/FhmsmJ4glJDkP_mLexoOzWBM75tbfH7s6aJALcfOa3w?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

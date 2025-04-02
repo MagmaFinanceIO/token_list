@@ -1,0 +1,13 @@
+{
+  "name": "Cyber♧Agent by SuiAI",
+  "symbol": "CYB",
+  "decimals": 6,
+  "coin_type": "0x32c2e307c8e7e61b525fffa9904508858038383a22bcd5970daf586963ef6908::cyb::CYB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000022668_083d010aa7.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

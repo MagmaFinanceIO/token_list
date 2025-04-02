@@ -1,0 +1,13 @@
+{
+  "name": "DONK",
+  "symbol": "DONK",
+  "decimals": 9,
+  "coin_type": "0x78991e385f59c42168aa603078d01cfe675594f492334f0cbf68f51439f8416a::donk::DONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/993184bf-239a-48ec-b834-a446d5d05e42.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

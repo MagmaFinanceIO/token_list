@@ -1,0 +1,13 @@
+{
+  "name": "LAMA-CTO",
+  "symbol": "LAMA",
+  "decimals": 6,
+  "coin_type": "0x28f25d749f12db6fab66995f495e415dd407065801561580aeda0c1744f5e97d::lama::LAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Md_MF_3_Qn6_400x400_eac6c85233.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

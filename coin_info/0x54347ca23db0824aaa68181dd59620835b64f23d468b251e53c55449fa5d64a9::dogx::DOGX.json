@@ -1,0 +1,13 @@
+{
+  "name": "DOGX AI",
+  "symbol": "DOGX",
+  "decimals": 9,
+  "coin_type": "0x54347ca23db0824aaa68181dd59620835b64f23d468b251e53c55449fa5d64a9::dogx::DOGX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/bYBV0PdEf_To_qnX?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

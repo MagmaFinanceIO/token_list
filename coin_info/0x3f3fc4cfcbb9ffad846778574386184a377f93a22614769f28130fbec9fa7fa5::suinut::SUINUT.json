@@ -1,0 +1,13 @@
+{
+  "name": "Suinut",
+  "symbol": "SUINUT",
+  "decimals": 9,
+  "coin_type": "0x3f3fc4cfcbb9ffad846778574386184a377f93a22614769f28130fbec9fa7fa5::suinut::SUINUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2KZh8R5EJTQ2no4VNQJsAETKb3e9V2QBpKA9QeDZVjQm.png?size=lg&key=103fb5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

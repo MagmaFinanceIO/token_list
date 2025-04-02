@@ -1,0 +1,13 @@
+{
+  "name": "WALR$ are Baller$",
+  "symbol": "WALR",
+  "decimals": 6,
+  "coin_type": "0x6dda0d9a9550f650f884eed6defec04657a2a92365e3149b3c402d31249f8a79::walr::WALR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1732202928791.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

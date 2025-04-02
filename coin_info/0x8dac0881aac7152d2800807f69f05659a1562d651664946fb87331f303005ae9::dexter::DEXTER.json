@@ -1,0 +1,13 @@
+{
+  "name": "DEXTERS LABS",
+  "symbol": "DEXTER",
+  "decimals": 9,
+  "coin_type": "0x8dac0881aac7152d2800807f69f05659a1562d651664946fb87331f303005ae9::dexter::DEXTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AD4Hj3mMG6ahKWFEcgtDV85Q1uUK77omDQpGycVCpump.png?size=lg&key=6556cd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hola Coin",
+  "symbol": "HOLA",
+  "decimals": 9,
+  "coin_type": "0x37ff8e1683ac8b10b0d0664e05409dc5a8ff16cdc83d0fcb83078ba10d1e6cb3::hola::HOLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

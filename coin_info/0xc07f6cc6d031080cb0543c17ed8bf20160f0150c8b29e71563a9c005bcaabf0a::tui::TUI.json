@@ -1,0 +1,13 @@
+{
+  "name": "Suiramp",
+  "symbol": "TUI",
+  "decimals": 9,
+  "coin_type": "0xc07f6cc6d031080cb0543c17ed8bf20160f0150c8b29e71563a9c005bcaabf0a::tui::TUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ph-test-11.slatic.net/p/60a644693a2caac0c4524d585ecf4e74.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

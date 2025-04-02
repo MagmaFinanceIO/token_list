@@ -1,0 +1,13 @@
+{
+  "name": "FartStop",
+  "symbol": "FartStop",
+  "decimals": 9,
+  "coin_type": "0x7a63a021335bfe38eaeedeb22636a17723fe61d1b3d239ef91156fa8cecaa8c4::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

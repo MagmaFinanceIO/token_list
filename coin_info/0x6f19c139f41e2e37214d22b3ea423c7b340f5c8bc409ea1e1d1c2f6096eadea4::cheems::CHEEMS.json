@@ -1,0 +1,13 @@
+{
+  "name": "Sui Cheems",
+  "symbol": "CHEEMS",
+  "decimals": 9,
+  "coin_type": "0x6f19c139f41e2e37214d22b3ea423c7b340f5c8bc409ea1e1d1c2f6096eadea4::cheems::CHEEMS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://aquamarine-giant-muskox-172.mypinata.cloud/ipfs/QmS33wnYcgyYHMq1Y9FK4ypbaC7ZUG9E8H3TRftfMyzqje",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

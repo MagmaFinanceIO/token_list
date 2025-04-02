@@ -1,0 +1,13 @@
+{
+  "name": "CARLO SUI",
+  "symbol": "CARLO",
+  "decimals": 6,
+  "coin_type": "0x43ee887e79c3df51cc7b19412d8b26d9d73658aa4f3e77343f13e9ffa2bc6f7c::carlo::CARLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/u246_H9_HN_400x400_acaab7727c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

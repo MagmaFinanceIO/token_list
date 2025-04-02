@@ -1,0 +1,13 @@
+{
+  "name": "HONKonSUI",
+  "symbol": "Honk",
+  "decimals": 6,
+  "coin_type": "0x523c3eb50dc5969d41ec325fc61a0e58cb4a559ee5eb6d30b6b2d254febf419d::honk::HONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/20241013_003027_3c22c4c7df.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

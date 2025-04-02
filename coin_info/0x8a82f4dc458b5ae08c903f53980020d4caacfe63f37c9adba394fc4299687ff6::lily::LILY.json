@@ -1,0 +1,13 @@
+{
+  "name": "Lily The Frog",
+  "symbol": "LILY",
+  "decimals": 9,
+  "coin_type": "0x8a82f4dc458b5ae08c903f53980020d4caacfe63f37c9adba394fc4299687ff6::lily::LILY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/so5xxLJwBDLEke17Chco2cPJhqskREApcRkBd1Zpump.png?size=lg&key=b50383",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

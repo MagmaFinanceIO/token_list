@@ -1,0 +1,13 @@
+{
+  "name": "BAD IDEA AI",
+  "symbol": "BAD",
+  "decimals": 9,
+  "coin_type": "0x5fdc9ca9de9e514fb8e368a933a34d027ea383820cbe7932e1b44c8f692e33a6::bad::BAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x32b86b99441480a7e5bd3a26c124ec2373e3f015.png?size=lg&key=82d5ac",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Rocky On Wheels",
+  "symbol": "Rocky",
+  "decimals": 6,
+  "coin_type": "0x29347cc61e679443b82a5cc7a5af253559cbbfafa09a1e0f17a86be1a2290b93::rocky::ROCKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_W5_D_Bqjs9_Pmye_Gyb_B_Dtkn_Ee_FV_19s42f9_Pxh3x_L_Smp_Ta_ME_774f7c5b8b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

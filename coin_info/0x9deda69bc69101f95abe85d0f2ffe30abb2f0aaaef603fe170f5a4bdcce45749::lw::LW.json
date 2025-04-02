@@ -1,0 +1,13 @@
+{
+  "name": "Lake Wanaka",
+  "symbol": "LW",
+  "decimals": 9,
+  "coin_type": "0x9deda69bc69101f95abe85d0f2ffe30abb2f0aaaef603fe170f5a4bdcce45749::lw::LW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8499055d-2349-4e6f-8385-49a80a469b00.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

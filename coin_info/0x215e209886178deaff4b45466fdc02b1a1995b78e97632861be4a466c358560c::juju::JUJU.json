@@ -1,0 +1,13 @@
+{
+  "name": "JUJU",
+  "symbol": "JUJU",
+  "decimals": 9,
+  "coin_type": "0x215e209886178deaff4b45466fdc02b1a1995b78e97632861be4a466c358560c::juju::JUJU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Gb9jGTUrGLvqHacsKDXbxsbEr6pqZb71J661WkBFpump.png?size=lg&key=9c9c05",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

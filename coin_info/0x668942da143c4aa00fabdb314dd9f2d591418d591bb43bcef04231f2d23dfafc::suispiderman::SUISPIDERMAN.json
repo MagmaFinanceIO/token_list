@@ -1,0 +1,13 @@
+{
+  "name": "SUISPIDERMAN",
+  "symbol": "SUISPIDERMAN",
+  "decimals": 9,
+  "coin_type": "0x668942da143c4aa00fabdb314dd9f2d591418d591bb43bcef04231f2d23dfafc::suispiderman::SUISPIDERMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/60de58c7-6597-466b-8372-e9e3c9f1c56e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

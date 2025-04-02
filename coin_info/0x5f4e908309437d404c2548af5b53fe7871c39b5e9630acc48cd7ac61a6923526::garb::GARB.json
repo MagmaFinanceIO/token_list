@@ -1,0 +1,13 @@
+{
+  "name": "Garbage",
+  "symbol": "GARB",
+  "decimals": 9,
+  "coin_type": "0x5f4e908309437d404c2548af5b53fe7871c39b5e9630acc48cd7ac61a6923526::garb::GARB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/df3a10c9-ddec-4fff-8855-094f8fc4c9c1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pierogi",
+  "symbol": "PIE",
+  "decimals": 8,
+  "coin_type": "0x0a58d4c875591cd4054e835765feab0481dfb751ab55963bad416e2b2f4b1b90::pie::PIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e71b5fa3-c481-473a-9ecf-78ac39430d17.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

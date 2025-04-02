@@ -1,0 +1,13 @@
+{
+  "name": "Bundo",
+  "symbol": "BUNDO",
+  "decimals": 9,
+  "coin_type": "0x5c7ae73ed07b7d38af896cf0e8d0315d0bd699cbed49165388ac6307e4514069::bundo::BUNDO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8dc6e9cd-5e57-4e94-9603-25e9ca8166f9.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

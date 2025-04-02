@@ -1,0 +1,13 @@
+{
+  "name": "Suith Park",
+  "symbol": "SUITH",
+  "decimals": 6,
+  "coin_type": "0x0a07c20636760736c9d5947b99fe6265730e7122de6777e476aa09da6d2c3cc7::suith::SUITH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suiparkx_581ba4872c.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

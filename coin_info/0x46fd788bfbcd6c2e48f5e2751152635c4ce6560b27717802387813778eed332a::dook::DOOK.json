@@ -1,0 +1,13 @@
+{
+  "name": "Shoobadookie Sui",
+  "symbol": "DOOK",
+  "decimals": 6,
+  "coin_type": "0x46fd788bfbcd6c2e48f5e2751152635c4ce6560b27717802387813778eed332a::dook::DOOK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ss_300x300_e19f210e50.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

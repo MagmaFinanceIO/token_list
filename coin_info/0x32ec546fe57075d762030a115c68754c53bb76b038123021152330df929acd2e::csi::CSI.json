@@ -1,0 +1,13 @@
+{
+  "name": "CSI8800",
+  "symbol": "CSI",
+  "decimals": 6,
+  "coin_type": "0x32ec546fe57075d762030a115c68754c53bb76b038123021152330df929acd2e::csi::CSI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/9784d3bf93d50982f65d09172614dac0_png_copy_9d46447f18.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Flork",
+  "symbol": "FLORK",
+  "decimals": 9,
+  "coin_type": "0xc824dcea33de5a7f8331cb59226ee674029fa65b53ac97668c8eaf1bdba8f2cd::flork::FLORK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ba2d0a46-a698-4c92-8903-b9802c299adb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

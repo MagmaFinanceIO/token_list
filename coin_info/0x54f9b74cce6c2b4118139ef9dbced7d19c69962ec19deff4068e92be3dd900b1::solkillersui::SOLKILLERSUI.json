@@ -1,0 +1,13 @@
+{
+  "name": "Solana Killer",
+  "symbol": "SOLKILLERSUI",
+  "decimals": 9,
+  "coin_type": "0x54f9b74cce6c2b4118139ef9dbced7d19c69962ec19deff4068e92be3dd900b1::solkillersui::SOLKILLERSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8113f496-f556-4439-8dbe-6d9592ae96db.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

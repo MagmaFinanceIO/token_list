@@ -1,0 +1,13 @@
+{
+  "name": "Juice 🧃",
+  "symbol": "JUICE",
+  "decimals": 9,
+  "coin_type": "0x3ae4bb4765d01514a80eee33c7ac9ceacfdf144393e6b7067a228358cbc6fdea::juice::JUICE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9e87d497-964e-472f-8ee8-a75e30cffb13.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

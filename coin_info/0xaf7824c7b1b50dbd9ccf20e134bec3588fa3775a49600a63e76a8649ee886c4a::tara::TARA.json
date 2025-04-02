@@ -1,0 +1,13 @@
+{
+  "name": "Tara Hero Cat",
+  "symbol": "TARA",
+  "decimals": 9,
+  "coin_type": "0xaf7824c7b1b50dbd9ccf20e134bec3588fa3775a49600a63e76a8649ee886c4a::tara::TARA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8yf6YoEedFSnAFXoehK8ofrYctx1estFM667XoPppump.png?size=lg&key=165417",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

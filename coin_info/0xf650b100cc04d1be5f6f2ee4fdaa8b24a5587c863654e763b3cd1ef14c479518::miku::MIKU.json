@@ -1,0 +1,13 @@
+{
+  "name": "Miku AI",
+  "symbol": "MIKU",
+  "decimals": 9,
+  "coin_type": "0xf650b100cc04d1be5f6f2ee4fdaa8b24a5587c863654e763b3cd1ef14c479518::miku::MIKU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BjNtwXcFmS81MgGJWqVu2JHt8RxDvJ66vrkDudPQ9T3j.png?size=lg&key=ee7717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

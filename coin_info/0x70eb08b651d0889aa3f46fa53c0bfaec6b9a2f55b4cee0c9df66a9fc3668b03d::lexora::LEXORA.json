@@ -1,0 +1,13 @@
+{
+  "name": "Lexora AI",
+  "symbol": "LEXORA",
+  "decimals": 9,
+  "coin_type": "0x70eb08b651d0889aa3f46fa53c0bfaec6b9a2f55b4cee0c9df66a9fc3668b03d::lexora::LEXORA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Hoy3zV7L7ePNWrPETpxFRcW7pK7vRLzfQWxCVRnPpump.png?size=lg&key=f8a89d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

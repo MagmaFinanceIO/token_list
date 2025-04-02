@@ -1,0 +1,13 @@
+{
+  "name": "Spank Thaat BIiitch",
+  "symbol": "SPANK",
+  "decimals": 9,
+  "coin_type": "0x6f471f65803c565830e6f09bce1df73c0f811803e79fa1ae6a6233a0706ef620::spank::SPANK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b1db3fe1-b926-4066-8a46-710d2cbff81a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DOGS",
+  "symbol": "DOGS",
+  "decimals": 9,
+  "coin_type": "0x9e8c29cabd04bacccf160bee90feced3ccb8420c5346bfe647f25a9acc1ad3ed::dogs::DOGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e00bfd8a-0a80-4013-88b9-c69beb365f3e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

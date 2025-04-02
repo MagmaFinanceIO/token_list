@@ -1,0 +1,13 @@
+{
+  "name": "MEMO",
+  "symbol": "EMO",
+  "decimals": 9,
+  "coin_type": "0x61780459a83aee92e3ca3e0b7e98b9dcfeb7b39524d3b24f8b87318b1697284e::emo::EMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/46f191b7-c7c0-4db0-b41d-66b1d3bdd724.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

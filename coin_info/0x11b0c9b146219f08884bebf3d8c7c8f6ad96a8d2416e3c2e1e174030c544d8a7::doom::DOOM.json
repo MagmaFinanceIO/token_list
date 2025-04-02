@@ -1,0 +1,13 @@
+{
+  "name": "DoomScroll",
+  "symbol": "DOOM",
+  "decimals": 6,
+  "coin_type": "0x11b0c9b146219f08884bebf3d8c7c8f6ad96a8d2416e3c2e1e174030c544d8a7::doom::DOOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735974852751.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

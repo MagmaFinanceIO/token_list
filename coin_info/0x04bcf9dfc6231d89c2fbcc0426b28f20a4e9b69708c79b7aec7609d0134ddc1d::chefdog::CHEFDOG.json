@@ -1,0 +1,13 @@
+{
+  "name": "Chef Dog",
+  "symbol": "ChefDog",
+  "decimals": 9,
+  "coin_type": "0x04bcf9dfc6231d89c2fbcc0426b28f20a4e9b69708c79b7aec7609d0134ddc1d::chefdog::CHEFDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/8WzN2WtCILJgmHJq?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

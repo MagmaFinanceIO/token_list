@@ -1,0 +1,13 @@
+{
+  "name": "BOB",
+  "symbol": "AngryBoB",
+  "decimals": 6,
+  "coin_type": "0x3523fcb1c7edccac316d0e0686dd367ca5fd4da756555a15590c4a65ca7dfe0b::angrybob::ANGRYBOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmQQSmJMymLqNgnXRXqUmbaGaxWguh9AxnCahSZ8WADNVd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

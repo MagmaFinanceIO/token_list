@@ -1,0 +1,13 @@
+{
+  "name": "Principals Network",
+  "symbol": "PNET",
+  "decimals": 9,
+  "coin_type": "0xfb72ecfe4b0472c5509e80d0fac7239ad92804bb243f4bf4c0df96ce056ab9d9::pnet::PNET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GaZ6En5JWWR7u7dqnpvRr5tk56XRV3KRtZwdeuR3pump.png?size=lg&key=677d53",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

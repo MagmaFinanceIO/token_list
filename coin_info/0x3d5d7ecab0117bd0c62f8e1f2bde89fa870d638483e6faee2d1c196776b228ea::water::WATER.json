@@ -1,0 +1,13 @@
+{
+  "name": "Watermelon",
+  "symbol": "WATER",
+  "decimals": 9,
+  "coin_type": "0x3d5d7ecab0117bd0c62f8e1f2bde89fa870d638483e6faee2d1c196776b228ea::water::WATER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/10a61e9f-d6de-40a2-9576-34a22ed52caf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

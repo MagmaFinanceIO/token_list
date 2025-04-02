@@ -1,0 +1,13 @@
+{
+  "name": "TORC",
+  "symbol": "TORC",
+  "decimals": 9,
+  "coin_type": "0xc933ee3cb09806d68145655e9c4114b89d4dc7382a4f7457ce2eef5d25d5bd8b::torc::TORC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Chris_Hemsworth_as_Thor.jpg/220px-Chris_Hemsworth_as_Thor.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

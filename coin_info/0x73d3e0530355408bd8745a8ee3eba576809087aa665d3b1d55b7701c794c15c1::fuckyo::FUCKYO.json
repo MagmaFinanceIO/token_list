@@ -1,0 +1,13 @@
+{
+  "name": "fuck you",
+  "symbol": "FUCKYO",
+  "decimals": 9,
+  "coin_type": "0x73d3e0530355408bd8745a8ee3eba576809087aa665d3b1d55b7701c794c15c1::fuckyo::FUCKYO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://waterpump.fun/api/file/6aeb3ef068704580bd926b9fb22a877f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

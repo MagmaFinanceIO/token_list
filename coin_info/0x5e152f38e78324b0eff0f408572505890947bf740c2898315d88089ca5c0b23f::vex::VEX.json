@@ -1,0 +1,13 @@
+{
+  "name": "VERTEX",
+  "symbol": "VEX",
+  "decimals": 9,
+  "coin_type": "0x5e152f38e78324b0eff0f408572505890947bf740c2898315d88089ca5c0b23f::vex::VEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/50e33159-71b6-43bd-9e90-e89748d79d20.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

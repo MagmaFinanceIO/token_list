@@ -1,0 +1,13 @@
+{
+  "name": "Trump On Sui",
+  "symbol": "MAGA",
+  "decimals": 6,
+  "coin_type": "0x43e2372eb35d7fa16c55897d70471fded94b2bd7da87a614bfdefe271c05a3d9::maga::MAGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/title_3_beb80fbe16.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

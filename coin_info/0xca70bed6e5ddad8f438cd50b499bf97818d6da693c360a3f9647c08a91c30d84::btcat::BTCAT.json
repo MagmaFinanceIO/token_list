@@ -1,0 +1,13 @@
+{
+  "name": "BITCOIN TRADER CAT",
+  "symbol": "BTCAT",
+  "decimals": 9,
+  "coin_type": "0xca70bed6e5ddad8f438cd50b499bf97818d6da693c360a3f9647c08a91c30d84::btcat::BTCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c7d1989d-55a9-4175-b848-188af1a27940.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

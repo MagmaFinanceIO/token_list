@@ -1,0 +1,13 @@
+{
+  "name": "Rock Paper Scissors",
+  "symbol": "RPS",
+  "decimals": 9,
+  "coin_type": "0x5c8a2d32568b85fb98bf965539e00c692b257898134ffdf34686041e08648fc0::rps::RPS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3zwQXDuwBQjTRftZCcyEVd1M5mFFJGYRH45zJNGNBqcF.png?size=lg&key=2ad9b3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

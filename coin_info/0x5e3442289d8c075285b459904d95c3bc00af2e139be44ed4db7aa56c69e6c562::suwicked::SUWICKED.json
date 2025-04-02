@@ -1,0 +1,13 @@
+{
+  "name": "SUI WICKED",
+  "symbol": "SUWICKED",
+  "decimals": 6,
+  "coin_type": "0x5e3442289d8c075285b459904d95c3bc00af2e139be44ed4db7aa56c69e6c562::suwicked::SUWICKED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3489_670bb2bf15.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

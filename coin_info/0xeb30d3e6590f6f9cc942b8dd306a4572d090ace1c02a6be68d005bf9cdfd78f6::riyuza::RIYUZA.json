@@ -1,0 +1,13 @@
+{
+  "name": "Riyuza AI On Sui",
+  "symbol": "RIYUZA",
+  "decimals": 9,
+  "coin_type": "0xeb30d3e6590f6f9cc942b8dd306a4572d090ace1c02a6be68d005bf9cdfd78f6::riyuza::RIYUZA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7Xty94Sq7KTk6JzMY6ByY2zmcUrpEVHJcLySYm8Kpump.png?size=lg&key=20edcf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

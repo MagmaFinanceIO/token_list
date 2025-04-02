@@ -1,0 +1,13 @@
+{
+  "name": "Nini AI Trading",
+  "symbol": "NINIAI",
+  "decimals": 9,
+  "coin_type": "0x95bb15952be5cbf9ac3376039a71ce74e4482acb07455cebf9f33e949143d1e5::niniai::NINIAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6vGqvwfSddimaXZ77nDj6u5Pj3wBAfX4QBGHzmdrT6Hq.png?size=lg&key=237aef",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MAGA MAXIMUS",
+  "symbol": "MAGAMAX",
+  "decimals": 9,
+  "coin_type": "0x028aaa8b3a8fc92df0bacff157833560b7cbf7ea403820145918fa25231ae995::magamax::MAGAMAX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7CyBWzNnjPkuDm26NbcNKASstvpRttjRmu6uh93gpump.png?size=lg&key=b99054",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

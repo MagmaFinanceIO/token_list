@@ -1,0 +1,13 @@
+{
+  "name": "LOU ON SUI",
+  "symbol": "LOU",
+  "decimals": 6,
+  "coin_type": "0xa5fdd54153dda46ec3101000de4b28042ab8827f3a4257cff66c3f002dfa5f7e::lou::LOU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/LOU_64e5776d2a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

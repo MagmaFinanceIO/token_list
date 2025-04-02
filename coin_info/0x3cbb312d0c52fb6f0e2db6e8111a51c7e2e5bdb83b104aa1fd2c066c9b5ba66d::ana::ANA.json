@@ -1,0 +1,13 @@
+{
+  "name": "ALAKNANDA",
+  "symbol": "ANA",
+  "decimals": 9,
+  "coin_type": "0x3cbb312d0c52fb6f0e2db6e8111a51c7e2e5bdb83b104aa1fd2c066c9b5ba66d::ana::ANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b3643c79-e822-4df9-bacb-a47bf1d133dd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

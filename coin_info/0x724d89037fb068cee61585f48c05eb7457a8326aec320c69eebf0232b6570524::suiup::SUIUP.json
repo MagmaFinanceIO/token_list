@@ -1,0 +1,13 @@
+{
+  "name": "Sui-Up",
+  "symbol": "SUIUP",
+  "decimals": 9,
+  "coin_type": "0x724d89037fb068cee61585f48c05eb7457a8326aec320c69eebf0232b6570524::suiup::SUIUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmNwn6pEPPJRGaJx4evXtnkyWvdWcnWusMXaK36xATMTr5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

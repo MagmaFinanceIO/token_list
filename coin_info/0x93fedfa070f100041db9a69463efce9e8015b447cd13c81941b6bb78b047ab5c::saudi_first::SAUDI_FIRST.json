@@ -1,0 +1,13 @@
+{
+  "name": "Saudi 1st",
+  "symbol": "SAUDI FIRST",
+  "decimals": 9,
+  "coin_type": "0x93fedfa070f100041db9a69463efce9e8015b447cd13c81941b6bb78b047ab5c::saudi_first::SAUDI_FIRST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1870fbbe-7a3c-4463-a51c-620d44a2da4b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

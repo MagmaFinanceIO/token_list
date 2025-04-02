@@ -1,0 +1,13 @@
+{
+  "name": "KingMidad",
+  "symbol": "KINGM",
+  "decimals": 6,
+  "coin_type": "0xc4db977ff16c08cfe7835e0309d3179d0456e3320f88fb55d1f09cbeebcfa8c5::kingm::KINGM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_6514_3941fc20e8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

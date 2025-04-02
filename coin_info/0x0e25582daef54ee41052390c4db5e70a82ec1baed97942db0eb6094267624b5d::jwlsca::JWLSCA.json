@@ -1,0 +1,13 @@
+{
+  "name": "JWLSCA",
+  "symbol": "JWLSCA",
+  "decimals": 9,
+  "coin_type": "0x0e25582daef54ee41052390c4db5e70a82ec1baed97942db0eb6094267624b5d::jwlsca::JWLSCA",
+  "pyth_id": "",
+  "birdeyeid": "0x0e25582daef54ee41052390c4db5e70a82ec1baed97942db0eb6094267624b5d::jwlsca::JWLSCA",
+  "coin_priority": [],
+  "logo_url": "https://ocknifrosvx5vmpte2zavnpv7fpkauqsqu5tij43iy5shxdle6ha.arweave.net/cJTUFi6Vb9qx8yayCrX1-V6gUhKFOzQnm0Y7I9xrJ44",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

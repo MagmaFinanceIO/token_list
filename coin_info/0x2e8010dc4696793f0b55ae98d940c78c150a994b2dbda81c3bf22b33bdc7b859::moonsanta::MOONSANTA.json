@@ -1,0 +1,13 @@
+{
+  "name": "Sui Moon Santa",
+  "symbol": "MoonSanta",
+  "decimals": 9,
+  "coin_type": "0x2e8010dc4696793f0b55ae98d940c78c150a994b2dbda81c3bf22b33bdc7b859::moonsanta::MOONSANTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://img.freepik.com/premium-vector/cute-santa-claus-singing-moon-cartoon-mascot-character_357749-1594.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

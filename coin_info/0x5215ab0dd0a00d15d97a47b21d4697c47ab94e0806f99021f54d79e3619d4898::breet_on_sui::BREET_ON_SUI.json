@@ -1,0 +1,13 @@
+{
+  "name": "BREETT ON SUI",
+  "symbol": "BREET ON SUI",
+  "decimals": 9,
+  "coin_type": "0x5215ab0dd0a00d15d97a47b21d4697c47ab94e0806f99021f54d79e3619d4898::breet_on_sui::BREET_ON_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a54270ed-240e-416e-9dd3-0bda069e686d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

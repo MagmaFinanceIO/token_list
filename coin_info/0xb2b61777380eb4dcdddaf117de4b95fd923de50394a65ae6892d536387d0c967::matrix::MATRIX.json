@@ -1,0 +1,13 @@
+{
+  "name": "The Matrix Frog",
+  "symbol": "MATRIX",
+  "decimals": 9,
+  "coin_type": "0xb2b61777380eb4dcdddaf117de4b95fd923de50394a65ae6892d536387d0c967::matrix::MATRIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0c7cf57b-2729-4a8c-a0dd-230fd5667e6b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

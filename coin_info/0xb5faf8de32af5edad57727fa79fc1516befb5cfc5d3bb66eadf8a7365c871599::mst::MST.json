@@ -1,0 +1,13 @@
+{
+  "name": "Misty",
+  "symbol": "Mst",
+  "decimals": 2,
+  "coin_type": "0xb5faf8de32af5edad57727fa79fc1516befb5cfc5d3bb66eadf8a7365c871599::mst::MST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/80272ccd-c615-489b-9f1c-c2845a60d0c0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

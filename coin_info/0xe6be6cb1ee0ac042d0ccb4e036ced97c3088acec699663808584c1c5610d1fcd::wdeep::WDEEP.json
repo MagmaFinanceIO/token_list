@@ -1,0 +1,13 @@
+{
+  "name": "Wrapped DeepBook",
+  "symbol": "WDEEP",
+  "decimals": 6,
+  "coin_type": "0xe6be6cb1ee0ac042d0ccb4e036ced97c3088acec699663808584c1c5610d1fcd::wdeep::WDEEP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ce846c2d-bc68-4b1e-9558-a92b037dc638.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

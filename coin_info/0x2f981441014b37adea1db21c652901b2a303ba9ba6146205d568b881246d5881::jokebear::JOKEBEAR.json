@@ -1,0 +1,13 @@
+{
+  "name": "joke bear(JokeBear)",
+  "symbol": "JokeBear",
+  "decimals": 9,
+  "coin_type": "0x2f981441014b37adea1db21c652901b2a303ba9ba6146205d568b881246d5881::jokebear::JOKEBEAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3BoSxHBdA3eLpwaAfKPYCNYoFkZ9KN7g2EhSDr8y8VYV.png?size=lg&key=9d5762",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

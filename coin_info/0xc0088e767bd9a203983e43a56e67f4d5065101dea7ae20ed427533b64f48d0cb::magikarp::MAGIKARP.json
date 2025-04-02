@@ -1,0 +1,13 @@
+{
+  "name": "Magikarp",
+  "symbol": "magikarp",
+  "decimals": 9,
+  "coin_type": "0xc0088e767bd9a203983e43a56e67f4d5065101dea7ae20ed427533b64f48d0cb::magikarp::MAGIKARP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6e214fae-adb1-4d5e-a245-57c0539c2072/de2gw03-c7032f75-32ad-4100-b99b-0e67ae09099a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZlMjE0ZmFlLWFkYjEtNGQ1ZS1hMjQ1LTU3YzA1MzljMjA3MlwvZGUyZ3cwMy1jNzAzMmY3NS0zMmFkLTQxMDAtYjk5Yi0wZTY3YWUwOTA5OWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1BLxgeqRUvB0fbh3sTRylsSyL7Ue5PKuxpOX4QHMR4I",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

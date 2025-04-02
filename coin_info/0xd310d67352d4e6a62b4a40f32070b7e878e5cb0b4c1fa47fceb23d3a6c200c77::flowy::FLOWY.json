@@ -1,0 +1,13 @@
+{
+  "name": "Flowsuito",
+  "symbol": "Flowy",
+  "decimals": 9,
+  "coin_type": "0xd310d67352d4e6a62b4a40f32070b7e878e5cb0b4c1fa47fceb23d3a6c200c77::flowy::FLOWY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1426562705784295429/t6TjPtii_400x400.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

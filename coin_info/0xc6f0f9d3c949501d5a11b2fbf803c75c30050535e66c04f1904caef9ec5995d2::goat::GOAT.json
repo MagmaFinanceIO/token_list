@@ -1,0 +1,13 @@
+{
+  "name": "goat",
+  "symbol": "GOAT",
+  "decimals": 6,
+  "coin_type": "0xc6f0f9d3c949501d5a11b2fbf803c75c30050535e66c04f1904caef9ec5995d2::goat::GOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000355_eaecf36011.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

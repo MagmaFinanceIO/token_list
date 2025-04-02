@@ -1,0 +1,13 @@
+{
+  "name": "Zim Invader",
+  "symbol": "ZIM",
+  "decimals": 9,
+  "coin_type": "0x8823f834fac317843b5bbda1bcf1d5421481505d5966db44d06fe813b95d06f0::zim::ZIM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/296da73c-b22c-4d64-acb2-0862104905d6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

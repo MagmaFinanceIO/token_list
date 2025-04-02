@@ -1,0 +1,13 @@
+{
+  "name": "Koko the AI Agent",
+  "symbol": "KOKO",
+  "decimals": 6,
+  "coin_type": "0xc1641028d8ae39a5b9f86e4b6cec9c032624cc305166570e33c212eaf64aaf72::koko::KOKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735954721749.51",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

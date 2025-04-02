@@ -1,0 +1,13 @@
+{
+  "name": "IRIS AI",
+  "symbol": "IRISAI",
+  "decimals": 6,
+  "coin_type": "0xd2081f5f9dbe6e5312cc356b76b3a97f84765d23e6896abac9366e313fd19290::irisai::IRISAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1732137403769.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

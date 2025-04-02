@@ -1,0 +1,13 @@
+{
+  "name": "SUIgarette",
+  "symbol": "SUIGAR",
+  "decimals": 9,
+  "coin_type": "0xf144ed1d7f599ddf5c16e3f6406a78d2f4291107c5fdbae8367a3bbb84138f22::suigar::SUIGAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8f5a0f0e-1c08-42a8-bdc1-764037f594c0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

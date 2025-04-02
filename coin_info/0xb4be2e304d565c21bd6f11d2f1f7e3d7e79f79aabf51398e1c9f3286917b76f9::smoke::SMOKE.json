@@ -1,0 +1,13 @@
+{
+  "name": "Smokey The Bear",
+  "symbol": "SMOKE",
+  "decimals": 6,
+  "coin_type": "0xb4be2e304d565c21bd6f11d2f1f7e3d7e79f79aabf51398e1c9f3286917b76f9::smoke::SMOKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_2665_0ff05a0034.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

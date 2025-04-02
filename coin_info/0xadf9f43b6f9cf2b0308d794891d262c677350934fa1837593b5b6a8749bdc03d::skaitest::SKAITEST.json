@@ -1,0 +1,13 @@
+{
+  "name": "Skillful AI Test",
+  "symbol": "SKAITest",
+  "decimals": 6,
+  "coin_type": "0xadf9f43b6f9cf2b0308d794891d262c677350934fa1837593b5b6a8749bdc03d::skaitest::SKAITEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/330a3029-999b-4894-a97a-19465f5c9632.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

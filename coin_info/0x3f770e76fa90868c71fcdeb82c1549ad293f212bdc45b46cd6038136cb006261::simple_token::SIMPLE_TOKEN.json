@@ -1,0 +1,13 @@
+{
+  "name": "BLUEWAFFLE",
+  "symbol": "BLUEWAFFLE",
+  "decimals": 9,
+  "coin_type": "0x3f770e76fa90868c71fcdeb82c1549ad293f212bdc45b46cd6038136cb006261::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

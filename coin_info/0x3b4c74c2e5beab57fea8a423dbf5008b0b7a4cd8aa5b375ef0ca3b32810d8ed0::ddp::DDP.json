@@ -1,0 +1,13 @@
+{
+  "name": "Donald duck president",
+  "symbol": "DDP",
+  "decimals": 9,
+  "coin_type": "0x3b4c74c2e5beab57fea8a423dbf5008b0b7a4cd8aa5b375ef0ca3b32810d8ed0::ddp::DDP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2534ae33-1754-4b39-b455-9ec08b739524.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

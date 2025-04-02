@@ -1,0 +1,13 @@
+{
+  "name": "SHYBA",
+  "symbol": "SHY",
+  "decimals": 9,
+  "coin_type": "0x7e50b69e4c5f5300785e49e16577f5418f754c1e7f648f7193a20ecd7d34e802::shy::SHY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2dedb6cb-6a62-4648-a356-5dca5aa71cd6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

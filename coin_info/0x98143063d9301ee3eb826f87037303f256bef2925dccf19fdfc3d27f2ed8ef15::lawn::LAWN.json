@@ -1,0 +1,13 @@
+{
+  "name": "Lawn Rar",
+  "symbol": "LAWN",
+  "decimals": 9,
+  "coin_type": "0x98143063d9301ee3eb826f87037303f256bef2925dccf19fdfc3d27f2ed8ef15::lawn::LAWN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/F15Vp1vqJdQ58Usk4T4GDcL7YGegcp1pznHrpt9opump.png?size=lg&key=0f5f06",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

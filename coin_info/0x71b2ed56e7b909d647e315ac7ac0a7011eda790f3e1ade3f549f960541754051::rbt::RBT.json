@@ -1,0 +1,13 @@
+{
+  "name": "Rabbit Ai",
+  "symbol": "RBT",
+  "decimals": 6,
+  "coin_type": "0x71b2ed56e7b909d647e315ac7ac0a7011eda790f3e1ade3f549f960541754051::rbt::RBT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736523809622.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

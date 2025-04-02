@@ -1,0 +1,13 @@
+{
+  "name": "MARSCOIN",
+  "symbol": "MARSCOIN",
+  "decimals": 6,
+  "coin_type": "0x7c78acd68256739c6978555b43a9adf0709ea7c11dc57198bddb1a7bd963e2ee::marscoin::MARSCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://harlequin-payable-basilisk-127.mypinata.cloud/ipfs/QmPj2esQ4Q7udZCUBbUESBvYo8G7py7vrAknrpjKikke1X",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

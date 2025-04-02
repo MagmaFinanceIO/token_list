@@ -1,0 +1,13 @@
+{
+  "name": "NEPTUNUS",
+  "symbol": "NEP",
+  "decimals": 6,
+  "coin_type": "0x9fb11656b05c803c808e84a3ebec276665d1c7d05850b17dcfd0a8e31f969644::nep::NEP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000175349_af541f19f3.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

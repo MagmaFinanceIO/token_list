@@ -1,0 +1,13 @@
+{
+  "name": "Ava",
+  "symbol": "AVA",
+  "decimals": 6,
+  "coin_type": "0x95578189271bc552df160572cad5cb7320a503c5a08b753af87e860993baf378::ava::AVA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/UQ_Kj_AKAK_400x400_1_55c87a2ca7.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

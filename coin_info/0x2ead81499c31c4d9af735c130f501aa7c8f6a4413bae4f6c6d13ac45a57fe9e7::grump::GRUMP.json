@@ -1,0 +1,13 @@
+{
+  "name": "GrumpSui",
+  "symbol": "Grump",
+  "decimals": 6,
+  "coin_type": "0x2ead81499c31c4d9af735c130f501aa7c8f6a4413bae4f6c6d13ac45a57fe9e7::grump::GRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_16_064008635_16c6c37310.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BUMooN",
+  "symbol": "BUMN",
+  "decimals": 9,
+  "coin_type": "0x9a59c4cd48eb1ca76f6f1048ab6bf287b581a300e3106140cffddb283a811f1d::bumn::BUMN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bscscan.com/token/images/bumoon_32.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

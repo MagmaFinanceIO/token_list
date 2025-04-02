@@ -1,0 +1,13 @@
+{
+  "name": "Suick",
+  "symbol": "SUICK",
+  "decimals": 6,
+  "coin_type": "0xf9ccad51142634f3c789979384108bdf1fe4474decaab303e924b218d8e66421::suick::SUICK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6140_340237ac8e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

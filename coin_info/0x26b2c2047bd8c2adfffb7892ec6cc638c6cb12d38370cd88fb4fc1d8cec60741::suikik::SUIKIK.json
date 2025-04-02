@@ -1,0 +1,13 @@
+{
+  "name": "Suikik",
+  "symbol": "SUIKIK",
+  "decimals": 9,
+  "coin_type": "0x26b2c2047bd8c2adfffb7892ec6cc638c6cb12d38370cd88fb4fc1d8cec60741::suikik::SUIKIK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2325989a-f624-4fa4-9afd-c17a617b24a3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

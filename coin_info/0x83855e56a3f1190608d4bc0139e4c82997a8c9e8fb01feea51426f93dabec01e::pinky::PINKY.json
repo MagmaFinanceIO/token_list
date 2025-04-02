@@ -1,0 +1,13 @@
+{
+  "name": "Pinky On Sui",
+  "symbol": "PINKY",
+  "decimals": 6,
+  "coin_type": "0x83855e56a3f1190608d4bc0139e4c82997a8c9e8fb01feea51426f93dabec01e::pinky::PINKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/22efcf26_cc39_40bc_8_d609af5e58.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Rizzmas",
+  "symbol": "Rizzmas",
+  "decimals": 9,
+  "coin_type": "0x470d436d9d0e2386004f8fa9e64039c9112e1a206d58813c16792e42a4a74ee8::rizzmas::RIZZMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/85cQsFgbi8mBZxiPppbpPXuV7j1hA8tBwhjF4gKW6mHg.png?size=lg&key=d660e3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

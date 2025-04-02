@@ -1,0 +1,13 @@
+{
+  "name": "Moodeng On Sui",
+  "symbol": "MOODENG",
+  "decimals": 2,
+  "coin_type": "0xd08e5d0ba66a10bda4b1e8c087d9b06b34af6dfa3ae1e4eb4b4f7bbfcf2f3555::MOODENG::MOODENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/K8FKGSQs2Iti4QEsiL7fIEYJAkb7RCsKOelk1UCmu5I?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

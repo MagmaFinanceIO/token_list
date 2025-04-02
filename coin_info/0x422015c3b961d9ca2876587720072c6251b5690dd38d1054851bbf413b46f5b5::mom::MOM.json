@@ -1,0 +1,13 @@
+{
+  "name": "Do it for our Mom",
+  "symbol": "MOM",
+  "decimals": 9,
+  "coin_type": "0x422015c3b961d9ca2876587720072c6251b5690dd38d1054851bbf413b46f5b5::mom::MOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EeFWPwFu7ttUE59YLWi6UxgceQFAUseiFPnCMYr4pump.png?size=lg&key=deffa2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

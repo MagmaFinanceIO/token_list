@@ -1,0 +1,13 @@
+{
+  "name": "Under Pressure Sendor",
+  "symbol": "UPS",
+  "decimals": 6,
+  "coin_type": "0x20b47f64731a26e0d6b80de9b0273faa9856c0a2dc18bfd0dfe7333dcf8a0ccb::ups::UPS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_We_Uu2k_Nw_D_Qp7_Fi_H7c79a_Xdq_Rr_X_Fz_F_Wopv_Y_Ng_N_Sitw5_Zr_1_08cbc2e7a8.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

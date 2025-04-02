@@ -1,0 +1,13 @@
+{
+  "name": "CatWifBalls",
+  "symbol": "CatWifBalls",
+  "decimals": 9,
+  "coin_type": "0xa711fc6e05d620ff04bfab3ecb8b0d34d60c2a6c1f39961fd74ac099245a1402::catwifballs::CATWIFBALLS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/69f6c593-d3ca-499c-89a9-33017da3d963.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

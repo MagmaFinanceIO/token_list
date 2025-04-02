@@ -1,0 +1,13 @@
+{
+  "name": "CHAINREX_FAUCET_COIN",
+  "symbol": "CRF",
+  "decimals": 9,
+  "coin_type": "0x4a207050f8085df4fb83b4360740ea8c39862e072da85eb6a601ca80521e8a32::chainrex_faucet_coin::CHAINREX_FAUCET_COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://avatars.githubusercontent.com/u/76983474",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

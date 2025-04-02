@@ -1,0 +1,13 @@
+{
+  "name": "Huski Token",
+  "symbol": "HUSKI",
+  "decimals": 0,
+  "coin_type": "0xda1644f58a955833a15abae24f8cc65b5bd8152ce013fde8be0a6a3dcf51fe36::token::TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://imgs-8qx.pages.dev/huski.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

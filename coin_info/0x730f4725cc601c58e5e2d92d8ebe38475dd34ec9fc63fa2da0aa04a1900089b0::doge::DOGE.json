@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL DOGE",
+  "symbol": "DOGE",
+  "decimals": 9,
+  "coin_type": "0x730f4725cc601c58e5e2d92d8ebe38475dd34ec9fc63fa2da0aa04a1900089b0::doge::DOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8a6WvkVRevWM1W3HFwTPfuLMinvahxNNQb5n6VYipump.png?size=lg&key=439a0a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

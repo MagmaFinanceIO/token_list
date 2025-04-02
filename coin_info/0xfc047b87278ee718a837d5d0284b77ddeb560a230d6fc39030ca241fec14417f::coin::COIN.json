@@ -1,0 +1,13 @@
+{
+  "name": "Amphiprion ocellaris",
+  "symbol": "Clown",
+  "decimals": 6,
+  "coin_type": "0xfc047b87278ee718a837d5d0284b77ddeb560a230d6fc39030ca241fec14417f::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

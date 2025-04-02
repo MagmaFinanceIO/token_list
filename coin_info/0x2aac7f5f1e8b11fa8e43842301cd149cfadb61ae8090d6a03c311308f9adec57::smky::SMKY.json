@@ -1,0 +1,13 @@
+{
+  "name": "Sigma Monkey (SMKY): The Ultimate Alpha on Sui",
+  "symbol": "SMKY",
+  "decimals": 9,
+  "coin_type": "0x2aac7f5f1e8b11fa8e43842301cd149cfadb61ae8090d6a03c311308f9adec57::smky::SMKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4186200b-e69c-48fd-a52b-91238da3974f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

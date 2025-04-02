@@ -1,0 +1,13 @@
+{
+  "name": "Justice for Pnut and Fred",
+  "symbol": "JUSTICE",
+  "decimals": 9,
+  "coin_type": "0xe5d424c2ba09dca7bb54df60aeab6d9f670ce55862de7a690a2ae859860d9efe::justice::JUSTICE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DGagMywvLG3DwffZHX4eWWE6svnoJpiod3dSNBDwpump.png?size=lg&key=40c02c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

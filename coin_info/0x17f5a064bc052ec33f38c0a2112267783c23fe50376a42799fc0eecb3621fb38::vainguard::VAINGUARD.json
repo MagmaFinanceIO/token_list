@@ -1,0 +1,13 @@
+{
+  "name": "Vainguard by SuiAI",
+  "symbol": "VAINGUARD",
+  "decimals": 6,
+  "coin_type": "0x17f5a064bc052ec33f38c0a2112267783c23fe50376a42799fc0eecb3621fb38::vainguard::VAINGUARD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/vainguard_dff7a366dc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Apus Revolution AI",
+  "symbol": "APUSAI",
+  "decimals": 9,
+  "coin_type": "0xdb01bf3eb03277a68663abdc49d258e914a74d86c64c92fc36988494434aec51::apusai::APUSAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d4763353-b3cc-4e5c-b002-b6c0a3cd640d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Katsu(i)ragi",
+  "symbol": "MISATO",
+  "decimals": 6,
+  "coin_type": "0x5a1646f5466b209fd83e8879020176a7f99c6aadab597f2982ee70f1a750566a::misato::MISATO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmcuqJb8KMwJ45KGFF4uG3CnBMWE2QFWM63Ucb3sBYuxUa",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

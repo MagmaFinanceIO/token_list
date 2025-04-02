@@ -1,0 +1,13 @@
+{
+  "name": "EGGTRUMP",
+  "symbol": "EGG",
+  "decimals": 6,
+  "coin_type": "0x8843fd70b05de5320e3da9c1c40a66e461f4ec4c29e356117fa035ad133ade83::egg::EGG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5930_e14c5ec598.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

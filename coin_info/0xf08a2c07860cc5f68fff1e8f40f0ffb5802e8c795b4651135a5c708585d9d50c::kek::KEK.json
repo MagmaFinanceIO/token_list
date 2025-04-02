@@ -1,0 +1,13 @@
+{
+  "name": "Kekistan",
+  "symbol": "KEK",
+  "decimals": 9,
+  "coin_type": "0xf08a2c07860cc5f68fff1e8f40f0ffb5802e8c795b4651135a5c708585d9d50c::kek::KEK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9bf9a25a-7ecc-4281-8220-98602e2d420f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

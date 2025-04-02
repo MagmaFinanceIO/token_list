@@ -1,0 +1,13 @@
+{
+  "name": "CATGF",
+  "symbol": "CATGF",
+  "decimals": 9,
+  "coin_type": "0xf6378fabc07e63f17212507929dd3544783d693b27071a6bcafaf6e93f3aa32f::catgf::CATGF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xad86b91a1d1db15a4cd34d0634bbd4ecacb5b61a.png?size=lg&key=aadeeb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

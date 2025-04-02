@@ -1,0 +1,13 @@
+{
+  "name": "Kuaisu",
+  "symbol": "KUAISU",
+  "decimals": 9,
+  "coin_type": "0x1a35b13b31806c12e0a597626ad50e5b0fa9128e5906552008acc5d77e59cb3b::kuaisu::KUAISU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/17d7dcca-932b-4bbd-a8d9-df64ce1157e9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

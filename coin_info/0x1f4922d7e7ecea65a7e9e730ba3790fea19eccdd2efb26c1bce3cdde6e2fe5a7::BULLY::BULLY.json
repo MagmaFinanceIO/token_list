@@ -1,0 +1,13 @@
+{
+  "name": "BULLY",
+  "symbol": "BULLY",
+  "decimals": 2,
+  "coin_type": "0x1f4922d7e7ecea65a7e9e730ba3790fea19eccdd2efb26c1bce3cdde6e2fe5a7::BULLY::BULLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/86QFooCNwKjlZZVZEg3lCboRTfEfxe4I0EPE_wk1yyQ?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

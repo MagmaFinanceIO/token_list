@@ -1,0 +1,13 @@
+{
+  "name": "Quantum Gospel",
+  "symbol": "QOAT",
+  "decimals": 9,
+  "coin_type": "0xf83e2dc1a0a15715dc7169a45c67e658a009ffdd9fa49c5a29df0765ead77a23::qoat::QOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7F9bK2Gj7X5YY3dYfojoWVQYerFYcaGCni6Czt8Xpump.png?size=lg&key=19dcaa",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

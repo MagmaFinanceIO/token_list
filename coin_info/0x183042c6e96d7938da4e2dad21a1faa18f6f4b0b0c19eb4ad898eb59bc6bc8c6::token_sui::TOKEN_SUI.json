@@ -1,0 +1,13 @@
+{
+  "name": "autism",
+  "symbol": "autism",
+  "decimals": 9,
+  "coin_type": "0x183042c6e96d7938da4e2dad21a1faa18f6f4b0b0c19eb4ad898eb59bc6bc8c6::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BkVeSP2GsXV3AYoRJBSZTpFE8sXmcuGnRQcFgoWspump.png?size=xl&key=446d55",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

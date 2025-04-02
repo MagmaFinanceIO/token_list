@@ -1,0 +1,13 @@
+{
+  "name": "Sui Dragon",
+  "symbol": "SDRAG",
+  "decimals": 6,
+  "coin_type": "0xfb5a9e842e8bf270a98544d6e6b868a80332a6d40a59dc5edd3827f39d52af7a::sdrag::SDRAG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000365_0edc72e9e0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

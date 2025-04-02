@@ -1,0 +1,13 @@
+{
+  "name": "CosmicInfinityDigitalToken",
+  "symbol": "CIDT",
+  "decimals": 9,
+  "coin_type": "0xbd4ca42457d6de9bd610199b19a1095aa5b8bfcb4c5b950466190f295867e643::cidt::CIDT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4980ead0-10bb-453e-b54f-9af2f6bc8a01.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Louis Vuitton",
+  "symbol": "LV",
+  "decimals": 9,
+  "coin_type": "0xcdf951128964cba7ddd7ea1f52a866c2e46c915c80e4ce60af138b8f9b024036::lv::LV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

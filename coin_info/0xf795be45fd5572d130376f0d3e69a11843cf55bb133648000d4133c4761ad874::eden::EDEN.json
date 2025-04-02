@@ -1,0 +1,13 @@
+{
+  "name": "EDEN COIN",
+  "symbol": "EDEN",
+  "decimals": 9,
+  "coin_type": "0xf795be45fd5572d130376f0d3e69a11843cf55bb133648000d4133c4761ad874::eden::EDEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6PEphJ3REKd7FHF8E4evRU1rp2yK6ps6WtcttbQpfhcJ.png?size=lg&key=ca6d93",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

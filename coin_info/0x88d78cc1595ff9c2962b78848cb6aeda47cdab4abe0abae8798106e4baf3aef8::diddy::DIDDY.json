@@ -1,0 +1,13 @@
+{
+  "name": "P.DIDDY",
+  "symbol": "DIDDY",
+  "decimals": 6,
+  "coin_type": "0x88d78cc1595ff9c2962b78848cb6aeda47cdab4abe0abae8798106e4baf3aef8::diddy::DIDDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/05bae43f-bae5-40f5-9021-8e8c4815fce5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

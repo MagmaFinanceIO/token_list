@@ -1,0 +1,13 @@
+{
+  "name": "MobSuiOFC",
+  "symbol": "MOBSUI",
+  "decimals": 9,
+  "coin_type": "0xbd4c6941bbbcd37f2aaf02a317c2c7f59070a4d377f714a7f8e328f783c7ae83::mobsui::MOBSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4265b382-55e8-4cbb-88f1-4ec5aefb1177.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

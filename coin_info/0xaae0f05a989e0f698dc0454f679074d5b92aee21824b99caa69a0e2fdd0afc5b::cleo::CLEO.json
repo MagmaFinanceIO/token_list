@@ -1,0 +1,13 @@
+{
+  "name": "Binance old fur-nancial advisor",
+  "symbol": "CLEO",
+  "decimals": 9,
+  "coin_type": "0xaae0f05a989e0f698dc0454f679074d5b92aee21824b99caa69a0e2fdd0afc5b::cleo::CLEO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmPSVB9ig1LoHTQZFitYYjTvvK5T5oQydjWrX6RvJwyXzE",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

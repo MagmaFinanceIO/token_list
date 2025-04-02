@@ -1,0 +1,13 @@
+{
+  "name": "AI ETF",
+  "symbol": "EAI",
+  "decimals": 9,
+  "coin_type": "0x373c20f8d4dc03dcd586df8f8b4e4abba52e95e5de52558c82575ee5fa66395c::eai::EAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DzppXbZ89u11Hg82LuxMKP9WgmEzD415XcdvwrrMpump.png?size=lg&key=6f64b6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

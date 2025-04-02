@@ -1,0 +1,13 @@
+{
+  "name": "Nekomusume",
+  "symbol": "CATGIRL",
+  "decimals": 9,
+  "coin_type": "0x82d342772f059df19f453f6c645d98bec53edeef7c7b909faf4afd0d19113fda::catgirl::CATGIRL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/13bfff05-6283-442d-99f1-561a3baa15b9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

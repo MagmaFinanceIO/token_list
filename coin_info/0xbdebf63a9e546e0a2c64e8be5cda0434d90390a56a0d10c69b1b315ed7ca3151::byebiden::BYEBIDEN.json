@@ -1,0 +1,13 @@
+{
+  "name": "Official Bye Joe Biden",
+  "symbol": "BYEBIDEN",
+  "decimals": 9,
+  "coin_type": "0xbdebf63a9e546e0a2c64e8be5cda0434d90390a56a0d10c69b1b315ed7ca3151::byebiden::BYEBIDEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xc548e90589b166e1364de744e6d35d8748996fe8.png?size=lg&key=a064bf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

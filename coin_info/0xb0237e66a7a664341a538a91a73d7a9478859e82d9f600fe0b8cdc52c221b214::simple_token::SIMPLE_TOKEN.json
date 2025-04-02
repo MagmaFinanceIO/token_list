@@ -1,0 +1,13 @@
+{
+  "name": "AIBISUI",
+  "symbol": "AIBISUI",
+  "decimals": 9,
+  "coin_type": "0xb0237e66a7a664341a538a91a73d7a9478859e82d9f600fe0b8cdc52c221b214::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

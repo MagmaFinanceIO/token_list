@@ -1,0 +1,13 @@
+{
+  "name": "POOFED",
+  "symbol": "POOFED",
+  "decimals": 9,
+  "coin_type": "0xb2f2fbf837ba40e5d86933de426d978e651f8b97790cce4790aa7e0ee09a69eb::poofed::POOFED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

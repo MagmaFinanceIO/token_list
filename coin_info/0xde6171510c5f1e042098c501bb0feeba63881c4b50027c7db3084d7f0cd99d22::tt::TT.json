@@ -1,0 +1,13 @@
+{
+  "name": "Test Token",
+  "symbol": "TT",
+  "decimals": 9,
+  "coin_type": "0xde6171510c5f1e042098c501bb0feeba63881c4b50027c7db3084d7f0cd99d22::tt::TT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://amber-hilarious-ostrich-689.mypinata.cloud/files/bafkreic5rvww44r365h66omnrhxft5fsz7v4cliq45xbiv4d4g7isbl7sm?X-Algorithm=PINATA1&X-Date=1736583178&X-Expires=315360000&X-Method=GET&X-Signature=489a0fb0db8f3b12429cd3a8588ae55bf4190bd409ea751664e904c026ecb714",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

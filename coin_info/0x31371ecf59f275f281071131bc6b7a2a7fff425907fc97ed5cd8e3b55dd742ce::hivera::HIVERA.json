@@ -1,0 +1,13 @@
+{
+  "name": "HIVERA by SuiAI",
+  "symbol": "HIVERA",
+  "decimals": 6,
+  "coin_type": "0x31371ecf59f275f281071131bc6b7a2a7fff425907fc97ed5cd8e3b55dd742ce::hivera::HIVERA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/images_13_068ca0e80b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SHIBA Token",
+  "symbol": "SHIBA",
+  "decimals": 6,
+  "coin_type": "0xd01cebc27fe22868df462f33603646549e13a4b279f5e900b99b9843680445e1::SHIBA::SHIBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://sui-img.4everland.store/sui-shiba.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PEPESUI",
+  "symbol": "PEPSI",
+  "decimals": 6,
+  "coin_type": "0xd1b12a2c11b565d283bcd8f16eab9a5194250318fbbda43ca2457100770f5e2b::pepsi::PEPSI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ff913cc6-c74c-4878-8a34-90867d90b7d0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

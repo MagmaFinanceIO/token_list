@@ -1,0 +1,13 @@
+{
+  "name": "SMILEMAN",
+  "symbol": "SMILEMAN",
+  "decimals": 9,
+  "coin_type": "0x403c8acc9c5db61faf42f3329c0549a3aa44c294a61dfdc5bdef3ad3087c9580::smileman::SMILEMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6ttH9AbqPqxCPk5G7BN6JBrQbuyrGiorNkSupd4tpump.png?size=lg&key=a55719",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AIXBT",
+  "symbol": "AIXBT",
+  "decimals": 6,
+  "coin_type": "0x9843452a332b9830d17130b15c44ba0faf39c9635bac138c5e03d7f14e1262d5::aixbt::AIXBT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/aixbt_on_sui_652529cda0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

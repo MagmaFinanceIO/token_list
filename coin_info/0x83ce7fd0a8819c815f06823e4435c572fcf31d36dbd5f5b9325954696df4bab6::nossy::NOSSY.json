@@ -1,0 +1,13 @@
+{
+  "name": "catwifnosejob",
+  "symbol": "NOSSY",
+  "decimals": 6,
+  "coin_type": "0x83ce7fd0a8819c815f06823e4435c572fcf31d36dbd5f5b9325954696df4bab6::nossy::NOSSY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmdQ8fAoh7yTWaydLewGcRd3b9ykCz7t6UdfhqHhVLtLPP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

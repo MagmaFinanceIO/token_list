@@ -1,0 +1,13 @@
+{
+  "name": "Sui Hui Vun",
+  "symbol": "SUIHUIVUN",
+  "decimals": 9,
+  "coin_type": "0x0b84c53df7677e205767337144398a1aaebcb462073a51e374d00fedcde7cfcd::suihuivun::SUIHUIVUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4f093478-7c41-47f3-a961-b615b8b0a0e9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

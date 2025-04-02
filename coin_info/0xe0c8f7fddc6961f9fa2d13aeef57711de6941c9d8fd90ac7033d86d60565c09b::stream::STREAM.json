@@ -1,0 +1,13 @@
+{
+  "name": "STREAM CAT ON SUI",
+  "symbol": "STREAM",
+  "decimals": 9,
+  "coin_type": "0xe0c8f7fddc6961f9fa2d13aeef57711de6941c9d8fd90ac7033d86d60565c09b::stream::STREAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/35e5671c-3950-4aca-b302-326e2dc6530d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

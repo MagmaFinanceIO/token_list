@@ -1,0 +1,13 @@
+{
+  "name": "AI wif hat",
+  "symbol": "AIWIF",
+  "decimals": 9,
+  "coin_type": "0x9461ccdeb6bc451b9d55eb68e488d679fb0a4eb35b7d9d3aa2762f404d468436::aiwif::AIWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8A1Ce3Fq8oKUAvbHbd4EXFa9jdHhzhDWTBwc22MQ7p63.png?size=lg&key=6ce9ef",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Chill Club",
+  "symbol": "CHILCLUB",
+  "decimals": 9,
+  "coin_type": "0xa788ba80ffb60330a8fbbda7795b7bd404a41a7ad6ed3144f1c4e470fcaaa14f::chilclub::CHILCLUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DoJwR7nW5HiFCbPMArHc1MTJwP8o4Y3qCVURz5JBpump.png?size=lg&key=3c21eb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

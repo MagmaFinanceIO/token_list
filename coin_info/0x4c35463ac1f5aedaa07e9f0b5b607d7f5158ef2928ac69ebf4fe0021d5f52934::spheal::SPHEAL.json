@@ -1,0 +1,13 @@
+{
+  "name": "Spheal",
+  "symbol": "SPHEAL",
+  "decimals": 6,
+  "coin_type": "0x4c35463ac1f5aedaa07e9f0b5b607d7f5158ef2928ac69ebf4fe0021d5f52934::spheal::SPHEAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_11_04_19_10_37_88e4874e89.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

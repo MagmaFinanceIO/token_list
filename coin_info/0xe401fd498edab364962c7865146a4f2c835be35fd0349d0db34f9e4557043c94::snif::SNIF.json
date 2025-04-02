@@ -1,0 +1,13 @@
+{
+  "name": "Sniffles",
+  "symbol": "SNIF",
+  "decimals": 9,
+  "coin_type": "0xe401fd498edab364962c7865146a4f2c835be35fd0349d0db34f9e4557043c94::snif::SNIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/679c5271-3d98-4743-9acd-cb35a4ac24b5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

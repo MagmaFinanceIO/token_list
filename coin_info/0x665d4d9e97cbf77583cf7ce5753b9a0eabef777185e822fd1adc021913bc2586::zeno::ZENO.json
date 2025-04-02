@@ -1,0 +1,13 @@
+{
+  "name": "ZENO AI",
+  "symbol": "ZENO",
+  "decimals": 9,
+  "coin_type": "0x665d4d9e97cbf77583cf7ce5753b9a0eabef777185e822fd1adc021913bc2586::zeno::ZENO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EyiBCXjZMxWnnkwhX3hncPa4aPSwritpzsw4LiCapump.png?size=lg&key=2f82f2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

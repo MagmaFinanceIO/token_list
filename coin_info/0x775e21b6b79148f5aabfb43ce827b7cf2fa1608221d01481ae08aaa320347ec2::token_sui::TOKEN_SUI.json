@@ -1,0 +1,13 @@
+{
+  "name": "aaa cat 43",
+  "symbol": "AAA43",
+  "decimals": 9,
+  "coin_type": "0x775e21b6b79148f5aabfb43ce827b7cf2fa1608221d01481ae08aaa320347ec2::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4995_cfd6177d03.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

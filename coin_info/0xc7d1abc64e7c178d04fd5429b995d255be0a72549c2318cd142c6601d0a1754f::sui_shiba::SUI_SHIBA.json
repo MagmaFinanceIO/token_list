@@ -1,0 +1,13 @@
+{
+  "name": "Sui Shiba",
+  "symbol": "Sui Shiba",
+  "decimals": 9,
+  "coin_type": "0xc7d1abc64e7c178d04fd5429b995d255be0a72549c2318cd142c6601d0a1754f::sui_shiba::SUI_SHIBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.purina.ru/sites/default/files/2021-02/BREED%20Hero_0075_japanese_shiba_inu.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

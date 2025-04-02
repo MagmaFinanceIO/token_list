@@ -1,0 +1,13 @@
+{
+  "name": "Dragon Maxi AI",
+  "symbol": "DRAGONAI",
+  "decimals": 9,
+  "coin_type": "0x80569f10a7c75aaf993a78a4c2f08ac9596bd2f14e089bb54c15ebda196b96e5::dragonai::DRAGONAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/75c4119f-22d0-49f0-8d6f-dbabac2fedbd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

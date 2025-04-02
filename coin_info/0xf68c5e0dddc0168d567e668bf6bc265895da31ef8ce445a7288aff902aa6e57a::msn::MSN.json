@@ -1,0 +1,13 @@
+{
+  "name": "MSN Messenger",
+  "symbol": "MSN",
+  "decimals": 9,
+  "coin_type": "0xf68c5e0dddc0168d567e668bf6bc265895da31ef8ce445a7288aff902aa6e57a::msn::MSN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2XSEKTd9A5xMeGM72YxUxCFZFP3DpHQfcBykvkkypump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

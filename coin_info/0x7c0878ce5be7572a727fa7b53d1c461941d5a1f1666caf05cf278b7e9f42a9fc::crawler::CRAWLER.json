@@ -1,0 +1,13 @@
+{
+  "name": "CRAWLER by SuiAI",
+  "symbol": "CRAWLER",
+  "decimals": 6,
+  "coin_type": "0x7c0878ce5be7572a727fa7b53d1c461941d5a1f1666caf05cf278b7e9f42a9fc::crawler::CRAWLER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/2222_28c43a8f28.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

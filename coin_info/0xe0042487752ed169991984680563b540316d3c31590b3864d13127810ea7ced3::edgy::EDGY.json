@@ -1,0 +1,13 @@
+{
+  "name": "Edgy Hedgehog",
+  "symbol": "EDGY",
+  "decimals": 9,
+  "coin_type": "0xe0042487752ed169991984680563b540316d3c31590b3864d13127810ea7ced3::edgy::EDGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1c16e2ab-f9e7-4ec0-919e-382126b351ab.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

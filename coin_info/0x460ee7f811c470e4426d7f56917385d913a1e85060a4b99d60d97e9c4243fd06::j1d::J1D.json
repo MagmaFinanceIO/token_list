@@ -1,0 +1,13 @@
+{
+  "name": "just buy $1 worth of this coin",
+  "symbol": "J1D",
+  "decimals": 9,
+  "coin_type": "0x460ee7f811c470e4426d7f56917385d913a1e85060a4b99d60d97e9c4243fd06::j1d::J1D",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/0d991c1d3db03b052ed74175e3573649blob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

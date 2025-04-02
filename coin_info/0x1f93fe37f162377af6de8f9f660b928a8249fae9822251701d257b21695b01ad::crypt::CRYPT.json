@@ -1,0 +1,13 @@
+{
+  "name": "Crypt",
+  "symbol": "CRYPT",
+  "decimals": 6,
+  "coin_type": "0x1f93fe37f162377af6de8f9f660b928a8249fae9822251701d257b21695b01ad::crypt::CRYPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000007663_1864b82254.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Axolotl",
+  "symbol": "Axolotl",
+  "decimals": 6,
+  "coin_type": "0x14b7b0081c59c46ecdf18df4f665eec261f6126bb8315e4d7c550576f56ba06d::axolotl::AXOLOTL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Axolotl_3aeb276d1c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

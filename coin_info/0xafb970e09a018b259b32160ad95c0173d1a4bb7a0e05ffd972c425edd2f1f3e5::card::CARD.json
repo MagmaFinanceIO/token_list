@@ -1,0 +1,13 @@
+{
+  "name": "Trump Card",
+  "symbol": "CARD",
+  "decimals": 9,
+  "coin_type": "0xafb970e09a018b259b32160ad95c0173d1a4bb7a0e05ffd972c425edd2f1f3e5::card::CARD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CuoLXqpwS7VQLdWkohDBpjokagb3HYrzerrPiDNuAKTW.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

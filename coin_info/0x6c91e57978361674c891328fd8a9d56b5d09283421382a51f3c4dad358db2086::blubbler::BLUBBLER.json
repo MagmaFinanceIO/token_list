@@ -1,0 +1,13 @@
+{
+  "name": "Blubbler",
+  "symbol": "BLUBBLER",
+  "decimals": 9,
+  "coin_type": "0x6c91e57978361674c891328fd8a9d56b5d09283421382a51f3c4dad358db2086::blubbler::BLUBBLER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/eb966a91-7a04-4eac-959c-698180338f28.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

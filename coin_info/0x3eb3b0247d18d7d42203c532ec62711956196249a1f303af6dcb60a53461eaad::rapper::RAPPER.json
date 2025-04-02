@@ -1,0 +1,13 @@
+{
+  "name": "Frederico, el mapache rapero",
+  "symbol": "RAPPER",
+  "decimals": 6,
+  "coin_type": "0x3eb3b0247d18d7d42203c532ec62711956196249a1f303af6dcb60a53461eaad::rapper::RAPPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/726a151c4d72b8982b715d3c13729240_d57aedc9dd.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

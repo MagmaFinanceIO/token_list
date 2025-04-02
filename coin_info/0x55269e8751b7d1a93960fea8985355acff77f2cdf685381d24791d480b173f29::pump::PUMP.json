@@ -1,0 +1,13 @@
+{
+  "name": "TelePumpFun.com",
+  "symbol": "PUMP",
+  "decimals": 9,
+  "coin_type": "0x55269e8751b7d1a93960fea8985355acff77f2cdf685381d24791d480b173f29::pump::PUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmWm9SwyrHGP7roSEmhZFBpdgwuNtQ2oPbRwXEn5fhbL9G",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

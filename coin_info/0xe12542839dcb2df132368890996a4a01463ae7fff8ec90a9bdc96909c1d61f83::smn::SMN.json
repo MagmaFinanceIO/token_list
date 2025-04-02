@@ -1,0 +1,13 @@
+{
+  "name": "Suizle My Nizzle",
+  "symbol": "SMN",
+  "decimals": 6,
+  "coin_type": "0xe12542839dcb2df132368890996a4a01463ae7fff8ec90a9bdc96909c1d61f83::smn::SMN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmekntpGV7MVAymRKLBNrvUoEtABSyKoWV3sncw3n8UieX",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

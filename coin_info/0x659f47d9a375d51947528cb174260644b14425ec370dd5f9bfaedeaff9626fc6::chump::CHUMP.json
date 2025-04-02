@@ -1,0 +1,13 @@
+{
+  "name": "Chump The Chimp",
+  "symbol": "CHUMP",
+  "decimals": 6,
+  "coin_type": "0x659f47d9a375d51947528cb174260644b14425ec370dd5f9bfaedeaff9626fc6::chump::CHUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000004481_27361ce04b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

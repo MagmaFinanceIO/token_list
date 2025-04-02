@@ -1,0 +1,13 @@
+{
+  "name": "MAGATRON AI",
+  "symbol": "MAGATRON",
+  "decimals": 9,
+  "coin_type": "0x13bdcaf8cf15f6a9b439b242a4ccf0ea4b9614898520fa81753f4e9da31acbdc::magatron::MAGATRON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmdZtcF49p5pyysyF7D6qQkXLuN4yV3VSBGLqLkN7hiehs",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

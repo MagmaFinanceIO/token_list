@@ -1,0 +1,13 @@
+{
+  "name": "Puffy AI On Sui",
+  "symbol": "PUFFYAI",
+  "decimals": 9,
+  "coin_type": "0xe94179db95379e30233382d11fd3ebb76af5211efeb0d86611e9df2f5732433a::puffyai::PUFFYAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Boo6AKGMV6wGWfJ4A9MHuLFy2p19wVeCC7tk5nGtpump.png?size=lg&key=dbca3b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

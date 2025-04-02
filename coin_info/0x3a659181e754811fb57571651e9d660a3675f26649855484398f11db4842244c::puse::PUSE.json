@@ -1,0 +1,13 @@
+{
+  "name": "PUSE",
+  "symbol": "PUSE",
+  "decimals": 2,
+  "coin_type": "0x3a659181e754811fb57571651e9d660a3675f26649855484398f11db4842244c::puse::PUSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/34624d7f-82b5-4f50-8b20-74c375d19a55.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

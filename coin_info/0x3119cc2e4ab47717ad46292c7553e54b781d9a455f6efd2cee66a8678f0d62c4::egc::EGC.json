@@ -1,0 +1,13 @@
+{
+  "name": "Egyptian God Coin",
+  "symbol": "EGC",
+  "decimals": 9,
+  "coin_type": "0x3119cc2e4ab47717ad46292c7553e54b781d9a455f6efd2cee66a8678f0d62c4::egc::EGC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2ddb5752-f7c1-4f8a-9b30-7a9b90fc940d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

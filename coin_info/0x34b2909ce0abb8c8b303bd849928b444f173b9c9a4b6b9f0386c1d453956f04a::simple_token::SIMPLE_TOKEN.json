@@ -1,0 +1,13 @@
+{
+  "name": "$MASK",
+  "symbol": "$MASK",
+  "decimals": 9,
+  "coin_type": "0x34b2909ce0abb8c8b303bd849928b444f173b9c9a4b6b9f0386c1d453956f04a::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

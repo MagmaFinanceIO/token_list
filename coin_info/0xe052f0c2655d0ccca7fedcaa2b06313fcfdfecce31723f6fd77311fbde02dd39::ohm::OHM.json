@@ -1,0 +1,13 @@
+{
+  "name": "Dont sell until 100M",
+  "symbol": "OHM",
+  "decimals": 9,
+  "coin_type": "0xe052f0c2655d0ccca7fedcaa2b06313fcfdfecce31723f6fd77311fbde02dd39::ohm::OHM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BVysQ5LZDef8cJEcfQ32Bd5VYqaS5Dqm7NP6KpC7pump.png?size=lg&key=9c09bf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

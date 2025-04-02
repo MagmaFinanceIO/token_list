@@ -1,0 +1,13 @@
+{
+  "name": "FAKE NEWS",
+  "symbol": "FAKENEWS",
+  "decimals": 9,
+  "coin_type": "0x459dc6e5316b6ed2b76507b32868a6521006f2638a1bbc96836dbf911f04328c::FAKE_NEWS::FAKE_NEWS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/E3dHUYWs849uxxyfntV63Gw8eaQWqJG79hiJPG8vbvCP.png?size=xl&key=82447d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

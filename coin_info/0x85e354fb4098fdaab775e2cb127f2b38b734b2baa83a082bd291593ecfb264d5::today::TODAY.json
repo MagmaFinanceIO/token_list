@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "symbol": "TODAY",
+  "decimals": 6,
+  "coin_type": "0x85e354fb4098fdaab775e2cb127f2b38b734b2baa83a082bd291593ecfb264d5::today::TODAY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PFP_e019216c48.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

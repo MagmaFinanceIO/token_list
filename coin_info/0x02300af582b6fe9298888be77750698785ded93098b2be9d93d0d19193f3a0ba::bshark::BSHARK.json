@@ -1,0 +1,13 @@
+{
+  "name": "Bullshark",
+  "symbol": "BSHARK",
+  "decimals": 6,
+  "coin_type": "0x02300af582b6fe9298888be77750698785ded93098b2be9d93d0d19193f3a0ba::bshark::BSHARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736950519334.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

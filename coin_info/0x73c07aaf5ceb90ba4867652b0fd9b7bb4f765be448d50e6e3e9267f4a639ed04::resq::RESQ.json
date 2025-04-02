@@ -1,0 +1,13 @@
+{
+  "name": "Rescue Pup",
+  "symbol": "RESQ",
+  "decimals": 6,
+  "coin_type": "0x73c07aaf5ceb90ba4867652b0fd9b7bb4f765be448d50e6e3e9267f4a639ed04::resq::RESQ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/90324f3a-ca5f-428e-937c-fe0c986e20c7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

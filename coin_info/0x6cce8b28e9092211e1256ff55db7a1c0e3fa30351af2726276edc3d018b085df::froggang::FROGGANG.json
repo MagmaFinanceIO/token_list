@@ -1,0 +1,13 @@
+{
+  "name": "Frog Gang",
+  "symbol": "FrogGang",
+  "decimals": 6,
+  "coin_type": "0x6cce8b28e9092211e1256ff55db7a1c0e3fa30351af2726276edc3d018b085df::froggang::FROGGANG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_3_removebg_preview_e96c85f93a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

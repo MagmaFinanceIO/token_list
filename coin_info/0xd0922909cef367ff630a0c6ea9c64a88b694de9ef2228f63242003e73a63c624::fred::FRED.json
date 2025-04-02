@@ -1,0 +1,13 @@
+{
+  "name": "SUI FRED",
+  "symbol": "FRED",
+  "decimals": 6,
+  "coin_type": "0xd0922909cef367ff630a0c6ea9c64a88b694de9ef2228f63242003e73a63c624::fred::FRED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7580_489a41d3b3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

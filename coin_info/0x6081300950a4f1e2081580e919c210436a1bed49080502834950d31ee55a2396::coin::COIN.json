@@ -1,0 +1,13 @@
+{
+  "name": "Wrapped Fantom (Portal from Fantom)",
+  "symbol": "WFTM",
+  "decimals": 8,
+  "coin_type": "0x6081300950a4f1e2081580e919c210436a1bed49080502834950d31ee55a2396::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "0x6081300950a4f1e2081580e919c210436a1bed49080502834950d31ee55a2396::coin::COIN",
+  "coin_priority": [],
+  "logo_url": "https://tqhb43iz7vqrys2frjp73jn2o3uzehbmybq2sv2me2fpo4rocbja.arweave.net/nA4ebRn9YRxLRYpf_aW6dumSHCzAYalXTCaK93IuEFI",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

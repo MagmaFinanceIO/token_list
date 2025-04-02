@@ -1,0 +1,13 @@
+{
+  "name": "Chamillionaire",
+  "symbol": "CHAM",
+  "decimals": 9,
+  "coin_type": "0x1e300cb644c590e6104b1e88bd9d704a82b246d09259443828a9325526945459::cham::CHAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BqYjcJR6LLWsWrCm46TXWNprVMFS7pYds1HkyLApump.png?size=lg&key=9b6224",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

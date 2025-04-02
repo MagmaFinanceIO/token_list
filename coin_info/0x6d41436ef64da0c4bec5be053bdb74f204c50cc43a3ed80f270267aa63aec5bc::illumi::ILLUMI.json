@@ -1,0 +1,13 @@
+{
+  "name": "Illuminati",
+  "symbol": "Illumi",
+  "decimals": 9,
+  "coin_type": "0x6d41436ef64da0c4bec5be053bdb74f204c50cc43a3ed80f270267aa63aec5bc::illumi::ILLUMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

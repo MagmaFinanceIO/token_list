@@ -1,0 +1,13 @@
+{
+  "name": "Finding Suimo",
+  "symbol": "SUIMO",
+  "decimals": 9,
+  "coin_type": "0x1dd9cba900d2049701d956602ea11c65a4efc66bf335c4a4e3276808323368d1::suimo::SUIMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1661e256-9e92-47f6-a07e-99661c562ba1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

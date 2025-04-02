@@ -1,0 +1,13 @@
+{
+  "name": "AI CAT COIN",
+  "symbol": "AIC",
+  "decimals": 6,
+  "coin_type": "0xb84ff5293b3cf522cdaa09f56d763f5bdf9367be95b9623de49d7824d2142a5f::aic::AIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/output_020a23036a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

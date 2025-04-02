@@ -1,0 +1,13 @@
+{
+  "name": "Live Coin",
+  "symbol": "LCOT",
+  "decimals": 9,
+  "coin_type": "0x0c54d194dbc16454aca09edcec38c1a1e7a49a849421569b18ea4c27e784006d::lcot::LCOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmWxdeFzNzD6FTnuxmi4NaYM3Z2LLfNxXVB4sCmj73UTEN",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

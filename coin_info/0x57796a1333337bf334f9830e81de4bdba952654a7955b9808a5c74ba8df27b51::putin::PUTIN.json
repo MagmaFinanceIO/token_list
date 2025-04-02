@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL PUTIN",
+  "symbol": "PUTIN",
+  "decimals": 9,
+  "coin_type": "0x57796a1333337bf334f9830e81de4bdba952654a7955b9808a5c74ba8df27b51::putin::PUTIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3LXcSxHfESuW6oZ7D1FpjqajsKEACJD6pKJ4xrG7pump.png?size=lg&key=e9751d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AscendEX",
+  "symbol": "ASD",
+  "decimals": 9,
+  "coin_type": "0x35c32e2479d77174862ad418efcc63b18c8d230babe7eadb0efabc9dcc623cf1::asd::ASD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BgqyrG3g5p4Z6yKwtKhBgYhr5sa2DV3WAh1JT9b3pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

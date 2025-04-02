@@ -1,0 +1,13 @@
+{
+  "name": "Nibbles",
+  "symbol": "NIBBLES",
+  "decimals": 9,
+  "coin_type": "0x42970f3c4f966235618d660f26c0dd0f4688f6f67aaeab1dab03e99e7257c842::nibbles::NIBBLES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmWRS5CwWjfn1EJRAACRgfgDN7qD5SnwAzvunVQPCj9rYx",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Zomp",
+  "symbol": "ZOMP",
+  "decimals": 9,
+  "coin_type": "0x7f246b2dad432ac437cde35e1bbc6b29ba1bbea89baccce1edc60d264105151f::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dribbble.com/userupload/17263857/file/original-5366713ff2f95a5085c0cb85e9bb561b.png?resize=1024x768",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

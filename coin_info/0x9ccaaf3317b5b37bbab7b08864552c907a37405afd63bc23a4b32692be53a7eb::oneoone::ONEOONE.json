@@ -1,0 +1,13 @@
+{
+  "name": "oneOone",
+  "symbol": "oneOone",
+  "decimals": 11,
+  "coin_type": "0x9ccaaf3317b5b37bbab7b08864552c907a37405afd63bc23a4b32692be53a7eb::oneoone::ONEOONE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/56d998c7-3f20-4a8e-8c18-dbfff208ed6b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

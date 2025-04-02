@@ -1,0 +1,13 @@
+{
+  "name": "RIP ETH _/\\_",
+  "symbol": "RIPETH",
+  "decimals": 9,
+  "coin_type": "0x4beabb8a29476663901fde5cc3d912f64bfee85ac73878c488ce937d5e68b384::ripeth::RIPETH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/92877a2a-1ca6-46eb-a895-a4abba2cd6f6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

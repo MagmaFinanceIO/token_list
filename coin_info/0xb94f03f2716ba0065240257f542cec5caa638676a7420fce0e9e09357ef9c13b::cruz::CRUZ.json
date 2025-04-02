@@ -1,0 +1,13 @@
+{
+  "name": "CRUZ THE UGLY CAT",
+  "symbol": "CRUZ",
+  "decimals": 6,
+  "coin_type": "0xb94f03f2716ba0065240257f542cec5caa638676a7420fce0e9e09357ef9c13b::cruz::CRUZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/x_pp_7aa3f618a3.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

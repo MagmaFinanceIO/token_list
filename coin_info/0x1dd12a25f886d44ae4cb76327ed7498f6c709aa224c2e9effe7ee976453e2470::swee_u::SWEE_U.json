@@ -1,0 +1,13 @@
+{
+  "name": "SWEE_U USDT Coin",
+  "symbol": "SWEE_USDT",
+  "decimals": 6,
+  "coin_type": "0x1dd12a25f886d44ae4cb76327ed7498f6c709aa224c2e9effe7ee976453e2470::swee_u::SWEE_U",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

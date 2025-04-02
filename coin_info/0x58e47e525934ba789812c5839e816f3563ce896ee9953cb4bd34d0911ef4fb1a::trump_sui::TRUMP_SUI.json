@@ -1,0 +1,13 @@
+{
+  "name": "TRUMP SUI",
+  "symbol": "TRUMP SUI",
+  "decimals": 9,
+  "coin_type": "0x58e47e525934ba789812c5839e816f3563ce896ee9953cb4bd34d0911ef4fb1a::trump_sui::TRUMP_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SPHINX",
+  "symbol": "SPNX",
+  "decimals": 9,
+  "coin_type": "0x1daac2ca52eafad14126d4528cae640b7d1eb10ff3119eb8a63d3d93d87aba33::sphinx_token::SPHINX_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmRbQVBDfujLvXw4ifouHm2wtYfj7j6Kb8ZH6gzVQimntP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

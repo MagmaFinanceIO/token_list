@@ -1,0 +1,13 @@
+{
+  "name": "Qi",
+  "symbol": "Qi",
+  "decimals": 9,
+  "coin_type": "0x138a483901bb4f1bf0a4467c5e9ee7cc6326eed68d6f3735b1e6a4b88acdb519::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

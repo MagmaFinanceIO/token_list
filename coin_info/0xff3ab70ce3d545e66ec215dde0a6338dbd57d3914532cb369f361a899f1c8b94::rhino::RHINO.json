@@ -1,0 +1,13 @@
+{
+  "name": "RHINO",
+  "symbol": "RHINO",
+  "decimals": 6,
+  "coin_type": "0xff3ab70ce3d545e66ec215dde0a6338dbd57d3914532cb369f361a899f1c8b94::rhino::RHINO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/98bb920b-6049-46ff-bdf4-e3d9e0ae573c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

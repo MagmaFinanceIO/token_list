@@ -1,0 +1,13 @@
+{
+  "name": "xWSB on SUI",
+  "symbol": "WSB",
+  "decimals": 6,
+  "coin_type": "0x4db126eac4fa99207e98db61d968477021fdeae153de3b244bcfbdc468ef0722::wsb::WSB",
+  "pyth_id": "",
+  "birdeyeid": "0x4db126eac4fa99207e98db61d968477021fdeae153de3b244bcfbdc468ef0722::wsb::WSB",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/asui_4106b1fb1d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

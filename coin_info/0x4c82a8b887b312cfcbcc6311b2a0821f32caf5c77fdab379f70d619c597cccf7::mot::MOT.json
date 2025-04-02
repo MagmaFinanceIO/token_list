@@ -1,0 +1,13 @@
+{
+  "name": "Meme Of Thrones",
+  "symbol": "MOT",
+  "decimals": 6,
+  "coin_type": "0x4c82a8b887b312cfcbcc6311b2a0821f32caf5c77fdab379f70d619c597cccf7::mot::MOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000002198_9d1ec29442.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

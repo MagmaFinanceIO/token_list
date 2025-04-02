@@ -1,0 +1,13 @@
+{
+  "name": "Fluffy Cat now on SUI !",
+  "symbol": "FLUFFY",
+  "decimals": 9,
+  "coin_type": "0xe287805a62b9238eb843d2fd0bef5c2d10b02595a56522163b65090f591de81f::fluffy::FLUFFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ffdf7834-7cc9-4918-9c40-c0dbf8467630.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

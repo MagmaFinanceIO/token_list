@@ -1,0 +1,13 @@
+{
+  "name": "SUI TURBO CHIMP",
+  "symbol": "TURBOCHIMP",
+  "decimals": 9,
+  "coin_type": "0xb4134c5e28f0ca217375e5f6b1264da70a2c6f64857038089332ca1a56b0b6ab::turbochimp::TURBOCHIMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6637d0bb-ed3a-4ef9-a3e0-c2716516b853.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

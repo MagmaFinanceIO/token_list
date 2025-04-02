@@ -1,0 +1,13 @@
+{
+  "name": "The Nod",
+  "symbol": "NOD",
+  "decimals": 9,
+  "coin_type": "0x6b7367d3649db7767b77fb61170fbf6c6c89f02f3b82f427782b7356c3c10c2f::nod::NOD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3dgyb5HuuyyWAvdUwheneVXCBeRJE97WpNtzhS2Ppump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

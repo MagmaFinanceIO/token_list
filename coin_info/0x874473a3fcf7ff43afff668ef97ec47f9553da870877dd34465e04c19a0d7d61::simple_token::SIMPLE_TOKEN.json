@@ -1,0 +1,13 @@
+{
+  "name": "Holo on Sui",
+  "symbol": "HOLOSUI",
+  "decimals": 9,
+  "coin_type": "0x874473a3fcf7ff43afff668ef97ec47f9553da870877dd34465e04c19a0d7d61::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

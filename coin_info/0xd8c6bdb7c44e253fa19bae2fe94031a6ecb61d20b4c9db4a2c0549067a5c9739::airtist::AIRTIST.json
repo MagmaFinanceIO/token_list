@@ -1,0 +1,13 @@
+{
+  "name": "THE AIRTIST by SuiAI",
+  "symbol": "AIRTIST",
+  "decimals": 6,
+  "coin_type": "0xd8c6bdb7c44e253fa19bae2fe94031a6ecb61d20b4c9db4a2c0549067a5c9739::airtist::AIRTIST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/airtist_ee7ca7ce4b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

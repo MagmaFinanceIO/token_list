@@ -1,0 +1,13 @@
+{
+  "name": "Argentina",
+  "symbol": "Argentina",
+  "decimals": 2,
+  "coin_type": "0x21d7fb981767c4f754186c657fb40a4ef0b2fc8d67371f09ad64f6b64c731370::argentina::ARGENTINA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ed0f36f8-a275-437a-a613-cfe13af87132.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

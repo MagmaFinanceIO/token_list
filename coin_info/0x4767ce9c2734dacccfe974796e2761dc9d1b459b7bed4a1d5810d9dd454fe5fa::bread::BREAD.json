@@ -1,0 +1,13 @@
+{
+  "name": "BreadCat",
+  "symbol": "BREAD",
+  "decimals": 9,
+  "coin_type": "0x4767ce9c2734dacccfe974796e2761dc9d1b459b7bed4a1d5810d9dd454fe5fa::bread::BREAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreihfq3zkaxoxdooo4zwatjvulqkwzaguistxadmk6nb33men2mhwsa.ipfs.w3s.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

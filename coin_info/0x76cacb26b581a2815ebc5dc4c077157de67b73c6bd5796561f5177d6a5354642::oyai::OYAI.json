@@ -1,0 +1,13 @@
+{
+  "name": "Olivia Yinuo AI by SuiAI",
+  "symbol": "OYAI",
+  "decimals": 6,
+  "coin_type": "0x76cacb26b581a2815ebc5dc4c077157de67b73c6bd5796561f5177d6a5354642::oyai::OYAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/ddd_266fdd65fe.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

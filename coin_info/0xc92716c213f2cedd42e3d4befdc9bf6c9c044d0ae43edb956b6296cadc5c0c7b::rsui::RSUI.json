@@ -1,0 +1,13 @@
+{
+  "name": "SUI RISES",
+  "symbol": "RSUI",
+  "decimals": 6,
+  "coin_type": "0xc92716c213f2cedd42e3d4befdc9bf6c9c044d0ae43edb956b6296cadc5c0c7b::rsui::RSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "http://movepump.xyz/uploads/SUI_PUMP_abe5643477.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

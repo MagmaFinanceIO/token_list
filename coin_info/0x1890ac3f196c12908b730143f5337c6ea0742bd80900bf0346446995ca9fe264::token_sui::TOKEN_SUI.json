@@ -1,0 +1,13 @@
+{
+  "name": "🦍",
+  "symbol": "APE",
+  "decimals": 9,
+  "coin_type": "0x1890ac3f196c12908b730143f5337c6ea0742bd80900bf0346446995ca9fe264::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xa0385e7283c83e2871e9af49eec0966088421ddd.png?size=xl&key=48bb5a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "The Gingerbread Man",
+  "symbol": "GINGY",
+  "decimals": 9,
+  "coin_type": "0xd07a1ce4d0a6d2ae0c2edcfb28713cc22e355c1b8cce696012e9124b04a22eb2::gingy::GINGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7JRAtm3hGnF4iEeRJdcxBtB5zovzkcd2tgpw6Ns1pump.png?size=lg&key=20b96a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

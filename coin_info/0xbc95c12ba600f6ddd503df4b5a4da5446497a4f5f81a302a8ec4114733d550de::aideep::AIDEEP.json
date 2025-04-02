@@ -1,0 +1,13 @@
+{
+  "name": "AI DEEP TERMINAL",
+  "symbol": "AIDEEP",
+  "decimals": 9,
+  "coin_type": "0xbc95c12ba600f6ddd503df4b5a4da5446497a4f5f81a302a8ec4114733d550de::aideep::AIDEEP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Y7wCy1xy1cNNEwLjHJi4gWyngiryFaoCBmqaAX88HGs.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

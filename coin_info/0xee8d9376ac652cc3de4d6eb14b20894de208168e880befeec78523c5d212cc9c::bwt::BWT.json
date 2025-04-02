@@ -1,0 +1,13 @@
+{
+  "name": "BWT Alpine F1Team",
+  "symbol": "BWT",
+  "decimals": 9,
+  "coin_type": "0xee8d9376ac652cc3de4d6eb14b20894de208168e880befeec78523c5d212cc9c::bwt::BWT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FYZzdcmPXC4JSSS6iwCbZbViSPBf5TBxsugWo9supump.png?size=lg&key=a30844",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

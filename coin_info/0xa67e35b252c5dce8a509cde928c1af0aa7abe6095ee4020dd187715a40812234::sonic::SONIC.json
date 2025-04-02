@@ -1,0 +1,13 @@
+{
+  "name": "Super Sonic",
+  "symbol": "Sonic",
+  "decimals": 9,
+  "coin_type": "0xa67e35b252c5dce8a509cde928c1af0aa7abe6095ee4020dd187715a40812234::sonic::SONIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/94d74ad7-2a63-4444-ad31-928640a9b095.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

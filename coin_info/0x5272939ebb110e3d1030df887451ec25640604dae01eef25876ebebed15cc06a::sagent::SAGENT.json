@@ -1,0 +1,13 @@
+{
+  "name": "SUI AGENT",
+  "symbol": "SAGENT",
+  "decimals": 6,
+  "coin_type": "0x5272939ebb110e3d1030df887451ec25640604dae01eef25876ebebed15cc06a::sagent::SAGENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a65a5159-f5d4-4008-9930-47f617b58960.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

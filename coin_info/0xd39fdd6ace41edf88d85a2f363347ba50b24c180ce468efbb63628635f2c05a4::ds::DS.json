@@ -1,0 +1,13 @@
+{
+  "name": "as",
+  "symbol": "ds",
+  "decimals": 6,
+  "coin_type": "0xd39fdd6ace41edf88d85a2f363347ba50b24c180ce468efbb63628635f2c05a4::ds::DS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

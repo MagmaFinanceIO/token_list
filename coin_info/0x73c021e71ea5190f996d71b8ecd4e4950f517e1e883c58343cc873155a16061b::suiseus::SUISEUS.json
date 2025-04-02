@@ -1,0 +1,13 @@
+{
+  "name": "SUISEUS MAXIMUM",
+  "symbol": "SUISEUS",
+  "decimals": 9,
+  "coin_type": "0x73c021e71ea5190f996d71b8ecd4e4950f517e1e883c58343cc873155a16061b::suiseus::SUISEUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0x418879f4f7037e40e31d0887ec0a080e6659472bc2a8408a38e153741ea9d1e0::dola::dola.png?size=lg&key=59b09e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

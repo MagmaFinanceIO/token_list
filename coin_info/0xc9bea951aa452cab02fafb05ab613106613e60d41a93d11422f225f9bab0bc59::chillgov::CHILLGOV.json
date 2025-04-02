@@ -1,0 +1,13 @@
+{
+  "name": "Chill Government",
+  "symbol": "CHILLGOV",
+  "decimals": 9,
+  "coin_type": "0xc9bea951aa452cab02fafb05ab613106613e60d41a93d11422f225f9bab0bc59::chillgov::CHILLGOV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/MqCNf4ducZSkpDDWWxbfRN6ub3iwKPbMf2zuQ69pump.png?size=lg&key=7f94b4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

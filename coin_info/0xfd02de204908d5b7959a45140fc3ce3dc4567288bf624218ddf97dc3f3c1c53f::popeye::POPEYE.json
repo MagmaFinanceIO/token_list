@@ -1,0 +1,13 @@
+{
+  "name": "MR POPEYE",
+  "symbol": "POPEYE",
+  "decimals": 9,
+  "coin_type": "0xfd02de204908d5b7959a45140fc3ce3dc4567288bf624218ddf97dc3f3c1c53f::popeye::POPEYE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GGfxm89k9eVSfDuHpt6Fb6J5Z6XGvm9gfTbky2Mspump.png?size=lg&key=674a05",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "KUROMI",
+  "symbol": "KUROMi",
+  "decimals": 6,
+  "coin_type": "0x9f7bd5937c84eeff9e9b10ea2fb8585fca0228336680e6d042ac066e176d5f10::kuromi::KUROMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1728712824759_6fb4cfe3b5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

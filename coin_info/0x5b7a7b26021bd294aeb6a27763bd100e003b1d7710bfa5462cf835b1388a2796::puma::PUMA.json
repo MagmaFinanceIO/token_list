@@ -1,0 +1,13 @@
+{
+  "name": "PUMA",
+  "symbol": "PUMA",
+  "decimals": 6,
+  "coin_type": "0x5b7a7b26021bd294aeb6a27763bd100e003b1d7710bfa5462cf835b1388a2796::puma::PUMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/qM6XjtZ/tg-image-3149342154.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

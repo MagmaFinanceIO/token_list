@@ -1,0 +1,13 @@
+{
+  "name": "Elon On Sui",
+  "symbol": "ELON",
+  "decimals": 6,
+  "coin_type": "0x124480427a03375f1bae691ed61c09ed22ef814516de7c65d299b8b8b9860dd0::elon::ELON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/elon_square_avatar_0418a52525.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

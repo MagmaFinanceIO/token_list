@@ -1,0 +1,13 @@
+{
+  "name": "SOCKS",
+  "symbol": "SOCKS",
+  "decimals": 9,
+  "coin_type": "0x5f43cdf569fd05cd80efa8f89e5629c9afb059b42530161736186554f86deb5a::socks::SOCKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.tiemart.com/cdn/shop/files/red-and-white-striped-socks_e2b44dda-c5a7-443a-a4ee-6f5b5d5dc857_1200x1200.jpg?v=1689284459",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

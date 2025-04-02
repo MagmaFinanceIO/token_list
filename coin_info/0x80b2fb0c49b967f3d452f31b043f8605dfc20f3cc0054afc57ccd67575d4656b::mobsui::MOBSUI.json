@@ -1,0 +1,13 @@
+{
+  "name": "MobSuiOFC",
+  "symbol": "MOBSUI",
+  "decimals": 6,
+  "coin_type": "0x80b2fb0c49b967f3d452f31b043f8605dfc20f3cc0054afc57ccd67575d4656b::mobsui::MOBSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2Fphoto_2024_10_17_06_03_26_c1a3c993e8.jpg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

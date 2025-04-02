@@ -1,0 +1,13 @@
+{
+  "name": "yesnoerror",
+  "symbol": "YNE",
+  "decimals": 2,
+  "coin_type": "0x640f70438fd21d832f86218c3414206e8a9e6ef774ea7d0e83fd374363598862::YNE::YNE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/m9ZuOtRbTtO4F21E04R-ZOjGT0Oc_rX_qfdCMpX7vr4?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

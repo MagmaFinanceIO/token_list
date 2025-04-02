@@ -1,0 +1,13 @@
+{
+  "name": "Spy Ai",
+  "symbol": "SPY",
+  "decimals": 9,
+  "coin_type": "0x68fd1c6b78327e101c63f0448ffc1a185bb7a852570f67574bfe28e368dbd8af::spy::SPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BoRRYxVynrCCtynb186PwaQ616VV1wqmfutBLMwpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ugly Duck",
+  "symbol": "QUACK",
+  "decimals": 9,
+  "coin_type": "0xa08aa94079aa969bcd9df36c6b25b43e313d84a2735c32b8400f7861d4dd9f2a::quack::QUACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/eb661d05-e07e-4414-9714-9809903e31e2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

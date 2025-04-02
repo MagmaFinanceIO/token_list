@@ -1,0 +1,13 @@
+{
+  "name": "Super Suiyan",
+  "symbol": "SUIYAN",
+  "decimals": 6,
+  "coin_type": "0x5bb9dbfe3be9dee970681f411865f0803aa0087592166085867400ec828a6a32::suiyan::SUIYAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730992846799.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

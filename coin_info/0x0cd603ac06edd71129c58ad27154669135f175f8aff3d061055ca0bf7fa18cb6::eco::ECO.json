@@ -1,0 +1,13 @@
+{
+  "name": "ECO AI",
+  "symbol": "ECO",
+  "decimals": 9,
+  "coin_type": "0x0cd603ac06edd71129c58ad27154669135f175f8aff3d061055ca0bf7fa18cb6::eco::ECO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d10b6832-80c1-4a7c-807d-3bb9a4aefa66.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Integrate AI",
+  "symbol": "INTEG",
+  "decimals": 6,
+  "coin_type": "0xf1e5d7f8802bd783ade81a944fcc8e694257bf7209a462992f3d01ac01440f59::integ::INTEG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737790940128.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

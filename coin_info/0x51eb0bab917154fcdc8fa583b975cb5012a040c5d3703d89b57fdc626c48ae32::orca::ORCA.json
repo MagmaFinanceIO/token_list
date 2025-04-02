@@ -1,0 +1,13 @@
+{
+  "name": "ORCA THE PREDATOR",
+  "symbol": "ORCA",
+  "decimals": 6,
+  "coin_type": "0x51eb0bab917154fcdc8fa583b975cb5012a040c5d3703d89b57fdc626c48ae32::orca::ORCA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Orca_2_1bb4739d08.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hosky Sui",
+  "symbol": "HOSKY",
+  "decimals": 6,
+  "coin_type": "0xaca3792c79a4329f19bd8d51b42d1b55a18b8c3389ed07d282cc37019082a96b::hosky::HOSKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4792831e-a8f1-4c6c-8b98-f8b4f2461301.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

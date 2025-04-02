@@ -1,0 +1,15 @@
+{
+  "name": "Tocen Token",
+  "symbol": "TOCE",
+  "decimals": 9,
+  "coin_type": "0xd2013e206f7983f06132d5b61f7c577638ff63171221f4f600a98863febdfb47::toce::TOCE",
+  "pyth_id": "",
+  "birdeyeid": "0xd2013e206f7983f06132d5b61f7c577638ff63171221f4f600a98863febdfb47::toce::TOCE",
+  "coin_priority": [
+    "650"
+  ],
+  "logo_url": "https://ipfs.tocen.co/tocen/toce.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GOLDIE",
+  "symbol": "GOLDIE",
+  "decimals": 9,
+  "coin_type": "0xdb1977dfeb276f20ac8b4228d09a71e37b0204efd111bb995d78921bf5146cfa::goldie::GOLDIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A9rgiGsEXU7ufVtAd7rQMKuB2Cd2mwSwseE9e5YCpump.png?size=lg&key=928415",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

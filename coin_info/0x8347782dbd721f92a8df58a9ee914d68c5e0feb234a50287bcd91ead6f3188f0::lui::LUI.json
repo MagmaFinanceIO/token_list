@@ -1,0 +1,13 @@
+{
+  "name": "luigiMonopolyMONEY",
+  "symbol": "LUI",
+  "decimals": 9,
+  "coin_type": "0x8347782dbd721f92a8df58a9ee914d68c5e0feb234a50287bcd91ead6f3188f0::lui::LUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b1d04e5d-37b7-45a7-9b6c-809487465815.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

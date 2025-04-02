@@ -1,0 +1,13 @@
+{
+  "name": "ACT69: The Nut",
+  "symbol": "ACT69",
+  "decimals": 9,
+  "coin_type": "0xb48379da42eff5561e01d942addec6d3856e49076ba0bf1a5092df30d38da493::act69::ACT69",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmRcGWXo45cHTR1pfEKYsrXPgUDxjzPSHxXPGtX1S2cDCP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

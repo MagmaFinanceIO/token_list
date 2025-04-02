@@ -1,0 +1,13 @@
+{
+  "name": "Evie AI",
+  "symbol": "EVIE",
+  "decimals": 6,
+  "coin_type": "0x7d5ad023176cea1bacf5379c78d9e2a144e1e51b9a03e8ae22f0fb513d760cf7::evie::EVIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735930747942.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

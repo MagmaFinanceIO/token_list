@@ -1,0 +1,13 @@
+{
+  "name": "Wawa Babies",
+  "symbol": "WAWABY",
+  "decimals": 6,
+  "coin_type": "0x7b63930990c6ba36069aaa80c5bce17f14f619b956c7a27264decf85b0392584::wawaby::WAWABY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/thum_a236ac8473.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

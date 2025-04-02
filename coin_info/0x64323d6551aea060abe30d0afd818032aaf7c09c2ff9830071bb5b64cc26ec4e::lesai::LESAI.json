@@ -1,0 +1,13 @@
+{
+  "name": "The Lupus AI Expert",
+  "symbol": "LESAI",
+  "decimals": 9,
+  "coin_type": "0x64323d6551aea060abe30d0afd818032aaf7c09c2ff9830071bb5b64cc26ec4e::lesai::LESAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/63PjXxbtoUL9AaxGhXAzSj3r6UZQdHhCB3fAUTqhpump.png?size=lg&key=74d04e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Seahorse on SUI",
+  "symbol": "SUIHORSE",
+  "decimals": 6,
+  "coin_type": "0x6d90c821d5325ae6c07909e0a598884e5d2a877946f10d1571d7108919fb76bb::suihorse::SUIHORSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_12_15_16_08_31_1f72f14cf5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

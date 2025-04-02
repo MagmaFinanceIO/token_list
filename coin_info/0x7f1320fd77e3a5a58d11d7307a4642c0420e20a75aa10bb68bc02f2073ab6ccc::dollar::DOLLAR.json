@@ -1,0 +1,13 @@
+{
+  "name": "DOLLAR BANKNOTE",
+  "symbol": "DOLLAR",
+  "decimals": 6,
+  "coin_type": "0x7f1320fd77e3a5a58d11d7307a4642c0420e20a75aa10bb68bc02f2073ab6ccc::dollar::DOLLAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/dollar.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

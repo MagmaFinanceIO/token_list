@@ -1,0 +1,13 @@
+{
+  "name": "SuiStation",
+  "symbol": "SUISTATION",
+  "decimals": 6,
+  "coin_type": "0xadc96b6804d104d2280b22477588fd000e4fb9dc202d8558e3441d1435435702::suistation::SUISTATION",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Design_sem_nome_51_31ded16dca.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Marine Life of the Sui",
+  "symbol": "Marine Life of the Sui",
+  "decimals": 9,
+  "coin_type": "0x61fb150e1cda6ab29d9c497ddef8da68cca3f03dfb407afdd67ca8a52f24332e::marine_life_of_the_sui::MARINE_LIFE_OF_THE_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2f12e7ee-96a9-4d18-8434-81e5f5beecf3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

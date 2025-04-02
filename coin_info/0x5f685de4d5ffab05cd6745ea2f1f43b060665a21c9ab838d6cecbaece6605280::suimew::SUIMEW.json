@@ -1,0 +1,13 @@
+{
+  "name": "SuiCat in Doge world",
+  "symbol": "SuiMEW",
+  "decimals": 6,
+  "coin_type": "0x5f685de4d5ffab05cd6745ea2f1f43b060665a21c9ab838d6cecbaece6605280::suimew::SUIMEW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1738659878584.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

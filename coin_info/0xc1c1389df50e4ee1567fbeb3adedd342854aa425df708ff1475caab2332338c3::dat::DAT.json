@@ -1,0 +1,13 @@
+{
+  "name": "DAT Token",
+  "symbol": "DAT",
+  "decimals": 6,
+  "coin_type": "0xc1c1389df50e4ee1567fbeb3adedd342854aa425df708ff1475caab2332338c3::dat::DAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreiepkmnmiwdxsvsldfefghfwkr2fzyrtaybfdx5nbmsynbdmppqd6q.ipfs.w3s.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

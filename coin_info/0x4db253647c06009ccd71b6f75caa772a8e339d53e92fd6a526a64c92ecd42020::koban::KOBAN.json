@@ -1,0 +1,13 @@
+{
+  "name": "Koban",
+  "symbol": "KOBAN",
+  "decimals": 9,
+  "coin_type": "0x4db253647c06009ccd71b6f75caa772a8e339d53e92fd6a526a64c92ecd42020::koban::KOBAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.prod.website-files.com/62752febd034035dea41c1ab/649962fc8938c8e1101ce725_-KOBAN%20coin%20(1)%20(1).png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

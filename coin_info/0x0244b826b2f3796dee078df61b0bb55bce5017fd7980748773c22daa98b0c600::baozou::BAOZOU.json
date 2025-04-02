@@ -1,0 +1,13 @@
+{
+  "name": "BaoZou ManHua",
+  "symbol": "BAOZOU",
+  "decimals": 6,
+  "coin_type": "0x0244b826b2f3796dee078df61b0bb55bce5017fd7980748773c22daa98b0c600::baozou::BAOZOU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pfp_fc7935a750.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

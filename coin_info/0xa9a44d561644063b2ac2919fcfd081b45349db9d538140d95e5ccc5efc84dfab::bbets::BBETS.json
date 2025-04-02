@@ -1,0 +1,13 @@
+{
+  "name": "Bonk Bet AI Sui",
+  "symbol": "BBETS",
+  "decimals": 9,
+  "coin_type": "0xa9a44d561644063b2ac2919fcfd081b45349db9d538140d95e5ccc5efc84dfab::bbets::BBETS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/34bad23c-be80-47f2-afc7-8ffa5aa41125.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

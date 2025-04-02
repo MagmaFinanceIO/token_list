@@ -1,0 +1,13 @@
+{
+  "name": "Flvia Is Onlin",
+  "symbol": "FLAVIA",
+  "decimals": 6,
+  "coin_type": "0x3d6880ea8c0ef54cb476a9277979fffa4438f8f286c9cc1b4f3319d302a07faf::flavia::FLAVIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Gam_P9_FG_Wc_A_As2_W9_87222af63a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

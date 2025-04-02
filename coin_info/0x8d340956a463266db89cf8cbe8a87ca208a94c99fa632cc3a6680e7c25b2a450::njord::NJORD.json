@@ -1,0 +1,13 @@
+{
+  "name": "Njord",
+  "symbol": "NJORD",
+  "decimals": 6,
+  "coin_type": "0x8d340956a463266db89cf8cbe8a87ca208a94c99fa632cc3a6680e7c25b2a450::njord::NJORD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_small_6a59b87746.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

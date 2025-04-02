@@ -1,0 +1,13 @@
+{
+  "name": "Baby Sui Meme Coin",
+  "symbol": "BSMC",
+  "decimals": 9,
+  "coin_type": "0xd08b68006737ef48c0d8c46bad3ca9fc99c93af41cabe609b1f07aec8ddeaabd::bsmc::BSMC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9ff5c892-a408-4280-82f1-c7718b39ae69.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

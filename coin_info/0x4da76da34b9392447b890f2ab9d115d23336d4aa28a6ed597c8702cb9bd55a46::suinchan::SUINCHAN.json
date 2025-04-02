@@ -1,0 +1,13 @@
+{
+  "name": "SUINCHAN COIN",
+  "symbol": "SUINCHAN",
+  "decimals": 6,
+  "coin_type": "0x4da76da34b9392447b890f2ab9d115d23336d4aa28a6ed597c8702cb9bd55a46::suinchan::SUINCHAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3646_93a2aef746.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

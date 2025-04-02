@@ -1,0 +1,13 @@
+{
+  "name": "BOB SUI",
+  "symbol": "BOBSUI",
+  "decimals": 9,
+  "coin_type": "0xf0c5ffbdd13229eca5d96baf6b13316b1dd82c5f5feb298aa615cc57bdb65aca::bobsui::BOBSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/993d4323-b667-41e9-a9bf-edf561ce1de7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

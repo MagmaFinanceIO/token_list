@@ -1,0 +1,13 @@
+{
+  "name": "CrashiusClay69",
+  "symbol": "crash",
+  "decimals": 9,
+  "coin_type": "0x93f260bf56a614ce3c9d39133681b37aca4f6df3786417cded70ec9831e4be17::crash::CRASH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Q72JwLhw1Y8jLTCLf4P2t8jgCJX8FcTk3HeCS2Xpump.png?size=lg&key=c17d2f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

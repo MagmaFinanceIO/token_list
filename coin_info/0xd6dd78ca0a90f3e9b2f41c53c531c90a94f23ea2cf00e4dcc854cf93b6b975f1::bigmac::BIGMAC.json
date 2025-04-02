@@ -1,0 +1,13 @@
+{
+  "name": "Big Mac",
+  "symbol": "BIGMAC",
+  "decimals": 9,
+  "coin_type": "0xd6dd78ca0a90f3e9b2f41c53c531c90a94f23ea2cf00e4dcc854cf93b6b975f1::bigmac::BIGMAC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/379a12ed-26a9-4fb9-8968-1f5db5f5c82f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

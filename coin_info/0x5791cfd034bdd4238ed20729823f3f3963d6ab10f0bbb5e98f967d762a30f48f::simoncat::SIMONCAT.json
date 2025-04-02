@@ -1,0 +1,13 @@
+{
+  "name": "Simon's Cat",
+  "symbol": "SIMONCAT",
+  "decimals": 6,
+  "coin_type": "0x5791cfd034bdd4238ed20729823f3f3963d6ab10f0bbb5e98f967d762a30f48f::simoncat::SIMONCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/simon_244e7de689.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

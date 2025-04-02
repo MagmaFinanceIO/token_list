@@ -1,0 +1,13 @@
+{
+  "name": "Tes",
+  "symbol": "Ts",
+  "decimals": 9,
+  "coin_type": "0x62e2ab50b8fad5aa5f6960e8199796d241f06383ed16a706fda48797e8934f09::ts::TS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4e6fc141-e31c-4753-9955-70a5d2781d4d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

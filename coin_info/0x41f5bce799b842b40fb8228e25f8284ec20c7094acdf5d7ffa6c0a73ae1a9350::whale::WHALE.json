@@ -1,0 +1,13 @@
+{
+  "name": "WHALE EMOJI ON SUI",
+  "symbol": "Whale",
+  "decimals": 9,
+  "coin_type": "0x41f5bce799b842b40fb8228e25f8284ec20c7094acdf5d7ffa6c0a73ae1a9350::whale::WHALE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3XcJTtZazf3Jy9Szk6SfkgbD7ToBtm3WxtAtcsP7pump.png?size=lg&key=70c779",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

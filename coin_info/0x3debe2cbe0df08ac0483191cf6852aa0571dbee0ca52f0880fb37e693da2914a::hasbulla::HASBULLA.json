@@ -1,0 +1,13 @@
+{
+  "name": "First Hasbulla On Sui",
+  "symbol": "HASBULLA",
+  "decimals": 6,
+  "coin_type": "0x3debe2cbe0df08ac0483191cf6852aa0571dbee0ca52f0880fb37e693da2914a::hasbulla::HASBULLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/chara_hero_768x721_a0c035d5df.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

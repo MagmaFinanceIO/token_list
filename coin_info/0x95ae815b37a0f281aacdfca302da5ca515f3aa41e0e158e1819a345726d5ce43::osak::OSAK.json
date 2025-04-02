@@ -1,0 +1,13 @@
+{
+  "name": "Osaka Protocol (Wormhole)",
+  "symbol": "OSAK",
+  "decimals": 9,
+  "coin_type": "0x95ae815b37a0f281aacdfca302da5ca515f3aa41e0e158e1819a345726d5ce43::osak::OSAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GZaatnxZ6xuUUGugLReoiuJH6TLHasEScqznXiBCv3Bu.png?size=lg&key=eea1d1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

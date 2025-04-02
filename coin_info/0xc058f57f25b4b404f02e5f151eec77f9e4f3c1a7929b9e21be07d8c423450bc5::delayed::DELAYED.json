@@ -1,0 +1,13 @@
+{
+  "name": "HOP FUN DELAYED",
+  "symbol": "DELAYED",
+  "decimals": 6,
+  "coin_type": "0xc058f57f25b4b404f02e5f151eec77f9e4f3c1a7929b9e21be07d8c423450bc5::delayed::DELAYED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/delayed_3f23e78a3d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

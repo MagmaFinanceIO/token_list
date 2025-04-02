@@ -1,0 +1,13 @@
+{
+  "name": "Andorra",
+  "symbol": "Andorra",
+  "decimals": 2,
+  "coin_type": "0xc7a159b16752e5f8af2e83cc4693a1c26e7cd89a542e2a54d7b7a68fb1a03940::andorra::ANDORRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/71fe215a-afbb-4048-8827-2a8dad5c36ad.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

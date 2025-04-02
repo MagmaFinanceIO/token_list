@@ -1,0 +1,13 @@
+{
+  "name": "Muscle Cat",
+  "symbol": "MuscleCat",
+  "decimals": 6,
+  "coin_type": "0x7e1638999dce75fe833927050e90a7a44419d69c4ab9874698ed15b8e27c6780::musclecat::MUSCLECAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Muscle_Cat_TB_Pbuy_YNU_Dv_Ws_O7_Z4e_11d44d918b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

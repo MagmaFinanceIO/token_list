@@ -1,0 +1,13 @@
+{
+  "name": "Jesuis Christ",
+  "symbol": "JESUIS",
+  "decimals": 6,
+  "coin_type": "0x17a0a3c5953c2f4ac4f9d2d7026dda4c54bae0929a3f0890f0912e889d40c34a::jesuis::JESUIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/jesuis_pfp_7f8a11247e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

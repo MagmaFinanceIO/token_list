@@ -1,0 +1,13 @@
+{
+  "name": "RIZZBIZ - Santa's got a New Gig",
+  "symbol": "RIZZBIZ",
+  "decimals": 9,
+  "coin_type": "0xcecb8684406a867329579aa90929b25df8a5bc8d7e8e865e31a0ad604500b08a::rizzbiz::RIZZBIZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/5dDUKWNKI2Bh5B_B?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

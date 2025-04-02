@@ -1,0 +1,13 @@
+{
+  "name": "Big Dog",
+  "symbol": "Dog",
+  "decimals": 9,
+  "coin_type": "0x526b4b3ee701284f22fcb1d137826ba46306c94a3a56daae9ff2c0aaa3c1f205::dog::DOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/adf5e945-f9a2-43c2-a6bc-0f2f62c44442.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

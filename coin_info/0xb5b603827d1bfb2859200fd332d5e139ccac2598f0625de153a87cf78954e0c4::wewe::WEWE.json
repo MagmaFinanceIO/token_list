@@ -1,0 +1,13 @@
+{
+  "name": "WEWE",
+  "symbol": "WEWE",
+  "decimals": 9,
+  "coin_type": "0xb5b603827d1bfb2859200fd332d5e139ccac2598f0625de153a87cf78954e0c4::wewe::WEWE",
+  "pyth_id": "",
+  "birdeyeid": "0xb5b603827d1bfb2859200fd332d5e139ccac2598f0625de153a87cf78954e0c4::wewe::WEWE",
+  "coin_priority": [],
+  "logo_url": "https://file-walletapp.waveonsui.com/logos/wewe.png",
+  "project_url": "",
+  "coingecko_id": "wewe-2",
+  "is_trusted": true
+}

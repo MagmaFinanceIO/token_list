@@ -1,0 +1,13 @@
+{
+  "name": "ai16z hentAI",
+  "symbol": "hentAI",
+  "decimals": 9,
+  "coin_type": "0x3013a0558607e08df937ac60adfa1fe17b1482f4ea9ed159fa2dd13d315f492e::hentai::HENTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5b2YHfcatKPKinwYksiE9bZYDJuLbpr9vewuwqurpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

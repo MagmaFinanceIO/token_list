@@ -1,0 +1,13 @@
+{
+  "name": "Sui Wolf",
+  "symbol": "SUIWOLF",
+  "decimals": 6,
+  "coin_type": "0xad25649146f90f589b6d07ccd3b04979eac67ddf439876230f226276baaa373b::suiwolf::SUIWOLF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_10_23_29_16_efcba6adaa.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

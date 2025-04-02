@@ -1,0 +1,13 @@
+{
+  "name": "SuiLink",
+  "symbol": "SLINK",
+  "decimals": 9,
+  "coin_type": "0x2fef96be8a8f1d6c52ba1cad7d7847fc6b399b5e683f200a83f25e8f485807fd::slink::SLINK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ee87c302-0440-4bde-8f22-80d282e86831.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

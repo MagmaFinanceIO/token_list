@@ -1,0 +1,13 @@
+{
+  "name": "George Floyd",
+  "symbol": "BLM",
+  "decimals": 9,
+  "coin_type": "0x13ebe0012b032baa9d6485d52e221217f71b68af5699c2ec755829dd811dec16::blm::BLM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/J9HZcdDnMC9TvBqjsCMe7YJyJkX1RX4mBZoefayRPNao.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

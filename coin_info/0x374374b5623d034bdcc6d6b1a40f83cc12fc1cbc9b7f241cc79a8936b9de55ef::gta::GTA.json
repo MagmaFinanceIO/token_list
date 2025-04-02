@@ -1,0 +1,13 @@
+{
+  "name": "GTA",
+  "symbol": "GTA",
+  "decimals": 9,
+  "coin_type": "0x374374b5623d034bdcc6d6b1a40f83cc12fc1cbc9b7f241cc79a8936b9de55ef::gta::GTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/35f0a7e8-9bbb-42ad-88f4-482c3099d87e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

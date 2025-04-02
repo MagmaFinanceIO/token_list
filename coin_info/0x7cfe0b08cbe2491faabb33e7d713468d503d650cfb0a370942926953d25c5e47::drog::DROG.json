@@ -1,0 +1,13 @@
+{
+  "name": "Drog",
+  "symbol": "DROG",
+  "decimals": 9,
+  "coin_type": "0x7cfe0b08cbe2491faabb33e7d713468d503d650cfb0a370942926953d25c5e47::drog::DROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x43016a7b7a8a194a51c1597e0449a70ae6d951ae.png?size=lg&key=566d6c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

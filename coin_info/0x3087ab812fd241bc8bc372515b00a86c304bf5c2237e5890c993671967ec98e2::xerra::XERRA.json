@@ -1,0 +1,13 @@
+{
+  "name": "XERRA",
+  "symbol": "XERRA",
+  "decimals": 9,
+  "coin_type": "0x3087ab812fd241bc8bc372515b00a86c304bf5c2237e5890c993671967ec98e2::xerra::XERRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B8pxgccd2KCFEBrssp2mGBCeTwAXr3uaNofA4DVRg6TB.png?size=lg&key=a3a5ba",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

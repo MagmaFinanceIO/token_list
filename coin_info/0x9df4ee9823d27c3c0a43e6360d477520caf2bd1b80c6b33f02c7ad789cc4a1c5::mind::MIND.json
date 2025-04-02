@@ -1,0 +1,13 @@
+{
+  "name": "Hivemind Terminal",
+  "symbol": "MIND",
+  "decimals": 9,
+  "coin_type": "0x9df4ee9823d27c3c0a43e6360d477520caf2bd1b80c6b33f02c7ad789cc4a1c5::mind::MIND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/M1NDeERjDqMGUA3bqZpNLwGmVUuy1EbjPk9PpYhgJGS.png?size=lg&key=0fe846",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

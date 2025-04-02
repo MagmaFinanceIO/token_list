@@ -1,0 +1,13 @@
+{
+  "name": "Make Farts Great Again",
+  "symbol": "FART",
+  "decimals": 9,
+  "coin_type": "0x842898df8deb7d6e2f0b846d7fe70515e46f0748eb958d366824f37311686cc8::fart::FART",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CNfnbBmwLE7sPtMj86GL8j7CqZZAHS8anzyuMGxapump.png?size=lg&key=1da822",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

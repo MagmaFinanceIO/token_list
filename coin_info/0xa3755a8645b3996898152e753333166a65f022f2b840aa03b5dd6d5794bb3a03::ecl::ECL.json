@@ -1,0 +1,13 @@
+{
+  "name": "Ecliptica by SuiAI",
+  "symbol": "ECL",
+  "decimals": 6,
+  "coin_type": "0xa3755a8645b3996898152e753333166a65f022f2b840aa03b5dd6d5794bb3a03::ecl::ECL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/ECL_43125719c2.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

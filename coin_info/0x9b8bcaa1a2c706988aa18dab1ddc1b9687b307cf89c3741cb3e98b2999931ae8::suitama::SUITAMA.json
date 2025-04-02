@@ -1,0 +1,13 @@
+{
+  "name": "Suitama Inu",
+  "symbol": "SUITAMA",
+  "decimals": 9,
+  "coin_type": "0x9b8bcaa1a2c706988aa18dab1ddc1b9687b307cf89c3741cb3e98b2999931ae8::suitama::SUITAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/02fbffde-4fb0-4d63-9a43-9d1a7e8ba116.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

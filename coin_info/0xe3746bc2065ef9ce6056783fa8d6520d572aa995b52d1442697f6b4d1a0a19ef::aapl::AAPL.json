@@ -1,0 +1,13 @@
+{
+  "name": "Apple",
+  "symbol": " AAPL",
+  "decimals": 6,
+  "coin_type": "0xe3746bc2065ef9ce6056783fa8d6520d572aa995b52d1442697f6b4d1a0a19ef::aapl::AAPL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmYj9tY8EypJTB9vW1HDDxgbu7ghDLp6n3dsuRhAj5XVJ9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

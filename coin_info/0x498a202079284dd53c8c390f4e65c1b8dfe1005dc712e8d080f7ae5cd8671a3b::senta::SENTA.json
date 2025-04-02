@@ -1,0 +1,13 @@
+{
+  "name": "Senta Klaws",
+  "symbol": "SENTA",
+  "decimals": 6,
+  "coin_type": "0x498a202079284dd53c8c390f4e65c1b8dfe1005dc712e8d080f7ae5cd8671a3b::senta::SENTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7114_1ad9c117bd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

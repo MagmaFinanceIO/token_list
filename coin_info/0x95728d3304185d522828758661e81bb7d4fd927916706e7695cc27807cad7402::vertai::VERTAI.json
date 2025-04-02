@@ -1,0 +1,13 @@
+{
+  "name": "Vertical AI",
+  "symbol": "VERTAI",
+  "decimals": 9,
+  "coin_type": "0x95728d3304185d522828758661e81bb7d4fd927916706e7695cc27807cad7402::vertai::VERTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/37CYYkpD2nNy5KZ25Yh8adSqJHPuRHgFSjfgWEGPfan8.png?size=lg&key=205ca0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

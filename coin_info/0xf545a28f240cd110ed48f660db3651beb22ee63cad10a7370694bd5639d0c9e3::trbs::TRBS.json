@@ -1,0 +1,13 @@
+{
+  "name": "Turbo on Sui",
+  "symbol": "TRBS",
+  "decimals": 6,
+  "coin_type": "0xf545a28f240cd110ed48f660db3651beb22ee63cad10a7370694bd5639d0c9e3::trbs::TRBS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/unnamed_removebg_preview_6f12807f03.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MOSMENG",
+  "symbol": "MOSMENG",
+  "decimals": 9,
+  "coin_type": "0x30cfba4503ed6c1a00de4f7c3d3b4e2bf38514a80156b720a95785601bb202be::mosmeng::MOSMENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/338b8e3d-903c-4a86-8e98-83151fd8bf46.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

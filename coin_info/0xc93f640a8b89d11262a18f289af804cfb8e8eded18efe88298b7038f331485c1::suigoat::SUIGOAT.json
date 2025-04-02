@@ -1,0 +1,13 @@
+{
+  "name": "Sui Gospel of Goatse",
+  "symbol": "SUIGOAT",
+  "decimals": 6,
+  "coin_type": "0xc93f640a8b89d11262a18f289af804cfb8e8eded18efe88298b7038f331485c1::suigoat::SUIGOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/01_784338164e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

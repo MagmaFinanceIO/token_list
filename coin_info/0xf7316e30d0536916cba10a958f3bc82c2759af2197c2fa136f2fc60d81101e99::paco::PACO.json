@@ -1,0 +1,13 @@
+{
+  "name": "Paco",
+  "symbol": "PACO",
+  "decimals": 6,
+  "coin_type": "0xf7316e30d0536916cba10a958f3bc82c2759af2197c2fa136f2fc60d81101e99::paco::PACO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PACO_Logo_5d35b885a9.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

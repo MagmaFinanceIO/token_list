@@ -1,0 +1,13 @@
+{
+  "name": "BlackCATE",
+  "symbol": "CATE",
+  "decimals": 9,
+  "coin_type": "0xd4b4e10a79330857e7bb16facc95c552dc2754321761ca7b9421748d97b20fbe::cate::CATE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3d1454d3-03b0-40d1-b9f9-c48ef6643f40.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

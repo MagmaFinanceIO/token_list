@@ -1,0 +1,13 @@
+{
+  "name": "Mr. Beast",
+  "symbol": "MRBST",
+  "decimals": 5,
+  "coin_type": "0x95f5973c1206db9479e5ec5041c99cad878b4b3112dddab17e1a6642a9eae830::mrbst::MRBST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fdef8df7-8adf-455f-86d2-d904d126a91f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Squishy The Small Kitten",
+  "symbol": "SQUISHY",
+  "decimals": 9,
+  "coin_type": "0x1b9bf57b28e0c4545f1efb859270bf94535b6c6f3b0fefea141c9b44b141f6f8::squishykitty::SQUISHYKITTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1076f628-6f28-48e1-b5fd-5d93fa3bdccf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

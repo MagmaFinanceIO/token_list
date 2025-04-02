@@ -1,0 +1,13 @@
+{
+  "name": "Mew Warrior",
+  "symbol": "MEWWAR",
+  "decimals": 9,
+  "coin_type": "0x64a9035a6fc9245beee9672ea803d799a8cfb731a3f46c7ef59962ed08078032::mewwar::MEWWAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7e5DEqCkdDfYFXyG67hiCyUcjuhdGvYcqWTvZtkjpump.png?size=lg&key=a1f60c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

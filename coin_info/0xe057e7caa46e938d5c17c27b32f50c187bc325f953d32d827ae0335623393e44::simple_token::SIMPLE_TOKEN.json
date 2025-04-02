@@ -1,0 +1,13 @@
+{
+  "name": "Clitcoin",
+  "symbol": "Clitcoin",
+  "decimals": 9,
+  "coin_type": "0xe057e7caa46e938d5c17c27b32f50c187bc325f953d32d827ae0335623393e44::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

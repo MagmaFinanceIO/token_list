@@ -1,0 +1,13 @@
+{
+  "name": "Golden dog",
+  "symbol": "GOLDOG",
+  "decimals": 9,
+  "coin_type": "0xe83fb3e4e0cbd745145f9de7640ec3593e93f08b95675d614f673cc336c8c87d::goldog::GOLDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://file-walletapp.waveonsui.com/images/wave-pumps/c0e75dbc-daf3-4bf8-95aa-80eb54d6ab89.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BANGY",
+  "symbol": "BANGY",
+  "decimals": 9,
+  "coin_type": "0xfa60844d83ab3836fb4d51d4629a7b9cc614a0b02b69cec48cb073b2fcb85198::bangy::BANGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4CKWBjXfAZNDyMDeMBPDx5gfcuHdFYDu2QfuqwWSpump.png?size=lg&key=1ade58",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

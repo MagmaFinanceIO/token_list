@@ -1,0 +1,13 @@
+{
+  "name": "Devin",
+  "symbol": "DEVIN",
+  "decimals": 6,
+  "coin_type": "0x1da081b11b3d8ed1ee3b02ae405cee765ba7b8b5ae8929a4551ad1c891c8971d::devin::DEVIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmQvnd1wRvUpra4xuFm3j8xwz68tTwc2XaSFUzxJnggUT3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

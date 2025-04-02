@@ -1,0 +1,13 @@
+{
+  "name": "Sully the shrimp",
+  "symbol": "SULLY",
+  "decimals": 6,
+  "coin_type": "0xabbe44878ade96287ffcce66fed4d6d1ffa78ff3af431f7b467f0bbcd0537b04::sully::SULLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/97856d94-bf35-4dcf-90b2-132a205c0320.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

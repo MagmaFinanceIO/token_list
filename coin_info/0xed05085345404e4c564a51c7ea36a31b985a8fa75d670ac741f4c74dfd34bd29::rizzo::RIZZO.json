@@ -1,0 +1,13 @@
+{
+  "name": "Rizzo the Rat",
+  "symbol": "RIZZO",
+  "decimals": 9,
+  "coin_type": "0xed05085345404e4c564a51c7ea36a31b985a8fa75d670ac741f4c74dfd34bd29::rizzo::RIZZO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/J8xopmtpj5sLghSugcQGZTnRwGHBGNqC2ivgehNxpump.png?size=lg&key=d33530",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

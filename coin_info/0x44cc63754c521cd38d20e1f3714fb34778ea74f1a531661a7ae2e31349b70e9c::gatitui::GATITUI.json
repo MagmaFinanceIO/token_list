@@ -1,0 +1,13 @@
+{
+  "name": "GATITO SUI",
+  "symbol": "GATITUI",
+  "decimals": 6,
+  "coin_type": "0x44cc63754c521cd38d20e1f3714fb34778ea74f1a531661a7ae2e31349b70e9c::gatitui::GATITUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/gatito_sui_716950d946.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

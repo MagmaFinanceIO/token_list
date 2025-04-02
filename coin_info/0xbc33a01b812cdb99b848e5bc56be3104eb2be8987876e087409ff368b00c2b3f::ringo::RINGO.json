@@ -1,0 +1,13 @@
+{
+  "name": "TikTok Rngo",
+  "symbol": "RINGO",
+  "decimals": 9,
+  "coin_type": "0xbc33a01b812cdb99b848e5bc56be3104eb2be8987876e087409ff368b00c2b3f::ringo::RINGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FNyA5y3cV3jRvN3sA7mtppc3GeULaJFk8mNaXVuRYwAL.png?size=lg&key=62b21d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Lordy",
+  "symbol": "LORDY",
+  "decimals": 9,
+  "coin_type": "0x0183b20a84294135de30eeb57c8d8eb8b03d5cc6b6425eb034b21ecdaf961acf::lordy::LORDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d0a75398-72c2-4fcf-836e-2ac4a99b7435.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

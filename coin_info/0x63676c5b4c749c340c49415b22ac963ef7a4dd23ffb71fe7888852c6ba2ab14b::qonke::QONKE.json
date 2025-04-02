@@ -1,0 +1,13 @@
+{
+  "name": "First Qonke On Sui",
+  "symbol": "QONKE",
+  "decimals": 6,
+  "coin_type": "0x63676c5b4c749c340c49415b22ac963ef7a4dd23ffb71fe7888852c6ba2ab14b::qonke::QONKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_38_b53adb5eab.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

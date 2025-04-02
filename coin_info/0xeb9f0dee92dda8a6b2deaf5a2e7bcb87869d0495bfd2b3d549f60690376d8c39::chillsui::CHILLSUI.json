@@ -1,0 +1,13 @@
+{
+  "name": "Chill Sui",
+  "symbol": "CHILLSUI",
+  "decimals": 9,
+  "coin_type": "0xeb9f0dee92dda8a6b2deaf5a2e7bcb87869d0495bfd2b3d549f60690376d8c39::chillsui::CHILLSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4oXKDW54xCwFSWagfVJS8dwoqgSo3SVH1y6orzQgpump.png?size=lg&key=98ae0c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

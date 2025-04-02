@@ -1,0 +1,13 @@
+{
+  "name": "Sui Nao",
+  "symbol": "NAO",
+  "decimals": 9,
+  "coin_type": "0x00db690fcb4a1cd8367a551d93075d0bc7a69272d64a43555056b0b590eb2381::nao::NAO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1a1d50d7-c474-4c20-a453-b100160b5c92.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

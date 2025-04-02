@@ -1,0 +1,13 @@
+{
+  "name": "ScopAI",
+  "symbol": "ScopAI",
+  "decimals": 9,
+  "coin_type": "0x6bf726aea0c457e7f20cfe63e86e3cb349d060e24cfba46021f22c4442ec450d::scopai::SCOPAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HxnuHFKPgeVCojp7kNFiwAcgBptidJqnEo88LNPpump.png?size=lg&key=0f264b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

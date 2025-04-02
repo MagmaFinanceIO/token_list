@@ -1,0 +1,13 @@
+{
+  "name": "PEPE the Dog",
+  "symbol": "PEPE",
+  "decimals": 9,
+  "coin_type": "0x728230ba32c480f558ebcc6beca0b915ce76bb9f0238bc149ee8ce8ae9c88688::pepe::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/m9PM15qH8LLFrprcJyVp9y6LSmYsDsZDibizpgFpump.png?size=lg&key=64aab4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

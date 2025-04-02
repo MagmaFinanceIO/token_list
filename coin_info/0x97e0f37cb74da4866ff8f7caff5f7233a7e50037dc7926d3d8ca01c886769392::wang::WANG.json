@@ -1,0 +1,13 @@
+{
+  "name": "Wang The Orca",
+  "symbol": "WANG",
+  "decimals": 6,
+  "coin_type": "0x97e0f37cb74da4866ff8f7caff5f7233a7e50037dc7926d3d8ca01c886769392::wang::WANG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/wangggg_2344e421cf.JPEG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

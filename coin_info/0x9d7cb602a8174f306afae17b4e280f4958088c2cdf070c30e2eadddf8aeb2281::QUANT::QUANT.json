@@ -1,0 +1,13 @@
+{
+  "name": "Gen Z Quant",
+  "symbol": "Quant",
+  "decimals": 2,
+  "coin_type": "0x9d7cb602a8174f306afae17b4e280f4958088c2cdf070c30e2eadddf8aeb2281::QUANT::QUANT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/efMgqJAnQE3XiJgOM9MuEv3PNswt80byOPIlqi8o64A?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

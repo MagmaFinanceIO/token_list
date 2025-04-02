@@ -1,0 +1,13 @@
+{
+  "name": "MAGIC EDEN MASCOT",
+  "symbol": "EMMY",
+  "decimals": 9,
+  "coin_type": "0x7313660131a046e07304d461c1822740030febc0b9e1240b6c02656c5e4e3a71::emmy::EMMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DThxiaxh12HgZWmaoiuHAU5buTt79rkGdgTk6xP5VBak.png?size=lg&key=969b45",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Selena by SuiAI",
+  "symbol": "SEL",
+  "decimals": 6,
+  "coin_type": "0x395a65f66a29256ce73eda584281ae4a891b0c1bf3df7f18a079bbb15f907ac6::sel::SEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/SELENA_fa729714bf.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

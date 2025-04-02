@@ -1,0 +1,13 @@
+{
+  "name": "BUBU ON SUI",
+  "symbol": "BUBUS",
+  "decimals": 9,
+  "coin_type": "0x23ca7d60baa2d89a69343b2fccd5189bec47c6e4a8534aa447e8ff790734f420::bubus::BUBUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/575c05f5-f4be-455e-82dc-df4987f992f5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

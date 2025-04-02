@@ -1,0 +1,13 @@
+{
+  "name": "Burger Burger Cat",
+  "symbol": "BBC",
+  "decimals": 9,
+  "coin_type": "0x66ad7e81b6535feaf9f45679d50c482c603fdbcd06b15df32cbdb8120caa6965::bbc::BBC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/48ea9679-108d-4a9a-94bb-3d83c43411cf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

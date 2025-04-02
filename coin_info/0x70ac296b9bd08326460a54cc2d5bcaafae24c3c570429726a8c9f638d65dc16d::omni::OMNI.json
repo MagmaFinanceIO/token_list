@@ -1,0 +1,13 @@
+{
+  "name": "Omni AI",
+  "symbol": "OMNI",
+  "decimals": 9,
+  "coin_type": "0x70ac296b9bd08326460a54cc2d5bcaafae24c3c570429726a8c9f638d65dc16d::omni::OMNI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CkcCzRGeyBpAokb4LDE5Xxg344d843XYQHszrbMieyqc.png?size=lg&key=05deb3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

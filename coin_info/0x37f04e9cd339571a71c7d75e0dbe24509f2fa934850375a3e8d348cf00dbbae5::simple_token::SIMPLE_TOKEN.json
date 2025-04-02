@@ -1,0 +1,13 @@
+{
+  "name": "COSMOS",
+  "symbol": "COSMOS",
+  "decimals": 9,
+  "coin_type": "0x37f04e9cd339571a71c7d75e0dbe24509f2fa934850375a3e8d348cf00dbbae5::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

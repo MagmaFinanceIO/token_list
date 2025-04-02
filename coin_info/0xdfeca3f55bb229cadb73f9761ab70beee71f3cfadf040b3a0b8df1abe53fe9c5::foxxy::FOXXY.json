@@ -1,0 +1,13 @@
+{
+  "name": "Foxxy Girl",
+  "symbol": "FOXXY",
+  "decimals": 9,
+  "coin_type": "0xdfeca3f55bb229cadb73f9761ab70beee71f3cfadf040b3a0b8df1abe53fe9c5::foxxy::FOXXY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EHdaa5TRmbHF9EGyEDXvmGpPbQ7PZqzLs7Ww4Bxxpump.png?size=lg&key=305570",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

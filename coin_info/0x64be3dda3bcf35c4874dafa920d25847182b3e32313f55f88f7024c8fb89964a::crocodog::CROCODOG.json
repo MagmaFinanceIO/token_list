@@ -1,0 +1,13 @@
+{
+  "name": "CROCO DOG",
+  "symbol": "CrocoDog",
+  "decimals": 9,
+  "coin_type": "0x64be3dda3bcf35c4874dafa920d25847182b3e32313f55f88f7024c8fb89964a::crocodog::CROCODOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1599b319-1e84-4c63-a901-aa15a4779dc3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

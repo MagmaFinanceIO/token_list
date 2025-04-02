@@ -1,0 +1,13 @@
+{
+  "name": "SUITRUMP",
+  "symbol": "SUITRUMP",
+  "decimals": 9,
+  "coin_type": "0x7f760d47e36a46799f0e64d3fd2f9ef516ba44dd1e756ce77a341335f5acfd6b::suitrump::SUITRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b62c5bc6-525b-41ac-aae3-9e0eb4c144ec.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

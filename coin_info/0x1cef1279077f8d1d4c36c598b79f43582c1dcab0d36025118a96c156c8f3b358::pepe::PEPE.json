@@ -1,0 +1,13 @@
+{
+  "name": "PEPE",
+  "symbol": "PEPE-DREAM",
+  "decimals": 9,
+  "coin_type": "0x1cef1279077f8d1d4c36c598b79f43582c1dcab0d36025118a96c156c8f3b358::pepe::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://storage.googleapis.com/raidenx-no-cors/token-icons/pepe-dream.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Trista",
+  "symbol": "TRISTa",
+  "decimals": 9,
+  "coin_type": "0xef0ac22ff409d0d31426e0e6bd44b9ee9611c562dc73adaca3822d677b296e2b::trista::TRISTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Gangster SHIBA",
+  "symbol": "GShiba",
+  "decimals": 9,
+  "coin_type": "0x0845af13c6ca09160bd949c8bd980879de3dcd4bff1c91beb9c96ec3ee157dc9::gshiba::GSHIBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8b0000ba-b865-4073-8e4c-69b46b22fd29.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

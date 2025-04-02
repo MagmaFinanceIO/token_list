@@ -1,0 +1,13 @@
+{
+  "name": "CatGPT",
+  "symbol": "CatGPT",
+  "decimals": 9,
+  "coin_type": "0x9ed28ec42488e220fab776c129825930d2a613e7906cc78993f3b44a2e675269::catgpt::CATGPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Cu6WGw1ToeUYGi1iLM9n83QfzKNcqeHwZVzkrJopQU29.png?size=lg&key=186694",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

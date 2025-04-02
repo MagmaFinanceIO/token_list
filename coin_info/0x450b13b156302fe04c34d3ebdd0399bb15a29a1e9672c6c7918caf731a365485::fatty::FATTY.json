@@ -1,0 +1,13 @@
+{
+  "name": "FAT BOY",
+  "symbol": "FATTY",
+  "decimals": 9,
+  "coin_type": "0x450b13b156302fe04c34d3ebdd0399bb15a29a1e9672c6c7918caf731a365485::fatty::FATTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI BONK",
+  "symbol": "BONK",
+  "decimals": 9,
+  "coin_type": "0xc5992974a3281b8a0171922c609984efe176b68c70bd054b298e3d468cbd0b36::bonk::BONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b6e5c59d-3807-4ba7-8a82-47ec0a9d1f0c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

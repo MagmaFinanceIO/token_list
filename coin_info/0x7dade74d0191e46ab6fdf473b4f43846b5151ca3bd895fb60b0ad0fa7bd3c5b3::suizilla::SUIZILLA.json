@@ -1,0 +1,13 @@
+{
+  "name": "SuiZilla",
+  "symbol": "SUIZILLA",
+  "decimals": 9,
+  "coin_type": "0x7dade74d0191e46ab6fdf473b4f43846b5151ca3bd895fb60b0ad0fa7bd3c5b3::suizilla::SUIZILLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://aquamarine-giant-muskox-172.mypinata.cloud/ipfs/QmTDEv3694WF9eVqyyeQrTs37yHNjzBTUgcku7B3uhApWS",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

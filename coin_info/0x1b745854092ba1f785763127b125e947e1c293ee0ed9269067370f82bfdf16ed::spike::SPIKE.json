@@ -1,0 +1,13 @@
+{
+  "name": "Spike Wazowski on SUI",
+  "symbol": "SPIKE",
+  "decimals": 6,
+  "coin_type": "0x1b745854092ba1f785763127b125e947e1c293ee0ed9269067370f82bfdf16ed::spike::SPIKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_6289377717321319187_c_64a64a1b2b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

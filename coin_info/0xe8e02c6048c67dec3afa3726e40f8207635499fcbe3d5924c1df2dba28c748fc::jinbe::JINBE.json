@@ -1,0 +1,13 @@
+{
+  "name": "$JINBE",
+  "symbol": "JINBE",
+  "decimals": 6,
+  "coin_type": "0xe8e02c6048c67dec3afa3726e40f8207635499fcbe3d5924c1df2dba28c748fc::jinbe::JINBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSChK2Nui2F9DjuDQASU1XAcgkcqoJ933zgbejrhohEpk",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

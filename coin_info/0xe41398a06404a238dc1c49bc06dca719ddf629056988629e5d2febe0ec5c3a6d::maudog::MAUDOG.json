@@ -1,0 +1,13 @@
+{
+  "name": "MAU DOG",
+  "symbol": "MauDog",
+  "decimals": 9,
+  "coin_type": "0xe41398a06404a238dc1c49bc06dca719ddf629056988629e5d2febe0ec5c3a6d::maudog::MAUDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ded20925-2816-4b25-a7f4-9090ac8cabb1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

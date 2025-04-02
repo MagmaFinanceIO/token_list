@@ -1,0 +1,13 @@
+{
+  "name": "DIOM Network",
+  "symbol": "DIOM",
+  "decimals": 6,
+  "coin_type": "0x23632c106520e427c1190cfcff18e6a7993048f39a6b4793522ac9af1a798ecb::diom::DIOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/95a0d3e6-09f6-4f8d-a272-1bcdee20335a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

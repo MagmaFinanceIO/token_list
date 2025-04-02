@@ -1,0 +1,13 @@
+{
+  "name": "waterfrog",
+  "symbol": "WFROG",
+  "decimals": 9,
+  "coin_type": "0x8e5bbf128f94630541dea1ef26795b6234caad18f169ef4736d69f6465345297::wfrog::WFROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ecf8418c-ba23-439d-808d-b7c39e9daf43.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

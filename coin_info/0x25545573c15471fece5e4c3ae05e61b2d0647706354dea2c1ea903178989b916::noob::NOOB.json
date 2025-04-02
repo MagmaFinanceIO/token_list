@@ -1,0 +1,13 @@
+{
+  "name": "Noob Coin",
+  "symbol": "NOOB",
+  "decimals": 0,
+  "coin_type": "0x25545573c15471fece5e4c3ae05e61b2d0647706354dea2c1ea903178989b916::noob::NOOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/da47bf68-0893-4f95-b8a7-412084b7d47d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

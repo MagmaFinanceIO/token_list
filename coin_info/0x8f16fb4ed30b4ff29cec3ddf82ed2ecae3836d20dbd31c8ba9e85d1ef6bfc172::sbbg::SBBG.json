@@ -1,0 +1,13 @@
+{
+  "name": "SBBG",
+  "symbol": "SBBG",
+  "decimals": 9,
+  "coin_type": "0x8f16fb4ed30b4ff29cec3ddf82ed2ecae3836d20dbd31c8ba9e85d1ef6bfc172::sbbg::SBBG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cloudflare-ipfs.com/ipfs/QmfTe4XqRegTBAGv7j9zpcqK9wnEDg9Bb52mQufAdcFQ4T",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

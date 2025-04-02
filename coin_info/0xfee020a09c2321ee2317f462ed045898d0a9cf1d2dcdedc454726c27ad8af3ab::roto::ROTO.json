@@ -1,0 +1,13 @@
+{
+  "name": "Roto",
+  "symbol": "Roto",
+  "decimals": 9,
+  "coin_type": "0xfee020a09c2321ee2317f462ed045898d0a9cf1d2dcdedc454726c27ad8af3ab::roto::ROTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

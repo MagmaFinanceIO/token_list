@@ -1,0 +1,13 @@
+{
+  "name": "Roo Runner",
+  "symbol": "ROO",
+  "decimals": 7,
+  "coin_type": "0xb8611169114cd8e174413e28ad436272f96f7ed7288c21071086dac72737078c::roo::ROO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8f5acc1c-c1fe-4ab3-aa8d-f670fa17e2bc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

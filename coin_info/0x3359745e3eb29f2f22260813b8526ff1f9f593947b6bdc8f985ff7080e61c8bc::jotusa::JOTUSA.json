@@ -1,0 +1,13 @@
+{
+  "name": "Jeet of the United States",
+  "symbol": "JOTUS",
+  "decimals": 9,
+  "coin_type": "0x3359745e3eb29f2f22260813b8526ff1f9f593947b6bdc8f985ff7080e61c8bc::jotusa::JOTUSA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/uR3PMeXisBekrkZ1DaKnEfGBoBvyGisEpV2bkvrpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

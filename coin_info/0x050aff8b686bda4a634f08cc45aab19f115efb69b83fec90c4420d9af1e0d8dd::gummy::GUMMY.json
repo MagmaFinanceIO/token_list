@@ -1,0 +1,13 @@
+{
+  "name": "GUMMY BEAR",
+  "symbol": "GUMMY",
+  "decimals": 9,
+  "coin_type": "0x050aff8b686bda4a634f08cc45aab19f115efb69b83fec90c4420d9af1e0d8dd::gummy::GUMMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0f4a1e8a-b97b-47df-a16f-5d3a9b6c6d50.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BaiBai",
+  "symbol": "BaiBai",
+  "decimals": 9,
+  "coin_type": "0x0c67c2ac2c6f47aa55df9c2a78e5f2d88c9e362841092f3fdcdb0d9896f58557::baibai::BAIBAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/52PFfC6Y7UzcGy1V1s4Go7XJfdoifPm2vB7WEh88pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

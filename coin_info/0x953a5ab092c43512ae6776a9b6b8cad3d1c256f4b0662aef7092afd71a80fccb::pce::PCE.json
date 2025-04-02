@@ -1,0 +1,13 @@
+{
+  "name": "Peace",
+  "symbol": "PCE",
+  "decimals": 9,
+  "coin_type": "0x953a5ab092c43512ae6776a9b6b8cad3d1c256f4b0662aef7092afd71a80fccb::pce::PCE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/21a97cea-9fcf-4917-90a3-61aa08826230.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

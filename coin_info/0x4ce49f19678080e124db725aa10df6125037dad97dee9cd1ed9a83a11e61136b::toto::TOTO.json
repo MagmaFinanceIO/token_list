@@ -1,0 +1,13 @@
+{
+  "name": "TOTODILE",
+  "symbol": "TOTO",
+  "decimals": 6,
+  "coin_type": "0x4ce49f19678080e124db725aa10df6125037dad97dee9cd1ed9a83a11e61136b::toto::TOTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731910237920.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

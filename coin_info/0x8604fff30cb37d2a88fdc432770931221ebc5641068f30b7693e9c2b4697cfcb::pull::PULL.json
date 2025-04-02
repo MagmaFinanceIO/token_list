@@ -1,0 +1,13 @@
+{
+  "name": "PULL UP",
+  "symbol": "PULL",
+  "decimals": 9,
+  "coin_type": "0x8604fff30cb37d2a88fdc432770931221ebc5641068f30b7693e9c2b4697cfcb::pull::PULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

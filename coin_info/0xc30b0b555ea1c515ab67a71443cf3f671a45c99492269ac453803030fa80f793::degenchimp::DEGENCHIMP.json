@@ -1,0 +1,13 @@
+{
+  "name": "DEGEN CHIMP",
+  "symbol": "DegenChimp",
+  "decimals": 9,
+  "coin_type": "0xc30b0b555ea1c515ab67a71443cf3f671a45c99492269ac453803030fa80f793::degenchimp::DEGENCHIMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/80c9ed0d-a94f-48c1-a20a-c6fefeff5ada.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Justin The Tree",
+  "symbol": "Justin",
+  "decimals": 9,
+  "coin_type": "0x798f1ddf54bcbb171becc35fda3069d0cf3ef3b74d3e077e0ba5e73b494e6984::justin::JUSTIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HaibSdT5nX4txfM1mbZFCtRcts3oESCCMNGBYsTQcyAN.png?size=lg&key=0389e4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

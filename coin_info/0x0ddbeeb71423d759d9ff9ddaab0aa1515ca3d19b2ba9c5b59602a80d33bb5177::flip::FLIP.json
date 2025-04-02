@@ -1,0 +1,13 @@
+{
+  "name": "FLIP",
+  "symbol": "FLIP",
+  "decimals": 9,
+  "coin_type": "0x0ddbeeb71423d759d9ff9ddaab0aa1515ca3d19b2ba9c5b59602a80d33bb5177::flip::FLIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/C9kzHGduZtVQ5v5g6asT7fuGsikBkbN7YVQm8Hn1pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

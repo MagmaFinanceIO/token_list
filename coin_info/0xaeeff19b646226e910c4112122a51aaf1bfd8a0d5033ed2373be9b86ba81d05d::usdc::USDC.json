@@ -1,0 +1,13 @@
+{
+  "name": "NATIVE USDC",
+  "symbol": "USDC",
+  "decimals": 6,
+  "coin_type": "0xaeeff19b646226e910c4112122a51aaf1bfd8a0d5033ed2373be9b86ba81d05d::usdc::USDC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000028738_26765b61ed.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

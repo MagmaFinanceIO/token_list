@@ -1,0 +1,13 @@
+{
+  "name": "BONKO",
+  "symbol": "BONKO",
+  "decimals": 9,
+  "coin_type": "0x12b70b57cd142096c93f56832cd72b63bdf93de3e31b01a6efa7004600eb3bb9::bonko_::BONKO_",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c41d0ffe-4fb3-4b14-8de3-490ed8a71c93.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

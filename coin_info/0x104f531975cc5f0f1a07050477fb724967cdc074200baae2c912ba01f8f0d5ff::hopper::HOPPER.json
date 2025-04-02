@@ -1,0 +1,13 @@
+{
+  "name": "Hopper the rabbit",
+  "symbol": "Hopper",
+  "decimals": 6,
+  "coin_type": "0x104f531975cc5f0f1a07050477fb724967cdc074200baae2c912ba01f8f0d5ff::hopper::HOPPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/hoper_68199ebfbb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

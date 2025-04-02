@@ -1,0 +1,13 @@
+{
+  "name": "Liquor",
+  "symbol": "LIQ",
+  "decimals": 6,
+  "coin_type": "0x98700ffa726e797f0e67283f8b8ccfc6b2f4fa4d57b18b3c9f1b2644d37d715c::liq::LIQ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1c86fc78-0ef5-4344-988d-20eca3cd28ff.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

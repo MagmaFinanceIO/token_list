@@ -1,0 +1,13 @@
+{
+  "name": "Executive Sayaka",
+  "symbol": "SAYAKA",
+  "decimals": 6,
+  "coin_type": "0x7206f7f07353cd8e08020d5e973fac4776dc6c2e67c5a37fa2d92fee91b1480a::sayaka::SAYAKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/q2wsx_a6d91bb8e7.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

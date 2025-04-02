@@ -1,0 +1,13 @@
+{
+  "name": "AILIVE",
+  "symbol": "AILIVE",
+  "decimals": 9,
+  "coin_type": "0x1ea325ad914a756978aed0c00cca711165baf2a900952c0525098a29a89f3c7d::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

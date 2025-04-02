@@ -1,0 +1,13 @@
+{
+  "name": "Trump Dao",
+  "symbol": "TRUMP",
+  "decimals": 6,
+  "coin_type": "0xab5882cb8248f4a9c73b707ed3c117d28726e5be0694654455a2bd2d9b2bcd72::trump::TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://public-cdn.daossui.io/assets/tokens/3df67ce0-d980-11ef-a5a6-1fc1aad748d7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

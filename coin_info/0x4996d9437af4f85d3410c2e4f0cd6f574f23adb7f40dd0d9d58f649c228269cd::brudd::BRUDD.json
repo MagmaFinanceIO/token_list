@@ -1,0 +1,13 @@
+{
+  "name": "brudd",
+  "symbol": "BRUDD",
+  "decimals": 6,
+  "coin_type": "0x4996d9437af4f85d3410c2e4f0cd6f574f23adb7f40dd0d9d58f649c228269cd::brudd::BRUDD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000123465_26f268fe41.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Zyra on SUI",
+  "symbol": "ZYRASUI",
+  "decimals": 9,
+  "coin_type": "0x768f609efc44ddd3493be8aa6126be03eaae00427a6d0ed8f6df2b96ae3d573a::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

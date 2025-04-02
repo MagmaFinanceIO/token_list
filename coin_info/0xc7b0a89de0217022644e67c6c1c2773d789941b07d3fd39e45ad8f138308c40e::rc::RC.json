@@ -1,0 +1,13 @@
+{
+  "name": "RuyterCoin",
+  "symbol": "RC",
+  "decimals": 5,
+  "coin_type": "0xc7b0a89de0217022644e67c6c1c2773d789941b07d3fd39e45ad8f138308c40e::rc::RC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fd299d22-7a69-4bee-9006-9f73e24262e4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

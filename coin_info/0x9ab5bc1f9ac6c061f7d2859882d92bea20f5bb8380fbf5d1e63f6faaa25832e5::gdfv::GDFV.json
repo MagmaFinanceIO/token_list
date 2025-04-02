@@ -1,0 +1,13 @@
+{
+  "name": "gdfv",
+  "symbol": "gdfv",
+  "decimals": 6,
+  "coin_type": "0x9ab5bc1f9ac6c061f7d2859882d92bea20f5bb8380fbf5d1e63f6faaa25832e5::gdfv::GDFV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

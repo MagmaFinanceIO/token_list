@@ -1,0 +1,13 @@
+{
+  "name": "TRUMPY",
+  "symbol": "TRUMPY",
+  "decimals": 9,
+  "coin_type": "0x7706b0c4472175889b5a62c90980aed85737df6157d26791a2b594a26ed0930b::trumpy::TRUMPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4ede459e-a0cd-4510-b189-9d114a232d56.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

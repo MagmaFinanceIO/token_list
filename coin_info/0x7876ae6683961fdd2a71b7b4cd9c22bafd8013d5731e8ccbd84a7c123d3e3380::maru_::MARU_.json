@@ -1,0 +1,13 @@
+{
+  "name": "Maru Taro",
+  "symbol": "Maru",
+  "decimals": 9,
+  "coin_type": "0x7876ae6683961fdd2a71b7b4cd9c22bafd8013d5731e8ccbd84a7c123d3e3380::maru_::MARU_",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8cb25e48-5abb-44e4-b960-fbd67575f9da.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

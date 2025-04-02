@@ -1,0 +1,13 @@
+{
+  "name": "Dolan Duck",
+  "symbol": "DoDuck",
+  "decimals": 9,
+  "coin_type": "0x483d44ecf32b25f84db7e94ebacfabc1cde0f593b39a4c919cd005b9e80dfdb5::doduck::DODUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BMpFQJXd7KBLJBp174fKCFcDxyrd1cTXaFvcudJLpump.png?size=lg&key=d2acec",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUN DOG MILLIONAIR",
+  "symbol": "SDM",
+  "decimals": 9,
+  "coin_type": "0xc665cfde194a505b1f077886824f57566a4d22477c52f53f9516f059a1be6513::sdm::SDM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3791e746-df4b-4be7-97f9-cf04ec8270a8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "KOI",
+  "symbol": "KOI",
+  "decimals": 6,
+  "coin_type": "0x01d430425a8a681ef26315e78a082fe744f8d0bbdbd1ab76b9fd78ada09bedca::Koi::KOI",
+  "pyth_id": "",
+  "birdeyeid": "0x01d430425a8a681ef26315e78a082fe744f8d0bbdbd1ab76b9fd78ada09bedca::Koi::KOI",
+  "coin_priority": [],
+  "logo_url": "https://ubxwf7ujw5ktuqvndqeqogfoiu343qxl2a3h3i5l5zkzj66fp6xa.arweave.net/oG9i_om3VTpCrRwJBxiuRTfNwuvQNn2jq-5VlPvFf64",
+  "project_url": "",
+  "coingecko_id": "koi-5",
+  "is_trusted": true
+}

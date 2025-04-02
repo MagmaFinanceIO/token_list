@@ -1,0 +1,13 @@
+{
+  "name": "PELLY the baby pelican",
+  "symbol": "PELLY",
+  "decimals": 6,
+  "coin_type": "0xe5ea6c84bc9ccf81a4bb6706f39e8ed52913cb756b87f56e45011bb50a69da95::pelly::PELLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5832_043d9da34a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

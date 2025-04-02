@@ -1,0 +1,13 @@
+{
+  "name": "First Token Launched by Beer",
+  "symbol": "BEERCOIN",
+  "decimals": 9,
+  "coin_type": "0xec1b471b1855acc408d644dc7c649359b1b8f2e0ab3e41653f5c9ef9f20181a4::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

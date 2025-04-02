@@ -1,0 +1,13 @@
+{
+  "name": "PIM PIMLING",
+  "symbol": "PIM",
+  "decimals": 9,
+  "coin_type": "0xd71da2fbcf0b8f31478a1ac8ac8f9f4d4b840e2b8ab7eae8f06e869b40706338::pim::PIM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmdmimWooCPS7zAmB9Jj43zHESJmNbuMN4SKVvAmLCBv8j",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Tate Bros $TOPG",
+  "symbol": "TOPG",
+  "decimals": 6,
+  "coin_type": "0xb88781e599306a5694ca2662a6c02163ba54a4f62e0b186c2376c4828b098f8c::topg::TOPG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_6f9700afc2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

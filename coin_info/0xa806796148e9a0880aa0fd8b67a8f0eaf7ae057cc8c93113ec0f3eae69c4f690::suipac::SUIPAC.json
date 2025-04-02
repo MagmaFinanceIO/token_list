@@ -1,0 +1,13 @@
+{
+  "name": "Sui Pac-Man",
+  "symbol": "SuiPac",
+  "decimals": 9,
+  "coin_type": "0xa806796148e9a0880aa0fd8b67a8f0eaf7ae057cc8c93113ec0f3eae69c4f690::suipac::SUIPAC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://static.tvtropes.org/pmwiki/pub/images/pacman_and_the_ghostly_adventures.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

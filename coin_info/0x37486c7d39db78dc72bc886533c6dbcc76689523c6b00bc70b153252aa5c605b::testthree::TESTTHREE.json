@@ -1,0 +1,13 @@
+{
+  "name": "Test3",
+  "symbol": "TestThree",
+  "decimals": 9,
+  "coin_type": "0x37486c7d39db78dc72bc886533c6dbcc76689523c6b00bc70b153252aa5c605b::testthree::TESTTHREE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/18840e16-8d9d-41cf-abd9-94b1946688f8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

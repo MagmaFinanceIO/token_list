@@ -1,0 +1,13 @@
+{
+  "name": "Mizume AI",
+  "symbol": "MizumeAI26",
+  "decimals": 9,
+  "coin_type": "0x72dcfd5cb0e44d687b46a0afc4712edeb1e97ca3a90c61ba53c443049011150e::mizumeai26::MIZUMEAI26",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmZgQw2tpn12hDteMZ9KrZJg2kvLMSFZrd89N4MPJaPNvN",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

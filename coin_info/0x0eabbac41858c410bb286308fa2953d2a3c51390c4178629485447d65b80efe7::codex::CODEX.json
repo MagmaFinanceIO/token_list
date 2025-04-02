@@ -1,0 +1,13 @@
+{
+  "name": "CODEX AI",
+  "symbol": "CODEX",
+  "decimals": 9,
+  "coin_type": "0x0eabbac41858c410bb286308fa2953d2a3c51390c4178629485447d65b80efe7::codex::CODEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GKTP98LYQDZkMrsKCYLG136dfMUCdYMDvw6GwkZspump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

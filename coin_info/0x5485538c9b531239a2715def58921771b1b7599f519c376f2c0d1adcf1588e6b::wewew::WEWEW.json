@@ -1,0 +1,13 @@
+{
+  "name": "Wewe",
+  "symbol": "WEWEW",
+  "decimals": 6,
+  "coin_type": "0x5485538c9b531239a2715def58921771b1b7599f519c376f2c0d1adcf1588e6b::wewew::WEWEW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000028997_7af3a0a88d.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

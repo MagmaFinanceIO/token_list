@@ -1,0 +1,13 @@
+{
+  "name": "DOLLY FAN ON SUI",
+  "symbol": "DOLLY",
+  "decimals": 6,
+  "coin_type": "0x81474163ce8c9c7c98e6521efd7c77a2e718fe911998e7742f5b35ccee1c3730::dolly::DOLLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_dolly_117f43969f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

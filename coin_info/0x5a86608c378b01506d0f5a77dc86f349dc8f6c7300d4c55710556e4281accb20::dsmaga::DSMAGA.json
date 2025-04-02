@@ -1,0 +1,13 @@
+{
+  "name": "Dark Sui Maga",
+  "symbol": "DSMAGA",
+  "decimals": 6,
+  "coin_type": "0x5a86608c378b01506d0f5a77dc86f349dc8f6c7300d4c55710556e4281accb20::dsmaga::DSMAGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/animation_gif_ezgif_com_video_to_gif_converter_669a346c06.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

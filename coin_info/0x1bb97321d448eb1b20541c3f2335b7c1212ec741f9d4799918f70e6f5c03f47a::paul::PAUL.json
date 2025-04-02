@@ -1,0 +1,13 @@
+{
+  "name": "Paul",
+  "symbol": "PAUL",
+  "decimals": 9,
+  "coin_type": "0x1bb97321d448eb1b20541c3f2335b7c1212ec741f9d4799918f70e6f5c03f47a::paul::PAUL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/3KcCjt4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Moray Turbos",
+  "symbol": "TurboMoray",
+  "decimals": 6,
+  "coin_type": "0xbbe05dad68c7c2321445474e6d98836b018ba6b2791ed52c497d2da5e75fe0ff::turbomoray::TURBOMORAY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731178301747.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

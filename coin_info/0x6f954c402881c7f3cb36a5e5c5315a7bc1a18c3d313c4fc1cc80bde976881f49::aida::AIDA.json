@@ -1,0 +1,13 @@
+{
+  "name": "AI Decentralised Agents",
+  "symbol": "AIDA",
+  "decimals": 6,
+  "coin_type": "0x6f954c402881c7f3cb36a5e5c5315a7bc1a18c3d313c4fc1cc80bde976881f49::aida::AIDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3acb21f4-a5ff-4342-a044-d17ae5594233.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

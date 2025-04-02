@@ -1,0 +1,13 @@
+{
+  "name": "AI CRYSTAL NODE SUI",
+  "symbol": "AICRYNODE",
+  "decimals": 9,
+  "coin_type": "0xe18e4c467aaa408df6105aded16488ebaadfab8667c2e8ee8da6073e5026cc9c::aicrynode::AICRYNODE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/340b5e9b-160d-4e64-91d6-8b1db8dd5d0b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

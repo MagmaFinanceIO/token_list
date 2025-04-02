@@ -1,0 +1,13 @@
+{
+  "name": "DOGE DESIGN",
+  "symbol": "DOGEDE",
+  "decimals": 9,
+  "coin_type": "0x7dcc505fd224e643ac4165b2f06c8a0b65b29770543bd143da948ba7227d730a::dogede::DOGEDE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "nxyHULjHBI6hq87e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

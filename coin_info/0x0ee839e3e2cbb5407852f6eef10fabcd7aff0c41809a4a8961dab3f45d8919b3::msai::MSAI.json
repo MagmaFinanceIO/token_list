@@ -1,0 +1,13 @@
+{
+  "name": "MetaSuiAi",
+  "symbol": "MSAI",
+  "decimals": 6,
+  "coin_type": "0x0ee839e3e2cbb5407852f6eef10fabcd7aff0c41809a4a8961dab3f45d8919b3::msai::MSAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000018218_e057882e1b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

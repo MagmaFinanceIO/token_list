@@ -1,0 +1,13 @@
+{
+  "name": "Sui King",
+  "symbol": "SUIK",
+  "decimals": 6,
+  "coin_type": "0x9ed93fef0ce27e7825a71844fe04925d1e011ac48573094c4dbff1c7a8ab67b3::suik::SUIK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/elephant_eeef814f55.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

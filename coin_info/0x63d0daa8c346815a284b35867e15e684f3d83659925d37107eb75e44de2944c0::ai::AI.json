@@ -1,0 +1,13 @@
+{
+  "name": "Adeniyi Intelligence",
+  "symbol": "AI",
+  "decimals": 6,
+  "coin_type": "0x63d0daa8c346815a284b35867e15e684f3d83659925d37107eb75e44de2944c0::ai::AI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_24_20_51_41_91d4911527.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

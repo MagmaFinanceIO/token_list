@@ -1,0 +1,13 @@
+{
+  "name": "Mr.Whally",
+  "symbol": "Whally",
+  "decimals": 9,
+  "coin_type": "0x7c2af0273255fa372672081c61680a6bde87cac94b44e1bf1f46d3c7383a89f8::whally::WHALLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7f95ac21-4f4a-48bf-b591-ed14fc4e5b48.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

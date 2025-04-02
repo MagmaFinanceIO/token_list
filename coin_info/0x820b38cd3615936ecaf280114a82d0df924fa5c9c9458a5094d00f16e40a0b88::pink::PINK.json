@@ -1,0 +1,13 @@
+{
+  "name": "PINK",
+  "symbol": "PINK",
+  "decimals": 9,
+  "coin_type": "0x820b38cd3615936ecaf280114a82d0df924fa5c9c9458a5094d00f16e40a0b88::pink::PINK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a1899e9b-9432-4758-a262-7295e07daa36.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

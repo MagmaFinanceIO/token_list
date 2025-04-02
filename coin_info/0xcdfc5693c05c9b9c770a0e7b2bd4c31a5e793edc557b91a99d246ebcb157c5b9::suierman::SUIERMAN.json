@@ -1,0 +1,13 @@
+{
+  "name": "Suierman",
+  "symbol": "Suierman",
+  "decimals": 9,
+  "coin_type": "0xcdfc5693c05c9b9c770a0e7b2bd4c31a5e793edc557b91a99d246ebcb157c5b9::suierman::SUIERMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7KwizExqx1psBk5Nyc6k3NZyqBLF5NQbyZeBQutcpump.png?size=lg&key=8bee3e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

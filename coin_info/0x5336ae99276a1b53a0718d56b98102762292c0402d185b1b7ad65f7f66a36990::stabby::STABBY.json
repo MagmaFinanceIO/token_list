@@ -1,0 +1,13 @@
+{
+  "name": "Stabby",
+  "symbol": "STABBY",
+  "decimals": 9,
+  "coin_type": "0x5336ae99276a1b53a0718d56b98102762292c0402d185b1b7ad65f7f66a36990::stabby::STABBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aa3de609-b052-47ae-a4fc-928d9c09c4f3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Merry Paws",
+  "symbol": "MERRY",
+  "decimals": 9,
+  "coin_type": "0x7e4570b32fda17f1d165ad340d45665a931e95b89b22e607dcc5e1b539097b0d::merry::MERRY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BkuPLRGRWZhM4vvFxhkQD2mM1qSCLForqaFGyFSBpump.png?size=lg&key=ef8263",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

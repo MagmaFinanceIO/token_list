@@ -1,0 +1,13 @@
+{
+  "name": "Bill",
+  "symbol": "bill",
+  "decimals": 9,
+  "coin_type": "0x87171844020786b8486bb58406124e2553f4e4bbb2f5a1e523f89188052ff0ae::bill::BILL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a028f679-84a1-4b67-a627-d2b68f572676.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

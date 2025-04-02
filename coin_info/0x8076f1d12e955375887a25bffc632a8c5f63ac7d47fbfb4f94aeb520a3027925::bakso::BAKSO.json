@@ -1,0 +1,13 @@
+{
+  "name": "Disney Sumatran Tiger",
+  "symbol": "Bakso",
+  "decimals": 9,
+  "coin_type": "0x8076f1d12e955375887a25bffc632a8c5f63ac7d47fbfb4f94aeb520a3027925::bakso::BAKSO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump.png?size=lg&key=827b44",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

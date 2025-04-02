@@ -1,0 +1,13 @@
+{
+  "name": "Magic Lamp",
+  "symbol": "LAMP",
+  "decimals": 9,
+  "coin_type": "0xa3bf1a10ac94633c546ecf8cf12a3d5dadc8f87c3ad948134f1608f796874931::lamp::LAMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/507ba5c0-ad6d-4d20-a724-3d954c7c56ed.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

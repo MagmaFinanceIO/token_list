@@ -1,0 +1,13 @@
+{
+  "name": "Test Bitcoin",
+  "symbol": "BTC",
+  "decimals": 8,
+  "coin_type": "0xc85fd68ee4d49743d3f15da159a5c62714290f39c41eab769a5f6b9b22a1549d::test_btc::TEST_BTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

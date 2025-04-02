@@ -1,0 +1,13 @@
+{
+  "name": "Degeneratz",
+  "symbol": "RATZ",
+  "decimals": 6,
+  "coin_type": "0xe93558941d8ec375c1a48b41816791a12f1fb70d48f95088be8854a9044913e2::ratz::RATZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/19_2e30ebd52c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

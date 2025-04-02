@@ -1,0 +1,13 @@
+{
+  "name": "First Wagey On Sui",
+  "symbol": "WAGEY",
+  "decimals": 6,
+  "coin_type": "0xa3f568e365349e62f76ce1305b4d1edb0b86800cfdf3bb7df035a711a781ba3f::wagey::WAGEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/wag_1_c9c4e187b0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

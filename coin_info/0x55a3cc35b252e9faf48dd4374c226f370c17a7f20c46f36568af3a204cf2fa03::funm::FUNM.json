@@ -1,0 +1,13 @@
+{
+  "name": "FUNFUNM",
+  "symbol": "FUNM",
+  "decimals": 6,
+  "coin_type": "0x55a3cc35b252e9faf48dd4374c226f370c17a7f20c46f36568af3a204cf2fa03::funm::FUNM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/HJ_d0abde653b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MAGA on SUI",
+  "symbol": "MAGA",
+  "decimals": 6,
+  "coin_type": "0x33415106d7fe8e5d3014fc2613fd25d4817bed220691e6acb90cca7390a0d993::maga::MAGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/b59c3c54_b770_44a7_bd30_44db467bc590_e22128fbed.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

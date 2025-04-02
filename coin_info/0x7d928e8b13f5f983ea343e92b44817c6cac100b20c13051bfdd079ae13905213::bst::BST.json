@@ -1,0 +1,13 @@
+{
+  "name": "BEST",
+  "symbol": "BST",
+  "decimals": 9,
+  "coin_type": "0x7d928e8b13f5f983ea343e92b44817c6cac100b20c13051bfdd079ae13905213::bst::BST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

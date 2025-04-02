@@ -1,0 +1,13 @@
+{
+  "name": "Reality",
+  "symbol": "RLTY",
+  "decimals": 9,
+  "coin_type": "0x18a7ebb3035fe6436459f3214dc4be45fbc6cb61f7b249bda467f73c92da7cf2::rlty::RLTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9Q8BNPzujkGcrGnybA2BqB5xh3Q3cYUGYmfnz2bYpump.png?size=lg&key=2bf3aa",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

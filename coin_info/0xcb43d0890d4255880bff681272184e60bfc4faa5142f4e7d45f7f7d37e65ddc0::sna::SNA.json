@@ -1,0 +1,13 @@
+{
+  "name": "Swarm Node AI",
+  "symbol": "SNA",
+  "decimals": 9,
+  "coin_type": "0xcb43d0890d4255880bff681272184e60bfc4faa5142f4e7d45f7f7d37e65ddc0::sna::SNA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qmf978WVwJWAjeJaJY5jGiZ3YEdQgC43Cn4QowytAYos78",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

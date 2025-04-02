@@ -1,0 +1,13 @@
+{
+  "name": "DINO TOKEN",
+  "symbol": "DINO",
+  "decimals": 6,
+  "coin_type": "0xe5a6503b5183929b78e07fe2386b148496d622fb8cd4ed96e21908d1dd3f7342::dino::DINO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Capture_da_e_I_cran_2024_11_01_a_I_12_23_57_351b05ef9a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

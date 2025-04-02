@@ -1,0 +1,13 @@
+{
+  "name": "wrapped pnut",
+  "symbol": "wpnut",
+  "decimals": 9,
+  "coin_type": "0xa942860a2df641f341f38d9ae8baa426d3643ca7664f7723768ba4ed2f379103::wpnut::WPNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/vAvxLM8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

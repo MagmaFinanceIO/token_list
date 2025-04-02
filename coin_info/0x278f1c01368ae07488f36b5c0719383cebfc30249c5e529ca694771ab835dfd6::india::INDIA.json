@@ -1,0 +1,13 @@
+{
+  "name": "India",
+  "symbol": "India",
+  "decimals": 2,
+  "coin_type": "0x278f1c01368ae07488f36b5c0719383cebfc30249c5e529ca694771ab835dfd6::india::INDIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b9481021-e9f8-4d21-9063-36f837aa95f3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

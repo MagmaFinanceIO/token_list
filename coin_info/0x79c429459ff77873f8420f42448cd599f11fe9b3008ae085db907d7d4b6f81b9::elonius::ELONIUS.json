@@ -1,0 +1,13 @@
+{
+  "name": "Elonius Maximus",
+  "symbol": "Elonius",
+  "decimals": 9,
+  "coin_type": "0x79c429459ff77873f8420f42448cd599f11fe9b3008ae085db907d7d4b6f81b9::elonius::ELONIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CSCvQY6t9W6mrWjQ32nvasBo44dc3NqrVA9nSb4ypump.png?size=lg&key=3c9308",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

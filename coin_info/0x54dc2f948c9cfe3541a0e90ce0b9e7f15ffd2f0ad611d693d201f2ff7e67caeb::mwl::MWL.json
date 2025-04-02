@@ -1,0 +1,13 @@
+{
+  "name": "Mr. Wonderful",
+  "symbol": "MWL",
+  "decimals": 9,
+  "coin_type": "0x54dc2f948c9cfe3541a0e90ce0b9e7f15ffd2f0ad611d693d201f2ff7e67caeb::mwl::MWL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/45cd4722-500e-4d8b-9590-21a075a60214.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

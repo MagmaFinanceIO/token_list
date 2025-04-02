@@ -1,0 +1,13 @@
+{
+  "name": "FLIPPY",
+  "symbol": "FLIPPY",
+  "decimals": 9,
+  "coin_type": "0x03476179a7e74553f1142cefbace95276447dcec282868fff6ba6f28150e2fcd::flippy::FLIPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/j9ktl_1vp-AhhIvM?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

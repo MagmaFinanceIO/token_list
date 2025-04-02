@@ -1,0 +1,13 @@
+{
+  "name": "LOVE",
+  "symbol": "LOVE",
+  "decimals": 9,
+  "coin_type": "0x74a103fe71005be98ae3ddfcb871363b35e3093bd04f1bb2163ef8c970105a12::love::LOVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn4.vectorstock.com/i/1000x1000/34/78/love-text-icon-valentines-symbol-hipster-vector-18883478.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

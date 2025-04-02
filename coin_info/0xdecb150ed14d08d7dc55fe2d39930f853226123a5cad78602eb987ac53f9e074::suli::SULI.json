@@ -1,0 +1,13 @@
+{
+  "name": "Suli eyes",
+  "symbol": "Suli",
+  "decimals": 6,
+  "coin_type": "0xdecb150ed14d08d7dc55fe2d39930f853226123a5cad78602eb987ac53f9e074::suli::SULI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_6001212942500086653_y_6bb990eb10.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

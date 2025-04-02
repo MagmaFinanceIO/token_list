@@ -1,0 +1,13 @@
+{
+  "name": "Chicken Trump",
+  "symbol": "Trumpcken",
+  "decimals": 6,
+  "coin_type": "0xc528741abe2ef1ec71ba21aba7358945f757b88a39026b59e0fa7d150949d377::trumpcken::TRUMPCKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/240912_trump_simpsonbs_tease2_apncnt_c3085f36b8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

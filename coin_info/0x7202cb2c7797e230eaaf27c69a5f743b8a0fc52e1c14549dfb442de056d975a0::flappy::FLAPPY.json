@@ -1,0 +1,13 @@
+{
+  "name": "FLAPPY BIRD",
+  "symbol": "FLAPPY",
+  "decimals": 9,
+  "coin_type": "0x7202cb2c7797e230eaaf27c69a5f743b8a0fc52e1c14549dfb442de056d975a0::flappy::FLAPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4a126d75-07b0-400d-b901-a4f6114d2f98.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Dog Brave",
+  "symbol": "DogBrave",
+  "decimals": 9,
+  "coin_type": "0x3f4f35183d668e9dcdfbd5fd689c532f52df146d1595cfefb2f9ea26e6a7c0b4::dogbrave::DOGBRAVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://assets.geckoterminal.com/dtatjhao4sszcnjussg3jn8mwn32",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Glaciorn",
+  "symbol": "GLAC",
+  "decimals": 8,
+  "coin_type": "0x41e4f5503be65bb18abbbad5cd99b0fab41d1d5fea185abc565dcd21952e2e9d::glac::GLAC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/efa0d32e-4007-47f8-8f7f-b60083a336e6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

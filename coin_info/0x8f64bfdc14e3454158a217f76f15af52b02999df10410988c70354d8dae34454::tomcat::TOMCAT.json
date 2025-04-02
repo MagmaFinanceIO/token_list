@@ -1,0 +1,13 @@
+{
+  "name": "TOMCAT",
+  "symbol": "TOMCAT",
+  "decimals": 9,
+  "coin_type": "0x8f64bfdc14e3454158a217f76f15af52b02999df10410988c70354d8dae34454::tomcat::TOMCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b27d4aa8-af51-4453-9a39-260db451ef95.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

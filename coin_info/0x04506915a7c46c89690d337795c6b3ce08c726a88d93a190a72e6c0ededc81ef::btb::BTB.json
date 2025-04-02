@@ -1,0 +1,13 @@
+{
+  "name": "BitBloom",
+  "symbol": "BTB",
+  "decimals": 9,
+  "coin_type": "0x04506915a7c46c89690d337795c6b3ce08c726a88d93a190a72e6c0ededc81ef::btb::BTB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/eec2322f-42ec-4b86-b943-4775d0cae191.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

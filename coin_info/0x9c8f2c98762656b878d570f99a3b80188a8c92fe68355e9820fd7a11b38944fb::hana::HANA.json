@@ -1,0 +1,13 @@
+{
+  "name": "HANA",
+  "symbol": "HANA",
+  "decimals": 9,
+  "coin_type": "0x9c8f2c98762656b878d570f99a3b80188a8c92fe68355e9820fd7a11b38944fb::hana::HANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CS7yXAs47Y9MhfQK5aigdu3P74jGLLM1a4NQ8d51YUf8.png?size=lg&key=a899a5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

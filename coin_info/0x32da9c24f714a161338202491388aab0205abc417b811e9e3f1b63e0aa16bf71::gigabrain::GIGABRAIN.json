@@ -1,0 +1,13 @@
+{
+  "name": "Gigabrain coin",
+  "symbol": "GIGABRAIN",
+  "decimals": 9,
+  "coin_type": "0x32da9c24f714a161338202491388aab0205abc417b811e9e3f1b63e0aa16bf71::gigabrain::GIGABRAIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://us-tuna-sounds-images.voicemod.net/2993e251-f7d3-4a2f-8d5f-23ca515ae9d8-1679615411944.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

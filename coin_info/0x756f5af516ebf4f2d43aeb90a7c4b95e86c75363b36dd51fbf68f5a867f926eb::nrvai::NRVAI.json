@@ -1,0 +1,13 @@
+{
+  "name": "Neurova AI",
+  "symbol": "NRVAI",
+  "decimals": 9,
+  "coin_type": "0x756f5af516ebf4f2d43aeb90a7c4b95e86c75363b36dd51fbf68f5a867f926eb::nrvai::NRVAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Bo2BNr6JyPe65tZwCRVgMdGhwDpgZS6ixoDgfRdLpump.png?size=lg&key=f6c0db",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

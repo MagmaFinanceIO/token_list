@@ -1,0 +1,13 @@
+{
+  "name": "YouDon'tOwnEnoughSui",
+  "symbol": "YDOES",
+  "decimals": 9,
+  "coin_type": "0x26bd5f0aeac3b0fb60cdb8c9a75b28e8d0eca12170aab85736f8c1ae0cecfc4d::ydoes::YDOES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f7ec9548-fd9f-4b47-98d4-e581c1a521ba.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Terminal of Token",
+  "symbol": "terminal",
+  "decimals": 6,
+  "coin_type": "0x26091ddc81ce349623701bb34a359698e5043bf64b077af1eb5dfe7ae3277ff6::terminal::TERMINAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A8rnTyqWyM6bPYqFTxA37YcwwXdQARP9AeL1XznQpump.png?size=lg&key=31bbeb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

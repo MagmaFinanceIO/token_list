@@ -1,0 +1,13 @@
+{
+  "name": "ONE MUG PEPE",
+  "symbol": "MUG",
+  "decimals": 9,
+  "coin_type": "0x3ab6699becab6a1f4c70fb08bf5dbff33401f20eb703c00bbd4cc3ee6ad300a3::mug::MUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/20903cde-03aa-4b8c-8d91-49dd4a8aa42b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

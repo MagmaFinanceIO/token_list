@@ -1,0 +1,13 @@
+{
+  "name": "Rocko's Blockchain Life",
+  "symbol": "ROCKO",
+  "decimals": 9,
+  "coin_type": "0x4afbb805346818d95281504976e86739ac3993a388ec85d46a540191a10e5fba::rocko::ROCKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BCiQ3x7bQxGt6pRqKCHmh32YTPUwiDSkuQoQ5ygspump.png?size=lg&key=3f1482",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

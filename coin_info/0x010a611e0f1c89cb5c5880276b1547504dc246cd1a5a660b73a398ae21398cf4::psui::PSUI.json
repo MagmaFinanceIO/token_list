@@ -1,0 +1,13 @@
+{
+  "name": "Psui",
+  "symbol": "PSUI",
+  "decimals": 9,
+  "coin_type": "0x010a611e0f1c89cb5c5880276b1547504dc246cd1a5a660b73a398ae21398cf4::psui::PSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1f9bf1b6-70cb-456b-9843-6306f0026cc6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

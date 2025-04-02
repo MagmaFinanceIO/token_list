@@ -1,0 +1,13 @@
+{
+  "name": "Angry Pomelo",
+  "symbol": "AngryPomelo",
+  "decimals": 9,
+  "coin_type": "0xdc75e1a139ae552e13ba7d3c409458096f8e4a7242d86fe0a791b591b32438dd::angrypomelo::ANGRYPOMELO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/953aa1b7-4b80-47a2-8cf8-bddc1675a074.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

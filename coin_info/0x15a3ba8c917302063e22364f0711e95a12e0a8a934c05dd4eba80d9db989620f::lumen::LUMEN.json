@@ -1,0 +1,13 @@
+{
+  "name": "Lumen Protocol",
+  "symbol": "LUMEN",
+  "decimals": 9,
+  "coin_type": "0x15a3ba8c917302063e22364f0711e95a12e0a8a934c05dd4eba80d9db989620f::lumen::LUMEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d1246f14-b63f-4389-966a-8d205e8aaac7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Dubai Chocolate",
+  "symbol": "DCHC",
+  "decimals": 9,
+  "coin_type": "0x753d920548b3c4b449755d908122311a902cc86583956c6c8349b6ecfe71d886::dchc::DCHC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/021bd107-4ba1-488b-a7f1-39b6e39b8b00.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

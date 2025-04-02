@@ -1,0 +1,13 @@
+{
+  "name": "RETARDED PEPE",
+  "symbol": "PEPETARDSUI",
+  "decimals": 9,
+  "coin_type": "0x4d537ad025aa80eebc2008bf10c7c159221164ed3ded5c121041308e6da38c05::pepetardsui::PEPETARDSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/63ce8d59-8a3a-4b53-84ea-1ad4d2d5052a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suitoshi",
+  "symbol": "SUITOSHI",
+  "decimals": 6,
+  "coin_type": "0x1b114699d3139029fd6a8059d1996941a910eecb4a143f2167d85c9637c7a7c9::suitoshi::SUITOSHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731017779708.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

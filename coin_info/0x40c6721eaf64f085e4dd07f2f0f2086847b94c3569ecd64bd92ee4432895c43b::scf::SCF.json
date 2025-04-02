@@ -1,0 +1,13 @@
+{
+  "name": "Sui Chicken Fish",
+  "symbol": "SCF",
+  "decimals": 6,
+  "coin_type": "0x40c6721eaf64f085e4dd07f2f0f2086847b94c3569ecd64bd92ee4432895c43b::scf::SCF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Zj_Asjt_X_Ec3_RPT_Fch1_Mf_Mh_QS_Xrv_M7m_PS_Gmyrwj_Qke_U_Ap_R_c18036412e.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

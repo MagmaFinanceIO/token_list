@@ -1,0 +1,13 @@
+{
+  "name": "OREC On Sui",
+  "symbol": "OREC",
+  "decimals": 9,
+  "coin_type": "0xc683e66f74a4aa358a5e8055093b71eceab0dd0ea7f57c9181230f0ec724a0ec::orec::OREC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmP1zNxR468zX2KKKZLdrTo4L138fHnC2h2mBP93DWfKbu",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

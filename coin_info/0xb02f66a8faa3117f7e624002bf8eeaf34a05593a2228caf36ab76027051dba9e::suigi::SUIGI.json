@@ -1,0 +1,13 @@
+{
+  "name": "SUIGI SUI",
+  "symbol": "SUIGI",
+  "decimals": 6,
+  "coin_type": "0xb02f66a8faa3117f7e624002bf8eeaf34a05593a2228caf36ab76027051dba9e::suigi::SUIGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6595_937418f918.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

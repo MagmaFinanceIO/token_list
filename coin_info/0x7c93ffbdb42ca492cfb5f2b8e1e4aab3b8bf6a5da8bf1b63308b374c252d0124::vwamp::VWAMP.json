@@ -1,0 +1,13 @@
+{
+  "name": "The Vwampire",
+  "symbol": "VWAMP",
+  "decimals": 9,
+  "coin_type": "0x7c93ffbdb42ca492cfb5f2b8e1e4aab3b8bf6a5da8bf1b63308b374c252d0124::vwamp::VWAMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a2a9a300-6064-4a41-978c-0166bb6e0b91.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

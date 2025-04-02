@@ -1,0 +1,13 @@
+{
+  "name": "Network Integrator",
+  "symbol": "NIAI",
+  "decimals": 6,
+  "coin_type": "0x04cef7519b483cd000add6c3acf0445b6f7383161b479ee65f270cb219a7d80c::niai::NIAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000089052_5d6687443d.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

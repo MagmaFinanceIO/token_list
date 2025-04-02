@@ -1,0 +1,13 @@
+{
+  "name": "Ejo",
+  "symbol": "Ejo",
+  "decimals": 3,
+  "coin_type": "0x74b7f223f696552ca8b7fbe96720a67773c77da6a240982fdc878f9281704ed3::ejo::EJO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/987e1193-25c8-4fc8-8dab-0a9a13a5a391.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

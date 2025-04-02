@@ -1,0 +1,13 @@
+{
+  "name": "Pluto",
+  "symbol": "Plu",
+  "decimals": 9,
+  "coin_type": "0x4cdd9a86c9d4559680966b61b5cc84424aa04494a298d783058d5b5246447cb7::plu::PLU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d63f9fe5-fa87-4fe2-83cc-95f7445bab03.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

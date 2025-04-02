@@ -1,0 +1,13 @@
+{
+  "name": "Papa",
+  "symbol": "PAPA",
+  "decimals": 6,
+  "coin_type": "0xf9273e42b8d240f4aad4d1d928c48e59a60ad3b7025fd7ac48bf031f240b1bc0::papa::PAPA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731001360407.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

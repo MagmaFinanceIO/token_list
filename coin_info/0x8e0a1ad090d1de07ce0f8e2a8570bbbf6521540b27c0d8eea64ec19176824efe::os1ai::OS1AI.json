@@ -1,0 +1,13 @@
+{
+  "name": "AI Operating System",
+  "symbol": "OS1AI",
+  "decimals": 9,
+  "coin_type": "0x8e0a1ad090d1de07ce0f8e2a8570bbbf6521540b27c0d8eea64ec19176824efe::os1ai::OS1AI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/NyDWrhQttrrk3Xkn33Uc9hs6Se8L1uhu5jTbHvPpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

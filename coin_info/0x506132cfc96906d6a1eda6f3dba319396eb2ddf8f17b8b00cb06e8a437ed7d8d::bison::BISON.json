@@ -1,0 +1,13 @@
+{
+  "name": "BISON ON SUI",
+  "symbol": "BISON",
+  "decimals": 9,
+  "coin_type": "0x506132cfc96906d6a1eda6f3dba319396eb2ddf8f17b8b00cb06e8a437ed7d8d::bison::BISON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmNc98gnjA3SBZXDEjzjKwRMgjk5x48CEHvkjZCUbvvSFX",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

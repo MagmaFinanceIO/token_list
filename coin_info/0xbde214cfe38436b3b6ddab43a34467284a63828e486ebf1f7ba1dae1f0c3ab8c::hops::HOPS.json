@@ -1,0 +1,13 @@
+{
+  "name": "HopSui",
+  "symbol": "HOPS",
+  "decimals": 6,
+  "coin_type": "0xbde214cfe38436b3b6ddab43a34467284a63828e486ebf1f7ba1dae1f0c3ab8c::hops::HOPS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qma1AMoKVKmhqhGoWA5zqrYxojKvQUtmkE2q3YxnP1cM1k",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

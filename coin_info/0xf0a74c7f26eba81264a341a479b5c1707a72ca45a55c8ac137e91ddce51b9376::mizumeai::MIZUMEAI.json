@@ -1,0 +1,13 @@
+{
+  "name": "Mizume AI",
+  "symbol": "MizumeAI",
+  "decimals": 9,
+  "coin_type": "0xf0a74c7f26eba81264a341a479b5c1707a72ca45a55c8ac137e91ddce51b9376::mizumeai::MIZUMEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7MRj6QSPHcNVtxQkzxsVzfXvfT1tqEW8oFDDV2Pipump.png?size=lg&key=61a50b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

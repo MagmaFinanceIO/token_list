@@ -1,0 +1,13 @@
+{
+  "name": "Cat Wif Hat",
+  "symbol": "Chuchu",
+  "decimals": 9,
+  "coin_type": "0xc4027ed1e7043024c93d1918e7ab66cd6210c39e6b8cec839dc0e5406f27241a::chuchu::CHUCHU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8Kvzjjym1fzAbzwdeEeB2Qgfjz4Wg2YFaEZgsbtPpump.png?size=xl&key=4d7baa",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

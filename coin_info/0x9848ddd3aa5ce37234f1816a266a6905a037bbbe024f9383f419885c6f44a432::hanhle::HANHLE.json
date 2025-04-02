@@ -1,0 +1,13 @@
+{
+  "name": "HANHLE Token",
+  "symbol": "HANHLE",
+  "decimals": 9,
+  "coin_type": "0x9848ddd3aa5ce37234f1816a266a6905a037bbbe024f9383f419885c6f44a432::hanhle::HANHLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMxIm2DR0NfDrWzmxuVI2HWtW8oYY6trwtHTV34AfwtTUU-8vf=s88-w88-h88-c-k-no",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

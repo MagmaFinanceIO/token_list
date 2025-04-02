@@ -1,0 +1,13 @@
+{
+  "name": "SYRAI",
+  "symbol": "SYRAI",
+  "decimals": 9,
+  "coin_type": "0xe08b189a405e08b96fa4e09c44b2fe00856a3f3061b6f8e8774dbce45f354193::syrai::SYRAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dexscreener.com/solana/89e8gu9tvergm2jgnkblptukmkbkgn8f8gskfyyapump",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Vegetta",
+  "symbol": "VGT",
+  "decimals": 9,
+  "coin_type": "0x0a8988214afe142d6eb3dc8b387a36c8937fc667d9230dc526054d21109cc222::vgt::VGT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ba09cad9-1b9d-4089-bf02-22cdbf3b3623.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

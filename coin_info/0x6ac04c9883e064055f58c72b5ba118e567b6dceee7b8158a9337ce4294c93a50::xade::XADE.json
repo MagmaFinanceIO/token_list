@@ -1,0 +1,13 @@
+{
+  "name": "XADE AI",
+  "symbol": "XADE",
+  "decimals": 9,
+  "coin_type": "0x6ac04c9883e064055f58c72b5ba118e567b6dceee7b8158a9337ce4294c93a50::xade::XADE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ETNbWfrs41eMuJ7YwjLcGk34LmGgdqSBXufxqdgDpump.png?size=lg&key=feb283",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

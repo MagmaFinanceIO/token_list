@@ -1,0 +1,13 @@
+{
+  "name": "Test",
+  "symbol": "DOG",
+  "decimals": 6,
+  "coin_type": "0x313450536e898bdd878ad0ec75fdcd6259dd0b74e24774fc11ebe18db2953221::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://assets.coingecko.com/coins/images/26375/standard/sui_asset.jpeg?1696525453",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

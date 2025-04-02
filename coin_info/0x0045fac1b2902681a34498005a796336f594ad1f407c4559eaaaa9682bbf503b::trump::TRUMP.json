@@ -1,0 +1,13 @@
+{
+  "name": "MAGA",
+  "symbol": "TRUMP",
+  "decimals": 9,
+  "coin_type": "0x0045fac1b2902681a34498005a796336f594ad1f407c4559eaaaa9682bbf503b::trump::TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a25c1e91-9a21-4db0-ac6d-b7b310f33119.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

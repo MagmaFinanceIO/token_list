@@ -1,0 +1,13 @@
+{
+  "name": "Sui Capy",
+  "symbol": "CAPY",
+  "decimals": 6,
+  "coin_type": "0x65ff81c26ee2f5157edf7d25779d860e0f38223f7f8ea8eae24807380fa0b7ca::capy::CAPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f63e25bf-b995-4384-90a7-ec55277f578e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

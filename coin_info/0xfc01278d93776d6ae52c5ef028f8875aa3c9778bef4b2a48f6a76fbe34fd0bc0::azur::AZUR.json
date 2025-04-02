@@ -1,0 +1,13 @@
+{
+  "name": "AZUR CRYPTUS AI",
+  "symbol": "AZUR",
+  "decimals": 9,
+  "coin_type": "0xfc01278d93776d6ae52c5ef028f8875aa3c9778bef4b2a48f6a76fbe34fd0bc0::azur::AZUR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4004229e-6e2a-49b5-847d-cb8e49b115f1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

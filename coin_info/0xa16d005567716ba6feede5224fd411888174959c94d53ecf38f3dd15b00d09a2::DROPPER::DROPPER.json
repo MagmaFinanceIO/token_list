@@ -1,0 +1,13 @@
+{
+  "name": "DROPPER COIN",
+  "symbol": "DROPP",
+  "decimals": 6,
+  "coin_type": "0xa16d005567716ba6feede5224fd411888174959c94d53ecf38f3dd15b00d09a2::DROPPER::DROPPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "KATSUI",
+  "symbol": "KATSUI",
+  "decimals": 9,
+  "coin_type": "0x081b3ffe74f62cda11da8a624b09532434ee8ac554458290bb6f03331b1dfd25::katsui::KATSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CeTGkrbCsJeg3FkBfebDx4oJgVBBCZDznoKfZwYfpump.png?size=lg&key=687660",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Digital Oil Memecoin",
+  "symbol": "Oil",
+  "decimals": 9,
+  "coin_type": "0x7c4a4dce92c379c75a907adc6933493e9949542eb8b385b7ffc54434f0ac6bfb::oil::OIL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5LS3ips7jWxfuVHzoMzKzp3cCwjH9zmrtYXmYBVGpump.png?claimId=cVoegl9QDEomk5fc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

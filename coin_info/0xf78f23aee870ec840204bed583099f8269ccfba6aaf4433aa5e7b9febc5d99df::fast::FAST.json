@@ -1,0 +1,13 @@
+{
+  "name": "FAST",
+  "symbol": "FAST",
+  "decimals": 9,
+  "coin_type": "0xf78f23aee870ec840204bed583099f8269ccfba6aaf4433aa5e7b9febc5d99df::fast::FAST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

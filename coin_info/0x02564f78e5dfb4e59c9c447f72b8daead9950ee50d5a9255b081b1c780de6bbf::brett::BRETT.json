@@ -1,0 +1,13 @@
+{
+  "name": "Olympic Brett",
+  "symbol": "Brett",
+  "decimals": 9,
+  "coin_type": "0x02564f78e5dfb4e59c9c447f72b8daead9950ee50d5a9255b081b1c780de6bbf::brett::BRETT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/522d4362-114e-4867-a4a2-b28f3c2f831b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

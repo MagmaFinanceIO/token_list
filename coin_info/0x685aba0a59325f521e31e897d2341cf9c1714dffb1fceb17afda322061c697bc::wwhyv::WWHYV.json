@@ -1,0 +1,13 @@
+{
+  "name": "bmpTB",
+  "symbol": "WWhyv",
+  "decimals": 9,
+  "coin_type": "0x685aba0a59325f521e31e897d2341cf9c1714dffb1fceb17afda322061c697bc::wwhyv::WWHYV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HheTmXNNkrzN78Qsyz6obfGSL1HvFttG7FU5fok3pump.png?size=lg&key=282918",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

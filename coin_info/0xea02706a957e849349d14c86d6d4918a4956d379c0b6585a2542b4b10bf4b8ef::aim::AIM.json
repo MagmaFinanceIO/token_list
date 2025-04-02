@@ -1,0 +1,13 @@
+{
+  "name": "Ai Instant Messenger",
+  "symbol": "AIM",
+  "decimals": 9,
+  "coin_type": "0xea02706a957e849349d14c86d6d4918a4956d379c0b6585a2542b4b10bf4b8ef::aim::AIM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5cXxhJTii5BkMtZ4MZRAp9fdT8JCrVT9G8YKRZeypump.png?size=lg&key=8f5a99",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

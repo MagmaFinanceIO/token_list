@@ -1,0 +1,13 @@
+{
+  "name": "SuiNS Token",
+  "symbol": "NS",
+  "decimals": 9,
+  "coin_type": "0x61b1aa274ea51650c0b998ff5e5b7e4dbfa34df2626358c0a41b33b3f0366dc0::SUINS::SUINS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://token-image.suins.io/icon.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

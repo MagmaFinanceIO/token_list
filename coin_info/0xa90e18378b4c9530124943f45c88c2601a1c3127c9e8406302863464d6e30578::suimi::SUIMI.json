@@ -1,0 +1,13 @@
+{
+  "name": "SUIMI",
+  "symbol": "suimi",
+  "decimals": 6,
+  "coin_type": "0xa90e18378b4c9530124943f45c88c2601a1c3127c9e8406302863464d6e30578::suimi::SUIMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/vxdhqvV/Sans-titre-106-20241007122557.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

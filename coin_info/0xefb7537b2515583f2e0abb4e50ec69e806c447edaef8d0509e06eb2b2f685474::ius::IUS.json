@@ -1,0 +1,13 @@
+{
+  "name": "iuS",
+  "symbol": "iuS",
+  "decimals": 6,
+  "coin_type": "0xefb7537b2515583f2e0abb4e50ec69e806c447edaef8d0509e06eb2b2f685474::ius::IUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/BfSB0mb/Ava.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

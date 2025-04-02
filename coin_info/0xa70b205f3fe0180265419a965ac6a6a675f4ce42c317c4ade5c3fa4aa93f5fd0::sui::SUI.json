@@ -1,0 +1,13 @@
+{
+  "name": "Nongfu Spring",
+  "symbol": "Sui",
+  "decimals": 6,
+  "coin_type": "0xa70b205f3fe0180265419a965ac6a6a675f4ce42c317c4ade5c3fa4aa93f5fd0::sui::SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/82409_E0_C_6_B33_4_B59_8_E99_0_BCF_753026_C4_ed3d1ba381.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

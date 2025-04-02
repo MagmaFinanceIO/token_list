@@ -1,0 +1,13 @@
+{
+  "name": "BOAI by SuiAI",
+  "symbol": "BOAI",
+  "decimals": 6,
+  "coin_type": "0x94fae50acbb74e785ecf638521681cc4379cac767a4198ce2af50282771e8844::boai::BOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/DQ_Mai_m_N_400x400_149c9c9842.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

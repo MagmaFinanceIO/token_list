@@ -1,0 +1,13 @@
+{
+  "name": "Dancer Chitan",
+  "symbol": "CHITAN",
+  "decimals": 9,
+  "coin_type": "0xa116e6fd77232d5a9e6a30e10b72a1d7b95cbcdf91ccd6f8296251028c066e54::dancerchitan::DANCERCHITAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f1ae7a22-a657-4ce6-ada6-a59ea287a748.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

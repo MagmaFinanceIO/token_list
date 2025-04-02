@@ -1,0 +1,13 @@
+{
+  "name": "Squid",
+  "symbol": "SQD",
+  "decimals": 9,
+  "coin_type": "0x7f65e6374d520ec5d7613a890b1399b64a960cd6ed0b8531078f9fcce864f5e8::sqd::SQD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Uz6NUPXYfNtEr68vSW4uMEQZe6bk6BXANoJdvd9Ly5S.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

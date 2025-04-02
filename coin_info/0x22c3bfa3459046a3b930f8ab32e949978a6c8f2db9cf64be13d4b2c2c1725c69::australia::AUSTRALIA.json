@@ -1,0 +1,13 @@
+{
+  "name": "Australia",
+  "symbol": "Australia",
+  "decimals": 2,
+  "coin_type": "0x22c3bfa3459046a3b930f8ab32e949978a6c8f2db9cf64be13d4b2c2c1725c69::australia::AUSTRALIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e0a28360-ac30-404d-98ac-e14b51bcafb2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

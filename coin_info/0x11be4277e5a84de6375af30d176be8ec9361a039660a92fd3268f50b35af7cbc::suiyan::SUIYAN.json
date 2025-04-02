@@ -1,0 +1,13 @@
+{
+  "name": "SUIYAN CAT",
+  "symbol": "SUIYAN",
+  "decimals": 9,
+  "coin_type": "0x11be4277e5a84de6375af30d176be8ec9361a039660a92fd3268f50b35af7cbc::suiyan::SUIYAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/09e124a4-fa14-4281-984c-824b5e497021.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

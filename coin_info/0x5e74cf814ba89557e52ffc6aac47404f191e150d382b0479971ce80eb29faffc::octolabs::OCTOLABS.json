@@ -1,0 +1,13 @@
+{
+  "name": "Octo Labs",
+  "symbol": "OCTOLABS",
+  "decimals": 6,
+  "coin_type": "0x5e74cf814ba89557e52ffc6aac47404f191e150d382b0479971ce80eb29faffc::octolabs::OCTOLABS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000031571_ee31720bbc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

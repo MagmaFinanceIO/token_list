@@ -1,0 +1,13 @@
+{
+  "name": "MEMECAST.AI",
+  "symbol": "MCAI",
+  "decimals": 9,
+  "coin_type": "0xb1f46c34a36ed22f47a17b6c5d2f72ee2923dcacfda73791639634bb1afdf620::mcai::MCAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BAGuqhFjHs2LP4WyG9xKUe2hhfaZDH8pciMMfp32pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

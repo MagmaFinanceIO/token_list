@@ -1,0 +1,13 @@
+{
+  "name": "Trump MP3",
+  "symbol": "TRUMPE",
+  "decimals": 9,
+  "coin_type": "0x5dbcb4988b1544ad3974d962861438d281532b3b0d3924cd20a2faa665af5b62::trumpe::TRUMPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ton/eqalxsx5yxfttposlebccdrwtyzvc48nbrrjyccucoghyffs.png?size=lg&key=0162df",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

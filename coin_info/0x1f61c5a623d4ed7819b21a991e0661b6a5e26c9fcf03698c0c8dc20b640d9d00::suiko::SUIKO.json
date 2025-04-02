@@ -1,0 +1,13 @@
+{
+  "name": "Empress Suiko",
+  "symbol": "SUIKO",
+  "decimals": 9,
+  "coin_type": "0x1f61c5a623d4ed7819b21a991e0661b6a5e26c9fcf03698c0c8dc20b640d9d00::suiko::SUIKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/b64d2209407f80d15209b714485c814bblob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

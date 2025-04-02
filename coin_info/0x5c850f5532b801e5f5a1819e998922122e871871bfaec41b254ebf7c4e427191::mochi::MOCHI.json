@@ -1,0 +1,13 @@
+{
+  "name": "Mochi",
+  "symbol": "MOCHI",
+  "decimals": 6,
+  "coin_type": "0x5c850f5532b801e5f5a1819e998922122e871871bfaec41b254ebf7c4e427191::mochi::MOCHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Screenshot_2024_12_28_16_50_52_98_965bbf4d18d205f782c6b8409c5773a4_da485edd5a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

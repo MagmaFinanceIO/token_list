@@ -1,0 +1,13 @@
+{
+  "name": "Truth Terminal on Sui",
+  "symbol": "TOTSUI",
+  "decimals": 6,
+  "coin_type": "0xf299f22e6e522ba704e5b75c481fb8906cc81662e0aadf40e9ac3381f60c5614::totsui::TOTSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/600x200_2_3ffd3e8f5c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

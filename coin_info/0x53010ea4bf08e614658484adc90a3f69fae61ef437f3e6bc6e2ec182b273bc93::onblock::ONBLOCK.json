@@ -1,0 +1,13 @@
+{
+  "name": "Onblock AI",
+  "symbol": "ONBLOCK",
+  "decimals": 9,
+  "coin_type": "0x53010ea4bf08e614658484adc90a3f69fae61ef437f3e6bc6e2ec182b273bc93::onblock::ONBLOCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Eey5Mq1DZXqXTS9bMRL2dgK4waM2etBJqFdsA8Yopump.png?size=lg&key=9310ff",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

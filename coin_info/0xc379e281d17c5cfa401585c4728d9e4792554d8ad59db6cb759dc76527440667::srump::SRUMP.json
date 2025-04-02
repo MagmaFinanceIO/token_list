@@ -1,0 +1,13 @@
+{
+  "name": "Sui Trump",
+  "symbol": "SRUMP",
+  "decimals": 6,
+  "coin_type": "0xc379e281d17c5cfa401585c4728d9e4792554d8ad59db6cb759dc76527440667::srump::SRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Uzat_1acc193dcd.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

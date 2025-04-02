@@ -1,0 +1,13 @@
+{
+  "name": "SUIYAN DOGE",
+  "symbol": "KAMEHAMEHA",
+  "decimals": 9,
+  "coin_type": "0x20c5c1b742ffa5e36cc763c5db566a6c3b65149ae7b63761c107135aa3f40b3d::kamehameha::KAMEHAMEHA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1136ebf1-b0b5-4172-8314-fd8bbaf5be0f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

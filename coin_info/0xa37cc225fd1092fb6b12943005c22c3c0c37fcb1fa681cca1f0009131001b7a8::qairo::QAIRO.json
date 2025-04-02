@@ -1,0 +1,13 @@
+{
+  "name": "Qairo",
+  "symbol": "QAIRO",
+  "decimals": 6,
+  "coin_type": "0xa37cc225fd1092fb6b12943005c22c3c0c37fcb1fa681cca1f0009131001b7a8::qairo::QAIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1_6957866c6a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

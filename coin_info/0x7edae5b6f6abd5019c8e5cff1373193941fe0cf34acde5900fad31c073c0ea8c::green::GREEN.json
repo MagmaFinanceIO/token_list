@@ -1,0 +1,13 @@
+{
+  "name": "GREEN",
+  "symbol": "GREEN",
+  "decimals": 9,
+  "coin_type": "0x7edae5b6f6abd5019c8e5cff1373193941fe0cf34acde5900fad31c073c0ea8c::green::GREEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1790738036046635008/8_18wDPH_400x400.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

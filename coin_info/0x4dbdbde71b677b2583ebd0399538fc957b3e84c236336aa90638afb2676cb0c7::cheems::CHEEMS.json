@@ -1,0 +1,13 @@
+{
+  "name": "Cheems",
+  "symbol": "Cheems",
+  "decimals": 9,
+  "coin_type": "0x4dbdbde71b677b2583ebd0399538fc957b3e84c236336aa90638afb2676cb0c7::cheems::CHEEMS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c9c5ded2-3c4b-44e3-b1d9-497f24f5228c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

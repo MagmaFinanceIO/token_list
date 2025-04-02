@@ -1,0 +1,13 @@
+{
+  "name": "OryxAI",
+  "symbol": "OryxAI",
+  "decimals": 9,
+  "coin_type": "0x1dcd811a543f325f60cd2f432a8f9bba9647b29bdd39c6eeae84b34705b2965f::oryxai::ORYXAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HY85Xec9mcPRfid9nrwMTFdkfwi9cJhZdBPJSt7ypump.png?size=lg&key=f388bf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GULP",
+  "symbol": "GULP",
+  "decimals": 2,
+  "coin_type": "0x3c50ce6de69e76b44eb1b5a62fb761117710f9de99641c2560b036d86fa9e0ea::GULP::GULP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

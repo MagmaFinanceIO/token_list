@@ -1,0 +1,13 @@
+{
+  "name": "Smoll Bunny",
+  "symbol": "SMOLL",
+  "decimals": 6,
+  "coin_type": "0x01094754330d38151e809f4bb87b7469cb63be8f9b413297da5abec0705e76e6::smoll::SMOLL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/smollbunnyprof_cf8c38f6ba.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

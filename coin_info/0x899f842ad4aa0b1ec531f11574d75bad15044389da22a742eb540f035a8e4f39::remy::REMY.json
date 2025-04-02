@@ -1,0 +1,13 @@
+{
+  "name": "REMY",
+  "symbol": "REMY",
+  "decimals": 9,
+  "coin_type": "0x899f842ad4aa0b1ec531f11574d75bad15044389da22a742eb540f035a8e4f39::remy::REMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5sk98tYqaYsx6AJHmpp41k92mQyAoSLQcmc7tuSXpump.png?size=lg&key=c5f94f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

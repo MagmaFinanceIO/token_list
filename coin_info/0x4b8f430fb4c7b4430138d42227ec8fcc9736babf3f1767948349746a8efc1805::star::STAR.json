@@ -1,0 +1,13 @@
+{
+  "name": "SuiStar",
+  "symbol": "STAR",
+  "decimals": 9,
+  "coin_type": "0x4b8f430fb4c7b4430138d42227ec8fcc9736babf3f1767948349746a8efc1805::star::STAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3c86d496-1c05-440b-ab0f-fc7642fe9805.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

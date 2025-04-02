@@ -1,0 +1,13 @@
+{
+  "name": "PoLLUK",
+  "symbol": "POLLLUK",
+  "decimals": 6,
+  "coin_type": "0x8f06a2e2acf7d1ec10cc7b9e61e529c43362ca6925b42bc3d00aa7a72e4d16f0::pollluk::POLLLUK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/5549cd0e_edf4_46f0_970d_45c49e77695a_eb012b2c45.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

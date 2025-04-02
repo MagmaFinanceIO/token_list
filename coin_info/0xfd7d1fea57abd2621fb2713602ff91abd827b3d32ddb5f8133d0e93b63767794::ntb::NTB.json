@@ -1,0 +1,13 @@
+{
+  "name": "NTB",
+  "symbol": "NTB",
+  "decimals": 9,
+  "coin_type": "0xfd7d1fea57abd2621fb2713602ff91abd827b3d32ddb5f8133d0e93b63767794::ntb::NTB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

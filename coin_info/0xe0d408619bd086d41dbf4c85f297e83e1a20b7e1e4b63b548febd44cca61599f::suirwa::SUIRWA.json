@@ -1,0 +1,13 @@
+{
+  "name": "Sui RWA",
+  "symbol": "SUIRWA",
+  "decimals": 8,
+  "coin_type": "0xe0d408619bd086d41dbf4c85f297e83e1a20b7e1e4b63b548febd44cca61599f::suirwa::SUIRWA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/136ec8b0-55dd-4c7f-a010-def32c3026c7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

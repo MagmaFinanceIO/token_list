@@ -1,0 +1,13 @@
+{
+  "name": "TRUMPTOWER",
+  "symbol": "TRUMPTOWER",
+  "decimals": 9,
+  "coin_type": "0x3054db8eac94f1421b08f279b7cb501617c8e16a573c661c58057e18b4cad5c9::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

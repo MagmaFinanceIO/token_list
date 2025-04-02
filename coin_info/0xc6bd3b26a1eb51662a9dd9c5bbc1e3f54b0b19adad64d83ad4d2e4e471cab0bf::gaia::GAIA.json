@@ -1,0 +1,13 @@
+{
+  "name": "Terra & Gaia",
+  "symbol": "GAIA",
+  "decimals": 6,
+  "coin_type": "0xc6bd3b26a1eb51662a9dd9c5bbc1e3f54b0b19adad64d83ad4d2e4e471cab0bf::gaia::GAIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/GLOBO_2cd6e174fc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

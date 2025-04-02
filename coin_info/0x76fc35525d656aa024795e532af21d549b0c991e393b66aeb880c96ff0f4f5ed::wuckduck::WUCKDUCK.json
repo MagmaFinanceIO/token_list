@@ -1,0 +1,13 @@
+{
+  "name": "Wuckduck On Sui",
+  "symbol": "Wuckduck",
+  "decimals": 6,
+  "coin_type": "0x76fc35525d656aa024795e532af21d549b0c991e393b66aeb880c96ff0f4f5ed::wuckduck::WUCKDUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_wuckduck_2e6273a41e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

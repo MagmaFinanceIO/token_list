@@ -1,0 +1,13 @@
+{
+  "name": "Just a Sui Guy",
+  "symbol": "SUIGUY",
+  "decimals": 9,
+  "coin_type": "0x3cd300f5be3eb5fc36e7010d354ee750d8ff6c52d9c2791a218b2801740bb49b::suiguy::SUIGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/44046e19-4227-4532-958a-6481bf6ef2e1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

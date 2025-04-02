@@ -1,0 +1,13 @@
+{
+  "name": "HERO",
+  "symbol": "Sui Heroes",
+  "decimals": 6,
+  "coin_type": "0x56d984c25d0816dc7bee34e6409423048d391af7fd6d2853f0ec9f1d95b34c98::suihero::SUIHERO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://belaunchio.infura-ipfs.io/ipfs/QmRh4VTUarf9aE2JxKfbD3ZReeJGScw31yXac6t4x5v6HL",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

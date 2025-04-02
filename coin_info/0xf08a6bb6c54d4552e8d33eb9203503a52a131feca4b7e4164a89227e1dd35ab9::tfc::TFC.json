@@ -1,0 +1,13 @@
+{
+  "name": "Touch Fish Culture",
+  "symbol": "TFC",
+  "decimals": 6,
+  "coin_type": "0xf08a6bb6c54d4552e8d33eb9203503a52a131feca4b7e4164a89227e1dd35ab9::tfc::TFC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_2854_c6012bcb8a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Make Canada Great Again",
+  "symbol": "MCGA",
+  "decimals": 9,
+  "coin_type": "0xc1c1cb6282a6ac7bb7fff251c67d3b9e8a3c3e4a372999c40b9f47c936afbfde::mcga::MCGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9cce90ab-7356-4a65-ad47-2a30c0cf0a2b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

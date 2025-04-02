@@ -1,0 +1,13 @@
+{
+  "name": "Leviatan",
+  "symbol": "LEV",
+  "decimals": 6,
+  "coin_type": "0xdd06ea5eea5e83c1316baf31408a9135902c7a542308d6d8e06d6dd9b109de0b::lev::LEV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/75d2921f-4cbb-4f35-98f8-057d2252c93d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

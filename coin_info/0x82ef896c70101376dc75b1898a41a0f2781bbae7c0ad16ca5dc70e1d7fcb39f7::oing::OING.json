@@ -1,0 +1,13 @@
+{
+  "name": "OING",
+  "symbol": "OING",
+  "decimals": 6,
+  "coin_type": "0x82ef896c70101376dc75b1898a41a0f2781bbae7c0ad16ca5dc70e1d7fcb39f7::oing::OING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/482751ed-11d6-47e3-ba0d-34b445ce8fb7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

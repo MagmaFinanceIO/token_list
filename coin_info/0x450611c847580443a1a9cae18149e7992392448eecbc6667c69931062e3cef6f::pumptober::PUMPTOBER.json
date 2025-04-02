@@ -1,0 +1,13 @@
+{
+  "name": "PUMPTOBER",
+  "symbol": "PUMPTOBER",
+  "decimals": 9,
+  "coin_type": "0x450611c847580443a1a9cae18149e7992392448eecbc6667c69931062e3cef6f::pumptober::PUMPTOBER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6dd04652-c739-4583-b1a9-a84b6fa65ca0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

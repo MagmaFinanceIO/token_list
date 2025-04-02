@@ -1,0 +1,13 @@
+{
+  "name": "Akasha AI Official",
+  "symbol": "AKAI",
+  "decimals": 9,
+  "coin_type": "0x2586607b60d092b2237fb06e1d85f6f7fdf58779aacf7ab161148e6c33d76993::akai::AKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/_mU3hv3dHoXOB_fP?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

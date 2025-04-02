@@ -1,0 +1,13 @@
+{
+  "name": "Sui Dolphin",
+  "symbol": "SUIDOL",
+  "decimals": 9,
+  "coin_type": "0xa9f290afca408a94c3f660aa8a42a1da6ea99a2feb5b472ecf524d3f3c2d9632::suidol::SUIDOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/QmRqLZSHEbCE6CxGYrbgbg9cgBaZPHeEJLjgTcGFpCWWua",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

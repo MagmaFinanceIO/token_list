@@ -1,0 +1,13 @@
+{
+  "name": "Anna Bannana",
+  "symbol": "ANNA",
+  "decimals": 9,
+  "coin_type": "0x667e08a362cf40621d7076e388e8cdab9d3e6c6884d2c0b4f90e6eef0c86944f::anna::ANNA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1689570040331526144/khffBFfd.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "EvoAi",
+  "symbol": "EVOAI",
+  "decimals": 6,
+  "coin_type": "0x6b3acfde48e29346e414c43f6218173bfd35b8eea4b809ae85a363d3a27f00ac::evoai::EVOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/99cc6c1a-a461-4707-b252-748662a0e8e4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

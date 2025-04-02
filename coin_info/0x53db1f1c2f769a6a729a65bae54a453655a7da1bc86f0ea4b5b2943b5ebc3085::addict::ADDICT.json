@@ -1,0 +1,13 @@
+{
+  "name": "Addict Agent by SuiAI",
+  "symbol": "ADDICT",
+  "decimals": 6,
+  "coin_type": "0x53db1f1c2f769a6a729a65bae54a453655a7da1bc86f0ea4b5b2943b5ebc3085::addict::ADDICT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/999999999_0657777f6e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

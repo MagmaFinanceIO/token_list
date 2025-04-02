@@ -1,0 +1,13 @@
+{
+  "name": "Sui Season",
+  "symbol": "SUISZN",
+  "decimals": 6,
+  "coin_type": "0x8e77b625d92cfca1b4802fd97257946b1c881b969685be60e819f75648e1fcbf::suiszn::SUISZN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Unbenannt_6b835a1dcb.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

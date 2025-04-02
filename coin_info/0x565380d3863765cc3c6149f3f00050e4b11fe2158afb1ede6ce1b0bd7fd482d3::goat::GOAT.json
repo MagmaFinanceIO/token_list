@@ -1,0 +1,13 @@
+{
+  "name": "CryptoGoat",
+  "symbol": "Goat",
+  "decimals": 6,
+  "coin_type": "0x565380d3863765cc3c6149f3f00050e4b11fe2158afb1ede6ce1b0bd7fd482d3::goat::GOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_9566_5866116db2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Fuddies Meme",
+  "symbol": "Fuddies",
+  "decimals": 6,
+  "coin_type": "0x5773739810a74b8bd669e34a9469cf07a0a6e501212dd71cb1679a42823c290c::fuddies::FUDDIES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Fuddies_2c6f32c1b4.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AI Doge",
+  "symbol": "AEGIS",
+  "decimals": 6,
+  "coin_type": "0x610f6d2595978674987e697a2c75aab21593c617b38b53864704214a935bb6a1::aegis::AEGIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736321574445.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

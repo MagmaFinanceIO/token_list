@@ -1,0 +1,13 @@
+{
+  "name": "Bruh on Sui",
+  "symbol": "BRUHS",
+  "decimals": 9,
+  "coin_type": "0xa33d4bfb8b70261badf9d88e09f8c8cd2146296cd8bf6a0b0bdae3ad4c8b6fc0::bruhs::BRUHS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FLogo_03d588e38a.jpg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

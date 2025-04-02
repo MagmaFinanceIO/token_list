@@ -1,0 +1,13 @@
+{
+  "name": "BOOCAT",
+  "symbol": "BOOCAT",
+  "decimals": 9,
+  "coin_type": "0x9c89e06e2afca37c9d2c8fee259c25275294ee13a4409a52ed970f024c8005aa::boocat::BOOCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://red-rainy-catfish-636.mypinata.cloud/ipfs/QmW2pFXSgEXbYVpNtktumie4pdKaFD4jiLsxEnU9Ygu7Mw",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Wizard Cat",
+  "symbol": "WIZARD",
+  "decimals": 9,
+  "coin_type": "0xf3e228ca68578fa6152a6b4168bcd109933a042a3f3f02e77fc9085196926a7a::wizard::WIZARD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ZYMwXZ4Xzu4A64GWTdh8DRBK3XVgdEDo1cN4DAnpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

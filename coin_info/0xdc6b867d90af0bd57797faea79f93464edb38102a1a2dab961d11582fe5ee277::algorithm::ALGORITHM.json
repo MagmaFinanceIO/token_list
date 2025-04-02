@@ -1,0 +1,13 @@
+{
+  "name": "Algorithm",
+  "symbol": "Algorithm",
+  "decimals": 6,
+  "coin_type": "0xdc6b867d90af0bd57797faea79f93464edb38102a1a2dab961d11582fe5ee277::algorithm::ALGORITHM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fadb0648-2537-4e6c-aadc-92c41ce74180.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MR.Miguels",
+  "symbol": "Miguels",
+  "decimals": 9,
+  "coin_type": "0x3bb9df4da116fc108cdce49c5feb47fad557b2535e6087faaf7d0ae378e20c9e::miguels::MIGUELS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x5cc96c50350361c23ad732f7f509f7e0bca41487.png?size=lg&key=524d1c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

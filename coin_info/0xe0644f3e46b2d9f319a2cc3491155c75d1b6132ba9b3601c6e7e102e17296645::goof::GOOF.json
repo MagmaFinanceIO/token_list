@@ -1,0 +1,13 @@
+{
+  "name": "Captain GOOFY",
+  "symbol": "GOOF",
+  "decimals": 6,
+  "coin_type": "0xe0644f3e46b2d9f319a2cc3491155c75d1b6132ba9b3601c6e7e102e17296645::goof::GOOF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/GOOF_MOVEPUMP_186334eda7.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

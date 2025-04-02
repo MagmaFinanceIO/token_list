@@ -1,0 +1,13 @@
+{
+  "name": "Xmas Scrat",
+  "symbol": "XSCRAT",
+  "decimals": 9,
+  "coin_type": "0x12915d0809668b916ee271fe5fa2745b000968c610a5f5e5844d87ae0640e17b::xscrat::XSCRAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7f7As7grKejazr2zzVzjac5cK7sepykVQoXDuyTLUeSp.png?size=lg&key=97ba13",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

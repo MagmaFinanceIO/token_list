@@ -1,0 +1,13 @@
+{
+  "name": "BERA",
+  "symbol": "BERA",
+  "decimals": 9,
+  "coin_type": "0xe1b10363b6b31f76adedb3cbd230cc4bf912f9460b6acb3bae74ac2b455b31d6::bera::BERA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7k2YuPox2EMPcnwFfqBPc6kiBeuMSgjbrFWJ8aRFeE3G.png?size=lg&key=7f5f43",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

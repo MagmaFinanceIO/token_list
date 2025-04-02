@@ -1,0 +1,13 @@
+{
+  "name": "Freebies",
+  "symbol": "FREEBIES",
+  "decimals": 9,
+  "coin_type": "0xc7b89bcc2bbebe7786527d91c83551e08bffa1178dd2440a90784d1bedd604b4::freebies::FREEBIES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4c968d38-bd01-4357-a090-b9a90ef77412.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

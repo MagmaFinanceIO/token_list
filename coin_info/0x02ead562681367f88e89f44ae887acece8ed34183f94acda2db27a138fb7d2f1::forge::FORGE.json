@@ -1,0 +1,13 @@
+{
+  "name": "Mindforge AI",
+  "symbol": "FORGE",
+  "decimals": 9,
+  "coin_type": "0x02ead562681367f88e89f44ae887acece8ed34183f94acda2db27a138fb7d2f1::forge::FORGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/H96vSNGEEXgc2vUkz2rcHxt7FAoFMnRfsiZfHL8epump.png?size=lg&key=0504fc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

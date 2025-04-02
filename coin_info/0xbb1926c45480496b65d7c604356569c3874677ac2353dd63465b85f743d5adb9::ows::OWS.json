@@ -1,0 +1,13 @@
+{
+  "name": "OWL ON SUI",
+  "symbol": "OWS",
+  "decimals": 6,
+  "coin_type": "0xbb1926c45480496b65d7c604356569c3874677ac2353dd63465b85f743d5adb9::ows::OWS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20241221_122115_333_f9340dde39.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

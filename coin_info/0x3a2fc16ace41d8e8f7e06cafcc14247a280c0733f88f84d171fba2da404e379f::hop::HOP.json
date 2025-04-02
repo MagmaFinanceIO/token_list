@@ -1,0 +1,13 @@
+{
+  "name": "HOP",
+  "symbol": "HOP",
+  "decimals": 6,
+  "coin_type": "0x3a2fc16ace41d8e8f7e06cafcc14247a280c0733f88f84d171fba2da404e379f::hop::HOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qmb3jiE6CwdhupbcP1W2CSiRETFYVXofRk8ULypq3BCnRX",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

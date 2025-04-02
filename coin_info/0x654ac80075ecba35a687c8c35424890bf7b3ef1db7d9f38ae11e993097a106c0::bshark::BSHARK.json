@@ -1,0 +1,13 @@
+{
+  "name": "BULLSHARK on SUI",
+  "symbol": "BSHARK",
+  "decimals": 9,
+  "coin_type": "0x654ac80075ecba35a687c8c35424890bf7b3ef1db7d9f38ae11e993097a106c0::bshark::BSHARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bullshark.fun/images/tild3635-3334-4239-b863-316364346164__tubaro.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

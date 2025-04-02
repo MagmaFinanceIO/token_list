@@ -1,0 +1,13 @@
+{
+  "name": "Pepe the Astronaut",
+  "symbol": "PEPA",
+  "decimals": 9,
+  "coin_type": "0x815a9221ec2dadcf9a8838fbc88c31d2ce655ea517a58e2047d32e5de5abb75f::pepa::PEPA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x2b3f5f7458558553df26034ad0d172ca8aa91bed.png?size=lg&key=0f34c8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BookOfOfficial",
+  "symbol": "BOO",
+  "decimals": 9,
+  "coin_type": "0x1d9bcc8b4e026a99613a4ae8c9a7f93a64fb83c591c270d23774e485af95dfdc::boo::BOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Cm5aZoGD99MvcG42Ydvh8SZN5DaGqvFaZjwxyB4nm25F.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mowgli",
+  "symbol": "MOWGLI",
+  "decimals": 9,
+  "coin_type": "0xb6846537d83a42604c9df6f46db9594123785ad3f3cc7e62fe92b9df22a6af46::mowgli::MOWGLI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/10374edb-d2f4-40ef-9a45-1283ecf662b7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

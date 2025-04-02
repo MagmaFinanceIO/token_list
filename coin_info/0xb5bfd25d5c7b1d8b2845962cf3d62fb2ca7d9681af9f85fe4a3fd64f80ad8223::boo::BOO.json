@@ -1,0 +1,13 @@
+{
+  "name": "BOO",
+  "symbol": "BOO",
+  "decimals": 9,
+  "coin_type": "0xb5bfd25d5c7b1d8b2845962cf3d62fb2ca7d9681af9f85fe4a3fd64f80ad8223::boo::BOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DPV6EGqwytQxvHhTvfufKsvRDzcfxQHRjNsafg9MarcP.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

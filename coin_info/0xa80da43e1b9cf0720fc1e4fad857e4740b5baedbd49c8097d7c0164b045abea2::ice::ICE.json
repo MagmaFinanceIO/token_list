@@ -1,0 +1,13 @@
+{
+  "name": "Cold",
+  "symbol": "ICE",
+  "decimals": 9,
+  "coin_type": "0xa80da43e1b9cf0720fc1e4fad857e4740b5baedbd49c8097d7c0164b045abea2::ice::ICE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/477c1c7f-17c5-4ff8-8136-cfa0f875b883.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

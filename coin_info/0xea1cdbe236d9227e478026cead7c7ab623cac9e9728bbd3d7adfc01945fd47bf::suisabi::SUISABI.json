@@ -1,0 +1,13 @@
+{
+  "name": "SUISABI",
+  "symbol": "SABI",
+  "decimals": 2,
+  "coin_type": "0xea1cdbe236d9227e478026cead7c7ab623cac9e9728bbd3d7adfc01945fd47bf::suisabi::SUISABI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/9veAyt0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

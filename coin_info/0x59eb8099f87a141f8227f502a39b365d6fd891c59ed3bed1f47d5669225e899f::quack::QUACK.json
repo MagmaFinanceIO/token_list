@@ -1,0 +1,13 @@
+{
+  "name": "Debug Duck by SuiAI",
+  "symbol": "QUACK",
+  "decimals": 6,
+  "coin_type": "0x59eb8099f87a141f8227f502a39b365d6fd891c59ed3bed1f47d5669225e899f::quack::QUACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/hero_duck_e65b847d07.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

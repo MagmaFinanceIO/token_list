@@ -1,0 +1,13 @@
+{
+  "name": "ManHunt",
+  "symbol": "MANHUNT",
+  "decimals": 9,
+  "coin_type": "0xd897bab0aeea6ccd2d0320ccb0e02ab93f6facfab0269820c48bb11d5b57ab63::manhunt::MANHUNT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DdGSsKM1JT2AtLSTkocJAnn4uaMogEdE49ZjMCG2pump.png?size=xl&key=c9f64b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

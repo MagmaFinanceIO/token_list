@@ -1,0 +1,13 @@
+{
+  "name": "ARATA",
+  "symbol": "Arata",
+  "decimals": 9,
+  "coin_type": "0xc932b45b18f283b2f093a0c942bb16d84f13439a5890154e3d7b6144e9117062::arata::ARATA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/37jB5jyX6jiHzsfPUqspgS18R1o6KQzTwAe3mXeCpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

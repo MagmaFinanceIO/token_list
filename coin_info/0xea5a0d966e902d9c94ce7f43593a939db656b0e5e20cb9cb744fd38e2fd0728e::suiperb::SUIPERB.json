@@ -1,0 +1,13 @@
+{
+  "name": "Suiperb",
+  "symbol": "SUIPERB",
+  "decimals": 6,
+  "coin_type": "0xea5a0d966e902d9c94ce7f43593a939db656b0e5e20cb9cb744fd38e2fd0728e::suiperb::SUIPERB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000060_1894c3e49b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SKI MASK CAT",
+  "symbol": "SKICAT",
+  "decimals": 9,
+  "coin_type": "0x09608f70f862928e00fd1372a1dac0d72dbf992ed8d1a35784753d1b07e22e7a::skicat::SKICAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreib75ku7etpwzwytj2aylyobrsdxlkirg6lhkhzoas4crufokdcm3y.ipfs.w3s.link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

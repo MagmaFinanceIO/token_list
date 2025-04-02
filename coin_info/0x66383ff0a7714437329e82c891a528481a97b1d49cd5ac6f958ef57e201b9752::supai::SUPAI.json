@@ -1,0 +1,13 @@
+{
+  "name": "SuperFruits AI",
+  "symbol": "SUPAI",
+  "decimals": 9,
+  "coin_type": "0x66383ff0a7714437329e82c891a528481a97b1d49cd5ac6f958ef57e201b9752::supai::SUPAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B9QxfiMd6tjSGnJ8nzFK3XbtuQNPKCNkQeehMqgxpump.png?size=lg&key=c9ddf1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

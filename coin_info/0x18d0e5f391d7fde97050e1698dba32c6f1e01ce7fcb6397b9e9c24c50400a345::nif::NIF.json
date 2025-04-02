@@ -1,0 +1,13 @@
+{
+  "name": "Nifty",
+  "symbol": "NIF",
+  "decimals": 9,
+  "coin_type": "0x18d0e5f391d7fde97050e1698dba32c6f1e01ce7fcb6397b9e9c24c50400a345::nif::NIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7f3ccd83-37ff-445a-927c-cd6a549cff5c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

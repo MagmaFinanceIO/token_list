@@ -1,0 +1,13 @@
+{
+  "name": "Sui Cider 🍺",
+  "symbol": "CIDER",
+  "decimals": 9,
+  "coin_type": "0xd5242f5a3dcc44c4d1485ff8b813ace7354584f457aee10c7aae000e0d5a9330::cider::CIDER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bf2ab670-774e-448c-b0b4-ace078666f4e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

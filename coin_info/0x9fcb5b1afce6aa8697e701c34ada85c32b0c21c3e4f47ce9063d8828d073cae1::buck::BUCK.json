@@ -1,0 +1,13 @@
+{
+  "name": "Buck The Pup",
+  "symbol": "BUCK",
+  "decimals": 9,
+  "coin_type": "0x9fcb5b1afce6aa8697e701c34ada85c32b0c21c3e4f47ce9063d8828d073cae1::buck::BUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FQmc46_Zz9_WDL_Rpzfk73ft_X_Xjp_Vkv_Rr8vx_NN_Qrh_Qi_Es_P7r3_W_0a998da396.jpg&w=256&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "wenZORA",
+  "symbol": "ZORA",
+  "decimals": 6,
+  "coin_type": "0xb39de15e8d02aecf649fe19abc6dcf9d0da0868c5493ff45dd976c542f351ed1::zora::ZORA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ZORA_b2f87b02ec.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

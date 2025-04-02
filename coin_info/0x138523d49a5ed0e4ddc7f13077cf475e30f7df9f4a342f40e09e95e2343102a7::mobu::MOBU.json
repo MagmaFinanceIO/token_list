@@ -1,0 +1,13 @@
+{
+  "name": "Mobu The Moo",
+  "symbol": "MOBU",
+  "decimals": 9,
+  "coin_type": "0x138523d49a5ed0e4ddc7f13077cf475e30f7df9f4a342f40e09e95e2343102a7::mobu::MOBU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a8ffb813-51df-459a-a1b0-44f2130e6366.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

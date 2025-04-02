@@ -1,0 +1,13 @@
+{
+  "name": "VineOnSui",
+  "symbol": "VOS",
+  "decimals": 4,
+  "coin_type": "0x5047cf0f0558db1d1c84474187cba9ce785638c96d8c1b9176f5b16e39fe99e7::vos::VOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://public-cdn.daossui.io/assets/tokens/1ebc2820-d985-11ef-80e8-811f7f414973",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

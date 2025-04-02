@@ -1,0 +1,13 @@
+{
+  "name": "Benson on SUI",
+  "symbol": "BENSUI",
+  "decimals": 6,
+  "coin_type": "0xe862d635fb2661e11a92759a56d0d4a7585210b8282f864924b7c81adc4857c8::bensui::BENSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735261891144.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

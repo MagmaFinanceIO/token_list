@@ -1,0 +1,13 @@
+{
+  "name": "Listen To Me",
+  "symbol": "LTM",
+  "decimals": 9,
+  "coin_type": "0x6e3527a148cef7b45a68bdfe34d1d32997b824e49ce83155f5743b4dcbe51de1::ltm::LTM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/abfcc6a8-71c0-4bf4-ad05-a03e3868e619.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

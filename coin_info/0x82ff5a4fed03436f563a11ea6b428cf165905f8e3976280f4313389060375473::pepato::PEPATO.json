@@ -1,0 +1,13 @@
+{
+  "name": "Pepato",
+  "symbol": "PEPATO",
+  "decimals": 9,
+  "coin_type": "0x82ff5a4fed03436f563a11ea6b428cf165905f8e3976280f4313389060375473::pepato::PEPATO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://raw.githubusercontent.com/pepatosui/pepato/refs/heads/main/pepato.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

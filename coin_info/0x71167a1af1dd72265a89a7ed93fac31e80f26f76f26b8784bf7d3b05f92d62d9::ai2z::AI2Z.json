@@ -1,0 +1,13 @@
+{
+  "name": "ai2z",
+  "symbol": "ai2z",
+  "decimals": 9,
+  "coin_type": "0x71167a1af1dd72265a89a7ed93fac31e80f26f76f26b8784bf7d3b05f92d62d9::ai2z::AI2Z",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BMKVa5pKJNEE1bbCSvn46iQUHjUgT2oxhNsQzG8Tpump.png?size=lg&key=de313f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

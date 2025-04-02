@@ -1,0 +1,13 @@
+{
+  "name": "Soviet Union International",
+  "symbol": "SUI",
+  "decimals": 6,
+  "coin_type": "0x54a779744e32118a487d71025d063c35dfb1180041127638f5e3c264bf1cc709::sui::SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmbsLdRdxRWrMhrxebDqbasS4pDppP3u1THrfoEroVk6wQ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

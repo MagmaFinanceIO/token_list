@@ -1,0 +1,13 @@
+{
+  "name": "just buy 1SUI worth of this coin",
+  "symbol": "ONESUI",
+  "decimals": 6,
+  "coin_type": "0x4c623e14eb07451214d91e4f1370fc7fa83b9106a85eae7c0255b0d570a57f52::onesui::ONESUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/sui_sui_coin_9177503_7479564_0f5e29e60c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

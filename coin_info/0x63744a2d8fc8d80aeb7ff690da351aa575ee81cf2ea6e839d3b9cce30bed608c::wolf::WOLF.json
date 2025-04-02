@@ -1,0 +1,13 @@
+{
+  "name": "Landwolf",
+  "symbol": "WOLF",
+  "decimals": 9,
+  "coin_type": "0x63744a2d8fc8d80aeb7ff690da351aa575ee81cf2ea6e839d3b9cce30bed608c::wolf::WOLF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x33abe795f9c1b6136608c36db211bd7590f5fdae.png?size=lg&key=892d99",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Jolunu AI  by SuiAI",
+  "symbol": "JOLUNU",
+  "decimals": 6,
+  "coin_type": "0x865d3e11a037ff770d213ca48b479b21d2aa31998724156116a2f03935f05690::jolunu::JOLUNU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/fn_Oe_R_Dv7_400x400_29d00c57c6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

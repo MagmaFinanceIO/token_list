@@ -1,0 +1,13 @@
+{
+  "name": "PlMPE",
+  "symbol": "PlMPE",
+  "decimals": 9,
+  "coin_type": "0x8945af12ed28a00d184d8ef6860329edd85bcf624327cdc0230ee8922ac849a1::plmpe::PLMPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/uhz3NNGbaT9VDYWL?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

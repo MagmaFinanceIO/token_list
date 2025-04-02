@@ -1,0 +1,13 @@
+{
+  "name": "The Rock",
+  "symbol": "ROCK",
+  "decimals": 6,
+  "coin_type": "0x8448fe76e1105c9829eaa9e0e5dbff459ffa3563a6ec66ff35b81787b683adaf::rock::ROCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_9980_8fe774e530.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

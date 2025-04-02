@@ -1,0 +1,13 @@
+{
+  "name": "CUTE CHUBBY",
+  "symbol": "CHUBBY",
+  "decimals": 6,
+  "coin_type": "0x05ca937272e3f2c4be2e85065be274ad8e49b667fb30784ed673f29d0e886336::chubby::CHUBBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logos_a1eb507e06.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

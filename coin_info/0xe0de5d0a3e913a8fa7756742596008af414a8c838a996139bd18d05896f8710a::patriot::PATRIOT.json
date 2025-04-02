@@ -1,0 +1,13 @@
+{
+  "name": "PATRIOT SUI",
+  "symbol": "PATRIOT",
+  "decimals": 6,
+  "coin_type": "0xe0de5d0a3e913a8fa7756742596008af414a8c838a996139bd18d05896f8710a::patriot::PATRIOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5919_bf983bd2cb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

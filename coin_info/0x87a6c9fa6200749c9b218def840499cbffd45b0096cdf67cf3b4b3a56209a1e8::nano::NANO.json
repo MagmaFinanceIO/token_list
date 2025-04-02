@@ -1,0 +1,13 @@
+{
+  "name": "NANO",
+  "symbol": "NANO",
+  "decimals": 9,
+  "coin_type": "0x87a6c9fa6200749c9b218def840499cbffd45b0096cdf67cf3b4b3a56209a1e8::nano::NANO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EVKN2G6SBKQPnYvJeMtEj1Qw6Pbo8w7ssetved49pump.png?size=lg&key=936734",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

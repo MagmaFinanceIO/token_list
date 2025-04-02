@@ -1,0 +1,13 @@
+{
+  "name": "RATS",
+  "symbol": "RATS",
+  "decimals": 0,
+  "coin_type": "0xcd71217d8b2b75fe61c381216eacd22b7202ba221eb78b16498067444cd3d1fe::rats::RATS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cloudflare-ipfs.com/ipfs/QmRZ6pkCuZkwGKrTfe6gLrTSkVX1fzERzc5Dk55QL6FHub",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

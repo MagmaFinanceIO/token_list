@@ -1,0 +1,13 @@
+{
+  "name": "Aether Industries",
+  "symbol": "AETHER",
+  "decimals": 9,
+  "coin_type": "0x65cb5b29e4a0428cce615d99eba0b411528f3153c87bda08c106fed46109f3ae::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dribbble.com/userupload/17353888/file/original-f14beb4f24e6a08ebb8b93e2cebd64e6.png?resize=1024x768",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

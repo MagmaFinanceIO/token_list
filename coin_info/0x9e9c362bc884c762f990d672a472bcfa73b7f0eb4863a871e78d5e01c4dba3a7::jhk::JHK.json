@@ -1,0 +1,13 @@
+{
+  "name": "JHK",
+  "symbol": "JHK",
+  "decimals": 6,
+  "coin_type": "0x9e9c362bc884c762f990d672a472bcfa73b7f0eb4863a871e78d5e01c4dba3a7::jhk::JHK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-402yKKx5KVGJ5-dfcuy3vhobYmE3olbxZA&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

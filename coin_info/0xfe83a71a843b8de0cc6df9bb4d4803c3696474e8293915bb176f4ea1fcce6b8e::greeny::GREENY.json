@@ -1,0 +1,13 @@
+{
+  "name": "Greeny King",
+  "symbol": "GREENY",
+  "decimals": 6,
+  "coin_type": "0xfe83a71a843b8de0cc6df9bb4d4803c3696474e8293915bb176f4ea1fcce6b8e::greeny::GREENY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000021151_b9fb0218a4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

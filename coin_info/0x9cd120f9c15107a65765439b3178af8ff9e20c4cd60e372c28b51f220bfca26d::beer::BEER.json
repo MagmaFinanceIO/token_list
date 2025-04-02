@@ -1,0 +1,13 @@
+{
+  "name": "BEER",
+  "symbol": "BEER",
+  "decimals": 9,
+  "coin_type": "0x9cd120f9c15107a65765439b3178af8ff9e20c4cd60e372c28b51f220bfca26d::beer::BEER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/823fe709-3b21-4cba-8f5b-c083d58b3466.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NexFundAI",
+  "symbol": "NexFundAI company",
+  "decimals": 9,
+  "coin_type": "0xacaa175799e26c99e80781fd148f90196a875c9034d4caca3a3d0af6b07b9adb::nexfundai_company::NEXFUNDAI_COMPANY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0148a599-b629-4b7d-8855-a720c02276fb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

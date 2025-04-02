@@ -1,0 +1,13 @@
+{
+  "name": "Gumball",
+  "symbol": "GUMBALL",
+  "decimals": 9,
+  "coin_type": "0x38ce51c59306383b31f75472eb29a22dc53f9a857ddd9b7127ec7db57b9c3c76::gumball::GUMBALL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e402b296-7c9d-46be-9a66-aab754b29f35.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

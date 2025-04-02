@@ -1,0 +1,13 @@
+{
+  "name": "Monkey Business",
+  "symbol": "APE",
+  "decimals": 9,
+  "coin_type": "0x47127347f2ca8cd1754994149e6fcd2682ad28c19a70b70cf7c2af55cdd74bb0::ape::APE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FFs1bhpJHj4ANFdSUqhsMXgfjRNw8ZiwdxEALGFvF7r8.png?size=lg&key=a1695b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

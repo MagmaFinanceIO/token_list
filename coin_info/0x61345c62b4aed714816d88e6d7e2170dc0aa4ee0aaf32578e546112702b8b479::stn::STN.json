@@ -1,0 +1,13 @@
+{
+  "name": "Stickynote",
+  "symbol": "STN",
+  "decimals": 1,
+  "coin_type": "0x61345c62b4aed714816d88e6d7e2170dc0aa4ee0aaf32578e546112702b8b479::stn::STN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3a480bbd-e141-46d3-8b67-4be24ea92cc3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

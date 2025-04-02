@@ -1,0 +1,13 @@
+{
+  "name": "🐄 Sui Moo",
+  "symbol": "MOO",
+  "decimals": 9,
+  "coin_type": "0xb2557495b677b1ccae814c99096edfed80a4a517c6afb3386c9a47852254fe53::moo::MOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0f15011c-c42f-41b8-93b0-56ccabee3331.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

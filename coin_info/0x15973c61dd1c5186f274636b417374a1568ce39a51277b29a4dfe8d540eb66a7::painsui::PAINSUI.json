@@ -1,0 +1,13 @@
+{
+  "name": "PAIN SUI",
+  "symbol": "PAINSUI",
+  "decimals": 9,
+  "coin_type": "0x15973c61dd1c5186f274636b417374a1568ce39a51277b29a4dfe8d540eb66a7::painsui::PAINSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/12ifMz54Sq4Ab4RiPezsbDYkY2fo5L3VTabfJJ2ppump.png?size=lg&key=c580b4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

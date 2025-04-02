@@ -1,0 +1,13 @@
+{
+  "name": "AIXYZ AGENT by SuiAI",
+  "symbol": "AIX",
+  "decimals": 6,
+  "coin_type": "0x7d9c87aa64def4c3447026bb238bcb0eca01fe74ed0a8a4d1e3ef536e482bdc4::aix::AIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Whats_App_Image_2025_01_12_at_20_33_04_1_2635993993.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

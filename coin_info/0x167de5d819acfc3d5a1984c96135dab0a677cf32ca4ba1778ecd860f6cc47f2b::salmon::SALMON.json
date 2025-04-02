@@ -1,0 +1,13 @@
+{
+  "name": "Silly Salmon",
+  "symbol": "SILLY",
+  "decimals": 9,
+  "coin_type": "0x167de5d819acfc3d5a1984c96135dab0a677cf32ca4ba1778ecd860f6cc47f2b::salmon::SALMON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

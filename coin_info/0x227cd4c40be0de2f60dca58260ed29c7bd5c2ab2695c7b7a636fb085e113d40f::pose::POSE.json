@@ -1,0 +1,13 @@
+{
+  "name": "POSUIDON",
+  "symbol": "POSE",
+  "decimals": 6,
+  "coin_type": "0x227cd4c40be0de2f60dca58260ed29c7bd5c2ab2695c7b7a636fb085e113d40f::pose::POSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737146047346.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

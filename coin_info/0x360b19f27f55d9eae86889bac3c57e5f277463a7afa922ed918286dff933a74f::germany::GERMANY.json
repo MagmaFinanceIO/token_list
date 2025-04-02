@@ -1,0 +1,13 @@
+{
+  "name": "Germany",
+  "symbol": "Germany",
+  "decimals": 2,
+  "coin_type": "0x360b19f27f55d9eae86889bac3c57e5f277463a7afa922ed918286dff933a74f::germany::GERMANY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/45655d79-a8c3-444e-88c2-2f22a78d52bf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

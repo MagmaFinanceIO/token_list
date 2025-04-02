@@ -1,0 +1,13 @@
+{
+  "name": "aaa DOG",
+  "symbol": "AAA",
+  "decimals": 6,
+  "coin_type": "0x9978941b5b7d9bbf8ff408e1dc451cdc482acc4a8fcb690621cf7458f198d3b7::aaa::AAA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/f_076f59690b.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

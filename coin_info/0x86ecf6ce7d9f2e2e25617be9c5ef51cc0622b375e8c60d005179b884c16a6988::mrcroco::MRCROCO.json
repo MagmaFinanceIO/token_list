@@ -1,0 +1,13 @@
+{
+  "name": "Mr.Croco",
+  "symbol": "MrCroco",
+  "decimals": 9,
+  "coin_type": "0x86ecf6ce7d9f2e2e25617be9c5ef51cc0622b375e8c60d005179b884c16a6988::mrcroco::MRCROCO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/65cc5d4f-a7fd-4d19-b85e-4b358cba97e9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

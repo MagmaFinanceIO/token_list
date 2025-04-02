@@ -1,0 +1,13 @@
+{
+  "name": "Drop Of Water",
+  "symbol": "DOW",
+  "decimals": 9,
+  "coin_type": "0x46d98095528dcd0d245d801ba09d5911be3a0b04ff30bf8852b26503869f57d4::dow::DOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1e54c8d6-0f80-47d9-baeb-b396c09e2eeb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

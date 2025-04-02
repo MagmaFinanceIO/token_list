@@ -1,0 +1,13 @@
+{
+  "name": "WONKYCAT",
+  "symbol": "WONKY",
+  "decimals": 6,
+  "coin_type": "0xff2d5e6ce9ccf837011424145bfc6570848744da18cda0db5713e413efbb8b01::wonky::WONKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731150722747.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

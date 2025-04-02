@@ -1,0 +1,13 @@
+{
+  "name": "The Sneaky Skunk",
+  "symbol": "SSKUNK",
+  "decimals": 6,
+  "coin_type": "0x5465dd7de0a91903b05e1482a01f61e42402d46d796188221b16e81701630a42::sskunk::SSKUNK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000023396_12aab80c6a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Chill Whale",
+  "symbol": "CWHALE",
+  "decimals": 9,
+  "coin_type": "0xbebe19cbf9c8cc82db65805ca64a72c52817489964a7f4c7639cbc9322d2bb63::cwhale::CWHALE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.degencdn.com/ipfs/bafkreientgmkpipx2kgzglxawnbzuul7bn5wmohemkdtnyx3flafat5nti",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

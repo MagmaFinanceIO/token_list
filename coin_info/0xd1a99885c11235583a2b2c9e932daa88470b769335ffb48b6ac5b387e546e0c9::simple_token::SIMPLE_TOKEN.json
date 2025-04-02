@@ -1,0 +1,13 @@
+{
+  "name": "Wojak on Sui",
+  "symbol": "WOJAKSUI",
+  "decimals": 9,
+  "coin_type": "0xd1a99885c11235583a2b2c9e932daa88470b769335ffb48b6ac5b387e546e0c9::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

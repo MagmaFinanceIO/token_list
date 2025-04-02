@@ -1,0 +1,13 @@
+{
+  "name": "SUINATION",
+  "symbol": "SUINATION",
+  "decimals": 9,
+  "coin_type": "0x880806849c7aec761ec1a403117c29e958d29a691d528bf01f7807e3fe9c307d::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

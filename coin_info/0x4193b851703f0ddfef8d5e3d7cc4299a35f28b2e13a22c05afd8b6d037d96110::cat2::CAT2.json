@@ -1,0 +1,13 @@
+{
+  "name": "CAT",
+  "symbol": "CAT2",
+  "decimals": 6,
+  "coin_type": "0x4193b851703f0ddfef8d5e3d7cc4299a35f28b2e13a22c05afd8b6d037d96110::cat2::CAT2",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/cat2.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mystery Project - SUI",
+  "symbol": "MYSTERY",
+  "decimals": 6,
+  "coin_type": "0x0649960cf5670438f5a344b182caef5f676068822cba934d74793efde48f5d1f::mystery::MYSTERY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ruggy_8424d5ff00.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Epic",
+  "symbol": "EPIC",
+  "decimals": 9,
+  "coin_type": "0xe0484c711946209ee7a1fba020022c336834afca6595a732a1c8ffba8254fae0::epic::EPIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2cqgskekYfiz6eP42wAAi8riSELGtxkiRF9DjrrY52cX.png?size=lg&key=1cc6a0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

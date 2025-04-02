@@ -1,0 +1,13 @@
+{
+  "name": "Tako",
+  "symbol": "TAKO",
+  "decimals": 9,
+  "coin_type": "0xa9871340f2c072e2913887ab5bc928dcee5980c98d132b8ee5e19feb483ff26b::tako::TAKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e5e0d4cf-6bdf-4abf-878d-399c020754ef.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

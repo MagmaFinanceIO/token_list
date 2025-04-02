@@ -1,0 +1,13 @@
+{
+  "name": "Test11",
+  "symbol": "TEsteleven",
+  "decimals": 9,
+  "coin_type": "0xd0ed2e394193751edd5f3e95f97cdc5777bc9c7b09dc0cd551e973e4b70433bc::testeleven::TESTELEVEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a614c286-a834-4b3b-b9ce-faa409f7db00.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

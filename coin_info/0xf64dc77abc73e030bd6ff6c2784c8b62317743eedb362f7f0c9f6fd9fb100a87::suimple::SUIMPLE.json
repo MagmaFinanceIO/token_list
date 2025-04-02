@@ -1,0 +1,13 @@
+{
+  "name": "suimple coin",
+  "symbol": "suimple",
+  "decimals": 9,
+  "coin_type": "0xf64dc77abc73e030bd6ff6c2784c8b62317743eedb362f7f0c9f6fd9fb100a87::suimple::SUIMPLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/58ca2d78-a417-4026-9b95-8417c129dc0c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "POPO The Smoker",
+  "symbol": "POPO",
+  "decimals": 9,
+  "coin_type": "0x44b4161442b5293cc06fac9c40ba6e1b739077a94f163aafb26a7ec515414082::popo::POPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0bd221f1-5d3c-4e54-8902-2e0e1210b785.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

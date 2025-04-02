@@ -1,0 +1,13 @@
+{
+  "name": "DXB",
+  "symbol": "DXB",
+  "decimals": 9,
+  "coin_type": "0x83149953022fbf9315b2d317f4d5f6dd06ea51416cde95ae5cd55d8a2f1d89c5::dxb::DXB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

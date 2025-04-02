@@ -1,0 +1,13 @@
+{
+  "name": "Basey AI Agent",
+  "symbol": "BASEY",
+  "decimals": 9,
+  "coin_type": "0xd43b254dffd1268cf0514569883e496676aef05a6bab40c196e232abf0cbca43::basey::BASEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BaseyFE2cWS2dQWukdeDLhTHrmdjRxShFjmg3E9UyJq2.png?size=lg&key=7d0fcf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

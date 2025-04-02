@@ -1,0 +1,13 @@
+{
+  "name": "Luffy in action",
+  "symbol": "LUFFY",
+  "decimals": 6,
+  "coin_type": "0xd844d53e47961de219c4b1ab5c7841ba6cdfb5f5d4672040e9f82154583f0680::luffy::LUFFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/onepiec_9529076031.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

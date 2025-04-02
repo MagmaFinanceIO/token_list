@@ -1,0 +1,13 @@
+{
+  "name": "WAVE",
+  "symbol": "WAV",
+  "decimals": 9,
+  "coin_type": "0x7ba88a67417cfd4073e34559cf71bae046d0738bdc393e7a63d6002b584a1ac8::wav::WAV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://file-walletapp.waveonsui.com/images/wave-pumps/5ff6d248-baf9-4ee7-9ef4-fe3975068b3d.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

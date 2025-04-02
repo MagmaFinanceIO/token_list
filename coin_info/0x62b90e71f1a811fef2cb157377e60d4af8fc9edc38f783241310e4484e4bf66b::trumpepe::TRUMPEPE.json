@@ -1,0 +1,13 @@
+{
+  "name": "PEPE TRUMP",
+  "symbol": "TRUMPEPE",
+  "decimals": 9,
+  "coin_type": "0x62b90e71f1a811fef2cb157377e60d4af8fc9edc38f783241310e4484e4bf66b::trumpepe::TRUMPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CtxjFfYCcxxtxr7rYxk7D2RWqeAAUge4rqUsiDhZuCd8.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

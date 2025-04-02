@@ -1,0 +1,13 @@
+{
+  "name": "block AI",
+  "symbol": "block",
+  "decimals": 9,
+  "coin_type": "0xd4553bd279fbb3227c923bccb15f9501337d57b7aa7fd88a38125de8a268fd03::block::BLOCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQwqMtrcdFbGS5prFEkgMFitdB67nHKpxbyyavHbFgrkF",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

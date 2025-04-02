@@ -1,0 +1,13 @@
+{
+  "name": "SUI$10",
+  "symbol": "SUI$10",
+  "decimals": 9,
+  "coin_type": "0x859166c973663aff89662f55ffe1134af9f85c0e444a6353e1710c8d1843c97c::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

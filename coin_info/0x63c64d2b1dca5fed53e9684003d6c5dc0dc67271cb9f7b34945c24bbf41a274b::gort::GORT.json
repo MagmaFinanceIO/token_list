@@ -1,0 +1,13 @@
+{
+  "name": "His name Gort",
+  "symbol": "Gort",
+  "decimals": 9,
+  "coin_type": "0x63c64d2b1dca5fed53e9684003d6c5dc0dc67271cb9f7b34945c24bbf41a274b::gort::GORT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EdTcPriYAHEgGrf2G7mSJ9aD8kYDfvnBSWHJpfgxGF5r.png?size=lg&key=88edb4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

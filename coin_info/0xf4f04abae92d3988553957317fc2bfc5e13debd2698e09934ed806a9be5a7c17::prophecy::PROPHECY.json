@@ -1,0 +1,13 @@
+{
+  "name": "Leader of Mars",
+  "symbol": "PROPHECY",
+  "decimals": 9,
+  "coin_type": "0xf4f04abae92d3988553957317fc2bfc5e13debd2698e09934ed806a9be5a7c17::prophecy::PROPHECY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7uBArB4Zimf8Bu9uRoRVfSBR3NeJ3djuCrWAxzZSpump.png?size=lg&key=8f4189",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

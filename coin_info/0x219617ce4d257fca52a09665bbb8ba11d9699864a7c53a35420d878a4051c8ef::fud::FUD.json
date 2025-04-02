@@ -1,0 +1,13 @@
+{
+  "name": "Flying Unicorn Dick",
+  "symbol": "FUD",
+  "decimals": 9,
+  "coin_type": "0x219617ce4d257fca52a09665bbb8ba11d9699864a7c53a35420d878a4051c8ef::fud::FUD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2StuvESRpBA99njmA5VcAfrRBdJ61YvH5T9S9vB24iGD.png?size=lg&key=0fafc7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

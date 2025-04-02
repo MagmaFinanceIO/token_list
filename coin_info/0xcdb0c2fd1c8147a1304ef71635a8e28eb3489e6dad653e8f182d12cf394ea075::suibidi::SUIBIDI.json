@@ -1,0 +1,13 @@
+{
+  "name": "Suibidi Toilet",
+  "symbol": "SUIBIDI",
+  "decimals": 6,
+  "coin_type": "0xcdb0c2fd1c8147a1304ef71635a8e28eb3489e6dad653e8f182d12cf394ea075::suibidi::SUIBIDI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/sssss_removebg_preview_7a0c2616fa.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Cranky",
+  "symbol": "CRANKY",
+  "decimals": 9,
+  "coin_type": "0x8853b7dbb9bcdeea324a5c816443be3488248d56238651a2b67449679ad86ff2::cranky::CRANKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7smYGbsmSG2Vch4hsNi96Zm9aFdiLnCgTmNkZbLVpump.png?size=lg&key=27ea78",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

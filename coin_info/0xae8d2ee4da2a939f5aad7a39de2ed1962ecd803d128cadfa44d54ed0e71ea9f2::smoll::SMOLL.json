@@ -1,0 +1,13 @@
+{
+  "name": "Smoll",
+  "symbol": "SMOLL",
+  "decimals": 9,
+  "coin_type": "0xae8d2ee4da2a939f5aad7a39de2ed1962ecd803d128cadfa44d54ed0e71ea9f2::smoll::SMOLL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "Smoll",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

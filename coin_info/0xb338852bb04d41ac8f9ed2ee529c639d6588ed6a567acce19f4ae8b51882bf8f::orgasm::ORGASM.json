@@ -1,0 +1,13 @@
+{
+  "name": "Orgasm AI",
+  "symbol": "ORGASM",
+  "decimals": 9,
+  "coin_type": "0xb338852bb04d41ac8f9ed2ee529c639d6588ed6a567acce19f4ae8b51882bf8f::orgasm::ORGASM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmS3Sk3pArfZa18vntkCXs1fb4DiDhNParV8LXNRa6YoZE",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

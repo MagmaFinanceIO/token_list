@@ -1,0 +1,13 @@
+{
+  "name": "Wrapped SUI",
+  "symbol": "WSUI",
+  "decimals": 9,
+  "coin_type": "0xed3eff3ea9ecfd6529aa295d81ff432148c86e407b20a9aa2a56a26d5971ead7::wsui::WSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/09cf266a-fd24-419a-9972-6d8ff24498b0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

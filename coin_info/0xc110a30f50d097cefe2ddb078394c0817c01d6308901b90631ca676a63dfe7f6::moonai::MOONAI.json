@@ -1,0 +1,13 @@
+{
+  "name": "MoonAI",
+  "symbol": "MoonAI",
+  "decimals": 9,
+  "coin_type": "0xc110a30f50d097cefe2ddb078394c0817c01d6308901b90631ca676a63dfe7f6::moonai::MOONAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/90eb8357-fd65-42b7-8d0c-c78e92c497ae.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

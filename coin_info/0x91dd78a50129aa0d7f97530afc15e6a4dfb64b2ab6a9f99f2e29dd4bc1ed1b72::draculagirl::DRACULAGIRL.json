@@ -1,0 +1,13 @@
+{
+  "name": "Dracula Girl",
+  "symbol": "DraculaGirl",
+  "decimals": 9,
+  "coin_type": "0x91dd78a50129aa0d7f97530afc15e6a4dfb64b2ab6a9f99f2e29dd4bc1ed1b72::draculagirl::DRACULAGIRL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b7c52b3b-e7f2-405e-8419-940c5512fb6d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

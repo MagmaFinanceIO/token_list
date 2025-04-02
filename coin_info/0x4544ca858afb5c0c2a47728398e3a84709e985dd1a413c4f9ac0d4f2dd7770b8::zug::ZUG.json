@@ -1,0 +1,13 @@
+{
+  "name": "Zero Utility Garbage",
+  "symbol": "ZUG",
+  "decimals": 9,
+  "coin_type": "0x4544ca858afb5c0c2a47728398e3a84709e985dd1a413c4f9ac0d4f2dd7770b8::zug::ZUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmaAw8bCu2eswbNJrd5kc4Y4NtAuo6t7sADPp7xW8rAK8g",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

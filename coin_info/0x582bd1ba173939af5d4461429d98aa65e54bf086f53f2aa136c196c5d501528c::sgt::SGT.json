@@ -1,0 +1,13 @@
+{
+  "name": "Super Grid 3",
+  "symbol": "SGT",
+  "decimals": 2,
+  "coin_type": "0x582bd1ba173939af5d4461429d98aa65e54bf086f53f2aa136c196c5d501528c::sgt::SGT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b595f500-bc9c-4c32-a016-0970e5ac0b75.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

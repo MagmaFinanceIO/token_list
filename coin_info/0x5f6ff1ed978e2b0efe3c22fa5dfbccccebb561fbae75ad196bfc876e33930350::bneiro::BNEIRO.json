@@ -1,0 +1,13 @@
+{
+  "name": "BOOK OF NEIRO",
+  "symbol": "BNEIRO",
+  "decimals": 6,
+  "coin_type": "0x5f6ff1ed978e2b0efe3c22fa5dfbccccebb561fbae75ad196bfc876e33930350::bneiro::BNEIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/bookofneiro_337d5cf21b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

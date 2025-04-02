@@ -1,0 +1,13 @@
+{
+  "name": "Tux Penguin",
+  "symbol": "TUX",
+  "decimals": 6,
+  "coin_type": "0x017ec6feb00cbdcf5c3429b90507762423ce8b4e38a650e52bd2a2cf2b4a0648::tux::TUX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_08_16_21_03_1fedb1db11.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

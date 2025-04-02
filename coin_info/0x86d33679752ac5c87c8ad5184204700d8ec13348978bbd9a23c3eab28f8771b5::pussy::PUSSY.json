@@ -1,0 +1,13 @@
+{
+  "name": "Pussy Only 1000",
+  "symbol": "PUSSY",
+  "decimals": 9,
+  "coin_type": "0x86d33679752ac5c87c8ad5184204700d8ec13348978bbd9a23c3eab28f8771b5::pussy::PUSSY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2f3b6bef-697a-4c4f-b2fc-6b934837f4a5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "meme VQO",
+  "symbol": "VQO",
+  "decimals": 6,
+  "coin_type": "0xbda2096daf150d4f3f5fecb2b997c288695254a038cc2c8e9cade29d3f4b34b1::vqo::VQO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Token_Foto_58fb305199.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

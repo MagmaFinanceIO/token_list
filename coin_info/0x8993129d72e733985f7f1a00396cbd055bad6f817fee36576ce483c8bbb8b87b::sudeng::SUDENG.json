@@ -1,0 +1,13 @@
+{
+  "name": "sudeng",
+  "symbol": "HIPPO",
+  "decimals": 9,
+  "coin_type": "0x8993129d72e733985f7f1a00396cbd055bad6f817fee36576ce483c8bbb8b87b::sudeng::SUDENG",
+  "pyth_id": "",
+  "birdeyeid": "0x8993129d72e733985f7f1a00396cbd055bad6f817fee36576ce483c8bbb8b87b::sudeng::SUDENG",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/j2EuFh5.png",
+  "project_url": "",
+  "coingecko_id": "sudeng",
+  "is_trusted": true
+}

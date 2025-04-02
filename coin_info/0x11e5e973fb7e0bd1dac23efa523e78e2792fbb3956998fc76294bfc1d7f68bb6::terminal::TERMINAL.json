@@ -1,0 +1,13 @@
+{
+  "name": "Book Terminal of Truths",
+  "symbol": "TERMINAL",
+  "decimals": 9,
+  "coin_type": "0x11e5e973fb7e0bd1dac23efa523e78e2792fbb3956998fc76294bfc1d7f68bb6::terminal::TERMINAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7XFXYYiqrEQLLkAGvvxaoh6iYkVYQ4K7XXtKoRShpump.png?size=lg&key=7c2cda",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

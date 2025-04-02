@@ -1,0 +1,13 @@
+{
+  "name": "BabyAi16z by SuiAI",
+  "symbol": "BABY",
+  "decimals": 6,
+  "coin_type": "0x7b3158d5874870b57baad731d7419ed9497e4331795d4da30651b2b440fe14b7::baby::BABY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/baby_f838e151be.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

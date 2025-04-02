@@ -1,0 +1,13 @@
+{
+  "name": "SOL RACCOON",
+  "symbol": "RACCOON",
+  "decimals": 9,
+  "coin_type": "0x7a948e20fe808cf7f721ed335c558cb2866b35781d216ad06530095401c77cd3::raccoon::RACCOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Gg7yp9ZL4Fszk26zPmVToCvEqSXWLRR25KsgKQdFpump.png?size=lg&key=a6d537",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

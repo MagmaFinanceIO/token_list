@@ -1,0 +1,13 @@
+{
+  "name": "Pigeon Exchange",
+  "symbol": "PETX",
+  "decimals": 9,
+  "coin_type": "0x3eebb8c10d1563a2bf542a76acf49d85834dfee734f8b6266593d5c1e5c65f21::petx::PETX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6007eb66-f1e3-4968-b28a-a8afea02c2de.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

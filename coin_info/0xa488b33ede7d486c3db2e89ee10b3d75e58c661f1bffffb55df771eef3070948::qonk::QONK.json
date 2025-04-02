@@ -1,0 +1,13 @@
+{
+  "name": "Qonk",
+  "symbol": "QONK",
+  "decimals": 6,
+  "coin_type": "0xa488b33ede7d486c3db2e89ee10b3d75e58c661f1bffffb55df771eef3070948::qonk::QONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmUodkGsv2qirsQZxRf3d7ZQfL8jTBwd9KVUpdBhxpyvyd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

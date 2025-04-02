@@ -1,0 +1,13 @@
+{
+  "name": "MAD",
+  "symbol": "MAD",
+  "decimals": 9,
+  "coin_type": "0xf9e70c063384df2e15a0cff4a1e5738cda2915fe524ec8e63e75ffb6120394df::mad::MAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/madHpjRn6bd8t78Rsy7NuSuNwWa2HU8ByPobZprHbHv.png?size=lg&key=53d364",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

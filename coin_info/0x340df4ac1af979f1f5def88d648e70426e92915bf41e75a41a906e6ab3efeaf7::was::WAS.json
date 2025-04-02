@@ -1,0 +1,13 @@
+{
+  "name": "Washington Bullets",
+  "symbol": "WAS",
+  "decimals": 1,
+  "coin_type": "0x340df4ac1af979f1f5def88d648e70426e92915bf41e75a41a906e6ab3efeaf7::was::WAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arivmarketplace.sirv.com/Restaurant%20Images/sui.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pruto",
+  "symbol": "PRUTO",
+  "decimals": 9,
+  "coin_type": "0x3c23fab3743d931aa0a953fe60392c23ad23ddf94d185fef022940480ac44e3d::pruto::PRUTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/afb036ef-7ce2-4f02-84b5-8dd13c430674.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

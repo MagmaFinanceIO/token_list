@@ -1,0 +1,13 @@
+{
+  "name": "sui trading bot",
+  "symbol": "sbot",
+  "decimals": 9,
+  "coin_type": "0xf141610a2976b9583f251f972f4bf03f7543f05ce524249f0e04138cd425b4a1::suitradingbot::SUITRADINGBOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/rI8HXGl.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

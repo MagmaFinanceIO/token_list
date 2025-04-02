@@ -1,0 +1,13 @@
+{
+  "name": "Fishy",
+  "symbol": "Fishy",
+  "decimals": 6,
+  "coin_type": "0x6ff57ee89905b28129e8b9c18f3c6deaad17b3d07db7149baaf0e84e31c56ef5::fishy::FISHY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b38cb466-72ec-45fc-9a72-5a70fe05ff41.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

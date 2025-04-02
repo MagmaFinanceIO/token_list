@@ -1,0 +1,13 @@
+{
+  "name": "BABY BLUB",
+  "symbol": "BABYBLUB",
+  "decimals": 6,
+  "coin_type": "0x823c3e84824d6a6a6c0fd3a34968b05471f38279defd774e9136ccb47622f4e5::babyblub::BABYBLUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/4_d5a17d163b.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

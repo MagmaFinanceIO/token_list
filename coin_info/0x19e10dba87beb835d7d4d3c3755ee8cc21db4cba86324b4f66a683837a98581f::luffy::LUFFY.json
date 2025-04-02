@@ -1,0 +1,13 @@
+{
+  "name": "StrawHat",
+  "symbol": "LUFFY",
+  "decimals": 9,
+  "coin_type": "0x19e10dba87beb835d7d4d3c3755ee8cc21db4cba86324b4f66a683837a98581f::luffy::LUFFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/09e1acc3-252f-42b5-9320-bceadbcb8c94.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

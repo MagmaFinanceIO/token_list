@@ -1,0 +1,13 @@
+{
+  "name": "baa sheep",
+  "symbol": "BAA",
+  "decimals": 9,
+  "coin_type": "0x62a31e2d82bd8158f49959407f447d8cc474907cd14979355d2e58036a93e73a::baa::BAA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FDALLA_E_2024_09_23_11_35_27_A_meme_like_image_with_a_cartoonish_sheep_on_the_left_side_yelling_with_its_mouth_wide_open_A_speech_bubble_says_Can_t_stop_won_t_stop_thinking_ab_630b09e05f.webp&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

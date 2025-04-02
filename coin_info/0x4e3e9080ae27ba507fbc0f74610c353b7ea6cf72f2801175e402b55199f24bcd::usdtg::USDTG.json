@@ -1,0 +1,13 @@
+{
+  "name": "USDTGOLD",
+  "symbol": "USDTG",
+  "decimals": 9,
+  "coin_type": "0x4e3e9080ae27ba507fbc0f74610c353b7ea6cf72f2801175e402b55199f24bcd::usdtg::USDTG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bacbd0c7-754f-49a2-ad7f-eef8b04cc9df.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

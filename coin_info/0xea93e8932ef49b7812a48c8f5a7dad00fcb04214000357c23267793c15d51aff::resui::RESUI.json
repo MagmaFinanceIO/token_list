@@ -1,0 +1,13 @@
+{
+  "name": "RESISTANCE SUI",
+  "symbol": "RESUI",
+  "decimals": 6,
+  "coin_type": "0xea93e8932ef49b7812a48c8f5a7dad00fcb04214000357c23267793c15d51aff::resui::RESUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000211748_c08d48592a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

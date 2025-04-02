@@ -1,0 +1,13 @@
+{
+  "name": "ZAILGO",
+  "symbol": "ZAILGO",
+  "decimals": 9,
+  "coin_type": "0x957bea04bb06f8618897bcdaf238bede4e6dbdc775ed6dcbc9c65e8f314edf47::zailgo::ZAILGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ARV4sk2bj8rp8u73fjRv3aEL2a5L663XyKetrFo3pump.png?size=lg&key=305570",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

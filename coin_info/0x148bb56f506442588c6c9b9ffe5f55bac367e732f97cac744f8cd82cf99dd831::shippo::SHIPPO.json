@@ -1,0 +1,13 @@
+{
+  "name": "SUI HIPPO",
+  "symbol": "SHIPPO",
+  "decimals": 9,
+  "coin_type": "0x148bb56f506442588c6c9b9ffe5f55bac367e732f97cac744f8cd82cf99dd831::shippo::SHIPPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://photos.pinksale.finance/file/pinksale-logo-upload/1729408759813-4a47a0db6e60853dedfcfdf08a5ca249.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIREX",
+  "symbol": "REX",
+  "decimals": 6,
+  "coin_type": "0xd8f937ecc00639c66f8533e0310685de397473906b3bff2f3f11230d84475fd2::rex::REX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suirex_812076fc43.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

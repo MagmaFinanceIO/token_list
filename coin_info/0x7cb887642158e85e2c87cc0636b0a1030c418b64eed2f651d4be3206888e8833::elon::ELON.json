@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL ELON",
+  "symbol": "ELON",
+  "decimals": 9,
+  "coin_type": "0x7cb887642158e85e2c87cc0636b0a1030c418b64eed2f651d4be3206888e8833::elon::ELON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7hz3L6S7Twykk8ntcRTLA7tXFqVBLxJFfL52Twhspump.png?size=lg&key=bf17ac",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

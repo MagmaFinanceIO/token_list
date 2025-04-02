@@ -1,0 +1,13 @@
+{
+  "name": "Blap On Sui",
+  "symbol": "BLAP",
+  "decimals": 6,
+  "coin_type": "0x6da57ea1ba23da65f6af7d9df2dae45febeb1c69e77d64117112f182f43ddaf8::blap::BLAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/20241127_233400_e8c44f62bd.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

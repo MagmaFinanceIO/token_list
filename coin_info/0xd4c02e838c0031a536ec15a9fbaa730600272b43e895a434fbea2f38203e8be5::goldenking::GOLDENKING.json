@@ -1,0 +1,13 @@
+{
+  "name": "Golden King",
+  "symbol": "GOLDENKING",
+  "decimals": 6,
+  "coin_type": "0xd4c02e838c0031a536ec15a9fbaa730600272b43e895a434fbea2f38203e8be5::goldenking::GOLDENKING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/flat_750x_075_f_pad_750x1000_f8f8f8_u7_1_a211e35697.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

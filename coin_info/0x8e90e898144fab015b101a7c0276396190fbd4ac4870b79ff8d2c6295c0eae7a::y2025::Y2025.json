@@ -1,0 +1,13 @@
+{
+  "name": "Lunar New Year",
+  "symbol": "Y2025",
+  "decimals": 9,
+  "coin_type": "0x8e90e898144fab015b101a7c0276396190fbd4ac4870b79ff8d2c6295c0eae7a::y2025::Y2025",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9RDKFJaqv9N8yrvJPD5hRPFCpskv2hFc6CZs7roppump.png?size=lg&key=4f1b06",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PowerShell Cat",
+  "symbol": "PSCat",
+  "decimals": 6,
+  "coin_type": "0xf60e16b4c449b105e9623d93b2cecf4ada2b064d1eb1eae03b3480cb899f5538::pscat::PSCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pscat1_5e9da4c461.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

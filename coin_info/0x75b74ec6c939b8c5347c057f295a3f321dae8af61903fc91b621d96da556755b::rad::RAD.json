@@ -1,0 +1,13 @@
+{
+  "name": "Raddish",
+  "symbol": "Rad",
+  "decimals": 9,
+  "coin_type": "0x75b74ec6c939b8c5347c057f295a3f321dae8af61903fc91b621d96da556755b::rad::RAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/10147e19-4fd7-44ec-93de-5086197500f3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

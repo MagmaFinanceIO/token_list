@@ -1,0 +1,13 @@
+{
+  "name": "CAT GIRLFRIEND AI",
+  "symbol": "CATGF",
+  "decimals": 6,
+  "coin_type": "0x3768d3cbe1ef7e098db595b6bc5d9172be020a1a519a8dc120be9ecbf1e29e52::catgf::CATGF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5102_c1bd1325b4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

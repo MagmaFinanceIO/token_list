@@ -1,0 +1,13 @@
+{
+  "name": "wif",
+  "symbol": "WIF",
+  "decimals": 9,
+  "coin_type": "0x80374387fafb0462a595038a934419778cb25a7a4da42f9c593770f6ab786e9a::wif::WIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/631c250c-ab8f-4322-8da2-7842ef902b1b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

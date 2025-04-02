@@ -1,0 +1,13 @@
+{
+  "name": "Rug Soon",
+  "symbol": "RUG",
+  "decimals": 9,
+  "coin_type": "0x3fc7e9c0633cb52c4a0f8b4e7459beccc5724f05d4a6b834bee6c6f8e1ef976d::rug::RUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FKRM7gPZBxqbZXwq2kYVYWpqxGUgELXTdL4ReeTGpump.png?size=lg&key=95a9da",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

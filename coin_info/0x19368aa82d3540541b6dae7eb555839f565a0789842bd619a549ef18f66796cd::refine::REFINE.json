@@ -1,0 +1,13 @@
+{
+  "name": "Sui Refine by SuiAI",
+  "symbol": "REFINE",
+  "decimals": 6,
+  "coin_type": "0x19368aa82d3540541b6dae7eb555839f565a0789842bd619a549ef18f66796cd::refine::REFINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Screenshot_142_1017f11648.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

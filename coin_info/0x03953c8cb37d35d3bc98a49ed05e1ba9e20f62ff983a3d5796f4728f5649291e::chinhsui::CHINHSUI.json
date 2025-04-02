@@ -1,0 +1,13 @@
+{
+  "name": "Ching Chong",
+  "symbol": "CHINHSUI",
+  "decimals": 9,
+  "coin_type": "0x03953c8cb37d35d3bc98a49ed05e1ba9e20f62ff983a3d5796f4728f5649291e::chinhsui::CHINHSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/e6N6gRLNdzrJLJr81usJxCeeZgcP2cukFyq6WQBpump.png?size=lg&key=f4ebb2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

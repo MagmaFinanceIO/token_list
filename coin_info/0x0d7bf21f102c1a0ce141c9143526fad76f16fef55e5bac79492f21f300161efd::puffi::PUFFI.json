@@ -1,0 +1,13 @@
+{
+  "name": "Sui Puffi",
+  "symbol": "Puffi",
+  "decimals": 6,
+  "coin_type": "0x0d7bf21f102c1a0ce141c9143526fad76f16fef55e5bac79492f21f300161efd::puffi::PUFFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/puff_profile_5af174fe3c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

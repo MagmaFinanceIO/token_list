@@ -1,0 +1,13 @@
+{
+  "name": "Wolf of Wall Sui",
+  "symbol": "WOLF",
+  "decimals": 9,
+  "coin_type": "0x65b3eb8e8dd3c18d52fc2b7537826285c48f8bf56d42f79a80c2964e7037a166::wolf::WOLF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dbdedb90-9f31-4724-b3d5-0abfed890a22.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

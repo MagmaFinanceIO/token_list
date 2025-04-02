@@ -1,0 +1,13 @@
+{
+  "name": "Trump Shuffle on SUI",
+  "symbol": "Shuffle",
+  "decimals": 6,
+  "coin_type": "0x9856d3346d223c6b927de48b7eb0c47c668d433e9a8b96423a36145bb20cf2c1::shuffle::SHUFFLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/NI_Axps_5bsqgjotn_e6a5f9e999.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

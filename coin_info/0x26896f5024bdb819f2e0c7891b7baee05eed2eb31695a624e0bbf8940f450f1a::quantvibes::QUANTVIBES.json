@@ -1,0 +1,13 @@
+{
+  "name": "QUANT vibes",
+  "symbol": "QUANTVIBES",
+  "decimals": 6,
+  "coin_type": "0x26896f5024bdb819f2e0c7891b7baee05eed2eb31695a624e0bbf8940f450f1a::quantvibes::QUANTVIBES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Gc17_Zq_DXMAAP_Eb3_49b0f8ece7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

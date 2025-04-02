@@ -1,0 +1,13 @@
+{
+  "name": "Davinci Jeremie",
+  "symbol": "VINCI",
+  "decimals": 9,
+  "coin_type": "0x3918f6b5bb08f6efeb41edc2371502257dd6d594377f517d93fb502bafb80589::vinci::VINCI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BEviBC8URrSgTzQFSm1h27KLu9vUJx6A2B3tR8Rapump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Slushy's",
+  "symbol": "SLUSHY",
+  "decimals": 6,
+  "coin_type": "0xf515903363185cfee40f50161bf0c52282f1753807e9ed9170b6a265f17b314b::slushy::SLUSHY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/5p_B6_Upe_N_400x400_c437a7d69d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

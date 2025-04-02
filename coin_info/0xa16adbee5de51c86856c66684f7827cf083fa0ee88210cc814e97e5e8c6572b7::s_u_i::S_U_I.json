@@ -1,0 +1,13 @@
+{
+  "name": "SUI6900",
+  "symbol": "S U I",
+  "decimals": 9,
+  "coin_type": "0xa16adbee5de51c86856c66684f7827cf083fa0ee88210cc814e97e5e8c6572b7::s_u_i::S_U_I",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a7bf1e67-75b3-404d-b458-958216cbdfb4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

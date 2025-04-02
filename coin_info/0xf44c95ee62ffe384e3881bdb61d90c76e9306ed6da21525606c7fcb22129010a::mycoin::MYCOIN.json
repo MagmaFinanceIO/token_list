@@ -1,0 +1,13 @@
+{
+  "name": "MC ELON",
+  "symbol": "MCELON",
+  "decimals": 9,
+  "coin_type": "0xf44c95ee62ffe384e3881bdb61d90c76e9306ed6da21525606c7fcb22129010a::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

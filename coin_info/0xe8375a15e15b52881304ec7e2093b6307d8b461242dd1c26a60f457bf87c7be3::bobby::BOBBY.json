@@ -1,0 +1,13 @@
+{
+  "name": "BOBBY",
+  "symbol": "BOBBY",
+  "decimals": 9,
+  "coin_type": "0xe8375a15e15b52881304ec7e2093b6307d8b461242dd1c26a60f457bf87c7be3::bobby::BOBBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

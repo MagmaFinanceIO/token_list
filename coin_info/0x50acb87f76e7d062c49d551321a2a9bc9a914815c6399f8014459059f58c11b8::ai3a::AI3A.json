@@ -1,0 +1,13 @@
+{
+  "name": "AI 3 Arrows",
+  "symbol": "AI3A",
+  "decimals": 9,
+  "coin_type": "0x50acb87f76e7d062c49d551321a2a9bc9a914815c6399f8014459059f58c11b8::ai3a::AI3A",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Cpb9cQuuqxgignoHNsh5rgQ4JuDM28TxBfMJtS2bpump.png?size=lg&key=0acc85",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

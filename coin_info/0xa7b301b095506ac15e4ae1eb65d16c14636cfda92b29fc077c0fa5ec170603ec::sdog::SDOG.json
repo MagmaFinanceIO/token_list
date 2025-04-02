@@ -1,0 +1,13 @@
+{
+  "name": "Super Dog AI",
+  "symbol": "SDOG",
+  "decimals": 9,
+  "coin_type": "0xa7b301b095506ac15e4ae1eb65d16c14636cfda92b29fc077c0fa5ec170603ec::sdog::SDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1e390552-3601-4dfb-a1a5-25853195f0cb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

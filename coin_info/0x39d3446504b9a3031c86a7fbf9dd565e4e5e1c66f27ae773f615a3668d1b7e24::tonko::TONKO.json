@@ -1,0 +1,13 @@
+{
+  "name": "Tonko",
+  "symbol": "TONKO",
+  "decimals": 9,
+  "coin_type": "0x39d3446504b9a3031c86a7fbf9dd565e4e5e1c66f27ae773f615a3668d1b7e24::tonko::TONKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f694013b-8c9d-429f-86bd-242779c8f5dd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NPC SUI",
+  "symbol": "NPC",
+  "decimals": 6,
+  "coin_type": "0x904646999850ff696604208efb8b701ac5c216241bab3a9afdb9a90283f0f21e::npc::NPC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730951809190.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

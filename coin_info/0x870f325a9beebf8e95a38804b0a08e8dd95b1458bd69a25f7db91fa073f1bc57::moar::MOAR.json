@@ -1,0 +1,13 @@
+{
+  "name": "Moar Sui",
+  "symbol": "Moar",
+  "decimals": 9,
+  "coin_type": "0x870f325a9beebf8e95a38804b0a08e8dd95b1458bd69a25f7db91fa073f1bc57::moar::MOAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AWcq8cy2gYhfgmiV1RowHiaP8ohAU1d4A2AL5Zm9pump.png?size=lg&key=42da10",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

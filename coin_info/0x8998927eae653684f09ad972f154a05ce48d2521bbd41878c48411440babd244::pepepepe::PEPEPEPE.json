@@ -1,0 +1,13 @@
+{
+  "name": "SuiPepe",
+  "symbol": "PePePePe",
+  "decimals": 6,
+  "coin_type": "0x8998927eae653684f09ad972f154a05ce48d2521bbd41878c48411440babd244::pepepepe::PEPEPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qma5cG1SeSywxE5jWvRPr889mVtJVVa6QNHsHFBUpwutdk",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

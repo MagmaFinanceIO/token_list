@@ -1,0 +1,13 @@
+{
+  "name": "Hokulea",
+  "symbol": "Hoku",
+  "decimals": 6,
+  "coin_type": "0x07cd8eee17b819051a9239037e660ced4b548bdb90a82a1596038bb205e4aed0::hoku::HOKU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/surfer_cat_19391d8a18.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DOGKET",
+  "symbol": "DGT",
+  "decimals": 9,
+  "coin_type": "0xf57324c6ac55e43634c59afbad636a5524ccce223cc37c1b77d5019598018872::dgt::DGT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/03aa5bd6-0002-40a3-8122-589d0bf4b5e3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

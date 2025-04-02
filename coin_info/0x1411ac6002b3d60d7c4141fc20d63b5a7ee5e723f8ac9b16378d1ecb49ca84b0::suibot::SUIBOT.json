@@ -1,0 +1,13 @@
+{
+  "name": "SuiBridgeBot",
+  "symbol": "SuiBot",
+  "decimals": 9,
+  "coin_type": "0x1411ac6002b3d60d7c4141fc20d63b5a7ee5e723f8ac9b16378d1ecb49ca84b0::suibot::SUIBOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2Fsbot_main_logo_3b829a12e5.jpg&w=256&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

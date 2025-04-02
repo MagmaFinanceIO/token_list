@@ -1,0 +1,13 @@
+{
+  "name": "TRUMP2024",
+  "symbol": "TRUMP2024",
+  "decimals": 9,
+  "coin_type": "0x9cb1dd0409e04c04ea45470ae5de7122281b523774f7457ff745edf0d5f00bc4::trump::TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5b8c1c4b-f635-46e7-95fd-0c58e2f5eeb8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

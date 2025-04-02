@@ -1,0 +1,13 @@
+{
+  "name": "SuiKamala",
+  "symbol": "SuiKa",
+  "decimals": 6,
+  "coin_type": "0xc8ff50809adb54344092e51508c5605855ba5c6a163e79760a00ba6038bb8ceb::suika::SUIKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000092305_d5d6e7a025.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

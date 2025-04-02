@@ -1,0 +1,13 @@
+{
+  "name": "Suiman",
+  "symbol": "Suiman",
+  "decimals": 9,
+  "coin_type": "0x97d0c8062d82dc93a202dabab68d7d5c0d1e25f08fe9470e25ceb72ce42cc70d::suiman::SUIMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0xa8b69040684d576828475115b30cc4ce7c7743eab9c7d669535ee31caccef4f5::suiman::suiman.png?size=xl&key=65e38d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

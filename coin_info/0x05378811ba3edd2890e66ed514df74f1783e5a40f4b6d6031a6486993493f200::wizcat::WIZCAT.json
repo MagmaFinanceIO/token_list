@@ -1,0 +1,13 @@
+{
+  "name": "WCAT",
+  "symbol": "WIZCAT",
+  "decimals": 6,
+  "coin_type": "0x05378811ba3edd2890e66ed514df74f1783e5a40f4b6d6031a6486993493f200::wizcat::WIZCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://belaunchio.infura-ipfs.io/ipfs/QmSXE2fvT7jrxfqdWQjsthfYy8BqCpKNP4Fe3B2cP41HKs",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

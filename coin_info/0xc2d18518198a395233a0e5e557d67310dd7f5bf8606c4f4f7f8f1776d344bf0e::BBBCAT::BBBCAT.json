@@ -1,0 +1,13 @@
+{
+  "name": "BBB",
+  "symbol": "BBBCAT",
+  "decimals": 0,
+  "coin_type": "0xc2d18518198a395233a0e5e557d67310dd7f5bf8606c4f4f7f8f1776d344bf0e::BBBCAT::BBBCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/BB6m8si.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

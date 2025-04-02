@@ -1,0 +1,13 @@
+{
+  "name": "Fruits SUI",
+  "symbol": "FRUITS",
+  "decimals": 6,
+  "coin_type": "0xaf4f39d8b6ba85b7ebf848156b2650ea588c72fadc22357b1cd14ab6a23f93de::fruits::FRUITS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/fruits_sui_3c61b9fd18.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

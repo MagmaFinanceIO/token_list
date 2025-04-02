@@ -1,0 +1,13 @@
+{
+  "name": "SiriusAI",
+  "symbol": "SIRIUS",
+  "decimals": 9,
+  "coin_type": "0xb6662edf2a61a471e6c1377d8ab9c583740817713011fc139f8946b0c2996cce::sirius::SIRIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/08854c04-de00-419e-a5bd-75621cfed4da.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

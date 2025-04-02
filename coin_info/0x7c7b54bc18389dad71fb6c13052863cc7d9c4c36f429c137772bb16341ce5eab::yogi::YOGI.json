@@ -1,0 +1,13 @@
+{
+  "name": "Human Dog",
+  "symbol": "YOGI",
+  "decimals": 6,
+  "coin_type": "0x7c7b54bc18389dad71fb6c13052863cc7d9c4c36f429c137772bb16341ce5eab::yogi::YOGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/yogi_chantaldesjardins_d286c262b91a4026b4bbc8060e3b437f_52fe32f09b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

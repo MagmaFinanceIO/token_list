@@ -1,0 +1,13 @@
+{
+  "name": "Suigi On Sui",
+  "symbol": "SUIGI",
+  "decimals": 9,
+  "coin_type": "0xacc17874b3e5fb643bed4ad876635a38fa4751725dd4a9e79f5e6b79d93b9ebb::suigi::SUIGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e1ce8427-150b-48eb-ae30-d52da1937795.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

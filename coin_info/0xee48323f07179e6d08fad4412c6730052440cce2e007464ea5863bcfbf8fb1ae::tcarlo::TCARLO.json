@@ -1,0 +1,13 @@
+{
+  "name": "King Carlo",
+  "symbol": "Tcarlo",
+  "decimals": 6,
+  "coin_type": "0xee48323f07179e6d08fad4412c6730052440cce2e007464ea5863bcfbf8fb1ae::tcarlo::TCARLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_12_31_at_9_09_55a_am_0e6442d4e5.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

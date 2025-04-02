@@ -1,0 +1,13 @@
+{
+  "name": "Bikera",
+  "symbol": "SUIMERA",
+  "decimals": 9,
+  "coin_type": "0xedb8a275f6ed83d84a35301b413aab0c8aa4b1e131e16db81e5046b1ecf5543e::suimera::SUIMERA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://assets.geckoterminal.com/5ir7qoiv3u4eo9lgtirb0w1m3d68",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

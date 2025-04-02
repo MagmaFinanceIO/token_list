@@ -1,0 +1,13 @@
+{
+  "name": "Just a Bread",
+  "symbol": "BREAD",
+  "decimals": 9,
+  "coin_type": "0x25fb063245d0a097209167669b068cd71a4f03b9f666b444752694e4ac9889f2::bread::BREAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmW7XCurCMNzwdTGyEBruYAiJ5rhUxq5tBBxZJTQLqzjsZ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AGOPAY",
+  "symbol": "AGO",
+  "decimals": 9,
+  "coin_type": "0x489815c4d739ec0c8c9c10330583a0d8f41a93d12f1755c8527a481c15fac6f3::ago::AGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3wmJoV7tzfoYZd6WiAgjdzZtV2xrvxXVFJiHEpS1pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

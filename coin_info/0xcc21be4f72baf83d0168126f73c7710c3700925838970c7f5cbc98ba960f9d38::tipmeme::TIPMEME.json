@@ -1,0 +1,13 @@
+{
+  "name": "TIPMEME",
+  "symbol": "TIPMEME",
+  "decimals": 9,
+  "coin_type": "0xcc21be4f72baf83d0168126f73c7710c3700925838970c7f5cbc98ba960f9d38::tipmeme::TIPMEME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://forkast.news/wp-content/uploads/2023/10/Sui-network.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

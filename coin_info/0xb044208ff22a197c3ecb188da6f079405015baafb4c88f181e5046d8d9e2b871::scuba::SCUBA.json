@@ -1,0 +1,13 @@
+{
+  "name": "SCUBA DOG",
+  "symbol": "SCUBA",
+  "decimals": 9,
+  "coin_type": "0xb044208ff22a197c3ecb188da6f079405015baafb4c88f181e5046d8d9e2b871::scuba::SCUBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9447ffa3-92c0-4402-b261-9047b97c396f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

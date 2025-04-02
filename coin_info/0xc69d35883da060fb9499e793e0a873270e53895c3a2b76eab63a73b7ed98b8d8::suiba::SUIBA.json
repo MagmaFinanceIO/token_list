@@ -1,0 +1,13 @@
+{
+  "name": "Suiba bOOba",
+  "symbol": "Suiba",
+  "decimals": 6,
+  "coin_type": "0xc69d35883da060fb9499e793e0a873270e53895c3a2b76eab63a73b7ed98b8d8::suiba::SUIBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_13_21_45_28_f8f740b42a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

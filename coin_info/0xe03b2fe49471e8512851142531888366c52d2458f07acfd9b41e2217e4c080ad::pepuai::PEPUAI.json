@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Unchain AI",
+  "symbol": "PEPUAI",
+  "decimals": 9,
+  "coin_type": "0xe03b2fe49471e8512851142531888366c52d2458f07acfd9b41e2217e4c080ad::pepuai::PEPUAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2fc58b0a-3c91-4257-8fd0-8d27452872dd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

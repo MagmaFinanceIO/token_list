@@ -1,0 +1,13 @@
+{
+  "name": "Mickey on Sui",
+  "symbol": "SMICKEY",
+  "decimals": 9,
+  "coin_type": "0x1f65a9f68e8537550cac1e3cbb7b5362e6bf187fe8b0df8d05fa6cd4b1c2b6fe::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

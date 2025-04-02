@@ -1,0 +1,13 @@
+{
+  "name": "Banana coin",
+  "symbol": "BANANA",
+  "decimals": 6,
+  "coin_type": "0x674c4ef682300bc14ca1a8436e58d22096c2695f019c365d6a438fac9f875bda::banana::BANANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://img.freepik.com/free-vector/sticker-design-with-banana-isolated_1308-77292.jpg?w=740&t=st=1692327585~exp=1692328185~hmac=4e55607eb11267f45ad5c21050155072a1ea812f8e21cff456260214121f13dd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

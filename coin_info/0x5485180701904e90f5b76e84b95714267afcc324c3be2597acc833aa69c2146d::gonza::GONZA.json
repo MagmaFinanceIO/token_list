@@ -1,0 +1,13 @@
+{
+  "name": "My friend gonza",
+  "symbol": "Gonza",
+  "decimals": 8,
+  "coin_type": "0x5485180701904e90f5b76e84b95714267afcc324c3be2597acc833aa69c2146d::gonza::GONZA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://media-eze1-1.cdn.whatsapp.net/v/t61.24694-24/442720920_2169877933376740_8103260884608356917_n.jpg?ccb=11-4&oh=01_Q5AaII_FDwqrUQhUtd9d3sDlGDvU9EUbfrrJ9KHRE_4qhUsf&oe=66FF4941&_nc_sid=5e03e0&_nc_cat=101",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

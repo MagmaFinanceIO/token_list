@@ -1,0 +1,13 @@
+{
+  "name": "GOD OF MEME",
+  "symbol": "GODME",
+  "decimals": 4,
+  "coin_type": "0xcc411f45289220b4748a45006d8fac92d787e05a977eca39d1d3595be1365a92::godme::GODME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/015aa6f2-04c2-42ad-9aaf-0cc0aa5f1c62.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

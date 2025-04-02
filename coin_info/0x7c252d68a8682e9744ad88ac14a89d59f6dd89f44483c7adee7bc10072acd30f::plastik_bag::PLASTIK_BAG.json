@@ -1,0 +1,13 @@
+{
+  "name": "Plastik Bag",
+  "symbol": "Plastik Bag",
+  "decimals": 9,
+  "coin_type": "0x7c252d68a8682e9744ad88ac14a89d59f6dd89f44483c7adee7bc10072acd30f::plastik_bag::PLASTIK_BAG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9dfe2c89-edd1-40e4-95cd-404703e4a88a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

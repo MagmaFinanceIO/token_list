@@ -1,0 +1,13 @@
+{
+  "name": "REAL SCAM",
+  "symbol": "SCAM",
+  "decimals": 9,
+  "coin_type": "0x426d521f7a940882886c021f70d5fb09d5cb114e245fbe47e2d7820527a14b8a::scam::SCAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHojMGX9ApSG1w-W9k7k32Ahs_UklZ_DSZfw&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

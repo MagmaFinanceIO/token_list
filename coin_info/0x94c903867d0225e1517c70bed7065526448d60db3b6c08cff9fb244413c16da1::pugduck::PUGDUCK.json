@@ -1,0 +1,13 @@
+{
+  "name": "Pug on Duck",
+  "symbol": "PUGDUCK",
+  "decimals": 6,
+  "coin_type": "0x94c903867d0225e1517c70bed7065526448d60db3b6c08cff9fb244413c16da1::pugduck::PUGDUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731044851985.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

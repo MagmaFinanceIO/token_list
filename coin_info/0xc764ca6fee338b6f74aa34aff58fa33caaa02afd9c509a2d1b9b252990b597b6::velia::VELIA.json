@@ -1,0 +1,13 @@
+{
+  "name": "Velia by SuiAI",
+  "symbol": "VELIA",
+  "decimals": 6,
+  "coin_type": "0xc764ca6fee338b6f74aa34aff58fa33caaa02afd9c509a2d1b9b252990b597b6::velia::VELIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/profile_949dc92f55.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

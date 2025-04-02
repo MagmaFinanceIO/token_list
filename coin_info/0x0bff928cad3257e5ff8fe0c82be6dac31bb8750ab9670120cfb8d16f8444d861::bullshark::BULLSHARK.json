@@ -1,0 +1,13 @@
+{
+  "name": "Bullshark",
+  "symbol": "BULLSHARK",
+  "decimals": 6,
+  "coin_type": "0x0bff928cad3257e5ff8fe0c82be6dac31bb8750ab9670120cfb8d16f8444d861::bullshark::BULLSHARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5966_3715d54cf1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

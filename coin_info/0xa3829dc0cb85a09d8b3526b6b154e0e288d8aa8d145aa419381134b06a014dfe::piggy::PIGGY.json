@@ -1,0 +1,13 @@
+{
+  "name": "Sui Piggy Coin",
+  "symbol": "PIGGY",
+  "decimals": 9,
+  "coin_type": "0xa3829dc0cb85a09d8b3526b6b154e0e288d8aa8d145aa419381134b06a014dfe::piggy::PIGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ad6d1d89-3d84-47fa-80f8-0a8287886dbc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

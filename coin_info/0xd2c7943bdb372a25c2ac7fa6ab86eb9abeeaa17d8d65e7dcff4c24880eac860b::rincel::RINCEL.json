@@ -1,0 +1,13 @@
+{
+  "name": "rincel",
+  "symbol": "RINCEL",
+  "decimals": 8,
+  "coin_type": "0xd2c7943bdb372a25c2ac7fa6ab86eb9abeeaa17d8d65e7dcff4c24880eac860b::rincel::RINCEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/24b30920-1363-4d03-9251-fcde099ddab6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

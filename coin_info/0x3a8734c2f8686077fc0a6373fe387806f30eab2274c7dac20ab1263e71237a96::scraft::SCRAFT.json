@@ -1,0 +1,13 @@
+{
+  "name": "SUICRAFT",
+  "symbol": "SCRAFT",
+  "decimals": 6,
+  "coin_type": "0x3a8734c2f8686077fc0a6373fe387806f30eab2274c7dac20ab1263e71237a96::scraft::SCRAFT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6800_7d1fad9649.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

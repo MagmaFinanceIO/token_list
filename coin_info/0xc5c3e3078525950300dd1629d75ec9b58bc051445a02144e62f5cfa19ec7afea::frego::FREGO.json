@@ -1,0 +1,13 @@
+{
+  "name": "FREGO",
+  "symbol": "FREGO",
+  "decimals": 9,
+  "coin_type": "0xc5c3e3078525950300dd1629d75ec9b58bc051445a02144e62f5cfa19ec7afea::frego::FREGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/iLujgp5gvUC9B8up?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Puffer Pete",
+  "symbol": "PUFFER",
+  "decimals": 6,
+  "coin_type": "0xb1b66733aeda60bfb1e09328908e110681c77c55f062946b3ebed717eaa59680::puffer::PUFFER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/log_A_1_376240395f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

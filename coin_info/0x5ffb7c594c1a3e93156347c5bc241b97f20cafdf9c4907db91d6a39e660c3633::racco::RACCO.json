@@ -1,0 +1,13 @@
+{
+  "name": "RACCO",
+  "symbol": "RACCO",
+  "decimals": 9,
+  "coin_type": "0x5ffb7c594c1a3e93156347c5bc241b97f20cafdf9c4907db91d6a39e660c3633::racco::RACCO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/D5F5Ab3qeaffcgg1ZfBzgtep2eEiqTHk5VjfmtTnpump.png?size=lg&key=ce4fab",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Kamala Harris",
+  "symbol": "SUIKAMALA",
+  "decimals": 9,
+  "coin_type": "0x6ad0c355997b2db6de587c21e60a31eb76bd88009fa12bac32667a4425132444::suikamala::SUIKAMALA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://kamala-harris.io/img/main.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

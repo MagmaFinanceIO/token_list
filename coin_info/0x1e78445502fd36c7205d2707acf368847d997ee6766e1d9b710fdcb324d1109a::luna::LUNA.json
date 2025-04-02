@@ -1,0 +1,13 @@
+{
+  "name": "Sui Luna",
+  "symbol": "LUNA",
+  "decimals": 6,
+  "coin_type": "0x1e78445502fd36c7205d2707acf368847d997ee6766e1d9b710fdcb324d1109a::luna::LUNA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/df8d2198-23e1-4bd4-8269-ea5a9fd7ad51.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

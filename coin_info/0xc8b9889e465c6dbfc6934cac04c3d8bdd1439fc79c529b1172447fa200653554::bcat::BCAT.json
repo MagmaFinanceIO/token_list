@@ -1,0 +1,13 @@
+{
+  "name": "Bunny Cat",
+  "symbol": "BCAT",
+  "decimals": 6,
+  "coin_type": "0xc8b9889e465c6dbfc6934cac04c3d8bdd1439fc79c529b1172447fa200653554::bcat::BCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731024375141.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

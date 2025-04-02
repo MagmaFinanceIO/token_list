@@ -1,0 +1,13 @@
+{
+  "name": "SUILOCO",
+  "symbol": "SUILOCO",
+  "decimals": 9,
+  "coin_type": "0xdbbd511152473c0c8687667888498131f0cd2289ddfc980b7d2f637aae034dcc::suiloco::SUILOCO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a638e71b-9ffe-4980-8474-adb00bedf4a2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

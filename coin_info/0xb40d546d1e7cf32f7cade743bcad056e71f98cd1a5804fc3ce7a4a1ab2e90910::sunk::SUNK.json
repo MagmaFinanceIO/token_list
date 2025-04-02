@@ -1,0 +1,13 @@
+{
+  "name": "Sunk",
+  "symbol": "SUNK",
+  "decimals": 6,
+  "coin_type": "0xb40d546d1e7cf32f7cade743bcad056e71f98cd1a5804fc3ce7a4a1ab2e90910::sunk::SUNK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_14_18_14_54_27ff48093c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

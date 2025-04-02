@@ -1,0 +1,13 @@
+{
+  "name": "Faded Fish",
+  "symbol": "FADED",
+  "decimals": 9,
+  "coin_type": "0x58558130a1383faef048d9b5bff4244e91cdd63f9a46575eebf03b4a6c69a1a9::faded::FADED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1a0cb999-43a2-4884-b634-1b6af0d1d41f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

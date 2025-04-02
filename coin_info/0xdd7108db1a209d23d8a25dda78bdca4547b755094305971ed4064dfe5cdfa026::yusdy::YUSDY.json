@@ -1,0 +1,13 @@
+{
+  "name": "Kai Vault USDY",
+  "symbol": "yUSDY",
+  "decimals": 6,
+  "coin_type": "0xdd7108db1a209d23d8a25dda78bdca4547b755094305971ed4064dfe5cdfa026::yusdy::YUSDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

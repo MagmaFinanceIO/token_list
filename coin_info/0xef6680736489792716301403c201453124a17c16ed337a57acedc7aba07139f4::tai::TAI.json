@@ -1,0 +1,13 @@
+{
+  "name": "TRINITY AI AGENT",
+  "symbol": "TAI",
+  "decimals": 9,
+  "coin_type": "0xef6680736489792716301403c201453124a17c16ed337a57acedc7aba07139f4::tai::TAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/87mivE2sLGqKYhGgwVaQUA1VMubGGRgkusjCMFuFpump.png?size=lg&key=a0394e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

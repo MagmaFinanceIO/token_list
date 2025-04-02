@@ -1,0 +1,13 @@
+{
+  "name": "OctofunSui",
+  "symbol": "OctofunSui",
+  "decimals": 9,
+  "coin_type": "0x96f90ad69e6caa8abbfd8f297bd4395d87e1253ab662db4e972c4f26d33415a1::octofunsui::OCTOFUNSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/t5MOGGB.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suirex",
+  "symbol": "SUIREX",
+  "decimals": 6,
+  "coin_type": "0xaf14aa0eff34d85466b95a4e05c305755acf1d8a6bf5d46496823d5056906682::suirex::SUIREX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmdHT3ngjCqfn7wq8n668cnrqkaJ8YFQwt5GAghiQ9STuq",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

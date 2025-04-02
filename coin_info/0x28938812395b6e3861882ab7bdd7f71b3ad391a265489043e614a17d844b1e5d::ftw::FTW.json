@@ -1,0 +1,13 @@
+{
+  "name": "Fart, Trade, Win",
+  "symbol": "FTW",
+  "decimals": 9,
+  "coin_type": "0x28938812395b6e3861882ab7bdd7f71b3ad391a265489043e614a17d844b1e5d::ftw::FTW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Hrt64r1qV44YtG73UnVcwYrKSiksUGuox4b5z9AJpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

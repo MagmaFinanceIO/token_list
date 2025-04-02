@@ -1,0 +1,13 @@
+{
+  "name": "Peoble",
+  "symbol": "PBL",
+  "decimals": 6,
+  "coin_type": "0xf6f3f43581c8b6ce08d542c65a3ee6668f220dfd29871550849036a1ba922859::pbl::PBL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/02_bf46c97d4b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

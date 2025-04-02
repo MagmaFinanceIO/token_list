@@ -1,0 +1,13 @@
+{
+  "name": "Cool Cactui",
+  "symbol": "COOLCACTUI",
+  "decimals": 6,
+  "coin_type": "0xa7651c735f06c5ffe03779f64362e7679763d842b2b0c25c6fbe882114c7d087::coolcactui::COOLCACTUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Cool_Cactui_faf5a7011f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

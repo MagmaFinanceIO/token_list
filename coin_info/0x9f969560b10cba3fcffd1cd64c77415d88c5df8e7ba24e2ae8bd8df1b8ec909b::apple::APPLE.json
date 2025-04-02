@@ -1,0 +1,13 @@
+{
+  "name": "apple",
+  "symbol": "APPLE",
+  "decimals": 6,
+  "coin_type": "0x9f969560b10cba3fcffd1cd64c77415d88c5df8e7ba24e2ae8bd8df1b8ec909b::apple::APPLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000348_e0bf24f591.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

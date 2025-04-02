@@ -1,0 +1,13 @@
+{
+  "name": "SuQuirtle",
+  "symbol": "SUQ",
+  "decimals": 6,
+  "coin_type": "0xe53462d4804d7c4612cdb6ffbc6ae8e20d7f20bd976b8559127c8dbcde04fa51::suq::SUQ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_a66e81b4e4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

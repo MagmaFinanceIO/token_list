@@ -1,0 +1,13 @@
+{
+  "name": "CGAI",
+  "symbol": "CGAI",
+  "decimals": 9,
+  "coin_type": "0x8957029b274f94b7323a945a63c0d7c3293fcc1a4e5a42ba6135adc00958f3df::cgai::CGAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DD8GJwAZHZZsLEtKnxdWfm8JbBhUj1oVwiGigfPUpump.png?size=lg&key=8b6177",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

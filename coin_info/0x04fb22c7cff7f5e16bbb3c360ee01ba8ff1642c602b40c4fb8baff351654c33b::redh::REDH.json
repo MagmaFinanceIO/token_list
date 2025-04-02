@@ -1,0 +1,13 @@
+{
+  "name": "Red Heifer Coin",
+  "symbol": "REDH",
+  "decimals": 8,
+  "coin_type": "0x04fb22c7cff7f5e16bbb3c360ee01ba8ff1642c602b40c4fb8baff351654c33b::redh::REDH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/08d64bdd-d0e5-4040-ac9f-57a4cc163b8e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

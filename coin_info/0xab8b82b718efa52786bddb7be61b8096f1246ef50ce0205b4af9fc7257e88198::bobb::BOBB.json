@@ -1,0 +1,13 @@
+{
+  "name": "BOB IS BACK",
+  "symbol": "BOBB",
+  "decimals": 9,
+  "coin_type": "0xab8b82b718efa52786bddb7be61b8096f1246ef50ce0205b4af9fc7257e88198::bobb::BOBB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/19486664-c8a1-42a0-802e-537a227d666c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

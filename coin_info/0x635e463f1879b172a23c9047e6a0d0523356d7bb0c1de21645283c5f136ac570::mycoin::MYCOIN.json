@@ -1,0 +1,13 @@
+{
+  "name": "SILKROAD",
+  "symbol": "SILKROAD",
+  "decimals": 9,
+  "coin_type": "0x635e463f1879b172a23c9047e6a0d0523356d7bb0c1de21645283c5f136ac570::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

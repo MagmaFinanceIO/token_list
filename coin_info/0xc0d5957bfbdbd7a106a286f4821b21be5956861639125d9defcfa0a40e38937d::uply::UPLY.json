@@ -1,0 +1,13 @@
+{
+  "name": "Only Up",
+  "symbol": "UPLY",
+  "decimals": 6,
+  "coin_type": "0xc0d5957bfbdbd7a106a286f4821b21be5956861639125d9defcfa0a40e38937d::uply::UPLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5520811e-3d78-4510-b552-0ee224a37102.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

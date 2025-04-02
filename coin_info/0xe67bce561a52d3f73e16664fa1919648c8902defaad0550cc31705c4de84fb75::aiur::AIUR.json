@@ -1,0 +1,13 @@
+{
+  "name": "AIUR, the technological drop water.",
+  "symbol": "AIUR",
+  "decimals": 9,
+  "coin_type": "0xe67bce561a52d3f73e16664fa1919648c8902defaad0550cc31705c4de84fb75::aiur::AIUR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/NSGFJMH/Design-sans-titre-8-modified-1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Comedian",
+  "symbol": "Ban",
+  "decimals": 9,
+  "coin_type": "0x99fa908e24688d3ea81d3bec15fae72f652c78809a88ee2fc2b5204c9d20a09f::ban::BAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmfKEGFPjMhtMdc6Nud7yvbPS8tiXfbFu2jGMvSUTejF9V",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

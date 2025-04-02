@@ -1,0 +1,13 @@
+{
+  "name": "Crocky Meme",
+  "symbol": "Crocky",
+  "decimals": 9,
+  "coin_type": "0x75ae79d3713e3c94823ed8c57cc66f8c9b930e313f8d22b02fb9afce160e9767::crocky::CROCKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dcb781bf-58a8-4a8a-9278-25481979ab91.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Bermuda",
+  "symbol": "Bermuda",
+  "decimals": 2,
+  "coin_type": "0xa730bb4104f11da003eec155a5ea2e64a4b7b2f4b415ba25c91504281da6dd89::bermuda::BERMUDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/440e13c6-c2da-40be-9f28-b5bd14f3de12.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

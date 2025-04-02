@@ -1,0 +1,13 @@
+{
+  "name": "DOGAI 2024",
+  "symbol": "DOGAI24",
+  "decimals": 9,
+  "coin_type": "0x176453f5e499514d6895e8bcd0ee0cc8372b7ab27f0dda4ba2420038a0a1b901::dogai24::DOGAI24",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Dogg6xWSgkF8KbsHkTWD3Et4J9a8VBLZjrASURXGiLe1.png?size=lg&key=0a9e4d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

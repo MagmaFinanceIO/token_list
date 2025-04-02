@@ -1,0 +1,13 @@
+{
+  "name": "PEPE",
+  "symbol": "PEPE-THINK",
+  "decimals": 9,
+  "coin_type": "0x7fee499c27b4207c1a04e98197190aab371487656ef52d444e9d07392f1f102a::pepe::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://storage.googleapis.com/raidenx-no-cors/token-icons/pepe-think.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

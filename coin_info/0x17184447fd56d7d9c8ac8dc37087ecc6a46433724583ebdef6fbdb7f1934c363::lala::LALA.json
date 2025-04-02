@@ -1,0 +1,13 @@
+{
+  "name": "LOOPY SUI",
+  "symbol": "LALA",
+  "decimals": 9,
+  "coin_type": "0x17184447fd56d7d9c8ac8dc37087ecc6a46433724583ebdef6fbdb7f1934c363::lala::LALA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://blush-tremendous-canidae-396.mypinata.cloud/ipfs/QmSNRiCLDCZ2RJFvn9mJ7gmWpm45pgNAZeJJ3wYEkaje5F",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

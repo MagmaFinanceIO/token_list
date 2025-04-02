@@ -1,0 +1,13 @@
+{
+  "name": "DOG WIF PANTS",
+  "symbol": "DFP",
+  "decimals": 9,
+  "coin_type": "0x4267d19ac73c09f5707f332227fde797770ccd5f07c35123bf8312c3ef821f24::dfp::DFP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

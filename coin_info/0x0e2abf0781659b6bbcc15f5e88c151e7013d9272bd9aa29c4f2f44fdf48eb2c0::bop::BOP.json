@@ -1,0 +1,13 @@
+{
+  "name": "Book of Pets",
+  "symbol": "BOP",
+  "decimals": 9,
+  "coin_type": "0x0e2abf0781659b6bbcc15f5e88c151e7013d9272bd9aa29c4f2f44fdf48eb2c0::bop::BOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fec17c3c-5a50-4b57-abe6-26a64d9b46c0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

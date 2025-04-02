@@ -1,0 +1,13 @@
+{
+  "name": "Rifampicin",
+  "symbol": "RIF",
+  "decimals": 9,
+  "coin_type": "0x28e0a5c18094b6697473de23ca92a2c0f8a8a800f0fd906fff22f89edf79f09b::rif::RIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmWhxjoSpGKFW3ruyZ3YNVGwW5uooqbccGNpMr82Eeqq8U",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

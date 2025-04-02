@@ -1,0 +1,15 @@
+{
+  "name": "Aptos Coin (Portal from Aptos)",
+  "symbol": "APT",
+  "decimals": 8,
+  "coin_type": "0x3a5143bb1196e3bcdfab6203d1683ae29edd26294fc8bfeafe4aaa9d2704df37::coin::COIN",
+  "pyth_id": "03ae4db29ed4ae33d323568895aa00337e658e348b37509f5372ae51f0af00d5",
+  "birdeyeid": "0x3a5143bb1196e3bcdfab6203d1683ae29edd26294fc8bfeafe4aaa9d2704df37::coin::COIN",
+  "coin_priority": [
+    "590"
+  ],
+  "logo_url": "https://hvyfngb6s6wsyytjzbvqjunzqvwlzjjhfmk4z44yacx7sq7fidxa.arweave.net/PXBWmD6XrSxiachrBNG5hWy8pScrFczzmACv-UPlQO4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

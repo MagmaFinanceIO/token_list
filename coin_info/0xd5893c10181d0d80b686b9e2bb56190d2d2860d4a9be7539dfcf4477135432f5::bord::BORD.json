@@ -1,0 +1,13 @@
+{
+  "name": "BorderCoin",
+  "symbol": "Bord",
+  "decimals": 9,
+  "coin_type": "0xd5893c10181d0d80b686b9e2bb56190d2d2860d4a9be7539dfcf4477135432f5::bord::BORD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://img.freepik.com/premium-photo/funny-portrait-puppy-dog-border-collie-comical-eyeglasses-isolated-white-background_80942-5548.jpg?w=1800",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

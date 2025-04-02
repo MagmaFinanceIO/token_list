@@ -1,0 +1,13 @@
+{
+  "name": "PETER TODD",
+  "symbol": "TODD",
+  "decimals": 9,
+  "coin_type": "0x6ef706f1f374eb45df3461daf0df9e29530d59b3f85f21d0a946dc14d71a9450::todd::TODD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/955f8eb5-1e9f-4679-af30-e706e790d64d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

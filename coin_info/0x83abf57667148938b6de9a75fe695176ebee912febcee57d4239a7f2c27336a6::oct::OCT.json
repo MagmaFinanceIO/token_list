@@ -1,0 +1,13 @@
+{
+  "name": "OneChance",
+  "symbol": "OCT",
+  "decimals": 9,
+  "coin_type": "0x83abf57667148938b6de9a75fe695176ebee912febcee57d4239a7f2c27336a6::oct::OCT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b9ba83fb-0004-4d81-96e0-35a772b91164.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

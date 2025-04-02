@@ -1,0 +1,13 @@
+{
+  "name": "LUNAR",
+  "symbol": "LUNAR",
+  "decimals": 9,
+  "coin_type": "0x3042be2f1d5c3498e754ea966109466ec41a9451eaecde6a45463e9180048b6a::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

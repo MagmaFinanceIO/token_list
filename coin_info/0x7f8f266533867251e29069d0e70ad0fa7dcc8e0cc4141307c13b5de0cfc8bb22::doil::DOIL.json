@@ -1,0 +1,13 @@
+{
+  "name": "Diddy Oil",
+  "symbol": "DOIL",
+  "decimals": 6,
+  "coin_type": "0x7f8f266533867251e29069d0e70ad0fa7dcc8e0cc4141307c13b5de0cfc8bb22::doil::DOIL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/imresizer_1727327163749_9eee0a544b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

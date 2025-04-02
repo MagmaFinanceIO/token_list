@@ -1,0 +1,13 @@
+{
+  "name": "PLOP",
+  "symbol": "PLOP",
+  "decimals": 9,
+  "coin_type": "0x4589ac0af4fd9948584aaeef36064a582c1684c8ca1904c0ea7b8925c414064a::plop::PLOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

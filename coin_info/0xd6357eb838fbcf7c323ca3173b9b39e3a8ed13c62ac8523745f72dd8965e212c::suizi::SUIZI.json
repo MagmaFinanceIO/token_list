@@ -1,0 +1,13 @@
+{
+  "name": "Suizi the owl",
+  "symbol": "SUIZI",
+  "decimals": 6,
+  "coin_type": "0xd6357eb838fbcf7c323ca3173b9b39e3a8ed13c62ac8523745f72dd8965e212c::suizi::SUIZI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/i_M_Jmj9_y_400x400_68b5db2a5e.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

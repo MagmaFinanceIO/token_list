@@ -1,0 +1,13 @@
+{
+  "name": "Tekee Coin",
+  "symbol": "Tekee",
+  "decimals": 9,
+  "coin_type": "0x7d6a92f79994cd84daa5efa6a884bd62f689990f9e1f0728431a2ab19abf408e::tekee::TEKEE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CdiZYq9e7enxaeCRAnmUtPapq8A8499ixHaLNzaspump.png?size=lg&key=e1cbb9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

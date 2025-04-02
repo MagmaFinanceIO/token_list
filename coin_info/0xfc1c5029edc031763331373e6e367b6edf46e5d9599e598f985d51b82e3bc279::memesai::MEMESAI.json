@@ -1,0 +1,13 @@
+{
+  "name": "Memes AI",
+  "symbol": "MemesAI",
+  "decimals": 6,
+  "coin_type": "0xfc1c5029edc031763331373e6e367b6edf46e5d9599e598f985d51b82e3bc279::memesai::MEMESAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/39qibQxVzemuZTEvjSB7NePhw9WyyHdQCqP8xmBMpump.png?size=lg&key=5bb80b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

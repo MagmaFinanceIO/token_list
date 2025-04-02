@@ -1,0 +1,13 @@
+{
+  "name": "I Live In My Car",
+  "symbol": "HOPE",
+  "decimals": 6,
+  "coin_type": "0xa41aced8626bbe8fe32e80f7be85136a6c39a72943c20e4570b6895d2a1517d2::hope::HOPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736432954800.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

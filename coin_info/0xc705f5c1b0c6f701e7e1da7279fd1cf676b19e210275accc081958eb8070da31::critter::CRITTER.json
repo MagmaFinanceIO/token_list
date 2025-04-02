@@ -1,0 +1,13 @@
+{
+  "name": "CritterCharm On TikTok",
+  "symbol": "CRITTER",
+  "decimals": 9,
+  "coin_type": "0xc705f5c1b0c6f701e7e1da7279fd1cf676b19e210275accc081958eb8070da31::critter::CRITTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmWGhzP5yB3hieyfcrUzm9AFXAKAaKP5asj7TUCDpA73ze?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

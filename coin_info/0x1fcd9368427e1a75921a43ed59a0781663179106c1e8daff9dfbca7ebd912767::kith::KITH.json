@@ -1,0 +1,13 @@
+{
+  "name": "Justice for Kith",
+  "symbol": "KITH",
+  "decimals": 9,
+  "coin_type": "0x1fcd9368427e1a75921a43ed59a0781663179106c1e8daff9dfbca7ebd912767::kith::KITH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B5hfPmp6yziYuLw7VbeZ5mge359H3Y8KhqyjN9M4pump.png?size=lg&key=d03d7f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

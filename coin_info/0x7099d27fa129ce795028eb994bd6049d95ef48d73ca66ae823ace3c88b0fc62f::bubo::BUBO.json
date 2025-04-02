@@ -1,0 +1,13 @@
+{
+  "name": "Bubo",
+  "symbol": "BUBO",
+  "decimals": 6,
+  "coin_type": "0x7099d27fa129ce795028eb994bd6049d95ef48d73ca66ae823ace3c88b0fc62f::bubo::BUBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/BUBO_3672cbdeb2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

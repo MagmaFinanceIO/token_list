@@ -1,0 +1,13 @@
+{
+  "name": "oppppo",
+  "symbol": "OPPPPO",
+  "decimals": 6,
+  "coin_type": "0x750ec74168799a4235fe33b8ea3cb9c7868d0c37ef4713552ef21b80f0d3d791::oppppo::OPPPPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FilterAI",
+  "symbol": "FILTER",
+  "decimals": 6,
+  "coin_type": "0x0a5293312c77c9d02fbf620474d89d86c836f837d801d3ec563f6fa1a4e72614::filter::FILTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3d6c371e-5c15-4a96-84fd-3476dafe62ba.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

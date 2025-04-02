@@ -1,0 +1,13 @@
+{
+  "name": "Mizuno AI",
+  "symbol": "Mizuno",
+  "decimals": 9,
+  "coin_type": "0x22221759180a354436398b04f9ffe74924a6964cc69f78067499e0c318a79de2::mizuno::MIZUNO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3GieH98yKhPRqv9o5FZcddDrN661bk6vWiVmAWm9pump.png?size=lg&key=83602a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

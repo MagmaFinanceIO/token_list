@@ -1,0 +1,13 @@
+{
+  "name": "Alex Becker Meme",
+  "symbol": "ZSSUI",
+  "decimals": 6,
+  "coin_type": "0x069cad5aefc3e0732f1c17c20dd4614b12cd14cc9d037e84386bf1e096daa77c::zssui::ZSSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/20240428_232018_e465d6ca73.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

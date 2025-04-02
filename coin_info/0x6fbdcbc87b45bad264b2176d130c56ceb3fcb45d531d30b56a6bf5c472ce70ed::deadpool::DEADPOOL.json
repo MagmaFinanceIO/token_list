@@ -1,0 +1,13 @@
+{
+  "name": "DEADPOOL X",
+  "symbol": "DEADPOOL",
+  "decimals": 6,
+  "coin_type": "0x6fbdcbc87b45bad264b2176d130c56ceb3fcb45d531d30b56a6bf5c472ce70ed::deadpool::DEADPOOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7299_fdaf05296b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ARTIST by SuiAI",
+  "symbol": "ARTIST",
+  "decimals": 6,
+  "coin_type": "0x8be135f90654c11491297b4c7e725f3561565f783dcbea21a3e5ad8dc2b9c58e::artist::ARTIST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/download_3e7c5c6d1b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

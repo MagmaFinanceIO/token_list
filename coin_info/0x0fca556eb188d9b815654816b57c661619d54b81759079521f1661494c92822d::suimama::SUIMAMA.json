@@ -1,0 +1,13 @@
+{
+  "name": "Sui-Mama",
+  "symbol": "SUIMAMA",
+  "decimals": 9,
+  "coin_type": "0x0fca556eb188d9b815654816b57c661619d54b81759079521f1661494c92822d::suimama::SUIMAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e9c2f110-8625-4ea4-a6a8-3536f0a84790.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Andy Pepe Trump",
+  "symbol": "APTRUMP",
+  "decimals": 9,
+  "coin_type": "0x59c4878d11030b9b19af6e5a7a8f7c7cc69ea93cd2846449e281ed44396e4f55::aptrump::APTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e5777fde-a227-4665-85e3-5e730fc12ca7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

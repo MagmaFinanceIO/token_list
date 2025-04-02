@@ -1,0 +1,13 @@
+{
+  "name": "SUIHUI",
+  "symbol": "SUIHUI",
+  "decimals": 6,
+  "coin_type": "0xfe9c4da07b85ddc57a55e24bc6f27bf745c08164abe1fd8cf7633701d4145515::suihui::SUIHUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qmc7VRGYen2ZET1Vi1gf5punGbL2EQCH7vzYvwSiFcvKhn",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

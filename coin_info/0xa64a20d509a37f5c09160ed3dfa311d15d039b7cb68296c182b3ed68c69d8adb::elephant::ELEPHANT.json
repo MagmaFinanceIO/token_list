@@ -1,0 +1,13 @@
+{
+  "name": "Blue Elephant",
+  "symbol": "ELEPHANT",
+  "decimals": 9,
+  "coin_type": "0xa64a20d509a37f5c09160ed3dfa311d15d039b7cb68296c182b3ed68c69d8adb::elephant::ELEPHANT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGs3EJZNgGJlPzHMqQGwNYlkNTJ2sUmyTxSA&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

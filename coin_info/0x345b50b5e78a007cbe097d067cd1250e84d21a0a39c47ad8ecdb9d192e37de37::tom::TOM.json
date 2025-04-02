@@ -1,0 +1,13 @@
+{
+  "name": "Tom Sui Cat",
+  "symbol": "Tom",
+  "decimals": 9,
+  "coin_type": "0x345b50b5e78a007cbe097d067cd1250e84d21a0a39c47ad8ecdb9d192e37de37::tom::TOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e1a28d90-5374-4559-bac6-2fd3c6ec2458.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

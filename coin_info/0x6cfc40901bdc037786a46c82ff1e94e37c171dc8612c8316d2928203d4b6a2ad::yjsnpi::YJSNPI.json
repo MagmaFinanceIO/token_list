@@ -1,0 +1,13 @@
+{
+  "name": "Yaju SUInpai",
+  "symbol": "yjsnpi",
+  "decimals": 9,
+  "coin_type": "0x6cfc40901bdc037786a46c82ff1e94e37c171dc8612c8316d2928203d4b6a2ad::yjsnpi::YJSNPI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0beed73f-59c9-4b34-bd89-27a8c6f145e0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

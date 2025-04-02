@@ -1,0 +1,13 @@
+{
+  "name": "Kukicoin",
+  "symbol": "KUKI",
+  "decimals": 9,
+  "coin_type": "0xc560ed36a881cc38220ad1e326aa01eb2347526b550b9949efcdf4b9453df865::kuki::KUKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c452f63a-7db5-4873-9189-53f86f589460.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

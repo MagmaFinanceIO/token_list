@@ -1,0 +1,13 @@
+{
+  "name": "wuf",
+  "symbol": "Wuf",
+  "decimals": 9,
+  "coin_type": "0x14ad8869acc74e16c3f5a986f031b30dddf3cda38bc7b8ed5ddd3cda000b241b::wuf::WUF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0x883afca4b56fae95817b16ccda40d0d22025ae3f0ef8c5d450d9c0a6ea41f29e::wuf::wuf.png?size=xl&key=4e7ba7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Fifi",
+  "symbol": "Fifi",
+  "decimals": 9,
+  "coin_type": "0x7147da5cc65d99f208871270ec30cd4ad09b5092db0f78e24d2318df0482cd67::fifi::FIFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4NSUgAE716fdf85XtHgB9TeZWKfGGryDpPnXQ7ixpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

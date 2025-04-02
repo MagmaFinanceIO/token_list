@@ -1,0 +1,13 @@
+{
+  "name": "NUT NUT",
+  "symbol": "NUT",
+  "decimals": 9,
+  "coin_type": "0x05613495a3c01ef8e1f0d7b9ab8a0c92e75c9b0833e91455dd8fa3ad91ca0f80::nut::NUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreifbs4dcpkseagu5vvjpztxjzx7m3sxk7zfcc5qpr4miwt3ogdeh3i.ipfs.w3s.link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

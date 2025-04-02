@@ -1,0 +1,13 @@
+{
+  "name": "Dynamic 11 by SuiAI",
+  "symbol": "DYNAMIC",
+  "decimals": 6,
+  "coin_type": "0xc9ef5f91a6c815fac7cbcab6e677a862218cbd11437ef76cd7904c5f29adff05::dynamic::DYNAMIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/112_7b72751bc7.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

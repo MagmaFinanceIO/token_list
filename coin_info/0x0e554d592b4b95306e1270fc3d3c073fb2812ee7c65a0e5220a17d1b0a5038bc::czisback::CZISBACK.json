@@ -1,0 +1,13 @@
+{
+  "name": "CZ is back",
+  "symbol": "CZISBACK",
+  "decimals": 9,
+  "coin_type": "0x0e554d592b4b95306e1270fc3d3c073fb2812ee7c65a0e5220a17d1b0a5038bc::czisback::CZISBACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dd023028-5dc3-4311-8206-f8196080cf20.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

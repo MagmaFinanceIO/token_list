@@ -1,0 +1,13 @@
+{
+  "name": "THETA AI",
+  "symbol": "THETA",
+  "decimals": 6,
+  "coin_type": "0x10b44b11766db06d60216ec65163c4172a528e03812d2375e797e24b46abfed6::theta::THETA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bc3505c8-c519-4c33-8a8d-1bb90711594f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

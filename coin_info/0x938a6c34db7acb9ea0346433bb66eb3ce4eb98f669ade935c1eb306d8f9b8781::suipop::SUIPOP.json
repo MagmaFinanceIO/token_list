@@ -1,0 +1,13 @@
+{
+  "name": "SUIPOP",
+  "symbol": "POP",
+  "decimals": 9,
+  "coin_type": "0x938a6c34db7acb9ea0346433bb66eb3ce4eb98f669ade935c1eb306d8f9b8781::suipop::SUIPOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://d3hnfqimznafg0.cloudfront.net/image-handler/ts/20200218065624/ri/950/src/images/Article_Images/ImageForArticle_227_15820269818147731.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

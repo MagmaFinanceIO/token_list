@@ -1,0 +1,13 @@
+{
+  "name": "AMERICA GREAT",
+  "symbol": "AMERICA",
+  "decimals": 6,
+  "coin_type": "0x320f328109234b0ed4a6466bb6ac5bc6a53b1ae3661ab9dc634431cfb0f89bf3::america::AMERICA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SELLO_7d02c33ef8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

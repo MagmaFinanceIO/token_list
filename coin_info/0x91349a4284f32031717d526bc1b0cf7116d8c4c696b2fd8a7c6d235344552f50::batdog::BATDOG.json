@@ -1,0 +1,13 @@
+{
+  "name": "BATMAN D.O.G.E SUI",
+  "symbol": "BATDOG",
+  "decimals": 9,
+  "coin_type": "0x91349a4284f32031717d526bc1b0cf7116d8c4c696b2fd8a7c6d235344552f50::batdog::BATDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2402ed77-a0f1-43f9-8272-3d54821c00f5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Kraken",
+  "symbol": "Kraken",
+  "decimals": 9,
+  "coin_type": "0xd52ceac4d6338912ef2a3ccbceb7345723d1fbf77bf5b26a358a1f614b6b1ad3::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

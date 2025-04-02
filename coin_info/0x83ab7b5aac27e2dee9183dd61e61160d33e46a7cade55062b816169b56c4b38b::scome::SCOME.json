@@ -1,0 +1,13 @@
+{
+  "name": "Sui Call Of Meme",
+  "symbol": "SCOME",
+  "decimals": 6,
+  "coin_type": "0x83ab7b5aac27e2dee9183dd61e61160d33e46a7cade55062b816169b56c4b38b::scome::SCOME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/np_VH_Ezx_E_400x400_4cf3a4e701.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

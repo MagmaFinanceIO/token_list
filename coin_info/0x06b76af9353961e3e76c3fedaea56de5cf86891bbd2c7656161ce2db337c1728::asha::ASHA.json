@@ -1,0 +1,13 @@
+{
+  "name": "Asha on SUI",
+  "symbol": "Asha",
+  "decimals": 9,
+  "coin_type": "0x06b76af9353961e3e76c3fedaea56de5cf86891bbd2c7656161ce2db337c1728::asha::ASHA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQMTRQM2Uwy5rQbnFctcQ9YcJmBSqU296SSdkXPVV7Z2c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

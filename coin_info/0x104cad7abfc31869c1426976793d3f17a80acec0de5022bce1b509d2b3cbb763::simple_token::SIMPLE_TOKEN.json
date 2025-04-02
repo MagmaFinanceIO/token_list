@@ -1,0 +1,13 @@
+{
+  "name": "KEKT",
+  "symbol": "KEKT",
+  "decimals": 9,
+  "coin_type": "0x104cad7abfc31869c1426976793d3f17a80acec0de5022bce1b509d2b3cbb763::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

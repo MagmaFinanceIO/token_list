@@ -1,0 +1,13 @@
+{
+  "name": "Suzy Seahorse",
+  "symbol": "SUZY",
+  "decimals": 6,
+  "coin_type": "0x8786d162fa5e0c35c7e91128c46c76d3c5f17bfdd56ce1f07d9d0eec09dac6ee::suzy::SUZY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/11_8c4e1f6df4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

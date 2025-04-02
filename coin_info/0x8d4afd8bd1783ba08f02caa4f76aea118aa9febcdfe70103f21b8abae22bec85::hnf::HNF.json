@@ -1,0 +1,13 @@
+{
+  "name": "HopNOTfun",
+  "symbol": "$HNF",
+  "decimals": 6,
+  "coin_type": "0x8d4afd8bd1783ba08f02caa4f76aea118aa9febcdfe70103f21b8abae22bec85::hnf::HNF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmTiNDjZ4hd1uJchrb48jEDqaZDiRNFpbfzKL3seP3so4K",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

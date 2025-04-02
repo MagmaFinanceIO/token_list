@@ -1,0 +1,13 @@
+{
+  "name": "BUBBLES DOG",
+  "symbol": "BUBE",
+  "decimals": 9,
+  "coin_type": "0xaf02d23369f3d7f6f43d16cc499f3987309948cf1d2907fd9463860788441715::bube::BUBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/77539977-f78c-4c82-aaaf-62aa5720fba2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

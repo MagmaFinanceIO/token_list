@@ -1,0 +1,13 @@
+{
+  "name": "toother",
+  "symbol": "USDTt",
+  "decimals": 8,
+  "coin_type": "0xc16ee841bfbd0f8e0702fa90707bf97aae4c6b353a2ea010ccc3d39f50db393d::usdtt::USDTT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9630d556-7d7f-494c-8d98-f59ae609e479.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

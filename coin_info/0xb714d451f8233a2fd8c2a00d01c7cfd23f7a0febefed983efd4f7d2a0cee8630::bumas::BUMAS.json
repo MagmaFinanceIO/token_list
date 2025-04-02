@@ -1,0 +1,13 @@
+{
+  "name": "Bumas the Spirit",
+  "symbol": "BUMAS",
+  "decimals": 9,
+  "coin_type": "0xb714d451f8233a2fd8c2a00d01c7cfd23f7a0febefed983efd4f7d2a0cee8630::bumas::BUMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9yvpQZfqM91VJG8T1DQFctrAgDkoKUsEMtzRWwRpump.png?size=lg&key=db1ea1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

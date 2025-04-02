@@ -1,0 +1,13 @@
+{
+  "name": "Suizy on Sui",
+  "symbol": "Suizy",
+  "decimals": 6,
+  "coin_type": "0xdfb12742ec0b8dcb699bc5be0a52df0e22af3cb14e2eb2096b480f24809df92d::suizy::SUIZY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suizy_Sui_89a6ceefb1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

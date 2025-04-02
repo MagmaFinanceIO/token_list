@@ -1,0 +1,13 @@
+{
+  "name": "CREDSYNC  by SuiAI",
+  "symbol": "CRED",
+  "decimals": 6,
+  "coin_type": "0x662fc1fd0617a05cd18249d434fe69321c5c27a8076b7bdc223a9b4c09387e71::cred::CRED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1001196345_1632d9c5b1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

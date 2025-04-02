@@ -1,0 +1,13 @@
+{
+  "name": "Wrapped Doge",
+  "symbol": "WDOGE",
+  "decimals": 9,
+  "coin_type": "0x458d522cfee9c53a8308f2627b4a1fd93192de5f378a40352a51c1b1a4c864b2::wdoge::WDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AEDjNE81Ume4KE46UdqFeMAHwPw9rkrPf79s9k61xAUQ.png?size=lg&key=798d7b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

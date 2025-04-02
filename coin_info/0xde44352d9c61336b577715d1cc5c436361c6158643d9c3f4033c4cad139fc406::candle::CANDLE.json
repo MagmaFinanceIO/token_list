@@ -1,0 +1,13 @@
+{
+  "name": "Candlesui Cat",
+  "symbol": "CANDLE",
+  "decimals": 6,
+  "coin_type": "0xde44352d9c61336b577715d1cc5c436361c6158643d9c3f4033c4cad139fc406::candle::CANDLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/4_PQL_r_Zk_400x400_be535abca9.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

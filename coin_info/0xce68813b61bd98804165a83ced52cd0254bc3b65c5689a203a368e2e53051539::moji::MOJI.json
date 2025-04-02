@@ -1,0 +1,13 @@
+{
+  "name": "Emoji Agent On Sui",
+  "symbol": "MOJI",
+  "decimals": 9,
+  "coin_type": "0xce68813b61bd98804165a83ced52cd0254bc3b65c5689a203a368e2e53051539::moji::MOJI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/99342550-c035-4af1-95bd-e86200c4cfcb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

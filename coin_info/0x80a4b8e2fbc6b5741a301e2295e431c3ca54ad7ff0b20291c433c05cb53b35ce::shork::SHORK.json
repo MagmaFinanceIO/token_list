@@ -1,0 +1,13 @@
+{
+  "name": "Shork",
+  "symbol": "SHORK",
+  "decimals": 6,
+  "coin_type": "0x80a4b8e2fbc6b5741a301e2295e431c3ca54ad7ff0b20291c433c05cb53b35ce::shork::SHORK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731369287970.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

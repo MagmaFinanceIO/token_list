@@ -1,0 +1,13 @@
+{
+  "name": "MEG SUI",
+  "symbol": "MEGSUI",
+  "decimals": 9,
+  "coin_type": "0xb52e1d905ccf29522b659894be9b7a5f0fb66b17f4e44ab36bd26522af2ef6d4::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

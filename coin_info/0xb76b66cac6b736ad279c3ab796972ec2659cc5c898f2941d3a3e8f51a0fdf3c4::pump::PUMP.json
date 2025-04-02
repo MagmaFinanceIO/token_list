@@ -1,0 +1,13 @@
+{
+  "name": "Meme szn",
+  "symbol": "Pump",
+  "decimals": 9,
+  "coin_type": "0xb76b66cac6b736ad279c3ab796972ec2659cc5c898f2941d3a3e8f51a0fdf3c4::pump::PUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmToJreSBuyWW1g6SaKvAfgUjv18VyxPhmgobUq1Y7fx1o",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Unicorn And Mermaid",
+  "symbol": "UAM",
+  "decimals": 9,
+  "coin_type": "0x6d5a52f35a0e0dcf7e188da733425ed2169fcb6c7dadb3238866de6474d327c5::uam::UAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmfUQrAHsaMiejFHswo7v5Nk8PRayL12M1vrCUscWvW98i",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

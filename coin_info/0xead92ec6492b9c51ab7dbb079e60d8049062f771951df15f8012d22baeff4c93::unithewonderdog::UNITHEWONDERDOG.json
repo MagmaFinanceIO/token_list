@@ -1,0 +1,13 @@
+{
+  "name": "uni",
+  "symbol": "uni the wonder dog",
+  "decimals": 9,
+  "coin_type": "0xead92ec6492b9c51ab7dbb079e60d8049062f771951df15f8012d22baeff4c93::unithewonderdog::UNITHEWONDERDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/SIJpoBb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

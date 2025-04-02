@@ -1,0 +1,13 @@
+{
+  "name": "PIEW PIEW",
+  "symbol": "PiewCoin",
+  "decimals": 9,
+  "coin_type": "0x3b25d095b45ffb173bd5b8041df3a5d864a8122620afdff6668bebe5ed1c6fd9::piewcoin::PIEWCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9165d712-1e8d-4da4-b504-80be6449fccf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

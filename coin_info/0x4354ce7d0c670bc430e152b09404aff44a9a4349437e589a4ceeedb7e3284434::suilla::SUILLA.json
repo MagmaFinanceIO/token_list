@@ -1,0 +1,13 @@
+{
+  "name": "SUILLA SUI",
+  "symbol": "SUILLA",
+  "decimals": 6,
+  "coin_type": "0x4354ce7d0c670bc430e152b09404aff44a9a4349437e589a4ceeedb7e3284434::suilla::SUILLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1734869287_681624_ABA_17_E00_D4_E4_464_F_AC_37_711447953078_b8958a6620.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

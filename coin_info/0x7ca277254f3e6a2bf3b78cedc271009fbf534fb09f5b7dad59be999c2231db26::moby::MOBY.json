@@ -1,0 +1,13 @@
+{
+  "name": "MOBY",
+  "symbol": "MOBY",
+  "decimals": 9,
+  "coin_type": "0x7ca277254f3e6a2bf3b78cedc271009fbf534fb09f5b7dad59be999c2231db26::moby::MOBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qmdkd7BseX4di7mWYks2KshMmnq6iJFPh1pZbqivBS5kGV",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

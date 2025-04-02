@@ -1,0 +1,13 @@
+{
+  "name": "SWARM ON SUI",
+  "symbol": "SSWARM",
+  "decimals": 6,
+  "coin_type": "0x1b99c6c2a6aef5c58b1ebe7a93d39b0c19c1c2cbfd9757cb710b627901abfbc4::sswarm::SSWARM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000005582_9c68244289.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

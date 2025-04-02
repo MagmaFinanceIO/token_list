@@ -1,0 +1,13 @@
+{
+  "name": "Jarvis_Token",
+  "symbol": "JVT",
+  "decimals": 4,
+  "coin_type": "0xe7b1a240572ed91d7df215e7039394122b4b451fd651326c1e7dd22a9ee419f7::jvt::JVT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d7c0b119-5fd1-4ea3-b364-6977cc3bca5c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

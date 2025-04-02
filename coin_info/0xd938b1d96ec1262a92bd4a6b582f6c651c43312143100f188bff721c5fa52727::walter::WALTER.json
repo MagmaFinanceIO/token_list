@@ -1,0 +1,13 @@
+{
+  "name": "GoPro Dog",
+  "symbol": "WALTER",
+  "decimals": 9,
+  "coin_type": "0xd938b1d96ec1262a92bd4a6b582f6c651c43312143100f188bff721c5fa52727::walter::WALTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmTqQtCismoMLu1YdLXhm6igYgUzCUwbMnqn5HvZzFqCFo?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

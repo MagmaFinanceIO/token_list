@@ -1,0 +1,13 @@
+{
+  "name": "SuperHippo",
+  "symbol": "SUPERHIPPO",
+  "decimals": 6,
+  "coin_type": "0xe459619d8077f8e66d6a5220d49b837ecf07b2efe13c50cd7c8c0d1c826fc979::superhippo::SUPERHIPPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/325_70a85d1ed4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

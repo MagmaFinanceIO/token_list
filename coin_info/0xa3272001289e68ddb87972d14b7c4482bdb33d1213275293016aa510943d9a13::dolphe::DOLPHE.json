@@ -1,0 +1,13 @@
+{
+  "name": "Dolphe",
+  "symbol": "DOLPHE",
+  "decimals": 9,
+  "coin_type": "0xa3272001289e68ddb87972d14b7c4482bdb33d1213275293016aa510943d9a13::dolphe::DOLPHE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/QmXb3X3d9GkpVUF4YtqudVZeSsPuqt5hvADomJXioeeLAH",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

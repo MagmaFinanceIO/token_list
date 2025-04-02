@@ -1,0 +1,13 @@
+{
+  "name": "Jaws - The Famous Shark on SUI",
+  "symbol": "JAWS",
+  "decimals": 6,
+  "coin_type": "0x686fcbc515f2363e29e9101704fe95e0f14eed90621bd9decf09210accf49d77::jaws::JAWS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_13_21_52_36_0ed638ced3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

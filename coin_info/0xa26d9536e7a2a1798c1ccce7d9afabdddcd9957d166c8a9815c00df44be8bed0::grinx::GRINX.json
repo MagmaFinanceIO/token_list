@@ -1,0 +1,13 @@
+{
+  "name": "Grinx the Guy",
+  "symbol": "GRINX",
+  "decimals": 9,
+  "coin_type": "0xa26d9536e7a2a1798c1ccce7d9afabdddcd9957d166c8a9815c00df44be8bed0::grinx::GRINX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ao2YzbtCCh9a4JFShK87P3cMkdGbePX9faMKhGhpump.png?size=lg&key=ca4b63",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

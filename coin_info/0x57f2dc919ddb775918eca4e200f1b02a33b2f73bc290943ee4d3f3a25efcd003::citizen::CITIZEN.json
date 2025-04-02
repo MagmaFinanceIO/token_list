@@ -1,0 +1,13 @@
+{
+  "name": "Sui Citizen",
+  "symbol": "Citizen",
+  "decimals": 9,
+  "coin_type": "0x57f2dc919ddb775918eca4e200f1b02a33b2f73bc290943ee4d3f3a25efcd003::citizen::CITIZEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c6ab12f2-783f-411c-a8bc-56779d3e6bf4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

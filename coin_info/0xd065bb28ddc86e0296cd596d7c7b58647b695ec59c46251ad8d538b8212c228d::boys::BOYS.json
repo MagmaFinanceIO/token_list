@@ -1,0 +1,13 @@
+{
+  "name": "Baby Boys Club",
+  "symbol": "BOYS",
+  "decimals": 6,
+  "coin_type": "0xd065bb28ddc86e0296cd596d7c7b58647b695ec59c46251ad8d538b8212c228d::boys::BOYS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_boyclub_57fee6b695.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

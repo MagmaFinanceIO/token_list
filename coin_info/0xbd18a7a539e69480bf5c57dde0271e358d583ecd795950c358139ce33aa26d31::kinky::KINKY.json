@@ -1,0 +1,13 @@
+{
+  "name": "Baby Kinkajou",
+  "symbol": "KINKY",
+  "decimals": 6,
+  "coin_type": "0xbd18a7a539e69480bf5c57dde0271e358d583ecd795950c358139ce33aa26d31::kinky::KINKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5865_06fe8ba73c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

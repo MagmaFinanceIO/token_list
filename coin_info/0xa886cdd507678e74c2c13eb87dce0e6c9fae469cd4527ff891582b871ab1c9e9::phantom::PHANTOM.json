@@ -1,0 +1,13 @@
+{
+  "name": "PhantomAi",
+  "symbol": "PHANTOM",
+  "decimals": 6,
+  "coin_type": "0xa886cdd507678e74c2c13eb87dce0e6c9fae469cd4527ff891582b871ab1c9e9::phantom::PHANTOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b0f4c9e1-ce7d-44c4-b98d-c1639b70f7e8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

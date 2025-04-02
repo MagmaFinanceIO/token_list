@@ -1,0 +1,13 @@
+{
+  "name": "GANGS",
+  "symbol": "Sui Gangs",
+  "decimals": 9,
+  "coin_type": "0xa3213bc4b5f78184dd5371d199a3e5036359986bc1e0c144c98a066c2316f6db::gangs::GANGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1842278492400168960/Hi7oRLMh_400x400.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

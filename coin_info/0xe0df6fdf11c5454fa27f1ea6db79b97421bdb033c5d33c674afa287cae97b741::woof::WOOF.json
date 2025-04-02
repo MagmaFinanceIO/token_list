@@ -1,0 +1,13 @@
+{
+  "name": "Dog in a cats world",
+  "symbol": "WOOF",
+  "decimals": 9,
+  "coin_type": "0xe0df6fdf11c5454fa27f1ea6db79b97421bdb033c5d33c674afa287cae97b741::woof::WOOF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x8888a8b22bd3cb00b407e28f3f29e6e7a0050388.png?size=lg&key=69e5e6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

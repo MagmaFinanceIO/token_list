@@ -1,0 +1,13 @@
+{
+  "name": "TA",
+  "symbol": "TA",
+  "decimals": 9,
+  "coin_type": "0xb938bade5bd4fea6f8b7aa58ec8ab34947dcffe2424c45fca8c117d5b2b2d690::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

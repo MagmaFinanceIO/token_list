@@ -1,0 +1,13 @@
+{
+  "name": "Testdryve 4",
+  "symbol": "Test",
+  "decimals": 9,
+  "coin_type": "0x69c020fc4dcb887db20b20d228482de967ca7b86c44998af37369eb2af979461::test::TEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

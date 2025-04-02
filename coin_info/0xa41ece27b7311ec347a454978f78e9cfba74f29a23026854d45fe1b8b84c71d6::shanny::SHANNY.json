@@ -1,0 +1,13 @@
+{
+  "name": "Shanny The Sheep",
+  "symbol": "SHANNY",
+  "decimals": 6,
+  "coin_type": "0xa41ece27b7311ec347a454978f78e9cfba74f29a23026854d45fe1b8b84c71d6::shanny::SHANNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000020692_dd5beb6f89.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

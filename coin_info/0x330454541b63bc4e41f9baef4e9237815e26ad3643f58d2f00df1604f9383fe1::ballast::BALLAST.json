@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "symbol": "BALLAST",
+  "decimals": 2,
+  "coin_type": "0x330454541b63bc4e41f9baef4e9237815e26ad3643f58d2f00df1604f9383fe1::ballast::BALLAST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Eliza by SuiAI",
+  "symbol": "ELIZA",
+  "decimals": 6,
+  "coin_type": "0xe7ee143e0e8bc37c1965035c1598a1a6e2632e9599318db4a2e0d70a9756c1fc::eliza::ELIZA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_2097_86a6502e35.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

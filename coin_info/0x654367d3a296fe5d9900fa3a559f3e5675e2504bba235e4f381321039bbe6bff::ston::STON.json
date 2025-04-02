@@ -1,0 +1,13 @@
+{
+  "name": "SUITON",
+  "symbol": "STON",
+  "decimals": 6,
+  "coin_type": "0x654367d3a296fe5d9900fa3a559f3e5675e2504bba235e4f381321039bbe6bff::ston::STON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suitonn_22a4788108.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

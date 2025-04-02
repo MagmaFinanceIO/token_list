@@ -1,0 +1,13 @@
+{
+  "name": "SeqCore AI",
+  "symbol": "SEQ",
+  "decimals": 9,
+  "coin_type": "0xa7f2f807b96e0248321119e5e27dcd5f77ee26306d8d460d6c4a1d570cf44f4a::seq::SEQ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQ1zMyP6akvNDMtB5x5RygUhPE824cCVkoZbwSKWSvkw5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

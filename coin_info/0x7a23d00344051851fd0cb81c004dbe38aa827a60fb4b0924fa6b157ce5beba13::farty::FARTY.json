@@ -1,0 +1,13 @@
+{
+  "name": "Let's Farty",
+  "symbol": "FARTY",
+  "decimals": 9,
+  "coin_type": "0x7a23d00344051851fd0cb81c004dbe38aa827a60fb4b0924fa6b157ce5beba13::farty::FARTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/37TayWoNTsnR1pnmPLtgK49Wwonp45D8po6DuqCcuyeX.png?size=lg&key=1cc23b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

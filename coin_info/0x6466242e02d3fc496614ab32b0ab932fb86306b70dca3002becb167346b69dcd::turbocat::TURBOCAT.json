@@ -1,0 +1,13 @@
+{
+  "name": "TURBO CAT",
+  "symbol": "TURBOCAT",
+  "decimals": 6,
+  "coin_type": "0x6466242e02d3fc496614ab32b0ab932fb86306b70dca3002becb167346b69dcd::turbocat::TURBOCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731001211519.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

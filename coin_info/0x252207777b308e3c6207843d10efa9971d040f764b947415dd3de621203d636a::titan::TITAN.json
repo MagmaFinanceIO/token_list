@@ -1,0 +1,13 @@
+{
+  "name": "TITAN",
+  "symbol": "TITAN",
+  "decimals": 9,
+  "coin_type": "0x252207777b308e3c6207843d10efa9971d040f764b947415dd3de621203d636a::titan::TITAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5CdNe5hU5jiuGzRDSy38kUC72fhNXx3qRk65QmPiSPWq.png?size=lg&key=4d530b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

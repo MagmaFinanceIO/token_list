@@ -1,0 +1,13 @@
+{
+  "name": "Moontober 🌚",
+  "symbol": "MOONTOBER",
+  "decimals": 9,
+  "coin_type": "0x010f0a70d8c0049b89052d5cc8e037e8ff3ae4a1a03a436cf4f4153f7fade914::moontober::MOONTOBER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f2cee878-ca1e-45e8-9a1f-6360aa8ae5a6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

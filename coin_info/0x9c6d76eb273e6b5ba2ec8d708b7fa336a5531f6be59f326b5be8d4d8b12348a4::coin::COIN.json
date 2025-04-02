@@ -1,0 +1,15 @@
+{
+  "name": "Pyth Network",
+  "symbol": "PYTH",
+  "decimals": 6,
+  "coin_type": "0x9c6d76eb273e6b5ba2ec8d708b7fa336a5531f6be59f326b5be8d4d8b12348a4::coin::COIN",
+  "pyth_id": "0bbf28e9a841a1cc788f6a361b17ca072d0ea3098a1e5df1c3922d06719579ff",
+  "birdeyeid": "0x9c6d76eb273e6b5ba2ec8d708b7fa336a5531f6be59f326b5be8d4d8b12348a4::coin::COIN",
+  "coin_priority": [
+    "810"
+  ],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/pyth.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

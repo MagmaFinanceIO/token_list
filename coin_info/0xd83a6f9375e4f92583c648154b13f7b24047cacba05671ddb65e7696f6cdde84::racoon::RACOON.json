@@ -1,0 +1,13 @@
+{
+  "name": "Wet Racoon",
+  "symbol": "Racoon",
+  "decimals": 9,
+  "coin_type": "0xd83a6f9375e4f92583c648154b13f7b24047cacba05671ddb65e7696f6cdde84::racoon::RACOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8142f5f5-859c-43ef-9d75-2125f2ec114a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

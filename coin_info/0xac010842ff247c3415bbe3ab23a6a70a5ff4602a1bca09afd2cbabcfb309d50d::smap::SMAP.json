@@ -1,0 +1,13 @@
+{
+  "name": "Sui Meme After Party",
+  "symbol": "SMAP",
+  "decimals": 6,
+  "coin_type": "0xac010842ff247c3415bbe3ab23a6a70a5ff4602a1bca09afd2cbabcfb309d50d::smap::SMAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736609046768.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

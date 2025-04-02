@@ -1,0 +1,13 @@
+{
+  "name": "DogKing",
+  "symbol": "DOGKING",
+  "decimals": 9,
+  "coin_type": "0x30e7d9e345939f0a281cba82bb254b4aa7bf391131ad51458167843f6c5ec365::dogking::DOGKING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bc2d051c-d471-4613-9074-b7bc6c69ddd3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

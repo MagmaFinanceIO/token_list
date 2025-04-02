@@ -1,0 +1,13 @@
+{
+  "name": "Just a chill mother",
+  "symbol": "CHILLMOM",
+  "decimals": 9,
+  "coin_type": "0x67c43d8e046d9131cedf2cf3bba0091f8fbc26fafcbf00ddd2a229ee60d70dfa::chillmom::CHILLMOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/76U3qC1y3FyaMsxzxp4mUqaYxf2rxSNFwzGMrTuByAoi.png?size=lg&key=ef718a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

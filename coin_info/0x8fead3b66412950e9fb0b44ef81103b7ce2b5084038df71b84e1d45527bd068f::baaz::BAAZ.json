@@ -1,0 +1,13 @@
+{
+  "name": "BAAZ",
+  "symbol": "BAAZ",
+  "decimals": 6,
+  "coin_type": "0x8fead3b66412950e9fb0b44ef81103b7ce2b5084038df71b84e1d45527bd068f::baaz::BAAZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmXkSswvrnYpyCiyjsQYok9bydFSuVz32GXWpeJV4x3ywF",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Genesis",
+  "symbol": "SGEN",
+  "decimals": 6,
+  "coin_type": "0x30451c9c42d61faba8c1c3a7c3fb9f6cd01ffa0b91fa9bb849a5ce32938d1a7c::sgen::SGEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2025_01_05_15_58_39_9683b1c642.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

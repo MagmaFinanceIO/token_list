@@ -1,0 +1,13 @@
+{
+  "name": "TROLLI on SUI",
+  "symbol": "TROLLI",
+  "decimals": 6,
+  "coin_type": "0x88284eb37aa3c5ca9cd9c0d0e3498f118a1eeda802e71fcc7c965b297e63015b::trolli::TROLLI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1732445494184.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

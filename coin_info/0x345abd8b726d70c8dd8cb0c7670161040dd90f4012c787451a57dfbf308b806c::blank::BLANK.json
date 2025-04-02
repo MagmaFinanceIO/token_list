@@ -1,0 +1,13 @@
+{
+  "name": "Sui Blank",
+  "symbol": "BLANK",
+  "decimals": 6,
+  "coin_type": "0x345abd8b726d70c8dd8cb0c7670161040dd90f4012c787451a57dfbf308b806c::blank::BLANK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ef987422-3cea-4022-a44e-664de55ec046.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

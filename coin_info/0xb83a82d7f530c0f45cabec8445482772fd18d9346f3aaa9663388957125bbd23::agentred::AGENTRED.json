@@ -1,0 +1,13 @@
+{
+  "name": "AGENT RED",
+  "symbol": "AGENTRED",
+  "decimals": 6,
+  "coin_type": "0xb83a82d7f530c0f45cabec8445482772fd18d9346f3aaa9663388957125bbd23::agentred::AGENTRED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/DALLA_E_2025_01_11_15_52_20_A_vibrant_cartoon_style_image_featuring_a_red_toned_frog_with_a_secret_agent_theme_The_frog_is_wearing_a_sleek_black_suit_with_a_red_tie_dark_sungla_ee7f727fb0.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Koak On Sui",
+  "symbol": "KOAK",
+  "decimals": 6,
+  "coin_type": "0xed003f455f75952eec7f381eead78a78c99427a43eff104abc97e2da8473b622::koak::KOAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000020807_8fc0f54d58.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

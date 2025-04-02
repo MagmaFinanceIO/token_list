@@ -1,0 +1,13 @@
+{
+  "name": "Proxima Centauri",
+  "symbol": "BLC1",
+  "decimals": 6,
+  "coin_type": "0x0b7349d6528389c5120cf04b3df1884975c1429c25b1bd5731318a4c35df0d0b::blc1::BLC1",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/blc1_a3167840ac.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

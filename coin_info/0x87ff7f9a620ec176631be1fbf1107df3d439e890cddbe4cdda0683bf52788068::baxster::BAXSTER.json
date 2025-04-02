@@ -1,0 +1,13 @@
+{
+  "name": "Baxster",
+  "symbol": "Baxster",
+  "decimals": 9,
+  "coin_type": "0x87ff7f9a620ec176631be1fbf1107df3d439e890cddbe4cdda0683bf52788068::baxster::BAXSTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/07077693-8a37-48ca-9fa1-039e38ee5aba.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "LION",
+  "symbol": "LIONFACE",
+  "decimals": 6,
+  "coin_type": "0xadd1345fd33a063fee22850a63c42320f95e1645e07254b8cb226986d08dbe47::lionface::LIONFACE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/lionface.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pao",
+  "symbol": "Pao",
+  "decimals": 9,
+  "coin_type": "0x8db88500db200ee2c191c2f2ff037157a54fbbcdad3841d33f0202ff4e6b4f70::pao::PAO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AULnMRJgPeU6PRXQUwBjcJXHrTFq9LhPaScj7vRJpump.png?size=lg&key=66fad5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

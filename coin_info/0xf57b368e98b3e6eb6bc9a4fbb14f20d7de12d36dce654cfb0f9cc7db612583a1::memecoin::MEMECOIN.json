@@ -1,0 +1,13 @@
+{
+  "name": "i now identify as a memecoin",
+  "symbol": "memecoin",
+  "decimals": 9,
+  "coin_type": "0xf57b368e98b3e6eb6bc9a4fbb14f20d7de12d36dce654cfb0f9cc7db612583a1::memecoin::MEMECOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmX5bUqtP18jCryNhGVouG1qieAgmmRvPw23NJJJ6ZZuUY",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Half of PEPE",
+  "symbol": "PE",
+  "decimals": 9,
+  "coin_type": "0xc5c8d696deddc3aa49564a05cbc755c73f3322b9f0a165a4a3736b23f2051278::pe::PE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/YcUzxsUL4wTETS1qWe5HsgCHNaQz9wddcoL2L62xn7k.png?size=lg&key=ac6b2a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

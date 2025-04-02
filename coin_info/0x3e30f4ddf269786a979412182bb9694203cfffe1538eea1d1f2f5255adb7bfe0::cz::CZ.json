@@ -1,0 +1,13 @@
+{
+  "name": "Changpeng Zhao",
+  "symbol": "CZ",
+  "decimals": 9,
+  "coin_type": "0x3e30f4ddf269786a979412182bb9694203cfffe1538eea1d1f2f5255adb7bfe0::cz::CZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f2be9650-b3ed-4d2a-b015-1df8904ba01a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

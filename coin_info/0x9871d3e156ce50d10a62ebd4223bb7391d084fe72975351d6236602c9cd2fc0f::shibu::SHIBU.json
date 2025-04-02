@@ -1,0 +1,13 @@
+{
+  "name": "SHIBU",
+  "symbol": "SHIBU",
+  "decimals": 9,
+  "coin_type": "0x9871d3e156ce50d10a62ebd4223bb7391d084fe72975351d6236602c9cd2fc0f::shibu::SHIBU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GxnbA8CwNqunN3Uarg5WQKYeoEPGCxYe1oJPSYpVpump.png?size=lg&key=d12a45",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "haSUI",
+  "symbol": "haSUI",
+  "decimals": 9,
+  "coin_type": "0xd08b8e6db59e6c02c9339990c7fa8fa9de52e8303732c09c23b0f62d23bf59a5::hasui::HASUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/420122d4-b37e-4a02-ac70-67eea897d666.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

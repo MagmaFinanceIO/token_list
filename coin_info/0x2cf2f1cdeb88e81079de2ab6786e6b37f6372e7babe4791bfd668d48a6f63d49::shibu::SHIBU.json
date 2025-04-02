@@ -1,0 +1,13 @@
+{
+  "name": "DOGE MASCOT",
+  "symbol": "SHIBU",
+  "decimals": 9,
+  "coin_type": "0x2cf2f1cdeb88e81079de2ab6786e6b37f6372e7babe4791bfd668d48a6f63d49::shibu::SHIBU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/yG6bXPEFaUnGAEHHqH9H7t1VSfaK7YrggCqHy35pump.png?size=lg&key=bf6cd8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

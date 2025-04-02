@@ -1,0 +1,13 @@
+{
+  "name": "NootNoot",
+  "symbol": "NOOT",
+  "decimals": 9,
+  "coin_type": "0x57bf51e561264925f0bde299bfe42e9dbbbe66b3387f1f2cea4b7931812dbdfb::noot::NOOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/de6039fc-eb15-4f31-be01-3f617f4ce83d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

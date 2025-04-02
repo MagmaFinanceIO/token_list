@@ -1,0 +1,13 @@
+{
+  "name": "SNOR",
+  "symbol": "SNOR",
+  "decimals": 9,
+  "coin_type": "0x7035887e5c0c303e89a30f9a592b1273f62c6de36c8c894bf3c0c2f87d0b2a62::snor::SNOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9prPoJqXC3DPvjST9kHm7fw4Q7WwEAE8AihpP3g5pump.png?size=lg&key=64f4ce",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

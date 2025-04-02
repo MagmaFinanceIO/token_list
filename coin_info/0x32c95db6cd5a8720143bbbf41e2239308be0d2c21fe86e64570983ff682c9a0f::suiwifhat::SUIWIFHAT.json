@@ -1,0 +1,13 @@
+{
+  "name": "Sui Wif Hat",
+  "symbol": "SUIWIFHAT",
+  "decimals": 6,
+  "coin_type": "0x32c95db6cd5a8720143bbbf41e2239308be0d2c21fe86e64570983ff682c9a0f::suiwifhat::SUIWIFHAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Sui_Wif_Hat_44e35becc8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

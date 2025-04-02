@@ -1,0 +1,13 @@
+{
+  "name": "Starfish the Star",
+  "symbol": "Starfish",
+  "decimals": 6,
+  "coin_type": "0xffce0b4d935acced44fd05cacb16084a95c10608d9be751940bd8babe1c8a206::starfish::STARFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_59_40cb04e390.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suizuki",
+  "symbol": "SZK",
+  "decimals": 9,
+  "coin_type": "0x83da446e7ef18404cab3d6f258a0d384afc35b847bc29a706e8d0d0f2776de8a::szk::SZK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/901b0ca6-1fa2-46ec-9cec-44891eb161ef.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "mSEND Series 3",
+  "symbol": "mSEND",
+  "decimals": 6,
+  "coin_type": "0x7607d60723bc41caac04d02e38001ed18d4ba65acce6d8abd9aa3eb25d9a0f6b::msend_series_3::MSEND_SERIES_3",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://suilend-assets.s3.us-east-2.amazonaws.com/SEND/mSEND.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

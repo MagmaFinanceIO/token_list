@@ -1,0 +1,13 @@
+{
+  "name": "PANDY",
+  "symbol": "PANDY",
+  "decimals": 9,
+  "coin_type": "0xbbbcd51bd0e7ba040dacd22b12dd0a73bbf5ead3344d852bcb0ba9024ef93d36::pandy::PANDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9cacbf95-fc6d-47b0-b6fc-6187aba29a65.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

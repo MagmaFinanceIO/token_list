@@ -1,0 +1,13 @@
+{
+  "name": "Shinja Meme",
+  "symbol": "Shinja",
+  "decimals": 9,
+  "coin_type": "0x82f16f14a67bca958377483e77061a57f20fb2ad9dc40187dde4b820eacfb0b6::shinja::SHINJA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2a0030ad-3203-4a76-a596-55dfbbb9fa8c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

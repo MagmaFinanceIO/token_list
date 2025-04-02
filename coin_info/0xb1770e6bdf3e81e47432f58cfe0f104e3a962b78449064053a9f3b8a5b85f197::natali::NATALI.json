@@ -1,0 +1,13 @@
+{
+  "name": "Natali.sui The Jeet",
+  "symbol": "NATALI",
+  "decimals": 6,
+  "coin_type": "0xb1770e6bdf3e81e47432f58cfe0f104e3a962b78449064053a9f3b8a5b85f197::natali::NATALI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736188095898.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

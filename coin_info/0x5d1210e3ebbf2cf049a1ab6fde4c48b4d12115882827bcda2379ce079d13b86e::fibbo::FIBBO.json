@@ -1,0 +1,13 @@
+{
+  "name": "Fibbo - The Frog",
+  "symbol": "FIBBO",
+  "decimals": 9,
+  "coin_type": "0x5d1210e3ebbf2cf049a1ab6fde4c48b4d12115882827bcda2379ce079d13b86e::fibbo::FIBBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a4df28bc-d327-4ca0-af81-c93df28bf747.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

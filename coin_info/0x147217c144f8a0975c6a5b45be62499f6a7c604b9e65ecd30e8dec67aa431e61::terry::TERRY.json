@@ -1,0 +1,13 @@
+{
+  "name": "Terry In The Trenches",
+  "symbol": "Terry",
+  "decimals": 9,
+  "coin_type": "0x147217c144f8a0975c6a5b45be62499f6a7c604b9e65ecd30e8dec67aa431e61::terry::TERRY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmS6UQwyqPsocstbR896GKVjxyoAkwLR19bPYsrZYmMqfU",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

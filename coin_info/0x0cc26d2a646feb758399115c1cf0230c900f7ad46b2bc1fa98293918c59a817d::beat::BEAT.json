@@ -1,0 +1,13 @@
+{
+  "name": "eBeat AI",
+  "symbol": "BEAT",
+  "decimals": 6,
+  "coin_type": "0x0cc26d2a646feb758399115c1cf0230c900f7ad46b2bc1fa98293918c59a817d::beat::BEAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735432280234.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

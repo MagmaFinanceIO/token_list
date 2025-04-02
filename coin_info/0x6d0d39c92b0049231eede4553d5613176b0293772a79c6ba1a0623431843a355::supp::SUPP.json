@@ -1,0 +1,13 @@
+{
+  "name": "SuiPuppy",
+  "symbol": "SUPP",
+  "decimals": 7,
+  "coin_type": "0x6d0d39c92b0049231eede4553d5613176b0293772a79c6ba1a0623431843a355::supp::SUPP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3fdef3db-c3a9-4c3f-ba41-428f7336adc5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

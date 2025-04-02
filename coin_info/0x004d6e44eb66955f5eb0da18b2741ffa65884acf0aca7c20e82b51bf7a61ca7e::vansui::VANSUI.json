@@ -1,0 +1,13 @@
+{
+  "name": "vaninu sui",
+  "symbol": "vansui",
+  "decimals": 9,
+  "coin_type": "0x004d6e44eb66955f5eb0da18b2741ffa65884acf0aca7c20e82b51bf7a61ca7e::vansui::VANSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/25bd1a67-ed71-4ab2-ab4a-ded79fb4e8e4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

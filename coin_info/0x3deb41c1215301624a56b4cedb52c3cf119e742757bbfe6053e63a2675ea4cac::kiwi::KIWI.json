@@ -1,0 +1,13 @@
+{
+  "name": "The Blue Chicken",
+  "symbol": "Kiwi",
+  "decimals": 9,
+  "coin_type": "0x3deb41c1215301624a56b4cedb52c3cf119e742757bbfe6053e63a2675ea4cac::kiwi::KIWI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmfEjzQDZqYebfQcoMP28LRWNos3uPVbAR3mE716HsQxtd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

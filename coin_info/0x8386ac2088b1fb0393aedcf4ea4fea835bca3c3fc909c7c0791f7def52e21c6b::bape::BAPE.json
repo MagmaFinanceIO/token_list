@@ -1,0 +1,13 @@
+{
+  "name": "Banana Penguin",
+  "symbol": "BAPE",
+  "decimals": 6,
+  "coin_type": "0x8386ac2088b1fb0393aedcf4ea4fea835bca3c3fc909c7c0791f7def52e21c6b::bape::BAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/bananaprof_449b8f98eb.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Billybob",
+  "symbol": "BILLY",
+  "decimals": 6,
+  "coin_type": "0x7c572045fe476aabfc8a1d7a005bb1a448873ee0c970a4ee58b74c778ddd85bd::billy::BILLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2025_01_10_21_32_04_42f29bf6a5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Community Take Over",
+  "symbol": "CTO",
+  "decimals": 9,
+  "coin_type": "0x8abdedaa2c9e93faed9040c2172c5d74b7ac13fc28d7f65b9b26da1c760e5094::cto::CTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc3WSL3F79wHdzjgKLe4jCDcbTQeoYEznAAg&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

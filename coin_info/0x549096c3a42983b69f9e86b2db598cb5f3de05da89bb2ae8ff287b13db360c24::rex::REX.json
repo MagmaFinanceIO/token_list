@@ -1,0 +1,13 @@
+{
+  "name": "SUI REX",
+  "symbol": "REX",
+  "decimals": 9,
+  "coin_type": "0x549096c3a42983b69f9e86b2db598cb5f3de05da89bb2ae8ff287b13db360c24::rex::REX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b5501a1c-8a64-4d0c-b71d-1f1e013e9a5b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

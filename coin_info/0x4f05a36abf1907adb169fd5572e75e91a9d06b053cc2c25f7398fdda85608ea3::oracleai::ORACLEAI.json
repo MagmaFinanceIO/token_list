@@ -1,0 +1,13 @@
+{
+  "name": "The Oracle by SuiAI",
+  "symbol": "ORACLEAI",
+  "decimals": 6,
+  "coin_type": "0x4f05a36abf1907adb169fd5572e75e91a9d06b053cc2c25f7398fdda85608ea3::oracleai::ORACLEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1919631_0_49a8c0f315.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

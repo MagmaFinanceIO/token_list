@@ -1,0 +1,13 @@
+{
+  "name": "Antimatter",
+  "symbol": "CHAOS",
+  "decimals": 9,
+  "coin_type": "0x9cab410b4ea32521367ebad560ffcd4cacaf5bb44a2d35953c96a45290ba221e::chaos::CHAOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/f706719e3b11911720d7d0652bbd0259blob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

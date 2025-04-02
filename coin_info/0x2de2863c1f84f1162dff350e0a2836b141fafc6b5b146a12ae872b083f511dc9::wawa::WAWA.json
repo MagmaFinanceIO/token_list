@@ -1,0 +1,13 @@
+{
+  "name": "WAWACAT",
+  "symbol": "WaWa",
+  "decimals": 9,
+  "coin_type": "0x2de2863c1f84f1162dff350e0a2836b141fafc6b5b146a12ae872b083f511dc9::wawa::WAWA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2b6eb588-c710-4fb0-9d55-a67e58daff40.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

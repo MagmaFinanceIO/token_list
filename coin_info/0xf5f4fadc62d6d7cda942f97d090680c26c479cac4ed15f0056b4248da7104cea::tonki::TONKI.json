@@ -1,0 +1,13 @@
+{
+  "name": "Tonki",
+  "symbol": "Tonki",
+  "decimals": 9,
+  "coin_type": "0xf5f4fadc62d6d7cda942f97d090680c26c479cac4ed15f0056b4248da7104cea::tonki::TONKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

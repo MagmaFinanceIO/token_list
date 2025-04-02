@@ -1,0 +1,13 @@
+{
+  "name": "BatSUI",
+  "symbol": "BATSUI",
+  "decimals": 6,
+  "coin_type": "0x108a1e111952d839ffd54ad604477ea73ad6d7b3e324887fa726a39fbaa2f4ff::batsui::BATSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1728666538221_91d428411e.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

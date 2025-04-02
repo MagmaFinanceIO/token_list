@@ -1,0 +1,13 @@
+{
+  "name": "LamarToken",
+  "symbol": "LJAX",
+  "decimals": 9,
+  "coin_type": "0x88cb94a50ea324b206d5654ba83aa02acf35e9277659717c58d3bbd51ad639e5::ljax::LJAX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "Inspired by NFL MVP Lamar Jackson https://pbs.twimg.com/profile_images/1796166576380555265/ZMjAeqjG.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

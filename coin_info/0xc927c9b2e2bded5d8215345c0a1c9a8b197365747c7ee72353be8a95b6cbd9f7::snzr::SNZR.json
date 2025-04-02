@@ -1,0 +1,13 @@
+{
+  "name": "Schnauzer",
+  "symbol": "SNZR",
+  "decimals": 9,
+  "coin_type": "0xc927c9b2e2bded5d8215345c0a1c9a8b197365747c7ee72353be8a95b6cbd9f7::snzr::SNZR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9fac0ccc-f3c4-4461-afc9-c19231ad8d83.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

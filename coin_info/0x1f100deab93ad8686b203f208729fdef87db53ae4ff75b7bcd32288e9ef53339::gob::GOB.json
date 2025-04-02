@@ -1,0 +1,13 @@
+{
+  "name": "Gob The Goblin",
+  "symbol": "GOB",
+  "decimals": 9,
+  "coin_type": "0x1f100deab93ad8686b203f208729fdef87db53ae4ff75b7bcd32288e9ef53339::gob::GOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9ca2da95-0229-4069-8af6-dc4f6d1a3544.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

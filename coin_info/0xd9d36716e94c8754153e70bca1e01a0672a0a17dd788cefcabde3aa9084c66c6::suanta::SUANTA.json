@@ -1,0 +1,13 @@
+{
+  "name": "Suianta",
+  "symbol": "SUANTA",
+  "decimals": 9,
+  "coin_type": "0xd9d36716e94c8754153e70bca1e01a0672a0a17dd788cefcabde3aa9084c66c6::suanta::SUANTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a1cbd370-a02d-4166-9182-b3156434d3d7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

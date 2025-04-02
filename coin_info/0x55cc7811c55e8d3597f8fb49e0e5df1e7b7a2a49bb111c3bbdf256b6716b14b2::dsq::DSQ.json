@@ -1,0 +1,13 @@
+{
+  "name": "dsq",
+  "symbol": "dsq",
+  "decimals": 6,
+  "coin_type": "0x55cc7811c55e8d3597f8fb49e0e5df1e7b7a2a49bb111c3bbdf256b6716b14b2::dsq::DSQ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

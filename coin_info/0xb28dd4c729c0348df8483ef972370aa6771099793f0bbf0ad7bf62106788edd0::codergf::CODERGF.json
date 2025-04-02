@@ -1,0 +1,13 @@
+{
+  "name": "Coder GF",
+  "symbol": "CoderGF",
+  "decimals": 9,
+  "coin_type": "0xb28dd4c729c0348df8483ef972370aa6771099793f0bbf0ad7bf62106788edd0::codergf::CODERGF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/28ECNMKBj66GMBJxq1c3VyzJiKY5gDp2sEYc92Ybpump.png?size=lg&key=3ec485",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

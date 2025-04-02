@@ -1,0 +1,13 @@
+{
+  "name": "ROSS IS FREE",
+  "symbol": "ROSSFREE",
+  "decimals": 9,
+  "coin_type": "0x50b1b516d4bf10d46905af0879d43c7a863b1e7b3125398470ca7a3850171356::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

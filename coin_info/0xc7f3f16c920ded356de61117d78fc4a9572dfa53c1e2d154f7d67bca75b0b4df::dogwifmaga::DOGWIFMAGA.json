@@ -1,0 +1,13 @@
+{
+  "name": "DogwifMaga",
+  "symbol": "DogwifMaga",
+  "decimals": 9,
+  "coin_type": "0xc7f3f16c920ded356de61117d78fc4a9572dfa53c1e2d154f7d67bca75b0b4df::dogwifmaga::DOGWIFMAGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e8e9b4e5-9660-4aa1-a7d1-a8bea9bd5c79.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

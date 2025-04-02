@@ -1,0 +1,13 @@
+{
+  "name": "Mazzletrap",
+  "symbol": "MAZZ",
+  "decimals": 6,
+  "coin_type": "0xcf2a9e257d224485b41bc2730a66593cde1f5ba66ad73599e7dabe8eed4fa836::mazz::MAZZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qmad_Uprjnuo_T6tvgr_FB_8b_W7_MGN_Zpnkx_Jdqm_V1_E_Jv_M_Lmue2_d6a427ca75.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

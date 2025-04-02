@@ -1,0 +1,13 @@
+{
+  "name": "Timmy The Beluga",
+  "symbol": "TIMMY",
+  "decimals": 6,
+  "coin_type": "0x162b825959eb173c38e230fbc4c50404122574d2835946f03cc6c42313b6b092::timmy::TIMMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/download_26_808681a3d8.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

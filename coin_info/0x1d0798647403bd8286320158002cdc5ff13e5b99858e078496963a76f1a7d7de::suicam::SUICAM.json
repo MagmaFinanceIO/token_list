@@ -1,0 +1,13 @@
+{
+  "name": "Sui Camel",
+  "symbol": "SUICAM",
+  "decimals": 6,
+  "coin_type": "0x1d0798647403bd8286320158002cdc5ff13e5b99858e078496963a76f1a7d7de::suicam::SUICAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmWEFmaApMk8JNzfPBPjoa7jXdkX6TEXmMyvX5wKj9Fc3Z",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "The Meme Magus",
+  "symbol": "MAGUS",
+  "decimals": 9,
+  "coin_type": "0x6046e3e6b628d87c1dc4e681b5bfa640184c41d4929d45a28e0ae8493432d341::magus::MAGUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7qcNPT8s33umCVX4vR72J5TfwPsRJREetxoe5qJypump.png?size=lg&key=1533bb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

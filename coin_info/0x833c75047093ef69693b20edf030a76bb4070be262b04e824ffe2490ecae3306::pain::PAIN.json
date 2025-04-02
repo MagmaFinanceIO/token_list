@@ -1,0 +1,13 @@
+{
+  "name": "Pain on Sui",
+  "symbol": "PAIN",
+  "decimals": 9,
+  "coin_type": "0x833c75047093ef69693b20edf030a76bb4070be262b04e824ffe2490ecae3306::pain::PAIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x330cf2276ac46f24d3d774e2e676b7da78fec37a.png?size=lg&key=df76ac",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NVIDIA SHIBA AI",
+  "symbol": "NSHIB",
+  "decimals": 9,
+  "coin_type": "0x6ca2e56f24298a5af6ea1d9d707ee79f2424a2fe71f248480c16b3e2f5d3ff42::nshib::NSHIB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4f699b73-e251-4e26-9f58-f5410d41bb6d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

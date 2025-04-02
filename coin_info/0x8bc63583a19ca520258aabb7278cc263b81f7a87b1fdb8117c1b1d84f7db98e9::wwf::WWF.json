@@ -1,0 +1,13 @@
+{
+  "name": "World Wrestling Federation",
+  "symbol": "WWF",
+  "decimals": 9,
+  "coin_type": "0x8bc63583a19ca520258aabb7278cc263b81f7a87b1fdb8117c1b1d84f7db98e9::wwf::WWF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3eAonjSwaHvSik1Zb7Hsp8u2ZNDMV87XZg6f5vaJpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

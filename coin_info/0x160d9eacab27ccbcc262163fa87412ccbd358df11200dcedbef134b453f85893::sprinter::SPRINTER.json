@@ -1,0 +1,13 @@
+{
+  "name": "Suiet Printer",
+  "symbol": "SPRINTER",
+  "decimals": 6,
+  "coin_type": "0x160d9eacab27ccbcc262163fa87412ccbd358df11200dcedbef134b453f85893::sprinter::SPRINTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/s_S_Hbn_X_Ev_400x400_c4489dc2b0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

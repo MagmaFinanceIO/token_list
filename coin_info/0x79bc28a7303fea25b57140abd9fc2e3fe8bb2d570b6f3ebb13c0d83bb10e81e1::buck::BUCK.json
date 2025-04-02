@@ -1,0 +1,13 @@
+{
+  "name": "Buck drive car",
+  "symbol": "BUCK",
+  "decimals": 6,
+  "coin_type": "0x79bc28a7303fea25b57140abd9fc2e3fe8bb2d570b6f3ebb13c0d83bb10e81e1::buck::BUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_10_11_164647_cf9b4d62a6.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

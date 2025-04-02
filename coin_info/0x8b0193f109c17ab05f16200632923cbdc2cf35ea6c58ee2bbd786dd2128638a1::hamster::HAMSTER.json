@@ -1,0 +1,13 @@
+{
+  "name": "Hamsters AI Life",
+  "symbol": "Hamster",
+  "decimals": 6,
+  "coin_type": "0x8b0193f109c17ab05f16200632923cbdc2cf35ea6c58ee2bbd786dd2128638a1::hamster::HAMSTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://gateway.pinata.cloud/ipfs/QmQgeb5N6DyXtuFve1nD7vbsU3pmvdadnUMsQDtFiptjBd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

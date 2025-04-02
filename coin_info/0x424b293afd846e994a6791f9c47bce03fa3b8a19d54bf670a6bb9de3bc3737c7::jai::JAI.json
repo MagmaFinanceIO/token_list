@@ -1,0 +1,13 @@
+{
+  "name": "Jelly AI",
+  "symbol": "JAI",
+  "decimals": 6,
+  "coin_type": "0x424b293afd846e994a6791f9c47bce03fa3b8a19d54bf670a6bb9de3bc3737c7::jai::JAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731011854828.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

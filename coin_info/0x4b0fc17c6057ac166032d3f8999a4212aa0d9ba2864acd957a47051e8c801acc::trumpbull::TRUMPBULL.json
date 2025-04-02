@@ -1,0 +1,13 @@
+{
+  "name": "Trump Bull",
+  "symbol": "TRUMPBULL",
+  "decimals": 9,
+  "coin_type": "0x4b0fc17c6057ac166032d3f8999a4212aa0d9ba2864acd957a47051e8c801acc::trumpbull::TRUMPBULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/26BVrESaLURteqtQyck4m1FrH8JJ5D5vxTAPswJopump.png?size=lg&key=9618f8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

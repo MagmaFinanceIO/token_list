@@ -1,0 +1,13 @@
+{
+  "name": "Satoshi Nakamoto",
+  "symbol": "PetterTodd",
+  "decimals": 9,
+  "coin_type": "0xb99f4d40c4ee8fc3dc582171668b1c5454b4c91d0b5c2af56c2da379dcd52755::petter_todd::PETTER_TODD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/Qmd9Z3An49VTtY4yRrbz9Zt4vGMAMAXioWy9HyGcoMeHK1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

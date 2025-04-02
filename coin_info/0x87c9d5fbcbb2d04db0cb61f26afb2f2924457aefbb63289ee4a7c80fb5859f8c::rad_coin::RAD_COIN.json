@@ -1,0 +1,13 @@
+{
+  "name": "RAD TOKEN",
+  "symbol": "RAD",
+  "decimals": 9,
+  "coin_type": "0x87c9d5fbcbb2d04db0cb61f26afb2f2924457aefbb63289ee4a7c80fb5859f8c::rad_coin::RAD_COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://launcher.radiantarena.com/favicon.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

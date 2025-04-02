@@ -1,0 +1,13 @@
+{
+  "name": "FlamBasket",
+  "symbol": "FlamBasket",
+  "decimals": 9,
+  "coin_type": "0xb61d0e405630d73b8310868d7e3028d4524ebe3fccccf3380befc543fd4ea3f8::flambasket::FLAMBASKET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d71b0bde-efea-4855-ba3d-e1dcc8309512.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI PACK",
+  "symbol": "SUIPACK",
+  "decimals": 6,
+  "coin_type": "0x70e284a2b1b28867865afa7b2a80e750cd3970c21764bd0b57e445337a0ea44f::suipack::SUIPACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731137326130.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

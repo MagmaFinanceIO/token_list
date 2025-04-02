@@ -1,0 +1,13 @@
+{
+  "name": "SUIE",
+  "symbol": "SUIE",
+  "decimals": 9,
+  "coin_type": "0x143babd701eb200bb9d2cdadf2ed102ad378d2234fb21d8b55f334668e56e06e::suie::SUIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

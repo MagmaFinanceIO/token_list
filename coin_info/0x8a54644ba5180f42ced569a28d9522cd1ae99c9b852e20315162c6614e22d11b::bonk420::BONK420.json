@@ -1,0 +1,13 @@
+{
+  "name": "SUI BONK 420",
+  "symbol": "BONK420",
+  "decimals": 6,
+  "coin_type": "0x8a54644ba5180f42ced569a28d9522cd1ae99c9b852e20315162c6614e22d11b::bonk420::BONK420",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/f39241c6f4b83bde37390c4e953b03ec_110d5190ee.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

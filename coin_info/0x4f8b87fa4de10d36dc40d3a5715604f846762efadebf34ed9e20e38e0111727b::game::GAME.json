@@ -1,0 +1,13 @@
+{
+  "name": "Game is game",
+  "symbol": "GAME",
+  "decimals": 9,
+  "coin_type": "0x4f8b87fa4de10d36dc40d3a5715604f846762efadebf34ed9e20e38e0111727b::game::GAME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmcwvRBrHrGT659gURFQPJZbh1rA7usWRhLrvtrk78sw7S",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

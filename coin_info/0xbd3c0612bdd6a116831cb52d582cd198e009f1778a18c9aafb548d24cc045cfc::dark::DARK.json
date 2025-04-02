@@ -1,0 +1,13 @@
+{
+  "name": "Dark Pudgy",
+  "symbol": "DARK",
+  "decimals": 9,
+  "coin_type": "0xbd3c0612bdd6a116831cb52d582cd198e009f1778a18c9aafb548d24cc045cfc::dark::DARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AL48dg3rLMbXwzC642AWho62ZFcyQM6B9JSqZ7Y9pump.png?size=lg&key=5282cb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

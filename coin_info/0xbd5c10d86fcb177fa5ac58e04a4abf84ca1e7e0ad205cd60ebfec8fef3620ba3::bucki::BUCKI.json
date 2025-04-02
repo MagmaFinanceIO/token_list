@@ -1,0 +1,13 @@
+{
+  "name": "BUCKI DOGE ON SUI",
+  "symbol": "BUCKI",
+  "decimals": 9,
+  "coin_type": "0xbd5c10d86fcb177fa5ac58e04a4abf84ca1e7e0ad205cd60ebfec8fef3620ba3::bucki::BUCKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4d7df1d9-a5b5-4b96-8241-552e87ae01c8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

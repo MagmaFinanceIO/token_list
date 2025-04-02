@@ -1,0 +1,13 @@
+{
+  "name": "GMika Rabia",
+  "symbol": "GMika",
+  "decimals": 6,
+  "coin_type": "0xcd2272b23d734b13b56fccaf7aae4ce3a93c283e299af054d11d121fabb10350::gmika::GMIKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20241016_113733_198_bfe0d61b8c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

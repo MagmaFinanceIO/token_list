@@ -1,0 +1,13 @@
+{
+  "name": "Zilla On Sui",
+  "symbol": "ZILLA",
+  "decimals": 9,
+  "coin_type": "0x3052770dfc065c963a0618fd8ca8183cca8ec2ad306db59fe0126060aa880d69::zilla::ZILLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1845507095015432193/qgpcqHsr.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

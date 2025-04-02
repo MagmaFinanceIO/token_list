@@ -1,0 +1,13 @@
+{
+  "name": "Mr.Pinckly",
+  "symbol": "PINKLY",
+  "decimals": 9,
+  "coin_type": "0xf74a530de6fef8b945f3e6d3e2b24fa6c76a2ff82ee5629c79b426b9eb138cbf::pinkly::PINKLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a27db3c9-521e-4209-a534-0605e5f48e4d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

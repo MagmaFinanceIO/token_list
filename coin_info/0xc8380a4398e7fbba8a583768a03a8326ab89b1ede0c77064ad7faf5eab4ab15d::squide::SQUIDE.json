@@ -1,0 +1,13 @@
+{
+  "name": "Squide",
+  "symbol": "Squide",
+  "decimals": 6,
+  "coin_type": "0xc8380a4398e7fbba8a583768a03a8326ab89b1ede0c77064ad7faf5eab4ab15d::squide::SQUIDE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSdzf5XBe6TV93XX9RX19KJqiBii5VSiNozwVqbMwzzip",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

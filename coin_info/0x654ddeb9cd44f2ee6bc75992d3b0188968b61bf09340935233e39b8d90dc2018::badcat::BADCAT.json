@@ -1,0 +1,13 @@
+{
+  "name": "badcat",
+  "symbol": "Badcat",
+  "decimals": 6,
+  "coin_type": "0x654ddeb9cd44f2ee6bc75992d3b0188968b61bf09340935233e39b8d90dc2018::badcat::BADCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731057748406.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

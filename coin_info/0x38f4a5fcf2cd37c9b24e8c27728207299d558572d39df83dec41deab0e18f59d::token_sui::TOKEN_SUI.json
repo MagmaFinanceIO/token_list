@@ -1,0 +1,13 @@
+{
+  "name": "DeepBook 151",
+  "symbol": "DEEP151",
+  "decimals": 9,
+  "coin_type": "0x38f4a5fcf2cd37c9b24e8c27728207299d558572d39df83dec41deab0e18f59d::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.deepbook.tech/icon.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

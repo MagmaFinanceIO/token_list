@@ -1,0 +1,13 @@
+{
+  "name": "Galaxy Jump",
+  "symbol": "Forty Hits",
+  "decimals": 9,
+  "coin_type": "0x19f26799d2e681e810f411262f317106b80164577722937c3599f6da013f72ea::forty_hits::FORTY_HITS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/214c788c-39ae-4eef-9158-6c693fe3e496.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sanan on Sui",
+  "symbol": "SANAN",
+  "decimals": 6,
+  "coin_type": "0x57d8321d05cebe43ce3d352be4b86c2630f276fdbbb72f08d9b9cd2ec47aaf50::sanan::SANAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/icon_768x768_5464ed6a2d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

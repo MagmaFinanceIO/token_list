@@ -1,0 +1,13 @@
+{
+  "name": "NARUPE",
+  "symbol": "NARUPE",
+  "decimals": 9,
+  "coin_type": "0x0a818a1f73582529b65b5fd72edc406270f14c63eda05a1cc92d2a46a5d441bc::narupe::NARUPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6dbf1492-bc5f-45b7-9852-74d634e1e8be.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Thug Life",
+  "symbol": "THUG",
+  "decimals": 6,
+  "coin_type": "0xc11c8af411f9a74fcf5c2a396c350afa3c2029e2af5b16dabbeb49a782160f4c::thug::THUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Thug_life_03932b0363.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "OKC",
+  "symbol": "OKC",
+  "decimals": 9,
+  "coin_type": "0x26e371e3d343f7b9ffe31413b9abb54116bd9f08af81ab727b0330952e86d78d::okc::OKC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/44b1df5e-30b7-4e2c-9353-ee7d446b5295.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

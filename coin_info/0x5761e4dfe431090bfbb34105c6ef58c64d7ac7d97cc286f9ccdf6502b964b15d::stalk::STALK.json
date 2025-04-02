@@ -1,0 +1,13 @@
+{
+  "name": "STALK AI - DEX META ANALYSIS",
+  "symbol": "STALK",
+  "decimals": 9,
+  "coin_type": "0x5761e4dfe431090bfbb34105c6ef58c64d7ac7d97cc286f9ccdf6502b964b15d::stalk::STALK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GzKbJQSeCiiHiSVwKzMFSJ9cRFvjitcHjjstPB4Wpump.png?size=lg&key=6a9c72",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

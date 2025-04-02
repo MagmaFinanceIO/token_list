@@ -1,0 +1,13 @@
+{
+  "name": "HAMBURGER",
+  "symbol": "HAMBURGER",
+  "decimals": 6,
+  "coin_type": "0x46779076615db90b9ddaeb89a5ea99495bcf1d4089194018b0d76ad073f5fcde::hamburger::HAMBURGER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/hamburger.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

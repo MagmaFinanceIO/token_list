@@ -1,0 +1,13 @@
+{
+  "name": "PEPE CLUB",
+  "symbol": "PEPECLUB",
+  "decimals": 9,
+  "coin_type": "0xf8ef2ec591e3fb5098c060ad54e0b1cec2d90e131165a40a6972c4373feb45d0::pepeclub::PEPECLUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4gB7UBRMSuDFjZ39tpR4VQ2KdYcSCmjvvwNU7tptpump.png?size=lg&key=e99b5f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

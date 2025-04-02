@@ -1,0 +1,13 @@
+{
+  "name": "PUMPTOBER",
+  "symbol": "PUMPTOBER",
+  "decimals": 6,
+  "coin_type": "0x97da53bf292cfb7dcfaf8e0f499921edd0e3bef3dae74af245e05a0431192fd8::pumptober::PUMPTOBER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/p3Py6Cz/photo-2024-10-01-17-46-34.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

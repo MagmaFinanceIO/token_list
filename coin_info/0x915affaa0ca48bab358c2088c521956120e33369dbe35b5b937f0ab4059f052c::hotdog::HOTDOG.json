@@ -1,0 +1,13 @@
+{
+  "name": "Hotdog",
+  "symbol": "Hotdog",
+  "decimals": 9,
+  "coin_type": "0x915affaa0ca48bab358c2088c521956120e33369dbe35b5b937f0ab4059f052c::hotdog::HOTDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/859cee3e-f1f1-42a5-9c1e-9c77c2a9822a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

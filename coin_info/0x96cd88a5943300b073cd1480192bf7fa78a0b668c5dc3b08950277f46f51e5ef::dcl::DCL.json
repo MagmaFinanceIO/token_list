@@ -1,0 +1,13 @@
+{
+  "name": "DCL Brand",
+  "symbol": "DCL",
+  "decimals": 2,
+  "coin_type": "0x96cd88a5943300b073cd1480192bf7fa78a0b668c5dc3b08950277f46f51e5ef::dcl::DCL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c5daa731-ff77-4c57-b1c0-f9e43d778f70.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

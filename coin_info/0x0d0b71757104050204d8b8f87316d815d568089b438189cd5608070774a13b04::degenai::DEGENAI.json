@@ -1,0 +1,13 @@
+{
+  "name": "Degen Spartan AI",
+  "symbol": "degenai",
+  "decimals": 9,
+  "coin_type": "0x0d0b71757104050204d8b8f87316d815d568089b438189cd5608070774a13b04::degenai::DEGENAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmR2DdZaMF56TcHRprpzaJdDuFpDTgz7qLs9tX1JrViXU4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Dogefather",
+  "symbol": "DOGEFATHER",
+  "decimals": 9,
+  "coin_type": "0xe8077c2ffff6993038669bb12107128f0ee533fee221262fe940fd639c352692::dogefather::DOGEFATHER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d4b6a890-64d2-4ded-b0e0-f4d6fa02879e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

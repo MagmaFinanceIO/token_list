@@ -1,0 +1,13 @@
+{
+  "name": "Magic Eden",
+  "symbol": "ME",
+  "decimals": 9,
+  "coin_type": "0x973cf40cf9edc4ad8183c729502d845fced2d2816aca844bfdd5f2abedd0a30d::me::ME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.gtokentool.com/1738729450/1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

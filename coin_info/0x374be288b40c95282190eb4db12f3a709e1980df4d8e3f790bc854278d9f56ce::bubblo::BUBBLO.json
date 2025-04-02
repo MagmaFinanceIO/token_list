@@ -1,0 +1,13 @@
+{
+  "name": "BUBBLO",
+  "symbol": "Bubblo",
+  "decimals": 9,
+  "coin_type": "0x374be288b40c95282190eb4db12f3a709e1980df4d8e3f790bc854278d9f56ce::bubblo::BUBBLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2siNVXDL6Zh585SPhvUa6Va8GTbhbToqXzUbnpEppump.png?size=xl&key=c06265",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

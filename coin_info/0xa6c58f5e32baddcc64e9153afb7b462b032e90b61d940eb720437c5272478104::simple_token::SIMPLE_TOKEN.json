@@ -1,0 +1,13 @@
+{
+  "name": "NIQAB AGENT",
+  "symbol": "NIQAIB",
+  "decimals": 9,
+  "coin_type": "0xa6c58f5e32baddcc64e9153afb7b462b032e90b61d940eb720437c5272478104::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

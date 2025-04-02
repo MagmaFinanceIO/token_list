@@ -1,0 +1,13 @@
+{
+  "name": "Top Dog Stella",
+  "symbol": "tdsai",
+  "decimals": 9,
+  "coin_type": "0x72244dd17b44072eac21d8c8b0f731c9624d2d1caf0a9099931b6cca63156a73::tdsai::TDSAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/36b32b74-f598-4843-b786-492ade0adb0b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

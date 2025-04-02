@@ -1,0 +1,13 @@
+{
+  "name": "YOGST",
+  "symbol": "YOGST",
+  "decimals": 9,
+  "coin_type": "0x106d97ea2ac32d11e722534dbd918c877eb982e2f30c33cd8c492328f0ccc002::yogst::YOGST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fd453184-6b55-4dbf-b70b-6ec0519f202d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

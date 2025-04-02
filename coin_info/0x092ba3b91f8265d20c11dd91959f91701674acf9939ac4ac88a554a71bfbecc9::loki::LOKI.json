@@ -1,0 +1,13 @@
+{
+  "name": "Loki on Sui",
+  "symbol": "LOKI",
+  "decimals": 9,
+  "coin_type": "0x092ba3b91f8265d20c11dd91959f91701674acf9939ac4ac88a554a71bfbecc9::loki::LOKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e357fa59-94dc-4cb0-aa26-2370581dc57d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

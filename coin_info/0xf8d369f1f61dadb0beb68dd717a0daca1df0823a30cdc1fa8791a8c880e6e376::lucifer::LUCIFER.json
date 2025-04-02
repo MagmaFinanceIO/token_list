@@ -1,0 +1,13 @@
+{
+  "name": "UnHoly Luce",
+  "symbol": "LUCIFER",
+  "decimals": 9,
+  "coin_type": "0xf8d369f1f61dadb0beb68dd717a0daca1df0823a30cdc1fa8791a8c880e6e376::lucifer::LUCIFER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5cdU1CWGFxcgAG3vLbrTi48AsH1ZL2oMRAGDJLrWpump.png?size=lg&key=01b4f1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

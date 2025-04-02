@@ -1,0 +1,13 @@
+{
+  "name": "Jacob",
+  "symbol": "JACOB",
+  "decimals": 6,
+  "coin_type": "0xe68fe3da38875c32443f09544f19398ad37bf5b0cdf6ba338c6ff27b9249199a::jacob::JACOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5534_46012ca9a4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

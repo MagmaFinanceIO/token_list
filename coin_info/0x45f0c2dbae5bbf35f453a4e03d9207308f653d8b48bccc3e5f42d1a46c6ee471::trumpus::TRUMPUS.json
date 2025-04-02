@@ -1,0 +1,13 @@
+{
+  "name": "DONALDUS TRUMPUS",
+  "symbol": "TRUMPUS",
+  "decimals": 9,
+  "coin_type": "0x45f0c2dbae5bbf35f453a4e03d9207308f653d8b48bccc3e5f42d1a46c6ee471::trumpus::TRUMPUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HwDXBuYrLhUhDEGddEba4bsdqZLgWhMMigsdFBwepump.png?size=lg&key=d95a07",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BlackBox - AI by SuiAI",
+  "symbol": "BBA",
+  "decimals": 6,
+  "coin_type": "0xcb35503aa8bb0bd9c9cb4ef07db22275398302d6bb5540621d2a67428aecaef9::bba::BBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/bb_logo_f72d2b9001.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

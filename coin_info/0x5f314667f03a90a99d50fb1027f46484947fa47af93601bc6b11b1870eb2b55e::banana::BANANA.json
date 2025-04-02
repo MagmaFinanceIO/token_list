@@ -1,0 +1,13 @@
+{
+  "name": "Banana for Scale",
+  "symbol": "Banana",
+  "decimals": 9,
+  "coin_type": "0x5f314667f03a90a99d50fb1027f46484947fa47af93601bc6b11b1870eb2b55e::banana::BANANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FuQASH8ps9NPeDu4h3rVtMBygKYoSiSTZ4uSiA5tpump.png?size=lg&key=50c7c8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

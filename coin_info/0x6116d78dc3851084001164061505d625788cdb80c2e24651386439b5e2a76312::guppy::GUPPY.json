@@ -1,0 +1,13 @@
+{
+  "name": "Guppy Fish",
+  "symbol": "GUPPY",
+  "decimals": 9,
+  "coin_type": "0x6116d78dc3851084001164061505d625788cdb80c2e24651386439b5e2a76312::guppy::GUPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e2da15f7-77a3-4886-9b07-8ccfd253dc0c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

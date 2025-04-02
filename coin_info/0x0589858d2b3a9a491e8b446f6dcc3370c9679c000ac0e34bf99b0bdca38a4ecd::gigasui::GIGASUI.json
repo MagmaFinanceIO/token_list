@@ -1,0 +1,13 @@
+{
+  "name": "GIGASUI",
+  "symbol": "GIGASUI",
+  "decimals": 9,
+  "coin_type": "0x0589858d2b3a9a491e8b446f6dcc3370c9679c000ac0e34bf99b0bdca38a4ecd::gigasui::GIGASUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/018f73d5-fcae-4f1e-bda3-ceac5fbeddc1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

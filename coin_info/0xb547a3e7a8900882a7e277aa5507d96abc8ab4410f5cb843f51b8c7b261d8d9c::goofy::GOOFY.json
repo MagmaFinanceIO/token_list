@@ -1,0 +1,13 @@
+{
+  "name": "GOOFY SUI DOGE",
+  "symbol": "GOOFY",
+  "decimals": 9,
+  "coin_type": "0xb547a3e7a8900882a7e277aa5507d96abc8ab4410f5cb843f51b8c7b261d8d9c::goofy::GOOFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bc4a2556-dca2-4df6-919a-2e987cf72239.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

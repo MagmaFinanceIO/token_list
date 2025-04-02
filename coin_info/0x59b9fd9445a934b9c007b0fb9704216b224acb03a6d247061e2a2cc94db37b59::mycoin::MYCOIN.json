@@ -1,0 +1,13 @@
+{
+  "name": "PORNHUBT",
+  "symbol": "PORNHUB",
+  "decimals": 9,
+  "coin_type": "0x59b9fd9445a934b9c007b0fb9704216b224acb03a6d247061e2a2cc94db37b59::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

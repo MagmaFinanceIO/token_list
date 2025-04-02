@@ -1,0 +1,13 @@
+{
+  "name": "AgentGPT",
+  "symbol": "AGPT",
+  "decimals": 6,
+  "coin_type": "0x7d90f827a6b48c9e28f9fe193a8ab9abd03a58af1480ff8e7bc100471605f296::agpt::AGPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/3w_Ni_DF_3_400x400_a8dd7a384d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

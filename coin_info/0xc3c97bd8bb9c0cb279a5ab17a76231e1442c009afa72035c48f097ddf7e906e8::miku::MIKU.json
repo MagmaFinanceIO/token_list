@@ -1,0 +1,13 @@
+{
+  "name": "Degen Miku",
+  "symbol": "MIKU",
+  "decimals": 9,
+  "coin_type": "0xc3c97bd8bb9c0cb279a5ab17a76231e1442c009afa72035c48f097ddf7e906e8::miku::MIKU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6YpmPFLRsES9xewgaA97vg6Zjhq35sRD86hkVKStUsTA.png?size=lg&key=092d47",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

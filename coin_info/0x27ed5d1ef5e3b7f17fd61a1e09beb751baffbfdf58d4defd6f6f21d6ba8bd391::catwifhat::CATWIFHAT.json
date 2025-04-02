@@ -1,0 +1,13 @@
+{
+  "name": "CatWifHat",
+  "symbol": "CatWifHat",
+  "decimals": 9,
+  "coin_type": "0x27ed5d1ef5e3b7f17fd61a1e09beb751baffbfdf58d4defd6f6f21d6ba8bd391::catwifhat::CATWIFHAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a1752150-1edd-4a09-b8d9-f79fe25f4481.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

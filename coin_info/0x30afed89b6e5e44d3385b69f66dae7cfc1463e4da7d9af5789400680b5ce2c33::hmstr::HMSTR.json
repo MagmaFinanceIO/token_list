@@ -1,0 +1,13 @@
+{
+  "name": "Hamster Combat wif Hat",
+  "symbol": "HMSTR",
+  "decimals": 2,
+  "coin_type": "0x30afed89b6e5e44d3385b69f66dae7cfc1463e4da7d9af5789400680b5ce2c33::hmstr::HMSTR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5e33f6c5-f297-4158-a4e9-3de22ba36ed5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

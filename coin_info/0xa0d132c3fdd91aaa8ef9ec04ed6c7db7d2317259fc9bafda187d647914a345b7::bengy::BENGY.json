@@ -1,0 +1,13 @@
+{
+  "name": "BENGY on SUI",
+  "symbol": "BENGY",
+  "decimals": 9,
+  "coin_type": "0xa0d132c3fdd91aaa8ef9ec04ed6c7db7d2317259fc9bafda187d647914a345b7::bengy::BENGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmY9xGoFHZ7FsPJyRnfxuK7sJvVeWaoHRU5mjzdYADuTAA",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

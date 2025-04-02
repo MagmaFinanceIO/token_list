@@ -1,0 +1,13 @@
+{
+  "name": "DARK MAGA ON SUI",
+  "symbol": "DMAGA",
+  "decimals": 9,
+  "coin_type": "0xef4f112d9787e22a477426ab053995ad02ab6ee065d463171c5039bc3a0c96a9::dmaga::DMAGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/576318c6-c43c-457c-b825-feddd498f876.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CTO",
+  "symbol": "CTO",
+  "decimals": 9,
+  "coin_type": "0xf33c3acb25f3cb03be8b31c81c4d237a42ec8681aa8691b2bc96e5a88e15c2df::cto::CTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

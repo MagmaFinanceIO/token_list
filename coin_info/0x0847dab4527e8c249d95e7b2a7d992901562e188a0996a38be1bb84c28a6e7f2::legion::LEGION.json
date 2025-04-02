@@ -1,0 +1,13 @@
+{
+  "name": "Fomo Legion",
+  "symbol": "LEGION",
+  "decimals": 9,
+  "coin_type": "0x0847dab4527e8c249d95e7b2a7d992901562e188a0996a38be1bb84c28a6e7f2::legion::LEGION",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/791/834/large/john-a-carbon-legionz-camera-4-002.jpg?1728514743",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

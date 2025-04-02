@@ -1,0 +1,13 @@
+{
+  "name": "PENGU Penguins SUI",
+  "symbol": "SPENGU",
+  "decimals": 9,
+  "coin_type": "0xff9bfb0afdbcca8ad54d144788f01d55ec1eee945402f59428df6aaa697511e4::spengu::SPENGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/H3a9yYPJrp8WAqkAFY8jctzPwyGyNowcEsi3rmagpump.png?size=lg&key=8d92a4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

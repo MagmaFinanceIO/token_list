@@ -1,0 +1,13 @@
+{
+  "name": "Tet New Year",
+  "symbol": "SNAKE",
+  "decimals": 9,
+  "coin_type": "0xfdbfe3729aa46be2cd6aea7b8b052786fcc9b4473908c9e213f345ff6f765e79::snake::SNAKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9RDKFJaqv9N8yrvJPD5hRPFCpskv2hFc6CZs7roppump.png?size=lg&key=4f1b06",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

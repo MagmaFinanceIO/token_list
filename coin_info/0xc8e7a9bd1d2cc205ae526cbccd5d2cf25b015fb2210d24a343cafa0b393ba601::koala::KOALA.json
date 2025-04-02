@@ -1,0 +1,13 @@
+{
+  "name": "King Koala",
+  "symbol": "KOALA",
+  "decimals": 9,
+  "coin_type": "0xc8e7a9bd1d2cc205ae526cbccd5d2cf25b015fb2210d24a343cafa0b393ba601::koala::KOALA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5ba8eeaf-c29f-4e62-96d3-f1cf20fc25e9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "KOLMOGOROV HADES AGENT",
+  "symbol": "HADES",
+  "decimals": 6,
+  "coin_type": "0x60914f0b6f3bb3f4a745e3b9e99659cde87724d026aa943441e4dd905e95cc8f::hades::HADES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/KOLMOGOROV_HADES_c136b5a378.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

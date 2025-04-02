@@ -1,0 +1,13 @@
+{
+  "name": "Eggdolf H.",
+  "symbol": "Eggdolf",
+  "decimals": 6,
+  "coin_type": "0x2acc502f3d9364415c915bdab4cd82858e927f7dffdff2ba859ad0979f88bcd5::eggdolf::EGGDOLF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000107135_2c69b28dba.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Azuki",
+  "symbol": "AZUKI",
+  "decimals": 9,
+  "coin_type": "0x6b901308ce68e29e906d331e97ee55083521e7f8acc0b657356b9269089a30cf::azuki::AZUKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/21558b19-497d-4269-a2d4-3ff851694e6c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

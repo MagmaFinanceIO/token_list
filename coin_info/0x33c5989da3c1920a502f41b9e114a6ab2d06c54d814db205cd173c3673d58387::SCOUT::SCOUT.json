@@ -1,0 +1,13 @@
+{
+  "name": "Scoutly AI",
+  "symbol": "SCOUT",
+  "decimals": 2,
+  "coin_type": "0x33c5989da3c1920a502f41b9e114a6ab2d06c54d814db205cd173c3673d58387::SCOUT::SCOUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/coMSz5sMHHrrtwAOhz6LEbSc79y1QucpV-APh27DPrA?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

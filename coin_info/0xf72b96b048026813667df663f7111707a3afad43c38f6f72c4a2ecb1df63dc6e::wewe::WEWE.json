@@ -1,0 +1,13 @@
+{
+  "name": "WEWE no1",
+  "symbol": "WEWE",
+  "decimals": 9,
+  "coin_type": "0xf72b96b048026813667df663f7111707a3afad43c38f6f72c4a2ecb1df63dc6e::wewe::WEWE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://file-walletapp.waveonsui.com/images/wave-pumps/798fc665-ab11-4ea1-a6de-4a690d092a55.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

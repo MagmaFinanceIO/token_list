@@ -1,0 +1,13 @@
+{
+  "name": "Stability AI by SuiAI",
+  "symbol": "STAI",
+  "decimals": 6,
+  "coin_type": "0x8365858a7126e4d14de2967861533a7d916e0853cec21c56d4fb70a3165451cd::stai::STAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_2160_8b23059021.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

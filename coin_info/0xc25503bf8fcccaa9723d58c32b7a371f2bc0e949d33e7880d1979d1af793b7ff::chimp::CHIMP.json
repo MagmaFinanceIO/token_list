@@ -1,0 +1,13 @@
+{
+  "name": "ChimpanSui",
+  "symbol": "CHIMP",
+  "decimals": 6,
+  "coin_type": "0xc25503bf8fcccaa9723d58c32b7a371f2bc0e949d33e7880d1979d1af793b7ff::chimp::CHIMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8536e15f-4492-41a7-8793-eda58d7f5d73.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

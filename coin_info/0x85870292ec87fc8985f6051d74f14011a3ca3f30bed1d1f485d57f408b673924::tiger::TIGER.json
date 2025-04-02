@@ -1,0 +1,13 @@
+{
+  "name": "TIGER FACE",
+  "symbol": "TIGER",
+  "decimals": 6,
+  "coin_type": "0x85870292ec87fc8985f6051d74f14011a3ca3f30bed1d1f485d57f408b673924::tiger::TIGER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/tiger.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

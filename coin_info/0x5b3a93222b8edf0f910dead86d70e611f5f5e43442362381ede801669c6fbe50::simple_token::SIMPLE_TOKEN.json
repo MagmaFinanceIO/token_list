@@ -1,0 +1,13 @@
+{
+  "name": "CatGPT",
+  "symbol": "CatGPT",
+  "decimals": 9,
+  "coin_type": "0x5b3a93222b8edf0f910dead86d70e611f5f5e43442362381ede801669c6fbe50::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

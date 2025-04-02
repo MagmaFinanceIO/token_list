@@ -1,0 +1,13 @@
+{
+  "name": "ffw",
+  "symbol": "ffw",
+  "decimals": 6,
+  "coin_type": "0x5d23eebd3102b457d6b8537d5b62bfaad0c3189e62fdd449dbf03d874363809a::ffw::FFW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

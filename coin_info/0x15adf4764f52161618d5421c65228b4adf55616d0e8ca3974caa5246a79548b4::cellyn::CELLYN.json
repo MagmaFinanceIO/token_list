@@ -1,0 +1,13 @@
+{
+  "name": "Cellyn",
+  "symbol": "CELLYN",
+  "decimals": 9,
+  "coin_type": "0x15adf4764f52161618d5421c65228b4adf55616d0e8ca3974caa5246a79548b4::cellyn::CELLYN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GUKdAEXm6NjKEy76tXH8SjBpyF1uJJvKjfP95CDCpump.png?size=lg&key=768a2c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

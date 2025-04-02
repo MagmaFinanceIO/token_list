@@ -1,0 +1,13 @@
+{
+  "name": "Ryansveryowncoin",
+  "symbol": "RVOC",
+  "decimals": 9,
+  "coin_type": "0x2937fe8d29e73461ca2cbdfaf94477331fdc0c7cdc263c34bc957538ff00f88c::rvoc::RVOC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

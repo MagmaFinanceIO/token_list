@@ -1,0 +1,13 @@
+{
+  "name": "TrumpSui",
+  "symbol": "TRUMP",
+  "decimals": 9,
+  "coin_type": "0xf7dedd074129b3594ece06fdc5dc9a8e21bd19fac5122da30df11f0a8d8bc998::trump::TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5224a551-3585-4dcb-9e59-a3dfbb119e75.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

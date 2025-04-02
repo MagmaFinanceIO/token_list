@@ -1,0 +1,13 @@
+{
+  "name": "D.Trump",
+  "symbol": "Trump",
+  "decimals": 6,
+  "coin_type": "0x5e769a9e2eb1ee1f57e0e32249982a4153f0a3480bfb2be0af6c32398cdfcc55::trump::TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_09_17_16_20_38_ffeb394e29.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

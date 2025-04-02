@@ -1,0 +1,13 @@
+{
+  "name": "Firulais The Mexican Dog",
+  "symbol": "Firulais",
+  "decimals": 9,
+  "coin_type": "0x5778c9c40aacc874dd608b8fcca28cd56081f838e60c9ad451df9ef4a0d72fb7::firulais::FIRULAIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/t6BJ1YW4dNxe16JTnxwgf9bt6tm8BZx5pgjtcVfpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Valentine's Day",
+  "symbol": "VALENTINE",
+  "decimals": 9,
+  "coin_type": "0x6059425d90b58cbb93e77a1e5222cdabc4d4eebafa82fa58da4046337ca46ffd::valentine::VALENTINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/747LA9GT7DFzTPJnuZuPJu4jydWnbxZxiaoaG1tpBaSu.png?claimId=Cvw5aEeNH1XP00Zw",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

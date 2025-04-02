@@ -1,0 +1,13 @@
+{
+  "name": "Kai on Sui",
+  "symbol": "KAI",
+  "decimals": 9,
+  "coin_type": "0x8a636cae4c12309fd3f81eca6829096ee0cfe11aae9956a81801377d20532f67::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

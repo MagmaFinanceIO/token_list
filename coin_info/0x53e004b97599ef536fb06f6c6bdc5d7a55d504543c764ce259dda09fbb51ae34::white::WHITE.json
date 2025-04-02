@@ -1,0 +1,13 @@
+{
+  "name": "The White Meme",
+  "symbol": "WHITE",
+  "decimals": 6,
+  "coin_type": "0x53e004b97599ef536fb06f6c6bdc5d7a55d504543c764ce259dda09fbb51ae34::white::WHITE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/whitememe_3415d412b4.PNG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

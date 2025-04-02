@@ -1,0 +1,13 @@
+{
+  "name": "King",
+  "symbol": "King",
+  "decimals": 9,
+  "coin_type": "0xc8d50fe8a779ea135e87bc9505802879c735c78a3978a0c686e6b109bd2125b4::king::KING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

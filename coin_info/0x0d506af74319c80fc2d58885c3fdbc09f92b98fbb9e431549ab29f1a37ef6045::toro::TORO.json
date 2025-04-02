@@ -1,0 +1,13 @@
+{
+  "name": "eToro",
+  "symbol": "TORO",
+  "decimals": 9,
+  "coin_type": "0x0d506af74319c80fc2d58885c3fdbc09f92b98fbb9e431549ab29f1a37ef6045::toro::TORO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d2b43936-323d-44ea-ac5a-623859cb666d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

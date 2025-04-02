@@ -1,0 +1,13 @@
+{
+  "name": "Limon Sui Cat",
+  "symbol": "LIMON",
+  "decimals": 6,
+  "coin_type": "0xb96f7caf7b817dbf3615c5a6da05c0cf26eebec72fac09ca636e67c71435be04::limon::LIMON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000020416_a38b187a61.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

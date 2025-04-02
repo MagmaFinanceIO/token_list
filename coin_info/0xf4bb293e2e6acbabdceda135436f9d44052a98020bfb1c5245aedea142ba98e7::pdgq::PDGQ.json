@@ -1,0 +1,13 @@
+{
+  "name": "PDGQ",
+  "symbol": "PDGQ",
+  "decimals": 9,
+  "coin_type": "0xf4bb293e2e6acbabdceda135436f9d44052a98020bfb1c5245aedea142ba98e7::pdgq::PDGQ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CB48KiK1oi1tWtjmPWxVR2NPeEr9ewzmZQ8ERk79Ue4b.png?size=lg&key=e3d4b7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

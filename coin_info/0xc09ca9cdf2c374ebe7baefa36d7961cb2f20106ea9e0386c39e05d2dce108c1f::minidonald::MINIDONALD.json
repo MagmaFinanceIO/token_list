@@ -1,0 +1,13 @@
+{
+  "name": "Barron X Spaces",
+  "symbol": "MiniDonald",
+  "decimals": 9,
+  "coin_type": "0xc09ca9cdf2c374ebe7baefa36d7961cb2f20106ea9e0386c39e05d2dce108c1f::minidonald::MINIDONALD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8uuAQZQyC28osVjTcCN52Mxyt9cvJyNggpEnhJ6strxs.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

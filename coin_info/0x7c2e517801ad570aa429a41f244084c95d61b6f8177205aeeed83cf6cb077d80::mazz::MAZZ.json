@@ -1,0 +1,13 @@
+{
+  "name": "MAZZ",
+  "symbol": "mazz",
+  "decimals": 9,
+  "coin_type": "0x7c2e517801ad570aa429a41f244084c95d61b6f8177205aeeed83cf6cb077d80::mazz::MAZZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

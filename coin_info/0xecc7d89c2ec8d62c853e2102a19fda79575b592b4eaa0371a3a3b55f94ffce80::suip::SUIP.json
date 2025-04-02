@@ -1,0 +1,13 @@
+{
+  "name": "SuiP",
+  "symbol": "Suip",
+  "decimals": 6,
+  "coin_type": "0xecc7d89c2ec8d62c853e2102a19fda79575b592b4eaa0371a3a3b55f94ffce80::suip::SUIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/frog_8649486c00.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

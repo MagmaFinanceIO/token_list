@@ -1,0 +1,13 @@
+{
+  "name": "Rasokicoin",
+  "symbol": "Rasoki",
+  "decimals": 9,
+  "coin_type": "0xbde92eb12f17e52246907caa379e863beb67e304d6331e330168fc9fd8f5bdf8::rasoki::RASOKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/892DtJWGTgidC9uX4kPtWq5FXxaYgg8CBjhphtUwpump.png?size=lg&key=a18dee",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

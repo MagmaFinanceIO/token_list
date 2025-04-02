@@ -1,0 +1,13 @@
+{
+  "name": "BOND Agent",
+  "symbol": "BOND",
+  "decimals": 6,
+  "coin_type": "0xfc65c8c18670391d0c1e92ce3f5ca755fbb6194d0aa1d73ada6bfda5a71a63eb::bond::BOND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736097362219.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

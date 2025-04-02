@@ -1,0 +1,13 @@
+{
+  "name": "TEST DONT BUY",
+  "symbol": "TESTT",
+  "decimals": 9,
+  "coin_type": "0xdbc03b83a073ab61a87a08abce6f13d3da8252d41196ed13c579bfb168c263d2::testt::TESTT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

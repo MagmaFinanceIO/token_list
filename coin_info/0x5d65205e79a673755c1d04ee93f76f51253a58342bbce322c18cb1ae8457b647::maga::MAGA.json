@@ -1,0 +1,13 @@
+{
+  "name": "Elon And Donald",
+  "symbol": "MAGA",
+  "decimals": 9,
+  "coin_type": "0x5d65205e79a673755c1d04ee93f76f51253a58342bbce322c18cb1ae8457b647::maga::MAGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/vEMsMCWiu1daeWndk9gu2Vtd1GVcvb4nRfnZyULpump.png?size=lg&key=8d51d5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mystery Moon",
+  "symbol": "MYSTERYMOON",
+  "decimals": 6,
+  "coin_type": "0x7251b397148aa81f3f7fe95f8b4811ce62fde7117dd1cb80ddcde0cb3bb33d3a::mysterymoon::MYSTERYMOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/mysterymoonlogo_106eed4f81.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

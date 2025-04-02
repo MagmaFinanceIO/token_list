@@ -1,0 +1,13 @@
+{
+  "name": "First solana kid",
+  "symbol": "QUANT",
+  "decimals": 9,
+  "coin_type": "0x65808348539f9d98fdc73062bc5f2a99427b8e41874679445c3f22e98bae3185::quant::QUANT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/pEuyNfF4BXyLFmdaBhPxax36hxVNtkr1aXJTpCPpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

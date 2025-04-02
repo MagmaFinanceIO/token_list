@@ -1,0 +1,13 @@
+{
+  "name": "BOBO",
+  "symbol": "BOBO",
+  "decimals": 9,
+  "coin_type": "0x156ac6b084deda16761bdd0ccbe187393dde774bc48e598e302a33135072950a::bobo::BOBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/038c7f91-ba47-42d6-bd97-e70a01b79589.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

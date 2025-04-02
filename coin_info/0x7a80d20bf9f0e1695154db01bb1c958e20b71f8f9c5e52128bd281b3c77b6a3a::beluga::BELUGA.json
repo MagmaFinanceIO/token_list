@@ -1,0 +1,13 @@
+{
+  "name": "Beluga",
+  "symbol": "BELUGA",
+  "decimals": 9,
+  "coin_type": "0x7a80d20bf9f0e1695154db01bb1c958e20b71f8f9c5e52128bd281b3c77b6a3a::beluga::BELUGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ef899407-1c85-459d-833d-1b39e0420486.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

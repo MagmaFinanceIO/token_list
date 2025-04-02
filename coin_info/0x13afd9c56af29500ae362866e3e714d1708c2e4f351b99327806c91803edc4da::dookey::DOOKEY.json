@@ -1,0 +1,13 @@
+{
+  "name": "Dookey",
+  "symbol": "DOOKEY",
+  "decimals": 9,
+  "coin_type": "0x13afd9c56af29500ae362866e3e714d1708c2e4f351b99327806c91803edc4da::dookey::DOOKEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/apechain/0x6d78cc7cd6a6aa2d6760f2bcd66ea9658b21ad91.png?size=lg&key=5fa071",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

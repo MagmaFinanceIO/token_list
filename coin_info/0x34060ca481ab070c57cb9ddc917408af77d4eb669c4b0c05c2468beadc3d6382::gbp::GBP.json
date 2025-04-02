@@ -1,0 +1,13 @@
+{
+  "name": "GBP",
+  "symbol": "GBP",
+  "decimals": 2,
+  "coin_type": "0x34060ca481ab070c57cb9ddc917408af77d4eb669c4b0c05c2468beadc3d6382::gbp::GBP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/72801e60-04fb-4c0c-b971-b83b33cc9130.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CR7 COIN ON SUI",
+  "symbol": "CR7",
+  "decimals": 6,
+  "coin_type": "0xfc2f471a0217a4dfc1f952a7cbfb298a19486ec9c64b30a9c0471f217152c48b::cr7::CR7",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo1_c3e5a4ad6a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

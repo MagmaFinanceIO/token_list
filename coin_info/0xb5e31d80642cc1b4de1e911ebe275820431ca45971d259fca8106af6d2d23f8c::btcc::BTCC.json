@@ -1,0 +1,13 @@
+{
+  "name": "Bitcent",
+  "symbol": "BTCC",
+  "decimals": 9,
+  "coin_type": "0xb5e31d80642cc1b4de1e911ebe275820431ca45971d259fca8106af6d2d23f8c::btcc::BTCC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "FT-i2CuoXvfUcVAq",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "satosi revealed",
+  "symbol": "LEN",
+  "decimals": 9,
+  "coin_type": "0x94b4b5bc3c5fe619b87a28699a87e372a7c61886aa634e0aad8233feac41cb24::len::LEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/eef8ab5d-ec57-4ead-b7d0-630663a466ad.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

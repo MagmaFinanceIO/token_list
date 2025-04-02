@@ -1,0 +1,13 @@
+{
+  "name": "MAGA AI by SuiAI",
+  "symbol": "MAGAAI",
+  "decimals": 6,
+  "coin_type": "0xe2b2962247254b2ea11d818f3fa0e66716199bbc6154c139d1ef3d62adab072c::magaai::MAGAAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000000686_34acb1f11a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

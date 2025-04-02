@@ -1,0 +1,13 @@
+{
+  "name": "SUIQI",
+  "symbol": "SUIQI",
+  "decimals": 9,
+  "coin_type": "0x0be756ee5d1e1044c8618edb38e639bedb3e8e0fa98e0224533655d8eddfc3c7::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

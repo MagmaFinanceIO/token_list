@@ -1,0 +1,13 @@
+{
+  "name": "MULTICO",
+  "symbol": "MULTICO",
+  "decimals": 9,
+  "coin_type": "0xa5072a9ca67487c507b036c9b67a1be45fd70d363e1ebae3a17840e2502dce34::multico::MULTICO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/12Xj8VYrBpuBbDZH8bAQnNLZQnZakYfSeNBvfvoXpump.png?size=lg&key=c255f1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

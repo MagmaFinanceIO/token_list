@@ -1,0 +1,13 @@
+{
+  "name": "Cancel MrPunk",
+  "symbol": "CancelPunk",
+  "decimals": 9,
+  "coin_type": "0xb0f162ab60a2415714f91700aa2f402936e9d1e557d828818c0493a1d9add258::cancelpunk::CANCELPUNK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/igRHkYv54WYHgN4Y3HxJrWrJwV9BTbwntFwwStMq6od.png?size=lg&key=6dc304",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

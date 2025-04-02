@@ -1,0 +1,13 @@
+{
+  "name": "GOD",
+  "symbol": "GOD",
+  "decimals": 9,
+  "coin_type": "0xb388cdc5d04d9fcd2fd838935827071125a0369f49dc131cd6105a045882cd39::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

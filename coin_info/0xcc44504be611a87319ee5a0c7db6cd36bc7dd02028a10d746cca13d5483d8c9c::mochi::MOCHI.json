@@ -1,0 +1,13 @@
+{
+  "name": "MOCHI CAT",
+  "symbol": "MOCHI",
+  "decimals": 9,
+  "coin_type": "0xcc44504be611a87319ee5a0c7db6cd36bc7dd02028a10d746cca13d5483d8c9c::mochi::MOCHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/69mTURdADwzWdjugQExPNXLDhqkNgiWAn74yBdjxGunG.png?size=lg&key=a19261",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

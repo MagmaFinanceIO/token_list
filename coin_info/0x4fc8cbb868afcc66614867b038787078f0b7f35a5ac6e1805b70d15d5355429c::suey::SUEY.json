@@ -1,0 +1,13 @@
+{
+  "name": "SUEY THE SEAL",
+  "symbol": "SUEY",
+  "decimals": 6,
+  "coin_type": "0x4fc8cbb868afcc66614867b038787078f0b7f35a5ac6e1805b70d15d5355429c::suey::SUEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/sticker6_d497e9e72e_2906100157.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

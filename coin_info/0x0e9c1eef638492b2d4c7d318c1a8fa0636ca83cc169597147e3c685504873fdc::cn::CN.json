@@ -1,0 +1,13 @@
+{
+  "name": "CHINA FLAG",
+  "symbol": "CN",
+  "decimals": 6,
+  "coin_type": "0x0e9c1eef638492b2d4c7d318c1a8fa0636ca83cc169597147e3c685504873fdc::cn::CN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/cn.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

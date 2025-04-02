@@ -1,0 +1,13 @@
+{
+  "name": "jorkin",
+  "symbol": "jorkin",
+  "decimals": 9,
+  "coin_type": "0x3654857d3740afcface96e7efad939f2a3414b9e94ef699aa0eb700d56944a40::jorkin::JORKIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7ty3ruNJebb8RYmzfpUommJnZnCwaoB8RNfqpjLMpump.png?size=xl&key=fc8e62",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

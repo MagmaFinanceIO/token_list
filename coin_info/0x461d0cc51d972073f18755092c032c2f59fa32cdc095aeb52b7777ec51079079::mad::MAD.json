@@ -1,0 +1,13 @@
+{
+  "name": "Madapes",
+  "symbol": "Mad",
+  "decimals": 6,
+  "coin_type": "0x461d0cc51d972073f18755092c032c2f59fa32cdc095aeb52b7777ec51079079::mad::MAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1439_1c89178dff.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Giko Cat",
+  "symbol": "GIKO",
+  "decimals": 9,
+  "coin_type": "0xf6b29ba43cd5e72d47255efdbbaf9cf10ccb4f546868079aae2e8a12400164bd::giko::GIKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3WPep4ufaToK1aS5s8BL9inzeUrt4DYaQCiic6ZkkC1U.png?claimId=658698b36275",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

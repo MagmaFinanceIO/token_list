@@ -1,0 +1,13 @@
+{
+  "name": "Beaky Buzzard",
+  "symbol": "BUZZ",
+  "decimals": 9,
+  "coin_type": "0x3de9e806e0b4becf2a666066a03a15feeb9e5dc71ab07c2d5f33beb4948960b6::buzz::BUZZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8aed3a6d-fce8-4910-88d6-a3c8eac98f0e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

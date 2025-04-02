@@ -1,0 +1,13 @@
+{
+  "name": "Sui Park",
+  "symbol": "SUIPARK",
+  "decimals": 6,
+  "coin_type": "0xffac11c70976b06ac51b32d434818982a93f1c627001eeeb7d2952f7ade2f95c::suipark::SUIPARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suiparkprofff_ff50ac44d4.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

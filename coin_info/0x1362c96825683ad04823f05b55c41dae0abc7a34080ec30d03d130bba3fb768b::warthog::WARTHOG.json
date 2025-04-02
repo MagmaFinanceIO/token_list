@@ -1,0 +1,13 @@
+{
+  "name": "WarThog",
+  "symbol": "WarThog",
+  "decimals": 9,
+  "coin_type": "0x1362c96825683ad04823f05b55c41dae0abc7a34080ec30d03d130bba3fb768b::warthog::WARTHOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/58d64ffc-5192-4a49-a429-7735956e341d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

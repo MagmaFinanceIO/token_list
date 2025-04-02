@@ -1,0 +1,13 @@
+{
+  "name": "aSUI (Bridge on: suibridgev2.com)",
+  "symbol": "aSUI",
+  "decimals": 9,
+  "coin_type": "0x4ad64fe45c3eb5007d7145e191726371ccf5848d2786973fa924f2df1b76e780::asui::ASUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://s3.coinmarketcap.com/static-gravity/image/5bd0f43855f6434386c59f2341c5aaf0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

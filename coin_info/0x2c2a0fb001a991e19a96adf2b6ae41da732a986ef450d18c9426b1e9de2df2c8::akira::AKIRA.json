@@ -1,0 +1,13 @@
+{
+  "name": "Akira",
+  "symbol": "Akira",
+  "decimals": 6,
+  "coin_type": "0x2c2a0fb001a991e19a96adf2b6ae41da732a986ef450d18c9426b1e9de2df2c8::akira::AKIRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/VD0yEfRPfxP1S-Gl?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI WIF HAT",
+  "symbol": "WSUI",
+  "decimals": 9,
+  "coin_type": "0x5517e9f369e736ef8f7b9dfa38b8a1bd565d385993b854d8d8486992fa1cf8c5::wsui::WSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9c0144af-e634-4ee2-8075-ad1a5b61223f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

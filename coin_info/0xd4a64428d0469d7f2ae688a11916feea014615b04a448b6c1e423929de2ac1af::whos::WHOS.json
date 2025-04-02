@@ -1,0 +1,13 @@
+{
+  "name": "Whale Of Sui",
+  "symbol": "WHOS",
+  "decimals": 6,
+  "coin_type": "0xd4a64428d0469d7f2ae688a11916feea014615b04a448b6c1e423929de2ac1af::whos::WHOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/caf77cb0-2ba9-4971-be6c-c9b06eaa76e0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Anguilla",
+  "symbol": "Anguilla",
+  "decimals": 2,
+  "coin_type": "0xc54796b29b41211ebd5fa84ba76afbcec9f018f6332bcabb01d0254050b1fc98::anguilla::ANGUILLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9bc574d8-cbca-4c66-87ac-3b3846b53faf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

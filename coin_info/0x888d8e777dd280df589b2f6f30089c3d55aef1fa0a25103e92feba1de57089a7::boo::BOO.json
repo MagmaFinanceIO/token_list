@@ -1,0 +1,13 @@
+{
+  "name": "BOO on Sui",
+  "symbol": "BOO",
+  "decimals": 9,
+  "coin_type": "0x888d8e777dd280df589b2f6f30089c3d55aef1fa0a25103e92feba1de57089a7::boo::BOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/646d5633-56a7-435f-8ee1-73c7f5242362.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

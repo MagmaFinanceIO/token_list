@@ -1,0 +1,13 @@
+{
+  "name": "Soil Shine",
+  "symbol": "SOILIN",
+  "decimals": 2,
+  "coin_type": "0xc8e0b0d18364b72af76e0160cf375a86fcf6400d2a91a42b0c87102ff6686002::soilin::SOILIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/93911feb-6f1e-40cc-9e02-dd83c4d6719f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Koko",
+  "symbol": "SuiKoko",
+  "decimals": 9,
+  "coin_type": "0x2f53cb1deb357f6c6448bd55be0ecea20835d9c57a99d4494c9e3a19efb0ee10::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2F2024_10_21_23_48_17_33c64a7c6a.jpg&w=256&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

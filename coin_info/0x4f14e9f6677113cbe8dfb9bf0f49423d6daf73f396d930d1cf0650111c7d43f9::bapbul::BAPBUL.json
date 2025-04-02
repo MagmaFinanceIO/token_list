@@ -1,0 +1,13 @@
+{
+  "name": "BAPBUL On Sui",
+  "symbol": "BAPBUL",
+  "decimals": 9,
+  "coin_type": "0x4f14e9f6677113cbe8dfb9bf0f49423d6daf73f396d930d1cf0650111c7d43f9::bapbul::BAPBUL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/af5b8cfa-e9e3-41e8-b419-4399a2a5a2b3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

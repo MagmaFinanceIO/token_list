@@ -1,0 +1,13 @@
+{
+  "name": "MAGA",
+  "symbol": "MAKE AMERICA GREAT AGAIN",
+  "decimals": 8,
+  "coin_type": "0x82ac1327de1f266b862043b9921b3fd352b692c9800457d2b9090f5464645e69::maga::MAGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://example.com/maga-icon.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

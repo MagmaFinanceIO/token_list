@@ -1,0 +1,13 @@
+{
+  "name": "DONALD BOT by SuiAI",
+  "symbol": "DON",
+  "decimals": 6,
+  "coin_type": "0xbc7db9242015a3719d27905fd438e0f0864c2d36b66f1682325ed23f2dbc9783::don::DON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/DON_e99d4dc885.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ELON MUSK D.O.G.E",
+  "symbol": "EMDOGE",
+  "decimals": 9,
+  "coin_type": "0xee6204611147031e9e79c8a8d39936dce9cce9a15cf658f58f309e2e88d7045c::emdoge::EMDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a657586b-7b4d-43c5-8251-077c80cc1c43.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

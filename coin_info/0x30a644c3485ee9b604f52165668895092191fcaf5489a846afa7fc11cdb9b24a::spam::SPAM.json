@@ -1,0 +1,13 @@
+{
+  "name": "SPAM",
+  "symbol": "SPAM",
+  "decimals": 4,
+  "coin_type": "0x30a644c3485ee9b604f52165668895092191fcaf5489a846afa7fc11cdb9b24a::spam::SPAM",
+  "pyth_id": "",
+  "birdeyeid": "0x30a644c3485ee9b604f52165668895092191fcaf5489a846afa7fc11cdb9b24a::spam::SPAM",
+  "coin_priority": [],
+  "logo_url": "https://3fc4a4tjkjryoqps44rgwhydihn5htqyfjmrrmlouf6rt5qyxjbq.arweave.net/2UXAcmlSY4dB8uciax8DQdvTzhgqWRixbqF9GfYYukM",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

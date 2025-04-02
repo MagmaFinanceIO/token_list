@@ -1,0 +1,13 @@
+{
+  "name": "DONUT",
+  "symbol": "DONUT",
+  "decimals": 9,
+  "coin_type": "0x3f5a45456b47a51e112a25513b446dcd2ecf6baadf3bed8594f1f7a6ac9f2cfe::donut::DONUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b4d491d9-1e35-4cf0-aab3-ce3f73b5c7f4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

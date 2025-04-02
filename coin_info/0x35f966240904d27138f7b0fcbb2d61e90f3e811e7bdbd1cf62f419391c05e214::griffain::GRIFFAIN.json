@@ -1,0 +1,13 @@
+{
+  "name": "GRIFFAIN OFFICIAL",
+  "symbol": "GRIFFAIN",
+  "decimals": 9,
+  "coin_type": "0x35f966240904d27138f7b0fcbb2d61e90f3e811e7bdbd1cf62f419391c05e214::griffain::GRIFFAIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9wEzswwAPefd3j9TuLsFUPVN6NqL83QMk2v9gxR5LdTR.png?claimId=Y2k-hdpKHZvEUi1W",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

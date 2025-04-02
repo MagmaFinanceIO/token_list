@@ -1,0 +1,13 @@
+{
+  "name": "Hulk Coin",
+  "symbol": "HULKCOIN",
+  "decimals": 9,
+  "coin_type": "0x7fe154ae490f1293b19cc7cdeb87c9d146c37c2252e6284c84ef39ea4f7f3f43::hulkcoin::HULKCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c09c665d-3ee6-44c6-9db6-8f595bbd2138.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

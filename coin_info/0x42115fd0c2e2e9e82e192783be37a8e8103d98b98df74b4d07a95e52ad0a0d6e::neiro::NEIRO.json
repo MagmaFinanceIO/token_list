@@ -1,0 +1,13 @@
+{
+  "name": "Neiro On SUI",
+  "symbol": "NEIRO",
+  "decimals": 6,
+  "coin_type": "0x42115fd0c2e2e9e82e192783be37a8e8103d98b98df74b4d07a95e52ad0a0d6e::neiro::NEIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_9692_c758afa043.PNG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

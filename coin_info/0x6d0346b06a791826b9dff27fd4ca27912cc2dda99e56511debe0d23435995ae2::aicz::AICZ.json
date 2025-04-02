@@ -1,0 +1,13 @@
+{
+  "name": "Artificial CZ",
+  "symbol": "AICZ",
+  "decimals": 9,
+  "coin_type": "0x6d0346b06a791826b9dff27fd4ca27912cc2dda99e56511debe0d23435995ae2::aicz::AICZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/bsc/0x2ff8d8cae3a9633285c60150099bad25c9b4e5d9.png?size=lg&key=5da8c3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

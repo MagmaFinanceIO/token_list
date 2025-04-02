@@ -1,0 +1,13 @@
+{
+  "name": "Pepe on Sui",
+  "symbol": "Suepe",
+  "decimals": 6,
+  "coin_type": "0x03e0bacd2aea6964ff736ce6ab5d0c45084a636a0fad70aacd64a1907309f9fe::suepe::SUEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0801_b95571c99b.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

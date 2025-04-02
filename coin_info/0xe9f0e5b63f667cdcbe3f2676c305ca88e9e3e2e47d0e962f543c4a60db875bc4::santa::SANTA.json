@@ -1,0 +1,13 @@
+{
+  "name": "SANTA COIN ON SUI",
+  "symbol": "SANTA",
+  "decimals": 6,
+  "coin_type": "0xe9f0e5b63f667cdcbe3f2676c305ca88e9e3e2e47d0e962f543c4a60db875bc4::santa::SANTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/LOGO_SANTA_c611b7f97c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

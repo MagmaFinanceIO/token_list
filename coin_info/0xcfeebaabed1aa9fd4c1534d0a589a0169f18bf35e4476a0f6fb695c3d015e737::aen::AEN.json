@@ -1,0 +1,13 @@
+{
+  "name": "ai.ien",
+  "symbol": "AEN",
+  "decimals": 9,
+  "coin_type": "0xcfeebaabed1aa9fd4c1534d0a589a0169f18bf35e4476a0f6fb695c3d015e737::aen::AEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e3ab7c2a-ceac-4eb5-a62d-f7c38f76e90d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "QUANT",
+  "symbol": "QUANT",
+  "decimals": 6,
+  "coin_type": "0xac6250109a3fe27c833b1311f79ccf1c338967b969a30888fede7a2fea807d42::quant::QUANT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b07e142f-28c8-4119-aa56-3e8d32100adf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

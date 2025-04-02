@@ -1,0 +1,13 @@
+{
+  "name": "Wrapped SOL",
+  "symbol": "SOL",
+  "decimals": 8,
+  "coin_type": "0xa4aa0d87fe80b99690f82ffe89ecdb3bf352388026cc7e4a72b30ea67327ae00::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

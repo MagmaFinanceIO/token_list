@@ -1,0 +1,13 @@
+{
+  "name": "Mooooooooooooo coin",
+  "symbol": "Mo",
+  "decimals": 9,
+  "coin_type": "0xe0161e90d6fb2f790f8ff67e5de7cf6a5e8b9ef33e8bfe2cb36b3f69a390d921::mo::MO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmPeKytaaa96GGozHBJjxXQD5kjh7JGZBctn5vaoHZ24Wz",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

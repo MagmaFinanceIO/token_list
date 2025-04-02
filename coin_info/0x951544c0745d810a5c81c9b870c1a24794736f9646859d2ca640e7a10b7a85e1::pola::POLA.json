@@ -1,0 +1,13 @@
+{
+  "name": "POLA SUI",
+  "symbol": "POLA",
+  "decimals": 6,
+  "coin_type": "0x951544c0745d810a5c81c9b870c1a24794736f9646859d2ca640e7a10b7a85e1::pola::POLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/OIP_5109cbb3f4.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

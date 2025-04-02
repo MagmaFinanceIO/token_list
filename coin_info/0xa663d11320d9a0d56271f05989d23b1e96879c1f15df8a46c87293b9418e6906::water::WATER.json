@@ -1,0 +1,13 @@
+{
+  "name": "Squirtle",
+  "symbol": "WATER",
+  "decimals": 9,
+  "coin_type": "0xa663d11320d9a0d56271f05989d23b1e96879c1f15df8a46c87293b9418e6906::water::WATER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4ae2d05f-fd21-4ae7-9cf3-ab0ddc5fc1d4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

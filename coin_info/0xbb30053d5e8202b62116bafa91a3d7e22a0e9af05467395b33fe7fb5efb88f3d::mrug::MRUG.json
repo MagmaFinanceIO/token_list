@@ -1,0 +1,13 @@
+{
+  "name": "Meow Rug",
+  "symbol": "MRUG",
+  "decimals": 6,
+  "coin_type": "0xbb30053d5e8202b62116bafa91a3d7e22a0e9af05467395b33fe7fb5efb88f3d::mrug::MRUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/mrug_f2a0f21c0f.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

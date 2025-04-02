@@ -1,0 +1,13 @@
+{
+  "name": "SUICARP",
+  "symbol": "SCARP",
+  "decimals": 6,
+  "coin_type": "0xbdeeb0213615b47fd45fd1e863f9a88907c8dabfc739012dad302612b4d41645::scarp::SCARP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_14_01_50_55_04e405b3d1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

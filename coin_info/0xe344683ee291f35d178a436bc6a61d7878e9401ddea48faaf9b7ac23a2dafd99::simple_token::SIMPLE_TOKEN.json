@@ -1,0 +1,13 @@
+{
+  "name": "BAI on sui",
+  "symbol": "BAI",
+  "decimals": 9,
+  "coin_type": "0xe344683ee291f35d178a436bc6a61d7878e9401ddea48faaf9b7ac23a2dafd99::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

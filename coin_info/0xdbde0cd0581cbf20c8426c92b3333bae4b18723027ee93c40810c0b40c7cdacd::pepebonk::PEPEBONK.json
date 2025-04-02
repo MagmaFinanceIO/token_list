@@ -1,0 +1,13 @@
+{
+  "name": "PepeBonk",
+  "symbol": "PepeBonk",
+  "decimals": 9,
+  "coin_type": "0xdbde0cd0581cbf20c8426c92b3333bae4b18723027ee93c40810c0b40c7cdacd::pepebonk::PEPEBONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dc671e43-cf23-4771-a741-6c1cd0a68426.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

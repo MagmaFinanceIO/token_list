@@ -1,0 +1,13 @@
+{
+  "name": "ZK Rollups GPT",
+  "symbol": "ZGPT",
+  "decimals": 6,
+  "coin_type": "0x554909eb336eda9c73f7ea13212c8786947512da47f98585ff371ad8193a6b2b::zgpt::ZGPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ddfab1a3-8c07-4289-b4ff-dad82e29b941.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DUKES",
+  "symbol": "DUKE",
+  "decimals": 6,
+  "coin_type": "0x715285af7a0b04ef2c35d0620bfa5b232f8b70f0244dc6b89299fa590fc6a42d::duke::DUKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_11_13_17_37_02_442821b823.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

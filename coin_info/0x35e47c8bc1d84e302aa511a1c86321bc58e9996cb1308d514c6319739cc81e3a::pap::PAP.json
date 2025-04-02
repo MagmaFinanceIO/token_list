@@ -1,0 +1,13 @@
+{
+  "name": "Puff And Pass",
+  "symbol": "PAP",
+  "decimals": 9,
+  "coin_type": "0x35e47c8bc1d84e302aa511a1c86321bc58e9996cb1308d514c6319739cc81e3a::pap::PAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

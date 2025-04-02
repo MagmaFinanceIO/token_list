@@ -1,0 +1,13 @@
+{
+  "name": "Eebbers",
+  "symbol": "EEBB",
+  "decimals": 9,
+  "coin_type": "0x09aae5247b63e377a2e5689978f7b6a1d0c5ac4ec4800e703cea242e3c68e35f::eebb::EEBB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fc524c93-4acc-4a61-8e21-5df73e7dcb66.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

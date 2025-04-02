@@ -1,0 +1,13 @@
+{
+  "name": "Floss Gumball",
+  "symbol": "GUMBALL",
+  "decimals": 9,
+  "coin_type": "0x826f5140e9804a1b6368324994f9bfb69abc89afb3edf0fe750e2bb169d8685c::gumball::GUMBALL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CQDWVMgPWQc9dVrcjBVoXFTjjrhqX1jHwMYTofacuJQE.png?size=lg&key=5b4ec3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suigar",
+  "symbol": "SUIGAR",
+  "decimals": 9,
+  "coin_type": "0x15d3a080049b1af863575bca11c60a140432accf5aa82b022e43d30baa570a95::suigar::SUIGAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7jnwdB3sMejZq97V7mwpwUajhxbhxJFaaM7Tyn6M9sSH.png?size=lg&key=8d0bbb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

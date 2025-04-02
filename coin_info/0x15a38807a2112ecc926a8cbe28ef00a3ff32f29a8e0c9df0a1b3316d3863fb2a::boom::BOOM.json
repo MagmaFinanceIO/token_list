@@ -1,0 +1,13 @@
+{
+  "name": "Boombie",
+  "symbol": "BOOM",
+  "decimals": 9,
+  "coin_type": "0x15a38807a2112ecc926a8cbe28ef00a3ff32f29a8e0c9df0a1b3316d3863fb2a::boom::BOOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://file-walletapp.waveonsui.com/images/wave-pumps/fe6ee171-c0b5-456d-a9e7-649d9ab5bd7d.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Popdeng",
+  "symbol": "POPDENG",
+  "decimals": 6,
+  "coin_type": "0x522efa959f2c77d4874e1f77a0e01095558dfe747da344caf9e766d3e2ac0c2b::popdeng::POPDENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6807_a3ab0e0a1a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

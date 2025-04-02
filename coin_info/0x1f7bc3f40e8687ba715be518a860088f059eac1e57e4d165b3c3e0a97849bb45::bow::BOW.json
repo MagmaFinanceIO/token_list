@@ -1,0 +1,13 @@
+{
+  "name": "Bo'ohw'o'wo'er",
+  "symbol": "BOW",
+  "decimals": 6,
+  "coin_type": "0x1f7bc3f40e8687ba715be518a860088f059eac1e57e4d165b3c3e0a97849bb45::bow::BOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000007480_7065ee03c7.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

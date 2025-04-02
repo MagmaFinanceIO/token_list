@@ -1,0 +1,13 @@
+{
+  "name": "SHIBUSSYONSUI",
+  "symbol": "SBS",
+  "decimals": 6,
+  "coin_type": "0x9655c8f930820bea2e47abfd3a4d38edae4f13502e3d61e3a0cda9650babf47f::sbs::SBS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0304_1a136f18e6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

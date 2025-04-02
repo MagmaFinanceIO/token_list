@@ -1,0 +1,13 @@
+{
+  "name": "Stoney the Frog",
+  "symbol": "STONEY",
+  "decimals": 9,
+  "coin_type": "0x8253ba917d250097cddcf5f2e3d9f70da5d98a517a6a26dda791196c9aeda01d::stoney::STONEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/HQ9MMrKcpTIG_b0Q?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

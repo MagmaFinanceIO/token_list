@@ -1,0 +1,13 @@
+{
+  "name": "sui rilla",
+  "symbol": "Suirilla",
+  "decimals": 6,
+  "coin_type": "0xe7d8cfe0704751de2aa1304b6cb5a7814116ac5f55fc1dd905ac666f94c985c1::suirilla::SUIRILLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4681_aa9dd939e3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

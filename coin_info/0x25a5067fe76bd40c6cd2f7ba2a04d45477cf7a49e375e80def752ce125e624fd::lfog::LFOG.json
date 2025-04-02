@@ -1,0 +1,13 @@
+{
+  "name": "Light Dog",
+  "symbol": "LFOG",
+  "decimals": 6,
+  "coin_type": "0x25a5067fe76bd40c6cd2f7ba2a04d45477cf7a49e375e80def752ce125e624fd::lfog::LFOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmXy5wRB1PFZqGBJCigqXdww5izCsU6DG2AuUdqJds4m7R",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

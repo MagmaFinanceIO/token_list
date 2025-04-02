@@ -1,0 +1,13 @@
+{
+  "name": "ferg",
+  "symbol": "ferg",
+  "decimals": 9,
+  "coin_type": "0x4243ab2f261bbd8e2c55516478663f5116b872fef21ddbd9f08aa21c5ef4d1c3::ferg::FERG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/H3EY9q3rVxnUe56gF2YX6SJ5q8YAUbyNADyc2xPLpump.png?size=lg&key=498679",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

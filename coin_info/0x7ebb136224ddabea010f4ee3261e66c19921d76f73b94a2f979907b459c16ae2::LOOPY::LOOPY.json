@@ -1,0 +1,13 @@
+{
+  "name": "LOOPY",
+  "symbol": "LOOPY",
+  "decimals": 2,
+  "coin_type": "0x7ebb136224ddabea010f4ee3261e66c19921d76f73b94a2f979907b459c16ae2::LOOPY::LOOPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/-0ZL6sYpkovz9_EE3VtIIMhajSOkzAWDo3DUJdtvOXI?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

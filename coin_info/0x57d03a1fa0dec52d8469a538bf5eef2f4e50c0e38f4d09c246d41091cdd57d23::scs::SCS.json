@@ -1,0 +1,13 @@
+{
+  "name": "Simon's cat sui",
+  "symbol": "Scs",
+  "decimals": 6,
+  "coin_type": "0x57d03a1fa0dec52d8469a538bf5eef2f4e50c0e38f4d09c246d41091cdd57d23::scs::SCS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000022374_b0ec12286b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

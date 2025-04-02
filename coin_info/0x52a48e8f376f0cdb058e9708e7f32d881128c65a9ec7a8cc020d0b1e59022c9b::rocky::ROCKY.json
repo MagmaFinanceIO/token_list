@@ -1,0 +1,13 @@
+{
+  "name": "SUIROCKY",
+  "symbol": "ROCKY",
+  "decimals": 6,
+  "coin_type": "0x52a48e8f376f0cdb058e9708e7f32d881128c65a9ec7a8cc020d0b1e59022c9b::rocky::ROCKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_R6n_K9q_Ncj4z_VJ_Ay_Na_F_Zs98_EMSXJ_Pe_S7_Bcbj_Qxwxi_Gb_ZA_84d6e1beab.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

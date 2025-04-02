@@ -1,0 +1,13 @@
+{
+  "name": "Sui Strike",
+  "symbol": "SSTRK",
+  "decimals": 6,
+  "coin_type": "0xdef5831488d6b0cd1edd10affc7db83b679552c449dd9250f9dc8649f4437462::sstrk::SSTRK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/DALLA_E_2025_01_13_16_07_22_A_cartoonish_portrait_of_a_confident_soldier_in_a_modern_combat_uniform_The_soldier_wears_a_tactical_helmet_with_goggles_a_rugged_vest_with_gear_an_6afbe0fa85.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

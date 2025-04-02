@@ -1,0 +1,13 @@
+{
+  "name": "Trump Target",
+  "symbol": "TRTGT",
+  "decimals": 9,
+  "coin_type": "0x9fc635eaca9045177f2329962572cdf255eef4091fc6734e80b8cf76adcda452::trtgt::TRTGT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/682d7460-3f98-4148-91b0-c5c3145dc97d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

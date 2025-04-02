@@ -1,0 +1,13 @@
+{
+  "name": "Just a chill baby",
+  "symbol": "CHILBABY",
+  "decimals": 9,
+  "coin_type": "0x8205000386ba3d1a8e7835e0db20918d879b7a3d0037b73f34f6d49fefd5a82a::chilbaby::CHILBABY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HaigRoYiu3Wct3jiBq2uRa8EdTafU88VGo7Kecudpump.png?size=lg&key=e3812f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

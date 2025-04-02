@@ -1,0 +1,13 @@
+{
+  "name": "PINO THE DINO SUI",
+  "symbol": "PINO",
+  "decimals": 9,
+  "coin_type": "0xa560baa39d4203e704c27ebf921bfd88d93919e545b9220d469682eb7dbe93e7::pino::PINO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3911657d-0ae8-4ee4-81a4-580b74f2847b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

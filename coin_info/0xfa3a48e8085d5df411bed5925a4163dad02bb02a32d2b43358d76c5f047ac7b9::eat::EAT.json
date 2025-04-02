@@ -1,0 +1,13 @@
+{
+  "name": "EAT Token",
+  "symbol": "EAT",
+  "decimals": 6,
+  "coin_type": "0xfa3a48e8085d5df411bed5925a4163dad02bb02a32d2b43358d76c5f047ac7b9::eat::EAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreiepkmnmiwdxsvsldfefghfwkr2fzyrtaybfdx5nbmsynbdmppqd6q.ipfs.w3s.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

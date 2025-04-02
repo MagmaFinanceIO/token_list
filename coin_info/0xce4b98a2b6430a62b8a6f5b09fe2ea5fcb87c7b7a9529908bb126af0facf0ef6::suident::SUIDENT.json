@@ -1,0 +1,13 @@
+{
+  "name": "Sui Trident",
+  "symbol": "SUIDENT",
+  "decimals": 6,
+  "coin_type": "0xce4b98a2b6430a62b8a6f5b09fe2ea5fcb87c7b7a9529908bb126af0facf0ef6::suident::SUIDENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Suident_8aa89d8e5d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

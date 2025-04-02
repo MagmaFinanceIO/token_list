@@ -1,0 +1,13 @@
+{
+  "name": "PENGUIN WIF SUI HAT",
+  "symbol": "PEWS",
+  "decimals": 9,
+  "coin_type": "0x652053b79c6cdcb20044fe7c1c210c578d0f19a7d6957469ecaba3728135b235::pews::PEWS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/75927789-b469-4fdd-93d5-30aff72229fa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

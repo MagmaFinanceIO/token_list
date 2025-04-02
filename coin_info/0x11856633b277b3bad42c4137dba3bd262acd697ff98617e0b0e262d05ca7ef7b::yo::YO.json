@@ -1,0 +1,13 @@
+{
+  "name": "Yojo",
+  "symbol": "Yo",
+  "decimals": 9,
+  "coin_type": "0x11856633b277b3bad42c4137dba3bd262acd697ff98617e0b0e262d05ca7ef7b::yo::YO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

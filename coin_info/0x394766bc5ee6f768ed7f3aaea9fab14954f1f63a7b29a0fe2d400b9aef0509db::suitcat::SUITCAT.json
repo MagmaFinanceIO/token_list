@@ -1,0 +1,13 @@
+{
+  "name": "SuitCat",
+  "symbol": "Suitcat",
+  "decimals": 6,
+  "coin_type": "0x394766bc5ee6f768ed7f3aaea9fab14954f1f63a7b29a0fe2d400b9aef0509db::suitcat::SUITCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suitcat_3ef978aa87.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

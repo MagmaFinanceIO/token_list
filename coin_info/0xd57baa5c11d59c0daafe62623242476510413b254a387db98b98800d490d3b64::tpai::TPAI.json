@@ -1,0 +1,13 @@
+{
+  "name": "trade pal AI",
+  "symbol": "TPAI",
+  "decimals": 9,
+  "coin_type": "0xd57baa5c11d59c0daafe62623242476510413b254a387db98b98800d490d3b64::tpai::TPAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DB5EA58W1DBLabqTdvXryzqtiSTWsWugE6PX8jXFpump.png?size=lg&key=c4e7ed",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ricky The Penguin",
+  "symbol": "RICKY",
+  "decimals": 6,
+  "coin_type": "0x89b366cc0a2aaef7fc0438342a1c154c1e83aea040a8a4802bbbfc70ded52716::ricky::RICKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pingu_prof_32328b309d.JPEG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

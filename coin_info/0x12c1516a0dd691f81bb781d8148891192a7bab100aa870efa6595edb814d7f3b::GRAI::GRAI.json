@@ -1,0 +1,13 @@
+{
+  "name": "GRAI",
+  "symbol": "GRAI",
+  "decimals": 9,
+  "coin_type": "0x12c1516a0dd691f81bb781d8148891192a7bab100aa870efa6595edb814d7f3b::GRAI::GRAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://graiscale.fun/logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

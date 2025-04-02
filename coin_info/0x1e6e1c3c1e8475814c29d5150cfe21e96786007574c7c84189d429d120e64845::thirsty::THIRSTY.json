@@ -1,0 +1,13 @@
+{
+  "name": "Thirsty Sponge Bob",
+  "symbol": "THIRSTY",
+  "decimals": 6,
+  "coin_type": "0x1e6e1c3c1e8475814c29d5150cfe21e96786007574c7c84189d429d120e64845::thirsty::THIRSTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_55_88a08a5ef4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

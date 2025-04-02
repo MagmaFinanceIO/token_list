@@ -1,0 +1,13 @@
+{
+  "name": "Spooky Sui",
+  "symbol": "SPOOKY",
+  "decimals": 6,
+  "coin_type": "0x7f8581d66a3ce4bb977af4b89d1e2463f2c906d62752ecc1c460ff908437cc1c::spooky::SPOOKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SPOOKY_LOGO_eff9feb84b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

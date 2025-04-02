@@ -1,0 +1,13 @@
+{
+  "name": "PepeSui",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "coin_type": "0xe9971467842ffe256d908a2143c8b141527d66fb7b87e7b7701df018a3be064a::pepe::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/CsPV1kr/Group-85-1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

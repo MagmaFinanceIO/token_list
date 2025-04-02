@@ -1,0 +1,13 @@
+{
+  "name": "Suilor moon",
+  "symbol": "SMO",
+  "decimals": 6,
+  "coin_type": "0xa8ad55c2eab2d323851d99b15a4026611fea369a591b0af85b3aeb34a650979b::smo::SMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000035719_1d1d24e526.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

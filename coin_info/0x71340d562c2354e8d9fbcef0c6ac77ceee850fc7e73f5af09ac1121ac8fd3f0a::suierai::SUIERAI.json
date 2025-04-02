@@ -1,0 +1,13 @@
+{
+  "name": "SUIER AI",
+  "symbol": "SUIERAI",
+  "decimals": 9,
+  "coin_type": "0x71340d562c2354e8d9fbcef0c6ac77ceee850fc7e73f5af09ac1121ac8fd3f0a::suierai::SUIERAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8BDnLQ7YaHjyu1bGvRTq39jUEp7kb73dSTLQgnRypump.png?size=lg&key=faf8cc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Poker Pepe",
+  "symbol": "POPE",
+  "decimals": 9,
+  "coin_type": "0x3f42c650e106c0f803258aaa648b574f86b09371ce314299385eb7babeb29e45::pope::POPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/8bylxf-cH8el4-Pn?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

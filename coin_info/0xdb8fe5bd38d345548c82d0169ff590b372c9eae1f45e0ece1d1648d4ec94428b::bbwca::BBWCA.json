@@ -1,0 +1,13 @@
+{
+  "name": "Binance Halloween Cat",
+  "symbol": "BBWCA",
+  "decimals": 9,
+  "coin_type": "0xdb8fe5bd38d345548c82d0169ff590b372c9eae1f45e0ece1d1648d4ec94428b::bbwca::BBWCA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/39LeswCXKeEGESiBPNUUEkvRyMp5UeqC7dGw1uT5pump.png?size=xl&key=625842",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

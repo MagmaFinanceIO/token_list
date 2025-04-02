@@ -1,0 +1,13 @@
+{
+  "name": "Meme CUP",
+  "symbol": "MCUP",
+  "decimals": 6,
+  "coin_type": "0xb50c159f5603cd1d56c665025ab37f5d193db2c426d0fcdc4c862e28d1531b80::mcup::MCUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMmsrcAd7-mhPfbF72TzBhdTvvETkWMu7Eug&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ACAV Crypto Coin",
+  "symbol": "ACAV",
+  "decimals": 9,
+  "coin_type": "0x6b687eab92a17819cff9885792a0f33d42d92f1593ea44f85a3310f09860c582::acav::ACAV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ba0d68b6-71ff-4077-be64-49ea1ea9be29.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Aqua",
+  "symbol": "AQUA",
+  "decimals": 6,
+  "coin_type": "0xbbfef639b774fd39fecd5cd4eb5be9c2849aa2534c295885acccfc6911d830ab::aqua::AQUA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736671553119.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

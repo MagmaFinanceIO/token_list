@@ -1,0 +1,13 @@
+{
+  "name": "SUISHI Coin",
+  "symbol": "SUISHI",
+  "decimals": 9,
+  "coin_type": "0x1d66e9f5bb0a9080f86b240fe4840dd08d5e512f34e42b949b3d24a3dcbe50d4::suishi::SUISHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/12370da6-556a-4b2c-81ef-4f3d7d311756.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

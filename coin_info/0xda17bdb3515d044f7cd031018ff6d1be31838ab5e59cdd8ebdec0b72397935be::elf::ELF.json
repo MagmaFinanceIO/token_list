@@ -1,0 +1,13 @@
+{
+  "name": "Buddy The Elf",
+  "symbol": "ELF",
+  "decimals": 9,
+  "coin_type": "0xda17bdb3515d044f7cd031018ff6d1be31838ab5e59cdd8ebdec0b72397935be::elf::ELF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c83af6e9-3840-43d7-8a99-f1e5fe183d0b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

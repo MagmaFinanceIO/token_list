@@ -1,0 +1,13 @@
+{
+  "name": "SMARTAI",
+  "symbol": "SMARTAI",
+  "decimals": 9,
+  "coin_type": "0xcaad010ba6210c7a98b11d7d5e5fd06c560d6cd353cb695aab166e40e585e83a::smartai::SMARTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4QTcNbmrSLoZ7UsK2MhsY6iL9mhFR8ockyfRysXnqw2n.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

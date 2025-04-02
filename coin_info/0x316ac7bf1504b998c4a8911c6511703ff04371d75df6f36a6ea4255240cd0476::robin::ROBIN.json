@@ -1,0 +1,13 @@
+{
+  "name": "Robin",
+  "symbol": "ROBIN",
+  "decimals": 9,
+  "coin_type": "0x316ac7bf1504b998c4a8911c6511703ff04371d75df6f36a6ea4255240cd0476::robin::ROBIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FcRw48xZw1wF81hhKgoqN2EgJ5UmmxkmMqbfqTj6eDGJ.png?size=lg&key=bbebaa",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

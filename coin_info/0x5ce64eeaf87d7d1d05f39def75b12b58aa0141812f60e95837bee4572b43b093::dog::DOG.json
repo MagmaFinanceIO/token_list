@@ -1,0 +1,13 @@
+{
+  "name": "The Doge NFT",
+  "symbol": "DOG",
+  "decimals": 9,
+  "coin_type": "0x5ce64eeaf87d7d1d05f39def75b12b58aa0141812f60e95837bee4572b43b093::dog::DOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xbaac2b4491727d78d2b78815144570b9f2fe8899.png?size=lg&key=1ddf89",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

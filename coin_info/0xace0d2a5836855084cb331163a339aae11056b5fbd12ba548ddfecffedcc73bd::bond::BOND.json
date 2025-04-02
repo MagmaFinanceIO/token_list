@@ -1,0 +1,13 @@
+{
+  "name": "Sui Bond",
+  "symbol": "BOND",
+  "decimals": 9,
+  "coin_type": "0xace0d2a5836855084cb331163a339aae11056b5fbd12ba548ddfecffedcc73bd::bond::BOND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cfdcc44b-fcbb-4a26-8440-a44f72248dbe.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

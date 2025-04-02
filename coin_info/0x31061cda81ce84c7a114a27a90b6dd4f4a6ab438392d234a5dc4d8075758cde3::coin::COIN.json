@@ -1,0 +1,13 @@
+{
+  "name": "WUSDC",
+  "symbol": "WUSDC",
+  "decimals": 6,
+  "coin_type": "0x31061cda81ce84c7a114a27a90b6dd4f4a6ab438392d234a5dc4d8075758cde3::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "LAMP.",
+  "symbol": "LAMP",
+  "decimals": 6,
+  "coin_type": "0x61747ec625ec0b812a2a0f1ecf0b5321d19da9691d6d3e66622788914990a753::lamp::LAMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Web_Photo_Editor_37e2f6fd9d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

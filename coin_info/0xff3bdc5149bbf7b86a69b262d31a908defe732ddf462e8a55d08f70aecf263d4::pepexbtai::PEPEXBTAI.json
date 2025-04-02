@@ -1,0 +1,13 @@
+{
+  "name": "PepeXBT - AI Agent Streamer",
+  "symbol": "PepeXBTAI",
+  "decimals": 9,
+  "coin_type": "0xff3bdc5149bbf7b86a69b262d31a908defe732ddf462e8a55d08f70aecf263d4::pepexbtai::PEPEXBTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6AfAM82UPCaFVNzJvRwszDjuCmyWSebgXM2CQHpUrs2u.png?size=lg&key=e63ff6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

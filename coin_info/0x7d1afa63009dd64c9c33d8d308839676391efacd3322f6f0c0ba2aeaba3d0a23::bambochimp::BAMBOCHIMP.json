@@ -1,0 +1,13 @@
+{
+  "name": "SuiBambo",
+  "symbol": "SUI BAMBO CHIMP",
+  "decimals": 6,
+  "coin_type": "0x7d1afa63009dd64c9c33d8d308839676391efacd3322f6f0c0ba2aeaba3d0a23::bambochimp::BAMBOCHIMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/30f4f51f-2126-40a5-8bf2-b8e8ac23b1ba.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

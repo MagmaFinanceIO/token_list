@@ -1,0 +1,13 @@
+{
+  "name": "Chill Bull",
+  "symbol": "CHILLBULL",
+  "decimals": 6,
+  "coin_type": "0x0345bb52817c851e938c5409dac7ca4e9ce40a88fcf02cc4a18b8e49260b8b0a::chillbull::CHILLBULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/CHILL_BUL_fac724fff2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

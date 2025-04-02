@@ -1,0 +1,13 @@
+{
+  "name": "Ton Yasu",
+  "symbol": "YASU",
+  "decimals": 9,
+  "coin_type": "0x8314a8e45a212c5aa5e6a812c1056268952bacf6a34ff509155478083124f4bd::yasu::YASU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/848/549/large/toh-yasu-20241013.jpg?1728669833",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

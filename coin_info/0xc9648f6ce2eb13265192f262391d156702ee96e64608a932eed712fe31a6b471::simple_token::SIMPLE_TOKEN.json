@@ -1,0 +1,13 @@
+{
+  "name": "ONE",
+  "symbol": "ONE",
+  "decimals": 9,
+  "coin_type": "0xc9648f6ce2eb13265192f262391d156702ee96e64608a932eed712fe31a6b471::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

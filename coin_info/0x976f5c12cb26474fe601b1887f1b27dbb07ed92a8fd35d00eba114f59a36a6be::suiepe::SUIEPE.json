@@ -1,0 +1,13 @@
+{
+  "name": "SUIEPE",
+  "symbol": "SUIEPE",
+  "decimals": 9,
+  "coin_type": "0x976f5c12cb26474fe601b1887f1b27dbb07ed92a8fd35d00eba114f59a36a6be::suiepe::SUIEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0d286793-e373-4cba-8ca6-e732801f22ef.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

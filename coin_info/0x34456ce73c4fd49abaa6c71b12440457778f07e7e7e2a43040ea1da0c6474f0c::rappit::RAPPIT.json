@@ -1,0 +1,13 @@
+{
+  "name": "MC Rappit",
+  "symbol": "RAPPIT",
+  "decimals": 9,
+  "coin_type": "0x34456ce73c4fd49abaa6c71b12440457778f07e7e7e2a43040ea1da0c6474f0c::rappit::RAPPIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/478/894/large/emmanuel-luiz-rappit.jpg?1727701739",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

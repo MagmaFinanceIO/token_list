@@ -1,0 +1,13 @@
+{
+  "name": "TOCO",
+  "symbol": "TOCO",
+  "decimals": 9,
+  "coin_type": "0x3b24af4a0b2cb4d0c67f6a78a65c1d22edf8e086bb5748af6c034923d2fde064::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

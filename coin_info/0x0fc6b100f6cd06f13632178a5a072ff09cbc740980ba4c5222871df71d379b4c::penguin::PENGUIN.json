@@ -1,0 +1,13 @@
+{
+  "name": "Sui Club Penguin",
+  "symbol": "Penguin",
+  "decimals": 9,
+  "coin_type": "0x0fc6b100f6cd06f13632178a5a072ff09cbc740980ba4c5222871df71d379b4c::penguin::PENGUIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/22FQFZJourCceAxqMQ1mkf83LBHaMp4js3pkGHxjrvMV.png?size=lg&key=ed5339",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

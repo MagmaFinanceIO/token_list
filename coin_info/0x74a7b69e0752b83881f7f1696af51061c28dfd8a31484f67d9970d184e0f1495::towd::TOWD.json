@@ -1,0 +1,13 @@
+{
+  "name": "Towd",
+  "symbol": "TOWD",
+  "decimals": 9,
+  "coin_type": "0x74a7b69e0752b83881f7f1696af51061c28dfd8a31484f67d9970d184e0f1495::towd::TOWD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e61589cc-9dda-4df1-8186-5da6d93dbcc2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

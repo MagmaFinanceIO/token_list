@@ -1,0 +1,13 @@
+{
+  "name": "HOP BUNNY",
+  "symbol": "HOPPY",
+  "decimals": 6,
+  "coin_type": "0x43e9045850072b10168c565ca7c57060a420015343023a49e87e6e47d3a74231::hoppy::HOPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmdSDb1nWDfZFnfrExfkYXvk7R3AMGiWcJQw2cAN354CCy",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

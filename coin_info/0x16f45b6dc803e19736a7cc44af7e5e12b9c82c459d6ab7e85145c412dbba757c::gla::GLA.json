@@ -1,0 +1,13 @@
+{
+  "name": "Glacier",
+  "symbol": "GLA",
+  "decimals": 6,
+  "coin_type": "0x16f45b6dc803e19736a7cc44af7e5e12b9c82c459d6ab7e85145c412dbba757c::gla::GLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b684ca0e-bc6e-4c3b-98a2-ac1c81d7ff24.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

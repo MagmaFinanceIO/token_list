@@ -1,0 +1,13 @@
+{
+  "name": "WHALE AI",
+  "symbol": "WAI",
+  "decimals": 9,
+  "coin_type": "0x64455d740a6e27e96b454b536efc172f9769df1f7b44709e259d1bf980641ca7::wai::WAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GHocy4YxtR3sBgy6oYRuYogufAL8XNUPmApq16nQPKkG.png?size=lg&key=4fd4dc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

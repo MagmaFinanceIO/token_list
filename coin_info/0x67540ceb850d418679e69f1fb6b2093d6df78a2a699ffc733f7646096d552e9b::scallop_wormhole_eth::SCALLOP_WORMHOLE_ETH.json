@@ -1,0 +1,13 @@
+{
+  "name": "swETH",
+  "symbol": "swETH",
+  "decimals": 8,
+  "coin_type": "0x67540ceb850d418679e69f1fb6b2093d6df78a2a699ffc733f7646096d552e9b::scallop_wormhole_eth::SCALLOP_WORMHOLE_ETH",
+  "pyth_id": "",
+  "birdeyeid": "0x67540ceb850d418679e69f1fb6b2093d6df78a2a699ffc733f7646096d552e9b::scallop_wormhole_eth::SCALLOP_WORMHOLE_ETH",
+  "coin_priority": [],
+  "logo_url": "https://gateway.irys.xyz/J1Ni98whDmtXgtGYDmk7Hy6qfoHas9MJYwMnixgDSdNo",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

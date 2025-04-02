@@ -1,0 +1,13 @@
+{
+  "name": "PAM",
+  "symbol": "PAM",
+  "decimals": 9,
+  "coin_type": "0x4e2efa3ccdb854bb28e490e3bc53adebae270c6dbabdd5ad7f2258ef160d6833::pam::PAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/776b5fb3-672a-4f60-92cc-a40c4676bb45.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hammered Shark",
+  "symbol": "HAMMERED",
+  "decimals": 9,
+  "coin_type": "0xbfa4e4b2ddd09cda24454ac423e1607388aeedaa67c9bb4a00d64be29fd85287::hammered::HAMMERED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5feefd46-0cf2-4f2a-b5d3-42fb8cb5aa44.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

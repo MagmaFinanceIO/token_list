@@ -1,0 +1,13 @@
+{
+  "name": "Amer Can!",
+  "symbol": "AMC",
+  "decimals": 9,
+  "coin_type": "0x7a814a1c41793aac636ba3fa580b8f190c825964a6d853ff7c6b916d61c3ff26::amc::AMC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/84d55fa5-5c42-42aa-9951-2157bc59d7f2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIEGG",
+  "symbol": "SUIEGG",
+  "decimals": 9,
+  "coin_type": "0x57dbe58b4e3321b3f36e8f9ca1f68338817cbc8ddb348b97a9ccc35da309c213::suiegg::SUIEGG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3fabd163-717f-4a27-9492-9b00e2e91977.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AZB",
+  "symbol": "AZB",
+  "decimals": 9,
+  "coin_type": "0x345c45f73bbf71ea07ec285f663516c58d3fecfa0c36d71b3a475016001a0314::azb::AZB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2SNstbEYVEn2iTNQyZHKGzgTPZwBgnujwKa8hn5opump.png?size=lg&key=16c90b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

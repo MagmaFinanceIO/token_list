@@ -1,0 +1,13 @@
+{
+  "name": "DystopiAI Coin",
+  "symbol": "DYAI",
+  "decimals": 9,
+  "coin_type": "0x7ee10794629013a46363a09c83c226dcfa8ee7dbf02e69f0fe970e5fd41172cd::dyai::DYAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6145e1a3-e548-40dd-9a82-e63a23833f1e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

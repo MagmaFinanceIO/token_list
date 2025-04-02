@@ -1,0 +1,13 @@
+{
+  "name": "Plaitypus",
+  "symbol": "PLAITYPUS",
+  "decimals": 6,
+  "coin_type": "0x8209b6f659fddb593121799e9f7abb7d017b0d59e7caa9d056adfc42dc5da27d::plaitypus::PLAITYPUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000016477_7edf24b197.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

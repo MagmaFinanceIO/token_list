@@ -1,0 +1,13 @@
+{
+  "name": "Suipertodd",
+  "symbol": "TODD",
+  "decimals": 6,
+  "coin_type": "0xd6f52f935c8b3cd1db022fb251050e11e6a3bd4c027dda66567b546df4812102::todd::TODD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000020987_0d6f2ee685.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

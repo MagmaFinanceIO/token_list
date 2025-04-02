@@ -1,0 +1,13 @@
+{
+  "name": "SUITEAM-6",
+  "symbol": "SUITEAM6",
+  "decimals": 6,
+  "coin_type": "0xa87a44ae8e8eca3fabfc6775167f0d0e31ad2873268f0eb53a2ac3815f54d9b0::suiteam6::SUITEAM6",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736186358128.PNG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

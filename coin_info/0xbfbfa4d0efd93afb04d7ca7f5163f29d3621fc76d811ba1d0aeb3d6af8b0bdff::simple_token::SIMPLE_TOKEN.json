@@ -1,0 +1,13 @@
+{
+  "name": "SID",
+  "symbol": "SID",
+  "decimals": 9,
+  "coin_type": "0xbfbfa4d0efd93afb04d7ca7f5163f29d3621fc76d811ba1d0aeb3d6af8b0bdff::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

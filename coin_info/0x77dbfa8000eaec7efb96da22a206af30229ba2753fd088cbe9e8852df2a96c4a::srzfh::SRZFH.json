@@ -1,0 +1,13 @@
+{
+  "name": "srzfh",
+  "symbol": "srzfh",
+  "decimals": 9,
+  "coin_type": "0x77dbfa8000eaec7efb96da22a206af30229ba2753fd088cbe9e8852df2a96c4a::srzfh::SRZFH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

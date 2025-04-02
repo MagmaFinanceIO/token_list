@@ -1,0 +1,13 @@
+{
+  "name": "AuraCoin",
+  "symbol": "acn",
+  "decimals": 9,
+  "coin_type": "0x8b955b3dd163b51bb8fda1101aaf2b942a320e97bd87342de576bb491f272865::acn::ACN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

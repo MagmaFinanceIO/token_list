@@ -1,0 +1,13 @@
+{
+  "name": "TENSO AI",
+  "symbol": "TENAI",
+  "decimals": 9,
+  "coin_type": "0x02082cd0735a7743809fc663e3190affc9f89dc51265edf838412e67babdddeb::tenso_ai::TENSO_AI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.postimg.cc/tJ83jBQ1/T-image.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

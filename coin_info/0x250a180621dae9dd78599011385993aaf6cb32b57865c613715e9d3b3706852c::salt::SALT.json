@@ -1,0 +1,13 @@
+{
+  "name": "Sui Salt",
+  "symbol": "SALT",
+  "decimals": 6,
+  "coin_type": "0x250a180621dae9dd78599011385993aaf6cb32b57865c613715e9d3b3706852c::salt::SALT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Salt_4e89faf1f5.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

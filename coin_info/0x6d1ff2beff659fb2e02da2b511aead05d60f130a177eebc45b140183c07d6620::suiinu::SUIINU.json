@@ -1,0 +1,13 @@
+{
+  "name": "Sui Inu on SUI Chsin",
+  "symbol": "SUIINU",
+  "decimals": 6,
+  "coin_type": "0x6d1ff2beff659fb2e02da2b511aead05d60f130a177eebc45b140183c07d6620::suiinu::SUIINU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suisinu_a0dbe02a66.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuiD",
+  "symbol": "SUID",
+  "decimals": 9,
+  "coin_type": "0xa90c860ffdb42f3ee5ea63b7fa9bec9fe9a0c1976206f99d344bf5b24f7d764b::suid::SUID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/63947453-0947-481d-8910-0110ac20b5eb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

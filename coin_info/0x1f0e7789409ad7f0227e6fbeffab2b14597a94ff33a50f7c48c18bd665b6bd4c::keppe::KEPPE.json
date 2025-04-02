@@ -1,0 +1,13 @@
+{
+  "name": "KEPPE",
+  "symbol": "KEPPE",
+  "decimals": 9,
+  "coin_type": "0x1f0e7789409ad7f0227e6fbeffab2b14597a94ff33a50f7c48c18bd665b6bd4c::keppe::KEPPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e276488f-23a9-475b-9573-79acb7bd1ecb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

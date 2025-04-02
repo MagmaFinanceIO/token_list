@@ -1,0 +1,13 @@
+{
+  "name": "Tokata",
+  "symbol": "TOKA",
+  "decimals": 9,
+  "coin_type": "0x7379329d3b787895009eab7ca092b40979098fef2b08a77bce9bc9ddcf5f0f07::toka::TOKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

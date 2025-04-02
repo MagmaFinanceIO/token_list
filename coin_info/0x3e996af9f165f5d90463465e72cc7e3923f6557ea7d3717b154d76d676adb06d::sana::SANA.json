@@ -1,0 +1,13 @@
+{
+  "name": "Suilana",
+  "symbol": "SANA",
+  "decimals": 9,
+  "coin_type": "0x3e996af9f165f5d90463465e72cc7e3923f6557ea7d3717b154d76d676adb06d::sana::SANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ab3e00f3-beff-43f8-b837-dd6b821d5c3c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

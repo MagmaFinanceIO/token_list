@@ -1,0 +1,13 @@
+{
+  "name": "GENGAR ON SUI",
+  "symbol": "GENGAR",
+  "decimals": 6,
+  "coin_type": "0x61d36ba3a17e0e2149f7623bbaa47ec8ac17e9bcced9c3d230b19d2d17f4c05d::gengar::GENGAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/0x8e60dc40d25565867da4e0cd9c55411043f14c19_3810e4fddc.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

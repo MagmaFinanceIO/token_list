@@ -1,0 +1,13 @@
+{
+  "name": "Sweet Cake",
+  "symbol": "SUIEET",
+  "decimals": 9,
+  "coin_type": "0xd6f29c0863267e13f881a15c3f8234d48c2421a01f1e438f4fbe7a48214a3265::suieet::SUIEET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/02c31bab-28d3-4a69-bcd5-8bfe86f85324.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Blackrock On Sui",
+  "symbol": "BROCK",
+  "decimals": 9,
+  "coin_type": "0x330b871ebb5eb6b7f0dfbbbdacc634010ab1a5f22933a53243be19a7d00f8ccb::brock::BROCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2931beff-2916-4f04-a192-79a1804a417e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

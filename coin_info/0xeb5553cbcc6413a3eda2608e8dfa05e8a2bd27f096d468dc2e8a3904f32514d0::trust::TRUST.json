@@ -1,0 +1,13 @@
+{
+  "name": "Trust The Process",
+  "symbol": "TRUST",
+  "decimals": 9,
+  "coin_type": "0xeb5553cbcc6413a3eda2608e8dfa05e8a2bd27f096d468dc2e8a3904f32514d0::trust::TRUST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EqeEBGHQhQy6SqeaJcnqAsNs3qaG19sdF89Xsarpump.png?size=lg&key=d2d303",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

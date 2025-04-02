@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL KIM JONG-UN",
+  "symbol": "KIM",
+  "decimals": 9,
+  "coin_type": "0x637a1a979f59089f7ae4ea08d599564362743b1b536a1ba0f835e3a753c23575::kim::KIM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/TbDYECFcPHnG4fTwXwtEwxaa3vmRjpF8hYDAMG7pump.png?size=lg&key=045eea",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "LEGO NEW MASCOT",
+  "symbol": "cataclaw",
+  "decimals": 9,
+  "coin_type": "0xc6e1d665e6fb8ce451af9efa50a578d4d73d6097791eac947751c685fc488390::cataclaw::CATACLAW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/34MbLAUvDAiFwRgvDxrP7HR7TMJ2t42E9mD7QBsGpump.png?size=lg&key=54e4d2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

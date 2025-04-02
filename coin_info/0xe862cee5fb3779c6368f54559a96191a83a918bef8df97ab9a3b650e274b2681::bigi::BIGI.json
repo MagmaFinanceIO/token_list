@@ -1,0 +1,13 @@
+{
+  "name": "Bigi",
+  "symbol": "BIGI",
+  "decimals": 9,
+  "coin_type": "0xe862cee5fb3779c6368f54559a96191a83a918bef8df97ab9a3b650e274b2681::bigi::BIGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f3be5b78-68a0-4b5a-94d3-74b93c482e25.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

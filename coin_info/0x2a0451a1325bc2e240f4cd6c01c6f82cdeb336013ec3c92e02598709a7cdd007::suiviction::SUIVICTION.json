@@ -1,0 +1,13 @@
+{
+  "name": "Sui Conviction",
+  "symbol": "SUIVICTION",
+  "decimals": 6,
+  "coin_type": "0x2a0451a1325bc2e240f4cd6c01c6f82cdeb336013ec3c92e02598709a7cdd007::suiviction::SUIVICTION",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1001369752_6e2fc3fd43.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

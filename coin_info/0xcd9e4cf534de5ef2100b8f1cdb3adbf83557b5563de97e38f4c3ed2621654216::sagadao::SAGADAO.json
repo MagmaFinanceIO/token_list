@@ -1,0 +1,13 @@
+{
+  "name": "Saga Dao",
+  "symbol": "SagaDao",
+  "decimals": 9,
+  "coin_type": "0xcd9e4cf534de5ef2100b8f1cdb3adbf83557b5563de97e38f4c3ed2621654216::sagadao::SAGADAO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/H2vBcEDpJa6yZkCwRYFCwZgof72ZoW7hiedpMGfJpump.png?size=lg&key=e67a14",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

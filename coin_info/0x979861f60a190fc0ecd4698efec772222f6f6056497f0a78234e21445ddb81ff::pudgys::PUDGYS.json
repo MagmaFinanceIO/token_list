@@ -1,0 +1,13 @@
+{
+  "name": "Sui Lil Pudgys",
+  "symbol": "LIL PUDGYS",
+  "decimals": 9,
+  "coin_type": "0x979861f60a190fc0ecd4698efec772222f6f6056497f0a78234e21445ddb81ff::pudgys::PUDGYS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.seadn.io/gae/s4Td3KYsUlCblO6lQKAGAWdKwsCuumcxYpebM_YL-Pex-BP886JYAWjKBLeB5StNopAAD6kVx3QHqWm9AmudXyCaCZszHbt8SdteEQ?auto=format&dpr=1&w=256",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

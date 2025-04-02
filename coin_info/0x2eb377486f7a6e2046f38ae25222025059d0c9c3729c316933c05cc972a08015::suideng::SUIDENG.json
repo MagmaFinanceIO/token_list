@@ -1,0 +1,13 @@
+{
+  "name": "Sui Moodeng",
+  "symbol": "SUIDENG",
+  "decimals": 9,
+  "coin_type": "0x2eb377486f7a6e2046f38ae25222025059d0c9c3729c316933c05cc972a08015::suideng::SUIDENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FSUI_3d1f820e0a.jpg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Jeke Paal",
+  "symbol": "JEKE",
+  "decimals": 6,
+  "coin_type": "0xbeddc1a612c1480b3c38a22f0400d31368f1021d2a36ee9159f466d899c4fab2::jeke::JEKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0097_aa563ebd5f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

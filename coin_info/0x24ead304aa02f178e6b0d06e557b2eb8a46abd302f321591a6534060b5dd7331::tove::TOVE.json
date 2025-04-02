@@ -1,0 +1,13 @@
+{
+  "name": "Tove Skargard",
+  "symbol": "TOVE",
+  "decimals": 9,
+  "coin_type": "0x24ead304aa02f178e6b0d06e557b2eb8a46abd302f321591a6534060b5dd7331::tove::TOVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/85qBGzyQZJnnoNVoUpGRTvemWfDHjQeXgHGyKoK3pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

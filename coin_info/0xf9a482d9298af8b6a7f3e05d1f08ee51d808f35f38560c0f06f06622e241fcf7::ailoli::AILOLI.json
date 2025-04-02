@@ -1,0 +1,13 @@
+{
+  "name": "LOLI AI",
+  "symbol": "AILOLI",
+  "decimals": 9,
+  "coin_type": "0xf9a482d9298af8b6a7f3e05d1f08ee51d808f35f38560c0f06f06622e241fcf7::ailoli::AILOLI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmacTPqRAE5GEcSPd5oTz2b79PzyCuhdPCMBWkBk75rnMW",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

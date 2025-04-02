@@ -1,0 +1,13 @@
+{
+  "name": "CHADQUANT ON SUI",
+  "symbol": "CHADQUANT",
+  "decimals": 9,
+  "coin_type": "0x752ba82557f9f8905387bf563490ccd76c731252c1f820539ce9d07597528bca::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

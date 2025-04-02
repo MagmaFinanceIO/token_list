@@ -1,0 +1,13 @@
+{
+  "name": "SKI MASK DOG",
+  "symbol": "SKIDOG",
+  "decimals": 9,
+  "coin_type": "0x96929cc8a5eace5a49fc88dad306faec620752644f2ba68815ad1b884d6f7a43::skidog::SKIDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x768be13e1680b5ebe0024c42c896e3db59ec0149.png?size=lg&key=caeb59",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

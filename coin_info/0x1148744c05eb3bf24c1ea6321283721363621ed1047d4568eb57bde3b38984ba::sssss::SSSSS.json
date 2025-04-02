@@ -1,0 +1,13 @@
+{
+  "name": "Sui Snake Hat",
+  "symbol": "SSSSS",
+  "decimals": 6,
+  "coin_type": "0x1148744c05eb3bf24c1ea6321283721363621ed1047d4568eb57bde3b38984ba::sssss::SSSSS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000013017_2a0a0d2ee1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

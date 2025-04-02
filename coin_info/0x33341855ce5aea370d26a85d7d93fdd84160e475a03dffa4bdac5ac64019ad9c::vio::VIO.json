@@ -1,0 +1,13 @@
+{
+  "name": "Vio AI by SuiAI",
+  "symbol": "VIO",
+  "decimals": 6,
+  "coin_type": "0x33341855ce5aea370d26a85d7d93fdd84160e475a03dffa4bdac5ac64019ad9c::vio::VIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/lg_e008aa5b01.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

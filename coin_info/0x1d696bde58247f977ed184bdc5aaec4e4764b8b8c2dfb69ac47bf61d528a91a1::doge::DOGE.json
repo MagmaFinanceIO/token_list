@@ -1,0 +1,13 @@
+{
+  "name": "Doge coin",
+  "symbol": "DOGE",
+  "decimals": 9,
+  "coin_type": "0x1d696bde58247f977ed184bdc5aaec4e4764b8b8c2dfb69ac47bf61d528a91a1::doge::DOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://file-walletapp.waveonsui.com/images/wave-pumps/20fa2402-7e0e-4905-8ed2-bbd4cdb18595.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

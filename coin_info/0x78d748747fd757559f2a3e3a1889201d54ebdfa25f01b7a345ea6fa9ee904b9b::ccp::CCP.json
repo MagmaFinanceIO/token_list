@@ -1,0 +1,13 @@
+{
+  "name": "CCP Token",
+  "symbol": "CCP",
+  "decimals": 2,
+  "coin_type": "0x78d748747fd757559f2a3e3a1889201d54ebdfa25f01b7a345ea6fa9ee904b9b::ccp::CCP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://nfo7fxz6gzhx2tizcfa5cyyphafuzgkrcuvizjgaounljsmbm6rq.arweave.net/aV3y3z42T31NGRFB0WMPOAtMmVEVKoykwHUatMmBZ6M",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

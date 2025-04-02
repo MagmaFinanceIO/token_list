@@ -1,0 +1,13 @@
+{
+  "name": "Cheyenne",
+  "symbol": "Cheyenne",
+  "decimals": 9,
+  "coin_type": "0xd2bd1e106e0a3cfc34312988f1364d7414a2786e768e7cd9d7553db873482c29::cheyenne::CHEYENNE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/UrAE9vVdrWxncikcCRp7TgNqEsArFtP22iXzH7gpump.png?size=lg&key=77ea94",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

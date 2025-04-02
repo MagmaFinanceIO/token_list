@@ -1,0 +1,13 @@
+{
+  "name": "Sui Rollings Cats",
+  "symbol": "SRCAT",
+  "decimals": 9,
+  "coin_type": "0xede753e0b8645cb5bcc64c60dbd8f4d4ab5cd7c9655a59ca8f774a3bd004ea55::srcat::SRCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/180c5ce5-0344-4d61-ade2-13fa8cac1814.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

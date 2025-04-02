@@ -1,0 +1,13 @@
+{
+  "name": "Sui Homelander",
+  "symbol": "SUILANDER",
+  "decimals": 6,
+  "coin_type": "0x8398cecd060bc82724e780024f1fc5be38a8d91a700d140d6473db4db0176817::suilander::SUILANDER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/bluedown_1_1697710a56.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

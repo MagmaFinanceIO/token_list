@@ -1,0 +1,13 @@
+{
+  "name": "Pino",
+  "symbol": "Pino",
+  "decimals": 9,
+  "coin_type": "0x9b00d884c47643fcbc9feddb521946c4e05936f0932df8cac326953654bfa15a::pino::PINO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pinocoin.xyz/images/logo-pino.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "tsotchke",
+  "symbol": "TSOTCHKE",
+  "decimals": 9,
+  "coin_type": "0x7df2dd82b74ecbebef1a2c39f5acba741b7ef717f82c8be1666aaef358608a58::tsotchke::TSOTCHKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4mbdysBik3jmzD7mt6FGPDsMxnYcxExSQRFjPucdpump.png?size=lg&key=68bec6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

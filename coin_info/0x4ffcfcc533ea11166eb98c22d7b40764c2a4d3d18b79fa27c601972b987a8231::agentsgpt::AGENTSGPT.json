@@ -1,0 +1,13 @@
+{
+  "name": "AgentsGPT",
+  "symbol": "AgentsGPT",
+  "decimals": 9,
+  "coin_type": "0x4ffcfcc533ea11166eb98c22d7b40764c2a4d3d18b79fa27c601972b987a8231::agentsgpt::AGENTSGPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/D4vUf4KbD57ZairVxRUAaTt4bbpSx9nV695kpLxA9hUe.png?size=lg&key=894549",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Trump Wif Hat",
+  "symbol": "TWH",
+  "decimals": 6,
+  "coin_type": "0x3c3382ceff8df84a0db246d549cdd4867a0e591b62f0b59ab6e20a7c4eec4a17::twh::TWH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731025429270.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

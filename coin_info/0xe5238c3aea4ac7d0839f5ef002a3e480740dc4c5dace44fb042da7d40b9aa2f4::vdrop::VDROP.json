@@ -1,0 +1,13 @@
+{
+  "name": "DROP",
+  "symbol": "VDROP",
+  "decimals": 6,
+  "coin_type": "0xe5238c3aea4ac7d0839f5ef002a3e480740dc4c5dace44fb042da7d40b9aa2f4::vdrop::VDROP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_03_29_22_15_52_2ffc200bb5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

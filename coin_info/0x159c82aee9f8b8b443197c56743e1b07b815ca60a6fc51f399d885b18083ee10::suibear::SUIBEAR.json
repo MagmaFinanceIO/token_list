@@ -1,0 +1,13 @@
+{
+  "name": "Sui Bear",
+  "symbol": "SUIBEAR",
+  "decimals": 6,
+  "coin_type": "0x159c82aee9f8b8b443197c56743e1b07b815ca60a6fc51f399d885b18083ee10::suibear::SUIBEAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_62e9d444ca.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

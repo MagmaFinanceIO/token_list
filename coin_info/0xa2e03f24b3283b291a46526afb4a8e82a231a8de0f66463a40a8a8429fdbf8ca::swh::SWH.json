@@ -1,0 +1,13 @@
+{
+  "name": "SuiWifHat",
+  "symbol": "SWH",
+  "decimals": 9,
+  "coin_type": "0xa2e03f24b3283b291a46526afb4a8e82a231a8de0f66463a40a8a8429fdbf8ca::swh::SWH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.shopify.com/s/files/1/2281/6067/files/dogwifhat_sticker.png?v=1702942834",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

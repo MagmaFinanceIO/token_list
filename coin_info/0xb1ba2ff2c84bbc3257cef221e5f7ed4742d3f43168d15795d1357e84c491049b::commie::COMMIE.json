@@ -1,0 +1,13 @@
+{
+  "name": "Commie Harris",
+  "symbol": "Commie",
+  "decimals": 6,
+  "coin_type": "0xb1ba2ff2c84bbc3257cef221e5f7ed4742d3f43168d15795d1357e84c491049b::commie::COMMIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/commiegif_3fe2676011.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

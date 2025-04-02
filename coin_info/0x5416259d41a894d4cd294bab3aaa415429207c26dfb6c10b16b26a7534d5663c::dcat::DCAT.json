@@ -1,0 +1,13 @@
+{
+  "name": "Dragon Cat",
+  "symbol": "DCAT",
+  "decimals": 9,
+  "coin_type": "0x5416259d41a894d4cd294bab3aaa415429207c26dfb6c10b16b26a7534d5663c::dcat::DCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aad518a0-30b7-46f2-83be-eb622e0629f8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

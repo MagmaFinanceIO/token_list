@@ -1,0 +1,13 @@
+{
+  "name": "SynaptiQ System by SuiAI",
+  "symbol": "SYN",
+  "decimals": 6,
+  "coin_type": "0x181a081a381547bb8221a4f12e18f29149c1a26d9f4732d6954d697f17d7af69::syn::SYN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000004585_ffd1ae1c17.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

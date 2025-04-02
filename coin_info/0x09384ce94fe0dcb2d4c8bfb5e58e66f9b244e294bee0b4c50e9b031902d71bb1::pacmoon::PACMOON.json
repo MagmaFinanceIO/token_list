@@ -1,0 +1,13 @@
+{
+  "name": "PacMoon SUI",
+  "symbol": "PacMoon",
+  "decimals": 9,
+  "coin_type": "0x09384ce94fe0dcb2d4c8bfb5e58e66f9b244e294bee0b4c50e9b031902d71bb1::pacmoon::PACMOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3cff4436-7667-4503-ba95-1cf14f9b99bb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

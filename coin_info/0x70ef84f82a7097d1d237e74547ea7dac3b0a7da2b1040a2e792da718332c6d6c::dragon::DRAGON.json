@@ -1,0 +1,13 @@
+{
+  "name": "DRAGON",
+  "symbol": "DRAGON",
+  "decimals": 6,
+  "coin_type": "0x70ef84f82a7097d1d237e74547ea7dac3b0a7da2b1040a2e792da718332c6d6c::dragon::DRAGON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/dragon.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

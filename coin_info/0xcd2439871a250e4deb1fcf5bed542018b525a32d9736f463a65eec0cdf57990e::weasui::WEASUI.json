@@ -1,0 +1,13 @@
+{
+  "name": "WEASEL ON SUI",
+  "symbol": "WEASUI",
+  "decimals": 9,
+  "coin_type": "0xcd2439871a250e4deb1fcf5bed542018b525a32d9736f463a65eec0cdf57990e::weasui::WEASUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6da7a4d4-317c-4138-9e64-7ddb11ab32a3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

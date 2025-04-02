@@ -1,0 +1,13 @@
+{
+  "name": "Suinic Inu",
+  "symbol": "SUINIC",
+  "decimals": 9,
+  "coin_type": "0xa5bd1a2dd412c8b714424e8e9808039b1ffe979ed2dcb1560b368c1969ff6926::suinic::SUINIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b8bd12b0-fce0-4f98-9219-d3c9a0dddb8d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

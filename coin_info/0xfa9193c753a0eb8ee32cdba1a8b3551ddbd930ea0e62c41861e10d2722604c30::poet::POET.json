@@ -1,0 +1,13 @@
+{
+  "name": "Oppermann",
+  "symbol": "POET",
+  "decimals": 9,
+  "coin_type": "0xfa9193c753a0eb8ee32cdba1a8b3551ddbd930ea0e62c41861e10d2722604c30::poet::POET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/476df6ec-8df2-4006-a9da-37b55c197984.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

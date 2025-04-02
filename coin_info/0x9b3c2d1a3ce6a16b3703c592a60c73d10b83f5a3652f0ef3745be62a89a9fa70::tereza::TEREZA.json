@@ -1,0 +1,13 @@
+{
+  "name": "Tereza AI",
+  "symbol": "TEREZA",
+  "decimals": 9,
+  "coin_type": "0x9b3c2d1a3ce6a16b3703c592a60c73d10b83f5a3652f0ef3745be62a89a9fa70::tereza::TEREZA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/41067f90-ce56-4b29-bb15-b5965ea374a7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

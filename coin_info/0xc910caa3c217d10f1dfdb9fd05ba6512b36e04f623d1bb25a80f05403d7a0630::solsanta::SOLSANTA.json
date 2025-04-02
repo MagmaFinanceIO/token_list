@@ -1,0 +1,13 @@
+{
+  "name": "Solana Santa",
+  "symbol": "SOLSANTA",
+  "decimals": 9,
+  "coin_type": "0xc910caa3c217d10f1dfdb9fd05ba6512b36e04f623d1bb25a80f05403d7a0630::solsanta::SOLSANTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8TFv79J2Kd2Cp2tboiDZ1GnmaTBkN3JNJEnjQavSpump.png?size=lg&key=3779ca",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

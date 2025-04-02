@@ -1,0 +1,13 @@
+{
+  "name": "XRO",
+  "symbol": "XRO",
+  "decimals": 9,
+  "coin_type": "0x0d7af481d0d2ff215dfed0d100a695ddf316f8158b8a67909677a441c25839a5::xro::XRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

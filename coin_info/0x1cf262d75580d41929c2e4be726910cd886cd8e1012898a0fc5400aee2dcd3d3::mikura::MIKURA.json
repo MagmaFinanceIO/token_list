@@ -1,0 +1,13 @@
+{
+  "name": "MikuraAI by SuiAI",
+  "symbol": "MIKURA",
+  "decimals": 6,
+  "coin_type": "0x1cf262d75580d41929c2e4be726910cd886cd8e1012898a0fc5400aee2dcd3d3::mikura::MIKURA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000007952_80fa3425f1.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

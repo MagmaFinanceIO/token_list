@@ -1,0 +1,13 @@
+{
+  "name": "GOOGLY CAT SUI",
+  "symbol": "GOOGLY",
+  "decimals": 9,
+  "coin_type": "0x324b3a8561841fe207e4b8288815beba3d4f321a40d0a97ed54b1c43e9241a63::googly::GOOGLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9f0684f4-f856-49d4-9296-09b63e356436.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

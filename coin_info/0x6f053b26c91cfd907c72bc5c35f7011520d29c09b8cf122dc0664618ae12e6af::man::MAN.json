@@ -1,0 +1,13 @@
+{
+  "name": "MAN",
+  "symbol": "MAN",
+  "decimals": 6,
+  "coin_type": "0x6f053b26c91cfd907c72bc5c35f7011520d29c09b8cf122dc0664618ae12e6af::man::MAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://assets.artistfirst.in/uploads/1737713813380-MAN.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

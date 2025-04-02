@@ -1,0 +1,13 @@
+{
+  "name": "Daige On Sui",
+  "symbol": "Daige",
+  "decimals": 9,
+  "coin_type": "0xd457884ba6c87ba9eedda0b083166a929e3c03ac7bcfcd16d23adaa6d3193bfa::daige::DAIGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9UYSwjgqgv4YKxBa839pUX5RGxz8HFRHFp8GehSfbYpy.png?size=lg&key=6bd633",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

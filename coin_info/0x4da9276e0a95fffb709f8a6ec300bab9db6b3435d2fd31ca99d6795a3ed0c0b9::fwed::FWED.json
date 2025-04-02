@@ -1,0 +1,13 @@
+{
+  "name": "FWED",
+  "symbol": "FWED",
+  "decimals": 9,
+  "coin_type": "0x4da9276e0a95fffb709f8a6ec300bab9db6b3435d2fd31ca99d6795a3ed0c0b9::fwed::FWED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/da655aff-43a4-4f73-8d68-4d8474ee121a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

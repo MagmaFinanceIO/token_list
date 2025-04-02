@@ -1,0 +1,13 @@
+{
+  "name": "Chikn.nuggit",
+  "symbol": "CHIKN",
+  "decimals": 9,
+  "coin_type": "0xddf8f2384216ceffab475d29676f55f6a873030ac90d6ef6187ad1db608993d4::chikn::CHIKN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DhP6kdeJ83aBrasFRuKgBChBWxgSBQGxNgDjN18Epump.png?size=lg&key=650d31",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

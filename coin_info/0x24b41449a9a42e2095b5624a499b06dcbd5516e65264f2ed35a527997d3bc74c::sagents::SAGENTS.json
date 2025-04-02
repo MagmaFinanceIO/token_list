@@ -1,0 +1,13 @@
+{
+  "name": "Spectral Lab Agents",
+  "symbol": "SAGENTS",
+  "decimals": 6,
+  "coin_type": "0x24b41449a9a42e2095b5624a499b06dcbd5516e65264f2ed35a527997d3bc74c::sagents::SAGENTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ce54218b-333b-48c1-89a3-f04afad47def.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

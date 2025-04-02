@@ -1,0 +1,13 @@
+{
+  "name": "Shibmas",
+  "symbol": "SMAS",
+  "decimals": 9,
+  "coin_type": "0x92fd55645ed98f4836a6d883fa5a4bdd2302985bfe2243e3f400de10b34b32d8::smas::SMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6D4B9eKsTbg5gW2DjYAZRyHKZVwM3BV2az5E4QWgpump.png?size=lg&key=419e06",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

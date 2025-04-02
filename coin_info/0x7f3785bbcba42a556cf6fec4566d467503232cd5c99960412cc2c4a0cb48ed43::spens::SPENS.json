@@ -1,0 +1,13 @@
+{
+  "name": "Suispension",
+  "symbol": "SPENS",
+  "decimals": 6,
+  "coin_type": "0x7f3785bbcba42a556cf6fec4566d467503232cd5c99960412cc2c4a0cb48ed43::spens::SPENS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suispension_f4c824d0de.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

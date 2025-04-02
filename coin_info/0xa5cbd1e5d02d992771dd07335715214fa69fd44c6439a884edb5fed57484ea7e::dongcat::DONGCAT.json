@@ -1,0 +1,13 @@
+{
+  "name": "DONG CAT",
+  "symbol": "DONGCAT",
+  "decimals": 6,
+  "coin_type": "0xa5cbd1e5d02d992771dd07335715214fa69fd44c6439a884edb5fed57484ea7e::dongcat::DONGCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/76b774a6_e109_4cce_8630_5ea074e4cd9a_c7a11a4c5a.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

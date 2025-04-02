@@ -1,0 +1,13 @@
+{
+  "name": "Smart AI by SuiAI",
+  "symbol": "SAI",
+  "decimals": 6,
+  "coin_type": "0xd246a5d9129224e8d9dc1ecda6b67494227aa45479a58fe1c9c0913feb18f216::sai::SAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/6_b1eb111179.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Vampire Coin",
+  "symbol": "VAMPIRE",
+  "decimals": 9,
+  "coin_type": "0x05bb9fa38db4cb6c3d3322ef19a8a65747468b6499f9c9c59d57a7f7aa03c8fa::vampire::VAMPIRE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5fuePKa8Caii4ii1VCcYVgEuP6zHyHbjKWsXmtJKPKaP.png?size=lg&key=9654c0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

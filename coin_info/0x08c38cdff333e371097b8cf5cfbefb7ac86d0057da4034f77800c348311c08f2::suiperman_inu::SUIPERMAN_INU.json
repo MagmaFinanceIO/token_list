@@ -1,0 +1,13 @@
+{
+  "name": "SuiPerman INU",
+  "symbol": "SuiPerman inu",
+  "decimals": 9,
+  "coin_type": "0x08c38cdff333e371097b8cf5cfbefb7ac86d0057da4034f77800c348311c08f2::suiperman_inu::SUIPERMAN_INU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6ca596d3-42f0-464f-9e3d-be5832c7b732.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

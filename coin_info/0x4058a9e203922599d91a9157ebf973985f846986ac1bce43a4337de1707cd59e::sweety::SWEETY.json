@@ -1,0 +1,13 @@
+{
+  "name": "The Sweet Dog",
+  "symbol": "SWEETY",
+  "decimals": 9,
+  "coin_type": "0x4058a9e203922599d91a9157ebf973985f846986ac1bce43a4337de1707cd59e::sweety::SWEETY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8mpEjF5HY5ws3GafAVY1ZFqKQUwXyqM6UgYqDvzZpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

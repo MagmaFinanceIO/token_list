@@ -1,0 +1,13 @@
+{
+  "name": "FOMO",
+  "symbol": "FOMO",
+  "decimals": 9,
+  "coin_type": "0xafbb5b5d0906ee3798327265778dc79987dd6d10bff7a79581ea3df967daf581::fomo::FOMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/13903813-10eb-4d50-bb43-2977ffc7a1da.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

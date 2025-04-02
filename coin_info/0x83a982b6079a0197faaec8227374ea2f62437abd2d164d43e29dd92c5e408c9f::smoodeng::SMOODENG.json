@@ -1,0 +1,13 @@
+{
+  "name": "Sui Moo Deng",
+  "symbol": "SMOODENG",
+  "decimals": 9,
+  "coin_type": "0x83a982b6079a0197faaec8227374ea2f62437abd2d164d43e29dd92c5e408c9f::smoodeng::SMOODENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/Qmf1g7dJZNDJHRQru7E7ENwDjcvu7swMUB6x9ZqPXr4RV2?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

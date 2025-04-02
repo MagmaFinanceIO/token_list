@@ -1,0 +1,13 @@
+{
+  "name": "Woke Mind Virus",
+  "symbol": "WOKE",
+  "decimals": 6,
+  "coin_type": "0xbae9282143f244142b96edfb5c128266e75f302d7cf1142cf39351f9fb4ee8f1::woke::WOKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_27_fc2946b4d4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GATTIVO",
+  "symbol": "GAT",
+  "decimals": 6,
+  "coin_type": "0x8110c3175efd16ef3b9f9c0ddfc3cf8cfd138d2897263b05f94c14306dd9f3ff::gat::GAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmNrKaQozVsdD9Wj5z22WaKZCD2hq9wAAEaCSZEunuj7Lo",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

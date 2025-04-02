@@ -1,0 +1,13 @@
+{
+  "name": "HopCat",
+  "symbol": "HopCat",
+  "decimals": 6,
+  "coin_type": "0x165814c3a252d8512a9572efebd600bbd83ce984fabdadbd2e869b6eb642cf54::hopcat::HOPCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmRa3XL5YZQhDzQQyyEzCH1Q9aGaDEGe6N1TXkwyeNDRtP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

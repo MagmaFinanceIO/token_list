@@ -1,0 +1,13 @@
+{
+  "name": "AI_ShiSui by SuiAI",
+  "symbol": "SHISHUI",
+  "decimals": 6,
+  "coin_type": "0xc4ab227ed859397eaa74eaba5f8dab681011837bf75a982816007e145691e6db::shishui::SHISHUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/v_XGUY_Mxn_400x400_1_b4387f1f34.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

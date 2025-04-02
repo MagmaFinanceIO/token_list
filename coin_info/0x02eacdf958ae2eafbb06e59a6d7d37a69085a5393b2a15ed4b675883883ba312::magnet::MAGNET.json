@@ -1,0 +1,13 @@
+{
+  "name": "MAGNET",
+  "symbol": "MAGNET",
+  "decimals": 9,
+  "coin_type": "0x02eacdf958ae2eafbb06e59a6d7d37a69085a5393b2a15ed4b675883883ba312::magnet::MAGNET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5c7efe51-37cf-44d1-a848-404533ec5a80.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

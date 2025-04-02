@@ -1,0 +1,13 @@
+{
+  "name": "MR Sui",
+  "symbol": "MSUI",
+  "decimals": 6,
+  "coin_type": "0xaceb9dccee2824075b7ab68870beae5e505a789060a30cb598bd179c9a1e87f3::msui::MSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/20241009_034239_f025bbe177.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

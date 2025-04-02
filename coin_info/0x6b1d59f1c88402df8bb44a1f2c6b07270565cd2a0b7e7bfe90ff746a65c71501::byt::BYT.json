@@ -1,0 +1,13 @@
+{
+  "name": "MetaByte",
+  "symbol": "BYT",
+  "decimals": 9,
+  "coin_type": "0x6b1d59f1c88402df8bb44a1f2c6b07270565cd2a0b7e7bfe90ff746a65c71501::byt::BYT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://imgdlvr.com/pic/photoresizer.com/20240515-6387/public",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

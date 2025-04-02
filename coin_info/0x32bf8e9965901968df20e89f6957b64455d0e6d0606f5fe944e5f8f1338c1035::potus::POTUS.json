@@ -1,0 +1,13 @@
+{
+  "name": "Puppets of the United States",
+  "symbol": "POTUS",
+  "decimals": 9,
+  "coin_type": "0x32bf8e9965901968df20e89f6957b64455d0e6d0606f5fe944e5f8f1338c1035::potus::POTUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EjP7ac8tQPezzp4yvganVMf5ew4iVzCiWcBZ3L5Wpump.png?size=lg&key=863791",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

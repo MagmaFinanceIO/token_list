@@ -1,0 +1,13 @@
+{
+  "name": "Sui Sword",
+  "symbol": "SWORD",
+  "decimals": 6,
+  "coin_type": "0xbf74bfc61f8dd3ba6d94c1617b31d1f45df6e56cf2cb2c95cab59fcd59b686c2::sword::SWORD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/zodiac000z_rpg_item_icon_of_a_blue_swordconcept_artart_gamecrea_d7c22a9d_1685_4c36_8b13_f596c43442df_d85379e1f7.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

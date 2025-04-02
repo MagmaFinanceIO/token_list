@@ -1,0 +1,13 @@
+{
+  "name": "Purcit",
+  "symbol": "PURCIT",
+  "decimals": 6,
+  "coin_type": "0xce5d13eaf3ada1cf0e42570f181355b3822a3155ba96c955a7cac2e1ded205ab::purcit::PURCIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_SSY_2_UMQ_5red_SB_2_V3g1g_C915kzm_FWV_Fy_F_Pf_L_Ex_P2_RM_8zw_97d3efdfce.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

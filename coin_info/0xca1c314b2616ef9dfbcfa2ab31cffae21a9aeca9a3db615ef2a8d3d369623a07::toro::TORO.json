@@ -1,0 +1,13 @@
+{
+  "name": "Toro",
+  "symbol": "TORO",
+  "decimals": 9,
+  "coin_type": "0xca1c314b2616ef9dfbcfa2ab31cffae21a9aeca9a3db615ef2a8d3d369623a07::toro::TORO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmcdfMy6QpizihsWtnBnWMkwengFMah5wKhFGMFMHU3R2M",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

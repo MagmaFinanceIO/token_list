@@ -1,0 +1,13 @@
+{
+  "name": "Pablo",
+  "symbol": "Pablo",
+  "decimals": 9,
+  "coin_type": "0x3f84b719d2ba66cc7858da530e0f4e69b5713ad5e51ac187b636fb2d3b2756bf::pablo::PABLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

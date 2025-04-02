@@ -1,0 +1,13 @@
+{
+  "name": "TrumpCAT",
+  "symbol": "TrumpCAT",
+  "decimals": 9,
+  "coin_type": "0xc51a73589581c40b3f038923ffae4885b8ebb498e33cfc97f5a7fd5ade5a30f7::trumpcat::TRUMPCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/03bd59de-e774-40da-b1d7-027eae18db76.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

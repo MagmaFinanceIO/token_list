@@ -1,0 +1,13 @@
+{
+  "name": "Sui a chill guy",
+  "symbol": "SUICHILL",
+  "decimals": 9,
+  "coin_type": "0x4e068ac078d2fe2411c333b6cdc29b27b1a13291072811dff4456f545f764358::suichill::SUICHILL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump.png?size=lg&key=ed3282",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

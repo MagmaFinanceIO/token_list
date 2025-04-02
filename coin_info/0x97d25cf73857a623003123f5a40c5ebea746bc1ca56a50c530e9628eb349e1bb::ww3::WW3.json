@@ -1,0 +1,13 @@
+{
+  "name": "Worldwar on Sui",
+  "symbol": "WW3",
+  "decimals": 6,
+  "coin_type": "0x97d25cf73857a623003123f5a40c5ebea746bc1ca56a50c530e9628eb349e1bb::ww3::WW3",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo1_e1366816f7.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

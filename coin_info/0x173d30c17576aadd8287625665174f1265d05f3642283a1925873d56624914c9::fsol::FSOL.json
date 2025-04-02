@@ -1,0 +1,13 @@
+{
+  "name": "F#CK SOL",
+  "symbol": "FSOL",
+  "decimals": 6,
+  "coin_type": "0x173d30c17576aadd8287625665174f1265d05f3642283a1925873d56624914c9::fsol::FSOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/u5618314944_Create_anime_image_of_girl_wearing_a_hat_that_say_db7bef05_10fe_47a5_ab53_ec1603fc54f7_0_1_04249b03ee.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

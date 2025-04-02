@@ -1,0 +1,13 @@
+{
+  "name": "SuiMoon",
+  "symbol": "sMoon",
+  "decimals": 6,
+  "coin_type": "0x58c3c76cca037f5f5c3db469db6b07a682a4c132ac861a56111d148e71947c31::smoon::SMOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suimoon_4e9fac2228.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suirrel",
+  "symbol": "SRL",
+  "decimals": 6,
+  "coin_type": "0x8cd477da1ebc560d04d32ae8039c0676992a8c59f4dbd555a25f2cc8f394ffc9::srl::SRL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/rell_79db753fd1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

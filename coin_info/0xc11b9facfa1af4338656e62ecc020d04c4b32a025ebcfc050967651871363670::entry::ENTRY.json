@@ -1,0 +1,13 @@
+{
+  "name": "Entry AI",
+  "symbol": "ENTRY",
+  "decimals": 9,
+  "coin_type": "0xc11b9facfa1af4338656e62ecc020d04c4b32a025ebcfc050967651871363670::entry::ENTRY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FMWgSSUZcNBtLsN52Ck3XHZur3DpCXM767ahk5AWpump.png?size=lg&key=76a4c1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

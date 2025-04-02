@@ -1,0 +1,13 @@
+{
+  "name": "catfish on sui",
+  "symbol": "CATFISH",
+  "decimals": 9,
+  "coin_type": "0x778623cf5a6694d34bdc44549986ad269dce4b1d003c61197cea6f8c1eb70644::catfish::CATFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/38f1ed87-74c6-4517-a0d9-87e4513455fb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

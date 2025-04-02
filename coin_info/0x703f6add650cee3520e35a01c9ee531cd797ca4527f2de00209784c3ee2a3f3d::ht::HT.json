@@ -1,0 +1,13 @@
+{
+  "name": "HT Token",
+  "symbol": "HT",
+  "decimals": 2,
+  "coin_type": "0x703f6add650cee3520e35a01c9ee531cd797ca4527f2de00209784c3ee2a3f3d::ht::HT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreifq6ujjadgiwc24plf2u62jcxxznohf5y3dvr7zyev3ns3pxhfoju.ipfs.w3s.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

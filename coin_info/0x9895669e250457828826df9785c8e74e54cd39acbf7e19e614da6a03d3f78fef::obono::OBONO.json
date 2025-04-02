@@ -1,0 +1,13 @@
+{
+  "name": "Obono",
+  "symbol": "OBONO",
+  "decimals": 9,
+  "coin_type": "0x9895669e250457828826df9785c8e74e54cd39acbf7e19e614da6a03d3f78fef::obono::OBONO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/273/391/large/jack-yan-d.jpg?1727162902",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

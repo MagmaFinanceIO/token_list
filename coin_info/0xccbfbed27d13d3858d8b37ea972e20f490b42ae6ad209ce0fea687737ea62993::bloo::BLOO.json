@@ -1,0 +1,13 @@
+{
+  "name": "Sui Bloo",
+  "symbol": "BLOO",
+  "decimals": 6,
+  "coin_type": "0xccbfbed27d13d3858d8b37ea972e20f490b42ae6ad209ce0fea687737ea62993::bloo::BLOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_1_0c12740854.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

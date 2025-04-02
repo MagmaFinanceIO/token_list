@@ -1,0 +1,13 @@
+{
+  "name": "swag",
+  "symbol": "swag",
+  "decimals": 9,
+  "coin_type": "0xfaa854d33092f090d87aace1788bd2c474792923fc350e7e1098c94018e82539::swag::SWAG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e1c129c4-223b-42e8-82ec-b4ae6881ceda.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

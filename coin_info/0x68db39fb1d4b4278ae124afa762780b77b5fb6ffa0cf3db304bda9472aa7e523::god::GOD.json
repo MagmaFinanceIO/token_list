@@ -1,0 +1,13 @@
+{
+  "name": "God",
+  "symbol": "GOD",
+  "decimals": 6,
+  "coin_type": "0x68db39fb1d4b4278ae124afa762780b77b5fb6ffa0cf3db304bda9472aa7e523::god::GOD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://lavender-negative-falcon-809.mypinata.cloud/ipfs/QmfCMqxnx1RALLPUG32mQDK9DZfcBTwqAfGy7tY79RCJUw",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

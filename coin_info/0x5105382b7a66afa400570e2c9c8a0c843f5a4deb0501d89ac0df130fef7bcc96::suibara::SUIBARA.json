@@ -1,0 +1,13 @@
+{
+  "name": "SUIBARA COIN",
+  "symbol": "Suibara",
+  "decimals": 4,
+  "coin_type": "0x5105382b7a66afa400570e2c9c8a0c843f5a4deb0501d89ac0df130fef7bcc96::suibara::SUIBARA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/db165a4e-d3f8-4246-a70c-25fa950836f3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

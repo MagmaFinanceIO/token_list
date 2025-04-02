@@ -1,0 +1,13 @@
+{
+  "name": "DEEPBULL",
+  "symbol": "DEEPBULL",
+  "decimals": 9,
+  "coin_type": "0xece93ee70e5b27a9919df54ccf2edcf94a8f1a510937f2ca69ce07bd6618e05a::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

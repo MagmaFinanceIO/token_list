@@ -1,0 +1,13 @@
+{
+  "name": "Dog Wif Sui",
+  "symbol": "DOGWIF",
+  "decimals": 9,
+  "coin_type": "0x478973ddc5b3309b18297c5ba25216b20b4cb8667b566275f0211fc433d3fbca::dogwif::DOGWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fbcbc9d5-f4f5-49ad-b93f-f9418235b269.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

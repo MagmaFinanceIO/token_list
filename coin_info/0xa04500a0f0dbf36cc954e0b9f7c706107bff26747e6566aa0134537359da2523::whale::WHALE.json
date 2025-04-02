@@ -1,0 +1,13 @@
+{
+  "name": "Chill Whale",
+  "symbol": "WHALE",
+  "decimals": 9,
+  "coin_type": "0xa04500a0f0dbf36cc954e0b9f7c706107bff26747e6566aa0134537359da2523::whale::WHALE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CsaajQocJQsAL9a68dwm8WMTAHUY48v8oz848edAzqEf.png?size=lg&key=b05581",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

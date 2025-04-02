@@ -1,0 +1,13 @@
+{
+  "name": "Wavy CTO",
+  "symbol": "Wavy",
+  "decimals": 6,
+  "coin_type": "0xae99661aba5e88d94a3abe081c0cf2e803b7818854579ab569f2a25c9711b356::wavy::WAVY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/wavy_7058dfe331.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

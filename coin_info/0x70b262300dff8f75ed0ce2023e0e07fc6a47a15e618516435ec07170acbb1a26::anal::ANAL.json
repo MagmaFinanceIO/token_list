@@ -1,0 +1,13 @@
+{
+  "name": "SOLANAL",
+  "symbol": "ANAL",
+  "decimals": 6,
+  "coin_type": "0x70b262300dff8f75ed0ce2023e0e07fc6a47a15e618516435ec07170acbb1a26::anal::ANAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SOLANAL_c9710f70ad.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

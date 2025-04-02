@@ -1,0 +1,13 @@
+{
+  "name": "GRMEME",
+  "symbol": "GRM",
+  "decimals": 9,
+  "coin_type": "0x79484b4101df50b78369605a9228b5fc165a276493a5554ed7c9ddb1515ebb9e::grm::GRM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e222bba2-f3ab-45e1-8eac-7371650b9b60.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

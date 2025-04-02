@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Resistance Sui",
+  "symbol": "PRES",
+  "decimals": 9,
+  "coin_type": "0xc77f8afb0f6231b78a84f989bd0390f54ab60435ec5ad13d1fc6fa7e1fe8b6cc::pres::PRES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

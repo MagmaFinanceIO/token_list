@@ -1,0 +1,13 @@
+{
+  "name": "VITALIK AI",
+  "symbol": "VAI",
+  "decimals": 9,
+  "coin_type": "0x7884abd04a600c6e2f5be09e2deb2a831a979fd5061828af16250b66d5cc6b65::vai::VAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmbJiW7ev5FSGjPN3EbuatChY9zuz6LQDbx9sWxCAduRe8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

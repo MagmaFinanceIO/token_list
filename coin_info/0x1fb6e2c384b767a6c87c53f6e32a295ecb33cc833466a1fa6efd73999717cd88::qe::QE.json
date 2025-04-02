@@ -1,0 +1,13 @@
+{
+  "name": "Quantitative Easing Index",
+  "symbol": "QE",
+  "decimals": 9,
+  "coin_type": "0x1fb6e2c384b767a6c87c53f6e32a295ecb33cc833466a1fa6efd73999717cd88::qe::QE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "WNAUQSJWjEz4Q9Qn",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

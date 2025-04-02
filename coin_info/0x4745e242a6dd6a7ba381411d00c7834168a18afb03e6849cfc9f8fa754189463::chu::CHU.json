@@ -1,0 +1,13 @@
+{
+  "name": "CHU",
+  "symbol": "CHU",
+  "decimals": 9,
+  "coin_type": "0x4745e242a6dd6a7ba381411d00c7834168a18afb03e6849cfc9f8fa754189463::chu::CHU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2SNstbEYVEn2iTNQyZHKGzgTPZwBgnujwKa8hn5opump.png?size=lg&key=16c90b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

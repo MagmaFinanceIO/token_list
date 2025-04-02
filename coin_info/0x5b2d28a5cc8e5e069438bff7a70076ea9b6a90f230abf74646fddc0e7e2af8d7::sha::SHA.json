@@ -1,0 +1,13 @@
+{
+  "name": "SHA",
+  "symbol": "SHA",
+  "decimals": 9,
+  "coin_type": "0x5b2d28a5cc8e5e069438bff7a70076ea9b6a90f230abf74646fddc0e7e2af8d7::sha::SHA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.shopify.com/s/files/1/2281/6067/files/dogwifhat_sticker.png?v=1702942834",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

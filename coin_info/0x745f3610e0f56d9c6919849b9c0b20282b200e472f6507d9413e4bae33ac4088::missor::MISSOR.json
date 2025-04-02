@@ -1,0 +1,13 @@
+{
+  "name": "Don't Be A Missor",
+  "symbol": "MISSOR",
+  "decimals": 9,
+  "coin_type": "0x745f3610e0f56d9c6919849b9c0b20282b200e472f6507d9413e4bae33ac4088::missor::MISSOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FAcgHxSyjJwiXHhk8JerMopDiespQigjs3T9DLfqpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

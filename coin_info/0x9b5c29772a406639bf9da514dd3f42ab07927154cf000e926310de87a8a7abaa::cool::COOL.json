@@ -1,0 +1,13 @@
+{
+  "name": "Cool Coin",
+  "symbol": "Cool",
+  "decimals": 6,
+  "coin_type": "0x9b5c29772a406639bf9da514dd3f42ab07927154cf000e926310de87a8a7abaa::cool::COOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/intro_1640184659_78379db76b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

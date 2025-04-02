@@ -1,0 +1,13 @@
+{
+  "name": "Potato Cat",
+  "symbol": "pCAT",
+  "decimals": 9,
+  "coin_type": "0x6b2471510ab036ca531096c3eec5b24f8c1a30bb1d2f35764db80ca1573705e2::potatocat::POTATOCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

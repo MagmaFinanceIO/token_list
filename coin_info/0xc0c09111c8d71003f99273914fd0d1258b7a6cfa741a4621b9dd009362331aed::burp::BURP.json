@@ -1,0 +1,13 @@
+{
+  "name": "BurpCoin",
+  "symbol": "BURP",
+  "decimals": 9,
+  "coin_type": "0xc0c09111c8d71003f99273914fd0d1258b7a6cfa741a4621b9dd009362331aed::burp::BURP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CNx1LrMuYCQx6hdfUDdWUE537sgkMj9kYb355cHZpump.png?size=lg&key=3f59bc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

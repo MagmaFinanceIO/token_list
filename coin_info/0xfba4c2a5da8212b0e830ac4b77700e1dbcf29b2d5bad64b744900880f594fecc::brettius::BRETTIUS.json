@@ -1,0 +1,13 @@
+{
+  "name": "BRETTIUS MAXIMUS",
+  "symbol": "BRETTIUS",
+  "decimals": 9,
+  "coin_type": "0xfba4c2a5da8212b0e830ac4b77700e1dbcf29b2d5bad64b744900880f594fecc::brettius::BRETTIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GoEqtV9PQQLHygVvcXLtiJxGZu3hXgkpknxXz1tfkaxa.png?size=lg&key=2b792d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuiNAVY",
+  "symbol": "NAVY",
+  "decimals": 6,
+  "coin_type": "0xe337907b5ba3888d195d43526f49bbb7ca4e5bec5234af9a9ffc96490a061762::navy::NAVY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000102908_4c51460112.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

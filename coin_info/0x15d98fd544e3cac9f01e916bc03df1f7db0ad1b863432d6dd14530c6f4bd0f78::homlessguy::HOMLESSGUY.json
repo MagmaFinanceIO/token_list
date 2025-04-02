@@ -1,0 +1,13 @@
+{
+  "name": "Homeless guy",
+  "symbol": "HOMLESSGUY",
+  "decimals": 6,
+  "coin_type": "0x15d98fd544e3cac9f01e916bc03df1f7db0ad1b863432d6dd14530c6f4bd0f78::homlessguy::HOMLESSGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735840067282.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

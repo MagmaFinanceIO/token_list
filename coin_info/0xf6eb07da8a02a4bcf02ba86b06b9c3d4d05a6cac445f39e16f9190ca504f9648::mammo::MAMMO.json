@@ -1,0 +1,13 @@
+{
+  "name": "Mammo",
+  "symbol": "MAMMO",
+  "decimals": 6,
+  "coin_type": "0xf6eb07da8a02a4bcf02ba86b06b9c3d4d05a6cac445f39e16f9190ca504f9648::mammo::MAMMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qmb4Lsu6Rv9BvPQAbD6sZAxNW13HWEVp1ZvzRR2nnawB6A",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

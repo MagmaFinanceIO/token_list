@@ -1,0 +1,13 @@
+{
+  "name": "Sentient AI",
+  "symbol": "SETAI",
+  "decimals": 9,
+  "coin_type": "0xe664d3d22e6e611c58651a3d36a520a1229589b862a9cefa0804c92516aae07b::setai::SETAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1bc0ca22-398f-47c8-9695-eaaa163a9070.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

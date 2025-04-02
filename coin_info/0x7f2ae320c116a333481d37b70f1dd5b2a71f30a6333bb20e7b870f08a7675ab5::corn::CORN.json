@@ -1,0 +1,13 @@
+{
+  "name": "SUIt Corn",
+  "symbol": "CORN",
+  "decimals": 6,
+  "coin_type": "0x7f2ae320c116a333481d37b70f1dd5b2a71f30a6333bb20e7b870f08a7675ab5::corn::CORN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/c6dadb7f_7afb_4141_98e8_69cff6983918_ac3b05292f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

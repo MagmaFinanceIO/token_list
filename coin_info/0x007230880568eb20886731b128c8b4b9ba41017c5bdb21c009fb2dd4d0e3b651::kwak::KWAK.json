@@ -1,0 +1,13 @@
+{
+  "name": "KWAK",
+  "symbol": "KWAK",
+  "decimals": 9,
+  "coin_type": "0x007230880568eb20886731b128c8b4b9ba41017c5bdb21c009fb2dd4d0e3b651::kwak::KWAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c8a40b12-17b4-4e75-9d3c-835876cee1db.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

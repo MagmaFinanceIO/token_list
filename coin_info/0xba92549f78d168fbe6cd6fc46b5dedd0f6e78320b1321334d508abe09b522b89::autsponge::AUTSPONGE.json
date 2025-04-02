@@ -1,0 +1,13 @@
+{
+  "name": "Spongebob The Autistic",
+  "symbol": "AUTSPONGE",
+  "decimals": 6,
+  "coin_type": "0xba92549f78d168fbe6cd6fc46b5dedd0f6e78320b1321334d508abe09b522b89::autsponge::AUTSPONGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/autspong_dc7dc664bb.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

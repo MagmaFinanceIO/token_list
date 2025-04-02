@@ -1,0 +1,13 @@
+{
+  "name": "Gold Sui",
+  "symbol": "Sbar",
+  "decimals": 6,
+  "coin_type": "0x4596a3b059860724b00f3f2c5b38b8add75213743046f1133a2ab63cefe146fd::sbar::SBAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_9300_a995e2e664.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

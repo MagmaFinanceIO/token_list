@@ -1,0 +1,13 @@
+{
+  "name": "XHIKE COIN",
+  "symbol": "Xhike",
+  "decimals": 9,
+  "coin_type": "0xd3d1d9deb4c1b7f640802ad40d66d32f681425611e8bd6abb8eaf6a63d2e9cc2::xhike::XHIKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ALAmsP4xv2UfecQUUaW7wnWXZ2wdHitvAG2nJ1zd9Y6b.png?size=lg&key=85e4c4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "UniFish",
+  "symbol": "UFISH",
+  "decimals": 7,
+  "coin_type": "0x799e3ea594c5cf32af967152b3bf5910b73fa77f9fe1da28d7cb0061f719a6bc::unifish::UNIFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://belaunchio.infura-ipfs.io/ipfs/QmNV2rTN31vr2mFwyoF7dxCAxkD1Bxzc6mCDAjoBY6418h",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

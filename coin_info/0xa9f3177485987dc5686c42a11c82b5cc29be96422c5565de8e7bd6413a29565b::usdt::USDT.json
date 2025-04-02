@@ -1,0 +1,13 @@
+{
+  "name": "USDT Coin",
+  "symbol": "USDT",
+  "decimals": 6,
+  "coin_type": "0xa9f3177485987dc5686c42a11c82b5cc29be96422c5565de8e7bd6413a29565b::usdt::USDT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GM CZ",
+  "symbol": "GM",
+  "decimals": 6,
+  "coin_type": "0x1356ab27a0dc845a8fb548908dfb6d092f9f18e3af3939b2bcc274cf23d38d48::gm::GM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_3_c4ff0bc28b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

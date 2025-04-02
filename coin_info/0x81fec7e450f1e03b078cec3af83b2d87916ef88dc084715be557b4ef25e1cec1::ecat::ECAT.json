@@ -1,0 +1,13 @@
+{
+  "name": "Evil Cat",
+  "symbol": "ECAT",
+  "decimals": 9,
+  "coin_type": "0x81fec7e450f1e03b078cec3af83b2d87916ef88dc084715be557b4ef25e1cec1::ecat::ECAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/15933a10-e751-4803-89f6-a3878b52f1af.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

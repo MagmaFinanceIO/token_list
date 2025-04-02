@@ -1,0 +1,13 @@
+{
+  "name": "Hasbulla on SUI",
+  "symbol": "HASBULLA",
+  "decimals": 6,
+  "coin_type": "0x854013a6a77975b5180bb5c1ac14d94a9552af2723671d766e012e43766a0ffc::hasbulla::HASBULLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/HAS_B_f9b262af2b.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

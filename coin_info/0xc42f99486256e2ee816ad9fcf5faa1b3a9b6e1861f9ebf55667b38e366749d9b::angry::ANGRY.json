@@ -1,0 +1,13 @@
+{
+  "name": "Angry SUIds",
+  "symbol": "Angry",
+  "decimals": 9,
+  "coin_type": "0xc42f99486256e2ee816ad9fcf5faa1b3a9b6e1861f9ebf55667b38e366749d9b::angry::ANGRY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/52ac4455-a45a-4c26-b800-44a7d215adc6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

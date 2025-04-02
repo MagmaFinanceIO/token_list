@@ -1,0 +1,13 @@
+{
+  "name": "Valentine On SOL",
+  "symbol": "VALENTINE",
+  "decimals": 9,
+  "coin_type": "0x482a3bcbce26458c66257ac39fdea9cce2a1fec02551ce6ae96b0070a3ce4efb::valentine::VALENTINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DvCWWg6QRniv3zFbR1dy7aCzyGPvq2QLUEA2AqFMdaoj.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Starship Flight 5",
+  "symbol": "SF5",
+  "decimals": 6,
+  "coin_type": "0x519294a9c78ad0895a16e2ce6ff0de203b5eeb0977aa8a35b554f7ddc84b9f35::sf5::SF5",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/a_ae_a_c_20241013160043_e2cb458389.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

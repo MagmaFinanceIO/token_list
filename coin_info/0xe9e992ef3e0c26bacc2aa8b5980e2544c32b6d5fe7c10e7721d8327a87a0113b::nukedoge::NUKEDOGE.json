@@ -1,0 +1,13 @@
+{
+  "name": "NUKEDOGE",
+  "symbol": "NUKEDOGE",
+  "decimals": 9,
+  "coin_type": "0xe9e992ef3e0c26bacc2aa8b5980e2544c32b6d5fe7c10e7721d8327a87a0113b::nukedoge::NUKEDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://crimson-magic-armadillo-10.mypinata.cloud/ipfs/bafkreieuxpsftozjusr6uqx4l7k6bz6rh73et6sd6czswuqmxfjj3fklay",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

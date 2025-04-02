@@ -1,0 +1,13 @@
+{
+  "name": "SUI ERA",
+  "symbol": "ERA",
+  "decimals": 6,
+  "coin_type": "0x0c01d494aa6049ed87c5f7f2b81b9525446ad9a63c7bfd95d68bc8188a629190::era::ERA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmcayForoZDr6vagigwmag9nUmUhaM33qBJVngjdLb4j5v",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

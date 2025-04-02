@@ -1,0 +1,13 @@
+{
+  "name": "Intelleos",
+  "symbol": "Intelleos",
+  "decimals": 9,
+  "coin_type": "0x5c865fa830f3f9f721063b31747f25dd7f85b9e0899113c20888450312498999::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

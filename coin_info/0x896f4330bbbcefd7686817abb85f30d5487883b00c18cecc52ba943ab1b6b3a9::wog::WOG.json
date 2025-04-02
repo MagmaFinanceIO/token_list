@@ -1,0 +1,13 @@
+{
+  "name": "Walrus Dog",
+  "symbol": "WOG",
+  "decimals": 6,
+  "coin_type": "0x896f4330bbbcefd7686817abb85f30d5487883b00c18cecc52ba943ab1b6b3a9::wog::WOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fa6c5ed8-e273-4609-b754-5b3a245e8937.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

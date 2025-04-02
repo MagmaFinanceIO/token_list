@@ -1,0 +1,13 @@
+{
+  "name": "ELON NUTS",
+  "symbol": "ELONUTS",
+  "decimals": 6,
+  "coin_type": "0xfcb372cd019ebe3366df5a91589e41dffd73f3f2de7eb2049e0f28183b33de07::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

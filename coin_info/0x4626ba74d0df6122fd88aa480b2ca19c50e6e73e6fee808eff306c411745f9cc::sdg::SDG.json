@@ -1,0 +1,13 @@
+{
+  "name": "SUIDOGE",
+  "symbol": "SDG",
+  "decimals": 9,
+  "coin_type": "0x4626ba74d0df6122fd88aa480b2ca19c50e6e73e6fee808eff306c411745f9cc::sdg::SDG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/75bfc519-25e6-44c9-8821-a6a00198fb8e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

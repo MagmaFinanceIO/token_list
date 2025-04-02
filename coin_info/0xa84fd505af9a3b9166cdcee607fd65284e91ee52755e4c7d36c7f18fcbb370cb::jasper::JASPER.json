@@ -1,0 +1,13 @@
+{
+  "name": "Axie Infinity Dog",
+  "symbol": "Jasper",
+  "decimals": 9,
+  "coin_type": "0xa84fd505af9a3b9166cdcee607fd65284e91ee52755e4c7d36c7f18fcbb370cb::jasper::JASPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/JAB57kZjbmqcmaRtgmbeoeGtCjnotLowKGSCfgBMpump.png?size=lg&key=9759c2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

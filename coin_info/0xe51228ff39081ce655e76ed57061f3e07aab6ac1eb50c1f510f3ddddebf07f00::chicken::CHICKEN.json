@@ -1,0 +1,13 @@
+{
+  "name": "fried chicken hoodie",
+  "symbol": "CHICKEN",
+  "decimals": 6,
+  "coin_type": "0xe51228ff39081ce655e76ed57061f3e07aab6ac1eb50c1f510f3ddddebf07f00::chicken::CHICKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/chickenhoodie_e0fcaa6487.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

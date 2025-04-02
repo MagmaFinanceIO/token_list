@@ -1,0 +1,13 @@
+{
+  "name": "Shower  Head",
+  "symbol": "SHOWERHEAD",
+  "decimals": 6,
+  "coin_type": "0x67ca4d43f4a326e283af4c13a15f8927818ab63d70526e41ecef83b2f598c9a0::showerhead::SHOWERHEAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Shower_Head_780b60b527.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

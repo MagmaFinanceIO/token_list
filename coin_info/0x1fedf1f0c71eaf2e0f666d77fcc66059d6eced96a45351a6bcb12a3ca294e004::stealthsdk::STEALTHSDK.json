@@ -1,0 +1,13 @@
+{
+  "name": "StealthSDK",
+  "symbol": "StealthSDK",
+  "decimals": 9,
+  "coin_type": "0x1fedf1f0c71eaf2e0f666d77fcc66059d6eced96a45351a6bcb12a3ca294e004::stealthsdk::STEALTHSDK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BUfMXdTHqKGVztQjYRB2b4v7EKAv4cheMg8Uu16Npump.png?size=lg&key=166d76",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

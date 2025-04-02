@@ -1,0 +1,13 @@
+{
+  "name": "Warlock Book",
+  "symbol": "warlockbook",
+  "decimals": 9,
+  "coin_type": "0xdb5658e8a54ee47ffaec6bd32bf141fdedc4bed8d3581d373084e6433de57b99::warlockbook::WARLOCKBOOK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/863/918/large/egor-ivanov-main.jpg?1728729381",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

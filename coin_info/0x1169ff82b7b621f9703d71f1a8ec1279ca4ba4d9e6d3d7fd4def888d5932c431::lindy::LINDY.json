@@ -1,0 +1,13 @@
+{
+  "name": "LindyMan",
+  "symbol": "LINDY",
+  "decimals": 9,
+  "coin_type": "0x1169ff82b7b621f9703d71f1a8ec1279ca4ba4d9e6d3d7fd4def888d5932c431::lindy::LINDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7XTaE1FWddkSvMxjk4sVLD3HVFCWkTaQsCehPvzVBmXK.png?size=xl&key=fe5833",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

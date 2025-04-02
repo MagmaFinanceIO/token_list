@@ -1,0 +1,13 @@
+{
+  "name": "Seiryu: The AI Flow",
+  "symbol": "SEIRYU",
+  "decimals": 6,
+  "coin_type": "0x8f72ad974a080398ac625c73ed444334f003ab731d155ec2a39774ab6eda8d26::seiryu::SEIRYU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/preview_3_fda9bd6585.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

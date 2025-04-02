@@ -1,0 +1,13 @@
+{
+  "name": "CAPTAIN SEADOG",
+  "symbol": "SEADOG",
+  "decimals": 6,
+  "coin_type": "0x373b793c465acabd1d3bb1dced1f0f6fc9f368e5ba334e70cee7f4e0480e3418::seadog::SEADOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/CBB_2_B146_DCD_7_455_C_BEE_6_C884_FD_93_FB_9_C_9c628db745.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

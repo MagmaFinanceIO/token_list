@@ -1,0 +1,13 @@
+{
+  "name": "QUIRKY BUM",
+  "symbol": "QUIRKY",
+  "decimals": 9,
+  "coin_type": "0x1ede11220b885efea6b30809eece22c40ced1f567ee9081438c452254df7f421::quirky::QUIRKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/oVcWvCW8Ygv9o6MfJSaPznExgBg55pewvwAC1BBpump.png?size=lg&key=9e9b4b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

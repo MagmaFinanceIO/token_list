@@ -1,0 +1,13 @@
+{
+  "name": "Ace Of Ai",
+  "symbol": "Ace",
+  "decimals": 9,
+  "coin_type": "0xaeaf899c11a5bdbfd635fd5cde8da2e2093570bc488b78512b8c7152c0be0d6f::ace::ACE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AgM9yaxdUwunNN86rTppmYvBsYFMrXCkk1tgGNpMpump.png?size=lg&key=b960de",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

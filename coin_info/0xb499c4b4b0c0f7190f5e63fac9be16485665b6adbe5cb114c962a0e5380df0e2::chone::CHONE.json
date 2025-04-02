@@ -1,0 +1,13 @@
+{
+  "name": "Chill Drone Agent",
+  "symbol": "CHONE",
+  "decimals": 9,
+  "coin_type": "0xb499c4b4b0c0f7190f5e63fac9be16485665b6adbe5cb114c962a0e5380df0e2::chone::CHONE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/95P2UwSjrnQsecCazBU36Q9BtFK3WpgWPWEbiUoaofou.png?size=lg&key=62a9b2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BOUNCEBIT BIRD (SKY INTELLIGENCE PROTOCOL) by SuiAI",
+  "symbol": "SIP",
+  "decimals": 6,
+  "coin_type": "0x4fe99f85886c712db7cff90ea955e082291566fc7b42ecd55a7253de2330d3da::sip::SIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1001192528_6f1fe2dee0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SpringSui",
+  "symbol": "Sps",
+  "decimals": 6,
+  "coin_type": "0x1b283ffac17c2ac411a35db5a06289361e470bb38899a9fc8f295a9a3a085115::sps::SPS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Xv_Ruiz_EL_400x400_4522a3a210.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "haha",
+  "symbol": "HAHA",
+  "decimals": 6,
+  "coin_type": "0xbfd610d8b4dea41498d1350a6118116c648fbb1e0c3e871f6dab883a8ccd23ad::haha::HAHA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1_ab4da66fb9.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

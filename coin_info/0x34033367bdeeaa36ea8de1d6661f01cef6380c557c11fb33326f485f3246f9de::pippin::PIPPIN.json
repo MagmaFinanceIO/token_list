@@ -1,0 +1,13 @@
+{
+  "name": "Pippin",
+  "symbol": "pippin",
+  "decimals": 9,
+  "coin_type": "0x34033367bdeeaa36ea8de1d6661f01cef6380c557c11fb33326f485f3246f9de::pippin::PIPPIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmdcvSSBg7gWD4tvfXv3PuLtAiPyDZ5Z9w4LQVeRJKL3Lz",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

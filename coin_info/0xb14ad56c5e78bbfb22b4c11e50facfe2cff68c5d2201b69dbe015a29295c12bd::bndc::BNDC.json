@@ -1,0 +1,13 @@
+{
+  "name": "BanditCoin",
+  "symbol": "BNDC",
+  "decimals": 9,
+  "coin_type": "0xb14ad56c5e78bbfb22b4c11e50facfe2cff68c5d2201b69dbe015a29295c12bd::bndc::BNDC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e7a9d6af-e17f-47c0-9210-60ff3ed7675e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

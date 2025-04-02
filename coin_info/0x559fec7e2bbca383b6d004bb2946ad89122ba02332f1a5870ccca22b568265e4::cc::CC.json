@@ -1,0 +1,13 @@
+{
+  "name": "Creative Coin",
+  "symbol": "CC",
+  "decimals": 9,
+  "coin_type": "0x559fec7e2bbca383b6d004bb2946ad89122ba02332f1a5870ccca22b568265e4::cc::CC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f0d96b15-d382-4d8c-96e6-2b7f744303d6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

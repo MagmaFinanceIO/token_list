@@ -1,0 +1,13 @@
+{
+  "name": "DUCKING SUI",
+  "symbol": "DUCKS",
+  "decimals": 6,
+  "coin_type": "0x7eee20558200df4d74da8e2625d66092fb4ed3e31cf38d147cbdcc0e0edd7552::ducks::DUCKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/9db3fa7731d860f48973ba52c3b2eea5_a46a369aff.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

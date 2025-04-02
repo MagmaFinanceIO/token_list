@@ -1,0 +1,13 @@
+{
+  "name": "DoggySui",
+  "symbol": "DGS",
+  "decimals": 9,
+  "coin_type": "0xde133c0fb04b9c9b963edc6cd3786b5b7141985f15b964b75f944eaae4d604dd::dgs::DGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9e760eb7-ef9e-432c-a659-3c060769c790.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

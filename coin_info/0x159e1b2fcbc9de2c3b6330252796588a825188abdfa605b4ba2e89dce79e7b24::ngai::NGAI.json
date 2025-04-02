@@ -1,0 +1,13 @@
+{
+  "name": "Name Gen Ai",
+  "symbol": "NGAI",
+  "decimals": 9,
+  "coin_type": "0x159e1b2fcbc9de2c3b6330252796588a825188abdfa605b4ba2e89dce79e7b24::ngai::NGAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7JTSCMJR1FumTZxXeV1U142epQ8WejdCAYVz2aGspump.png?size=lg&key=cf9410",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

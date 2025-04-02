@@ -1,0 +1,13 @@
+{
+  "name": "Sui Stan",
+  "symbol": "STAN",
+  "decimals": 6,
+  "coin_type": "0x186b548d559adca153757c6cf1ce60cb859dda378a7f242c18706cdbbcca933a::stan::STAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2025_01_04_05_23_36_a4031e822c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

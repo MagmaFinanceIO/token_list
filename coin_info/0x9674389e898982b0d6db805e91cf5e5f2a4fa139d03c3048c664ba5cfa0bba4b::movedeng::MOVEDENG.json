@@ -1,0 +1,13 @@
+{
+  "name": "MoveDeng",
+  "symbol": "MOVEDENG",
+  "decimals": 6,
+  "coin_type": "0x9674389e898982b0d6db805e91cf5e5f2a4fa139d03c3048c664ba5cfa0bba4b::movedeng::MOVEDENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000196_8516bbe1ff.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

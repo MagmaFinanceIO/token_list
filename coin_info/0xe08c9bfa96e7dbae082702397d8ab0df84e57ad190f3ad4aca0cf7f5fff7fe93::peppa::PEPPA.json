@@ -1,0 +1,13 @@
+{
+  "name": "Peppa",
+  "symbol": "Peppa",
+  "decimals": 9,
+  "coin_type": "0xe08c9bfa96e7dbae082702397d8ab0df84e57ad190f3ad4aca0cf7f5fff7fe93::peppa::PEPPA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b9a4a28a-bf86-4df1-9f9a-21f5d29e948b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

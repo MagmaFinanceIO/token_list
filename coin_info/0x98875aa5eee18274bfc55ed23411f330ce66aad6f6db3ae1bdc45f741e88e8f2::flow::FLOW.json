@@ -1,0 +1,13 @@
+{
+  "name": "FLOW",
+  "symbol": "FLOW",
+  "decimals": 9,
+  "coin_type": "0x98875aa5eee18274bfc55ed23411f330ce66aad6f6db3ae1bdc45f741e88e8f2::flow::FLOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://storage.googleapis.com/raidenx-prod/logo/sui/0x6e130d2e13ede3bc42fa2101d21a3d910f5bbdd0426a2ae242aed235eab8dc98::flow::FLOW.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

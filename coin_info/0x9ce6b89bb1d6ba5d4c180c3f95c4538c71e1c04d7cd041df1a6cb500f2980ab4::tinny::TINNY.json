@@ -1,0 +1,13 @@
+{
+  "name": "Tinny the Rhino",
+  "symbol": "Tinny",
+  "decimals": 9,
+  "coin_type": "0x9ce6b89bb1d6ba5d4c180c3f95c4538c71e1c04d7cd041df1a6cb500f2980ab4::tinny::TINNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dc7fddfd-95ba-4240-a31d-ec1c7c4b2ed7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

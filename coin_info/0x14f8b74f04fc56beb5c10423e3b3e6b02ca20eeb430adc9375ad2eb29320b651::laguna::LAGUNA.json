@@ -1,0 +1,13 @@
+{
+  "name": "LAGUNA SUI",
+  "symbol": "LAGUNA",
+  "decimals": 6,
+  "coin_type": "0x14f8b74f04fc56beb5c10423e3b3e6b02ca20eeb430adc9375ad2eb29320b651::laguna::LAGUNA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/123123_2fd625f303.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

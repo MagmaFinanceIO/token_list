@@ -1,0 +1,13 @@
+{
+  "name": "Raha The Rhino",
+  "symbol": "RAHA",
+  "decimals": 9,
+  "coin_type": "0x809720a75f6cdb20bb7cde06deffb0d951495d7d86e341887e7a00c172304f87::raha::RAHA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8MSnRy1dHuvEzF8Qp7BkHy3UiaTUi5Kycfqd2DKWpump.png?size=lg&key=9c37e3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

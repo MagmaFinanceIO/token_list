@@ -1,0 +1,13 @@
+{
+  "name": "TEK",
+  "symbol": "TEK",
+  "decimals": 9,
+  "coin_type": "0x913c8468a4608db7b35c86472192a309684c177ebe90475c663fde234b49c769::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

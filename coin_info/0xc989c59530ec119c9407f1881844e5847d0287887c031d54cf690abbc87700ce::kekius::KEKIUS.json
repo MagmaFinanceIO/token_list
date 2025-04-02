@@ -1,0 +1,13 @@
+{
+  "name": "Justice For Kekius",
+  "symbol": "KEKIUS",
+  "decimals": 6,
+  "coin_type": "0xc989c59530ec119c9407f1881844e5847d0287887c031d54cf690abbc87700ce::kekius::KEKIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736407786909.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

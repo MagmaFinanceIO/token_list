@@ -1,0 +1,13 @@
+{
+  "name": "Sentio Protocol ON SUI",
+  "symbol": "SEN",
+  "decimals": 2,
+  "coin_type": "0x9412bdff9afc208b43796f49d7a1354eb944c3f1d33717f1f6f9f47e2c052a86::SEN::SEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/vKRppTjQOcnOa2hnWBQhmaP19PxTQI7Ml97XIThKHFg?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

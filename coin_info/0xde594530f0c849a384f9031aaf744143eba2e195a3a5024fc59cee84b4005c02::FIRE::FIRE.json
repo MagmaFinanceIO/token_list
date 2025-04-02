@@ -1,0 +1,13 @@
+{
+  "name": "Fire on Sui",
+  "symbol": "FIRE",
+  "decimals": 2,
+  "coin_type": "0xde594530f0c849a384f9031aaf744143eba2e195a3a5024fc59cee84b4005c02::FIRE::FIRE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.postimg.cc/gk19LDgZ/firesui.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

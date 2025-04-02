@@ -1,0 +1,13 @@
+{
+  "name": "deeez",
+  "symbol": "NUTS",
+  "decimals": 6,
+  "coin_type": "0x25f94cc7689695cc6389fb1daefc28d418a07159a07de15421367141ac9e78c8::nuts::NUTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmZwieh4F7LBqGYUE6HLqmC6HJPNtdpRjHoGjk5u7pMxW9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

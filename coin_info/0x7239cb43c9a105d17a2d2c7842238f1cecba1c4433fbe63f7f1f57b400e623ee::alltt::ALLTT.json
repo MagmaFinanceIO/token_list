@@ -1,0 +1,13 @@
+{
+  "name": "All Things Trump",
+  "symbol": "ALLTT",
+  "decimals": 9,
+  "coin_type": "0x7239cb43c9a105d17a2d2c7842238f1cecba1c4433fbe63f7f1f57b400e623ee::alltt::ALLTT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d507675a-2047-4821-8996-e46dfc87abdd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

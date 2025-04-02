@@ -1,0 +1,13 @@
+{
+  "name": "Top 1 Sui Squirrel",
+  "symbol": "SPeanut",
+  "decimals": 9,
+  "coin_type": "0xae11c8892513c8ac2331d3f5c6eee0d5108d69cc29f079f40457d5343fdd06af::speanut::SPEANUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/bGxHNbsacaVL35pkYWae5PYQDZXSpuQb3QDyW31pump.png?size=lg&key=7a0278",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

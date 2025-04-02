@@ -1,0 +1,13 @@
+{
+  "name": "Makigarkp",
+  "symbol": "magikarp",
+  "decimals": 9,
+  "coin_type": "0xd606b66ecd838a55303ad8726c8fa7f25de8a7f87f749e2fd2a5992d39107b3c::magikarp::MAGIKARP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM7r-7-SebKcDBWJO88MpNl-V_DWxmdGjYgeTi1X7u4P07QR0LojIOaiWSh03iNKUjUJ4&usqp=CAU",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

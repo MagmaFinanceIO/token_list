@@ -1,0 +1,13 @@
+{
+  "name": "Toki",
+  "symbol": "Toki",
+  "decimals": 9,
+  "coin_type": "0x42b27b4310377edfdc496710edcae92a29821e7e4a73257ac9a23ddf7cd86f0f::toki::TOKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

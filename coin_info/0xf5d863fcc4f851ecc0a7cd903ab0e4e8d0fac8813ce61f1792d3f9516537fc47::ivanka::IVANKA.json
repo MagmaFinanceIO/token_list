@@ -1,0 +1,13 @@
+{
+  "name": "Official Ivanka Meme",
+  "symbol": "IVANKA",
+  "decimals": 9,
+  "coin_type": "0xf5d863fcc4f851ecc0a7cd903ab0e4e8d0fac8813ce61f1792d3f9516537fc47::ivanka::IVANKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmZs8VMw3vdZSDpK9B4eipPdxP35HzxLpcGBpeC6RCaCaC",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

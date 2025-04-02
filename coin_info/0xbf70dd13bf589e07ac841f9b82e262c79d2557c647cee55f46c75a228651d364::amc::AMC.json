@@ -1,0 +1,13 @@
+{
+  "name": "AMC ON SUI",
+  "symbol": "AMC",
+  "decimals": 6,
+  "coin_type": "0xbf70dd13bf589e07ac841f9b82e262c79d2557c647cee55f46c75a228651d364::amc::AMC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7748_a274f93d9d.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

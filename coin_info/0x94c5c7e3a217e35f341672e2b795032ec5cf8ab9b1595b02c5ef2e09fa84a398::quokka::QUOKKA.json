@@ -1,0 +1,13 @@
+{
+  "name": "World's Happiest Animal",
+  "symbol": "QUOKKA",
+  "decimals": 9,
+  "coin_type": "0x94c5c7e3a217e35f341672e2b795032ec5cf8ab9b1595b02c5ef2e09fa84a398::quokka::QUOKKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4ov9iWBQJy2qGezAG9ZEDPgjXYfsnkTN2AGBkmbYpump.png?size=lg&key=84dfb3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Gambler",
+  "symbol": "GMBLR",
+  "decimals": 9,
+  "coin_type": "0x66ea2f93b2a8f902d4f1e8a7b5b9bcd13ee9b557435c4411fdb5a8c922fa529b::gmblr::GMBLR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f4dea342-c04f-43a9-87e3-6ea95dd84abc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

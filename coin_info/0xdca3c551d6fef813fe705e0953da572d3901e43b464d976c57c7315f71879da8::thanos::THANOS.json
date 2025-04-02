@@ -1,0 +1,13 @@
+{
+  "name": "Thanos Meme",
+  "symbol": "THANOS",
+  "decimals": 9,
+  "coin_type": "0xdca3c551d6fef813fe705e0953da572d3901e43b464d976c57c7315f71879da8::thanos::THANOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CEnmLTaPYsMTm5hbEPdUm4ar94VKecUZV68yJs16pump.png?size=lg&key=5a5ef5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

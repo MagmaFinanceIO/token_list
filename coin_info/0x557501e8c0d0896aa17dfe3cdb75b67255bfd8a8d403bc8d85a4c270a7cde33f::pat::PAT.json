@@ -1,0 +1,13 @@
+{
+  "name": "Pat Cat by SuiAI",
+  "symbol": "PAT",
+  "decimals": 6,
+  "coin_type": "0x557501e8c0d0896aa17dfe3cdb75b67255bfd8a8d403bc8d85a4c270a7cde33f::pat::PAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_2257_5fdc6b2556.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

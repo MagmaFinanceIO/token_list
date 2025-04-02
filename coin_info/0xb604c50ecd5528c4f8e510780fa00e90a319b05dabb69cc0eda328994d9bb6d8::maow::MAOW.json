@@ -1,0 +1,13 @@
+{
+  "name": "MAOW",
+  "symbol": "MAOW",
+  "decimals": 9,
+  "coin_type": "0xb604c50ecd5528c4f8e510780fa00e90a319b05dabb69cc0eda328994d9bb6d8::maow::MAOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/32e94a5a-0458-4c08-a971-616d0c7f2298.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

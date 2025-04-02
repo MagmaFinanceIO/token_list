@@ -1,0 +1,13 @@
+{
+  "name": "Savings Account Coin",
+  "symbol": "SAVEC",
+  "decimals": 9,
+  "coin_type": "0xe87f54dedadedf74750e0857ac50b1b2e0e65d4b25d597eb8c7a25ec28457916::savec::SAVEC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/26275bb5-b834-4f66-a469-a33d46f3ee5b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

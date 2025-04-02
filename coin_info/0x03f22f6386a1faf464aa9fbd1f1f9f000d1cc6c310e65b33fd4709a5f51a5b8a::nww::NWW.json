@@ -1,0 +1,13 @@
+{
+  "name": "No World War",
+  "symbol": "NWW",
+  "decimals": 9,
+  "coin_type": "0x03f22f6386a1faf464aa9fbd1f1f9f000d1cc6c310e65b33fd4709a5f51a5b8a::nww::NWW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c8dd39bf-758f-46ee-b958-a1a8c7805633.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

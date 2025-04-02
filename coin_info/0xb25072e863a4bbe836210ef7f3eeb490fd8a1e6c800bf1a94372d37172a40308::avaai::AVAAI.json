@@ -1,0 +1,13 @@
+{
+  "name": "AVA AI",
+  "symbol": "AVAAI",
+  "decimals": 9,
+  "coin_type": "0xb25072e863a4bbe836210ef7f3eeb490fd8a1e6c800bf1a94372d37172a40308::avaai::AVAAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/28e74bf3-a80f-4500-88cf-e7cedbd72652.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

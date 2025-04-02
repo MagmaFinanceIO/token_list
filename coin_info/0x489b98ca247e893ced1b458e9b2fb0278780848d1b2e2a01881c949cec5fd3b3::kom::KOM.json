@@ -1,0 +1,13 @@
+{
+  "name": "KOMODO",
+  "symbol": "KOM",
+  "decimals": 9,
+  "coin_type": "0x489b98ca247e893ced1b458e9b2fb0278780848d1b2e2a01881c949cec5fd3b3::kom::KOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaLKqWddV1Itjp-KLu8xQTWwlMD9AKBSthTo-Bx-VOFszBRaLfA271egtG&s=10",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI FOMO",
+  "symbol": "SUIFOMO",
+  "decimals": 6,
+  "coin_type": "0xa69535896788b3cc6dd5d27f0a82ea39cf79f7c9b19684debb0fd7ad5ecc7076::suifomo::SUIFOMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/GY_5_Y97_Za_AAAM_1l_dc97d136af.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

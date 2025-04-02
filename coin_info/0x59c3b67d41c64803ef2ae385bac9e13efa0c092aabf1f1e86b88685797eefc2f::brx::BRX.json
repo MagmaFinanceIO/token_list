@@ -1,0 +1,13 @@
+{
+  "name": "BronxCoin",
+  "symbol": "BRX",
+  "decimals": 9,
+  "coin_type": "0x59c3b67d41c64803ef2ae385bac9e13efa0c092aabf1f1e86b88685797eefc2f::brx::BRX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ba4ccb80-0c0a-4a84-8d11-c1cf6a507311.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

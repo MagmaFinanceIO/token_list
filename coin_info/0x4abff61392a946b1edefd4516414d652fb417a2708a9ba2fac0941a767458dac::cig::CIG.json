@@ -1,0 +1,13 @@
+{
+  "name": "CIG",
+  "symbol": "Cig",
+  "decimals": 6,
+  "coin_type": "0x4abff61392a946b1edefd4516414d652fb417a2708a9ba2fac0941a767458dac::cig::CIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/cigg_54c067c1c3.PNG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

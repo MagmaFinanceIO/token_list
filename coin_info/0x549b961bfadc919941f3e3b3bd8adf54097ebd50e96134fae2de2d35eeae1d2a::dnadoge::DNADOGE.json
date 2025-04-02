@@ -1,0 +1,13 @@
+{
+  "name": "DNA DOGE",
+  "symbol": "DNADOGE",
+  "decimals": 9,
+  "coin_type": "0x549b961bfadc919941f3e3b3bd8adf54097ebd50e96134fae2de2d35eeae1d2a::dnadoge::DNADOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Ap5kx5sLj4pV5pGgwhbwYV65pfFgaHsJc2zYhVzBpviN.png?size=lg&key=c34b40",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

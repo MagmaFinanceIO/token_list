@@ -1,0 +1,13 @@
+{
+  "name": "Mr MeeSeeks",
+  "symbol": "MEESEEKS",
+  "decimals": 6,
+  "coin_type": "0x3d53addb44e7969e00fccee4e6b92c7c9308c4e84abcdb7890c716e90f4ac442::meeseeks::MEESEEKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_8041_56a125d56d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

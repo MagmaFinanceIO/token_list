@@ -1,0 +1,13 @@
+{
+  "name": "Sia",
+  "symbol": "SIA",
+  "decimals": 9,
+  "coin_type": "0x9b3b2f3c479850da3d1df08fca1d443b904369d55a47590ee20df09fdb6220f6::sia::SIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/340/911/large/dave-theisen-sia-closeup-001.jpg?1727308453",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Feel",
+  "symbol": "FEEL",
+  "decimals": 1,
+  "coin_type": "0x9c88173af9c44a4c63f338bccde65c1461d0d0331ee3c0ab710bdd8653a3036f::feel::FEEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/55cb5666-0a1e-4230-a60b-7457a1b8497f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

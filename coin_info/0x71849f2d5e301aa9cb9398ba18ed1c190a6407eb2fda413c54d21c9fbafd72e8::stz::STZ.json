@@ -1,0 +1,13 @@
+{
+  "name": "Suitizen",
+  "symbol": "STZ",
+  "decimals": 5,
+  "coin_type": "0x71849f2d5e301aa9cb9398ba18ed1c190a6407eb2fda413c54d21c9fbafd72e8::stz::STZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/rJnMzhr.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

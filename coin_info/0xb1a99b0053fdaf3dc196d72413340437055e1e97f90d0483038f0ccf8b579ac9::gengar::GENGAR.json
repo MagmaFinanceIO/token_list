@@ -1,0 +1,13 @@
+{
+  "name": "Gengar",
+  "symbol": "GENGAR",
+  "decimals": 9,
+  "coin_type": "0xb1a99b0053fdaf3dc196d72413340437055e1e97f90d0483038f0ccf8b579ac9::gengar::GENGAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://raw.githubusercontent.com/gengarsui/gengar/refs/heads/main/gengar%20(1).png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

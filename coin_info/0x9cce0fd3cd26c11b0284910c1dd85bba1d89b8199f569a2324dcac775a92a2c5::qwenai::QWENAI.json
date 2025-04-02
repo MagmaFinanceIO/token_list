@@ -1,0 +1,13 @@
+{
+  "name": "Qwen AI",
+  "symbol": "QwenAI",
+  "decimals": 9,
+  "coin_type": "0x9cce0fd3cd26c11b0284910c1dd85bba1d89b8199f569a2324dcac775a92a2c5::qwenai::QWENAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9o4P6adLsL9DQoYE9J8vhL9LNxXPt2pSvgKcMbBspump.png?size=lg&key=959494",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

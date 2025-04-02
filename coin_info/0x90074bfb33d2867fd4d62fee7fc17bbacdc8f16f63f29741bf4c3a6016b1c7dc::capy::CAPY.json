@@ -1,0 +1,13 @@
+{
+  "name": "Capys",
+  "symbol": "Capy",
+  "decimals": 6,
+  "coin_type": "0x90074bfb33d2867fd4d62fee7fc17bbacdc8f16f63f29741bf4c3a6016b1c7dc::capy::CAPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/capy_175ad90fa0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

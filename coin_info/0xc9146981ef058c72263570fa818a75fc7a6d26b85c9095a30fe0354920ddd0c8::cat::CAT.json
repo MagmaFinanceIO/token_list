@@ -1,0 +1,13 @@
+{
+  "name": "HOP CAT",
+  "symbol": "CAT",
+  "decimals": 6,
+  "coin_type": "0xc9146981ef058c72263570fa818a75fc7a6d26b85c9095a30fe0354920ddd0c8::cat::CAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qmen8LhMSiPa1Sy4VX3UjzvDY3XuRGaR2vzsQFWAHYKoyF",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

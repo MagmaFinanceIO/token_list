@@ -1,0 +1,13 @@
+{
+  "name": "The Firefly chased the light",
+  "symbol": "FIREFLY",
+  "decimals": 9,
+  "coin_type": "0x828db57a1afdba7d9592d4815618b8f7de3a923621f940ab6c235cf61eed0200::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/943/696/large/xinyi-zou-01.jpg?1728973283",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

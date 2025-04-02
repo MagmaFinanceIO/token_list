@@ -1,0 +1,13 @@
+{
+  "name": "Strokin' It",
+  "symbol": "TROKIN",
+  "decimals": 9,
+  "coin_type": "0xe7603447e20b86c9b3823c0ac3e57f801cb211607f81e748fd38ae731a2668c8::trokin::TROKIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5F7d6dAsmwDYdKGruWnq9e9v9jTLR4qNt6UpdRq4pump.png?size=lg&key=40caf5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

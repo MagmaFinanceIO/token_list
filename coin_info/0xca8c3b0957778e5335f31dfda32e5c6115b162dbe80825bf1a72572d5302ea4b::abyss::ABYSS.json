@@ -1,0 +1,13 @@
+{
+  "name": "Data Wormhole",
+  "symbol": "ABYSS",
+  "decimals": 9,
+  "coin_type": "0xca8c3b0957778e5335f31dfda32e5c6115b162dbe80825bf1a72572d5302ea4b::abyss::ABYSS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmRs5ZhayYzic7tgCj5WpxXwdgRSCb1vHafNkXqDqywBae",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

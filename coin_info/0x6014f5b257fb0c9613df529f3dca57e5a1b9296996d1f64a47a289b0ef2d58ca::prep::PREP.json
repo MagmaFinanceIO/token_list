@@ -1,0 +1,13 @@
+{
+  "name": "Agent Prep by SuiAI",
+  "symbol": "PREP",
+  "decimals": 6,
+  "coin_type": "0x6014f5b257fb0c9613df529f3dca57e5a1b9296996d1f64a47a289b0ef2d58ca::prep::PREP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Sentient_AI_Agent_prepper_attire_psychedelic_clothing_gas_mask_Matrix_style_code_background_Dramatic_cinematic_style_artistic_lighting_abstract_patterns_Film_like_composition_and_lighting_75358ed5fa.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

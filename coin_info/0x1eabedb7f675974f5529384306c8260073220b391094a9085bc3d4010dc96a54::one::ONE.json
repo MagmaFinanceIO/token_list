@@ -1,0 +1,13 @@
+{
+  "name": "One",
+  "symbol": "one",
+  "decimals": 9,
+  "coin_type": "0x1eabedb7f675974f5529384306c8260073220b391094a9085bc3d4010dc96a54::one::ONE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/89c46842-d53a-4f7a-a308-ff79d17373dd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

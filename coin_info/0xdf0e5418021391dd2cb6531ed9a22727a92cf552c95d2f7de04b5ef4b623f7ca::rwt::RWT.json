@@ -1,0 +1,13 @@
+{
+  "name": "Real World Tokens",
+  "symbol": "RWT",
+  "decimals": 6,
+  "coin_type": "0xdf0e5418021391dd2cb6531ed9a22727a92cf552c95d2f7de04b5ef4b623f7ca::rwt::RWT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736464557681.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

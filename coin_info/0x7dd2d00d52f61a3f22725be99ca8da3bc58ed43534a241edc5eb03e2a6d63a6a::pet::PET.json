@@ -1,0 +1,13 @@
+{
+  "name": "Puzzle Engine Technology",
+  "symbol": "PET",
+  "decimals": 6,
+  "coin_type": "0x7dd2d00d52f61a3f22725be99ca8da3bc58ed43534a241edc5eb03e2a6d63a6a::pet::PET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://play-lh.googleusercontent.com/lWinLRCz-E5CB2NNsJbAT3hzE08e6f6znxSno1u0QKRZ72mWi465CTyMOGhIWqg9twi1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

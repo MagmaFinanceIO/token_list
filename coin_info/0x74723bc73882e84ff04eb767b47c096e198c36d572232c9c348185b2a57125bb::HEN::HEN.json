@@ -1,0 +1,13 @@
+{
+  "name": "HEN",
+  "symbol": "HEN",
+  "decimals": 9,
+  "coin_type": "0x74723bc73882e84ff04eb767b47c096e198c36d572232c9c348185b2a57125bb::HEN::HEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

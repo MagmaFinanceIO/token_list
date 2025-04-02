@@ -1,0 +1,13 @@
+{
+  "name": "LUNO",
+  "symbol": "LUNO",
+  "decimals": 6,
+  "coin_type": "0x59948c75ddb2cefd574df0b573267a8ca885308a1e60a181c078212ab0eceb37::luno::LUNO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.okx.com/cdn/web3/currency/token/501-97yp7DoguD5LNeW6TJixSo6RDBkzBqaACn4avE4Xpump-98.png/type=default_350_0?v=1736181479793&x-oss-process=image/format,webp/ignore-error,1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

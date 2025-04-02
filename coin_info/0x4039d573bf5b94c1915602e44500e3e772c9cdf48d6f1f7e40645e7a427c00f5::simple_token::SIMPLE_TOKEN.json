@@ -1,0 +1,13 @@
+{
+  "name": "CATAI",
+  "symbol": "CATAI",
+  "decimals": 9,
+  "coin_type": "0x4039d573bf5b94c1915602e44500e3e772c9cdf48d6f1f7e40645e7a427c00f5::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

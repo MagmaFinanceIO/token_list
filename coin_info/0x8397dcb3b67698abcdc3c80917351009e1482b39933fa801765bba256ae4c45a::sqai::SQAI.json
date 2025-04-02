@@ -1,0 +1,13 @@
+{
+  "name": "SuiQuantumAI",
+  "symbol": "SQAI",
+  "decimals": 6,
+  "coin_type": "0x8397dcb3b67698abcdc3c80917351009e1482b39933fa801765bba256ae4c45a::sqai::SQAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8ebe498c-b4ba-4157-8525-4f0567c6a4ac.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

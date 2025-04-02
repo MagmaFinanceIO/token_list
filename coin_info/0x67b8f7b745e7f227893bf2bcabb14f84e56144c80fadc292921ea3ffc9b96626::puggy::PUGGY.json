@@ -1,0 +1,13 @@
+{
+  "name": "PuggyDog",
+  "symbol": "PUGGY",
+  "decimals": 7,
+  "coin_type": "0x67b8f7b745e7f227893bf2bcabb14f84e56144c80fadc292921ea3ffc9b96626::puggy::PUGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/wWDNyaX.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

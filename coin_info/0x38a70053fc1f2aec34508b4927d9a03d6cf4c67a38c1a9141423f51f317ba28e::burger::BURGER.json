@@ -1,0 +1,13 @@
+{
+  "name": "Crypto Burger",
+  "symbol": "BURGER",
+  "decimals": 6,
+  "coin_type": "0x38a70053fc1f2aec34508b4927d9a03d6cf4c67a38c1a9141423f51f317ba28e::burger::BURGER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/BURGER_T_Dbhi_U_7ti5r_U_Aq_Ru_NJ_15605e3342.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

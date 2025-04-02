@@ -1,0 +1,13 @@
+{
+  "name": "Chef ON SUI",
+  "symbol": "Chef",
+  "decimals": 6,
+  "coin_type": "0xda5374408fb9e25b4c62dc78512078c63d49a8d7fc0bbe6011368604d0e80872::chef::CHEF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731091341320.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

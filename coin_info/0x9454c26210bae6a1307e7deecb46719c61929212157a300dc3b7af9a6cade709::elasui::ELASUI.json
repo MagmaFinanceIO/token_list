@@ -1,0 +1,13 @@
+{
+  "name": "THE ELSUI",
+  "symbol": "ELASUI",
+  "decimals": 9,
+  "coin_type": "0x9454c26210bae6a1307e7deecb46719c61929212157a300dc3b7af9a6cade709::elasui::ELASUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/489c6666-9de3-4d9d-98c9-1d3626385c27.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

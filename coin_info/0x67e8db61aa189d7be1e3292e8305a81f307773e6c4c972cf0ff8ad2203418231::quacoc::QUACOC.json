@@ -1,0 +1,13 @@
+{
+  "name": "Quack Cocaine",
+  "symbol": "QUACOC",
+  "decimals": 6,
+  "coin_type": "0x67e8db61aa189d7be1e3292e8305a81f307773e6c4c972cf0ff8ad2203418231::quacoc::QUACOC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/MAINLOGOQUACK_b84121baab.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

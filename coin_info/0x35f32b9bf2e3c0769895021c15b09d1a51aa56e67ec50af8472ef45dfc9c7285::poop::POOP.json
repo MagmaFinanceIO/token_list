@@ -1,0 +1,13 @@
+{
+  "name": "The pooper",
+  "symbol": "POOP",
+  "decimals": 6,
+  "coin_type": "0x35f32b9bf2e3c0769895021c15b09d1a51aa56e67ec50af8472ef45dfc9c7285::poop::POOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/DALL_E_2024_12_22_18_04_37_A_humorous_and_cartoonish_illustration_of_a_person_sitting_on_a_toilet_in_a_lighthearted_and_exaggerated_style_with_a_comical_expression_and_minimal_0b21ec6f0a.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

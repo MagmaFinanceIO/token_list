@@ -1,0 +1,13 @@
+{
+  "name": "Safu & Kek Gigafundz 888",
+  "symbol": "SKG888",
+  "decimals": 9,
+  "coin_type": "0x78e75528135aaedf7a9faa74026a1b5233ad3373ab0e6cf3ac9e9d309489b1b7::skg888::SKG888",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmP6RzHHMVF3r5fnnk4bPzmzP8MgH3fvnTF7aegBEM4n5D",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

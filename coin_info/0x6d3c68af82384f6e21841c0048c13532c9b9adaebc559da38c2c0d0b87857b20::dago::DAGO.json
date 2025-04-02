@@ -1,0 +1,13 @@
+{
+  "name": "Dago Dog",
+  "symbol": "DAGO",
+  "decimals": 9,
+  "coin_type": "0x6d3c68af82384f6e21841c0048c13532c9b9adaebc559da38c2c0d0b87857b20::dago::DAGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/266b2f02-5457-48b7-b5f7-a5815d8ac863.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

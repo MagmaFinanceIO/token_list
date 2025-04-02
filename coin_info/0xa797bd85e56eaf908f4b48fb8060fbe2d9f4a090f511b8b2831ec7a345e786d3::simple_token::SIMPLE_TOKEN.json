@@ -1,0 +1,13 @@
+{
+  "name": "CYBERTRUCK",
+  "symbol": "CYBERTRUCK",
+  "decimals": 9,
+  "coin_type": "0xa797bd85e56eaf908f4b48fb8060fbe2d9f4a090f511b8b2831ec7a345e786d3::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

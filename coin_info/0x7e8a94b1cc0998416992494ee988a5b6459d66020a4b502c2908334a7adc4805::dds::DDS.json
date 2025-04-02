@@ -1,0 +1,13 @@
+{
+  "name": "Dev Do Something",
+  "symbol": "DDS",
+  "decimals": 6,
+  "coin_type": "0x7e8a94b1cc0998416992494ee988a5b6459d66020a4b502c2908334a7adc4805::dds::DDS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/prop_67857e4d25.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

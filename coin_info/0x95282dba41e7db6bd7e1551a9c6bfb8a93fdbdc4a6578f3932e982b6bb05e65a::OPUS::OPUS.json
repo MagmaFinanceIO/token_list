@@ -1,0 +1,13 @@
+{
+  "name": "OPUS",
+  "symbol": "OPUS",
+  "decimals": 2,
+  "coin_type": "0x95282dba41e7db6bd7e1551a9c6bfb8a93fdbdc4a6578f3932e982b6bb05e65a::OPUS::OPUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/-cK5r2j2MkdiFoHSy9rnEJOvpIVtHn9MckfeVmtZIAg?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

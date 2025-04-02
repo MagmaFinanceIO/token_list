@@ -1,0 +1,13 @@
+{
+  "name": "AiKenzai",
+  "symbol": "KENZAI",
+  "decimals": 6,
+  "coin_type": "0xef0f600d897d3dd2f4ba3ec8224dd3b152c1bda8bf95a2ce46aadcedfbc60a0b::kenzai::KENZAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/openart_bd5898df_c7dd_48c5_b852_72acaac43486_ee317737b4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

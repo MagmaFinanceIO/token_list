@@ -1,0 +1,13 @@
+{
+  "name": "ArtNova Agent by SuiAI",
+  "symbol": "ARTNOVA",
+  "decimals": 6,
+  "coin_type": "0xa7ab77985244bbda9b25fd102143d62ea132783dd68c84ae574f5cb23b91f69d::artnova::ARTNOVA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Screenshot_126_27442d37d8.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "OCTOCAT",
+  "symbol": "OCAT",
+  "decimals": 9,
+  "coin_type": "0x980fb0222400a7d99266e0235b0a9a011099a217660012855246a9f746292f09::ocat::OCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c6036646-e49e-4be4-ba7e-3efe54939f2f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

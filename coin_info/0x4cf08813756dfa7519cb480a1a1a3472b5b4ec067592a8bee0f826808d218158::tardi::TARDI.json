@@ -1,0 +1,13 @@
+{
+  "name": "Tardi",
+  "symbol": "TARDI",
+  "decimals": 9,
+  "coin_type": "0x4cf08813756dfa7519cb480a1a1a3472b5b4ec067592a8bee0f826808d218158::tardi::TARDI",
+  "pyth_id": "",
+  "birdeyeid": "0x4cf08813756dfa7519cb480a1a1a3472b5b4ec067592a8bee0f826808d218158::tardi::TARDI",
+  "coin_priority": [],
+  "logo_url": "https://bafybeieycjagqv7xtenzxss5xkcxgeru7wql6izhzokr4ay4xdbrul4ef4.ipfs.w3s.link",
+  "project_url": "",
+  "coingecko_id": "tardi",
+  "is_trusted": true
+}

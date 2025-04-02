@@ -1,0 +1,13 @@
+{
+  "name": "CHILLA SUI",
+  "symbol": "CHILLA",
+  "decimals": 9,
+  "coin_type": "0xa61dff0219ab60e140ebf05821e5d9a34532a480decbebaecb114c113884d789::chilla::CHILLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmPcoTM6kUiT9esFoVjCT78z1GjnwWuFkyWvTYsZfGEKqt",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

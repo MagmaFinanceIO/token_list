@@ -1,0 +1,13 @@
+{
+  "name": "#SUI",
+  "symbol": "HTSUI",
+  "decimals": 6,
+  "coin_type": "0x962def567dcff4a3166c0b90106593d8e321f1fa02730598e1b216b6b804f360::htsui::HTSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/h2_a52a403904.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Funtom Swap",
+  "symbol": "FUNTOM",
+  "decimals": 6,
+  "coin_type": "0xe1d0a9ccefae1e0058a11e73cf36172110351aa3739d9fd435f02780de9e8971::funtom::FUNTOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a30db48c-a87f-44ff-b5dc-366344e637e7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

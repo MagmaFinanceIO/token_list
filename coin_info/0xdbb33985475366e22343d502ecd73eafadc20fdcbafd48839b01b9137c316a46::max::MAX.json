@@ -1,0 +1,13 @@
+{
+  "name": "MAX",
+  "symbol": "MAX",
+  "decimals": 6,
+  "coin_type": "0xdbb33985475366e22343d502ecd73eafadc20fdcbafd48839b01b9137c316a46::max::MAX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.okx.com/cdn/web3/currency/token/501-oraim8c9d1nkfuQk9EzGYEUGxqL3MHQYndRw1huVo5h-97.png/type=default_350_0?v=1734713448472&x-oss-process=image/format,webp/ignore-error,1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

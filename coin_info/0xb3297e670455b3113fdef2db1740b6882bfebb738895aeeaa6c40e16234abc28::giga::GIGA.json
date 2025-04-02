@@ -1,0 +1,13 @@
+{
+  "name": "GIGACHAD",
+  "symbol": "GIGA",
+  "decimals": 9,
+  "coin_type": "0xb3297e670455b3113fdef2db1740b6882bfebb738895aeeaa6c40e16234abc28::giga::GIGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5c1935ae-4b56-49c1-89f2-18947fd6b6bf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

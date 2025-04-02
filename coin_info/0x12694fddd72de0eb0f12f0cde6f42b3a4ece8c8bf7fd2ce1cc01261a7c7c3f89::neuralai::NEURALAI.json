@@ -1,0 +1,13 @@
+{
+  "name": "Spectre Neural System AI",
+  "symbol": "NEURALAI",
+  "decimals": 6,
+  "coin_type": "0x12694fddd72de0eb0f12f0cde6f42b3a4ece8c8bf7fd2ce1cc01261a7c7c3f89::neuralai::NEURALAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/afa003b7-acd5-4c05-b507-a09ebfddcf62.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DogFish",
+  "symbol": "dogfish",
+  "decimals": 6,
+  "coin_type": "0xac74c262644e74fe67e21b06afb6298682150570df4dde57786ab91300fba248::dogfish::DOGFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a89cc168-0cee-43e7-b7b0-ed88ba71d7b3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

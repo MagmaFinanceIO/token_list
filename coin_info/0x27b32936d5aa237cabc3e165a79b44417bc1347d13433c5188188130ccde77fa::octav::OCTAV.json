@@ -1,0 +1,13 @@
+{
+  "name": "Octav",
+  "symbol": "OCTAV",
+  "decimals": 6,
+  "coin_type": "0x27b32936d5aa237cabc3e165a79b44417bc1347d13433c5188188130ccde77fa::octav::OCTAV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Octav_5cee62f612.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "WIF PNUT",
+  "symbol": "WPNUT",
+  "decimals": 9,
+  "coin_type": "0x62b90f5c5b145d4f409eab3c6887f7cba9519fc9a3b5df1a82efdbc8500ab38e::wpnut::WPNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A9SLvwS4ajJX5TWoWNCkbM2aM4S3gHnWHuhtdo2LJ4Ja.png?size=lg&key=6ef2b2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

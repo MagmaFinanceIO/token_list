@@ -1,0 +1,13 @@
+{
+  "name": "SUI TRIBE",
+  "symbol": "TRIBE",
+  "decimals": 9,
+  "coin_type": "0xc24bd7c250355632158639c88b5cad782e7bfc0c628abc8858260ebf0e6e5f44::tribe::TRIBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/52055386-9945-40f5-9fe0-c96bfd36e4ee.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

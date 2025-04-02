@@ -1,0 +1,13 @@
+{
+  "name": "SaveLA",
+  "symbol": "SAVELA",
+  "decimals": 9,
+  "coin_type": "0x746eac683b59ff5855c5ce608a387493c3f794a835d8edfd9efb20f3d6394f7a::savela::SAVELA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GRCuecmrcGJtyvgyjYnCMmBYiD9vq3v56u87mrfbpump.png?size=lg&key=c4fa02",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

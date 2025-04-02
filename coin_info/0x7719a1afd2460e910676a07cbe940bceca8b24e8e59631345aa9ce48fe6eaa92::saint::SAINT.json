@@ -1,0 +1,13 @@
+{
+  "name": "Carlo Acutis",
+  "symbol": "saint",
+  "decimals": 9,
+  "coin_type": "0x7719a1afd2460e910676a07cbe940bceca8b24e8e59631345aa9ce48fe6eaa92::saint::SAINT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EQs4DEeaSyrhRPM6JPsf2ptLf4EHkcGXB7ybeufxpump.png?size=lg&key=e8408b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

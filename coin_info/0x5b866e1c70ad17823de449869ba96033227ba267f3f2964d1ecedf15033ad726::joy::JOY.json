@@ -1,0 +1,13 @@
+{
+  "name": "Joy Biden",
+  "symbol": "JOY",
+  "decimals": 2,
+  "coin_type": "0x5b866e1c70ad17823de449869ba96033227ba267f3f2964d1ecedf15033ad726::joy::JOY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e540f128-d19a-4402-bd68-d03fd6c5ecee.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

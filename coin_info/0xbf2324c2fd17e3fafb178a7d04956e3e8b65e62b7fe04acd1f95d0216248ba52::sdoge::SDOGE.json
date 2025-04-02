@@ -1,0 +1,13 @@
+{
+  "name": "SUI SUPER D.O.G.E",
+  "symbol": "SDOGE",
+  "decimals": 9,
+  "coin_type": "0xbf2324c2fd17e3fafb178a7d04956e3e8b65e62b7fe04acd1f95d0216248ba52::sdoge::SDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d9eeaaca-b0a1-4f1a-b8a0-6837972bbc84.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

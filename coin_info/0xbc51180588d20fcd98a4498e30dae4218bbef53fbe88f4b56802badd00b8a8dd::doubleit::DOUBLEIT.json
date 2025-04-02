@@ -1,0 +1,13 @@
+{
+  "name": "Double IT",
+  "symbol": "DOUBLEIT",
+  "decimals": 9,
+  "coin_type": "0xbc51180588d20fcd98a4498e30dae4218bbef53fbe88f4b56802badd00b8a8dd::doubleit::DOUBLEIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8023c126-a40b-4eed-a20e-e0a7208c3a06.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

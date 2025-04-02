@@ -1,0 +1,13 @@
+{
+  "name": "Doodlr",
+  "symbol": "SUIDOODLR",
+  "decimals": 6,
+  "coin_type": "0x18d2ae3447048e21666a5c119c231f7df0a23398a9251d30d4ff151cf8130d1c::suidoodlr::SUIDOODLR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_P6up_J_Lxa_CK_Vvh_X2o_Ktd_HF_Ru_U_Ef_W_Sm_ZWAEG_Ky_KWR_Ga_Y_Aq_f4cddd1b62.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Esti The Sui Dog",
+  "symbol": "ESTI",
+  "decimals": 2,
+  "coin_type": "0x37bd1a3366c734cb1232bdd0db71cca2d91e6499803c4881ddf7fdaadfa28a46::esti::ESTI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/63ebabf4-ef69-49e4-b42a-a1b69d6b0143.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

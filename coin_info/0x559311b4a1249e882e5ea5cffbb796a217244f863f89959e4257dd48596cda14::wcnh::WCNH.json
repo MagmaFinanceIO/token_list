@@ -1,0 +1,13 @@
+{
+  "name": "wCNh",
+  "symbol": "wCNh",
+  "decimals": 9,
+  "coin_type": "0x559311b4a1249e882e5ea5cffbb796a217244f863f89959e4257dd48596cda14::wcnh::WCNH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CB48KiK1oi1tWtjmPWxVR2NPeEr9ewzmZQ8ERk79Ue4b.png?size=lg&key=e3d4b7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

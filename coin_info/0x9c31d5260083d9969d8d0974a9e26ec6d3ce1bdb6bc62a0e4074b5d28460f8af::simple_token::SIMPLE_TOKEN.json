@@ -1,0 +1,13 @@
+{
+  "name": "Trolos",
+  "symbol": "TROLOS",
+  "decimals": 9,
+  "coin_type": "0x9c31d5260083d9969d8d0974a9e26ec6d3ce1bdb6bc62a0e4074b5d28460f8af::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

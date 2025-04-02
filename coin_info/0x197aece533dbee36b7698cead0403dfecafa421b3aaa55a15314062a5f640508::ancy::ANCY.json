@@ -1,0 +1,13 @@
+{
+  "name": "Ancy Peosi",
+  "symbol": "ANCY",
+  "decimals": 6,
+  "coin_type": "0x197aece533dbee36b7698cead0403dfecafa421b3aaa55a15314062a5f640508::ancy::ANCY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/266_4adcb9f78e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

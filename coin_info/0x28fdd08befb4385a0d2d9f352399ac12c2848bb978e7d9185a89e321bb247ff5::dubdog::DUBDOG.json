@@ -1,0 +1,13 @@
+{
+  "name": "DubDogSui",
+  "symbol": "DubDog",
+  "decimals": 9,
+  "coin_type": "0x28fdd08befb4385a0d2d9f352399ac12c2848bb978e7d9185a89e321bb247ff5::dubdog::DUBDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/eBw1F_2objYbUQUD?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

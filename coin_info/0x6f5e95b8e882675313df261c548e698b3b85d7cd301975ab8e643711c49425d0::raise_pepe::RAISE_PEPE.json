@@ -1,0 +1,13 @@
+{
+  "name": "RAISE_PEPE",
+  "symbol": "RAISE_PEPE on Sui",
+  "decimals": 9,
+  "coin_type": "0x6f5e95b8e882675313df261c548e698b3b85d7cd301975ab8e643711c49425d0::raise_pepe::RAISE_PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

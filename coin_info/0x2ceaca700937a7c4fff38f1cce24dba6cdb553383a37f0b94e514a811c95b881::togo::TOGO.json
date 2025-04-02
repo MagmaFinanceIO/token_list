@@ -1,0 +1,13 @@
+{
+  "name": "Dog Schnauzer Togo",
+  "symbol": "TOGO",
+  "decimals": 9,
+  "coin_type": "0x2ceaca700937a7c4fff38f1cce24dba6cdb553383a37f0b94e514a811c95b881::togo::TOGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7957c1c4-353e-46d9-bbc9-85802860206d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "gorf/frog",
+  "symbol": "GORF",
+  "decimals": 6,
+  "coin_type": "0x4e306544e7f73b33e98d964a508297ae5694a330fc075e82d46d01ee021940ae::gorf::GORF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/g_N4_L_Ec_Cu_400x400_d550e3c21f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Satoshi AI",
+  "symbol": "SAI",
+  "decimals": 9,
+  "coin_type": "0x79f6660fbb0d07ed2916753f69420c17099712a8568faf1caaf2881efa7950a2::sai::SAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/55418aa4-3e41-494d-8f84-8da821c3f4e2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

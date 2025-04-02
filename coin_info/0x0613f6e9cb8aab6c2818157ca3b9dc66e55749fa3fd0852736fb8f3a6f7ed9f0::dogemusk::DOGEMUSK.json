@@ -1,0 +1,13 @@
+{
+  "name": "DOGE MUSK",
+  "symbol": "DOGEMUSK",
+  "decimals": 9,
+  "coin_type": "0x0613f6e9cb8aab6c2818157ca3b9dc66e55749fa3fd0852736fb8f3a6f7ed9f0::dogemusk::DOGEMUSK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5L5sxiD9soyTMPJixrnCdJPisVZUdfu4ssLoZ8GjRToJ.png?size=lg&key=5633e9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

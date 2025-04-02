@@ -1,0 +1,13 @@
+{
+  "name": "Nigga Lofi",
+  "symbol": "NiLofi",
+  "decimals": 6,
+  "coin_type": "0x70e3c79e01a647affddcabb3af0c33cfc7812c33f37bdf942c2bc84fd058d697::nilofi::NILOFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/niga_lofi_profil_150c3c84b0.JPEG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

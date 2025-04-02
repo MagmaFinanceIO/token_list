@@ -1,0 +1,13 @@
+{
+  "name": "KIMBA",
+  "symbol": "KIMBA",
+  "decimals": 9,
+  "coin_type": "0xf305a440d15f9ab0e6cb3453baebe51de21a7a531574c708831391fec23c4f26::KIMBA::KIMBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

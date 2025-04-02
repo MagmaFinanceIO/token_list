@@ -1,0 +1,13 @@
+{
+  "name": "Tsundere",
+  "symbol": "BAKA",
+  "decimals": 6,
+  "coin_type": "0x81ed2709f7c1c0a78286a20095f4a0259a6554917fa1fa92d02fad74a53e96eb::baka::BAKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/tsundere_e08de2b030.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

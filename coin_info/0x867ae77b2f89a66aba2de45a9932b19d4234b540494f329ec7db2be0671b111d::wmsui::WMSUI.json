@@ -1,0 +1,13 @@
+{
+  "name": "WATERMAN",
+  "symbol": "WMSUI",
+  "decimals": 6,
+  "coin_type": "0x867ae77b2f89a66aba2de45a9932b19d4234b540494f329ec7db2be0671b111d::wmsui::WMSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmVQ6cEBNCohBrAa5j7uXJBPuUjgZ3QE5JXfkxi5FMFDYY",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Turbo",
+  "symbol": "Turbo",
+  "decimals": 9,
+  "coin_type": "0x349efe7d5ebedd701970f43d49584c8f8489664f174a696eeb066355b529e3ae::turbo::TURBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c5beb4b7-955a-4585-9a35-af7dd027fbb2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

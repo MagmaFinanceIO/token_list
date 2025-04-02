@@ -1,0 +1,13 @@
+{
+  "name": "HARIBOND SUI",
+  "symbol": "HARIBOND",
+  "decimals": 6,
+  "coin_type": "0xebf233152009648b8419c59ffb60daf1818670498b7960c74fba526d83b8a06d::haribond::HARIBOND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_S4r8_Evmnw_Tj_R_Ds_So_TAC_3_TZJA_Fs_Q7nrbcad_B4_YE_Mxya_Dx_cbda6a2972.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

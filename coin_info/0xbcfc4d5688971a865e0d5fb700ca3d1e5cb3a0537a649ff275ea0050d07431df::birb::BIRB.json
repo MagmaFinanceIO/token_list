@@ -1,0 +1,13 @@
+{
+  "name": "BIRB SUI",
+  "symbol": "BIRB",
+  "decimals": 9,
+  "coin_type": "0xbcfc4d5688971a865e0d5fb700ca3d1e5cb3a0537a649ff275ea0050d07431df::birb::BIRB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

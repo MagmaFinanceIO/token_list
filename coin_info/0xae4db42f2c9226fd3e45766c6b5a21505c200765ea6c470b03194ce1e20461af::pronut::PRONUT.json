@@ -1,0 +1,13 @@
+{
+  "name": "The Nutting Professor",
+  "symbol": "PRONUT",
+  "decimals": 9,
+  "coin_type": "0xae4db42f2c9226fd3e45766c6b5a21505c200765ea6c470b03194ce1e20461af::pronut::PRONUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/51Fn_CIaLGlCiORd?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

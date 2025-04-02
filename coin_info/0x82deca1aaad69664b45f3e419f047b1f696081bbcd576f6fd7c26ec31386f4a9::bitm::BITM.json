@@ -1,0 +1,13 @@
+{
+  "name": "Bitmeme",
+  "symbol": "Bitm",
+  "decimals": 6,
+  "coin_type": "0x82deca1aaad69664b45f3e419f047b1f696081bbcd576f6fd7c26ec31386f4a9::bitm::BITM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_a9ed3dabee.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

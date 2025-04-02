@@ -1,0 +1,13 @@
+{
+  "name": "SKI MASK RABBIT",
+  "symbol": "SKIDOE",
+  "decimals": 9,
+  "coin_type": "0x6ffd7c0827c61d90d4173e622a1833cd3f4bff45f62cf436d91691e865582233::skidoe::SKIDOE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x2b3d9781d1784941865f91de772bb459d2c815b5.png?size=xl&key=bc00c4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BIO",
+  "symbol": "BIO",
+  "decimals": 6,
+  "coin_type": "0x7e34620ac85236b7f34ce016ff2049243d2f03982f1152061c7b5637c61c0044::bio::BIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.okx.com/cdn/web3/currency/token/501-AmtvMBMYtb5auN4KiFdMe9C8wjiu1KQZYQUL73Pw7ZZE-97.png/type=default_350_0?v=1734260043731&x-oss-process=image/format,webp/ignore-error,1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

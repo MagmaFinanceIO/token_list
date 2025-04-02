@@ -1,0 +1,13 @@
+{
+  "name": "Hoot on Sui",
+  "symbol": "HOOT",
+  "decimals": 2,
+  "coin_type": "0x9267642ad1fcefb698e865f9bb24a2f33938deb090365353a2d5a91ed691cc34::hoot::HOOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e3739981-4c60-46b7-bc97-1beeaee8017b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

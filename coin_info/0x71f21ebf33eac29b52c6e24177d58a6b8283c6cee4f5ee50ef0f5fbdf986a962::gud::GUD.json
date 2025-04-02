@@ -1,0 +1,13 @@
+{
+  "name": "GUD COIN",
+  "symbol": "GUD",
+  "decimals": 6,
+  "coin_type": "0x71f21ebf33eac29b52c6e24177d58a6b8283c6cee4f5ee50ef0f5fbdf986a962::gud::GUD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSbyWJn388iyGLjvKbK2nBcXtqGevcZr6YHU2xLmeWuSa",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

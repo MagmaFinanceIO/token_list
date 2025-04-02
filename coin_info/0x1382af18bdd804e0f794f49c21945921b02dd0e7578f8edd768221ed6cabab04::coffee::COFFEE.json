@@ -1,0 +1,13 @@
+{
+  "name": "Morning Coffee",
+  "symbol": "COFFEE",
+  "decimals": 9,
+  "coin_type": "0x1382af18bdd804e0f794f49c21945921b02dd0e7578f8edd768221ed6cabab04::coffee::COFFEE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d134dd40-7d92-485f-b0d9-e9a397d8ced6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

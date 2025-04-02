@@ -1,0 +1,13 @@
+{
+  "name": "Dogecast",
+  "symbol": "DOGECAST",
+  "decimals": 6,
+  "coin_type": "0x47c70ad0745ea551b2d37c25a76a0c0e047654abee208de416716c984021fd7e::dogecast::DOGECAST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000018527_db4e8d9d8c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

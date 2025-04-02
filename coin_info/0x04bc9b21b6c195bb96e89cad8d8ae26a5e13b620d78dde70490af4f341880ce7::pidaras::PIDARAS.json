@@ -1,0 +1,13 @@
+{
+  "name": "PIDARAS",
+  "symbol": "PIDARAS",
+  "decimals": 9,
+  "coin_type": "0x04bc9b21b6c195bb96e89cad8d8ae26a5e13b620d78dde70490af4f341880ce7::pidaras::PIDARAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://media.tenor.com/wkK5-InZM2MAAAAe/%D0%B5%D0%B1%D0%B0%D1%82%D1%8C-%D0%BA%D0%BE%D1%82.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

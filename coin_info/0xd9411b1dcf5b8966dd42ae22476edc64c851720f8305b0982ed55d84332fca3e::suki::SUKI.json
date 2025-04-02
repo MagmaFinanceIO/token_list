@@ -1,0 +1,13 @@
+{
+  "name": "Ritsuki Chan",
+  "symbol": "SUKI",
+  "decimals": 6,
+  "coin_type": "0xd9411b1dcf5b8966dd42ae22476edc64c851720f8305b0982ed55d84332fca3e::suki::SUKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000591_b2dca6b4a2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

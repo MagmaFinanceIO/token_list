@@ -1,0 +1,13 @@
+{
+  "name": "SonicSUI",
+  "symbol": "SonicSUI",
+  "decimals": 9,
+  "coin_type": "0xe6818f6b268b4e2ce55a4b332adc9c5a40cf38280e0bd329e0f65eef8398fe48::sonicsui::SONICSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/87844c54-c999-403b-ad95-cf5f4bf04d5d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

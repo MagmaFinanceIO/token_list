@@ -1,0 +1,13 @@
+{
+  "name": "VIO AI AGENT",
+  "symbol": "VIOAI",
+  "decimals": 9,
+  "coin_type": "0xfac83057ed0c4a7e79bc37d19616fc0c787403fbb744e6816c49dfcb72881bdd::vioai::VIOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7bcc9701-d765-4cf1-bc21-561f5b9455b9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

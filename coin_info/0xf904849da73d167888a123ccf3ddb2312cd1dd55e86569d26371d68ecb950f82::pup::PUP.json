@@ -1,0 +1,13 @@
+{
+  "name": "Neiro's PUP",
+  "symbol": "PUP",
+  "decimals": 6,
+  "coin_type": "0xf904849da73d167888a123ccf3ddb2312cd1dd55e86569d26371d68ecb950f82::pup::PUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Abuhwrg_N_400x400_8ddcb5913e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

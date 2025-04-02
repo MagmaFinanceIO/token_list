@@ -1,0 +1,13 @@
+{
+  "name": "WONANZA",
+  "symbol": "WONANZA",
+  "decimals": 1,
+  "coin_type": "0x4b6800633ded26a55b19be38bdfe65a2fecb2d46f2fcc2d0c0e53c78196ea514::wonanza::WONANZA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/291d84e1-a896-4f0a-948e-5fb68a6ff67e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

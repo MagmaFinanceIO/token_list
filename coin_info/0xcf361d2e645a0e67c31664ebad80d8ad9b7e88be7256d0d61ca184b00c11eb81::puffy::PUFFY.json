@@ -1,0 +1,13 @@
+{
+  "name": "Space Dog Puffy",
+  "symbol": "PUFFY",
+  "decimals": 9,
+  "coin_type": "0xcf361d2e645a0e67c31664ebad80d8ad9b7e88be7256d0d61ca184b00c11eb81::puffy::PUFFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8d236c39-f8c0-4f92-82bf-7e886ee89b6f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

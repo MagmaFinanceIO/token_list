@@ -1,0 +1,13 @@
+{
+  "name": "MOLLIE DE ASCII CRAB",
+  "symbol": "MOLLIE",
+  "decimals": 9,
+  "coin_type": "0x6d01851d9205c68a6543820c66aacc504b61f72061b14f0581a82e836064a08f::mollie::MOLLIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQEEbVewjf7ga29yik54kcKRZybQhMmwjmgSbGzJg9sm8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

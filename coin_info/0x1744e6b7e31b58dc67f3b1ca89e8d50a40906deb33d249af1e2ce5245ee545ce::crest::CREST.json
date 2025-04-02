@@ -1,0 +1,13 @@
+{
+  "name": "CRESTAN",
+  "symbol": "CREST",
+  "decimals": 6,
+  "coin_type": "0x1744e6b7e31b58dc67f3b1ca89e8d50a40906deb33d249af1e2ce5245ee545ce::crest::CREST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Captura_de_tela_2024_12_21_124529_edf579bf50.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

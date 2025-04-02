@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Imp",
+  "symbol": "PIMP",
+  "decimals": 9,
+  "coin_type": "0x08b141ec4e812213f6c1a90ceeee0b76f8b8651639619cdb1ed2a8687ff3b269::pimp::PIMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cb75cca9-e831-4642-b255-7dd329d64bf0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

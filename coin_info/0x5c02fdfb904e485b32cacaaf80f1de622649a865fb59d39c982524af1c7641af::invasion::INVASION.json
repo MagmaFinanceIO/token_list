@@ -1,0 +1,13 @@
+{
+  "name": "INVASION ON SUI",
+  "symbol": "INVASION",
+  "decimals": 9,
+  "coin_type": "0x5c02fdfb904e485b32cacaaf80f1de622649a865fb59d39c982524af1c7641af::invasion::INVASION",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmYq4wmFr5hdQ64wEEZ5CjSMUEWmrzPv985ELh4u2WDmjG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

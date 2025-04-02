@@ -1,0 +1,13 @@
+{
+  "name": "Buddy DOGE",
+  "symbol": "BUDDY",
+  "decimals": 9,
+  "coin_type": "0x095fda0dffd748d5fe313ddd52baccd4023b6ce9a14059364eed908e5da7aa16::buddy::BUDDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bf57006d-7979-4056-9059-2d5cce1ab8cc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

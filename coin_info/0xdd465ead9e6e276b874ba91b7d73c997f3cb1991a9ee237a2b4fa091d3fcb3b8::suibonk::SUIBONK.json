@@ -1,0 +1,13 @@
+{
+  "name": "Sui Bonk",
+  "symbol": "SUIBONK",
+  "decimals": 9,
+  "coin_type": "0xdd465ead9e6e276b874ba91b7d73c997f3cb1991a9ee237a2b4fa091d3fcb3b8::suibonk::SUIBONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://aquamarine-giant-muskox-172.mypinata.cloud/ipfs/QmSoTSzFWTowoqMaBu1mQ6RPP1Mqv5CF9mT6Bp7RmwmB7q",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

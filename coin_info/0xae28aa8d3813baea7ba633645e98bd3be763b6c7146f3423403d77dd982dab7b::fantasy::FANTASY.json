@@ -1,0 +1,13 @@
+{
+  "name": "Fantasy AI",
+  "symbol": "FANTASY",
+  "decimals": 9,
+  "coin_type": "0xae28aa8d3813baea7ba633645e98bd3be763b6c7146f3423403d77dd982dab7b::fantasy::FANTASY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/pMN6dJswXEBjqczktgZaPKa8khR3k6AnNEgRzQUpump.png?size=lg&key=88b2a2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

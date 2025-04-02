@@ -1,0 +1,13 @@
+{
+  "name": "Misato Katsugi",
+  "symbol": "KATSUGI",
+  "decimals": 9,
+  "coin_type": "0x2fc0a880e969ad8d13b71b5550e318dd0a3b867ac764d175408890eca67ca31d::katsugi::KATSUGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/LpJbSkAwUY6f1VmvdyVmxGYEgn39JaE45xQobznpump.png?size=lg&key=d3edce",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

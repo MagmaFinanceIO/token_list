@@ -1,0 +1,13 @@
+{
+  "name": "SOLITO",
+  "symbol": "SOLITO",
+  "decimals": 9,
+  "coin_type": "0x279afa72ed5380164bb71c06559984bcd8d60ab8eb4ea7b4a295f36d8b2f34a3::solito::SOLITO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/XLqNprqfebg1Qkn9ttjHv7rM9g5JkvZoyvo5Lx9pump.png?size=lg&key=44bee5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

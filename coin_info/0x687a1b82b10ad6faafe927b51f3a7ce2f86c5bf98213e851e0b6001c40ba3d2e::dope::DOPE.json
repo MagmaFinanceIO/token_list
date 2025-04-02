@@ -1,0 +1,13 @@
+{
+  "name": "DOGS PIXEL",
+  "symbol": "DOPE",
+  "decimals": 9,
+  "coin_type": "0x687a1b82b10ad6faafe927b51f3a7ce2f86c5bf98213e851e0b6001c40ba3d2e::dope::DOPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9b5712fa-d71d-43e1-a4fe-90cecd35c564.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

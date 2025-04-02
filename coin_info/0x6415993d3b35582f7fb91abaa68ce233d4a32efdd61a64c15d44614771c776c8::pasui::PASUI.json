@@ -1,0 +1,13 @@
+{
+  "name": "Pagsui",
+  "symbol": "PASUI",
+  "decimals": 9,
+  "coin_type": "0x6415993d3b35582f7fb91abaa68ce233d4a32efdd61a64c15d44614771c776c8::pasui::PASUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f1fc2f61-82c1-4440-b153-228edc18c2c4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

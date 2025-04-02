@@ -1,0 +1,13 @@
+{
+  "name": "Buck",
+  "symbol": "BUCK",
+  "decimals": 0,
+  "coin_type": "0xc993e4c5707aef0207d9e4dbb424fd5733768b28d432cc2bdb9f4d117bcffa58::BUCK::BUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafybeia6gweurnrjc3dge4hgpsc7khzs3yht6f4n2jmgb4rjc4eferysga.ipfs.cf-ipfs.com/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

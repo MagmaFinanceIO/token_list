@@ -1,0 +1,13 @@
+{
+  "name": "Happy New Year",
+  "symbol": "SUI2025",
+  "decimals": 6,
+  "coin_type": "0x96eeafe61a9bf96c04d238983c426199419b04eca7aa033c7fcffeb98befb544::sui2025::SUI2025",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/good_night_good_morning_eadb009ae1.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

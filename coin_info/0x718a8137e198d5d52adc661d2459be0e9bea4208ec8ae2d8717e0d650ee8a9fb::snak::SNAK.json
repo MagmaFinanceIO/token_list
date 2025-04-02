@@ -1,0 +1,13 @@
+{
+  "name": "Suinake",
+  "symbol": "SNAK",
+  "decimals": 6,
+  "coin_type": "0x718a8137e198d5d52adc661d2459be0e9bea4208ec8ae2d8717e0d650ee8a9fb::snak::SNAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730953376841.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

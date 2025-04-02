@@ -1,0 +1,13 @@
+{
+  "name": "Kurt Sui",
+  "symbol": "KURT",
+  "decimals": 6,
+  "coin_type": "0xbf94dbd33e98a8ddc6339fa53cb2b272556a37317871e949a8dcfa835e11bea7::kurt::KURT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pfp_1e05a31505.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

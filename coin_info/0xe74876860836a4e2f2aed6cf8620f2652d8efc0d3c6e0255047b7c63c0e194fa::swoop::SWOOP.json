@@ -1,0 +1,13 @@
+{
+  "name": "Swoop",
+  "symbol": "Swoop",
+  "decimals": 6,
+  "coin_type": "0xe74876860836a4e2f2aed6cf8620f2652d8efc0d3c6e0255047b7c63c0e194fa::swoop::SWOOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qmb9SzPXE58pxXy8fXkGae31uSGfo9cPuhTHRNeS95FhWz",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

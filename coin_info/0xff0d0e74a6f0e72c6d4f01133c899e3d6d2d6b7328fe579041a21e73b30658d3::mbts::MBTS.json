@@ -1,0 +1,13 @@
+{
+  "name": "Magic Beasties",
+  "symbol": "MBTS",
+  "decimals": 9,
+  "coin_type": "0xff0d0e74a6f0e72c6d4f01133c899e3d6d2d6b7328fe579041a21e73b30658d3::mbts::MBTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6c52566b-6760-463b-99f6-490b6839846a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

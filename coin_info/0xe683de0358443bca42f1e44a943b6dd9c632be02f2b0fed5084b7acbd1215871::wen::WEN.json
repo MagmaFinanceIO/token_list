@@ -1,0 +1,13 @@
+{
+  "name": "unofficial mockSNS",
+  "symbol": "WEN",
+  "decimals": 9,
+  "coin_type": "0xe683de0358443bca42f1e44a943b6dd9c632be02f2b0fed5084b7acbd1215871::wen::WEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9df97805-f39a-40b5-b6e1-20800184d715.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BRAIN ON SUI",
+  "symbol": "BRAIN",
+  "decimals": 9,
+  "coin_type": "0x624e1d136dafe4901d6d4a7caffd1144d26c904dd7719263d144f6ff15226a71::brain::BRAIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/09d1aa17-5ade-4d83-b56f-1127d581f760.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

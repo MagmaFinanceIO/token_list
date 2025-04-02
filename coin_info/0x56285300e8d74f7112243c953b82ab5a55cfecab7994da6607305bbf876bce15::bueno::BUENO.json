@@ -1,0 +1,13 @@
+{
+  "name": "BUENO",
+  "symbol": "BUENO",
+  "decimals": 9,
+  "coin_type": "0x56285300e8d74f7112243c953b82ab5a55cfecab7994da6607305bbf876bce15::bueno::BUENO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/65e25675-e821-4ca7-a76b-a9e58c11e851.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

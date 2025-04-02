@@ -1,0 +1,13 @@
+{
+  "name": "MOMMY",
+  "symbol": "MOMMY",
+  "decimals": 9,
+  "coin_type": "0x7924f0ed6be74cfb0c4fee34a02dfb375e829b4549e4edb4e54d160059eaa6ef::mommy::MOMMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BAz1wWpdyJQT2bxM3SiwVJQ55C35cKpJs7xxGizepump.png?size=lg&key=560c94",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "RavenEdge by SuiAI",
+  "symbol": "RVN",
+  "decimals": 6,
+  "coin_type": "0x1777e25c42088a5e9913e00577428d706c9b46aa4d9c0da5f7253b5e65350027::rvn::RVN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Rvnedge_113eb51e7d.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

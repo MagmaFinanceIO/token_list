@@ -1,0 +1,13 @@
+{
+  "name": "Meme Insight Analyzer",
+  "symbol": "MIA",
+  "decimals": 6,
+  "coin_type": "0x6f56038f5f46bda9cbf71d0651006dc3289e1503cb3d7758c22024fda09ccf28::mia::MIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/svg_564f1b71ac.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

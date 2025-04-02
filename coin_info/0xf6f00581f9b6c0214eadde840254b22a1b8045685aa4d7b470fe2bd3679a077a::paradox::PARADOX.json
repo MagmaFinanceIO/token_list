@@ -1,0 +1,13 @@
+{
+  "name": "Paradox",
+  "symbol": "Paradox",
+  "decimals": 9,
+  "coin_type": "0xf6f00581f9b6c0214eadde840254b22a1b8045685aa4d7b470fe2bd3679a077a::paradox::PARADOX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Fmc9g6bL1Y8Szhn3pFqRnoEhaopbJNXHMdcxqHsUpump.png?size=lg&key=6b36e5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "OpenAGI",
+  "symbol": "openAGI",
+  "decimals": 6,
+  "coin_type": "0xced7f1830b17d45a77544be84f40ee9f08e70b773ce2808ea7f581e4eeaa9edd::openagi::OPENAGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Open_AGI_small_a0cd43290d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

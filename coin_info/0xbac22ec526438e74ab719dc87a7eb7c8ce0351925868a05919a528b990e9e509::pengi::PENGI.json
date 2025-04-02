@@ -1,0 +1,13 @@
+{
+  "name": "Pengi",
+  "symbol": "PENGI",
+  "decimals": 6,
+  "coin_type": "0xbac22ec526438e74ab719dc87a7eb7c8ce0351925868a05919a528b990e9e509::pengi::PENGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Yaki_L_Rn_Wu_D91_DLL_9_Ro_EG_Liipn_KFMB_Xzy_B2_Hp563m_C_Kx_Y_605181c6f2.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MAGA",
+  "symbol": "MAGA",
+  "decimals": 2,
+  "coin_type": "0x8e3196dd34e71da1e5fc9d3f1ae8f9bd7adca1c3a10ae0d059c32a1fde91c98c::MAGA::MAGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/NRIJNIc93RCq1OV6X-kNI2-RYA5Ab5oNHJKORoJKz0o?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

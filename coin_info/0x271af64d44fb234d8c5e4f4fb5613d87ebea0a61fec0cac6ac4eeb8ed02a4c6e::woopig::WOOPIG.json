@@ -1,0 +1,13 @@
+{
+  "name": "Woo Pig Sui",
+  "symbol": "WOOPIG",
+  "decimals": 6,
+  "coin_type": "0x271af64d44fb234d8c5e4f4fb5613d87ebea0a61fec0cac6ac4eeb8ed02a4c6e::woopig::WOOPIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1734183862296.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FLOKI AI BOT",
+  "symbol": "FLOKIAI",
+  "decimals": 9,
+  "coin_type": "0x781e0b043ee0b9c1c5b61186b57db3342777814ece3dedd5e39b7696912cb7c6::flokiai::FLOKIAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/bsc/0xae4c637fb9cb5c151549768a787cca54c044bdca.png?size=lg&key=80bf62",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

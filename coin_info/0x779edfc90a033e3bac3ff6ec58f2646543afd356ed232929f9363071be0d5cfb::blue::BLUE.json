@@ -1,0 +1,13 @@
+{
+  "name": "BLUE SUI",
+  "symbol": "BLUE",
+  "decimals": 9,
+  "coin_type": "0x779edfc90a033e3bac3ff6ec58f2646543afd356ed232929f9363071be0d5cfb::blue::BLUE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6c1272cb-8e7c-42bd-abed-0a61a686c23f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

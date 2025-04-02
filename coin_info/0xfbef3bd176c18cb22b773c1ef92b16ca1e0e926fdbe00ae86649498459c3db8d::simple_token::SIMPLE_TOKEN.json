@@ -1,0 +1,13 @@
+{
+  "name": "$10",
+  "symbol": "$10",
+  "decimals": 9,
+  "coin_type": "0xfbef3bd176c18cb22b773c1ef92b16ca1e0e926fdbe00ae86649498459c3db8d::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

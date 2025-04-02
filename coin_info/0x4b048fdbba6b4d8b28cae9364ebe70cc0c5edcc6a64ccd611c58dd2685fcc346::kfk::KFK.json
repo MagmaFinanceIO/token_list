@@ -1,0 +1,13 @@
+{
+  "name": "Kung Fu Kangaroo",
+  "symbol": "KFK",
+  "decimals": 6,
+  "coin_type": "0x4b048fdbba6b4d8b28cae9364ebe70cc0c5edcc6a64ccd611c58dd2685fcc346::kfk::KFK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/KFKPFP_e3aea12231.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

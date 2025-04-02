@@ -1,0 +1,13 @@
+{
+  "name": "SUIBIE",
+  "symbol": "SBIE",
+  "decimals": 6,
+  "coin_type": "0xc74f68777facd3c7a43dd97636fdb44141422a518aed32503e8bd8e19c5cb09d::sbie::SBIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730963967335.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

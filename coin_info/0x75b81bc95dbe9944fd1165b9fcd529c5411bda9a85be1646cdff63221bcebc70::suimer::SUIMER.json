@@ -1,0 +1,13 @@
+{
+  "name": "SuimerDog",
+  "symbol": "SUIMER",
+  "decimals": 6,
+  "coin_type": "0x75b81bc95dbe9944fd1165b9fcd529c5411bda9a85be1646cdff63221bcebc70::suimer::SUIMER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/A08381_E3_5588_46_B1_8_ACA_64_D1_F2410_A6_A_c1590d6a5a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

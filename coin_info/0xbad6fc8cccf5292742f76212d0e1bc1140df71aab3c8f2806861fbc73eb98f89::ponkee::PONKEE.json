@@ -1,0 +1,13 @@
+{
+  "name": "Top G Pokne",
+  "symbol": "PONKEE",
+  "decimals": 9,
+  "coin_type": "0xbad6fc8cccf5292742f76212d0e1bc1140df71aab3c8f2806861fbc73eb98f89::ponkee::PONKEE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/48c5007a-8398-4a25-9fad-935a60dce4da.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

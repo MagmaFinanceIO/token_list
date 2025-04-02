@@ -1,0 +1,13 @@
+{
+  "name": "CAT WIF SUI",
+  "symbol": "CWIFF",
+  "decimals": 6,
+  "coin_type": "0x926c782dd65fa1b3111db715d4e079401d0065fa4adcc6d9441227f765c1794c::cwiff::CWIFF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/catwif_a1501c590d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

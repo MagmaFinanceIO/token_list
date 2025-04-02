@@ -1,0 +1,13 @@
+{
+  "name": "Generation Beta",
+  "symbol": "GNBT",
+  "decimals": 9,
+  "coin_type": "0x0c076c46b3bf646997e16ac5e198eda4bca1fe6fd51cd5fda52e02119151e612::gnbt::GNBT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3c7edf00-744e-43c6-9475-82a06307c542.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Spring SUI",
+  "symbol": "sSUI",
+  "decimals": 9,
+  "coin_type": "0xfd71cd86f45a5e753c53bbb7df4833c83144f911e79a3937e12190e02805ea08::ssui::SSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b7408ee9-acff-4201-84af-d994d024557f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

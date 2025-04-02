@@ -1,0 +1,13 @@
+{
+  "name": "Sui Boom",
+  "symbol": "BOOM",
+  "decimals": 6,
+  "coin_type": "0xd8d007930c9474e6116817015c34705614b22b27f36c9d536f60865d48fc4d9e::boom::BOOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_3_1faba5890f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

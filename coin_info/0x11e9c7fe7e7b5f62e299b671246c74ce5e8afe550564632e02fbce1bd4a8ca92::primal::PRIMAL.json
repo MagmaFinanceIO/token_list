@@ -1,0 +1,13 @@
+{
+  "name": "Primal the gorilla",
+  "symbol": "PRIMAL",
+  "decimals": 6,
+  "coin_type": "0x11e9c7fe7e7b5f62e299b671246c74ce5e8afe550564632e02fbce1bd4a8ca92::primal::PRIMAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Wi_j_Vh_Xk_400x400_removebg_preview_4c82bd81b2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

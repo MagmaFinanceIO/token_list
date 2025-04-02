@@ -1,0 +1,13 @@
+{
+  "name": "Nytan Shark",
+  "symbol": "NSHARK",
+  "decimals": 6,
+  "coin_type": "0x0fe6b680757643aeadce0893e4b6f1fb421dad14ae73759f7d00fc0510a4a8e7::nshark::NSHARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736344399201.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

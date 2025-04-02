@@ -1,0 +1,13 @@
+{
+  "name": "MARVELOUS",
+  "symbol": "MARVEL",
+  "decimals": 9,
+  "coin_type": "0x394c2ac98dd3acf00905a305a5b2107207b8c32783767eafecc302d4501d032f::marvel::MARVEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmUrSvvFdcpzENoFqYAM7GV4XyqUXa4HJy7Fj5uLKkUvJ8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

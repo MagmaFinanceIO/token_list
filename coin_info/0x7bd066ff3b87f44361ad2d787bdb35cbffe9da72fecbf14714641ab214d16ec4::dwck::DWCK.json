@@ -1,0 +1,13 @@
+{
+  "name": "DWCK",
+  "symbol": "DWCK",
+  "decimals": 9,
+  "coin_type": "0x7bd066ff3b87f44361ad2d787bdb35cbffe9da72fecbf14714641ab214d16ec4::dwck::DWCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmT4fxcqrZyrtq24u6UeUyxYXWrqKvtYprnQX4PUR15x2o",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

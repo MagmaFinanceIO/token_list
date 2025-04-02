@@ -1,0 +1,13 @@
+{
+  "name": "Angry Bird",
+  "symbol": "AngryBird",
+  "decimals": 9,
+  "coin_type": "0x71c689621ccca61951396f361c1dd9afcc37a68e8d662d5e6dfd67f26da93512::angrybird::ANGRYBIRD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cadcb4b2-aa56-4958-b6b3-05a594ced58e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

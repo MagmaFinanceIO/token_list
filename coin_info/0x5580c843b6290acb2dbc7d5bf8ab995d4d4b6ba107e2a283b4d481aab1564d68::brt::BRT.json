@@ -1,0 +1,13 @@
+{
+  "name": "Bankrupt",
+  "symbol": "BRT",
+  "decimals": 6,
+  "coin_type": "0x5580c843b6290acb2dbc7d5bf8ab995d4d4b6ba107e2a283b4d481aab1564d68::brt::BRT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafybeibxug6ipdh4dsk5gnudzqofk7oszibs2yrasoatibgvg333smuzqq.ipfs.nftstorage.link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

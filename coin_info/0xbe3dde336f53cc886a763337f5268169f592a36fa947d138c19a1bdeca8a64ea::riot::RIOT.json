@@ -1,0 +1,13 @@
+{
+  "name": "Cult of pudgy penguins",
+  "symbol": "Riot",
+  "decimals": 9,
+  "coin_type": "0xbe3dde336f53cc886a763337f5268169f592a36fa947d138c19a1bdeca8a64ea::riot::RIOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6ajxLgq72QdvxNUNocdL51wWH6arB9GcjY9PUrvEpump.png?size=lg&key=aa7479",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

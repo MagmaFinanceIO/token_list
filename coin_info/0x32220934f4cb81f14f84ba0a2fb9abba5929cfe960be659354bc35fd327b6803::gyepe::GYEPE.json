@@ -1,0 +1,13 @@
+{
+  "name": "Gyat Pepe",
+  "symbol": "Gyepe",
+  "decimals": 9,
+  "coin_type": "0x32220934f4cb81f14f84ba0a2fb9abba5929cfe960be659354bc35fd327b6803::gyepe::GYEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HM3kJANED9NcNGhYtujfLRMdAxU3XB6kwe5BYMsZpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

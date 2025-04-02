@@ -1,0 +1,13 @@
+{
+  "name": "Phauntem On Sui",
+  "symbol": "PHAUNT",
+  "decimals": 6,
+  "coin_type": "0x8487f24718f2e928667a9383519cc7c26237e765a7879842a1afc506a6bbdcea::phaunt::PHAUNT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logodexs1_6_1_9492721b63.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

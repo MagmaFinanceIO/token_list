@@ -1,0 +1,13 @@
+{
+  "name": "HOP FISH",
+  "symbol": "HFISH",
+  "decimals": 6,
+  "coin_type": "0x744cdf261a4cb78d982b38d46a7e0d6900633a829a042651bfa43a5c86456629::hfish::HFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmWJJR8B1qXzo6FpAq4YGtPKYBNZWFA4AqZdrSPVZSBUJs",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

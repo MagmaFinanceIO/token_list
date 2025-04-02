@@ -1,0 +1,13 @@
+{
+  "name": "Courage The Cowardly Dog",
+  "symbol": "COURAGE",
+  "decimals": 9,
+  "coin_type": "0x972ca86938e3e3f062610acf1091f4662d3b78403bfe51d2ff5cb92b974dc345::courage::COURAGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8210fd84-cd04-4a8f-a13a-51097d57acd9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

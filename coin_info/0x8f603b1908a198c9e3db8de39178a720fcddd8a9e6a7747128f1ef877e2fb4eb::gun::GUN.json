@@ -1,0 +1,13 @@
+{
+  "name": "PISTOL",
+  "symbol": "GUN",
+  "decimals": 6,
+  "coin_type": "0x8f603b1908a198c9e3db8de39178a720fcddd8a9e6a7747128f1ef877e2fb4eb::gun::GUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/gun.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

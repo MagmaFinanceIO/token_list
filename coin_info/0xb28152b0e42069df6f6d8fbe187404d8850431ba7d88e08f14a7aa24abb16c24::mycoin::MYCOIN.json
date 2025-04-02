@@ -1,0 +1,13 @@
+{
+  "name": "PAPER",
+  "symbol": "PAPER",
+  "decimals": 9,
+  "coin_type": "0xb28152b0e42069df6f6d8fbe187404d8850431ba7d88e08f14a7aa24abb16c24::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

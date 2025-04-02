@@ -1,0 +1,13 @@
+{
+  "name": "SUI PUMP",
+  "symbol": "PUMP PUMP",
+  "decimals": 9,
+  "coin_type": "0xa829aeb45b7981b523d4047ba8348317724808c09804f778c4b996eb3091c1a0::pump_pump_::PUMP_PUMP_",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

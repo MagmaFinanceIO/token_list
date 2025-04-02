@@ -1,0 +1,13 @@
+{
+  "name": "SUIS",
+  "symbol": "SUIS",
+  "decimals": 10,
+  "coin_type": "0xf4acd8967814bc3e1ac166c43c34ba7c0f9353962dd76253f58bad1077278d00::suis::SUIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

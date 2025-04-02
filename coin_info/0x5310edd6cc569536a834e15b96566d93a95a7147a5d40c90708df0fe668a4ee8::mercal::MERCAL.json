@@ -1,0 +1,13 @@
+{
+  "name": "Zerebro Token",
+  "symbol": "Mercal",
+  "decimals": 9,
+  "coin_type": "0x5310edd6cc569536a834e15b96566d93a95a7147a5d40c90708df0fe668a4ee8::mercal::MERCAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ESn52mvYR7Yo1XyUe1zJRqfe3VorGXwndFB14H93pump.png?size=lg&key=16c8f3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

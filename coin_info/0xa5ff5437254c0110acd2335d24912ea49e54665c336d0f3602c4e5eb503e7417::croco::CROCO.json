@@ -1,0 +1,13 @@
+{
+  "name": "CROCO SUI",
+  "symbol": "CROCO",
+  "decimals": 9,
+  "coin_type": "0xa5ff5437254c0110acd2335d24912ea49e54665c336d0f3602c4e5eb503e7417::croco::CROCO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/53cd76e5-38b5-42da-b334-eebcff0fe37e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

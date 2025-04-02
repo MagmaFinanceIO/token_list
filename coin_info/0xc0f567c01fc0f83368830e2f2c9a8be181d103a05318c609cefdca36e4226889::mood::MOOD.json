@@ -1,0 +1,13 @@
+{
+  "name": "Moodbies",
+  "symbol": "Mood",
+  "decimals": 9,
+  "coin_type": "0xc0f567c01fc0f83368830e2f2c9a8be181d103a05318c609cefdca36e4226889::mood::MOOD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0fd313b6-7720-4209-bf3a-928b652a252c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

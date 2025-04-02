@@ -1,0 +1,13 @@
+{
+  "name": "BENGY",
+  "symbol": "BENGY",
+  "decimals": 9,
+  "coin_type": "0x75dfed77f7cf02821f3b65c2a982a37a659d286c8e163b8a80b9e09c4a46415b::bengy::BENGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Ded7Syr7idwcMx3xPvGewk3HjVVtbXfAkw1mXEMZpump.png?size=lg&key=6c9f6a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

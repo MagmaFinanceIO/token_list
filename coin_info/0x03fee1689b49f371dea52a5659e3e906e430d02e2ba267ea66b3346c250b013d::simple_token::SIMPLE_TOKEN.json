@@ -1,0 +1,13 @@
+{
+  "name": "Panda",
+  "symbol": "Panda",
+  "decimals": 9,
+  "coin_type": "0x03fee1689b49f371dea52a5659e3e906e430d02e2ba267ea66b3346c250b013d::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

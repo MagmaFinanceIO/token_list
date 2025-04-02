@@ -1,0 +1,13 @@
+{
+  "name": "OMOCHI",
+  "symbol": "OMOCHI",
+  "decimals": 9,
+  "coin_type": "0x66058a6778f497f47688bc6096e4f05a0d9b1fe58c815e25ffd60e6bf754f2a6::omochi::OMOCHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BxMqoqUgvxYeJETVdeeJEx7F1ZSFHAiRfKbBeeMpump.png?size=lg&key=763680",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

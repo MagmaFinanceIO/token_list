@@ -1,0 +1,13 @@
+{
+  "name": "SUIAIPowered",
+  "symbol": "AIPowered",
+  "decimals": 6,
+  "coin_type": "0xcb7023d3efc55452225c7e042745cabba0d43be0631b02f31a3b27216fcb0f50::aipowered::AIPOWERED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Wev5_Ku5yocn8f_WBJ_54_G_Ux_Jv_T_Nqws_J_Kd_H7e3enoe_Crz_QH_94b3bb89eb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

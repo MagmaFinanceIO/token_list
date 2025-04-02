@@ -1,0 +1,13 @@
+{
+  "name": "MimiLand",
+  "symbol": "MIGAMES",
+  "decimals": 6,
+  "coin_type": "0xd196c4a74cc83f1702c419643862e84b606a5adad1afe5c0112401be85b99d27::migames::MIGAMES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/11faac7b-8b49-4922-b33b-795b80d111b9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pickle Rickmas",
+  "symbol": "Rickmas",
+  "decimals": 9,
+  "coin_type": "0xdf66eaf906bd2e460c74bc0dd69ecf2a9127b7d01c19989589ee61bd6e47ba31::rickmas::RICKMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/EQ9mNxXjIeYI52tO?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Churro The Ferret",
+  "symbol": "CHURRO",
+  "decimals": 9,
+  "coin_type": "0x14e06fbc477d2eb53bb8f501dd5a341a7ea30fdb38797fa5ce6806663a9732f4::churro::CHURRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4ec3c86f-2200-4139-a721-4a0947c6b550.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

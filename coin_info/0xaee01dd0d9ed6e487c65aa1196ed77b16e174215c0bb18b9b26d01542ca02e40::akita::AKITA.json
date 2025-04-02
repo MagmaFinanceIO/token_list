@@ -1,0 +1,13 @@
+{
+  "name": "AKITA ON SUI",
+  "symbol": "AKITA",
+  "decimals": 6,
+  "coin_type": "0xaee01dd0d9ed6e487c65aa1196ed77b16e174215c0bb18b9b26d01542ca02e40::akita::AKITA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731453319532.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

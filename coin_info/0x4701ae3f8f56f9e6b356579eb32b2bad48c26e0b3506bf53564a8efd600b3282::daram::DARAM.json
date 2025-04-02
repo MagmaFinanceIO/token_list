@@ -1,0 +1,13 @@
+{
+  "name": "daram",
+  "symbol": "Daram",
+  "decimals": 6,
+  "coin_type": "0x4701ae3f8f56f9e6b356579eb32b2bad48c26e0b3506bf53564a8efd600b3282::daram::DARAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Image_1729406905511_8e5875684a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

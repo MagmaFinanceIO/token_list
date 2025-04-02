@@ -1,0 +1,13 @@
+{
+  "name": "Lady Mugen Network",
+  "symbol": "WAIFU",
+  "decimals": 9,
+  "coin_type": "0x5dfe234c2a95fa212dde43a8538ae79feed328438d7266811ffe65cd8d9d9d02::waifu::WAIFU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/42413a41-380d-49ed-8bab-58ac5588cb45.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Casuino 🎰",
+  "symbol": "CASUINO",
+  "decimals": 9,
+  "coin_type": "0x44ede229cdc8fdb42852dc8f0041d36e8a3126d915e7d9fc5a89e16e8ba54cf5::casuino::CASUINO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/537525db-5410-4bdc-9ef1-ba979a9b334b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

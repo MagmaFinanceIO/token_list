@@ -1,0 +1,13 @@
+{
+  "name": "Unknown AI by SuiAI",
+  "symbol": "UNKNOWNAI",
+  "decimals": 6,
+  "coin_type": "0xc38eb9be4b07106bfccc7004ef66ae067587ef1f8f99380cdfaf0da86ace396a::unknownai::UNKNOWNAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1_73a381d1af.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

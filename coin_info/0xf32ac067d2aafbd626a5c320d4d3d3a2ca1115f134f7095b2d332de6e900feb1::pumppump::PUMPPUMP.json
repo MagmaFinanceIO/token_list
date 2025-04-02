@@ -1,0 +1,13 @@
+{
+  "name": "PumpPump",
+  "symbol": "PUMPPUMP",
+  "decimals": 9,
+  "coin_type": "0xf32ac067d2aafbd626a5c320d4d3d3a2ca1115f134f7095b2d332de6e900feb1::pumppump::PUMPPUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/77684539-aef8-48c8-9f3a-f2ea68d73b99.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

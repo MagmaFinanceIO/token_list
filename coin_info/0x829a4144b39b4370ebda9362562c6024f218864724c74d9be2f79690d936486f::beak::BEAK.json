@@ -1,0 +1,13 @@
+{
+  "name": "Green Beak",
+  "symbol": "BEAK",
+  "decimals": 6,
+  "coin_type": "0x829a4144b39b4370ebda9362562c6024f218864724c74d9be2f79690d936486f::beak::BEAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/457127e4-abc2-4461-85e3-78019e7d9788.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Loki",
+  "symbol": "LOKI",
+  "decimals": 6,
+  "coin_type": "0x66f2ae19d91d29f65620790cfe9827893802515eb7eee8de03b1d3c0aeb91c28::loki::LOKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/475523287_956608523083578_5666639369546303688_n_1_d4c59a8c5c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SHASISUI",
+  "symbol": "SHASHIMI",
+  "decimals": 6,
+  "coin_type": "0xeebd55c69978dfc2a0d3780c4e6657d510011da9bf6b2dbcda46a7217aa11207::shashimi::SHASHIMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/shashisui_6280f80fa8.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

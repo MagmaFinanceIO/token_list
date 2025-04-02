@@ -1,0 +1,13 @@
+{
+  "name": "TIMON",
+  "symbol": "TIMON",
+  "decimals": 9,
+  "coin_type": "0xbd3ac7165bdb5151feeb612cf5f0d7589170d4cd6892aa87b20ad04ee8771524::timon::TIMON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7qVMWp2cq9h1Pm5sgmtmGmSS3n2QtaMkucht1BgBpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

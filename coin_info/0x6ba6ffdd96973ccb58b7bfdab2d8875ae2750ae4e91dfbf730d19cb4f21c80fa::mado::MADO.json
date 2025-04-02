@@ -1,0 +1,13 @@
+{
+  "name": "Mars Doge",
+  "symbol": "MADO",
+  "decimals": 9,
+  "coin_type": "0x6ba6ffdd96973ccb58b7bfdab2d8875ae2750ae4e91dfbf730d19cb4f21c80fa::mado::MADO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/bsc/0x77ed4e6d616bcd773328d61cf2690225e4cca238.png?size=lg&key=8b8e9f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

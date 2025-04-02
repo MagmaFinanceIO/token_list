@@ -1,0 +1,13 @@
+{
+  "name": "PEPE LFGO",
+  "symbol": "PEGO",
+  "decimals": 9,
+  "coin_type": "0x2303c0acf2f7bb313904531b854e71239970973f869b83af5c77b201f5634790::pego::PEGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x624b9b227613f9845fcbba11f6109e49c6e8d811.png?size=lg&key=046a97",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

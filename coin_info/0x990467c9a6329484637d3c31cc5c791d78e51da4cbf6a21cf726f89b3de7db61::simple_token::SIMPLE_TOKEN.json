@@ -1,0 +1,13 @@
+{
+  "name": "DUNA",
+  "symbol": "DUNA",
+  "decimals": 9,
+  "coin_type": "0x990467c9a6329484637d3c31cc5c791d78e51da4cbf6a21cf726f89b3de7db61::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

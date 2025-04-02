@@ -1,0 +1,13 @@
+{
+  "name": "Jejou",
+  "symbol": "Jejou",
+  "decimals": 8,
+  "coin_type": "0x2cddfd7199d99622ece659ad5d15c0e847a83a464ce6a861a0daef22f3e4867c::jejou::JEJOU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/51c8bc74-2fbe-4fc6-917e-49d78621c2bc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

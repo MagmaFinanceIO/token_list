@@ -1,0 +1,13 @@
+{
+  "name": "Suitoshi Nakamoto",
+  "symbol": "SUITOSHI",
+  "decimals": 9,
+  "coin_type": "0x616f3a71ad220863229be2e896ddd29f6b082ccb19e3e21c0bcce844ec4e61d3::suitoshi::SUITOSHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b2b098f6-0bd7-4e0f-a210-27b92bb169ef.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

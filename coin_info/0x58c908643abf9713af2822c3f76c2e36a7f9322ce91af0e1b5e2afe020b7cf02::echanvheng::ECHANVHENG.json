@@ -1,0 +1,13 @@
+{
+  "name": "Echan Vheng",
+  "symbol": "EchanVHENG",
+  "decimals": 9,
+  "coin_type": "0x58c908643abf9713af2822c3f76c2e36a7f9322ce91af0e1b5e2afe020b7cf02::echanvheng::ECHANVHENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5e082536-be4e-4652-99d5-4ddc30890477.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

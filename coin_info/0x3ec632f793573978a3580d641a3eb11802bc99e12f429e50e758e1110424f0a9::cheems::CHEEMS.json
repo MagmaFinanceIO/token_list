@@ -1,0 +1,13 @@
+{
+  "name": "Cheems On Sui",
+  "symbol": "CHEEMS",
+  "decimals": 6,
+  "coin_type": "0x3ec632f793573978a3580d641a3eb11802bc99e12f429e50e758e1110424f0a9::cheems::CHEEMS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731445473634.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

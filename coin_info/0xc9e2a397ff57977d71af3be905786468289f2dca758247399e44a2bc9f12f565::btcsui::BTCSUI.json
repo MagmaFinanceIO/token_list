@@ -1,0 +1,13 @@
+{
+  "name": "BTCSUI",
+  "symbol": "BTCSUI",
+  "decimals": 4,
+  "coin_type": "0xc9e2a397ff57977d71af3be905786468289f2dca758247399e44a2bc9f12f565::btcsui::BTCSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4cd3b561-96b4-4c9b-bb1c-12e3d522eb62.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

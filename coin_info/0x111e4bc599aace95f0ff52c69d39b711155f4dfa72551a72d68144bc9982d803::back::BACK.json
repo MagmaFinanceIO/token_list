@@ -1,0 +1,13 @@
+{
+  "name": "Donald Trump",
+  "symbol": "BACK",
+  "decimals": 9,
+  "coin_type": "0x111e4bc599aace95f0ff52c69d39b711155f4dfa72551a72d68144bc9982d803::back::BACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BXqVn9RoB4hSacLeqcvMMbaXpG642ApyyxmiRzWQPTbd.png?size=lg&key=bcf85c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

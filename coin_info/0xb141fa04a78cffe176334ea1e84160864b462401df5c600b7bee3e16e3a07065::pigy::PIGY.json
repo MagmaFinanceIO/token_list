@@ -1,0 +1,13 @@
+{
+  "name": "PIGY",
+  "symbol": "PIGY",
+  "decimals": 9,
+  "coin_type": "0xb141fa04a78cffe176334ea1e84160864b462401df5c600b7bee3e16e3a07065::pigy::PIGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://static.vecteezy.com/system/resources/previews/020/402/020/original/pigy-bank-finance-icon-ilustrations-logo-free-vector.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

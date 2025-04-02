@@ -1,0 +1,13 @@
+{
+  "name": "Dasha",
+  "symbol": "Dasha",
+  "decimals": 9,
+  "coin_type": "0xc6fb04b424d0b682022e75390072b1f4e5810f0b2730e924f6a4a2a71abbcf98::dasha::DASHA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmbN2UccKMabyX4SBwebM9C3eFpM7QgEPd8muB1mDt5jRK?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

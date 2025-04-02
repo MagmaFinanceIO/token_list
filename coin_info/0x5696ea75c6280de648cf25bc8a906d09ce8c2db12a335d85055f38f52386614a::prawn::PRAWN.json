@@ -1,0 +1,13 @@
+{
+  "name": "Pepe The King Prawn",
+  "symbol": "Prawn",
+  "decimals": 9,
+  "coin_type": "0x5696ea75c6280de648cf25bc8a906d09ce8c2db12a335d85055f38f52386614a::prawn::PRAWN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6b7NtVRo6jDSUZ75qfhHgpy99XVkSu1kfoTFu2E3pump.png?size=lg&key=febc75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MAIA",
+  "symbol": "MAIA",
+  "decimals": 9,
+  "coin_type": "0x8b58a1811a288f8ab4c095a18fce60270cde7134c896d680b4142bf9635122ef::maia::MAIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DrYbQQxXuDsQMtYj8FyC5kjXXDT9KYfu1io4FzZ6pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

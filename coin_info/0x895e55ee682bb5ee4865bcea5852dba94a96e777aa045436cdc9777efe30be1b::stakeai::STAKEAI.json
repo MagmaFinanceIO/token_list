@@ -1,0 +1,13 @@
+{
+  "name": "Stake SUI AI",
+  "symbol": "StakeAI",
+  "decimals": 9,
+  "coin_type": "0x895e55ee682bb5ee4865bcea5852dba94a96e777aa045436cdc9777efe30be1b::stakeai::STAKEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/14fa798b-c96f-40a1-9e8f-0d9d1f1bb9fa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

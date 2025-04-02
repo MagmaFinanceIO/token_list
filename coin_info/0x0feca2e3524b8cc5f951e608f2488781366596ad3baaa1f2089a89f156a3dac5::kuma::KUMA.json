@@ -1,0 +1,13 @@
+{
+  "name": "Kumamon",
+  "symbol": "KUMA",
+  "decimals": 9,
+  "coin_type": "0x0feca2e3524b8cc5f951e608f2488781366596ad3baaa1f2089a89f156a3dac5::kuma::KUMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4GEvgHznrwq827D5QeKJKrvDiSsqUgfzQVSu9oMdpump.png?size=lg&key=766c13",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

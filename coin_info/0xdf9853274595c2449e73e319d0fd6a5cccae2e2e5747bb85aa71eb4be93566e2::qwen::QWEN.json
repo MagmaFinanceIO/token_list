@@ -1,0 +1,13 @@
+{
+  "name": "Chinese Truth Terminal",
+  "symbol": "Qwen",
+  "decimals": 9,
+  "coin_type": "0xdf9853274595c2449e73e319d0fd6a5cccae2e2e5747bb85aa71eb4be93566e2::qwen::QWEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreibpwk5hfh6lbm3a2z3teovbkkfbxxvkkmrmglyhjil3mk5pooblbm.ipfs.w3s.link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

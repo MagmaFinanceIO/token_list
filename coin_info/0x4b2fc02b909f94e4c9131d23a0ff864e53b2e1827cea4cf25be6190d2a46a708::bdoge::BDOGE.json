@@ -1,0 +1,13 @@
+{
+  "name": "DogeButBlue",
+  "symbol": "BDOGE",
+  "decimals": 9,
+  "coin_type": "0x4b2fc02b909f94e4c9131d23a0ff864e53b2e1827cea4cf25be6190d2a46a708::bdoge::BDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x4c9f149825dd84b9b938916ee618e5283168fbd7.png?size=xl&key=bfb8db",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

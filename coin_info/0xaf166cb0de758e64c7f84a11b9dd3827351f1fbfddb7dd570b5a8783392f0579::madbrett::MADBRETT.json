@@ -1,0 +1,13 @@
+{
+  "name": "Mad Brett",
+  "symbol": "MadBrett",
+  "decimals": 9,
+  "coin_type": "0xaf166cb0de758e64c7f84a11b9dd3827351f1fbfddb7dd570b5a8783392f0579::madbrett::MADBRETT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/305bc790-398c-46d1-ac10-4a4857c45a3b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

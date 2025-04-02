@@ -1,0 +1,13 @@
+{
+  "name": "TITAN",
+  "symbol": "TITAN",
+  "decimals": 6,
+  "coin_type": "0x54b778bf8b59a521b86a9f5bc08e2d547c103d337cb18b1549b0d0a80e14dbe4::titan::TITAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE1W3IwM8n1A1ar1G_65XmtErBiI4neDQlcw&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

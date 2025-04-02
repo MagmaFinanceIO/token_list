@@ -1,0 +1,13 @@
+{
+  "name": "YumiOnSui",
+  "symbol": "YUMI",
+  "decimals": 6,
+  "coin_type": "0xdc398154093b803190286cd8fb8940d507148b214da45de289036f2e05bbc56f::yumi::YUMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000338_14370f4565.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

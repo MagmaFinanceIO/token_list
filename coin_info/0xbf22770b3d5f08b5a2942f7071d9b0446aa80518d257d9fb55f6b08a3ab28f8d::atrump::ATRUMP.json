@@ -1,0 +1,13 @@
+{
+  "name": "Agent Donald Trump Sui",
+  "symbol": "ATRUMP",
+  "decimals": 9,
+  "coin_type": "0xbf22770b3d5f08b5a2942f7071d9b0446aa80518d257d9fb55f6b08a3ab28f8d::atrump::ATRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2a3caf8c-843f-4354-8205-9b6e8c54e02b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

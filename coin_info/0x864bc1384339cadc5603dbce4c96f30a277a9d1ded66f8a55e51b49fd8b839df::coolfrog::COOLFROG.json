@@ -1,0 +1,13 @@
+{
+  "name": "Cool Frog",
+  "symbol": "COOLFROG",
+  "decimals": 6,
+  "coin_type": "0x864bc1384339cadc5603dbce4c96f30a277a9d1ded66f8a55e51b49fd8b839df::coolfrog::COOLFROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Cool_Frog_24bc924a49.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

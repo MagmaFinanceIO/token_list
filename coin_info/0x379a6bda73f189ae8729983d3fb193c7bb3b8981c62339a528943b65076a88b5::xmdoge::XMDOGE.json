@@ -1,0 +1,13 @@
+{
+  "name": "XMAS D.O.G.E",
+  "symbol": "XMDOGE",
+  "decimals": 9,
+  "coin_type": "0x379a6bda73f189ae8729983d3fb193c7bb3b8981c62339a528943b65076a88b5::xmdoge::XMDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ca4359ae-1155-401f-a006-2711930199fd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

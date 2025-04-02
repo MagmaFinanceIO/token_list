@@ -1,0 +1,13 @@
+{
+  "name": "Tather USD",
+  "symbol": "USDT",
+  "decimals": 9,
+  "coin_type": "0xeb8ecf7c0e142999e9cd9f5a9f6ddcb4e254b6d6437cb29a201316d438747a6f::usdt::USDT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.gtokentool.com/1736007896/1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

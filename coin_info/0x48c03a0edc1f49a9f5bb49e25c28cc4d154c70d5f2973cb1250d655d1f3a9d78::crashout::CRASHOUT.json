@@ -1,0 +1,13 @@
+{
+  "name": "CRASHOUTTT",
+  "symbol": "CRASHOUT",
+  "decimals": 6,
+  "coin_type": "0x48c03a0edc1f49a9f5bb49e25c28cc4d154c70d5f2973cb1250d655d1f3a9d78::crashout::CRASHOUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7089_644858e4c2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

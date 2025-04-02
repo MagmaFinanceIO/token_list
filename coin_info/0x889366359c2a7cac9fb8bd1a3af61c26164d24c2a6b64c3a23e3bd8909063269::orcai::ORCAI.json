@@ -1,0 +1,13 @@
+{
+  "name": "Orca AI",
+  "symbol": "ORCAI",
+  "decimals": 9,
+  "coin_type": "0x889366359c2a7cac9fb8bd1a3af61c26164d24c2a6b64c3a23e3bd8909063269::orcai::ORCAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3QW2BMZnsACEjjtxbbv7f5bdSy2ByYCv2rp5dPVWpump.png?size=lg&key=590273",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "COPE",
+  "symbol": "COPE",
+  "decimals": 9,
+  "coin_type": "0x3f260a86711193506836b80fd5e3e711acca7273c9f4ec97b3d098e9f5a58dfc::cope::COPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4468213f-60e7-452c-a603-5bb895eac0b7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

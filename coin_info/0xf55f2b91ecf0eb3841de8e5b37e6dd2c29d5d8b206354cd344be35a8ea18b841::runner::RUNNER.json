@@ -1,0 +1,13 @@
+{
+  "name": "FrogRunner",
+  "symbol": "Runner",
+  "decimals": 9,
+  "coin_type": "0xf55f2b91ecf0eb3841de8e5b37e6dd2c29d5d8b206354cd344be35a8ea18b841::runner::RUNNER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GVmrR8Hqr8mVzQ9jLdDE24tTiNXVxdk4MV1RYg4cpump.png?size=lg&key=30c5df",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

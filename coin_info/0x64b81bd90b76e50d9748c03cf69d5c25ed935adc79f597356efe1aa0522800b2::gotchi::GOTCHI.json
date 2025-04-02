@@ -1,0 +1,13 @@
+{
+  "name": "Tamagotchi",
+  "symbol": "GOTCHI",
+  "decimals": 8,
+  "coin_type": "0x64b81bd90b76e50d9748c03cf69d5c25ed935adc79f597356efe1aa0522800b2::gotchi::GOTCHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/J3Tzem78WsdZb3y48miXzjSDGLfitv68EK2Xk3vZmn4H.png?size=lg&key=f776a4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

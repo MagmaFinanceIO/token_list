@@ -1,0 +1,13 @@
+{
+  "name": "TARIFFS",
+  "symbol": "TARIFFS",
+  "decimals": 9,
+  "coin_type": "0x6b28c13f682b8dd8109c96884e54974d9131d5c3709ec2f3ee2cf0da4444d2ec::tariffs::TARIFFS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BzTg2oP7C91hc4fom11UrYKeFyLnrbi7687WX3Kzpump.png?claimId=pEMA_OLIDydIPxUR",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

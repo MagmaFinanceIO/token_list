@@ -1,0 +1,13 @@
+{
+  "name": "SHIT COIN ON SUI",
+  "symbol": "SHITCOIN",
+  "decimals": 9,
+  "coin_type": "0x52f45eb0777a975829ed1cef7692962f9eb9c4f3e28ea99d0cb39a05ef448a81::shitcoin::SHITCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5ea7750d-fba7-4b26-adfd-e37bc7aa6d46.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

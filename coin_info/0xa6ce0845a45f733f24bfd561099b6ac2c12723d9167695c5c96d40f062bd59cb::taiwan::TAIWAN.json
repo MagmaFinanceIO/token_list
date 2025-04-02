@@ -1,0 +1,13 @@
+{
+  "name": "Taiwan",
+  "symbol": "Taiwan",
+  "decimals": 2,
+  "coin_type": "0xa6ce0845a45f733f24bfd561099b6ac2c12723d9167695c5c96d40f062bd59cb::taiwan::TAIWAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/287426ad-2b56-4d49-83b8-7013ca132d9e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

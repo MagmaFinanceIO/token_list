@@ -1,0 +1,13 @@
+{
+  "name": "AAABILL",
+  "symbol": "aaaBill",
+  "decimals": 9,
+  "coin_type": "0x73ec3f3ea72784687dedc8039327f0e0771014877bde588a06dd4ba35119bc6b::aaabill::AAABILL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d7550b45-7acc-4559-928b-dd627ad57776.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

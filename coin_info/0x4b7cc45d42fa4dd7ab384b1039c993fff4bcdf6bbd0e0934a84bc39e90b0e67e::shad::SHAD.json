@@ -1,0 +1,13 @@
+{
+  "name": "Shadilay The Original PEPE",
+  "symbol": "SHAD",
+  "decimals": 9,
+  "coin_type": "0x4b7cc45d42fa4dd7ab384b1039c993fff4bcdf6bbd0e0934a84bc39e90b0e67e::shad::SHAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4pTpioNh3Bh2SuKKETXLX2Hk389cxfhstNLUr5Nqpump.png?size=lg&key=f47692",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Shaw the Fuck Up",
+  "symbol": "STFU",
+  "decimals": 9,
+  "coin_type": "0x6849645b9f7840c3f0b0c5df564a7e609d7296f2df526875f3845ab0475b3392::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DAOX",
+  "symbol": "DAOX",
+  "decimals": 6,
+  "coin_type": "0xc7b842347b0fbebabdee379414e874abc7fc5294b1e08961baa32e501ebedb48::daox::DAOX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://virtualdaos.ai/images/daox_logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

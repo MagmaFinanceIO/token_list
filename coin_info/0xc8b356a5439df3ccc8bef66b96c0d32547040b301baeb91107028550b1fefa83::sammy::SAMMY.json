@@ -1,0 +1,13 @@
+{
+  "name": "Samoyed",
+  "symbol": "SAMMY",
+  "decimals": 6,
+  "coin_type": "0xc8b356a5439df3ccc8bef66b96c0d32547040b301baeb91107028550b1fefa83::sammy::SAMMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000271_92a636ffdb.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

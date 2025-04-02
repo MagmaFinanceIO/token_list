@@ -1,0 +1,13 @@
+{
+  "name": "Matrix Society",
+  "symbol": "MS",
+  "decimals": 9,
+  "coin_type": "0xa3bff7511fe76d713cfde72a69128a416cfed03f87f2ce06f144712024b3de4b::ms::MS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8ae75376-ff64-4bb8-aff2-44fc3fd45450.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HYPEHAT",
+  "symbol": "HYHAT",
+  "decimals": 9,
+  "coin_type": "0x002ac4b6d3131aec967867541aed31dd57bb8cf0e3c56a368ec7d0cca07415c3::hypehat::HYPEHAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://utfs.io/f/twuH73scZrUEXJPxXRt5YCRHEzkL7exTgry30O8lcZdb1Vvu",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

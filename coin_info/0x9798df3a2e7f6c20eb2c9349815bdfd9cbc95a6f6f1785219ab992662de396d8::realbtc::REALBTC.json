@@ -1,0 +1,13 @@
+{
+  "name": "Bitcoincycle",
+  "symbol": "REALBTC",
+  "decimals": 9,
+  "coin_type": "0x9798df3a2e7f6c20eb2c9349815bdfd9cbc95a6f6f1785219ab992662de396d8::realbtc::REALBTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/BSoeYEhpsCCvY4HU?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

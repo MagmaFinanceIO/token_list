@@ -1,0 +1,13 @@
+{
+  "name": "America",
+  "symbol": "America",
+  "decimals": 9,
+  "coin_type": "0x7838de26620699a485fb655427d6bf360c59403c2e2b39893c3a7bd377b52434::america::AMERICA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6LJaNpynfDj5dX1dJ2sdGDqmUzkqsVGCza5WLr5Npump.png?size=lg&key=8536ab",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

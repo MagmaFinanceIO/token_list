@@ -1,0 +1,13 @@
+{
+  "name": "TrunpForce47",
+  "symbol": "Trumpforce",
+  "decimals": 9,
+  "coin_type": "0x9f3185035f0555f58d83c42cb600581a78dc324aece9c5120d35a92fd28d1749::trumpforce::TRUMPFORCE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9af94677-ff86-48be-a11b-ad9af444aed0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

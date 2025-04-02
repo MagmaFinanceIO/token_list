@@ -1,0 +1,13 @@
+{
+  "name": "ELOOO coin",
+  "symbol": "fufu",
+  "decimals": 6,
+  "coin_type": "0x863766d0e805fc1e12f89af4590dd1028155482340649b891b67745a0e460c82::AS0XCB796B97C03D816B39EEF6B98D7ABCEBF2E16AE4F92E7A9D5A371205DADAF8C2::AS0XCB796B97C03D816B39EEF6B98D7ABCEBF2E16AE4F92E7A9D5A371205DADAF8C2",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

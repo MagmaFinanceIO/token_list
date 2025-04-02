@@ -1,0 +1,13 @@
+{
+  "name": "Sui Man Group",
+  "symbol": "SUIMANGROUP",
+  "decimals": 6,
+  "coin_type": "0xcf9b24920a4a77d104bfcc4d44f92ef6aba8f4903ef01e4570fdb00738ddbc3f::suimangroup::SUIMANGROUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_937f58107a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

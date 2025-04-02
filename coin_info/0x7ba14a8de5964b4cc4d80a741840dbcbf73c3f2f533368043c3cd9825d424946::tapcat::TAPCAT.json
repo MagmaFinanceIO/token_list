@@ -1,0 +1,13 @@
+{
+  "name": "TAPCAT",
+  "symbol": "TAPCAT",
+  "decimals": 9,
+  "coin_type": "0x7ba14a8de5964b4cc4d80a741840dbcbf73c3f2f533368043c3cd9825d424946::tapcat::TAPCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/C4NXsXoG8MmDjhanrkN1jonJuiT2KBkuYq1HQTampump.png?size=lg&key=181614",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

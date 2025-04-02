@@ -1,0 +1,13 @@
+{
+  "name": "Baby Pengu",
+  "symbol": "BABYPENGU",
+  "decimals": 9,
+  "coin_type": "0x6da889a04cda7b32b274215206f1eda0f03c22341c2578294b4ad6be00d57a2d::babypengu::BABYPENGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmZf7B6QHDu2VjdMZDvD2eH7QzzHjkeWBUmfsr9wDgSs2t",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

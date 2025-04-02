@@ -1,0 +1,13 @@
+{
+  "name": "THE AVA AI",
+  "symbol": "AVAAI",
+  "decimals": 6,
+  "coin_type": "0x6cb4778c307dd81083c08980089c950e2fff60e495545d62e4c2f597c2aa4d5c::avaai::AVAAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2222_e7625b2f03.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

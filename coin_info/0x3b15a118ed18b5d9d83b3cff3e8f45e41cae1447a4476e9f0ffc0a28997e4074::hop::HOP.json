@@ -1,0 +1,13 @@
+{
+  "name": "Little Bunny",
+  "symbol": "HOP",
+  "decimals": 9,
+  "coin_type": "0x3b15a118ed18b5d9d83b3cff3e8f45e41cae1447a4476e9f0ffc0a28997e4074::hop::HOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9493cb1e-75cd-4052-8c03-354ce2c88a3e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

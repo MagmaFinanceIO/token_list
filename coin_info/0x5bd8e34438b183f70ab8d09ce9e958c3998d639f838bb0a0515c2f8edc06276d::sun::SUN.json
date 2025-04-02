@@ -1,0 +1,13 @@
+{
+  "name": "SUN",
+  "symbol": "SUN",
+  "decimals": 9,
+  "coin_type": "0x5bd8e34438b183f70ab8d09ce9e958c3998d639f838bb0a0515c2f8edc06276d::sun::SUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.ouinolanguages.com/assets/French/vocab/8/images/pic7.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

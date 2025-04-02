@@ -1,0 +1,13 @@
+{
+  "name": "GRANDPA",
+  "symbol": "GNA",
+  "decimals": 9,
+  "coin_type": "0x8275c0a6b5d182107c69cb69aeb0f448e131a57f27124ab730b45a10edf81756::gna::GNA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d0a9adcf-7670-4237-91bf-f10f0d1c50e9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

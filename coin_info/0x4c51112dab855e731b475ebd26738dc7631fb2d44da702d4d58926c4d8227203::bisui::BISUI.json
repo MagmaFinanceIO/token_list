@@ -1,0 +1,13 @@
+{
+  "name": "Bisui",
+  "symbol": "Bisui",
+  "decimals": 6,
+  "coin_type": "0x4c51112dab855e731b475ebd26738dc7631fb2d44da702d4d58926c4d8227203::bisui::BISUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://gateway.irys.xyz/FTSj13cNKxP-_aUROyPuTUkRoYHm3nIiWs0ourcCxuY",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

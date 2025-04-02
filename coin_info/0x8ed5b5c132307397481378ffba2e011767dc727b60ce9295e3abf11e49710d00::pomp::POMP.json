@@ -1,0 +1,13 @@
+{
+  "name": "Scottie Pompin by SuiAI",
+  "symbol": "POMP",
+  "decimals": 6,
+  "coin_type": "0x8ed5b5c132307397481378ffba2e011767dc727b60ce9295e3abf11e49710d00::pomp::POMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/image0_1_2ed2222470.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Enola AI",
+  "symbol": "ENOLA",
+  "decimals": 9,
+  "coin_type": "0x076915ed8bde8e1c4ac1f424a2700cfdc207d9da158aeee6e378e55a26e27633::enola::ENOLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BuJkVuf2w3F35KLspH7mFzTGfQAhinXkqwsKkkbEpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "KEKW",
+  "symbol": "KEK",
+  "decimals": 6,
+  "coin_type": "0x56a1b149e39c4e256b4a65afe5f1a306f9dc36bcfee00aca7a950bb1a39e6b30::kek::KEK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_6029609294871246078_x_c7df83be0c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

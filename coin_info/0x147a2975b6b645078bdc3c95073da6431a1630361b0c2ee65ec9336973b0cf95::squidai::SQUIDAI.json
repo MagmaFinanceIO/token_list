@@ -1,0 +1,13 @@
+{
+  "name": "Squid Game - Cyber AI",
+  "symbol": "SquidAI",
+  "decimals": 9,
+  "coin_type": "0x147a2975b6b645078bdc3c95073da6431a1630361b0c2ee65ec9336973b0cf95::squidai::SQUIDAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EV7w6ATBSzgiM86EkqcJsovxCZgSVVuZCTrmCsfDpump.png?size=lg&key=3642c7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

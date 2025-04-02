@@ -1,0 +1,13 @@
+{
+  "name": "Dooshes",
+  "symbol": "DOSH",
+  "decimals": 6,
+  "coin_type": "0xf7ff8fb6c760ab2ca9b41c3fddc1f897ecba6f23b53fa48399a90c896f0c4f93::dosh::DOSH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pfp_8d3f890c00.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Stermoon",
+  "symbol": "STER",
+  "decimals": 9,
+  "coin_type": "0xf32649e3c4d2aba651ac177a3757e61699359f622a636c42cd7109b2a6024bd5::ster::STER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/308a2b6f-2e78-4624-a262-12b8a5272eed.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

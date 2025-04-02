@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL MELANIA",
+  "symbol": "MELANIA",
+  "decimals": 9,
+  "coin_type": "0xa5249c28756b5d3e6002887b3c0653b7a2339d59e95de280650c27b54ca28dbe::melania::MELANIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/JvTRSeeaj2NrVhZAWzU8m6qKnKwimMJZGSwFKn9pump.png?size=lg&key=056dd5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

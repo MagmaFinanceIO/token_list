@@ -1,0 +1,13 @@
+{
+  "name": "CRISPR",
+  "symbol": "CRIS",
+  "decimals": 9,
+  "coin_type": "0xd21fa0a6b29e3d1f860cf55700078f6afec2ffd52a7a0af1be653e5400e58851::cris::CRIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d020d84a-19b6-4d93-9f5e-df049beeb4a8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

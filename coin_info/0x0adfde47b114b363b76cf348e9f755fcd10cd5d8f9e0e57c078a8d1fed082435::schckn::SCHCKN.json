@@ -1,0 +1,13 @@
+{
+  "name": "Sui Chicken",
+  "symbol": "SCHCKN",
+  "decimals": 9,
+  "coin_type": "0x0adfde47b114b363b76cf348e9f755fcd10cd5d8f9e0e57c078a8d1fed082435::schckn::SCHCKN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/188e7816-b420-45ef-982e-820f70dcb0e7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

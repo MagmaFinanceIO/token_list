@@ -1,0 +1,13 @@
+{
+  "name": "PIGGY",
+  "symbol": "PIGGY",
+  "decimals": 9,
+  "coin_type": "0x54da3f9110f16f0124411d234ae836b165be1a040ca5526af802fc66c6d86203::piggy::PIGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fe2b9541-a3e2-4a94-bbbe-61135a2fe907.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

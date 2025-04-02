@@ -1,0 +1,13 @@
+{
+  "name": "CHILL FAT GUY",
+  "symbol": "CFG",
+  "decimals": 9,
+  "coin_type": "0x4ce8c156cd57cc3eb277bf25d3ff5c37a2a301e7a163f73d0600c5949af739ab::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

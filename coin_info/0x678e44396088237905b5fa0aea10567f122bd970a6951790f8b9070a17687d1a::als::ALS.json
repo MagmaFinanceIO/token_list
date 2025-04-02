@@ -1,0 +1,13 @@
+{
+  "name": "ailen on sui",
+  "symbol": "ALS",
+  "decimals": 6,
+  "coin_type": "0x678e44396088237905b5fa0aea10567f122bd970a6951790f8b9070a17687d1a::als::ALS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Th_A_m_ti_A_u_Ae_a_12_c90e0596b4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

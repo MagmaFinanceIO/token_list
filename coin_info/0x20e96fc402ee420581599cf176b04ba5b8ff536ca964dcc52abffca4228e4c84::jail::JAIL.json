@@ -1,0 +1,13 @@
+{
+  "name": "JailbreakMe",
+  "symbol": "JAIL",
+  "decimals": 9,
+  "coin_type": "0x20e96fc402ee420581599cf176b04ba5b8ff536ca964dcc52abffca4228e4c84::jail::JAIL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8cNmp9T2CMQRNZhNRoeSvr57LDf1kbZ42SvgsSWfpump.png?size=lg&key=5d6ebc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MEMEBETS",
+  "symbol": "MEMEBETS",
+  "decimals": 9,
+  "coin_type": "0x334bb1fb559a22852936d524675aec7f0908ea216453b5ed80b1a08c2e76edbc::memebets::MEMEBETS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c2b76b2a-fd17-4a41-b017-d95a20e92291.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

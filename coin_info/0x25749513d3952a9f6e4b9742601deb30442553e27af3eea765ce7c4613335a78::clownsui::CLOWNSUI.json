@@ -1,0 +1,13 @@
+{
+  "name": "CLOWN ON SUI",
+  "symbol": "CLOWNSUI",
+  "decimals": 9,
+  "coin_type": "0x25749513d3952a9f6e4b9742601deb30442553e27af3eea765ce7c4613335a78::clownsui::CLOWNSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d577d20b-05bd-4094-94d0-57cc524dbd1c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

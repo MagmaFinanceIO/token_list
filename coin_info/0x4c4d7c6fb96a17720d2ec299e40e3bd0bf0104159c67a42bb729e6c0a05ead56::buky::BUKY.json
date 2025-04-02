@@ -1,0 +1,13 @@
+{
+  "name": "Bunkey",
+  "symbol": "BUKY",
+  "decimals": 9,
+  "coin_type": "0x4c4d7c6fb96a17720d2ec299e40e3bd0bf0104159c67a42bb729e6c0a05ead56::buky::BUKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1152bf53-5d41-4c65-8bee-49e8df47f09e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

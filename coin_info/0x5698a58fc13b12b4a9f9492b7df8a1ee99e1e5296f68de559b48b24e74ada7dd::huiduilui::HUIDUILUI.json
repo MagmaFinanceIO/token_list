@@ -1,0 +1,13 @@
+{
+  "name": "HuiDuiLui",
+  "symbol": "HuiDuiLui",
+  "decimals": 9,
+  "coin_type": "0x5698a58fc13b12b4a9f9492b7df8a1ee99e1e5296f68de559b48b24e74ada7dd::huiduilui::HUIDUILUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c61ee305-eac1-4ce3-bf5d-9df1234e33e3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIBOI",
+  "symbol": "SUIBOI TRUMP",
+  "decimals": 8,
+  "coin_type": "0xff7bf3fcb86c4a855f0c15db405b442030bd46c54761d8d4084144bc5199b814::sui_trump::SUI_TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4eISVEIPu9IbZc_IGDW2VGFfJ9oWHve9cLZGY3-gStKeAkHTLyMuaUynN19JWi8DyNoU&usqp=CAU",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

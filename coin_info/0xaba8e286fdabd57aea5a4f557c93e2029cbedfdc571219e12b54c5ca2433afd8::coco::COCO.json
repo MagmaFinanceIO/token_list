@@ -1,0 +1,13 @@
+{
+  "name": "COCO THE PUPPY",
+  "symbol": "COCO",
+  "decimals": 9,
+  "coin_type": "0xaba8e286fdabd57aea5a4f557c93e2029cbedfdc571219e12b54c5ca2433afd8::coco::COCO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2fd583a3-d9c4-4c97-82eb-8178e3a5fe9b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

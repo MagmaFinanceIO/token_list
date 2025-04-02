@@ -1,0 +1,13 @@
+{
+  "name": "Nocta AI Suite",
+  "symbol": "NOCTA",
+  "decimals": 9,
+  "coin_type": "0x9c73c97cfc02aa156a644b911594e8e4b3012861cd90adf3c0a7aa8b6f59c58a::nocta::NOCTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/32grCnhELVyh4oPbSA3nWZLmrK2LcVFLqB4F3AiEpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Tanya",
+  "symbol": "TANYA",
+  "decimals": 9,
+  "coin_type": "0x8bbca54e969b0e912e6d2f44a89a94ce9c77f2b44fe245e00da753fe34d742cb::tanya::TANYA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://c.nbsamara.net/sites/nbsamara.net/files/styles/width250px/public/img_6361.jpeg?itok=GvGzvExn",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

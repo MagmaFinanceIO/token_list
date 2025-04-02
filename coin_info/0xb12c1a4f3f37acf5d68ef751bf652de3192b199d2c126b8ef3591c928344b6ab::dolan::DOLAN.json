@@ -1,0 +1,13 @@
+{
+  "name": "DolanDuckOnSui",
+  "symbol": "DOLAN",
+  "decimals": 6,
+  "coin_type": "0xb12c1a4f3f37acf5d68ef751bf652de3192b199d2c126b8ef3591c928344b6ab::dolan::DOLAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000340_e51d704296.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

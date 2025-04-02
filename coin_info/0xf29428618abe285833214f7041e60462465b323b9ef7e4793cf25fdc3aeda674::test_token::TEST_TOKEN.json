@@ -1,0 +1,13 @@
+{
+  "name": "Test_Token",
+  "symbol": "TT",
+  "decimals": 9,
+  "coin_type": "0xf29428618abe285833214f7041e60462465b323b9ef7e4793cf25fdc3aeda674::test_token::TEST_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

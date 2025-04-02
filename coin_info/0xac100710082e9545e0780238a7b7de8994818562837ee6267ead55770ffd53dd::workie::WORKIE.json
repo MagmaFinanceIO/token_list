@@ -1,0 +1,13 @@
+{
+  "name": "WORKIE",
+  "symbol": "WORKIE",
+  "decimals": 9,
+  "coin_type": "0xac100710082e9545e0780238a7b7de8994818562837ee6267ead55770ffd53dd::workie::WORKIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9M14cBzNZRUHmdkrqxx26jS863kfV7SWBW51vCwRpump.png?size=lg&key=fdf052",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

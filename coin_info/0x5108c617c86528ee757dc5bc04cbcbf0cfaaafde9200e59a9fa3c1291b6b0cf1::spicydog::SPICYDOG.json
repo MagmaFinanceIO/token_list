@@ -1,0 +1,13 @@
+{
+  "name": "SpicyDog",
+  "symbol": "SpicyDog",
+  "decimals": 9,
+  "coin_type": "0x5108c617c86528ee757dc5bc04cbcbf0cfaaafde9200e59a9fa3c1291b6b0cf1::spicydog::SPICYDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

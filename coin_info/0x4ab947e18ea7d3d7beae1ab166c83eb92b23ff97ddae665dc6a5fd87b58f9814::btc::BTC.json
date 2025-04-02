@@ -1,0 +1,13 @@
+{
+  "name": "Barron Trump Coin",
+  "symbol": "BTC",
+  "decimals": 9,
+  "coin_type": "0x4ab947e18ea7d3d7beae1ab166c83eb92b23ff97ddae665dc6a5fd87b58f9814::btc::BTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/bTxUnWrRDyJJU4bDZw7W1GdnwY1ajLJDeuA18ogpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

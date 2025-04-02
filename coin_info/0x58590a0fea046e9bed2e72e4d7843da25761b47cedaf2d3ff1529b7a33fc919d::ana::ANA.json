@@ -1,0 +1,13 @@
+{
+  "name": "Analyze AI",
+  "symbol": "ANA",
+  "decimals": 9,
+  "coin_type": "0x58590a0fea046e9bed2e72e4d7843da25761b47cedaf2d3ff1529b7a33fc919d::ana::ANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CFUGzh1JfeuR1nxeRUvwvVqAdbrQWbNeqpVigduFpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PumpStar",
+  "symbol": "PSTAR",
+  "decimals": 9,
+  "coin_type": "0x30c0752a3641ca14c2ddb01744c1b9ca4db1ffed804d11a8e88307129e699d72::pstar::PSTAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dexscreener.com/solana/4331denxvcmp4ch9mb9s6skn25zpyp2e6lucryvxpump",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GME MASCOT",
+  "symbol": "BUCK",
+  "decimals": 9,
+  "coin_type": "0xe657d34023cb145d4decdc23e07fa0ccf32615d3a7a3ad93b83eb8f9834e93ac::buck::BUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmXL6KzEQH7uc2AUuyv9VdypPi9X38fb1E8AADLjZvkjAG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

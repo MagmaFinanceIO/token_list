@@ -1,0 +1,13 @@
+{
+  "name": "EIGEN SUI",
+  "symbol": "EIGEN",
+  "decimals": 9,
+  "coin_type": "0x36a533b206f691cd470e1cad80a53e4df0b7297a91ec7a35c9fbe0a81686fe1a::eigen::EIGEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0309bb86-efe4-493c-bdee-4c7a98d60ced.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

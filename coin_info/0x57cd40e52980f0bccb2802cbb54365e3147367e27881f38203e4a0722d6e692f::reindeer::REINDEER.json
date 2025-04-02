@@ -1,0 +1,13 @@
+{
+  "name": "Reindeer XMAS",
+  "symbol": "REINDEER",
+  "decimals": 9,
+  "coin_type": "0x57cd40e52980f0bccb2802cbb54365e3147367e27881f38203e4a0722d6e692f::reindeer::REINDEER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/rXbBS5_x838XzKCV?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

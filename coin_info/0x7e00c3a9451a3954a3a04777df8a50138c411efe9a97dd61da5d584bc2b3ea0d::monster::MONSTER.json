@@ -1,0 +1,13 @@
+{
+  "name": "MONSTER",
+  "symbol": "MONSTER",
+  "decimals": 9,
+  "coin_type": "0x7e00c3a9451a3954a3a04777df8a50138c411efe9a97dd61da5d584bc2b3ea0d::monster::MONSTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmRqy7keJexPS2iAS4A7TqpMRRJsKE79mJ9FhRS6woWYxr",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

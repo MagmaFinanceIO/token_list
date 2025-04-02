@@ -1,0 +1,13 @@
+{
+  "name": "LEGO'S NEW MASCOT",
+  "symbol": "cataclaws",
+  "decimals": 9,
+  "coin_type": "0xa2e90721f1c0009b2896216c919a9f0f56814e2df9a7ee48c4f0ade0793881e3::cataclaws::CATACLAWS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmYLJH8LiBJL7aSapJBVBDtAbpdZcBfmT23457P1VsPX84",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

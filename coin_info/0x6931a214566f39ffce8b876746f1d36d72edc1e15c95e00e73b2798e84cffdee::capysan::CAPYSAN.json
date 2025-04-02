@@ -1,0 +1,13 @@
+{
+  "name": "Capybara Santa",
+  "symbol": "CAPYSAN",
+  "decimals": 9,
+  "coin_type": "0x6931a214566f39ffce8b876746f1d36d72edc1e15c95e00e73b2798e84cffdee::capysan::CAPYSAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1784a958-8c6b-4dfa-b0e1-25f48f9f9465.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

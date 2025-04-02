@@ -1,0 +1,13 @@
+{
+  "name": "Poodle",
+  "symbol": "Poodle",
+  "decimals": 9,
+  "coin_type": "0xe870d9c18ac5baff91ce8e0df1cff434562db20e7da8c47a01c9b226ec8275ff::poodle::POODLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/badff9a8-f222-45c5-b1af-a284ba75fd23.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

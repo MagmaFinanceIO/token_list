@@ -1,0 +1,13 @@
+{
+  "name": "100 SUI",
+  "symbol": "ONEHUNDRED",
+  "decimals": 9,
+  "coin_type": "0xaf8796bd32b6d7b3cfd22a00d942e41689dae9125d6e9d8aed646d4abb7fb53a::onehundred::ONEHUNDRED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/550402d9-0bed-43a7-85a5-193f386b932c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

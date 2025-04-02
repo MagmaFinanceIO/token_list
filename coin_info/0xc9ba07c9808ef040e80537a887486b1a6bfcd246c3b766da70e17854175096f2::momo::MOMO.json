@@ -1,0 +1,13 @@
+{
+  "name": "MOMO",
+  "symbol": "MOMO",
+  "decimals": 9,
+  "coin_type": "0xc9ba07c9808ef040e80537a887486b1a6bfcd246c3b766da70e17854175096f2::momo::MOMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5BKw97mLkc3HyZY88ZjigiXbaqiGFzDbHHQCdCGpump.png?size=lg&key=4a4349",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

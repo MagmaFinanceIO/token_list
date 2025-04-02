@@ -1,0 +1,13 @@
+{
+  "name": "Sendooor",
+  "symbol": "SEND",
+  "decimals": 9,
+  "coin_type": "0xfb3ae0381544b151c7d0a33721ca90adde1cd69cd0dca920e9b6a61b1155ca83::send::SEND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/700dc800-73f8-4542-bada-9fdc9a0f844d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

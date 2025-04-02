@@ -1,0 +1,13 @@
+{
+  "name": "Sui Chstik",
+  "symbol": "CHSTIK",
+  "decimals": 9,
+  "coin_type": "0xb81fcda26276d37a1e6532b33402b972e0b34efd662a2f7aba70660ef5be69c5::chstik::CHSTIK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bbe83eb2-6063-4959-8913-f1767125cc5e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

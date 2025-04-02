@@ -1,0 +1,13 @@
+{
+  "name": "SUI CORGY",
+  "symbol": "CORGY",
+  "decimals": 9,
+  "coin_type": "0xef83dae3aa80e801fdedcc9040f90af316c4b09ebda6114906dbe7b4eb1e6b22::corgy::CORGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bb96360a-e660-4950-b835-cc9681e3e025.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

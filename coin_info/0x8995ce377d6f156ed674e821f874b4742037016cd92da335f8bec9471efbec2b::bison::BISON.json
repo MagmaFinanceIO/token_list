@@ -1,0 +1,13 @@
+{
+  "name": "BISON",
+  "symbol": "BISON",
+  "decimals": 9,
+  "coin_type": "0x8995ce377d6f156ed674e821f874b4742037016cd92da335f8bec9471efbec2b::bison::BISON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6H7JZLcgJFiQwuFJK4NQuPMY3V8KgBeR3eqR4uKzpump.png?size=lg&key=37690c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

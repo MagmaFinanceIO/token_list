@@ -1,0 +1,13 @@
+{
+  "name": "GEMZSTONE",
+  "symbol": "GEMZS",
+  "decimals": 8,
+  "coin_type": "0x3051ecdd1f46f72c858724292cc4249475d7e32c6335ac1b5a5f94d885314fd5::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

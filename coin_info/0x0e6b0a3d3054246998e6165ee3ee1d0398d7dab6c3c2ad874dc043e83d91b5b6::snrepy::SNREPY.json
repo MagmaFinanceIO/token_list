@@ -1,0 +1,13 @@
+{
+  "name": "Snrepy on Sui",
+  "symbol": "SNREPY",
+  "decimals": 6,
+  "coin_type": "0x0e6b0a3d3054246998e6165ee3ee1d0398d7dab6c3c2ad874dc043e83d91b5b6::snrepy::SNREPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_2_300x300_f37b0621b7.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

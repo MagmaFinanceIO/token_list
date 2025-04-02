@@ -1,0 +1,13 @@
+{
+  "name": "MAGA Squirrels",
+  "symbol": "SLM",
+  "decimals": 9,
+  "coin_type": "0xa5493abfa07177e9e47f2e54b2f10bc88b28ed6c831bdf737b227b027340673c::slm::SLM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQA1UNU6yTJoNgL9WKtTFhDwBcBnryraGR9c9MEQWBwkn",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

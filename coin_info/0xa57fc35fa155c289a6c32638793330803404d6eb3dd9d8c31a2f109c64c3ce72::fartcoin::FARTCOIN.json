@@ -1,0 +1,13 @@
+{
+  "name": "FartCoin",
+  "symbol": "Fartcoin",
+  "decimals": 6,
+  "coin_type": "0xa57fc35fa155c289a6c32638793330803404d6eb3dd9d8c31a2f109c64c3ce72::fartcoin::FARTCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737657960760.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sonic the Hedgehog",
+  "symbol": "SUISONIC",
+  "decimals": 9,
+  "coin_type": "0xc38136deffa4bef7c407a1c54ec5adcd3dab61ea3e44cdc0022d405bcedfb073::suisonic::SUISONIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Cnvw36ysNdmx4TTyY4QGqADK83eJNZMqfwhViuExpump.png?size=lg&key=3664c6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

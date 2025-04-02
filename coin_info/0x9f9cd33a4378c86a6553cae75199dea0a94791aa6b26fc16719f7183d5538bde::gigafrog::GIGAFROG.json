@@ -1,0 +1,13 @@
+{
+  "name": "Gigachad Frog",
+  "symbol": "GIGAFROG",
+  "decimals": 9,
+  "coin_type": "0x9f9cd33a4378c86a6553cae75199dea0a94791aa6b26fc16719f7183d5538bde::gigafrog::GIGAFROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ff5ac1c4-9c89-459f-a7d0-6228e95f806c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

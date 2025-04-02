@@ -1,0 +1,13 @@
+{
+  "name": "MAGA FRENS",
+  "symbol": "FRENS",
+  "decimals": 9,
+  "coin_type": "0x19cefa8ad2728591ec095cb2ce917eb1e52e6d87351ec66f0da38f308aa120fd::frens::FRENS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x1836dd14beddc048cdbe7b91b82a4f2eab648397.png?size=lg&key=0818d3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

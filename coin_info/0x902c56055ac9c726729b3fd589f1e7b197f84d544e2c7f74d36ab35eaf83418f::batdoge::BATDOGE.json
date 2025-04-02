@@ -1,0 +1,13 @@
+{
+  "name": "BAT D.O.G.E ON SUI",
+  "symbol": "BATDOGE",
+  "decimals": 9,
+  "coin_type": "0x902c56055ac9c726729b3fd589f1e7b197f84d544e2c7f74d36ab35eaf83418f::batdoge::BATDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f470c7b2-cc75-4f73-890d-df1b8c77ee58.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

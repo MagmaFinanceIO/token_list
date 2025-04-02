@@ -1,0 +1,13 @@
+{
+  "name": "AME INU",
+  "symbol": "AME",
+  "decimals": 9,
+  "coin_type": "0xe57af398bdd9635987cf856c57c4b2b39c1c35ab6e8a8dd414dc9ec9b4abcfb9::ame::AME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.bing.com/th?id=OIG1.q35kOza4h77e6eD5wYnk&w=236&c=11&rs=1&qlt=90&bgcl=ececec&o=6&pid=PersonalBing&p=0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

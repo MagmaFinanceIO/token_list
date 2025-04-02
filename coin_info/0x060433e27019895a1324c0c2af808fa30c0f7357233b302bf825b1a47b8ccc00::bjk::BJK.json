@@ -1,0 +1,13 @@
+{
+  "name": "benjake",
+  "symbol": "BJK",
+  "decimals": 6,
+  "coin_type": "0x060433e27019895a1324c0c2af808fa30c0f7357233b302bf825b1a47b8ccc00::bjk::BJK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_1005_846b14a206.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

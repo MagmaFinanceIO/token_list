@@ -1,0 +1,13 @@
+{
+  "name": "ASSCOIN",
+  "symbol": "ASSCOIN",
+  "decimals": 9,
+  "coin_type": "0x460cba9846883fbd148a131f361f35913f7f8aca1fcf68e7dc963dbb6295c315::asscoin::ASSCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/G3EDZoS49NRVKP8X1HggHZJueJeR8d2izUHeXdV3pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

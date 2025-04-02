@@ -1,0 +1,13 @@
+{
+  "name": "Qairo AI",
+  "symbol": "QAIROAI",
+  "decimals": 9,
+  "coin_type": "0xf0c85077365d0b65c60e2e397591d94ae4eb5fce9ac77bcb9261cc3ae8384ebc::qairoai::QAIROAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6mPyMnFEfAoGgY8Ru9WTvcChywMwjW6QqLFH77cKpump.png?size=lg&key=fa2ae4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

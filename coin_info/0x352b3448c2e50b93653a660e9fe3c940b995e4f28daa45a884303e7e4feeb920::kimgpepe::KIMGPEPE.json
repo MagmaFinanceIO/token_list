@@ -1,0 +1,13 @@
+{
+  "name": "KIMJONGPEPE ON SUI",
+  "symbol": "KIMGPEPE",
+  "decimals": 9,
+  "coin_type": "0x352b3448c2e50b93653a660e9fe3c940b995e4f28daa45a884303e7e4feeb920::kimgpepe::KIMGPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cf04d5e2-f4ed-4d4c-9486-17e95cbcb6ab.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Trump Borg AI",
+  "symbol": "TRUMPBORG",
+  "decimals": 9,
+  "coin_type": "0xde5648741afeb2eb3a9f0f6d544e5a90505854c87bb55fb417355fa66602ef40::trumpborg::TRUMPBORG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1c49506a-378a-4161-89a8-1d9935c1f167.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

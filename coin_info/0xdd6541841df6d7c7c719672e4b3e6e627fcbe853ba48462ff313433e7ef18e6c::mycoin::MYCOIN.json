@@ -1,0 +1,13 @@
+{
+  "name": "VAULTAI",
+  "symbol": "VAULTAI",
+  "decimals": 9,
+  "coin_type": "0xdd6541841df6d7c7c719672e4b3e6e627fcbe853ba48462ff313433e7ef18e6c::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

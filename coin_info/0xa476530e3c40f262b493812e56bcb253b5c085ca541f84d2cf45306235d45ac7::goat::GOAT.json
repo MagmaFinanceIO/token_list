@@ -1,0 +1,13 @@
+{
+  "name": "Sui GOAT",
+  "symbol": "GOAT",
+  "decimals": 6,
+  "coin_type": "0xa476530e3c40f262b493812e56bcb253b5c085ca541f84d2cf45306235d45ac7::goat::GOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmbPR3XjpsTdzZN9i7Fa1Bp2acBmnxC5J4tK2Sf39MzEhc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

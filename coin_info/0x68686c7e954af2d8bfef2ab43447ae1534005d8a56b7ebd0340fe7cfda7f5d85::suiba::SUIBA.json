@@ -1,0 +1,13 @@
+{
+  "name": "Suibabot",
+  "symbol": "Suiba",
+  "decimals": 6,
+  "coin_type": "0x68686c7e954af2d8bfef2ab43447ae1534005d8a56b7ebd0340fe7cfda7f5d85::suiba::SUIBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSwXgMoo5rydqLo5XZVXAuoRxCmBnAs5dJmWR3SscZibe",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

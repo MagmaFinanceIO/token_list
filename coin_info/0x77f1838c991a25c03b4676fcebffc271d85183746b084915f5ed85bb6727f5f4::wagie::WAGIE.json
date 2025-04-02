@@ -1,0 +1,13 @@
+{
+  "name": "Wagie on Sui",
+  "symbol": "WAGIE",
+  "decimals": 6,
+  "coin_type": "0x77f1838c991a25c03b4676fcebffc271d85183746b084915f5ed85bb6727f5f4::wagie::WAGIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qmb_Vmt_XK_Gc_K4_Qn_Bhz42_PE_Ajv_Pt_UHX_93_MNHPPFPYZ_7i_L5_HU_0db73d8a27.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

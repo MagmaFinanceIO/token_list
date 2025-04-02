@@ -1,0 +1,13 @@
+{
+  "name": "Felon Coin",
+  "symbol": "FLNCN",
+  "decimals": 9,
+  "coin_type": "0x72495126b505353fc4ed94f23d07899bab0a8d832ba7aad7bfee4fbd6e781059::flncn::FLNCN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/41889338-dda7-4a7e-b074-715e0cf30260.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

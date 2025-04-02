@@ -1,0 +1,13 @@
+{
+  "name": "RISK on SUI",
+  "symbol": "RISK",
+  "decimals": 9,
+  "coin_type": "0xd84a6394f1cea643d1e5bd839ee572ffea21212ccab3642546ecfa49ddf78d9e::risk::RISK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/324e4394-e38c-4c4e-a996-b157a4e58dbc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

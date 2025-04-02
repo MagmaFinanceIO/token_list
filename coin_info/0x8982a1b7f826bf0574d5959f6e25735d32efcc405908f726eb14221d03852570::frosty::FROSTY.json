@@ -1,0 +1,13 @@
+{
+  "name": "Frosty",
+  "symbol": "FROSTY",
+  "decimals": 9,
+  "coin_type": "0x8982a1b7f826bf0574d5959f6e25735d32efcc405908f726eb14221d03852570::frosty::FROSTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/uPLvPRMzNLijZsnk6hYALzz7PzRe6excvMLUFmcpump.png?size=lg&key=edd2a1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

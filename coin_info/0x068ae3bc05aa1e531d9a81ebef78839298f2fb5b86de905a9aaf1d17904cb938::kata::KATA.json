@@ -1,0 +1,13 @@
+{
+  "name": "kata",
+  "symbol": "kata",
+  "decimals": 9,
+  "coin_type": "0x068ae3bc05aa1e531d9a81ebef78839298f2fb5b86de905a9aaf1d17904cb938::kata::KATA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

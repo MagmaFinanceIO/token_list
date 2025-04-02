@@ -1,0 +1,13 @@
+{
+  "name": "SUIPIG",
+  "symbol": "SUIPIG",
+  "decimals": 9,
+  "coin_type": "0x60e157daf39e07b10676a0cc5768709520b2f337adf81112b96b19f51f1de337::suipig::SUIPIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c65dc60b-989a-463b-a9ec-9410c3d0b62f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

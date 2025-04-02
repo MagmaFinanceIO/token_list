@@ -1,0 +1,13 @@
+{
+  "name": "Tether by Sui Bridge",
+  "symbol": "suiUSDT",
+  "decimals": 9,
+  "coin_type": "0x3e8ef5e52c47a96c4cd0d05472aff75c293d0e52d0ef1d63119cbdd8be4404d3::suiusdt::SUIUSDT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2fe6784c-465f-460d-a7dc-5569f734ea15.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BAD SANTA",
+  "symbol": "SANTA",
+  "decimals": 9,
+  "coin_type": "0x7c4692986b7f4cb494a52d16d4b58e82ae2eb0714bec870ae41e6acb8cd48787::santa::SANTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GLDM1hYPA6GjaitdxbJ2RsjRNyyCW6Gg9wzz5mWCpump.png?size=lg&key=75a022",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

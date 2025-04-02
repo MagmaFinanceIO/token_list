@@ -1,0 +1,13 @@
+{
+  "name": "American Shib",
+  "symbol": "SHIBA",
+  "decimals": 9,
+  "coin_type": "0x18a2422813a06da1b6b18b182c708b5a2a163c0766ec6504f1af48153ee8c5d5::shiba::SHIBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2dd1a3ea-18ac-4f17-9426-a86614d5e0c1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hopi",
+  "symbol": "HOPI",
+  "decimals": 2,
+  "coin_type": "0xf180ced659415dbec0eac7943983c4917869e886c9c307f94a5c5ea3a7064eb3::HOPI::HOPI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.postimg.cc/xCN0Y7xx/Hopi.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

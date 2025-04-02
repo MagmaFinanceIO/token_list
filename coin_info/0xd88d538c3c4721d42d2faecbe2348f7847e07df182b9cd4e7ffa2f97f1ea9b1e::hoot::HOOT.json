@@ -1,0 +1,13 @@
+{
+  "name": "HOOT",
+  "symbol": "HOOT",
+  "decimals": 9,
+  "coin_type": "0xd88d538c3c4721d42d2faecbe2348f7847e07df182b9cd4e7ffa2f97f1ea9b1e::hoot::HOOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GnvXszRyD2hQRGrDNbTb1hXNsLcvcwhk1tAcxsuQWQsR.png?size=lg&key=3865f9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIHORSE",
+  "symbol": "HAIMA",
+  "decimals": 6,
+  "coin_type": "0x7476cf40c9de3c4abe79889580b107f9e1ff959531a95f5a341cd4c24505fda6::haima::HAIMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731347937116.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

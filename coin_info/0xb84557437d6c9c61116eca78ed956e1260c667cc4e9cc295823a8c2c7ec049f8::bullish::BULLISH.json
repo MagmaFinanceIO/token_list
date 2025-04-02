@@ -1,0 +1,13 @@
+{
+  "name": "Bullish",
+  "symbol": "Bullish",
+  "decimals": 9,
+  "coin_type": "0xb84557437d6c9c61116eca78ed956e1260c667cc4e9cc295823a8c2c7ec049f8::bullish::BULLISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

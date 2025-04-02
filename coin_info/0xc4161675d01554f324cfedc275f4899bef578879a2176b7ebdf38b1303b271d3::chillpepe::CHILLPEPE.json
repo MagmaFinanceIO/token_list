@@ -1,0 +1,13 @@
+{
+  "name": "Chill Pepe Sui",
+  "symbol": "CHILLPEPE",
+  "decimals": 6,
+  "coin_type": "0xc4161675d01554f324cfedc275f4899bef578879a2176b7ebdf38b1303b271d3::chillpepe::CHILLPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/chillpepe_56aad52eac.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

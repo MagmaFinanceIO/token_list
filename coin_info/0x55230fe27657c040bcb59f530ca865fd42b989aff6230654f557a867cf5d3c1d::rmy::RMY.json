@@ -1,0 +1,13 @@
+{
+  "name": "Rummy Gamez",
+  "symbol": "RMY",
+  "decimals": 9,
+  "coin_type": "0x55230fe27657c040bcb59f530ca865fd42b989aff6230654f557a867cf5d3c1d::rmy::RMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/37932cd4-07ec-491a-83a5-db9906e0bc72.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

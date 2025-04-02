@@ -1,0 +1,13 @@
+{
+  "name": "Google Chain Network",
+  "symbol": "GCN",
+  "decimals": 9,
+  "coin_type": "0x42d1a7ee98527caad04235515363b362d7f5351bd9249953527fe5388d525985::gcn::GCN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

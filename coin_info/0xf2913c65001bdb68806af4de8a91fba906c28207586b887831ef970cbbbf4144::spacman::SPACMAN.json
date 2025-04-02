@@ -1,0 +1,13 @@
+{
+  "name": "Sui Pacman",
+  "symbol": "SPacman",
+  "decimals": 6,
+  "coin_type": "0xf2913c65001bdb68806af4de8a91fba906c28207586b887831ef970cbbbf4144::spacman::SPACMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pac_man_image_7d74119e0f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

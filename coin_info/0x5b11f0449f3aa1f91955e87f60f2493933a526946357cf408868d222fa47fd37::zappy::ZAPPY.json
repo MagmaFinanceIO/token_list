@@ -1,0 +1,13 @@
+{
+  "name": "ZAPPY ON SUI",
+  "symbol": "ZAPPY",
+  "decimals": 6,
+  "coin_type": "0x5b11f0449f3aa1f91955e87f60f2493933a526946357cf408868d222fa47fd37::zappy::ZAPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/DEX_BANNER_LOGO_1b788b449c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

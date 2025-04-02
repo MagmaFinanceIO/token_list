@@ -1,0 +1,13 @@
+{
+  "name": "Trinirob",
+  "symbol": "TRINIROB",
+  "decimals": 9,
+  "coin_type": "0x6c1593e8957c4154e46d8be0fecb3bb50bff2c0a09e108014cbcaff110f97257::trinirob::TRINIROB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/241/101/large/gui-wenlong-untitled01-logo.jpg?1727083340",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

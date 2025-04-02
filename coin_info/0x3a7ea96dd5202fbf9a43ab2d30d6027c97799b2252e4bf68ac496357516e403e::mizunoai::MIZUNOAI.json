@@ -1,0 +1,13 @@
+{
+  "name": "Mizuno AI",
+  "symbol": "MizunoAI",
+  "decimals": 9,
+  "coin_type": "0x3a7ea96dd5202fbf9a43ab2d30d6027c97799b2252e4bf68ac496357516e403e::mizunoai::MIZUNOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmRU2zRZmZez2sy9XeHYuRSyYpLhjLMHk1ZmFc7DDtLDdT",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

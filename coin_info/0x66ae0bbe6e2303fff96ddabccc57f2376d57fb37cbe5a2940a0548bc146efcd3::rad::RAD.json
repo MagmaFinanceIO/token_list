@@ -1,0 +1,13 @@
+{
+  "name": "RaData",
+  "symbol": "RAD",
+  "decimals": 9,
+  "coin_type": "0x66ae0bbe6e2303fff96ddabccc57f2376d57fb37cbe5a2940a0548bc146efcd3::rad::RAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9cf84985-e13d-4000-adc7-2c52dcb4806c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

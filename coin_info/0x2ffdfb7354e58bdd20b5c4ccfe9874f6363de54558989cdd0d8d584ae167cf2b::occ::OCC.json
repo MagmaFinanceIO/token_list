@@ -1,0 +1,13 @@
+{
+  "name": "One Cat Coin",
+  "symbol": "OCC",
+  "decimals": 9,
+  "coin_type": "0x2ffdfb7354e58bdd20b5c4ccfe9874f6363de54558989cdd0d8d584ae167cf2b::occ::OCC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b70cf6dd-a251-4bb7-bd35-bf3bc3244ddc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

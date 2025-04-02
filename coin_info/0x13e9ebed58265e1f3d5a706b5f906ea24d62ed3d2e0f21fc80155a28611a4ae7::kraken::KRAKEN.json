@@ -1,0 +1,13 @@
+{
+  "name": "KrakenAI by SuiAI",
+  "symbol": "KRAKEN",
+  "decimals": 6,
+  "coin_type": "0x13e9ebed58265e1f3d5a706b5f906ea24d62ed3d2e0f21fc80155a28611a4ae7::kraken::KRAKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/kraken_95eb43a300.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

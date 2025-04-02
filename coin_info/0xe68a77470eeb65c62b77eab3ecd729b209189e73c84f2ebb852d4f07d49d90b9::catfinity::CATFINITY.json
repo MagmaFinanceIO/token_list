@@ -1,0 +1,13 @@
+{
+  "name": "infinite cats",
+  "symbol": "CATFINITY",
+  "decimals": 9,
+  "coin_type": "0xe68a77470eeb65c62b77eab3ecd729b209189e73c84f2ebb852d4f07d49d90b9::catfinity::CATFINITY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/bafkreie6tsovznpwpkzghhunwvwp6mfnjn7qeqmwmjm65lggzkkbu6p6fa",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

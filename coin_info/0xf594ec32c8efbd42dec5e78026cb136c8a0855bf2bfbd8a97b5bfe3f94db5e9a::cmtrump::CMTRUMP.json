@@ -1,0 +1,13 @@
+{
+  "name": "Crypto Maxi Trump",
+  "symbol": "CMTRUMP",
+  "decimals": 9,
+  "coin_type": "0xf594ec32c8efbd42dec5e78026cb136c8a0855bf2bfbd8a97b5bfe3f94db5e9a::cmtrump::CMTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3zPtBozG44BZgxRK34iBzdmec3qEE6aUEXRDUjkUpump.png?size=lg&key=ad7c86",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

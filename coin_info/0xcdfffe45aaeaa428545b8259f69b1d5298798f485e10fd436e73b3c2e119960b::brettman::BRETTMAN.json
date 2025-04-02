@@ -1,0 +1,13 @@
+{
+  "name": "Brettman",
+  "symbol": "BRETTMAN",
+  "decimals": 6,
+  "coin_type": "0xcdfffe45aaeaa428545b8259f69b1d5298798f485e10fd436e73b3c2e119960b::brettman::BRETTMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Icon_13_300x300_3adfa736a3.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

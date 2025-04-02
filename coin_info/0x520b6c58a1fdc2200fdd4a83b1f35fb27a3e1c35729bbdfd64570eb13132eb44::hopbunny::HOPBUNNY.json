@@ -1,0 +1,13 @@
+{
+  "name": "HopBunnyonsui",
+  "symbol": "HopBunny",
+  "decimals": 6,
+  "coin_type": "0x520b6c58a1fdc2200fdd4a83b1f35fb27a3e1c35729bbdfd64570eb13132eb44::hopbunny::HOPBUNNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731325125944.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

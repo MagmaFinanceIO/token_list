@@ -1,0 +1,13 @@
+{
+  "name": "CAT",
+  "symbol": "CATSUI",
+  "decimals": 9,
+  "coin_type": "0x3da501ad530252d479e9c12a3657497406b5b8429428f03c5c85c1b7b2a8ce49::catsui::CATSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3b918c6c-7e38-43a9-85d6-9bf8a5a8b872.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

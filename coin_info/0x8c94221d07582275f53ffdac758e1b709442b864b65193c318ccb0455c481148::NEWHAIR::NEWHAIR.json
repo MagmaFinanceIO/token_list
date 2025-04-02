@@ -1,0 +1,13 @@
+{
+  "name": "NEWHAIR",
+  "symbol": "NEWHAIR",
+  "decimals": 9,
+  "coin_type": "0x8c94221d07582275f53ffdac758e1b709442b864b65193c318ccb0455c481148::NEWHAIR::NEWHAIR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

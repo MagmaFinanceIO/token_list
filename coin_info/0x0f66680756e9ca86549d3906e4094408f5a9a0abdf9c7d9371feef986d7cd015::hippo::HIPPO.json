@@ -1,0 +1,13 @@
+{
+  "name": "sudeng",
+  "symbol": "HIPPO",
+  "decimals": 6,
+  "coin_type": "0x0f66680756e9ca86549d3906e4094408f5a9a0abdf9c7d9371feef986d7cd015::hippo::HIPPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmTQsPbCirNbwYkMho3V32nkzA6Utxs5rFTrEbipmBnhft",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

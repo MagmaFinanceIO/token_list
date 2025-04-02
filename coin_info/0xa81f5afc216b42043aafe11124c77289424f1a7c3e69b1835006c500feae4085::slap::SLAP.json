@@ -1,0 +1,13 @@
+{
+  "name": "SlapSui",
+  "symbol": "Slap",
+  "decimals": 6,
+  "coin_type": "0xa81f5afc216b42043aafe11124c77289424f1a7c3e69b1835006c500feae4085::slap::SLAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_16_070357208_9380ec3b8c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

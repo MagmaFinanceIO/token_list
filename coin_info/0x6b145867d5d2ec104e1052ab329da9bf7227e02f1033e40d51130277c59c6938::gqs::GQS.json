@@ -1,0 +1,13 @@
+{
+  "name": "GQS",
+  "symbol": "GQS",
+  "decimals": 9,
+  "coin_type": "0x6b145867d5d2ec104e1052ab329da9bf7227e02f1033e40d51130277c59c6938::gqs::GQS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2SNstbEYVEn2iTNQyZHKGzgTPZwBgnujwKa8hn5opump.png?size=lg&key=16c90b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

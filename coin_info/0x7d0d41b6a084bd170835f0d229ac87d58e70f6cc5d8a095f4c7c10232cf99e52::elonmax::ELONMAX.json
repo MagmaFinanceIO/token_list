@@ -1,0 +1,13 @@
+{
+  "name": "Elon & Kekius",
+  "symbol": "ElonMax",
+  "decimals": 9,
+  "coin_type": "0x7d0d41b6a084bd170835f0d229ac87d58e70f6cc5d8a095f4c7c10232cf99e52::elonmax::ELONMAX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/1EUBqlfKCYZuNDhM?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

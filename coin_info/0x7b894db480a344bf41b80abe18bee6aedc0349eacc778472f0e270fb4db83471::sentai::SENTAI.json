@@ -1,0 +1,13 @@
+{
+  "name": "SENTAI",
+  "symbol": "SENTAI",
+  "decimals": 9,
+  "coin_type": "0x7b894db480a344bf41b80abe18bee6aedc0349eacc778472f0e270fb4db83471::sentai::SENTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CXPLyc3EX8WySgEXLbjhuA7vy8EKQokVJYQuJm2jpump.png?size=lg&key=ef4419",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

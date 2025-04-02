@@ -1,0 +1,13 @@
+{
+  "name": "Mog Meme",
+  "symbol": "MOG",
+  "decimals": 9,
+  "coin_type": "0x1439943effb3338fb5e911e484c5a6d190861b979dcff7e633410489f1b8f9ec::mog::MOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6213eea7-7768-415f-ac84-2b861806c0bd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

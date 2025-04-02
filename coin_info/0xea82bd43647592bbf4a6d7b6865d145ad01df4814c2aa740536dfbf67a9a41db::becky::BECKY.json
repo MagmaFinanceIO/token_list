@@ -1,0 +1,13 @@
+{
+  "name": "Sui Becky",
+  "symbol": "BECKY",
+  "decimals": 9,
+  "coin_type": "0xea82bd43647592bbf4a6d7b6865d145ad01df4814c2aa740536dfbf67a9a41db::becky::BECKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmNqegBoQqGoUG3h5KmVZTLz8sbeQaHB6X8gMte4Xpe8fW?img-width=800&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

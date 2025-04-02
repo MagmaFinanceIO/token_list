@@ -1,0 +1,13 @@
+{
+  "name": "Ball Sui",
+  "symbol": "BALLSUI",
+  "decimals": 9,
+  "coin_type": "0xfd28f63ba42ea84b4024b98eb728e28c2b13b5e11690558822de0bd58dfc4aa7::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

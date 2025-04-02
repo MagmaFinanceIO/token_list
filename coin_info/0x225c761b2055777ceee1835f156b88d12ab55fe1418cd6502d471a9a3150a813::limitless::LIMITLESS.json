@@ -1,0 +1,13 @@
+{
+  "name": "LIMITLESS",
+  "symbol": "LIMITLESS",
+  "decimals": 9,
+  "coin_type": "0x225c761b2055777ceee1835f156b88d12ab55fe1418cd6502d471a9a3150a813::limitless::LIMITLESS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d44897e7-95b9-4b10-8ce6-18a995797ba7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

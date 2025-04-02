@@ -1,0 +1,13 @@
+{
+  "name": "Suinic",
+  "symbol": "SUINIC",
+  "decimals": 6,
+  "coin_type": "0x19d5ab7530a686a01d81de43f5b03a417befd7b2fac00260be133f738928b5b3::suinic::SUINIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000031501_a22e5f81c0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

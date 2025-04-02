@@ -1,0 +1,13 @@
+{
+  "name": "Capital C Kingaku Gold coins",
+  "symbol": "CCKGC",
+  "decimals": 9,
+  "coin_type": "0x96eeb5bf6e73714e38cac95358d4caec070804ee27505f31576c3bddfd51fb48::cckgc::CCKGC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a04f36df-c5a1-4b33-8e6e-6d3b59b86d3b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

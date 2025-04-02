@@ -1,0 +1,13 @@
+{
+  "name": "Brooder AI",
+  "symbol": "BROOD",
+  "decimals": 9,
+  "coin_type": "0x833f218c861125d12be2c9c8a2b6e30928b561282fc5b550cdc251ebec6a9b13::brood::BROOD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BroodjAHbyJ5eisR17AZ5rEvZFzACo4Pk4Yx4zm6AnQ1.png?size=lg&key=bcea1e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Eyes of Sui",
+  "symbol": "EyesofSui",
+  "decimals": 9,
+  "coin_type": "0xff9a32f1b3e5626c781406539fd7d75b11577c9cd4de3b392f64c2275ec9e83f::eyesofsui::EYESOFSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9e02de02-eb76-4f19-93eb-fc8ade640b26.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

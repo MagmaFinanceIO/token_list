@@ -1,0 +1,13 @@
+{
+  "name": "Donut",
+  "symbol": "DONUT",
+  "decimals": 9,
+  "coin_type": "0xa42f881899ec2d84ecd478049f16711caaa3e9b279ec2b4ea46025960e8009b0::donut::DONUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/G1WnDuLuEb3aMKejsowF5Q8YWHRxB1QL6r8v3qcBVfLL.png?size=lg&key=3e33b7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

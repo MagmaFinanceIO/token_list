@@ -1,0 +1,13 @@
+{
+  "name": "Water",
+  "symbol": "WATER",
+  "decimals": 6,
+  "coin_type": "0x3496cb63dbde68b6af70dcf0da164f77c459d2589ff7f00bb684b0761af27b07::water::WATER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1216_9ea84fc7b8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

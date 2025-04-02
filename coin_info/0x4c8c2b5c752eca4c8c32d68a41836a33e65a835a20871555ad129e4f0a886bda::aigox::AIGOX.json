@@ -1,0 +1,13 @@
+{
+  "name": "GOX AI",
+  "symbol": "AIGOX",
+  "decimals": 9,
+  "coin_type": "0x4c8c2b5c752eca4c8c32d68a41836a33e65a835a20871555ad129e4f0a886bda::aigox::AIGOX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/93TUMmb4aTNSzxPcNrtBg7XmPdASqNb2cPc66X5nerYU.png?size=lg&key=3db79c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

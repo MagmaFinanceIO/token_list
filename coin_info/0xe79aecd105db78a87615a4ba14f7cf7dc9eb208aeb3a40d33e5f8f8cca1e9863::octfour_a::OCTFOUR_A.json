@@ -1,0 +1,13 @@
+{
+  "name": "PUFFY",
+  "symbol": "OCTFOUR_A",
+  "decimals": 9,
+  "coin_type": "0xe79aecd105db78a87615a4ba14f7cf7dc9eb208aeb3a40d33e5f8f8cca1e9863::octfour_a::OCTFOUR_A",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

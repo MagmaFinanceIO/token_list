@@ -1,0 +1,13 @@
+{
+  "name": "TENDIE",
+  "symbol": "TENDIE",
+  "decimals": 9,
+  "coin_type": "0x51db240f14350f2522acdf4caa6fa25052862e17c8c9d1036113ae2d06abab94::tendie::TENDIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3rMTKLHAzzNpQmpXNFgmSG9gMBeugDLrDEPUyM7qpump.png?size=lg&key=1aeed0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

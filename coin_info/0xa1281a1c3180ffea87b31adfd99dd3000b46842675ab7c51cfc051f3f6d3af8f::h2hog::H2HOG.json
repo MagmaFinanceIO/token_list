@@ -1,0 +1,13 @@
+{
+  "name": "H2O HEDGEHOG",
+  "symbol": "H2HOG",
+  "decimals": 6,
+  "coin_type": "0xa1281a1c3180ffea87b31adfd99dd3000b46842675ab7c51cfc051f3f6d3af8f::h2hog::H2HOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/h2hog_logo_better_71a9fcc4ea.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

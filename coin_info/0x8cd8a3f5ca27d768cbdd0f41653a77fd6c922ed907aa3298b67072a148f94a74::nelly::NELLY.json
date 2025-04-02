@@ -1,0 +1,13 @@
+{
+  "name": "Discord's 404 Mascot",
+  "symbol": "NELLY",
+  "decimals": 6,
+  "coin_type": "0x8cd8a3f5ca27d768cbdd0f41653a77fd6c922ed907aa3298b67072a148f94a74::nelly::NELLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/nellypfp_7c698f7a8c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

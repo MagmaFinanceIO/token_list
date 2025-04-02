@@ -1,0 +1,13 @@
+{
+  "name": "MEMENTS",
+  "symbol": "MEMENTS",
+  "decimals": 9,
+  "coin_type": "0x1b1bdfa92ac6f2ba7e6f68198f6acc1707625e452aede9c9a0f48dc8fde234a8::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

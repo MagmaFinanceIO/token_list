@@ -1,0 +1,13 @@
+{
+  "name": "Trump AI",
+  "symbol": "TRUMPAI",
+  "decimals": 9,
+  "coin_type": "0xdbef492df4e231930249274b7443bab36909a85563de574651897d3e101ca703::trumpai::TRUMPAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GFh9Neu4jVkopT9UVTxzhpZJiaqpqcGCqNgbzeyAQuki.png?size=lg&key=bfaf70",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

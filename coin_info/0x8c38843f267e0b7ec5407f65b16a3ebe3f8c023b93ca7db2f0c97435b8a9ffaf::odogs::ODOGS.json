@@ -1,0 +1,13 @@
+{
+  "name": "One Piece Dogs",
+  "symbol": "ODOGS",
+  "decimals": 3,
+  "coin_type": "0x8c38843f267e0b7ec5407f65b16a3ebe3f8c023b93ca7db2f0c97435b8a9ffaf::odogs::ODOGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/77a53b79-4d44-47f0-96dc-d62b24943ea2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

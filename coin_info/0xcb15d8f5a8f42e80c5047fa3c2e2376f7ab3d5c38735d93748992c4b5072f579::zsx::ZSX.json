@@ -1,0 +1,13 @@
+{
+  "name": "ZSX",
+  "symbol": "ZSX",
+  "decimals": 9,
+  "coin_type": "0xcb15d8f5a8f42e80c5047fa3c2e2376f7ab3d5c38735d93748992c4b5072f579::zsx::ZSX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

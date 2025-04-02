@@ -1,0 +1,13 @@
+{
+  "name": "Moodeng Fart Dust",
+  "symbol": "MFD",
+  "decimals": 9,
+  "coin_type": "0x4d19cd4b1aee4067a9aad5eb7e45e54f5b1925e6cf9daf5687f51fcbf31e4566::mfd::MFD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9CAWc6woJH7A8NT98XYYQzxEXdBvqqr95uPQHnFgpump.png?size=lg&key=08b7d1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

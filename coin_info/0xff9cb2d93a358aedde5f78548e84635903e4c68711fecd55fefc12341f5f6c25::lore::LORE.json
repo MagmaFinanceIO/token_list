@@ -1,0 +1,13 @@
+{
+  "name": "AiLORE",
+  "symbol": "LORE",
+  "decimals": 6,
+  "coin_type": "0xff9cb2d93a358aedde5f78548e84635903e4c68711fecd55fefc12341f5f6c25::lore::LORE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1733413698411.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

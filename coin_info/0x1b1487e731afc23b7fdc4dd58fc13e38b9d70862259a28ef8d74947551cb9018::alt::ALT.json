@@ -1,0 +1,13 @@
+{
+  "name": "alt",
+  "symbol": "ALT",
+  "decimals": 9,
+  "coin_type": "0x1b1487e731afc23b7fdc4dd58fc13e38b9d70862259a28ef8d74947551cb9018::alt::ALT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/79dnMRXe6LoigHpATm1ixhHYCKs4NmKYgNRm4r6cV3GR.png?size=lg&key=de611b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

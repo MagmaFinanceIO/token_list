@@ -1,0 +1,13 @@
+{
+  "name": "Cre2x",
+  "symbol": "Cre2x",
+  "decimals": 9,
+  "coin_type": "0x86fa28069fc48cfa0eb1242d683aaa62af749a32ddece15f26a15b9c8c708ec5::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

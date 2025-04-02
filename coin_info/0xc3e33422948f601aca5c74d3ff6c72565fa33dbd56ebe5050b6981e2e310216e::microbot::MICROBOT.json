@@ -1,0 +1,13 @@
+{
+  "name": "🤖 Micro Pump Bot",
+  "symbol": "MicroBot",
+  "decimals": 9,
+  "coin_type": "0xc3e33422948f601aca5c74d3ff6c72565fa33dbd56ebe5050b6981e2e310216e::microbot::MICROBOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d59b5ca5-d8cd-4280-8225-818a4eb8dab9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

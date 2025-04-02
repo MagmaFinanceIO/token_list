@@ -1,0 +1,13 @@
+{
+  "name": "ELOM MARS AI",
+  "symbol": "ELOMAI",
+  "decimals": 9,
+  "coin_type": "0x31d9962097ebd4cefbe100797e3b1711b2265200aecafbb35af5adc592bdb2a5::elomai::ELOMAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4b95b466-47a3-428c-94ab-f8d16401784c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

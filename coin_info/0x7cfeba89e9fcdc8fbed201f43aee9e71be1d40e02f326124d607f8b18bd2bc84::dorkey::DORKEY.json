@@ -1,0 +1,13 @@
+{
+  "name": "Turkey Dog",
+  "symbol": "DORKEY",
+  "decimals": 6,
+  "coin_type": "0x7cfeba89e9fcdc8fbed201f43aee9e71be1d40e02f326124d607f8b18bd2bc84::dorkey::DORKEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ICON_db77632b53.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

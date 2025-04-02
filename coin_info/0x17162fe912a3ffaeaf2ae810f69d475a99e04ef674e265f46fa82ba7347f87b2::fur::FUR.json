@@ -1,0 +1,13 @@
+{
+  "name": "fur-nancial advisor",
+  "symbol": "fur",
+  "decimals": 9,
+  "coin_type": "0x17162fe912a3ffaeaf2ae810f69d475a99e04ef674e265f46fa82ba7347f87b2::fur::FUR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DQc6FTgu2HiB1PMUkHj8SATCtxsCeeMz5hiaqwk1pump.png?size=lg&key=b8f1a0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

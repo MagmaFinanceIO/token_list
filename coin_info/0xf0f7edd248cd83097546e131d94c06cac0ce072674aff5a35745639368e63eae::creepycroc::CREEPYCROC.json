@@ -1,0 +1,13 @@
+{
+  "name": "Creepy Croc SUI",
+  "symbol": "CREEPYCROC",
+  "decimals": 6,
+  "coin_type": "0xf0f7edd248cd83097546e131d94c06cac0ce072674aff5a35745639368e63eae::creepycroc::CREEPYCROC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Creepy_Croc_fdd876aa17.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

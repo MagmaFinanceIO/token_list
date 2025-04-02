@@ -1,0 +1,13 @@
+{
+  "name": "SUISTEM",
+  "symbol": "STEM",
+  "decimals": 6,
+  "coin_type": "0xb331d2ba4692ca70f96a345b746b7d10085453c0520cdb47b32cc1cc1d1716a4::stem::STEM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/static_stem_158e3d916a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

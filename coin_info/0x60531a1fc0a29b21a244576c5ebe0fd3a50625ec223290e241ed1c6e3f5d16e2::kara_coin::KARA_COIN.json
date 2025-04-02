@@ -1,0 +1,13 @@
+{
+  "name": "Karacoin",
+  "symbol": "KRSW",
+  "decimals": 8,
+  "coin_type": "0x60531a1fc0a29b21a244576c5ebe0fd3a50625ec223290e241ed1c6e3f5d16e2::kara_coin::KARA_COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://krsw-wiki.in/images/3/37/KoshinismMark.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

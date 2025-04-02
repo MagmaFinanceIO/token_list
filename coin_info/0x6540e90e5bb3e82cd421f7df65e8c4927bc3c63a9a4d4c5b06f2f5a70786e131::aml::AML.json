@@ -1,0 +1,13 @@
+{
+  "name": "ANIMAL",
+  "symbol": "AML",
+  "decimals": 9,
+  "coin_type": "0x6540e90e5bb3e82cd421f7df65e8c4927bc3c63a9a4d4c5b06f2f5a70786e131::aml::AML",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/77d72b9f-396e-4024-980d-85913f6909b7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

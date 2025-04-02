@@ -1,0 +1,13 @@
+{
+  "name": "SIMPSONCAT",
+  "symbol": "SIMPSON",
+  "decimals": 9,
+  "coin_type": "0x8da9760fb5eaf9e894f7048bc74a14351931c5fa27f8f137deea6c00b4c92e24::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

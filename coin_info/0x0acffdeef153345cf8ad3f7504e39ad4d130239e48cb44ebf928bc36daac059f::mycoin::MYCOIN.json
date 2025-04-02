@@ -1,0 +1,13 @@
+{
+  "name": "AIBEETHOVEN",
+  "symbol": "AIBEETHOVEN",
+  "decimals": 9,
+  "coin_type": "0x0acffdeef153345cf8ad3f7504e39ad4d130239e48cb44ebf928bc36daac059f::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

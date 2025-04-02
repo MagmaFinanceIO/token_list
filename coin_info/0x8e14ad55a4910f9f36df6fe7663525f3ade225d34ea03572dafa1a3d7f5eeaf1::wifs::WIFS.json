@@ -1,0 +1,13 @@
+{
+  "name": "Dogwifsphere",
+  "symbol": "WIFS",
+  "decimals": 9,
+  "coin_type": "0x8e14ad55a4910f9f36df6fe7663525f3ade225d34ea03572dafa1a3d7f5eeaf1::wifs::WIFS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/QU4ZrJNsdwV9W5EkZVQ8othCUyvd1xER6tTWrHDpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

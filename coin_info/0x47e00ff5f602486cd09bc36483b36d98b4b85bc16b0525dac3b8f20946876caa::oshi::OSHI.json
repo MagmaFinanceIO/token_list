@@ -1,0 +1,13 @@
+{
+  "name": "Oshi",
+  "symbol": "Oshi",
+  "decimals": 9,
+  "coin_type": "0x47e00ff5f602486cd09bc36483b36d98b4b85bc16b0525dac3b8f20946876caa::oshi::OSHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SMORMU  SHRIMP",
+  "symbol": "SMORMU",
+  "decimals": 6,
+  "coin_type": "0x59168e3225da30515476d29d35ed4857dac2b62f57ff4a93e152c995811a8ebc::smormu::SMORMU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_1_6f13daa48e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

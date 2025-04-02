@@ -1,0 +1,13 @@
+{
+  "name": "Zeh Test",
+  "symbol": "ZEHTEST",
+  "decimals": 9,
+  "coin_type": "0x9c8e9baeb30d5d882a064e7b24de488bac73210e2eede0657a1162fe0bec733f::zehtest::ZEHTEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b2672be9-03bd-48b9-b54a-7ddcd1fbb874.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

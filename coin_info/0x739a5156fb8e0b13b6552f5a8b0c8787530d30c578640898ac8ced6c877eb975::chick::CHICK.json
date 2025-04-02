@@ -1,0 +1,13 @@
+{
+  "name": "Sui Chick",
+  "symbol": "CHICK",
+  "decimals": 6,
+  "coin_type": "0x739a5156fb8e0b13b6552f5a8b0c8787530d30c578640898ac8ced6c877eb975::chick::CHICK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/chicklogo_54cb6e7252.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

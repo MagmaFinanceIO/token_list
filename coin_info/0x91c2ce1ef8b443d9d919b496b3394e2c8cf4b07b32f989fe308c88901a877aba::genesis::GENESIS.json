@@ -1,0 +1,13 @@
+{
+  "name": "Bitcoin Genesis",
+  "symbol": "GENESIS",
+  "decimals": 9,
+  "coin_type": "0x91c2ce1ef8b443d9d919b496b3394e2c8cf4b07b32f989fe308c88901a877aba::genesis::GENESIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmXzeMiEqYRLX8FAXuZLRSni4B6pfnBz7MUwtCbFzDZmve",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

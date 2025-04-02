@@ -1,0 +1,13 @@
+{
+  "name": "BISCUIT",
+  "symbol": "BISCUIT",
+  "decimals": 9,
+  "coin_type": "0x323c81de1a3534f343c5b75b986fc039614746137df29f032e0d8041af1c9640::biscuit::BISCUIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/167c1ec4-260d-4449-a6b8-366ebc959ae6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "deepseek16z",
+  "symbol": "seek16z",
+  "decimals": 9,
+  "coin_type": "0x04f84c41e7e2e458710ad1b02265b3d436fdfdb653b64fde9580c013a0423672::seek16z::SEEK16Z",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GkyZ3xtwoA35nTXE1t26uKGL6jjiC6zM9pGjvdtpump.png?size=lg&key=89e913",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

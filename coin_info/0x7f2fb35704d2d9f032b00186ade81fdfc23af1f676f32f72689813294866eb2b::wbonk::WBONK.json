@@ -1,0 +1,13 @@
+{
+  "name": "Wrapped BONK",
+  "symbol": "WBONK",
+  "decimals": 9,
+  "coin_type": "0x7f2fb35704d2d9f032b00186ade81fdfc23af1f676f32f72689813294866eb2b::wbonk::WBONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5rHLnhjxSegFveNYD7gaSVdGpKJza34CBDmhw6b3mCAD.png?size=lg&key=a2c23f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

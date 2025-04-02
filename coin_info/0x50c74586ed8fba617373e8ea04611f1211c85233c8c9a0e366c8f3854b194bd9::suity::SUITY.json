@@ -1,0 +1,13 @@
+{
+  "name": "SUITY!",
+  "symbol": "SUITY",
+  "decimals": 6,
+  "coin_type": "0x50c74586ed8fba617373e8ea04611f1211c85233c8c9a0e366c8f3854b194bd9::suity::SUITY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2024_10_13_18_44_24_27ddb4dcbc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

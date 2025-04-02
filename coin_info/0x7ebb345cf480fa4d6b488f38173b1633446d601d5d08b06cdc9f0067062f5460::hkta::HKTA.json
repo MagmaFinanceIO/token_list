@@ -1,0 +1,13 @@
+{
+  "name": "Hawk Tuah",
+  "symbol": "HKTA",
+  "decimals": 9,
+  "coin_type": "0x7ebb345cf480fa4d6b488f38173b1633446d601d5d08b06cdc9f0067062f5460::hkta::HKTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3da1eb9a-f796-424b-b36c-f958997dc899.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

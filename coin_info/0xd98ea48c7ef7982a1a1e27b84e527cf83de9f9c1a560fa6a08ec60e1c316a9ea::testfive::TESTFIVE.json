@@ -1,0 +1,13 @@
+{
+  "name": "Test5",
+  "symbol": "Testfive",
+  "decimals": 9,
+  "coin_type": "0xd98ea48c7ef7982a1a1e27b84e527cf83de9f9c1a560fa6a08ec60e1c316a9ea::testfive::TESTFIVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1e18b052-cfba-4165-b1f7-f7da4a77e8a3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

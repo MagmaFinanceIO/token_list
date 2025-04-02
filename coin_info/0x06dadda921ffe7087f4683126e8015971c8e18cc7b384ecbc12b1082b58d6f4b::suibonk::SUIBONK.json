@@ -1,0 +1,13 @@
+{
+  "name": "Sui BONK!",
+  "symbol": "SUIBONK",
+  "decimals": 6,
+  "coin_type": "0x06dadda921ffe7087f4683126e8015971c8e18cc7b384ecbc12b1082b58d6f4b::suibonk::SUIBONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/GZ_Si_C_Wxb_YA_Ar_U34_cb8e147d87.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

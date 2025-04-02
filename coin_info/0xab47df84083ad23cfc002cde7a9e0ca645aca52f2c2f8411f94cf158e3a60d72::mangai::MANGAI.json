@@ -1,0 +1,13 @@
+{
+  "name": "MangAI",
+  "symbol": "MangAI",
+  "decimals": 9,
+  "coin_type": "0xab47df84083ad23cfc002cde7a9e0ca645aca52f2c2f8411f94cf158e3a60d72::mangai::MANGAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A564Thh3w3a9P7JC6kDxv956seYDogHKuXQw2Ei1Bgkj.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

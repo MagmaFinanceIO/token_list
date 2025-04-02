@@ -1,0 +1,13 @@
+{
+  "name": "iujn",
+  "symbol": "ionon",
+  "decimals": 6,
+  "coin_type": "0xc26777dbfb27d0da23ac583b871a5330d9560c982c2fe6780b093cc16f5dc6dc::ionon::IONON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

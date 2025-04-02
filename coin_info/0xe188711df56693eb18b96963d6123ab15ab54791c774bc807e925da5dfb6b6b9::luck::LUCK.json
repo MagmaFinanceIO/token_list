@@ -1,0 +1,13 @@
+{
+  "name": "LUCK",
+  "symbol": "LUCK",
+  "decimals": 9,
+  "coin_type": "0xe188711df56693eb18b96963d6123ab15ab54791c774bc807e925da5dfb6b6b9::luck::LUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.textstudio.com/output/graphic/preview/large/7/9/0/7/7097_654b9268.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

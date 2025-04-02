@@ -1,0 +1,13 @@
+{
+  "name": "harris",
+  "symbol": "HARRIS",
+  "decimals": 6,
+  "coin_type": "0x4b3182d712d02cbd27f643e1a6ded4f57ce6f158f875263751d7f7faab2d8e06::harris::HARRIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000365_2f094b6ba2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

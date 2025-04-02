@@ -1,0 +1,13 @@
+{
+  "name": "MATRIXSUI",
+  "symbol": "MATRIXSUI",
+  "decimals": 9,
+  "coin_type": "0xb19bee8d3fa6432d5583622a02f3bfd3809e2c3acd6c100f5b28ea831bc5b76e::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

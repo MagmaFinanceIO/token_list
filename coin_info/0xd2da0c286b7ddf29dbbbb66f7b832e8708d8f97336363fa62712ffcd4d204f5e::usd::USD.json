@@ -1,0 +1,13 @@
+{
+  "name": "USD (wormhole) stables",
+  "symbol": "USD",
+  "decimals": 8,
+  "coin_type": "0xd2da0c286b7ddf29dbbbb66f7b832e8708d8f97336363fa62712ffcd4d204f5e::usd::USD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7409c90d-296a-46de-b1c2-97d9d9c4ab9c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

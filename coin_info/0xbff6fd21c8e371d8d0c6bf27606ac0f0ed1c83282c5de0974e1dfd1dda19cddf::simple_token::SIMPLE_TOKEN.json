@@ -1,0 +1,13 @@
+{
+  "name": "MONEYSUI",
+  "symbol": "MONEYSUI",
+  "decimals": 9,
+  "coin_type": "0xbff6fd21c8e371d8d0c6bf27606ac0f0ed1c83282c5de0974e1dfd1dda19cddf::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

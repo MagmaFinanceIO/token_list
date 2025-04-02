@@ -1,0 +1,13 @@
+{
+  "name": "NEW YEAR GUY",
+  "symbol": "Unicorn",
+  "decimals": 9,
+  "coin_type": "0x9f72c28ce825cd4fbdeb6a51abb164bd10ba2f0c48770adef322774f0db697f2::unicorn::UNICORN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/_SSVU_2tezllvmFr?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

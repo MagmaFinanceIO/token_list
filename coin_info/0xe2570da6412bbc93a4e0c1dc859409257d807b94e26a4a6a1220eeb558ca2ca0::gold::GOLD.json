@@ -1,0 +1,13 @@
+{
+  "name": "Digital Gold",
+  "symbol": "Gold",
+  "decimals": 9,
+  "coin_type": "0xe2570da6412bbc93a4e0c1dc859409257d807b94e26a4a6a1220eeb558ca2ca0::gold::GOLD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2avQUkvRYbroFR8HMowqsLLosS2xrqKj9HMcikTLpump.png?size=lg&key=ed36b8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

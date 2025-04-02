@@ -1,0 +1,13 @@
+{
+  "name": "Syn on Sui",
+  "symbol": "SYNSUI",
+  "decimals": 9,
+  "coin_type": "0x402b5e3b41f0dea3e88a532f72aced19a36ebc8c7fe972d3f2be841314b61ef5::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

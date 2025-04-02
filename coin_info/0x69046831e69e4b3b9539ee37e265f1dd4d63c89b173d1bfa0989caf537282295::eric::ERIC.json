@@ -1,0 +1,13 @@
+{
+  "name": "Eric Coin",
+  "symbol": "ERIC",
+  "decimals": 9,
+  "coin_type": "0x69046831e69e4b3b9539ee37e265f1dd4d63c89b173d1bfa0989caf537282295::eric::ERIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6GdpzCAsvZG4EW3fWNPckP9dfPtKq7pPRDMvyDDkpNU2.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

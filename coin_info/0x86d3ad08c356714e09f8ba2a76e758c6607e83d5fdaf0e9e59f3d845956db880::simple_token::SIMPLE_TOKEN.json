@@ -1,0 +1,13 @@
+{
+  "name": "DESIRAI",
+  "symbol": "DESIRAI",
+  "decimals": 9,
+  "coin_type": "0x86d3ad08c356714e09f8ba2a76e758c6607e83d5fdaf0e9e59f3d845956db880::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

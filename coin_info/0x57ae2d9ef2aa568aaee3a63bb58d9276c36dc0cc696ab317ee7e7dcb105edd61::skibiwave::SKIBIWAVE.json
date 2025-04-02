@@ -1,0 +1,13 @@
+{
+  "name": "SKIBIDI Wave",
+  "symbol": "SKIBIWAVE",
+  "decimals": 9,
+  "coin_type": "0x57ae2d9ef2aa568aaee3a63bb58d9276c36dc0cc696ab317ee7e7dcb105edd61::skibiwave::SKIBIWAVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://file-walletapp.waveonsui.com/images/wave-pumps/d254353e-9a68-45bc-ab72-218e1eb2c3fe.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI POGO",
+  "symbol": "POGO",
+  "decimals": 9,
+  "coin_type": "0x1345713901574bf6edfde1b44481a70849ff5543eb83f46ac4e0cd3c269b6615::pogo::POGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Baby Blub",
+  "symbol": "BBlub",
+  "decimals": 6,
+  "coin_type": "0x46d9c3264ce1516ccad7f20711c6aad3fb83c5556492fa6f10a405ad8d3d20bc::bblub::BBLUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/gif_2b5b3d0b8a.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

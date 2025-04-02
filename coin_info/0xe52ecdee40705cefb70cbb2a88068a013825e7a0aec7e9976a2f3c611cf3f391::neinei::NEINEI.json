@@ -1,0 +1,13 @@
+{
+  "name": "neinei",
+  "symbol": "NeiNei",
+  "decimals": 6,
+  "coin_type": "0xe52ecdee40705cefb70cbb2a88068a013825e7a0aec7e9976a2f3c611cf3f391::neinei::NEINEI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731158316350.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

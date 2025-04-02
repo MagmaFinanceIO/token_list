@@ -1,0 +1,13 @@
+{
+  "name": "THE DOGESON",
+  "symbol": "DOGESON",
+  "decimals": 9,
+  "coin_type": "0xcaa416aef8b9cb5b438e27c9eed798acb3b9a8bc37bb649de69c71f4741286f0::dogeson::DOGESON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/J3jKMbbvRhd1etaoNGHQ4FFDj69qD2q6hPf6iDJpPj7F.png?size=lg&key=d03992",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

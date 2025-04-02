@@ -1,0 +1,13 @@
+{
+  "name": "Lou",
+  "symbol": "LOU",
+  "decimals": 9,
+  "coin_type": "0x78e698132f26727c74676af7496245e840b958fe6078675baae888e2052e129c::lou::LOU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5DQSDg6SGkbsbykq4mQstpcL4d5raEHc6rY7LgBwpump.png?size=lg&key=265604",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

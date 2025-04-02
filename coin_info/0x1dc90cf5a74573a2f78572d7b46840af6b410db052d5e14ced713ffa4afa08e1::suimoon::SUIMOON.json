@@ -1,0 +1,13 @@
+{
+  "name": "SUIMOON",
+  "symbol": "SMOON",
+  "decimals": 9,
+  "coin_type": "0x1dc90cf5a74573a2f78572d7b46840af6b410db052d5e14ced713ffa4afa08e1::suimoon::SUIMOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.postimg.cc/yd59D6Zx/suimoon-Asset-2-300x.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

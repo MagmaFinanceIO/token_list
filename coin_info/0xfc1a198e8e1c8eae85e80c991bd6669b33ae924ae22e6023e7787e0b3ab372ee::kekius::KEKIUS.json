@@ -1,0 +1,13 @@
+{
+  "name": "KEKIUS",
+  "symbol": "KEKIUS",
+  "decimals": 6,
+  "coin_type": "0xfc1a198e8e1c8eae85e80c991bd6669b33ae924ae22e6023e7787e0b3ab372ee::kekius::KEKIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.okx.com/cdn/web3/currency/token/1-0x26e550ac11b26f78a04489d5f20f24e3559f7dd9-97.png/type=default_350_0?v=1735475191833&x-oss-process=image/format,webp/ignore-error,1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

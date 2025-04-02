@@ -1,0 +1,13 @@
+{
+  "name": "Dogbit",
+  "symbol": "DOGBIT",
+  "decimals": 6,
+  "coin_type": "0x497f1f8c917d7a96a378ab1e38e566ffdb83726d3d64bd6bd01fae0b28ba3eac::dogbit::DOGBIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/231_0e242fede6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

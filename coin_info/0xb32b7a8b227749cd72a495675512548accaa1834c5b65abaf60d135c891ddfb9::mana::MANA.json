@@ -1,0 +1,13 @@
+{
+  "name": "MANA",
+  "symbol": "MANA",
+  "decimals": 9,
+  "coin_type": "0xb32b7a8b227749cd72a495675512548accaa1834c5b65abaf60d135c891ddfb9::mana::MANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/cGfIa0iHEOi_AWjFgONf3pab0Qi1jcy1p4iz9cn0PYM",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

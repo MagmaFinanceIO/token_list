@@ -1,0 +1,13 @@
+{
+  "name": "SUITAMA MOVEPUMP",
+  "symbol": "SUITAMA",
+  "decimals": 6,
+  "coin_type": "0x6597d39fc606c8f8ba3075564227c442ff1827594cd2f9f50c0c3e0111579cb1::suitama::SUITAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/A56_A077_F_A81_F_4_A31_A8_D6_71_A234_DDD_420_dec21cd9d4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL TRUMP JR",
+  "symbol": "TRUMPJR",
+  "decimals": 9,
+  "coin_type": "0x0759252f42cf7ad82bf5841915804744e329993f276216784931d24dd07ff6f6::trumpjr::TRUMPJR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EK3WLA2JjmCwg6WfVD6ptEaq3JRsNsBrNuTnU3dupump.png?size=lg&key=a6c1f8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

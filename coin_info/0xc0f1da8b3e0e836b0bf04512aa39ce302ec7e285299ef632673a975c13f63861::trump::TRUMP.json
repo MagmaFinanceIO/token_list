@@ -1,0 +1,13 @@
+{
+  "name": "MAGA",
+  "symbol": "TRUMP",
+  "decimals": 9,
+  "coin_type": "0xc0f1da8b3e0e836b0bf04512aa39ce302ec7e285299ef632673a975c13f63861::trump::TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x576e2bed8f7b46d34016198911cdf9886f78bea7.png?size=lg&key=d47759",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

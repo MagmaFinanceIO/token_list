@@ -1,0 +1,13 @@
+{
+  "name": "Star Boy Ponkeee",
+  "symbol": "PONKEEE",
+  "decimals": 9,
+  "coin_type": "0x34fe232995d6739f229fff57be1e38f36cb2dddef7132ab57d4909ccc6c6c85d::ponkeee::PONKEEE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/65c9807e-5b1e-435a-a3c6-63b272fa35ff.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

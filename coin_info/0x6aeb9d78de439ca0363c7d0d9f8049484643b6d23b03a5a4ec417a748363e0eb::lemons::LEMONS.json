@@ -1,0 +1,13 @@
+{
+  "name": "Lemons",
+  "symbol": "LEMONS",
+  "decimals": 9,
+  "coin_type": "0x6aeb9d78de439ca0363c7d0d9f8049484643b6d23b03a5a4ec417a748363e0eb::lemons::LEMONS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/85747317-a114-4aa3-80a8-e3324045fc9e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

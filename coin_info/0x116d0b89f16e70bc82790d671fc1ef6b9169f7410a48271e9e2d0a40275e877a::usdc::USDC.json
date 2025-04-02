@@ -1,0 +1,13 @@
+{
+  "name": "UNITED SUI DEGEN COIN",
+  "symbol": "USDC",
+  "decimals": 6,
+  "coin_type": "0x116d0b89f16e70bc82790d671fc1ef6b9169f7410a48271e9e2d0a40275e877a::usdc::USDC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Leonardo_Phoenix_A_stylized_USDC_logo_sits_prominently_on_a_br_0_b746f74a6e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

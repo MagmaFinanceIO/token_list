@@ -1,0 +1,13 @@
+{
+  "name": "Act on Sui",
+  "symbol": "ACT",
+  "decimals": 9,
+  "coin_type": "0x277cdaaec7f7fb8bf868ae0dc3a7f625ec884e43703d32f5a41adf9f74cf0e34::act::ACT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/34e74781-7bfc-4fe2-bff7-c9d9a1fa364c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

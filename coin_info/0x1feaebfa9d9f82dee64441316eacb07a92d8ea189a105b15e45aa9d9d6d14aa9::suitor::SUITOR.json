@@ -1,0 +1,13 @@
+{
+  "name": "SUITOR",
+  "symbol": "SUITOR",
+  "decimals": 6,
+  "coin_type": "0x1feaebfa9d9f82dee64441316eacb07a92d8ea189a105b15e45aa9d9d6d14aa9::suitor::SUITOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmVF94XX4638p9on4vVtdgGVUd5SvZ86accADaca4e42m4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

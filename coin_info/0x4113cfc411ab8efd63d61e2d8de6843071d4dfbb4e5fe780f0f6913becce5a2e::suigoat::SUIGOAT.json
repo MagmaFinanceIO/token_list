@@ -1,0 +1,13 @@
+{
+  "name": "SuiGoat",
+  "symbol": "SuiGoat",
+  "decimals": 9,
+  "coin_type": "0x4113cfc411ab8efd63d61e2d8de6843071d4dfbb4e5fe780f0f6913becce5a2e::suigoat::SUIGOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b716d1bc-5726-4af7-977a-26cf7b55c632.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

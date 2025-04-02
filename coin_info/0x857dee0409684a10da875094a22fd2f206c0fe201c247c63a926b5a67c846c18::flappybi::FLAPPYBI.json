@@ -1,0 +1,13 @@
+{
+  "name": "The Official Flappy Bird",
+  "symbol": "FLAPPYBI",
+  "decimals": 9,
+  "coin_type": "0x857dee0409684a10da875094a22fd2f206c0fe201c247c63a926b5a67c846c18::flappybi::FLAPPYBI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "r8P6zp5cXeQWCVAn",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

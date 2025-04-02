@@ -1,0 +1,13 @@
+{
+  "name": "bird",
+  "symbol": "BIRD",
+  "decimals": 6,
+  "coin_type": "0x8a414410c809b5d600c65453b80ef3b355e673289fb0acc27344e9a8e8ce01bf::bird::BIRD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000369_d4990f3f0a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

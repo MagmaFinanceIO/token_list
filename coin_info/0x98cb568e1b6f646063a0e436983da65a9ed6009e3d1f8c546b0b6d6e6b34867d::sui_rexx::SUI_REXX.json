@@ -1,0 +1,13 @@
+{
+  "name": "Sui_Rexx",
+  "symbol": "Sui_Rexx",
+  "decimals": 9,
+  "coin_type": "0x98cb568e1b6f646063a0e436983da65a9ed6009e3d1f8c546b0b6d6e6b34867d::sui_rexx::SUI_REXX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9a2a5479-a70a-4399-82ff-71bad4933d05.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

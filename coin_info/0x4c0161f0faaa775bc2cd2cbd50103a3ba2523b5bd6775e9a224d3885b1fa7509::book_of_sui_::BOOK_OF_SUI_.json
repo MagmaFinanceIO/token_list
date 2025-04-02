@@ -1,0 +1,13 @@
+{
+  "name": "BOS",
+  "symbol": "Book Of Sui",
+  "decimals": 9,
+  "coin_type": "0x4c0161f0faaa775bc2cd2cbd50103a3ba2523b5bd6775e9a224d3885b1fa7509::book_of_sui_::BOOK_OF_SUI_",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0X3_-CICzLvu9szHIFjHRB7nNSb42KBQWtA&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

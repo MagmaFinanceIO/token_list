@@ -1,0 +1,13 @@
+{
+  "name": "goldstein",
+  "symbol": "goldstein",
+  "decimals": 9,
+  "coin_type": "0x6f5eb0424e46d109828a66e802fe6f8ec67bf654d6abde74d9484b14158495e8::goldstein::GOLDSTEIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

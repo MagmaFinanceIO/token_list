@@ -1,0 +1,13 @@
+{
+  "name": "SUN",
+  "symbol": "sUN",
+  "decimals": 9,
+  "coin_type": "0xe95cf7b0a67987b6a67bf297f57984814ba9638853e6505089b10c5e016b691e::sun::SUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://p.turbosquid.com/ts-thumb/Wh/OBZwPJ/97/blue_sun008/png/1635638574/600x600/fit_q87/9a0472c3de57ad276cb9a1e875089c9f9ed23a9e/blue_sun008.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

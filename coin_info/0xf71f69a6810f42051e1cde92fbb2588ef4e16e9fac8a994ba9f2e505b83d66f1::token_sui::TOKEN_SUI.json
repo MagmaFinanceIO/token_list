@@ -1,0 +1,13 @@
+{
+  "name": "Satyr big stepper",
+  "symbol": "Satyr",
+  "decimals": 9,
+  "coin_type": "0xf71f69a6810f42051e1cde92fbb2588ef4e16e9fac8a994ba9f2e505b83d66f1::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/946/938/large/nick-bray-satyr.jpg?1728989281",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

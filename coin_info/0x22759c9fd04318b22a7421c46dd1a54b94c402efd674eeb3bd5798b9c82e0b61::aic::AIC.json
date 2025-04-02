@@ -1,0 +1,13 @@
+{
+  "name": "AI Coin",
+  "symbol": "AIC",
+  "decimals": 6,
+  "coin_type": "0x22759c9fd04318b22a7421c46dd1a54b94c402efd674eeb3bd5798b9c82e0b61::aic::AIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/aicoin_0e02a1dcab.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

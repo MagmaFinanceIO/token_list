@@ -1,0 +1,13 @@
+{
+  "name": "Gorillaz Sui",
+  "symbol": "GORILLAZ",
+  "decimals": 9,
+  "coin_type": "0xb35601b16ce69b0bf655765c1e7a66bda635fbb962e9fc514e4a32a30c1a5495::gorillaz::GORILLAZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e8b6c8fa-0bbe-4ba2-ac30-2e5bc1fd8d42.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

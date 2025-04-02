@@ -1,0 +1,13 @@
+{
+  "name": "Pinky the Pineapple",
+  "symbol": "PINKY",
+  "decimals": 9,
+  "coin_type": "0xd6fe0288800441b4d25b7bb377749d27dc115cb8c985a99b49cc3769cbbcd29b::pinky::PINKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BkvnWerVaa6NYvPAdeX5kBsGhCRjDnUUutAa5KbUvJwJ.png?size=xl&key=664e3b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Seal AI",
+  "symbol": "SEALAI",
+  "decimals": 9,
+  "coin_type": "0x5d29e1b927953648d418d406e9a0fb5b793d08216c1c88b2b915c001009c65e6::sealai::SEALAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a63a8d7a-e829-4ad4-a1c7-e1cf79c6cf6e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

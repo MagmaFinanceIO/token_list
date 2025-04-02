@@ -1,0 +1,13 @@
+{
+  "name": "Meme of the Year",
+  "symbol": "MOTY",
+  "decimals": 9,
+  "coin_type": "0x108be36f21b63a11557fbbc19d4ca4ceb76ec820117680fe45017d741505ac14::moty::MOTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4VE9rjqBVd9kMH2ZurEcowGdSAzG9xsSDgvSrbv6pump.png?size=lg&key=1cc425",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

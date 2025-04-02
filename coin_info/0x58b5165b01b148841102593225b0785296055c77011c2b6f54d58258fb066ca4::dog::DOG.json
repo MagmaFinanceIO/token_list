@@ -1,0 +1,13 @@
+{
+  "name": "IAmTheDog",
+  "symbol": "DOG",
+  "decimals": 9,
+  "coin_type": "0x58b5165b01b148841102593225b0785296055c77011c2b6f54d58258fb066ca4::dog::DOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

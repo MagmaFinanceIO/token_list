@@ -1,0 +1,13 @@
+{
+  "name": "HOP DICK",
+  "symbol": "HOPDICK",
+  "decimals": 6,
+  "coin_type": "0xbc0804c089e16d70e57b6242d82d22a3412255d484d7a113278f7137ede53ab1::hopdick::HOPDICK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Suick_1_9f1f966ee6.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

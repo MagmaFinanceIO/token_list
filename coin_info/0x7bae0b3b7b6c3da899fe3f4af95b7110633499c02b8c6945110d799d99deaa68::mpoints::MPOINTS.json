@@ -1,0 +1,13 @@
+{
+  "name": "mPOINTS",
+  "symbol": "mPOINTS",
+  "decimals": 0,
+  "coin_type": "0x7bae0b3b7b6c3da899fe3f4af95b7110633499c02b8c6945110d799d99deaa68::mpoints::MPOINTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://mstable.io/coins/mpoints.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

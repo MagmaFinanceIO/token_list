@@ -1,0 +1,13 @@
+{
+  "name": "Suiruto",
+  "symbol": "SUIRU",
+  "decimals": 9,
+  "coin_type": "0xc9f6db7c95a9bf50eee67910f106b527911fb458ff80f70a12120e11a4edba40::suiru::SUIRU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/01761f7a-ab42-437d-ac08-0ee5c3da34f9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

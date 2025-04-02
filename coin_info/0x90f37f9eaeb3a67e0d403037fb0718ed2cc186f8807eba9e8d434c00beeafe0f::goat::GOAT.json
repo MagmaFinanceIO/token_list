@@ -1,0 +1,13 @@
+{
+  "name": "Aqua Goat",
+  "symbol": "GOAT",
+  "decimals": 9,
+  "coin_type": "0x90f37f9eaeb3a67e0d403037fb0718ed2cc186f8807eba9e8d434c00beeafe0f::goat::GOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://aquamarine-giant-muskox-172.mypinata.cloud/ipfs/QmayUm8qJgbLu6R48K2H5QJrikN52pYegPg1LENY3TrX8Q",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

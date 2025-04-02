@@ -1,0 +1,13 @@
+{
+  "name": "President PUMP",
+  "symbol": "PUMP",
+  "decimals": 6,
+  "coin_type": "0x0481d087d17de4edab36fe1b3be0f36dbf54f10753a6bac80632e736ca763d42::pump::PUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/NEW_BUY_1_9e78ed6a52.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

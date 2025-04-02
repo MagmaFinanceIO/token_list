@@ -1,0 +1,13 @@
+{
+  "name": "TRUST",
+  "symbol": "UST",
+  "decimals": 9,
+  "coin_type": "0x78934ac59f8122866ee016cb38645dc591359dcb09175985110c4f0ad9bec315::ust::UST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://file-walletapp.waveonsui.com/images/wave-pumps/f5891dae-b4e9-406f-8226-9285ed350ef3.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

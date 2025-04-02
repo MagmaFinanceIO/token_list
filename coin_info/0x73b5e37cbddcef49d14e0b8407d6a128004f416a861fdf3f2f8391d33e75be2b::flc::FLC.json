@@ -1,0 +1,13 @@
+{
+  "name": "FlorLovecoin",
+  "symbol": "FLC",
+  "decimals": 9,
+  "coin_type": "0x73b5e37cbddcef49d14e0b8407d6a128004f416a861fdf3f2f8391d33e75be2b::flc::FLC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b9e39553-9216-41a4-ba2b-1c9db5e39317.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

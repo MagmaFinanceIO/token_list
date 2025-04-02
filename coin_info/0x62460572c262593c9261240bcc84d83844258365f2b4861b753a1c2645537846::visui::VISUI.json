@@ -1,0 +1,13 @@
+{
+  "name": "Vitamin Sui",
+  "symbol": "VISUI",
+  "decimals": 9,
+  "coin_type": "0x62460572c262593c9261240bcc84d83844258365f2b4861b753a1c2645537846::visui::VISUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b65f60f2-2413-4d05-8ff7-664b03bc87b5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

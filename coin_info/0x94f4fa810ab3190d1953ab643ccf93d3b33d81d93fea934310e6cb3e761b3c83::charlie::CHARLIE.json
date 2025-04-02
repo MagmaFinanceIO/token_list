@@ -1,0 +1,13 @@
+{
+  "name": "Surfing Dog",
+  "symbol": "CHARLIE",
+  "decimals": 6,
+  "coin_type": "0x94f4fa810ab3190d1953ab643ccf93d3b33d81d93fea934310e6cb3e761b3c83::charlie::CHARLIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/giphy_6e28596167.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

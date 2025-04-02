@@ -1,0 +1,13 @@
+{
+  "name": "CRY GUY",
+  "symbol": "CRYGUY",
+  "decimals": 9,
+  "coin_type": "0xc65ccb2f7112605d33a5911983947b0e62c90168a51b6f63426fbfe29119138f::cryguy::CRYGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9e2e1267-d618-4334-bfe6-f3e55a11465d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

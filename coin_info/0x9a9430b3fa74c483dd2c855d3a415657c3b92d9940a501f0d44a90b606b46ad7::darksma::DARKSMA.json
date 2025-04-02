@@ -1,0 +1,13 @@
+{
+  "name": "Dark SMA",
+  "symbol": "DarkSMA",
+  "decimals": 9,
+  "coin_type": "0x9a9430b3fa74c483dd2c855d3a415657c3b92d9940a501f0d44a90b606b46ad7::darksma::DARKSMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmV7sTGkx5DJAvuabJWczaTFqbZzvxhRvXhKJrLcCiHUw9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

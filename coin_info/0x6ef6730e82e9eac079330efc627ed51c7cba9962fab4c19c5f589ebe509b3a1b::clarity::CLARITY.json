@@ -1,0 +1,13 @@
+{
+  "name": "Post Nut Clarity",
+  "symbol": "Clarity",
+  "decimals": 6,
+  "coin_type": "0x6ef6730e82e9eac079330efc627ed51c7cba9962fab4c19c5f589ebe509b3a1b::clarity::CLARITY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/5_F43_AC_96_02_BC_46_CB_9_AEC_73_A43620_CD_8_D_08d3e1f2f6.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

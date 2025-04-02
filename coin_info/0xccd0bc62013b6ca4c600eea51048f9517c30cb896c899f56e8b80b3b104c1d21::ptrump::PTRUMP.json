@@ -1,0 +1,13 @@
+{
+  "name": "PEPETRUMP",
+  "symbol": "PTRUMP",
+  "decimals": 9,
+  "coin_type": "0xccd0bc62013b6ca4c600eea51048f9517c30cb896c899f56e8b80b3b104c1d21::ptrump::PTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c5f08e08-bd5b-4205-8f3b-30df470cfdf4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

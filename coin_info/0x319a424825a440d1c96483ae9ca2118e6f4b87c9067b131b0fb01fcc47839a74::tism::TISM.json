@@ -1,0 +1,13 @@
+{
+  "name": "SUI TISM",
+  "symbol": "TISM",
+  "decimals": 6,
+  "coin_type": "0x319a424825a440d1c96483ae9ca2118e6f4b87c9067b131b0fb01fcc47839a74::tism::TISM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/tism_866b58cba1.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

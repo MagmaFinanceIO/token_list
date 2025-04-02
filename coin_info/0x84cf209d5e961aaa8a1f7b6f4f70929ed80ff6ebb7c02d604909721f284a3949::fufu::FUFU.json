@@ -1,0 +1,13 @@
+{
+  "name": "Fufunut",
+  "symbol": "FUFU",
+  "decimals": 6,
+  "coin_type": "0x84cf209d5e961aaa8a1f7b6f4f70929ed80ff6ebb7c02d604909721f284a3949::fufu::FUFU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/fufu_7eec94d4c6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

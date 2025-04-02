@@ -1,0 +1,13 @@
+{
+  "name": "AI QUANT",
+  "symbol": "LAMBROS",
+  "decimals": 9,
+  "coin_type": "0xd54bfef4ca4ef35afe54adaed401f5f2a432fa3615722d1bc3b21150ab6e30b5::lambros::LAMBROS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9BxD4z8kZRXKwQcKvJrbvGGN1nX1AZFRQfYQWt9npump.png?size=lg&key=b3011b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

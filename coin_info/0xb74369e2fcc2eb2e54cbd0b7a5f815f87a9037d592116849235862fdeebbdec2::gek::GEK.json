@@ -1,0 +1,13 @@
+{
+  "name": "GeckoCash",
+  "symbol": "GEK",
+  "decimals": 9,
+  "coin_type": "0xb74369e2fcc2eb2e54cbd0b7a5f815f87a9037d592116849235862fdeebbdec2::gek::GEK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4defdea2-8849-43f6-8118-71a19712516d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

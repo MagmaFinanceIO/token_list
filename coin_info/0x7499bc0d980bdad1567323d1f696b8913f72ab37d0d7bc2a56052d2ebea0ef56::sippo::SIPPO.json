@@ -1,0 +1,13 @@
+{
+  "name": "Seal Hippo",
+  "symbol": "SIPPO",
+  "decimals": 6,
+  "coin_type": "0x7499bc0d980bdad1567323d1f696b8913f72ab37d0d7bc2a56052d2ebea0ef56::sippo::SIPPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PNG_1_3e43b5201a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

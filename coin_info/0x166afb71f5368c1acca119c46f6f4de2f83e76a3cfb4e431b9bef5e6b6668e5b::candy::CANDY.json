@@ -1,0 +1,13 @@
+{
+  "name": "Sui Candy",
+  "symbol": "CANDY",
+  "decimals": 6,
+  "coin_type": "0x166afb71f5368c1acca119c46f6f4de2f83e76a3cfb4e431b9bef5e6b6668e5b::candy::CANDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1666_37da0abcf4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Axion Framework AI",
+  "symbol": "AXION",
+  "decimals": 9,
+  "coin_type": "0xfc876ed3b620aa591cdd1a707b0537dd30c0e17bf5da69d029c9603b0a3df2d2::axion::AXION",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AszxskfHKFkTtt1o8xJTWrtBzHUWmkXNLXKhFCR7pump.png?size=lg&key=c4f3b9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

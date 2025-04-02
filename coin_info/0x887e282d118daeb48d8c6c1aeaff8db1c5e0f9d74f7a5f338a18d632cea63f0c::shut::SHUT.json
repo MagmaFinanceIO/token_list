@@ -1,0 +1,13 @@
+{
+  "name": "Take my money",
+  "symbol": "SHUT",
+  "decimals": 9,
+  "coin_type": "0x887e282d118daeb48d8c6c1aeaff8db1c5e0f9d74f7a5f338a18d632cea63f0c::shut::SHUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pumpfun-indexer.s3.eu-west-1.amazonaws.com/icon/d09137d2-2e6d-414b-9cbc-5ad7405677d3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

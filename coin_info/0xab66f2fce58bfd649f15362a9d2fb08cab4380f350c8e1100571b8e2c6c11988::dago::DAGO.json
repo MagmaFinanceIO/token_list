@@ -1,0 +1,13 @@
+{
+  "name": "Dago Dog On Sui",
+  "symbol": "DAGO",
+  "decimals": 9,
+  "coin_type": "0xab66f2fce58bfd649f15362a9d2fb08cab4380f350c8e1100571b8e2c6c11988::dago::DAGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7f47c3c0-63ab-4597-ad64-92ccc806b870.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

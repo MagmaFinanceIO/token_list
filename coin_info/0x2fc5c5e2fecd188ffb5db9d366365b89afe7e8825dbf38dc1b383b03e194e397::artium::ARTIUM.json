@@ -1,0 +1,13 @@
+{
+  "name": "Artium Ai",
+  "symbol": "Artium",
+  "decimals": 9,
+  "coin_type": "0x2fc5c5e2fecd188ffb5db9d366365b89afe7e8825dbf38dc1b383b03e194e397::artium::ARTIUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7pF4RkJTKsc163vYh6Jh9MBiLuX546NfTx1LseMDpump.png?size=lg&key=496865",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

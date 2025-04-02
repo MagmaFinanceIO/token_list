@@ -1,0 +1,13 @@
+{
+  "name": "Moggy Sui",
+  "symbol": "MOGGY",
+  "decimals": 9,
+  "coin_type": "0x60e3092074fd52e2f03ff0db4abd933f0e40e819e5c1afdf8016d5c813379e77::moggy::MOGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FRuo_YT_Oo_M_400x400_fc49b250f4.jpg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

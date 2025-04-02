@@ -1,0 +1,13 @@
+{
+  "name": "FOG OF GOD",
+  "symbol": "FOG",
+  "decimals": 9,
+  "coin_type": "0x5df0b5d0fcc7c58cb5aa040fea30996dbd993bb0f0dc47c2aa6f7396c8f29268::fog::FOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B14hnjut3s4aAc77drFR48ykZzdSjHNbqjkkEvXrpump.png?size=lg&key=073753",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

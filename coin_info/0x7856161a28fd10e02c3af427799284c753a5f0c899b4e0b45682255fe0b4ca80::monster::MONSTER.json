@@ -1,0 +1,13 @@
+{
+  "name": "Sui Monster",
+  "symbol": "MONSTER",
+  "decimals": 6,
+  "coin_type": "0x7856161a28fd10e02c3af427799284c753a5f0c899b4e0b45682255fe0b4ca80::monster::MONSTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3944_fdb197c7f6_196cc9a9df.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

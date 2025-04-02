@@ -1,0 +1,13 @@
+{
+  "name": "Glacier AI Networks",
+  "symbol": "G",
+  "decimals": 6,
+  "coin_type": "0x0f1257cfb95cb0344d5b3d8ee161ff476bd9db0fa861f1f0a83fd17fc205791b::g::G",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9af9de89-470b-4d36-8ed2-dd2cf588dd31.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

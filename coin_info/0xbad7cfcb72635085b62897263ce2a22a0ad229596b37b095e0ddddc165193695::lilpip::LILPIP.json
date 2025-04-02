@@ -1,0 +1,13 @@
+{
+  "name": "lil",
+  "symbol": "LILPIP",
+  "decimals": 5,
+  "coin_type": "0xbad7cfcb72635085b62897263ce2a22a0ad229596b37b095e0ddddc165193695::lilpip::LILPIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fd80b5ac-d132-496d-b3ce-d65aeff3e7b7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

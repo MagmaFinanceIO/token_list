@@ -1,0 +1,13 @@
+{
+  "name": "Greatest Of All Time",
+  "symbol": "GOAT",
+  "decimals": 6,
+  "coin_type": "0x552d40b65008e73ee9062dc397f5428dc0ef668eabc832c64d956b9c214cfe37::goat::GOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f6604ca7-338c-4504-a40a-a60b9e46d4a0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

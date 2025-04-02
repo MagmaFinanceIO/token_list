@@ -1,0 +1,13 @@
+{
+  "name": "Chill Guy",
+  "symbol": "CHILLGUY",
+  "decimals": 6,
+  "coin_type": "0xab014f7c6e2c7fe10568f97f8a93cafa4d3a6283e77200a5c98b7350e98ee65f::chillguy::CHILLGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1d98db19-0ac3-45bf-b03b-d24d192f3430.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

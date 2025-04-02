@@ -1,0 +1,13 @@
+{
+  "name": "Trump Money",
+  "symbol": "TRMNY",
+  "decimals": 9,
+  "coin_type": "0x5735bc7512145061a040ca99ffffc41a805b942215c34ec982c7ffd78055d1d0::trmny::TRMNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d0f57a8e-a28c-4b66-ac73-708311c26ad0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

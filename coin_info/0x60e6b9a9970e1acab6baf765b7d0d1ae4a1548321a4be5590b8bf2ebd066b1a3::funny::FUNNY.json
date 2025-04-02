@@ -1,0 +1,13 @@
+{
+  "name": "FUNNY Bunny",
+  "symbol": "FUNNY",
+  "decimals": 6,
+  "coin_type": "0x60e6b9a9970e1acab6baf765b7d0d1ae4a1548321a4be5590b8bf2ebd066b1a3::funny::FUNNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/D_Ic5m83_400x400_b0fc78a8a7.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

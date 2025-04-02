@@ -1,0 +1,13 @@
+{
+  "name": "Sui Cat",
+  "symbol": "SUICAT",
+  "decimals": 9,
+  "coin_type": "0xb5ddb67b936817b5dfa4c82e806266058b9ae31e0b1dc050bc24d2c633e32d43::suicat::SUICAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/69cd6624-a7b4-4488-9779-d48da7d59e1f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Simple Token",
+  "symbol": "SMPL",
+  "decimals": 9,
+  "coin_type": "0xc427f7908e03186e0e275eb2d94f88ccac3f193829dc6afe627ba51306b9c0a4::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

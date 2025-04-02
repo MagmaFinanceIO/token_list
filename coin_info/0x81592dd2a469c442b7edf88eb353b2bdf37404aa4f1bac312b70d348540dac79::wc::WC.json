@@ -1,0 +1,13 @@
+{
+  "name": "WRAPPED CAT OFFICIAL",
+  "symbol": "WC",
+  "decimals": 6,
+  "coin_type": "0x81592dd2a469c442b7edf88eb353b2bdf37404aa4f1bac312b70d348540dac79::wc::WC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ADAE_Xa6_N_400x400_c34478834f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

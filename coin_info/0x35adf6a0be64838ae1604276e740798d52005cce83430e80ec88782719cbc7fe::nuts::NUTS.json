@@ -1,0 +1,13 @@
+{
+  "name": "SANDY",
+  "symbol": "NUTS",
+  "decimals": 6,
+  "coin_type": "0x35adf6a0be64838ae1604276e740798d52005cce83430e80ec88782719cbc7fe::nuts::NUTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1734114262477.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

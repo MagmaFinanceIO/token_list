@@ -1,0 +1,13 @@
+{
+  "name": "Morpheus",
+  "symbol": "DREAM",
+  "decimals": 9,
+  "coin_type": "0xf9e32f83a5a075c24cf7bb26cbc2889e44484254917f0b0571227071b88cdbfd::dream::DREAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8hrZax9eVqdLB1duN2fJ3ji4FwbddPsb96uauEMroBm8.png?size=lg&key=325ef3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

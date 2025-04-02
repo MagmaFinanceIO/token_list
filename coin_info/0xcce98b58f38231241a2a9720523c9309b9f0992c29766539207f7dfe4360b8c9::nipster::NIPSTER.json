@@ -1,0 +1,13 @@
+{
+  "name": "NiPSTeR",
+  "symbol": "NIPSTER",
+  "decimals": 9,
+  "coin_type": "0xcce98b58f38231241a2a9720523c9309b9f0992c29766539207f7dfe4360b8c9::nipster::NIPSTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cfde9db4-27a5-4230-aedd-3f13d5d87d5d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

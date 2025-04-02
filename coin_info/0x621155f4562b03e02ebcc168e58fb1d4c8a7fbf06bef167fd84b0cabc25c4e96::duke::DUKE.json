@@ -1,0 +1,13 @@
+{
+  "name": "DUKE COIN",
+  "symbol": "DUKE",
+  "decimals": 9,
+  "coin_type": "0x621155f4562b03e02ebcc168e58fb1d4c8a7fbf06bef167fd84b0cabc25c4e96::duke::DUKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AUdvAZm7ScT7S1z5frV7awvmwi4P3WVNcJsbq7spump.png?size=lg&key=9722a5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

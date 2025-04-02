@@ -1,0 +1,13 @@
+{
+  "name": "Official Trump 2.0",
+  "symbol": "TRUMP2",
+  "decimals": 9,
+  "coin_type": "0xf02cf0861dd476acaa5ca0b5e079669a444614b1f50e9478d64d8aae32148433::trump2::TRUMP2",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qmcc8dFKahPUDHk1aFSK3i7Nkz2W2ah8aujKVSN6r3rMiT",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

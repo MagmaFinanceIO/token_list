@@ -1,0 +1,13 @@
+{
+  "name": "The first internet cat",
+  "symbol": "Gikoo",
+  "decimals": 9,
+  "coin_type": "0x1a46d449ed2abedef120a39cb41d33bc9ed4fa1c1f3c093a910feb0dd892ab52::gikoo::GIKOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CBtHGoPThxmzcAgXaJcoYg5geYSffXQ18ey21QWpump.png?size=lg&key=c6e4c3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

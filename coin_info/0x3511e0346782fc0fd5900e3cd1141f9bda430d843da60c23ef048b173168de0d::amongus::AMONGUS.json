@@ -1,0 +1,13 @@
+{
+  "name": "AMONGUS SUI",
+  "symbol": "AMONGUS",
+  "decimals": 6,
+  "coin_type": "0x3511e0346782fc0fd5900e3cd1141f9bda430d843da60c23ef048b173168de0d::amongus::AMONGUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6895_0ff4f6424d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

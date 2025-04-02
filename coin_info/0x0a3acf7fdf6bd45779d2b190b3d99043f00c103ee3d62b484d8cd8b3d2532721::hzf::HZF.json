@@ -1,0 +1,13 @@
+{
+  "name": "HetzFlow",
+  "symbol": "HZF",
+  "decimals": 9,
+  "coin_type": "0x0a3acf7fdf6bd45779d2b190b3d99043f00c103ee3d62b484d8cd8b3d2532721::hzf::HZF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b0354d81-835c-4942-ab81-6d052c23d041.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MAXIMUS",
+  "symbol": "MAX",
+  "decimals": 6,
+  "coin_type": "0xa6eed753dda31a87f4e84d192f8a816d420c276b1a15e69079ead1b63fae4096::max::MAX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/bluelogo_e76b744957.PNG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dogwifseal",
+  "symbol": "WIF",
+  "decimals": 6,
+  "coin_type": "0xfed57bee92764f26c4d2c24b00054bede812efd493c1aa14d334634b91e2bd76::wif::WIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/a_wiener_dog_befriends_a_seal_v0_yq51fe3k95i91_67e63212da.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

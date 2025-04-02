@@ -1,0 +1,13 @@
+{
+  "name": "Pingu",
+  "symbol": "PINGU",
+  "decimals": 6,
+  "coin_type": "0x3d5c654394d2da8690627968e7d6fcf7d6a07d0a75a4b423769f964e712860b3::pingu::PINGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pingu_prof_6206aab2e2.JPEG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuiFin",
+  "symbol": "SUIFIN",
+  "decimals": 6,
+  "coin_type": "0x47b4705cf4894638ebd88301585566ec614845a4f721fc19a0eecb10558d0c9b::suifin::SUIFIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3c338da9-e163-4305-9500-1175a64585dd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Starfish",
+  "symbol": "STARFISH",
+  "decimals": 9,
+  "coin_type": "0x2f62ae6fcd4ed5b3b414c8ce1b8ac53e2d75149434a02a862a6a3ead2e93937c::starfish::STARFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9d776f91-37bf-4834-9aa3-2198500a1c90.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

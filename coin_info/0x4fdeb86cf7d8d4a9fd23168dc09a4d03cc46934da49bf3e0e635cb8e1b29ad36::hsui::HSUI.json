@@ -1,0 +1,13 @@
+{
+  "name": "Suicune",
+  "symbol": "HSUI",
+  "decimals": 9,
+  "coin_type": "0x4fdeb86cf7d8d4a9fd23168dc09a4d03cc46934da49bf3e0e635cb8e1b29ad36::hsui::HSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9982054a-4d05-43de-aea2-dc7e48b7a8b2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

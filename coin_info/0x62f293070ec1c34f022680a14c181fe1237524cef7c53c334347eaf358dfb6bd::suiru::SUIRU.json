@@ -1,0 +1,13 @@
+{
+  "name": "Suiruto",
+  "symbol": "SUIRU",
+  "decimals": 6,
+  "coin_type": "0x62f293070ec1c34f022680a14c181fe1237524cef7c53c334347eaf358dfb6bd::suiru::SUIRU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_8b18c81702.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

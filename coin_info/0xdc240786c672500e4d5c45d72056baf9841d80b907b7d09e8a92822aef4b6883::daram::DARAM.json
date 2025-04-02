@@ -1,0 +1,13 @@
+{
+  "name": "DARAM ON SUI",
+  "symbol": "DARAM",
+  "decimals": 6,
+  "coin_type": "0xdc240786c672500e4d5c45d72056baf9841d80b907b7d09e8a92822aef4b6883::daram::DARAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_28_990e2fb180.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

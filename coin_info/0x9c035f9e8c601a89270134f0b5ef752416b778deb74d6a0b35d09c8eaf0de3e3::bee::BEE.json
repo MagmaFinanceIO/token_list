@@ -1,0 +1,13 @@
+{
+  "name": "BEE on SUI",
+  "symbol": "BEE",
+  "decimals": 6,
+  "coin_type": "0x9c035f9e8c601a89270134f0b5ef752416b778deb74d6a0b35d09c8eaf0de3e3::bee::BEE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/illustration_1_cf69938342.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

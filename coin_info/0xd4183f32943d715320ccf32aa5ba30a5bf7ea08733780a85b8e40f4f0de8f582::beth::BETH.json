@@ -1,0 +1,13 @@
+{
+  "name": "AI BEETHOVEN",
+  "symbol": "BETH",
+  "decimals": 9,
+  "coin_type": "0xd4183f32943d715320ccf32aa5ba30a5bf7ea08733780a85b8e40f4f0de8f582::beth::BETH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ba61d3f6-27ab-48d9-b4dd-b2f3e38968e8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

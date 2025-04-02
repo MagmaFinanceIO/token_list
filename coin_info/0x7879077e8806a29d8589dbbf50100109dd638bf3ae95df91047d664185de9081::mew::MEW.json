@@ -1,0 +1,13 @@
+{
+  "name": "Mewing",
+  "symbol": "MEW",
+  "decimals": 9,
+  "coin_type": "0x7879077e8806a29d8589dbbf50100109dd638bf3ae95df91047d664185de9081::mew::MEW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/42df0e28-c2f0-48e0-ad3e-c084927286eb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TRINITY AI",
+  "symbol": "TRAI",
+  "decimals": 9,
+  "coin_type": "0x923f7c05bfcf91ead368f9e11b8fb674a0afdb9e30c5436b7a5fa7d6c2d1325e::trai::TRAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/87mivE2sLGqKYhGgwVaQUA1VMubGGRgkusjCMFuFpump.png?size=lg&key=a0394e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

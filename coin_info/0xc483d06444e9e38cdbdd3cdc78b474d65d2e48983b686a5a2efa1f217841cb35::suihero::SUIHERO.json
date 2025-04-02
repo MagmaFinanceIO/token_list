@@ -1,0 +1,13 @@
+{
+  "name": "SuiNana",
+  "symbol": "SUIHERO",
+  "decimals": 6,
+  "coin_type": "0xc483d06444e9e38cdbdd3cdc78b474d65d2e48983b686a5a2efa1f217841cb35::suihero::SUIHERO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Design_sem_nome_3_92b4cc4c02.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

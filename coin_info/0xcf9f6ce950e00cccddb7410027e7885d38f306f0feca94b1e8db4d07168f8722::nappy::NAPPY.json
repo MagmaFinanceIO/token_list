@@ -1,0 +1,13 @@
+{
+  "name": "Sui Nappy",
+  "symbol": "NAPPY",
+  "decimals": 9,
+  "coin_type": "0xcf9f6ce950e00cccddb7410027e7885d38f306f0feca94b1e8db4d07168f8722::nappy::NAPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b8d2dc32-f439-422a-a7db-0dc3ca30fcbf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

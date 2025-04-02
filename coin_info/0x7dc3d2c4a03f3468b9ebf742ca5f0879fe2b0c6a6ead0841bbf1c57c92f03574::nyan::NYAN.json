@@ -1,0 +1,13 @@
+{
+  "name": "SUI NYAN",
+  "symbol": "nyan",
+  "decimals": 6,
+  "coin_type": "0x7dc3d2c4a03f3468b9ebf742ca5f0879fe2b0c6a6ead0841bbf1c57c92f03574::nyan::NYAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ik.imagekit.io/qsp1f71zd/nyan%20copy.png?updatedAt=1728004806868",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

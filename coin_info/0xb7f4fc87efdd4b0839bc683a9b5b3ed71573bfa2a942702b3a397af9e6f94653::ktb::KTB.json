@@ -1,0 +1,13 @@
+{
+  "name": "KittyByte",
+  "symbol": "KTB",
+  "decimals": 9,
+  "coin_type": "0xb7f4fc87efdd4b0839bc683a9b5b3ed71573bfa2a942702b3a397af9e6f94653::ktb::KTB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9f7bd649-5405-4155-99f8-23bbba7ca0ca.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

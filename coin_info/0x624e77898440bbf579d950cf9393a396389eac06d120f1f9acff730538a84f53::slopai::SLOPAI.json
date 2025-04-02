@@ -1,0 +1,13 @@
+{
+  "name": "Slop Ai Dust",
+  "symbol": "SlopAi",
+  "decimals": 9,
+  "coin_type": "0x624e77898440bbf579d950cf9393a396389eac06d120f1f9acff730538a84f53::slopai::SLOPAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8yQoVknQZ4bCVgodUNhXzceCnAu6rXjK2oxakVgWpump.png?size=lg&key=d80db8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Columbus Sui",
+  "symbol": "Columbus",
+  "decimals": 6,
+  "coin_type": "0x51f1dbb02352a1495dc655b2e1c722b859147881ebb7854375bcc054f4f38d38::columbus::COLUMBUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1738307331947.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

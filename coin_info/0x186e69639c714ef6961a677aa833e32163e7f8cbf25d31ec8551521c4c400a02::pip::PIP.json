@@ -1,0 +1,13 @@
+{
+  "name": "Pip The Mouse",
+  "symbol": "PIP",
+  "decimals": 9,
+  "coin_type": "0x186e69639c714ef6961a677aa833e32163e7f8cbf25d31ec8551521c4c400a02::pip::PIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/J1LBHmwMMRa6iYRZ8iYYhJ8qKo8CRzLEGjTNsWNPSp56.png?size=lg&key=f747e6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

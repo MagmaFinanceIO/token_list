@@ -1,0 +1,13 @@
+{
+  "name": "SEAXii",
+  "symbol": "SXII",
+  "decimals": 9,
+  "coin_type": "0x688c43648f99e4355c81c02e205cc4e3409546a609870d8e23a0807ef71040d9::sxii::SXII",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3ae47592-aed6-4c5a-8934-33eb2862d056.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

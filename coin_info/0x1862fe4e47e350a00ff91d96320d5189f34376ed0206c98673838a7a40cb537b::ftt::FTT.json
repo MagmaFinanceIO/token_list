@@ -1,0 +1,13 @@
+{
+  "name": "FTT",
+  "symbol": "FTT",
+  "decimals": 2,
+  "coin_type": "0x1862fe4e47e350a00ff91d96320d5189f34376ed0206c98673838a7a40cb537b::ftt::FTT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://iili.io/dQcsfPn.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

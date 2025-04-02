@@ -1,0 +1,13 @@
+{
+  "name": "PINO SANTA",
+  "symbol": "PINOSANTA",
+  "decimals": 9,
+  "coin_type": "0xec28dd203750bb19067cac0fead708e6a4974662befb350b5b90ff233646842e::pinosanta::PINOSANTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3Y6fjhHRV6orAka12ThbiWSVapnroYovoBwzZEqYCECq.png?size=lg&key=8f4227",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

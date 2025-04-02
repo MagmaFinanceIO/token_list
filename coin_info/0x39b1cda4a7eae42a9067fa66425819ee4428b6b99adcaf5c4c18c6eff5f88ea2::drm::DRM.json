@@ -1,0 +1,13 @@
+{
+  "name": "DRM",
+  "symbol": "DRM",
+  "decimals": 9,
+  "coin_type": "0x39b1cda4a7eae42a9067fa66425819ee4428b6b99adcaf5c4c18c6eff5f88ea2::drm::DRM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

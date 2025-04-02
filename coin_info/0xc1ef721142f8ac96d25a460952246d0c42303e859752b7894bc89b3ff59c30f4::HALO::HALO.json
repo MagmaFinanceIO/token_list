@@ -1,0 +1,13 @@
+{
+  "name": "HALO",
+  "symbol": "HALO",
+  "decimals": 9,
+  "coin_type": "0xc1ef721142f8ac96d25a460952246d0c42303e859752b7894bc89b3ff59c30f4::HALO::HALO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

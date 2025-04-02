@@ -1,0 +1,13 @@
+{
+  "name": "POPORING SANTA",
+  "symbol": "POPORING",
+  "decimals": 9,
+  "coin_type": "0x9e6168366f07d720f58d2d6f43b6cd1d41d48c7962f98d83e82f9c3cd164c6a6::poporing::POPORING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3oJKuj1HLKYTzqCgaktNraURdPLrAWXaq6EGuB1Xpump.png?size=lg&key=1b42eb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pumpkin Dogs Sui",
+  "symbol": "PUMDOGS",
+  "decimals": 9,
+  "coin_type": "0xa315bf6003874a0692f760d10266f9e8a5d1204de5a861f82f800e41a84597de::pumdogs::PUMDOGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/274446a4-4a9f-4b12-a500-eb291f3235a8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

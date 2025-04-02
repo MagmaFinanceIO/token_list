@@ -1,0 +1,13 @@
+{
+  "name": "Evun Chong",
+  "symbol": "CHONG",
+  "decimals": 9,
+  "coin_type": "0xa11403b5eecedc5b69c291b4b50899ed9e56081887ec17bdf19377ddfedf6a71::chong::CHONG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fdd41664-a798-44a0-95b0-a37a168b8f61.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Coffee",
+  "symbol": "COFFEEGIRL",
+  "decimals": 6,
+  "coin_type": "0xb8135d266149f0373ec6a7202b1be7150137ac89ef65415536007fa4759e8db8::coffeegirl::COFFEEGIRL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/silence4815_Photo_of_Alice_in_Wonderland_in_steampunk_ar_916_5645a8c2_d517_4fed_b9f0_1a4764cbfff4_bd1eae4a73.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

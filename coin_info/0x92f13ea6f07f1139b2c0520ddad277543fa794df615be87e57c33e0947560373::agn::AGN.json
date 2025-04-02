@@ -1,0 +1,13 @@
+{
+  "name": "AGN",
+  "symbol": "AGN",
+  "decimals": 6,
+  "coin_type": "0x92f13ea6f07f1139b2c0520ddad277543fa794df615be87e57c33e0947560373::agn::AGN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://assets.artistfirst.in/uploads/1737713813380-AGN.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

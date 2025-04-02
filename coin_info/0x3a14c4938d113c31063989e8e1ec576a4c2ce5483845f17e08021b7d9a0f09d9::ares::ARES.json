@@ -1,0 +1,13 @@
+{
+  "name": "The Cat of War",
+  "symbol": "ARES",
+  "decimals": 6,
+  "coin_type": "0x3a14c4938d113c31063989e8e1ec576a4c2ce5483845f17e08021b7d9a0f09d9::ares::ARES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ARES_d657663650.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

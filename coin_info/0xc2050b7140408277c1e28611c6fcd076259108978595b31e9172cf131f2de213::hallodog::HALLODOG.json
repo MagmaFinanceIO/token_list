@@ -1,0 +1,13 @@
+{
+  "name": "Halloween Dogs",
+  "symbol": "HALLODOG",
+  "decimals": 9,
+  "coin_type": "0xc2050b7140408277c1e28611c6fcd076259108978595b31e9172cf131f2de213::hallodog::HALLODOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e376f913-d6ce-424e-b418-2ca2b5bfc1c5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

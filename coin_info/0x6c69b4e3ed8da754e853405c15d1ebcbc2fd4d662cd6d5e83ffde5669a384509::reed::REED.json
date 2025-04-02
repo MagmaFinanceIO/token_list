@@ -1,0 +1,13 @@
+{
+  "name": "Project REED by SuiAI",
+  "symbol": "REED",
+  "decimals": 6,
+  "coin_type": "0x6c69b4e3ed8da754e853405c15d1ebcbc2fd4d662cd6d5e83ffde5669a384509::reed::REED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/475410896_3463950133913665_2402585142245141776_n_e024fc36a3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

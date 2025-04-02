@@ -1,0 +1,13 @@
+{
+  "name": "Sui Bank",
+  "symbol": "SUIBANK",
+  "decimals": 6,
+  "coin_type": "0x29fe9c4c3cb2e30f3e2e7b280c7e39fd8c49ef496cf65c274d1f73f422dcd9dd::suibank::SUIBANK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_2_674ad4edee.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

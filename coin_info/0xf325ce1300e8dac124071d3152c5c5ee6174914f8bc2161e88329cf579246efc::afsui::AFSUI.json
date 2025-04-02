@@ -1,0 +1,15 @@
+{
+  "name": "Aftermath Staked SUI",
+  "symbol": "afSUI",
+  "decimals": 9,
+  "coin_type": "0xf325ce1300e8dac124071d3152c5c5ee6174914f8bc2161e88329cf579246efc::afsui::AFSUI",
+  "pyth_id": "17cd845b16e874485b2684f8b8d1517d744105dbb904eec30222717f4bc9ee0d",
+  "birdeyeid": "0xf325ce1300e8dac124071d3152c5c5ee6174914f8bc2161e88329cf579246efc::afsui::AFSUI",
+  "coin_priority": [
+    "909"
+  ],
+  "logo_url": "https://aftermath.finance/coins/afsui.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

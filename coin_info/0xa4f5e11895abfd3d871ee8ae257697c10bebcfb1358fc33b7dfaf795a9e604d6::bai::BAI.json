@@ -1,0 +1,13 @@
+{
+  "name": "Baby Ai",
+  "symbol": "BAi",
+  "decimals": 4,
+  "coin_type": "0xa4f5e11895abfd3d871ee8ae257697c10bebcfb1358fc33b7dfaf795a9e604d6::bai::BAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f78c942f-e995-47d7-a70f-7514e2d240ce.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

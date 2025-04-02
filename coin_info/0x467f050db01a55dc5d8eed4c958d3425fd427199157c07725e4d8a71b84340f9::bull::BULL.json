@@ -1,0 +1,13 @@
+{
+  "name": "SBULL",
+  "symbol": "BULL",
+  "decimals": 6,
+  "coin_type": "0x467f050db01a55dc5d8eed4c958d3425fd427199157c07725e4d8a71b84340f9::bull::BULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suibull_4_f5304b25c6.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

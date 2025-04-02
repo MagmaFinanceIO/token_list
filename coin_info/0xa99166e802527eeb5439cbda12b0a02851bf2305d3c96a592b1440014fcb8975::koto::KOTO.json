@@ -1,0 +1,13 @@
+{
+  "name": "KOTO",
+  "symbol": "KOTO",
+  "decimals": 0,
+  "coin_type": "0xa99166e802527eeb5439cbda12b0a02851bf2305d3c96a592b1440014fcb8975::koto::KOTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://sm.xyz/images/koto.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Secret Agent on Sui",
+  "symbol": "SUISECRETAGENT",
+  "decimals": 9,
+  "coin_type": "0x6602224328e7b9e53d48261dbfa8e694fdafe3608e696676dd6cc1b019988c29::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

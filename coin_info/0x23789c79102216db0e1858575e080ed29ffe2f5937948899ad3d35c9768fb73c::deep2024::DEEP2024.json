@@ -1,0 +1,13 @@
+{
+  "name": "DeepBook Token",
+  "symbol": "DEEP2024",
+  "decimals": 9,
+  "coin_type": "0x23789c79102216db0e1858575e080ed29ffe2f5937948899ad3d35c9768fb73c::deep2024::DEEP2024",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0xdeeb7a4662eec9f2f3def03fb937a663dddaa2e215b8078a284d026b7946c270::deep::deep.png?size=lg&key=2f6f34",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

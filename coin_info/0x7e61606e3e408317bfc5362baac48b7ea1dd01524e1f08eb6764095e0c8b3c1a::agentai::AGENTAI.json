@@ -1,0 +1,13 @@
+{
+  "name": "AGNAI",
+  "symbol": "AGENT AI",
+  "decimals": 9,
+  "coin_type": "0x7e61606e3e408317bfc5362baac48b7ea1dd01524e1f08eb6764095e0c8b3c1a::agentai::AGENTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/bafkreidjp5e64xyhum3emvm5xbj4hxopmhekgnxfs2gvmdplngtqyeud4a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

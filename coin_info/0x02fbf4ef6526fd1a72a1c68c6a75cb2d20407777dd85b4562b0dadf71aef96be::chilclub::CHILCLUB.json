@@ -1,0 +1,13 @@
+{
+  "name": "Chillclub On Sui",
+  "symbol": "Chilclub",
+  "decimals": 9,
+  "coin_type": "0x02fbf4ef6526fd1a72a1c68c6a75cb2d20407777dd85b4562b0dadf71aef96be::chilclub::CHILCLUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AuicYDky19NNydEb3Psr5yeUHFN84M6y5KwnRVK6AoH.png?size=lg&key=4bb07b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Just Be You Happy",
+  "symbol": "JBY",
+  "decimals": 9,
+  "coin_type": "0x4ecd9aa304cc90be94f21d415e2f5c688a13dbc812ebe16cb0fb7e4d965d938f::jby::JBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b762f102-7b86-4d76-b899-28b90a9ff221.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

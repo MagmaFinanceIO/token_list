@@ -1,0 +1,13 @@
+{
+  "name": "sua",
+  "symbol": "ASA",
+  "decimals": 6,
+  "coin_type": "0x3e8d6d1786706537c81ad97b961d5ae74a9748b38cd78835e3dfd83011ef6c80::asa::ASA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Snapshot_09_10_2023_050912_5a492b8dee.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CHILL SQUID",
+  "symbol": "CHILLSQUID",
+  "decimals": 9,
+  "coin_type": "0x18ae7c678abb99782eb49e813a6cce8a1c7267a48205b98d6ae08afa31de2cdf::chillsquid::CHILLSQUID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://assets.geckoterminal.com/gr2oqw7eqyb84dic5sf7nghls3oe",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

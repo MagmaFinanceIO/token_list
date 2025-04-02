@@ -1,0 +1,13 @@
+{
+  "name": "Bonsui",
+  "symbol": "BONSUI",
+  "decimals": 9,
+  "coin_type": "0x1060199ba46a06e3aed7e289e68b0a54c07fbd9ae6ef6ae004f5a59083a60e71::bonsui::BONSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/566c4201-adef-4d9d-8ecd-1be9d5f815d5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Chine Sui Coin",
+  "symbol": "Chine",
+  "decimals": 9,
+  "coin_type": "0x08fba7efa1e92b7c8959d9252f85ef753a87bd819716e36b1077fbbdc0849afa::chine::CHINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f40f5dcd-907e-4a20-953a-18370d499742.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

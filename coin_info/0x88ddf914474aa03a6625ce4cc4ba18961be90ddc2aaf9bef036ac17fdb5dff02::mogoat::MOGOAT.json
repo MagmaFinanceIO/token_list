@@ -1,0 +1,13 @@
+{
+  "name": "MOO DENG GOAT",
+  "symbol": "MOGOAT",
+  "decimals": 3,
+  "coin_type": "0x88ddf914474aa03a6625ce4cc4ba18961be90ddc2aaf9bef036ac17fdb5dff02::mogoat::MOGOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f4e70410-d20e-4186-9d12-11701981a45f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

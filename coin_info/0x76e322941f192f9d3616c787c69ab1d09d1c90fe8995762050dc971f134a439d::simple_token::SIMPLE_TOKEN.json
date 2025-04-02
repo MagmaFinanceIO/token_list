@@ -1,0 +1,13 @@
+{
+  "name": "FUCKFTX",
+  "symbol": "FUCKFTX",
+  "decimals": 9,
+  "coin_type": "0x76e322941f192f9d3616c787c69ab1d09d1c90fe8995762050dc971f134a439d::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUPA",
+  "symbol": "SUPA",
+  "decimals": 9,
+  "coin_type": "0x6583d88f4435e76358deeef19410412caaf3c3c89dae12949720d244f555cd31::supa::SUPA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d4746eaf-eb54-4acb-b838-269a423c14e8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

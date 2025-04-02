@@ -1,0 +1,13 @@
+{
+  "name": "Official Trump",
+  "symbol": "TRUMP",
+  "decimals": 9,
+  "coin_type": "0x80708ee7e9d2711ec577620b6844a7efff23e0b6245d8268128dbc275f8995a7::trump::TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d53b36ba-46bc-4b71-81b5-1c914241444a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

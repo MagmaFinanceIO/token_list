@@ -1,0 +1,13 @@
+{
+  "name": "SHUIIBA",
+  "symbol": "BOAIG",
+  "decimals": 4,
+  "coin_type": "0x7d05fb37835681af9ec4bd9eac6d310ae8fb6dc27065cb8611a41b3ef40236b7::boaig::BOAIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ed3d7118-4a4d-4f25-b54c-622035c95a08.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

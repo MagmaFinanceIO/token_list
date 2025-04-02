@@ -1,0 +1,13 @@
+{
+  "name": "USDP",
+  "symbol": "USDP",
+  "decimals": 9,
+  "coin_type": "0x3c2e6cdfef947a08d2bdceb7d76bd560bc5e23ff0d7a146e03eb181ff23bcdeb::usdp::USDP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/_uhVsTpyALZdZz-_Jq1a6GuyEoLfcqCzMo6x796ZpDQ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mr Meeseeks",
+  "symbol": "meeseeks",
+  "decimals": 9,
+  "coin_type": "0xd9fe676722bbf30af880dd875b48bb21e95c49631ffde4bc6d1601a820257f32::meeseeks::MEESEEKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreibb3tkwctpqn42upfa6dberobwydwjv5sav6zeutkrvxgzze44emu.ipfs.w3s.link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

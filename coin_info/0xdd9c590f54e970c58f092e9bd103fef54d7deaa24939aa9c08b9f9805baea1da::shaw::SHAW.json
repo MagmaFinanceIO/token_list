@@ -1,0 +1,13 @@
+{
+  "name": "Shaw",
+  "symbol": "shaw",
+  "decimals": 9,
+  "coin_type": "0xdd9c590f54e970c58f092e9bd103fef54d7deaa24939aa9c08b9f9805baea1da::shaw::SHAW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FH5Yuax2hg6ct3tM4hPKXjmBFZ2e9TjLiouUK6fApump.png?size=lg&key=3dd31f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

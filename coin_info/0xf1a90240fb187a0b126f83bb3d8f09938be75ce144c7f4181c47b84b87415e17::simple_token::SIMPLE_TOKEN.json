@@ -1,0 +1,13 @@
+{
+  "name": "BUZZ",
+  "symbol": "BUZZ",
+  "decimals": 9,
+  "coin_type": "0xf1a90240fb187a0b126f83bb3d8f09938be75ce144c7f4181c47b84b87415e17::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mohammad Bin Salman Coin",
+  "symbol": "Mohammad",
+  "decimals": 9,
+  "coin_type": "0x54ebc70cc7fd58baaf2a4139efc03747eeaf875d3b3bccf0cd425e6169432f1b::mohammad::MOHAMMAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FV5jxCRt66m8rSnpYDm8SRvhUe3Q8BTcRT67ihBspump.png?size=lg&key=3d2580",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

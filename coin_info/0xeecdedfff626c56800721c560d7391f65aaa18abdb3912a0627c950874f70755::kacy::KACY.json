@@ -1,0 +1,13 @@
+{
+  "name": "markkacy",
+  "symbol": "KACY",
+  "decimals": 9,
+  "coin_type": "0xeecdedfff626c56800721c560d7391f65aaa18abdb3912a0627c950874f70755::kacy::KACY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6QSVGUEyBZWRshnXKhS96NQ97vGWiTu61SyHLAbYpump.png?size=lg&key=6d2900",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

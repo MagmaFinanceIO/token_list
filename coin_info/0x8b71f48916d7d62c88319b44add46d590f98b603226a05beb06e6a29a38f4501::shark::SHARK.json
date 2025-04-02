@@ -1,0 +1,13 @@
+{
+  "name": "SHAVK",
+  "symbol": "SHAVK",
+  "decimals": 6,
+  "coin_type": "0x8b71f48916d7d62c88319b44add46d590f98b603226a05beb06e6a29a38f4501::shark::SHARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://beige-shocked-dinosaur-182.mypinata.cloud/ipfs/QmTGjRUpz4vW5NYR6aaiGsaqWsE14LwowHeKV1xNv6F7Fg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

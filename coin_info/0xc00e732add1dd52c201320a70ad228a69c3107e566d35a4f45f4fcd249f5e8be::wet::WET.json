@@ -1,0 +1,13 @@
+{
+  "name": "Wet Cat",
+  "symbol": "WET",
+  "decimals": 9,
+  "coin_type": "0xc00e732add1dd52c201320a70ad228a69c3107e566d35a4f45f4fcd249f5e8be::wet::WET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/8wFDkNi.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "QUANT SMOKE",
+  "symbol": "QUANTS",
+  "decimals": 6,
+  "coin_type": "0x1733500c972859daee6a2ae45b4befbbb891986263677f0597996750e5b8c59d::quants::QUANTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Gc3qai0_W0_AA_8_SVC_784e15ff66.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

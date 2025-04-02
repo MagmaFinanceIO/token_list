@@ -1,0 +1,13 @@
+{
+  "name": "ApeSui",
+  "symbol": "Ape",
+  "decimals": 6,
+  "coin_type": "0xcb2e2fc1118719f6aad45536d293d1cf0b572befc1d52e8b5bb78b3a319f13cd::ape::APE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Wi_j_Vh_Xk_400x400_aeef919f6e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

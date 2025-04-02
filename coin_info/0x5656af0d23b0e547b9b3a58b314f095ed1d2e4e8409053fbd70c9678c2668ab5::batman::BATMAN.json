@@ -1,0 +1,13 @@
+{
+  "name": "Batman",
+  "symbol": "Batman",
+  "decimals": 9,
+  "coin_type": "0x5656af0d23b0e547b9b3a58b314f095ed1d2e4e8409053fbd70c9678c2668ab5::batman::BATMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

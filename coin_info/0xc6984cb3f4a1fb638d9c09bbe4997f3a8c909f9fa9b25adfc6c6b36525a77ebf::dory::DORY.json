@@ -1,0 +1,13 @@
+{
+  "name": "DORY",
+  "symbol": "DORY",
+  "decimals": 6,
+  "coin_type": "0xc6984cb3f4a1fb638d9c09bbe4997f3a8c909f9fa9b25adfc6c6b36525a77ebf::dory::DORY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmeYftaYw3vhjxrmvDJ5YhpvqPqsNH2t6tPmdsRcmMdtYP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

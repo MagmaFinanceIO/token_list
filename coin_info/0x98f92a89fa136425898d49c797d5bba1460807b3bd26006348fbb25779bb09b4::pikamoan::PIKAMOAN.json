@@ -1,0 +1,13 @@
+{
+  "name": "Pikamoan",
+  "symbol": "Pikamoan",
+  "decimals": 9,
+  "coin_type": "0x98f92a89fa136425898d49c797d5bba1460807b3bd26006348fbb25779bb09b4::pikamoan::PIKAMOAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "fJlivkYZZ2yIFi0f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

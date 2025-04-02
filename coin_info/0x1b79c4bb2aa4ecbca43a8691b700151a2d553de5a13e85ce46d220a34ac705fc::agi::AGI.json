@@ -1,0 +1,13 @@
+{
+  "name": "Agent G",
+  "symbol": "AGI",
+  "decimals": 9,
+  "coin_type": "0x1b79c4bb2aa4ecbca43a8691b700151a2d553de5a13e85ce46d220a34ac705fc::agi::AGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.pixabay.com/photo/2017/11/16/09/32/matrix-2953869_1280.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

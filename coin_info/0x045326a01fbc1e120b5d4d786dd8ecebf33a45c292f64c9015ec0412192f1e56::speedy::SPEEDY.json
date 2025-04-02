@@ -1,0 +1,13 @@
+{
+  "name": "SPEEDY",
+  "symbol": "SPEEDY",
+  "decimals": 9,
+  "coin_type": "0x045326a01fbc1e120b5d4d786dd8ecebf33a45c292f64c9015ec0412192f1e56::speedy::SPEEDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xc8f69a9b46b235de8d0b77c355fff7994f1b090f.png?size=lg&key=67aed9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

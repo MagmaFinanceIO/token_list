@@ -1,0 +1,13 @@
+{
+  "name": "Uni’s Friend",
+  "symbol": "LUCKY",
+  "decimals": 9,
+  "coin_type": "0x40483933c4296dba0dffef4a6a056539061de0b55b9e75d55e18f488cd29a4bf::lucky::LUCKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/46930d0a-0fc3-4518-bf64-53d3ec945347.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

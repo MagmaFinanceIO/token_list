@@ -1,0 +1,13 @@
+{
+  "name": "BUBL",
+  "symbol": "BUBL",
+  "decimals": 9,
+  "coin_type": "0xc3de1eb7d2e3e0f5eb0ce5ddfdcbdd26f7785845c589d5b17bbffec5a42bbd64::bubl::BUBL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/454d1bbb-4e5f-483a-9fbc-bf9ef1482606.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

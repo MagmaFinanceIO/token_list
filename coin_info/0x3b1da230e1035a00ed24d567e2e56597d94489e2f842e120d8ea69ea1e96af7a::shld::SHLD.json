@@ -1,0 +1,13 @@
+{
+  "name": "Cybershield AI",
+  "symbol": "SHLD",
+  "decimals": 9,
+  "coin_type": "0x3b1da230e1035a00ed24d567e2e56597d94489e2f842e120d8ea69ea1e96af7a::shld::SHLD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EY7TiB9K5ihP5oXouymdwHSD66CJusaGoMM2mufipump.png?size=lg&key=997da3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

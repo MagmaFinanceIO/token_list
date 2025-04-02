@@ -1,0 +1,13 @@
+{
+  "name": "SUIGATOR",
+  "symbol": "SUIGATOR",
+  "decimals": 6,
+  "coin_type": "0x4cdd24958351116ce9bfd8b00451686e70556d8ec25f15a3215f5ad1fccb7963::suigator::SUIGATOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmYSQib9hmgNgsz2rp3ffCsVTco8r6WgpGjh3eyC3SbL8G",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

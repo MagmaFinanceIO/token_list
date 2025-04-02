@@ -1,0 +1,13 @@
+{
+  "name": "POPEPE",
+  "symbol": "POPEPE",
+  "decimals": 9,
+  "coin_type": "0xa07c2b4bb2d0f16af05dd35d75a40173ed42e4b0c9774a19de97c7ce6f8ec8e0::popepe::POPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2kbWogowmyQGrsb7uXXk8o91YuLFesUpR2feAgkCpump.png?size=lg&key=262352",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

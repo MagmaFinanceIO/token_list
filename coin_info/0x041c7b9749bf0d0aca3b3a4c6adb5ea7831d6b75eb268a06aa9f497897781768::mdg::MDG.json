@@ -1,0 +1,13 @@
+{
+  "name": "MOO DENG GOLDEN AGE",
+  "symbol": "MDG",
+  "decimals": 9,
+  "coin_type": "0x041c7b9749bf0d0aca3b3a4c6adb5ea7831d6b75eb268a06aa9f497897781768::mdg::MDG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f5e0e389-be12-4ad5-86b1-010c75857240.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

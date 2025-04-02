@@ -1,0 +1,13 @@
+{
+  "name": "Perma-Tired Pete",
+  "symbol": "PTP",
+  "decimals": 6,
+  "coin_type": "0x6cdb4cb5948703a9ed0b60fd4ec4fe48b6247b3e0cf3269f15891bb9b23752f8::ptp::PTP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/af300dff_ea71_46d6_b6f2_e5bf8af5e54f_da86ad586f.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

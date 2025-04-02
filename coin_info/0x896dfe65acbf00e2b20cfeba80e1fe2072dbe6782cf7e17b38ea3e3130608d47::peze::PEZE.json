@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Number Zero",
+  "symbol": "PEZE",
+  "decimals": 9,
+  "coin_type": "0x896dfe65acbf00e2b20cfeba80e1fe2072dbe6782cf7e17b38ea3e3130608d47::peze::PEZE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b49e2178-2bda-41e6-b544-0ae44054fed2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

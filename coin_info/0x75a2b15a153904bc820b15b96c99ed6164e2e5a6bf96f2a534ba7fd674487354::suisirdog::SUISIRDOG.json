@@ -1,0 +1,13 @@
+{
+  "name": "Suisirdog",
+  "symbol": "SUISIRDOG",
+  "decimals": 9,
+  "coin_type": "0x75a2b15a153904bc820b15b96c99ed6164e2e5a6bf96f2a534ba7fd674487354::suisirdog::SUISIRDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1c71867d-79b4-4034-bf6b-501fab29084c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

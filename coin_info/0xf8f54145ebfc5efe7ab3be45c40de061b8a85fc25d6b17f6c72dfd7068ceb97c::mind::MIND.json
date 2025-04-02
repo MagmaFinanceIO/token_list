@@ -1,0 +1,13 @@
+{
+  "name": "Mind",
+  "symbol": "MIND",
+  "decimals": 6,
+  "coin_type": "0xf8f54145ebfc5efe7ab3be45c40de061b8a85fc25d6b17f6c72dfd7068ceb97c::mind::MIND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cb7f4dbe-262a-40e6-bf64-09b0aec09570.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

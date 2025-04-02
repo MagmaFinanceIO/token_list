@@ -1,0 +1,13 @@
+{
+  "name": "SNOWCOIN",
+  "symbol": "SNOWCOIN",
+  "decimals": 9,
+  "coin_type": "0x4f7144e69f5c15a78928713980095edbc2c7da028e78579ed3c862e5fb898af1::snowcoin::SNOWCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

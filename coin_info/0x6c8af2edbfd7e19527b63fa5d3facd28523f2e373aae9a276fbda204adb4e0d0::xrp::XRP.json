@@ -1,0 +1,13 @@
+{
+  "name": "xrp",
+  "symbol": "xrp",
+  "decimals": 9,
+  "coin_type": "0x6c8af2edbfd7e19527b63fa5d3facd28523f2e373aae9a276fbda204adb4e0d0::xrp::XRP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b5dc3f2f-c191-475f-a1f4-a20255577fd9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

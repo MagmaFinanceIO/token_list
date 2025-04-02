@@ -1,0 +1,13 @@
+{
+  "name": "AI AGENT",
+  "symbol": "AIAGENT",
+  "decimals": 9,
+  "coin_type": "0x7d6180d84983f2d1bcf54045eeff9d6f89dd50f60248f75ee2ccca4a221f610a::aiagent::AIAGENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ETbWnkuuUXqjobRyMcgKtzPX8ncDdZVFnKCjKV2so1Ph.png?size=lg&key=e691c4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

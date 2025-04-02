@@ -1,0 +1,13 @@
+{
+  "name": "MOOCHENG",
+  "symbol": "MOOCHENG",
+  "decimals": 9,
+  "coin_type": "0xc9b52913f14adc95c52b951ec468bfa6b87b579cbe68f54b8ce9cf59e7f466f4::moocheng::MOOCHENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c8efe096-2776-4493-a174-8ca93c7a9c29.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

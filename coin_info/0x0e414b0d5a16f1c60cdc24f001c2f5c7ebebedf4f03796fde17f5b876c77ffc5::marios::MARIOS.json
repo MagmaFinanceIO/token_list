@@ -1,0 +1,13 @@
+{
+  "name": "AI Mario On Sui",
+  "symbol": "MARIOS",
+  "decimals": 9,
+  "coin_type": "0x0e414b0d5a16f1c60cdc24f001c2f5c7ebebedf4f03796fde17f5b876c77ffc5::marios::MARIOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/104c9773-efc8-4cdb-affe-bf6f8b17c9ed.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Minidoge",
+  "symbol": "MINIDOGE",
+  "decimals": 9,
+  "coin_type": "0xe38483bf6062b94e88f8cbe5076894bfcc6e32293b7bc22c6d846e46f4650436::minidoge::MINIDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8J6CexwfJ8CSzn2DgWhzQe1NHd2hK9DKX59FCNNMo2hu.png?size=xl&key=80cfa8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

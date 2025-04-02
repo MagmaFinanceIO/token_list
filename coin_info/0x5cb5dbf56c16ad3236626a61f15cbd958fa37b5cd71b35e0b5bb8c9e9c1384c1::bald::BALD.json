@@ -1,0 +1,13 @@
+{
+  "name": "BALD",
+  "symbol": "BALD",
+  "decimals": 9,
+  "coin_type": "0x5cb5dbf56c16ad3236626a61f15cbd958fa37b5cd71b35e0b5bb8c9e9c1384c1::bald::BALD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8fec34ed-cae2-4236-b0ff-c3fc3dacefe8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

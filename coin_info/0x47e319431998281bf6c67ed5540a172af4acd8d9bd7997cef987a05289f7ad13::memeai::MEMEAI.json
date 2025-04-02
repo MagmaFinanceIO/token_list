@@ -1,0 +1,13 @@
+{
+  "name": "Meme Ai",
+  "symbol": "MemeAi",
+  "decimals": 6,
+  "coin_type": "0x47e319431998281bf6c67ed5540a172af4acd8d9bd7997cef987a05289f7ad13::memeai::MEMEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0653_459c5132fd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

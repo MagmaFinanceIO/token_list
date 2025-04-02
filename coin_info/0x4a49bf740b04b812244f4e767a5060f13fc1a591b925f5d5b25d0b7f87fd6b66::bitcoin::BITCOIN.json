@@ -1,0 +1,13 @@
+{
+  "name": "HPOS10I",
+  "symbol": "BITCOIN",
+  "decimals": 6,
+  "coin_type": "0x4a49bf740b04b812244f4e767a5060f13fc1a591b925f5d5b25d0b7f87fd6b66::bitcoin::BITCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7603_f4d921530f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

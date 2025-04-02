@@ -1,0 +1,13 @@
+{
+  "name": "NEXORA AI",
+  "symbol": "NEXAI",
+  "decimals": 6,
+  "coin_type": "0xa3909b15332b79c73c18b0cd63ba9b80c932bc359ed73cabc9124a537823bda7::nexai::NEXAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/DALL_E_2024_12_29_03_15_42_A_futuristic_humanoid_robot_with_a_sleek_and_advanced_design_shown_from_the_front_The_robot_s_face_has_a_symmetrical_human_like_structure_with_glow_f93b4901d4.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

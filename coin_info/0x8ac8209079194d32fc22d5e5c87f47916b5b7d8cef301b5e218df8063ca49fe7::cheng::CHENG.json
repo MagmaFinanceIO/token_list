@@ -1,0 +1,13 @@
+{
+  "name": "Evan Cheng",
+  "symbol": "CHENG",
+  "decimals": 9,
+  "coin_type": "0x8ac8209079194d32fc22d5e5c87f47916b5b7d8cef301b5e218df8063ca49fe7::cheng::CHENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/157057fb-e3c3-410f-8c17-7c5d4db8cf68.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suiwie",
+  "symbol": "SUIWIE",
+  "decimals": 6,
+  "coin_type": "0xfa727dc4177c94d2b446c510318a40f3b1e9b6ee45363decb57881190c827afc::suiwie::SUIWIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_25_14_18_10_3e7b2bc535.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

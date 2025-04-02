@@ -1,0 +1,13 @@
+{
+  "name": "FartSu by SuiAI",
+  "symbol": "FSUI",
+  "decimals": 6,
+  "coin_type": "0x7a5f32dff37d0163f3004d80b4703cc2f607a083d9bab96d240bb1d7c03aeead::fsui::FSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Fart_Sui_6bc2391479.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

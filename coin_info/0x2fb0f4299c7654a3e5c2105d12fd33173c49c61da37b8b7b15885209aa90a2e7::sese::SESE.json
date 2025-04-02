@@ -1,0 +1,13 @@
+{
+  "name": "SESE",
+  "symbol": "SESE",
+  "decimals": 9,
+  "coin_type": "0x2fb0f4299c7654a3e5c2105d12fd33173c49c61da37b8b7b15885209aa90a2e7::sese::SESE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xdd69c4c6c7fe3aa3ac2ea256ab253616ea318ce0.png?size=lg&key=74ed3a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

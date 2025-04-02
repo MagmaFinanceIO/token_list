@@ -1,0 +1,13 @@
+{
+  "name": "Tremp",
+  "symbol": "TREMP",
+  "decimals": 6,
+  "coin_type": "0x90dfea6be3a0eeecc542ecc1476462c7e9976df47109bed87e1244f777146bb4::tremp::TREMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qme4_Lo5_Y_Xuebx_WUPZ_7_Sz_B3vu1n9sr_Ezhex6a_Gv1_ZN_8_Yf_Z3_6f458ddcec.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

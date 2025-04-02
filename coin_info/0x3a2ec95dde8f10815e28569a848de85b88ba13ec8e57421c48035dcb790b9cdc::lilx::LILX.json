@@ -1,0 +1,13 @@
+{
+  "name": "LIL X",
+  "symbol": "LILX",
+  "decimals": 9,
+  "coin_type": "0x3a2ec95dde8f10815e28569a848de85b88ba13ec8e57421c48035dcb790b9cdc::lilx::LILX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x21ea45fe9d638f1bfc61a80d1006fac403ed0ea0.png?size=xl&key=350ddf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

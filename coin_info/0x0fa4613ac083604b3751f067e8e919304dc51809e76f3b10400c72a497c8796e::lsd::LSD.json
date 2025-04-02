@@ -1,0 +1,13 @@
+{
+  "name": "Liquid Sui Derivative 42069",
+  "symbol": "LSD",
+  "decimals": 9,
+  "coin_type": "0x0fa4613ac083604b3751f067e8e919304dc51809e76f3b10400c72a497c8796e::lsd::LSD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a075d7f6-3b25-433c-8170-e405873bd691.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

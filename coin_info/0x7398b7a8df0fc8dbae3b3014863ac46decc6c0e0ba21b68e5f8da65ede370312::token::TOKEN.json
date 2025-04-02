@@ -1,0 +1,13 @@
+{
+  "name": "RandomNameChange",
+  "symbol": "RandomName",
+  "decimals": 6,
+  "coin_type": "0x7398b7a8df0fc8dbae3b3014863ac46decc6c0e0ba21b68e5f8da65ede370312::token::TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "data:image/png;base64",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

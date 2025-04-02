@@ -1,0 +1,13 @@
+{
+  "name": "MELLOW MAN by Matt Furie",
+  "symbol": "MELLOW",
+  "decimals": 9,
+  "coin_type": "0xb6ede2b068d76c2a89e8873917e029b1824cc8dfc12e5c0dc9de1b7dba4ecbe4::mellow::MELLOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmR8NL1JHPqU2Cgmj6LvR52yxkLhoGTebpsCkyjRoV5EzJ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

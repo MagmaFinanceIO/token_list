@@ -1,0 +1,13 @@
+{
+  "name": "Kenzo on SUI",
+  "symbol": "KENZO",
+  "decimals": 6,
+  "coin_type": "0xcbbf2113e76c6c1bbcac67c5811564336a09ce9fb6eafd8dd9d0c5a364c4e554::kenzo::KENZO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_2_Recovered_5299d5837b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

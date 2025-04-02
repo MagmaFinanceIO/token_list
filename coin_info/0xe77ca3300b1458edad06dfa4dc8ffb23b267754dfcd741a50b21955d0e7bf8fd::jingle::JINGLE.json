@@ -1,0 +1,13 @@
+{
+  "name": "Jingle Bags",
+  "symbol": "jingle",
+  "decimals": 9,
+  "coin_type": "0xe77ca3300b1458edad06dfa4dc8ffb23b267754dfcd741a50b21955d0e7bf8fd::jingle::JINGLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Hj6YuSaDdxb1fYv5ZrvuEm77wqwA8E4NSrpjRfvYpump.png?size=lg&key=2d9f60",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

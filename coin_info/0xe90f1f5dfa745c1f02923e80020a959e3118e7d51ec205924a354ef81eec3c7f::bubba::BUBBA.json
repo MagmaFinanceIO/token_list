@@ -1,0 +1,13 @@
+{
+  "name": "BUBBA",
+  "symbol": "BUBBA",
+  "decimals": 9,
+  "coin_type": "0xe90f1f5dfa745c1f02923e80020a959e3118e7d51ec205924a354ef81eec3c7f::bubba::BUBBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/390a1d57-35b2-4cf2-8dc4-52b217eb1c00.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

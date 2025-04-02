@@ -1,0 +1,13 @@
+{
+  "name": "Retarded Pengu",
+  "symbol": "PEENGU",
+  "decimals": 9,
+  "coin_type": "0x61a3bf7ed59d8e7a4970cd832b32d755c4cec039c365f8db719fb0f666998624::peengu::PEENGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FtZELgKT5RZkko2n42dUEcGcN95EaQcDgw43jqN4Tmio.png?size=lg&key=e521bd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

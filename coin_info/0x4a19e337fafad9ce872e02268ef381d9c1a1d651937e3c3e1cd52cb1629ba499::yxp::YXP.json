@@ -1,0 +1,13 @@
+{
+  "name": "YXP",
+  "symbol": "YXP",
+  "decimals": 9,
+  "coin_type": "0x4a19e337fafad9ce872e02268ef381d9c1a1d651937e3c3e1cd52cb1629ba499::yxp::YXP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "OraclexAI",
+  "symbol": "ORAC",
+  "decimals": 6,
+  "coin_type": "0xdb0e63900c51a7c080beaf941f389ceb4e96dd72aaa955a3c47e5ac21587dc2f::orac::ORAC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/quem_controla_criptomoedas_8654b6d32c.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

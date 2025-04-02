@@ -1,0 +1,13 @@
+{
+  "name": "DEGEN TAYLOR",
+  "symbol": "DEGEN",
+  "decimals": 9,
+  "coin_type": "0x29f562779821bd72c91e779d4f825c051eb870ebef12a57c04fa0357dca3bc44::degen::DEGEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ATEWnH7CyLUyDAYVnUS4jxBi243SWUnBmmpRf3QRpump.png?size=lg&key=980bb5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

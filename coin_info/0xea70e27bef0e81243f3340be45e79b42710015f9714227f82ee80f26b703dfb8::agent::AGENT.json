@@ -1,0 +1,13 @@
+{
+  "name": "Sui First A.I. Agent",
+  "symbol": "Agent",
+  "decimals": 6,
+  "coin_type": "0xea70e27bef0e81243f3340be45e79b42710015f9714227f82ee80f26b703dfb8::agent::AGENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_8895_f603196f0c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

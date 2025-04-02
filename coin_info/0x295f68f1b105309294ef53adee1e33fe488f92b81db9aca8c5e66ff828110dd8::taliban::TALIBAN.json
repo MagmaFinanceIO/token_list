@@ -1,0 +1,13 @@
+{
+  "name": "Official Taliban Coin",
+  "symbol": "TALIBAN",
+  "decimals": 9,
+  "coin_type": "0x295f68f1b105309294ef53adee1e33fe488f92b81db9aca8c5e66ff828110dd8::taliban::TALIBAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HsXQpS5NwCmaTiiWTHo12CeNZTpqYeH11w39pTz4pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Scoutly AI",
+  "symbol": "SCOUT",
+  "decimals": 9,
+  "coin_type": "0xe13494c721ad7c9393ce8cd8b2bff446ca799a7e686b0b83a5594ef1a0300181::scout::SCOUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GLPdQwGtjcynj3RLraenPeR9v1REnpdyuciPBpVipump.png?size=lg&key=3e42db",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

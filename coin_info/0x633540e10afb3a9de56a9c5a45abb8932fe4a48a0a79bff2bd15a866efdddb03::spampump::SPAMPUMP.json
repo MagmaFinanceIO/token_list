@@ -1,0 +1,13 @@
+{
+  "name": "SpamPump",
+  "symbol": "SPAMPUMP",
+  "decimals": 6,
+  "coin_type": "0x633540e10afb3a9de56a9c5a45abb8932fe4a48a0a79bff2bd15a866efdddb03::spampump::SPAMPUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6fe6eeaf-fc43-4d14-98a3-975f9dc6a8df.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

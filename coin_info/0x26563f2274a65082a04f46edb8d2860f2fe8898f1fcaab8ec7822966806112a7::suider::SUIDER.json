@@ -1,0 +1,13 @@
+{
+  "name": "Suidermon",
+  "symbol": "SUIDER",
+  "decimals": 9,
+  "coin_type": "0x26563f2274a65082a04f46edb8d2860f2fe8898f1fcaab8ec7822966806112a7::suider::SUIDER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fcec4e5e-49eb-45e0-9a81-59aa101ed40d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

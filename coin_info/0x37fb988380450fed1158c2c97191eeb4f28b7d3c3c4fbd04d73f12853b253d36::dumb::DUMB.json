@@ -1,0 +1,13 @@
+{
+  "name": "Sui Dumb",
+  "symbol": "DUMB",
+  "decimals": 9,
+  "coin_type": "0x37fb988380450fed1158c2c97191eeb4f28b7d3c3c4fbd04d73f12853b253d36::dumb::DUMB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/493a01e4-e455-4077-aec1-6b4b0e6e84a6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

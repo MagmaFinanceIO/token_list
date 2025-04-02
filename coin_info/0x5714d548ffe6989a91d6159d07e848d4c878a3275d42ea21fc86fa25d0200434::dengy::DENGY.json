@@ -1,0 +1,13 @@
+{
+  "name": "Dengy Zap",
+  "symbol": "DengY",
+  "decimals": 9,
+  "coin_type": "0x5714d548ffe6989a91d6159d07e848d4c878a3275d42ea21fc86fa25d0200434::dengy::DENGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fcad4418-2cf2-4788-98fe-cd33c4892218.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

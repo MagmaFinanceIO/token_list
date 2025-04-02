@@ -1,0 +1,13 @@
+{
+  "name": "Degen Cat",
+  "symbol": "DegenCat",
+  "decimals": 9,
+  "coin_type": "0x82c6a90974e15271afbac97212a1be5fb53638d5b23e3331695d367f1e39f3cc::degencat::DEGENCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/93e83362-16be-43aa-865f-ec086736c0c2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

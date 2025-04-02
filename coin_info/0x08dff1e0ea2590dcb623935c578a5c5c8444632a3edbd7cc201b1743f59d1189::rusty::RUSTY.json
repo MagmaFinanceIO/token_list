@@ -1,0 +1,13 @@
+{
+  "name": "Rusty the Bald Robot",
+  "symbol": "RUSTY",
+  "decimals": 9,
+  "coin_type": "0x08dff1e0ea2590dcb623935c578a5c5c8444632a3edbd7cc201b1743f59d1189::rusty::RUSTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/504/201/large/amal-hamza-stillshot1-tmp.jpg?1727757379",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

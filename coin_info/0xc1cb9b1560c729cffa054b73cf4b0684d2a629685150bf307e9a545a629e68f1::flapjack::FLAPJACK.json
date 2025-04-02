@@ -1,0 +1,13 @@
+{
+  "name": "FlapJack",
+  "symbol": "FlapJack",
+  "decimals": 9,
+  "coin_type": "0xc1cb9b1560c729cffa054b73cf4b0684d2a629685150bf307e9a545a629e68f1::flapjack::FLAPJACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/95f97925-8151-4c32-be58-0ad79f81d241.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

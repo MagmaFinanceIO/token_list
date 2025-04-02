@@ -1,0 +1,13 @@
+{
+  "name": "DOLPHIN",
+  "symbol": "DOLPHIN",
+  "decimals": 9,
+  "coin_type": "0xc545ca882064b4720bbb87605ade8a252a7c3a556d9295cf22f532587df00f03::dolphin::DOLPHIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/88516394-8796-4c3a-a914-b5e6f9d8db39.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

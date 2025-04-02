@@ -1,0 +1,13 @@
+{
+  "name": "LARDCOIN",
+  "symbol": "LARDCOIN",
+  "decimals": 9,
+  "coin_type": "0xe06dca08deb8a3c6fff25c10139132ad7f92fa7df1248a819ababe3bd85badf2::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

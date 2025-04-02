@@ -1,0 +1,13 @@
+{
+  "name": "Bluefin",
+  "symbol": "BLUE",
+  "decimals": 9,
+  "coin_type": "0x1556eac1a2f63542c0b8a701196381d7c041af2cf0aa48f390c47735381492f4::blue::BLUE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://strapi-dev.scand.app/uploads/Bluefin_New_Logo_80b8b98ab4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

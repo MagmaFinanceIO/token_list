@@ -1,0 +1,13 @@
+{
+  "name": "blue eyed cat",
+  "symbol": "bCAT",
+  "decimals": 9,
+  "coin_type": "0x234f345c50f3bc75062e87cfe4b4ef854bcc3b6493e082ee07b4863f09113ebb::bcat::BCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4d429009-ba56-4007-97ad-7d6e4cb93334.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

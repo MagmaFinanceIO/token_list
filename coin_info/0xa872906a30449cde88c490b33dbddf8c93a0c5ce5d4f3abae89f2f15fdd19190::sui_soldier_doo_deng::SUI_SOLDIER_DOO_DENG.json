@@ -1,0 +1,13 @@
+{
+  "name": "Sui_Soldier_doo_Deng",
+  "symbol": "Sui_Soldier_doo_Deng",
+  "decimals": 9,
+  "coin_type": "0xa872906a30449cde88c490b33dbddf8c93a0c5ce5d4f3abae89f2f15fdd19190::sui_soldier_doo_deng::SUI_SOLDIER_DOO_DENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/654719ca-94d6-4663-86be-4986f44e01f3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Health AI USA",
+  "symbol": "HEAI",
+  "decimals": 9,
+  "coin_type": "0x32814b084d34225b868c47949fda28b7d7a9d0cebc60161f2638344e4b57a42a::heai::HEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/zJkjcqRpGKpT2Ux6TNiV2eee93NgrHkuysBkC9spump.png?size=lg&key=2591a1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Lobster Mobster",
+  "symbol": "LOBMOB",
+  "decimals": 9,
+  "coin_type": "0xb683988e3db3dd97a6638315deff997f1dc058a2ff89fc30d96656a8d26367d6::lobmob::LOBMOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e7f0b3fb-fb19-48db-837c-f2fbc2cb9f17.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

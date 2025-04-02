@@ -1,0 +1,13 @@
+{
+  "name": "Bravo BTC100K",
+  "symbol": "BTC100K",
+  "decimals": 9,
+  "coin_type": "0xca70ef53807a5ab9b598c9762b3406fd71b607d95dfbec5af73ba0ac662419e0::btc100k::BTC100K",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9cBShSYUmNRxHohfz2Nb4Gyt6jnZq7WKrZp9kssdECrS.png?size=lg&key=8d07aa",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "suifun",
+  "symbol": "SUIFUN",
+  "decimals": 9,
+  "coin_type": "0xf634d12aa07b26b386de9f7ee8fb327a62ffaf6d83cc480b940c04e2793b0b2f::suifun::SUIFUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

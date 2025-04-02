@@ -1,0 +1,13 @@
+{
+  "name": "SUIKONG",
+  "symbol": "SUIKONG",
+  "decimals": 9,
+  "coin_type": "0x359bde2aa025e20f38b57dfdcdfc8ef4000d01e22ac5fda1843202729e48a1d2::suikong::SUIKONG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e5fd0495-2a69-4b69-a982-c52b05e9fe17.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

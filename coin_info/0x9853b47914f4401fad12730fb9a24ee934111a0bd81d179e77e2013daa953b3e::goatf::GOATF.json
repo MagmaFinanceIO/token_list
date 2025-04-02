@@ -1,0 +1,13 @@
+{
+  "name": "The Goat Father",
+  "symbol": "GOATF",
+  "decimals": 9,
+  "coin_type": "0x9853b47914f4401fad12730fb9a24ee934111a0bd81d179e77e2013daa953b3e::goatf::GOATF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1cd0d4f5-4ede-49ae-9bc9-ccc2f5701b6f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

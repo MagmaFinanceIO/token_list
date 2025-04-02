@@ -1,0 +1,13 @@
+{
+  "name": "FireverseAI",
+  "symbol": "FIVER",
+  "decimals": 6,
+  "coin_type": "0x905f80565cb4365a926dbc9ce7deea8e3c2942a297d667d9882b1812e1075af9::fiver::FIVER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/639d3f56-f8cb-4975-b2df-02b8735fa65c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

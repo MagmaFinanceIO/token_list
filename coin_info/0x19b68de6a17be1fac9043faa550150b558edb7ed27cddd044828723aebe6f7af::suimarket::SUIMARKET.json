@@ -1,0 +1,13 @@
+{
+  "name": "Sui Market",
+  "symbol": "SuiMarket",
+  "decimals": 6,
+  "coin_type": "0x19b68de6a17be1fac9043faa550150b558edb7ed27cddd044828723aebe6f7af::suimarket::SUIMARKET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/S_logo_1_0fb070ba32.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

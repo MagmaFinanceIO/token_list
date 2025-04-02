@@ -1,0 +1,13 @@
+{
+  "name": "Samantha",
+  "symbol": "SAMANTHA",
+  "decimals": 9,
+  "coin_type": "0x0881472dbeb0519e28ea713b98606a1f9ccb00c730634a9866345316b0ace6ea::samantha::SAMANTHA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e4b1f268-08a7-4568-bada-322adf67ec4a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

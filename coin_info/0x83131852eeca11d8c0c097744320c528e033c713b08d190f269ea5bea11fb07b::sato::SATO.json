@@ -1,0 +1,13 @@
+{
+  "name": "Sato",
+  "symbol": "SATO",
+  "decimals": 9,
+  "coin_type": "0x83131852eeca11d8c0c097744320c528e033c713b08d190f269ea5bea11fb07b::sato::SATO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/5UmHlBQx7CMrbXeo?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

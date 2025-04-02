@@ -1,0 +1,13 @@
+{
+  "name": "Chiko",
+  "symbol": "CHIKO",
+  "decimals": 6,
+  "coin_type": "0x05b8f21445836e73633b6fcb0b348a267bc0ad6f42356f449adef3a11b9a3268::chiko::CHIKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/78792208-9579-4622-abb7-1500c95c69d2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

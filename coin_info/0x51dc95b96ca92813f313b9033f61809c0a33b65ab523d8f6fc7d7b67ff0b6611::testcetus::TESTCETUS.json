@@ -1,0 +1,13 @@
+{
+  "name": "TESTCETUS",
+  "symbol": "testCetus",
+  "decimals": 9,
+  "coin_type": "0x51dc95b96ca92813f313b9033f61809c0a33b65ab523d8f6fc7d7b67ff0b6611::testcetus::TESTCETUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "example.com",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

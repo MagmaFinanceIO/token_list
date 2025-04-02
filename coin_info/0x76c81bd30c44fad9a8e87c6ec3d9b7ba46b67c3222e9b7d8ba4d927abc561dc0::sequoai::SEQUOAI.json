@@ -1,0 +1,13 @@
+{
+  "name": "Sequoai",
+  "symbol": "SEQUOAI",
+  "decimals": 9,
+  "coin_type": "0x76c81bd30c44fad9a8e87c6ec3d9b7ba46b67c3222e9b7d8ba4d927abc561dc0::sequoai::SEQUOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmXTRVkifsChygwYQQvr1oG8pQ5Y7FSy2YbxBTrDCkEqvF",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

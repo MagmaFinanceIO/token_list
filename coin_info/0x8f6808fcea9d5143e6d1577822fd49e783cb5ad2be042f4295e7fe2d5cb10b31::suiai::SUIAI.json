@@ -1,0 +1,13 @@
+{
+  "name": "SUI AI",
+  "symbol": "SUIAI",
+  "decimals": 2,
+  "coin_type": "0x8f6808fcea9d5143e6d1577822fd49e783cb5ad2be042f4295e7fe2d5cb10b31::suiai::SUIAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a6d535f8-bf21-4961-8abc-7709b0f64b6d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

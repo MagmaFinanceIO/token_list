@@ -1,0 +1,13 @@
+{
+  "name": "AAADOG",
+  "symbol": "aaaDOG",
+  "decimals": 6,
+  "coin_type": "0xd8f10f60219bac38d8677ffa22b398e5b9b5362c1a86ed7c16730c0bacea4168::aaadog::AAADOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_09_14_00_36_47_9149f11102.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

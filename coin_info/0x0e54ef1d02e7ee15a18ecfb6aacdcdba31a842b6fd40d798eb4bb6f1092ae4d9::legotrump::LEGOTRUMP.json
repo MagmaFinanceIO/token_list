@@ -1,0 +1,13 @@
+{
+  "name": "Lego Trump",
+  "symbol": "LEGOTRUMP",
+  "decimals": 6,
+  "coin_type": "0x0e54ef1d02e7ee15a18ecfb6aacdcdba31a842b6fd40d798eb4bb6f1092ae4d9::legotrump::LEGOTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_1b015904a3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

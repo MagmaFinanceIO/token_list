@@ -1,0 +1,13 @@
+{
+  "name": "Acid Toad",
+  "symbol": "TOAD",
+  "decimals": 9,
+  "coin_type": "0xdd2fcd89cb46efabc3c8842ea4eb586531b9f9a290238193e4094202b023255b::toad::TOAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmdHkMikgjujJea6xyhnMqDz3axA4HrMtiFzuMJKGVT226",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

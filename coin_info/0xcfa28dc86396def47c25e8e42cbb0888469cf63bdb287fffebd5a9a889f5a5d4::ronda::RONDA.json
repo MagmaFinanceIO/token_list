@@ -1,0 +1,13 @@
+{
+  "name": "RondaOnSui",
+  "symbol": "Ronda",
+  "decimals": 6,
+  "coin_type": "0xcfa28dc86396def47c25e8e42cbb0888469cf63bdb287fffebd5a9a889f5a5d4::ronda::RONDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/11jpg_9729c3880b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

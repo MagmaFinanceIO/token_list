@@ -1,0 +1,13 @@
+{
+  "name": "Stark Elon Pepe Sui",
+  "symbol": "SPEPE",
+  "decimals": 9,
+  "coin_type": "0x6bf63dadc3e7ded18152859719fd6b1d68d5c544c7adec4e8853dec767c9d057::spepe::SPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2363351f-dd9a-40cf-bf25-28d736457e4a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

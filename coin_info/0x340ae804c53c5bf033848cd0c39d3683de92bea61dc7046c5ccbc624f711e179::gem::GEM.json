@@ -1,0 +1,13 @@
+{
+  "name": "Gem",
+  "symbol": "GEM",
+  "decimals": 9,
+  "coin_type": "0x340ae804c53c5bf033848cd0c39d3683de92bea61dc7046c5ccbc624f711e179::gem::GEM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://static.wikia.nocookie.net/hypixel-skyblock/images/5/5c/Enchanted_Diamond.png/revision/latest?cb=20210609012911",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

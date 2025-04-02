@@ -1,0 +1,13 @@
+{
+  "name": "TrumpAi",
+  "symbol": "TRUMPAI",
+  "decimals": 6,
+  "coin_type": "0x89d362e900d888a561e3e66927ae998fcd606b9a96b696bb107d3012e39b35f5::trumpai::TRUMPAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Screenshot_20241227_000814_Discord_adc2a1aef5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

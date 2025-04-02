@@ -1,0 +1,13 @@
+{
+  "name": "DeepSound",
+  "symbol": "DEEPSOUND",
+  "decimals": 9,
+  "coin_type": "0x13be724b551a5e83a91944ea906a6491401eeb91115df1cd8c5228076266fba3::deepsound::DEEPSOUND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8bwMih9mv6jwCuAaLzU2EqkVW4Lvjo7PiC56NhZdpump.png?size=lg&key=527c99",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Holy",
+  "symbol": "holy",
+  "decimals": 9,
+  "coin_type": "0x5ffa5bf660d3045cdfac47f2d99f07e529a8d73d38810c833db917ead5a26ff5::holy::HOLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/58y23mKohBMkt1AuMSz9TYaUZEgdfQaNkp8CtaY5pump.png?size=xl&key=73a049",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

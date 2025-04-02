@@ -1,0 +1,13 @@
+{
+  "name": "SUIKING",
+  "symbol": "SUIKING",
+  "decimals": 9,
+  "coin_type": "0x3a265b27edbf36b7c78707648aacfe7a6abdb130b0148b9f7c925de8b090699a::firoll::FIROLL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafybeiecppfzpgx7xosf7h4a2zistip2d4lawqkwsp2dtp3ucmjpmnb6tq.ipfs.nftstorage.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

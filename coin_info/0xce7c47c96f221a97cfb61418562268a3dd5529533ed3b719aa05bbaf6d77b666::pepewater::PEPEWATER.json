@@ -1,0 +1,13 @@
+{
+  "name": "Pepe In The Water",
+  "symbol": "PEPEWATER",
+  "decimals": 6,
+  "coin_type": "0xce7c47c96f221a97cfb61418562268a3dd5529533ed3b719aa05bbaf6d77b666::pepewater::PEPEWATER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_12_07_31_12_638a12bf24.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

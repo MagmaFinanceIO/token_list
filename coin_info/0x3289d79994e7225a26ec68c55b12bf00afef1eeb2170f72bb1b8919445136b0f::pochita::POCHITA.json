@@ -1,0 +1,13 @@
+{
+  "name": "Pochita On Sui",
+  "symbol": "POCHITA",
+  "decimals": 9,
+  "coin_type": "0x3289d79994e7225a26ec68c55b12bf00afef1eeb2170f72bb1b8919445136b0f::pochita::POCHITA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c2f34317-47e2-4476-9269-178c06ec1123.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

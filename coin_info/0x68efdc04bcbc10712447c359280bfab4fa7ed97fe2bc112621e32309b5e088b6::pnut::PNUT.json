@@ -1,0 +1,13 @@
+{
+  "name": "Peanut",
+  "symbol": "PNUT",
+  "decimals": 6,
+  "coin_type": "0x68efdc04bcbc10712447c359280bfab4fa7ed97fe2bc112621e32309b5e088b6::pnut::PNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmT8Zmj2bxeoHmJWKfcZnPGBvL1mVBJtvF58TU9ymuph2A",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

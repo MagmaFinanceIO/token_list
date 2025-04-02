@@ -1,0 +1,13 @@
+{
+  "name": "TRUMPIUS",
+  "symbol": "TRUMPIUS",
+  "decimals": 9,
+  "coin_type": "0x8d4a0fb597301a0ddb8180305169d0981300a48b410d9cf631f8e7c60cb13648::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

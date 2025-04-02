@@ -1,0 +1,13 @@
+{
+  "name": "Swerve on Sui",
+  "symbol": "SUIRVE",
+  "decimals": 9,
+  "coin_type": "0x3dc8982e9e88ab8c512acd09742e505eec3d350476ffa572118f7ea6442225ee::suirve::SUIRVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6be61aed-0890-4352-800e-b65f191f5aaa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

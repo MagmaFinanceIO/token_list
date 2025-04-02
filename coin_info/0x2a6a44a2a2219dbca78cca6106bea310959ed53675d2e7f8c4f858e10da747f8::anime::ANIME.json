@@ -1,0 +1,13 @@
+{
+  "name": "AnimeAI",
+  "symbol": "ANIME",
+  "decimals": 9,
+  "coin_type": "0x2a6a44a2a2219dbca78cca6106bea310959ed53675d2e7f8c4f858e10da747f8::anime::ANIME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/33aa6a0c-71a5-47e9-bbf8-98c4a766710f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

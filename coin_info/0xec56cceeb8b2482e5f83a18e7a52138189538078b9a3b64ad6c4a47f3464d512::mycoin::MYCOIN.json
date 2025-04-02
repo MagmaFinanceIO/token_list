@@ -1,0 +1,13 @@
+{
+  "name": "CYBERTRUMP ON SUI",
+  "symbol": "CYBERTRUMP",
+  "decimals": 9,
+  "coin_type": "0xec56cceeb8b2482e5f83a18e7a52138189538078b9a3b64ad6c4a47f3464d512::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

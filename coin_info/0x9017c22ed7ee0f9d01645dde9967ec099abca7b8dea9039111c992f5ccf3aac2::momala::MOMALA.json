@@ -1,0 +1,13 @@
+{
+  "name": "KAMALA COIN (MOMALA)",
+  "symbol": "MOMALA",
+  "decimals": 6,
+  "coin_type": "0x9017c22ed7ee0f9d01645dde9967ec099abca7b8dea9039111c992f5ccf3aac2::momala::MOMALA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Coin_512x512_8ac273d0d0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

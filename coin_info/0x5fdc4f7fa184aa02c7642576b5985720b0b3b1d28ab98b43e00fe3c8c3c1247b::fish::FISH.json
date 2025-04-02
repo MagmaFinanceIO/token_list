@@ -1,0 +1,13 @@
+{
+  "name": "FISH",
+  "symbol": "FISH",
+  "decimals": 6,
+  "coin_type": "0x5fdc4f7fa184aa02c7642576b5985720b0b3b1d28ab98b43e00fe3c8c3c1247b::fish::FISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/fish.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

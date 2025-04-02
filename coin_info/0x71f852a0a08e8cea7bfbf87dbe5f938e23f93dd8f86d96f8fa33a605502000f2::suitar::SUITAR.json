@@ -1,0 +1,13 @@
+{
+  "name": "🎸 Guitar on Sui",
+  "symbol": "SUITAR",
+  "decimals": 9,
+  "coin_type": "0x71f852a0a08e8cea7bfbf87dbe5f938e23f93dd8f86d96f8fa33a605502000f2::suitar::SUITAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/965ab01b-955b-4a58-9ae1-14de649de003.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

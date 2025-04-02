@@ -1,0 +1,13 @@
+{
+  "name": "Shibetoshi Nakamoto On Sui",
+  "symbol": "BillySui",
+  "decimals": 9,
+  "coin_type": "0x39e7eb9a5d35004583d0110f3ea2837e623c33abdf3e690e0555aaa005ce8d6f::billysui::BILLYSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmfKZYcPqP3EHubZDKQ448C3Sx7sfVWovDh3EPMUdkiU7o",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

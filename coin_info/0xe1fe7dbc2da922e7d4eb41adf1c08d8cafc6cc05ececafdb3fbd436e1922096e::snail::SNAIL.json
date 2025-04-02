@@ -1,0 +1,13 @@
+{
+  "name": "Turbosnail",
+  "symbol": "Snail",
+  "decimals": 6,
+  "coin_type": "0xe1fe7dbc2da922e7d4eb41adf1c08d8cafc6cc05ececafdb3fbd436e1922096e::snail::SNAIL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730723361970.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI DENG",
+  "symbol": "SUIDENG",
+  "decimals": 6,
+  "coin_type": "0x791647959802eb8ac2a211cea04aef53bce734351acdcc0d32cbbb993b0d8c94::suideng::SUIDENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731009002864.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Dogs WOOF WOOF",
+  "symbol": "ELODOGS",
+  "decimals": 6,
+  "coin_type": "0x33cbbc11127bdf0a9468bccf0ee18398a8785efeb804cf40ab084c7d56ed4ba8::elodogs::ELODOGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.hydropump.xyz/logo/01JCG9AYJ70Y9HY0SG13ZV7SAE/01JCGA1CG580BBBNC1FWDGHTQP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

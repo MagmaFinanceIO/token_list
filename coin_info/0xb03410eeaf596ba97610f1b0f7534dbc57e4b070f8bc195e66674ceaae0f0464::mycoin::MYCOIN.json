@@ -1,0 +1,13 @@
+{
+  "name": "X Æ A-12",
+  "symbol": "XAEA12",
+  "decimals": 9,
+  "coin_type": "0xb03410eeaf596ba97610f1b0f7534dbc57e4b070f8bc195e66674ceaae0f0464::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

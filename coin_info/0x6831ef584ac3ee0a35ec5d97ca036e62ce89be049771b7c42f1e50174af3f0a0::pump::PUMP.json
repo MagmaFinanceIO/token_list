@@ -1,0 +1,13 @@
+{
+  "name": "Pixel Unicorn Making Profits",
+  "symbol": "PUMP",
+  "decimals": 9,
+  "coin_type": "0x6831ef584ac3ee0a35ec5d97ca036e62ce89be049771b7c42f1e50174af3f0a0::pump::PUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BH1WNbk1Z9BuxFH7uBUXcM79HLcpKKzDaKnBXJkEpump.png?size=lg&key=eba8f4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

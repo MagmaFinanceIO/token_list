@@ -1,0 +1,13 @@
+{
+  "name": "Chillius Maximus",
+  "symbol": "CHILLIUS",
+  "decimals": 9,
+  "coin_type": "0xfbfa84a6bbb867994689c1f48c5db5a6a8d6073c53e6385b6db7428cf3fad7dd::chillius::CHILLIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CWyuc8PeaF5gxkxKxmafKg853R7YH1AgYkj76dd9pump.png?size=lg&key=682fdf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

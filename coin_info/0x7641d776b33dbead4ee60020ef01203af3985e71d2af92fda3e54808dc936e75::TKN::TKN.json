@@ -1,0 +1,13 @@
+{
+  "name": "Token",
+  "symbol": "TKN",
+  "decimals": 9,
+  "coin_type": "0x7641d776b33dbead4ee60020ef01203af3985e71d2af92fda3e54808dc936e75::TKN::TKN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://app.magmafinance.io/api/logo/0x7641d776b33dbead4ee60020ef01203af3985e71d2af92fda3e54808dc936e75::TKN::TKN.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

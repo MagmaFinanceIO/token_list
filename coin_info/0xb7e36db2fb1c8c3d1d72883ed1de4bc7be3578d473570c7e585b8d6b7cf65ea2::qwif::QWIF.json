@@ -1,0 +1,13 @@
+{
+  "name": "quokka wif hat",
+  "symbol": "QWIF",
+  "decimals": 6,
+  "coin_type": "0xb7e36db2fb1c8c3d1d72883ed1de4bc7be3578d473570c7e585b8d6b7cf65ea2::qwif::QWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Image_22d9a1cb35.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

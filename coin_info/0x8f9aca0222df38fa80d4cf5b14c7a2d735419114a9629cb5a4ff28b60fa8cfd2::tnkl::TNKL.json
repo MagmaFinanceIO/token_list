@@ -1,0 +1,13 @@
+{
+  "name": "TINKLE",
+  "symbol": "TNKL",
+  "decimals": 6,
+  "coin_type": "0x8f9aca0222df38fa80d4cf5b14c7a2d735419114a9629cb5a4ff28b60fa8cfd2::tnkl::TNKL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Tinkle_3_96eb9ad0f5.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

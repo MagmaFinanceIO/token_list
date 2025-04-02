@@ -1,0 +1,13 @@
+{
+  "name": "Peanut",
+  "symbol": "PEANUT",
+  "decimals": 2,
+  "coin_type": "0xc285e3dc3aa07f8b7d288e29e6247428149968487844cd475d9096dc6cebea31::PEANUT::PEANUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/tBanT_SV8dSNvT-Yae_ZbHqBWsrnpcQrbW0UtpcffvM?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

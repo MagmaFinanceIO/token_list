@@ -1,0 +1,13 @@
+{
+  "name": "Pepe.Pump",
+  "symbol": "PEPUMP",
+  "decimals": 9,
+  "coin_type": "0x33c2b495aa3ba75da417b833bc30a9e0f5f29fa93c8eeba2b30744cbd6635716::pepump::PEPUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FPBWSz6CSkKVh4oG7BgyTb416w542URT7yfjtzfQpump.png?size=lg&key=a40a11",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

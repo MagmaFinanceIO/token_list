@@ -1,0 +1,13 @@
+{
+  "name": "Morty",
+  "symbol": "morty",
+  "decimals": 9,
+  "coin_type": "0x05eb8089ad529432ab17aaa6efbd19449c20d55cc707165fe36452d19731dd8e::morty::MORTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafybeiclmczt7j6dyfwrt6sc7cmaepny3lyjvtytkei46gweptmwdlrttq.ipfs.w3s.link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hold it on Sui",
+  "symbol": "HOLD",
+  "decimals": 8,
+  "coin_type": "0xf650095a56628d769473cfb1df16941e8985ac339ba66832f84e2899854e4121::hold::HOLD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/05657081-2694-4adb-b4f1-daf2fef8ac41.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

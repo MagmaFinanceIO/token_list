@@ -1,0 +1,13 @@
+{
+  "name": "$The Anthropic Order",
+  "symbol": "TAO",
+  "decimals": 6,
+  "coin_type": "0x2ecc7a87dafc6b246f97f4bdf91d77a9461726a21aabd55be0b4f35fbadbf981::tao::TAO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1736469100894_e549e63854.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

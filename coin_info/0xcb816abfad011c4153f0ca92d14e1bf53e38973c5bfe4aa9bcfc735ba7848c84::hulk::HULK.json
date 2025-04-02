@@ -1,0 +1,13 @@
+{
+  "name": "HULK",
+  "symbol": "HULK",
+  "decimals": 9,
+  "coin_type": "0xcb816abfad011c4153f0ca92d14e1bf53e38973c5bfe4aa9bcfc735ba7848c84::hulk::HULK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmZo214psHUoGBYVGiaNtDTFZdwB6ZPFShxDd21jCEMSW2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

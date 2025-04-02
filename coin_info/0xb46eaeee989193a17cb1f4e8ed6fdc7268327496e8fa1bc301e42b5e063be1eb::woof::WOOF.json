@@ -1,0 +1,13 @@
+{
+  "name": "WOOF",
+  "symbol": "WOOF",
+  "decimals": 6,
+  "coin_type": "0xb46eaeee989193a17cb1f4e8ed6fdc7268327496e8fa1bc301e42b5e063be1eb::woof::WOOF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.okx.com/cdn/web3/currency/token/607-EQDwpFzHxJm7ekUcmjcvfoCa_XikggHbn8wlpuAheiRfSSm8-98.png/type=default_350_0?v=1735632440681&x-oss-process=image/format,webp/ignore-error,1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

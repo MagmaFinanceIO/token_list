@@ -1,0 +1,13 @@
+{
+  "name": "LASTOSIRI",
+  "symbol": "LASTOSIRII",
+  "decimals": 9,
+  "coin_type": "0x2b8a2cfcc77c6f5667e62fb62b5fea01942a8147669a057c6da8bf46120cacc7::lastosirii::LASTOSIRII",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Broken Banana",
+  "symbol": "BrokenBanana",
+  "decimals": 9,
+  "coin_type": "0x557843bc7da5dfcea210c8412c65023be17d13390610f0041f621aa5867e033c::brokenbanana::BROKENBANANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b372810b-0e45-4a3d-b5d7-2c98e8085593.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

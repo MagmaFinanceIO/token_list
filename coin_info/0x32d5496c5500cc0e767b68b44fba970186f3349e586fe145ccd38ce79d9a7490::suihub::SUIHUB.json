@@ -1,0 +1,13 @@
+{
+  "name": "SUI HUB by SuiAI",
+  "symbol": "SUIHUB",
+  "decimals": 6,
+  "coin_type": "0x32d5496c5500cc0e767b68b44fba970186f3349e586fe145ccd38ce79d9a7490::suihub::SUIHUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/suihub1_4379ea6e7e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

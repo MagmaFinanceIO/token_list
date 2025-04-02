@@ -1,0 +1,13 @@
+{
+  "name": "BlueFood by SuiAI",
+  "symbol": "BLUE",
+  "decimals": 6,
+  "coin_type": "0x61b5a7d64ba40afee3eac29e8f9aeaeb6e55b71c8a182a05d0a00d59aafbedf1::blue::BLUE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/8_Jnjwrb_V_400x400_29458433f5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

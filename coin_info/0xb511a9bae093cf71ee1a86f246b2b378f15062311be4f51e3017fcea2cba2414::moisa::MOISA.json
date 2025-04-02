@@ -1,0 +1,13 @@
+{
+  "name": "MOISA",
+  "symbol": "moisa",
+  "decimals": 9,
+  "coin_type": "0xb511a9bae093cf71ee1a86f246b2b378f15062311be4f51e3017fcea2cba2414::moisa::MOISA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

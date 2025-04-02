@@ -1,0 +1,13 @@
+{
+  "name": "HADES AI AGENT",
+  "symbol": "HADESAI",
+  "decimals": 9,
+  "coin_type": "0x6dafcddc50e67fb012a3444bd918d2e74567442adf7f4da5391c0a9c74dbdcee::hadesai::HADESAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/NBiFWtyKuMmPGuWD9D9LKNV5xqGadhXyT9u4SqjaYnn.png?size=lg&key=b50646",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

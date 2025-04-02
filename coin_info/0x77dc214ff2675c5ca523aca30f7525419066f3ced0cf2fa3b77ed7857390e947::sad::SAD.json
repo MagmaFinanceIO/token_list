@@ -1,0 +1,13 @@
+{
+  "name": "Sad Quagmire",
+  "symbol": "SAD",
+  "decimals": 9,
+  "coin_type": "0x77dc214ff2675c5ca523aca30f7525419066f3ced0cf2fa3b77ed7857390e947::sad::SAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmSd1GEVwiRy3X1bWiXVUmhQBtVKcZioYecpiijsBbrSaw?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

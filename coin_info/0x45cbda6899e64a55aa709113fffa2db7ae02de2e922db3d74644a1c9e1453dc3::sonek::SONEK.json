@@ -1,0 +1,13 @@
+{
+  "name": "Sonek On Sui",
+  "symbol": "SONEK",
+  "decimals": 9,
+  "coin_type": "0x45cbda6899e64a55aa709113fffa2db7ae02de2e922db3d74644a1c9e1453dc3::sonek::SONEK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6c4dd504-3d9e-44b4-82c5-da2079abb7d7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

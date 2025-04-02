@@ -1,0 +1,13 @@
+{
+  "name": "Stupidcoin on SUI",
+  "symbol": "Stupidcoin",
+  "decimals": 9,
+  "coin_type": "0x39af818f9f2cbecf8732834a3d88adb2ee4e7807aae309a5be0a52886b49abf5::stupidcoin::STUPIDCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmSs4ofsWv8tYfMWAJYCZYBTnQN7fboeemHqFUqWAdBAS8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

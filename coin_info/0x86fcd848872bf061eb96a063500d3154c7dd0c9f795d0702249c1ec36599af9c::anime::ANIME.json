@@ -1,0 +1,13 @@
+{
+  "name": "AniMaster",
+  "symbol": "ANIME",
+  "decimals": 6,
+  "coin_type": "0x86fcd848872bf061eb96a063500d3154c7dd0c9f795d0702249c1ec36599af9c::anime::ANIME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737082898164.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

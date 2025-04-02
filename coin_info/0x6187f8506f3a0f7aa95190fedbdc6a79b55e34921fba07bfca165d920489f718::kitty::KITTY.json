@@ -1,0 +1,13 @@
+{
+  "name": "KittyCat",
+  "symbol": "Kitty",
+  "decimals": 6,
+  "coin_type": "0x6187f8506f3a0f7aa95190fedbdc6a79b55e34921fba07bfca165d920489f718::kitty::KITTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmPNf7yRRH3tRysSe3r3teM6P64USuk9LPbq523xiihR29",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

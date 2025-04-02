@@ -1,0 +1,13 @@
+{
+  "name": "HelloKitty",
+  "symbol": "KITTY",
+  "decimals": 6,
+  "coin_type": "0x1019a57945b7c95ef92bffc23c45c3d68b7a75d77582e5db7269dd836bc24d42::kitty::KITTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/images_93c5d67190.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Agent Rogue",
+  "symbol": "Rogue",
+  "decimals": 9,
+  "coin_type": "0xa0420630ec02db4915754a6926e8588870fa22b95d0a372b7fb3690bc13abcc2::rogue::ROGUE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/fpNiFz8K6uXFySrosnkHzPMHaXdzZdUjFKAu7CdeGKd.png?size=lg&key=c19551",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

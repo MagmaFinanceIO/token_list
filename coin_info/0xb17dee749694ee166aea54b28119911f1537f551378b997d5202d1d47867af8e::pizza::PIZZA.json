@@ -1,0 +1,13 @@
+{
+  "name": "PIZZA",
+  "symbol": "PIZZA",
+  "decimals": 6,
+  "coin_type": "0xb17dee749694ee166aea54b28119911f1537f551378b997d5202d1d47867af8e::pizza::PIZZA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/pizza.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

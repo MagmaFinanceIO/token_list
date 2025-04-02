@@ -1,0 +1,13 @@
+{
+  "name": "Staked VAPOR",
+  "symbol": "sVAPOR",
+  "decimals": 9,
+  "coin_type": "0xa1f2c11169f32165ad4efb4468ec5bdfc880cd66b22094024b32ab7b76d14d30::stake::STAKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafybeidshtufhkiqww3dw4of6bi2pziiyuow4jafbuhc62dqyxdsqau7zi.ipfs.nftstorage.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

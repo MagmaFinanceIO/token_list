@@ -1,0 +1,13 @@
+{
+  "name": "CumRocket",
+  "symbol": "CUMMIES",
+  "decimals": 0,
+  "coin_type": "0x129a7456e017c5f9c14418efb0d5a460f31947704151470da7ab8498d3241c21::cummies::CUMMIES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/545f7cc1-5058-4f8b-8a9c-18f8660d1f42.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Catoshi",
+  "symbol": "CATOSHI",
+  "decimals": 9,
+  "coin_type": "0x5334655acfdfbc927a22e46b0615bb86b6f39780181949fbdae4ebc256ba1f35::catoshi::CATOSHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/accb68a0-efde-4506-b576-e811fa689f07.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

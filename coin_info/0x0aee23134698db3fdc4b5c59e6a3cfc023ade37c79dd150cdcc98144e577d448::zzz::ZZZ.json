@@ -1,0 +1,13 @@
+{
+  "name": "ZZZLOTH",
+  "symbol": "ZZZ",
+  "decimals": 6,
+  "coin_type": "0x0aee23134698db3fdc4b5c59e6a3cfc023ade37c79dd150cdcc98144e577d448::zzz::ZZZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_33982f64d4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

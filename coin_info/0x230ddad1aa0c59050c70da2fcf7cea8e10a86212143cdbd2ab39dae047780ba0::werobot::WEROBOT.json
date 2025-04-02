@@ -1,0 +1,13 @@
+{
+  "name": "Robot",
+  "symbol": "WeRobot",
+  "decimals": 6,
+  "coin_type": "0x230ddad1aa0c59050c70da2fcf7cea8e10a86212143cdbd2ab39dae047780ba0::werobot::WEROBOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6482_ebb7d1b8d6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

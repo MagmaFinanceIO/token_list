@@ -1,0 +1,13 @@
+{
+  "name": "SUIRB SUI",
+  "symbol": "SUIRB",
+  "decimals": 9,
+  "coin_type": "0xda9ec6ef79aebf8d381423d02f8fd0cbd492003ea5062b024731ae156d303e42::suirb::SUIRB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/10d3c8fe-377a-44db-9e7e-b7d03d01894e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

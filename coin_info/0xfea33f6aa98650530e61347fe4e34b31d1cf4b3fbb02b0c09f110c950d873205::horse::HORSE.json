@@ -1,0 +1,13 @@
+{
+  "name": "Suihorse",
+  "symbol": "HORSE",
+  "decimals": 6,
+  "coin_type": "0xfea33f6aa98650530e61347fe4e34b31d1cf4b3fbb02b0c09f110c950d873205::horse::HORSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmfLLvTxyZuCXGujr532hX89vK5rxqkyD5DDZxrwaDkThm",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

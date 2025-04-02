@@ -1,0 +1,13 @@
+{
+  "name": "Joe on Solana",
+  "symbol": "JOE",
+  "decimals": 9,
+  "coin_type": "0x94ebd9cc5d9469b1c6b66f3fee7ded22f8b93d039ef0319a05be501cb1992e06::joe::JOE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Gg4F9gZP4FgKzGcQ7LrrNpmdDjgSro17msXenArnpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

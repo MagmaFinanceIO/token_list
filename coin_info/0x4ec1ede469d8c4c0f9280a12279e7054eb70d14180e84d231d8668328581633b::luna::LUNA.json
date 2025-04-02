@@ -1,0 +1,13 @@
+{
+  "name": "Luna the Dolphin",
+  "symbol": "LUNA",
+  "decimals": 6,
+  "coin_type": "0x4ec1ede469d8c4c0f9280a12279e7054eb70d14180e84d231d8668328581633b::luna::LUNA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/da5f54d3-48a4-484e-a857-9fd3befa25a6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

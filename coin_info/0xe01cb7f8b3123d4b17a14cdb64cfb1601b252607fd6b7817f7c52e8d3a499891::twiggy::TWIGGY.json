@@ -1,0 +1,13 @@
+{
+  "name": "Waterskiing Squirrel TWIGGY",
+  "symbol": "TWIGGY",
+  "decimals": 6,
+  "coin_type": "0xe01cb7f8b3123d4b17a14cdb64cfb1601b252607fd6b7817f7c52e8d3a499891::twiggy::TWIGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000001239_3cb7aadc27.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

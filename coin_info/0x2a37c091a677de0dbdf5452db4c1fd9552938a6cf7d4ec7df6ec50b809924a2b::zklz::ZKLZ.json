@@ -1,0 +1,13 @@
+{
+  "name": "zKlz",
+  "symbol": "zKlz",
+  "decimals": 9,
+  "coin_type": "0x2a37c091a677de0dbdf5452db4c1fd9552938a6cf7d4ec7df6ec50b809924a2b::zklz::ZKLZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CB48KiK1oi1tWtjmPWxVR2NPeEr9ewzmZQ8ERk79Ue4b.png?size=lg&key=e3d4b7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

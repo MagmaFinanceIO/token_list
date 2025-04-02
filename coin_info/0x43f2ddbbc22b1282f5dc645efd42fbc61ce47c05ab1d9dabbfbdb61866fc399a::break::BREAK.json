@@ -1,0 +1,13 @@
+{
+  "name": "SPRING BREAK",
+  "symbol": "BREAK",
+  "decimals": 9,
+  "coin_type": "0x43f2ddbbc22b1282f5dc645efd42fbc61ce47c05ab1d9dabbfbdb61866fc399a::break::BREAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BRSvEdbVj9RGfKoExSRYgnhA8PJ59quDLGDTyxPRqkr2.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

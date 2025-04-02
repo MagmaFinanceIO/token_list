@@ -1,0 +1,13 @@
+{
+  "name": "Lost Sea horse emoji",
+  "symbol": "LSE",
+  "decimals": 6,
+  "coin_type": "0x0ca9104925df8d76c689e6386446e03880d8f657b2777556243ae19d74da2573::lse::LSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qmc_Wefhs_Ra_JL_Yiqgio_Ep_Ni4_Uvcdy_Wngqi2623fm_F_Ka_CAE_9_e22322e4e4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

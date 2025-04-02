@@ -1,0 +1,13 @@
+{
+  "name": "GOAT SUI",
+  "symbol": "GOAT SUI",
+  "decimals": 9,
+  "coin_type": "0xc2b92a37f13edc0a3be4acd86420c563783a6a5d86ed4415e1c60c8c2b6a1a40::goat_sui::GOAT_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

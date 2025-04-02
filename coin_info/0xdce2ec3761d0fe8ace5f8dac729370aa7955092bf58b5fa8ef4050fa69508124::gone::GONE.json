@@ -1,0 +1,13 @@
+{
+  "name": "Something is good",
+  "symbol": "GONE",
+  "decimals": 9,
+  "coin_type": "0xdce2ec3761d0fe8ace5f8dac729370aa7955092bf58b5fa8ef4050fa69508124::gone::GONE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn-user30887.skyeng.ru/uploads/668fbf6c6fb71410313553.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

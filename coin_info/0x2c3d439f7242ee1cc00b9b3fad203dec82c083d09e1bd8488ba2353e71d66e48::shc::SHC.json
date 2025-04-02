@@ -1,0 +1,13 @@
+{
+  "name": "ShareChain",
+  "symbol": "SHC",
+  "decimals": 9,
+  "coin_type": "0x2c3d439f7242ee1cc00b9b3fad203dec82c083d09e1bd8488ba2353e71d66e48::shc::SHC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/40bb5192-7be9-466a-a7a5-3fd1d9d5d4de.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

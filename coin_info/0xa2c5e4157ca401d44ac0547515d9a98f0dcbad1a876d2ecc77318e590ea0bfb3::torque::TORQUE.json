@@ -1,0 +1,13 @@
+{
+  "name": "APPLY TORQUE",
+  "symbol": "TORQUE",
+  "decimals": 9,
+  "coin_type": "0xa2c5e4157ca401d44ac0547515d9a98f0dcbad1a876d2ecc77318e590ea0bfb3::torque::TORQUE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/Sl6OY9Zm85V8dNx3a1q8ZZ13DprVR3eQ-CBZHJ-fWBA",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

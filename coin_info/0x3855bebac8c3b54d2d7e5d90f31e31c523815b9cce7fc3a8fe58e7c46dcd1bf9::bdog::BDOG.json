@@ -1,0 +1,13 @@
+{
+  "name": "Butter Dog",
+  "symbol": "BDOG",
+  "decimals": 9,
+  "coin_type": "0x3855bebac8c3b54d2d7e5d90f31e31c523815b9cce7fc3a8fe58e7c46dcd1bf9::bdog::BDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CDownYQc3HGBvXVQHB5ebPNNmCLEG3GnsQ9vYoRZeRtk.png?size=lg&key=e41657",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

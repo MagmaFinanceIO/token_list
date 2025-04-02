@@ -1,0 +1,13 @@
+{
+  "name": "Pepeximus",
+  "symbol": "PEPEXIMUS",
+  "decimals": 9,
+  "coin_type": "0x4abb1da86072cc745d06aa19d36a8987a614856f23198760d735d7c9eea138fa::pepeximus::PEPEXIMUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9789c714-4f9e-4f3e-a1ff-b7e6e0f7994b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

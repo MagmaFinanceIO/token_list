@@ -1,0 +1,13 @@
+{
+  "name": "Datto",
+  "symbol": "Datto",
+  "decimals": 9,
+  "coin_type": "0x40ced85adf9a3db055cb94c1abcd88db21c6d6c294dfbede05b3cddda5e9931c::datto::DATTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

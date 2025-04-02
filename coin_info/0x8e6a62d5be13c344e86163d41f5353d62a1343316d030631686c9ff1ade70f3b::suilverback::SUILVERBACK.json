@@ -1,0 +1,13 @@
+{
+  "name": "Suilverback",
+  "symbol": "SUILVERBACK",
+  "decimals": 2,
+  "coin_type": "0x8e6a62d5be13c344e86163d41f5353d62a1343316d030631686c9ff1ade70f3b::suilverback::SUILVERBACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/35d2d5e8-1d94-46e2-bc1a-d62306233333.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

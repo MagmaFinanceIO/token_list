@@ -1,0 +1,13 @@
+{
+  "name": "ROCKY MOON DOG",
+  "symbol": "ROCKY",
+  "decimals": 9,
+  "coin_type": "0x51b97229a95f92a44155af5f5fed906f9ab048d39667d0d7a107d0a13f7c3ad5::rocky::ROCKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/30702ebc-0ab7-465f-973c-8fc9daad22c7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

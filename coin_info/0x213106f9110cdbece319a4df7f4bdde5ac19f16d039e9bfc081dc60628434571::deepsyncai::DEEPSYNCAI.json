@@ -1,0 +1,13 @@
+{
+  "name": "DEEPSYNC AI",
+  "symbol": "DEEPSYNCAI",
+  "decimals": 9,
+  "coin_type": "0x213106f9110cdbece319a4df7f4bdde5ac19f16d039e9bfc081dc60628434571::deepsyncai::DEEPSYNCAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3f8ZAvn66Umm7ryKenD8F14jYysc39hKHUAxsFUopump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

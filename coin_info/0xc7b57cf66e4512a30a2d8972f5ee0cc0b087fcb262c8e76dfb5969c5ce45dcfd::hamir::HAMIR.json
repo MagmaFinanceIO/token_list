@@ -1,0 +1,13 @@
+{
+  "name": "HAMIRU",
+  "symbol": "HAMIR",
+  "decimals": 6,
+  "coin_type": "0xc7b57cf66e4512a30a2d8972f5ee0cc0b087fcb262c8e76dfb5969c5ce45dcfd::hamir::HAMIR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1e00e52d_f024_4db9_81db_129560b6b967_648e63e5c2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

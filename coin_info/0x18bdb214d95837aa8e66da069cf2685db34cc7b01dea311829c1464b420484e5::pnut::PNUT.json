@@ -1,0 +1,13 @@
+{
+  "name": "RIP Pnut",
+  "symbol": "Pnut",
+  "decimals": 6,
+  "coin_type": "0x18bdb214d95837aa8e66da069cf2685db34cc7b01dea311829c1464b420484e5::pnut::PNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSnehJ1Ldn5XQjcxC5veGDVGrd5bG9bvLBz33UvdhveoE",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

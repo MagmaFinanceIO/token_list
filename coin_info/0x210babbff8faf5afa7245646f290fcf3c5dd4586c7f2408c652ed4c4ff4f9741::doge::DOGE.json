@@ -1,0 +1,13 @@
+{
+  "name": "DOGE ON SUI",
+  "symbol": "DOGE",
+  "decimals": 6,
+  "coin_type": "0x210babbff8faf5afa7245646f290fcf3c5dd4586c7f2408c652ed4c4ff4f9741::doge::DOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/photo_2024_12_22_14_54_29_0c4b7733b8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

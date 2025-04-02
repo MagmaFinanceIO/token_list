@@ -1,0 +1,13 @@
+{
+  "name": "SIMBA the Sloth on Sui",
+  "symbol": "SIMBA",
+  "decimals": 6,
+  "coin_type": "0x883141395288f18cbb5d3aaee36a82f8e63cba2600e24c9db474d181756fd300::simba::SIMBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/about_elem_0f67f32cfa.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

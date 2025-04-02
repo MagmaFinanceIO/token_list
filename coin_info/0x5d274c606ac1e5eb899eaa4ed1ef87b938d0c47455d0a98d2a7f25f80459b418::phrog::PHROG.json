@@ -1,0 +1,13 @@
+{
+  "name": "Phrog",
+  "symbol": "Phrog",
+  "decimals": 9,
+  "coin_type": "0x5d274c606ac1e5eb899eaa4ed1ef87b938d0c47455d0a98d2a7f25f80459b418::phrog::PHROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7QG7EMnfr6T3iozFHbndwSUAZ5mxqCsMxSEDcUvWpump.png?size=lg&key=82285a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

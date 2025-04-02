@@ -1,0 +1,13 @@
+{
+  "name": "Blud on Sui",
+  "symbol": "BLUD",
+  "decimals": 6,
+  "coin_type": "0x478166e285425dc9afd05db6f7f8f675ded0d2252e5e09337d896c1c3752b3a8::blud::BLUD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/0x5c956df977f927910091ab7aed03bc4a1f0d223d_f303dc0712.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

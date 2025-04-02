@@ -1,0 +1,13 @@
+{
+  "name": "Crazy Cats",
+  "symbol": "CCAT",
+  "decimals": 9,
+  "coin_type": "0x8a560a6084da249da9e8e2a888c565255482479549f701da6faa560a36cf5ff3::ccat::CCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump-static.cetus.zone/icon/e8358c35-3ec4-4d81-8a44-7470fd71ca8a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

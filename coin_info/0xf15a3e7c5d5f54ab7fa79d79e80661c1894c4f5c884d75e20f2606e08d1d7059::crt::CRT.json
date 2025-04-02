@@ -1,0 +1,13 @@
+{
+  "name": "Carrot",
+  "symbol": "CRT",
+  "decimals": 9,
+  "coin_type": "0xf15a3e7c5d5f54ab7fa79d79e80661c1894c4f5c884d75e20f2606e08d1d7059::crt::CRT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CtumCzyhZZx8PpazRV4AbtXsLPAdTGWRPxQ6KrjqA48y.png?size=lg&key=8e0cb0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

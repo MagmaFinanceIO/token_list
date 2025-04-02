@@ -1,0 +1,13 @@
+{
+  "name": "Winfo on sui",
+  "symbol": "Winfo",
+  "decimals": 6,
+  "coin_type": "0x5e073ca2ce1bf4f0807b74eb83b314845d3ab0559fffe7a18010ca37978a67de::winfo::WINFO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Vch4a_O_Gp_400x400_61db68d4f7.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

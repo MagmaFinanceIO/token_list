@@ -1,0 +1,13 @@
+{
+  "name": "SQUIDLY on SUI",
+  "symbol": "SQUIDLY",
+  "decimals": 6,
+  "coin_type": "0x3e3ed0ba5e6bd3025d1486d7b3646c5e37c1dabd4d9b013d0c6b379baf9fa5d8::squidly::SQUIDLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Picsart_24_12_16_13_02_34_001_d256675292.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

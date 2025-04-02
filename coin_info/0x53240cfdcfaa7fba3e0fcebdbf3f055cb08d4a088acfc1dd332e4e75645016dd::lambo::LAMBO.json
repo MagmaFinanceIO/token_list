@@ -1,0 +1,13 @@
+{
+  "name": "LAMBO",
+  "symbol": "LAMBO",
+  "decimals": 9,
+  "coin_type": "0x53240cfdcfaa7fba3e0fcebdbf3f055cb08d4a088acfc1dd332e4e75645016dd::lambo::LAMBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/W6Z2u42mabn8TUL2GjHoGwVNXUpFueM8rGpZQsMpump.png?size=lg&key=1ff25e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

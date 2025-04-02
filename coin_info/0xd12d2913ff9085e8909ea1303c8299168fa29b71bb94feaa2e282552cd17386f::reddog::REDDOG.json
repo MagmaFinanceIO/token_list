@@ -1,0 +1,13 @@
+{
+  "name": "REDDOG",
+  "symbol": "REDDOG",
+  "decimals": 9,
+  "coin_type": "0xd12d2913ff9085e8909ea1303c8299168fa29b71bb94feaa2e282552cd17386f::reddog::REDDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://red-dog.org/wp-content/uploads/2024/08/logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

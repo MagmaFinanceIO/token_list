@@ -1,0 +1,13 @@
+{
+  "name": "Emerald AI",
+  "symbol": "EMERALD",
+  "decimals": 9,
+  "coin_type": "0x3f9d0d2b3efdbe50f70d2f6ebaa79014f1615b275ed838fc3acdfd4b3fa9187d::emerald::EMERALD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x695e8ea3eaa41422a2a0b6adbb194a9a6fc982ae.png?size=lg&key=ed4ea2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

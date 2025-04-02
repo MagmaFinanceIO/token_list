@@ -1,0 +1,13 @@
+{
+  "name": "🦛 Sui Hippo",
+  "symbol": "SHIP",
+  "decimals": 9,
+  "coin_type": "0x1cad76d0911087576f5cb791ea395009bed359707633378628f47562805fa294::ship::SHIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9520796f-e0e2-47a5-a716-37395e66f79d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MANEKI.SUI",
+  "symbol": "MANEKI",
+  "decimals": 9,
+  "coin_type": "0x9bb3c796fdd54678c7d7bf201538ba89e558c7050dda3a726e6df948ebcd5d86::maneki::MANEKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/57ead48f-9ba7-49d0-8aea-cc060e28d15c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

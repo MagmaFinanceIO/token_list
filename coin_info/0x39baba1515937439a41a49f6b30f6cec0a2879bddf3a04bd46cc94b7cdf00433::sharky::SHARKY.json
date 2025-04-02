@@ -1,0 +1,13 @@
+{
+  "name": "Sharky on SUI",
+  "symbol": "SHARKY",
+  "decimals": 9,
+  "coin_type": "0x39baba1515937439a41a49f6b30f6cec0a2879bddf3a04bd46cc94b7cdf00433::sharky::SHARKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/QmNWmUyKs2V4FXJX6YV9zUkjCHrtC7mQLQQeW4kbP52quh",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

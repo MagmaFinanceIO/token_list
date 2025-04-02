@@ -1,0 +1,13 @@
+{
+  "name": "Puff Puff Penguin",
+  "symbol": "PUFFPUFF",
+  "decimals": 9,
+  "coin_type": "0x120d91320bf3a0000ddbb81d083decc80f3882835eea62d68e9adcd8b1c73a3f::puffpuff::PUFFPUFF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qmauzjmvcyu2Pzvyz8wQA9GqNt7ZQS8TDPQRCctkqmZBn4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

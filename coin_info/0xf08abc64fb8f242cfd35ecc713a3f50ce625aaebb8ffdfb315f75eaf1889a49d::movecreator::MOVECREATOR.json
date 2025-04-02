@@ -1,0 +1,13 @@
+{
+  "name": "MoveCreator",
+  "symbol": "MOVECREATOR",
+  "decimals": 6,
+  "coin_type": "0xf08abc64fb8f242cfd35ecc713a3f50ce625aaebb8ffdfb315f75eaf1889a49d::movecreator::MOVECREATOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/TG_Cf_H1_V_400x400_5388a6207a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

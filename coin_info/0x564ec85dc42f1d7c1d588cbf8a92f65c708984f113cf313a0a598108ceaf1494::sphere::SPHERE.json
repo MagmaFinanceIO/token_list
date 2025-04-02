@@ -1,0 +1,13 @@
+{
+  "name": "Sphere AI",
+  "symbol": "SPHERE",
+  "decimals": 9,
+  "coin_type": "0x564ec85dc42f1d7c1d588cbf8a92f65c708984f113cf313a0a598108ceaf1494::sphere::SPHERE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmaCY44VP5XzCQmpqdqd25pxhb2mNcMLjASFYYw1BmBWEs",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

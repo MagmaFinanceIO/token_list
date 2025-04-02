@@ -1,0 +1,13 @@
+{
+  "name": "Panda On Sui",
+  "symbol": "PANDOS",
+  "decimals": 9,
+  "coin_type": "0x6116fbed2795215a33b121d435bea53c40124b3df3220ab0542094f4d7c904ac::pandos::PANDOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/db041f03-cf3d-41a3-99b9-38da7ee49737.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

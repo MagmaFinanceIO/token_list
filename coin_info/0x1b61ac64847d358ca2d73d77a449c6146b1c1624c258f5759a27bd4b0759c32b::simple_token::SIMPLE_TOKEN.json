@@ -1,0 +1,13 @@
+{
+  "name": "LUMINA",
+  "symbol": "LUMINA",
+  "decimals": 9,
+  "coin_type": "0x1b61ac64847d358ca2d73d77a449c6146b1c1624c258f5759a27bd4b0759c32b::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

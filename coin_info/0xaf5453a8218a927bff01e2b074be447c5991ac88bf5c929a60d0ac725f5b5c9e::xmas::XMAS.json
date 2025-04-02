@@ -1,0 +1,13 @@
+{
+  "name": "Xmas",
+  "symbol": "Xmas",
+  "decimals": 9,
+  "coin_type": "0xaf5453a8218a927bff01e2b074be447c5991ac88bf5c929a60d0ac725f5b5c9e::xmas::XMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/yfVhKobAgpFt3cP7fcbqbY8UdRHz2XRHw8ibPpBpump.png?size=lg&key=a79f5c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

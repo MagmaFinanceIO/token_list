@@ -1,0 +1,13 @@
+{
+  "name": "Balls of Fate",
+  "symbol": "BOF",
+  "decimals": 9,
+  "coin_type": "0x1f1ca6a5dcf6e5726ab85e1e34da6d17719565127f83cc35b12353bf24d9dfa8::bofa::BOFA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4yCuUMPFvaqxK71CK6SZc3wmtC2PDpDN9mcBzUkepump.png?claimId=oHeID5JkjfKxQSpU",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

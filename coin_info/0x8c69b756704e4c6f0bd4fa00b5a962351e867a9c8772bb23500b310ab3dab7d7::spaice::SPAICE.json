@@ -1,0 +1,13 @@
+{
+  "name": "Spaiceship by SuiAI",
+  "symbol": "SPAICE",
+  "decimals": 6,
+  "coin_type": "0x8c69b756704e4c6f0bd4fa00b5a962351e867a9c8772bb23500b310ab3dab7d7::spaice::SPAICE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000011812_20b1a6a50d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

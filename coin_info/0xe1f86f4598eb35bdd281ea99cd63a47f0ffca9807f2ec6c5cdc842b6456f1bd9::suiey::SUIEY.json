@@ -1,0 +1,13 @@
+{
+  "name": "Bluey On Sui",
+  "symbol": "SUIEY",
+  "decimals": 9,
+  "coin_type": "0xe1f86f4598eb35bdd281ea99cd63a47f0ffca9807f2ec6c5cdc842b6456f1bd9::suiey::SUIEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/570c3d59-21c0-421f-a94b-0af1638a317e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

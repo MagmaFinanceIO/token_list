@@ -1,0 +1,13 @@
+{
+  "name": "Ivanka Trump",
+  "symbol": "IVANKA",
+  "decimals": 9,
+  "coin_type": "0xd44e93d946b28fd844cbd6014e1d2adb4ae46f39f4ab9dc8a7443d6342ab4b7c::ivanka::IVANKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/66TLNWab2DhNKWQZisrEKBfVYbGvu6ZtzsvGKLvgpump.png?size=lg&key=a0bc7a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Trenchmas",
+  "symbol": "Trenchma",
+  "decimals": 9,
+  "coin_type": "0xa54baea1ad147277794b0e38bce388570c30f7e283cfaa39f10cbfad15e75a86::trenchma::TRENCHMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4jrBkRBZLtAnLFoy7ejhSVTnVeTFAvsgT5WfS77Dpump.png?size=lg&key=29cf56",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

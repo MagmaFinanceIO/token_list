@@ -1,0 +1,13 @@
+{
+  "name": "BAI",
+  "symbol": "BLOCK AI",
+  "decimals": 9,
+  "coin_type": "0xa5e936ac098023c4001aafae24ff9ece56a05501e98fcb93af2b0e713e527b8d::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

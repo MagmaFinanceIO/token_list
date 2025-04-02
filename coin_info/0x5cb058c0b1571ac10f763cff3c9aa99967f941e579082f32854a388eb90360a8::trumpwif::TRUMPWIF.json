@@ -1,0 +1,13 @@
+{
+  "name": "Trump Wif Hat",
+  "symbol": "TrumpWif",
+  "decimals": 9,
+  "coin_type": "0x5cb058c0b1571ac10f763cff3c9aa99967f941e579082f32854a388eb90360a8::trumpwif::TRUMPWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EFUhJ6Ra8yzaKo9tr9GAyCFXCAtN5zF4uDe27muUpump.png?size=lg&key=a370e2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

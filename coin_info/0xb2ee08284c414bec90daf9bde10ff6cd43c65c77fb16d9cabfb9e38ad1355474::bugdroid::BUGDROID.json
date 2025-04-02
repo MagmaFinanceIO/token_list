@@ -1,0 +1,13 @@
+{
+  "name": "bugdroid",
+  "symbol": "bugdroid",
+  "decimals": 9,
+  "coin_type": "0xb2ee08284c414bec90daf9bde10ff6cd43c65c77fb16d9cabfb9e38ad1355474::bugdroid::BUGDROID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmUn6swNJUGyt1yUWJuXbZKXfhMo6vJ1gHyQnYi9C7AW9f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

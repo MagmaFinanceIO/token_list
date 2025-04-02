@@ -1,0 +1,13 @@
+{
+  "name": "Tiny Tony Chopper",
+  "symbol": "CHOPPER",
+  "decimals": 9,
+  "coin_type": "0xa70711bbd8f42ac99e29e0f9f3ea47d04af96db792ea8cce56552f186c5dad23::chopper::CHOPPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b3bec149-ab2d-4b86-a9e0-60be77761d2b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

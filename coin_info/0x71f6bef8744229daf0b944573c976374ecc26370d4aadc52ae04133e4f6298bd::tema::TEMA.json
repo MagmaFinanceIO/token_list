@@ -1,0 +1,13 @@
+{
+  "name": "Tema on SUI",
+  "symbol": "TEMA",
+  "decimals": 9,
+  "coin_type": "0x71f6bef8744229daf0b944573c976374ecc26370d4aadc52ae04133e4f6298bd::tema::TEMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmPgzimWXh4xZeTMkLHSJ97kgCtT2NCS9BbGr1dmhSJdi5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "KOKO the Raider AI",
+  "symbol": "KOKOAI",
+  "decimals": 6,
+  "coin_type": "0xbf7f81ff1d6ebcbe4fb3176a1d3efb03dbee0dbde6f434469a93e47efa04ff2c::kokoai::KOKOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fa7ac086-9878-4cfb-ac67-82b9324c3a32.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

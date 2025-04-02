@@ -1,0 +1,13 @@
+{
+  "name": "NanoAI",
+  "symbol": "NANOAI",
+  "decimals": 9,
+  "coin_type": "0xcbaaace819d8955481c47ae34e9cef95e6c3d62557cbd3cb09e71f75415bea7f::nanoai::NANOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4a408722-e99b-470b-8599-a299ecbeda4e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

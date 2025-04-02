@@ -1,0 +1,13 @@
+{
+  "name": "Cerberus AI",
+  "symbol": "CERBERUS",
+  "decimals": 9,
+  "coin_type": "0xe6ee3bea69b452a30610a473efb98dc3562929eb4a45a7e9ce116318ce86deb0::cerberus::CERBERUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3ToakcVgvH7AnbWedvB3qkGEopoXiABrgZYmudv1TMB2.png?size=lg&key=bd4e31",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

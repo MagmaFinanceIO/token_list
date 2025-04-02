@@ -1,0 +1,13 @@
+{
+  "name": "SUI Addict by SuiAI",
+  "symbol": "SUIAD",
+  "decimals": 6,
+  "coin_type": "0x6c3870a9be084fee294355accc6036d0d0826c4e138bf034aa3485606f528a9e::suiad::SUIAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/DALL_E_2025_01_06_23_38_39_A_striking_illustration_of_the_cyberpunk_character_Sui_Addict_looking_away_from_the_camera_wearing_his_signature_round_blue_lit_goggles_and_a_hood_pu_7aca795323.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

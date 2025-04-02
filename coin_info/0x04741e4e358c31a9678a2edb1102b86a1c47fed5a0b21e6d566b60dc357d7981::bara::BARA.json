@@ -1,0 +1,13 @@
+{
+  "name": "Bara",
+  "symbol": "BARA",
+  "decimals": 9,
+  "coin_type": "0x04741e4e358c31a9678a2edb1102b86a1c47fed5a0b21e6d566b60dc357d7981::bara::BARA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmNx2njrK3YKHas9WPBE3Yo3CqzY1tYMJEQsNXb8qNrVrE?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

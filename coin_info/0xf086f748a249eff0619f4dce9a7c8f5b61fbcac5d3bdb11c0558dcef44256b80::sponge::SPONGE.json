@@ -1,0 +1,13 @@
+{
+  "name": "SuiSponge",
+  "symbol": "SPONGE",
+  "decimals": 6,
+  "coin_type": "0xf086f748a249eff0619f4dce9a7c8f5b61fbcac5d3bdb11c0558dcef44256b80::sponge::SPONGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000957_7eb254f128.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

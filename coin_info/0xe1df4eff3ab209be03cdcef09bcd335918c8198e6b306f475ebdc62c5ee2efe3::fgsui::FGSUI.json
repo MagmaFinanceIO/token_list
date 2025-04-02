@@ -1,0 +1,13 @@
+{
+  "name": "FOMOGuy",
+  "symbol": "FGSUI",
+  "decimals": 6,
+  "coin_type": "0xe1df4eff3ab209be03cdcef09bcd335918c8198e6b306f475ebdc62c5ee2efe3::fgsui::FGSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5449_580d92e167.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

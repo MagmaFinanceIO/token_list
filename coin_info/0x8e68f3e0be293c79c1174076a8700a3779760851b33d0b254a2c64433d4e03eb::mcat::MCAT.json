@@ -1,0 +1,13 @@
+{
+  "name": "Muscle Cats",
+  "symbol": "MCAT",
+  "decimals": 9,
+  "coin_type": "0x8e68f3e0be293c79c1174076a8700a3779760851b33d0b254a2c64433d4e03eb::mcat::MCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6b528b3f-1518-4888-9afe-08b89b51d043.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

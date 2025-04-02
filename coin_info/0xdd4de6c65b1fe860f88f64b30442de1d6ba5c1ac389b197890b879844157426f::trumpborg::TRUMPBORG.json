@@ -1,0 +1,13 @@
+{
+  "name": "TrumpBorg",
+  "symbol": "TRUMPBORG",
+  "decimals": 6,
+  "coin_type": "0xdd4de6c65b1fe860f88f64b30442de1d6ba5c1ac389b197890b879844157426f::trumpborg::TRUMPBORG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/trump_mpvepump2_ezgif_com_gif_to_webp_converter_c512fd4311.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

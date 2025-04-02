@@ -1,0 +1,13 @@
+{
+  "name": "CSGO",
+  "symbol": "CSGO",
+  "decimals": 9,
+  "coin_type": "0xe24a07d21e97dc57c72fa2a314ddd2cfaef5557ecfc94669d03fc625dc742881::csgo::CSGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

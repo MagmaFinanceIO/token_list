@@ -1,0 +1,13 @@
+{
+  "name": "CATFISH",
+  "symbol": "CATFISH",
+  "decimals": 9,
+  "coin_type": "0xabf58610b20c3ef18f877527b1d2bea83948ca58287f5ba0b062896baff1f154::catfish::CATFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/57bcb249-1e18-45cd-ab3d-55975322f03f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

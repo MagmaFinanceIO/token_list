@@ -1,0 +1,13 @@
+{
+  "name": "Agent PONKE",
+  "symbol": "PONKE",
+  "decimals": 9,
+  "coin_type": "0x7c7cb7cc9b811d3a1d04151bfff916b01b91a6287cf3f18059f04f1c6b76e9df::ponke::PONKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6f4da661-8dbc-41b1-96c7-e940a00e0bd9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

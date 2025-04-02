@@ -1,0 +1,13 @@
+{
+  "name": "Water on Sui",
+  "symbol": "WATER",
+  "decimals": 6,
+  "coin_type": "0xc5cc81d8d5f72b0b02ea63a58178af89b7564fc0fd3880e26ef74db0cea463f0::water::WATER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6153_64a5ccf3f0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

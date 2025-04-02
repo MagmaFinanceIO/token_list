@@ -1,0 +1,13 @@
+{
+  "name": "Baby language model",
+  "symbol": "BLM",
+  "decimals": 9,
+  "coin_type": "0x233ab230457fc5fe5bf3492db0d40c18ca34e79a0fb61cbb747be3a76937dd3f::blm::BLM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3WdmE9BAHgVyB1JNswSUcj6RmkxnsvfJTd6RFnQ4pump.png?size=lg&key=2f7af0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mutt Coin",
+  "symbol": "MUTT",
+  "decimals": 6,
+  "coin_type": "0xd6a5c62104964d02f9067966c13fa9bad9a01bb2dea3112b4b0548c031d3263f::mutt::MUTT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmPoUkTqLhdZSVsV1FpUFaUPYVFPNyUcV6TSMdRr4Z2Hut",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

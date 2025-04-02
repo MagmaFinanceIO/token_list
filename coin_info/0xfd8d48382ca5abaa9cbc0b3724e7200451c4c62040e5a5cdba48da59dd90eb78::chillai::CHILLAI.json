@@ -1,0 +1,13 @@
+{
+  "name": "Just a chill AI",
+  "symbol": "CHILLAI",
+  "decimals": 9,
+  "coin_type": "0xfd8d48382ca5abaa9cbc0b3724e7200451c4c62040e5a5cdba48da59dd90eb78::chillai::CHILLAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EwUjthiAoEMnHFZHKh2JyN5WqhZ711eJ1RkeomGupump.png?size=lg&key=bc0d97",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

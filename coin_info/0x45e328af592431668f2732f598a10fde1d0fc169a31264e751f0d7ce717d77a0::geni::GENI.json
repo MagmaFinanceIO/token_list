@@ -1,0 +1,13 @@
+{
+  "name": "Geni AI",
+  "symbol": "GENI",
+  "decimals": 9,
+  "coin_type": "0x45e328af592431668f2732f598a10fde1d0fc169a31264e751f0d7ce717d77a0::geni::GENI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/03a0a010c1de32578146e61bd4419077blob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

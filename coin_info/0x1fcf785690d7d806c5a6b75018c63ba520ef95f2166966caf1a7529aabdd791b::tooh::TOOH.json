@@ -1,0 +1,13 @@
+{
+  "name": "TOOH",
+  "symbol": "TOOH",
+  "decimals": 9,
+  "coin_type": "0x1fcf785690d7d806c5a6b75018c63ba520ef95f2166966caf1a7529aabdd791b::tooh::TOOH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://forkast.news/wp-content/uploads/2023/10/Sui-network.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

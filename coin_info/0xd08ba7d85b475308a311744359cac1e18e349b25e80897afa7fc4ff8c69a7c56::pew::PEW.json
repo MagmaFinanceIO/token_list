@@ -1,0 +1,13 @@
+{
+  "name": "Lil Chiki",
+  "symbol": "PEW",
+  "decimals": 9,
+  "coin_type": "0xd08ba7d85b475308a311744359cac1e18e349b25e80897afa7fc4ff8c69a7c56::pew::PEW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/679742b6-5d9d-4a7e-9242-0ca40a1f3b30.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

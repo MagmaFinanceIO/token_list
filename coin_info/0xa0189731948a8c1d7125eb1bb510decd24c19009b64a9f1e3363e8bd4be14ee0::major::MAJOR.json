@@ -1,0 +1,13 @@
+{
+  "name": "Major Frog On Sui",
+  "symbol": "MAJOR",
+  "decimals": 9,
+  "coin_type": "0xa0189731948a8c1d7125eb1bb510decd24c19009b64a9f1e3363e8bd4be14ee0::major::MAJOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fe72ef2d-2bb4-4796-b2db-e75143a76a07.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

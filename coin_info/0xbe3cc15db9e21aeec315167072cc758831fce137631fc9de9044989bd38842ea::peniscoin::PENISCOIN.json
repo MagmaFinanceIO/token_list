@@ -1,0 +1,13 @@
+{
+  "name": "Penis Coin",
+  "symbol": "PENISCOIN",
+  "decimals": 9,
+  "coin_type": "0xbe3cc15db9e21aeec315167072cc758831fce137631fc9de9044989bd38842ea::peniscoin::PENISCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qmcxd7gJSoGAygebRnq3SYDPU1jUPvuFSGeZLTriEqiYvP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

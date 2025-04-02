@@ -1,0 +1,13 @@
+{
+  "name": "Kubi",
+  "symbol": "Kubi",
+  "decimals": 4,
+  "coin_type": "0x71782c4348bbe6f1ac5037a7cace4a8afff1712f639ba0b02c61b60cb1901cfc::kubi::KUBI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/60c73e0a-aed8-4a03-9c45-83a8ecf06e77.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

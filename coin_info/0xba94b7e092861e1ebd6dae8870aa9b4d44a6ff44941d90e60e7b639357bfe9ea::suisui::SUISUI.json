@@ -1,0 +1,13 @@
+{
+  "name": "Suisui",
+  "symbol": "SUISUI",
+  "decimals": 9,
+  "coin_type": "0xba94b7e092861e1ebd6dae8870aa9b4d44a6ff44941d90e60e7b639357bfe9ea::suisui::SUISUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/84e303a6-94e5-410f-8199-8e01dd65fa81.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

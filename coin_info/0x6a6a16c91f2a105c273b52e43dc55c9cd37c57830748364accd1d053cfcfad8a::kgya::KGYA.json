@@ -1,0 +1,13 @@
+{
+  "name": "KGYA",
+  "symbol": "KGYA",
+  "decimals": 9,
+  "coin_type": "0x6a6a16c91f2a105c273b52e43dc55c9cd37c57830748364accd1d053cfcfad8a::kgya::KGYA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DxVT75GAY9Ex8hwnxwEDVY4WXTywVUNXjELDmhF5pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

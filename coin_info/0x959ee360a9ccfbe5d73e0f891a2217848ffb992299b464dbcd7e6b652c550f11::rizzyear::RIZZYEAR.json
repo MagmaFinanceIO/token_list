@@ -1,0 +1,13 @@
+{
+  "name": "Rizzyear",
+  "symbol": "Rizzyear",
+  "decimals": 9,
+  "coin_type": "0x959ee360a9ccfbe5d73e0f891a2217848ffb992299b464dbcd7e6b652c550f11::rizzyear::RIZZYEAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/uD-hXnzl1ufUisjC?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

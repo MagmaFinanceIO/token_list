@@ -1,0 +1,13 @@
+{
+  "name": "Waveseers",
+  "symbol": "Bbsuisan",
+  "decimals": 6,
+  "coin_type": "0x7bfb9839dd532df6d3ebd1524e4a54ec89bcb56b33cd747e5b7845cb36782a9a::bbsuisan::BBSUISAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737176841311.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

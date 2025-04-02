@@ -1,0 +1,13 @@
+{
+  "name": "Suina",
+  "symbol": "SUINA",
+  "decimals": 9,
+  "coin_type": "0x1d799876dae00a9e12eb6ade5d377f6da6bf3f522ace118b65bccc974de5c275::suina::SUINA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4b99338c-9bb9-43b0-b62c-9cb0c81124bd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

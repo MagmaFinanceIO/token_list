@@ -1,0 +1,13 @@
+{
+  "name": "OrangeBot",
+  "symbol": "ORANGE",
+  "decimals": 9,
+  "coin_type": "0x25362ab93eccfe9b776a3551a7b70e23e5f54704a88ca036df51f977893146c5::orange::ORANGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/06bd4c6f-fa99-4693-abed-57648619c275.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SHIBA SUI DNA",
+  "symbol": "DSHIB",
+  "decimals": 9,
+  "coin_type": "0x1f71fe3f45ed711c0cfd09162b8f581ecacb550f7844895f0e082a5004646f35::dshib::DSHIB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8287c8f2-8827-4b66-9ea0-d68ecfd2f933.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

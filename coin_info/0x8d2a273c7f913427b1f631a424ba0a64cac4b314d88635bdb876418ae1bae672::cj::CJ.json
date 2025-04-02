@@ -1,0 +1,13 @@
+{
+  "name": "CJ on Sui",
+  "symbol": "CJ",
+  "decimals": 6,
+  "coin_type": "0x8d2a273c7f913427b1f631a424ba0a64cac4b314d88635bdb876418ae1bae672::cj::CJ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000006062_6dc0afef3c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

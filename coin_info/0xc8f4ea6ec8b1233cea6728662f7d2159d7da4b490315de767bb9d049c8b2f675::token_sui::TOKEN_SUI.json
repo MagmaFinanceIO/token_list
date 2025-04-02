@@ -1,0 +1,13 @@
+{
+  "name": "Mercenary",
+  "symbol": "MERCENARY",
+  "decimals": 9,
+  "coin_type": "0xc8f4ea6ec8b1233cea6728662f7d2159d7da4b490315de767bb9d049c8b2f675::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/938/696/large/dela-finalcloseupface.jpg?1728954560",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

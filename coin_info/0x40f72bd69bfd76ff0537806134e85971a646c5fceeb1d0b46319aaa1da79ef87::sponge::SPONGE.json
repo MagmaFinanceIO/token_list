@@ -1,0 +1,13 @@
+{
+  "name": "Sponge on Sui",
+  "symbol": "SPONGE",
+  "decimals": 9,
+  "coin_type": "0x40f72bd69bfd76ff0537806134e85971a646c5fceeb1d0b46319aaa1da79ef87::sponge::SPONGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/83ce99023f9c146cb043f9ae501dd18eblob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

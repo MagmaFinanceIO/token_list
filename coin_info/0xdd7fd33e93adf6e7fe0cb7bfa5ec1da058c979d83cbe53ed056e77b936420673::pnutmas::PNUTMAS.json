@@ -1,0 +1,13 @@
+{
+  "name": "Pnutmas",
+  "symbol": "Pnutmas",
+  "decimals": 9,
+  "coin_type": "0xdd7fd33e93adf6e7fe0cb7bfa5ec1da058c979d83cbe53ed056e77b936420673::pnutmas::PNUTMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2f8v9BL2hjHSmzkK77LPJnYmCLEYykwyLczPTiT4h7Nr.png?size=lg&key=ed2cc4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

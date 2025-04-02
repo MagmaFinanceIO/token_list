@@ -1,0 +1,13 @@
+{
+  "name": "Wally",
+  "symbol": "WALLY",
+  "decimals": 9,
+  "coin_type": "0x37ea2598917bb7e8e39607eec71f92a078f2ad33796db59bd3e9db9a49ef8bcc::wally::WALLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bbd0b2dc-9dcb-4e22-b0bb-00117b5ad4ad.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

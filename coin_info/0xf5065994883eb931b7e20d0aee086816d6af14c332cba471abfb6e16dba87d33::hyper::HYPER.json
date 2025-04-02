@@ -1,0 +1,13 @@
+{
+  "name": "HYPER",
+  "symbol": "HYPER",
+  "decimals": 9,
+  "coin_type": "0xf5065994883eb931b7e20d0aee086816d6af14c332cba471abfb6e16dba87d33::hyper::HYPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1872950790471729155/k2t2yWRQ_400x400.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

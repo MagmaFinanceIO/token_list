@@ -1,0 +1,13 @@
+{
+  "name": "YORICK Token",
+  "symbol": "YRK",
+  "decimals": 2,
+  "coin_type": "0x6b10a3e5101fc150fac72de762ceee674d2253c4a5428e512c4e5124307202a8::yrk::YRK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d800c31e-a208-44eb-902d-cdba29235511.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

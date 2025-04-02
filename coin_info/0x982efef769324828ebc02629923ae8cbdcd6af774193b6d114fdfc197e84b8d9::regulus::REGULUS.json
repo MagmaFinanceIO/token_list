@@ -1,0 +1,13 @@
+{
+  "name": "Regulus Maximus",
+  "symbol": "Regulus",
+  "decimals": 6,
+  "coin_type": "0x982efef769324828ebc02629923ae8cbdcd6af774193b6d114fdfc197e84b8d9::regulus::REGULUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Qd9rh_LK_Rz_Xdrku_K2_Nc3w5_E_Eb_Z3_Vh_Yg_Zj_Nx_Ajm_BL_Nx47j_5fff2c0030.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

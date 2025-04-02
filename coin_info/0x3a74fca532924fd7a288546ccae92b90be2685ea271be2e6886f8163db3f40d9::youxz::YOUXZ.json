@@ -1,0 +1,13 @@
+{
+  "name": "YOUXZ",
+  "symbol": "Youxz",
+  "decimals": 9,
+  "coin_type": "0x3a74fca532924fd7a288546ccae92b90be2685ea271be2e6886f8163db3f40d9::youxz::YOUXZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

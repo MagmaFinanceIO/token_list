@@ -1,0 +1,13 @@
+{
+  "name": "BLUE SCREEN PROJECT",
+  "symbol": "BSP",
+  "decimals": 6,
+  "coin_type": "0x8c2039bea62eec4f56bfe2801feaa992635e62d72f0c0c490b775ccef998afa9::bsp::BSP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/blue_screen_e9a474d847.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

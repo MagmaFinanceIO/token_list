@@ -1,0 +1,13 @@
+{
+  "name": "Squirrel The President",
+  "symbol": "TNUT",
+  "decimals": 9,
+  "coin_type": "0xa5f1247a95fd65bf47144c8899419fc48928fd4f19fff075f346d9c20d7b1998::tnut::TNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmYptMRCUygcUCrGQv1ChHQAuyzuvS1obxU6DFibPdQs7j",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

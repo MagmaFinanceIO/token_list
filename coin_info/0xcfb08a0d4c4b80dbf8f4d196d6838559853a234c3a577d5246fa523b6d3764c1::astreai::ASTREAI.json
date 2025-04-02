@@ -1,0 +1,13 @@
+{
+  "name": "Astrea The Dancing AI",
+  "symbol": "ASTREAI",
+  "decimals": 9,
+  "coin_type": "0xcfb08a0d4c4b80dbf8f4d196d6838559853a234c3a577d5246fa523b6d3764c1::astreai::ASTREAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://app.magmafinance.io/api/logo/0xcfb08a0d4c4b80dbf8f4d196d6838559853a234c3a577d5246fa523b6d3764c1::astreai::ASTREAI.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

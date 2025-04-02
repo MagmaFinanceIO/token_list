@@ -1,0 +1,13 @@
+{
+  "name": "TAPE",
+  "symbol": "TAPE",
+  "decimals": 9,
+  "coin_type": "0xd840515525e824b9a10547a12744c3c5a87f08c8acb1eb4c329c0023f1cb3be7::tape::TAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxmjamsfdHet_hSpCTGZ9lRQvnzkDohT3j6Q&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

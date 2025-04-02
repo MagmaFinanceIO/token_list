@@ -1,0 +1,13 @@
+{
+  "name": "MAGA THE GOAT",
+  "symbol": "MGGA",
+  "decimals": 6,
+  "coin_type": "0x72b4aa4fc94f22569daf9aea605f5293f292b994575e218d624ff09b4a09a6da::mgga::MGGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Design_sem_nome_56_0d93a4f918.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

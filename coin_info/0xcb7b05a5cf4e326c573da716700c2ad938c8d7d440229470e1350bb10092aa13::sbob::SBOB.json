@@ -1,0 +1,13 @@
+{
+  "name": "SPONGE BOB",
+  "symbol": "SBOB",
+  "decimals": 6,
+  "coin_type": "0xcb7b05a5cf4e326c573da716700c2ad938c8d7d440229470e1350bb10092aa13::sbob::SBOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_a0ab2312c9.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

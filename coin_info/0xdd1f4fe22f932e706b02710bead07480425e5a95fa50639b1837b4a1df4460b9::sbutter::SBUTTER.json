@@ -1,0 +1,13 @@
+{
+  "name": "Blue Butt On Sui",
+  "symbol": "SBUTTER",
+  "decimals": 9,
+  "coin_type": "0xdd1f4fe22f932e706b02710bead07480425e5a95fa50639b1837b4a1df4460b9::sbutter::SBUTTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/046490c0-fec9-4e18-8bb4-41fa8a0f54a0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

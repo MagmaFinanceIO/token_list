@@ -1,0 +1,13 @@
+{
+  "name": "SCOOBY-SUI",
+  "symbol": "SUIBY",
+  "decimals": 2,
+  "coin_type": "0x3b7a5f7aec4489c62be481293eb6555d4d23b1428cb0919898067bd28a32901f::suiby::SUIBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/2ZZV1l4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

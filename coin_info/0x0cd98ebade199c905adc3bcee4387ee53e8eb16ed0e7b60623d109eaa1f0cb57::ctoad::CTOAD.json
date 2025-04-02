@@ -1,0 +1,13 @@
+{
+  "name": "Chilling Toad",
+  "symbol": "CTOAD",
+  "decimals": 9,
+  "coin_type": "0x0cd98ebade199c905adc3bcee4387ee53e8eb16ed0e7b60623d109eaa1f0cb57::ctoad::CTOAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Mse6hcdxMWgQgEW7AcidAYw2G5ucW5fC8XK3NWYpump.png?size=lg&key=31ae22",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

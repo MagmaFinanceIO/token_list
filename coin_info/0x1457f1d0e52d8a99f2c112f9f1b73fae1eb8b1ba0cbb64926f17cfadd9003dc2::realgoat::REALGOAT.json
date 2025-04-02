@@ -1,0 +1,13 @@
+{
+  "name": "REALGOAT",
+  "symbol": "Real Goat",
+  "decimals": 6,
+  "coin_type": "0x1457f1d0e52d8a99f2c112f9f1b73fae1eb8b1ba0cbb64926f17cfadd9003dc2::realgoat::REALGOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/tmAd9y3.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

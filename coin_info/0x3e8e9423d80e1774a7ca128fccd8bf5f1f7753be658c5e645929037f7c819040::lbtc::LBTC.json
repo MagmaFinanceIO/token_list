@@ -1,0 +1,13 @@
+{
+  "name": "Lombard Staked BTC",
+  "symbol": "LBTC",
+  "decimals": 8,
+  "coin_type": "0x3e8e9423d80e1774a7ca128fccd8bf5f1f7753be658c5e645929037f7c819040::lbtc::LBTC",
+  "pyth_id": "8f257aab6e7698bb92b15511915e593d6f8eae914452f781874754b03d0c612b",
+  "birdeyeid": "0x3e8e9423d80e1774a7ca128fccd8bf5f1f7753be658c5e645929037f7c819040::lbtc::LBTC",
+  "coin_priority": [],
+  "logo_url": "https://www.lombard.finance/lbtc/LBTC.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

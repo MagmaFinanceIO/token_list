@@ -1,0 +1,13 @@
+{
+  "name": "GrokAI",
+  "symbol": "GAI",
+  "decimals": 9,
+  "coin_type": "0x58063e4829c4e62b4186ddff27bad57c23ae6a5a36f2726c22cb1053342e9841::gai::GAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/64dda9b7-210f-4023-9bd9-cbb7a7103ebc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

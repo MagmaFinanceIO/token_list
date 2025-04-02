@@ -1,0 +1,13 @@
+{
+  "name": "FIAT",
+  "symbol": "stablecoin",
+  "decimals": 9,
+  "coin_type": "0x081b971d7c3b5c5a1cb16a6ca3d3535a2bfe1f086a1567f8d9ac80b305d25a8b::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

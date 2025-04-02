@@ -1,0 +1,13 @@
+{
+  "name": "BUY BINKY",
+  "symbol": "BUYBINKY",
+  "decimals": 6,
+  "coin_type": "0xe8fc2f1fa356e92245f48132783753327b9074c00d2ba6586a8842fe18d08e1c::buybinky::BUYBINKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/sticker_71afa160a4.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "0xWSB on SUI",
+  "symbol": "WSB",
+  "decimals": 6,
+  "coin_type": "0x4c0189a2a0b5bedfa761f583be015aa02be8cb15f796c8b01d5e8c737340bb29::wsb::WSB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1d261c0a-4472-4e6c-8a82-5c308d4bf0e3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

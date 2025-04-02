@@ -1,0 +1,13 @@
+{
+  "name": "Degenius Ultimus",
+  "symbol": "DEGEN",
+  "decimals": 9,
+  "coin_type": "0x970806540b958d088775b53fe5a41e4f88fae2285250c075b32c7445473cced8::degen::DEGEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DEGRZALfkV1KAPbV82Xb5hjsZYvwS6VAmGG1KSbc3KAv.png?size=lg&key=196399",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

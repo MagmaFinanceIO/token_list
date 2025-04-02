@@ -1,0 +1,13 @@
+{
+  "name": "Grinx the guy",
+  "symbol": "GRINX",
+  "decimals": 6,
+  "coin_type": "0xe430d6e014350392e978f7f91b6fa035c21b8e34bf95e5c6d04aa7c72c86f0aa::grinx::GRINX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000019480_c343476e7f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

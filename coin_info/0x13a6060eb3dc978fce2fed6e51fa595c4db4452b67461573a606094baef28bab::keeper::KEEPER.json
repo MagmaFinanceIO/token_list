@@ -1,0 +1,13 @@
+{
+  "name": "KEEPER AI",
+  "symbol": "KEEPER",
+  "decimals": 9,
+  "coin_type": "0x13a6060eb3dc978fce2fed6e51fa595c4db4452b67461573a606094baef28bab::keeper::KEEPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmawdCjCm9zLjW1YgYFQtDCLKWRp2CMTazkX5uWdG3gqoK",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

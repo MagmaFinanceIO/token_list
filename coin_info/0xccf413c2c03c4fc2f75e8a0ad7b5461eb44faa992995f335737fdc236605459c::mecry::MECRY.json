@@ -1,0 +1,13 @@
+{
+  "name": "MEME",
+  "symbol": "MECRY",
+  "decimals": 6,
+  "coin_type": "0xccf413c2c03c4fc2f75e8a0ad7b5461eb44faa992995f335737fdc236605459c::mecry::MECRY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pub-efea87dea3f94e8084e073588c980c50.r2.dev/logo/01JBVAXGJ5QWZFF04ERMBMSZEF/01JC506TR2XQEXR9THSV6YD501",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

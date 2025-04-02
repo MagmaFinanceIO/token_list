@@ -1,0 +1,13 @@
+{
+  "name": "MOO DENGG",
+  "symbol": "MOODENGG",
+  "decimals": 9,
+  "coin_type": "0x428394864db0611bd283bda1ba361859181f8a515861dee3b918da8b0a9ba8c3::Token::TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pink-naval-kingfisher-12.mypinata.cloud/ipfs/QmZVXXUHFx7V3djJNSXXuoX8RfVChkbQXDa7223SFQGC5f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

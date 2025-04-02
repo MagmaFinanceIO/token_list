@@ -1,0 +1,13 @@
+{
+  "name": "goatsecoin",
+  "symbol": "goatsecoin",
+  "decimals": 9,
+  "coin_type": "0x4f88d37106836428ba3c53c1d457f62f9475575cb704585b53deb8979c1697e2::goatsecoin::GOATSECOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmYpAPZ6yGFRSfkj3FBajJbsf3y4jr3VNqKVf3De7YWvMi",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

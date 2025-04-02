@@ -1,0 +1,13 @@
+{
+  "name": "Dogecast",
+  "symbol": "DOGECAST",
+  "decimals": 9,
+  "coin_type": "0x37ad88c3aabff9a21e470c8e8e88186412b2e328c1d9ae8e34f9eca70183522e::dogecast::DOGECAST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ChHAfQsUznqUpvFSNQsu42KsRr1t3ct56fBigVSHpump.png?size=lg&key=0b9a12",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

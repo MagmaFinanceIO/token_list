@@ -1,0 +1,13 @@
+{
+  "name": "justice",
+  "symbol": "JUSTICE",
+  "decimals": 9,
+  "coin_type": "0x179578aaf7642a5a50cb56c623a6aace943091332b869c67d4a688407cc59ff6::justice::JUSTICE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

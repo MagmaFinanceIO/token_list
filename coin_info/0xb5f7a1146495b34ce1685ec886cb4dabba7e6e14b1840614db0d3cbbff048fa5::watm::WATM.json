@@ -1,0 +1,13 @@
+{
+  "name": "Wat Mama",
+  "symbol": "WATM",
+  "decimals": 9,
+  "coin_type": "0xb5f7a1146495b34ce1685ec886cb4dabba7e6e14b1840614db0d3cbbff048fa5::watm::WATM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/59c51573-8361-4bbd-a028-93237542db37.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

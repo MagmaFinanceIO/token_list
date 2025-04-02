@@ -1,0 +1,13 @@
+{
+  "name": "Just a smol wel",
+  "symbol": "WEL",
+  "decimals": 6,
+  "coin_type": "0xcdf4451325be89a4ae5d47ba96f823cf4b233acc56f43ff7ecb4c5fcb7275ca8::wel::WEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000060_f080e636de.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

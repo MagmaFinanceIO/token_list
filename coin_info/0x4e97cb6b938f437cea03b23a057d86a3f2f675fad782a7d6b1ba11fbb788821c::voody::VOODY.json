@@ -1,0 +1,13 @@
+{
+  "name": "Voody Sui",
+  "symbol": "Voody",
+  "decimals": 6,
+  "coin_type": "0x4e97cb6b938f437cea03b23a057d86a3f2f675fad782a7d6b1ba11fbb788821c::voody::VOODY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Pfp_launch_ae7418ee7c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

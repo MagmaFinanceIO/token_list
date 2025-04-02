@@ -1,0 +1,13 @@
+{
+  "name": "Hirosuima 🤯",
+  "symbol": "HIROSUIMA",
+  "decimals": 9,
+  "coin_type": "0x1f8cab83db6f2b542558fa6a072d2ed415521d6c86d3fbb5efff742eb771f572::hirosuima::HIROSUIMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/097d07a3-295c-4914-87d3-b448c4501d05.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

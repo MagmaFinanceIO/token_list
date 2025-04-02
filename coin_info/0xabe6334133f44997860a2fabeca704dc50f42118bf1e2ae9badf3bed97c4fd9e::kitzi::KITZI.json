@@ -1,0 +1,13 @@
+{
+  "name": "Kitzi Gambler",
+  "symbol": "KITZI",
+  "decimals": 9,
+  "coin_type": "0xabe6334133f44997860a2fabeca704dc50f42118bf1e2ae9badf3bed97c4fd9e::kitzi::KITZI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/J3VhxNgkv4MNrbWSyoa2woy2TMToiFcusR8ZyHDNpump.png?size=lg&key=fb3e7f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MEGATRON",
+  "symbol": "MEGA",
+  "decimals": 6,
+  "coin_type": "0x799fd85bd1456c6d8227b4aa9fc259cb9e5d36bcd6dd4dc2e3b068b2417a3890::mega::MEGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_09_19_175649037_8143d1fecd.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

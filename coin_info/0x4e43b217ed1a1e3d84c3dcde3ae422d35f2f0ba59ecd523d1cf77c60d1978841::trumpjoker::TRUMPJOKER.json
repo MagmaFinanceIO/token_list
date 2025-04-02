@@ -1,0 +1,13 @@
+{
+  "name": "trump  joker",
+  "symbol": "TRUMPJOKER",
+  "decimals": 6,
+  "coin_type": "0x4e43b217ed1a1e3d84c3dcde3ae422d35f2f0ba59ecd523d1cf77c60d1978841::trumpjoker::TRUMPJOKER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Image_1729355651993_dee6b222f6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

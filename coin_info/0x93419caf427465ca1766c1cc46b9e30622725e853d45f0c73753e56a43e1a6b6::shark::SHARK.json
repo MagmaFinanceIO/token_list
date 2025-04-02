@@ -1,0 +1,13 @@
+{
+  "name": "SuibaShark",
+  "symbol": "SHARK",
+  "decimals": 6,
+  "coin_type": "0x93419caf427465ca1766c1cc46b9e30622725e853d45f0c73753e56a43e1a6b6::shark::SHARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f66ef4c3-08f5-463f-9466-ebdf96d485ef.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

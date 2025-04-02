@@ -1,0 +1,13 @@
+{
+  "name": "THE OFFICIAL CURE",
+  "symbol": "CURE",
+  "decimals": 6,
+  "coin_type": "0x58f0dc1ebad7d71af9da59957d64bdc61c51c023b1cd90fbb29ccd0da2a6bf25::cure::CURE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1738603445914.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

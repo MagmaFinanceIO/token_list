@@ -1,0 +1,13 @@
+{
+  "name": "DOWN AI",
+  "symbol": "DOWNAI",
+  "decimals": 9,
+  "coin_type": "0x1719c0a188da699e455d1887f91de3c5f7bada5cd437411f038364e1c1e17c38::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

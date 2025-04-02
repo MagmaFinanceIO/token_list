@@ -1,0 +1,13 @@
+{
+  "name": "Turtle Dog",
+  "symbol": "TOG",
+  "decimals": 6,
+  "coin_type": "0xdf7161829045f7d31acd62d7652c8dccef0e16b9b8f3981e8535667a3937c333::tog::TOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_11_23_073229_02c46df710.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

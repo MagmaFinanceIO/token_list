@@ -1,0 +1,13 @@
+{
+  "name": "Devil Goat",
+  "symbol": "DGOAT",
+  "decimals": 6,
+  "coin_type": "0x3490c804a0322087795bb6ec7fa6f2bd31e952ed5eeda87c795c266056fc96cd::dgoat::DGOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0xa5f18ac01063d53ea30fa11f934f72161af823430fdefd90729e50c1ec13da05::dgoat::dgoat.png?size=lg&key=8910f0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

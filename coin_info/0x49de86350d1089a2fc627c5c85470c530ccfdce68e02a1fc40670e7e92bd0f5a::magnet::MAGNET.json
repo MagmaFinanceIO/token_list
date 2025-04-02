@@ -1,0 +1,13 @@
+{
+  "name": "Magnet",
+  "symbol": "MAGNET",
+  "decimals": 9,
+  "coin_type": "0x49de86350d1089a2fc627c5c85470c530ccfdce68e02a1fc40670e7e92bd0f5a::magnet::MAGNET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmR1M3kHVCEGuRjFkMw3gTtJVuUE946KTw9RPVijKm6CoY?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

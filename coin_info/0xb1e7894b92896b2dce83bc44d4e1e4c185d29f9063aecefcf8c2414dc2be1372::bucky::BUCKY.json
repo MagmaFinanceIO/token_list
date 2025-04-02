@@ -1,0 +1,13 @@
+{
+  "name": "Buckys Bets by SuiAI",
+  "symbol": "BUCKY",
+  "decimals": 6,
+  "coin_type": "0xb1e7894b92896b2dce83bc44d4e1e4c185d29f9063aecefcf8c2414dc2be1372::bucky::BUCKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_2016_c2ad4806e6.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

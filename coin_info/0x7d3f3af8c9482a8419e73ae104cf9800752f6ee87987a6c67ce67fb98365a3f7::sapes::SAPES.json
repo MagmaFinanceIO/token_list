@@ -1,0 +1,13 @@
+{
+  "name": "SUI APES",
+  "symbol": "SAPES",
+  "decimals": 6,
+  "coin_type": "0x7d3f3af8c9482a8419e73ae104cf9800752f6ee87987a6c67ce67fb98365a3f7::sapes::SAPES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3523_a33502446b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

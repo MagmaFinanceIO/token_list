@@ -1,0 +1,13 @@
+{
+  "name": "AGENTRUMPS",
+  "symbol": "S",
+  "decimals": 9,
+  "coin_type": "0x9d6de2540f15746dacfce70343ab1c135ee103cf4a58d74193e4e8baff7e7ff0::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

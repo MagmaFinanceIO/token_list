@@ -1,0 +1,13 @@
+{
+  "name": "Dog Google",
+  "symbol": "DOGLE",
+  "decimals": 6,
+  "coin_type": "0x22ea76f9bf3075c8843aa427473eb7b5b80026b640939e44bb90e4e69b4442e4::dogle::DOGLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000039189_bc2283d364.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

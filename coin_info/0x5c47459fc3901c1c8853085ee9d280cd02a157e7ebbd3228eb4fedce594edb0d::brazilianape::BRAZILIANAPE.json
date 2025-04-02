@@ -1,0 +1,13 @@
+{
+  "name": "BRAZILIAN APE CLUB",
+  "symbol": "BRAZILIANAPE",
+  "decimals": 9,
+  "coin_type": "0x5c47459fc3901c1c8853085ee9d280cd02a157e7ebbd3228eb4fedce594edb0d::brazilianape::BRAZILIANAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5c007842-1ab4-4105-900c-28318fd2826d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

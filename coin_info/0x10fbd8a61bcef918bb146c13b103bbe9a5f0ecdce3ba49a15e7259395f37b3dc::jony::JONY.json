@@ -1,0 +1,13 @@
+{
+  "name": "Jonycat",
+  "symbol": "JONY",
+  "decimals": 9,
+  "coin_type": "0x10fbd8a61bcef918bb146c13b103bbe9a5f0ecdce3ba49a15e7259395f37b3dc::jony::JONY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3pbH4qQPZ57425cYjAMBzPuEC5q1KxV2F3VeaQ95o3uP.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

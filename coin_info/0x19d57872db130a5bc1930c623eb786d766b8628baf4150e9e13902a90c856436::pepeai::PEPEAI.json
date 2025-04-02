@@ -1,0 +1,13 @@
+{
+  "name": "PEPE AI",
+  "symbol": "PEPEAI",
+  "decimals": 9,
+  "coin_type": "0x19d57872db130a5bc1930c623eb786d766b8628baf4150e9e13902a90c856436::pepeai::PEPEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FRDW2E5s9sTVbZ6YEBKbmJUoemyUuqs8wFbx5YRV8kzs.png?size=lg&key=9789a9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

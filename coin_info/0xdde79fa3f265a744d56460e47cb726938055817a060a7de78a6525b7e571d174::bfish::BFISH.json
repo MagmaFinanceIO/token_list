@@ -1,0 +1,13 @@
+{
+  "name": "BlueFish",
+  "symbol": "BFish",
+  "decimals": 6,
+  "coin_type": "0xdde79fa3f265a744d56460e47cb726938055817a060a7de78a6525b7e571d174::bfish::BFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000004659_14ccf21ff5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

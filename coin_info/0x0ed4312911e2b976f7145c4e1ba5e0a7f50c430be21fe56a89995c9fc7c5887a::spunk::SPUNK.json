@@ -1,0 +1,13 @@
+{
+  "name": "Sui Punks",
+  "symbol": "SPUNK",
+  "decimals": 9,
+  "coin_type": "0x0ed4312911e2b976f7145c4e1ba5e0a7f50c430be21fe56a89995c9fc7c5887a::spunk::SPUNK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b2e39ed1-9fa4-42b4-b182-447647e534d3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

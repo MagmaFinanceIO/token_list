@@ -1,0 +1,13 @@
+{
+  "name": "DRRO",
+  "symbol": "DRRO",
+  "decimals": 9,
+  "coin_type": "0x17f90413d035aa4005642d806da2f751f925f4de234a6edc892a460ef1507b0d::drro::DRRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

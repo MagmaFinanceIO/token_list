@@ -1,0 +1,13 @@
+{
+  "name": "Alecoin",
+  "symbol": "ALC",
+  "decimals": 2,
+  "coin_type": "0xd69ff6e7b10c2249bcd842d3333aac4858d45008a55e9984ed16781f3c787c97::alc::ALC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b05004f6-09dd-4d4f-8aa1-6b71a702a738.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

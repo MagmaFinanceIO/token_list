@@ -1,0 +1,13 @@
+{
+  "name": "Pepes Dog",
+  "symbol": "DEGE",
+  "decimals": 9,
+  "coin_type": "0xa4dd73d98ac8ce3e3f016a3cb852ea8b3344116019dd63d9ef1f1fd255027d93::dege::DEGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DfRD86CCGB6VphAtF4X2B6wgMSfK1C1xvGHrPLt1pump.png?size=lg&key=490ed6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

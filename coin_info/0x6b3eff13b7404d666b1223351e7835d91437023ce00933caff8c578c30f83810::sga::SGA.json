@@ -1,0 +1,13 @@
+{
+  "name": "SGA Token",
+  "symbol": "SGA",
+  "decimals": 2,
+  "coin_type": "0x6b3eff13b7404d666b1223351e7835d91437023ce00933caff8c578c30f83810::sga::SGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreiepkmnmiwdxsvsldfefghfwkr2fzyrtaybfdx5nbmsynbdmppqd6q.ipfs.w3s.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

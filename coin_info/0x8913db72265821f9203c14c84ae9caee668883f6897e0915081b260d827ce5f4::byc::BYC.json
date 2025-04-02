@@ -1,0 +1,13 @@
+{
+  "name": "BeyCoin",
+  "symbol": "BYC",
+  "decimals": 9,
+  "coin_type": "0x8913db72265821f9203c14c84ae9caee668883f6897e0915081b260d827ce5f4::byc::BYC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5bf84621-6b59-431a-853e-5edffad4ebf4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

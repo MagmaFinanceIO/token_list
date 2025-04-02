@@ -1,0 +1,13 @@
+{
+  "name": "Kenobi",
+  "symbol": "Kenobi",
+  "decimals": 6,
+  "coin_type": "0xa8debf9f3ea3d26903f7f3351d0b92e2958ef75948e712e3ad30adc7fd5474e3::kenobi::KENOBI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmP1pNBdQPGzrbyN4wUuqzSWurVGJgxhkw1KpTnsMvwGUb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

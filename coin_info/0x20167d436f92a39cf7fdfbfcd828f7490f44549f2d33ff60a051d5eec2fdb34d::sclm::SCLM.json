@@ -1,0 +1,13 @@
+{
+  "name": "SUI CAT LANGUAGE MODEL",
+  "symbol": "SCLM",
+  "decimals": 9,
+  "coin_type": "0x20167d436f92a39cf7fdfbfcd828f7490f44549f2d33ff60a051d5eec2fdb34d::sclm::SCLM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2dd6133d-d5de-4473-b189-2adcb34364d4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

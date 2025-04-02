@@ -1,0 +1,13 @@
+{
+  "name": "Aiplague",
+  "symbol": "Aiplague",
+  "decimals": 9,
+  "coin_type": "0x8b0715236ad3862011e427149e924b27c308974e88b894b5d917c50ca28560a0::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

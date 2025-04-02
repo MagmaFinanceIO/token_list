@@ -1,0 +1,13 @@
+{
+  "name": "$SUINNER",
+  "symbol": "SUINNER",
+  "decimals": 6,
+  "coin_type": "0xb88926c555fff48c365a6fc2fb3e9cde8983590dc63fbedeb7e8d3b941946829::suinner::SUINNER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_gerak_9ca8c6ed39.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

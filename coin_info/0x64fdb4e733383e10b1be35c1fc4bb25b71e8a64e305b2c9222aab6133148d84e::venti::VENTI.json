@@ -1,0 +1,13 @@
+{
+  "name": "venti",
+  "symbol": "venti",
+  "decimals": 9,
+  "coin_type": "0x64fdb4e733383e10b1be35c1fc4bb25b71e8a64e305b2c9222aab6133148d84e::venti::VENTI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FRpTyMBDavKsdYN1FQZcEeZ2iwGvHaZKFSkvr5izpump.png?size=lg&key=8d7e3e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

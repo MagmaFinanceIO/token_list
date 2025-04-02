@@ -1,0 +1,13 @@
+{
+  "name": "BEAST",
+  "symbol": "BEAST",
+  "decimals": 9,
+  "coin_type": "0x3642541831e35812502a690247f09d8b5cb6de05652c669626ca8ed8d9892ba4::beast::BEAST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/30e42c92-980a-47fa-b66e-5dea48bbeccf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

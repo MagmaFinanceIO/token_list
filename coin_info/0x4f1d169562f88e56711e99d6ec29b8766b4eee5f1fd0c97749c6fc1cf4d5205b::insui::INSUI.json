@@ -1,0 +1,13 @@
+{
+  "name": "InfinitySui",
+  "symbol": "InSui",
+  "decimals": 6,
+  "coin_type": "0x4f1d169562f88e56711e99d6ec29b8766b4eee5f1fd0c97749c6fc1cf4d5205b::insui::INSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736439859136.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

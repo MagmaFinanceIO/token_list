@@ -1,0 +1,13 @@
+{
+  "name": "Moo Deng AI",
+  "symbol": "Moo Deng AI",
+  "decimals": 9,
+  "coin_type": "0x23bd36b2ea1aabe2d137a54a67a11c1afd6b8f8f59948a1a32970ba45fed011d::moo_deng_ai::MOO_DENG_AI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ad10115b-63cd-4eb1-9cf2-5ef86f9e655d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

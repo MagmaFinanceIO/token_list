@@ -1,0 +1,13 @@
+{
+  "name": "SUI Snake AI by SuiAI",
+  "symbol": "SUISNAKE",
+  "decimals": 6,
+  "coin_type": "0xa6c806e235d603bdeb7094c1b69ea342e65cd3e98dda47fbda241f50ffeb10a2::suisnake::SUISNAKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Leonardo_Anime_XL_a_snake_animal_chibi_skin_of_the_animal_is_2_684ea7fd75.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

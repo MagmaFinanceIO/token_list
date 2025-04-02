@@ -1,0 +1,13 @@
+{
+  "name": "SLIMER",
+  "symbol": "SLIMER",
+  "decimals": 9,
+  "coin_type": "0x07b21b65e34ca084a0a0058957a714e800cc5caae6cfc53a61abd058657dc37f::slimer::SLIMER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a8bd802c-28e2-4e2f-9490-15341d762f45.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

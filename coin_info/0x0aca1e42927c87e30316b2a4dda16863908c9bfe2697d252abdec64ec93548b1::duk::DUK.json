@@ -1,0 +1,13 @@
+{
+  "name": "duk",
+  "symbol": "duk",
+  "decimals": 6,
+  "coin_type": "0x0aca1e42927c87e30316b2a4dda16863908c9bfe2697d252abdec64ec93548b1::duk::DUK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/WcdCzC3/photo-2024-10-15-21-07-55.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

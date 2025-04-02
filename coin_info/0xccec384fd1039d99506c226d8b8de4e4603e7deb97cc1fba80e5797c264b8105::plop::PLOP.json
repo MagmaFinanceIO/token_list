@@ -1,0 +1,13 @@
+{
+  "name": "Plop",
+  "symbol": "PLOP",
+  "decimals": 9,
+  "coin_type": "0xccec384fd1039d99506c226d8b8de4e4603e7deb97cc1fba80e5797c264b8105::plop::PLOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ed85a0f8-7303-446b-9fc7-4c329faf221d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

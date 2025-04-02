@@ -1,0 +1,13 @@
+{
+  "name": "SUI ROOM",
+  "symbol": "SUIM",
+  "decimals": 6,
+  "coin_type": "0x5c434f721751d74bf07e54c31dd0d4f3e84cc999d2bf262d432bce6ed716e095::suim::SUIM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/LOGO_01_19_596ec623f5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Feng Sui Tiger",
+  "symbol": "SUITIGER",
+  "decimals": 9,
+  "coin_type": "0x31208251d7282108ca51f69cc86705de50ba41c50dcafc11b265045ff8c218c1::suitiger::SUITIGER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/595a7d9b-f3c6-441c-b8a2-c9e93af7c578.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

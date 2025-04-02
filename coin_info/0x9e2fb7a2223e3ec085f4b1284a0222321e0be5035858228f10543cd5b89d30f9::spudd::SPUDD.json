@@ -1,0 +1,13 @@
+{
+  "name": "SPUDDY",
+  "symbol": "SPUDD",
+  "decimals": 9,
+  "coin_type": "0x9e2fb7a2223e3ec085f4b1284a0222321e0be5035858228f10543cd5b89d30f9::spudd::SPUDD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0fdb0678-931b-4876-983a-1963f63de5b8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HIMENO",
+  "symbol": "HIMENO",
+  "decimals": 9,
+  "coin_type": "0xd783ac9d2e4aba051cd81450c1ac2570506e6b715956ba202305199fdfec23c0::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

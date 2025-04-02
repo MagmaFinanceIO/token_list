@@ -1,0 +1,13 @@
+{
+  "name": "TEST",
+  "symbol": "TST",
+  "decimals": 9,
+  "coin_type": "0x229875a7ca6a3fbbfe78eab2c4949b6da52d1438ea6f0e11a5be56ef9c5b6547::test::TEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmWEGvJByfiqGxZeytbZJm2eDgnMpNvcaoqAev5Mr6YhGn",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

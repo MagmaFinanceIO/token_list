@@ -1,0 +1,13 @@
+{
+  "name": "USDN",
+  "symbol": "USDN",
+  "decimals": 6,
+  "coin_type": "0x626716abc3e8288e78e49de192accf19f0b72bbbf234c0363e74b593a83632ec::usdn::USDN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/1Ih08iqI-fJUeBXRvpH00B0WiaishMH0cbxqAzjGfu8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

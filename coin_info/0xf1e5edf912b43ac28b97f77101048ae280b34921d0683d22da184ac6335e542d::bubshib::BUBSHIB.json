@@ -1,0 +1,13 @@
+{
+  "name": "BUBBLE SHIBA SUI",
+  "symbol": "BUBSHIB",
+  "decimals": 6,
+  "coin_type": "0xf1e5edf912b43ac28b97f77101048ae280b34921d0683d22da184ac6335e542d::bubshib::BUBSHIB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3841_00f2dc2711.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

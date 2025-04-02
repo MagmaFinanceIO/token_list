@@ -1,0 +1,13 @@
+{
+  "name": "Burrito",
+  "symbol": "TACO",
+  "decimals": 6,
+  "coin_type": "0x01c12db045f9218523510dfa06fecf89382344b17a18ac5aa530c192600ecdc6::taco::TACO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/burrito_15816e44cb.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

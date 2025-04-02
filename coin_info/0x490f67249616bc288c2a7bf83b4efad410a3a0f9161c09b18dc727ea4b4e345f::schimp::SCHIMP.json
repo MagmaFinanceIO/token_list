@@ -1,0 +1,13 @@
+{
+  "name": "Baby Chimp",
+  "symbol": "SCHIMP",
+  "decimals": 9,
+  "coin_type": "0x490f67249616bc288c2a7bf83b4efad410a3a0f9161c09b18dc727ea4b4e345f::schimp::SCHIMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/45rpJUMN39M2QfjCJsas5iqmdF61ByD4Wmn6oSMTpump.png?size=lg&key=318365",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

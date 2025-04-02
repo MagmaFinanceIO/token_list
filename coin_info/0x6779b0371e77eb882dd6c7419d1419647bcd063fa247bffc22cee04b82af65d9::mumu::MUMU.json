@@ -1,0 +1,13 @@
+{
+  "name": "Mumusui the Bull",
+  "symbol": "MUMU",
+  "decimals": 9,
+  "coin_type": "0x6779b0371e77eb882dd6c7419d1419647bcd063fa247bffc22cee04b82af65d9::mumu::MUMU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1dab3e9a-a8ac-44d4-80bc-c0ccd31dea18.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

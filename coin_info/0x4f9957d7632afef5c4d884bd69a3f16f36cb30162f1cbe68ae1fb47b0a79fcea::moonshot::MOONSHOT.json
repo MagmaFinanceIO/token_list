@@ -1,0 +1,13 @@
+{
+  "name": "Moonshot",
+  "symbol": "MOONSHOT",
+  "decimals": 6,
+  "coin_type": "0x4f9957d7632afef5c4d884bd69a3f16f36cb30162f1cbe68ae1fb47b0a79fcea::moonshot::MOONSHOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735194698996.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

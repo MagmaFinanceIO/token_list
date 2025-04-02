@@ -1,0 +1,13 @@
+{
+  "name": "FTX Coin",
+  "symbol": "FTX",
+  "decimals": 9,
+  "coin_type": "0x5e1a22418605e07e2d6310874081a960177e9fabc6b89114d77fa8f15d536e09::ftx::FTX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmaVCkVTsdr4mn6LDQCpaetBMyYwMs1enTtK4rAWpsWNP6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

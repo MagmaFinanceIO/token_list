@@ -1,0 +1,13 @@
+{
+  "name": "BoostAi",
+  "symbol": "BOOST",
+  "decimals": 6,
+  "coin_type": "0x678c81f4143b548b0dfcb00df8a22b1fbba1b9991b78ff4127075a791b854737::boost::BOOST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3e9d7fb3-3a0d-43fd-8f30-5d1066792bd8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

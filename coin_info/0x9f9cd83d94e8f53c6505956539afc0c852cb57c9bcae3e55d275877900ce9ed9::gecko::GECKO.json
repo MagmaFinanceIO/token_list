@@ -1,0 +1,13 @@
+{
+  "name": "Gecko",
+  "symbol": "GECKO",
+  "decimals": 6,
+  "coin_type": "0x9f9cd83d94e8f53c6505956539afc0c852cb57c9bcae3e55d275877900ce9ed9::gecko::GECKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Asset_10geckos_square_c7be378110.PNG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

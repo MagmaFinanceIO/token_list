@@ -1,0 +1,13 @@
+{
+  "name": "XENOMORPH",
+  "symbol": "XENO",
+  "decimals": 9,
+  "coin_type": "0x6b7d9dc821467b9fdf152a32b73291fb1a1a14e6e9f39859b25d21321647ccd7::xeno::XENO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/J5LugyRpwHi4TYB16UYWpDuSx6z5zsuJ7pMjU95Cpump.png?size=lg&key=da10c3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

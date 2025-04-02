@@ -1,0 +1,13 @@
+{
+  "name": "Testo",
+  "symbol": "TESTO",
+  "decimals": 9,
+  "coin_type": "0xfa0fb2aa6cdeabcb1de36908511d7928cf4f0fa0dac9e5f1bf999744370370ef::testo::TESTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e432e3a8-d9cd-4a13-81d7-0a94e22ef5e1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "numogram sui",
+  "symbol": "GNON",
+  "decimals": 6,
+  "coin_type": "0x763a2990bd28c9de199ba2c2fd361dd78516895d20723f24785a9baa99e8ca19::gnon::GNON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c6d8847f-5060-493f-8644-5c24d8707708.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

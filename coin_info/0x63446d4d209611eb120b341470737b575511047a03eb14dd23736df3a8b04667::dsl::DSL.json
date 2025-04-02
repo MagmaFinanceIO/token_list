@@ -1,0 +1,13 @@
+{
+  "name": "DSL Coin",
+  "symbol": "DSL",
+  "decimals": 4,
+  "coin_type": "0x63446d4d209611eb120b341470737b575511047a03eb14dd23736df3a8b04667::dsl::DSL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/26b4b4fe-4a87-430e-9a48-93cc62110b4f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

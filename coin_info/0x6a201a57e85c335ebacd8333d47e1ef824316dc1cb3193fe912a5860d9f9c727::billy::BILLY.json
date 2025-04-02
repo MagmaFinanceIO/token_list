@@ -1,0 +1,13 @@
+{
+  "name": "BILLY",
+  "symbol": "BILLY",
+  "decimals": 6,
+  "coin_type": "0x6a201a57e85c335ebacd8333d47e1ef824316dc1cb3193fe912a5860d9f9c727::billy::BILLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmTf9tGmZXAuDG5BbYNG2iDomHudQqDVdArTwhsXS4cVqU",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

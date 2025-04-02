@@ -1,0 +1,13 @@
+{
+  "name": "Bunnys",
+  "symbol": "BUNNY",
+  "decimals": 9,
+  "coin_type": "0x284a5d65966d218564b5a203978e666613a4adf2c369c2a270cf7030194874e4::bunny::BUNNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d7b0639b-2a24-43f3-8fd5-2ed654c313f3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

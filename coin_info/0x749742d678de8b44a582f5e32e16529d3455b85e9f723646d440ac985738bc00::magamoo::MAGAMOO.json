@@ -1,0 +1,13 @@
+{
+  "name": "Moo Deng Maga",
+  "symbol": "MAGAMOO",
+  "decimals": 9,
+  "coin_type": "0x749742d678de8b44a582f5e32e16529d3455b85e9f723646d440ac985738bc00::magamoo::MAGAMOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/830e27dc-89df-435f-857a-4f6fdced51f0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

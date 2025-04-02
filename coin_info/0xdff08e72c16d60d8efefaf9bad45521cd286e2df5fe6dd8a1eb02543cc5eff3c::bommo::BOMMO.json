@@ -1,0 +1,13 @@
+{
+  "name": "Bommo",
+  "symbol": "BOMMO",
+  "decimals": 6,
+  "coin_type": "0xdff08e72c16d60d8efefaf9bad45521cd286e2df5fe6dd8a1eb02543cc5eff3c::bommo::BOMMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/t_A_N_Uwd_C_400x400_80d1902031.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

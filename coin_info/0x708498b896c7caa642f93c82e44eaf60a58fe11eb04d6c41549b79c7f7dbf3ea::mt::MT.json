@@ -1,0 +1,13 @@
+{
+  "name": "Mojak Terminal",
+  "symbol": "MT",
+  "decimals": 6,
+  "coin_type": "0x708498b896c7caa642f93c82e44eaf60a58fe11eb04d6c41549b79c7f7dbf3ea::mt::MT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qmf4h_Jq1g1_Zar_K3o_S2nranbg_Lx2ryi_VY_9_Zba5i6s8og_Wzk_1_8c24f24706.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

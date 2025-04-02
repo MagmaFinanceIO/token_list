@@ -1,0 +1,13 @@
+{
+  "name": "Sui Frop",
+  "symbol": "FROP",
+  "decimals": 9,
+  "coin_type": "0xe4f675377f674eab1b4dff9e41d712440a46f6f28700492ab0ba223e0308d220::frop::FROP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/94e042da-a123-4889-b7ec-721dc9c432c8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

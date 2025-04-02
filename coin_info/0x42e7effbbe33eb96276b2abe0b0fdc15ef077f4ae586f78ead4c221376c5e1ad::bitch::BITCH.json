@@ -1,0 +1,13 @@
+{
+  "name": "BITCH",
+  "symbol": "bitch",
+  "decimals": 9,
+  "coin_type": "0x42e7effbbe33eb96276b2abe0b0fdc15ef077f4ae586f78ead4c221376c5e1ad::bitch::BITCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

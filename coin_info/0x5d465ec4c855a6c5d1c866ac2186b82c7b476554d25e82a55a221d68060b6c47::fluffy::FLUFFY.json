@@ -1,0 +1,13 @@
+{
+  "name": "Fluffy ",
+  "symbol": "Fluffy",
+  "decimals": 6,
+  "coin_type": "0x5d465ec4c855a6c5d1c866ac2186b82c7b476554d25e82a55a221d68060b6c47::fluffy::FLUFFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736880787329.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

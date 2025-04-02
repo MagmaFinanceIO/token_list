@@ -1,0 +1,13 @@
+{
+  "name": "Fwodo",
+  "symbol": "FWODO",
+  "decimals": 9,
+  "coin_type": "0x119e33f42ef52c3a1643c7b1d6d74ccd07ef5f08397df2e91c4a5152c31d47f1::fwodo::FWODO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/461fedf9-7b48-4e50-a482-795abf951d83.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

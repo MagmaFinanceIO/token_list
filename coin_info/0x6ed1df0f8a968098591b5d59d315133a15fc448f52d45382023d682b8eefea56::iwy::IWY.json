@@ -1,0 +1,13 @@
+{
+  "name": "I Want You",
+  "symbol": "IWY",
+  "decimals": 6,
+  "coin_type": "0x6ed1df0f8a968098591b5d59d315133a15fc448f52d45382023d682b8eefea56::iwy::IWY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/VOTE_5d7983b188.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

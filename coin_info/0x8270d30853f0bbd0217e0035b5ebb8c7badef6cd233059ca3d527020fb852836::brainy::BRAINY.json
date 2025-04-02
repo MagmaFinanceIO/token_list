@@ -1,0 +1,13 @@
+{
+  "name": "Brainy",
+  "symbol": "BRAINY",
+  "decimals": 9,
+  "coin_type": "0x8270d30853f0bbd0217e0035b5ebb8c7badef6cd233059ca3d527020fb852836::brainy::BRAINY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CtFuXKVqvzHmHiLVkyAGHQLM9ejishj8EPgPk1Txpump.png?size=lg&key=767208",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

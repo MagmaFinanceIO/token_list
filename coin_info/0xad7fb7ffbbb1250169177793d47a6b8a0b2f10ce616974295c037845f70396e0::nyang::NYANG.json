@@ -1,0 +1,13 @@
+{
+  "name": "Chill Nyan Guy",
+  "symbol": "NyanG",
+  "decimals": 9,
+  "coin_type": "0xad7fb7ffbbb1250169177793d47a6b8a0b2f10ce616974295c037845f70396e0::nyang::NYANG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FYsyabSvkMgN4ZFxwdfkP3pXtj2otNp8aNctB3EHYeDq.png?size=lg&key=2405ad",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

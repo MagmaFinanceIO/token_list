@@ -1,0 +1,13 @@
+{
+  "name": "ReworkdAI",
+  "symbol": "ReworkdAI",
+  "decimals": 9,
+  "coin_type": "0xf05d01384da287209ca5052946f0f8c49027d05ae469cb8ed9b6899c25cb83d0::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

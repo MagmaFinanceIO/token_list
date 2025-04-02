@@ -1,0 +1,13 @@
+{
+  "name": "daq",
+  "symbol": "daq",
+  "decimals": 6,
+  "coin_type": "0x339aa5371ff10f1c35b649b4fddf96029f2e26d3e493665d385598dcbcdb9c16::daq::DAQ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

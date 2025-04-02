@@ -1,0 +1,13 @@
+{
+  "name": "Hippo on SUI",
+  "symbol": "HIPPOSUI",
+  "decimals": 9,
+  "coin_type": "0x12ab168f980ee45a5d2efd4e9d4afe90c367a639c6d32f94037df23b902ec66c::hipposui::HIPPOSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6abebd64-a525-460c-b32b-1aaa3ab68006.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

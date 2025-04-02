@@ -1,0 +1,13 @@
+{
+  "name": "Wusdt",
+  "symbol": "wUSDT",
+  "decimals": 9,
+  "coin_type": "0x5833c51e6542cfa6a23e88183faf6bde99fadc923853b07a87d8c05a3fb660a9::wusdt::WUSDT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/41a273f5-b26c-430e-a774-1fdfebac43c6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

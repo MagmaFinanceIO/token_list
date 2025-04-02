@@ -1,0 +1,13 @@
+{
+  "name": "beedog",
+  "symbol": "BEEDOG",
+  "decimals": 9,
+  "coin_type": "0xe87c012037b67101bd670ae35d68514b27bdc6388e08a2e021ca0bac236c0716::beedog::BEEDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Df6yfrKC8kZE3KNkrHERKzAetSxbrWeniQfyJY4Jpump.png?size=lg&key=ed3282",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

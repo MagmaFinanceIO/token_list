@@ -1,0 +1,13 @@
+{
+  "name": "BLUXX",
+  "symbol": "BLUX",
+  "decimals": 6,
+  "coin_type": "0xd87cc03142e8d055d2f51ee2eb8527620bf0b5895151ae9f8bf53c2ce5fb99c6::blux::BLUX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1738570419834.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

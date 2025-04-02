@@ -1,0 +1,13 @@
+{
+  "name": "Pendle",
+  "symbol": "Pendle",
+  "decimals": 8,
+  "coin_type": "0x25066fad46ae9cc134681b79a3408fb744ff43cad55d859ceb3d880bba35425e::Pendle::PENDLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://assets.coingecko.com/coins/images/15069/small/Pendle_Logo_Normal-03.png?1634196276",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Skillful AI",
+  "symbol": "SKAI",
+  "decimals": 6,
+  "coin_type": "0x187b0021c2f2040be966427824336de610e92d187fd33d5959df4162d77ea897::skai::SKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cd56f388-7645-428a-8a50-053863eaf1df.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

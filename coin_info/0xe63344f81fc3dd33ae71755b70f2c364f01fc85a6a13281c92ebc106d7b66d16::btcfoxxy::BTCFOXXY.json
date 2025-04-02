@@ -1,0 +1,13 @@
+{
+  "name": "BtcFoxxy",
+  "symbol": "BtcFoxxy",
+  "decimals": 9,
+  "coin_type": "0xe63344f81fc3dd33ae71755b70f2c364f01fc85a6a13281c92ebc106d7b66d16::btcfoxxy::BTCFOXXY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/faf70e07-9d19-4e93-a205-942d5e9ef85f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

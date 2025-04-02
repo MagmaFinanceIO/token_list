@@ -1,0 +1,13 @@
+{
+  "name": "AURA",
+  "symbol": "AURA",
+  "decimals": 9,
+  "coin_type": "0x4708f7975c4036d5ddab326393c0afad25cfc456a1bfe9289725e083c0ce1e84::aura::AURA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AuraAiXwQ61h11a9Rtktro9p3R6uBfEWo9qDGnJge3G1.png?size=lg&key=73d23f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

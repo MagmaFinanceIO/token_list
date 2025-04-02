@@ -1,0 +1,13 @@
+{
+  "name": "GOWOAT on Sui",
+  "symbol": "GOWOAT",
+  "decimals": 6,
+  "coin_type": "0x245eb4193b377fa6aa4ca3753309eccbfc7f580b7bfbee7850dab2ff2f62cf2f::gowoat::GOWOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730976913003.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

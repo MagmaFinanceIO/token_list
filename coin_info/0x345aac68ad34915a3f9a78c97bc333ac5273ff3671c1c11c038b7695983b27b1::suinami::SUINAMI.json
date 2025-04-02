@@ -1,0 +1,13 @@
+{
+  "name": "Suinami",
+  "symbol": "SUINAMI",
+  "decimals": 9,
+  "coin_type": "0x345aac68ad34915a3f9a78c97bc333ac5273ff3671c1c11c038b7695983b27b1::suinami::SUINAMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/91f5c4b2-8e64-4d69-8938-2afbcf7e5c00.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "RedCircle",
+  "symbol": "RedCircle",
+  "decimals": 9,
+  "coin_type": "0x4a03e44e6ee642ee0d2c6dea8b1f7a3ac45fd93431d8a7dd1f3aa495aa91a50d::redcircle::REDCIRCLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmR8atfXDcMnSorGc1Mhk9XxRyjLhJTnUuCVDHTSzYmDig",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

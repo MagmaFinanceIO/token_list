@@ -1,0 +1,13 @@
+{
+  "name": "Luga",
+  "symbol": "LUGA",
+  "decimals": 6,
+  "coin_type": "0x7373a010c5a466cd4ad5c73f72b2cd6d8c61d34540dc401ff759c4bf938e7e33::luga::LUGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_11_16_23_21_68534edf4e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

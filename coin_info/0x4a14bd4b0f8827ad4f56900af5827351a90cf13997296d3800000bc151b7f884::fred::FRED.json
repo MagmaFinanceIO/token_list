@@ -1,0 +1,13 @@
+{
+  "name": "fred",
+  "symbol": "Fred",
+  "decimals": 6,
+  "coin_type": "0x4a14bd4b0f8827ad4f56900af5827351a90cf13997296d3800000bc151b7f884::fred::FRED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731083459530.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

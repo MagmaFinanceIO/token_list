@@ -1,0 +1,13 @@
+{
+  "name": "Pitty",
+  "symbol": "PTT",
+  "decimals": 9,
+  "coin_type": "0x9ad227daba35ecf8e0cacaf410848d1a924407e3631cbf707041e7022980e178::ptt::PTT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e5d78716-80b4-4522-b007-b0bf8a94cf61.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

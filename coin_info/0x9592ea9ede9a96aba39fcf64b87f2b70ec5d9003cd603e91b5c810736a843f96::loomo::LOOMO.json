@@ -1,0 +1,13 @@
+{
+  "name": "Loomo AI",
+  "symbol": "LOOMO",
+  "decimals": 9,
+  "coin_type": "0x9592ea9ede9a96aba39fcf64b87f2b70ec5d9003cd603e91b5c810736a843f96::loomo::LOOMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Qma6aqrGVpi1QQKyiBQgLa1rBDDKonpAk258LN9pump.png?size=lg&key=093a7b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

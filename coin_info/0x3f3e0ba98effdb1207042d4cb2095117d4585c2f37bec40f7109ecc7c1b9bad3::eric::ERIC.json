@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL ERIC",
+  "symbol": "ERIC",
+  "decimals": 9,
+  "coin_type": "0x3f3e0ba98effdb1207042d4cb2095117d4585c2f37bec40f7109ecc7c1b9bad3::eric::ERIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmdMxHDaLS7KsUEKFqFYRAEgrPy8BRyR2zR3tmpZBy8sfi",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

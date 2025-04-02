@@ -1,0 +1,13 @@
+{
+  "name": "Bookman AI Agent",
+  "symbol": "Bookman",
+  "decimals": 6,
+  "coin_type": "0xc286fa35b19201e5fbe892940371c0cfc4d96f15e5ae47167e5066858ba7a33a::bookman::BOOKMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/bookman2_6a4b1d6be0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "siuis",
+  "symbol": "SIUIS",
+  "decimals": 6,
+  "coin_type": "0x6b9b1cdf08ee451e312f5eaac013016a0a6ea59b39e3b50cf4f5903f9943b01f::siuis::SIUIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

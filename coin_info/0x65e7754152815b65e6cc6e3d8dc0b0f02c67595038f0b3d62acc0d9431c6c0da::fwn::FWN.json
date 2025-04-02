@@ -1,0 +1,13 @@
+{
+  "name": "FairWin by SuiAI",
+  "symbol": "FWN",
+  "decimals": 6,
+  "coin_type": "0x65e7754152815b65e6cc6e3d8dc0b0f02c67595038f0b3d62acc0d9431c6c0da::fwn::FWN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/fairwin_logo_011cc66454.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

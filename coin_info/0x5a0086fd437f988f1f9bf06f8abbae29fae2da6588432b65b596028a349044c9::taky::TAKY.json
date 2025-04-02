@@ -1,0 +1,13 @@
+{
+  "name": "TAKY",
+  "symbol": "TAKY",
+  "decimals": 9,
+  "coin_type": "0x5a0086fd437f988f1f9bf06f8abbae29fae2da6588432b65b596028a349044c9::taky::TAKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suijin",
+  "symbol": "Suijin",
+  "decimals": 7,
+  "coin_type": "0x1929b21ed5d32e14e14b2cce8e03e2fa8e525fd442b4f250b76514dea4398ecb::suijin::SUIJIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a20b6f07-5f23-410b-997f-478e44827342.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

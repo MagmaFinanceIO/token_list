@@ -1,0 +1,13 @@
+{
+  "name": "STI by SuiAI",
+  "symbol": "STI",
+  "decimals": 6,
+  "coin_type": "0xa21595adbf45b9c8a452a9c491e87624e19861d187faf1b68fa97dd6aa5967d6::sti::STI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/images_12_0adf2d96d8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

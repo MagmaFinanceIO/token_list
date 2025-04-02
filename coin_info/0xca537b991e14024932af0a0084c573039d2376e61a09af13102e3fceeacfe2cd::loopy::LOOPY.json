@@ -1,0 +1,13 @@
+{
+  "name": "LOOPY",
+  "symbol": "LOOPY",
+  "decimals": 6,
+  "coin_type": "0xca537b991e14024932af0a0084c573039d2376e61a09af13102e3fceeacfe2cd::loopy::LOOPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d99fa9a7-b493-4d5f-b21e-22dfc473742e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

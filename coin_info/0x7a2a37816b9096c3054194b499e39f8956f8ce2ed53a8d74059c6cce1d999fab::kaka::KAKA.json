@@ -1,0 +1,13 @@
+{
+  "name": "KAKA the cat",
+  "symbol": "KAKA",
+  "decimals": 6,
+  "coin_type": "0x7a2a37816b9096c3054194b499e39f8956f8ce2ed53a8d74059c6cce1d999fab::kaka::KAKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735541074998.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

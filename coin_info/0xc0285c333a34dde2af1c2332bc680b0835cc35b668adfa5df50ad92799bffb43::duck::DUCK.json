@@ -1,0 +1,13 @@
+{
+  "name": "Sui Duck",
+  "symbol": "DUCK",
+  "decimals": 9,
+  "coin_type": "0xc0285c333a34dde2af1c2332bc680b0835cc35b668adfa5df50ad92799bffb43::duck::DUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5fa20ed4-f529-49f7-9f89-47da0200c53d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

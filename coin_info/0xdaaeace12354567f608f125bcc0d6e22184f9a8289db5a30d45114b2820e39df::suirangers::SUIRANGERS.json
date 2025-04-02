@@ -1,0 +1,13 @@
+{
+  "name": "Sui Rangers",
+  "symbol": "SUIRANGERS",
+  "decimals": 6,
+  "coin_type": "0xdaaeace12354567f608f125bcc0d6e22184f9a8289db5a30d45114b2820e39df::suirangers::SUIRANGERS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000045927_183a7282e9.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

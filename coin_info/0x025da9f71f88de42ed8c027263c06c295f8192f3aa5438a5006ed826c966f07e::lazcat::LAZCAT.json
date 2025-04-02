@@ -1,0 +1,13 @@
+{
+  "name": "Lazer Cat",
+  "symbol": "LAZCAT",
+  "decimals": 9,
+  "coin_type": "0x025da9f71f88de42ed8c027263c06c295f8192f3aa5438a5006ed826c966f07e::lazcat::LAZCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/uDrYfR43UnUFNrzpGGjrnWQaH9meLvCJUzaMRa8TVPF.png?size=lg&key=4f3564",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

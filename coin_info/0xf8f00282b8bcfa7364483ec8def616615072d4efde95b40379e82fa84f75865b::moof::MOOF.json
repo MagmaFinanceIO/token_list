@@ -1,0 +1,13 @@
+{
+  "name": "MOOMFERS",
+  "symbol": "MOOF",
+  "decimals": 9,
+  "coin_type": "0xf8f00282b8bcfa7364483ec8def616615072d4efde95b40379e82fa84f75865b::moof::MOOF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d817677d-438d-438c-8433-07670891521c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

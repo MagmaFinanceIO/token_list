@@ -1,0 +1,13 @@
+{
+  "name": "Lulu coin",
+  "symbol": "Lulu",
+  "decimals": 6,
+  "coin_type": "0xaba811ac939afac0f8fda4e34f753e442fbd9a8e1019a1b054a9501a422e4fb2::regcoin::REGCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DEGEN MILLIONAIRES",
+  "symbol": "DEGEN",
+  "decimals": 9,
+  "coin_type": "0x7c231e467efaac27dea1f539f9d736d610c9d6add45327174008227aef7a5a1a::degen::DEGEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://img1.wsimg.com/isteam/ip/d940415e-b09e-4727-bdfe-4f3387d70ac7/IMG_4058.PNG/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:806,h:806",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

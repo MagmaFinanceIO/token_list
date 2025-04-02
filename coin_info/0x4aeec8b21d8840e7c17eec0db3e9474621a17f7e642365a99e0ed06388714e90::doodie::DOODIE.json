@@ -1,0 +1,13 @@
+{
+  "name": "Doodieman",
+  "symbol": "DOODIE",
+  "decimals": 9,
+  "coin_type": "0x4aeec8b21d8840e7c17eec0db3e9474621a17f7e642365a99e0ed06388714e90::doodie::DOODIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "hhttps://dd.dexscreener.com/ds-data/tokens/solana/FLUrJFo56XG5foWCXdqV2zS6FMe9SGNjWSLkUES8pump.png?size=lg&key=dba033",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

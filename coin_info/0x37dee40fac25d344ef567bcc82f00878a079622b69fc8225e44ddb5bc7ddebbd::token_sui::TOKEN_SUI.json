@@ -1,0 +1,13 @@
+{
+  "name": "Monster Hunter Wilds",
+  "symbol": "HUNTER",
+  "decimals": 9,
+  "coin_type": "0x37dee40fac25d344ef567bcc82f00878a079622b69fc8225e44ddb5bc7ddebbd::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/081/029/631/large/xq-xue-1009-5.jpg?1729177923",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

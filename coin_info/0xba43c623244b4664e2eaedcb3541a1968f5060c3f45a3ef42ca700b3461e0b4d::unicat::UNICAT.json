@@ -1,0 +1,13 @@
+{
+  "name": "UniCat",
+  "symbol": "UNICAT",
+  "decimals": 9,
+  "coin_type": "0xba43c623244b4664e2eaedcb3541a1968f5060c3f45a3ef42ca700b3461e0b4d::unicat::UNICAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6f46b599-d196-49f5-bd2c-c412c07d6962.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

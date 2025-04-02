@@ -1,0 +1,13 @@
+{
+  "name": "CHIBA",
+  "symbol": "CHIBA",
+  "decimals": 9,
+  "coin_type": "0x7c329bea559575a67c4a32d7a53555ad2c83dbd978b5b678843e978b32d06be2::chiba::CHIBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x986a9dc325be8dbbc0ad4ff87840f22babc622b2.png?size=lg&key=e63995",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

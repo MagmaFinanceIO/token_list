@@ -1,0 +1,13 @@
+{
+  "name": "CENSORED",
+  "symbol": "CENSORED",
+  "decimals": 9,
+  "coin_type": "0x7a0c7c454b139872cc7bacd942cc9e9b47c49c9101e8ec87cb859cfec297515e::censored::CENSORED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c506ce57-d5ff-46f8-b416-f65fabe30638.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

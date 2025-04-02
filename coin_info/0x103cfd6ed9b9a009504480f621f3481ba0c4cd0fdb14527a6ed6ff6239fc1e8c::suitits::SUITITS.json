@@ -1,0 +1,13 @@
+{
+  "name": "SUITITS",
+  "symbol": "SUITITS",
+  "decimals": 9,
+  "coin_type": "0x103cfd6ed9b9a009504480f621f3481ba0c4cd0fdb14527a6ed6ff6239fc1e8c::suitits::SUITITS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c2f305e2-bc2d-4f0b-962c-18d2b3d1c57e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

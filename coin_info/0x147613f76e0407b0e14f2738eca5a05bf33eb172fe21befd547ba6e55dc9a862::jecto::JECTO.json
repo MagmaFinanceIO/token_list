@@ -1,0 +1,13 @@
+{
+  "name": "My Awesome JECTO",
+  "symbol": "JECTO",
+  "decimals": 9,
+  "coin_type": "0x147613f76e0407b0e14f2738eca5a05bf33eb172fe21befd547ba6e55dc9a862::jecto::JECTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://red-rainy-catfish-636.mypinata.cloud/ipfs/QmXqgX8vzpSvKPrYLw99U3BE8f8Kqtz1ZgYAbZ5bPZcd4C",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

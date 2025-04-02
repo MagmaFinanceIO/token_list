@@ -1,0 +1,13 @@
+{
+  "name": "🐹Hamster Fight Club",
+  "symbol": "HAFIC",
+  "decimals": 9,
+  "coin_type": "0xc8429b9fdec3da09c07fb96359d7392fd8532ba0bb2b909280aa4578156bac57::hafic::HAFIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ffaf8ecd-6a99-4950-b192-9cf458d8ca70.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

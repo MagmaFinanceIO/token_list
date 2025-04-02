@@ -1,0 +1,13 @@
+{
+  "name": "TWINDOGSSUI",
+  "symbol": "TwinDogs",
+  "decimals": 6,
+  "coin_type": "0xb52f531cf44ead9cefdb05983217c71327f506fd7623c8927aefdb8ece4d2a04::twindogs::TWINDOGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000004807_2bf7194c24.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

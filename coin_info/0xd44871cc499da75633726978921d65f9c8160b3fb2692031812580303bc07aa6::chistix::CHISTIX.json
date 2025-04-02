@@ -1,0 +1,13 @@
+{
+  "name": "ChistiX",
+  "symbol": "ChistiX",
+  "decimals": 9,
+  "coin_type": "0xd44871cc499da75633726978921d65f9c8160b3fb2692031812580303bc07aa6::chistix::CHISTIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/43540d5d-7667-4c00-b62e-242579790dc8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

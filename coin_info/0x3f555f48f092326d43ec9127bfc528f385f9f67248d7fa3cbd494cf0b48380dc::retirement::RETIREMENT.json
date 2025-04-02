@@ -1,0 +1,13 @@
+{
+  "name": "THE RETIREMENT COIN",
+  "symbol": "RETIREMENT",
+  "decimals": 9,
+  "coin_type": "0x3f555f48f092326d43ec9127bfc528f385f9f67248d7fa3cbd494cf0b48380dc::retirement::RETIREMENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HLRGoPcK1n4fmkowVyBNkVHRoiiCUL2qyneNqTUNpump.png?size=lg&key=e6f998",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

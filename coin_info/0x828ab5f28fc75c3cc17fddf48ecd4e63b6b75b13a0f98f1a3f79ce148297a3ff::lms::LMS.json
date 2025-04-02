@@ -1,0 +1,13 @@
+{
+  "name": "Lamas",
+  "symbol": "LMS",
+  "decimals": 6,
+  "coin_type": "0x828ab5f28fc75c3cc17fddf48ecd4e63b6b75b13a0f98f1a3f79ce148297a3ff::lms::LMS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/BOYV_5759_34dbd0dea7.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

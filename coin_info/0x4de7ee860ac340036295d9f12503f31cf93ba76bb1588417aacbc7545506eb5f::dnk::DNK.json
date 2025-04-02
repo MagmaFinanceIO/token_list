@@ -1,0 +1,13 @@
+{
+  "name": "donkey",
+  "symbol": "DNK",
+  "decimals": 6,
+  "coin_type": "0x4de7ee860ac340036295d9f12503f31cf93ba76bb1588417aacbc7545506eb5f::dnk::DNK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "we are donket",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

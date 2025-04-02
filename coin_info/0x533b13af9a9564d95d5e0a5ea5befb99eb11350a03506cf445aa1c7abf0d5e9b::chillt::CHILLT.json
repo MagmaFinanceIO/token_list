@@ -1,0 +1,13 @@
+{
+  "name": "Chill Trump",
+  "symbol": "CHILLT",
+  "decimals": 9,
+  "coin_type": "0x533b13af9a9564d95d5e0a5ea5befb99eb11350a03506cf445aa1c7abf0d5e9b::chillt::CHILLT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQDxgkGDagrf6UCsbJ94s8ik2jyp3CKYxanjBpopHZp5P",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

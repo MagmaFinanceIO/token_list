@@ -1,0 +1,13 @@
+{
+  "name": "Basma",
+  "symbol": "BASMA",
+  "decimals": 9,
+  "coin_type": "0xf9d78793cb28cd356759b7516c8a3717d59554cbc5b67bba1b14f5d79be1fbff::basma::BASMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DNVnNrPEFwvMUNr39ZeuF4qroUvteb8y9JnkxpNcRC2P.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

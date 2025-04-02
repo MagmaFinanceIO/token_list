@@ -1,0 +1,13 @@
+{
+  "name": "Grass Token",
+  "symbol": "GRASS",
+  "decimals": 5,
+  "coin_type": "0x6b4f5b34891e177cd21073252697a50985e2223b59db424005f78a04c3fe5642::grass_coin::GRASS_COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://static.vecteezy.com/system/resources/previews/020/190/957/original/grass-icon-free-vector.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

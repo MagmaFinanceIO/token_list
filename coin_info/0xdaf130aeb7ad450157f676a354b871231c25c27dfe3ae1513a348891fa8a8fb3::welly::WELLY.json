@@ -1,0 +1,13 @@
+{
+  "name": "Welly On Sui",
+  "symbol": "WELLY",
+  "decimals": 9,
+  "coin_type": "0xdaf130aeb7ad450157f676a354b871231c25c27dfe3ae1513a348891fa8a8fb3::welly::WELLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1fad8cd5-874a-41bb-9484-3508ab589461.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

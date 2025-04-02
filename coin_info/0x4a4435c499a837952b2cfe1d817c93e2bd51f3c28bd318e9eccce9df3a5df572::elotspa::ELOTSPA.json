@@ -1,0 +1,13 @@
+{
+  "name": "Elon Trump SpaceX",
+  "symbol": "ELOTSPA",
+  "decimals": 9,
+  "coin_type": "0x4a4435c499a837952b2cfe1d817c93e2bd51f3c28bd318e9eccce9df3a5df572::elotspa::ELOTSPA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/29e6ff39-8e26-4474-87fa-369810071c4b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

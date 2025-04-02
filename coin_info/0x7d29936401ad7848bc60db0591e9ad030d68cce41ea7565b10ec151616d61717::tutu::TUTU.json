@@ -1,0 +1,13 @@
+{
+  "name": "Tutu baby shark",
+  "symbol": "TUTU",
+  "decimals": 6,
+  "coin_type": "0x7d29936401ad7848bc60db0591e9ad030d68cce41ea7565b10ec151616d61717::tutu::TUTU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_6066610171838318475_y_7a531a90d6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

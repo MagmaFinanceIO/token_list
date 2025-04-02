@@ -1,0 +1,13 @@
+{
+  "name": "AGiXT",
+  "symbol": "AGiXT",
+  "decimals": 9,
+  "coin_type": "0x71763fe153d3ec03b9500e4e2eb3f6976754a0915a40e6d9b34730fd11ddc2e2::agixt::AGIXT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/F9TgEJLLRUKDRF16HgjUCdJfJ5BK6ucyiW8uJxVPpump.png?size=lg&key=966d41",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

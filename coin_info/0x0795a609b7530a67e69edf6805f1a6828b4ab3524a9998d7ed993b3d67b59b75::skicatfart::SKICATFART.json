@@ -1,0 +1,13 @@
+{
+  "name": "SKI CAT FART",
+  "symbol": "SKICATFART",
+  "decimals": 9,
+  "coin_type": "0x0795a609b7530a67e69edf6805f1a6828b4ab3524a9998d7ed993b3d67b59b75::skicatfart::SKICATFART",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GTWhaBrFbh8CNou6NaPJqMu1tJCLz8GMBmwGHvZXpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

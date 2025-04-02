@@ -1,0 +1,13 @@
+{
+  "name": "VUNDIO",
+  "symbol": "VND",
+  "decimals": 6,
+  "coin_type": "0x719de5fbdd2133f9fb9bd29d729f71e58487af4205d96cf732c55ba037636e4e::vnd::VND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/LOGO_01_d7cad0d8e5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

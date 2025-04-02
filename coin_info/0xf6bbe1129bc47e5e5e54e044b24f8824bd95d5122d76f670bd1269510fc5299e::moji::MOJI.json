@@ -1,0 +1,13 @@
+{
+  "name": "Mojicat",
+  "symbol": "MOJI",
+  "decimals": 6,
+  "coin_type": "0xf6bbe1129bc47e5e5e54e044b24f8824bd95d5122d76f670bd1269510fc5299e::moji::MOJI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_WVK_Jf_G_Kr5_Rq6w3y9o_UL_1_Fwe_G4t3_Nf8_C3qs2i8u_Ud_Vm9r_1_33bd0bb878.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

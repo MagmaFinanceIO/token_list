@@ -1,0 +1,13 @@
+{
+  "name": "Wormhole Token",
+  "symbol": "W",
+  "decimals": 8,
+  "coin_type": "0x83dedd0b6eb7a24a33c68dd3bcaacb97c34dc5011b09eb833dda11ec3661da45::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

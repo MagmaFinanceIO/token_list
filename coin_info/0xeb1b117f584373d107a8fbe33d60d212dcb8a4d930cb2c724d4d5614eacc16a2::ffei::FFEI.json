@@ -1,0 +1,13 @@
+{
+  "name": "FoxFiesta",
+  "symbol": "FFEI",
+  "decimals": 9,
+  "coin_type": "0xeb1b117f584373d107a8fbe33d60d212dcb8a4d930cb2c724d4d5614eacc16a2::ffei::FFEI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/34c33b4b-e8e1-4941-a6ff-d275a0900095.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

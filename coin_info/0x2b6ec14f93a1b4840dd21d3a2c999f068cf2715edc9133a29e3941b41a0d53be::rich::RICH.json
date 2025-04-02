@@ -1,0 +1,13 @@
+{
+  "name": "RICHINU",
+  "symbol": "RICH",
+  "decimals": 9,
+  "coin_type": "0x2b6ec14f93a1b4840dd21d3a2c999f068cf2715edc9133a29e3941b41a0d53be::rich::RICH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8933304e-f1dc-4b66-b2e8-393e980eb4d1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

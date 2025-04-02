@@ -1,0 +1,13 @@
+{
+  "name": "ZIMA",
+  "symbol": "Z",
+  "decimals": 6,
+  "coin_type": "0x4222c0b90705626144a173c0284b8aad1fd14eee41f837d4bad92c1eabe8f2a5::z::Z",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ZIMA_IT_d849af2992.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

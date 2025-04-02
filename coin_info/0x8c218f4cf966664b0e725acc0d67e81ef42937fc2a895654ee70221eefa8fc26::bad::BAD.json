@@ -1,0 +1,13 @@
+{
+  "name": "BADMOUTH",
+  "symbol": "BAD",
+  "decimals": 6,
+  "coin_type": "0x8c218f4cf966664b0e725acc0d67e81ef42937fc2a895654ee70221eefa8fc26::bad::BAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1733573084714.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

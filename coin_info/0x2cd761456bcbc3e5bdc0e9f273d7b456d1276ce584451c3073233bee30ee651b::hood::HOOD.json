@@ -1,0 +1,13 @@
+{
+  "name": "Robinhood",
+  "symbol": "HOOD",
+  "decimals": 9,
+  "coin_type": "0x2cd761456bcbc3e5bdc0e9f273d7b456d1276ce584451c3073233bee30ee651b::hood::HOOD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/h5NciPdMZ5QCB5BYETJMYBMpVx9ZuitR6HcVjyBhood.png?size=lg&key=52068f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

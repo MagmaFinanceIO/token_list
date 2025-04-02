@@ -1,0 +1,13 @@
+{
+  "name": "Sui Brett",
+  "symbol": "SBRETT",
+  "decimals": 9,
+  "coin_type": "0x905d33bb5af4d2860cbc392fb90511a9702c6f490f9140b2df28c23eb1a73c7c::sbrett::SBRETT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e2437e77-0e4a-4705-91c4-1fccc7382b37.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

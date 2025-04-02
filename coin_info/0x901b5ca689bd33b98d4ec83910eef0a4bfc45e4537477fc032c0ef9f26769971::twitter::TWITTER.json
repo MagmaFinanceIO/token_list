@@ -1,0 +1,13 @@
+{
+  "name": "Twitter Coin",
+  "symbol": "TWITTER",
+  "decimals": 9,
+  "coin_type": "0x901b5ca689bd33b98d4ec83910eef0a4bfc45e4537477fc032c0ef9f26769971::twitter::TWITTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GU7aPQnDmoXA13gUy6L27utgdp6QVZy3P6cJ94Sbpump.png?size=lg&key=668319",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "polaris AI by SuiAI",
+  "symbol": "POLARIS",
+  "decimals": 6,
+  "coin_type": "0xf8db39d7fdb7f116c9b4d7340760c8f7a59f7b2fe0a950c26c0bcd5906a0a862::polaris::POLARIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_2114_a903f3e058.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

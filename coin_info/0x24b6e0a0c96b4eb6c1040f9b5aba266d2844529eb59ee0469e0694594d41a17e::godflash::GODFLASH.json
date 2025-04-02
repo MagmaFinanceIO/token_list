@@ -1,0 +1,13 @@
+{
+  "name": "Godflash",
+  "symbol": "Godflash",
+  "decimals": 9,
+  "coin_type": "0x24b6e0a0c96b4eb6c1040f9b5aba266d2844529eb59ee0469e0694594d41a17e::godflash::GODFLASH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmZB3jBS3kDGKi8GpPFnD9kciNZ7cbyf3RSwudzrcpJLAA",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

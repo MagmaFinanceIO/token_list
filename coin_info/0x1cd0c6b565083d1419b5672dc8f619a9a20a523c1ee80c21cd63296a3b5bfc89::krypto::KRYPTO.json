@@ -1,0 +1,13 @@
+{
+  "name": "Superman's Dog",
+  "symbol": "KRYPTO",
+  "decimals": 9,
+  "coin_type": "0x1cd0c6b565083d1419b5672dc8f619a9a20a523c1ee80c21cd63296a3b5bfc89::krypto::KRYPTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FHc1Dg4z6hpoB4kBefGZU9spRKBW8gexpjEhMSJ9pump.png?size=lg&key=014a02",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

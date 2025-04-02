@@ -1,0 +1,13 @@
+{
+  "name": "BRAD",
+  "symbol": "PITT",
+  "decimals": 6,
+  "coin_type": "0xb3f013904c78c7e11d3c233d398ad4b80c7ab989a6492c973723aecf635d7445::pitt::PITT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pitt_1_c2bb582c43.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

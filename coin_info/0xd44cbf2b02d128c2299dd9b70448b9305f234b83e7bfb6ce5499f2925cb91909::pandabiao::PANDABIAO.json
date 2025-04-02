@@ -1,0 +1,13 @@
+{
+  "name": "PANDABIAO ON SUI",
+  "symbol": "PANDABIAO",
+  "decimals": 6,
+  "coin_type": "0xd44cbf2b02d128c2299dd9b70448b9305f234b83e7bfb6ce5499f2925cb91909::pandabiao::PANDABIAO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_4800bbcebf.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SIUU",
+  "symbol": "SIUU",
+  "decimals": 2,
+  "coin_type": "0xa9ac245133600c1fe7fe625fa1d906a72972f0e55ae8dd462ca1c910dfc06d55::siuu::SIUU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9983a24e-abf3-42f1-9a81-cd5dbcd1424d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

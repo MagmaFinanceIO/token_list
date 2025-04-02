@@ -1,0 +1,13 @@
+{
+  "name": "PRINGUL",
+  "symbol": "PRING",
+  "decimals": 6,
+  "coin_type": "0x1e51c80041c01a7a8ee02e26a4b23062bfe3ffeb059cbbcb091a2cabbf140a1c::pring::PRING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_06_19_23_12_b7c7928892.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

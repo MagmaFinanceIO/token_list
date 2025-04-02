@@ -1,0 +1,13 @@
+{
+  "name": "GAMER MOMENTS EXTREME",
+  "symbol": "GME",
+  "decimals": 6,
+  "coin_type": "0xa6c4dbce1ae8a90e06e0b2e9061e9c3f67ae42794ce7922b11d4e51dc66c5694::gme::GME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1104_34848dd908.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

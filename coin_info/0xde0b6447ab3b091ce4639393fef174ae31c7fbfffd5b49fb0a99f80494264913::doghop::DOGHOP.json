@@ -1,0 +1,13 @@
+{
+  "name": "HappyDOG",
+  "symbol": "DOGHOP",
+  "decimals": 6,
+  "coin_type": "0xde0b6447ab3b091ce4639393fef174ae31c7fbfffd5b49fb0a99f80494264913::doghop::DOGHOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmdPryMZ2dAt6AqskqWJZ2oNvGpwDemp26ssT4Uw7sJZ3P",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

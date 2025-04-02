@@ -1,0 +1,13 @@
+{
+  "name": "BRUDD BOYS SUI",
+  "symbol": "BRUDD",
+  "decimals": 9,
+  "coin_type": "0x10569b55ee48bb5fe5d2105b4b0f3245a9228f79eb205844757093405e27e94a::brudd::BRUDD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1e9a72fc-5694-4f69-91cd-bc07e9e19fd8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sogmas",
+  "symbol": "SOGMAS",
+  "decimals": 6,
+  "coin_type": "0x75f6587ae4f28c321a383a77b69a3cdd98fda515130e40cdb681ebdbd8d2dc0b::sogmas::SOGMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000006859_f4662e4c09.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

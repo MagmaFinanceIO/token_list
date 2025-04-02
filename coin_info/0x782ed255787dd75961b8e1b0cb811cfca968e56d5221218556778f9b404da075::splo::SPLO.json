@@ -1,0 +1,13 @@
+{
+  "name": "Splo",
+  "symbol": "SPLO",
+  "decimals": 6,
+  "coin_type": "0x782ed255787dd75961b8e1b0cb811cfca968e56d5221218556778f9b404da075::splo::SPLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/download_0fdcf1c3c8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

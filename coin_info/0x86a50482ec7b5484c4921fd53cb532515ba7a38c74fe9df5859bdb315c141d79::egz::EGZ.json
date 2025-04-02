@@ -1,0 +1,13 @@
+{
+  "name": "ElGonzalo",
+  "symbol": "EGZ",
+  "decimals": 9,
+  "coin_type": "0x86a50482ec7b5484c4921fd53cb532515ba7a38c74fe9df5859bdb315c141d79::egz::EGZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4bd39426-a107-4d96-b8e5-3e52506a47fe.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

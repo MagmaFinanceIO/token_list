@@ -1,0 +1,13 @@
+{
+  "name": "Official Barron Meme",
+  "symbol": "BARRON",
+  "decimals": 9,
+  "coin_type": "0xab9fab0040366357b6dfca71f04e34dc444bacf967e1e7c1f215be27e9d56afe::barron::BARRON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ECY31gWwxy4s2VnMkYhmqDkrV75KrwR2yTtsnrnSpump.png?size=lg&key=dc1443",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

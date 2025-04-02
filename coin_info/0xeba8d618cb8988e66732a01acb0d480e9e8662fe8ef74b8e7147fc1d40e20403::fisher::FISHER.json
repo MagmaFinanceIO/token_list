@@ -1,0 +1,13 @@
+{
+  "name": "the fisher",
+  "symbol": "FISHER",
+  "decimals": 6,
+  "coin_type": "0xeba8d618cb8988e66732a01acb0d480e9e8662fe8ef74b8e7147fc1d40e20403::fisher::FISHER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/AFAD_3_FB_6_A205_47_FD_8_F12_3_D52_D412_B8_E5_95bbc6c102.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

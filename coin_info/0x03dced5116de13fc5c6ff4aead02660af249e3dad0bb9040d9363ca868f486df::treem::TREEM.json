@@ -1,0 +1,13 @@
+{
+  "name": "Treem",
+  "symbol": "TREEM",
+  "decimals": 6,
+  "coin_type": "0x03dced5116de13fc5c6ff4aead02660af249e3dad0bb9040d9363ca868f486df::treem::TREEM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a7b9a2d5-20a9-4840-affb-8d6ece0929ec.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

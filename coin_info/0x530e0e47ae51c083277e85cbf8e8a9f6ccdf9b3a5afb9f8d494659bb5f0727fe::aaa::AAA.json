@@ -1,0 +1,13 @@
+{
+  "name": "aaa Hop",
+  "symbol": "AAA",
+  "decimals": 6,
+  "coin_type": "0x530e0e47ae51c083277e85cbf8e8a9f6ccdf9b3a5afb9f8d494659bb5f0727fe::aaa::AAA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmXC4qFVCAXdFqfmbMJVqsttrw6A6MMetmKZ1MZecedNH4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

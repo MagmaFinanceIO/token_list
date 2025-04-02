@@ -1,0 +1,13 @@
+{
+  "name": "Suitama",
+  "symbol": "SUITAMA",
+  "decimals": 6,
+  "coin_type": "0x52f00e0d15688d1ed29dcc74bccde9181115e8420c92ae67d870c0cee01c7930::suitama::SUITAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmXDUpjaVwf6PLX4xtTK8j11ZS7CWBmSDRYgQM4PLrJLa6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

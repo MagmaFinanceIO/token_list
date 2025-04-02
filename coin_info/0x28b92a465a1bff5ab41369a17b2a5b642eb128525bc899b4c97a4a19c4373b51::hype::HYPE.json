@@ -1,0 +1,13 @@
+{
+  "name": "Hype",
+  "symbol": "Hype",
+  "decimals": 9,
+  "coin_type": "0x28b92a465a1bff5ab41369a17b2a5b642eb128525bc899b4c97a4a19c4373b51::hype::HYPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://yt3.googleusercontent.com/ObZIQEeD69IWgJlPTwCgrgVZiIdnBZrRPjafrkNcqMCM_Ck-lNX49qL2tkNHhA17ZnHN1m1xjSg=s900-c-k-c0x00ffffff-no-rj",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

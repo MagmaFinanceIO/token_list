@@ -1,0 +1,13 @@
+{
+  "name": "Pom",
+  "symbol": "POM",
+  "decimals": 6,
+  "coin_type": "0xe9a0a9a434c773d62ed35460d4404cc67bf72dd42b56146dab4a3009c6af70c3::pom::POM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000022499_2329c15af1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

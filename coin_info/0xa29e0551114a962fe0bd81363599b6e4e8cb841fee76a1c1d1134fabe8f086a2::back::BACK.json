@@ -1,0 +1,13 @@
+{
+  "name": "We Are Back",
+  "symbol": "BACK",
+  "decimals": 9,
+  "coin_type": "0xa29e0551114a962fe0bd81363599b6e4e8cb841fee76a1c1d1134fabe8f086a2::back::BACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/45uRPQ2ktFFXQEtnSpABbgZo2o4QZ2UU62hQXrZgpump.png?size=lg&key=99e9f5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

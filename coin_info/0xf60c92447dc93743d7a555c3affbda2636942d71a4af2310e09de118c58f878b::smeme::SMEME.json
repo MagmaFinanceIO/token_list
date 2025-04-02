@@ -1,0 +1,13 @@
+{
+  "name": "Sui Call Of Meme",
+  "symbol": "SMEME",
+  "decimals": 9,
+  "coin_type": "0xf60c92447dc93743d7a555c3affbda2636942d71a4af2310e09de118c58f878b::smeme::SMEME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/16363107-2cd1-4a4b-9367-446805308760.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

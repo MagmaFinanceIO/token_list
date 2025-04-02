@@ -1,0 +1,13 @@
+{
+  "name": "CScoin",
+  "symbol": "CSC",
+  "decimals": 9,
+  "coin_type": "0x6cd0bd47f2df4b88f68f6ee3ea5bc70f4073179d2119cd9900351689438db0a1::csc::CSC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/42f72236-e74d-4ab7-8698-903f3c95ea4e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

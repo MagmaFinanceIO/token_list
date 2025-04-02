@@ -1,0 +1,13 @@
+{
+  "name": "Tipsy",
+  "symbol": "TIPSY",
+  "decimals": 6,
+  "coin_type": "0x03b6ba58f018507ba4aaa8352615c336703e6f2708957527298ac78136233561::tipsy::TIPSY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmPi4dZp3MpJcMFUpLTm1HqLoFMLut6PS6eMN7Ec2vBfcx",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

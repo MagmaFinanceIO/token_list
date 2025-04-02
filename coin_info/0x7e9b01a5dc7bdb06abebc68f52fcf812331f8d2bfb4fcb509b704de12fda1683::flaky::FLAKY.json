@@ -1,0 +1,13 @@
+{
+  "name": "Flaky the Sui Feline",
+  "symbol": "FLAKY",
+  "decimals": 6,
+  "coin_type": "0x7e9b01a5dc7bdb06abebc68f52fcf812331f8d2bfb4fcb509b704de12fda1683::flaky::FLAKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/4d_Bkey6_Q6u_Zv883c4_Jrfphiebincxb2_Z_Nn_Hr5_W_Ain_F_Nt_a36f372c42.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

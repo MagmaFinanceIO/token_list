@@ -1,0 +1,13 @@
+{
+  "name": "WEIRDO",
+  "symbol": "WEIRDO",
+  "decimals": 9,
+  "coin_type": "0x84ff77f02417956e4b316e99532b34bf8656d1eb4d23a01c368d981347410882::weirdo::WEIRDO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f4562010-fa8e-43e3-b6a5-7759125e85bd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

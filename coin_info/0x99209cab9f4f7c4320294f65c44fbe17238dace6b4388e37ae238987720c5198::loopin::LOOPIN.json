@@ -1,0 +1,13 @@
+{
+  "name": "LooPIN",
+  "symbol": "LOOPIN",
+  "decimals": 9,
+  "coin_type": "0x99209cab9f4f7c4320294f65c44fbe17238dace6b4388e37ae238987720c5198::loopin::LOOPIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x975da7b2325f815f1de23c8b68f721fb483b8071.png?size=lg&key=f900fd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

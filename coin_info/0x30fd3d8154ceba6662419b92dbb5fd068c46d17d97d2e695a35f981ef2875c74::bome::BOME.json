@@ -1,0 +1,13 @@
+{
+  "name": "BOOK OF MEME",
+  "symbol": "BOME",
+  "decimals": 6,
+  "coin_type": "0x30fd3d8154ceba6662419b92dbb5fd068c46d17d97d2e695a35f981ef2875c74::bome::BOME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "http://movepump.xyz/uploads/2024_09_24_14_11_27_2476737ae3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

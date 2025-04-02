@@ -1,0 +1,13 @@
+{
+  "name": "Puggles The Platypus",
+  "symbol": "PUGGLES",
+  "decimals": 9,
+  "coin_type": "0x92ec0bf46caf5fbd2e323592512d343d4406cf8f222ef346d95ccb7024bac97c::puggles::PUGGLES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmdqviVU2wnGUNKrdpNWZFR6vK3uSufxfa9sMTd5xafRrF?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

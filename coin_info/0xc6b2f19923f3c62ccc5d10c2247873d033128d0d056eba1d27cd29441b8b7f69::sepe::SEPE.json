@@ -1,0 +1,13 @@
+{
+  "name": "Sepe On Sui",
+  "symbol": "SEPE",
+  "decimals": 6,
+  "coin_type": "0xc6b2f19923f3c62ccc5d10c2247873d033128d0d056eba1d27cd29441b8b7f69::sepe::SEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/B1_EA_0_DE_7_E600_4900_A469_53_F9_F12_B61_F5_e535628238.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

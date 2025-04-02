@@ -1,0 +1,13 @@
+{
+  "name": "Belgium",
+  "symbol": "Belgium",
+  "decimals": 2,
+  "coin_type": "0x679939f253f562c6d8b9ebf86a320611844192b7294074d0179cd68e596dbc31::belgium::BELGIUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/52b34d17-cac2-47ca-9bc2-02d3a8efe44d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

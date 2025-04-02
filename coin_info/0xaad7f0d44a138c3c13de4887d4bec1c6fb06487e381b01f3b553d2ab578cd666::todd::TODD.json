@@ -1,0 +1,13 @@
+{
+  "name": "Super Todd AI",
+  "symbol": "TODD",
+  "decimals": 9,
+  "coin_type": "0xaad7f0d44a138c3c13de4887d4bec1c6fb06487e381b01f3b553d2ab578cd666::todd::TODD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cd596485-861f-4706-bfee-bdb01a3ba804.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

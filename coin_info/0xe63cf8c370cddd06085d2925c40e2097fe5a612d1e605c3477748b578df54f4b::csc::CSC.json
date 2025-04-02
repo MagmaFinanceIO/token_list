@@ -1,0 +1,13 @@
+{
+  "name": "Chop Sui",
+  "symbol": "CSC",
+  "decimals": 9,
+  "coin_type": "0xe63cf8c370cddd06085d2925c40e2097fe5a612d1e605c3477748b578df54f4b::csc::CSC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/59495b2b-ecca-4cf2-8ec3-a3cfde5045a2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

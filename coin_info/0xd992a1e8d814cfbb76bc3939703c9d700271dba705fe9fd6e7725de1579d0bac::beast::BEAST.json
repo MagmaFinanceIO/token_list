@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL MrBEAST COIN",
+  "symbol": "BEAST",
+  "decimals": 9,
+  "coin_type": "0xd992a1e8d814cfbb76bc3939703c9d700271dba705fe9fd6e7725de1579d0bac::beast::BEAST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmfKXMambvMtMzoBgY9dsa4JZAiHztcx2eyfgsJzzKRKFd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

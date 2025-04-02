@@ -1,0 +1,13 @@
+{
+  "name": "CipherAI",
+  "symbol": "CIPHER",
+  "decimals": 9,
+  "coin_type": "0xfb45f08ecc655dcfa58793c2ce4bafcdd4f2b74ec7443dc8b542013ad97d95e0::cipher::CIPHER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9KFcBCNnTyCU2GXVB4jhfREgCUSGb6VLTLq6ktgRpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ORCA",
+  "symbol": "Orca",
+  "decimals": 6,
+  "coin_type": "0x6e80e72160c5499957b74f4a429023f1fb1b844ce01113bc07f033bab44e7fb7::orca::ORCA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735890163628.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NeiroGrok",
+  "symbol": "NGrok",
+  "decimals": 9,
+  "coin_type": "0xf454bf78ec5467221d5cdfb5bac53a8f417460f000b67da588305ba36855a9df::ngrok::NGROK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://photos.pinksale.finance/file/pinksale-logo-upload/1729412423963-8dd251e3c3c1f50238cf995ba8105e2c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

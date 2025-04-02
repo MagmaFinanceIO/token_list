@@ -1,0 +1,13 @@
+{
+  "name": "CATS",
+  "symbol": "CAT",
+  "decimals": 6,
+  "coin_type": "0x0f1e878ae77ed363060c051a30c205e7d1f1b8edfd6091cf48227fdde4920ed0::cat::CAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/4n3_Ic5d_400x400_4cef34c8c0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

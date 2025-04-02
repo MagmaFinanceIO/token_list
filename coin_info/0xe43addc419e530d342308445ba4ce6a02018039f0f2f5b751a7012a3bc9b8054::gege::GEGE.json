@@ -1,0 +1,13 @@
+{
+  "name": "gege",
+  "symbol": "gege",
+  "decimals": 2,
+  "coin_type": "0xe43addc419e530d342308445ba4ce6a02018039f0f2f5b751a7012a3bc9b8054::gege::GEGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ec7d0cb0-d7ce-4ae5-9cd8-9a90c0e212e3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

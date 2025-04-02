@@ -1,0 +1,13 @@
+{
+  "name": "Kiyumi",
+  "symbol": "KIYUMI",
+  "decimals": 9,
+  "coin_type": "0xa561eb8562ababf31bc1c0a4eaef204f62fbdb3598111e92e53f54753d101f96::kiyumi::KIYUMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GsWhpH8ovxX9ZpawZEsQ5exBMB5cgb9uKTZewk3Tpump.png?size=lg&key=5c716c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SnakeLite on sui",
+  "symbol": "SNAKE",
+  "decimals": 6,
+  "coin_type": "0x32dac29af625dd6cdd7bb44c149741adafbddfd7d23f48b22329f2bc5e9f6db7::snake::SNAKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qmejb_Aja_Yv_N_Lr5_Pun_Vp9r_Y_Pv_L1tt_A_Tds2_S_Hu_Cm2_C_Kv6_A_Yu_fa2837567c.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BullFish",
+  "symbol": "BFISH",
+  "decimals": 9,
+  "coin_type": "0xd010f539d439df1b8863832cd3135979f7ebc1f2758c14d2effd2a6c10c8f78d::bfish::BFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03rORrfbIBpAaThE6ehKf4u594TrUQPXpQQ&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

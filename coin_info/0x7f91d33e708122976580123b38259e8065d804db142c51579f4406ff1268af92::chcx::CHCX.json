@@ -1,0 +1,13 @@
+{
+  "name": "ChameleonCash",
+  "symbol": "CHCX",
+  "decimals": 9,
+  "coin_type": "0x7f91d33e708122976580123b38259e8065d804db142c51579f4406ff1268af92::chcx::CHCX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/62c82528-1a0b-495f-b38e-bc8c7a8f5afd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

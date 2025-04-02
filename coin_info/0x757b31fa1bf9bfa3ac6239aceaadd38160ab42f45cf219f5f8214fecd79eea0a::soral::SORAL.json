@@ -1,0 +1,13 @@
+{
+  "name": "SoralInu",
+  "symbol": "SORAL",
+  "decimals": 6,
+  "coin_type": "0x757b31fa1bf9bfa3ac6239aceaadd38160ab42f45cf219f5f8214fecd79eea0a::soral::SORAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/soral_3b6b7dfd1b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

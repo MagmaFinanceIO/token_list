@@ -1,0 +1,13 @@
+{
+  "name": "🐿Banana Peanut",
+  "symbol": "BAPEANUT",
+  "decimals": 9,
+  "coin_type": "0xbdca0fa5655f54e6434101fc392b1731ec7d1f74bc5680ad13e31524505f1cdf::bapeanut::BAPEANUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4ecf8827-28b3-4fb5-99f1-018ad510b0af.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

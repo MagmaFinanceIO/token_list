@@ -1,0 +1,13 @@
+{
+  "name": "Voody Sui",
+  "symbol": "VOODY",
+  "decimals": 6,
+  "coin_type": "0x711b40406ba46193e3f3c506455560c7dbf22a734fbdf90e7c5d62722a1e05bf::voody::VOODY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1738432433928.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

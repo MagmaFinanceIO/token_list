@@ -1,0 +1,13 @@
+{
+  "name": "Wolf of SuiStreet",
+  "symbol": "WOLF",
+  "decimals": 9,
+  "coin_type": "0x0b1b70e9cf80476fd1aefe872a74f627b9a7d10fc020ea03d5b692dacfb1dd13::wolf::WOLF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c27b5645-dc57-46b9-b5af-a6ca9232fe47.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

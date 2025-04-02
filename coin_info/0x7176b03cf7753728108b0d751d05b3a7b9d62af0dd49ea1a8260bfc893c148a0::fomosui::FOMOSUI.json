@@ -1,0 +1,13 @@
+{
+  "name": "FOMO SUI",
+  "symbol": "FOMOSUI",
+  "decimals": 6,
+  "coin_type": "0x7176b03cf7753728108b0d751d05b3a7b9d62af0dd49ea1a8260bfc893c148a0::fomosui::FOMOSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/GY_5_Y97_Za_AAAM_1l_8cfbe9d800.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

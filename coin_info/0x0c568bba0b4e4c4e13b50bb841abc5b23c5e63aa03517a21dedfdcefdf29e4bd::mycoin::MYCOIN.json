@@ -1,0 +1,13 @@
+{
+  "name": "MAGAT",
+  "symbol": "MAGAT",
+  "decimals": 9,
+  "coin_type": "0x0c568bba0b4e4c4e13b50bb841abc5b23c5e63aa03517a21dedfdcefdf29e4bd::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

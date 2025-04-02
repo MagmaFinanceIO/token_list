@@ -1,0 +1,13 @@
+{
+  "name": "CodeCraft AI",
+  "symbol": "CRAFT",
+  "decimals": 9,
+  "coin_type": "0x7123ef5ec546c363f270ef770472dfad231eeb86469a2d1fba566d6fd74cb9e1::craft::CRAFT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmWVSDeybeksyH65yuVmM6rsXBLriSG68JQMuxtYjPTkAS",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Just Dat Guy",
+  "symbol": "DATGUY",
+  "decimals": 9,
+  "coin_type": "0x0491e1ff6d70248c5717df35715ebf63ba678d4af213c4db791482f538fb734c::datguy::DATGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreidho7nz2ig52qshqvafblfg6meq7i7afjh3b26w6xhe2gycbexqwi.ipfs.w3s.link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

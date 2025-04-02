@@ -1,0 +1,13 @@
+{
+  "name": "ZORIX AI by SuiAI",
+  "symbol": "ZORIX",
+  "decimals": 6,
+  "coin_type": "0xe1966779853b1da402bfb4050569f7e6e99756f7a5eb4c985fafc6c3bfd724da::zorix::ZORIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/small_logo_d378a6ba1e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

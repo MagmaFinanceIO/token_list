@@ -1,0 +1,13 @@
+{
+  "name": "Shiro Neko SuiCat",
+  "symbol": "SHIROS",
+  "decimals": 9,
+  "coin_type": "0x597eb2dda09cb3526571e80706de10da9a5bc81aaba291cb428ff9272886119c::shiros::SHIROS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/67a19471-ced8-47bf-85c2-8964d3f08359.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

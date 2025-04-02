@@ -1,0 +1,13 @@
+{
+  "name": "CRYPTER AI",
+  "symbol": "CRYPTER",
+  "decimals": 9,
+  "coin_type": "0x0fcad71b9c4807c89fa041a0ac585dbbd8c4835b6471db6247a01c2d6266e3dd::crypter::CRYPTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/906eb640-41dc-4a88-97f0-e25ef768ed9d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

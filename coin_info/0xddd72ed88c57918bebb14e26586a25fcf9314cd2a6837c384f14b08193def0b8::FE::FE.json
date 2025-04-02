@@ -1,0 +1,13 @@
+{
+  "name": "FE",
+  "symbol": "FE",
+  "decimals": 9,
+  "coin_type": "0xddd72ed88c57918bebb14e26586a25fcf9314cd2a6837c384f14b08193def0b8::FE::FE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

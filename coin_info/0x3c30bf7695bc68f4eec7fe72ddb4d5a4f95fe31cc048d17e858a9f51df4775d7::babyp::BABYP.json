@@ -1,0 +1,13 @@
+{
+  "name": "Baby Peanut",
+  "symbol": "BABYP",
+  "decimals": 9,
+  "coin_type": "0x3c30bf7695bc68f4eec7fe72ddb4d5a4f95fe31cc048d17e858a9f51df4775d7::babyp::BABYP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2NdVT9iYQQfGE5vjNkCDTFiWijDwxqHAx4A9PeP7pump.png?size=lg&key=391826",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

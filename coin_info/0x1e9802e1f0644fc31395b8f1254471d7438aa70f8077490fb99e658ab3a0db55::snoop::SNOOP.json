@@ -1,0 +1,13 @@
+{
+  "name": "Snoop In Suioup",
+  "symbol": "SNOOP",
+  "decimals": 6,
+  "coin_type": "0x1e9802e1f0644fc31395b8f1254471d7438aa70f8077490fb99e658ab3a0db55::snoop::SNOOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000016190_27c47ae1d9.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

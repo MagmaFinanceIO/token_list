@@ -1,0 +1,13 @@
+{
+  "name": "HELLOWEENINCOMING",
+  "symbol": "HIC",
+  "decimals": 6,
+  "coin_type": "0xd2f7b24d066fafda5a666c150cab1a654e3793a92c6159fda177fc25bab0d0b8::hic::HIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/5c7a4f85_1170_4b19_92a6_b2d58109cc95_6a62c4ac5a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Green Dog",
+  "symbol": "GREENDOG",
+  "decimals": 9,
+  "coin_type": "0x262948031dcdcd10c0d7b259cb8b80ff3648ee0964be99f0a59f1007c47f0f79::greendog::GREENDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/302738ce-22b0-4aee-ba4b-283a36a72634.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

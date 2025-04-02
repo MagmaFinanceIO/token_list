@@ -1,0 +1,13 @@
+{
+  "name": "Sui Anony",
+  "symbol": "ANONY",
+  "decimals": 9,
+  "coin_type": "0x1348b49b4ec9f3ed5042bea5c1a9fe71b94d4280db0ebfef9674d4da408388c7::anony::ANONY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/472f2d9f-538d-446a-a316-0504483d7c74.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

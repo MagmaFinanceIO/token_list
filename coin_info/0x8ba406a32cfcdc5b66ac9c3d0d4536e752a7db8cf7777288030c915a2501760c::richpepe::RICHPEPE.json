@@ -1,0 +1,13 @@
+{
+  "name": "RICHPEPE",
+  "symbol": "RICHPEPE",
+  "decimals": 9,
+  "coin_type": "0x8ba406a32cfcdc5b66ac9c3d0d4536e752a7db8cf7777288030c915a2501760c::richpepe::RICHPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/PuXZ5o0pOM93zkgn?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

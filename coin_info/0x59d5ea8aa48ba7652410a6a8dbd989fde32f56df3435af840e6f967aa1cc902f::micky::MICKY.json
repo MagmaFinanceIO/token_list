@@ -1,0 +1,13 @@
+{
+  "name": "MIcky",
+  "symbol": "MICKY",
+  "decimals": 9,
+  "coin_type": "0x59d5ea8aa48ba7652410a6a8dbd989fde32f56df3435af840e6f967aa1cc902f::micky::MICKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/591d7fdf-500b-4af6-9e9e-1c609710e656.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

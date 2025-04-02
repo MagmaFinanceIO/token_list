@@ -1,0 +1,13 @@
+{
+  "name": "SUI NARWHAL",
+  "symbol": "NAR",
+  "decimals": 9,
+  "coin_type": "0x04b4d85ccf9c2994f399f619336a37ca816e9c293f2ca40af0df9843a66c7a99::nar::NAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/87ee9f77-3de6-4f13-8199-0778f42dbda4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

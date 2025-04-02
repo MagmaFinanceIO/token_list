@@ -1,0 +1,13 @@
+{
+  "name": "Paper Hands Pepe",
+  "symbol": "PHP",
+  "decimals": 9,
+  "coin_type": "0xafa8cde3df5ce7cf9462f4243c8d5563ee734b5899c23fec1390bf74dee120ef::php::PHP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5de55f93-548a-40e1-9c20-05784ab220a3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

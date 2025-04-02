@@ -1,0 +1,13 @@
+{
+  "name": "HIPOO",
+  "symbol": "HIPOO",
+  "decimals": 9,
+  "coin_type": "0xa6ee5f60728c056b9d60a6854b87fe5c3487676f85331ddd1927ffc537837819::hipoo::HIPOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0a00f433-a964-47b3-aa62-78fdac0d535c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

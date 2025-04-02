@@ -1,0 +1,13 @@
+{
+  "name": "Maga Goat AI",
+  "symbol": "MAGOAT",
+  "decimals": 9,
+  "coin_type": "0x34c536838db491f0cd6047902cda4ce923c501861f8db59d27de160a54d7e96b::magoat::MAGOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a29899d2-c90c-45a5-87e0-8b2a069f5d59.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HAWKY",
+  "symbol": "HWK",
+  "decimals": 6,
+  "coin_type": "0x9ce9913cc8d48bc30fae704539aa10a6ef879cdf84055d391f9a2d2d76aada68::hwk::HWK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2024_11_06_21_16_40_a98671d46b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

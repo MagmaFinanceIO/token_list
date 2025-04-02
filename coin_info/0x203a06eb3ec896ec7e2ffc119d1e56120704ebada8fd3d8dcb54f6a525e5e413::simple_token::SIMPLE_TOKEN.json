@@ -1,0 +1,13 @@
+{
+  "name": "MAT",
+  "symbol": "MAT",
+  "decimals": 9,
+  "coin_type": "0x203a06eb3ec896ec7e2ffc119d1e56120704ebada8fd3d8dcb54f6a525e5e413::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

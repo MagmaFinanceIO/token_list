@@ -1,0 +1,13 @@
+{
+  "name": "SFKSA",
+  "symbol": "ZXFA",
+  "decimals": 6,
+  "coin_type": "0x8e8ed27534097bfad0395cf6048a2038d0596e2eaec00b836793aa993613c92f::zxfa::ZXFA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmbsPuRTycWmNLvRLthrkMMDY6r4DAAkX5vJM7rU55Y5RR",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

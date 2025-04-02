@@ -1,0 +1,13 @@
+{
+  "name": "SUISUNG GALAXY",
+  "symbol": "SUISUNGGLY",
+  "decimals": 6,
+  "coin_type": "0x6ae865279ab577583a5a1aa3d7f253b9a4d9e296ced1212449a543a3bc1d6279::suisunggly::SUISUNGGLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/O2c_R_Qv4p_400x400_6aa9a21606.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "LOOPY INU",
+  "symbol": "LOOPYINU",
+  "decimals": 9,
+  "coin_type": "0x6f6d293c0076cacb8634cd63b50fb8c25c052b342304bbc1823515da7d7e05a5::loopyinu::LOOPYINU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0de3daa8-252b-4b6d-97d1-821624cd28de.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "buybuyBABY",
+  "symbol": "BBBY",
+  "decimals": 9,
+  "coin_type": "0x16e877132c5498fc9c4504523ceaa9626258386ad5383ee8f167c9748a52f1e6::bbby::BBBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/22RPvsbHPFAD77gEtgX3efu1uZc1kRLkPzbq3Xy619yd.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

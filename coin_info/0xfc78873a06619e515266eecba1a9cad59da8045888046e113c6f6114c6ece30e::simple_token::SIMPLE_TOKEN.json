@@ -1,0 +1,13 @@
+{
+  "name": "FARTUIS",
+  "symbol": "FARTUIS",
+  "decimals": 9,
+  "coin_type": "0xfc78873a06619e515266eecba1a9cad59da8045888046e113c6f6114c6ece30e::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

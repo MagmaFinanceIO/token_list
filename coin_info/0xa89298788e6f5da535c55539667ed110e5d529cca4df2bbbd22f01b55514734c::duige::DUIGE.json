@@ -1,0 +1,13 @@
+{
+  "name": "Duigecoin",
+  "symbol": "DUIGE",
+  "decimals": 9,
+  "coin_type": "0xa89298788e6f5da535c55539667ed110e5d529cca4df2bbbd22f01b55514734c::duige::DUIGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/54ff9f7a-b208-4474-9ad6-d4cdbe8eda16.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

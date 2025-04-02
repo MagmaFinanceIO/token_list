@@ -1,0 +1,13 @@
+{
+  "name": "Glace",
+  "symbol": "GLACE",
+  "decimals": 9,
+  "coin_type": "0x4f12e94bc1154e3fee935aa2148361752829de4b6eed727f8d2b58c16abbeb1c::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

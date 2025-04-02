@@ -1,0 +1,13 @@
+{
+  "name": "Dogenator",
+  "symbol": "DOGENATOR",
+  "decimals": 9,
+  "coin_type": "0xb3adf2cba7a803acb08aeac3e1f3a64baf5ee947852cf6559c5cb6802c0895b0::dogenator::DOGENATOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmacVbcdLHwXAFBJMJ1SusK9EMmSDCVf5P2DkvNNkCCwUn",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

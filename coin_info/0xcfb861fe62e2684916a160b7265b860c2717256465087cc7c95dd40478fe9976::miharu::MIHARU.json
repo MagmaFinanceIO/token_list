@@ -1,0 +1,13 @@
+{
+  "name": "Miharu",
+  "symbol": "MIHARU",
+  "decimals": 6,
+  "coin_type": "0xcfb861fe62e2684916a160b7265b860c2717256465087cc7c95dd40478fe9976::miharu::MIHARU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/a_ae_a_c_20241009234400_ee8b1ec3a8_59b3bada8a.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Reddit Dog",
+  "symbol": "Snoofi",
+  "decimals": 6,
+  "coin_type": "0xc12b0d43aabe2f55aa2711de16e18b29c6ae5ce9ce12e931e27a9cf1ec04091a::snoofi::SNOOFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000005403_35089ef9cc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

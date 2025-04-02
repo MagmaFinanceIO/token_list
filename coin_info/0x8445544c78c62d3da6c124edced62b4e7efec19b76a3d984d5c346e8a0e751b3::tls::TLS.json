@@ -1,0 +1,13 @@
+{
+  "name": "The Legend oF SocK",
+  "symbol": "TLS",
+  "decimals": 9,
+  "coin_type": "0x8445544c78c62d3da6c124edced62b4e7efec19b76a3d984d5c346e8a0e751b3::tls::TLS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/946eccfa-33b4-4620-aaae-6c8a8198eb2a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

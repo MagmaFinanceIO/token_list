@@ -1,0 +1,13 @@
+{
+  "name": "DDDD",
+  "symbol": "DDDD",
+  "decimals": 9,
+  "coin_type": "0x0a5a742b077ff434e8f2ea092512640fb391b9ee58dcd3795dc7ec11b86308bf::dddd::DDDD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d7c5921e-7eef-408e-b621-0b63bd8342d8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

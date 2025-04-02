@@ -1,0 +1,13 @@
+{
+  "name": "Sui degen Apes",
+  "symbol": "$Degen",
+  "decimals": 6,
+  "coin_type": "0xaf0af4aa4de8c5b2db97996946075ec62e2e38e055cc5f5c1791348194a9da0c::degen::DEGEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmYeV5vyP5ePiWtDZAZWY2dUHBY3qc1FXtETUArGhY5uYi",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

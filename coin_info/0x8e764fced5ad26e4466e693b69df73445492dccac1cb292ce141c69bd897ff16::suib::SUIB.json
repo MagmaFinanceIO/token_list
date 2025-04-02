@@ -1,0 +1,13 @@
+{
+  "name": "Sui Butter",
+  "symbol": "Suib",
+  "decimals": 6,
+  "coin_type": "0x8e764fced5ad26e4466e693b69df73445492dccac1cb292ce141c69bd897ff16::suib::SUIB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/6_c3578ff263.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

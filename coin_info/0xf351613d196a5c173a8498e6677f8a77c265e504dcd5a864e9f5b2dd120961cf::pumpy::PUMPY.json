@@ -1,0 +1,13 @@
+{
+  "name": "Pumpy Token",
+  "symbol": "PUMPY",
+  "decimals": 6,
+  "coin_type": "0xf351613d196a5c173a8498e6677f8a77c265e504dcd5a864e9f5b2dd120961cf::pumpy::PUMPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000003511_e7f35e0695.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hara",
+  "symbol": "Hara",
+  "decimals": 9,
+  "coin_type": "0x0492d5fe8bfa76b4899a7c9896befd4828985e7f145cfa332859d229f2d0b73b::hara::HARA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7HW7JWmXKPf5GUgfP1vsXUjPBy7WJtA1YQMLFg62pump.png?size=lg&key=df23b9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

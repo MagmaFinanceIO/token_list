@@ -1,0 +1,13 @@
+{
+  "name": "Turbo Sui",
+  "symbol": "Turbo",
+  "decimals": 6,
+  "coin_type": "0x251cd32bb08daf309bad3718dd1ff59443e8b66fa64e5cfed92cd803fc13b95e::turbo::TURBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730437587374.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MIKE TYSON",
+  "symbol": "MIKETYSON",
+  "decimals": 6,
+  "coin_type": "0x855655968eea4b2368cf3708ca3c6f45167a9d558f0f4353767dd4f709f973ae::miketyson::MIKETYSON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000034130_e291a47ed2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

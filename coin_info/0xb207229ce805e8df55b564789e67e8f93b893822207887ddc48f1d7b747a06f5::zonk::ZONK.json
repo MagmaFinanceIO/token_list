@@ -1,0 +1,13 @@
+{
+  "name": "ZONKSUI",
+  "symbol": "ZONK",
+  "decimals": 6,
+  "coin_type": "0xb207229ce805e8df55b564789e67e8f93b893822207887ddc48f1d7b747a06f5::zonk::ZONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Capture_3b24c76ba1.PNG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

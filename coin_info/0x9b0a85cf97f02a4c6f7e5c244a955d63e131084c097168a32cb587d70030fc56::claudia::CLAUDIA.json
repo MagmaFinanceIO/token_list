@@ -1,0 +1,13 @@
+{
+  "name": "CLAUDIA AI",
+  "symbol": "CLAUDIA",
+  "decimals": 9,
+  "coin_type": "0x9b0a85cf97f02a4c6f7e5c244a955d63e131084c097168a32cb587d70030fc56::claudia::CLAUDIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/U6XvAGkTdZUqGzMDhXabibKhgbve2gFNs5AgLCnpump.png?size=lg&key=451bb5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

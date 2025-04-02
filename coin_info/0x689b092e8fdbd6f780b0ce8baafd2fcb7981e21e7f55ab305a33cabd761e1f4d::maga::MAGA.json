@@ -1,0 +1,13 @@
+{
+  "name": "TrumpMAGA by SuiAI",
+  "symbol": "MAGA",
+  "decimals": 6,
+  "coin_type": "0x689b092e8fdbd6f780b0ce8baafd2fcb7981e21e7f55ab305a33cabd761e1f4d::maga::MAGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/magatrump_282e23ac50.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

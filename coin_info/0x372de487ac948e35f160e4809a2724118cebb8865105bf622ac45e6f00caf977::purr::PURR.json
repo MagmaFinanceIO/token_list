@@ -1,0 +1,13 @@
+{
+  "name": "SuiPurr",
+  "symbol": "PURR",
+  "decimals": 9,
+  "coin_type": "0x372de487ac948e35f160e4809a2724118cebb8865105bf622ac45e6f00caf977::purr::PURR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aab1e88f-47a4-4cdf-bd9c-fc1756984ce3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

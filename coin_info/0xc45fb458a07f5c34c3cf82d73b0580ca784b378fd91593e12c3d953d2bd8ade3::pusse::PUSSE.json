@@ -1,0 +1,13 @@
+{
+  "name": "Pusse Platypus",
+  "symbol": "PUSSE",
+  "decimals": 9,
+  "coin_type": "0xc45fb458a07f5c34c3cf82d73b0580ca784b378fd91593e12c3d953d2bd8ade3::pusse::PUSSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e8466e7d-180f-4ffa-8a96-d29a6822d596.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

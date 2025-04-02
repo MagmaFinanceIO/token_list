@@ -1,0 +1,13 @@
+{
+  "name": "fwendies",
+  "symbol": "FWENDIES",
+  "decimals": 6,
+  "coin_type": "0xe1573bb141b546574c1fe6e21cb70395950c9b41c82a642fb5ac94d3d870cd83::fwendies::FWENDIES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qmb_ZDLYEF_Mj_Ym_M_Nc8ep_E98h_Nf7q_G_Nf_Hmhf_H_Sdf_Govq_Epyq_4be1e55ed8.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

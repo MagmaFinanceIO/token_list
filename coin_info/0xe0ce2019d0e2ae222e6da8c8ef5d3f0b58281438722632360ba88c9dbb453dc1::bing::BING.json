@@ -1,0 +1,13 @@
+{
+  "name": "domgbing",
+  "symbol": "Bing",
+  "decimals": 6,
+  "coin_type": "0xe0ce2019d0e2ae222e6da8c8ef5d3f0b58281438722632360ba88c9dbb453dc1::bing::BING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730973801989.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

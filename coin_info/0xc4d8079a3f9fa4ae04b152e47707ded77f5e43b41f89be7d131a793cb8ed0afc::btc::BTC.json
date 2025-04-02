@@ -1,0 +1,13 @@
+{
+  "name": "Bob the Cat",
+  "symbol": "BTC",
+  "decimals": 6,
+  "coin_type": "0xc4d8079a3f9fa4ae04b152e47707ded77f5e43b41f89be7d131a793cb8ed0afc::btc::BTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730578371797.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

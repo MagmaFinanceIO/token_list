@@ -1,0 +1,13 @@
+{
+  "name": "Shitcoin",
+  "symbol": "SHIT",
+  "decimals": 9,
+  "coin_type": "0x5f1791ec05165982ba5b062c66ec1bcdc1a7b69004c34da694933144a9850f70::shit::SHIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmY28D7tEGRYmuRQgunxvUWeTjMVqwa83pZbibxy9dTLRF",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

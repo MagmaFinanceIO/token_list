@@ -1,0 +1,13 @@
+{
+  "name": "MABA TRUMP",
+  "symbol": "MABATRUMP",
+  "decimals": 9,
+  "coin_type": "0xf863c1654f705df593b22d7cc766b430ccf3d1335f389a18a16fca7082433822::mabatrump::MABATRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/S0Nlvnk39TjMa2LT?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

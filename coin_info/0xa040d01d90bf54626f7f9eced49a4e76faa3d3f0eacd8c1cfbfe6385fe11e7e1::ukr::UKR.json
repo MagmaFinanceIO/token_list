@@ -1,0 +1,13 @@
+{
+  "name": "UKRAINE",
+  "symbol": "UKR",
+  "decimals": 9,
+  "coin_type": "0xa040d01d90bf54626f7f9eced49a4e76faa3d3f0eacd8c1cfbfe6385fe11e7e1::ukr::UKR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/034a4f82-dba4-4f90-86f5-69eac215960a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

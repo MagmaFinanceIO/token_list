@@ -1,0 +1,13 @@
+{
+  "name": "Moon The Cat",
+  "symbol": "Moon",
+  "decimals": 9,
+  "coin_type": "0x81f28b708420b46550606d618f86dc3ae1a0457e087a59cedbfbc603072e5e14::moon::MOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9481f343-ec27-4454-801f-b7ffcec71a25.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

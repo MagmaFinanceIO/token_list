@@ -1,0 +1,13 @@
+{
+  "name": "Ilios",
+  "symbol": "ILIOS",
+  "decimals": 9,
+  "coin_type": "0xe54fce2ddd31690ab8d7048c4d3192a4fa935124422c3e6f2536aef78f26f09e::ilios::ILIOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/383dac3d-f349-42a8-80ad-3072bf26cd48.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

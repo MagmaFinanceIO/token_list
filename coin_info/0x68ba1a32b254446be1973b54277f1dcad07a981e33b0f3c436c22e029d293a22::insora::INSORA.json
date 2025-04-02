@@ -1,0 +1,13 @@
+{
+  "name": "Insora AI",
+  "symbol": "INSORA",
+  "decimals": 6,
+  "coin_type": "0x68ba1a32b254446be1973b54277f1dcad07a981e33b0f3c436c22e029d293a22::insora::INSORA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736841794925.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Perry on Sui",
+  "symbol": "PERRY",
+  "decimals": 6,
+  "coin_type": "0xa2b78cd4e0e0ea705f3bfec5c35253c698783ec2d705854929df480462ab4b4f::perry::PERRY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/b4p_Khh_I_29cf234be2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

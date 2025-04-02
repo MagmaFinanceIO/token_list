@@ -1,0 +1,13 @@
+{
+  "name": "Suirito",
+  "symbol": "RITO",
+  "decimals": 6,
+  "coin_type": "0xdc51041663806ad7bd8f2e8635803ee1c46e24cf6bc76771894f2089a65f96a1::rito::RITO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Frame_252_de41593159.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

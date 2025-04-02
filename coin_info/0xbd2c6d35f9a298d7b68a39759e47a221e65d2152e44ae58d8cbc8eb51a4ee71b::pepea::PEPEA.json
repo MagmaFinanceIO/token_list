@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Agent by SuiAI",
+  "symbol": "PEPEA",
+  "decimals": 6,
+  "coin_type": "0xbd2c6d35f9a298d7b68a39759e47a221e65d2152e44ae58d8cbc8eb51a4ee71b::pepea::PEPEA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_0226_cfb3b1182f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Surprise",
+  "symbol": "Sps",
+  "decimals": 9,
+  "coin_type": "0x15b449013b2560c57b254c402ceb683a779351c9a729ebcbf154ed91ab55c916::sps::SPS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3df5e22e-befc-4e81-bec1-d5777dc08f4c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

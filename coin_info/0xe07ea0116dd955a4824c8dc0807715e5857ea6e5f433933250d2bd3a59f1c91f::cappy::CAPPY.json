@@ -1,0 +1,13 @@
+{
+  "name": "Sui Cappybara",
+  "symbol": "CAPPY",
+  "decimals": 9,
+  "coin_type": "0xe07ea0116dd955a4824c8dc0807715e5857ea6e5f433933250d2bd3a59f1c91f::cappy::CAPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5fa8d401-8a25-4dc3-8e22-52c8e1c9c9c7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

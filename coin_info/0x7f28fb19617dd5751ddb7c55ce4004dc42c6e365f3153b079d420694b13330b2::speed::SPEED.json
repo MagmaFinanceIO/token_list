@@ -1,0 +1,13 @@
+{
+  "name": "SpeedOnSui",
+  "symbol": "SPEED",
+  "decimals": 9,
+  "coin_type": "0x7f28fb19617dd5751ddb7c55ce4004dc42c6e365f3153b079d420694b13330b2::speed::SPEED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b79ad8a6-186f-4a32-a582-6112161169ac.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

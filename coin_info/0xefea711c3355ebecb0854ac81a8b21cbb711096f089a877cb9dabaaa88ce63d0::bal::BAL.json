@@ -1,0 +1,13 @@
+{
+  "name": "BALENCIAGA",
+  "symbol": "BAL",
+  "decimals": 9,
+  "coin_type": "0xefea711c3355ebecb0854ac81a8b21cbb711096f089a877cb9dabaaa88ce63d0::bal::BAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

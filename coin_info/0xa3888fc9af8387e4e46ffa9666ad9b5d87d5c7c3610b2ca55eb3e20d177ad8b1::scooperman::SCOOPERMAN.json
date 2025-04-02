@@ -1,0 +1,13 @@
+{
+  "name": "Scooperman Coin on SUI",
+  "symbol": "SCOOPERMAN",
+  "decimals": 6,
+  "coin_type": "0xa3888fc9af8387e4e46ffa9666ad9b5d87d5c7c3610b2ca55eb3e20d177ad8b1::scooperman::SCOOPERMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/3v_Bae4uc_400x400_5e2439e7be.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "RICHSSS",
+  "symbol": "RICHSSS",
+  "decimals": 9,
+  "coin_type": "0x425a73b1581037b4c8c170ce7d26190c1979761dfee58e808f5eaa1e3347d90d::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

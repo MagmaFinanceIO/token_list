@@ -1,0 +1,13 @@
+{
+  "name": "NEKOCHAIN AI by SuiAI",
+  "symbol": "NEKOCHAINAI",
+  "decimals": 6,
+  "coin_type": "0x45b6393f421ee5d9eb22243754d88989767f6a47d1aafd215fe001b8f590181e::nekochainai::NEKOCHAINAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/4dc21fbd405fedbdd678ac43a36d7004_2347b564b6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

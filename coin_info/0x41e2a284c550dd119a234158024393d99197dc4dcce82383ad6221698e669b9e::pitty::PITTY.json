@@ -1,0 +1,13 @@
+{
+  "name": "Pitty the pitbull",
+  "symbol": "PITTY",
+  "decimals": 9,
+  "coin_type": "0x41e2a284c550dd119a234158024393d99197dc4dcce82383ad6221698e669b9e::pitty::PITTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/61tQHzDU1j5aiSKAWpMbEMd7dm7mdY5LNTfvtamxpump.png?size=lg&key=a404f7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

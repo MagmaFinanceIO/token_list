@@ -1,0 +1,13 @@
+{
+  "name": "hispanic pepe",
+  "symbol": "CONCHO",
+  "decimals": 9,
+  "coin_type": "0x59733dcfd7f5d8eb1aefbf4725cb1aa31c444c3be33ccc2b9e4ec5b6a57a783e::concho::CONCHO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/89q6aHpZ1fXhuwpnrBgqmCvuAX4GaCrRPQNp5xVHpump.png?size=lg&key=d28984",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI TRUMP",
+  "symbol": "SUITRUMP",
+  "decimals": 6,
+  "coin_type": "0x88a16cee29cc83c5f5a2d04ba4efd88576e6deca646fbb1c6d32ff2d552611fc::suitrump::SUITRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730962526177.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

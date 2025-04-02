@@ -1,0 +1,13 @@
+{
+  "name": "PEPE WIF GRINCH",
+  "symbol": "PEPEWG",
+  "decimals": 9,
+  "coin_type": "0x0f147b6ce2a204aecf63b06c15cf5e3409382d05742c8b3cf1e52bc3cc2a74bf::pepewg::PEPEWG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/532d2b8b-487d-4b20-800b-843068a764c6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

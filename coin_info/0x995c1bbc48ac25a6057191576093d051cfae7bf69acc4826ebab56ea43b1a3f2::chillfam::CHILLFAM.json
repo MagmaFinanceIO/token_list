@@ -1,0 +1,13 @@
+{
+  "name": "Chill Family",
+  "symbol": "CHILLFAM",
+  "decimals": 9,
+  "coin_type": "0x995c1bbc48ac25a6057191576093d051cfae7bf69acc4826ebab56ea43b1a3f2::chillfam::CHILLFAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmVqGksrn3YtWYGaYnhGsUH4RT5QEs1gXckgTn2ErSv3Fj",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

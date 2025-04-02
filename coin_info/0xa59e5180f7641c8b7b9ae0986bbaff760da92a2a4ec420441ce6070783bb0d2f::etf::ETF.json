@@ -1,0 +1,13 @@
+{
+  "name": "Sui ETF",
+  "symbol": "ETF",
+  "decimals": 9,
+  "coin_type": "0xa59e5180f7641c8b7b9ae0986bbaff760da92a2a4ec420441ce6070783bb0d2f::etf::ETF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ce13ad81-0025-46cc-b025-80eabe00614d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

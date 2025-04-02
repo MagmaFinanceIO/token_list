@@ -1,0 +1,13 @@
+{
+  "name": "Suiton On Sui",
+  "symbol": "Suiton",
+  "decimals": 6,
+  "coin_type": "0x70873cdb03e3f397e39b8a99a617494c0fb7df2f499a81d91ab295f8edbdae93::suiton::SUITON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/5_N_Qpil_Ih_400x400_f6cf60adf4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

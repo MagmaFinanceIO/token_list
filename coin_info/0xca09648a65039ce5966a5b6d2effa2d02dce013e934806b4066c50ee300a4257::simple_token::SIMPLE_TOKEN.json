@@ -1,0 +1,13 @@
+{
+  "name": "shaw (parody)",
+  "symbol": "parody",
+  "decimals": 9,
+  "coin_type": "0xca09648a65039ce5966a5b6d2effa2d02dce013e934806b4066c50ee300a4257::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

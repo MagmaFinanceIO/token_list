@@ -1,0 +1,13 @@
+{
+  "name": "SYMBIONT",
+  "symbol": "VENOM",
+  "decimals": 9,
+  "coin_type": "0xfcf430edc16ec3b7d50109b43da0fe74e0090a5dc54383f85c88368ee3b75156::venom::VENOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://c4.wallpaperflare.com/wallpaper/658/887/815/movie-venom-wallpaper-preview.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

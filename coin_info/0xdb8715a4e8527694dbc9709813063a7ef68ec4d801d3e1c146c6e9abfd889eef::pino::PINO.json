@@ -1,0 +1,13 @@
+{
+  "name": "Pino the dino",
+  "symbol": "PINO",
+  "decimals": 6,
+  "coin_type": "0xdb8715a4e8527694dbc9709813063a7ef68ec4d801d3e1c146c6e9abfd889eef::pino::PINO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_07_01_23_11_54_removebg_preview_d9af52768b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

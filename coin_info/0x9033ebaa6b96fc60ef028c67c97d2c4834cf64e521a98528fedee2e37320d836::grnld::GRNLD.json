@@ -1,0 +1,13 @@
+{
+  "name": "Hi Greenland",
+  "symbol": "GRNLD",
+  "decimals": 9,
+  "coin_type": "0x9033ebaa6b96fc60ef028c67c97d2c4834cf64e521a98528fedee2e37320d836::grnld::GRNLD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ZK92f6zeaxSdKhmpgANLNjUFVd3XLAn8M7Dp5wRpump.png?size=lg&key=23d575",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

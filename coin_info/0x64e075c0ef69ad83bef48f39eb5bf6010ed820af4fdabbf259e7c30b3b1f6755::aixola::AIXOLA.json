@@ -1,0 +1,13 @@
+{
+  "name": "AIXOLA by SuiAI",
+  "symbol": "AIXOLA",
+  "decimals": 6,
+  "coin_type": "0x64e075c0ef69ad83bef48f39eb5bf6010ed820af4fdabbf259e7c30b3b1f6755::aixola::AIXOLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_1735_cb11decc30.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

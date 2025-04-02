@@ -1,0 +1,13 @@
+{
+  "name": "NEW JEANS",
+  "symbol": "NJNS",
+  "decimals": 9,
+  "coin_type": "0xd68430cba0f9251aec1a1aabdd595a771407b8f5adb1a4da8cfe45d67ee4852f::njns::NJNS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/363f9e1e-b089-4b81-8b07-1154455773fb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

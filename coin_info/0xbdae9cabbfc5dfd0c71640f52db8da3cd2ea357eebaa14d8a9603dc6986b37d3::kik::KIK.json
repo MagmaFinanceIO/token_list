@@ -1,0 +1,13 @@
+{
+  "name": "Kik Messenger",
+  "symbol": "KIK",
+  "decimals": 9,
+  "coin_type": "0xbdae9cabbfc5dfd0c71640f52db8da3cd2ea357eebaa14d8a9603dc6986b37d3::kik::KIK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5fG9ij2vcScRfRQVFeQHoZqZt9xgosUUkZsW3zg2pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

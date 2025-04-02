@@ -1,0 +1,13 @@
+{
+  "name": "SUI The Snail",
+  "symbol": "SNAIL",
+  "decimals": 8,
+  "coin_type": "0x7e27337d3b6aff88257ef1f878a98e2f6d3c1571dd88ee07419b5ccca145b5c6::snail::SNAIL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/03b17c3e-3dfc-4d70-93aa-2f1d8e5d2f56.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

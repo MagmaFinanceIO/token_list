@@ -1,0 +1,13 @@
+{
+  "name": "Tao Tao",
+  "symbol": "TaoTao",
+  "decimals": 6,
+  "coin_type": "0x8e2bf076fe20d13ef104cd5b0ccfbe5ea0e336e06ff2cdd8bc96a5b9a25bbfb4::taotao::TAOTAO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qmep_QZLWAB_Ms8_V6_F4_Vt_Ew_L_Zjkvecf6h_L_Bm_R9v_V_Mx64s_Sqz_e49c832ed0.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

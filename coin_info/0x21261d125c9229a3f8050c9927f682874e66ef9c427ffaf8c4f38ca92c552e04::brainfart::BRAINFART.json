@@ -1,0 +1,13 @@
+{
+  "name": "Brainfart",
+  "symbol": "BRAINFART",
+  "decimals": 9,
+  "coin_type": "0x21261d125c9229a3f8050c9927f682874e66ef9c427ffaf8c4f38ca92c552e04::brainfart::BRAINFART",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/43357fba-baf4-4721-bd42-04767fe3e8d1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

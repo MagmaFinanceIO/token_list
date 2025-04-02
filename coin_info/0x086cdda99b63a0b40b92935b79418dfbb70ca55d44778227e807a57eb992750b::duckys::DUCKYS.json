@@ -1,0 +1,13 @@
+{
+  "name": "Ducky",
+  "symbol": "DuckyS",
+  "decimals": 6,
+  "coin_type": "0x086cdda99b63a0b40b92935b79418dfbb70ca55d44778227e807a57eb992750b::duckys::DUCKYS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000095_72900576ad.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

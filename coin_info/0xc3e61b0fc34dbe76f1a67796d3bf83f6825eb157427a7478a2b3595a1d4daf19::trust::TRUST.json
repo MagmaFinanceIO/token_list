@@ -1,0 +1,13 @@
+{
+  "name": "source: trust me bro",
+  "symbol": "trust",
+  "decimals": 9,
+  "coin_type": "0xc3e61b0fc34dbe76f1a67796d3bf83f6825eb157427a7478a2b3595a1d4daf19::trust::TRUST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmSAZFd3t6i7AuZ6pc1P9qFeDH4xmXL3acvUe7tqooEHDR",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

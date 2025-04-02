@@ -1,0 +1,13 @@
+{
+  "name": "Book Of Solana",
+  "symbol": "BOSOL",
+  "decimals": 6,
+  "coin_type": "0x868b35c2d51f5735e9a6d71cbe61723158f1582361684196d3329c9058f477fd::bosol::BOSOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/dogsui_73e2269ae2.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

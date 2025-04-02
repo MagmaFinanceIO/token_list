@@ -1,0 +1,13 @@
+{
+  "name": "MAGA Magnet",
+  "symbol": "MAGAM",
+  "decimals": 6,
+  "coin_type": "0x7279f842cebee056a8e27204a4f4d8d6127cd78268b070ee984a92f05948149d::magam::MAGAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Uqq_Pdhes_GJ_Vj_Kd_V9_Et_T371_Aru3_MW_8o_C6_Xu7f_Hw_J43p5c_2c86949099.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

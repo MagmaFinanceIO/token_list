@@ -1,0 +1,13 @@
+{
+  "name": "Sonek On Sui",
+  "symbol": "SONEK",
+  "decimals": 6,
+  "coin_type": "0x24d7ad5a628031aacee360d92c2face5330cfb6e7d48c0c5bfd7aabb6a1615b1::sonek::SONEK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/20241220_135011_51f20b7253.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

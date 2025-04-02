@@ -1,0 +1,13 @@
+{
+  "name": "Sui Bean",
+  "symbol": "BEAN",
+  "decimals": 6,
+  "coin_type": "0x26c671063205375267d330ed58a2c62bfc0165a9dc8802a82b99698401a5bcf6::bean::BEAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qmci1TMNqoHovfPdCm1mnEetb9S9XycQpT3yYmqGGCD3x1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

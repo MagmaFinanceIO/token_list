@@ -1,0 +1,13 @@
+{
+  "name": "Shigoku Oyster",
+  "symbol": "SHIKU",
+  "decimals": 9,
+  "coin_type": "0x206af74fc2f6b928e0298a470dcd86ec486f9a084ae67f5cb367230f355ce532::shiku::SHIKU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e0f762f2-d90e-4323-b360-fb17ebc9022c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

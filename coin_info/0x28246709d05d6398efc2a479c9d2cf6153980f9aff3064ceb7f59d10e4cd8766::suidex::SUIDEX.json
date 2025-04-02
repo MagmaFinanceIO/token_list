@@ -1,0 +1,13 @@
+{
+  "name": "SuiDEX Agent by SuiAI",
+  "symbol": "SUIDEX",
+  "decimals": 6,
+  "coin_type": "0x28246709d05d6398efc2a479c9d2cf6153980f9aff3064ceb7f59d10e4cd8766::suidex::SUIDEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_6733_b2e41a1a4f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

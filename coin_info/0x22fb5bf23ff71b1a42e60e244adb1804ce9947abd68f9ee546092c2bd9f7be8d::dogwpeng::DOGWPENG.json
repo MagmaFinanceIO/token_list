@@ -1,0 +1,13 @@
+{
+  "name": "DOGE WIF PENGU",
+  "symbol": "DOGWPENG",
+  "decimals": 9,
+  "coin_type": "0x22fb5bf23ff71b1a42e60e244adb1804ce9947abd68f9ee546092c2bd9f7be8d::dogwpeng::DOGWPENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/46f8310a-6fdb-4bce-bc53-6bcf7ef82436.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

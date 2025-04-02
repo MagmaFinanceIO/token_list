@@ -1,0 +1,13 @@
+{
+  "name": "Sui Shiba",
+  "symbol": "SUISHIB",
+  "decimals": 6,
+  "coin_type": "0x96df4bf1e2c32f7c7b87701a60022ef43ad834575d54f4b9b62b59109f63deb6::suishib::SUISHIB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/20241010_141618_c529b3a3e1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

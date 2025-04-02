@@ -1,0 +1,13 @@
+{
+  "name": "Kool-Aid",
+  "symbol": "KOOL",
+  "decimals": 9,
+  "coin_type": "0xe22ac0b796e7edfb52d583b43546e2a2a490140070a10e6a08b87c8890101e55::kool::KOOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HhSY4R8ABZ151H6vjr7DeUh9zGvgwc8dDcSejwJkhMfa.png?size=lg&key=affa75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

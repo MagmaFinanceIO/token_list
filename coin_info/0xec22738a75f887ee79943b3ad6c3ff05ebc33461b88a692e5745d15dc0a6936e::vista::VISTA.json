@@ -1,0 +1,13 @@
+{
+  "name": "Suivista",
+  "symbol": "VISTA",
+  "decimals": 9,
+  "coin_type": "0xec22738a75f887ee79943b3ad6c3ff05ebc33461b88a692e5745d15dc0a6936e::vista::VISTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FHSTU8fGBvrsNkNxeY8qmRdA2FgaxVFyBVz3fAc6pump.png?size=lg&key=b54f76",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

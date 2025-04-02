@@ -1,0 +1,13 @@
+{
+  "name": "Kenji On Sui",
+  "symbol": "KENJI",
+  "decimals": 6,
+  "coin_type": "0x54dc9085541f7afef5fea35a3863dee6f99074ebb95c393beccf853ed6e0b747::kenji::KENJI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1724382194919_38d18513b87f07b57b35b9fbf9d99afe_3485294063.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

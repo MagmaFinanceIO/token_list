@@ -1,0 +1,13 @@
+{
+  "name": "Aaa",
+  "symbol": "Aaa",
+  "decimals": 9,
+  "coin_type": "0xf1274eeaaa7f1e9b1fcf4df6817ae91a3428ed4b8f72961315fc509419045cfc::fair_mint::FAIR_MINT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://suiapi.memestore.io/images/2024/08/27/762c0e11d53635bc3c852d6f7551652e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

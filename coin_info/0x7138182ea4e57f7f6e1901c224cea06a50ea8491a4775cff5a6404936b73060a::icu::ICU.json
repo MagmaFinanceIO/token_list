@@ -1,0 +1,13 @@
+{
+  "name": "ICU THE SEAL",
+  "symbol": "ICU",
+  "decimals": 6,
+  "coin_type": "0x7138182ea4e57f7f6e1901c224cea06a50ea8491a4775cff5a6404936b73060a::icu::ICU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6713_b11c39b434.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

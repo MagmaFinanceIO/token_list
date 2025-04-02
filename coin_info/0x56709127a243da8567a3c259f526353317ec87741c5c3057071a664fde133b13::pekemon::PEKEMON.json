@@ -1,0 +1,13 @@
+{
+  "name": "Pekemon",
+  "symbol": "Pekemon",
+  "decimals": 9,
+  "coin_type": "0x56709127a243da8567a3c259f526353317ec87741c5c3057071a664fde133b13::pekemon::PEKEMON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/eb770973-4dfb-429f-92c0-7c2dc4d321df.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suimba",
+  "symbol": "SUIMBA",
+  "decimals": 6,
+  "coin_type": "0x1f69904dda20fd69096ff7b28779acb36dad3cd4b910476318bc3ce8407f8193::suimba::SUIMBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_3_3a55ddb49b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

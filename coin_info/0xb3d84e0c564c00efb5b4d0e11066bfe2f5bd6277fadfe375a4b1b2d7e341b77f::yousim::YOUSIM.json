@@ -1,0 +1,13 @@
+{
+  "name": "YouSim AI",
+  "symbol": "YOUSIM",
+  "decimals": 9,
+  "coin_type": "0xb3d84e0c564c00efb5b4d0e11066bfe2f5bd6277fadfe375a4b1b2d7e341b77f::yousim::YOUSIM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmNYB9znirZ3WyitN7YSRh2EHfvevBwGcekRNPLZyKoWiq",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

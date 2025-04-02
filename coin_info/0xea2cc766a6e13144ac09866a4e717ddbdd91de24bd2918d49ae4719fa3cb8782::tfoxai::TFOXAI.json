@@ -1,0 +1,13 @@
+{
+  "name": "TFOXAI",
+  "symbol": "TFOXAI",
+  "decimals": 9,
+  "coin_type": "0xea2cc766a6e13144ac09866a4e717ddbdd91de24bd2918d49ae4719fa3cb8782::tfoxai::TFOXAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4fRg85RDD3svJZroMxEVVh5mhLc4R7YmGARQeMrP2jeD.png?size=lg&key=dd00f4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

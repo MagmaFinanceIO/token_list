@@ -1,0 +1,13 @@
+{
+  "name": "Prophet the Trenches Mascot",
+  "symbol": "Prophet",
+  "decimals": 9,
+  "coin_type": "0x741224af939258e772bc11dc9f92ff1504c8619a75b8ebaeeba823ac55d06187::prophet::PROPHET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2wPiAxZUwfLSGqM2YH67Nc6VACKaK1kTGsfX2jtpWSZN.png?size=lg&key=6ab829",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

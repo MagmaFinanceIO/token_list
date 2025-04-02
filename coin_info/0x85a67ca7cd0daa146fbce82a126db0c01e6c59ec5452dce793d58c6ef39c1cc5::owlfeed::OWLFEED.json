@@ -1,0 +1,13 @@
+{
+  "name": "OwlFeed",
+  "symbol": "OWLFEED",
+  "decimals": 9,
+  "coin_type": "0x85a67ca7cd0daa146fbce82a126db0c01e6c59ec5452dce793d58c6ef39c1cc5::owlfeed::OWLFEED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3JXg4TZ7AdfbxJmsqfZ98Ru9VREj9DfL5D8DnNFh3mnE.png?size=lg&key=ffce85",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sweatcoin",
+  "symbol": "Sweat",
+  "decimals": 9,
+  "coin_type": "0xc23d7e61adcb23e3b8eb0b9f0534b1f0e6d49309e052ef2d74c441b8536b8838::sweat::SWEAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/397395e4-2f3c-43ed-8a31-bbbcd79d856f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

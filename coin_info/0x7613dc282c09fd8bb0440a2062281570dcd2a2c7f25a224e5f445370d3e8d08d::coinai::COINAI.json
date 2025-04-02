@@ -1,0 +1,13 @@
+{
+  "name": "Coinbase AI Agent",
+  "symbol": "COINAI",
+  "decimals": 9,
+  "coin_type": "0x7613dc282c09fd8bb0440a2062281570dcd2a2c7f25a224e5f445370d3e8d08d::coinai::COINAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7VQUjvzdiNQEigzhTozJaT49GkJu1scypUTDmDUp13as.png?size=lg&key=b59fb4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

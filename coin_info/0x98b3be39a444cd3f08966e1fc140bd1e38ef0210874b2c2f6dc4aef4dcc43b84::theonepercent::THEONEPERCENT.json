@@ -1,0 +1,13 @@
+{
+  "name": "1%",
+  "symbol": "TheOnePercent",
+  "decimals": 6,
+  "coin_type": "0x98b3be39a444cd3f08966e1fc140bd1e38ef0210874b2c2f6dc4aef4dcc43b84::theonepercent::THEONEPERCENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/3za_G_Is5_N_f78926195b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

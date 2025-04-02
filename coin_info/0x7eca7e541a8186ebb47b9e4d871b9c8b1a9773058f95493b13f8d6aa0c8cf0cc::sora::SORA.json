@@ -1,0 +1,13 @@
+{
+  "name": "sora labs",
+  "symbol": "sora",
+  "decimals": 9,
+  "coin_type": "0x7eca7e541a8186ebb47b9e4d871b9c8b1a9773058f95493b13f8d6aa0c8cf0cc::sora::SORA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/89nnWMkWeF9LSJvAWcN2JFQfeWdDk6diKEckeToEU1hE.png?size=lg&key=6501f4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

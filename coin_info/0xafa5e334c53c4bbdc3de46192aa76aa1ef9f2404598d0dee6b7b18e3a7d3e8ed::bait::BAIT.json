@@ -1,0 +1,13 @@
+{
+  "name": "Pixel Fishing",
+  "symbol": "BAIT",
+  "decimals": 9,
+  "coin_type": "0xafa5e334c53c4bbdc3de46192aa76aa1ef9f2404598d0dee6b7b18e3a7d3e8ed::bait::BAIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b3e64cb9-4d49-4418-a16c-e6f4a457d164.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

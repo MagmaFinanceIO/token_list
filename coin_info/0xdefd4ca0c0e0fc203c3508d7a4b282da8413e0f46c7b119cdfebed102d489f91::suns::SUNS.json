@@ -1,0 +1,13 @@
+{
+  "name": "SunShiba",
+  "symbol": "SUNS",
+  "decimals": 6,
+  "coin_type": "0xdefd4ca0c0e0fc203c3508d7a4b282da8413e0f46c7b119cdfebed102d489f91::suns::SUNS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/87ee8129-942d-451b-9295-1962726d395f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

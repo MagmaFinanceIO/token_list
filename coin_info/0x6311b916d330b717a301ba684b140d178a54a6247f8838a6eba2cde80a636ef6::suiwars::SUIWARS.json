@@ -1,0 +1,13 @@
+{
+  "name": "SUI STAR WARS",
+  "symbol": "SUIWARS",
+  "decimals": 6,
+  "coin_type": "0x6311b916d330b717a301ba684b140d178a54a6247f8838a6eba2cde80a636ef6::suiwars::SUIWARS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suiwarsprof_2515121b37.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

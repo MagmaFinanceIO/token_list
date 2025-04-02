@@ -1,0 +1,13 @@
+{
+  "name": "Genki on Sui",
+  "symbol": "Genki",
+  "decimals": 6,
+  "coin_type": "0xf52cfbf69633cdf4e5b69e2e14910e62f2c10e8799612bffe177f21c5c451f6d::genki::GENKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4194_50de0aeede.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

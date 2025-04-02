@@ -1,0 +1,13 @@
+{
+  "name": "BEAR",
+  "symbol": "BEAR",
+  "decimals": 6,
+  "coin_type": "0x0c4fe761a6bc3dea8f25a68d6f294846b7ad74d1bfa184b9883b250f3661208d::bear::BEAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/bear.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

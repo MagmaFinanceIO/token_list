@@ -1,0 +1,13 @@
+{
+  "name": "SUIarium",
+  "symbol": "SUIarium",
+  "decimals": 9,
+  "coin_type": "0x6a47553efd5b9f9701de22d76e558589bd46409a5296928418888b249102270d::suiarium::SUIARIUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/69f7b646-d0cd-46b9-8e01-c0b200741d67.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

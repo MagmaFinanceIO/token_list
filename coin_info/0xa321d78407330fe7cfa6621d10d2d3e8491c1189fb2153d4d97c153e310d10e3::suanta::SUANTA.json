@@ -1,0 +1,13 @@
+{
+  "name": "SUIANTA",
+  "symbol": "SUANTA",
+  "decimals": 6,
+  "coin_type": "0xa321d78407330fe7cfa6621d10d2d3e8491c1189fb2153d4d97c153e310d10e3::suanta::SUANTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suianta1_e7a72c49a1.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

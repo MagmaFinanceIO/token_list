@@ -1,0 +1,13 @@
+{
+  "name": "VIRUS AI",
+  "symbol": "VIRUSAI",
+  "decimals": 9,
+  "coin_type": "0x3fffb7cdab9a7643fa87267ac051b84438aa2905037c7814b261cf62db17a542::virusai::VIRUSAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/sjAz6yEtusSyG33hQoPDseXiJ7GX8PRMFZ8DMP2pump.png?size=lg&key=86ca27",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

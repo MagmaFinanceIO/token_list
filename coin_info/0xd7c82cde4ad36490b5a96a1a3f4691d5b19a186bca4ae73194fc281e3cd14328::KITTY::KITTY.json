@@ -1,0 +1,13 @@
+{
+  "name": "Kitty Trump",
+  "symbol": "TRUMP",
+  "decimals": 9,
+  "coin_type": "0xd7c82cde4ad36490b5a96a1a3f4691d5b19a186bca4ae73194fc281e3cd14328::KITTY::KITTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

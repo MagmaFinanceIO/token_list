@@ -1,0 +1,13 @@
+{
+  "name": "Official X Coin",
+  "symbol": "XCOIN",
+  "decimals": 9,
+  "coin_type": "0x83025bf88ca9d0216497ba58f5148f8c6b49e675b02d2c95f6aa1020f970b8d2::xcoin::XCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EmJ12nmHAoLjnqumn1H5sd4juZzmYoCGpN8oVDhtpump.png?size=lg&key=ed0d92",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

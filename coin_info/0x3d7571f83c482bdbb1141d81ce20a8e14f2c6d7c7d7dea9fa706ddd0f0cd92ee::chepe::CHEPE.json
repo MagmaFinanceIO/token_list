@@ -1,0 +1,13 @@
+{
+  "name": "Chad Pepe",
+  "symbol": "Chepe",
+  "decimals": 6,
+  "coin_type": "0x3d7571f83c482bdbb1141d81ce20a8e14f2c6d7c7d7dea9fa706ddd0f0cd92ee::chepe::CHEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000005524_49c71017db.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ice King",
+  "symbol": "ICEKING",
+  "decimals": 9,
+  "coin_type": "0x92b9ff44ed169cf3b4752024bde0f0f5b4b4087cafaee435d53d762ca504c1b7::iceking::ICEKING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AY7hKrEfWf4UhWVnrGt5a36B28JK3dM8X2eBYR9hpump.png?size=lg&key=9bbc04",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Jupiter Perps LP",
+  "symbol": "JLP",
+  "decimals": 8,
+  "coin_type": "0x16921b5f179edd396b4f2ead329d3c09dd194254a17e2d7685841dd009d7f34f::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

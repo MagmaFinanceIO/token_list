@@ -1,0 +1,13 @@
+{
+  "name": "Catslap On Solana",
+  "symbol": "SLAP",
+  "decimals": 9,
+  "coin_type": "0xc09939c6e4206814ba0c8cad9acd9e4a1366e8ceca3d716f17ecc7ea8bc4ab65::slap::SLAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DuMRfTCRZssDoVPJJnR2Bp5Tjo3JfF3aXLcdmo3iVBkR.png?size=lg&key=9b29a5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

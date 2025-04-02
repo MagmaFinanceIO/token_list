@@ -1,0 +1,13 @@
+{
+  "name": "HUNGRY GORILLA",
+  "symbol": "HungryGorilla",
+  "decimals": 9,
+  "coin_type": "0x72bd423d094203b5f53d5b741ee0808df332e25de8790e1214db5f2d44ad6b9d::hungrygorilla::HUNGRYGORILLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b4a5e02e-9e64-4647-988a-303f0c9dbddd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

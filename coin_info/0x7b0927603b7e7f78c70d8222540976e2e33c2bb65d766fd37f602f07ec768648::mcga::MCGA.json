@@ -1,0 +1,13 @@
+{
+  "name": "Make Canada Glow Again",
+  "symbol": "MCGA",
+  "decimals": 9,
+  "coin_type": "0x7b0927603b7e7f78c70d8222540976e2e33c2bb65d766fd37f602f07ec768648::mcga::MCGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d59b3594-8059-4788-bc0a-6b96793237f5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

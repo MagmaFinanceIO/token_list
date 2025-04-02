@@ -1,0 +1,13 @@
+{
+  "name": "Doland Tremp",
+  "symbol": "TREMP",
+  "decimals": 9,
+  "coin_type": "0x435b4fa6e99a797d8a17824e46d79e91ac6a1d3b317c4fcbcd79d98927410f77::tremp::TREMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x3bcdc80541e487de1a27359301f1c7d6e491eac9.png?size=lg&key=efcff6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

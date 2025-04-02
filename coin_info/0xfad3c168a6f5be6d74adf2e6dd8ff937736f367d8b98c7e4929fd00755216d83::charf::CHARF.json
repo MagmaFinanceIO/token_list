@@ -1,0 +1,13 @@
+{
+  "name": "Chad Dog",
+  "symbol": "CHARF",
+  "decimals": 9,
+  "coin_type": "0xfad3c168a6f5be6d74adf2e6dd8ff937736f367d8b98c7e4929fd00755216d83::charf::CHARF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/baa57bde-e365-4e4a-96f1-845029e2ce91.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HowlSurf",
+  "symbol": "HowlSurf",
+  "decimals": 9,
+  "coin_type": "0xf6f103d169b31628959ce52107df21cece979a5fcfb9e17dfa90dce8eff13337::howlsurf::HOWLSURF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a0a71122-3ea6-4fb6-bec0-acac5aaf9ca5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

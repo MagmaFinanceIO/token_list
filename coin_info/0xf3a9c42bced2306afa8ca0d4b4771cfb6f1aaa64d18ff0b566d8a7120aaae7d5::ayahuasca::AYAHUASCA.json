@@ -1,0 +1,13 @@
+{
+  "name": "Ayahuasca Coin",
+  "symbol": "Ayahuasca",
+  "decimals": 6,
+  "coin_type": "0xf3a9c42bced2306afa8ca0d4b4771cfb6f1aaa64d18ff0b566d8a7120aaae7d5::ayahuasca::AYAHUASCA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Ayahuasca_prep_f4fdbfb407.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suinago Kasumi Perfect World on SUI",
+  "symbol": "SUINAGO",
+  "decimals": 6,
+  "coin_type": "0x3aed110614f04f3ffcae67623db801d372834d6a40ec8eb13b089a328bdd15e6::suinago::SUINAGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logoback_01808be5ef.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ALCHMAX",
+  "symbol": "ALCHMAX",
+  "decimals": 9,
+  "coin_type": "0x939d166b71642e2df537208f7fca02a7c2b6c9ff094ab845c96ede71691923b7::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

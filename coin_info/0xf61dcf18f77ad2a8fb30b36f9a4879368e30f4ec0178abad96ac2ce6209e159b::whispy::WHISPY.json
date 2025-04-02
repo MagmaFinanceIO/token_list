@@ -1,0 +1,13 @@
+{
+  "name": "WHISPY",
+  "symbol": "WHISPY",
+  "decimals": 9,
+  "coin_type": "0xf61dcf18f77ad2a8fb30b36f9a4879368e30f4ec0178abad96ac2ce6209e159b::whispy::WHISPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xad86b91a1d1db15a4cd34d0634bbd4ecacb5b61a.png?size=lg&key=aadeeb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

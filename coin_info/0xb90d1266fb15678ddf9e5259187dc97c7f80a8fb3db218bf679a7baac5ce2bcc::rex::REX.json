@@ -1,0 +1,13 @@
+{
+  "name": "suirex",
+  "symbol": "REX",
+  "decimals": 6,
+  "coin_type": "0xb90d1266fb15678ddf9e5259187dc97c7f80a8fb3db218bf679a7baac5ce2bcc::rex::REX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730988233435.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

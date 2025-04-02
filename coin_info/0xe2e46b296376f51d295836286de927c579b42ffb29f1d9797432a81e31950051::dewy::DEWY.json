@@ -1,0 +1,13 @@
+{
+  "name": "DEWY",
+  "symbol": "DEWY",
+  "decimals": 9,
+  "coin_type": "0xe2e46b296376f51d295836286de927c579b42ffb29f1d9797432a81e31950051::dewy::DEWY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e27b9803-f4ce-4709-ba90-fe5e0e54a3bb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

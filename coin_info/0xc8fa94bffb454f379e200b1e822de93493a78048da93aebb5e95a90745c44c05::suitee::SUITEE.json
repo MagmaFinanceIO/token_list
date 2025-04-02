@@ -1,0 +1,13 @@
+{
+  "name": "SUITEE The Baby Duck",
+  "symbol": "SUITEE",
+  "decimals": 9,
+  "coin_type": "0xc8fa94bffb454f379e200b1e822de93493a78048da93aebb5e95a90745c44c05::suitee::SUITEE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f7876579-12c9-437f-a7ec-6eb78f65ef17.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

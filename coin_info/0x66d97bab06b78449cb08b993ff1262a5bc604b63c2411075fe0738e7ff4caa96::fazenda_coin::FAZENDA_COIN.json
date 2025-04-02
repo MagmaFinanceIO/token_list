@@ -1,0 +1,13 @@
+{
+  "name": "FazendaCoin",
+  "symbol": "FZND",
+  "decimals": 9,
+  "coin_type": "0x66d97bab06b78449cb08b993ff1262a5bc604b63c2411075fe0738e7ff4caa96::fazenda_coin::FAZENDA_COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ltdfoto.ru/images/2024/11/25/photo_2024-10-25_15-22-55.md.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

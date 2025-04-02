@@ -1,0 +1,13 @@
+{
+  "name": "Snow Bunny Heaven",
+  "symbol": "SBH",
+  "decimals": 9,
+  "coin_type": "0xb1460bb365b3cf46e68592b5adda8aff0763eda877bef4aef88efbcb19b37eb2::sbh::SBH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qmeco2tyiQSych5jdYT2BN8sqy6wSeBB1bjoMeRVEz9NJ8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

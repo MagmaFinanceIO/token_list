@@ -1,0 +1,13 @@
+{
+  "name": "SUISET",
+  "symbol": "Suiset",
+  "decimals": 6,
+  "coin_type": "0xdd7a032624083ea23e7f5bc126c396e4877372ce21d740fa37c82c94e070f83f::suiset::SUISET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/123123123123123_fab037edd4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DICKMAN",
+  "symbol": "DAMN",
+  "decimals": 6,
+  "coin_type": "0xe32336acad58dc2812d42e67bcec5ca50fb285561727613e12c23f9211b52f9d::damn::DAMN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Fire_e8f00027bc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

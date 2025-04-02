@@ -1,0 +1,13 @@
+{
+  "name": "Happy Dog",
+  "symbol": "HAPPYDOG",
+  "decimals": 6,
+  "coin_type": "0x69db29dc82ee9454106e601edfbf22f3f991da8c1341cde8c0cbd50eee34d83f::happydog::HAPPYDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/happydog_logos_653e30e54b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

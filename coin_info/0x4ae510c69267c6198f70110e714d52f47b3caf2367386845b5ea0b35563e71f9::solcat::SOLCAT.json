@@ -1,0 +1,13 @@
+{
+  "name": "SOLCAT",
+  "symbol": "SOLCAT",
+  "decimals": 9,
+  "coin_type": "0x4ae510c69267c6198f70110e714d52f47b3caf2367386845b5ea0b35563e71f9::solcat::SOLCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2ktWX3CuNzRZD3N8xVKExQdLniTv2qQUqL7hFf5xpump.png?size=lg&key=d813d4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

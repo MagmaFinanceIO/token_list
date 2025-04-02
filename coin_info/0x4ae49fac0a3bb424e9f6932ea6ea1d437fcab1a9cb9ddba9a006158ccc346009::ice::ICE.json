@@ -1,0 +1,13 @@
+{
+  "name": "ICE",
+  "symbol": "ICE",
+  "decimals": 9,
+  "coin_type": "0x4ae49fac0a3bb424e9f6932ea6ea1d437fcab1a9cb9ddba9a006158ccc346009::ice::ICE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A5v9vstRtEMXbTakyASPo1dwz33hH8RFrX8GamSH3ice.png?size=lg&key=731800",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

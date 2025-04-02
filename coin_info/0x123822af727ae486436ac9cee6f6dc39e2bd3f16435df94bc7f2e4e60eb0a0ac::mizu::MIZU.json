@@ -1,0 +1,13 @@
+{
+  "name": "MIZU IS SUI",
+  "symbol": "MIZU",
+  "decimals": 6,
+  "coin_type": "0x123822af727ae486436ac9cee6f6dc39e2bd3f16435df94bc7f2e4e60eb0a0ac::mizu::MIZU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_12_29_14_12_32_a37cc16bf8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

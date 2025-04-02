@@ -1,0 +1,13 @@
+{
+  "name": "CORE",
+  "symbol": "core",
+  "decimals": 6,
+  "coin_type": "0x73919edffb8119f42bc226b2053821dd62c5cccc81cfd99c9f5c9787dbc778b7::core::CORE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cloudinary.com/dkpo6c3me/image/upload/v1728913279/carv_cbwfph.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

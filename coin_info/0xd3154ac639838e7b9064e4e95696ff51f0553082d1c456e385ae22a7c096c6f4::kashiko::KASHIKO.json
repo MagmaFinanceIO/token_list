@@ -1,0 +1,13 @@
+{
+  "name": "King of SUI Kashiko",
+  "symbol": "KASHIKO",
+  "decimals": 9,
+  "coin_type": "0xd3154ac639838e7b9064e4e95696ff51f0553082d1c456e385ae22a7c096c6f4::kashiko::KASHIKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ebdd8531-0a35-442b-b234-0a72726df0c7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

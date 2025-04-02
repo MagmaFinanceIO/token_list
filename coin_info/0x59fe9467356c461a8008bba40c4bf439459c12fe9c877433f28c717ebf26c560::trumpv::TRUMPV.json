@@ -1,0 +1,13 @@
+{
+  "name": "TrumpVerse",
+  "symbol": "TRUMPV",
+  "decimals": 6,
+  "coin_type": "0x59fe9467356c461a8008bba40c4bf439459c12fe9c877433f28c717ebf26c560::trumpv::TRUMPV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_11_05_22_54_41_3e9b5bb141.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

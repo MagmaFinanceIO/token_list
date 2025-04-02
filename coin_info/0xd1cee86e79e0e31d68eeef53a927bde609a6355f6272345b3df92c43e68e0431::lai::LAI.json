@@ -1,0 +1,13 @@
+{
+  "name": "LayerAI",
+  "symbol": "LAI",
+  "decimals": 6,
+  "coin_type": "0xd1cee86e79e0e31d68eeef53a927bde609a6355f6272345b3df92c43e68e0431::lai::LAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e6f06d69-155e-43d0-8d72-df1e37fec0fd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

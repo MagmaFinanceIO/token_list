@@ -1,0 +1,13 @@
+{
+  "name": "PENGSUIN",
+  "symbol": "PENG",
+  "decimals": 6,
+  "coin_type": "0x4dc1ae2620eaa7d4b6261b234969aa5c81f08619fe0d1c1ae4d679290d4e0b2e::peng::PENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d5cbbcee-9d5e-443d-84d9-7fa120511e62.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

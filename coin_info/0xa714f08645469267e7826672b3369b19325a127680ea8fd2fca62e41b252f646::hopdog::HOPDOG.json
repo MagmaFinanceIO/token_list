@@ -1,0 +1,13 @@
+{
+  "name": "HOPDOG",
+  "symbol": "HOPDOG",
+  "decimals": 9,
+  "coin_type": "0xa714f08645469267e7826672b3369b19325a127680ea8fd2fca62e41b252f646::hopdog::HOPDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/042a8953-9dcf-43b8-9956-2fbaeb0445ec.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Apepe",
+  "symbol": "APEPE",
+  "decimals": 9,
+  "coin_type": "0x46c29d2f6d2fc4b8c98a8ec8e57bcd83c49c4685cdee21ddb820f99019b08957::apepe::APEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4e911a46-65a0-4768-ab52-8f7ff2d03e69.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

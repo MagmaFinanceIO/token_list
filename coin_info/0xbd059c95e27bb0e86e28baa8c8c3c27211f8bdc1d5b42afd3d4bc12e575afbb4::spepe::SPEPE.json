@@ -1,0 +1,13 @@
+{
+  "name": "SAD PEPE",
+  "symbol": "sPEPE",
+  "decimals": 9,
+  "coin_type": "0xbd059c95e27bb0e86e28baa8c8c3c27211f8bdc1d5b42afd3d4bc12e575afbb4::spepe::SPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a173e7b1-062c-4eca-991c-d093aaa1fd4d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

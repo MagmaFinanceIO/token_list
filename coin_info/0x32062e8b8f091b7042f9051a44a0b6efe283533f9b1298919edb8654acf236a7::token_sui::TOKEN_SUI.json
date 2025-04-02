@@ -1,0 +1,13 @@
+{
+  "name": "aaa cat 21",
+  "symbol": "AAA21",
+  "decimals": 9,
+  "coin_type": "0x32062e8b8f091b7042f9051a44a0b6efe283533f9b1298919edb8654acf236a7::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4995_cfd6177d03.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

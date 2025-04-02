@@ -1,0 +1,13 @@
+{
+  "name": "SuiSpark",
+  "symbol": "KAS",
+  "decimals": 9,
+  "coin_type": "0x16f293d3c36b605cee6f826fecca5fd432990d3179439e136534a5c996f599c4::kas::KAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/88a2d462-bbe8-4e33-8ccd-4f50b2f8e9a7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

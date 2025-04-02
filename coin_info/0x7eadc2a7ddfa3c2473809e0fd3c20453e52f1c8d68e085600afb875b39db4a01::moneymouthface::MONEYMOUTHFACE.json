@@ -1,0 +1,13 @@
+{
+  "name": "MONEY-MOUTH FACE",
+  "symbol": "MONEYMOUTHFACE",
+  "decimals": 6,
+  "coin_type": "0x7eadc2a7ddfa3c2473809e0fd3c20453e52f1c8d68e085600afb875b39db4a01::moneymouthface::MONEYMOUTHFACE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/moneymouthface.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

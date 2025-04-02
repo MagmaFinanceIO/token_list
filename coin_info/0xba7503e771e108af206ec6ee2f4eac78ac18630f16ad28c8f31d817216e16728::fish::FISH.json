@@ -1,0 +1,13 @@
+{
+  "name": "FISH ON SUI",
+  "symbol": "FISH",
+  "decimals": 6,
+  "coin_type": "0xba7503e771e108af206ec6ee2f4eac78ac18630f16ad28c8f31d817216e16728::fish::FISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000091766_7a3519d40a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

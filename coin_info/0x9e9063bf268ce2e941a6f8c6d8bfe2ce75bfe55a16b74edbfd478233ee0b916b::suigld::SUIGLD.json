@@ -1,0 +1,13 @@
+{
+  "name": "SUI GOLD",
+  "symbol": "SUIGLD",
+  "decimals": 6,
+  "coin_type": "0x9e9063bf268ce2e941a6f8c6d8bfe2ce75bfe55a16b74edbfd478233ee0b916b::suigld::SUIGLD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/GOLDSUILOGO_388ecdc8dd.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

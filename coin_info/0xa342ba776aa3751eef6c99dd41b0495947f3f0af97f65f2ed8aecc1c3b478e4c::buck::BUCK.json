@@ -1,0 +1,13 @@
+{
+  "name": "Neptunus",
+  "symbol": "NEPTUNUS",
+  "decimals": 9,
+  "coin_type": "0xa342ba776aa3751eef6c99dd41b0495947f3f0af97f65f2ed8aecc1c3b478e4c::buck::BUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2F1000175349_af541f19f3.png&w=256&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuiNova AI ",
+  "symbol": "SNAI",
+  "decimals": 6,
+  "coin_type": "0x9b1be9117425d1b3a3e36f2357b4051c030a583fddcf46489b62d4eceece8818::snai::SNAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/SUINOVA_AI_2676d26f33.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ECO AI",
+  "symbol": "ECOAI",
+  "decimals": 9,
+  "coin_type": "0x3047c26b36851c279bc534221a28467ff4e8d83f4229aa9b171a3adb036ba163::ecoai::ECOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/APBcWeYBwkBPMtyEj1QGy1AFzEqnYcQcVYCQofjwpump.png?size=lg&key=628fbd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

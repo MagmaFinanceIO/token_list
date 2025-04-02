@@ -1,0 +1,13 @@
+{
+  "name": "World of War",
+  "symbol": "WOW",
+  "decimals": 2,
+  "coin_type": "0x91c11bd5089a982ce6621f36d2955e2f9eb4b3d34978ecabe43a92d1be11ba06::managed::MANAGED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

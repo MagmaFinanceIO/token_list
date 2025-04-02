@@ -1,0 +1,13 @@
+{
+  "name": "ROBOT ON",
+  "symbol": "ROBO",
+  "decimals": 6,
+  "coin_type": "0xf5427757d442fe30a6690b19ca96e5977d513ad5ab449fb8007853dc6018aa35::robo::ROBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000037411_c13ff8851d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

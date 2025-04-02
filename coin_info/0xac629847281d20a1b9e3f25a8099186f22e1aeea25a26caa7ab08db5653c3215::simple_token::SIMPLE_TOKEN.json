@@ -1,0 +1,13 @@
+{
+  "name": "APY",
+  "symbol": "APY",
+  "decimals": 9,
+  "coin_type": "0xac629847281d20a1b9e3f25a8099186f22e1aeea25a26caa7ab08db5653c3215::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

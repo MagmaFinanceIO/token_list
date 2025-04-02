@@ -1,0 +1,13 @@
+{
+  "name": "Hopi",
+  "symbol": "HOPI",
+  "decimals": 7,
+  "coin_type": "0xcfaded7272abad789e8d2e6232f8f577852e6fe5ec6864fc5ea19b68e4ca2c91::hopi::HOPI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/93adfc79-9b88-46d7-9207-17857f005b93.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

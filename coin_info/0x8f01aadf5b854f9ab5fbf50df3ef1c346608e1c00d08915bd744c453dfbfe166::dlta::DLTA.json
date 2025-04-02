@@ -1,0 +1,13 @@
+{
+  "name": "Delta Coin",
+  "symbol": "DLTA",
+  "decimals": 9,
+  "coin_type": "0x8f01aadf5b854f9ab5fbf50df3ef1c346608e1c00d08915bd744c453dfbfe166::dlta::DLTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2340ea52-71eb-4137-8507-b428d0c0870b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

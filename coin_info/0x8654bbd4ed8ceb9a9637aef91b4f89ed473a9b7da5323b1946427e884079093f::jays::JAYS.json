@@ -1,0 +1,13 @@
+{
+  "name": "Sui Jays",
+  "symbol": "JAYS",
+  "decimals": 6,
+  "coin_type": "0x8654bbd4ed8ceb9a9637aef91b4f89ed473a9b7da5323b1946427e884079093f::jays::JAYS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731628737774.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

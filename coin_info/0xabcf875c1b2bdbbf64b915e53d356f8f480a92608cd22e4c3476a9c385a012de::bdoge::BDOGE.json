@@ -1,0 +1,13 @@
+{
+  "name": "Bear Doge",
+  "symbol": "BDoge",
+  "decimals": 9,
+  "coin_type": "0xabcf875c1b2bdbbf64b915e53d356f8f480a92608cd22e4c3476a9c385a012de::bdoge::BDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/JtCKVuQWawsyDSRn?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

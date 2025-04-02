@@ -1,0 +1,13 @@
+{
+  "name": "TheSuiWizard",
+  "symbol": "ORB",
+  "decimals": 6,
+  "coin_type": "0x5239e18fe33af63674b72efe651c7c0f8ca58b8758baf0bed06946bc316e85fc::orb::ORB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Screenshot_2024_12_17_at_19_52_24_dbf808b497.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

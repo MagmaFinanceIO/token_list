@@ -1,0 +1,13 @@
+{
+  "name": "Proof of Great AI",
+  "symbol": "POGAI",
+  "decimals": 6,
+  "coin_type": "0x3d375599bb10afcecfc6d437b355bddb6a24aae8394692fdc1db219f07aa83ae::pogai::POGAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.pogai.org/img/logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

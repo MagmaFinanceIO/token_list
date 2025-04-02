@@ -1,0 +1,13 @@
+{
+  "name": "CZ BULL",
+  "symbol": "CZBULL",
+  "decimals": 6,
+  "coin_type": "0x93cc55bcc3a7457a48a1419a4c5600055499dc71af20eccd7235ab7cb743ce22::czbull::CZBULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qmc1_PGV_1d_K_Ygyd_UY_Tf_RK_Ax_F_Hr_Zu6rjj6c_As_Y9d_G3_Fvf_P_To_c36850506e.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

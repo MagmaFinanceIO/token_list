@@ -1,0 +1,13 @@
+{
+  "name": "Sponge Bob",
+  "symbol": "BOB",
+  "decimals": 9,
+  "coin_type": "0xe40426a107d6dbbeb40d1b59c5e493cea0ca06caa23bd7dc39f5790631fe0523::bob::BOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreig4adxjudmb6otzryje6tbv5fmlypznfkxounakqsb2rdrsjowobe.ipfs.w3s.link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

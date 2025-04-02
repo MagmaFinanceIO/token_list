@@ -1,0 +1,13 @@
+{
+  "name": "fwogmi",
+  "symbol": "fwogmi",
+  "decimals": 9,
+  "coin_type": "0xec484f556036336aa4a9a3cd2785eb766f73e0b40c84ac7a07020b56ff59eeb8::fwogmi::FWOGMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3xv6pWP1oVENMkZAASxoiAF4dFH9PGVtDnVw8xrbpump.png?size=lg&key=7458d6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

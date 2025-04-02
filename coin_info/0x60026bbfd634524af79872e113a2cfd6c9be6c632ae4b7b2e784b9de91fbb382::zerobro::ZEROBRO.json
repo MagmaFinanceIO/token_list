@@ -1,0 +1,13 @@
+{
+  "name": "ZERO BRO",
+  "symbol": "ZEROBRO",
+  "decimals": 9,
+  "coin_type": "0x60026bbfd634524af79872e113a2cfd6c9be6c632ae4b7b2e784b9de91fbb382::zerobro::ZEROBRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6uRqGYvioYq61vTFswWkfjWa9os4GmRniLDDK5Jjpump.png?size=lg&key=6ecf8e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

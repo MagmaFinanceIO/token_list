@@ -1,0 +1,13 @@
+{
+  "name": "GEKO",
+  "symbol": "GEKO",
+  "decimals": 9,
+  "coin_type": "0x2a5f1c50c34b19dd00918bfa5ee494079c949bc2ceb386be3933abb3a942714f::geko::GEKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.prod.website-files.com/669f0dacd341140b57fa4f77/669f1c3ee7573029c04fcdde_1s_silver.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

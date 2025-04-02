@@ -1,0 +1,13 @@
+{
+  "name": "Akrotiri and Dhekelia",
+  "symbol": "Akrotiri and Dhekelia",
+  "decimals": 2,
+  "coin_type": "0x6d48f89c4fa4bfc3993b0bf7a13e96875f560581b7a7fc4083b11b4cf3b68e9c::akrotiri_and_dhekelia::AKROTIRI_AND_DHEKELIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/afe5dfa0-ec87-437e-aa22-899e9c76a951.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

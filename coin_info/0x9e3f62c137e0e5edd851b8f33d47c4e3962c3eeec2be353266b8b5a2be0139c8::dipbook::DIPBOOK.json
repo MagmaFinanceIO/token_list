@@ -1,0 +1,13 @@
+{
+  "name": "DIP BOOK",
+  "symbol": "DIPBOOK",
+  "decimals": 9,
+  "coin_type": "0x9e3f62c137e0e5edd851b8f33d47c4e3962c3eeec2be353266b8b5a2be0139c8::dipbook::DIPBOOK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/39e7fd28-1e7d-4111-b748-ab1b2cac25f8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

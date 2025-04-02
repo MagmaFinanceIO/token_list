@@ -1,0 +1,13 @@
+{
+  "name": "MemePedia",
+  "symbol": "PEDIA",
+  "decimals": 9,
+  "coin_type": "0x6b391da85deb666feb64409391fb98025be6b1437517bce7308385a2a98b5447::pedia::PEDIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ebcac50f-15a1-4f4e-aced-cb800757ef96.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

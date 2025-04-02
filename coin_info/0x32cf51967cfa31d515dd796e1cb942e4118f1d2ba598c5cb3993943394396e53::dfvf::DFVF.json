@@ -1,0 +1,13 @@
+{
+  "name": "dfvf",
+  "symbol": "dfvf",
+  "decimals": 9,
+  "coin_type": "0x32cf51967cfa31d515dd796e1cb942e4118f1d2ba598c5cb3993943394396e53::dfvf::DFVF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

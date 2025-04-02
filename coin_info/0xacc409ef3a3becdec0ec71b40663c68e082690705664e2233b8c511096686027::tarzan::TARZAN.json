@@ -1,0 +1,13 @@
+{
+  "name": "Tarzan",
+  "symbol": "TARZAN po beli gasti",
+  "decimals": 9,
+  "coin_type": "0xacc409ef3a3becdec0ec71b40663c68e082690705664e2233b8c511096686027::tarzan::TARZAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MI NU sui",
+  "symbol": "MINU",
+  "decimals": 6,
+  "coin_type": "0xd8fbfe82d0d1f72bc172b435eedee3af3a10b24392034c4be6c9f0b81f9952a5::minu::MINU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.pixabay.com/photo/2022/02/18/16/09/ape-7020995_1280.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

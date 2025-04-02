@@ -1,0 +1,13 @@
+{
+  "name": "Peter the suisploer",
+  "symbol": "Peter",
+  "decimals": 6,
+  "coin_type": "0xc398c346d09d8d2cf88d795f06bb6c00c578a0cffd045988e631c7b11d94cfea::peter::PETER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/bird_nft_rare_1_8587f5cae9.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

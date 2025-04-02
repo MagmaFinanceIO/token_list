@@ -1,0 +1,13 @@
+{
+  "name": "Bitcoin",
+  "symbol": "BTC",
+  "decimals": 6,
+  "coin_type": "0x8a58722a717514e287aaee8be8e3b1730aebf84a540add76ce5fcebc522b81e6::btc::BTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/btc_ac1516cdf4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

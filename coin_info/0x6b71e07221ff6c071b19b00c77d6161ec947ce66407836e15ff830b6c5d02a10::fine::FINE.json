@@ -1,0 +1,13 @@
+{
+  "name": "Fine",
+  "symbol": "FINE",
+  "decimals": 9,
+  "coin_type": "0x6b71e07221ff6c071b19b00c77d6161ec947ce66407836e15ff830b6c5d02a10::fine::FINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5n69cLjPBXdjBD2fYkXReoTx8dTbesJM3UUaCEbbpump.png?size=lg&key=a5cefd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Trump 47 on SUI",
+  "symbol": "TRUMP47",
+  "decimals": 9,
+  "coin_type": "0x98d49f12df709d29f979fec8b2bebd42cd0ad7625b573d3ce4161f582532a399::trump47::TRUMP47",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DyLtUgrv3T5wdsD3Rw8LcGDbVddLiHcgdXCgRSXspump.png?size=lg&key=1f594c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

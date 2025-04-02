@@ -1,0 +1,13 @@
+{
+  "name": "snipy",
+  "symbol": "snipy",
+  "decimals": 9,
+  "coin_type": "0xf98605ff1e9cd8e85ff2e7782babb7d6347334ee0a73885b94a1ed4a38c177c2::snipy::SNIPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreiaoqdxsf7hucfneqa227wbvfclsd2vtrgfv6gjv6qhhw34ku2if4a.ipfs.w3s.link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

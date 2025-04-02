@@ -1,0 +1,13 @@
+{
+  "name": "CODEX",
+  "symbol": "CODEX",
+  "decimals": 9,
+  "coin_type": "0x3f63e254a5bf483067d7e4ac6704aca2914ca608f5b17e1d748c8a908f4c8e9b::codex::CODEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9o1BNUq23U1hCxAo3qtWHAmYFYLeu2zuHRFxhddJpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

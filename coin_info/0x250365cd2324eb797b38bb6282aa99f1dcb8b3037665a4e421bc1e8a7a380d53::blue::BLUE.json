@@ -1,0 +1,13 @@
+{
+  "name": "BlueMoveShark",
+  "symbol": "Blue",
+  "decimals": 6,
+  "coin_type": "0x250365cd2324eb797b38bb6282aa99f1dcb8b3037665a4e421bc1e8a7a380d53::blue::BLUE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1x1_blue_cute_shark_mascot_1e389a329f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

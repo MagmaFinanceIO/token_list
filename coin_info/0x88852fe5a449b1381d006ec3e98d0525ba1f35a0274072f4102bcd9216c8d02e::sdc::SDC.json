@@ -1,0 +1,13 @@
+{
+  "name": "SolDegens.Club",
+  "symbol": "SDC",
+  "decimals": 9,
+  "coin_type": "0x88852fe5a449b1381d006ec3e98d0525ba1f35a0274072f4102bcd9216c8d02e::sdc::SDC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "4pwIECzc5vepSE9_",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

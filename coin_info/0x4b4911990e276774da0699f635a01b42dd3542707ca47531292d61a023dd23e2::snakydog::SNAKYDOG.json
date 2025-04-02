@@ -1,0 +1,13 @@
+{
+  "name": "Snaky Dog",
+  "symbol": "SnakyDog",
+  "decimals": 9,
+  "coin_type": "0x4b4911990e276774da0699f635a01b42dd3542707ca47531292d61a023dd23e2::snakydog::SNAKYDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/46c11bfb-c2cb-4ef9-968e-10c0e4bbe760.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

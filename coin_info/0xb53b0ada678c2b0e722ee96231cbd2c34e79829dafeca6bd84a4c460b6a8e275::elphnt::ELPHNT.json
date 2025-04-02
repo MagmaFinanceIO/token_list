@@ -1,0 +1,13 @@
+{
+  "name": "Suilephant",
+  "symbol": "ELPHNT",
+  "decimals": 6,
+  "coin_type": "0xb53b0ada678c2b0e722ee96231cbd2c34e79829dafeca6bd84a4c460b6a8e275::elphnt::ELPHNT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmcB9C7uDJon9eeq4Wx1w3Lp7e9BWuvKfEFe2H2zMMHk37",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

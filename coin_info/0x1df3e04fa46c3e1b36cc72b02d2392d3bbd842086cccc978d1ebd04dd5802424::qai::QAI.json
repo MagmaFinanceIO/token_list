@@ -1,0 +1,13 @@
+{
+  "name": "QuantaAI",
+  "symbol": "QAI",
+  "decimals": 9,
+  "coin_type": "0x1df3e04fa46c3e1b36cc72b02d2392d3bbd842086cccc978d1ebd04dd5802424::qai::QAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/tf1SuWaHmSw2kTSQYyUNVnHXu12x5phwdhhEotwBckf.png?size=lg&key=706501",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

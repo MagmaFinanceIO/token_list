@@ -1,0 +1,13 @@
+{
+  "name": "NubCat",
+  "symbol": "NUB",
+  "decimals": 6,
+  "coin_type": "0xa1abd812067b1a8cbc59963b28790ac943a5748e482ce564b61818ffe9640b1c::nub::NUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6762_62ff13c5b8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

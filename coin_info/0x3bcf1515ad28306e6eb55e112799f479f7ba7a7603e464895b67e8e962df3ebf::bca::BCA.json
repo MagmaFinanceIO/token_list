@@ -1,0 +1,13 @@
+{
+  "name": "Black Cat Angry",
+  "symbol": "BCA",
+  "decimals": 9,
+  "coin_type": "0x3bcf1515ad28306e6eb55e112799f479f7ba7a7603e464895b67e8e962df3ebf::bca::BCA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/91bc4df5-12f9-40f9-a7ef-23848d7e05d0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

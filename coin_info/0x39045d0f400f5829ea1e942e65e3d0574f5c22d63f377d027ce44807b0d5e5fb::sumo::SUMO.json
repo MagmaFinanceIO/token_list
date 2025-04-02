@@ -1,0 +1,13 @@
+{
+  "name": "Sui Moo",
+  "symbol": "SUMO",
+  "decimals": 6,
+  "coin_type": "0x39045d0f400f5829ea1e942e65e3d0574f5c22d63f377d027ce44807b0d5e5fb::sumo::SUMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ec44a953-9503-4a24-8a91-8b5c61a5659b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PEPE OF MEME",
+  "symbol": "POME",
+  "decimals": 9,
+  "coin_type": "0x738ba1472dd918d3921df6e3db66ceba59c0b911a590298e2a7e27bb5151fe82::pome::POME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bd80546f-51fa-4b89-96f3-9ea1c3294c88.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

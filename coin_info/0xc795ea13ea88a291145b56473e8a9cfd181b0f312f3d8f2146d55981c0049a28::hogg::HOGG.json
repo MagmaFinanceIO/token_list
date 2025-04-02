@@ -1,0 +1,13 @@
+{
+  "name": "HedgehogCoin",
+  "symbol": "HOGG",
+  "decimals": 9,
+  "coin_type": "0xc795ea13ea88a291145b56473e8a9cfd181b0f312f3d8f2146d55981c0049a28::hogg::HOGG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

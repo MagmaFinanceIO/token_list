@@ -1,0 +1,13 @@
+{
+  "name": "PESU THE PEPE SOUL",
+  "symbol": "PESU",
+  "decimals": 9,
+  "coin_type": "0x70fcccf493de4dde3ce730d214baa326b4116d4b719560d57b55cea5130e9598::pesu::PESU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d2a7e383-bb19-491b-acde-3ee427e8440f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

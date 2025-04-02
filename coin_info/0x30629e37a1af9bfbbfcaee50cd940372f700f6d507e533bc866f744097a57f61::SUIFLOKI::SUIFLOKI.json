@@ -1,0 +1,13 @@
+{
+  "name": "FLOKI ON SUI",
+  "symbol": "SUIFLOKI",
+  "decimals": 6,
+  "coin_type": "0x30629e37a1af9bfbbfcaee50cd940372f700f6d507e533bc866f744097a57f61::SUIFLOKI::SUIFLOKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/TOGPRn1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

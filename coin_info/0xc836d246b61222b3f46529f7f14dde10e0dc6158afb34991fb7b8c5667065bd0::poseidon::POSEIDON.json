@@ -1,0 +1,13 @@
+{
+  "name": "Poseidon",
+  "symbol": "POSEIDON",
+  "decimals": 9,
+  "coin_type": "0xc836d246b61222b3f46529f7f14dde10e0dc6158afb34991fb7b8c5667065bd0::poseidon::POSEIDON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ed4ee501-1dad-43fb-b1fb-7225d5b9009a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

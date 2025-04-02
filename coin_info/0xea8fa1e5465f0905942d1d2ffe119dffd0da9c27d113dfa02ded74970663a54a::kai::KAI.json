@@ -1,0 +1,13 @@
+{
+  "name": "Karen AI",
+  "symbol": "KAI",
+  "decimals": 9,
+  "coin_type": "0xea8fa1e5465f0905942d1d2ffe119dffd0da9c27d113dfa02ded74970663a54a::kai::KAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ASiu5uVkJnzcoUCr3XL9Wm4UhSnLqNQdJRwQySdCpump.png?size=lg&key=c8aa51",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

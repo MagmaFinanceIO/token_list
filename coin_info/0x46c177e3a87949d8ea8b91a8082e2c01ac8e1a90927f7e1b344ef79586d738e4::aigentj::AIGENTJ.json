@@ -1,0 +1,13 @@
+{
+  "name": "Aigent J by SuiAI",
+  "symbol": "AIGENTJ",
+  "decimals": 6,
+  "coin_type": "0x46c177e3a87949d8ea8b91a8082e2c01ac8e1a90927f7e1b344ef79586d738e4::aigentj::AIGENTJ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/aigent_J_89b0aeca60.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

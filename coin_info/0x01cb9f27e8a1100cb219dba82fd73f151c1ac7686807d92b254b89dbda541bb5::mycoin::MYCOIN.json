@@ -1,0 +1,13 @@
+{
+  "name": "SUIRIDE",
+  "symbol": "SUIRIDE",
+  "decimals": 9,
+  "coin_type": "0x01cb9f27e8a1100cb219dba82fd73f151c1ac7686807d92b254b89dbda541bb5::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

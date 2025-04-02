@@ -1,0 +1,13 @@
+{
+  "name": "AKANE",
+  "symbol": "AKANE",
+  "decimals": 9,
+  "coin_type": "0xc427d37b4b4be83d43dfc56049ce8581560311a4c3e331aef5d3a4e758dd0d6a::akane::AKANE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7ipDvePMxS33q2fhw7njT9HL3sVa5p63UrGXrjoHpump.png?size=lg&key=32f07a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

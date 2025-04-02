@@ -1,0 +1,13 @@
+{
+  "name": "Suisi Cat",
+  "symbol": "SUISI",
+  "decimals": 6,
+  "coin_type": "0x42e2b56704a569d80428dd9b71270520aa0419862e8da1570b90df5188f7c482::suisi::SUISI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5175_e89814266d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

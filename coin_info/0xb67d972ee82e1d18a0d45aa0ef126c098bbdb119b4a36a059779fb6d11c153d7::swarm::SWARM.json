@@ -1,0 +1,13 @@
+{
+  "name": "Swarm on SUI",
+  "symbol": "Swarm",
+  "decimals": 9,
+  "coin_type": "0xb67d972ee82e1d18a0d45aa0ef126c098bbdb119b4a36a059779fb6d11c153d7::swarm::SWARM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/13e962e7-7f86-452e-8718-9d0f11c7c7d6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

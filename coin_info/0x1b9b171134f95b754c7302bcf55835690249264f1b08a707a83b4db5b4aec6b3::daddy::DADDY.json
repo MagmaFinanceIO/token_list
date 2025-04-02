@@ -1,0 +1,13 @@
+{
+  "name": "DADDY COIN ON SUI",
+  "symbol": "DADDY",
+  "decimals": 6,
+  "coin_type": "0x1b9b171134f95b754c7302bcf55835690249264f1b08a707a83b4db5b4aec6b3::daddy::DADDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_06_11_20_16_21_9d953e1736.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

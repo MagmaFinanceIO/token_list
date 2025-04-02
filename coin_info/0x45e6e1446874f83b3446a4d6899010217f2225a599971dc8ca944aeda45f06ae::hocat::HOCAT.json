@@ -1,0 +1,13 @@
+{
+  "name": "Holly Cat",
+  "symbol": "HoCat",
+  "decimals": 9,
+  "coin_type": "0x45e6e1446874f83b3446a4d6899010217f2225a599971dc8ca944aeda45f06ae::hocat::HOCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ab0f078a-53d4-44d2-80a8-7eb59474b82d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

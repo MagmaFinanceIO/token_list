@@ -1,0 +1,13 @@
+{
+  "name": "SuiAIBot by SuiAI",
+  "symbol": "SAB",
+  "decimals": 6,
+  "coin_type": "0xac5b30727fe9c87ea192cd19417bf20d77774fe909e42d0e5354e6eb634e9991::sab::SAB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/SAB_100_8ead288d74.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BIKINI",
+  "symbol": "BIKINI",
+  "decimals": 6,
+  "coin_type": "0x7439d7f28f350ae11de96004972e7189f56b2a2ac88e6851082af756392503a3::bikini::BIKINI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/bikini.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

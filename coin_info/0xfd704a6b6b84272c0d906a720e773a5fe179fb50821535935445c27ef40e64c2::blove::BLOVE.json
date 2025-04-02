@@ -1,0 +1,13 @@
+{
+  "name": "Blove is BFIC Future",
+  "symbol": "Blove",
+  "decimals": 6,
+  "coin_type": "0xfd704a6b6b84272c0d906a720e773a5fe179fb50821535935445c27ef40e64c2::blove::BLOVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://blovedapp.com/assets/images/logo-bg-opacity.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

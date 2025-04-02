@@ -1,0 +1,13 @@
+{
+  "name": "Pixie AI by SuiAI",
+  "symbol": "PIXIE",
+  "decimals": 6,
+  "coin_type": "0xc7acd84fcf3de46704eda4f56aeeb4c9d576e4d908df2659ae1c38379e3801b6::pixie::PIXIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_2134_2a39e32dcc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

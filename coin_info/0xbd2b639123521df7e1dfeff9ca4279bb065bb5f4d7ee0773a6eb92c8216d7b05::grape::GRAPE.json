@@ -1,0 +1,13 @@
+{
+  "name": "grape",
+  "symbol": "GRAPE",
+  "decimals": 6,
+  "coin_type": "0xbd2b639123521df7e1dfeff9ca4279bb065bb5f4d7ee0773a6eb92c8216d7b05::grape::GRAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000346_f11c1bbb1d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

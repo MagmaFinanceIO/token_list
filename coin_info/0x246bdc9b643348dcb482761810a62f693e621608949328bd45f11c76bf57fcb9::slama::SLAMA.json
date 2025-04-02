@@ -1,0 +1,13 @@
+{
+  "name": "SLAMA",
+  "symbol": "SLAMA",
+  "decimals": 9,
+  "coin_type": "0x246bdc9b643348dcb482761810a62f693e621608949328bd45f11c76bf57fcb9::slama::SLAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e3c481a7-0f94-4b61-ac61-9449c0352c71.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

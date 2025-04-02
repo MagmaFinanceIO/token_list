@@ -1,0 +1,13 @@
+{
+  "name": "Meme Religion",
+  "symbol": "Memeism",
+  "decimals": 6,
+  "coin_type": "0x975cebe8059f489d9d7d5210ebb79ae240d7a4af17d517aa7a0d1a802a66c012::memeism::MEMEISM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/MEMEISM_33b5dfdad5.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

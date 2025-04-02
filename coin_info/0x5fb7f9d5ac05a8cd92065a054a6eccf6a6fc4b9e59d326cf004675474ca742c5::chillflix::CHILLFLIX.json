@@ -1,0 +1,13 @@
+{
+  "name": "Netflix & Chill",
+  "symbol": "CHILLFLIX",
+  "decimals": 9,
+  "coin_type": "0x5fb7f9d5ac05a8cd92065a054a6eccf6a6fc4b9e59d326cf004675474ca742c5::chillflix::CHILLFLIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9pJqVTf8oK56ELcK2EA6bE4bfFFz3XvYshWEA1A1pump.png?size=xl&key=043965",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

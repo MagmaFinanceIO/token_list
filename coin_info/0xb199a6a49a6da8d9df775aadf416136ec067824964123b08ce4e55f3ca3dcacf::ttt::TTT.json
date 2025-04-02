@@ -1,0 +1,13 @@
+{
+  "name": "TTTT",
+  "symbol": "TTT",
+  "decimals": 6,
+  "coin_type": "0xb199a6a49a6da8d9df775aadf416136ec067824964123b08ce4e55f3ca3dcacf::ttt::TTT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cetus-1.gitbook.io/~gitbook/image?url=https%3A%2F%2F1666578391-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FA2PGyy4VtU6V9KDHXtio%252Ficon%252FVRK68eHAZw8xbRSgjg2G%252Fcetus_icon.png%3Falt%3Dmedia%26token%3Ddef45084-716b-4d9c-a952-0a7f4bbdb1d1&width=32&dpr=2&quality=100&sign=39da5624&sv=1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

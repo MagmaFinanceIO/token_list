@@ -1,0 +1,13 @@
+{
+  "name": "BLTCOIN",
+  "symbol": "BLT",
+  "decimals": 9,
+  "coin_type": "0x322456560d3a3b83a22c0100a806c848b62cbaded162316ad5a3c2d1d96a0d8e::blt::BLT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmNRLBfH34DftXcJsPNngSnQJydcizJwmC8aknUcmTp7cF",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

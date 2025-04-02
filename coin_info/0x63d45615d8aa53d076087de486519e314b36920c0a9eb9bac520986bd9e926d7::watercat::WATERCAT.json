@@ -1,0 +1,13 @@
+{
+  "name": "Watercat",
+  "symbol": "WATERCAT",
+  "decimals": 6,
+  "coin_type": "0x63d45615d8aa53d076087de486519e314b36920c0a9eb9bac520986bd9e926d7::watercat::WATERCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730744167301.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

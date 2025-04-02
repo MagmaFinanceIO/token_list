@@ -1,0 +1,13 @@
+{
+  "name": "RIP BTC _/\\_",
+  "symbol": "RIPBTC",
+  "decimals": 9,
+  "coin_type": "0xd140531c7aa0ea80dd3e54bdb9e531535264b21472abc284181fbe78f44d3504::ripbtc::RIPBTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/58d196e4-7061-4ad3-af23-f28b93dd7d0d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

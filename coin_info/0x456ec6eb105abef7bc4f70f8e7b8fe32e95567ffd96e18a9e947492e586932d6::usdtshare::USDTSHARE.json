@@ -1,0 +1,13 @@
+{
+  "name": "USDT Share",
+  "symbol": "USDTSHARE",
+  "decimals": 6,
+  "coin_type": "0x456ec6eb105abef7bc4f70f8e7b8fe32e95567ffd96e18a9e947492e586932d6::usdtshare::USDTSHARE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://imgs-8qx.pages.dev/usdtshare.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Make Sui Great Again",
+  "symbol": "MSGA",
+  "decimals": 9,
+  "coin_type": "0x7396d5c6b943e087ec5dcd229ca8d2824e5223d8cc6760431540e87a896583f8::msga::MSGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HXmzgfQL5aNaufUPVZzfJE5LaBLvf2g9mKagkEaY69Bv.png?size=lg&key=06c80b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

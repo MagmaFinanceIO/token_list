@@ -1,0 +1,13 @@
+{
+  "name": "ZenithonAI",
+  "symbol": "ZNTH",
+  "decimals": 6,
+  "coin_type": "0xc1cf235202851e44677fbcaf0bb62b8224c0914d12ea3f6617bd682a82cd69a8::znth::ZNTH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/adf8350e-cbe4-453e-b35c-12ffade3096a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

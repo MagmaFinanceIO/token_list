@@ -1,0 +1,13 @@
+{
+  "name": "Land Crack Wolf",
+  "symbol": "Wolf",
+  "decimals": 9,
+  "coin_type": "0x1fab49f4155516d0adf2f570092c92880014c4b5bf41d9256ab9632963fed14e::wolf::WOLF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/efcd6b03-b4e6-4721-9f6c-9c5c4ffed50d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

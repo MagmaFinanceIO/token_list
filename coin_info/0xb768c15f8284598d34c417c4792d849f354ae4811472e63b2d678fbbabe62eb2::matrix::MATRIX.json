@@ -1,0 +1,13 @@
+{
+  "name": "TruthMatrix AI",
+  "symbol": "MATRIX",
+  "decimals": 9,
+  "coin_type": "0xb768c15f8284598d34c417c4792d849f354ae4811472e63b2d678fbbabe62eb2::matrix::MATRIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dexscreener.com/solana/c8m2vx7kwthypgecwjuozyin5rqcdeqmc6ua8pqupump",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

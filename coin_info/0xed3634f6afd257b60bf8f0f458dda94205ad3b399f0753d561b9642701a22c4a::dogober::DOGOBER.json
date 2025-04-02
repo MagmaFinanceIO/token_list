@@ -1,0 +1,13 @@
+{
+  "name": "DOGOBER",
+  "symbol": "DOGOBER",
+  "decimals": 9,
+  "coin_type": "0xed3634f6afd257b60bf8f0f458dda94205ad3b399f0753d561b9642701a22c4a::dogober::DOGOBER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/071e0b7f-2ed3-441a-a1e9-1b259a5f7213.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

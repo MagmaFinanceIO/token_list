@@ -1,0 +1,13 @@
+{
+  "name": "SuiAIGovernance by SuiAI",
+  "symbol": "SUIAIGOV",
+  "decimals": 6,
+  "coin_type": "0xcecdb1ff5d80a98c3b30efc037ecb40041e7f3e0d8e179aa1f5e057dcefbed67::suiaigov::SUIAIGOV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/3c46dd6c13354063866d7e9a37c44cea_1120115737_6461197d93.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

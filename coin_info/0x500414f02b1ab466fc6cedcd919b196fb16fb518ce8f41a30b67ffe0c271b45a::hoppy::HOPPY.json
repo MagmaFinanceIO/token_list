@@ -1,0 +1,13 @@
+{
+  "name": "HOPPY official mascot",
+  "symbol": "HOPPY",
+  "decimals": 6,
+  "coin_type": "0x500414f02b1ab466fc6cedcd919b196fb16fb518ce8f41a30b67ffe0c271b45a::hoppy::HOPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmQPNiA8v8E3C2zZVd4FL6AE8WuRuGhSyyn9cpwr1Q2voM",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

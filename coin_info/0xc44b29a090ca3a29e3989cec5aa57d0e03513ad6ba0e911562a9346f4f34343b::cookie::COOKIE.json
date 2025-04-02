@@ -1,0 +1,13 @@
+{
+  "name": "Sui Monster",
+  "symbol": "COOKIE",
+  "decimals": 6,
+  "coin_type": "0xc44b29a090ca3a29e3989cec5aa57d0e03513ad6ba0e911562a9346f4f34343b::cookie::COOKIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/53840651-7b4d-453d-a74b-b194c3e62450.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

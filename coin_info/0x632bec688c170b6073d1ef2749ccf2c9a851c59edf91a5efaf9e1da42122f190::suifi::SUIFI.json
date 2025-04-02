@@ -1,0 +1,13 @@
+{
+  "name": "Sui Finance",
+  "symbol": "SUIFI",
+  "decimals": 9,
+  "coin_type": "0x632bec688c170b6073d1ef2749ccf2c9a851c59edf91a5efaf9e1da42122f190::suifi::SUIFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://purple-neat-mole-319.mypinata.cloud/ipfs/QmVCCBe7aY9rYVGPcyanGS3R17uyXE4MwcZ3vwthAZKdgt",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

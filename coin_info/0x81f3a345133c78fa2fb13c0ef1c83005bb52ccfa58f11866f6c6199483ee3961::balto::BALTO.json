@@ -1,0 +1,13 @@
+{
+  "name": "Balto on SUI",
+  "symbol": "BALTO",
+  "decimals": 6,
+  "coin_type": "0x81f3a345133c78fa2fb13c0ef1c83005bb52ccfa58f11866f6c6199483ee3961::balto::BALTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/baltopfp_6a2c085685.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

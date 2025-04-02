@@ -1,0 +1,13 @@
+{
+  "name": "The Last Sui Samurai",
+  "symbol": "SUIMURAI",
+  "decimals": 9,
+  "coin_type": "0x465d64a3765954933fe2cba24b72868cfbe51c6f5adb44151e5504604ac06e22::suimurai::SUIMURAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/646/268/large/han-flores-comm-for-tristan-final-jpgg.jpg?1728130749",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

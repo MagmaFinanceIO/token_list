@@ -1,0 +1,13 @@
+{
+  "name": "I Want To Live",
+  "symbol": "o1",
+  "decimals": 9,
+  "coin_type": "0xb27ed40e7a31abf6117e2b535687d5a04863e6a855501d2e833be6e4a6aa2e94::o1::O1",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2wPCNPVRat4ZVFLK2cWFf7FxNKQJP1SUC9rv3FRXpump.png?size=xl&key=63767e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

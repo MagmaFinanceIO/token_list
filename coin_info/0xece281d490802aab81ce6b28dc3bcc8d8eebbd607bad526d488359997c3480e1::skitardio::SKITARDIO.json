@@ -1,0 +1,13 @@
+{
+  "name": "SKI TARDIO",
+  "symbol": "SKITARDIO",
+  "decimals": 6,
+  "coin_type": "0xece281d490802aab81ce6b28dc3bcc8d8eebbd607bad526d488359997c3480e1::skitardio::SKITARDIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6631_8b03c51a5a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

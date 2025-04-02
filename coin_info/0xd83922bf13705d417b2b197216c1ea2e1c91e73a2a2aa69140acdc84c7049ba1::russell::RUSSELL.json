@@ -1,0 +1,13 @@
+{
+  "name": "RUSSELL",
+  "symbol": "RUSSELL",
+  "decimals": 9,
+  "coin_type": "0xd83922bf13705d417b2b197216c1ea2e1c91e73a2a2aa69140acdc84c7049ba1::russell::RUSSELL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://logos.flamingtext.com/City-Logos/Russell-Water-Logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

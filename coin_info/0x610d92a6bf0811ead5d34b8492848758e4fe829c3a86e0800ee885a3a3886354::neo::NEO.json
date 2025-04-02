@@ -1,0 +1,13 @@
+{
+  "name": "neo cat",
+  "symbol": "NEO",
+  "decimals": 6,
+  "coin_type": "0x610d92a6bf0811ead5d34b8492848758e4fe829c3a86e0800ee885a3a3886354::neo::NEO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/neogif250_f6eba1a90f.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

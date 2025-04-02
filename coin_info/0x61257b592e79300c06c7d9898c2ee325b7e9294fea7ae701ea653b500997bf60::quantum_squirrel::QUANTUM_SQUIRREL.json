@@ -1,0 +1,13 @@
+{
+  "name": "QuantumSquirrel",
+  "symbol": "NUTZ",
+  "decimals": 9,
+  "coin_type": "0x61257b592e79300c06c7d9898c2ee325b7e9294fea7ae701ea653b500997bf60::quantum_squirrel::QUANTUM_SQUIRREL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://utfs.io/f/twuH73scZrUE2MjruIW4aiJsOnBcuU9dzfpLh5QoWmXPgerk",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

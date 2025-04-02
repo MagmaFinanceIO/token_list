@@ -1,0 +1,13 @@
+{
+  "name": "Airhunter",
+  "symbol": "AIH",
+  "decimals": 6,
+  "coin_type": "0x21ef27b5efa9aa73422caba021d28cd1b00db6eb2a5c3326224b8a719e4b4432::aih::AIH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Whats_App_Image_2024_12_16_at_07_38_20_49883566c5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

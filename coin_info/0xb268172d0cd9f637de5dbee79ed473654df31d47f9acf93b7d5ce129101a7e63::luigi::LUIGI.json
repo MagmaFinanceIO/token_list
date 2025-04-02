@@ -1,0 +1,13 @@
+{
+  "name": "Luigi Mangione",
+  "symbol": "Luigi",
+  "decimals": 9,
+  "coin_type": "0xb268172d0cd9f637de5dbee79ed473654df31d47f9acf93b7d5ce129101a7e63::luigi::LUIGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5XyKkFaJpAmsH4Tf2EFj3S61W3hC5cJhxNZQQ5h1pump.png?size=lg&key=7f6a71",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

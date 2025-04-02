@@ -1,0 +1,13 @@
+{
+  "name": "$BLANK CHECK",
+  "symbol": "CHECK",
+  "decimals": 9,
+  "coin_type": "0x6a40b7857492803a5fc2efadbfb75c14ff42da305d7c6568445721ee11aeb251::checka::CHECKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "Z--iNttm-xbkC2zA",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

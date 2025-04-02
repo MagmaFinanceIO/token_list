@@ -1,0 +1,13 @@
+{
+  "name": "Hoppy",
+  "symbol": "HOPPY",
+  "decimals": 9,
+  "coin_type": "0x64b871d6a372999749903ef7af4c4b676f2845220920e595cc6aba873ce120f4::hoppy::HOPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f686aee1-f442-421c-af76-f637af175f56.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

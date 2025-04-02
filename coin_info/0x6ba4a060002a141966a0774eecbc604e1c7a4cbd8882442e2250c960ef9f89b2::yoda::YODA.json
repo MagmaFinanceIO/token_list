@@ -1,0 +1,13 @@
+{
+  "name": "YODA",
+  "symbol": "YODA",
+  "decimals": 9,
+  "coin_type": "0x6ba4a060002a141966a0774eecbc604e1c7a4cbd8882442e2250c960ef9f89b2::yoda::YODA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

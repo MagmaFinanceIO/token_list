@@ -1,0 +1,13 @@
+{
+  "name": "GTA 6 Coin",
+  "symbol": "GTA6",
+  "decimals": 9,
+  "coin_type": "0xfa2a509a3dfa49b5ef23fc630ee25030e83c1e045608d56761bb9a9f7ece8c53::gta6::GTA6",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmdJajwBkrXwv3RH92n3sMJLHLpSHAZTWBUtw9vQNb6iA8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

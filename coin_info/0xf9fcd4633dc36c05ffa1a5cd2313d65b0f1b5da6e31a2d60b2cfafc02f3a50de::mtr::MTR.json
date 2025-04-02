@@ -1,0 +1,13 @@
+{
+  "name": "MaTronics",
+  "symbol": "MTR",
+  "decimals": 9,
+  "coin_type": "0xf9fcd4633dc36c05ffa1a5cd2313d65b0f1b5da6e31a2d60b2cfafc02f3a50de::mtr::MTR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://app.magmafinance.io/api/logo/0xf9fcd4633dc36c05ffa1a5cd2313d65b0f1b5da6e31a2d60b2cfafc02f3a50de::mtr::MTR.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

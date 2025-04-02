@@ -1,0 +1,13 @@
+{
+  "name": "Carb On Sui",
+  "symbol": "CARB",
+  "decimals": 6,
+  "coin_type": "0xe5d105032c0dcd34bca255a558c8bc3ef2a7a5fb7af9e0acd30d0d110434dcb8::carb::CARB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/artworks_000469617318_i032gv_t500x500_c3a4dc5feb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

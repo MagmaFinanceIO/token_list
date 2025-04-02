@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL TRUMP by SuiAI",
+  "symbol": "TRUMPSUI",
+  "decimals": 6,
+  "coin_type": "0x74bb5f3ead1e9f12ce6d1cfd0b5fa0ba5766cf7439d64209d6bba7457dba2541::trumpsui::TRUMPSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/tick_ed4f4ab63c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

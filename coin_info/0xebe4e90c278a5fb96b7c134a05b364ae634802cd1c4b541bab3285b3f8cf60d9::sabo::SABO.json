@@ -1,0 +1,13 @@
+{
+  "name": "Sabo Tabby",
+  "symbol": "SABO",
+  "decimals": 0,
+  "coin_type": "0xebe4e90c278a5fb96b7c134a05b364ae634802cd1c4b541bab3285b3f8cf60d9::sabo::SABO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7f66877b-6bcb-4fdf-ba98-3bfe5a5533eb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

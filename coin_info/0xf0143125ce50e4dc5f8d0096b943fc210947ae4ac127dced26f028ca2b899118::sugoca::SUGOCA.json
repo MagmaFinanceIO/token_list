@@ -1,0 +1,13 @@
+{
+  "name": "Super Goat Cat",
+  "symbol": "SUGOCA",
+  "decimals": 3,
+  "coin_type": "0xf0143125ce50e4dc5f8d0096b943fc210947ae4ac127dced26f028ca2b899118::sugoca::SUGOCA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/526c00e5-ff5b-4a8d-aae9-cf7a5ef6fbbb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

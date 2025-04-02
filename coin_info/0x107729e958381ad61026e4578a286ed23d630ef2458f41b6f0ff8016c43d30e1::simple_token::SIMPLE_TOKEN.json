@@ -1,0 +1,13 @@
+{
+  "name": "Vault Agent",
+  "symbol": "VAULT",
+  "decimals": 9,
+  "coin_type": "0x107729e958381ad61026e4578a286ed23d630ef2458f41b6f0ff8016c43d30e1::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

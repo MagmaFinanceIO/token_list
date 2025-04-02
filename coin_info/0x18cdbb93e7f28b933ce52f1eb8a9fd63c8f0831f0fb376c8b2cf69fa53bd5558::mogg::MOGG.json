@@ -1,0 +1,13 @@
+{
+  "name": "MOGG",
+  "symbol": "MOGG",
+  "decimals": 9,
+  "coin_type": "0x18cdbb93e7f28b933ce52f1eb8a9fd63c8f0831f0fb376c8b2cf69fa53bd5558::mogg::MOGG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/04ff6ca6-5ad8-4bdd-9ff4-b5580c373c39.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

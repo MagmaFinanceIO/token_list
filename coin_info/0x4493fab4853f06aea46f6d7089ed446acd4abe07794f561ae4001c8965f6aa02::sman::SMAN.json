@@ -1,0 +1,13 @@
+{
+  "name": "SNOWMAN",
+  "symbol": "SMAN",
+  "decimals": 9,
+  "coin_type": "0x4493fab4853f06aea46f6d7089ed446acd4abe07794f561ae4001c8965f6aa02::sman::SMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/d5R6QOO3A37TZ7dx?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

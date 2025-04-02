@@ -1,0 +1,13 @@
+{
+  "name": "Wanke",
+  "symbol": "WANKE",
+  "decimals": 9,
+  "coin_type": "0xd4f5697552f2b7495f8d5d725f3400cc3c6763d81a8f80923c426e4f8b7d8433::wanke::WANKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a1e7c8fd-5ead-4f97-a061-3bab1bfd479e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

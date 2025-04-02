@@ -1,0 +1,13 @@
+{
+  "name": "Sui Rangers",
+  "symbol": "SRANGERS",
+  "decimals": 6,
+  "coin_type": "0xf5a8cf454c316c01d2fbb6b31c45f9c289551ad46149666d9deb1435b11aa877::srangers::SRANGERS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Imagem_do_Whats_App_de_2024_10_05_A_s_22_10_18_9e82e82e_32c6c3bbb6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

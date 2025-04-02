@@ -1,0 +1,13 @@
+{
+  "name": "Venom",
+  "symbol": "VENOM",
+  "decimals": 9,
+  "coin_type": "0x8007292b63926dfb60a95c43785cec3a2bf9a59ed2c4abeb92833baba975d032::venom::VENOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.shutterstock.com/image-vector/venom-art-design-logo-sign-260nw-2337444245.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Piggy potter",
+  "symbol": "PIGER",
+  "decimals": 6,
+  "coin_type": "0xcec36fb7824249aba0ee5f99f4bbfc3375d3b4aad155e58b5a2282fd6b83a44f::piger::PIGER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000054236_f4b1b5f0cb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Santa Nut",
+  "symbol": "Snut",
+  "decimals": 9,
+  "coin_type": "0x475907271660ea16c95b763c85d5a06da6b7f85bca5e9ba9d51195e915499def::snut::SNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/J2rjKgvWqaQtvW92u6fa9TG6aDBHrHe6NpcxQzaLpump.png?size=lg&key=4a5e74",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

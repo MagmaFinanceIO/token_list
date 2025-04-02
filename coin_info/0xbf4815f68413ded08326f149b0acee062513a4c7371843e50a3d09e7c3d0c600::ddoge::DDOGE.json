@@ -1,0 +1,13 @@
+{
+  "name": "Dumble Doge",
+  "symbol": "DDoge",
+  "decimals": 9,
+  "coin_type": "0xbf4815f68413ded08326f149b0acee062513a4c7371843e50a3d09e7c3d0c600::ddoge::DDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/pxAE5kBGwwRQSa29Et4sjVxyGBcGR1Qh9yTRsTkpump.png?size=lg&key=81b232",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

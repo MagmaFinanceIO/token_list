@@ -1,0 +1,13 @@
+{
+  "name": "Link Layer Ai",
+  "symbol": "LinkAI",
+  "decimals": 6,
+  "coin_type": "0x884aaac7945c9f545a32c602a885f6f627dcba848620a670b40d0674de2e90d0::linkai::LINKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/36732139-e6aa-433f-a9aa-a1394c04017c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

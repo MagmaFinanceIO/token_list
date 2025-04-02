@@ -1,0 +1,13 @@
+{
+  "name": "$MooWrap",
+  "symbol": "MOOW",
+  "decimals": 6,
+  "coin_type": "0x3ee580397e0ef17afdc881258c94e044061001ec39be6bc2c568182a59eea955::moow::MOOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3552_ad666e3d71.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

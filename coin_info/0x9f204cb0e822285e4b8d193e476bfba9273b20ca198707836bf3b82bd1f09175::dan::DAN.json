@@ -1,0 +1,13 @@
+{
+  "name": "LIEUTENANT",
+  "symbol": "DAN",
+  "decimals": 6,
+  "coin_type": "0x9f204cb0e822285e4b8d193e476bfba9273b20ca198707836bf3b82bd1f09175::dan::DAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_363_bfedc3d190.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

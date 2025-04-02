@@ -1,0 +1,13 @@
+{
+  "name": "BeaverSUI",
+  "symbol": "BVR",
+  "decimals": 6,
+  "coin_type": "0x93f4f805b3ff4d9432e6902786c69d1eedd77a80ee13e6ae6631759350e257ed::bvr::BVR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmNRrzi7j2Lw4hBZfkFrg17jymuZqSMQa637Bz81xFE7Y3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

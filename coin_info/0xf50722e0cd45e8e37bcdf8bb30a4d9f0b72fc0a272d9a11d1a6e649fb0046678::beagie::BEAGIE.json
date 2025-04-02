@@ -1,0 +1,13 @@
+{
+  "name": "Beagie The Beagle",
+  "symbol": "Beagie",
+  "decimals": 6,
+  "coin_type": "0xf50722e0cd45e8e37bcdf8bb30a4d9f0b72fc0a272d9a11d1a6e649fb0046678::beagie::BEAGIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1734875605340.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Trump Flag",
+  "symbol": "TRFLG",
+  "decimals": 9,
+  "coin_type": "0x62fbaeb8d3716947d551ec88da178ee7a64b05bc348bcea64d204dfce61416e2::trflg::TRFLG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/833de512-6767-4ed8-8aff-ba488fa3e7c0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

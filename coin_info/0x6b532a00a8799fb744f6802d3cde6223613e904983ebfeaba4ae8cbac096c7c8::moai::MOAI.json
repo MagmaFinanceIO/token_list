@@ -1,0 +1,13 @@
+{
+  "name": "MOAI",
+  "symbol": "MOAI",
+  "decimals": 0,
+  "coin_type": "0x6b532a00a8799fb744f6802d3cde6223613e904983ebfeaba4ae8cbac096c7c8::moai::MOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://stashdrop.org/assets/tokens/moai.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

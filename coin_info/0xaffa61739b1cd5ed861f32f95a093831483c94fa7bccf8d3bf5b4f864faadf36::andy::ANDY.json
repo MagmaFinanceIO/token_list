@@ -1,0 +1,13 @@
+{
+  "name": "Father Andy",
+  "symbol": "ANDY",
+  "decimals": 9,
+  "coin_type": "0xaffa61739b1cd5ed861f32f95a093831483c94fa7bccf8d3bf5b4f864faadf36::andy::ANDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

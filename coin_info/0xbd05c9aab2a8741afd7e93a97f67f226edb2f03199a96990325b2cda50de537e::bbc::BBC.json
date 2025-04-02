@@ -1,0 +1,13 @@
+{
+  "name": "Big Black Cod",
+  "symbol": "BBC",
+  "decimals": 6,
+  "coin_type": "0xbd05c9aab2a8741afd7e93a97f67f226edb2f03199a96990325b2cda50de537e::bbc::BBC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730465910573.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

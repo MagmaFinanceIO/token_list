@@ -1,0 +1,13 @@
+{
+  "name": "Add On Ai",
+  "symbol": "ADDON",
+  "decimals": 9,
+  "coin_type": "0x526db489c47e40d40be7289c997d2e9fec8da2aa9121d59800238430382f3514::addon::ADDON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9e3611e0-54e1-487a-b7a4-7583f8cb78bc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

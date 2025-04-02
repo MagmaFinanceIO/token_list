@@ -1,0 +1,13 @@
+{
+  "name": "Tweety Meme Coin",
+  "symbol": "TMC",
+  "decimals": 9,
+  "coin_type": "0xd54de1d8f4071ccb11556d81f5f950a9a1066fb5550c18d087a67d52c9769c37::tmc::TMC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HrsHDgBnRNnpBUEq74UhbTKLwNTrzmdk5WRnucTapump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

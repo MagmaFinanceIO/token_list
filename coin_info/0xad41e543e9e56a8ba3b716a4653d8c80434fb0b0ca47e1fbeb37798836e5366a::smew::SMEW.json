@@ -1,0 +1,13 @@
+{
+  "name": "SUIMEW",
+  "symbol": "SMEW",
+  "decimals": 6,
+  "coin_type": "0xad41e543e9e56a8ba3b716a4653d8c80434fb0b0ca47e1fbeb37798836e5366a::smew::SMEW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SUIMEOW_f1931acd6b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

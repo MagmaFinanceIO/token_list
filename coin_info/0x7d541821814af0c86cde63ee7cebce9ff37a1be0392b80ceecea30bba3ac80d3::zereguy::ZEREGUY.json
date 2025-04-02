@@ -1,0 +1,13 @@
+{
+  "name": "Zereguy AI",
+  "symbol": "Zereguy",
+  "decimals": 9,
+  "coin_type": "0x7d541821814af0c86cde63ee7cebce9ff37a1be0392b80ceecea30bba3ac80d3::zereguy::ZEREGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4kGRBbEx2DU5m4VvsXzaQBY1nakUwqtktr5LpxJ5rHqJ.png?size=lg&key=beccd0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

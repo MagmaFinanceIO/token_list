@@ -1,0 +1,13 @@
+{
+  "name": "SUINCREDIBLE",
+  "symbol": "SUINC",
+  "decimals": 6,
+  "coin_type": "0xb0ad2eb2fffc3d39ed52c6d107a842c48fcf322c2e15a949c8b83fb9036a9cde::suinc::SUINC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0d60419a-a9f9-401e-b897-ef05494438ae.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

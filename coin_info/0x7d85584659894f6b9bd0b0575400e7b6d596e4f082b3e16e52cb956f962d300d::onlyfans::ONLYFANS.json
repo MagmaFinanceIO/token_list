@@ -1,0 +1,13 @@
+{
+  "name": "OnlyFans",
+  "symbol": "OnlyFans",
+  "decimals": 9,
+  "coin_type": "0x7d85584659894f6b9bd0b0575400e7b6d596e4f082b3e16e52cb956f962d300d::onlyfans::ONLYFANS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2e66JiGrwDyvDAA6zTpSe7kVEyFeGHSh9HyasVBcpump.png?size=lg&key=8aee98",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

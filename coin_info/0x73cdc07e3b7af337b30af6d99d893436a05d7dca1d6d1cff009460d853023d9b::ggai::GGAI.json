@@ -1,0 +1,13 @@
+{
+  "name": "Giga Chad SUAI",
+  "symbol": "GGAI",
+  "decimals": 6,
+  "coin_type": "0x73cdc07e3b7af337b30af6d99d893436a05d7dca1d6d1cff009460d853023d9b::ggai::GGAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/giga_5dadeaf149.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

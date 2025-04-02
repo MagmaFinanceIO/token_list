@@ -1,0 +1,13 @@
+{
+  "name": "Paddington's Best Friend",
+  "symbol": "PADY",
+  "decimals": 9,
+  "coin_type": "0x1d5b4321afa6a531885472d3c6252b2ddcfc7c6a44be87d96fefadd455544e3d::pady::PADY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3DVqYYiStNNfsbPJLGJa6WJe5ew4ERCF56iLwDXdCVRB.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

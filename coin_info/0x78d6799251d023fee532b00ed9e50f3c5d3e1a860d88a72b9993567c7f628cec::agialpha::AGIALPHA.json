@@ -1,0 +1,13 @@
+{
+  "name": "AGI ALPHA AGENT",
+  "symbol": "AGIALPHA",
+  "decimals": 9,
+  "coin_type": "0x78d6799251d023fee532b00ed9e50f3c5d3e1a860d88a72b9993567c7f628cec::agialpha::AGIALPHA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/tWKHzXd5PRmxTF5cMfJkm2Ua3TcjwNNoSRUqx6Apump.png?size=lg&key=b288ef",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

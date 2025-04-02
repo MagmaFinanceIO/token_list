@@ -1,0 +1,13 @@
+{
+  "name": "Sui Nemo",
+  "symbol": "NEMO",
+  "decimals": 6,
+  "coin_type": "0x07b0658897b359337951e88e65f6ce9ff596b3f10453e67758d6d5e09d4b694d::nemo::NEMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6d1ce91a-8b66-43d0-ba51-6548b5e3f454.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

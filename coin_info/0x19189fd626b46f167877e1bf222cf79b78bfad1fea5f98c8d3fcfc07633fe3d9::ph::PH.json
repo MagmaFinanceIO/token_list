@@ -1,0 +1,13 @@
+{
+  "name": "PondHub by Virtuals",
+  "symbol": "PH",
+  "decimals": 9,
+  "coin_type": "0x19189fd626b46f167877e1bf222cf79b78bfad1fea5f98c8d3fcfc07633fe3d9::ph::PH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafybeigohkfkrm7wjiuw3kgdua3c2b4p46rrgibtz2notdrnhfran6refm.ipfs.w3s.link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

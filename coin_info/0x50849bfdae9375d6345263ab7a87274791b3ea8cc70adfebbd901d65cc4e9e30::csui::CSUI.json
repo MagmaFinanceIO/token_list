@@ -1,0 +1,13 @@
+{
+  "name": "CSI888",
+  "symbol": "CSUI",
+  "decimals": 9,
+  "coin_type": "0x50849bfdae9375d6345263ab7a87274791b3ea8cc70adfebbd901d65cc4e9e30::csui::CSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8c2b9f51-f2e4-4c38-a269-de4d207e8d0f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TRAIN ON SUI",
+  "symbol": "TRAIN",
+  "decimals": 6,
+  "coin_type": "0xcbc0c896690d350c785f46047bb80280296c1cf10e53cb8513e3449173aac7e7::train::TRAIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ergegerg_9b07d2e61d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

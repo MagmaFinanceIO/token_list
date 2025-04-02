@@ -1,0 +1,13 @@
+{
+  "name": "Suig The Slug",
+  "symbol": "SUIG",
+  "decimals": 6,
+  "coin_type": "0xb5a548cd63374bf6c268acba5c497308238bab3ddb2d6a32aa2ac91fde9eb2e8::suig::SUIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/30655825_f28a_463a_beb1_5a7adb19bce0_582a972253.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NIKE",
+  "symbol": "NIKE",
+  "decimals": 9,
+  "coin_type": "0xc4f50dd8364462edab9b11d737ec3b9e97c0daf2d896d2db81d24faa273ebd22::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

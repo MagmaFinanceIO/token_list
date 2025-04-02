@@ -1,0 +1,13 @@
+{
+  "name": "REDACTOOR",
+  "symbol": "RED",
+  "decimals": 6,
+  "coin_type": "0x9a00d43703b50a88728cb3cfc43f50425d925d53c2aef92f5a581bfe30103d36::red::RED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSzRJngYETPu6CcWCDgMTNJ8ryUiLzgoh6hSei7rjHDWK",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

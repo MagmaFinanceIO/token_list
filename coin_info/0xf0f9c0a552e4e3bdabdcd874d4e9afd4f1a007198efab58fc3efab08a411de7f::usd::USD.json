@@ -1,0 +1,13 @@
+{
+  "name": "USD",
+  "symbol": "USD",
+  "decimals": 2,
+  "coin_type": "0xf0f9c0a552e4e3bdabdcd874d4e9afd4f1a007198efab58fc3efab08a411de7f::usd::USD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/eee87bab-5bf1-4bf6-91c2-f71ea0a7a3a8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

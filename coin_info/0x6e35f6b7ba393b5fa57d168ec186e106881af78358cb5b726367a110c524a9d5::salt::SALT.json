@@ -1,0 +1,13 @@
+{
+  "name": "Cappuccino",
+  "symbol": "SALT",
+  "decimals": 9,
+  "coin_type": "0x6e35f6b7ba393b5fa57d168ec186e106881af78358cb5b726367a110c524a9d5::salt::SALT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f41636a8-ae79-403e-a000-cf3f35e7ad67.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

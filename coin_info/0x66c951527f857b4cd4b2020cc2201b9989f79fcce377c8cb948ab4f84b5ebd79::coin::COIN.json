@@ -1,0 +1,13 @@
+{
+  "name": "SUIFIRE",
+  "symbol": "SUIFIRE",
+  "decimals": 8,
+  "coin_type": "0x66c951527f857b4cd4b2020cc2201b9989f79fcce377c8cb948ab4f84b5ebd79::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DEEPSEEK",
+  "symbol": "DEEPSEEK",
+  "decimals": 9,
+  "coin_type": "0xe87998dfcfb33a7957850cf16475ab0a2d2bc0578b3875ecc68cf094481b4e70::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

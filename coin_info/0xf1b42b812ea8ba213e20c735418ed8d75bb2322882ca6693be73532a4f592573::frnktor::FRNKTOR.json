@@ -1,0 +1,13 @@
+{
+  "name": "The Frankinator",
+  "symbol": "Frnktor",
+  "decimals": 9,
+  "coin_type": "0xf1b42b812ea8ba213e20c735418ed8d75bb2322882ca6693be73532a4f592573::frnktor::FRNKTOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8453816e-3c80-4a27-97cf-31064f7cb83d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

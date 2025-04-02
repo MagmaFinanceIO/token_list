@@ -1,0 +1,13 @@
+{
+  "name": "Fartrump",
+  "symbol": "Fartrump",
+  "decimals": 9,
+  "coin_type": "0x44a062ecda163bac2f0c46a6ba5513c99881f86af0bab206ea3b63f5d772e689::fartrump::FARTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GDgtSpxj2NsU5skMByQ7CJdggnKNBeMxfFKFiUMUrr2B.png?size=lg&key=be3836",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

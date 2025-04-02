@@ -1,0 +1,13 @@
+{
+  "name": "DeepSui",
+  "symbol": "DEEPSUI",
+  "decimals": 9,
+  "coin_type": "0xdc2dd59c270b284ee03c0b1ec6bde6364388d7a7c2cf4ffc540c1d58f9cb8522::deepsui::DEEPSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7EgBdsmkJYYSJVntxUiVtZWNRMe4pCnKRe6Rz1q8pump.png?size=lg&key=aa237e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PUG PEPE AI",
+  "symbol": "PUPEPE",
+  "decimals": 9,
+  "coin_type": "0xc4d5fa053dbb28bc0ae64e7693c32b8b71deefcfbaf91cc2c318e7845185de08::pupepe::PUPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/372b784c-a289-4d7e-bfdf-75dfbd1888ef.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

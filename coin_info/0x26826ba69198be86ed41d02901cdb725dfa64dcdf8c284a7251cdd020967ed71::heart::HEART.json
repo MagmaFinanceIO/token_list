@@ -1,0 +1,13 @@
+{
+  "name": "RED HEART",
+  "symbol": "HEART",
+  "decimals": 6,
+  "coin_type": "0x26826ba69198be86ed41d02901cdb725dfa64dcdf8c284a7251cdd020967ed71::heart::HEART",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/heart.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

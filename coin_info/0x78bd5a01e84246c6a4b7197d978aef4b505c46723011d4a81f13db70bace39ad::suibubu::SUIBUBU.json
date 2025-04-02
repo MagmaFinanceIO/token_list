@@ -1,0 +1,13 @@
+{
+  "name": "Sui Bubu",
+  "symbol": "SUIBUBU",
+  "decimals": 9,
+  "coin_type": "0x78bd5a01e84246c6a4b7197d978aef4b505c46723011d4a81f13db70bace39ad::suibubu::SUIBUBU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://aquamarine-giant-muskox-172.mypinata.cloud/ipfs/Qmav9XdJaP67UtvCFnYmzWQdL84AdFUpWf3CwifHpnMRsb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

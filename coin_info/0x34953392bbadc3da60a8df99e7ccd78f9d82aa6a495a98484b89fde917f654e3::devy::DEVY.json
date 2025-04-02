@@ -1,0 +1,13 @@
+{
+  "name": "Devy On Sui",
+  "symbol": "DEVY",
+  "decimals": 9,
+  "coin_type": "0x34953392bbadc3da60a8df99e7ccd78f9d82aa6a495a98484b89fde917f654e3::devy::DEVY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/99a91b0c-b143-4621-978f-95b5df129ccf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

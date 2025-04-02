@@ -1,0 +1,13 @@
+{
+  "name": "Huppo",
+  "symbol": "HUP",
+  "decimals": 9,
+  "coin_type": "0x3c8390852af8d5abd93faae824924de8f091d344e4bf0947e2b2c9415320ee6e::hup::HUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1595aff6-26c5-476e-8a16-2c3f48d225df.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

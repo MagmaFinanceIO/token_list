@@ -1,0 +1,13 @@
+{
+  "name": "FWOG",
+  "symbol": "FWOG",
+  "decimals": 9,
+  "coin_type": "0xb8676291efa4d14072d9b7c6c31934f5daaf21632be793101e6759adacc03943::fwog::FWOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmQ4H6Y23dSEjn9LKB85M7KpVFiDu6KfDNZAcrqiCwFQQH?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

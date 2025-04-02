@@ -1,0 +1,13 @@
+{
+  "name": "My Girlfriend's Boyfriend",
+  "symbol": "GFBF",
+  "decimals": 6,
+  "coin_type": "0x51f8c180d805433bdb165af77e6ce6fbbadb6f06b3a1ec17859ca6395bf1ce2c::gfbf::GFBF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmWGnNh9RorEvoJZTPJN56qwzYo1ywAoKaVgjbfoAFR5jf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

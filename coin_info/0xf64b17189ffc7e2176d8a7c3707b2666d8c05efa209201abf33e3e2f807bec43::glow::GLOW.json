@@ -1,0 +1,13 @@
+{
+  "name": "Glow",
+  "symbol": "GLOW",
+  "decimals": 9,
+  "coin_type": "0xf64b17189ffc7e2176d8a7c3707b2666d8c05efa209201abf33e3e2f807bec43::glow::GLOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1a00d508-995d-4a54-a2ad-d8a412d2a9af.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

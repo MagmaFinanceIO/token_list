@@ -1,0 +1,13 @@
+{
+  "name": "chui",
+  "symbol": "CHU",
+  "decimals": 9,
+  "coin_type": "0xbf62b719ca97b9c4d2c1ed51a070a50ef0efe607ba71da67717563ae22bf6a78::chu::CHU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e5a2d809-4af2-4197-923c-56ae14b85d5c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

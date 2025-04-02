@@ -1,0 +1,13 @@
+{
+  "name": "Baby Blub",
+  "symbol": "BabyBlub",
+  "decimals": 9,
+  "coin_type": "0xabf48c406c57af74664e3e0627d9f3767e8cd4bd447d3fd65d1f365ca5154eef::babyblub::BABYBLUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e40ce11a-3a1e-4e12-9913-86a67c4bcc48.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

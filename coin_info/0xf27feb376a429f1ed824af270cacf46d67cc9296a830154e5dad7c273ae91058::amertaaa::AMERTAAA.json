@@ -1,0 +1,13 @@
+{
+  "name": "AMERTA",
+  "symbol": "AMERTA",
+  "decimals": 9,
+  "coin_type": "0xf27feb376a429f1ed824af270cacf46d67cc9296a830154e5dad7c273ae91058::amertaaa::AMERTAAA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/E7nhkEGoHsLmH6jyqGC3PkmFsYUMhhnfQAsKUfCRpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Momo on Sui",
+  "symbol": "MOMO",
+  "decimals": 9,
+  "coin_type": "0xb7d5e9c735643a731281d762864b92f44a551fcf0710c8c262d4918fde5e659c::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

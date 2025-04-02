@@ -1,0 +1,13 @@
+{
+  "name": "Pepercetti",
+  "symbol": "Pct",
+  "decimals": 9,
+  "coin_type": "0x0e1dc07ac49bf49e368c162bd339793114bde2bf1d00324cf87ea541d0c0a3b6::pct::PCT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/nmYddoZf1KZgpKphcrXKMFNNscWGS2ULuV3rmUHpump.png?size=lg&key=d15d0e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

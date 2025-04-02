@@ -1,0 +1,13 @@
+{
+  "name": "Gematro",
+  "symbol": "Gematro",
+  "decimals": 9,
+  "coin_type": "0x6e23f173532de5de546c83e6b523151305c7f9398ef8f6eb9fea4635ce3f8824::gematro::GEMATRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8CJqru4XL2y9eZ1nN6MTeEiN31E9649bmb1DMemupump.png?size=lg&key=431f5b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

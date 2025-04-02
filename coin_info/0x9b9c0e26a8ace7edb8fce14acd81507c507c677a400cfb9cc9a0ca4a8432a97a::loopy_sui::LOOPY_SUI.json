@@ -1,0 +1,13 @@
+{
+  "name": "LOOPY",
+  "symbol": "LOOPY",
+  "decimals": 6,
+  "coin_type": "0x9b9c0e26a8ace7edb8fce14acd81507c507c677a400cfb9cc9a0ca4a8432a97a::loopy_sui::LOOPY_SUI",
+  "pyth_id": "",
+  "birdeyeid": "0x9b9c0e26a8ace7edb8fce14acd81507c507c677a400cfb9cc9a0ca4a8432a97a::loopy_sui::LOOPY_SUI",
+  "coin_priority": [],
+  "logo_url": "https://lk47si3fdmkhszxbmzuksrg5gcbum5rbnudnjd7cnzxor7g2cd7a.arweave.net/Wrn5I2UbFHlm4WZoqUTdMINGdiFtBtSP4m5u6PzaEP4",
+  "project_url": "",
+  "coingecko_id": "loopy-sui",
+  "is_trusted": true
+}

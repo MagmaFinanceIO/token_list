@@ -1,0 +1,13 @@
+{
+  "name": "SUI Neiro",
+  "symbol": "SNEIRO",
+  "decimals": 6,
+  "coin_type": "0x35edbb57678a769c2d737c2f9fdf6759e9261b5bc73dec76d1d91b5df405b6c6::sneiro::SNEIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000008408_cc43254e00.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

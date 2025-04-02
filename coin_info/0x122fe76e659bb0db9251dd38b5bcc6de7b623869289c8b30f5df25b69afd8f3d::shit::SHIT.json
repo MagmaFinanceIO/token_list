@@ -1,0 +1,13 @@
+{
+  "name": "SHIT",
+  "symbol": "SHIT",
+  "decimals": 3,
+  "coin_type": "0x122fe76e659bb0db9251dd38b5bcc6de7b623869289c8b30f5df25b69afd8f3d::shit::SHIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1ce7102b-6843-446c-9354-c4f1d04baef6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Chummy Chum Chums",
+  "symbol": "Chummy",
+  "decimals": 6,
+  "coin_type": "0xb65863a8d820eeb0b624c1c71402156f4721c0f0890fc8d79d545f4d01c8ce87::chummy::CHUMMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2F5a7fecce_23d5_4dd9_b174_40c234520d5a_b2a4ade691.jfif&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

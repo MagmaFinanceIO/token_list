@@ -1,0 +1,13 @@
+{
+  "name": "BETTA Fish",
+  "symbol": "BETTA",
+  "decimals": 2,
+  "coin_type": "0x5ac82f7b77a4039b41139f03b4b9d2f7625958825be62fef374bd0727afc3386::betta::BETTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/38f04e76-48b1-4d9d-b5ff-889a049bdf1a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

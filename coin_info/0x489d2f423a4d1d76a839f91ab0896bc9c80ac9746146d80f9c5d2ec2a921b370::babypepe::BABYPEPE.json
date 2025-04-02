@@ -1,0 +1,13 @@
+{
+  "name": "babypepe",
+  "symbol": "BABYPEPE",
+  "decimals": 6,
+  "coin_type": "0x489d2f423a4d1d76a839f91ab0896bc9c80ac9746146d80f9c5d2ec2a921b370::babypepe::BABYPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736333619932.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

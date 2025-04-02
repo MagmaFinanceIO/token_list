@@ -1,0 +1,13 @@
+{
+  "name": "Meme Coin Millionaire",
+  "symbol": "RICH",
+  "decimals": 9,
+  "coin_type": "0x86f340bd27671039237ad97d116ab241b4847eb74df2530a98fd5e33ae918601::rich::RICH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2f72698a-93f2-427a-9b14-6087169ad887.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

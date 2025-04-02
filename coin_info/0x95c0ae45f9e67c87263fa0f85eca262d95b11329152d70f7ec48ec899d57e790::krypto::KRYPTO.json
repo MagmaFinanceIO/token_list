@@ -1,0 +1,13 @@
+{
+  "name": "Superdog",
+  "symbol": "KRYPTO",
+  "decimals": 6,
+  "coin_type": "0x95c0ae45f9e67c87263fa0f85eca262d95b11329152d70f7ec48ec899d57e790::krypto::KRYPTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/logo_main_36f6bc1997.PNG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

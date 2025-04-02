@@ -1,0 +1,13 @@
+{
+  "name": "Suigga",
+  "symbol": "SUIGGA",
+  "decimals": 6,
+  "coin_type": "0xdcb3820f6e5f29aa627f6d6150774aa01f271af5df646ce6298edbad8a30f1d7::suigga::SUIGGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suigga_25c50fa79b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

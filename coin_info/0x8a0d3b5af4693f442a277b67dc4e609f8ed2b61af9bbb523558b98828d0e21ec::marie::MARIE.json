@@ -1,0 +1,13 @@
+{
+  "name": "Marie Rose",
+  "symbol": "Marie",
+  "decimals": 9,
+  "coin_type": "0x8a0d3b5af4693f442a277b67dc4e609f8ed2b61af9bbb523558b98828d0e21ec::marie::MARIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/boehvkEV3hphquLi7Jq9QLQLzzSrZi8CsqvCxQWpump.png?size=lg&key=e5e161",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

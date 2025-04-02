@@ -1,0 +1,13 @@
+{
+  "name": "Suiruto",
+  "symbol": "SHIN",
+  "decimals": 9,
+  "coin_type": "0xfcfee2d02c65653d5f2b53f3c4edb8d7ef2c02a32bc6c4efbdf57615993ed96f::shin::SHIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c52f6549-932f-42de-b8f6-a1986a1c20b0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

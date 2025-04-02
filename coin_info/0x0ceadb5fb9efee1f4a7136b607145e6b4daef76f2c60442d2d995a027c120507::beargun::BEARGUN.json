@@ -1,0 +1,13 @@
+{
+  "name": "BearGun",
+  "symbol": "BEARGUN",
+  "decimals": 9,
+  "coin_type": "0x0ceadb5fb9efee1f4a7136b607145e6b4daef76f2c60442d2d995a027c120507::beargun::BEARGUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmYnUh1pJEbob2LaN9QUdzehBmb4WatGtroWAUrhCtWmJG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

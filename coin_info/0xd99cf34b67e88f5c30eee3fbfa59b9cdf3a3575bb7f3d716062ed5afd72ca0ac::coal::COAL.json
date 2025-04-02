@@ -1,0 +1,13 @@
+{
+  "name": "Robo Santa",
+  "symbol": "COAL",
+  "decimals": 9,
+  "coin_type": "0xd99cf34b67e88f5c30eee3fbfa59b9cdf3a3575bb7f3d716062ed5afd72ca0ac::coal::COAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FuqHzJsxCjqVjPNfy2PUp52515RhkofkaCkQm71qpump.png?size=lg&key=0b1210",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

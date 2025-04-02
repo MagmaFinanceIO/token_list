@@ -1,0 +1,13 @@
+{
+  "name": "NGM",
+  "symbol": "NGM",
+  "decimals": 9,
+  "coin_type": "0xb5863fb91e966250f838905d966df3876ea0574979e2ba93160cdb0bde3d2d13::ngm::NGM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Cappy OP",
+  "symbol": "CAPPY",
+  "decimals": 9,
+  "coin_type": "0x0f8bd6b774dc8d3239f77aba9aed858ef624a27ca3a4c24fcdedb46bcc0051c5::cappy::CAPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/604d37e2-64d3-488e-bb14-dd50de9d7ece.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MSTR2100",
+  "symbol": "MSTR",
+  "decimals": 6,
+  "coin_type": "0x12de197502e266b2c76cee5850c7fc31801dd61fc7e8d6498ac01ac59b59e2fb::mstr::MSTR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000035602_018395c16a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

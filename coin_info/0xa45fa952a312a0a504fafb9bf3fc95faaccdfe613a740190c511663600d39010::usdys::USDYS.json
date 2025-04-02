@@ -1,0 +1,13 @@
+{
+  "name": "Staging Ondo US Dollar Yield",
+  "symbol": "USDYs",
+  "decimals": 6,
+  "coin_type": "0xa45fa952a312a0a504fafb9bf3fc95faaccdfe613a740190c511663600d39010::usdys::USDYS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ondo.finance/images/tokens/usdy.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

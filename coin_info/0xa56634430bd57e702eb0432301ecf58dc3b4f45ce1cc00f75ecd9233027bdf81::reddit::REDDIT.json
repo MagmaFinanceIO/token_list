@@ -1,0 +1,13 @@
+{
+  "name": "reddit",
+  "symbol": "REDDIT",
+  "decimals": 9,
+  "coin_type": "0xa56634430bd57e702eb0432301ecf58dc3b4f45ce1cc00f75ecd9233027bdf81::reddit::REDDIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/V2QrWDP3U2fgzT8TjS5pBFVEKSqmTdkQEcwQwf5pump.png?size=lg&key=cfb16f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

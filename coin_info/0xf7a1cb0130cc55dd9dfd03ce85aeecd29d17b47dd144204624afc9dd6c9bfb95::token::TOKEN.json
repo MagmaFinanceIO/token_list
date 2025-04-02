@@ -1,0 +1,13 @@
+{
+  "name": "BIT",
+  "symbol": "BIT",
+  "decimals": 9,
+  "coin_type": "0xf7a1cb0130cc55dd9dfd03ce85aeecd29d17b47dd144204624afc9dd6c9bfb95::token::TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://png.pngtree.com/png-clipart/20201123/ourmid/pngtree-vector-coins-icon-dollar-gold-coin-png-image_2462733.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

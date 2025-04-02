@@ -1,0 +1,13 @@
+{
+  "name": "King Of Sky",
+  "symbol": "WIND",
+  "decimals": 9,
+  "coin_type": "0xe481b544ab688a92bf531fb15277af00ccb5a116657392a1ee9a244f69970c58::wind::WIND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e1d5ce11-7a9c-446d-b6e4-b72ea8d44f0d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

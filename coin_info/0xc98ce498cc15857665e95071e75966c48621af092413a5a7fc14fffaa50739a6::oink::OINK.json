@@ -1,0 +1,13 @@
+{
+  "name": "SuiOink",
+  "symbol": "OINK",
+  "decimals": 6,
+  "coin_type": "0xc98ce498cc15857665e95071e75966c48621af092413a5a7fc14fffaa50739a6::oink::OINK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSVLVKJgudnXQTyowHTJ8MTYV9SvtZrbVKk7QzcCFzRqh",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

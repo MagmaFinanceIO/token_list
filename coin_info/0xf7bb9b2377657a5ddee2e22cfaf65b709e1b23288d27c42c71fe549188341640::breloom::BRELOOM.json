@@ -1,0 +1,13 @@
+{
+  "name": "Luigis Mascot",
+  "symbol": "BRELOOM",
+  "decimals": 9,
+  "coin_type": "0xf7bb9b2377657a5ddee2e22cfaf65b709e1b23288d27c42c71fe549188341640::breloom::BRELOOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BdV8EoYYZVpgGhxZ1pJkyQFiPRf7apscnQaN4Ukwpump.png?size=lg&key=538a1a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Truth Terminal Final Coin",
+  "symbol": "HolyShit",
+  "decimals": 9,
+  "coin_type": "0xccf8145316889815b20030993dad3423de954e7148e8c406569fbad90a09d9fa::holyshit::HOLYSHIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmTVy5x5BgNphbqFxs1FVL1qdTT1sWMARsRAe3uAAvyqdA",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

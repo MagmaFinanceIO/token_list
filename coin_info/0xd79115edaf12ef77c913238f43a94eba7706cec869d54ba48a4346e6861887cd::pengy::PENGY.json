@@ -1,0 +1,13 @@
+{
+  "name": "Sui Penguin",
+  "symbol": "Pengy",
+  "decimals": 6,
+  "coin_type": "0xd79115edaf12ef77c913238f43a94eba7706cec869d54ba48a4346e6861887cd::pengy::PENGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7002_3bc55fad8d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

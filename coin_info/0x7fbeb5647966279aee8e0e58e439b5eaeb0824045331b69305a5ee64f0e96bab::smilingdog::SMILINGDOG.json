@@ -1,0 +1,13 @@
+{
+  "name": "SDOG",
+  "symbol": "Smilingdog",
+  "decimals": 6,
+  "coin_type": "0x7fbeb5647966279aee8e0e58e439b5eaeb0824045331b69305a5ee64f0e96bab::smilingdog::SMILINGDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6490_a75928f3d7.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

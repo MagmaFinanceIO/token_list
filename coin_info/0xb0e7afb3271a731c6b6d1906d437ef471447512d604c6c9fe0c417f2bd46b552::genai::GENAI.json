@@ -1,0 +1,13 @@
+{
+  "name": "TheGeneralAi",
+  "symbol": "GENAI",
+  "decimals": 9,
+  "coin_type": "0xb0e7afb3271a731c6b6d1906d437ef471447512d604c6c9fe0c417f2bd46b552::genai::GENAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dexscreener.com/solana/5geyj1cmuwnqounturpaubtzkqnsubef2nqrzcfjpump",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

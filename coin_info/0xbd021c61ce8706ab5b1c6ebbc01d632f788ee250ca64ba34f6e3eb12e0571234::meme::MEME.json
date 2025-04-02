@@ -1,0 +1,13 @@
+{
+  "name": "$SUINEMO",
+  "symbol": "NEMO",
+  "decimals": 6,
+  "coin_type": "0xbd021c61ce8706ab5b1c6ebbc01d632f788ee250ca64ba34f6e3eb12e0571234::meme::MEME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/media/GcK6t4PasAE-umj?format=jpg&name=medium",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

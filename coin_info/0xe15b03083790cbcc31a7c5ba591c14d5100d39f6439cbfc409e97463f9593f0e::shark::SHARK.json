@@ -1,0 +1,13 @@
+{
+  "name": "SUI SHARK",
+  "symbol": "SHARK",
+  "decimals": 6,
+  "coin_type": "0xe15b03083790cbcc31a7c5ba591c14d5100d39f6439cbfc409e97463f9593f0e::shark::SHARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/5pjn_N6ra_400x400_455129fc22.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

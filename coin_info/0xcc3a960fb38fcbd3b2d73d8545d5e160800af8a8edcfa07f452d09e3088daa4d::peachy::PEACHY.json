@@ -1,0 +1,13 @@
+{
+  "name": "Peachy's Club",
+  "symbol": "PEACHY",
+  "decimals": 9,
+  "coin_type": "0xcc3a960fb38fcbd3b2d73d8545d5e160800af8a8edcfa07f452d09e3088daa4d::peachy::PEACHY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/HCUBYFfqashXe0FJ?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

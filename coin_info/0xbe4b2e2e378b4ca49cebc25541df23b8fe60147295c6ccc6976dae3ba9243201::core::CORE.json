@@ -1,0 +1,13 @@
+{
+  "name": "Core DAO",
+  "symbol": "CORE",
+  "decimals": 9,
+  "coin_type": "0xbe4b2e2e378b4ca49cebc25541df23b8fe60147295c6ccc6976dae3ba9243201::core::CORE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/be15219b-7085-4d5f-869c-414713b49d25.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

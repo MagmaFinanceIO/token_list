@@ -1,0 +1,13 @@
+{
+  "name": "neggo",
+  "symbol": "neggo",
+  "decimals": 9,
+  "coin_type": "0x4d734daa81837fa056017b7f619207e685247b01c19c74d8aabd77ce62f08472::neggo::NEGGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c450576e-480c-4fcf-8087-fcd7941b5e51.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

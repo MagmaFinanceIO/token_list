@@ -1,0 +1,13 @@
+{
+  "name": "Pickle Pepe",
+  "symbol": "PIKL",
+  "decimals": 9,
+  "coin_type": "0x150562edf83adcc66912802345ce461d02d418b53a293f61c1e763f31c4be88d::pikl::PIKL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a79ad3a4-3c87-4680-96bb-f749996bf5d8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

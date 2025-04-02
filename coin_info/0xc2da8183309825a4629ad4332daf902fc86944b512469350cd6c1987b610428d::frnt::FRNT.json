@@ -1,0 +1,13 @@
+{
+  "name": "Fart Nut",
+  "symbol": "FRNT",
+  "decimals": 9,
+  "coin_type": "0xc2da8183309825a4629ad4332daf902fc86944b512469350cd6c1987b610428d::frnt::FRNT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9WRh4ztv4TsZYYjKAFqG4SDFBRVYanyH7tbSRvbzC17T.png?size=lg&key=2f08e7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

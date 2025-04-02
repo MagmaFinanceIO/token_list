@@ -1,0 +1,13 @@
+{
+  "name": "A69z",
+  "symbol": "a69z",
+  "decimals": 9,
+  "coin_type": "0x1a520b55499b8e35918365b837c51a33aae7a041e3ef058592e0ec605992cc73::a69z::A69Z",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2cprXfeWnQC21UEKDucGEwzehjTjr6QuUkvzRDXcpump.png?size=lg&key=eec5cf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

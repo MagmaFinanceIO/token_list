@@ -1,0 +1,13 @@
+{
+  "name": "PIKO",
+  "symbol": "PIKO",
+  "decimals": 9,
+  "coin_type": "0x444584cd99d91714cd0a9844080c14733e4087847704edc3a4228636b29f9956::piko::PIKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmStziGqJVVDMDANu1pg1rQ9ECQ1ocuVBXhJevxbt9qqep",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

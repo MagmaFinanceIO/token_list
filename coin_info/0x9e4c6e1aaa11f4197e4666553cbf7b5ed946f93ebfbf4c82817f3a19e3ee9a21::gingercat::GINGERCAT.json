@@ -1,0 +1,13 @@
+{
+  "name": "Ginger Cat",
+  "symbol": "GingerCat",
+  "decimals": 9,
+  "coin_type": "0x9e4c6e1aaa11f4197e4666553cbf7b5ed946f93ebfbf4c82817f3a19e3ee9a21::gingercat::GINGERCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CNr5Hxz8iohoYQ5BwgYMUxbHWTX2rqarTfMKtewypump.png?size=lg&key=7a0f64",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

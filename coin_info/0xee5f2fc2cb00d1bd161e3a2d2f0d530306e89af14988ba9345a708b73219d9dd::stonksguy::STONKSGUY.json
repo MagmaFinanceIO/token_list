@@ -1,0 +1,13 @@
+{
+  "name": "Just a Stonks Guy",
+  "symbol": "STONKSGUY",
+  "decimals": 9,
+  "coin_type": "0xee5f2fc2cb00d1bd161e3a2d2f0d530306e89af14988ba9345a708b73219d9dd::stonksguy::STONKSGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmfPiC5WRgfs2pZ3ZEkA6bEt9cDV4TmADLGRrrxm7A16JT",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

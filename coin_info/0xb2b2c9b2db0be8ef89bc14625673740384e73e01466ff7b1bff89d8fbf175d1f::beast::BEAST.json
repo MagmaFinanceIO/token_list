@@ -1,0 +1,13 @@
+{
+  "name": "Beast",
+  "symbol": "Beast",
+  "decimals": 9,
+  "coin_type": "0xb2b2c9b2db0be8ef89bc14625673740384e73e01466ff7b1bff89d8fbf175d1f::beast::BEAST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

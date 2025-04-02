@@ -1,0 +1,13 @@
+{
+  "name": "Kira powered by Infera",
+  "symbol": "KIRA",
+  "decimals": 9,
+  "coin_type": "0x61d9d21d1a006697ac7f4c12b378bc2aae440f9ede020c2053fe6bf702c8524f::kira::KIRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DYYSTWMD19vjMkG7S5T7gQYrsw2g7LJmYXVk1ADkKnMF.png?size=lg&key=be5417",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

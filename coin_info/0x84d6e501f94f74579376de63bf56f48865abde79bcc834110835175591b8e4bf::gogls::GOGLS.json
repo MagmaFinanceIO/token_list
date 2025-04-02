@@ -1,0 +1,13 @@
+{
+  "name": "Goggles",
+  "symbol": "GOGLS",
+  "decimals": 9,
+  "coin_type": "0x84d6e501f94f74579376de63bf56f48865abde79bcc834110835175591b8e4bf::gogls::GOGLS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/27d1d7e9-46c0-4325-b2c0-bad90cd39d1a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

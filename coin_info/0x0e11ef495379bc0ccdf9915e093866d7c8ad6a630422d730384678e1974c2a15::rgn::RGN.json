@@ -1,0 +1,13 @@
+{
+  "name": "Rogne",
+  "symbol": "RGN",
+  "decimals": 9,
+  "coin_type": "0x0e11ef495379bc0ccdf9915e093866d7c8ad6a630422d730384678e1974c2a15::rgn::RGN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8fc29853-8b90-489e-99dd-a45860262ea9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

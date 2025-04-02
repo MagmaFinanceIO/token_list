@@ -1,0 +1,13 @@
+{
+  "name": "Suigra",
+  "symbol": "HARD",
+  "decimals": 6,
+  "coin_type": "0xbcde316e5d3c0bc1b9be9da8d2fcb10e477b607c6647840ad23dc31d8351f673::hard::HARD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2024_10_11_23_34_30_d1932cdbec.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DOGAI",
+  "symbol": "DOGAI",
+  "decimals": 9,
+  "coin_type": "0x6657877ce548b6132169b5c5481dda34515118fbc3685db0ca105ba425b40a46::dogai::DOGAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8c194958-205f-4635-bd16-a1ba96816fee.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

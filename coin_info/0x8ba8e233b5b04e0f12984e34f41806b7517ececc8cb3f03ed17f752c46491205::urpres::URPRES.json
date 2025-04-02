@@ -1,0 +1,13 @@
+{
+  "name": "Your President",
+  "symbol": "URPRES",
+  "decimals": 9,
+  "coin_type": "0x8ba8e233b5b04e0f12984e34f41806b7517ececc8cb3f03ed17f752c46491205::urpres::URPRES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/34bc6289-0887-44ac-8eb8-11cdd30157ec.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

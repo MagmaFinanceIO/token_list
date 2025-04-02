@@ -1,0 +1,13 @@
+{
+  "name": "Rescue Token",
+  "symbol": "RESCUE",
+  "decimals": 9,
+  "coin_type": "0x0d38955bc73d415d6c1b5cceca9dbe44929dfa97509f6e281fe063052a6fa4bb::rescue::RESCUE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/850a709fa00d529326afbe495a3cda8fblob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Cringe on SUI",
+  "symbol": "Cringe",
+  "decimals": 6,
+  "coin_type": "0x592720a5f2fcf60f22f0a0ed68817575547599f894dda987004a4060493d2295::cringe::CRINGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_d8b49e2a18.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Joe Rogan Dog",
+  "symbol": "RoDog",
+  "decimals": 6,
+  "coin_type": "0x50a497342173b54c73cd1c6c57421074375188b98983c995bf01546298da08d3::rodog::RODOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000399_5f95bc3355.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

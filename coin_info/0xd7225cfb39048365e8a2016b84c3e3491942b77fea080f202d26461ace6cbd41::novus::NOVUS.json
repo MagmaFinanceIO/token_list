@@ -1,0 +1,13 @@
+{
+  "name": "Novus",
+  "symbol": "Novus",
+  "decimals": 9,
+  "coin_type": "0xd7225cfb39048365e8a2016b84c3e3491942b77fea080f202d26461ace6cbd41::novus::NOVUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/vyPu3cip3jEDPqkigX92LcLdwyaFxmbg7UJmSVipump.png?size=lg&key=9082cd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Dogefish",
+  "symbol": "DFISH",
+  "decimals": 6,
+  "coin_type": "0x513f5689eb565e51f980bfe542f431277c8b9403ddb51e7a0fc747dd1316cbc2::dfish::DFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/dogefish_ba83c3ddbb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

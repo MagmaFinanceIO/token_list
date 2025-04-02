@@ -1,0 +1,13 @@
+{
+  "name": "ZUI",
+  "symbol": "ZUI",
+  "decimals": 9,
+  "coin_type": "0x9b0e0fa80dc8c2875997deafd5c4f8a933ebe41963fff45740ed7434a55106d1::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

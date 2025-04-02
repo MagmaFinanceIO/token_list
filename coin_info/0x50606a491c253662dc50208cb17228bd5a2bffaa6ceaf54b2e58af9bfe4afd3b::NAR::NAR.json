@@ -1,0 +1,13 @@
+{
+  "name": "Narwhal",
+  "symbol": "NAR",
+  "decimals": 8,
+  "coin_type": "0x50606a491c253662dc50208cb17228bd5a2bffaa6ceaf54b2e58af9bfe4afd3b::NAR::NAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://asset.suinarwhal.fun/narwhal.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

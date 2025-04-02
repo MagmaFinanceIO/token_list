@@ -1,0 +1,13 @@
+{
+  "name": "IMPERIAL GOLD COIN",
+  "symbol": "IGC",
+  "decimals": 2,
+  "coin_type": "0x6ee860f96a23d63b8d19589951ec8f0cf4e0527fc8286c25d9f6dcc61e6f9852::igc::IGC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6dd7ddca-b6ee-4c71-bbab-524d89cdf7f6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

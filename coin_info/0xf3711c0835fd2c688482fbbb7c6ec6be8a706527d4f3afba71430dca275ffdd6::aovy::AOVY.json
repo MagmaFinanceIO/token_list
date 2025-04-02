@@ -1,0 +1,13 @@
+{
+  "name": "ANCHOVY",
+  "symbol": "AOVY",
+  "decimals": 6,
+  "coin_type": "0xf3711c0835fd2c688482fbbb7c6ec6be8a706527d4f3afba71430dca275ffdd6::aovy::AOVY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000082523_5a8fd59e86.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

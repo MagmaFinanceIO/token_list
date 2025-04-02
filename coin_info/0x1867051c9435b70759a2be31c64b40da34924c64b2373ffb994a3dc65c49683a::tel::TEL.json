@@ -1,0 +1,13 @@
+{
+  "name": "tel aviv",
+  "symbol": "tel",
+  "decimals": 9,
+  "coin_type": "0x1867051c9435b70759a2be31c64b40da34924c64b2373ffb994a3dc65c49683a::tel::TEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

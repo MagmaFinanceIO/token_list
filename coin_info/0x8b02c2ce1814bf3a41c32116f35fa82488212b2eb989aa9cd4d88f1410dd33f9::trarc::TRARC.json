@@ -1,0 +1,13 @@
+{
+  "name": "Trump Army Coin",
+  "symbol": "TRARC",
+  "decimals": 9,
+  "coin_type": "0x8b02c2ce1814bf3a41c32116f35fa82488212b2eb989aa9cd4d88f1410dd33f9::trarc::TRARC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1fe7a47c-d5cb-4f8c-96fc-b6d54cbbf400.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

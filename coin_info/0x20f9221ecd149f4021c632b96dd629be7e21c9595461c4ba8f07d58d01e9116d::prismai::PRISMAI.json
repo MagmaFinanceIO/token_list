@@ -1,0 +1,13 @@
+{
+  "name": "PrismAI",
+  "symbol": "PrismAI",
+  "decimals": 9,
+  "coin_type": "0x20f9221ecd149f4021c632b96dd629be7e21c9595461c4ba8f07d58d01e9116d::prismai::PRISMAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/79vpEaaXrHnHHEtU9kYYQtwLTZy1SXpxXHi7LZ9Ppump.png?size=lg&key=e7cf19",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

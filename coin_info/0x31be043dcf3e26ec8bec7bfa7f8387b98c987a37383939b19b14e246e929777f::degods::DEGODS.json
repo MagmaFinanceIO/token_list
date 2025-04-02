@@ -1,0 +1,13 @@
+{
+  "name": "Degods On Sui",
+  "symbol": "Degods",
+  "decimals": 6,
+  "coin_type": "0x31be043dcf3e26ec8bec7bfa7f8387b98c987a37383939b19b14e246e929777f::degods::DEGODS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/degods_logo_b8e27c0733.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

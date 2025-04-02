@@ -1,0 +1,13 @@
+{
+  "name": "HODOG",
+  "symbol": "HODOG",
+  "decimals": 9,
+  "coin_type": "0x2f42391aa3b43ad761a61ec51b408dbd0a6554c4339f7b4759faabb52c49437d::hodog::HODOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a5eb12bf-7851-4947-91ed-adc03cd886a0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

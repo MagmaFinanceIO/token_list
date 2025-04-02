@@ -1,0 +1,13 @@
+{
+  "name": "GiNoot",
+  "symbol": "NOOT",
+  "decimals": 6,
+  "coin_type": "0x183da0a997eb92d851d72601ea70dc6d7b8971ec5f6fd7be10990d90ed5d112f::noot::NOOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Ginoot_logo_04a1f6e335.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

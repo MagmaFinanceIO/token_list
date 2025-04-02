@@ -1,0 +1,13 @@
+{
+  "name": "Durqa Puja",
+  "symbol": "durqa",
+  "decimals": 9,
+  "coin_type": "0xf3020140498c98c5726001de6aeed645af4de1afc1397f9187b5e68004cc7549::durqa::DURQA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dribbble.com/userupload/17015367/file/original-c4df9b81ccae98af7ee20897ac287886.png?resize=1024x768",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

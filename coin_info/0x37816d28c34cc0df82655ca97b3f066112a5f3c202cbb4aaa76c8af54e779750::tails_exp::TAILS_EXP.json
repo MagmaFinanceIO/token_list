@@ -1,0 +1,13 @@
+{
+  "name": "Tails Exp",
+  "symbol": "TEXP",
+  "decimals": 0,
+  "coin_type": "0x37816d28c34cc0df82655ca97b3f066112a5f3c202cbb4aaa76c8af54e779750::tails_exp::TAILS_EXP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://raw.githubusercontent.com/Typus-Lab/typus-asset/main/assets/TEXP.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

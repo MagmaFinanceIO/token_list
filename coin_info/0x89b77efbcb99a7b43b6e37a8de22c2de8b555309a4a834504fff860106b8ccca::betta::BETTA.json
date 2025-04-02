@@ -1,0 +1,13 @@
+{
+  "name": "Betta Fish on Sui",
+  "symbol": "BETTA",
+  "decimals": 2,
+  "coin_type": "0x89b77efbcb99a7b43b6e37a8de22c2de8b555309a4a834504fff860106b8ccca::betta::BETTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a2baa13e-8491-47b3-b808-b4257cb47c94.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

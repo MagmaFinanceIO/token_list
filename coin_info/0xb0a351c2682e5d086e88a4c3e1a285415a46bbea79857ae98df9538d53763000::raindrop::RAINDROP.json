@@ -1,0 +1,13 @@
+{
+  "name": "Sui Raindrop",
+  "symbol": "RAINDROP",
+  "decimals": 9,
+  "coin_type": "0xb0a351c2682e5d086e88a4c3e1a285415a46bbea79857ae98df9538d53763000::raindrop::RAINDROP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/04adb8bd-9c61-4258-9b51-3bc1d4531fc1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

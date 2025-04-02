@@ -1,0 +1,13 @@
+{
+  "name": "LOL",
+  "symbol": "LOL",
+  "decimals": 9,
+  "coin_type": "0xbc861ca34fd268c82d4356bc7854c997bcad345a04c965437b489d4ea0415d4a::lol::LOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ab2109f7-1022-4efa-bad2-ae193783ac3c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

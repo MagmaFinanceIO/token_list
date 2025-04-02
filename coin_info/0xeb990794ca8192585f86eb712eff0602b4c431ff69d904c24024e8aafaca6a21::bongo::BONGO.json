@@ -1,0 +1,13 @@
+{
+  "name": "BONGO CAT",
+  "symbol": "BONGO",
+  "decimals": 9,
+  "coin_type": "0xeb990794ca8192585f86eb712eff0602b4c431ff69d904c24024e8aafaca6a21::bongo::BONGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/82c8446d-592e-4db9-8acf-0be5a8f6b359.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

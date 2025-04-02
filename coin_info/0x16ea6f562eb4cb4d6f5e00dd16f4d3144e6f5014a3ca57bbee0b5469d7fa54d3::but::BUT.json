@@ -1,0 +1,13 @@
+{
+  "name": "Testing Bucket Token",
+  "symbol": "TESTING_BUT",
+  "decimals": 9,
+  "coin_type": "0x16ea6f562eb4cb4d6f5e00dd16f4d3144e6f5014a3ca57bbee0b5469d7fa54d3::but::BUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://aqua-natural-grasshopper-705.mypinata.cloud/ipfs/QmUKAX4PME9Wb9VU6CMJPisNysaVKZNKpiB3gtMVVZTfjt",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

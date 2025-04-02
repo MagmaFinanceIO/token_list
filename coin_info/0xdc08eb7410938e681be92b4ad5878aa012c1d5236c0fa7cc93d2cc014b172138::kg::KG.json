@@ -1,0 +1,13 @@
+{
+  "name": "KACHINGA",
+  "symbol": "KG",
+  "decimals": 9,
+  "coin_type": "0xdc08eb7410938e681be92b4ad5878aa012c1d5236c0fa7cc93d2cc014b172138::kg::KG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/093330d3-690c-464b-b23c-ea71f31a420a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

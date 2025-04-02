@@ -1,0 +1,13 @@
+{
+  "name": "Capy Satan",
+  "symbol": "CAPYS",
+  "decimals": 6,
+  "coin_type": "0x1717477562a309f682711c6fc70ebc16cc5d137b51a1406f24051ede6b1d77d5::meme::MEME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/03755cbd-2bab-4068-a27e-e434d79e6846.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

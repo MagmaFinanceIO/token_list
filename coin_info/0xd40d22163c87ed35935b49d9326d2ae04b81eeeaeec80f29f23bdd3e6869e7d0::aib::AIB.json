@@ -1,0 +1,13 @@
+{
+  "name": "AI  BrotherOS",
+  "symbol": "AIB",
+  "decimals": 6,
+  "coin_type": "0xd40d22163c87ed35935b49d9326d2ae04b81eeeaeec80f29f23bdd3e6869e7d0::aib::AIB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2343242_2b92d9f6f7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NERO",
+  "symbol": "NERO",
+  "decimals": 9,
+  "coin_type": "0x609d496533f5cf99a7607f36e20017704ec77e1d29db5d76347bcc3c94ba206c::nero::NERO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3685c186-bcfa-4a0c-8144-20e52a73a4d8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

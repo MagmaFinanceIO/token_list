@@ -1,0 +1,13 @@
+{
+  "name": "Pop Cat",
+  "symbol": "POPCAT",
+  "decimals": 9,
+  "coin_type": "0xa2a275813967901fd36d20b160eb501499af008a4044b33fcea573a10fd85a5d::popcat::POPCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x65985a61c4946d7406de6103dae098e5dc41c59c.png?size=lg&key=b8ab92",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

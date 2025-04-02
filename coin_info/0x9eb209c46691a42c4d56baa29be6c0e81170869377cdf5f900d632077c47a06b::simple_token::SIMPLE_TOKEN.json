@@ -1,0 +1,13 @@
+{
+  "name": "PERCY",
+  "symbol": "PERCY",
+  "decimals": 9,
+  "coin_type": "0x9eb209c46691a42c4d56baa29be6c0e81170869377cdf5f900d632077c47a06b::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

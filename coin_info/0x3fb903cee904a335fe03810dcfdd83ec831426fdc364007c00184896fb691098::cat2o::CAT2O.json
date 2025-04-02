@@ -1,0 +1,13 @@
+{
+  "name": "Cat2O",
+  "symbol": "CAT2O",
+  "decimals": 6,
+  "coin_type": "0x3fb903cee904a335fe03810dcfdd83ec831426fdc364007c00184896fb691098::cat2o::CAT2O",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0503_75d4b0edd4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

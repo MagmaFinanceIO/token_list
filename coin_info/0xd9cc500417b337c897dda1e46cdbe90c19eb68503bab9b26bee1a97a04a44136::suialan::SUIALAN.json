@@ -1,0 +1,13 @@
+{
+  "name": "ALAN - AI Trader",
+  "symbol": "SUIALAN",
+  "decimals": 9,
+  "coin_type": "0xd9cc500417b337c897dda1e46cdbe90c19eb68503bab9b26bee1a97a04a44136::suialan::SUIALAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/88w7TJJM2MoZV4GB2B7tcZg1URsBEVaDDzU17JTTQbRq.png?size=lg&key=d83dcc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

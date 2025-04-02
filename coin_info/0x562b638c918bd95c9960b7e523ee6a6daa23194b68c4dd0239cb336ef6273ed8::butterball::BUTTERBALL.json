@@ -1,0 +1,13 @@
+{
+  "name": "TURKEY",
+  "symbol": "BUTTERBALL",
+  "decimals": 9,
+  "coin_type": "0x562b638c918bd95c9960b7e523ee6a6daa23194b68c4dd0239cb336ef6273ed8::butterball::BUTTERBALL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmRC1DWwFKKbKdfRWSzCrc3ZT7toFFJJiCvgoogywBEdU6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

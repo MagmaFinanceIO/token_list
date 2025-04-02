@@ -1,0 +1,13 @@
+{
+  "name": "Sui Rabbit Coin",
+  "symbol": "SRC",
+  "decimals": 6,
+  "coin_type": "0x485209b209f8f25dc734b39dc2f8fbaa952d960eff12f369d84f52a97ded6241::src::SRC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://img.freepik.com/premium-photo/cute-animal-little-pretty-blue-rabbit-portrait-from-splash-watercolor-illustration_169356-493.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

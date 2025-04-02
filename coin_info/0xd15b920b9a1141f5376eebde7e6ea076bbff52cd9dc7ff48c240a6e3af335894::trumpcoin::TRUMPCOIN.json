@@ -1,0 +1,13 @@
+{
+  "name": "TRUMPCOIN",
+  "symbol": "TRUMPCOIN",
+  "decimals": 9,
+  "coin_type": "0xd15b920b9a1141f5376eebde7e6ea076bbff52cd9dc7ff48c240a6e3af335894::trumpcoin::TRUMPCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Bj9Jksrp9vxughKiJnk1ka2Vxr2YBimdEtFtpgjQpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

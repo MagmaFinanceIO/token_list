@@ -1,0 +1,13 @@
+{
+  "name": "Obi PNut Kenobi",
+  "symbol": "Pnut",
+  "decimals": 6,
+  "coin_type": "0x1481f80d016da65f64a6008d6314cf918335e13c46c53adee48d4995b05e61bc::pnut::PNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmbZT8enZzdJURSpWyxf6MipPM5UKRXdx93HbDQrfw1m9x",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

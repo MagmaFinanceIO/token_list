@@ -1,0 +1,13 @@
+{
+  "name": "SUIPEPSI",
+  "symbol": "SIP",
+  "decimals": 6,
+  "coin_type": "0x724bc7349fc5984bfd5159fa5c9d7680a99871bc087e02a6d4256f47b5898882::sip::SIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmaS9xVSRRUZAttHzzUmsy9rhnN6QD1v5QfbCpM3AR9Yas",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

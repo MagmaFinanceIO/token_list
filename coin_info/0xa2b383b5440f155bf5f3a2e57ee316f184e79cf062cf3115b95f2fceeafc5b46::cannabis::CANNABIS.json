@@ -1,0 +1,13 @@
+{
+  "name": "CANNABIS COIN ON SUI",
+  "symbol": "CANNABIS",
+  "decimals": 6,
+  "coin_type": "0xa2b383b5440f155bf5f3a2e57ee316f184e79cf062cf3115b95f2fceeafc5b46::cannabis::CANNABIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Nihx5_K8_Fc_Xi_C_Nunuoqrc_Rwwp7_J59aa2ivp4_Vu2r5_Csi_T_Copy_007179199d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

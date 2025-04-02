@@ -1,0 +1,13 @@
+{
+  "name": "Dragon Blue",
+  "symbol": "DRABLU",
+  "decimals": 9,
+  "coin_type": "0x31ccc13b8651a9f683d70b37810ab3e24ab5b795cc589a09c7da884a9ea2f783::drablu::DRABLU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fd4488aa-2dc6-4156-bd3b-c72c25c4b23d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

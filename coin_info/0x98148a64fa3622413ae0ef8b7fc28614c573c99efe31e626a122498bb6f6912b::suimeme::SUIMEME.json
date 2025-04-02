@@ -1,0 +1,13 @@
+{
+  "name": "suimeme",
+  "symbol": "suimeme",
+  "decimals": 9,
+  "coin_type": "0x98148a64fa3622413ae0ef8b7fc28614c573c99efe31e626a122498bb6f6912b::suimeme::SUIMEME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/91cb2820-f0a4-450a-9ecf-8302d8ff41c9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

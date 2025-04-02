@@ -1,0 +1,13 @@
+{
+  "name": "NEPE PEPE SUI",
+  "symbol": "NEPE",
+  "decimals": 6,
+  "coin_type": "0x9157ddef842a6cf39e0986bc2ae3008455ce6c1f64c6988416309a620e13a148::nepe::NEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_3_6_aa64b1abc3.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

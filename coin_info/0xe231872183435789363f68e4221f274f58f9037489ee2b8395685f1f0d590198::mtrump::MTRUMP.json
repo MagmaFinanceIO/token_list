@@ -1,0 +1,13 @@
+{
+  "name": "Melania Trump",
+  "symbol": "MTRUMP",
+  "decimals": 6,
+  "coin_type": "0xe231872183435789363f68e4221f274f58f9037489ee2b8395685f1f0d590198::mtrump::MTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/gif4_b9ed985ca6.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

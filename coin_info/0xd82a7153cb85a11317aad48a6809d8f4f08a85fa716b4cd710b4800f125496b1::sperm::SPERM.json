@@ -1,0 +1,13 @@
+{
+  "name": "Sperm Whale",
+  "symbol": "SPERM",
+  "decimals": 6,
+  "coin_type": "0xd82a7153cb85a11317aad48a6809d8f4f08a85fa716b4cd710b4800f125496b1::sperm::SPERM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_6e0336b398.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

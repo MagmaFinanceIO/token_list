@@ -1,0 +1,13 @@
+{
+  "name": "CATAMEL",
+  "symbol": "CMEL",
+  "decimals": 6,
+  "coin_type": "0xc5b05f313c5cbe15fe16c0c915f26840721a9e8b15331ccd8e9563058832499f::cmel::CMEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_20241216_215616_0000_9221feafc0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

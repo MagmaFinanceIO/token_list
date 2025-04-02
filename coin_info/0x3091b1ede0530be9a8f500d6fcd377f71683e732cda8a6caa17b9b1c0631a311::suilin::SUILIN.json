@@ -1,0 +1,13 @@
+{
+  "name": "Suiet Union",
+  "symbol": "Suilin",
+  "decimals": 6,
+  "coin_type": "0x3091b1ede0530be9a8f500d6fcd377f71683e732cda8a6caa17b9b1c0631a311::suilin::SUILIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736620377951.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

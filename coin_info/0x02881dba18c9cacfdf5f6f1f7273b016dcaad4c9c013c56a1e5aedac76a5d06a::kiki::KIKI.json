@@ -1,0 +1,13 @@
+{
+  "name": "KIKI",
+  "symbol": "KIKI",
+  "decimals": 9,
+  "coin_type": "0x02881dba18c9cacfdf5f6f1f7273b016dcaad4c9c013c56a1e5aedac76a5d06a::kiki::KIKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/83f586cc-63cb-487c-8e77-311722b84345.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

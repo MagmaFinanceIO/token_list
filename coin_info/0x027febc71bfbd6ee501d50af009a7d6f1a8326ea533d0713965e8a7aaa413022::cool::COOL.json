@@ -1,0 +1,13 @@
+{
+  "name": "COOL",
+  "symbol": "cool",
+  "decimals": 9,
+  "coin_type": "0x027febc71bfbd6ee501d50af009a7d6f1a8326ea533d0713965e8a7aaa413022::cool::COOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

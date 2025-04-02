@@ -1,0 +1,13 @@
+{
+  "name": "Official USA Mascot",
+  "symbol": "AMERICAN",
+  "decimals": 9,
+  "coin_type": "0xca1d2c428339b8c3dc27264130f175202b7031888b968ba07b991968e1bcf41c::american::AMERICAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HQ5p7MvjeXUPi5MK85GQ9dHjX7gezATjekTbyesopump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

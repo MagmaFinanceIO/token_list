@@ -1,0 +1,13 @@
+{
+  "name": "kagura sui",
+  "symbol": "KGR",
+  "decimals": 6,
+  "coin_type": "0x8fbd39566d20e63377fd12a884bb1ea518db1d346a2e7df3d9f225ff40362284::kgr::KGR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736371545386.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PIPI THE SUI CAT",
+  "symbol": "PIPICAT",
+  "decimals": 9,
+  "coin_type": "0x3d7bc86b0ba68d4803eeb46131d34100b546375261f09583c3225818dc9f0baa::pipicat::PIPICAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/815260f8-2ace-40c4-a95e-d33cecb10277.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

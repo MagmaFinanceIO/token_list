@@ -1,0 +1,13 @@
+{
+  "name": "ALICE Rogue SUI",
+  "symbol": "ALICE",
+  "decimals": 6,
+  "coin_type": "0xb3bf79a021ac687c25c2760ec03258a4517b705423dcd05c15c9372f8720c4de::alice::ALICE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730952865389.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BTS",
+  "symbol": "BTS",
+  "decimals": 9,
+  "coin_type": "0x6363e522e5f14cf271bfaacfdbc59cb67e881d7c2b0f2453aea79bc3df1c485f::bts::BTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://n1s1.hsmedia.ru/59/b4/8c/59b48c85be136d691b73de05754e27c5/600x600_1_bd8fa1bc1fe98e76b2090e3ccb08bca2@2048x2048_0xIERR1fhN_7413448315464806659.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

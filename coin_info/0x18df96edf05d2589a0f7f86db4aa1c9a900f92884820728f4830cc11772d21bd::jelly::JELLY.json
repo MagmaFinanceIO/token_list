@@ -1,0 +1,13 @@
+{
+  "name": "Sui Jelly",
+  "symbol": "JELLY",
+  "decimals": 9,
+  "coin_type": "0x18df96edf05d2589a0f7f86db4aa1c9a900f92884820728f4830cc11772d21bd::jelly::JELLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4bde6533-158f-4aaa-8975-039858bfa0ce.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

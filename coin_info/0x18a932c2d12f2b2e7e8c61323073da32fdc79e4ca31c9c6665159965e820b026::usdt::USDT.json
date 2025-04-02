@@ -1,0 +1,13 @@
+{
+  "name": "SUIUST",
+  "symbol": "USDT",
+  "decimals": 9,
+  "coin_type": "0x18a932c2d12f2b2e7e8c61323073da32fdc79e4ca31c9c6665159965e820b026::usdt::USDT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.gtokentool.com/1738296250/1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

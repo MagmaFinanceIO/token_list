@@ -1,0 +1,13 @@
+{
+  "name": "Domo Arigato 🤖",
+  "symbol": "DOMO",
+  "decimals": 9,
+  "coin_type": "0x02207b3ca92245e4ce7527d0323917eca14e6a86ac721bd2d85ff61a60072320::domo::DOMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ffe2b014-108b-447e-bfc6-46a7e4d98fe2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

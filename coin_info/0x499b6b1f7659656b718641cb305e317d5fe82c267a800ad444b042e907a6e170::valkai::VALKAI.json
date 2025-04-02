@@ -1,0 +1,13 @@
+{
+  "name": "VALKAI.AI",
+  "symbol": "VALKAI",
+  "decimals": 9,
+  "coin_type": "0x499b6b1f7659656b718641cb305e317d5fe82c267a800ad444b042e907a6e170::valkai::VALKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/zUUmU87a3HfnuTWEcRK36SZqX1g185r9kapLKFsUMum.png?size=lg&key=f93176",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

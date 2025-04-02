@@ -1,0 +1,13 @@
+{
+  "name": "SOPCAT",
+  "symbol": "SOPCAT",
+  "decimals": 9,
+  "coin_type": "0x5b988af119f57d3425b958c2c253f6b1559476db8646f84c6a83c06e9e66d532::sopcat::SOPCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7baf8f1c-3a91-427d-8898-9c4065e47fe6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

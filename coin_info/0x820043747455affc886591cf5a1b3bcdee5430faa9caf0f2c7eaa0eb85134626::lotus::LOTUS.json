@@ -1,0 +1,13 @@
+{
+  "name": "LOTUS on SUI",
+  "symbol": "LOTUS",
+  "decimals": 9,
+  "coin_type": "0x820043747455affc886591cf5a1b3bcdee5430faa9caf0f2c7eaa0eb85134626::lotus::LOTUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xcc42b2b6d90e3747c2b8e62581183a88e3ca093a.png?size=xl&key=5702fa",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

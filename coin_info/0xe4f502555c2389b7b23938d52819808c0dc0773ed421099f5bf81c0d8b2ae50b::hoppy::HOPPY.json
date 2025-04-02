@@ -1,0 +1,13 @@
+{
+  "name": "HOPPY ",
+  "symbol": "HOPPY",
+  "decimals": 6,
+  "coin_type": "0xe4f502555c2389b7b23938d52819808c0dc0773ed421099f5bf81c0d8b2ae50b::hoppy::HOPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731448322437.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

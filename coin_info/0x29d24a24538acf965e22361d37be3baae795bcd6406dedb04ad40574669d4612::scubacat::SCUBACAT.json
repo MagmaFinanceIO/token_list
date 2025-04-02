@@ -1,0 +1,13 @@
+{
+  "name": "SCUBA CAT",
+  "symbol": "SCUBACAT",
+  "decimals": 9,
+  "coin_type": "0x29d24a24538acf965e22361d37be3baae795bcd6406dedb04ad40574669d4612::scubacat::SCUBACAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0c7fcbca-2e19-4b7b-8f87-02aa777bdd40.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

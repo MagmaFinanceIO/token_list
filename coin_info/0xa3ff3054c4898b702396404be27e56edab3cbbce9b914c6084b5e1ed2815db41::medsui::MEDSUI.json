@@ -1,0 +1,13 @@
+{
+  "name": "MedusaOnSui",
+  "symbol": "Medsui",
+  "decimals": 9,
+  "coin_type": "0xa3ff3054c4898b702396404be27e56edab3cbbce9b914c6084b5e1ed2815db41::medsui::MEDSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/511e3b48-5cd2-46f9-97b0-3a6815f84b09.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

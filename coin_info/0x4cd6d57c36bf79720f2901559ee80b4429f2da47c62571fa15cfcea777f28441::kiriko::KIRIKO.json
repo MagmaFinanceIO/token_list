@@ -1,0 +1,13 @@
+{
+  "name": "Lifeguard Kiriko",
+  "symbol": "KIRIKO",
+  "decimals": 9,
+  "coin_type": "0x4cd6d57c36bf79720f2901559ee80b4429f2da47c62571fa15cfcea777f28441::kiriko::KIRIKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/693/058/large/nino-zorc-nion-kiriko-lifeguard-char-ingame-03.jpg?1728284174",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

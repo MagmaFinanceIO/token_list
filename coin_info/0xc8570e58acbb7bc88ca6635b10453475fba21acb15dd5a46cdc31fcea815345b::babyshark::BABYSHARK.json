@@ -1,0 +1,13 @@
+{
+  "name": "Baby Shark Meme",
+  "symbol": "BABYSHARK",
+  "decimals": 9,
+  "coin_type": "0xc8570e58acbb7bc88ca6635b10453475fba21acb15dd5a46cdc31fcea815345b::babyshark::BABYSHARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dexscreener.com/solana/23hhad7gbmzvuvztz2eclmxezas2atavuv7hjlnehu89",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

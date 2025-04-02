@@ -1,0 +1,13 @@
+{
+  "name": "Trump Must Be President",
+  "symbol": "TrumpMBP",
+  "decimals": 9,
+  "coin_type": "0xbfbd4f6310431ed8255d241b1642d44a5acda0c679afc28901558028c2509bf5::trumpmbp::TRUMPMBP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BKvNyCf4PTTig69GDZDW5uL7W2ZupvofisiZfcS253m9.png?size=lg&key=d7ad32",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

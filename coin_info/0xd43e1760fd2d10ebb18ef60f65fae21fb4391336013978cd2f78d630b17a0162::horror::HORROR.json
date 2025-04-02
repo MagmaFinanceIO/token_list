@@ -1,0 +1,13 @@
+{
+  "name": "THE SUI HORROR SHOW",
+  "symbol": "HORROR",
+  "decimals": 6,
+  "coin_type": "0xd43e1760fd2d10ebb18ef60f65fae21fb4391336013978cd2f78d630b17a0162::horror::HORROR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/STRANGEHARVEST_STILL_2_cd6ea12459.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

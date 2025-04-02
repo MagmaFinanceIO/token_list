@@ -1,0 +1,13 @@
+{
+  "name": "Modula AI",
+  "symbol": "MAI",
+  "decimals": 6,
+  "coin_type": "0xee7d912a497f9dcfaf1fd990508631d682d50a9226b9ad8b9bbd4aa53392edeb::mai::MAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5c448c9b-1a61-4cec-9b74-cb53f2259513.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

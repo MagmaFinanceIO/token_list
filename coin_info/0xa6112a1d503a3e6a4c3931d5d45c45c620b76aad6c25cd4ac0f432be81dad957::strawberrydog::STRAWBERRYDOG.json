@@ -1,0 +1,13 @@
+{
+  "name": "Strawberry Dog",
+  "symbol": "StrawberryDog",
+  "decimals": 9,
+  "coin_type": "0xa6112a1d503a3e6a4c3931d5d45c45c620b76aad6c25cd4ac0f432be81dad957::strawberrydog::STRAWBERRYDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f1ba2add-541f-4e71-9f8a-102497244b80.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

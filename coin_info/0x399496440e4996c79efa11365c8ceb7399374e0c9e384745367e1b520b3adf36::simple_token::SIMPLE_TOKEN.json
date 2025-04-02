@@ -1,0 +1,13 @@
+{
+  "name": "Elooo coin",
+  "symbol": "Eloo",
+  "decimals": 9,
+  "coin_type": "0x399496440e4996c79efa11365c8ceb7399374e0c9e384745367e1b520b3adf36::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

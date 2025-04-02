@@ -1,0 +1,13 @@
+{
+  "name": "Satoshi Hippo",
+  "symbol": "SAHI",
+  "decimals": 6,
+  "coin_type": "0x2f242fbd57a137f3aed2f7b3f794405f4dab4652013afb25b2cb7e75e8248e3e::sahi::SAHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/aaaa_11ac8d96ae.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

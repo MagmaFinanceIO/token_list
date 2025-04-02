@@ -1,0 +1,13 @@
+{
+  "name": "SAITAMA ON SUI",
+  "symbol": "SAITAMA",
+  "decimals": 9,
+  "coin_type": "0x150c3db60f8e9fb76e25722ff77a19ae9425016e72f32e8455c3b29dff9bd036::saitama::SAITAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmUD1CGLuLukr3L9JrhJXRpFVtn3pZNzujJvY9UPTBJTH6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

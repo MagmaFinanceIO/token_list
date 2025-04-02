@@ -1,0 +1,13 @@
+{
+  "name": "Autistic Penguin",
+  "symbol": "AUTISM",
+  "decimals": 6,
+  "coin_type": "0xf256a915304e7e28dc72fe7ce004d44242bdc1c5fcc63f74a963fa9925aa10ad::autism::AUTISM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/autistic_penguin_ec280969ac.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

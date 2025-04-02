@@ -1,0 +1,13 @@
+{
+  "name": "Ivanka TrumpMeme",
+  "symbol": "IVANKA",
+  "decimals": 9,
+  "coin_type": "0x97ed17c08c69a47ffd3d6d7ea6fe00b4fe3b94462dbaf2bdb213f9606b8b934b::ivanka::IVANKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/66TLNWab2DhNKWQZisrEKBfVYbGvu6ZtzsvGKLvgpump.png?size=lg&key=a0bc7a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

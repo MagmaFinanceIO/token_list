@@ -1,0 +1,13 @@
+{
+  "name": "GROGGO",
+  "symbol": "GROGGO",
+  "decimals": 9,
+  "coin_type": "0x625103496c7995bfe7db3d6d1d0c4d8290b9e2fd68432f46882352bbff1a4dfe::groggo::GROGGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/26443dc0-5833-4cb3-94ee-e081e1f8e4b6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

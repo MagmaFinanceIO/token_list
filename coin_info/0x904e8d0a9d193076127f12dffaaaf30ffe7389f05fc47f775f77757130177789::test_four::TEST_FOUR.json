@@ -1,0 +1,13 @@
+{
+  "name": "test_four",
+  "symbol": "test_four",
+  "decimals": 9,
+  "coin_type": "0x904e8d0a9d193076127f12dffaaaf30ffe7389f05fc47f775f77757130177789::test_four::TEST_FOUR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Fuck you ETH",
+  "symbol": "FETH",
+  "decimals": 2,
+  "coin_type": "0xfb09b045f267f9bf55966afa0798a480032a3caad7fc406fd99827fddac6025e::feth::FETH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9e1e069f-cccb-4f1a-9673-0158f4175edd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

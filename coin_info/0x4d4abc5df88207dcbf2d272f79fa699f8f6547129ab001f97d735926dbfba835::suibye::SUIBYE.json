@@ -1,0 +1,13 @@
+{
+  "name": "SUI YOU LATER",
+  "symbol": "SUIBYE",
+  "decimals": 9,
+  "coin_type": "0x4d4abc5df88207dcbf2d272f79fa699f8f6547129ab001f97d735926dbfba835::suibye::SUIBYE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://amber-managerial-guanaco-417.mypinata.cloud/files/bafkreihr5prsft6xxadimvs6xk6max6pjdxfewtcyhi4osegvoqggf56li?X-Algorithm=PINATA1&X-Date=1734286063&X-Expires=30&X-Method=GET&X-Signature=a03077adb4aea708192c39ce45789dc70406ad62cadbcf1f990d0cb7e50a82d3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

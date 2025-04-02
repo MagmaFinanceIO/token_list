@@ -1,0 +1,13 @@
+{
+  "name": "Pets Are Legends",
+  "symbol": "PAL",
+  "decimals": 9,
+  "coin_type": "0xba1864fdba7830ea83e89c308745e1406efbff2a073250f71632a008b59e4c30::pal::PAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/26MemVxGjQuAxKF88K5UfjcKz2Xz9Gwgf5Jx4DZhc2fe.png?size=lg&key=50c3d0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

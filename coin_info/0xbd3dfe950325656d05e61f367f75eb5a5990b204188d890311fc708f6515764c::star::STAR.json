@@ -1,0 +1,13 @@
+{
+  "name": "SuiStar",
+  "symbol": "STAR",
+  "decimals": 6,
+  "coin_type": "0xbd3dfe950325656d05e61f367f75eb5a5990b204188d890311fc708f6515764c::star::STAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2_8c1f939675.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

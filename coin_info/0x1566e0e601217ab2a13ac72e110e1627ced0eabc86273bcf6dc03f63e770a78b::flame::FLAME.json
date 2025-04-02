@@ -1,0 +1,13 @@
+{
+  "name": "Calcifer",
+  "symbol": "FLAME",
+  "decimals": 9,
+  "coin_type": "0x1566e0e601217ab2a13ac72e110e1627ced0eabc86273bcf6dc03f63e770a78b::flame::FLAME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/74a65593-fd49-40d9-8b8c-933e669bbced.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

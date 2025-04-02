@@ -1,0 +1,13 @@
+{
+  "name": "GAZA",
+  "symbol": "GAZA",
+  "decimals": 7,
+  "coin_type": "0x7b31419e1de38b2057b151e328097ac679419b83eb713dd696a9365468dc19c1::gaza::GAZA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d40c542a-7af5-4db1-b53a-df5ab14f8be6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

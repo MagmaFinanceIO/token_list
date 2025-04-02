@@ -1,0 +1,13 @@
+{
+  "name": "Melon Ape",
+  "symbol": "MelonApe",
+  "decimals": 9,
+  "coin_type": "0x44e9fb2dce24aae2b61dca6321fda5022c0814b704618e99174d13fc2fd883fa::melonape::MELONAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

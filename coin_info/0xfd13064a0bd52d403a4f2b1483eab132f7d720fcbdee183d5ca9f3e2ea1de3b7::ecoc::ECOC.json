@@ -1,0 +1,13 @@
+{
+  "name": "EcoCrypt",
+  "symbol": "ECOC",
+  "decimals": 9,
+  "coin_type": "0xfd13064a0bd52d403a4f2b1483eab132f7d720fcbdee183d5ca9f3e2ea1de3b7::ecoc::ECOC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9b75a477-5130-42cf-b82b-2797d1abd17a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

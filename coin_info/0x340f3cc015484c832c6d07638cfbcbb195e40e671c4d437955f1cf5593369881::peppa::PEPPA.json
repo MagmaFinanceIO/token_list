@@ -1,0 +1,13 @@
+{
+  "name": "Peppa The Skinny Piggy",
+  "symbol": "Peppa",
+  "decimals": 9,
+  "coin_type": "0x340f3cc015484c832c6d07638cfbcbb195e40e671c4d437955f1cf5593369881::peppa::PEPPA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7WLh91ZizhSAJZSw5kX1H3nAcaqoRG1FSuj7iUCVpump.png?size=lg&key=bdc3e9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

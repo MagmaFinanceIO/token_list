@@ -1,0 +1,13 @@
+{
+  "name": "My Memes by PAAL",
+  "symbol": "MEMES",
+  "decimals": 6,
+  "coin_type": "0x28ba3118bb586cf5aa92c1fdab735613dec0b5f5376ec30ca74a83b83d825999::memes::MEMES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2e882d46-312d-4fd2-a08e-788cc5d388e7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Bibi",
+  "symbol": "BIBI",
+  "decimals": 9,
+  "coin_type": "0xaae202d16cf25b5533e18ffcd4778f78e1168f7e0866525b6998580f0a26e220::bibi::BIBI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/33cafdc4-f3df-424d-a734-bb5bd6f82b32.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

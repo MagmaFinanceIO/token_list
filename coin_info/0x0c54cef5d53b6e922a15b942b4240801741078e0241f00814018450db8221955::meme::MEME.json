@@ -1,0 +1,13 @@
+{
+  "name": "MEME",
+  "symbol": "MEME",
+  "decimals": 9,
+  "coin_type": "0x0c54cef5d53b6e922a15b942b4240801741078e0241f00814018450db8221955::meme::MEME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HFX7HUQUYQ6iUD1PCb8QongZLr2GvNPWqHHH2idipump.png?size=lg&key=2007cd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

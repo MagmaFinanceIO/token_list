@@ -1,0 +1,13 @@
+{
+  "name": "Megalodon",
+  "symbol": "MEG",
+  "decimals": 9,
+  "coin_type": "0x6aadd2bc606a7de5ed23f94ac8728b7519e5c9c89fc250c65a01d1cdaf74760d::meg::MEG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2ec0b044-3a00-42d3-ae83-f5ce98812d02.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

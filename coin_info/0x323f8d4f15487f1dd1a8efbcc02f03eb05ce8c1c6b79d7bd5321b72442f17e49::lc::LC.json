@@ -1,0 +1,13 @@
+{
+  "name": "Lucky Calf",
+  "symbol": "LC",
+  "decimals": 6,
+  "coin_type": "0x323f8d4f15487f1dd1a8efbcc02f03eb05ce8c1c6b79d7bd5321b72442f17e49::lc::LC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000049744_b08bf0d123.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

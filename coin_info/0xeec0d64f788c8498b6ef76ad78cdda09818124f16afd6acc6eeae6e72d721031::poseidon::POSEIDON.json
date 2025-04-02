@@ -1,0 +1,13 @@
+{
+  "name": "Sui Gods Poseidon",
+  "symbol": "POSEIDON",
+  "decimals": 6,
+  "coin_type": "0xeec0d64f788c8498b6ef76ad78cdda09818124f16afd6acc6eeae6e72d721031::poseidon::POSEIDON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Poseidon_Final_NO_Border_600_b691a0fa2f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MIZU",
+  "symbol": "MIZU",
+  "decimals": 9,
+  "coin_type": "0xe8c66198d148dd5abc93bfad633afdd41916a58ac50945a68c9662036e214c97::mizu::MIZU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f3905611-2fe0-4176-b6e5-41cb24b00153.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

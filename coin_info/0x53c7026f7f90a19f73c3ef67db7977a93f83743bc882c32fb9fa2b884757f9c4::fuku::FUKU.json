@@ -1,0 +1,13 @@
+{
+  "name": "Fukupuku",
+  "symbol": "FUKU",
+  "decimals": 9,
+  "coin_type": "0x53c7026f7f90a19f73c3ef67db7977a93f83743bc882c32fb9fa2b884757f9c4::fuku::FUKU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GUuiK28zcXJHyP56EXAYMEKw1h9PeGEvsqCfiiUQF2fg.png?size=lg&key=b7218d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

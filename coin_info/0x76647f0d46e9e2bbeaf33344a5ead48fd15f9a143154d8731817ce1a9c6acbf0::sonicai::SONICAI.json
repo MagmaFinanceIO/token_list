@@ -1,0 +1,13 @@
+{
+  "name": "SONICAI6900INU",
+  "symbol": "SONICAI",
+  "decimals": 9,
+  "coin_type": "0x76647f0d46e9e2bbeaf33344a5ead48fd15f9a143154d8731817ce1a9c6acbf0::sonicai::SONICAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c00e9e0f-5a55-4a14-9932-cea25a46765f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

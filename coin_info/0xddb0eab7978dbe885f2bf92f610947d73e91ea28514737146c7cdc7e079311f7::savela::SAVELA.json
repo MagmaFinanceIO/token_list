@@ -1,0 +1,13 @@
+{
+  "name": "Save Los Angeles",
+  "symbol": "SAVELA",
+  "decimals": 9,
+  "coin_type": "0xddb0eab7978dbe885f2bf92f610947d73e91ea28514737146c7cdc7e079311f7::savela::SAVELA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GRCuecmrcGJtyvgyjYnCMmBYiD9vq3v56u87mrfbpump.png?size=lg&key=c4fa02",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

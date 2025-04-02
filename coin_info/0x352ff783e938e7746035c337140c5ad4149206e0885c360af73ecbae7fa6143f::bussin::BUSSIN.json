@@ -1,0 +1,13 @@
+{
+  "name": "Bussin",
+  "symbol": "BUSSIN",
+  "decimals": 9,
+  "coin_type": "0x352ff783e938e7746035c337140c5ad4149206e0885c360af73ecbae7fa6143f::bussin::BUSSIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Cs74tf2USXV275kDrPuUGDhQpdqf7t3kurLEWg3Lpump.png?size=lg&key=c3a79a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

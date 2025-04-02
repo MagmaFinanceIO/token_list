@@ -1,0 +1,13 @@
+{
+  "name": "Spank That Bitch",
+  "symbol": "SPANK",
+  "decimals": 9,
+  "coin_type": "0xed77718d76c549e4cbfd5325f6bd8911195b543e51bdd54e97543453f5112cf0::spank::SPANK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1f16c847-5240-4a1d-a661-17a57856749f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

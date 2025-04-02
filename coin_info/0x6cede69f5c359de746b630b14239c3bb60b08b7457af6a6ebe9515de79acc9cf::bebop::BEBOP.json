@@ -1,0 +1,13 @@
+{
+  "name": "BEBOP SUI",
+  "symbol": "BEBOP",
+  "decimals": 9,
+  "coin_type": "0x6cede69f5c359de746b630b14239c3bb60b08b7457af6a6ebe9515de79acc9cf::bebop::BEBOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2SNstbEYVEn2iTNQyZHKGzgTPZwBgnujwKa8hn5opump.png?size=lg&key=16c90b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

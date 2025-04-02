@@ -1,0 +1,13 @@
+{
+  "name": "Mutant Boys Club",
+  "symbol": "MBC",
+  "decimals": 9,
+  "coin_type": "0xd627ad6be25353bd603f01a3258e4bc5b9591a83324e40261499c2a1689d2b98::mbc::MBC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/MBCccZZEbcvWzaHD9otPjmBMFaa6pG7XRYSw39HT5n2.png?size=xl&key=0218a1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

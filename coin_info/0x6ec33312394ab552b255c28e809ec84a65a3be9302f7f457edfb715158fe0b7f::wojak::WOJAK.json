@@ -1,0 +1,13 @@
+{
+  "name": "WOJAK Maximus",
+  "symbol": "WOJAK",
+  "decimals": 9,
+  "coin_type": "0x6ec33312394ab552b255c28e809ec84a65a3be9302f7f457edfb715158fe0b7f::wojak::WOJAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9ed7a44e-6138-4723-9448-619cc9e1de35.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

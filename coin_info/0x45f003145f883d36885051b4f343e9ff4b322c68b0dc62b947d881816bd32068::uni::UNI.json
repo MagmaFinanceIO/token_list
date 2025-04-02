@@ -1,0 +1,13 @@
+{
+  "name": "FirstPupOfSui",
+  "symbol": "UNI",
+  "decimals": 6,
+  "coin_type": "0x45f003145f883d36885051b4f343e9ff4b322c68b0dc62b947d881816bd32068::uni::UNI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/uni_logo_256_7329de5fdb.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

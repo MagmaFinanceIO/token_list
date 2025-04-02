@@ -1,0 +1,13 @@
+{
+  "name": "Catf on Sui",
+  "symbol": "CATF SUI",
+  "decimals": 9,
+  "coin_type": "0xaf1ed684c5d185d9b26c5be758064021e0f3d805a1e4079a6414e6fe720289b9::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "First Dappy On Sui",
+  "symbol": "DAPPY",
+  "decimals": 6,
+  "coin_type": "0x7718dfb560d24e0b960f7429fb29b3b50686e64a208b88d8b9ff35c1df53346d::dappy::DAPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/sui_2_ea097408f3.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

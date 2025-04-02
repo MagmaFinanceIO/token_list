@@ -1,0 +1,13 @@
+{
+  "name": "SPOOKY BLUB",
+  "symbol": "SPLUB",
+  "decimals": 9,
+  "coin_type": "0xe01ad5ba8485262f6c6abdc70ee5b28a4c72386163f4e9c81df53b3535fc345a::splub::SPLUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c8460c77-2919-4369-ba22-9450d6aee310.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

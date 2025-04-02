@@ -1,0 +1,13 @@
+{
+  "name": "MONOTREME",
+  "symbol": "MONO",
+  "decimals": 9,
+  "coin_type": "0x915faa32b487c79172d52ef617a3a5a3d3493e9beb8477aef853df087b111160::mono::MONO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2136daa9-e01d-4232-a568-09111a747058.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

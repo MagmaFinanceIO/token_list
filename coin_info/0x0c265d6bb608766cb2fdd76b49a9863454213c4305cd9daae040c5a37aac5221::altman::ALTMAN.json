@@ -1,0 +1,13 @@
+{
+  "name": "FATHER GPT",
+  "symbol": "ALTMAN",
+  "decimals": 9,
+  "coin_type": "0x0c265d6bb608766cb2fdd76b49a9863454213c4305cd9daae040c5a37aac5221::altman::ALTMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7Jr6VwRo8RytFr27U4Sdm1wJFhZ4LRdWrkpnFipTVraQ.png?size=lg&key=ee6d63",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

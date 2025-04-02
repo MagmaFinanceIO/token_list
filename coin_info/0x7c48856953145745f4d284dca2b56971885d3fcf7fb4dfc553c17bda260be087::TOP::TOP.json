@@ -1,0 +1,13 @@
+{
+  "name": "Sweety the evil",
+  "symbol": "SWEET",
+  "decimals": 9,
+  "coin_type": "0x7c48856953145745f4d284dca2b56971885d3fcf7fb4dfc553c17bda260be087::TOP::TOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/472aa388-0eef-41cf-98e1-39525fdf92ab.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

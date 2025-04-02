@@ -1,0 +1,13 @@
+{
+  "name": "DEFAI",
+  "symbol": "DEFAI",
+  "decimals": 9,
+  "coin_type": "0xa73412e042832d339f4d776da8db8d1a10fdacd6e6a18c380cd04dda8a9e162b::DEFAI::DEFAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

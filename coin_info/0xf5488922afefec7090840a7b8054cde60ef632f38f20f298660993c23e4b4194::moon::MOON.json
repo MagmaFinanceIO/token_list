@@ -1,0 +1,13 @@
+{
+  "name": "MOON AI",
+  "symbol": "MOON",
+  "decimals": 6,
+  "coin_type": "0xf5488922afefec7090840a7b8054cde60ef632f38f20f298660993c23e4b4194::moon::MOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000145007_eac5faa251.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

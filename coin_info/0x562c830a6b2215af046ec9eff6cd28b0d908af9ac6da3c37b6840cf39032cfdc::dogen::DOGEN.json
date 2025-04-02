@@ -1,0 +1,13 @@
+{
+  "name": "DOGEN",
+  "symbol": "DOGEN",
+  "decimals": 9,
+  "coin_type": "0x562c830a6b2215af046ec9eff6cd28b0d908af9ac6da3c37b6840cf39032cfdc::dogen::DOGEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B7xavrAozTa1msQxu8YAcvPftf76x1fJYyLrYdTnbrah.png?size=lg&key=2d749f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

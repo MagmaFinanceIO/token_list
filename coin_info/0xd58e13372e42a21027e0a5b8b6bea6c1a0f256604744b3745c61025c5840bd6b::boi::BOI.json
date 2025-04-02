@@ -1,0 +1,13 @@
+{
+  "name": "BoiOnSui",
+  "symbol": "BOI",
+  "decimals": 9,
+  "coin_type": "0xd58e13372e42a21027e0a5b8b6bea6c1a0f256604744b3745c61025c5840bd6b::boi::BOI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/29bb3e4c-69db-4558-8a24-0b575711171d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MUFFLE",
+  "symbol": "Muffle",
+  "decimals": 6,
+  "coin_type": "0xa1b17573c4fc7f333cd808a1a76fa8e2cd95313e79db69a44d3aaaf8b57ecbbc::muffle::MUFFLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/muffle_ae3c420865.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

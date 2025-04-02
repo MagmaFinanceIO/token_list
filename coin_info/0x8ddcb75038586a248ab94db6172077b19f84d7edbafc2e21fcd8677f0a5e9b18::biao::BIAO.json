@@ -1,0 +1,13 @@
+{
+  "name": "BIAO",
+  "symbol": "Biao Qing",
+  "decimals": 9,
+  "coin_type": "0x8ddcb75038586a248ab94db6172077b19f84d7edbafc2e21fcd8677f0a5e9b18::biao::BIAO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=457,h=439,fit=crop/mxBZ5VDwz2HjBVJw/group-1-d95KPVx9xJhE4Pp9.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

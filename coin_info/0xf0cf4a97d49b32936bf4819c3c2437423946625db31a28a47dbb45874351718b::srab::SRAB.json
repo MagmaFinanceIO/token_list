@@ -1,0 +1,13 @@
+{
+  "name": "Srab",
+  "symbol": "SRAB",
+  "decimals": 9,
+  "coin_type": "0xf0cf4a97d49b32936bf4819c3c2437423946625db31a28a47dbb45874351718b::srab::SRAB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c0d9f5b4-99e6-4c80-a028-707b605d9fba.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

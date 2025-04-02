@@ -1,0 +1,13 @@
+{
+  "name": "SUPER PEPE COIN",
+  "symbol": "SPC",
+  "decimals": 9,
+  "coin_type": "0x0253f8fadc8635ffddb076d7b2d99e71a3349fa4c0ac33393918ea3c41d8da08::spc::SPC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://app.magmafinance.io/api/logo/0x0253f8fadc8635ffddb076d7b2d99e71a3349fa4c0ac33393918ea3c41d8da08::spc::SPC.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Space BLOB",
+  "symbol": "SBLOB",
+  "decimals": 6,
+  "coin_type": "0xc3a8d50f3ba88abe4318884226aa1a0f41aa2f441628a3458f237bb8c82ad0aa::sblob::SBLOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/565_c2bf6a7242.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

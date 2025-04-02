@@ -1,0 +1,13 @@
+{
+  "name": "HOPOWL",
+  "symbol": "OWL",
+  "decimals": 6,
+  "coin_type": "0x0ee2ddff21c6171cbdd8b26a547f8cfc4442797e2aa14132735df4b82f27be0d::owl::OWL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSZ7xkgG9V8bVAr1pC4uwSBvgrSMxdSNAHaw1uoN3KNKd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

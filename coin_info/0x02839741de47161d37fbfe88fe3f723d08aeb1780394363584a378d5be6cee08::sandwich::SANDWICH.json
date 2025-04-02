@@ -1,0 +1,13 @@
+{
+  "name": "Sandwich",
+  "symbol": "Sandwich",
+  "decimals": 9,
+  "coin_type": "0x02839741de47161d37fbfe88fe3f723d08aeb1780394363584a378d5be6cee08::sandwich::SANDWICH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dcd0648a-8a7c-41d2-a600-6a7c3e686681.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

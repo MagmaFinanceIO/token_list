@@ -1,0 +1,13 @@
+{
+  "name": "Sui Chef",
+  "symbol": "Chef",
+  "decimals": 9,
+  "coin_type": "0xc3e940113f5a4c286f81c309e7676a6b159a0384592b094a7f9cf1d212940eed::chef::CHEF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dc52dc97-c728-42ee-b956-3fe1edccb035.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

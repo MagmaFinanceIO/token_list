@@ -1,0 +1,13 @@
+{
+  "name": "Happy Dog",
+  "symbol": "HAPPYDOG",
+  "decimals": 6,
+  "coin_type": "0x84eec2394ffac7ba1a2bc88d15002485ec4133725b911372fceadf5f66823827::happydog::HAPPYDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://b1157417.smushcdn.com/1157417/wp-content/uploads/2023/09/happy-dog-with-big-tongue-out.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

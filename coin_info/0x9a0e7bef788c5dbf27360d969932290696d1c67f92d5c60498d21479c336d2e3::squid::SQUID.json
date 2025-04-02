@@ -1,0 +1,13 @@
+{
+  "name": "SuiSquidGame",
+  "symbol": "SQUID",
+  "decimals": 9,
+  "coin_type": "0x9a0e7bef788c5dbf27360d969932290696d1c67f92d5c60498d21479c336d2e3::squid::SQUID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/81ff5543-6dc0-4413-9b0b-62003301d8cc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

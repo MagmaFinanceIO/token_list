@@ -1,0 +1,13 @@
+{
+  "name": "Israel",
+  "symbol": "Israel",
+  "decimals": 2,
+  "coin_type": "0x3ebd00081d3d9e6e215f421e32cc315fa6c8039af6afe95b7950fc9ccee2ce9a::israel::ISRAEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f2231b07-0eb3-4709-b743-1fc6d5f33c8e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

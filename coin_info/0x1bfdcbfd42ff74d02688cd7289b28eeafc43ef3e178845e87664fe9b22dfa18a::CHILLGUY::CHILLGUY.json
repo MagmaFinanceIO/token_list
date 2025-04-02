@@ -1,0 +1,13 @@
+{
+  "name": "Just a Chill Guy",
+  "symbol": "CHILLGUY ",
+  "decimals": 9,
+  "coin_type": "0x1bfdcbfd42ff74d02688cd7289b28eeafc43ef3e178845e87664fe9b22dfa18a::CHILLGUY::CHILLGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/b6nmFqY/png3.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

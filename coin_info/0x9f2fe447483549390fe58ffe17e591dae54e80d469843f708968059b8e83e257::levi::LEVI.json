@@ -1,0 +1,13 @@
+{
+  "name": "LEVIATHAN",
+  "symbol": "LEVI",
+  "decimals": 9,
+  "coin_type": "0x9f2fe447483549390fe58ffe17e591dae54e80d469843f708968059b8e83e257::levi::LEVI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/00bc4dd4-b6d2-44d9-8127-5f3a9fb77872.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

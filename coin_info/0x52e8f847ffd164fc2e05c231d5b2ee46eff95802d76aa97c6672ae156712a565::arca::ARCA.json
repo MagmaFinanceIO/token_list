@@ -1,0 +1,13 @@
+{
+  "name": "ArcheriumAI",
+  "symbol": "ARCA",
+  "decimals": 6,
+  "coin_type": "0x52e8f847ffd164fc2e05c231d5b2ee46eff95802d76aa97c6672ae156712a565::arca::ARCA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1738375677114.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

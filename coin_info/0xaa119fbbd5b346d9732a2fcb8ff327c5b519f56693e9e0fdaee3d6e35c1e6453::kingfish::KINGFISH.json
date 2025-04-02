@@ -1,0 +1,13 @@
+{
+  "name": "Kingfish 👑 🐠",
+  "symbol": "KINGFISH",
+  "decimals": 9,
+  "coin_type": "0xaa119fbbd5b346d9732a2fcb8ff327c5b519f56693e9e0fdaee3d6e35c1e6453::kingfish::KINGFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/226bf3cc-91ed-4642-98dd-9bc40a6789fc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

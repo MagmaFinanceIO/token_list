@@ -1,0 +1,13 @@
+{
+  "name": "Sola AI",
+  "symbol": "SOLA",
+  "decimals": 9,
+  "coin_type": "0x67500593d6a1e1345387995ef5203f57fceaacf4e235348e878785b529bc049e::sola::SOLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B5UsiUYcTD3PcQa8r2uXcVgRmDL8jUYuXPiYjrY7pump.png?size=lg&key=059768",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

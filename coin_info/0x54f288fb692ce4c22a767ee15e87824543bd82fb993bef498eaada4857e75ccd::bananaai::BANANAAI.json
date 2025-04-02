@@ -1,0 +1,13 @@
+{
+  "name": "BANANA AI",
+  "symbol": "BANANAAI",
+  "decimals": 9,
+  "coin_type": "0x54f288fb692ce4c22a767ee15e87824543bd82fb993bef498eaada4857e75ccd::bananaai::BANANAAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GpVjd94Wj19gJnMAHhh9ENViwezVYpy4Z5JEM5wuxCjB.png?size=lg&key=4ed1bd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

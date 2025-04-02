@@ -1,0 +1,13 @@
+{
+  "name": "EL GATO",
+  "symbol": "GATO",
+  "decimals": 9,
+  "coin_type": "0xaf84213547e82b238463e8f85a1c242d0a6cb32cc3adf214c3855ba8ca4d3b85::gato::GATO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/G7BJzg55Afx6Tn6J9CJfA444jMf6QJbVjgQAevNTpump.png?size=lg&key=01b6bf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

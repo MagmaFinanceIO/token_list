@@ -1,0 +1,13 @@
+{
+  "name": "GODS",
+  "symbol": "GODS",
+  "decimals": 9,
+  "coin_type": "0x07cc26addc7ae26517a0bc8ed5f0890a5917e64d36f88bd891b0e226f91877a6::GODS::GODS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

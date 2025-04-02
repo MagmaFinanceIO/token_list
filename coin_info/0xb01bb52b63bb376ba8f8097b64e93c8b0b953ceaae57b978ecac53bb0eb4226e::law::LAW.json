@@ -1,0 +1,13 @@
+{
+  "name": "Yumi AI",
+  "symbol": "LAW",
+  "decimals": 9,
+  "coin_type": "0xb01bb52b63bb376ba8f8097b64e93c8b0b953ceaae57b978ecac53bb0eb4226e::law::LAW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BQ2pPP9GCvJE15cskp5RdKdfCyjLgHBHkC1DqjAFek8t.png?size=lg&key=3f8a99",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

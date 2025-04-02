@@ -1,0 +1,13 @@
+{
+  "name": "Angola",
+  "symbol": "Angola",
+  "decimals": 2,
+  "coin_type": "0x40223fd87aceb82f914b96a340c0b8899f595450bb3d277344beeb66491b0eda::angola::ANGOLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a54e96ac-1e40-44ed-821f-62d3ddd0045a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

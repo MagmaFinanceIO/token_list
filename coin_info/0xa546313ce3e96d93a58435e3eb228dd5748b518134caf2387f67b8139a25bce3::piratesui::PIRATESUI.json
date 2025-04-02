@@ -1,0 +1,13 @@
+{
+  "name": "Pirates Of Sui",
+  "symbol": "PIRATESUI",
+  "decimals": 6,
+  "coin_type": "0xa546313ce3e96d93a58435e3eb228dd5748b518134caf2387f67b8139a25bce3::piratesui::PIRATESUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pirates_of_sui_logo_1000_x_1000_px_463af6849f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Squishy Mellow",
+  "symbol": "SQUISH",
+  "decimals": 9,
+  "coin_type": "0x6e76765a02adef7f949d3b92d220a082ed8c8025c5d8a86614e587e01fbdb817::squish::SQUISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f526d5de-6266-473f-b1a8-504207c63a41.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

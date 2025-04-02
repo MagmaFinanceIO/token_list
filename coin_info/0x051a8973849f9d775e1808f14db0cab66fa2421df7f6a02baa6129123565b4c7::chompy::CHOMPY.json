@@ -1,0 +1,13 @@
+{
+  "name": "CHOMPY",
+  "symbol": "CHOMPY",
+  "decimals": 9,
+  "coin_type": "0x051a8973849f9d775e1808f14db0cab66fa2421df7f6a02baa6129123565b4c7::chompy::CHOMPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4d9b11f7-61f1-415d-8fb6-563fc50c5624.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

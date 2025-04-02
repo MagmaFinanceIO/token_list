@@ -1,0 +1,13 @@
+{
+  "name": "WaterMan On Sui",
+  "symbol": "WMSUI",
+  "decimals": 6,
+  "coin_type": "0x005ec3439da43aa847b51c62c6a3d7e048d7d6a5af2d1c3e77ee51593918217e::wmsui::WMSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000332_a840ef2ba0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

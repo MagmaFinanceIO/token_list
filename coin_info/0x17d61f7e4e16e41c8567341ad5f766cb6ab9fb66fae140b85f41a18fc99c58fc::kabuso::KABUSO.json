@@ -1,0 +1,13 @@
+{
+  "name": "KABUSUI",
+  "symbol": "KABUSO",
+  "decimals": 9,
+  "coin_type": "0x17d61f7e4e16e41c8567341ad5f766cb6ab9fb66fae140b85f41a18fc99c58fc::kabuso::KABUSO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c5b2dd3d-1101-46a1-a7fd-a6aacde23221.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

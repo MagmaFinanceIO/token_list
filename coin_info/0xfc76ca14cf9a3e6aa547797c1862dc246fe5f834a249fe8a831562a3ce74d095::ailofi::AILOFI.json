@@ -1,0 +1,13 @@
+{
+  "name": "0xLofi Agent Lofi by SuiAI",
+  "symbol": "AILOFI",
+  "decimals": 6,
+  "coin_type": "0xfc76ca14cf9a3e6aa547797c1862dc246fe5f834a249fe8a831562a3ce74d095::ailofi::AILOFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/DALL_E_2025_01_07_22_26_54_A_modern_minimalist_AI_generated_rendition_of_a_cartoon_yeti_with_blue_and_white_fur_large_expressive_eyes_and_a_slightly_humorous_facial_expressio_fba8a21073.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

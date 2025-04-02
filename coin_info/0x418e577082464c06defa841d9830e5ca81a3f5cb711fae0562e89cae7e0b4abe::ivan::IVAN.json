@@ -1,0 +1,13 @@
+{
+  "name": "IVAN",
+  "symbol": "IVAN",
+  "decimals": 6,
+  "coin_type": "0x418e577082464c06defa841d9830e5ca81a3f5cb711fae0562e89cae7e0b4abe::ivan::IVAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmNTmbjNW37d6ioMXDy9zRwn2anqPHJRR1dWZcsUrNd31g",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

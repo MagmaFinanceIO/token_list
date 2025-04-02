@@ -1,0 +1,13 @@
+{
+  "name": "Pesto The Baby King Penguin",
+  "symbol": "PESTO",
+  "decimals": 9,
+  "coin_type": "0x1b533703e6a79b567f643e4e739813c02dc1c4ab42504f9341c288f122e76a6e::pesto::PESTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/76f59755-a6e3-4135-ba3a-2a993593489f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

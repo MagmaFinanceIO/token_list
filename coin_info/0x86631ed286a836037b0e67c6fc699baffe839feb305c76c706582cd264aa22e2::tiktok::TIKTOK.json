@@ -1,0 +1,13 @@
+{
+  "name": "TikTok",
+  "symbol": "TikTok",
+  "decimals": 9,
+  "coin_type": "0x86631ed286a836037b0e67c6fc699baffe839feb305c76c706582cd264aa22e2::tiktok::TIKTOK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

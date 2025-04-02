@@ -1,0 +1,13 @@
+{
+  "name": "King Pesto",
+  "symbol": "PESTO",
+  "decimals": 2,
+  "coin_type": "0x8464423307c115ab9af395b6935d624ac4a478c61070263b720fb186dcc73f74::pesto::PESTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d579f5d8-695a-4bba-9928-f8e5e32986c3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

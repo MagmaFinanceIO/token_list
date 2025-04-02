@@ -1,0 +1,13 @@
+{
+  "name": "SOON AI",
+  "symbol": "SOONAI",
+  "decimals": 9,
+  "coin_type": "0xc37fe7736674d38d29cea7489e16f01bfa8e742558dafe90599ffc71c99e8466::soonai::SOONAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4ebb27cb-3ca8-4a31-bc8b-0778d4f63b5e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

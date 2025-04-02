@@ -1,0 +1,13 @@
+{
+  "name": "SUIPIDERMAN",
+  "symbol": "SUIPIDER",
+  "decimals": 6,
+  "coin_type": "0x50d5e3c7914dbae09976b65e20bd1ea35e3c35f5fb6168f7bcb3805b306a2fe4::suipider::SUIPIDER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/A_2_4b35e3a693.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

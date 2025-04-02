@@ -1,0 +1,13 @@
+{
+  "name": "Waves Protocol",
+  "symbol": "Waves",
+  "decimals": 9,
+  "coin_type": "0xb115031befd1bbea99a54b8c75d4fba1dc403648b093b68420cccccebd3c27c0::waves::WAVES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b64f8033-4673-46f9-9bdf-e08861947bb1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

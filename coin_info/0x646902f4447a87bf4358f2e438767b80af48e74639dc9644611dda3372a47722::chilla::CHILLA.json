@@ -1,0 +1,13 @@
+{
+  "name": "ChinChilla",
+  "symbol": "CHILLA",
+  "decimals": 9,
+  "coin_type": "0x646902f4447a87bf4358f2e438767b80af48e74639dc9644611dda3372a47722::chilla::CHILLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/68a90fb2-846f-41ea-9ac0-a7e353b4fe14.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

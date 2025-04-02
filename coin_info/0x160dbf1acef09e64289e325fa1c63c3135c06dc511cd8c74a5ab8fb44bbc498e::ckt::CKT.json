@@ -1,0 +1,13 @@
+{
+  "name": "COCKTAIL",
+  "symbol": "CKT",
+  "decimals": 9,
+  "coin_type": "0x160dbf1acef09e64289e325fa1c63c3135c06dc511cd8c74a5ab8fb44bbc498e::ckt::CKT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0dff5c2c-019a-4c1a-a897-933ab1eba1c3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

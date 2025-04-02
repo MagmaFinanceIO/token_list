@@ -1,0 +1,13 @@
+{
+  "name": "Sungshoon Baby Penguin",
+  "symbol": "SUNOO",
+  "decimals": 9,
+  "coin_type": "0x6855b81b3a58c31b43fb4b7cc11e7971520acdb2d6478165fe7a4e4dcaae0b94::sunoo::SUNOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BxBReZ7gTa4HBC29A3KtmsjqnobvRu9g59gBMbTUpump.png?size=lg&key=4309b5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

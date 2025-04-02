@@ -1,0 +1,13 @@
+{
+  "name": "Eth",
+  "symbol": "Ethereum",
+  "decimals": 6,
+  "coin_type": "0x512509d021818f0ff80bd0bcfc97463a8ed19786a080c46cc135abe12d03be45::ethereum::ETHEREUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000001315_85bb09d8b9.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

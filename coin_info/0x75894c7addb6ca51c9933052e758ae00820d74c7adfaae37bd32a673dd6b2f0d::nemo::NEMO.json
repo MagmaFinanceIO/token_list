@@ -1,0 +1,13 @@
+{
+  "name": "SuiNemoFish",
+  "symbol": "NEMO",
+  "decimals": 6,
+  "coin_type": "0x75894c7addb6ca51c9933052e758ae00820d74c7adfaae37bd32a673dd6b2f0d::nemo::NEMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/fish_is_the_ticker_f2ac44f569.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

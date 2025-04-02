@@ -1,0 +1,13 @@
+{
+  "name": "CAMEL TOE SUI",
+  "symbol": "PUSSUI",
+  "decimals": 6,
+  "coin_type": "0xd10952ff86a22e246d9909097c46ad92370f88a519ed88a84aaf09c79d807e1e::pussui::PUSSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/camel_toe_gif_6d642d1981.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

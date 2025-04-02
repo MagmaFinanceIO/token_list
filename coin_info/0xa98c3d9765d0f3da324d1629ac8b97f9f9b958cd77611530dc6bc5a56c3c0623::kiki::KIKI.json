@@ -1,0 +1,13 @@
+{
+  "name": "KikiFlaminki",
+  "symbol": "KIKI",
+  "decimals": 9,
+  "coin_type": "0xa98c3d9765d0f3da324d1629ac8b97f9f9b958cd77611530dc6bc5a56c3c0623::kiki::KIKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0xc849418f46a25d302f55d25c40a82c99404e5245.png?size=xl&key=36301c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

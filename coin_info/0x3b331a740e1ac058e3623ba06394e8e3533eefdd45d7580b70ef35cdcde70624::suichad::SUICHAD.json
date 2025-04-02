@@ -1,0 +1,13 @@
+{
+  "name": "Sui Chad",
+  "symbol": "SUICHAD",
+  "decimals": 9,
+  "coin_type": "0x3b331a740e1ac058e3623ba06394e8e3533eefdd45d7580b70ef35cdcde70624::suichad::SUICHAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fdea00fc-030d-4959-b233-36e2de1885f0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

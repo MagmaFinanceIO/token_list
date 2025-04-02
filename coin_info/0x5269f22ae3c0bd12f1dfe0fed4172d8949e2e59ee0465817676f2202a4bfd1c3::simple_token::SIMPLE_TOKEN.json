@@ -1,0 +1,13 @@
+{
+  "name": "TENTS",
+  "symbol": "TENTS",
+  "decimals": 9,
+  "coin_type": "0x5269f22ae3c0bd12f1dfe0fed4172d8949e2e59ee0465817676f2202a4bfd1c3::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

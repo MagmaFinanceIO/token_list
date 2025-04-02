@@ -1,0 +1,13 @@
+{
+  "name": "Official Discord Coin",
+  "symbol": "DISC",
+  "decimals": 9,
+  "coin_type": "0x3ee0b4a9a429702c15721ef8651c15c4a68a0512efef6c3942c98c7fde0229fb::disc::DISC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DyrTGEnxJaJvKGTTGme6aHjaTVEabfPKq74gX1jfnas.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

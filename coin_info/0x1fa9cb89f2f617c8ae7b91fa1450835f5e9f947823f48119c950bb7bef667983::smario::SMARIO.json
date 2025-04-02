@@ -1,0 +1,13 @@
+{
+  "name": "Suiper Mario",
+  "symbol": "SMARIO",
+  "decimals": 6,
+  "coin_type": "0x1fa9cb89f2f617c8ae7b91fa1450835f5e9f947823f48119c950bb7bef667983::smario::SMARIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000024609_6994f0fb9d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

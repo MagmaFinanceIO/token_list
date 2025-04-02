@@ -1,0 +1,13 @@
+{
+  "name": "Peepee",
+  "symbol": "PEEPEE",
+  "decimals": 6,
+  "coin_type": "0xe95ff4ba39d2c1219248dcbff29a035926d845c2bb8d2ea00d32c7be2450824a::peepee::PEEPEE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_11_21_at_11_11_42a_am_5cb9690ee9.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

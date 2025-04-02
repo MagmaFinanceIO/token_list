@@ -1,0 +1,13 @@
+{
+  "name": "Trumpkin",
+  "symbol": "TRMPK",
+  "decimals": 9,
+  "coin_type": "0xed0bd7dc55e00af7c2ea04e2f11d2a02b774dc64c312d42e018067a6f8309fb4::trmpk::TRMPK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6d900736-b31f-454f-a619-6e5c74ce8c53.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

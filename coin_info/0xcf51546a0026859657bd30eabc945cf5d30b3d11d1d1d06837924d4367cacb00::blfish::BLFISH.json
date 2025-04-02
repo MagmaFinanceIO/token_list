@@ -1,0 +1,13 @@
+{
+  "name": "BLACK FISH",
+  "symbol": "BLFISH",
+  "decimals": 6,
+  "coin_type": "0xcf51546a0026859657bd30eabc945cf5d30b3d11d1d1d06837924d4367cacb00::blfish::BLFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/fish_LOGO_95dd8a9f03.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

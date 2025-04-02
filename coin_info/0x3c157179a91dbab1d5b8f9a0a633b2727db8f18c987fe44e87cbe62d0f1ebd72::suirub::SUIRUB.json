@@ -1,0 +1,13 @@
+{
+  "name": "Suirub The Hedgehog",
+  "symbol": "SUIRUB",
+  "decimals": 6,
+  "coin_type": "0x3c157179a91dbab1d5b8f9a0a633b2727db8f18c987fe44e87cbe62d0f1ebd72::suirub::SUIRUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731516093158.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CESHI",
+  "symbol": "CS",
+  "decimals": 6,
+  "coin_type": "0xc3238d2cb6bae2f7b64ced3fc85608e009bfd073cb1d58f484402d42a199f422::cs::CS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "undefined",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

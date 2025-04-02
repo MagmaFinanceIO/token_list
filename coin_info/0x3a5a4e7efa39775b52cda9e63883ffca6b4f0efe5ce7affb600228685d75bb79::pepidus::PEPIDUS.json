@@ -1,0 +1,13 @@
+{
+  "name": "Pepidus Nero",
+  "symbol": "Pepidus",
+  "decimals": 9,
+  "coin_type": "0x3a5a4e7efa39775b52cda9e63883ffca6b4f0efe5ce7affb600228685d75bb79::pepidus::PEPIDUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BpTCJyXQkdjYwg4e185d9QTbjyrHmxFYksuAirbUEPMF.png?size=lg&key=f9cd93",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

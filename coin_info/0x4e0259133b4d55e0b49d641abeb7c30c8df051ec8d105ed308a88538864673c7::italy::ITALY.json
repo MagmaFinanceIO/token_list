@@ -1,0 +1,13 @@
+{
+  "name": "ITALY",
+  "symbol": "ITALY",
+  "decimals": 9,
+  "coin_type": "0x4e0259133b4d55e0b49d641abeb7c30c8df051ec8d105ed308a88538864673c7::italy::ITALY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.hardcoreitalians.com/cdn/shop/files/italian-flag-3x5_183278fb-e6cf-40fa-8fb4-513e4aac0e51.jpg?v=1724981906&width=1800",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

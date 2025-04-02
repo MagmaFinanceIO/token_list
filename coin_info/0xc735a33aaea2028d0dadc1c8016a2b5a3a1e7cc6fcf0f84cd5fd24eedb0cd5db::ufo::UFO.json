@@ -1,0 +1,13 @@
+{
+  "name": "UFO COIN",
+  "symbol": "UFO",
+  "decimals": 6,
+  "coin_type": "0xc735a33aaea2028d0dadc1c8016a2b5a3a1e7cc6fcf0f84cd5fd24eedb0cd5db::ufo::UFO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/alien_9_e1719018228387_05d727c605.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

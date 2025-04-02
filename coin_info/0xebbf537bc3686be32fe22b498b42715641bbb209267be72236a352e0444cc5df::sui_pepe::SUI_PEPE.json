@@ -1,0 +1,13 @@
+{
+  "name": "SUI PEPE",
+  "symbol": "SPEPE",
+  "decimals": 6,
+  "coin_type": "0xebbf537bc3686be32fe22b498b42715641bbb209267be72236a352e0444cc5df::sui_pepe::SUI_PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://sui-pepe.xyz/_next/static/media/logo.6e0d8f53.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

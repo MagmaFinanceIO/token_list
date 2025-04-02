@@ -1,0 +1,13 @@
+{
+  "name": "Sui Cats",
+  "symbol": "SUICATS",
+  "decimals": 9,
+  "coin_type": "0x02fd2d34a493849e6bfec78355cf695c6814b2bfb6a5855cd44936d96cc12ee2::suicats::SUICATS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1844190132401995779/Y2BzKmot.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

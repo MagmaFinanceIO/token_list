@@ -1,0 +1,13 @@
+{
+  "name": "Bluemoji",
+  "symbol": "JOOBI",
+  "decimals": 6,
+  "coin_type": "0x1c3527f48bac4eb024d584915ab5a53384bb254ed88f8228736ea730b036b130::joobi::JOOBI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731775464846.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

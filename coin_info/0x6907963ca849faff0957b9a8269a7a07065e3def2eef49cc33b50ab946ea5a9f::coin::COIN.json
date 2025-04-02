@@ -1,0 +1,15 @@
+{
+  "name": "BonkCoin (Portal from Solana)",
+  "symbol": "BONK",
+  "decimals": 5,
+  "coin_type": "0x6907963ca849faff0957b9a8269a7a07065e3def2eef49cc33b50ab946ea5a9f::coin::COIN",
+  "pyth_id": "72b021217ca3fe68922a19aaf990109cb9d84e9ad004b4d2025ad6f529314419",
+  "birdeyeid": "0x6907963ca849faff0957b9a8269a7a07065e3def2eef49cc33b50ab946ea5a9f::coin::COIN",
+  "coin_priority": [
+    "680"
+  ],
+  "logo_url": "https://3dgyzd2llawd2e6monsrlnrj4ijs3n3zkno37khmqcfbfjquvknq.arweave.net/2M2Mj0tYLD0TzHNlFbYp4hMtt3lTXb-o7ICKEqYUqps",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

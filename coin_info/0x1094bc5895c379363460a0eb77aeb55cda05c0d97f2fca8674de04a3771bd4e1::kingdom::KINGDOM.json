@@ -1,0 +1,13 @@
+{
+  "name": "KINGDOM",
+  "symbol": "KNDOM",
+  "decimals": 9,
+  "coin_type": "0x1094bc5895c379363460a0eb77aeb55cda05c0d97f2fca8674de04a3771bd4e1::kingdom::KINGDOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1364334914498416640/aGuvp6mY_400x400.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

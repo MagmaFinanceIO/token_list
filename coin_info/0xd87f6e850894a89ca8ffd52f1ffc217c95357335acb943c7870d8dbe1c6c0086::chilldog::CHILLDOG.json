@@ -1,0 +1,13 @@
+{
+  "name": "Just a chill Doge",
+  "symbol": "CHILLDOG",
+  "decimals": 9,
+  "coin_type": "0xd87f6e850894a89ca8ffd52f1ffc217c95357335acb943c7870d8dbe1c6c0086::chilldog::CHILLDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3vpkxR5mmLHSorBu8AtkrRETr9CWTmU2fKoaGnd9Vdoj.png?size=lg&key=552d9d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

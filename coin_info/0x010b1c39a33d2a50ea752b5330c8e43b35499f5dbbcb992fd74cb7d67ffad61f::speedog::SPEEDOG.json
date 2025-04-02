@@ -1,0 +1,13 @@
+{
+  "name": "Speedog",
+  "symbol": "SPEEDOG",
+  "decimals": 9,
+  "coin_type": "0x010b1c39a33d2a50ea752b5330c8e43b35499f5dbbcb992fd74cb7d67ffad61f::speedog::SPEEDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d02ef018-9a2a-4371-bff7-6539ac8cc85a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

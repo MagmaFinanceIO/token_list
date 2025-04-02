@@ -1,0 +1,13 @@
+{
+  "name": "SUIGOAL",
+  "symbol": "SUIGOAL",
+  "decimals": 9,
+  "coin_type": "0xa431d52fa2657a471d11e10bca952e60ff235bbbf3a0a17b41945d61484e5224::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

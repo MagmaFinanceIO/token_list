@@ -1,0 +1,13 @@
+{
+  "name": "Sui Monster",
+  "symbol": "SuiMonster",
+  "decimals": 9,
+  "coin_type": "0xdb05a7e42f8441d7123fb0e2e51d7ef462ed24183576278874c3f4fed947f9f3::suimonster::SUIMONSTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cf9dc021-cc5e-4eb1-8b1d-f6aa9cc5af53.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

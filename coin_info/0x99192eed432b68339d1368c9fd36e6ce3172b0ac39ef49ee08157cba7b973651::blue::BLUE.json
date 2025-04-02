@@ -1,0 +1,13 @@
+{
+  "name": "Sui is Blue",
+  "symbol": "BLUE",
+  "decimals": 6,
+  "coin_type": "0x99192eed432b68339d1368c9fd36e6ce3172b0ac39ef49ee08157cba7b973651::blue::BLUE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmTXNQMd43G96w6ugbCEeaCZEeZdKyCUFGxLjRRjAECTXB",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

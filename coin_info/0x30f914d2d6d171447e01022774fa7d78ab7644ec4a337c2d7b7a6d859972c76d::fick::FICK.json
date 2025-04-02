@@ -1,0 +1,13 @@
+{
+  "name": "Fishstick",
+  "symbol": "FICK",
+  "decimals": 6,
+  "coin_type": "0x30f914d2d6d171447e01022774fa7d78ab7644ec4a337c2d7b7a6d859972c76d::fick::FICK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_12_02_22_48_24_d56c21d741.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

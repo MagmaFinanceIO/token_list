@@ -1,0 +1,13 @@
+{
+  "name": "TaptapPinky",
+  "symbol": "Pinky",
+  "decimals": 9,
+  "coin_type": "0x4a15e1669ed5fb572a4487e3bb36bd9a677985e5d2b353f0ac2d0b1bc9ad7ce6::pinky::PINKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/55c12a65-d241-4c5e-8eca-35e501d07532.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

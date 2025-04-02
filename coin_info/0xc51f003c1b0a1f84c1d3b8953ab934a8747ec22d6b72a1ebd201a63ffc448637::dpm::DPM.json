@@ -1,0 +1,13 @@
+{
+  "name": "DogPopMeme",
+  "symbol": "DPM",
+  "decimals": 6,
+  "coin_type": "0xc51f003c1b0a1f84c1d3b8953ab934a8747ec22d6b72a1ebd201a63ffc448637::dpm::DPM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Trrs_ZL_1_Ms3_T7_Jgc_Gv_Qnk2_A71u_K_Dk_Rx_Dk_EL_Kw8_Haheuem_8bdb11ae5b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Jolly",
+  "symbol": "Jolly",
+  "decimals": 9,
+  "coin_type": "0x4da9e05baef665d86ae24501df7ed9d47358acbc6d41fdfa9aaaeb278185a671::jolly::JOLLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

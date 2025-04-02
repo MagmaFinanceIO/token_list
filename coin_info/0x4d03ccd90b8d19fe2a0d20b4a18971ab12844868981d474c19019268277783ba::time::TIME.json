@@ -1,0 +1,13 @@
+{
+  "name": "TIMECOIN",
+  "symbol": "TIME",
+  "decimals": 9,
+  "coin_type": "0x4d03ccd90b8d19fe2a0d20b4a18971ab12844868981d474c19019268277783ba::time::TIME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/G6aCuUJQXZNrE5bD6a8Yv2Ytt3KC8V9xPbN5xRbXvLgY.png?size=lg&key=bd3c82",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUILION",
+  "symbol": "SLION",
+  "decimals": 6,
+  "coin_type": "0x56d0ea7fd120f8c18eff0fd92d81c4f86cbe976dbcb1c04a7e8f325a7604ba07::slion::SLION",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://magenta-protestant-falcon-171.mypinata.cloud/ipfs/QmRX29qNxA4XgiqQV7V54tATTwsyy3gmM2LYRgJ9jGZJJz",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

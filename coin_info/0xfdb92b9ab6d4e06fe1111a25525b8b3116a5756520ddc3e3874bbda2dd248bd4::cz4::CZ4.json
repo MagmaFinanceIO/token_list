@@ -1,0 +1,13 @@
+{
+  "name": "CZ Free",
+  "symbol": "CZ4",
+  "decimals": 6,
+  "coin_type": "0xfdb92b9ab6d4e06fe1111a25525b8b3116a5756520ddc3e3874bbda2dd248bd4::cz4::CZ4",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/4_4a0b33ae47.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

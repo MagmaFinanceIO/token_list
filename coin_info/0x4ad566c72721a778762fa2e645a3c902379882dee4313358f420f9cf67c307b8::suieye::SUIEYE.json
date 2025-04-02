@@ -1,0 +1,13 @@
+{
+  "name": "SuiEye  by SuiAI",
+  "symbol": "SUIEYE",
+  "decimals": 6,
+  "coin_type": "0x4ad566c72721a778762fa2e645a3c902379882dee4313358f420f9cf67c307b8::suieye::SUIEYE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/An_artistic_and_visually_crafted_logo_for_Sui_Eye_9a868757e5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

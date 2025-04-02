@@ -1,0 +1,13 @@
+{
+  "name": "Tsuinade",
+  "symbol": "TSUINADE",
+  "decimals": 9,
+  "coin_type": "0x5e3acfb746eddaf82ddb7667998f39257f1c5269611c8f3d3a320e36d90f2867::tsuinade::TSUINADE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://aquamarine-giant-muskox-172.mypinata.cloud/ipfs/QmdWDAync3iSKLKYXa9YaXpWv7dHcAWC15t3e8bwZCWnmo",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

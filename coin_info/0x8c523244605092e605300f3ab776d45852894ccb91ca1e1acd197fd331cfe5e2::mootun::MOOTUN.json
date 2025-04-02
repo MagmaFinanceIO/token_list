@@ -1,0 +1,13 @@
+{
+  "name": "Moo Tun",
+  "symbol": "MOOTUN",
+  "decimals": 6,
+  "coin_type": "0x8c523244605092e605300f3ab776d45852894ccb91ca1e1acd197fd331cfe5e2::mootun::MOOTUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/d_X1kh0ix_400x400_e567fbe532.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

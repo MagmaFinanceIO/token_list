@@ -1,0 +1,13 @@
+{
+  "name": "XAU ROOT",
+  "symbol": "XAUROOT",
+  "decimals": 6,
+  "coin_type": "0x901bdc78e4716ee1461d65d9425710b6ed855f35448cac9ad452e78877b90fce::xauroot::XAUROOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_09_25_alle_21_18_18_1cf30d59c0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

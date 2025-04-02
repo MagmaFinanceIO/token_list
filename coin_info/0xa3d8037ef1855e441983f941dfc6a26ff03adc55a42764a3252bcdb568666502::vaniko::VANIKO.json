@@ -1,0 +1,13 @@
+{
+  "name": "Binance cat \"VANIKO\"",
+  "symbol": "VANIKO",
+  "decimals": 9,
+  "coin_type": "0xa3d8037ef1855e441983f941dfc6a26ff03adc55a42764a3252bcdb568666502::vaniko::VANIKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmaWFZLpBsnBd3aakWatFenyVRtHgB3229G5YiQX57Yike",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

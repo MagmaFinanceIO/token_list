@@ -1,0 +1,13 @@
+{
+  "name": "GUMMY ON SUI",
+  "symbol": "GUMMY",
+  "decimals": 9,
+  "coin_type": "0xc0d55de276dafa87822905268c1e0f4e2f6c5c07c2a11c93da4a05477ddf5fcf::gummy::GUMMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3ae5c0eb-445b-4600-8dc8-ef727a55f31b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

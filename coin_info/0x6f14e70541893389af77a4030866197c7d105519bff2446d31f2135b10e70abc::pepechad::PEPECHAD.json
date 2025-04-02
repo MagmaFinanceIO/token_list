@@ -1,0 +1,13 @@
+{
+  "name": "PEPE THE CHAD",
+  "symbol": "PEPECHAD",
+  "decimals": 6,
+  "coin_type": "0x6f14e70541893389af77a4030866197c7d105519bff2446d31f2135b10e70abc::pepechad::PEPECHAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_4a31a90002.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "JoyCat",
+  "symbol": "Joycat",
+  "decimals": 3,
+  "coin_type": "0x6220f2b15b4af822253c015e1be4b0e1916c2d6b3d77a1408944827fde09b498::joycat::JOYCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://photos.fife.usercontent.google.com/pw/AP1GczOnJolGDYXpAoKLWiLwVKhzeWf1IemJ86KUkWEWPqUIeCoi1s9ZayaS=w256-h256-s-no-gm?authuser=0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

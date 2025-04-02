@@ -1,0 +1,13 @@
+{
+  "name": "Cure Cancer Nonprofit Coin",
+  "symbol": "CCN",
+  "decimals": 3,
+  "coin_type": "0xaf1a64b1f4f29952531fca984f7cfde26f37053c56da8eb8c7aec8b49ec322ee::ccn::CCN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b74f1b26-113a-4464-ac3a-0932f55c227c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

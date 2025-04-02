@@ -1,0 +1,13 @@
+{
+  "name": "SUIPREME",
+  "symbol": "Suipreme",
+  "decimals": 6,
+  "coin_type": "0x37f27d5747d56d45257b2d404bb294107c8c6f448a4629a2995bde4b60b2362c::suipreme::SUIPREME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FCapture_da_A_cran_2024_09_20_002453_21a988686c.jpg&w=256&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suibbu The Crab",
+  "symbol": "SUIBBU",
+  "decimals": 6,
+  "coin_type": "0xe909e777e6cc3030858d88bfe901970d03cb6209a3445fdad61f4a3e7308c7c8::suibbu::SUIBBU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmTupQs35dErnPeKhqo7ZD5JzfWPKwv3cb4rqbpukmPTby",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

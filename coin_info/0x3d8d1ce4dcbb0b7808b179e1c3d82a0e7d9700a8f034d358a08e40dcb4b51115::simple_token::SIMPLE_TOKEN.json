@@ -1,0 +1,13 @@
+{
+  "name": "NFTITTIES",
+  "symbol": "NFTITTIES",
+  "decimals": 9,
+  "coin_type": "0x3d8d1ce4dcbb0b7808b179e1c3d82a0e7d9700a8f034d358a08e40dcb4b51115::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

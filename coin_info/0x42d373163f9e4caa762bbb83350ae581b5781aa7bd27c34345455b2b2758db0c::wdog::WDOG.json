@@ -1,0 +1,13 @@
+{
+  "name": "wrapped dog",
+  "symbol": "wDOG",
+  "decimals": 6,
+  "coin_type": "0x42d373163f9e4caa762bbb83350ae581b5781aa7bd27c34345455b2b2758db0c::wdog::WDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmVAQDZHkqzaWotRwut3fjw1WAgRByiyqPVFMdWExzFExy",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

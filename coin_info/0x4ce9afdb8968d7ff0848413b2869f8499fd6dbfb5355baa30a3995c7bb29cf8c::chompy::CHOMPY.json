@@ -1,0 +1,13 @@
+{
+  "name": "The King Chompy",
+  "symbol": "CHOMPY",
+  "decimals": 9,
+  "coin_type": "0x4ce9afdb8968d7ff0848413b2869f8499fd6dbfb5355baa30a3995c7bb29cf8c::chompy::CHOMPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9f992ded-49bf-4579-8bc5-5d28a13720d6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

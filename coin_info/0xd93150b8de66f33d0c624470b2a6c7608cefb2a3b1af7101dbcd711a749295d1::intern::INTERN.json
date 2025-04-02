@@ -1,0 +1,13 @@
+{
+  "name": "Binance Intern",
+  "symbol": "Intern",
+  "decimals": 9,
+  "coin_type": "0xd93150b8de66f33d0c624470b2a6c7608cefb2a3b1af7101dbcd711a749295d1::intern::INTERN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmNTT3MN84ze2P4VeEcJ2DMvfRHg94e7SR4LgQbnfWgKDG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

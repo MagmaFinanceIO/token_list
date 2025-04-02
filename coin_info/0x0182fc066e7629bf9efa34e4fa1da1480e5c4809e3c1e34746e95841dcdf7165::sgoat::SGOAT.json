@@ -1,0 +1,13 @@
+{
+  "name": "Sui Goat",
+  "symbol": "SGOAT",
+  "decimals": 9,
+  "coin_type": "0x0182fc066e7629bf9efa34e4fa1da1480e5c4809e3c1e34746e95841dcdf7165::sgoat::SGOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/4q47ogD.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Blue Butt On Sui",
+  "symbol": "BBS",
+  "decimals": 6,
+  "coin_type": "0x8aace139609254b3ff528e5983968b7dd7e3d495664c12cc4b29c71514f889a7::bbs::BBS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/6_ed29691c73_5a0baa6475.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

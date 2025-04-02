@@ -1,0 +1,13 @@
+{
+  "name": "Birds Sui By Matt Furrie's",
+  "symbol": "BIRDS",
+  "decimals": 6,
+  "coin_type": "0x5900e5ae401ed3d1d5a396ad1a588e1b0c7171abea46a8fcb3157fb924ba8d2a::birds::BIRDS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_81426039df.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

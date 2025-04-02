@@ -1,0 +1,13 @@
+{
+  "name": "STOP",
+  "symbol": "STOP",
+  "decimals": 9,
+  "coin_type": "0xae6ed47f183e008738fa1b6241dc6e34c2f402e8c462bb07aa74d473eff3766f::stop::STOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

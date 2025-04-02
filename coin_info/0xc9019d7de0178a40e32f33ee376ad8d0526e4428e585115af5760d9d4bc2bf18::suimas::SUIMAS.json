@@ -1,0 +1,13 @@
+{
+  "name": "Sui Xmas",
+  "symbol": "SUIMAS",
+  "decimals": 9,
+  "coin_type": "0xc9019d7de0178a40e32f33ee376ad8d0526e4428e585115af5760d9d4bc2bf18::suimas::SUIMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/12t8AvZrLWUmDJR9R1E2YzmsrYg9QgAjvN1zGe1upump.png?size=lg&key=f21e30",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

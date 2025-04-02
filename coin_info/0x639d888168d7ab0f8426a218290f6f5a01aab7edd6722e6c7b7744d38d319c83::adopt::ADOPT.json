@@ -1,0 +1,13 @@
+{
+  "name": "Adopt",
+  "symbol": "ADOPT",
+  "decimals": 9,
+  "coin_type": "0x639d888168d7ab0f8426a218290f6f5a01aab7edd6722e6c7b7744d38d319c83::adopt::ADOPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a4a2ade5-e0b1-4bad-8985-9119ccbf2573.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

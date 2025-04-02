@@ -1,0 +1,13 @@
+{
+  "name": "Halloween Chiikawa",
+  "symbol": "CHIIKAWA",
+  "decimals": 9,
+  "coin_type": "0xa723025c2bfe11e937427e522829c9f1537e08308ff39fea15e97d67d26563df::chiikawa::CHIIKAWA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HGs2M2x7iHYaDVotWUMWFMLoJGbSWp4MeP1Lon3gESC2.png?size=lg&key=4862fc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

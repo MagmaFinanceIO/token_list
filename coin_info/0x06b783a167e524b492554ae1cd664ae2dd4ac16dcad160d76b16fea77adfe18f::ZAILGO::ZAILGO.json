@@ -1,0 +1,13 @@
+{
+  "name": "ZAILGO ON SUI",
+  "symbol": "ZAILGO",
+  "decimals": 2,
+  "coin_type": "0x06b783a167e524b492554ae1cd664ae2dd4ac16dcad160d76b16fea77adfe18f::ZAILGO::ZAILGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/WUdTPah3pUPGqPUY9fXZD2KHNRssf0cu4psixa54MBs?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL VITALIK",
+  "symbol": "VITALIK",
+  "decimals": 9,
+  "coin_type": "0xa1eaa50deb777fb9d22f2c23927e475d20ed6e3f99465a12eed9d4bb82b12da2::vitalik::VITALIK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DcZ9bkjg1HbEps6NLp87weWAEaJ3x9rAmUiknGiBpump.png?size=lg&key=2cf330",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

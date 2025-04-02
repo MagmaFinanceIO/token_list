@@ -1,0 +1,13 @@
+{
+  "name": "Platty",
+  "symbol": "PLATTY",
+  "decimals": 9,
+  "coin_type": "0xfce0804b50a4f5dd5109a39d0f903b5b159765df1b96e3b1a4822f797e9143c2::platty::PLATTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d763174d-d79c-4b6b-9520-5a6714ee26e8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

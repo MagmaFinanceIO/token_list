@@ -1,0 +1,13 @@
+{
+  "name": "CYBER PEANUT",
+  "symbol": "CYNUT",
+  "decimals": 9,
+  "coin_type": "0x02d7d25d55e28bf7e1cb6fbda1ffb68410610732ce5efcb065508d15fb70de35::cynut::CYNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4fee1184-7d84-4bb9-88ad-fbd5d92f5a4d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NGL It's Wraps",
+  "symbol": "WRAPS",
+  "decimals": 6,
+  "coin_type": "0xe05f014196bc2e05a8f3ffe27c579783e1f2c7928df446e6e422254b9cbd8a58::wraps::WRAPS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pfp_35e164d818.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

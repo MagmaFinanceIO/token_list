@@ -1,0 +1,13 @@
+{
+  "name": "Suicide",
+  "symbol": "Suicide",
+  "decimals": 9,
+  "coin_type": "0xef5924290a6d4501908210ca89a8ab4621d5d29d78fb65eb138c01bfdf5167ef::suicide::SUICIDE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0dfcec4e-42e6-4430-a0d7-8e048a82437e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

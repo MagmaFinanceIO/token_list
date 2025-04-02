@@ -1,0 +1,13 @@
+{
+  "name": "Sado The Side Eye Dog",
+  "symbol": "Sado",
+  "decimals": 9,
+  "coin_type": "0x8bd6182c68574e30045df87467dd481096bec43d68b1e6fb9b13cd97e2949fdf::sado::SADO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GdaUkBKNDEMb4GarEBZB7C2rNcTQaZ2HWEYqcoGGpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

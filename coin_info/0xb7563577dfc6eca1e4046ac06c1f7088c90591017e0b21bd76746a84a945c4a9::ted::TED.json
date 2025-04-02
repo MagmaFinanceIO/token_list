@@ -1,0 +1,13 @@
+{
+  "name": "TEDDY",
+  "symbol": "TED",
+  "decimals": 9,
+  "coin_type": "0xb7563577dfc6eca1e4046ac06c1f7088c90591017e0b21bd76746a84a945c4a9::ted::TED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2Fted4567_a2180f998c.png&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

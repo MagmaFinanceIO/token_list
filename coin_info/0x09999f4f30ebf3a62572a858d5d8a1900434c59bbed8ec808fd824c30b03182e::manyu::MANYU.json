@@ -1,0 +1,13 @@
+{
+  "name": "Manyu DOG",
+  "symbol": "Manyu",
+  "decimals": 6,
+  "coin_type": "0x09999f4f30ebf3a62572a858d5d8a1900434c59bbed8ec808fd824c30b03182e::manyu::MANYU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ssss_1955bd4440.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

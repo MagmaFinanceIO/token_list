@@ -1,0 +1,13 @@
+{
+  "name": "RAFIKI",
+  "symbol": "RAFIKI",
+  "decimals": 9,
+  "coin_type": "0xca90041c7f6c076fa4c8c99f1a907d6b283b3f6dac9e48282ee4a7dbf4d6b5f8::rafiki::RAFIKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BJVbXvLeBQosPogvLDd81sdQbqJoreVUoE3t8csGpump.png?size=lg&key=c2054b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

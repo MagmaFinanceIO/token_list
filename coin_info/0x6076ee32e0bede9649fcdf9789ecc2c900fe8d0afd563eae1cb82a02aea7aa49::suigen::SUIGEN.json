@@ -1,0 +1,13 @@
+{
+  "name": "404 SUI GENIUS",
+  "symbol": "SUIGEN",
+  "decimals": 6,
+  "coin_type": "0x6076ee32e0bede9649fcdf9789ecc2c900fe8d0afd563eae1cb82a02aea7aa49::suigen::SUIGEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731224952386.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

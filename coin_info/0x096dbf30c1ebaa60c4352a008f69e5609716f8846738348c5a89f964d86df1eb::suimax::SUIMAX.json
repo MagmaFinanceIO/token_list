@@ -1,0 +1,13 @@
+{
+  "name": "Sui MAX",
+  "symbol": "SuiMAX",
+  "decimals": 9,
+  "coin_type": "0x096dbf30c1ebaa60c4352a008f69e5609716f8846738348c5a89f964d86df1eb::suimax::SUIMAX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2a919751-0303-4bfa-8d8e-c07e9e99e209.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

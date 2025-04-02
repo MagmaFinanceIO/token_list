@@ -1,0 +1,13 @@
+{
+  "name": "MUSK D.O.G.E",
+  "symbol": "MUSKDOGE",
+  "decimals": 9,
+  "coin_type": "0x277e975a15543b679456c923aa0475ff42c5c3ba3eebe247d1842a53504a3bb6::muskdoge::MUSKDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d85362b5-5907-4e91-9788-e53ae743c975.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

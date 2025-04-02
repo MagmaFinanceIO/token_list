@@ -1,0 +1,13 @@
+{
+  "name": "Evo",
+  "symbol": "EvoRL",
+  "decimals": 9,
+  "coin_type": "0x6d39837d88328ea5a19779aafbfd1ac23f42593bf2f255bb407ec760a6649b99::evorl::EVORL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Gt2aKUPKkrMSdpsAiduXgMAL2jwx6gitFuhyGxHvpump.png?size=lg&key=7ba3ee",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

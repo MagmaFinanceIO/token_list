@@ -1,0 +1,13 @@
+{
+  "name": "SUI Pixel",
+  "symbol": "sPIXEL",
+  "decimals": 9,
+  "coin_type": "0xeaf887b5e153defde627bbaf8ff24ee5ecb5054e6b542a6025ddaea481818522::spixel::SPIXEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5a2a07d7-770e-4711-896b-5465773db9df.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

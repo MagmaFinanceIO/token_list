@@ -1,0 +1,13 @@
+{
+  "name": "Just An Egg",
+  "symbol": "EGG",
+  "decimals": 9,
+  "coin_type": "0x6ddc3a464092bd37d4b26640f04bb8288ce172f24104ee8234cb67d716a8388a::egg::EGG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8N1dEf5DKEmN4xaFpiCxXcnTc3mQxcPByrfEKdpApump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mad Bull",
+  "symbol": "MBULL",
+  "decimals": 9,
+  "coin_type": "0x221b9cbf884bf83c7f2827cf9ff5bbf3cd668c83a439dbba896fa599f337c9e0::mbull::MBULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3n5AnsUk1bRAUC1PAH4xYDMqXRsK1fDAkAfuX5ippump.png?size=lg&key=664f30",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

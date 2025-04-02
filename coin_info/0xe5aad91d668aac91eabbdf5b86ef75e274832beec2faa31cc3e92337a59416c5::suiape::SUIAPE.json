@@ -1,0 +1,13 @@
+{
+  "name": "Sui Ape",
+  "symbol": "SUIAPE",
+  "decimals": 9,
+  "coin_type": "0xe5aad91d668aac91eabbdf5b86ef75e274832beec2faa31cc3e92337a59416c5::suiape::SUIAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://suipiens.com/images/logo/main_logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

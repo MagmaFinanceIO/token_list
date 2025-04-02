@@ -1,0 +1,13 @@
+{
+  "name": "Test Coin Four",
+  "symbol": "TESTCNFOUR",
+  "decimals": 9,
+  "coin_type": "0x4fab7b26dbbf679a33970de7ec59520d76c23b69055ebbd83a3e546b6370e5d1::testcnfour::TESTCNFOUR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7f4ff87e-ea99-4e09-8bc0-50de80ae384e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Blepe",
+  "symbol": "Blepe",
+  "decimals": 9,
+  "coin_type": "0xf8912e601507adf0a400db403b783f9896f9d4dbfad1f7f9dc856b103fa0ac3c::blepe::BLEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b567e212-c7dd-4f6b-9775-29ca8cca1c25.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

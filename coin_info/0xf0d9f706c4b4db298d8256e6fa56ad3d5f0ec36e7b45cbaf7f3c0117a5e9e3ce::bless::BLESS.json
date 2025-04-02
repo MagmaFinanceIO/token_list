@@ -1,0 +1,13 @@
+{
+  "name": "god bless you",
+  "symbol": "BLESS",
+  "decimals": 9,
+  "coin_type": "0xf0d9f706c4b4db298d8256e6fa56ad3d5f0ec36e7b45cbaf7f3c0117a5e9e3ce::bless::BLESS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/36FWitiFoUybrW9ois4EzMjfBYNhW38Vxsv2Pdwfpump.png?size=lg&key=5cb5c6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

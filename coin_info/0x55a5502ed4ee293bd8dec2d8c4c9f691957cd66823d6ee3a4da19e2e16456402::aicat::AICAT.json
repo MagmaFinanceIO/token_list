@@ -1,0 +1,13 @@
+{
+  "name": "AICAT ON SUI",
+  "symbol": "AICAT",
+  "decimals": 6,
+  "coin_type": "0x55a5502ed4ee293bd8dec2d8c4c9f691957cd66823d6ee3a4da19e2e16456402::aicat::AICAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_aicat_5d12ce881c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

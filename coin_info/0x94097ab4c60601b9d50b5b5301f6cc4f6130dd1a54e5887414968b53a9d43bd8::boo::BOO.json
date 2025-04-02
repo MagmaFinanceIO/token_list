@@ -1,0 +1,13 @@
+{
+  "name": "The BOO Dog",
+  "symbol": "BOO",
+  "decimals": 9,
+  "coin_type": "0x94097ab4c60601b9d50b5b5301f6cc4f6130dd1a54e5887414968b53a9d43bd8::boo::BOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8KFLWsehva73XsrKC8m16wW5ucskz5QhLZ2Syr2cpump.png?size=lg&key=7b2275",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Persona",
+  "symbol": "PERSAI",
+  "decimals": 9,
+  "coin_type": "0xd595c5d589123cc1169b0d7ae380997948b460d162606914281755c59ddaf9fb::persai::PERSAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmNXvv2vpapaQBu2tF1NUsx1CVHArvtqSSvf4GJyzVYoqK",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

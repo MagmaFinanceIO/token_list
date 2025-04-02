@@ -1,0 +1,13 @@
+{
+  "name": "GREEN BEAK",
+  "symbol": "BEAK",
+  "decimals": 9,
+  "coin_type": "0x241bced4673c3139cbc7eeae121bd49cb26766419463caad3b27ccb834d38c75::beak::BEAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x60d402a04435522881c8eace8950f446926a7164.png?size=lg&key=7873ad",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "POOLIE",
+  "symbol": "POOL",
+  "decimals": 6,
+  "coin_type": "0xb2d4354f9aee4e547be1a095dd6b79cb88e8b04c3f4029205bb5dc7acd1e7034::pool::POOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/quality_restoration_20241129065941244_e398f5286e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

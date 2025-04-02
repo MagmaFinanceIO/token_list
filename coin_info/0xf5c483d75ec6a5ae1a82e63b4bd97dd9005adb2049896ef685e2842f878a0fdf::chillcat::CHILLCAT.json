@@ -1,0 +1,13 @@
+{
+  "name": "Chill Cat",
+  "symbol": "CHILLCAT",
+  "decimals": 9,
+  "coin_type": "0xf5c483d75ec6a5ae1a82e63b4bd97dd9005adb2049896ef685e2842f878a0fdf::chillcat::CHILLCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0xe3629a2085e428e18c0605e2d8a885c81869c4e2.png?size=lg&key=31e0a9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

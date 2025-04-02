@@ -1,0 +1,13 @@
+{
+  "name": "Neo Pepe",
+  "symbol": "NEONPEPE",
+  "decimals": 9,
+  "coin_type": "0x39436c91a020607c9b2749627c47c31ab3bf8627ab236a327b57e3758245f3a6::neonpepe::NEONPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmXD4yyPnU5Wg4tVmhTcuwTgpNR8Jvs4q4y8U7xBKjUiLi?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

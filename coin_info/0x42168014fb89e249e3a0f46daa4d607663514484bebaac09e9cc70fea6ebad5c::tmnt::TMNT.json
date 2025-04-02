@@ -1,0 +1,13 @@
+{
+  "name": "TMNT on Sui",
+  "symbol": "TMNT",
+  "decimals": 6,
+  "coin_type": "0x42168014fb89e249e3a0f46daa4d607663514484bebaac09e9cc70fea6ebad5c::tmnt::TMNT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737596405395.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

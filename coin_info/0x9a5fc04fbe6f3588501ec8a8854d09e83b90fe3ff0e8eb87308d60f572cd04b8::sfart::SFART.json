@@ -1,0 +1,13 @@
+{
+  "name": "Space Fart",
+  "symbol": "SFART",
+  "decimals": 9,
+  "coin_type": "0x9a5fc04fbe6f3588501ec8a8854d09e83b90fe3ff0e8eb87308d60f572cd04b8::sfart::SFART",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5aUjdNmiC2gQAvdSFhamzQNPX8DvpKPMqfcLmdEPWhWB.png?size=lg&key=2db0ba",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

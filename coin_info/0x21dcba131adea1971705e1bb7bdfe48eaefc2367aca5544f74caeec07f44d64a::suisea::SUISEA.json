@@ -1,0 +1,13 @@
+{
+  "name": "UNDER THE SUI SEA",
+  "symbol": "SUISEA",
+  "decimals": 6,
+  "coin_type": "0x21dcba131adea1971705e1bb7bdfe48eaefc2367aca5544f74caeec07f44d64a::suisea::SUISEA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/122222222_8ed73dd46f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AGENTZ AI",
+  "symbol": "AA",
+  "decimals": 6,
+  "coin_type": "0xec4c7404246a4da0ccf9ddd61de1f62d23d0fc4e6d8bc0d722e7415126c24fd8::aa::AA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8ffed81d-569d-4741-b273-07ecbca5e261.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

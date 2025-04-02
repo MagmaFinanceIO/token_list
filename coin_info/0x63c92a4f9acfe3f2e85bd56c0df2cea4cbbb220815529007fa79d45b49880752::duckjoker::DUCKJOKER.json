@@ -1,0 +1,13 @@
+{
+  "name": "🃏Duck Joker",
+  "symbol": "DUJO",
+  "decimals": 6,
+  "coin_type": "0x63c92a4f9acfe3f2e85bd56c0df2cea4cbbb220815529007fa79d45b49880752::duckjoker::DUCKJOKER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://belaunchio.infura-ipfs.io/ipfs/QmayiyyoX6Ma66Tk6xRAaZfFsm3K6vEbdk6g57papUxBdz",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

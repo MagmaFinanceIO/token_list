@@ -1,0 +1,13 @@
+{
+  "name": "BAU DOG",
+  "symbol": "BAU",
+  "decimals": 9,
+  "coin_type": "0xe94d6c0aa05ee2fadbe44cd0bba1565ec69ae79405b4fb4279573ea9e201467c::bau::BAU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4fb0cfcf-5f59-4cb5-aef2-be4860506758.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

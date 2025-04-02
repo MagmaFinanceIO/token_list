@@ -1,0 +1,13 @@
+{
+  "name": "First Fruit to 100m",
+  "symbol": "LEMON",
+  "decimals": 9,
+  "coin_type": "0x3c93da482adda145264145c39af7822a16a97e075d54ec95591e1d4023d43ac5::lemon::LEMON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/J5sHn79BS1n64SeT4RJXqYP1g1ZVSXjchYgXS848pump.png?size=lg&key=1e4107",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

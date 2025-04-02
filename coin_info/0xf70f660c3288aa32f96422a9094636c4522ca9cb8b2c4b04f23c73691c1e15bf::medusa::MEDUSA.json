@@ -1,0 +1,13 @@
+{
+  "name": "MEDUSA",
+  "symbol": "MEDUSA",
+  "decimals": 9,
+  "coin_type": "0xf70f660c3288aa32f96422a9094636c4522ca9cb8b2c4b04f23c73691c1e15bf::medusa::MEDUSA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://teal-deliberate-skunk-670.mypinata.cloud/ipfs/QmRc7XfpWeB9cEwFWtrEjJEX5JwCVJ6c6ZkEfDbfNwLCmC",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

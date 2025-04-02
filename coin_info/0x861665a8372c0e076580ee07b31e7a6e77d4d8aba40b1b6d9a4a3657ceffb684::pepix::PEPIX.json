@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Pixel Power",
+  "symbol": "PEPIX",
+  "decimals": 3,
+  "coin_type": "0x861665a8372c0e076580ee07b31e7a6e77d4d8aba40b1b6d9a4a3657ceffb684::pepix::PEPIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/273a007a-b294-493c-86c7-a11ef459961b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

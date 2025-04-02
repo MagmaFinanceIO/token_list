@@ -1,0 +1,13 @@
+{
+  "name": "Santa Brett",
+  "symbol": "SABRETT",
+  "decimals": 9,
+  "coin_type": "0x214d8dd237b4a94e02828986fd176fffc826d0951d1c8163f325098f0bca9e68::sabrett::SABRETT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/52f37455-d50b-4028-bec0-19ab8ce91035.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

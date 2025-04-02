@@ -1,0 +1,13 @@
+{
+  "name": "USA",
+  "symbol": "USA",
+  "decimals": 2,
+  "coin_type": "0xeddd0497e6fa368fe8c234ac84baf303e146659e0faa9c6c47917f72560937aa::usa::USA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/55aa1b20-c62c-450e-8141-b0c049c6c560.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

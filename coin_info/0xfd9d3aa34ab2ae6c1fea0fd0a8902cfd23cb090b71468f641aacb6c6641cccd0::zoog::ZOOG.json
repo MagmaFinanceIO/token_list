@@ -1,0 +1,13 @@
+{
+  "name": "ZoogOnSui",
+  "symbol": "ZOOG",
+  "decimals": 9,
+  "coin_type": "0xfd9d3aa34ab2ae6c1fea0fd0a8902cfd23cb090b71468f641aacb6c6641cccd0::zoog::ZOOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EBzVoCbpFsBU1iKm9GL1k7LcKbNNrVUYk66qXZBTpump.png?size=lg&key=4e3685",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

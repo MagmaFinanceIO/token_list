@@ -1,0 +1,13 @@
+{
+  "name": "Tuks Coin",
+  "symbol": "Ts",
+  "decimals": 3,
+  "coin_type": "0x33775acea52398ed887a8b8c59e079ae0f3812285ebf17b78b23caf7e5c29d62::ts::TS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/17ee843c-556a-4744-9908-39a5f24d8761.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

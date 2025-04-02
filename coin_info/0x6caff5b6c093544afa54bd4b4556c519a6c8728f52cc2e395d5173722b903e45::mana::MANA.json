@@ -1,0 +1,13 @@
+{
+  "name": "Meme Anarchic Numismatic Asset",
+  "symbol": "MANA",
+  "decimals": 9,
+  "coin_type": "0x6caff5b6c093544afa54bd4b4556c519a6c8728f52cc2e395d5173722b903e45::mana::MANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Bw5K8eZaf361uDLHgX2UUn1PNfC7XtgQVvY9sSappump.png?size=lg&key=0ed080",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

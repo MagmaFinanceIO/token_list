@@ -1,0 +1,13 @@
+{
+  "name": "Joe Coin",
+  "symbol": "JOE",
+  "decimals": 9,
+  "coin_type": "0x038f97a02a386f025d2a19f5222f914b8225496302c4028a784a54b406d75caf::joe::JOE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x76e222b07c53d28b89b0bac18602810fc22b49a8.png?size=lg&key=3e80ea",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

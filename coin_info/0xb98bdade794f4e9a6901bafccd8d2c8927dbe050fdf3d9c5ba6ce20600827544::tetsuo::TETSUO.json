@@ -1,0 +1,13 @@
+{
+  "name": "Tetsuo Coin",
+  "symbol": "TETSUO",
+  "decimals": 9,
+  "coin_type": "0xb98bdade794f4e9a6901bafccd8d2c8927dbe050fdf3d9c5ba6ce20600827544::tetsuo::TETSUO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8i51XNNpGaKaj4G4nDdmQh95v4FKAxw8mhtaRoKd9tE8.png?size=lg&key=e6100f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Trump Fight Agent by SuiAI",
+  "symbol": "TFAIGHT",
+  "decimals": 6,
+  "coin_type": "0x0e7f84ffc68c3eb870b40a76c29201496110cf29c7643c075a703b140d7f0c05::tfaight::TFAIGHT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/super_resolution_20250119224204729_83747466456631929246447_09152063868835068748879_b345bae814.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

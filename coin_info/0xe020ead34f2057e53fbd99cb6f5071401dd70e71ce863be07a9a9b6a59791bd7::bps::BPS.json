@@ -1,0 +1,13 @@
+{
+  "name": "Blockchain Payment System",
+  "symbol": "BPS",
+  "decimals": 9,
+  "coin_type": "0xe020ead34f2057e53fbd99cb6f5071401dd70e71ce863be07a9a9b6a59791bd7::bps::BPS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b86ccf52-4c40-4622-96eb-e366312a31ab.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Trumpy",
+  "symbol": "TRUMPY",
+  "decimals": 6,
+  "coin_type": "0x3529824d5382d7f1bac0d9bf28b36cfbff3a19e108b694ccade5165e145ec4a1::trumpy::TRUMPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logotrumpy_2eabc38660.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

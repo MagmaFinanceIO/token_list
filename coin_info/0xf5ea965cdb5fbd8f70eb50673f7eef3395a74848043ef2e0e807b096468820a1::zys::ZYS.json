@@ -1,0 +1,13 @@
+{
+  "name": "Zys Terminal",
+  "symbol": "ZYS",
+  "decimals": 9,
+  "coin_type": "0xf5ea965cdb5fbd8f70eb50673f7eef3395a74848043ef2e0e807b096468820a1::zys::ZYS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4YeEtV4ioCP94jSuaietw3PT1fcBf14QSnqXNtVtpump.png?size=lg&key=c7dbda",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

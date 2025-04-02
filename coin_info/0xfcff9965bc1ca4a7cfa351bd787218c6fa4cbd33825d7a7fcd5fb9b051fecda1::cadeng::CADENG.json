@@ -1,0 +1,13 @@
+{
+  "name": "CADENG",
+  "symbol": "CADENG",
+  "decimals": 9,
+  "coin_type": "0xfcff9965bc1ca4a7cfa351bd787218c6fa4cbd33825d7a7fcd5fb9b051fecda1::cadeng::CADENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/212ca825-bec8-4519-9772-a32728c5c739.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

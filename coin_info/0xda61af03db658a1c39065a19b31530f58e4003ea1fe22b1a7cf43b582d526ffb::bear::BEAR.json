@@ -1,0 +1,13 @@
+{
+  "name": "Bear Token",
+  "symbol": "BEAR",
+  "decimals": 9,
+  "coin_type": "0xda61af03db658a1c39065a19b31530f58e4003ea1fe22b1a7cf43b582d526ffb::bear::BEAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/830/119/large/creative-cave-bear-lkdv-v024.jpg?1728620953",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

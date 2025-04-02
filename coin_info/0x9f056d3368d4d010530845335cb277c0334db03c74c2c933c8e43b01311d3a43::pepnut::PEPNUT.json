@@ -1,0 +1,13 @@
+{
+  "name": "PEPNUT",
+  "symbol": "PEPNUT",
+  "decimals": 9,
+  "coin_type": "0x9f056d3368d4d010530845335cb277c0334db03c74c2c933c8e43b01311d3a43::pepnut::PEPNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmccxiHZ1CzcQyyHXf6aLDjNGuQkoqMWYNeLybDYLMp1fG?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

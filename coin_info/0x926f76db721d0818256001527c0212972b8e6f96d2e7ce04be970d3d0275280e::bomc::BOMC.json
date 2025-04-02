@@ -1,0 +1,13 @@
+{
+  "name": "Book Of Meme Cat",
+  "symbol": "BOMC",
+  "decimals": 6,
+  "coin_type": "0x926f76db721d0818256001527c0212972b8e6f96d2e7ce04be970d3d0275280e::bomc::BOMC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/C56y27_Kk_400x400_97644d2d2a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

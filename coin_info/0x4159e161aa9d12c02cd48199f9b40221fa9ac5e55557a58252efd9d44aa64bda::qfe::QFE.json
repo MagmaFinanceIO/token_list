@@ -1,0 +1,13 @@
+{
+  "name": "Quantum Fart Entanglement",
+  "symbol": "QFE",
+  "decimals": 9,
+  "coin_type": "0x4159e161aa9d12c02cd48199f9b40221fa9ac5e55557a58252efd9d44aa64bda::qfe::QFE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DECqp3qgUAarXoP2FssBnFXPsqtLhc5Y9UuvjxWMpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

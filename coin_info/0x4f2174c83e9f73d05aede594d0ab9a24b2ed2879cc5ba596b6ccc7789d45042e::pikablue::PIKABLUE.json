@@ -1,0 +1,13 @@
+{
+  "name": "PIKABLUE",
+  "symbol": "PikaBlue",
+  "decimals": 6,
+  "coin_type": "0x4f2174c83e9f73d05aede594d0ab9a24b2ed2879cc5ba596b6ccc7789d45042e::pikablue::PIKABLUE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/att_ho_L_Nltc_WQU_Afhv_Zspi_Tk_Zd_X5_G7bh_REV_Yv_B096h4z_Bs_226e0c2e84.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

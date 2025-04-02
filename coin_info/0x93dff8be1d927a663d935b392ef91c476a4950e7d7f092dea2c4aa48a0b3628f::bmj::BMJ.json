@@ -1,0 +1,13 @@
+{
+  "name": "Bossmanjack",
+  "symbol": "BMJ",
+  "decimals": 9,
+  "coin_type": "0x93dff8be1d927a663d935b392ef91c476a4950e7d7f092dea2c4aa48a0b3628f::bmj::BMJ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b77a638f-ff0f-4696-95cb-e1a05ef4a078.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

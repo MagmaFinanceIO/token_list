@@ -1,0 +1,13 @@
+{
+  "name": "Moodeng on Sui",
+  "symbol": "MOODENG",
+  "decimals": 6,
+  "coin_type": "0xfefe8a7c3a8a4c0d088b9070bd688909290e11b8228ef09e3cde50859135c2e7::moodeng::MOODENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/532112312131231_74a2a17d56_05b182e9f6.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MEKO AI SUI CAT",
+  "symbol": "MEKOAI",
+  "decimals": 9,
+  "coin_type": "0xd427e987bddd11e679d1a1014b09a345914f6333ee28c29abdb5cd52b14c7b0b::mekoai::MEKOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a5bed5e1-1074-4968-ab41-6480679a6cf7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Wonki",
+  "symbol": "WONKI",
+  "decimals": 8,
+  "coin_type": "0x581c71afe592f80a756ea8e73ee786f0afb5e71e9a22b580d63ab85815732df5::wonki::WONKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fbb63d70-1fe7-4af3-9ede-86f96ef7c271.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

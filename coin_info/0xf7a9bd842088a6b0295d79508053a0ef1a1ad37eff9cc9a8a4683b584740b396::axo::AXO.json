@@ -1,0 +1,13 @@
+{
+  "name": "Axo",
+  "symbol": "AXO",
+  "decimals": 6,
+  "coin_type": "0xf7a9bd842088a6b0295d79508053a0ef1a1ad37eff9cc9a8a4683b584740b396::axo::AXO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/AXO_0af909475e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

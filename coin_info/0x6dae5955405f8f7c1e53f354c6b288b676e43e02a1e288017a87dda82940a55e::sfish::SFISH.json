@@ -1,0 +1,13 @@
+{
+  "name": "sui fish",
+  "symbol": "sFISH",
+  "decimals": 6,
+  "coin_type": "0x6dae5955405f8f7c1e53f354c6b288b676e43e02a1e288017a87dda82940a55e::sfish::SFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image2_3_1e740fa309.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

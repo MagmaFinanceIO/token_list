@@ -1,0 +1,13 @@
+{
+  "name": "Real AIOS Foundation",
+  "symbol": "AIOS",
+  "decimals": 9,
+  "coin_type": "0xddbd71d2e50db0e4ccedebcee38adc01ef31cf47763c0a49596e2f4553e28206::aios::AIOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5QS7RcHfGUa2ZtrovPvEJMB9coqroiT7H48dPSwFpump.png?size=lg&key=274d16",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

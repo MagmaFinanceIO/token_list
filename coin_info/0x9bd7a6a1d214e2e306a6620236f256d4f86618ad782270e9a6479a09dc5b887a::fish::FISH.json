@@ -1,0 +1,13 @@
+{
+  "name": "FISH",
+  "symbol": "FISH",
+  "decimals": 9,
+  "coin_type": "0x9bd7a6a1d214e2e306a6620236f256d4f86618ad782270e9a6479a09dc5b887a::fish::FISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AajUpxsJxzqTyVUfTMTkmKc74SK1ukzxGZAAEXpApump.png?size=lg&key=304b34",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

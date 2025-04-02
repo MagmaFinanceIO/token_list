@@ -1,0 +1,13 @@
+{
+  "name": "Meowy Catmas",
+  "symbol": "CATMAS",
+  "decimals": 6,
+  "coin_type": "0x58696f6d77659f92e42e92097030a5878cb1b42aaece5e73c71b9d7edcf823db::catmas::CATMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/9_RDAN_76_FDM_Gbzvn_Dpou_XXEJV_Dc9_P2u5_Jv_Snvcxx_Qg_Yce_72906588a7.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

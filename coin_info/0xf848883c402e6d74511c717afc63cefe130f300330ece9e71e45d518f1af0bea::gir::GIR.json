@@ -1,0 +1,13 @@
+{
+  "name": "Gir the Robot Dog",
+  "symbol": "GIR",
+  "decimals": 9,
+  "coin_type": "0xf848883c402e6d74511c717afc63cefe130f300330ece9e71e45d518f1af0bea::gir::GIR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5e9594cf-0c63-4178-b99d-27fa985a1406.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

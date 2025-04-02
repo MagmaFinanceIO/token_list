@@ -1,0 +1,13 @@
+{
+  "name": "SuiRex",
+  "symbol": "REX",
+  "decimals": 9,
+  "coin_type": "0x587ba8c257fa80b8c26b498b4df3cb151fd50443742f04f3644d2f4a091d9ab8::rex::REX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/Qmcs9ZCjaDZzyPDP7omasVdDTixAAo2ze3YCwGTF45h7dP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

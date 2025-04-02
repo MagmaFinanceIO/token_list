@@ -1,0 +1,13 @@
+{
+  "name": "Suir Arthur",
+  "symbol": "ARTHUR",
+  "decimals": 6,
+  "coin_type": "0x80183d265235834d873fa338d07af9aa59617a99f936b71c7936b828dbd09d26::arthur::ARTHUR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ICONODELACOINACABADO_ezgif_com_resize_ab75f4f343.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

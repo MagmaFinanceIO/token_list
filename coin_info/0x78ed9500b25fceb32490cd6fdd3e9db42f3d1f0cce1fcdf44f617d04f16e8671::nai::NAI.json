@@ -1,0 +1,13 @@
+{
+  "name": "NeonAI",
+  "symbol": "NAI",
+  "decimals": 9,
+  "coin_type": "0x78ed9500b25fceb32490cd6fdd3e9db42f3d1f0cce1fcdf44f617d04f16e8671::nai::NAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dexscreener.com/solana/5ohpfztkkygps1sa9avfrdf2k9appkclyjcqnbi2pump",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

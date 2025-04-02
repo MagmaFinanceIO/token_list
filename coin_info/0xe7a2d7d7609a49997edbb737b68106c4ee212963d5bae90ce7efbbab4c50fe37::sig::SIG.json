@@ -1,0 +1,13 @@
+{
+  "name": "Signal",
+  "symbol": "SIG",
+  "decimals": 9,
+  "coin_type": "0xe7a2d7d7609a49997edbb737b68106c4ee212963d5bae90ce7efbbab4c50fe37::sig::SIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/31a58ab1-1207-45d3-8f63-ebc194234f9d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

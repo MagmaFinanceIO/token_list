@@ -1,0 +1,13 @@
+{
+  "name": "ELSUI - The Blue Duck",
+  "symbol": "ELSUI",
+  "decimals": 9,
+  "coin_type": "0xe207e234a20e2d35504a1375af093e80f1c2bd92c7b493c116b78791ff6f3940::elsui::ELSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/25bbb4a6-6350-4ba0-9448-ef13e897ef66.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

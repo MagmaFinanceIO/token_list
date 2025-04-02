@@ -1,0 +1,13 @@
+{
+  "name": "+15%",
+  "symbol": "PLUS15",
+  "decimals": 6,
+  "coin_type": "0xd03f7fc4df630f4ff04c458f9fca81cbaed5e2a0fb7a303d097789a46a9b3987::plus15::PLUS15",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/goldher_2519e12e24.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SHIMI AI",
+  "symbol": "SHIMI",
+  "decimals": 9,
+  "coin_type": "0xde8292a7a224d3d8182975a0014a578474bb2373b38ea18e90e13e8cb81c5fb3::shimi::SHIMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4HQtWJZ3AMiA7MXAJsuh2HVipoondZDrrXPza2Mcpump.png?size=lg&key=2e9bb3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

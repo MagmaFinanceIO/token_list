@@ -1,0 +1,13 @@
+{
+  "name": "$hitcoin",
+  "symbol": "Hitcoin",
+  "decimals": 6,
+  "coin_type": "0x7404607e3a9ddef205535571cf32c865825fca2e881654ba919848611c7c8c85::hitcoin::HITCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735886367636.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

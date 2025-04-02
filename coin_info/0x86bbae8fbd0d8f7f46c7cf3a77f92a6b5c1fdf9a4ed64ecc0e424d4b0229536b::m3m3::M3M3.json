@@ -1,0 +1,13 @@
+{
+  "name": "M3M3 on SUI",
+  "symbol": "M3M3",
+  "decimals": 6,
+  "coin_type": "0x86bbae8fbd0d8f7f46c7cf3a77f92a6b5c1fdf9a4ed64ecc0e424d4b0229536b::m3m3::M3M3",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736692253235.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

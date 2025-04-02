@@ -1,0 +1,13 @@
+{
+  "name": "TrumRobin",
+  "symbol": "TRB",
+  "decimals": 9,
+  "coin_type": "0x598a00848c3e27e2855ebc5044ec71fd6c8565a07865dc5e0842beb48f826e31::trb::TRB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7EetpZwZkUdeHTGiQPVcbYibcyzw3aHrtzcta8cFC2nZ.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

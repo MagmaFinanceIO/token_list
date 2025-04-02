@@ -1,0 +1,13 @@
+{
+  "name": "Sui Duck",
+  "symbol": "SICK",
+  "decimals": 6,
+  "coin_type": "0x4ab961e2c95f0e541872611ccfeefc1fa892947fc6240f0ab250ab4082be1a38::sick::SICK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_7_af5d0fd676.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

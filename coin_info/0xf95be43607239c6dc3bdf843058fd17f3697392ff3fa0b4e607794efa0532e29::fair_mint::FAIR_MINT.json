@@ -1,0 +1,13 @@
+{
+  "name": "Cat token",
+  "symbol": "Cat",
+  "decimals": 9,
+  "coin_type": "0xf95be43607239c6dc3bdf843058fd17f3697392ff3fa0b4e607794efa0532e29::fair_mint::FAIR_MINT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://suiapi.memestore.io/images/2024/08/27/4ee6eee0427d74486f28f9f2da4de182.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

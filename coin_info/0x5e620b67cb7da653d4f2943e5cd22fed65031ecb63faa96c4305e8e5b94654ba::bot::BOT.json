@@ -1,0 +1,13 @@
+{
+  "name": "Black Orange Token",
+  "symbol": "BOT",
+  "decimals": 9,
+  "coin_type": "0x5e620b67cb7da653d4f2943e5cd22fed65031ecb63faa96c4305e8e5b94654ba::bot::BOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f7937723-2bcb-428c-8318-302c1752b649.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

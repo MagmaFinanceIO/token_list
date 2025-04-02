@@ -1,0 +1,13 @@
+{
+  "name": "ROSE AI",
+  "symbol": "ROSEAI",
+  "decimals": 6,
+  "coin_type": "0xb6950f6e5b657e893f14192f1b786dbb4de4936244fea4a87a652dfdd065f174::roseai::ROSEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_1_c026621bdb.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

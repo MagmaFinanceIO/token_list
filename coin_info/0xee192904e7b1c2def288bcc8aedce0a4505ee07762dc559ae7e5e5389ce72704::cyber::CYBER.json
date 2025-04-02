@@ -1,0 +1,13 @@
+{
+  "name": "CYBER",
+  "symbol": "CYBER",
+  "decimals": 9,
+  "coin_type": "0xee192904e7b1c2def288bcc8aedce0a4505ee07762dc559ae7e5e5389ce72704::cyber::CYBER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Alien Intelligence",
+  "symbol": "AI",
+  "decimals": 9,
+  "coin_type": "0xdf18abc0e912a53f783409d9bd9e49c3d663074a349dd759e346476abbae1784::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

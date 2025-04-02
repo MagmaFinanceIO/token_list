@@ -1,0 +1,13 @@
+{
+  "name": "NEW JEANS",
+  "symbol": "NJNS",
+  "decimals": 6,
+  "coin_type": "0xc7b626ba2e5da9933dad0a687e554d52bebb226376329cf8c59bd3a022ecda7b::njns::NJNS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/i_e_i_i_1080_x_540_px_512_x_512_px_19_8b64e6bd91.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

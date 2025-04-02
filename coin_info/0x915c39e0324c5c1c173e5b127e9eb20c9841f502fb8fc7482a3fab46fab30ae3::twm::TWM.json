@@ -1,0 +1,13 @@
+{
+  "name": "Trump Washing Machine",
+  "symbol": "TWM",
+  "decimals": 6,
+  "coin_type": "0x915c39e0324c5c1c173e5b127e9eb20c9841f502fb8fc7482a3fab46fab30ae3::twm::TWM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/perfil_d92afce8de.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

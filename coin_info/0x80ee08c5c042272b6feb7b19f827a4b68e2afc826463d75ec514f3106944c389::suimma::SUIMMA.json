@@ -1,0 +1,13 @@
+{
+  "name": "SUIMMA",
+  "symbol": "SUIMMA",
+  "decimals": 9,
+  "coin_type": "0x80ee08c5c042272b6feb7b19f827a4b68e2afc826463d75ec514f3106944c389::suimma::SUIMMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7fa3c7ad-e185-4509-942c-3c43dc699830.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

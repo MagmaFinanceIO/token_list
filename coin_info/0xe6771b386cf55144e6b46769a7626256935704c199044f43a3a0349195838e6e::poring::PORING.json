@@ -1,0 +1,13 @@
+{
+  "name": "PoringSui",
+  "symbol": "Poring",
+  "decimals": 6,
+  "coin_type": "0xe6771b386cf55144e6b46769a7626256935704c199044f43a3a0349195838e6e::poring::PORING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/por_aaf789c97f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

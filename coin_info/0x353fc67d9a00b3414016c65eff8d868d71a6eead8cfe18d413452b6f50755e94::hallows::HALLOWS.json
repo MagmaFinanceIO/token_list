@@ -1,0 +1,13 @@
+{
+  "name": "HALLOWEEN",
+  "symbol": "HALLOWS",
+  "decimals": 9,
+  "coin_type": "0x353fc67d9a00b3414016c65eff8d868d71a6eead8cfe18d413452b6f50755e94::hallows::HALLOWS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5igPsKHquNAYitDfDxwZFbr7iVPfuw3LVzwjX17zpump.png?size=lg&key=1dfedc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

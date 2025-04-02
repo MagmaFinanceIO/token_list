@@ -1,0 +1,13 @@
+{
+  "name": "FoxyCoin",
+  "symbol": "FXC",
+  "decimals": 4,
+  "coin_type": "0xfd7574f9a771d89cbae88df437bc2910cce3a288e7cca6a3b101da380a14db8e::fxc::FXC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e93a0d2d-e196-410a-9ced-2a0294dd885c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

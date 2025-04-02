@@ -1,0 +1,13 @@
+{
+  "name": "BEANZ on Sui",
+  "symbol": "BEANZ",
+  "decimals": 9,
+  "coin_type": "0x68e8d834d41ef754cdc37acba241eac66deefae722bfe5d6db82fdedc40f083d::beanz::BEANZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b23a5e12-5595-45ab-b26c-fb27f631184c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

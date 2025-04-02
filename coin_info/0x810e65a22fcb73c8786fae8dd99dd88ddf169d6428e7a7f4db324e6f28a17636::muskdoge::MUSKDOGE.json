@@ -1,0 +1,13 @@
+{
+  "name": "MUSK DOGE",
+  "symbol": "MUSKDOGE",
+  "decimals": 9,
+  "coin_type": "0x810e65a22fcb73c8786fae8dd99dd88ddf169d6428e7a7f4db324e6f28a17636::muskdoge::MUSKDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2pJhNM9Lguc194BYr5zj4NC7YekyNi3bF1UnQjcY3jrd.png?size=lg&key=04462b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

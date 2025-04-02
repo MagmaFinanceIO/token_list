@@ -1,0 +1,13 @@
+{
+  "name": "Tadej Pogačar",
+  "symbol": "POGI",
+  "decimals": 6,
+  "coin_type": "0xaaa0c7f74f8e0809c731ea2a8364ecdaee60b64411e272b3a9a07852c272183f::pogi::POGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Tadej_Pogacar_winning_the_Giro_dell%27Emilia_on_October_5th_2024.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

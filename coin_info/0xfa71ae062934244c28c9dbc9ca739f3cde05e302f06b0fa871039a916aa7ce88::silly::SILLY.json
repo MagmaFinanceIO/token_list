@@ -1,0 +1,13 @@
+{
+  "name": "SILLY CAT",
+  "symbol": "SILLY",
+  "decimals": 1,
+  "coin_type": "0xfa71ae062934244c28c9dbc9ca739f3cde05e302f06b0fa871039a916aa7ce88::silly::SILLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6a3aeb33-0187-41dc-ac3c-3a2dc5fba86a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

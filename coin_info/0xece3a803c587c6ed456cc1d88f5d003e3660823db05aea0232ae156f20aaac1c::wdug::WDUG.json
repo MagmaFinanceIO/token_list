@@ -1,0 +1,13 @@
+{
+  "name": "Waterdug",
+  "symbol": "WDUG",
+  "decimals": 9,
+  "coin_type": "0xece3a803c587c6ed456cc1d88f5d003e3660823db05aea0232ae156f20aaac1c::wdug::WDUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GDCAZeqxVAnFicaQ1Jw8g33CxbEzSbzuNUEsLQLVkucN.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

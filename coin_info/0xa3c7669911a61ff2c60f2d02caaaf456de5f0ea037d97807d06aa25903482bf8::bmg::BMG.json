@@ -1,0 +1,13 @@
+{
+  "name": "Baby Maga Sui",
+  "symbol": "BMG",
+  "decimals": 6,
+  "coin_type": "0xa3c7669911a61ff2c60f2d02caaaf456de5f0ea037d97807d06aa25903482bf8::bmg::BMG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/black_box_2f6e51765c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

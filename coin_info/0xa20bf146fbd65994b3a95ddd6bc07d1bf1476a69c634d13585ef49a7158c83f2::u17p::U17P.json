@@ -1,0 +1,13 @@
+{
+  "name": "u17P",
+  "symbol": "u17P",
+  "decimals": 9,
+  "coin_type": "0xa20bf146fbd65994b3a95ddd6bc07d1bf1476a69c634d13585ef49a7158c83f2::u17p::U17P",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CB48KiK1oi1tWtjmPWxVR2NPeEr9ewzmZQ8ERk79Ue4b.png?size=lg&key=e3d4b7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

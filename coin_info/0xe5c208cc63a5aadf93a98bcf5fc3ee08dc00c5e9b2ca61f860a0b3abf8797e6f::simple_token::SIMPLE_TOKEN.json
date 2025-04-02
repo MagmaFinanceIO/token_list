@@ -1,0 +1,13 @@
+{
+  "name": "NEIRO",
+  "symbol": "NEIRO",
+  "decimals": 9,
+  "coin_type": "0xe5c208cc63a5aadf93a98bcf5fc3ee08dc00c5e9b2ca61f860a0b3abf8797e6f::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

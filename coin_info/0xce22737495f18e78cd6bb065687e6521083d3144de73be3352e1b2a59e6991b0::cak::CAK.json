@@ -1,0 +1,13 @@
+{
+  "name": "__name here__",
+  "symbol": "Raise",
+  "decimals": 6,
+  "coin_type": "0xce22737495f18e78cd6bb065687e6521083d3144de73be3352e1b2a59e6991b0::cak::CAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "__Url here__",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

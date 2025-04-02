@@ -1,0 +1,13 @@
+{
+  "name": "Lazy Lions",
+  "symbol": "King",
+  "decimals": 9,
+  "coin_type": "0x969243c622af18f174833d0ab81781f18ba944d2e7739042b71c7f053bba85af::king::KING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/835653c1-d032-4eca-a14a-7ab89d906647.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

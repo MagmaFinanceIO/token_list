@@ -1,0 +1,13 @@
+{
+  "name": "KIM JONG SUI",
+  "symbol": "KIMSUI",
+  "decimals": 6,
+  "coin_type": "0xfe7ed73c58b97d819647f0565fa909775453082a2329694b3489e99b0f5749b2::kimsui::KIMSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/kimsui_76e396cc32.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

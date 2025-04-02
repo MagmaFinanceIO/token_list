@@ -1,0 +1,13 @@
+{
+  "name": "YUKKY",
+  "symbol": "YUKKY",
+  "decimals": 6,
+  "coin_type": "0xfbac859773b3302cf246ec839532c6760e563db59726969a9b42507afdf5b452::yukky::YUKKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyW8nWT7eDDDRgHCcvUwmjp6qaSzGpY4Iefg&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

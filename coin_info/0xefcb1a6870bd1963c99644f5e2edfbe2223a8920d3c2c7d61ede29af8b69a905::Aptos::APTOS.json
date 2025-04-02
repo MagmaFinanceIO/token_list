@@ -1,0 +1,13 @@
+{
+  "name": "Another Phising Token On Sui",
+  "symbol": "APTOS",
+  "decimals": 6,
+  "coin_type": "0xefcb1a6870bd1963c99644f5e2edfbe2223a8920d3c2c7d61ede29af8b69a905::Aptos::APTOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.postimg.cc/vBLX3d4n/Aptos-mark-BLK.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

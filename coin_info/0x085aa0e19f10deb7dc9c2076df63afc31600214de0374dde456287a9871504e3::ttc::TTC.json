@@ -1,0 +1,13 @@
+{
+  "name": "Titanic",
+  "symbol": "TTC",
+  "decimals": 6,
+  "coin_type": "0x085aa0e19f10deb7dc9c2076df63afc31600214de0374dde456287a9871504e3::ttc::TTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/55_1_4b43268bfa.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

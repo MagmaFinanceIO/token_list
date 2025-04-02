@@ -1,0 +1,13 @@
+{
+  "name": "Warrior Lizard",
+  "symbol": "LIZONIC",
+  "decimals": 9,
+  "coin_type": "0x7cc3425c787b65805306a8cfb30cf15a4840a98f8c6b23af2bba042dfa6c3fb5::lizonic::LIZONIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a2696d80-e025-40d9-b9f2-14c76bbdbb8e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

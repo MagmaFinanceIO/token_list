@@ -1,0 +1,13 @@
+{
+  "name": "Blue Balls",
+  "symbol": "BB",
+  "decimals": 6,
+  "coin_type": "0x92716fb26f1c1f7a49de4bff22af52ac91fadd77ad7211221205532047c67139::bb::BB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmWR9cLBYcE1MFRp3YyEvHjWLe5q7qP6KPkkbJsGtfZZB3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

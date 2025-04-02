@@ -1,0 +1,13 @@
+{
+  "name": "Watras",
+  "symbol": "WATRAS",
+  "decimals": 9,
+  "coin_type": "0x3501e837fa0f4b7f9cc8b2d1a195690ed61ffa932e09bc9c386441843d670832::watras::WATRAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/04a2983c-4abd-41ef-9b9b-df7838b0ab12.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mun01",
+  "symbol": "MUN1",
+  "decimals": 9,
+  "coin_type": "0x744eda7e5fdbf22dae8625f3c08433d640c80b11037dc4867afc54239c7ff09a::mun1::MUN1",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be-alpha.7k.fun/api/file-upload/ea1cdf4fe3b51786f68b9b2c66010134blob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

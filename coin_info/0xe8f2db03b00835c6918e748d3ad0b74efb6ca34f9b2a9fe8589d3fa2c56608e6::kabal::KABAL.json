@@ -1,0 +1,13 @@
+{
+  "name": "Ancient Kabal",
+  "symbol": "Kabal",
+  "decimals": 9,
+  "coin_type": "0xe8f2db03b00835c6918e748d3ad0b74efb6ca34f9b2a9fe8589d3fa2c56608e6::kabal::KABAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6ekQu27voSuzzrcg8HtddyfLabeKjr5cMxBXPmkMpump.png?size=lg&key=89a9fb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

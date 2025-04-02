@@ -1,0 +1,13 @@
+{
+  "name": "Drew Sui",
+  "symbol": "DREW",
+  "decimals": 6,
+  "coin_type": "0x80ad406667c728627daaacd6b1ba1d2c6c46e7628b32235d0947d4670547623f::drew::DREW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1732019981321.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

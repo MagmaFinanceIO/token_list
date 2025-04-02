@@ -1,0 +1,13 @@
+{
+  "name": "Oops Nana!",
+  "symbol": "NANA",
+  "decimals": 9,
+  "coin_type": "0xffb1e522c0027d30e00518d246d0a96dffb05936cbffc8025b1b1348d79f4adc::nana::NANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GvcTx8KeMKhs2PAWh3q8tV8ydz7zLUmi4L8hH6zvpump.png?size=lg&key=526b62",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

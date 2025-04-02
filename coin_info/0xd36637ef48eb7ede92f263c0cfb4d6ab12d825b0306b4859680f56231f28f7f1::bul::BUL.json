@@ -1,0 +1,13 @@
+{
+  "name": "Bullion Buck",
+  "symbol": "BUL",
+  "decimals": 9,
+  "coin_type": "0xd36637ef48eb7ede92f263c0cfb4d6ab12d825b0306b4859680f56231f28f7f1::bul::BUL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

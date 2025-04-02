@@ -1,0 +1,13 @@
+{
+  "name": "Joe Drogan",
+  "symbol": "DROGAN",
+  "decimals": 6,
+  "coin_type": "0xe94367587c35724080a6577123ec863192db12afc3ec9b9e2c07a04e2f5d5a28::drogan::DROGAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000016755_7f5cd12f96.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

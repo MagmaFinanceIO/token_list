@@ -1,0 +1,13 @@
+{
+  "name": "Rango the Chameleon",
+  "symbol": "RANGO",
+  "decimals": 9,
+  "coin_type": "0x72be8226981ea3710c7ea43e2f93b32bd97aff879f5423fba6a0582489558d8c::rango::RANGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/620a1fad-62be-42fd-b16e-f5e7661fdb73.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

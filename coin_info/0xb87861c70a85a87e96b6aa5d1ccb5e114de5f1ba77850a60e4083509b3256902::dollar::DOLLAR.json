@@ -1,0 +1,13 @@
+{
+  "name": "DollarMoon",
+  "symbol": "Dollar",
+  "decimals": 9,
+  "coin_type": "0xb87861c70a85a87e96b6aa5d1ccb5e114de5f1ba77850a60e4083509b3256902::dollar::DOLLAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A7jMk9sLgQJVDRjsmWWUay95aCRwMGoqXSpNLmk3pump.png?size=lg&key=86d960",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

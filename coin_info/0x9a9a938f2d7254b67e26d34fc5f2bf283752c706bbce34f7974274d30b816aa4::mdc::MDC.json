@@ -1,0 +1,13 @@
+{
+  "name": "MTEST",
+  "symbol": "MTEST1",
+  "decimals": 9,
+  "coin_type": "0x9a9a938f2d7254b67e26d34fc5f2bf283752c706bbce34f7974274d30b816aa4::mdc::MDC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.postimg.cc/yx9GyvRP/image.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

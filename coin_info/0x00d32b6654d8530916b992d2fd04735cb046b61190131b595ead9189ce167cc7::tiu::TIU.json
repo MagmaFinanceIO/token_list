@@ -1,0 +1,13 @@
+{
+  "name": "TUI COIN",
+  "symbol": "TIU",
+  "decimals": 9,
+  "coin_type": "0x00d32b6654d8530916b992d2fd04735cb046b61190131b595ead9189ce167cc7::tiu::TIU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://static.vecteezy.com/system/resources/previews/011/947/129/original/gold-internet-icon-free-png.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Space Cash",
+  "symbol": "SCASH",
+  "decimals": 9,
+  "coin_type": "0xa94b724bb45d4fa3f5d9be43265879219e855b08c4c05f2795fe2be40aa3be74::SCASH::SCASH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/43EhjH9MPn5ACsuG4HE9ASiiEaVGXpxttFdN8Jjcpump.png?size=xl&key=814998",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

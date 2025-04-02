@@ -1,0 +1,13 @@
+{
+  "name": "Frog Crab",
+  "symbol": "FCrab",
+  "decimals": 6,
+  "coin_type": "0x74a011f1ba8146d982688dbe48d8eb95ff686914ac27a40d28164f6ea2f583e7::fcrab::FCRAB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_U4a_N_Jtx_Szs_Fqe_G1_KUWY_5_S_Vk6_R_Li_W_Wqq_Q9_X_Ud_Mk8p_E6_Xx_9c862a85c3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

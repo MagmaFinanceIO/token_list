@@ -1,0 +1,13 @@
+{
+  "name": "Mike Tyson",
+  "symbol": "TYSON",
+  "decimals": 6,
+  "coin_type": "0xf4609ba1f3b199942e6678831aa091bc8154636555a8929bf5d3dbb04dcfc8f4::tyson::TYSON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ab93c952-2e0d-46ed-9f0b-4a8bd79d49c3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

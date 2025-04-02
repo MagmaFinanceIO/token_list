@@ -1,0 +1,13 @@
+{
+  "name": "Yolo Cat",
+  "symbol": "YOLOCAT",
+  "decimals": 9,
+  "coin_type": "0xddfd2bbc3df571a73b27192bed26200117b05b4a09fad5ce765d2db80c8ee478::yolocat::YOLOCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "43oGwf9a_cZ-zaqH",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

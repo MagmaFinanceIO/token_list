@@ -1,0 +1,13 @@
+{
+  "name": "Christmas",
+  "symbol": "Xmas",
+  "decimals": 6,
+  "coin_type": "0xf958027d12e538dcef70494d3062294ce859ad404d6cdb0b306e3108ea09cea0::xmas::XMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1734059697906.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

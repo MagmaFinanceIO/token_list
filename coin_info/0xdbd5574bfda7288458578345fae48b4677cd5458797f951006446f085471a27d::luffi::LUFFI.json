@@ -1,0 +1,13 @@
+{
+  "name": "SuiOnePiece",
+  "symbol": "Luffi",
+  "decimals": 6,
+  "coin_type": "0xdbd5574bfda7288458578345fae48b4677cd5458797f951006446f085471a27d::luffi::LUFFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731708368088.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

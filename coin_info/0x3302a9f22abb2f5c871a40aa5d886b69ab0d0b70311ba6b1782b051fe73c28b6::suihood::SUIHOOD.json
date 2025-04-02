@@ -1,0 +1,13 @@
+{
+  "name": "SUI HOOD",
+  "symbol": "SUIHOOD",
+  "decimals": 6,
+  "coin_type": "0x3302a9f22abb2f5c871a40aa5d886b69ab0d0b70311ba6b1782b051fe73c28b6::suihood::SUIHOOD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6749_f7d95efc35.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

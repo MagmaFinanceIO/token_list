@@ -1,0 +1,13 @@
+{
+  "name": "Yetis",
+  "symbol": "YETIS",
+  "decimals": 6,
+  "coin_type": "0x548a6d0af474b505d594482bb06f258d3eaa34f4416416e9a36a47db7b911544::yetis::YETIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_8059_a20675f6f9.PNG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

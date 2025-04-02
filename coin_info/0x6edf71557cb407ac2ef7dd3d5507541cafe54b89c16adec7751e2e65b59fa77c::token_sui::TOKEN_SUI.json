@@ -1,0 +1,13 @@
+{
+  "name": "Shark King",
+  "symbol": "SharkKing",
+  "decimals": 9,
+  "coin_type": "0x6edf71557cb407ac2ef7dd3d5507541cafe54b89c16adec7751e2e65b59fa77c::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FImage_1729436810117_1e76b0ebdf.jpg&w=256&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

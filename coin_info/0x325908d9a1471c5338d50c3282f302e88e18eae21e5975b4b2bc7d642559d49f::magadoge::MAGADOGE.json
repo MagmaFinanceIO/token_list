@@ -1,0 +1,13 @@
+{
+  "name": "M.A.G.A D.O.G.E",
+  "symbol": "MAGADOGE",
+  "decimals": 9,
+  "coin_type": "0x325908d9a1471c5338d50c3282f302e88e18eae21e5975b4b2bc7d642559d49f::magadoge::MAGADOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cc7ca220-8364-4187-8f71-777b1c773745.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

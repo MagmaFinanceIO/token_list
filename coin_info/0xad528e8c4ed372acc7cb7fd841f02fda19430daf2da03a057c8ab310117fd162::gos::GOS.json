@@ -1,0 +1,13 @@
+{
+  "name": "Golden Goose",
+  "symbol": "GOS",
+  "decimals": 9,
+  "coin_type": "0xad528e8c4ed372acc7cb7fd841f02fda19430daf2da03a057c8ab310117fd162::gos::GOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d619503d-8e23-4229-ac95-103de7a567d1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

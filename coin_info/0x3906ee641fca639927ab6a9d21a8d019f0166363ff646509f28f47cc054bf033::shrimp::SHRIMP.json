@@ -1,0 +1,13 @@
+{
+  "name": "Shrimp Paste",
+  "symbol": "SHRIMP",
+  "decimals": 9,
+  "coin_type": "0x3906ee641fca639927ab6a9d21a8d019f0166363ff646509f28f47cc054bf033::shrimp::SHRIMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/H7ECjS1wfWoPCffZR9KVo5cvYbYdnhaBQoTwdXhpump.png?size=lg&key=d0e099",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

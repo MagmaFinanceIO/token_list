@@ -1,0 +1,13 @@
+{
+  "name": "GPTSUI",
+  "symbol": "GPTSUI",
+  "decimals": 9,
+  "coin_type": "0x655f06479f85817377b170f2bcf176a56e4d03d1671f22ae8a870d52755580e8::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

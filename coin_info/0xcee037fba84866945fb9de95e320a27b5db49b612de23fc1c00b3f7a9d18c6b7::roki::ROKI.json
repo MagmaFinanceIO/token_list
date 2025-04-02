@@ -1,0 +1,13 @@
+{
+  "name": "Just Roki",
+  "symbol": "ROKI",
+  "decimals": 9,
+  "coin_type": "0xcee037fba84866945fb9de95e320a27b5db49b612de23fc1c00b3f7a9d18c6b7::roki::ROKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/64ef0f3a-9aaa-48d2-a961-154a8bd1e309.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

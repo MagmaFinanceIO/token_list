@@ -1,0 +1,13 @@
+{
+  "name": "GOOO",
+  "symbol": "GO",
+  "decimals": 9,
+  "coin_type": "0x61e2de71a6f5abd5ac69d8e0d7353d6f155d5c2c770df90edffaf91089bb9fa6::go::GO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/20325589-7a25-4a4f-bfa5-aa84f819cdd1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

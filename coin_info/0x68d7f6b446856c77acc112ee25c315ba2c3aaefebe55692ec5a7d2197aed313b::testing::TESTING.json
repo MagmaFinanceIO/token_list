@@ -1,0 +1,13 @@
+{
+  "name": "testing",
+  "symbol": "TNT",
+  "decimals": 9,
+  "coin_type": "0x68d7f6b446856c77acc112ee25c315ba2c3aaefebe55692ec5a7d2197aed313b::testing::TESTING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/j2EuFh5.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

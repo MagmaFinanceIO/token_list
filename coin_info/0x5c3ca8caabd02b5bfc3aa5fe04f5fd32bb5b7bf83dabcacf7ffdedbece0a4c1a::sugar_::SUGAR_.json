@@ -1,0 +1,13 @@
+{
+  "name": "SUGAR",
+  "symbol": "SUGAR",
+  "decimals": 9,
+  "coin_type": "0x5c3ca8caabd02b5bfc3aa5fe04f5fd32bb5b7bf83dabcacf7ffdedbece0a4c1a::sugar_::SUGAR_",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

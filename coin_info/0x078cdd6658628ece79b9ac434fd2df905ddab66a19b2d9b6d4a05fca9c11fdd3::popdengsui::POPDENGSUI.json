@@ -1,0 +1,13 @@
+{
+  "name": "POPDENGSUI",
+  "symbol": "POPDENGSUI",
+  "decimals": 9,
+  "coin_type": "0x078cdd6658628ece79b9ac434fd2df905ddab66a19b2d9b6d4a05fca9c11fdd3::popdengsui::POPDENGSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2e40eecb-8d83-4ef0-9935-b5ee30cf9fd0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

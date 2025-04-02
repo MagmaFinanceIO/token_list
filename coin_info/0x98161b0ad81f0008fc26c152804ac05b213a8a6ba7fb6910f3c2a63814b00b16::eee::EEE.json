@@ -1,0 +1,13 @@
+{
+  "name": "eee",
+  "symbol": "EEE",
+  "decimals": 9,
+  "coin_type": "0x98161b0ad81f0008fc26c152804ac05b213a8a6ba7fb6910f3c2a63814b00b16::eee::EEE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://amber-hilarious-ostrich-689.mypinata.cloud/files/bafkreic5rvww44r365h66omnrhxft5fsz7v4cliq45xbiv4d4g7isbl7sm?X-Algorithm=PINATA1&X-Date=1736743736&X-Expires=315360000&X-Method=GET&X-Signature=080e2cf3f181cee784014b997bde44b260f49f49d165c8e10539c63982534259",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

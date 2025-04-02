@@ -1,0 +1,13 @@
+{
+  "name": "Just A Chill Trump",
+  "symbol": "CTRUMP",
+  "decimals": 9,
+  "coin_type": "0x4ebc388593e7892cb27fea301fa27a314ad2b0b5fb3deef3f8da7e09ed51fc99::ctrump::CTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GWPR29re52LrFcReGm2YsjJ7JU8aoSVTfSHBJAsxuyHK.png?size=lg&key=157926",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

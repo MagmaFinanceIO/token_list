@@ -1,0 +1,13 @@
+{
+  "name": "SuiDINO",
+  "symbol": "SuiDINO",
+  "decimals": 9,
+  "coin_type": "0x6999e5dba566c3b91f1188618e2bd89dc4f1b4417cb1ac7303e516ab37c6279f::suidino::SUIDINO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c15f5223-c143-462a-95bd-5b8cf6ed7be9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Jolie me",
+  "symbol": "JOLIE1",
+  "decimals": 6,
+  "coin_type": "0x0f0776b9e9ef57fa27d7eb0f69ebf916ffd71a3161ab6da649f3a305e6a28686::jolie1::JOLIE1",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/World_s_Most_Instagrammed_Beaches_23ea31fed3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

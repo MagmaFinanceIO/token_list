@@ -1,0 +1,13 @@
+{
+  "name": "YODA WIF HAT",
+  "symbol": "YODA",
+  "decimals": 9,
+  "coin_type": "0x67839a052b317311b577779f727ac28fb9a2810509afba6b0a54222112dc88d9::yoda::YODA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BSXwnKZqwawoGspLg551mdKszYVUbuQ96NkKVUYnfo44.png?size=lg&key=ec4775",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

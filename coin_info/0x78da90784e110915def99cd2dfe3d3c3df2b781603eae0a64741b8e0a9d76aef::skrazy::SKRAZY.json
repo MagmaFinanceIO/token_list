@@ -1,0 +1,13 @@
+{
+  "name": "Sui Krazy",
+  "symbol": "SKRAZY",
+  "decimals": 9,
+  "coin_type": "0x78da90784e110915def99cd2dfe3d3c3df2b781603eae0a64741b8e0a9d76aef::skrazy::SKRAZY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3b6f0b26-b8cd-43ae-9ddf-9d9cdbfe47b6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

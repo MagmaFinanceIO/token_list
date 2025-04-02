@@ -1,0 +1,13 @@
+{
+  "name": "Neopets",
+  "symbol": "NEO",
+  "decimals": 9,
+  "coin_type": "0xdd05d6b6b7b21074395bd1811ec457fe10805e6639344a7fb8a66043a8b2ac3b::neo::NEO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5a4FUXsyb5UdBCvwefAc4nTPuX2Xxiosoh6LoKLdpump.png?size=lg&key=0bb9bf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

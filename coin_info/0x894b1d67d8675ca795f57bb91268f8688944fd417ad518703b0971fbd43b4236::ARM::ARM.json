@@ -1,0 +1,13 @@
+{
+  "name": "ARM",
+  "symbol": "ARM",
+  "decimals": 9,
+  "coin_type": "0x894b1d67d8675ca795f57bb91268f8688944fd417ad518703b0971fbd43b4236::ARM::ARM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Shaba Token",
+  "symbol": "Shaba",
+  "decimals": 6,
+  "coin_type": "0xc19a3ed15147c48efc0186e1b2e6c4dd7504cba4c58cc116f35c5d15670a5b4e::shaba::SHABA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qmdjn_Pe_Zd_NDJQS_3r5i_P26r_YC_6h_Zr7_UW_6_X9jd_A_Mc8_T2_Tt_Qn_b53acbad75.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

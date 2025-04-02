@@ -1,0 +1,13 @@
+{
+  "name": "All Trump High",
+  "symbol": "ATH",
+  "decimals": 9,
+  "coin_type": "0x5fa04b3f62996d3fc5ac3a7efb473bc9d7b12d20fa5bb4a0185e8db5090417f7::ath::ATH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2yhtb5jMe8CPXE8NW9UYWVVZm2dyKVLqJCaYtgqMAVa5.png?size=lg&key=a11e3b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

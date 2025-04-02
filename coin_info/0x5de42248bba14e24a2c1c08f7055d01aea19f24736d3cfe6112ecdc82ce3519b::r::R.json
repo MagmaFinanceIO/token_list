@@ -1,0 +1,13 @@
+{
+  "name": "Reploy AI",
+  "symbol": "R",
+  "decimals": 6,
+  "coin_type": "0x5de42248bba14e24a2c1c08f7055d01aea19f24736d3cfe6112ecdc82ce3519b::r::R",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bebb8b41-da4d-4eaa-be59-23e062fd66e4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CAT Token",
+  "symbol": "CAT",
+  "decimals": 6,
+  "coin_type": "0xcaee8572e29a4cade8963c5954760fa99343e28e5f8b0dd33ded86b4c853f180::cat::CAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Gabe_the_Dog_f6aa0a42f7.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

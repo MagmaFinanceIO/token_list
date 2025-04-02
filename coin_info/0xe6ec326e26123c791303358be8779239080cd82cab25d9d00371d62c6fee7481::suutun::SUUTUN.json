@@ -1,0 +1,13 @@
+{
+  "name": "SUUTUN",
+  "symbol": "SUUTUN",
+  "decimals": 9,
+  "coin_type": "0xe6ec326e26123c791303358be8779239080cd82cab25d9d00371d62c6fee7481::suutun::SUUTUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/44bc227d-32ec-4ff7-92d6-7cb7e74f45e5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Niggatue on Sui",
+  "symbol": "NIGGATUE",
+  "decimals": 6,
+  "coin_type": "0xd03cfb4e614319bed8e71b82068ece97243849f4d65969e32330fa506f800faa::niggatue::NIGGATUE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_5_2537514de4.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Big Tiddy Coin",
+  "symbol": "BTC",
+  "decimals": 9,
+  "coin_type": "0x110662f8c5e7c0e8d63eca605522bf2786e71849391a5e00fd84766159769e7c::btc::BTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/qEZwt6ZjVNz6cHftmC3mv7g2QKMo3CuxM7gXYREpump.png?size=lg&key=d2a104",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Initiative Q",
+  "symbol": "Quahl",
+  "decimals": 9,
+  "coin_type": "0xa092285677d0343a577d49809506a38e2401659a5bded324557087bf8ad485e5::quahl::QUAHL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ff4a7755-e18c-4e10-ac7a-0377d5691fd5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

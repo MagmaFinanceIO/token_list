@@ -1,0 +1,13 @@
+{
+  "name": "Larry the Lobster",
+  "symbol": "LARRY",
+  "decimals": 9,
+  "coin_type": "0x9f79909d8752edc12fcaf43d917417779e16d3eca53483a4d28ff07feb36cd04::larry::LARRY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FLARRY_LOGO_WIF_SAND_75c8c4e679.jpg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

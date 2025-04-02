@@ -1,0 +1,13 @@
+{
+  "name": "Titcoin",
+  "symbol": "TIT",
+  "decimals": 9,
+  "coin_type": "0x47e35d94299742e7476da723b748002ac253d5a39b7fd7bf8a015f9073114b62::tit::TIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Bzc1otXtaLdaFzcaWaH15gZs6iiWZeRbLSwc7qsppump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

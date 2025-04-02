@@ -1,0 +1,13 @@
+{
+  "name": "TARZAN",
+  "symbol": "TARZAN King of the Jungle",
+  "decimals": 9,
+  "coin_type": "0xd67022cfb8de23334b293569ade95adf70250434ece00b226fc78099ed0cb1bb::tarzan::TARZAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/966a3e03-5858-491a-b361-4a88749c9aa9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

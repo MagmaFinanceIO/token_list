@@ -1,0 +1,13 @@
+{
+  "name": "Sui Rich",
+  "symbol": "SUIRICH",
+  "decimals": 9,
+  "coin_type": "0x5985e67adac37732648755a41dc6e7c8833eac16f6cf50e09dced084384e3360::suirich::SUIRICH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ac9564d1-37ed-4a75-8a1b-2e9b385efb01.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "XFISH",
+  "symbol": "XFISH",
+  "decimals": 9,
+  "coin_type": "0x52c0b3a79f794845c14b02e1104e0c288ace7c1f08c6237fb016f53e52a33613::XFish::XFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_cozcat_9c068db346.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HOPIUM",
+  "symbol": "HOPIUM",
+  "decimals": 6,
+  "coin_type": "0x488b22bacd390bf8663c4184d22ecdc2bdb3665abfd51636d2416907b3758e58::hopium::HOPIUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmU9QrCTAucUpYtFY3uKkE9WyVSDqoJAJDh4H2pvxoaBeS",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

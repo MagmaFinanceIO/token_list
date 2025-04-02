@@ -1,0 +1,13 @@
+{
+  "name": "FULL MOON",
+  "symbol": "FULLMOON",
+  "decimals": 6,
+  "coin_type": "0x4b3ef092ba5e8bdd573e5d99051bafe7466061f1381e192641e7655f5146c05d::fullmoon::FULLMOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/fullmoon.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "XAN",
+  "symbol": "XAN",
+  "decimals": 9,
+  "coin_type": "0x9170b2b94eca47dfc950971ba76ad9b7cde540e4e8034bb4fafbd7beab4ae151::xan::XAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

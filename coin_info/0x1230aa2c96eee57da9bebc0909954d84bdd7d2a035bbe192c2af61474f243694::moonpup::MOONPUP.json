@@ -1,0 +1,13 @@
+{
+  "name": "MoonPup",
+  "symbol": "MoonPup",
+  "decimals": 9,
+  "coin_type": "0x1230aa2c96eee57da9bebc0909954d84bdd7d2a035bbe192c2af61474f243694::moonpup::MOONPUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0277eab2-fc6b-480f-bbcb-e25469794115.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

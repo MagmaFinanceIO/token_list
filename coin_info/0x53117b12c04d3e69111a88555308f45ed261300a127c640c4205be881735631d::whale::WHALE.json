@@ -1,0 +1,13 @@
+{
+  "name": "Matt Furie s Whale",
+  "symbol": "WHALE",
+  "decimals": 6,
+  "coin_type": "0x53117b12c04d3e69111a88555308f45ed261300a127c640c4205be881735631d::whale::WHALE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0090_ab40f9661f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

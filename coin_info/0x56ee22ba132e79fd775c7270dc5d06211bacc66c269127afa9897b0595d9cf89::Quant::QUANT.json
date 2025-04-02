@@ -1,0 +1,13 @@
+{
+  "name": "Gen Z Quant",
+  "symbol": "QUANT ",
+  "decimals": 9,
+  "coin_type": "0x56ee22ba132e79fd775c7270dc5d06211bacc66c269127afa9897b0595d9cf89::Quant::QUANT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmQM2jhqyG689v2fC1Het1p1fJVBMpSDnMkq4tvncYfyiV?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

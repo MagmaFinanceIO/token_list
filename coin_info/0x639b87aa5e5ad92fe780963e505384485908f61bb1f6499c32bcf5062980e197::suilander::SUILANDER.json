@@ -1,0 +1,13 @@
+{
+  "name": "SuiLander",
+  "symbol": "SuiLander",
+  "decimals": 9,
+  "coin_type": "0x639b87aa5e5ad92fe780963e505384485908f61bb1f6499c32bcf5062980e197::suilander::SUILANDER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b3e535ac-9b5e-44a4-a9df-c5960af29d95.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Nex Bot Advance AI",
+  "symbol": "NXBAI",
+  "decimals": 6,
+  "coin_type": "0x8b4bfde751cbd245bce351c1254b621ea7e5d81ea3ffe9747b93de9fc580c45c::nxbai::NXBAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736249944323.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

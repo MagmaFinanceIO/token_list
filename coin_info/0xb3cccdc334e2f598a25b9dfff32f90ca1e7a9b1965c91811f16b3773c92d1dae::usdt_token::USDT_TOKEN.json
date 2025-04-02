@@ -1,0 +1,13 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "coin_type": "0xb3cccdc334e2f598a25b9dfff32f90ca1e7a9b1965c91811f16b3773c92d1dae::usdt_token::USDT_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://icon.suntool.cc/file/tether.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

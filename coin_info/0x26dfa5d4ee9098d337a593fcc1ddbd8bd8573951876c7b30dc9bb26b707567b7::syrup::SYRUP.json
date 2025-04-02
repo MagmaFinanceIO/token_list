@@ -1,0 +1,13 @@
+{
+  "name": "Baby White Tiger",
+  "symbol": "SYRUP",
+  "decimals": 9,
+  "coin_type": "0x26dfa5d4ee9098d337a593fcc1ddbd8bd8573951876c7b30dc9bb26b707567b7::syrup::SYRUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cad69091-1a86-4504-a1a2-3a6bb124cae0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

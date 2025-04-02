@@ -1,0 +1,13 @@
+{
+  "name": "OKX Intern",
+  "symbol": "INTERN",
+  "decimals": 9,
+  "coin_type": "0xacaa5400654fffe23e942e75a42109194257c5004f6074053709476c97c1a36f::intern::INTERN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmSSsmMwiPx9aX5JP9YU2J4SqSopYjnBSPjr3QKWuE6fPW",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

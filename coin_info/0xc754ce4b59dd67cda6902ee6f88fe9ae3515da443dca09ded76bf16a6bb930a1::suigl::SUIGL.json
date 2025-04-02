@@ -1,0 +1,13 @@
+{
+  "name": "Suigull",
+  "symbol": "SUIGL",
+  "decimals": 6,
+  "coin_type": "0xc754ce4b59dd67cda6902ee6f88fe9ae3515da443dca09ded76bf16a6bb930a1::suigl::SUIGL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo22_6e95628431_33c838fd02.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

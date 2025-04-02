@@ -1,0 +1,13 @@
+{
+  "name": "CiderSwap Protocol",
+  "symbol": "CIDER",
+  "decimals": 9,
+  "coin_type": "0x202185456baeeeb8e3c00f6439580e025ee6ee6d7f802a50c59461833ee99b5d::cider::CIDER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ad54d0b4-bd1a-443e-a6af-d86e621b0ff2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

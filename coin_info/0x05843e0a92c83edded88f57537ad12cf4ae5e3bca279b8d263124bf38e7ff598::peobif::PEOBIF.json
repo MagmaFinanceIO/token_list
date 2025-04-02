@@ -1,0 +1,13 @@
+{
+  "name": "Peobif Sui",
+  "symbol": "PEOBIF",
+  "decimals": 9,
+  "coin_type": "0x05843e0a92c83edded88f57537ad12cf4ae5e3bca279b8d263124bf38e7ff598::peobif::PEOBIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/221/201/large/vittor-capa-k.jpg?1727021370",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

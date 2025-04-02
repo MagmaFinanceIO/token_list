@@ -1,0 +1,13 @@
+{
+  "name": "Neo 2075",
+  "symbol": "NEO",
+  "decimals": 9,
+  "coin_type": "0x9d8192572580f43dc2d8e0afa9e31e22e28ce9b2a308f5e21d64fcdca8a39459::neo::NEO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/qThJ5kmWnBHwwbuWYX1MatxLMbA3G212CsxE8vUpump.png?size=lg&key=8495ab",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

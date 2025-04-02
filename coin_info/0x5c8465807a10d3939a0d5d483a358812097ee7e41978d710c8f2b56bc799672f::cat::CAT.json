@@ -1,0 +1,13 @@
+{
+  "name": "Cat AI",
+  "symbol": "CAT",
+  "decimals": 9,
+  "coin_type": "0x5c8465807a10d3939a0d5d483a358812097ee7e41978d710c8f2b56bc799672f::cat::CAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4b44d2ff-11a7-4daa-af52-bbf55a8471f4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

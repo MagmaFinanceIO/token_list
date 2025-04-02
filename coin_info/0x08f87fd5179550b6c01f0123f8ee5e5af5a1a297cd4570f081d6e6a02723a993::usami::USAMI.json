@@ -1,0 +1,13 @@
+{
+  "name": "Usami-chan",
+  "symbol": "USAMI",
+  "decimals": 9,
+  "coin_type": "0x08f87fd5179550b6c01f0123f8ee5e5af5a1a297cd4570f081d6e6a02723a993::usami::USAMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EzuPnhwpdvRWNTMFFxKwJU9RgZKL4tRfH4h28A8KHLTG.png?size=lg&key=dff065",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

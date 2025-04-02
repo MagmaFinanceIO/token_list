@@ -1,0 +1,13 @@
+{
+  "name": "Dark Chimpy",
+  "symbol": "CHIMPY",
+  "decimals": 9,
+  "coin_type": "0x2cb8175b87feea825ad2e4d97e8bf49e0df536f03e8a6cba0bdde61ec8fa749d::chimpy::CHIMPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/59e6a83f-75da-4a47-a31f-31bcbdb29aef.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SEAL",
+  "symbol": "SEAL",
+  "decimals": 9,
+  "coin_type": "0xfbb23c48a49d3c3d3c78d7678279ff058fa01d07bdc4b702ab063396e5570e4a::seal::SEAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Ho6wN4ff7RdTdXE1UsCZjrjuFVMHyRFTv1oBdbSECnJS.png?size=lg&key=11e2c2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

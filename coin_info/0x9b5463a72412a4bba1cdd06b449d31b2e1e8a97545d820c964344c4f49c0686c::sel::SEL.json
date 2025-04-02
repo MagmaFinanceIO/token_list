@@ -1,0 +1,13 @@
+{
+  "name": "Seoul",
+  "symbol": "SEL",
+  "decimals": 9,
+  "coin_type": "0x9b5463a72412a4bba1cdd06b449d31b2e1e8a97545d820c964344c4f49c0686c::sel::SEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7b63e1e9-af1b-4666-b1e7-7f505b09f07c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

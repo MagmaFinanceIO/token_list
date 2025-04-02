@@ -1,0 +1,13 @@
+{
+  "name": "Baby",
+  "symbol": "My Baby",
+  "decimals": 6,
+  "coin_type": "0x43224f6aa8c62f989e8460735a85f3341f2fe59a4d4ad7ca451a4d6703e8a076::my_coin::MY_COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

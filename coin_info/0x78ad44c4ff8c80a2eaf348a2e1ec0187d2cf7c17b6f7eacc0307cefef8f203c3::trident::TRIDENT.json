@@ -1,0 +1,13 @@
+{
+  "name": "Trident on Sui",
+  "symbol": "TRIDENT",
+  "decimals": 6,
+  "coin_type": "0x78ad44c4ff8c80a2eaf348a2e1ec0187d2cf7c17b6f7eacc0307cefef8f203c3::trident::TRIDENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735487466416.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

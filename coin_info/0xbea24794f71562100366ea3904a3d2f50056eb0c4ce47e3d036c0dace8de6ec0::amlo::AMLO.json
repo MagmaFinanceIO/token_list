@@ -1,0 +1,13 @@
+{
+  "name": "AMLO token",
+  "symbol": "AMLO",
+  "decimals": 9,
+  "coin_type": "0xbea24794f71562100366ea3904a3d2f50056eb0c4ce47e3d036c0dace8de6ec0::amlo::AMLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d8590c41-3439-4867-b8da-d783e392b6a3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MIORI AI",
+  "symbol": "MIORI",
+  "decimals": 9,
+  "coin_type": "0x8474c49a8e82f92236d25f902b2fa4aad2817181266d912681711b3c19eb5186::miori::MIORI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BABg2kRgcUevX6JTkWTDXPWDZ1uXV2NRC3DMnzAbpump.png?size=lg&key=97d9d4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

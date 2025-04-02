@@ -1,0 +1,13 @@
+{
+  "name": "Mohammad Bin Salman Meme",
+  "symbol": "MBS",
+  "decimals": 9,
+  "coin_type": "0x5be8dd9b035be49ed5468350731c95e85f8286a83f51d67308a332d67443ef0e::mbs::MBS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FV5jxCRt66m8rSnpYDm8SRvhUe3Q8BTcRT67ihBspump.png?size=lg&key=3d2580",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "nhnpz",
+  "symbol": "BQTxY",
+  "decimals": 9,
+  "coin_type": "0x4c238fb8ff30c530669fea38eff8c063e22e0b701f33844b899fd98b0f339ad5::bqtxy::BQTXY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HheTmXNNkrzN78Qsyz6obfGSL1HvFttG7FU5fok3pump.png?size=lg&key=282918",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

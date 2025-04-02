@@ -1,0 +1,13 @@
+{
+  "name": "ZOAI",
+  "symbol": "ZOAI",
+  "decimals": 9,
+  "coin_type": "0x5fc18f954a616606e925ef8a0dbb4b49656da6629ba76da7d89c5101b5743550::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

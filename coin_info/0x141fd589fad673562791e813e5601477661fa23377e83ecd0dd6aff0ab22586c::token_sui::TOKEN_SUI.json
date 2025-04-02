@@ -1,0 +1,13 @@
+{
+  "name": "Mummy Bob",
+  "symbol": "MBOB",
+  "decimals": 9,
+  "coin_type": "0x141fd589fad673562791e813e5601477661fa23377e83ecd0dd6aff0ab22586c::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dribbble.com/userupload/17357796/file/original-ba94acecd232bba7d1fce8bd3e8a71a1.jpg?resize=1024x1024&vertical=center",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

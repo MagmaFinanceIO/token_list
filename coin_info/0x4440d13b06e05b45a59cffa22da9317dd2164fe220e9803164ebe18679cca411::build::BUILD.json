@@ -1,0 +1,13 @@
+{
+  "name": "BUILD",
+  "symbol": "BUILD",
+  "decimals": 9,
+  "coin_type": "0x4440d13b06e05b45a59cffa22da9317dd2164fe220e9803164ebe18679cca411::build::BUILD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AuLFCTA8V8katsgpkFsezQtkHodJby5M4KB2VryTpump.png?size=lg&key=d27fab",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

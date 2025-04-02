@@ -1,0 +1,13 @@
+{
+  "name": "WOODY",
+  "symbol": "WOODY",
+  "decimals": 9,
+  "coin_type": "0x5025017cf2e9048be4488056dbd6260a45fff710b360f9e8752410f25cc9f788::woody::WOODY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5be6322c-64b6-4a53-9f2d-07c6c8bc6433.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

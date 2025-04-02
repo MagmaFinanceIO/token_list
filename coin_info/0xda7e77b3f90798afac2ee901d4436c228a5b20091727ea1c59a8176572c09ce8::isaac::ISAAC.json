@@ -1,0 +1,13 @@
+{
+  "name": "Binding of Isaac",
+  "symbol": "ISAAC",
+  "decimals": 9,
+  "coin_type": "0xda7e77b3f90798afac2ee901d4436c228a5b20091727ea1c59a8176572c09ce8::isaac::ISAAC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4b35022e-ec4d-4c6e-8c27-fe0624c7bf1a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

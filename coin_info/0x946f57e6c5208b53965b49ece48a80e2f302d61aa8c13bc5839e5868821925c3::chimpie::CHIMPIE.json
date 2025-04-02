@@ -1,0 +1,13 @@
+{
+  "name": "Chimpie",
+  "symbol": "CHIMPIE",
+  "decimals": 6,
+  "coin_type": "0x946f57e6c5208b53965b49ece48a80e2f302d61aa8c13bc5839e5868821925c3::chimpie::CHIMPIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Fighting_35_ec6a9ae131.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

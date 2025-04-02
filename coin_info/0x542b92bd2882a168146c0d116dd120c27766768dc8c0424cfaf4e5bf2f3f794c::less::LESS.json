@@ -1,0 +1,13 @@
+{
+  "name": "HOPELESS",
+  "symbol": "LESS",
+  "decimals": 6,
+  "coin_type": "0x542b92bd2882a168146c0d116dd120c27766768dc8c0424cfaf4e5bf2f3f794c::less::LESS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730951124606.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

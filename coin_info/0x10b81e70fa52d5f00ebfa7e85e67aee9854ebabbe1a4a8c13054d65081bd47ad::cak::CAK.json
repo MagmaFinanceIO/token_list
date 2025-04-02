@@ -1,0 +1,13 @@
+{
+  "name": "Also Raise 17",
+  "symbol": "Raise 17",
+  "decimals": 6,
+  "coin_type": "0x10b81e70fa52d5f00ebfa7e85e67aee9854ebabbe1a4a8c13054d65081bd47ad::cak::CAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "__Url here__",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

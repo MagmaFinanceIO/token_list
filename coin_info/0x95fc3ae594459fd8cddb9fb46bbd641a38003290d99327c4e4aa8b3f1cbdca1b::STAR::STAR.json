@@ -1,0 +1,13 @@
+{
+  "name": "Suiperstar",
+  "symbol": "STAR",
+  "decimals": 9,
+  "coin_type": "0x95fc3ae594459fd8cddb9fb46bbd641a38003290d99327c4e4aa8b3f1cbdca1b::STAR::STAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/9tDh8YG/49d05e26-d791-42b2-9e46-272ebc075fa5.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Cuckoo",
+  "symbol": "CUCKOO",
+  "decimals": 6,
+  "coin_type": "0x919b5b2cdedd885e072f47bc334362cd0236d96f6219588699e5ab52bacd4ae0::cuckoo::CUCKOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2040_png_1200_19a8d5a5a9.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

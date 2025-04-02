@@ -1,0 +1,13 @@
+{
+  "name": "Jimmy Grahamcoin",
+  "symbol": "FKF",
+  "decimals": 9,
+  "coin_type": "0x9e2f33979e618c0c9c8b877d24588fd38f05b7f0e6b927527e6137f811030ff4::fkf::FKF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/02a89ce8-76b1-4478-a5cc-fdfa0cf27fbb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

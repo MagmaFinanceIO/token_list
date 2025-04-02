@@ -1,0 +1,13 @@
+{
+  "name": "Chill Ai Sui",
+  "symbol": "CHILLAI",
+  "decimals": 9,
+  "coin_type": "0x0e4376e9963e7a426ed375e8e0a615fe6265805d7c3b0730330dfd25e7a4fa3f::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

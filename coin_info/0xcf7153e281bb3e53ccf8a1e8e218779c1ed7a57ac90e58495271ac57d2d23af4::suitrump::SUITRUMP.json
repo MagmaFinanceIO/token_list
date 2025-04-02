@@ -1,0 +1,13 @@
+{
+  "name": "SUI TRUMP",
+  "symbol": "SUITRUMP",
+  "decimals": 6,
+  "coin_type": "0xcf7153e281bb3e53ccf8a1e8e218779c1ed7a57ac90e58495271ac57d2d23af4::suitrump::SUITRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000478165_8b5eaed826.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

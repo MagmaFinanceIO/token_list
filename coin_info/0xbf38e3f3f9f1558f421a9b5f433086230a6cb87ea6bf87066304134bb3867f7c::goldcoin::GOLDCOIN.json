@@ -1,0 +1,13 @@
+{
+  "name": "goldcoin",
+  "symbol": "goldcoin",
+  "decimals": 9,
+  "coin_type": "0xbf38e3f3f9f1558f421a9b5f433086230a6cb87ea6bf87066304134bb3867f7c::goldcoin::GOLDCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/47cJa9wL9mjDq2W378hocqPfXCLo6kLAVsagDi5bpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

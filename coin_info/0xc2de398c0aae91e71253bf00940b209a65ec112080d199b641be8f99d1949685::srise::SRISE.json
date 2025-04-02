@@ -1,0 +1,13 @@
+{
+  "name": "SUIRISE",
+  "symbol": "SRISE",
+  "decimals": 6,
+  "coin_type": "0xc2de398c0aae91e71253bf00940b209a65ec112080d199b641be8f99d1949685::srise::SRISE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logocircle_ee91767ebc.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PUTIN",
+  "symbol": "PUTIN",
+  "decimals": 9,
+  "coin_type": "0x5877dcbbbd0be42d09c7c53e6c92d2788f621679541a035f96b0727f5a492542::putin::PUTIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuitatoOnSui",
+  "symbol": "SUITATO",
+  "decimals": 6,
+  "coin_type": "0x1ba6673886ac99457ef9ea0f142d76a15c69c423e94593323dd249bd03edd74b::suitato::SUITATO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000255_62484ae44c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

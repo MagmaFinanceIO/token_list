@@ -1,0 +1,13 @@
+{
+  "name": "Suika",
+  "symbol": "suika",
+  "decimals": 9,
+  "coin_type": "0xedb1b12c65876b2dd5dac27747d8f15a80acde01e8b7336e268e18bdd85b18c0::suika::SUIKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c6a3199d-e040-4f03-9d41-462afe2f353a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

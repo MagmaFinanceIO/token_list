@@ -1,0 +1,13 @@
+{
+  "name": "Sloth",
+  "symbol": "Slo",
+  "decimals": 6,
+  "coin_type": "0xe514736fd4d2a5314f90284c4c69c3aa03a0e5fc1488bae27df29ff1b2163948::slo::SLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/G_Xb9cxz_Wo_AA_Jd_q_4a48c72f54.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

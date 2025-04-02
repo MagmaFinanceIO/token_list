@@ -1,0 +1,13 @@
+{
+  "name": "FUNNY HOP",
+  "symbol": "FUNNY",
+  "decimals": 6,
+  "coin_type": "0x111737546136c229fc13affad74044752cabbd66ccbd4535cbbde77da8f42243::funny::FUNNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmWmcL1puULZohnKkJVwkbdUvrpUiNVXDs1SqfoyMWKfpm",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

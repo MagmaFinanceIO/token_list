@@ -1,0 +1,13 @@
+{
+  "name": "Bukele",
+  "symbol": "BUKELE",
+  "decimals": 9,
+  "coin_type": "0x9b625eb76684b81e13e5a9935e57026679985706a683bc8a9736a63b80e9a32a::bukele::BUKELE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/29d1f129-bfb9-4ab5-a1bf-b5f17cd89c67.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Exit",
+  "symbol": "Exit",
+  "decimals": 6,
+  "coin_type": "0x6646151761b48cedcfbfebeb77da2e96fb5fdf9e8379783e603bff77d46e643a::exit::EXIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/99b48628-d463-4a13-b1c4-68bfaa0cd5c7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

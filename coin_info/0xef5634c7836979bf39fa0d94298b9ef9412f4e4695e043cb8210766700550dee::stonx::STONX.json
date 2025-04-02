@@ -1,0 +1,13 @@
+{
+  "name": "STONX",
+  "symbol": "STONX",
+  "decimals": 9,
+  "coin_type": "0xef5634c7836979bf39fa0d94298b9ef9412f4e4695e043cb8210766700550dee::stonx::STONX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

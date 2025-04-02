@@ -1,0 +1,13 @@
+{
+  "name": "PiranHype",
+  "symbol": "PRH",
+  "decimals": 9,
+  "coin_type": "0xe676a611e6733fc8b822a621882c4ff49c92aea6ba3997886fcc9544cbe47a98::prh::PRH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/b15e9a1c3ae0b657c5fdd1a978cb807eblob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

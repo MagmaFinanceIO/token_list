@@ -1,0 +1,13 @@
+{
+  "name": "MAGA INU",
+  "symbol": "MAGAINU",
+  "decimals": 6,
+  "coin_type": "0xa2cc4844226fd15a1db0e5ce80c9570f355d23a2a856dbe627c413a27a0d712d::magainu::MAGAINU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000004925_6eb9e38326.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

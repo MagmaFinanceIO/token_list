@@ -1,0 +1,13 @@
+{
+  "name": "Ever",
+  "symbol": "EVER",
+  "decimals": 6,
+  "coin_type": "0x3c32120348da2ce052329f9963297d5fca913a3f775f5fa9a86424239ea97f38::ever::EVER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/79212_1a57ea7c22.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

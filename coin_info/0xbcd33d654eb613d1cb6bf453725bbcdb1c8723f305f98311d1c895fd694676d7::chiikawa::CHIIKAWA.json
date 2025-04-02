@@ -1,0 +1,13 @@
+{
+  "name": "CHIIKAWA ON SUI",
+  "symbol": "CHIIKAWA",
+  "decimals": 6,
+  "coin_type": "0xbcd33d654eb613d1cb6bf453725bbcdb1c8723f305f98311d1c895fd694676d7::chiikawa::CHIIKAWA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_ZCMC_9_JPDRH_Zx_P_Qcn3bkxi_E511_U_Ggh_Anca_ZG_8z_BBG_Vy_JG_1c35bd3563.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

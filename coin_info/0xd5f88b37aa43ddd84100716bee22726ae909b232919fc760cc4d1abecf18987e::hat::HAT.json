@@ -1,0 +1,13 @@
+{
+  "name": "HAT Token",
+  "symbol": "HAT",
+  "decimals": 6,
+  "coin_type": "0xd5f88b37aa43ddd84100716bee22726ae909b232919fc760cc4d1abecf18987e::hat::HAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreiepkmnmiwdxsvsldfefghfwkr2fzyrtaybfdx5nbmsynbdmppqd6q.ipfs.w3s.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

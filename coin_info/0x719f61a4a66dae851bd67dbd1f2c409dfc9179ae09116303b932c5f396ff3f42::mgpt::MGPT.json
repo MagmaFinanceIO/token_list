@@ -1,0 +1,13 @@
+{
+  "name": "MicroGPT",
+  "symbol": "MGPT",
+  "decimals": 2,
+  "coin_type": "0x719f61a4a66dae851bd67dbd1f2c409dfc9179ae09116303b932c5f396ff3f42::mgpt::MGPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e61db132-1e10-4318-8789-828ba39993aa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

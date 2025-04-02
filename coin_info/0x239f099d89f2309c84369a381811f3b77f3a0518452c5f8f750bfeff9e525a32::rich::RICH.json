@@ -1,0 +1,13 @@
+{
+  "name": "Rich Sea",
+  "symbol": "RICH",
+  "decimals": 9,
+  "coin_type": "0x239f099d89f2309c84369a381811f3b77f3a0518452c5f8f750bfeff9e525a32::rich::RICH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8894b46b-0281-4fa3-a372-275a827bff4c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Holly Cat",
+  "symbol": "HOLLYCAT",
+  "decimals": 6,
+  "coin_type": "0x3f76416748eb44fd2eeed729e1f022d65977bc23b8a057d36f2a1120703d11e1::hollycat::HOLLYCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/images_28_1_4fb72229cb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

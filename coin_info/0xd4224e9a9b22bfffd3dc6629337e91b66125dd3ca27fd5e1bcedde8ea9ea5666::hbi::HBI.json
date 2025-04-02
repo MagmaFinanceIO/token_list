@@ -1,0 +1,13 @@
+{
+  "name": "ozug",
+  "symbol": "hbi",
+  "decimals": 6,
+  "coin_type": "0xd4224e9a9b22bfffd3dc6629337e91b66125dd3ca27fd5e1bcedde8ea9ea5666::hbi::HBI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

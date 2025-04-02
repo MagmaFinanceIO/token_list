@@ -1,0 +1,13 @@
+{
+  "name": "Swoop on SUI",
+  "symbol": "SWOOP",
+  "decimals": 9,
+  "coin_type": "0xeb8b57d73dd20243baed1f8710739dd8b4e88dbfadfe1e356b438e516e4daf14::swoop::SWOOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/QmYGcjMQEVqv5DnLNKKH4gYuLi457vheuadKYpgbFhCN4a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI JOKER AI",
+  "symbol": "JOKER",
+  "decimals": 6,
+  "coin_type": "0x1e424bb59118e60d3d55e55f9e5eb9f6508d9ef9cd38173fdccc2e86af01ff2c::joker::JOKER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737140316384.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

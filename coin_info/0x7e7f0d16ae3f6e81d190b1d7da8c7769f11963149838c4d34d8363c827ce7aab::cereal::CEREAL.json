@@ -1,0 +1,13 @@
+{
+  "name": "Cereal Killers",
+  "symbol": "CEREAL",
+  "decimals": 9,
+  "coin_type": "0x7e7f0d16ae3f6e81d190b1d7da8c7769f11963149838c4d34d8363c827ce7aab::cereal::CEREAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9uQeyBviX2okriojeTg1MzNwPaFayysSUEz7QTLiT2y9.png?size=lg&key=60d0db",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

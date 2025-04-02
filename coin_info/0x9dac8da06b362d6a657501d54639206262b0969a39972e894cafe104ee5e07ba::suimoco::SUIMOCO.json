@@ -1,0 +1,13 @@
+{
+  "name": "MOCO",
+  "symbol": "SUIMOCO",
+  "decimals": 6,
+  "coin_type": "0x9dac8da06b362d6a657501d54639206262b0969a39972e894cafe104ee5e07ba::suimoco::SUIMOCO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000366_370db3ada1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

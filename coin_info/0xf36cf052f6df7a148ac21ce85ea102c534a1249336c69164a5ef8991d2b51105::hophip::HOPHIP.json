@@ -1,0 +1,13 @@
+{
+  "name": "HOPHIP SUI",
+  "symbol": "HOPHIP",
+  "decimals": 6,
+  "coin_type": "0xf36cf052f6df7a148ac21ce85ea102c534a1249336c69164a5ef8991d2b51105::hophip::HOPHIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/hophip_project_ee4ff9dd25.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

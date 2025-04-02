@@ -1,0 +1,13 @@
+{
+  "name": "SOONAI SUI",
+  "symbol": "SOONAI",
+  "decimals": 9,
+  "coin_type": "0x1146754a8c8eaebee6a8a932d7db728712f8add90586253f7f6bb641937e184a::soonai::SOONAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4ee02d7c-5017-4737-807d-0b2fa60fc3e1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

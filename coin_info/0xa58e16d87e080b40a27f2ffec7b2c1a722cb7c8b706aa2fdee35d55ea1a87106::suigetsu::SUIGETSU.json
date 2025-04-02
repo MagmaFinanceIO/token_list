@@ -1,0 +1,13 @@
+{
+  "name": "Suigetsu",
+  "symbol": "SUIGETSU",
+  "decimals": 6,
+  "coin_type": "0xa58e16d87e080b40a27f2ffec7b2c1a722cb7c8b706aa2fdee35d55ea1a87106::suigetsu::SUIGETSU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SUIGESTSU_55cfe97523.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

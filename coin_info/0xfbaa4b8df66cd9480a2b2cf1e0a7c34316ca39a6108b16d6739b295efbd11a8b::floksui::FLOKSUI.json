@@ -1,0 +1,13 @@
+{
+  "name": "FLOKSUI",
+  "symbol": "Floksui",
+  "decimals": 6,
+  "coin_type": "0xfbaa4b8df66cd9480a2b2cf1e0a7c34316ca39a6108b16d6739b295efbd11a8b::floksui::FLOKSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/floooo_ae6e3bfc52.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

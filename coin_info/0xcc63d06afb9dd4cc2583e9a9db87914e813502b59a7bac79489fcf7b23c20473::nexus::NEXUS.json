@@ -1,0 +1,13 @@
+{
+  "name": "Nexus God",
+  "symbol": "NEXUS",
+  "decimals": 9,
+  "coin_type": "0xcc63d06afb9dd4cc2583e9a9db87914e813502b59a7bac79489fcf7b23c20473::nexus::NEXUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2X48AX2SMgMaGd2ywBARjvEqiuNK3NMsgCEQpPSNpump.png?size=lg&key=893e99",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

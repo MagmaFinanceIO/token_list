@@ -1,0 +1,13 @@
+{
+  "name": "SuiTide AI Agent",
+  "symbol": "SuiTideAI",
+  "decimals": 9,
+  "coin_type": "0x9e6b5a1318703d7ca55907ce3da2c85c977c5135a671fc62bd9c4a6030e28908::suitideai::SUITIDEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/09b76c0f-d2b2-4c39-8656-d87ab6ca1a39.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUINO",
+  "symbol": "SUINO",
+  "decimals": 9,
+  "coin_type": "0x9ec1f724c20855c7fda9fa8674c9192489fdb466f7b6c128e59a6e87408090a8::suino::SUINO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2f51c12b-c28b-433c-a08d-b2a0a88bfdd2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Trader",
+  "symbol": "TSUAI",
+  "decimals": 6,
+  "coin_type": "0x9b81d4d05efefc7c68919d01f5717cae61d8be279b84edabf5399d7d30600fc4::tsuai::TSUAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000007673_2a2b758f3f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DGE",
+  "symbol": "DGE",
+  "decimals": 6,
+  "coin_type": "0x0207faf861177d3a44244ef46ff947a8c36c8e149071fd3db749a020f27afaba::dge::DGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.okx.com/cdn/web3/currency/token/501-3WneGXKjzaSDMkVzS7RExjGDzRF1Hr2R4F9iDoCFpump-98.png/type=default_350_0?v=1736139962512&x-oss-process=image/format,webp/ignore-error,1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

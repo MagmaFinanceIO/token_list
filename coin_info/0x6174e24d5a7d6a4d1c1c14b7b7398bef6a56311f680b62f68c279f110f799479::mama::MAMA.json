@@ -1,0 +1,13 @@
+{
+  "name": "MAMASUI",
+  "symbol": "MAMA",
+  "decimals": 9,
+  "coin_type": "0x6174e24d5a7d6a4d1c1c14b7b7398bef6a56311f680b62f68c279f110f799479::mama::MAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/10b85e59-0863-4d8e-bca8-abc258589f9c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

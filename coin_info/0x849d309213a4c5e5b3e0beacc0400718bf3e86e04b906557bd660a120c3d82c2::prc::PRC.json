@@ -1,0 +1,13 @@
+{
+  "name": "pro racer coin",
+  "symbol": "PRC",
+  "decimals": 9,
+  "coin_type": "0x849d309213a4c5e5b3e0beacc0400718bf3e86e04b906557bd660a120c3d82c2::prc::PRC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/34e7c701-1de8-4eb3-9528-798340624c51.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FLOOMBUS",
+  "symbol": "FLOOMBUS",
+  "decimals": 9,
+  "coin_type": "0x750ae7b19b5a837e6b171533b1ca3e340a135c81ea32ec180e0a854076fd3e97::floombus::FLOOMBUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://red-rainy-catfish-636.mypinata.cloud/ipfs/QmX6niogLDLp2hQKa1wccnCYZ1WFzzjuihzKQmhqoxcqyW",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

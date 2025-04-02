@@ -1,0 +1,13 @@
+{
+  "name": "TAKI",
+  "symbol": "TAKI",
+  "decimals": 9,
+  "coin_type": "0x86909da01203a98cce63da2fc06b66082f34058e311524e5365ff1d1c38658cf::taki::TAKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/05725f56-96bc-4242-9c77-cfc843d51767.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

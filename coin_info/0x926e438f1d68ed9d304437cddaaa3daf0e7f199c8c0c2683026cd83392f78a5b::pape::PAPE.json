@@ -1,0 +1,13 @@
+{
+  "name": "PAPEPAPE",
+  "symbol": "PAPE",
+  "decimals": 9,
+  "coin_type": "0x926e438f1d68ed9d304437cddaaa3daf0e7f199c8c0c2683026cd83392f78a5b::pape::PAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/apechain/0x71b9fd7ee2872422878c98cd9d2691d55551b404.png?size=lg&key=09df21",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "guitarhero",
+  "symbol": "POCHI",
+  "decimals": 9,
+  "coin_type": "0x2f3ae504ef0dd69fff7f23c1630bb2c72ff6fef5486e189a96c4481e5cd4d1b2::pochi::POCHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://gateway.irys.xyz/tu3rukKATghp_ckvO2Up3W9G3Y39CkQqOSphHrLWqGU",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

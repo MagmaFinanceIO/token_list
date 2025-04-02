@@ -1,0 +1,13 @@
+{
+  "name": "TEST2",
+  "symbol": "T2",
+  "decimals": 9,
+  "coin_type": "0xe8a1a9d9fbe1207b002092c24bd99d5bddd94a9a6a092f08efe669d0d2bf9043::t2::T2",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

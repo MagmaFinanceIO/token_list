@@ -1,0 +1,13 @@
+{
+  "name": "MOONTICKET",
+  "symbol": "MOONTICKET",
+  "decimals": 8,
+  "coin_type": "0xc06027e69e64d071f93311a2ac02dbc7d0f23a2b57f0d53abd706074e7406804::moonticket::MOONTICKET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6ef40c17-45bf-4a37-96b9-b1316f95eb35.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

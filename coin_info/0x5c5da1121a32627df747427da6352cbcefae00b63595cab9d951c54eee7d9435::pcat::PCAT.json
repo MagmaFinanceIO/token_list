@@ -1,0 +1,13 @@
+{
+  "name": "Pixelated Cat",
+  "symbol": "PCAT",
+  "decimals": 9,
+  "coin_type": "0x5c5da1121a32627df747427da6352cbcefae00b63595cab9d951c54eee7d9435::pcat::PCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7Up5L5ir4Uge5PnQt4FAERqpWejUW8dBz6kNJWQJHygC.png?size=lg&key=9bda86",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Squirtle the Turtle",
+  "symbol": "TURTLE",
+  "decimals": 9,
+  "coin_type": "0x9601a1f07b7e8596e7095225f78529047a78ad5b525d62c1b3b0cdd4fbead675::turtle::TURTLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7b901d56-4480-4dea-ae01-bff3af531719.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

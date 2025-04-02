@@ -1,0 +1,13 @@
+{
+  "name": "DepartmentOfGovernmentEfficiency",
+  "symbol": "DOGE",
+  "decimals": 9,
+  "coin_type": "0x191eb48edfaff51e0d6d6efee3f46b34de47fa0b0609b4d21714e3671ca4db34::doge::DOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "The Department Of Government Efficiency i(D.O.G.E) is the brainchild of Elon Musk and Donald Trump",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

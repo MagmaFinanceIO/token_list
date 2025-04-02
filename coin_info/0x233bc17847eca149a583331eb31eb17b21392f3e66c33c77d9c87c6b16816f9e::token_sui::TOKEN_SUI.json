@@ -1,0 +1,13 @@
+{
+  "name": "DeepBook 150",
+  "symbol": "DEEP150",
+  "decimals": 9,
+  "coin_type": "0x233bc17847eca149a583331eb31eb17b21392f3e66c33c77d9c87c6b16816f9e::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.deepbook.tech/icon.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

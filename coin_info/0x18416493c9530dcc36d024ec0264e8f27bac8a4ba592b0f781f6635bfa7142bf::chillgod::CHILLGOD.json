@@ -1,0 +1,13 @@
+{
+  "name": "Phillips Banks",
+  "symbol": "CHILLGOD",
+  "decimals": 6,
+  "coin_type": "0x18416493c9530dcc36d024ec0264e8f27bac8a4ba592b0f781f6635bfa7142bf::chillgod::CHILLGOD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1732715877682.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

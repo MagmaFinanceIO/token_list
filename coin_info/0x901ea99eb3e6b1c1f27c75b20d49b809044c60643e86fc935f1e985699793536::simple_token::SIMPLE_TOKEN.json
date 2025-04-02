@@ -1,0 +1,13 @@
+{
+  "name": "PEPIGCTO",
+  "symbol": "PEPIGCTO",
+  "decimals": 9,
+  "coin_type": "0x901ea99eb3e6b1c1f27c75b20d49b809044c60643e86fc935f1e985699793536::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

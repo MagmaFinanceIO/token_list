@@ -1,0 +1,13 @@
+{
+  "name": "Acuva AI",
+  "symbol": "ACUVA",
+  "decimals": 9,
+  "coin_type": "0xa7c108f623f861bd51f0a29d6b8ebc996ef8f489da5284433d66ace301428e38::acuva::ACUVA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8GvgkuycXYbwWJzpNQzMbu9djtKpoVBMVyWC66VVpump.png?size=lg&key=bea70d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

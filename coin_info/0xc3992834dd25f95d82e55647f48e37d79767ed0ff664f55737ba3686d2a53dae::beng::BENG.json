@@ -1,0 +1,13 @@
+{
+  "name": "blue eyed deng",
+  "symbol": "BENG",
+  "decimals": 6,
+  "coin_type": "0xc3992834dd25f95d82e55647f48e37d79767ed0ff664f55737ba3686d2a53dae::beng::BENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/dexlogo_7333c34ac3.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

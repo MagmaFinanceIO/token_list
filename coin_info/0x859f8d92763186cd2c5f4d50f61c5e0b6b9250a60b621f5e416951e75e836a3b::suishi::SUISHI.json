@@ -1,0 +1,13 @@
+{
+  "name": "SUISHI the CUTEE",
+  "symbol": "SUISHI",
+  "decimals": 6,
+  "coin_type": "0x859f8d92763186cd2c5f4d50f61c5e0b6b9250a60b621f5e416951e75e836a3b::suishi::SUISHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4289_9f0b1a4251.PNG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

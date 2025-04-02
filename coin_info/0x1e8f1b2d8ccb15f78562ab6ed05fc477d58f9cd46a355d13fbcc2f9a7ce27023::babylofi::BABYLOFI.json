@@ -1,0 +1,13 @@
+{
+  "name": "BabyLOFI",
+  "symbol": "BabyLofi",
+  "decimals": 6,
+  "coin_type": "0x1e8f1b2d8ccb15f78562ab6ed05fc477d58f9cd46a355d13fbcc2f9a7ce27023::babylofi::BABYLOFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/YETI_MODIF_1_c1eb3b470e.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

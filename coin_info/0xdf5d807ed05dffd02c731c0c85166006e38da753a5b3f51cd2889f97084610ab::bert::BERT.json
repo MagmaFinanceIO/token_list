@@ -1,0 +1,13 @@
+{
+  "name": "Bertram The Pomeranian",
+  "symbol": "Bert",
+  "decimals": 6,
+  "coin_type": "0xdf5d807ed05dffd02c731c0c85166006e38da753a5b3f51cd2889f97084610ab::bert::BERT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/afd0ceb6-9a3e-4d24-bb69-e1ee0978f315.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

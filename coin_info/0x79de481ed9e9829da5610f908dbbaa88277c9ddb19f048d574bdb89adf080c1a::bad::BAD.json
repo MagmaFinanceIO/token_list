@@ -1,0 +1,13 @@
+{
+  "name": "Bae Donald",
+  "symbol": "BAD",
+  "decimals": 6,
+  "coin_type": "0x79de481ed9e9829da5610f908dbbaa88277c9ddb19f048d574bdb89adf080c1a::bad::BAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2025_01_06_at_19_07_26_360b06b88a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

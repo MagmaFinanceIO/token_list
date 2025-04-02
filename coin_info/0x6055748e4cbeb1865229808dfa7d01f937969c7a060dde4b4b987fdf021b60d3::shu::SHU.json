@@ -1,0 +1,13 @@
+{
+  "name": "Shushi",
+  "symbol": "Shu",
+  "decimals": 9,
+  "coin_type": "0x6055748e4cbeb1865229808dfa7d01f937969c7a060dde4b4b987fdf021b60d3::shu::SHU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

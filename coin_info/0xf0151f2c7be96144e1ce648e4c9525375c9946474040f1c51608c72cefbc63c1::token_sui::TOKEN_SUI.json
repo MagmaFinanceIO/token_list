@@ -1,0 +1,13 @@
+{
+  "name": "aaa cat 3",
+  "symbol": "AAA3",
+  "decimals": 9,
+  "coin_type": "0xf0151f2c7be96144e1ce648e4c9525375c9946474040f1c51608c72cefbc63c1::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4995_cfd6177d03.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

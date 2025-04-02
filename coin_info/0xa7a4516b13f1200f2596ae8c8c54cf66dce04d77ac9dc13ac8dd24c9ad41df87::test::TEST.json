@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "symbol": "test",
+  "decimals": 6,
+  "coin_type": "0xa7a4516b13f1200f2596ae8c8c54cf66dce04d77ac9dc13ac8dd24c9ad41df87::test::TEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmUkdBKYUp8MWVFb6RUPaZafYnvsKmrW47Aoab7J94Lz73",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ericius Maximus",
+  "symbol": "ERICIUS",
+  "decimals": 9,
+  "coin_type": "0x42c91bd51b5361475427bdddb1dbf06e9fad8a44bd87d35251eea2201b95d554::ericius::ERICIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x54a6f30c9a99e7c5dd53ba98832bf4d66d2ab51a.png?size=lg&key=2fa6ec",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

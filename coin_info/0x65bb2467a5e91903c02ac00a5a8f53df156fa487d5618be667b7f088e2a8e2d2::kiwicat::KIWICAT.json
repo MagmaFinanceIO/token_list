@@ -1,0 +1,13 @@
+{
+  "name": "KIWI CAT",
+  "symbol": "KIWICAT",
+  "decimals": 9,
+  "coin_type": "0x65bb2467a5e91903c02ac00a5a8f53df156fa487d5618be667b7f088e2a8e2d2::kiwicat::KIWICAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/398a82d1-69c7-4d8f-8265-bad9ac44740a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

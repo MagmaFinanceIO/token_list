@@ -1,0 +1,13 @@
+{
+  "name": "ROCKY ON SUI",
+  "symbol": "ROCKY",
+  "decimals": 6,
+  "coin_type": "0xaeacda423081c46a4741cd86e3860d37ae85977312f7dad752dbe3ac0abda7dd::rocky::ROCKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000005291_247f7432d2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

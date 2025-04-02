@@ -1,0 +1,13 @@
+{
+  "name": "OCTOCAT",
+  "symbol": "OCAT",
+  "decimals": 6,
+  "coin_type": "0x7d7422df19fb063288215d59b747efa9bae9daf1d91d0d5a38f6f0794cf02853::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.ocat.fun/images/banner-main-img.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

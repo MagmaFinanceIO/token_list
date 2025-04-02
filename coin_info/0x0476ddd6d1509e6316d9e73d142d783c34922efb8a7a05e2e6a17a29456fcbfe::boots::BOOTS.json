@@ -1,0 +1,13 @@
+{
+  "name": "RED HOT CHILI BOOTS",
+  "symbol": "BOOTS",
+  "decimals": 6,
+  "coin_type": "0x0476ddd6d1509e6316d9e73d142d783c34922efb8a7a05e2e6a17a29456fcbfe::boots::BOOTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/kandinsky_download_1694388470967_0642f05cf2.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

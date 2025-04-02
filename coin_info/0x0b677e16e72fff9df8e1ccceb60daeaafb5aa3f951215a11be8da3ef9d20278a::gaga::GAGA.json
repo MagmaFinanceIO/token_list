@@ -1,0 +1,13 @@
+{
+  "name": "SUIGAGA",
+  "symbol": "GAGA",
+  "decimals": 6,
+  "coin_type": "0x0b677e16e72fff9df8e1ccceb60daeaafb5aa3f951215a11be8da3ef9d20278a::gaga::GAGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/GUDG_3dv_XIAAL_0_EJ_bb6ebc57db.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

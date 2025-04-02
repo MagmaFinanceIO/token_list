@@ -1,0 +1,13 @@
+{
+  "name": "Hop Bunny",
+  "symbol": "BUNNY",
+  "decimals": 6,
+  "coin_type": "0x1d063b663c998f6803a0bf26733311c1d021e5a6b140db958caa71649d841881::bunny::BUNNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731001139366.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

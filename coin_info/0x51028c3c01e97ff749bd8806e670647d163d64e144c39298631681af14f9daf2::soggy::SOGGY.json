@@ -1,0 +1,13 @@
+{
+  "name": "SoggySui",
+  "symbol": "Soggy",
+  "decimals": 6,
+  "coin_type": "0x51028c3c01e97ff749bd8806e670647d163d64e144c39298631681af14f9daf2::soggy::SOGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_16_075105798_d028fd1011.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

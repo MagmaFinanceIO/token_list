@@ -1,0 +1,13 @@
+{
+  "name": "ASSPUMP on Sui",
+  "symbol": "ASSPUMP",
+  "decimals": 9,
+  "coin_type": "0x9d94bb88942a21a69b7a621c7f047e7b307afa4ff6a506f968b169501a724ed3::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

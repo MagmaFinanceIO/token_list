@@ -1,0 +1,13 @@
+{
+  "name": "HammerHead",
+  "symbol": "HHS",
+  "decimals": 9,
+  "coin_type": "0x0f23daeffc1c784258d061bd30bb5ad9d73ca7b246f33bb8f0877d3e0a591113::hhs::HHS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fc2954f8-5956-49f5-8c1d-ab6e4fd28283.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

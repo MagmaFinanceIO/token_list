@@ -1,0 +1,13 @@
+{
+  "name": "Inoshishi",
+  "symbol": "SHISHI",
+  "decimals": 9,
+  "coin_type": "0x5918a6a45cfbd688783938103c8aea2689402ad38cfcd19b6dc516a7885ad537::shishi::SHISHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8RRrZpEnwGHo2zMMtqKbdAUEZze34RoYuCbM9oh1RoGi.png?size=lg&key=703df0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

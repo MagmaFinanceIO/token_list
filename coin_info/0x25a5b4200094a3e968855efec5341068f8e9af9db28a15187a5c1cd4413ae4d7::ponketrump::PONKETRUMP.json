@@ -1,0 +1,13 @@
+{
+  "name": "PonkeTrump",
+  "symbol": "PonkeTrump",
+  "decimals": 9,
+  "coin_type": "0x25a5b4200094a3e968855efec5341068f8e9af9db28a15187a5c1cd4413ae4d7::ponketrump::PONKETRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

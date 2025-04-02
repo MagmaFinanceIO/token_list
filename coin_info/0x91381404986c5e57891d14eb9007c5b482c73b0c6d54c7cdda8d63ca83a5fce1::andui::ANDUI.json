@@ -1,0 +1,13 @@
+{
+  "name": "Sui Andy",
+  "symbol": "ANDUI",
+  "decimals": 6,
+  "coin_type": "0x91381404986c5e57891d14eb9007c5b482c73b0c6d54c7cdda8d63ca83a5fce1::andui::ANDUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/andy_on_sui_logo_db2c54e97a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

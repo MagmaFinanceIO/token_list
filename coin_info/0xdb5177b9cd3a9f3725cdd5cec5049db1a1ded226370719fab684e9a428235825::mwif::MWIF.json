@@ -1,0 +1,13 @@
+{
+  "name": "Moo Deng Wif Hat",
+  "symbol": "MWIF",
+  "decimals": 9,
+  "coin_type": "0xdb5177b9cd3a9f3725cdd5cec5049db1a1ded226370719fab684e9a428235825::mwif::MWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2F1000005919_5e43a5bc52.jpg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

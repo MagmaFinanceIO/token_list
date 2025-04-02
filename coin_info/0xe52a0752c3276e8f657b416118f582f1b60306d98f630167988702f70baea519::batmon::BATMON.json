@@ -1,0 +1,13 @@
+{
+  "name": "BATMAN ON THE MOON",
+  "symbol": "BATMON",
+  "decimals": 9,
+  "coin_type": "0xe52a0752c3276e8f657b416118f582f1b60306d98f630167988702f70baea519::batmon::BATMON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/652d86ac-9428-4330-ac0b-58afb67adc41.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

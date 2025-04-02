@@ -1,0 +1,13 @@
+{
+  "name": "Palestine",
+  "symbol": "Palestine",
+  "decimals": 2,
+  "coin_type": "0x04022615b9bf310c1c8227e908a88098e7aeb449e56caafa1e0ab69b112b869f::palestine::PALESTINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b783af56-4999-4a61-ae45-68b7219edd13.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

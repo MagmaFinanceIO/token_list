@@ -1,0 +1,13 @@
+{
+  "name": "Bro",
+  "symbol": "BRO",
+  "decimals": 9,
+  "coin_type": "0x0414463e710059a7eba263635c76625a0280eadd2a1238ae8dbdd2a03d386637::bro::BRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/04f1f2d3-5062-4a61-9481-65f71d1310d6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

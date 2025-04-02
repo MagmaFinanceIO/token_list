@@ -1,0 +1,13 @@
+{
+  "name": "SUIT",
+  "symbol": "SUIT",
+  "decimals": 9,
+  "coin_type": "0x3f7d198d84d25403e112f74c10524e34c32544e0f76f6351efd56daf29b238af::suit::SUIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

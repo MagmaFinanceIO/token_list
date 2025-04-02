@@ -1,0 +1,13 @@
+{
+  "name": "LOAF of Sui",
+  "symbol": "LOAF",
+  "decimals": 9,
+  "coin_type": "0xcb0798ef4c6754ccad8b7d8c214f37f798e97c87a721e03e180e8682b07b83c2::loaf::LOAF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AkxfNWRo9vdhQ4LPXPXNMvybUyJVvrQAWnFQ6HXpump.png?size=xl&key=7952a9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SHUMUKH",
+  "symbol": "SHU",
+  "decimals": 9,
+  "coin_type": "0xf7283c23480d3db5691b096ab81922eae5819a4f5e5e6f4e3a2b889618f43121::shu::SHU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bff6ad71-1ed6-436d-af6d-e6bfacf229be.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Squanchy",
+  "symbol": "SQUAN",
+  "decimals": 9,
+  "coin_type": "0x6b72987fddf12d9be3a14677cda1530386b8a0510ef144d11f2d8c7e6fbcf48c::squan::SQUAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/33846802-2961-4b48-b892-4624dcb22083.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

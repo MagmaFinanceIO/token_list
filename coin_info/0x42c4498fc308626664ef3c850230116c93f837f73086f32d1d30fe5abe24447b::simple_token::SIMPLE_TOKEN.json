@@ -1,0 +1,13 @@
+{
+  "name": "kori on sui",
+  "symbol": "kori",
+  "decimals": 9,
+  "coin_type": "0x42c4498fc308626664ef3c850230116c93f837f73086f32d1d30fe5abe24447b::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "LOLA",
+  "symbol": "LOLA",
+  "decimals": 6,
+  "coin_type": "0xaee5ac1f6d427d1fc2de832a37ca83c47f5bbd8cf7d53400cbf3abed6d67052e::lola::LOLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMhdzM6yn5fs-fH0xQ8l3PshYWgGL8cyCz4b17g81D1bqG200JYsJqCS4dBivuKntl24I&usqp=CAU",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

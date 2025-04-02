@@ -1,0 +1,13 @@
+{
+  "name": "SHITFACE ON SUI",
+  "symbol": "SHITFACE",
+  "decimals": 9,
+  "coin_type": "0x678655c2ff364c570ac529e02ec6aad5ec66a3ccbb3369926fb983dbecc18751::shitface::SHITFACE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmedvwrdkfDw2uHvsvo4YQ5J9ZAwCU9rrj16TaJ5cMnfga",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

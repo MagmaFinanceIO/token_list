@@ -1,0 +1,13 @@
+{
+  "name": "Puccy cat",
+  "symbol": "Puccycat",
+  "decimals": 6,
+  "coin_type": "0xace9f6b5d53bed0d0ff0f4bcecdd81cf185316230cbac7e297d26394330f22fc::puccycat::PUCCYCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731170857652.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

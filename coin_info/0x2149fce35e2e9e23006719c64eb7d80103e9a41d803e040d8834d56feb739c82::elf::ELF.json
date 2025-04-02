@@ -1,0 +1,13 @@
+{
+  "name": "Buddy The Elf",
+  "symbol": "ELF",
+  "decimals": 9,
+  "coin_type": "0x2149fce35e2e9e23006719c64eb7d80103e9a41d803e040d8834d56feb739c82::elf::ELF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4AkMp1178szLkMk2My3EFxvZ6tvk8ryGMHS12gwZmTDM.png?size=lg&key=4d44bb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

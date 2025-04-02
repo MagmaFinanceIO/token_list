@@ -1,0 +1,13 @@
+{
+  "name": "Sui Towers",
+  "symbol": "SUITOWERS",
+  "decimals": 6,
+  "coin_type": "0x8da95fe77d56f3800b9f7750b85547e8cec02ec933a965e95db755b500370706::suitowers::SUITOWERS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_30321e3bcd.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

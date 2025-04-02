@@ -1,0 +1,13 @@
+{
+  "name": "SUI CLASIC",
+  "symbol": "SUIC",
+  "decimals": 9,
+  "coin_type": "0x7ed45f1cb5e233db87d79875abdefda42bb348f331f40a7d52ede3fb004af30d::suic::SUIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ef3f3610-9c0b-48d0-a81f-ae85e5b897ef.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

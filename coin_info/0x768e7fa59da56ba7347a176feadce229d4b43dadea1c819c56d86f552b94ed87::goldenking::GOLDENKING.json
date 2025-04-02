@@ -1,0 +1,13 @@
+{
+  "name": "TrumpKing",
+  "symbol": "GOLDENKING",
+  "decimals": 9,
+  "coin_type": "0x768e7fa59da56ba7347a176feadce229d4b43dadea1c819c56d86f552b94ed87::goldenking::GOLDENKING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/22f9a699-59f9-4154-94d3-63e05e54dc51.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

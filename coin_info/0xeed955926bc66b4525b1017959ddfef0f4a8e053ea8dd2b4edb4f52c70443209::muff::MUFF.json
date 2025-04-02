@@ -1,0 +1,13 @@
+{
+  "name": "Muffie",
+  "symbol": "Muff",
+  "decimals": 6,
+  "coin_type": "0xeed955926bc66b4525b1017959ddfef0f4a8e053ea8dd2b4edb4f52c70443209::muff::MUFF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4352_e845d6d9af.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

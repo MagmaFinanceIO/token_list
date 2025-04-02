@@ -1,0 +1,13 @@
+{
+  "name": "HALLOWDOG",
+  "symbol": "HWD",
+  "decimals": 6,
+  "coin_type": "0x16ec3559f74ea3932214b0c039d48455d2db06c4c0cf39f2a0f73987c26baacd::hwd::HWD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/kxg_XL_Qc6_400x400_17a99cbb58.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

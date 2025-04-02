@@ -1,0 +1,13 @@
+{
+  "name": "OnlyJ",
+  "symbol": "OnlyJ",
+  "decimals": 9,
+  "coin_type": "0xa226dd38b03685ae9333021857559b6af8c0bbce35612e0f08c40ee30f343a73::onlyj::ONLYJ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://x.com/onlyjsol/photo",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

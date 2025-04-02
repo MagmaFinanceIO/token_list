@@ -1,0 +1,13 @@
+{
+  "name": "Sui Kraken",
+  "symbol": "KRAK",
+  "decimals": 6,
+  "coin_type": "0x4d7775f2b913d5339aceb0a822cbd82cc04d5f7b8d79eda305866f5fa94af6cd::krak::KRAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/krak_f0f11bc983.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

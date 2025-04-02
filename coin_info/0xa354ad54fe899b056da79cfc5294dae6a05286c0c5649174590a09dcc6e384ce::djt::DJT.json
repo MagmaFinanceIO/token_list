@@ -1,0 +1,13 @@
+{
+  "name": "President Donald Trump",
+  "symbol": "DJT",
+  "decimals": 9,
+  "coin_type": "0xa354ad54fe899b056da79cfc5294dae6a05286c0c5649174590a09dcc6e384ce::djt::DJT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8T59HXkoXVCQVBsSJmNUFrwFHnehGerbTssuoDfTzmJR.png?size=lg&key=9e1cc2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

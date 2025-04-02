@@ -1,0 +1,13 @@
+{
+  "name": "CALLDUCK",
+  "symbol": "QUACK",
+  "decimals": 6,
+  "coin_type": "0xedc86a3af640dce0d95d8e6a3b71a02bbface7e8ec7ce13be9fa60b2ec662a1e::quack::QUACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/w_Z_Vk_RCQV_400x400_a735483804.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

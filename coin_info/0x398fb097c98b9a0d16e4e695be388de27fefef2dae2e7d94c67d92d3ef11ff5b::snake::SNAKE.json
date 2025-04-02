@@ -1,0 +1,13 @@
+{
+  "name": "The Year Of The Snake",
+  "symbol": "SNAKE",
+  "decimals": 9,
+  "coin_type": "0x398fb097c98b9a0d16e4e695be388de27fefef2dae2e7d94c67d92d3ef11ff5b::snake::SNAKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmVwSpyWSDrdjYUb2E5cXeACBJAHmLqkuu8YSon2V8zDoc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

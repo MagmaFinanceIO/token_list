@@ -1,0 +1,13 @@
+{
+  "name": "sudog",
+  "symbol": "HIDDO",
+  "decimals": 6,
+  "coin_type": "0xc4db0771e1fa7db8d9f1dca55eedf4048673a2fb056bc91d646cb75dfa0bc573::hiddo::HIDDO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_11_19_22_33_35_79684db74a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

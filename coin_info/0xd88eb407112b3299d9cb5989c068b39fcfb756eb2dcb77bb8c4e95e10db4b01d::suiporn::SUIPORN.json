@@ -1,0 +1,13 @@
+{
+  "name": "SUIPORN",
+  "symbol": "SUIPORN",
+  "decimals": 9,
+  "coin_type": "0xd88eb407112b3299d9cb5989c068b39fcfb756eb2dcb77bb8c4e95e10db4b01d::suiporn::SUIPORN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/69fff826-67ee-4a44-9e0b-47d8ba9bb941.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

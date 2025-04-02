@@ -1,0 +1,13 @@
+{
+  "name": "PUMERAN DOG",
+  "symbol": "PUMDOG",
+  "decimals": 9,
+  "coin_type": "0xe11831be0c0d07709a729edf233e2790f4ebf5cdf93e57a45e9430494a19dd7c::pumdog::PUMDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d18e6b0b-c9b6-4135-b4c0-591b497819ca.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

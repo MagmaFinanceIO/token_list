@@ -1,0 +1,13 @@
+{
+  "name": "SCOOBY DOG",
+  "symbol": "SCOOBY",
+  "decimals": 9,
+  "coin_type": "0x4f20a7954e363ecd30275a63645a569cdbfab6f8830a64e27f48538feb960646::scooby::SCOOBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ad061915-6720-49a5-821b-d8daaf33a911.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

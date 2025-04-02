@@ -1,0 +1,13 @@
+{
+  "name": "MEDZZ SUI TRUMP",
+  "symbol": "SUITRUMP",
+  "decimals": 6,
+  "coin_type": "0xe73134b8a0dfd4e7d80a6284c257cd4d0daf55fc4719d9cd6eefd45ee939ea7f::suitrump::SUITRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/medzz_0828472e55.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

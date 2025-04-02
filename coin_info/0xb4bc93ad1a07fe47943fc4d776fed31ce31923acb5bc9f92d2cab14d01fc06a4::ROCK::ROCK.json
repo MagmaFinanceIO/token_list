@@ -1,0 +1,13 @@
+{
+  "name": "Rockee AI",
+  "symbol": "ROCK",
+  "decimals": 6,
+  "coin_type": "0xb4bc93ad1a07fe47943fc4d776fed31ce31923acb5bc9f92d2cab14d01fc06a4::ROCK::ROCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://rockee.ai/images/logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

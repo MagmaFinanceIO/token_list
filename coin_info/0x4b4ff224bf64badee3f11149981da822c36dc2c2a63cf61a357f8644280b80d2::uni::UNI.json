@@ -1,0 +1,13 @@
+{
+  "name": "UNI.SUI",
+  "symbol": "UNI",
+  "decimals": 9,
+  "coin_type": "0x4b4ff224bf64badee3f11149981da822c36dc2c2a63cf61a357f8644280b80d2::uni::UNI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f75a90e1-d0cb-4a42-ada9-d5f6480875cd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

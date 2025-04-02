@@ -1,0 +1,13 @@
+{
+  "name": "MEMJ",
+  "symbol": "MEMJ",
+  "decimals": 9,
+  "coin_type": "0xd197aca76efd15f308eea69cd5cc0d5593950a833b57bcb447c9db3403de888e::memj::MEMJ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1d5e85ad-060e-482f-ae2c-123ede1c145b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

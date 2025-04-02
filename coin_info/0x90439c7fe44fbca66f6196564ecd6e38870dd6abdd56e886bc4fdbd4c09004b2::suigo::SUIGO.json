@@ -1,0 +1,13 @@
+{
+  "name": "SUIGO",
+  "symbol": "SUIGO",
+  "decimals": 9,
+  "coin_type": "0x90439c7fe44fbca66f6196564ecd6e38870dd6abdd56e886bc4fdbd4c09004b2::suigo::SUIGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3a32cdc6-dee7-4166-92bd-a0253fe0c0ab.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

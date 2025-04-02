@@ -1,0 +1,13 @@
+{
+  "name": "Mew Woof",
+  "symbol": "MEW",
+  "decimals": 6,
+  "coin_type": "0x45b60202b3a0cff6cc4c651a4ac7692d634c2a85447b0fd1395f7d114efff0a8::mew::MEW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/S30m1_RHD_400x400_de37f536eb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

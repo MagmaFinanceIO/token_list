@@ -1,0 +1,13 @@
+{
+  "name": "SUI Gremlins",
+  "symbol": "GREM",
+  "decimals": 9,
+  "coin_type": "0xd00a1962b6ef30cda41773b519a80b9b53fe906f9c4cf153d6e495536c565a4f::grem::GREM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4114e2f1-bd5e-48ee-a0d0-802bb9ff304f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

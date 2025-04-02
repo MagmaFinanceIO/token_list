@@ -1,0 +1,13 @@
+{
+  "name": "SANTAI",
+  "symbol": "SANTAI",
+  "decimals": 9,
+  "coin_type": "0xda5fbd9adb628cdc1f9e1fe69621985a3bc3cd3dc957c2376ab6219bd16bcaf1::santai::SANTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8ayZaoAZGUejEqgaKG1pQ8upy8iXhDdevgCZAHodpump.png?size=lg&key=82a81a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

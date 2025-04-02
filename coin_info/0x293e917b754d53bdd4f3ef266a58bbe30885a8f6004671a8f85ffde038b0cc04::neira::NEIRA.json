@@ -1,0 +1,13 @@
+{
+  "name": "NEIRA",
+  "symbol": "NEIRA",
+  "decimals": 9,
+  "coin_type": "0x293e917b754d53bdd4f3ef266a58bbe30885a8f6004671a8f85ffde038b0cc04::neira::NEIRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e5887d09-d53a-4347-9b0d-4652cb86d600.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

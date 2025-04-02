@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Cult",
+  "symbol": "PEPC",
+  "decimals": 9,
+  "coin_type": "0x41a1a66ba015f37724b33932392e5d8bcf836460ca719eb8cee46165d4e326c2::pepc::PEPC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x7ee83b7d413e0cef103c6235d5ec26099e0d3432.png?size=lg&key=57517e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

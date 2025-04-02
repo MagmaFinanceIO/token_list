@@ -1,0 +1,13 @@
+{
+  "name": "INKY AI SQUIBBLE",
+  "symbol": "INKYAI",
+  "decimals": 9,
+  "coin_type": "0x4e6506f5cb3c3beac29f027a3bcf8699620ffce3aa0dcd6198d9bc002e151deb::inkyai::INKYAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/46b674b8-4899-41b7-8f4c-2beb6a217ddc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

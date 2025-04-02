@@ -1,0 +1,13 @@
+{
+  "name": "SOLITO",
+  "symbol": "SOLITO",
+  "decimals": 9,
+  "coin_type": "0x051ae831970a7965ea5395e423ab3478b7d88190bad259f98fd36d19306e954e::solito::SOLITO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmPeiAGcs7NzVVZoUHpSjUPYckFJnsaUGRANpQ3Uap5TiL",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Tusk The Walrus",
+  "symbol": "TUSK",
+  "decimals": 2,
+  "coin_type": "0xa00ea7c3e013e7f4289e4eb18a6711a5fff456b0f711fd3dfb88ab89cbef6524::tusk::TUSK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fbc0a64c-026d-46a8-9d0c-8add767b8e36.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

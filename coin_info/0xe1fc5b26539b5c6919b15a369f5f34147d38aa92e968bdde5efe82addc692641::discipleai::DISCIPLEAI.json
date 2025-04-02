@@ -1,0 +1,13 @@
+{
+  "name": "Disciple Ai",
+  "symbol": "DiscipleAi",
+  "decimals": 9,
+  "coin_type": "0xe1fc5b26539b5c6919b15a369f5f34147d38aa92e968bdde5efe82addc692641::discipleai::DISCIPLEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EnCcSA2rBuQKowWuV4TW8yY78XveaDUMmgs53dbTpump.png?size=lg&key=5a59ad",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "POPDENG_MOODENG",
+  "symbol": "MOODENG",
+  "decimals": 9,
+  "coin_type": "0xa08b46bf6a5e2d00ddc62f016d639eda2d488e974ea5005597d61986e560fec4::moodeng::MOODENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6428007e-ecea-4563-958e-65741a933fbb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

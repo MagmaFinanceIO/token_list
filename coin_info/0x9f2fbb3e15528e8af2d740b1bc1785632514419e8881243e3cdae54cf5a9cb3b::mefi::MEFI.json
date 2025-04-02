@@ -1,0 +1,13 @@
+{
+  "name": "MeemFi",
+  "symbol": "MEFI",
+  "decimals": 6,
+  "coin_type": "0x9f2fbb3e15528e8af2d740b1bc1785632514419e8881243e3cdae54cf5a9cb3b::mefi::MEFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/octo_d27e5b7569.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

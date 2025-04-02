@@ -1,0 +1,13 @@
+{
+  "name": "EYE on SUI",
+  "symbol": "EYE",
+  "decimals": 9,
+  "coin_type": "0x1a8b24528c9464bc0cfaacba22876b7370e766a055182e97e360f45fcae3f9b1::eye::EYE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6MAWnfagDCzqmHQh88FVt9F1zzLqXpwGJpaL7zUTpump.png?size=xl&key=2c0152",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

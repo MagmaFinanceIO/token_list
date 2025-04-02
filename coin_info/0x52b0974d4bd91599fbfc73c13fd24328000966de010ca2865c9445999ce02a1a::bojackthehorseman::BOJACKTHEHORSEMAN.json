@@ -1,0 +1,13 @@
+{
+  "name": "Bojack The Horseman",
+  "symbol": "BOJACK",
+  "decimals": 9,
+  "coin_type": "0x52b0974d4bd91599fbfc73c13fd24328000966de010ca2865c9445999ce02a1a::bojackthehorseman::BOJACKTHEHORSEMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/21eee029-f1a5-49d4-ba42-e044cea16f18.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

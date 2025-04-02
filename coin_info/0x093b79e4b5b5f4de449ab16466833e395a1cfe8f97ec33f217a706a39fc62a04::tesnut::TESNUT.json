@@ -1,0 +1,13 @@
+{
+  "name": "Tesnut The Tesla Peanut",
+  "symbol": "TESNUT",
+  "decimals": 9,
+  "coin_type": "0x093b79e4b5b5f4de449ab16466833e395a1cfe8f97ec33f217a706a39fc62a04::tesnut::TESNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/367aa7ba-d356-4035-bddf-bb0e68c347d8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

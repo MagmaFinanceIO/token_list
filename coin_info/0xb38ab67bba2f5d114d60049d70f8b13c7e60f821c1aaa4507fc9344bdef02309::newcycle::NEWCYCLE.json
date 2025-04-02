@@ -1,0 +1,13 @@
+{
+  "name": "New Year New Cycle",
+  "symbol": "NEWCYCLE",
+  "decimals": 9,
+  "coin_type": "0xb38ab67bba2f5d114d60049d70f8b13c7e60f821c1aaa4507fc9344bdef02309::newcycle::NEWCYCLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5ScdreEgvKz1qe312zM4p8hSryZUoMKzvpSFoyU6pump.png?size=lg&key=4b762f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

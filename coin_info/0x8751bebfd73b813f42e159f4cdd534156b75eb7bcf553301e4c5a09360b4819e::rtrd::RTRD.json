@@ -1,0 +1,13 @@
+{
+  "name": "RETARDIO",
+  "symbol": "RTRD",
+  "decimals": 6,
+  "coin_type": "0x8751bebfd73b813f42e159f4cdd534156b75eb7bcf553301e4c5a09360b4819e::rtrd::RTRD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/MC_a79513c57a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

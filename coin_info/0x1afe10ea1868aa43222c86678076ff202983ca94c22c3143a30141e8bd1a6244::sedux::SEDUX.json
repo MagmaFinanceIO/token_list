@@ -1,0 +1,13 @@
+{
+  "name": "Sedux AI",
+  "symbol": "SEDUX",
+  "decimals": 9,
+  "coin_type": "0x1afe10ea1868aa43222c86678076ff202983ca94c22c3143a30141e8bd1a6244::sedux::SEDUX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5Kh2xc7X2qfRig2DZyGkuEXw7jeXUXoei7U6GBjfpump.png?size=lg&key=a54457",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

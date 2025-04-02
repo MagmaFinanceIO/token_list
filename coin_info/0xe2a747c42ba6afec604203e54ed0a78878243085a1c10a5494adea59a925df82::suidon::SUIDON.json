@@ -1,0 +1,13 @@
+{
+  "name": "Suidon",
+  "symbol": "SUIDON",
+  "decimals": 9,
+  "coin_type": "0xe2a747c42ba6afec604203e54ed0a78878243085a1c10a5494adea59a925df82::suidon::SUIDON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/548b1632-7e64-40fb-bfb3-42111d63faeb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

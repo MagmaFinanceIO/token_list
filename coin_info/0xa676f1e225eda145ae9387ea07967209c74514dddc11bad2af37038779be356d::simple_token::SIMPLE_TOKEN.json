@@ -1,0 +1,13 @@
+{
+  "name": "CloneX AI",
+  "symbol": "CLX",
+  "decimals": 9,
+  "coin_type": "0xa676f1e225eda145ae9387ea07967209c74514dddc11bad2af37038779be356d::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

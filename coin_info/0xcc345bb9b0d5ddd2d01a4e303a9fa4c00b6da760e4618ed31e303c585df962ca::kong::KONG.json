@@ -1,0 +1,13 @@
+{
+  "name": "Kong Ding Dong",
+  "symbol": "KONG",
+  "decimals": 6,
+  "coin_type": "0xcc345bb9b0d5ddd2d01a4e303a9fa4c00b6da760e4618ed31e303c585df962ca::kong::KONG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Captura_de_pantalla_2024_09_15_104303_49076529df.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

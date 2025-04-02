@@ -1,0 +1,13 @@
+{
+  "name": "Suilion",
+  "symbol": "SLN",
+  "decimals": 6,
+  "coin_type": "0x5fbaa570d39b33fc528bffa58b87c23923490dc46363c6b002b46a643dffc8b8::sln::SLN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/silion_cfc9d13b49.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

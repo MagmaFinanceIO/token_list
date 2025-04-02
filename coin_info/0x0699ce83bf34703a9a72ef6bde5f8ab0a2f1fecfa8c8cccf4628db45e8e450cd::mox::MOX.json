@@ -1,0 +1,13 @@
+{
+  "name": "MoxML",
+  "symbol": "mox",
+  "decimals": 9,
+  "coin_type": "0x0699ce83bf34703a9a72ef6bde5f8ab0a2f1fecfa8c8cccf4628db45e8e450cd::mox::MOX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ECdvEGgdxeQWGfJijvZ98JgkCRHghkQTLG53MjvTpump.png?size=lg&key=c2b16d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

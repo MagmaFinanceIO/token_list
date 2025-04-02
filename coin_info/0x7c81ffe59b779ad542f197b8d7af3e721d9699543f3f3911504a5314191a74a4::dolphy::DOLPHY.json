@@ -1,0 +1,13 @@
+{
+  "name": "Dolphy",
+  "symbol": "Dolphy",
+  "decimals": 9,
+  "coin_type": "0x7c81ffe59b779ad542f197b8d7af3e721d9699543f3f3911504a5314191a74a4::dolphy::DOLPHY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/acc04186-5221-4f9d-8833-d77823093c26.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

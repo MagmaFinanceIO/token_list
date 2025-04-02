@@ -1,0 +1,13 @@
+{
+  "name": "KURD",
+  "symbol": "KURD",
+  "decimals": 9,
+  "coin_type": "0x88e7034e0c4d611e108af7dc3843379e5fa43d8e4365c10452ea74823a43251c::kurd::KURD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/595d0537-07ad-4dc3-91d5-fad7dad3945e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

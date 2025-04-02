@@ -1,0 +1,13 @@
+{
+  "name": "SAFE",
+  "symbol": "Safecoin",
+  "decimals": 9,
+  "coin_type": "0xf5cd45273ce80a7df0ca99bc560026ca066b0d907f7efd6ffd1a6dd816a4620a::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

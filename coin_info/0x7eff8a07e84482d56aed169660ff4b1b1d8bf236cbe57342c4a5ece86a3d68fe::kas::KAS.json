@@ -1,0 +1,13 @@
+{
+  "name": "Kaspa",
+  "symbol": "KAS",
+  "decimals": 9,
+  "coin_type": "0x7eff8a07e84482d56aed169660ff4b1b1d8bf236cbe57342c4a5ece86a3d68fe::kas::KAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/778ecdbf-59ef-4d62-989d-b27467af9926.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

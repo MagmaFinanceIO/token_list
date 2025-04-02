@@ -1,0 +1,13 @@
+{
+  "name": "Dolos The Bully",
+  "symbol": "BULLY",
+  "decimals": 9,
+  "coin_type": "0xd232f60fef7ec627c5f221a4ef703202dae22ff49af7b87928a3ee3c484af1a3::bully::BULLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/79yTpy8uwmAkrdgZdq6ZSBTvxKsgPrNqTLvYQBh1pump.png?size=lg&key=e74ba4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

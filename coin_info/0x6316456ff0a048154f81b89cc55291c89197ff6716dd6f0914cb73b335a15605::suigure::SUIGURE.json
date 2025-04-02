@@ -1,0 +1,13 @@
+{
+  "name": "Shigure",
+  "symbol": "SUIgure",
+  "decimals": 6,
+  "coin_type": "0x6316456ff0a048154f81b89cc55291c89197ff6716dd6f0914cb73b335a15605::suigure::SUIGURE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ezgif_6_0b79c66c1e_4a1d8ca8b1.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

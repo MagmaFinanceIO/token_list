@@ -1,0 +1,13 @@
+{
+  "name": "DeepAI",
+  "symbol": "DeepAI",
+  "decimals": 6,
+  "coin_type": "0x89c9ab9c7ae8a687c3c4e45e43abc7b785d3b8f0d3d69ff8072346e728f6aacc::deepai::DEEPAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d76f4404-5eff-4c72-9f61-1cfa83409f84.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "suilamb",
+  "symbol": "SUILAMB",
+  "decimals": 6,
+  "coin_type": "0x4b90453f7aaf2e23ab8421ef75e6ef1b482467f8acd584e12a3fddc340206e5b::suilamb::SUILAMB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_11_02_22_12_36_1f6ae2bc5b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

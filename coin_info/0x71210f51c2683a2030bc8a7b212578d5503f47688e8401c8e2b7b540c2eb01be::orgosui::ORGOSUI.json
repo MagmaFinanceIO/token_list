@@ -1,0 +1,13 @@
+{
+  "name": "gorilla ocean sui",
+  "symbol": "ORGOsui",
+  "decimals": 6,
+  "coin_type": "0x71210f51c2683a2030bc8a7b212578d5503f47688e8401c8e2b7b540c2eb01be::orgosui::ORGOSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/20241029_114233_1_580b9b3030.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

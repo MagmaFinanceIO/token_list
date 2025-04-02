@@ -1,0 +1,13 @@
+{
+  "name": "The Somber Sombrero",
+  "symbol": "somberero",
+  "decimals": 9,
+  "coin_type": "0x38c55702f2a4d4c275179e618a90c297573fde94686fc476b1fd953d154bd6c7::somberero::SOMBERERO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EnYkoQdFBbowiStsCNziiZXhaaP2KcANg3tHmgzRjEqL.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

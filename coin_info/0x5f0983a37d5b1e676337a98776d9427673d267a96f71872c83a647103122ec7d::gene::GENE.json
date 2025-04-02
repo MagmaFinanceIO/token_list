@@ -1,0 +1,13 @@
+{
+  "name": "Gene AI",
+  "symbol": "GENE",
+  "decimals": 6,
+  "coin_type": "0x5f0983a37d5b1e676337a98776d9427673d267a96f71872c83a647103122ec7d::gene::GENE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1738464776546.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

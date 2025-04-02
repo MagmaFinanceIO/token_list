@@ -1,0 +1,13 @@
+{
+  "name": "dumby",
+  "symbol": "dumb",
+  "decimals": 9,
+  "coin_type": "0xa7712597ecc782dbbfe34c1f60c6e4b09490ccaf2f80d813cd8cbebe208dadb7::dumb::DUMB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3e0754d4-93ab-4e2c-a535-abbd7a8ccbd5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

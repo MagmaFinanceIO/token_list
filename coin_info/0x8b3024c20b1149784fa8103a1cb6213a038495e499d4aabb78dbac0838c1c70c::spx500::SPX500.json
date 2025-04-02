@@ -1,0 +1,13 @@
+{
+  "name": "SUI500",
+  "symbol": "SPX500",
+  "decimals": 6,
+  "coin_type": "0x8b3024c20b1149784fa8103a1cb6213a038495e499d4aabb78dbac0838c1c70c::spx500::SPX500",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Captura_de_ecr_A_2024_11_10_150113_a7acc29abc.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

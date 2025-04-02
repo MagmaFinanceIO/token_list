@@ -1,0 +1,13 @@
+{
+  "name": "Sui_Moby",
+  "symbol": "Sui_Moby",
+  "decimals": 9,
+  "coin_type": "0x10b084d1767496a26524c386d6292d52c3b7cc6cce2276cbe19cb41c934eadfb::sui_moby::SUI_MOBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a64016ce-4e65-4d29-8d9b-58b1b34b24a4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

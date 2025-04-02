@@ -1,0 +1,13 @@
+{
+  "name": "KOBESUI",
+  "symbol": "KOBE",
+  "decimals": 6,
+  "coin_type": "0x13e4ecd4c4005ef11a048b20406dbeee087641f20dcfbe1168d185d2974131ab::kobe::KOBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/KOBE_3_750x1024_f8b1d7acd5.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

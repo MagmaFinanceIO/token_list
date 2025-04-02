@@ -1,0 +1,13 @@
+{
+  "name": "LexAI by SuiAI",
+  "symbol": "LEX",
+  "decimals": 6,
+  "coin_type": "0x0d4aedf47009f6e869fc832d89a61b53a619b5e3626b805e86de2c2cb45845d7::lex::LEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Screenshot_2025_01_11_at_12_02_52_6f8e93aff2.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

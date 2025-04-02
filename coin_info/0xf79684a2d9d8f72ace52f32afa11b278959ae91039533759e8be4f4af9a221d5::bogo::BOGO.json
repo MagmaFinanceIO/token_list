@@ -1,0 +1,13 @@
+{
+  "name": "Bogo The Chimpanzee",
+  "symbol": "BOGO",
+  "decimals": 9,
+  "coin_type": "0xf79684a2d9d8f72ace52f32afa11b278959ae91039533759e8be4f4af9a221d5::bogo::BOGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bfa31dd1-3ca5-4bec-acf0-b05786a69548.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

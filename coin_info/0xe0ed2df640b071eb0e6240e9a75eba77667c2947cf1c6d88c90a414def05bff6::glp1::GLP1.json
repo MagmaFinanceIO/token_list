@@ -1,0 +1,13 @@
+{
+  "name": "GLP-1",
+  "symbol": "GLP1",
+  "decimals": 6,
+  "coin_type": "0xe0ed2df640b071eb0e6240e9a75eba77667c2947cf1c6d88c90a414def05bff6::glp1::GLP1",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5072_4d198b7502.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

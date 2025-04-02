@@ -1,0 +1,13 @@
+{
+  "name": "Pepnut",
+  "symbol": "PEPNUT",
+  "decimals": 9,
+  "coin_type": "0xbb7db17e0a52feb6c016093faa90a909e8314538222f1e58a2ef215f3ffcc581::pepnut::PEPNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EXHoSJACESWHtzHce7iewLX7buSg9mtpkM7YrmkivL9U.png?size=lg&key=4851dd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

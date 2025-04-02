@@ -1,0 +1,13 @@
+{
+  "name": "KEKIU",
+  "symbol": "KEKIU",
+  "decimals": 9,
+  "coin_type": "0x893673873235f2b1ec84d129bba24e3880915af900567b12a43c56d83a56059c::KEKIU::KEKIU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

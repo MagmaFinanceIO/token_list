@@ -1,0 +1,13 @@
+{
+  "name": "FRETT (Forked Brett on Sui)",
+  "symbol": "FRETT",
+  "decimals": 9,
+  "coin_type": "0x809ccae8261a51ce95636d2248fea3dcb258ca4586ccdb82649613a467e064a6::frett::FRETT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d75f575f-7557-41db-89c6-f1597cea9df7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

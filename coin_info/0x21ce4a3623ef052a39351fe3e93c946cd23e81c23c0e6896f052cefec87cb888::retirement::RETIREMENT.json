@@ -1,0 +1,13 @@
+{
+  "name": "THE RETIREMENT COIN",
+  "symbol": "RETIREMENT",
+  "decimals": 9,
+  "coin_type": "0x21ce4a3623ef052a39351fe3e93c946cd23e81c23c0e6896f052cefec87cb888::retirement::RETIREMENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d7ad8ce6-c716-4bbc-94cf-0f642c536d6c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

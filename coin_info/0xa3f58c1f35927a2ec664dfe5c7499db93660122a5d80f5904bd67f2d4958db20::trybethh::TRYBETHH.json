@@ -1,0 +1,13 @@
+{
+  "name": "TRYBETHh",
+  "symbol": "TRYBETHH",
+  "decimals": 9,
+  "coin_type": "0xa3f58c1f35927a2ec664dfe5c7499db93660122a5d80f5904bd67f2d4958db20::trybethh::TRYBETHH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

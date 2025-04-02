@@ -1,0 +1,13 @@
+{
+  "name": "RATY THE DOG",
+  "symbol": "RATY",
+  "decimals": 9,
+  "coin_type": "0x9b19a88be1d2f3e662185b68b4c61ff52ec36ec5c5753d1943c1b444b15ab6d7::raty::RATY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CBu2ka5W2vfJDVjVVFcoHHDNpz6nRKfEzGS43aDqpump.png?size=lg&key=60234c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CARROTS",
+  "symbol": "CARTS",
+  "decimals": 6,
+  "coin_type": "0x4c38555a991be7546cd234b80d7a55200abe7372574e685625fb7e2ededeb049::carts::CARTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmXBkNQMW6Wm3KQNAifBeY4FR984oxx4sNjnYTvpHDgeuk",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

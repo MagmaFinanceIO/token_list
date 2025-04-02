@@ -1,0 +1,13 @@
+{
+  "name": "Rifampicin",
+  "symbol": "RIF",
+  "decimals": 9,
+  "coin_type": "0x1c979ca8358bff79b93f427ce636f65e84d8e81265747c0885ae9f81eedf1af3::rif::RIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9ebb059d-4cda-4b9e-ab4e-2b13eadf2bba.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

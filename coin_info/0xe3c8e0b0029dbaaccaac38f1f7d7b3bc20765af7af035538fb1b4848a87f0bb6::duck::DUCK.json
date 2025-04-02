@@ -1,0 +1,13 @@
+{
+  "name": "Ducktrix Morpheus",
+  "symbol": "DUCK",
+  "decimals": 6,
+  "coin_type": "0xe3c8e0b0029dbaaccaac38f1f7d7b3bc20765af7af035538fb1b4848a87f0bb6::duck::DUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/received_550454427715358_7d3fd76ca8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

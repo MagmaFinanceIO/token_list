@@ -1,0 +1,13 @@
+{
+  "name": "Sui Sonic",
+  "symbol": "SUINIC",
+  "decimals": 6,
+  "coin_type": "0x601b8c2196e6adc8d1549e9055e0afb7153aeedaef6d479067ade2f39350d41f::suinic::SUINIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4a8b2c07-218a-4002-bd75-74286b5556f8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

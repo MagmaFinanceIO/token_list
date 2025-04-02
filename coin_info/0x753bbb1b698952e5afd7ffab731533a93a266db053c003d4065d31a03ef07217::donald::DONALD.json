@@ -1,0 +1,13 @@
+{
+  "name": "Real Donald Trump",
+  "symbol": "DONALD",
+  "decimals": 9,
+  "coin_type": "0x753bbb1b698952e5afd7ffab731533a93a266db053c003d4065d31a03ef07217::donald::DONALD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3NQ29xsm7QNCCLFVzbo79hwmAXm1BbhmRCrfQ2zEpump.png?size=lg&key=443512",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

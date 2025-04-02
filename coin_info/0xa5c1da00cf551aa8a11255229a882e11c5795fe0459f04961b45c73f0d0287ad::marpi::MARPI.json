@@ -1,0 +1,13 @@
+{
+  "name": "Marpi In Sui",
+  "symbol": "Marpi",
+  "decimals": 9,
+  "coin_type": "0xa5c1da00cf551aa8a11255229a882e11c5795fe0459f04961b45c73f0d0287ad::marpi::MARPI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8pBHYgSuY26itBajXa5A4UnqXdA6NYsUb4mPsVxXpump.png?size=lg&key=0e1a9f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

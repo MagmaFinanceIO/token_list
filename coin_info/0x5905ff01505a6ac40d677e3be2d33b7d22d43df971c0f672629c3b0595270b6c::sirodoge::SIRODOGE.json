@@ -1,0 +1,13 @@
+{
+  "name": "Dr Siro Doge",
+  "symbol": "SIRODOGE",
+  "decimals": 9,
+  "coin_type": "0x5905ff01505a6ac40d677e3be2d33b7d22d43df971c0f672629c3b0595270b6c::sirodoge::SIRODOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f6417804-290d-40d1-9268-6ac56d2e956c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

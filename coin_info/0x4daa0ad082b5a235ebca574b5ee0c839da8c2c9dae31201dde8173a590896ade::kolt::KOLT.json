@@ -1,0 +1,13 @@
+{
+  "name": "KOLT",
+  "symbol": "KOLT",
+  "decimals": 9,
+  "coin_type": "0x4daa0ad082b5a235ebca574b5ee0c839da8c2c9dae31201dde8173a590896ade::kolt::KOLT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xad86b91a1d1db15a4cd34d0634bbd4ecacb5b61a.png?size=lg&key=aadeeb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Cane Toad",
+  "symbol": "Cane",
+  "decimals": 6,
+  "coin_type": "0x485bc9b418fbf42352a6280ca0a5e3b50d121dbdb816d77a5da8fdfc29fcbb6e::cane::CANE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qme_Tgopp_DKY_Uw_Yu6_Rbfekotk6_En7s_Ac_Pdig_Sqd_Jxf_Zpz_Zq_ded337e683.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

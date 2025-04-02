@@ -1,0 +1,13 @@
+{
+  "name": "The Logic Theorist",
+  "symbol": "THEORIST",
+  "decimals": 9,
+  "coin_type": "0x7776b36d26eb19c2db48e3ee2d0d9c45c34b2051ff3b1b8266277e61ec777d0c::theorist::THEORIST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DPPuaMMYn2CJF7uepBUc6p76EAaFJoKWcAnooqjPpump.png?claimId=F_FD8hU5BxJMu82c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

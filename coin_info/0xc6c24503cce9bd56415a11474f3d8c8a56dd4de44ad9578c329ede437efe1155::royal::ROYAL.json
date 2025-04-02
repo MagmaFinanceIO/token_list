@@ -1,0 +1,13 @@
+{
+  "name": "Royal",
+  "symbol": "ROYAL",
+  "decimals": 9,
+  "coin_type": "0xc6c24503cce9bd56415a11474f3d8c8a56dd4de44ad9578c329ede437efe1155::royal::ROYAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/28bce1d4-4948-4f96-b4d8-b7e226975e91.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

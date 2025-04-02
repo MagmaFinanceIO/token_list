@@ -1,0 +1,13 @@
+{
+  "name": "MobSui",
+  "symbol": "MOBSUI",
+  "decimals": 6,
+  "coin_type": "0xd53b42b6ecccf53e58a8d5ca030b17f63054612bfb971f4762727cd294e5cf79::mobsui::MOBSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/mobycapa_57f3497257.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

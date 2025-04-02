@@ -1,0 +1,13 @@
+{
+  "name": "The Mask",
+  "symbol": "MASK",
+  "decimals": 9,
+  "coin_type": "0x26f1e841d58cec8402185c3bcbe7c07ff075577bc0f1df0a5ae91c09718fa18b::mask::MASK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9PbsVfPAevEnE4voc2PsEvXPu1fhiJRTccJTTWhLqQa7.png?size=lg&key=91a4ff",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

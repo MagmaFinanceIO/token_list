@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL XYZ",
+  "symbol": "XYZ",
+  "decimals": 9,
+  "coin_type": "0x66192739fc019434aded5fbd5c541f728e04bf6cac8ace8d2df7bf588a3fdeee::xyz::XYZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aff5c927-87ac-4ae4-b438-58f214f77030.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

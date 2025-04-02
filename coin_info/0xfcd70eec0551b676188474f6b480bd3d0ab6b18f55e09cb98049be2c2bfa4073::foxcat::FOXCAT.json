@@ -1,0 +1,13 @@
+{
+  "name": "FOXCAT",
+  "symbol": "FOXCAT",
+  "decimals": 9,
+  "coin_type": "0xfcd70eec0551b676188474f6b480bd3d0ab6b18f55e09cb98049be2c2bfa4073::foxcat::FOXCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/17f6a568-1200-453d-8a65-5d980477671c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

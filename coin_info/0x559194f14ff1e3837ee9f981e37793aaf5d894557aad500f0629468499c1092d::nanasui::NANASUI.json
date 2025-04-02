@@ -1,0 +1,13 @@
+{
+  "name": "nanasui",
+  "symbol": "NANASUI",
+  "decimals": 9,
+  "coin_type": "0x559194f14ff1e3837ee9f981e37793aaf5d894557aad500f0629468499c1092d::nanasui::NANASUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GGxjpF71hex5CcLo3rMHe5bpzYRWrPTd8vfhGTTApump.png?size=lg&key=5402c3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

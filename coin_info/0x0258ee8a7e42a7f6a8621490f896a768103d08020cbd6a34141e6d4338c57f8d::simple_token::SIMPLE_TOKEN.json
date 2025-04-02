@@ -1,0 +1,13 @@
+{
+  "name": "V1",
+  "symbol": "V1",
+  "decimals": 9,
+  "coin_type": "0x0258ee8a7e42a7f6a8621490f896a768103d08020cbd6a34141e6d4338c57f8d::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

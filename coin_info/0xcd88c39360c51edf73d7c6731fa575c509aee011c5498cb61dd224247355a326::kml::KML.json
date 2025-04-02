@@ -1,0 +1,13 @@
+{
+  "name": "Kamella",
+  "symbol": "KML",
+  "decimals": 6,
+  "coin_type": "0xcd88c39360c51edf73d7c6731fa575c509aee011c5498cb61dd224247355a326::kml::KML",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Kamella_SMG_2aec61625c.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

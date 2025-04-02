@@ -1,0 +1,13 @@
+{
+  "name": "SuiWifHat",
+  "symbol": "SWIF",
+  "decimals": 9,
+  "coin_type": "0xf54883822bf63033a9bbf6c3a9d629b8f454c177b537ede6146313a47805df57::swif::SWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9bde228a-41d9-47c3-9bdb-85c5ff34dd70.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

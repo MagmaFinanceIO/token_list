@@ -1,0 +1,13 @@
+{
+  "name": "wtfwtf",
+  "symbol": "WTFF",
+  "decimals": 0,
+  "coin_type": "0x8cd54a2ff10277088bb48f2171f8bb65ab20c125e4a77df58efe21213c277f9c::wtff::WTFF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/58b627c5-97fd-4e9e-9ff4-f0e847de2d4d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

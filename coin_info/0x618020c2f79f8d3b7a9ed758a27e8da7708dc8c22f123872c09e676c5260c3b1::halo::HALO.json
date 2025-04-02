@@ -1,0 +1,13 @@
+{
+  "name": "Sui Halo",
+  "symbol": "Halo",
+  "decimals": 6,
+  "coin_type": "0x618020c2f79f8d3b7a9ed758a27e8da7708dc8c22f123872c09e676c5260c3b1::halo::HALO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/istockphoto_1290124170_612x612_38dacf2d74.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

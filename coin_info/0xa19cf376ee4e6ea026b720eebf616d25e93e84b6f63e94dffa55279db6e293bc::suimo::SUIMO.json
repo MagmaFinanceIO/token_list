@@ -1,0 +1,13 @@
+{
+  "name": "Suimo The Clownfish",
+  "symbol": "SUIMO",
+  "decimals": 6,
+  "coin_type": "0xa19cf376ee4e6ea026b720eebf616d25e93e84b6f63e94dffa55279db6e293bc::suimo::SUIMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Suimo_ec169e6243.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

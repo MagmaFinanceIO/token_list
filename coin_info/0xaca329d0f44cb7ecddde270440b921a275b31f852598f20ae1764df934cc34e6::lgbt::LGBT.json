@@ -1,0 +1,13 @@
+{
+  "name": "LGBT",
+  "symbol": "LGBT",
+  "decimals": 9,
+  "coin_type": "0xaca329d0f44cb7ecddde270440b921a275b31f852598f20ae1764df934cc34e6::lgbt::LGBT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gay_Pride_Flag.svg/262px-Gay_Pride_Flag.svg.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

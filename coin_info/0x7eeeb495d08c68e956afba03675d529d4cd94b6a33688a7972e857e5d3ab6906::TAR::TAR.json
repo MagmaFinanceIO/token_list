@@ -1,0 +1,13 @@
+{
+  "name": "TAR",
+  "symbol": "TAR",
+  "decimals": 9,
+  "coin_type": "0x7eeeb495d08c68e956afba03675d529d4cd94b6a33688a7972e857e5d3ab6906::TAR::TAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

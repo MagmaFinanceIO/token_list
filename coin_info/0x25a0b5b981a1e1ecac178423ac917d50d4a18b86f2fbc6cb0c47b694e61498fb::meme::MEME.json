@@ -1,0 +1,13 @@
+{
+  "name": "Memecoin",
+  "symbol": "MEME",
+  "decimals": 9,
+  "coin_type": "0x25a0b5b981a1e1ecac178423ac917d50d4a18b86f2fbc6cb0c47b694e61498fb::meme::MEME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f4eb2612-e615-45bb-bc80-d601131f8eeb.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

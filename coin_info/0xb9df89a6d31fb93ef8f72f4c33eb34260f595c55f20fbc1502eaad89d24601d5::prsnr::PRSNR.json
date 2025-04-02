@@ -1,0 +1,13 @@
+{
+  "name": "Prisoner",
+  "symbol": "PRSNR",
+  "decimals": 9,
+  "coin_type": "0xb9df89a6d31fb93ef8f72f4c33eb34260f595c55f20fbc1502eaad89d24601d5::prsnr::PRSNR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2e9b0994-e0e1-44c7-9839-6dc9bad94734.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

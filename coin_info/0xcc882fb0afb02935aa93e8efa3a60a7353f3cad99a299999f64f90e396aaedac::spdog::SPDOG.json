@@ -1,0 +1,13 @@
+{
+  "name": "Space Dog Sui",
+  "symbol": "SPDOG",
+  "decimals": 9,
+  "coin_type": "0xcc882fb0afb02935aa93e8efa3a60a7353f3cad99a299999f64f90e396aaedac::spdog::SPDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6b0a9aa9-a68f-43a3-b005-89c25def3bae.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

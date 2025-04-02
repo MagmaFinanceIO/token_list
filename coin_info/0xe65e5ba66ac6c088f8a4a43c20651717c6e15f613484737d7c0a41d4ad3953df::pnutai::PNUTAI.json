@@ -1,0 +1,13 @@
+{
+  "name": "PEANUT AI",
+  "symbol": "PNUTAI",
+  "decimals": 9,
+  "coin_type": "0xe65e5ba66ac6c088f8a4a43c20651717c6e15f613484737d7c0a41d4ad3953df::pnutai::PNUTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c42db2a2-58aa-4778-8cd2-60b4512e45ef.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

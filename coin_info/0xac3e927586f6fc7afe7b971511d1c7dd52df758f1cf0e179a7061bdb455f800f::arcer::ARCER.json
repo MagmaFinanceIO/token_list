@@ -1,0 +1,13 @@
+{
+  "name": "Arcane Enforcer",
+  "symbol": "ARCER",
+  "decimals": 9,
+  "coin_type": "0xac3e927586f6fc7afe7b971511d1c7dd52df758f1cf0e179a7061bdb455f800f::arcer::ARCER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/076/831/560/large/stasia-bubnova-arcane-enforcer-render-1.jpg?1717934305",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

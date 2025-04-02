@@ -1,0 +1,13 @@
+{
+  "name": "Holy Cat",
+  "symbol": "HOLY",
+  "decimals": 9,
+  "coin_type": "0x64c64e6aafd7705ca401ff0ab3d8c6b16f7927b2afbc047b140c12ace8e4a905::holy::HOLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/58y23mKohBMkt1AuMSz9TYaUZEgdfQaNkp8CtaY5pump.png?size=lg&key=73a049",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

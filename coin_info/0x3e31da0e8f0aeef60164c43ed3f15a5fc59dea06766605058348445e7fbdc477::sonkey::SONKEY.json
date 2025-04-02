@@ -1,0 +1,13 @@
+{
+  "name": "Sui Monkey",
+  "symbol": "SONKEY",
+  "decimals": 6,
+  "coin_type": "0x3e31da0e8f0aeef60164c43ed3f15a5fc59dea06766605058348445e7fbdc477::sonkey::SONKEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/faeaa923-e7be-4155-97d5-ae83bf83a955.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

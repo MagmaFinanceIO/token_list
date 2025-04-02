@@ -1,0 +1,13 @@
+{
+  "name": "FROG",
+  "symbol": "FROG",
+  "decimals": 6,
+  "coin_type": "0x129f65b7a04c9482697d87ec995d296214b806494761bee2cb7b2a347d3660c1::frog::FROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/frog.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

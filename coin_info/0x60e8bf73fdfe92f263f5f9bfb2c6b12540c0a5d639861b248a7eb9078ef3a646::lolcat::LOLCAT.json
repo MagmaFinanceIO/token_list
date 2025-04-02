@@ -1,0 +1,13 @@
+{
+  "name": "LOLCAT",
+  "symbol": "LOLCAT",
+  "decimals": 9,
+  "coin_type": "0x60e8bf73fdfe92f263f5f9bfb2c6b12540c0a5d639861b248a7eb9078ef3a646::lolcat::LOLCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8656ffcd-12ff-4c4f-9636-a246f4b99eb3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

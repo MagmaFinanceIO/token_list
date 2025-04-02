@@ -1,0 +1,13 @@
+{
+  "name": "DOGGY",
+  "symbol": "DOGGY",
+  "decimals": 6,
+  "coin_type": "0xdf416fdd48f48ca2babdfa68a16904ce306e0228a129e084187be1babd58bcdc::doggy::DOGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co.com/XksSvgN/photo-2024-10-15-19-41-09.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hachiko",
+  "symbol": "HACHI",
+  "decimals": 9,
+  "coin_type": "0xf42ef369b920d613052770c055f27ac311545b5ac324fc21b024206f5df0d5a0::hachiko::HACHIKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4amstKcbziHCqwev9esMtRGDTdjHSviiNXT7WtajgjUq.png?size=lg&key=6abe8c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

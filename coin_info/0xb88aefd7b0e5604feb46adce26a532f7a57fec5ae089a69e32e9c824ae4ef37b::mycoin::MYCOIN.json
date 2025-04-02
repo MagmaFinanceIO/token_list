@@ -1,0 +1,13 @@
+{
+  "name": "TRUMPGULF",
+  "symbol": "TRUMPGULF",
+  "decimals": 9,
+  "coin_type": "0xb88aefd7b0e5604feb46adce26a532f7a57fec5ae089a69e32e9c824ae4ef37b::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Coinbase",
+  "symbol": "COINBASE",
+  "decimals": 9,
+  "coin_type": "0x4871af5799477738de044173c6c897ce8ecf19f8d32ea38a1ee7d083753ede14::coinbase::COINBASE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2Kk16bkuFH8dsd117feYaqPjBYrF8NC5GCM2VMyKpump.png?size=lg&key=3de7d6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

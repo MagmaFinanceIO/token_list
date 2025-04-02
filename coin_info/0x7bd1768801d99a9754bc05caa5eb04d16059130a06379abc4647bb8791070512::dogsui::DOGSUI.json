@@ -1,0 +1,13 @@
+{
+  "name": "DogSui Meme",
+  "symbol": "DogSui",
+  "decimals": 6,
+  "coin_type": "0x7bd1768801d99a9754bc05caa5eb04d16059130a06379abc4647bb8791070512::dogsui::DOGSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SUIDOG_1_min_b924c0b719.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

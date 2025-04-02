@@ -1,0 +1,13 @@
+{
+  "name": "First Shoobadookie On Sui",
+  "symbol": "DOOK",
+  "decimals": 6,
+  "coin_type": "0x16e6c5e4fb7679bbc1e589c1fd6e3da9df315f7273be6c5b47c206109de48d9c::dook::DOOK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_1_1_72bca59ae4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

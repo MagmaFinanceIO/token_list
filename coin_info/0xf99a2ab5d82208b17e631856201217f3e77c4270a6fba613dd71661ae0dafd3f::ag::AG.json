@@ -1,0 +1,13 @@
+{
+  "name": "Agent Core  by SuiAI",
+  "symbol": "AG",
+  "decimals": 6,
+  "coin_type": "0xf99a2ab5d82208b17e631856201217f3e77c4270a6fba613dd71661ae0dafd3f::ag::AG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/photo_2025_01_22_17_53_51_dad319b398.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

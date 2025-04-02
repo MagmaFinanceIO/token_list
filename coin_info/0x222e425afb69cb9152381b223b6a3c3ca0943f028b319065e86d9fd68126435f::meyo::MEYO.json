@@ -1,0 +1,13 @@
+{
+  "name": "Meyo On Sui",
+  "symbol": "MEYO",
+  "decimals": 6,
+  "coin_type": "0x222e425afb69cb9152381b223b6a3c3ca0943f028b319065e86d9fd68126435f::meyo::MEYO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000055095_a7ce3781ca.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

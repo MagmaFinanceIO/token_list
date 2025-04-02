@@ -1,0 +1,13 @@
+{
+  "name": "OXIVIVE A coin representing a Anti-aging start-up in India",
+  "symbol": "OXIVIVE",
+  "decimals": 9,
+  "coin_type": "0x9c5e388cbd1beda2c7cab7c556082e73bf97a7a814451916d1e177c810d1214e::oxivive::OXIVIVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4a9df5ee-f6ef-4ea1-b7c2-1e48c1610cde.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "1111",
+  "symbol": "sym",
+  "decimals": 9,
+  "coin_type": "0xfc7d43eadbbd024856ce9f29178c8a31670e3291b8fc85213e1e2f3a124de582::sym::SYM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://image",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

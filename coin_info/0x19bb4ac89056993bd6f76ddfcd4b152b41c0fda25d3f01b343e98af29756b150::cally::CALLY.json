@@ -1,0 +1,13 @@
+{
+  "name": "Pepecally",
+  "symbol": "CALLY",
+  "decimals": 6,
+  "coin_type": "0x19bb4ac89056993bd6f76ddfcd4b152b41c0fda25d3f01b343e98af29756b150::cally::CALLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSS6gMkGkoSXCZkN2F7LmxeeN3gsbLyPV5ugbVDYozNRr",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

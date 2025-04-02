@@ -1,0 +1,13 @@
+{
+  "name": "CHF",
+  "symbol": "CHF",
+  "decimals": 9,
+  "coin_type": "0xc1116485e42ca5d0cc4c0f6824c677610fc07fd4353b0433e21bc480753dd054::chf::CHF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

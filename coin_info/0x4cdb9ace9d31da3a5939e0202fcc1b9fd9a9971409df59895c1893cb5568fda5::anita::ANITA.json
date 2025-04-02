@@ -1,0 +1,13 @@
+{
+  "name": "Anita Max Win",
+  "symbol": "ANITA",
+  "decimals": 9,
+  "coin_type": "0x4cdb9ace9d31da3a5939e0202fcc1b9fd9a9971409df59895c1893cb5568fda5::anita::ANITA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A9yo764PkWtbtAPJ1966UBky91E6jes8v5FwxX7fpump.png?size=lg&key=2e8622",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

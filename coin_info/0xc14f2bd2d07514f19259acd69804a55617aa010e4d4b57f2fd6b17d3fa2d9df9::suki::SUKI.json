@@ -1,0 +1,13 @@
+{
+  "name": "Suki",
+  "symbol": "SUKI",
+  "decimals": 6,
+  "coin_type": "0xc14f2bd2d07514f19259acd69804a55617aa010e4d4b57f2fd6b17d3fa2d9df9::suki::SUKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Preview_46a13423e6.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

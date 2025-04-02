@@ -1,0 +1,13 @@
+{
+  "name": "XONO",
+  "symbol": "XSN",
+  "decimals": 6,
+  "coin_type": "0x1ee9e24487d278887dafbe1bb0cd2ae617f6afc390a19d97aeb1551e3b827ef6::xsn::XSN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmXxcaytQghx8vJuhgJNPyCTc939NthS8zr8R4F1DFL7o4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BEBOP SOL",
+  "symbol": "BEBOP",
+  "decimals": 9,
+  "coin_type": "0x3a8dc565c0e042c14cf42de3fd5054b258007a747519396b07c22875e7b0478e::bebop::BEBOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2SNstbEYVEn2iTNQyZHKGzgTPZwBgnujwKa8hn5opump.png?size=lg&key=16c90b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

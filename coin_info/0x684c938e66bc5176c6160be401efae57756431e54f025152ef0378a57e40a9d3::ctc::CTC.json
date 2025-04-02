@@ -1,0 +1,13 @@
+{
+  "name": "Crazy Tackle",
+  "symbol": "CTC",
+  "decimals": 9,
+  "coin_type": "0x684c938e66bc5176c6160be401efae57756431e54f025152ef0378a57e40a9d3::ctc::CTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.crazyteckel.com/imgs/crazy-teckel-coin.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

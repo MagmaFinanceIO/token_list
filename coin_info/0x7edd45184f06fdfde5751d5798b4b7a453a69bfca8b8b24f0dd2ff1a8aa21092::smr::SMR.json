@@ -1,0 +1,13 @@
+{
+  "name": "SUIMURFS",
+  "symbol": "SMR",
+  "decimals": 6,
+  "coin_type": "0x7edd45184f06fdfde5751d5798b4b7a453a69bfca8b8b24f0dd2ff1a8aa21092::smr::SMR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000019822_c76f7cb2e9.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DE BLOBS",
+  "symbol": "BLOBS",
+  "decimals": 6,
+  "coin_type": "0xf824df813f962c53767ce8fa5d4d326013d278e353dd368d57597ff79c392303::blobs::BLOBS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSyG8RwQphVG3A8X36VL6o6w3C7fgAaLscD9S3UqLPDRt",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

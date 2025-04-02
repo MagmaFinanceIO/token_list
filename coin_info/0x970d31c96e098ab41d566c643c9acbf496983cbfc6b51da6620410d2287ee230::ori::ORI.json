@@ -1,0 +1,13 @@
+{
+  "name": "Origent AI",
+  "symbol": "ORI",
+  "decimals": 6,
+  "coin_type": "0x970d31c96e098ab41d566c643c9acbf496983cbfc6b51da6620410d2287ee230::ori::ORI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1738763675198.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

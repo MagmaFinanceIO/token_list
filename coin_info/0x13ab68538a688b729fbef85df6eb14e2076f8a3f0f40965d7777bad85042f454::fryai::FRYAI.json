@@ -1,0 +1,13 @@
+{
+  "name": "FrenchyFry Potato by SuiAI",
+  "symbol": "FRYAI",
+  "decimals": 6,
+  "coin_type": "0x13ab68538a688b729fbef85df6eb14e2076f8a3f0f40965d7777bad85042f454::fryai::FRYAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/frenchyfry_edited_9c3b3d277d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

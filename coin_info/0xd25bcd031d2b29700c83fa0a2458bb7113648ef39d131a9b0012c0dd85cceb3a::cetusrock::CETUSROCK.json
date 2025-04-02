@@ -1,0 +1,13 @@
+{
+  "name": "CETUSROCK",
+  "symbol": "CETUSROCK",
+  "decimals": 9,
+  "coin_type": "0xd25bcd031d2b29700c83fa0a2458bb7113648ef39d131a9b0012c0dd85cceb3a::cetusrock::CETUSROCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "🐜PIKANT",
+  "symbol": "PIKANT",
+  "decimals": 3,
+  "coin_type": "0x1a09cc05f6c2064ef8fb9350fb5d7046dbc570ec065aef2d2ee16b9603848e96::pikant::PIKANT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d8f32f3d-9daf-48bf-9985-a74e2e39f0e8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

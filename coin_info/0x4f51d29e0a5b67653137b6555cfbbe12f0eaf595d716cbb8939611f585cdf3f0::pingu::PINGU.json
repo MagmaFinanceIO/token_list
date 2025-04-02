@@ -1,0 +1,13 @@
+{
+  "name": "Pingu",
+  "symbol": "PINGU",
+  "decimals": 9,
+  "coin_type": "0x4f51d29e0a5b67653137b6555cfbbe12f0eaf595d716cbb8939611f585cdf3f0::pingu::PINGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2adahaR5nW7y11G9HSsEHVg7KuxCgypL2UPUWQLSpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "POPOL",
+  "symbol": "POPOL",
+  "decimals": 9,
+  "coin_type": "0x8368f7a3d7d5df0df74cd2dd24a7bd30b84610de55c731a4dc9fbb3c981010c4::popol::POPOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.postimg.cc/HxrpR1sg/popol250.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "wrapped fish",
+  "symbol": "wFISH",
+  "decimals": 6,
+  "coin_type": "0x15d5d23c018782dd4dd969d558fc6f522c38df340493d6a5b291122c58f45f43::wfish::WFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Captura_de_Pantalla_2024_10_11_a_la_s_17_49_10_b7814fdd4e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

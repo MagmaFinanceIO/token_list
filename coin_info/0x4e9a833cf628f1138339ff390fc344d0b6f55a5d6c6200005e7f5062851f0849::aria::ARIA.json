@@ -1,0 +1,13 @@
+{
+  "name": "Aria AI Agent",
+  "symbol": "Aria",
+  "decimals": 6,
+  "coin_type": "0x4e9a833cf628f1138339ff390fc344d0b6f55a5d6c6200005e7f5062851f0849::aria::ARIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736426810828.27",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

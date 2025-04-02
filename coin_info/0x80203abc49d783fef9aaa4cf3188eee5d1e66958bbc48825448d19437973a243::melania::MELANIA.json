@@ -1,0 +1,13 @@
+{
+  "name": "Melania Meme",
+  "symbol": "MELANIA",
+  "decimals": 6,
+  "coin_type": "0x80203abc49d783fef9aaa4cf3188eee5d1e66958bbc48825448d19437973a243::melania::MELANIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/52381eee-d15b-4263-8533-d307ed24af9a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

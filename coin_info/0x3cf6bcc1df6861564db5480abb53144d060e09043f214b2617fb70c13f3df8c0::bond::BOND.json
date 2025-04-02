@@ -1,0 +1,13 @@
+{
+  "name": "LAFD Rescue Dog",
+  "symbol": "BOND",
+  "decimals": 6,
+  "coin_type": "0x3cf6bcc1df6861564db5480abb53144d060e09043f214b2617fb70c13f3df8c0::bond::BOND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736453252918.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

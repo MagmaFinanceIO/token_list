@@ -1,0 +1,13 @@
+{
+  "name": "Tokyo",
+  "symbol": "TO",
+  "decimals": 9,
+  "coin_type": "0x6eb25dff5986bdbf58f9741593d5c8d979032933a1116ecaf6cbe29d9d9a2911::to::TO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

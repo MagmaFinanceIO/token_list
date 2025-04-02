@@ -1,0 +1,13 @@
+{
+  "name": "Fallen Grace",
+  "symbol": "GRACE",
+  "decimals": 9,
+  "coin_type": "0x5c2889e998ddb215ccff8caa7ae4b98e7b60cd22a8717faf2afa5bf03d54a902::grace::GRACE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/695/598/large/shatiryan-volodya-01-main-camera-1.jpg?1728302697",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

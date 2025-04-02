@@ -1,0 +1,13 @@
+{
+  "name": "LumaAI",
+  "symbol": "Luma",
+  "decimals": 6,
+  "coin_type": "0xecd2596e9d680459c80b64c942c7035cffc28d9b29ef3422fd0e776235c95b05::luma::LUMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000034918_034d2f4245.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

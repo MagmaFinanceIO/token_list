@@ -1,0 +1,13 @@
+{
+  "name": "WakeUp",
+  "symbol": "WUP",
+  "decimals": 9,
+  "coin_type": "0xd5625183564bb8a605e3f642a397314574d801f6b29742019b083af2a812ce0b::wup::WUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/abc69098-3357-4aca-bea4-07cd0878b41f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

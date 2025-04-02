@@ -1,0 +1,13 @@
+{
+  "name": "SUIPEPE",
+  "symbol": "PIPI",
+  "decimals": 6,
+  "coin_type": "0x11a1842026e5a8ea3e9b19e6ad59c0b8703b4c21baa8f18bc84412a7aeeb0f5a::pipi::PIPI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000014335_efe5139b13.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

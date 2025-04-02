@@ -1,0 +1,13 @@
+{
+  "name": "MakeEuropeGreatAgain",
+  "symbol": "MEGA",
+  "decimals": 6,
+  "coin_type": "0xd521905877f7a4a6863df8a70c882ee6760aa8b0d49a8d26840f63214475c8d2::mega::MEGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737283892335.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

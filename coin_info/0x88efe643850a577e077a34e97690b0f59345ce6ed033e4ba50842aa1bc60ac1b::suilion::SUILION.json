@@ -1,0 +1,13 @@
+{
+  "name": "SUILION",
+  "symbol": "SUILION",
+  "decimals": 9,
+  "coin_type": "0x88efe643850a577e077a34e97690b0f59345ce6ed033e4ba50842aa1bc60ac1b::suilion::SUILION",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/57c27db7-79ee-4d7f-9cfe-32ed0f5a85ae.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suiba Wif Hat",
+  "symbol": "Suif",
+  "decimals": 9,
+  "coin_type": "0x9b9aba52eee325a4cdba9b02f93b72a77563d77679ff41f5f0c0b64b448a1ca5::suif::SUIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FSuif500x500_04f4da93fe.png&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

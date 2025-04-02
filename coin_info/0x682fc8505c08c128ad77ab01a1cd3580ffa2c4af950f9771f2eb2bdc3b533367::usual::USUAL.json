@@ -1,0 +1,13 @@
+{
+  "name": "Usual",
+  "symbol": "USUAL",
+  "decimals": 9,
+  "coin_type": "0x682fc8505c08c128ad77ab01a1cd3580ffa2c4af950f9771f2eb2bdc3b533367::usual::USUAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://s2.coinmarketcap.com/static/img/coins/64x64/33979.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

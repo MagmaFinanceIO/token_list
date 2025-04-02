@@ -1,0 +1,13 @@
+{
+  "name": "Groguonsui",
+  "symbol": "Groguonsuichain",
+  "decimals": 6,
+  "coin_type": "0x6bdc1d76f23157919dc469b1a05621fc9d4c4efe9f1988c91b0bff2f2d08bdaf::groguonsuichain::GROGUONSUICHAIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000166197_b8e78975bd.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

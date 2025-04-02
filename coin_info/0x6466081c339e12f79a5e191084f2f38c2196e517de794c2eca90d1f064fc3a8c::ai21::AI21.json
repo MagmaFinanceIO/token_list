@@ -1,0 +1,13 @@
+{
+  "name": "AI21 Labs Token",
+  "symbol": "AI21",
+  "decimals": 9,
+  "coin_type": "0x6466081c339e12f79a5e191084f2f38c2196e517de794c2eca90d1f064fc3a8c::ai21::AI21",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3uKDdU8ZpCEGg7s2iCuxUK2JmC3iKouUMoC7Kmewpump.png?size=lg&key=8f6a64",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

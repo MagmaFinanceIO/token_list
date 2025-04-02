@@ -1,0 +1,13 @@
+{
+  "name": "Muskimus Maximus X",
+  "symbol": "Muskimus",
+  "decimals": 9,
+  "coin_type": "0x7eb86d0ab08b9ed738031a7128880be26893c1fa30d11b6b51ee399f5601918b::muskimus::MUSKIMUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FLn5uGse84BS7R5eyN2wCd8agpGyzNBLS233HhUvpump.png?size=lg&key=40fce9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

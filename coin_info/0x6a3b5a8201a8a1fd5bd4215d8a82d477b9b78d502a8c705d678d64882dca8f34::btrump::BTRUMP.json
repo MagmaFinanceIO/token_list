@@ -1,0 +1,13 @@
+{
+  "name": "Baby Trump Official",
+  "symbol": "BTRUMP",
+  "decimals": 9,
+  "coin_type": "0x6a3b5a8201a8a1fd5bd4215d8a82d477b9b78d502a8c705d678d64882dca8f34::btrump::BTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0328cf5b-2c29-4b1e-b2a5-dfd4133293e2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

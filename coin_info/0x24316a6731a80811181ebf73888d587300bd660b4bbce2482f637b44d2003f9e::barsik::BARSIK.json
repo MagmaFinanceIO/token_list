@@ -1,0 +1,13 @@
+{
+  "name": "Hasbulla's Cat",
+  "symbol": "BARSIK",
+  "decimals": 9,
+  "coin_type": "0x24316a6731a80811181ebf73888d587300bd660b4bbce2482f637b44d2003f9e::barsik::BARSIK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQGnY89VpTTxVvrVTvoqEqtptEBj4wE7FCDTA95xrFpou",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

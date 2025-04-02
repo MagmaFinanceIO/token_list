@@ -1,0 +1,13 @@
+{
+  "name": "BabyLou",
+  "symbol": "BabyLou",
+  "decimals": 9,
+  "coin_type": "0xdd78816a0f3f3eff388e0e8218cad7fbebfbefea6c51bd2bdc3507c1a2d5d6c7::babylou::BABYLOU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/KQCRDA1rYywcnA8EDEJ8D1fYwL9fbJeiNwEhVaypump.png?size=lg&key=2468f6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

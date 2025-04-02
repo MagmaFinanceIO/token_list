@@ -1,0 +1,13 @@
+{
+  "name": "PopTrumpSUI",
+  "symbol": "PTS",
+  "decimals": 6,
+  "coin_type": "0x88f8a33fdfc79f576d7a4eeedf543827abfb2aca232d5b8239b03cb358ac7aa4::pts::PTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qmc_Kt_Mk2v_RL_Vh1o_C4vrene_Df6_Bacx_Ch8g4fk_H9h_H_Jh_L9ox_72d67d100d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

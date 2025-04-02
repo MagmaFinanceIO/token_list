@@ -1,0 +1,13 @@
+{
+  "name": "Amalfi",
+  "symbol": "AMA",
+  "decimals": 9,
+  "coin_type": "0x6555a95b149358347e15f78cdb6d087067d3a2c3b592a663d59d4de1171bc732::ama::AMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafybeidaoac6gi7x36z7mnexum4hq7twdglh5cl6jvcbl4ea32iugfrime.ipfs.w3s.link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

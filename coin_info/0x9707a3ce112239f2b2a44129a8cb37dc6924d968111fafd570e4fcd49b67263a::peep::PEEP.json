@@ -1,0 +1,13 @@
+{
+  "name": "Green PeeP",
+  "symbol": "PeeP",
+  "decimals": 9,
+  "coin_type": "0x9707a3ce112239f2b2a44129a8cb37dc6924d968111fafd570e4fcd49b67263a::peep::PEEP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/57750318-6ee5-452a-92f9-014fa69d3250.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

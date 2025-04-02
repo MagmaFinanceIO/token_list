@@ -1,0 +1,13 @@
+{
+  "name": "JETZO",
+  "symbol": "JETZO",
+  "decimals": 9,
+  "coin_type": "0xaea424f43458d9e712bd4d7eafd06c2c7170cb06f4a3ad4c41d08071d2ae3e1d::jetzo::JETZO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AYFe8ELotyaAtkyG1bAfBJjyDSpN3KWn47969CZf9Hu3.png?size=lg&key=44b368",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

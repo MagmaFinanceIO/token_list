@@ -1,0 +1,13 @@
+{
+  "name": "YUKIAI",
+  "symbol": "YUKIAI",
+  "decimals": 9,
+  "coin_type": "0xab81415c8321209316f82168b01095353060ed6ac860dce6cea1f7341006ce24::yukiai::YUKIAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c1cdf9f7-5e9d-4b01-83af-71e164141085.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

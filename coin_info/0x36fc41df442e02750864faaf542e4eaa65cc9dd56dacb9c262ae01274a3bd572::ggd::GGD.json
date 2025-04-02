@@ -1,0 +1,13 @@
+{
+  "name": "Gaddafi gloden dinar",
+  "symbol": "ggd",
+  "decimals": 8,
+  "coin_type": "0x36fc41df442e02750864faaf542e4eaa65cc9dd56dacb9c262ae01274a3bd572::ggd::GGD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3d9b4cad-688a-43f2-82e5-2e20d94a475e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

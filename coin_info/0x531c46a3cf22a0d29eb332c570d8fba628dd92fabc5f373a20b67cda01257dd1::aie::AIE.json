@@ -1,0 +1,13 @@
+{
+  "name": "AI Explorer",
+  "symbol": "AIE",
+  "decimals": 9,
+  "coin_type": "0x531c46a3cf22a0d29eb332c570d8fba628dd92fabc5f373a20b67cda01257dd1::aie::AIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4eGMg4neWET7tVjPA3Dj7Yp2RBem2v36iWW4TgmVpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

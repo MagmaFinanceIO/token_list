@@ -1,0 +1,13 @@
+{
+  "name": "MNG",
+  "symbol": "PARITY",
+  "decimals": 2,
+  "coin_type": "0xb0c9fdafa1a8d904a7fbe95931c5ab4b437041c6bec58b6e4f728ac89167f04b::parity::PARITY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

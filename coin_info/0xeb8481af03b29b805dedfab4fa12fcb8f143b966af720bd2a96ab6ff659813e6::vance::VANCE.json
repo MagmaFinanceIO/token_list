@@ -1,0 +1,13 @@
+{
+  "name": "JD VANCE",
+  "symbol": "VANCE",
+  "decimals": 9,
+  "coin_type": "0xeb8481af03b29b805dedfab4fa12fcb8f143b966af720bd2a96ab6ff659813e6::vance::VANCE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQPQAnXDgYexGzvyCvhgRF8DH95znYrbiY4sXnoyvKkQ2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

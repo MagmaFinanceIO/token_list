@@ -1,0 +1,13 @@
+{
+  "name": "PUMP IT",
+  "symbol": "PUMPIT",
+  "decimals": 6,
+  "coin_type": "0x7d0f7320efd694c79d14c7deb2820ece505831c78fe6e048f586a290f44d11bb::PUMPIT::PUMPIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmPaDY7ddbstCWQRyaZDBykoM2xWeU27YFHP34Bd3cu2tH",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

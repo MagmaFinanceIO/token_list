@@ -1,0 +1,13 @@
+{
+  "name": "Terminal Rick",
+  "symbol": "C137",
+  "decimals": 9,
+  "coin_type": "0xa5f7e5dcd17b5e376266853b9854e3956e76bf0af3da9b3195873d08939075b3::c137::C137",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/VHA7gB9K6DxekEjzGM7eRyZk616kB3gfA1zGsqtpump.png?size=lg&key=43829f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

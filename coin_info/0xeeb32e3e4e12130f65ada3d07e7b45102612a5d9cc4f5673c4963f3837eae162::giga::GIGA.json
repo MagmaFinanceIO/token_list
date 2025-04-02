@@ -1,0 +1,13 @@
+{
+  "name": "GigaChad by SuiAI",
+  "symbol": "GIGA",
+  "decimals": 6,
+  "coin_type": "0xeeb32e3e4e12130f65ada3d07e7b45102612a5d9cc4f5673c4963f3837eae162::giga::GIGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Gdw_Tr_PF_Xw_AA_Vl_Uh_975ee6b98b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI ROCK",
+  "symbol": "SUI ROCK",
+  "decimals": 6,
+  "coin_type": "0x7e8bb443f34987fb5c223cb251f4da6163d0c2ec5e1ceeaa8dbbee55165d4aea::sui_rock::SUI_ROCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qme8AVsruhVUK64ndGjkvQV8kETbDz6csMpxdCcVU3rqZX",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

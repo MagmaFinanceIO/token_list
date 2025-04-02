@@ -1,0 +1,13 @@
+{
+  "name": "MEWING SNOWMAN",
+  "symbol": "MEW",
+  "decimals": 9,
+  "coin_type": "0xf9bc47320daeb3c354bc7918f84bf84795078d5144a81ec91f1581e449cefbb4::mew::MEW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5YhheS7JkmDGehEaz1G6Bw4Wjx7vxUMQSBLjyL45pump.png?size=lg&key=fa8a9a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

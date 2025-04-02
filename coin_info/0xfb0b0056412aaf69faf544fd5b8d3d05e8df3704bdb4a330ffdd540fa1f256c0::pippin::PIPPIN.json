@@ -1,0 +1,13 @@
+{
+  "name": "Pippin",
+  "symbol": "PIPPIN",
+  "decimals": 6,
+  "coin_type": "0xfb0b0056412aaf69faf544fd5b8d3d05e8df3704bdb4a330ffdd540fa1f256c0::pippin::PIPPIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_from_2024_12_24_01_58_12_92710b25ff.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

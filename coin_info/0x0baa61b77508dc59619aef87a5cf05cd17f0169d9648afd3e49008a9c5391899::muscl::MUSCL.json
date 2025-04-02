@@ -1,0 +1,13 @@
+{
+  "name": "Muscle",
+  "symbol": "MUSCL",
+  "decimals": 9,
+  "coin_type": "0x0baa61b77508dc59619aef87a5cf05cd17f0169d9648afd3e49008a9c5391899::muscl::MUSCL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/514fbf70-b44d-44bd-8216-ce348ce91739.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "eCash",
+  "symbol": "XEC",
+  "decimals": 8,
+  "coin_type": "0x92baf7a2dcb487f54a3f8f0f7ffee6dd07517f1b94b05e89355995a371b7df35::xec::XEC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e8f12507-3b4c-44b4-af19-4cda8b384ceb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

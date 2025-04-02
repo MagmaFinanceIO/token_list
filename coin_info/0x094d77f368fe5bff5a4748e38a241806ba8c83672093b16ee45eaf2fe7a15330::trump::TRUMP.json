@@ -1,0 +1,13 @@
+{
+  "name": "AGENT DONALD TRUMP",
+  "symbol": "TRUMP",
+  "decimals": 6,
+  "coin_type": "0x094d77f368fe5bff5a4748e38a241806ba8c83672093b16ee45eaf2fe7a15330::trump::TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1_c173a8fa76.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

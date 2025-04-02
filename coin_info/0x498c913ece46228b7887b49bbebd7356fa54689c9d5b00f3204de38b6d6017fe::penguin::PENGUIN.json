@@ -1,0 +1,13 @@
+{
+  "name": "BABYPENGUIN",
+  "symbol": "PENGUIN",
+  "decimals": 9,
+  "coin_type": "0x498c913ece46228b7887b49bbebd7356fa54689c9d5b00f3204de38b6d6017fe::penguin::PENGUIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/F7P4MoVEKxMKP37u8NKPMJTMdP3dQGxhjUqisgaApump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

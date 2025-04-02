@@ -1,0 +1,13 @@
+{
+  "name": "Kamala Unemployment Fund",
+  "symbol": "KUF",
+  "decimals": 9,
+  "coin_type": "0x6c77d0ebf29100852f5d6c432feeaa1d229714aea00d5e534b29bff3b58d769f::kufa::KUFA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "knfIDeI09KZ7CoZh",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suidiot",
+  "symbol": "SUIDIOT",
+  "decimals": 9,
+  "coin_type": "0x93e34e1176e4732cdd3523fe4da4202c0c86f424ddffaa1add8dab71cdffe8e6::suidiot::SUIDIOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5727903a-35b7-4611-bb0b-8743a6f4f020.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

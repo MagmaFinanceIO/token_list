@@ -1,0 +1,13 @@
+{
+  "name": "ASCBETH",
+  "symbol": "ASCBETHH",
+  "decimals": 9,
+  "coin_type": "0x126c6cc6d3b7273f93f52217a299972271654cb77c418945fca71a62b87191ea::ascbethh::ASCBETHH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

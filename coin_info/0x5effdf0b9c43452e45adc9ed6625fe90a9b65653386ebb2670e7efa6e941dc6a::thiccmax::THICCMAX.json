@@ -1,0 +1,13 @@
+{
+  "name": "THICCOIN",
+  "symbol": "THICCMAX",
+  "decimals": 9,
+  "coin_type": "0x5effdf0b9c43452e45adc9ed6625fe90a9b65653386ebb2670e7efa6e941dc6a::thiccmax::THICCMAX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e7296c0a-544b-4302-b76b-474fecb96164.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

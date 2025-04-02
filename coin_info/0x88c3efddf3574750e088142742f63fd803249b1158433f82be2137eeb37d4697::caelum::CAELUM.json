@@ -1,0 +1,13 @@
+{
+  "name": "Caelum Ai",
+  "symbol": "CAELUM",
+  "decimals": 9,
+  "coin_type": "0x88c3efddf3574750e088142742f63fd803249b1158433f82be2137eeb37d4697::caelum::CAELUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2ZrwVe5TLd1MNMSw7DGJ8UmBYez9rrfyuBw6c8empump.png?size=lg&key=c688fc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

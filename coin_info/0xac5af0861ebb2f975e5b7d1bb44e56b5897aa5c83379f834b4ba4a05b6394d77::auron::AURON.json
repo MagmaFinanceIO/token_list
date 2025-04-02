@@ -1,0 +1,13 @@
+{
+  "name": "Auron Ai",
+  "symbol": "AURON",
+  "decimals": 9,
+  "coin_type": "0xac5af0861ebb2f975e5b7d1bb44e56b5897aa5c83379f834b4ba4a05b6394d77::auron::AURON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GRyD6ohfWSKWGfqNyqaW42zKsNvoZjUh6u3docnppump.png?size=lg&key=b65dbe",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

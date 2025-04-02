@@ -1,0 +1,13 @@
+{
+  "name": "Gooye On Sui",
+  "symbol": "GOOYE",
+  "decimals": 9,
+  "coin_type": "0x562c5d194eb3993af15637758d0a0590a5d70f1b1d51bf8d9cbbfb743c64d4b0::gooye::GOOYE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5e06ae6b-5186-4373-a34e-5d44a98a92ec.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

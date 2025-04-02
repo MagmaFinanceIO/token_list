@@ -1,0 +1,13 @@
+{
+  "name": "Chub",
+  "symbol": "CHUB",
+  "decimals": 9,
+  "coin_type": "0x6c2eab3ba467e18a8d716887b50e7bf25ca2bd7b3fb39e894255f25db4c62516::chub::CHUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HMzEqSv7G7L9KCJWVuAii9ZzvJR4BzggYuY4YrdMpump.png?size=lg&key=d51839",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

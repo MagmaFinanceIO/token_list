@@ -1,0 +1,13 @@
+{
+  "name": "Melania Inu",
+  "symbol": "MI",
+  "decimals": 9,
+  "coin_type": "0xa8b99f21b485099e4b747ffa18c3a09f7bf13c6ca924094da0b79bf3099c6df7::mi::MI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3b7e20ac-6c63-45f0-b2a8-c5139f59bb8b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

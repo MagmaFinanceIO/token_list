@@ -1,0 +1,13 @@
+{
+  "name": "Loperi",
+  "symbol": "LOPERI",
+  "decimals": 9,
+  "coin_type": "0x28965f6c6b78af642c1f3d69471cea93df30e5627620905a2d4f4a1c5958be0d::loperi::LOPERI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/628/431/large/james-hyun-final-close-3a.jpg?1728065450",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

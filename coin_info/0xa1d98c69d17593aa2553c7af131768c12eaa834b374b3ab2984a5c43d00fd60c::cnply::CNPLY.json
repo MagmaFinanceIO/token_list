@@ -1,0 +1,13 @@
+{
+  "name": "Cronopoly Sui",
+  "symbol": "CNPLY",
+  "decimals": 6,
+  "coin_type": "0xa1d98c69d17593aa2553c7af131768c12eaa834b374b3ab2984a5c43d00fd60c::cnply::CNPLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000025050_6e50e2485f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

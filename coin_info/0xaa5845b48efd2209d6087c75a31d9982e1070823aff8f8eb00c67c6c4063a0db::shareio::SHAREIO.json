@@ -1,0 +1,13 @@
+{
+  "name": "SHAREIO",
+  "symbol": "Shareio",
+  "decimals": 9,
+  "coin_type": "0xaa5845b48efd2209d6087c75a31d9982e1070823aff8f8eb00c67c6c4063a0db::shareio::SHAREIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://test.shareio.com/images/shareio-token-logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Supercat",
+  "symbol": "Supercat",
+  "decimals": 9,
+  "coin_type": "0x80c25023338f39c61d0eed6ba8cb33bf1ef40adf375d17efcf82c9c188415351::supercat::SUPERCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/55ee3793-9bbc-403c-a51b-9e5c99974716.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

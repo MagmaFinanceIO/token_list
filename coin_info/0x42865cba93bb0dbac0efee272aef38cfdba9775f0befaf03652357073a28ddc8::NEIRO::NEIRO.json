@@ -1,0 +1,13 @@
+{
+  "name": "sui neiro",
+  "symbol": "sui neiro",
+  "decimals": 2,
+  "coin_type": "0x42865cba93bb0dbac0efee272aef38cfdba9775f0befaf03652357073a28ddc8::NEIRO::NEIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/lH9Gl1uwnpkKzCm2NEo2xhAr6VGNLQMVcvvmbwxaGqk?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

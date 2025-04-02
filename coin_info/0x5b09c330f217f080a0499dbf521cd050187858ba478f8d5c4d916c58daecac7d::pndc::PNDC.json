@@ -1,0 +1,13 @@
+{
+  "name": "PANDA COIN",
+  "symbol": "PNDC",
+  "decimals": 2,
+  "coin_type": "0x5b09c330f217f080a0499dbf521cd050187858ba478f8d5c4d916c58daecac7d::pndc::PNDC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bab0c73e-e204-4925-8d63-4a72b1937236.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

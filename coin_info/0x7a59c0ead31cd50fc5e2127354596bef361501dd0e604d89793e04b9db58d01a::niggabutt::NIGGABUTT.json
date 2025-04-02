@@ -1,0 +1,13 @@
+{
+  "name": "Nigga Butt Token",
+  "symbol": "NiggaButt",
+  "decimals": 6,
+  "coin_type": "0x7a59c0ead31cd50fc5e2127354596bef361501dd0e604d89793e04b9db58d01a::niggabutt::NIGGABUTT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1852c1b5-54ae-4e04-ac82-1190b06c7bc9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

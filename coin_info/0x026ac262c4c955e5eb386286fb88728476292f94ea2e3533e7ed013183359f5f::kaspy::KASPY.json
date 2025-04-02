@@ -1,0 +1,13 @@
+{
+  "name": "Kaspy",
+  "symbol": "KASPY",
+  "decimals": 6,
+  "coin_type": "0x026ac262c4c955e5eb386286fb88728476292f94ea2e3533e7ed013183359f5f::kaspy::KASPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Ym_H_Em_BHAPA_Yxq_Jedfem_Kc_K8a3q_Dk9_Rp9t_R_Wk_Y4_Km9d_Me_c7cca550ba.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SingularityFi",
+  "symbol": "SFY",
+  "decimals": 9,
+  "coin_type": "0xe089dc95adf877fa0f32caa67d7b32acb8a4ae14820d47bcf31acfa9a826db77::sfy::SFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d20c6781-169f-4a42-ac11-f37f71959c93.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

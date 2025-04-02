@@ -1,0 +1,13 @@
+{
+  "name": "PepeNoids",
+  "symbol": "PEPEN",
+  "decimals": 9,
+  "coin_type": "0xd3f2414fd634de9029ff4da5ebf3cd7bca70dc560d007da5813d345e432b912f::pepen::PEPEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/EMvWBAZzEp3uBa0R?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

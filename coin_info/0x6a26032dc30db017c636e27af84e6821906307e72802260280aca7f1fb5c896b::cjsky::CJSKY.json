@@ -1,0 +1,13 @@
+{
+  "name": "cjsky",
+  "symbol": "CJSKY",
+  "decimals": 9,
+  "coin_type": "0x6a26032dc30db017c636e27af84e6821906307e72802260280aca7f1fb5c896b::cjsky::CJSKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://amber-hilarious-ostrich-689.mypinata.cloud/files/bafkreidxj5gx37b3fothpvnd74uv5ji74j7lwjrczetl25ldkkktxr6tgy?X-Algorithm=PINATA1&X-Date=1736720030&X-Expires=315360000&X-Method=GET&X-Signature=01954adca7f2d16c50c9bae9a1d470fe498b01bd4d94d62031634805a21432f7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

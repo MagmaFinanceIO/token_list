@@ -1,0 +1,13 @@
+{
+  "name": "twiggy",
+  "symbol": "TWIGGY",
+  "decimals": 6,
+  "coin_type": "0xd4c03be6674c5f872187c93033ffc01cec5e6ea28cb086304a6b0bef8ce7e7e3::twiggy::TWIGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731563730456.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

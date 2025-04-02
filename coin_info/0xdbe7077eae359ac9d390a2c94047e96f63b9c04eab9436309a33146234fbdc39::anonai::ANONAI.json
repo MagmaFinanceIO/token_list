@@ -1,0 +1,13 @@
+{
+  "name": "anon.ai",
+  "symbol": "ANONAI",
+  "decimals": 9,
+  "coin_type": "0xdbe7077eae359ac9d390a2c94047e96f63b9c04eab9436309a33146234fbdc39::anonai::ANONAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CAC6auecayuh3gLExSG7w6WW2aBUxpYm19GKegT9pump.png?size=lg&key=4278f4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

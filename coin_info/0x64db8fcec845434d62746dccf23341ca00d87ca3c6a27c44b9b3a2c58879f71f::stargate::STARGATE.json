@@ -1,0 +1,13 @@
+{
+  "name": "Stargate AI",
+  "symbol": "Stargate",
+  "decimals": 9,
+  "coin_type": "0x64db8fcec845434d62746dccf23341ca00d87ca3c6a27c44b9b3a2c58879f71f::stargate::STARGATE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6gSXeE5sqYt9GrBRG6yy9s9ayWhuWL55GtvPSncTpump.png?size=lg&key=165fb0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

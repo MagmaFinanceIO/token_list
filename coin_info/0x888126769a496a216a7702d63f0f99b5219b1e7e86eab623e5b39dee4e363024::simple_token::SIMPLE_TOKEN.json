@@ -1,0 +1,13 @@
+{
+  "name": "Frosty on Sui",
+  "symbol": "FROSTY",
+  "decimals": 9,
+  "coin_type": "0x888126769a496a216a7702d63f0f99b5219b1e7e86eab623e5b39dee4e363024::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

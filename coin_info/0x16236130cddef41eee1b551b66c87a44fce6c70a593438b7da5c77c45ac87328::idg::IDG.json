@@ -1,0 +1,13 @@
+{
+  "name": "Indigo",
+  "symbol": "IDG",
+  "decimals": 9,
+  "coin_type": "0x16236130cddef41eee1b551b66c87a44fce6c70a593438b7da5c77c45ac87328::idg::IDG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c8b4ad0f-28c0-4a26-a879-4bb091750d11.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

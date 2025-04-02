@@ -1,0 +1,13 @@
+{
+  "name": "CHIMPY",
+  "symbol": "CHIMPY",
+  "decimals": 9,
+  "coin_type": "0x3ed41242eeddeb9edfbba642fd6f2e18454979e3b3e5d92817d61555b5956db5::chimpy::CHIMPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/902b25a9-4a83-45e2-8465-169067f3fb4b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

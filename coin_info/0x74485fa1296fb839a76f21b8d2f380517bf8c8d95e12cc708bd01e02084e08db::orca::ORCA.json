@@ -1,0 +1,13 @@
+{
+  "name": "ORCA ON SUI",
+  "symbol": "ORCA",
+  "decimals": 6,
+  "coin_type": "0x74485fa1296fb839a76f21b8d2f380517bf8c8d95e12cc708bd01e02084e08db::orca::ORCA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735492789309.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

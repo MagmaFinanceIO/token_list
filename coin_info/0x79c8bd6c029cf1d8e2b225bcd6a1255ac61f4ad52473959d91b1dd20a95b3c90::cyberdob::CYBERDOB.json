@@ -1,0 +1,13 @@
+{
+  "name": "CyberPunk Doberman",
+  "symbol": "CYBERDOB",
+  "decimals": 9,
+  "coin_type": "0x79c8bd6c029cf1d8e2b225bcd6a1255ac61f4ad52473959d91b1dd20a95b3c90::cyberdob::CYBERDOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1c04ab1e-e198-41c4-9c2e-633679d8ee75.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

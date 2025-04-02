@@ -1,0 +1,13 @@
+{
+  "name": "Sandy Cheeks",
+  "symbol": "Sanut",
+  "decimals": 9,
+  "coin_type": "0x1e4086f38ff6c95cf181804e26e159a39e20c9387a295de062619bd398b7a440::sanut::SANUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9excTfCEWeCkeMcoDQ3nGsAchxQUGMpz4s7nKbbnWyEh.png?size=lg&key=d2457e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

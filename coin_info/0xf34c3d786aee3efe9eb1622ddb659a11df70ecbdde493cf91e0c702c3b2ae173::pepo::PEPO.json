@@ -1,0 +1,13 @@
+{
+  "name": "Pepper & Poppi",
+  "symbol": "PEPO",
+  "decimals": 9,
+  "coin_type": "0xf34c3d786aee3efe9eb1622ddb659a11df70ecbdde493cf91e0c702c3b2ae173::pepo::PEPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0xdf47789b188a42792e3cccf8cc39fd9fe183a32b.png?size=xl&key=b93179",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

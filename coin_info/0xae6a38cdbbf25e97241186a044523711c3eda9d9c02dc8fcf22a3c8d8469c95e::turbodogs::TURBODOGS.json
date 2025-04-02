@@ -1,0 +1,13 @@
+{
+  "name": "Turbo Dogs",
+  "symbol": "TurboDogs",
+  "decimals": 6,
+  "coin_type": "0xae6a38cdbbf25e97241186a044523711c3eda9d9c02dc8fcf22a3c8d8469c95e::turbodogs::TURBODOGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730953665210.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

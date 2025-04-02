@@ -1,0 +1,13 @@
+{
+  "name": "Litecoin Mascot",
+  "symbol": "LESTER",
+  "decimals": 6,
+  "coin_type": "0x4c18d0957f70f34d28689210a86ea2a7d3f5c4fe2ed49a90b4ee5631c6aec317::lester::LESTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/14c6e16e-e7a9-4a00-9177-3c9d7e13cf9e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

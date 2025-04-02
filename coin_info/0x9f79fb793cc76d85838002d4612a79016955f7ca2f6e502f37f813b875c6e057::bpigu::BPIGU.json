@@ -1,0 +1,13 @@
+{
+  "name": "BabyPIGU",
+  "symbol": "BPIGU",
+  "decimals": 6,
+  "coin_type": "0x9f79fb793cc76d85838002d4612a79016955f7ca2f6e502f37f813b875c6e057::bpigu::BPIGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/G_Zmt_Wu5a_QA_Adk_Dl_ad01671d43.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

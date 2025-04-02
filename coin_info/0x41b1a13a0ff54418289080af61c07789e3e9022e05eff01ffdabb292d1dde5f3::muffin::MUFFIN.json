@@ -1,0 +1,13 @@
+{
+  "name": "Mr. Muffin the hippo",
+  "symbol": "Muffin",
+  "decimals": 9,
+  "coin_type": "0x41b1a13a0ff54418289080af61c07789e3e9022e05eff01ffdabb292d1dde5f3::muffin::MUFFIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e9f1c5ba-037b-457a-8e57-920dfdf4b9bc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

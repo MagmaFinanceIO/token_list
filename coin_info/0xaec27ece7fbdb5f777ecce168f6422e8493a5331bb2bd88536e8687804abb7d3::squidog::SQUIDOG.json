@@ -1,0 +1,13 @@
+{
+  "name": "SQUID DOG",
+  "symbol": "SQUIDOG",
+  "decimals": 9,
+  "coin_type": "0xaec27ece7fbdb5f777ecce168f6422e8493a5331bb2bd88536e8687804abb7d3::squidog::SQUIDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5fYYNKVQfpBEDAGZmvtKVxVBLYfM6cPRm56a7mDYpump.png?size=lg&key=68e96f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

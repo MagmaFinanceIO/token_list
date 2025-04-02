@@ -1,0 +1,13 @@
+{
+  "name": "GOBAI",
+  "symbol": "GOBAI",
+  "decimals": 9,
+  "coin_type": "0xfa95b3e52b9bf14e331307659229d0fd189fc372f9eb92fc54c788bd2910a598::gobai::GOBAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B2v6th6bCcEMfubZ4eXtNyoRFZ5ZEfuotNF146Ccpump.png?size=lg&key=c0dfaa",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

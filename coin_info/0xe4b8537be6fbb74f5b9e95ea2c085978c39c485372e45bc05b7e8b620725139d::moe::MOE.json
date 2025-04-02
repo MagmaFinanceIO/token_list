@@ -1,0 +1,13 @@
+{
+  "name": "MOE",
+  "symbol": "MOE",
+  "decimals": 9,
+  "coin_type": "0xe4b8537be6fbb74f5b9e95ea2c085978c39c485372e45bc05b7e8b620725139d::moe::MOE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmWH44odXYncPqnsg8Lgcfzp2Xeb4eQgfmauqSeG5XEytf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

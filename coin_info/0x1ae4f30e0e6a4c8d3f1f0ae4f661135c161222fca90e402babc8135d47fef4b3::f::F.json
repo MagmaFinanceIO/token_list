@@ -1,0 +1,13 @@
+{
+  "name": "Flock AI Training Platform",
+  "symbol": "F",
+  "decimals": 6,
+  "coin_type": "0x1ae4f30e0e6a4c8d3f1f0ae4f661135c161222fca90e402babc8135d47fef4b3::f::F",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/802f1049-e840-4533-8c56-2d83578c6d4e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

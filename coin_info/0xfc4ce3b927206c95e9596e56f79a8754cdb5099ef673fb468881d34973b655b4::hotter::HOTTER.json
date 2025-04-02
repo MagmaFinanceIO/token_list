@@ -1,0 +1,13 @@
+{
+  "name": "Hotter",
+  "symbol": "Hotter",
+  "decimals": 6,
+  "coin_type": "0xfc4ce3b927206c95e9596e56f79a8754cdb5099ef673fb468881d34973b655b4::hotter::HOTTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmdijSRgKiEJ3Ps1kifv28c4thzBKqdywHnz2CGTYceYT4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

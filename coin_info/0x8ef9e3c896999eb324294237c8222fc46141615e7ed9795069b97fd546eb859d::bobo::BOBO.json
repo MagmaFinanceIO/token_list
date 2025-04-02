@@ -1,0 +1,13 @@
+{
+  "name": "BOBO (Wormhole)",
+  "symbol": "BOBO",
+  "decimals": 9,
+  "coin_type": "0x8ef9e3c896999eb324294237c8222fc46141615e7ed9795069b97fd546eb859d::bobo::BOBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/62qAVEW8Fo8W3HpMpxfsLpGjyuJe8TSHrjueyTw89nYg.png?size=lg&key=a445de",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

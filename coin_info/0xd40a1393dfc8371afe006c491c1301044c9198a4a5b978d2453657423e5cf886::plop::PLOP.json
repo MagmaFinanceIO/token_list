@@ -1,0 +1,13 @@
+{
+  "name": "PlopSui",
+  "symbol": "Plop",
+  "decimals": 6,
+  "coin_type": "0xd40a1393dfc8371afe006c491c1301044c9198a4a5b978d2453657423e5cf886::plop::PLOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmTE4PwdbR5ffPETh6uTbrMBRp9TWvNtBjguG9Ky8NsqaM",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

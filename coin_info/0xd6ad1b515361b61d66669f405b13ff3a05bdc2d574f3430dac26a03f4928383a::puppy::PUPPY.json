@@ -1,0 +1,13 @@
+{
+  "name": "PUPPYSUI",
+  "symbol": "PUPPY",
+  "decimals": 6,
+  "coin_type": "0xd6ad1b515361b61d66669f405b13ff3a05bdc2d574f3430dac26a03f4928383a::puppy::PUPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000198024_a9e10032f0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

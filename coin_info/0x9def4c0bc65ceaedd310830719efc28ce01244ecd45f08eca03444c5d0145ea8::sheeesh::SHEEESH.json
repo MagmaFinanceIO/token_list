@@ -1,0 +1,13 @@
+{
+  "name": "SHEESH",
+  "symbol": "SHEEESH",
+  "decimals": 6,
+  "coin_type": "0x9def4c0bc65ceaedd310830719efc28ce01244ecd45f08eca03444c5d0145ea8::sheeesh::SHEEESH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2025_01_14_18_56_44_a6e7668bcb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

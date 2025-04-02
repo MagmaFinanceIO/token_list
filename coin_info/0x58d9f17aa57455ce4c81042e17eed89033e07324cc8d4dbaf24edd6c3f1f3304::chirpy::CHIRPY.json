@@ -1,0 +1,13 @@
+{
+  "name": "SUI CHIRPY",
+  "symbol": "CHIRPY",
+  "decimals": 6,
+  "coin_type": "0x58d9f17aa57455ce4c81042e17eed89033e07324cc8d4dbaf24edd6c3f1f3304::chirpy::CHIRPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731343076086.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

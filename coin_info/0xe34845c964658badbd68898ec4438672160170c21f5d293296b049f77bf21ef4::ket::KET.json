@@ -1,0 +1,13 @@
+{
+  "name": "KetamineCat",
+  "symbol": "KET",
+  "decimals": 9,
+  "coin_type": "0xe34845c964658badbd68898ec4438672160170c21f5d293296b049f77bf21ef4::ket::KET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3nh4AYBcNDUmXPZ9eaF4j22cqpMi593PVeXv1sMUpump.png?size=xl&key=47d63c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

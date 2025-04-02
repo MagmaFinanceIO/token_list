@@ -1,0 +1,13 @@
+{
+  "name": "EL GATO",
+  "symbol": "GATO",
+  "decimals": 9,
+  "coin_type": "0x9875831fb4d273819fdc2f77bfc49891172a54e54c50fa498a2136f373ac93e7::gato::GATO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmThCg2JHYJUW9PT9muqCp8drb4u9bEF8ZyCxzR3K5rTSm",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

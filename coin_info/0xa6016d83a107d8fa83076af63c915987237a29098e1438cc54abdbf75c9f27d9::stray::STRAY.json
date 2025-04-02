@@ -1,0 +1,13 @@
+{
+  "name": "STRAYCAT ON SUI",
+  "symbol": "STRAY",
+  "decimals": 6,
+  "coin_type": "0xa6016d83a107d8fa83076af63c915987237a29098e1438cc54abdbf75c9f27d9::stray::STRAY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Th_A_m_ti_A_u_Ae_a_2_5cb30d25f1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

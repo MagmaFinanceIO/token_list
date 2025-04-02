@@ -1,0 +1,13 @@
+{
+  "name": "Arkaeon AI",
+  "symbol": "ARKAEON",
+  "decimals": 6,
+  "coin_type": "0x93b3762b5b6cdfac12c5343a56d68d1f6d4f92572f2933d79111736dfc758445::arkaeon::ARKAEON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736359080695.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

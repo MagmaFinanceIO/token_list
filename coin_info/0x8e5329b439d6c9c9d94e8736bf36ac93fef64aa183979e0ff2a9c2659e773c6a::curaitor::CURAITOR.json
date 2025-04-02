@@ -1,0 +1,13 @@
+{
+  "name": "CurAItor",
+  "symbol": "CURAITOR",
+  "decimals": 9,
+  "coin_type": "0x8e5329b439d6c9c9d94e8736bf36ac93fef64aa183979e0ff2a9c2659e773c6a::curaitor::CURAITOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/TMq6mXdyJeEfYuwzury9wmRcdZ7DM3q2BYMCDTTpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

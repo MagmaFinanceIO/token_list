@@ -1,0 +1,13 @@
+{
+  "name": "Suisse Cheese",
+  "symbol": "SUISSE",
+  "decimals": 6,
+  "coin_type": "0x14e425372a4708d28cd25afff3a6401be38ddb55e8b1d5f7e52873c333f5df19::suisse::SUISSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "http://movepump.xyz/uploads/Screenshot_2024_09_24_at_8_14_19a_PM_f6e4d301f1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

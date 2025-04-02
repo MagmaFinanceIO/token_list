@@ -1,0 +1,13 @@
+{
+  "name": "TRUMP PUMP",
+  "symbol": "TRUMPUMP",
+  "decimals": 9,
+  "coin_type": "0xdc9b85ed6e62e5f4fca4907a0e9643b8eaaf3b2393b16606bc85e70703bfde69::trumpump::TRUMPUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

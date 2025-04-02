@@ -1,0 +1,13 @@
+{
+  "name": "Art Coins",
+  "symbol": "ARTCOINS",
+  "decimals": 9,
+  "coin_type": "0xb8fd75d032490c0255f6c804b06ccddde18f36d03d614ea2341e37374c86dd81::artcoins::ARTCOINS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FR59EeWjYHoTNXEZ4VqDvLr3NBEah3ThPpqQqWXapump.png?size=xl&key=225e97",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

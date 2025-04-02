@@ -1,0 +1,13 @@
+{
+  "name": "Ricochet Rabbit",
+  "symbol": "RR",
+  "decimals": 6,
+  "coin_type": "0xfeebccb57c03058452de36e684223f1623086b85fe5105d8045c4328ae7235b2::rr::RR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5860_a24f1d97e8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

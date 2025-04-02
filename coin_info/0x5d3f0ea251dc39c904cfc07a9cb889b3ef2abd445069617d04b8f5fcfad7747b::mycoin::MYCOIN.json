@@ -1,0 +1,13 @@
+{
+  "name": "Life Changing Pill",
+  "symbol": "PILL",
+  "decimals": 9,
+  "coin_type": "0x5d3f0ea251dc39c904cfc07a9cb889b3ef2abd445069617d04b8f5fcfad7747b::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Trump Media Coin",
+  "symbol": "TRMDC",
+  "decimals": 9,
+  "coin_type": "0x7afe7cc5c4be7b81062c2b436a930b53618f6425f56ffbe0524d052a4dbf7d99::trmdc::TRMDC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/15882ea1-fa3f-42da-9098-75f8ccc920ee.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

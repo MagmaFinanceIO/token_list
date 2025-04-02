@@ -1,0 +1,13 @@
+{
+  "name": "Lorena",
+  "symbol": "Lorena",
+  "decimals": 11,
+  "coin_type": "0x6e2fd8bb406cde4f97fc6090f345b2072ffdbce2b5fa9242a80da5f0bc2defa4::lorena::LORENA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/64a6b050-52ee-4a76-a065-fc6f87fee550.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

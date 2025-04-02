@@ -1,0 +1,13 @@
+{
+  "name": "EVE",
+  "symbol": "Eve",
+  "decimals": 6,
+  "coin_type": "0x08ac27e9fa64925d8dc85dc8f7df884da738aa853d4c306d0f60995a9ed47cab::eve::EVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1_749466f814.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

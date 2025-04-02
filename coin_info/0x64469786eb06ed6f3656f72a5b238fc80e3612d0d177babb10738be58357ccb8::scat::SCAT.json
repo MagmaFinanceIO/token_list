@@ -1,0 +1,13 @@
+{
+  "name": "Suspect Cat",
+  "symbol": "Scat",
+  "decimals": 6,
+  "coin_type": "0x64469786eb06ed6f3656f72a5b238fc80e3612d0d177babb10738be58357ccb8::scat::SCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0914_1_3a3e759cf2.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

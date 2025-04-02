@@ -1,0 +1,13 @@
+{
+  "name": "Capybara",
+  "symbol": "CAPY",
+  "decimals": 6,
+  "coin_type": "0xb6b620be4e64f5457da72eb2cd68a09e8138dd1d7b45ff491e1209776d19b053::capy::CAPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/capy_logo_500_0a8a76787e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

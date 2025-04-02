@@ -1,0 +1,13 @@
+{
+  "name": "SCUBA Dog",
+  "symbol": "SCUBA",
+  "decimals": 6,
+  "coin_type": "0xcbb8a9e3071bd7dfe1d93f992abba1959492e88bbc8c34e4e5e01bab201b5671::scuba::SCUBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20250105_213419_375_31bc448a26.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MSTR2100",
+  "symbol": "MSTR",
+  "decimals": 9,
+  "coin_type": "0xfd8555523d65e3501d93d7c4410d537cc732ad1b09e59da62434cae49422dd4d::mstr::MSTR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x42069026eac8eee0fd9b5f7adfa4f6e6d69a2b39.png?size=lg&key=b6d36d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Kasumi",
+  "symbol": "Kasumi",
+  "decimals": 9,
+  "coin_type": "0x7b632086119792741e0064986c7d51ed3217f56647f3e8ef1a04f214fd7c0cdc::kasumi::KASUMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EPeVBjdVzwrmeTkSBeKKDJxvWXNRqVezgQMMWTQ2pump.png?size=lg&key=bf2533",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

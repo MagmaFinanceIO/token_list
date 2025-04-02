@@ -1,0 +1,13 @@
+{
+  "name": "Fluffy Pickle",
+  "symbol": "FP",
+  "decimals": 9,
+  "coin_type": "0xb67b5c4e3bded780b93eba77cfddf14f2277f7e73ce443f1e5cfc19f70ec8c0a::fp::FP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6rRHwTdDAJwFYNdU4Z6CVGSwgTjBAaqMAj1w1kpopump.png?size=lg&key=463fae",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

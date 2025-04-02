@@ -1,0 +1,13 @@
+{
+  "name": "HONK",
+  "symbol": "HONK",
+  "decimals": 9,
+  "coin_type": "0x388d3d051c949a816f8a8d4fe321b4cd4640863e26f59941bd0b32cd98ac2a4b::honk::HONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fff2feed-e2e9-42c2-bb41-f3faffe085bf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

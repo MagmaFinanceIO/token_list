@@ -1,0 +1,13 @@
+{
+  "name": "Sui PuPu",
+  "symbol": "PUPU",
+  "decimals": 9,
+  "coin_type": "0x52c6bdc671f56ff130c8423fed09162690923a3251d83d163c5302e266a6c8cb::pupu::PUPU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/91e33955-ef65-4174-852f-7e53ee383b4d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

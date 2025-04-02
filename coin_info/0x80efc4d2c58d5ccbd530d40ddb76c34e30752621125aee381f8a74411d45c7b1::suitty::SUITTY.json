@@ -1,0 +1,13 @@
+{
+  "name": "Suitty",
+  "symbol": "SUITTY",
+  "decimals": 9,
+  "coin_type": "0x80efc4d2c58d5ccbd530d40ddb76c34e30752621125aee381f8a74411d45c7b1::suitty::SUITTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6c7b9472-acda-4685-9941-eeba2ead83cc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

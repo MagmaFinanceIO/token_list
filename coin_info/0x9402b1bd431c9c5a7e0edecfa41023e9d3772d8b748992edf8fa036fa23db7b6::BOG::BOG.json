@@ -1,0 +1,13 @@
+{
+  "name": "Sui Bog",
+  "symbol": "BOG",
+  "decimals": 8,
+  "coin_type": "0x9402b1bd431c9c5a7e0edecfa41023e9d3772d8b748992edf8fa036fa23db7b6::BOG::BOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmUqLSVKgN6kQNv2F9zjkwH5nV2E3c9rXf9WvfpqR64NrE?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

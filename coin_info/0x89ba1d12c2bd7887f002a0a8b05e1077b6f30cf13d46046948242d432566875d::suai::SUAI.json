@@ -1,0 +1,13 @@
+{
+  "name": "SuiAI",
+  "symbol": "SUAI",
+  "decimals": 9,
+  "coin_type": "0x89ba1d12c2bd7887f002a0a8b05e1077b6f30cf13d46046948242d432566875d::suai::SUAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/suai_logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

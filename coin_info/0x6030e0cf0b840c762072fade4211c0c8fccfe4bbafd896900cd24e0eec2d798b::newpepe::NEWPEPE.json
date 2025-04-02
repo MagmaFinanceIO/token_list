@@ -1,0 +1,13 @@
+{
+  "name": "New Year, New Pepe!",
+  "symbol": "NEWPEPE",
+  "decimals": 9,
+  "coin_type": "0x6030e0cf0b840c762072fade4211c0c8fccfe4bbafd896900cd24e0eec2d798b::newpepe::NEWPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ejwq461PCRjhh69sGjkow4Pgw6zqRDB7fYsydVFpump.png?size=lg&key=8c924d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

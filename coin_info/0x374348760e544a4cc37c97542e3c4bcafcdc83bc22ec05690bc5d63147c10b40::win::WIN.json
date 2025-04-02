@@ -1,0 +1,13 @@
+{
+  "name": "Kickoff AI",
+  "symbol": "WIN",
+  "decimals": 9,
+  "coin_type": "0x374348760e544a4cc37c97542e3c4bcafcdc83bc22ec05690bc5d63147c10b40::win::WIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/F7fpkxzD47f8vwXoDn4HZgk7oxJzY29imViGcebqcz3G.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

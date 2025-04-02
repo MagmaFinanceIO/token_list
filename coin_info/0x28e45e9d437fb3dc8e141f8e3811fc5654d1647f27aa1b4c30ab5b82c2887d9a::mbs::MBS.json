@@ -1,0 +1,13 @@
+{
+  "name": "Mew Blue",
+  "symbol": "MBS",
+  "decimals": 6,
+  "coin_type": "0x28e45e9d437fb3dc8e141f8e3811fc5654d1647f27aa1b4c30ab5b82c2887d9a::mbs::MBS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5540_003071b2eb.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

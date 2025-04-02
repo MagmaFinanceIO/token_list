@@ -1,0 +1,13 @@
+{
+  "name": "Baby Unicorn Fart Dust",
+  "symbol": "BUFD",
+  "decimals": 9,
+  "coin_type": "0xefe4b60792244e7f42e9e92d25daa06878b6e34574d123233b22832ec37c48de::bufd::BUFD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DHiaQfK1z9WFkbyKcVrC9zATtFSSWov6cctgcuJpump.png?size=lg&key=e67405",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

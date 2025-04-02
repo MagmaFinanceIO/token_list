@@ -1,0 +1,13 @@
+{
+  "name": "Zen AI",
+  "symbol": "Z3NAI",
+  "decimals": 6,
+  "coin_type": "0x7277d3622a66019c6498890ad908109e20341d4481519f0457601dc586108658::z3nai::Z3NAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736266959983.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

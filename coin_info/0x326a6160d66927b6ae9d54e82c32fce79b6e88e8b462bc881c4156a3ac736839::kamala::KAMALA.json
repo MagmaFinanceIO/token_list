@@ -1,0 +1,13 @@
+{
+  "name": "Kamala Harris on Sui",
+  "symbol": "KAMALA",
+  "decimals": 6,
+  "coin_type": "0x326a6160d66927b6ae9d54e82c32fce79b6e88e8b462bc881c4156a3ac736839::kamala::KAMALA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b6f354dc-f956-48f6-8231-2127fd0de173.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

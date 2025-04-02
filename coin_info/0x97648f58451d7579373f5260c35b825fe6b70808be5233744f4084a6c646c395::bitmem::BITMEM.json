@@ -1,0 +1,13 @@
+{
+  "name": "Bitmem",
+  "symbol": "Bitmem",
+  "decimals": 9,
+  "coin_type": "0x97648f58451d7579373f5260c35b825fe6b70808be5233744f4084a6c646c395::bitmem::BITMEM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/2Dy7MXK9_ndZI-bL?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

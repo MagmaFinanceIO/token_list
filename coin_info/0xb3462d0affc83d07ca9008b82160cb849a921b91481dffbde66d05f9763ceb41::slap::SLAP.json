@@ -1,0 +1,13 @@
+{
+  "name": "MEOWSLAP",
+  "symbol": "SLAP",
+  "decimals": 6,
+  "coin_type": "0xb3462d0affc83d07ca9008b82160cb849a921b91481dffbde66d05f9763ceb41::slap::SLAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_12_29_03_04_24_39458ed87c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

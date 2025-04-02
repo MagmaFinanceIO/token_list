@@ -1,0 +1,13 @@
+{
+  "name": "DOGE",
+  "symbol": "DOGE",
+  "decimals": 9,
+  "coin_type": "0x5a93a611a972619cde7202e93dcde9888a373f163e5c4bb0bd803844bace6b57::DOGE::DOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://graiscale.fun/logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

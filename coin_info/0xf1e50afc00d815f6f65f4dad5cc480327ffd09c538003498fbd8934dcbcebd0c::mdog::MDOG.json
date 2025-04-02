@@ -1,0 +1,13 @@
+{
+  "name": "MotoDog",
+  "symbol": "MDOG",
+  "decimals": 9,
+  "coin_type": "0xf1e50afc00d815f6f65f4dad5cc480327ffd09c538003498fbd8934dcbcebd0c::mdog::MDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/acf33972-3738-40e2-878c-5c9c427cfe52.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Toes",
+  "symbol": "TOE",
+  "decimals": 9,
+  "coin_type": "0x3331495e1be8f6b01fefce5ac8ef4be003192a340f7078002a21f5a6f0d54f68::TOES::TOES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2c047d2b-d968-4444-9502-6c529e540f1f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

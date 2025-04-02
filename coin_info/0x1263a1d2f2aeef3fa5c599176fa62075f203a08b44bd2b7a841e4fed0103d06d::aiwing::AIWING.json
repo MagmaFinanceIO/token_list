@@ -1,0 +1,13 @@
+{
+  "name": "AI Wingman",
+  "symbol": "AIWING",
+  "decimals": 6,
+  "coin_type": "0x1263a1d2f2aeef3fa5c599176fa62075f203a08b44bd2b7a841e4fed0103d06d::aiwing::AIWING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/259f8317-277c-497b-a1d1-6a45bcda8e1a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

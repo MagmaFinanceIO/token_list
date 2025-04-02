@@ -1,0 +1,13 @@
+{
+  "name": "Telegram Engine",
+  "symbol": "AIGRAM",
+  "decimals": 9,
+  "coin_type": "0x14180bada2f821cf9e59329ee857f8e25ba59530b9bc2227d3be174ba7748051::aigram::AIGRAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmURiywfS21DdiPf3Gg5v9FTLFRfpKVF149jzUEyQzfmyb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

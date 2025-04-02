@@ -1,0 +1,13 @@
+{
+  "name": "SUI CHOCO CAT",
+  "symbol": "CHOCOCAT",
+  "decimals": 6,
+  "coin_type": "0xf68cec6b6b127c76fa8273f351cfc37423608e3b11b58aefafcfb2077c24b52c::chococat::CHOCOCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1c3b07f1-bc14-4019-b8d2-ef5e7fed7775.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

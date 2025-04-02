@@ -1,0 +1,13 @@
+{
+  "name": "Fuck Around Find Out",
+  "symbol": "FAFO",
+  "decimals": 9,
+  "coin_type": "0xe6a2b11f87a5b5d212634aec7590a0297522e81f210dc65b5c51b527c1bb7995::fafo::FAFO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5f218abf-1fc5-408a-86c5-b83445911dd3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

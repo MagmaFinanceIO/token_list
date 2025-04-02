@@ -1,0 +1,13 @@
+{
+  "name": "DRINKIES",
+  "symbol": "DRINK",
+  "decimals": 6,
+  "coin_type": "0x56f0a8fbb18ebb65294a72684971ed0ec707b7031367e52ed3ff78dfb6ca36c2::drink::DRINK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Ges_KCU_XMA_Ev3_EY_186ebc49d4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

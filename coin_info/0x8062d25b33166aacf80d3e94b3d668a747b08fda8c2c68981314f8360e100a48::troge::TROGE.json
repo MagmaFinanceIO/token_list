@@ -1,0 +1,13 @@
+{
+  "name": "Trump Doge Meme",
+  "symbol": "TROGE",
+  "decimals": 9,
+  "coin_type": "0x8062d25b33166aacf80d3e94b3d668a747b08fda8c2c68981314f8360e100a48::troge::TROGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2W3JPs5mz49tCejPheZGrZvUMUQKnsLszAHdSED9wXsn.png?size=lg&key=aad274",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

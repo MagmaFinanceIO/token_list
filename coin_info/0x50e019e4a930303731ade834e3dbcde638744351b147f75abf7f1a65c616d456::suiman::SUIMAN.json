@@ -1,0 +1,13 @@
+{
+  "name": "Suiman",
+  "symbol": "suiman",
+  "decimals": 9,
+  "coin_type": "0x50e019e4a930303731ade834e3dbcde638744351b147f75abf7f1a65c616d456::suiman::SUIMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/4Ff8v5f/ava.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

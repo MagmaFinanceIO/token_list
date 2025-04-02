@@ -1,0 +1,13 @@
+{
+  "name": "To The Sui",
+  "symbol": "TOTHESUI",
+  "decimals": 6,
+  "coin_type": "0x432a4d029db9e58f508186f010619bd7232aefdc0bfbdcb120bfcfaf41379001::tothesui::TOTHESUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_8_a2a5260875.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

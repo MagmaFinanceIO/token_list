@@ -1,0 +1,13 @@
+{
+  "name": "FremnaBaby",
+  "symbol": "FRMN",
+  "decimals": 9,
+  "coin_type": "0x0454d6dcd9b60f504df88480611edb89662bb471ecc7dd585749b438fd1f49b4::frmn::FRMN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d75455e4-9c93-4dfd-8d4f-bc5ffcb6151d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

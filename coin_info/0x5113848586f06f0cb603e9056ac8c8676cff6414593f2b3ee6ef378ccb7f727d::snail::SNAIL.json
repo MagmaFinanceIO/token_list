@@ -1,0 +1,13 @@
+{
+  "name": "Snail",
+  "symbol": "Snail",
+  "decimals": 9,
+  "coin_type": "0x5113848586f06f0cb603e9056ac8c8676cff6414593f2b3ee6ef378ccb7f727d::snail::SNAIL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ibb.co/svNnHKq",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GymBroPepe",
+  "symbol": "GPEPE",
+  "decimals": 9,
+  "coin_type": "0xecddea2535f0cb440fa0c5d5381c87090ad80666369025d8a987744f40387889::gpepe::GPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8bdcc534-db23-4e98-af84-a18a1915df6d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

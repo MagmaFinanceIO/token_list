@@ -1,0 +1,13 @@
+{
+  "name": "Blue Doge",
+  "symbol": "BLUEDOGE",
+  "decimals": 9,
+  "coin_type": "0x6add5b23a75ed78c7230a9aef71c516be7e21b7aa38a33702aee81602b595ef3::bluedoge::BLUEDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1844804724446646272/Jo2vUjgB.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

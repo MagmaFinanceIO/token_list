@@ -1,0 +1,13 @@
+{
+  "name": "Shin-chan",
+  "symbol": "SHIN",
+  "decimals": 9,
+  "coin_type": "0x3fc626d0c9bf153f88de845711f09447c4b9aafb574eec63fae4a2d1115a9852::shin::SHIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://raw.githubusercontent.com/shinchansui/shin/refs/heads/main/2221786-middle.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

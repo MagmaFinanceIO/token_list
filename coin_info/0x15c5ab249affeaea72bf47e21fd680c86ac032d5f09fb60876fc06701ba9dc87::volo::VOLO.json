@@ -1,0 +1,13 @@
+{
+  "name": "Volo",
+  "symbol": "Volo",
+  "decimals": 6,
+  "coin_type": "0x15c5ab249affeaea72bf47e21fd680c86ac032d5f09fb60876fc06701ba9dc87::volo::VOLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSazt7U4M5rYv7RLdf7YXwKAPVdYqSaADXnZmhGWribUu",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Dimden AI",
+  "symbol": "DIMEN",
+  "decimals": 6,
+  "coin_type": "0xf823f16b6b0738749f044edbcb5270b750c9b96459e2346485d01268fe5e6012::dimen::DIMEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/dimden_56074660a1.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PocoLocos",
+  "symbol": "LOCOS",
+  "decimals": 6,
+  "coin_type": "0xa8fce8a80c4ac6c0bab6956215004512cf705b12ecc5a482dac10832fe1bf589::locos::LOCOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/log_A_kcisit_nagyobb_943340cf7f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

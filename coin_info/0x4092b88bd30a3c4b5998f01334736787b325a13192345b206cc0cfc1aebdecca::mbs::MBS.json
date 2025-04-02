@@ -1,0 +1,13 @@
+{
+  "name": "Million By 60",
+  "symbol": "MBS",
+  "decimals": 9,
+  "coin_type": "0x4092b88bd30a3c4b5998f01334736787b325a13192345b206cc0cfc1aebdecca::mbs::MBS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/795d8257-42f0-4a83-a7f8-5754852b3a7c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

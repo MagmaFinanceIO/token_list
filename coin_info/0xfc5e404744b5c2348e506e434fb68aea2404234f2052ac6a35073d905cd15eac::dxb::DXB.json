@@ -1,0 +1,13 @@
+{
+  "name": "Dubai Coin",
+  "symbol": "DXB",
+  "decimals": 9,
+  "coin_type": "0xfc5e404744b5c2348e506e434fb68aea2404234f2052ac6a35073d905cd15eac::dxb::DXB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6ddKaRpoLRRYnjWX9fyWuYJX9LNhFWPf3CJSApudpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AGENT 47",
+  "symbol": "Trum4547",
+  "decimals": 9,
+  "coin_type": "0xe5abdf19fa7fe2933bc85139e3db3e251d81e3603d5e209e54a5e0a872a59ebf::trum4547::TRUM4547",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DyLtUgrv3T5wdsD3Rw8LcGDbVddLiHcgdXCgRSXspump.png?size=lg&key=1f594c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Stingray",
+  "symbol": "RAY",
+  "decimals": 9,
+  "coin_type": "0x3bfd3b1074b8383c1dac0834ce2cf4390dc428335142158bde727216bc58a24e::ray::RAY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0be31e87-c3c7-432b-887b-d0804ce624a7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

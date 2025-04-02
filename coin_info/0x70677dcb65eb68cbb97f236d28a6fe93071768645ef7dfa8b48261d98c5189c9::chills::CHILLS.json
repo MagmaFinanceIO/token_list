@@ -1,0 +1,13 @@
+{
+  "name": "CHILL STEVE",
+  "symbol": "CHILLS",
+  "decimals": 9,
+  "coin_type": "0x70677dcb65eb68cbb97f236d28a6fe93071768645ef7dfa8b48261d98c5189c9::chills::CHILLS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9yfTr7qNbbHHHKsecmSMwPZHU5ixNVzK1XpZY2Npump.png?size=lg&key=4bfd98",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

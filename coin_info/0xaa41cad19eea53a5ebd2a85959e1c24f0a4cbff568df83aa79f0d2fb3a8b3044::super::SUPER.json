@@ -1,0 +1,13 @@
+{
+  "name": "SUPER on Super",
+  "symbol": "SUPER",
+  "decimals": 6,
+  "coin_type": "0xaa41cad19eea53a5ebd2a85959e1c24f0a4cbff568df83aa79f0d2fb3a8b3044::super::SUPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/fdggsgrs_a2347dc836.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

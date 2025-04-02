@@ -1,0 +1,13 @@
+{
+  "name": "Turtello",
+  "symbol": "TURTELLO",
+  "decimals": 6,
+  "coin_type": "0xb0aeace6baa2a2c731446e8ec815179474a0f33140a9a1e410cc821edca31542::turtello::TURTELLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Turtlle_Profile_eeb1fe03b0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

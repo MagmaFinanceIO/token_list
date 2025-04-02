@@ -1,0 +1,13 @@
+{
+  "name": "CIKO THE BOSS CAT",
+  "symbol": "CIKO",
+  "decimals": 9,
+  "coin_type": "0x5c9a0805abddd05b0c1e3722e79c8aca3e07f5db8c3ad5fda5da8ae92d01629a::ciko::CIKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/86ab80fc-607f-47fd-a070-8a464c1889b9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

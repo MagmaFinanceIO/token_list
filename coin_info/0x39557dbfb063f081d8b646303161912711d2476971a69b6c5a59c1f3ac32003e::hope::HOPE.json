@@ -1,0 +1,13 @@
+{
+  "name": "Homeless Pepe",
+  "symbol": "HOPE",
+  "decimals": 9,
+  "coin_type": "0x39557dbfb063f081d8b646303161912711d2476971a69b6c5a59c1f3ac32003e::hope::HOPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7a2ceec0-7217-4947-b67a-40b24c12589f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

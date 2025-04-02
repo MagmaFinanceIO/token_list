@@ -1,0 +1,13 @@
+{
+  "name": "Sharky",
+  "symbol": "SHRKY",
+  "decimals": 6,
+  "coin_type": "0x360e5ff7c56fa855bcee5c44be7aff14b96bf9546b4707d49cac5f92853a2fef::shrky::SHRKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735276704631.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

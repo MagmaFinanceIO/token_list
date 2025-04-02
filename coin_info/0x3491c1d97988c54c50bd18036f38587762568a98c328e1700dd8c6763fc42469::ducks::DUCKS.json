@@ -1,0 +1,13 @@
+{
+  "name": "Duckie quack quack",
+  "symbol": "DUCKS",
+  "decimals": 9,
+  "coin_type": "0x3491c1d97988c54c50bd18036f38587762568a98c328e1700dd8c6763fc42469::ducks::DUCKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0xe53726cd6631d5928e4603618524bc8009233d58.png?size=lg&key=a53c31",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

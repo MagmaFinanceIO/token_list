@@ -1,0 +1,13 @@
+{
+  "name": "WHAT THE FUCK",
+  "symbol": "WTF",
+  "decimals": 9,
+  "coin_type": "0x5c4f0002ee5a3f3bb808f8d6ef1a89bb64f6f985308c36ae4b7e37a38ec60fa0::wtf::WTF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://media.istockphoto.com/id/1444180095/vector/wtf-speech-bubble-in-color-pop-art-style-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=mMmxSQogXtCLLgBJtKMkqolkNTKxV-cx9lR1YDSbvUg=",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

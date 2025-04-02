@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "symbol": "test",
+  "decimals": 9,
+  "coin_type": "0x233508392a98c4943649ad4d4e070074f1b7693cbfc13793d8e3b8f3cde1871f::test::TEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2e4a129d-eb36-4f9c-9a9b-06758fad3b5a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

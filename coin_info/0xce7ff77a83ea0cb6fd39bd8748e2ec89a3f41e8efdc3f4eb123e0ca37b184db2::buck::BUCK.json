@@ -1,0 +1,15 @@
+{
+  "name": "Bucket USD",
+  "symbol": "BUCK",
+  "decimals": 9,
+  "coin_type": "0xce7ff77a83ea0cb6fd39bd8748e2ec89a3f41e8efdc3f4eb123e0ca37b184db2::buck::BUCK",
+  "pyth_id": "fdf28a46570252b25fd31cb257973f865afc5ca2f320439e45d95e0394bc7382",
+  "birdeyeid": "0xce7ff77a83ea0cb6fd39bd8748e2ec89a3f41e8efdc3f4eb123e0ca37b184db2::buck::BUCK",
+  "coin_priority": [
+    "920"
+  ],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/buck.png",
+  "project_url": "",
+  "coingecko_id": "bucket-protocol-buck-stablecoin",
+  "is_trusted": true
+}

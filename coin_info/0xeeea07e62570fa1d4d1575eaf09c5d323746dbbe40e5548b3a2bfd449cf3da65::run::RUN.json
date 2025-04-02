@@ -1,0 +1,13 @@
+{
+  "name": "Ridiculously Useless Nuggets",
+  "symbol": "RUN",
+  "decimals": 9,
+  "coin_type": "0xeeea07e62570fa1d4d1575eaf09c5d323746dbbe40e5548b3a2bfd449cf3da65::run::RUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5d174be6-4d72-4f26-9eea-85f9970cb204.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

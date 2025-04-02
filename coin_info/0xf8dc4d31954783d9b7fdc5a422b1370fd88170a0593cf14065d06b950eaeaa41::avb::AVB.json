@@ -1,0 +1,13 @@
+{
+  "name": "Autonomous Virtual Beings ",
+  "symbol": "AVB",
+  "decimals": 9,
+  "coin_type": "0xf8dc4d31954783d9b7fdc5a422b1370fd88170a0593cf14065d06b950eaeaa41::avb::AVB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQxhFrdSo1rZj9bP7DQXPKi42bF2HLyG2Ds5LTmVZ8JJi",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Cat Wif tail",
+  "symbol": "CATWIFHAT",
+  "decimals": 9,
+  "coin_type": "0x20e5caeb1cdf21cfae39edb567b76a544588cc370dd01e6d33e06a0a809c7bda::catwifhat::CATWIFHAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/75ac3816-5d18-4af6-96c4-245c53022b51.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

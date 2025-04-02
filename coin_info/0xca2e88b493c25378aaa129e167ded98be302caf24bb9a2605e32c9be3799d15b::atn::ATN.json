@@ -1,0 +1,13 @@
+{
+  "name": "AGENT - N by SuiAI",
+  "symbol": "ATN",
+  "decimals": 6,
+  "coin_type": "0xca2e88b493c25378aaa129e167ded98be302caf24bb9a2605e32c9be3799d15b::atn::ATN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/AI_N_3e4b5390be.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Trump & Maximus",
+  "symbol": "TrumpMax",
+  "decimals": 9,
+  "coin_type": "0xea3c93a75ade94beb41ce53c30dd12d9c791b9b73ade01c139e3d2537f422115::trumpmax::TRUMPMAX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3DGYtzH2sGK8C21H5oAumACCXyGMqKqhvUCbKJzDpump.png?size=lg&key=366e5a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

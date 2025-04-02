@@ -1,0 +1,13 @@
+{
+  "name": "Space Dragons",
+  "symbol": "SPAGONS",
+  "decimals": 9,
+  "coin_type": "0xdbc3d17bf4772efcd4ae8331f095407a2b5e7c025092f273fe31a3f1dc8b4529::spagons::SPAGONS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6a7cdcb8-2b83-44ec-af7b-8f50cbc75e26.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

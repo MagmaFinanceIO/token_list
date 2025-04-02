@@ -1,0 +1,13 @@
+{
+  "name": "World Richest Art Cat",
+  "symbol": "WRAC",
+  "decimals": 6,
+  "coin_type": "0xf651bf7067dee8e41cb559ecb933aaa17ea71267887c684ca2288c2601f87195::wrac::WRAC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/WRAC_e3d90aafb9.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

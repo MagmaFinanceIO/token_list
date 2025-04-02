@@ -1,0 +1,13 @@
+{
+  "name": "Early Bird on Sui",
+  "symbol": "EBS",
+  "decimals": 9,
+  "coin_type": "0xdc9c683a8da82806e7b550d30664989439eaea4029a1e825f4424bdd1214df73::ebs::EBS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b087e3c7-6235-4894-a20a-8637d9682c30.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

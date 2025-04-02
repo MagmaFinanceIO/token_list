@@ -1,0 +1,13 @@
+{
+  "name": "GaneshaAi by SuiAI",
+  "symbol": "GANESHA",
+  "decimals": 6,
+  "coin_type": "0x0b39e81722110259e144da332d4450a2c9c77566b49cd07cbd6bacdafd7041a4::ganesha::GANESHA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/wr_Er_AFV_400x400_587a65521e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

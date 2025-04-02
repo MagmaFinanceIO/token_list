@@ -1,0 +1,13 @@
+{
+  "name": "LUCKY APE",
+  "symbol": "LuckyApe",
+  "decimals": 9,
+  "coin_type": "0x9badd2009a2fc36db5cf556afcff3395cff326fd164fee55aea9adb01b1300ec::luckyape::LUCKYAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9bc96554-b355-4bef-b210-28fe74c96432.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

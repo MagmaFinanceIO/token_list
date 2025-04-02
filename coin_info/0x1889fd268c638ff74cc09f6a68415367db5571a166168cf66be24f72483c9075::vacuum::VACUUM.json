@@ -1,0 +1,13 @@
+{
+  "name": "Smart Ai Robot",
+  "symbol": "VACUUM",
+  "decimals": 9,
+  "coin_type": "0x1889fd268c638ff74cc09f6a68415367db5571a166168cf66be24f72483c9075::vacuum::VACUUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3ngUKd5PegkuXZtxCBapa2JgLWNAWrfQpyfWmDYXpump.png?size=lg&key=c18d9f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

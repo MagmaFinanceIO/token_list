@@ -1,0 +1,13 @@
+{
+  "name": "Tether",
+  "symbol": "USDTSUI",
+  "decimals": 9,
+  "coin_type": "0x41876466a05fdd2d972f2a94bb6ddc5fbecf360b141051784efc8598df1160c1::usdtsui::USDTSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://allmylinks.com/upload/Link/cover/P/W/e/2Xh-LeXSljGWZCLO1wO5Vua_fWNyYhfm.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

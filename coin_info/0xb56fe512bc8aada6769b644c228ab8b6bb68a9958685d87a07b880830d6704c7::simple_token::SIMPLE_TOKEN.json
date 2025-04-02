@@ -1,0 +1,13 @@
+{
+  "name": "Lock on Sui",
+  "symbol": "LOCKSUI",
+  "decimals": 9,
+  "coin_type": "0xb56fe512bc8aada6769b644c228ab8b6bb68a9958685d87a07b880830d6704c7::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

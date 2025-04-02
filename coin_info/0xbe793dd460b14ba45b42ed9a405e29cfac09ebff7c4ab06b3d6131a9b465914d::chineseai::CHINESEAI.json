@@ -1,0 +1,13 @@
+{
+  "name": "Chinese AI",
+  "symbol": "ChineseAI",
+  "decimals": 9,
+  "coin_type": "0xbe793dd460b14ba45b42ed9a405e29cfac09ebff7c4ab06b3d6131a9b465914d::chineseai::CHINESEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8wFduCawfH7EBv8ioTJQKQ1k5y4aiFDeRiMNvsw2pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

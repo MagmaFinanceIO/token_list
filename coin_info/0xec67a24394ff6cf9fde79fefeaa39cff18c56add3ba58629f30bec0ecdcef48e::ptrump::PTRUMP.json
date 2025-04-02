@@ -1,0 +1,13 @@
+{
+  "name": "Presuident Trump",
+  "symbol": "PTRUMP",
+  "decimals": 6,
+  "coin_type": "0xec67a24394ff6cf9fde79fefeaa39cff18c56add3ba58629f30bec0ecdcef48e::ptrump::PTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_token_3ec1cfd723.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

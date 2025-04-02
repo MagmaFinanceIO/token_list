@@ -1,0 +1,13 @@
+{
+  "name": "Bepe sui",
+  "symbol": "Bepe",
+  "decimals": 6,
+  "coin_type": "0x1b2868b1a75930857600a513d86ebc2762698c2b460c10b2fea3e15296298a6c::bepe::BEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000356_288e13aed5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

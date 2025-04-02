@@ -1,0 +1,13 @@
+{
+  "name": "Burny",
+  "symbol": "BURNY",
+  "decimals": 6,
+  "coin_type": "0x86a05104c442b3a25611c09fb9b66db10512cfb2aa3849d45c26e4b194480f0b::burny::BURNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/gif_ezgif_com_optimize_232544a112.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

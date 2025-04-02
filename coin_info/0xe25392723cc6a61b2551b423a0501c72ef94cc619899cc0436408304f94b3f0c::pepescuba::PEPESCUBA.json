@@ -1,0 +1,13 @@
+{
+  "name": "Scuba Pepe 🤿 🐸",
+  "symbol": "PEPESCUBA",
+  "decimals": 9,
+  "coin_type": "0xe25392723cc6a61b2551b423a0501c72ef94cc619899cc0436408304f94b3f0c::pepescuba::PEPESCUBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9e8aca04-763d-4101-8ec1-34404d3146b0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

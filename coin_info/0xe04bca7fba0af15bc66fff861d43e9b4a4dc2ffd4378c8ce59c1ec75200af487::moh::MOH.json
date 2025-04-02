@@ -1,0 +1,13 @@
+{
+  "name": "Mohamed",
+  "symbol": "MOH",
+  "decimals": 6,
+  "coin_type": "0xe04bca7fba0af15bc66fff861d43e9b4a4dc2ffd4378c8ce59c1ec75200af487::moh::MOH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/mohamed_ia_4a24cebcac.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suimurfs",
+  "symbol": "Smf",
+  "decimals": 6,
+  "coin_type": "0xffecda8530704a4d5e51ffc053f5e34612be2a951df78c1ae32d0bf42c5474fa::smf::SMF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000042657_3a6ff4073a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

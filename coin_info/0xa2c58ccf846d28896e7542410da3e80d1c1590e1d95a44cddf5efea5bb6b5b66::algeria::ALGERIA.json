@@ -1,0 +1,13 @@
+{
+  "name": "Algeria",
+  "symbol": "Algeria",
+  "decimals": 2,
+  "coin_type": "0xa2c58ccf846d28896e7542410da3e80d1c1590e1d95a44cddf5efea5bb6b5b66::algeria::ALGERIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8d58d8f7-05d0-45e8-9236-684755dbdd25.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

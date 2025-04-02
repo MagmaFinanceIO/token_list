@@ -1,0 +1,13 @@
+{
+  "name": "Crypto Bro",
+  "symbol": "LARRY",
+  "decimals": 9,
+  "coin_type": "0x1d44172277947a927fa9708cc6e3b7364479c195f3d9fce675f7a68b82599dd8::larry::LARRY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmfX1BUgANhyxaugd1xAFw9ve1FwmDxUr3VGX2gY51CBtx",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NovaLink Token",
+  "symbol": "NOVA",
+  "decimals": 9,
+  "coin_type": "0xf641fb1b8607419624ca8856afe27d50bdef22eb91989f023eef0a2fe06e8496::nova::NOVA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/D21ND4nR3YhQwtadoqYivUX1z42XDMSh39UTiNLdJspR.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

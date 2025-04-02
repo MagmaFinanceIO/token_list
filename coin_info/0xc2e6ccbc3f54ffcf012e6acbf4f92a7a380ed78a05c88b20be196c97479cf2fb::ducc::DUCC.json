@@ -1,0 +1,13 @@
+{
+  "name": "Sui Ducc",
+  "symbol": "DUCC",
+  "decimals": 9,
+  "coin_type": "0xc2e6ccbc3f54ffcf012e6acbf4f92a7a380ed78a05c88b20be196c97479cf2fb::ducc::DUCC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/94411993-c157-46e3-98ce-3416c3647bff.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Rina by Arc",
+  "symbol": "RINA",
+  "decimals": 9,
+  "coin_type": "0xdb545f60b9821dd8416ce0efab835337293662cbdcc5fcd43880b30380de466d::rina::RINA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6wUfdjiBtXjiWTfwGabBqybVTCAFoS9iD3X6t9v1pump.png?size=lg&key=6bf1ed",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Harambe AI by SuiAI",
+  "symbol": "HARAMBEAI",
+  "decimals": 6,
+  "coin_type": "0x9c45836fd5a445533744d693309d57b82477bc7cdc2d6a5c8288fb9591fbad6c::harambeai::HARAMBEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Harambe_AI_70119d1401.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hopo",
+  "symbol": "Hupo",
+  "decimals": 6,
+  "coin_type": "0xaf2f1780760bb5d8414999c0c552f2a216d84c3ab8775205fab49053981b999f::hupo::HUPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/final_be495df569.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

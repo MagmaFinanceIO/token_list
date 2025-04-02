@@ -1,0 +1,13 @@
+{
+  "name": "DropSui",
+  "symbol": "DROP",
+  "decimals": 6,
+  "coin_type": "0x9a153931314a5d63daf367fffe663b22c9bb36db15ab5e78b3b3a3b927a3623c::drop::DROP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736369066024.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

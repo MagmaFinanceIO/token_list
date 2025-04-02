@@ -1,0 +1,13 @@
+{
+  "name": "SUI2025",
+  "symbol": "SUI2025",
+  "decimals": 9,
+  "coin_type": "0x9afd78a9d7776e682ef773d610edc9e345fa59b27b7d17d751a8afdce1dc5727::SUI2025::SUI2025",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

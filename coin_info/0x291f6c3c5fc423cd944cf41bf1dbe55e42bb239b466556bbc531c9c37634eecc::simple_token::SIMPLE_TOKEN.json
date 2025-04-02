@@ -1,0 +1,13 @@
+{
+  "name": "Agent Sui Books",
+  "symbol": "AGENTSUI",
+  "decimals": 9,
+  "coin_type": "0x291f6c3c5fc423cd944cf41bf1dbe55e42bb239b466556bbc531c9c37634eecc::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

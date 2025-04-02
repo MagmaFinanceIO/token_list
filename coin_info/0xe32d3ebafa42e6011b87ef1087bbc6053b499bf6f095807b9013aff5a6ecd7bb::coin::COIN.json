@@ -1,0 +1,15 @@
+{
+  "name": "USD Coin (Portal from Arbitrum, Old)",
+  "symbol": "USDCarb",
+  "decimals": 6,
+  "coin_type": "0xe32d3ebafa42e6011b87ef1087bbc6053b499bf6f095807b9013aff5a6ecd7bb::coin::COIN",
+  "pyth_id": "eaa020c61cc479712813461ce153894a96a6c00b21ed0cfc2798d1f9a9e9c94a",
+  "birdeyeid": "0xe32d3ebafa42e6011b87ef1087bbc6053b499bf6f095807b9013aff5a6ecd7bb::coin::COIN",
+  "coin_priority": [
+    "840"
+  ],
+  "logo_url": "https://zesrehijzslvuwaf7vplw5qsnhjdz4cpsighhn65watc4fwl22gq.arweave.net/ySUSHQnMl1pYBf1eu3YSadI88E-SDHO33bAmLhbL1o0",
+  "project_url": "",
+  "coingecko_id": "usd-coin-wormhole-arb",
+  "is_trusted": true
+}

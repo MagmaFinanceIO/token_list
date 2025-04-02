@@ -1,0 +1,13 @@
+{
+  "name": "Bloop On Sui",
+  "symbol": "BLOOP",
+  "decimals": 9,
+  "coin_type": "0xee70ba5e0d50e36b3e57a133ae3d0c1c0b2e880b3a3366dc4377f79cf581354a::bloop::BLOOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/abdc7023-c997-433a-8e33-1abb79986c2c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

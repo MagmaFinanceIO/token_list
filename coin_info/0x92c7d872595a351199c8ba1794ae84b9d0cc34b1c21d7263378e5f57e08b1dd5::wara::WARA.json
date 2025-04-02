@@ -1,0 +1,13 @@
+{
+  "name": "Wara.Sui",
+  "symbol": "WARA",
+  "decimals": 9,
+  "coin_type": "0x92c7d872595a351199c8ba1794ae84b9d0cc34b1c21d7263378e5f57e08b1dd5::wara::WARA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1834658254544154624/YJQl1hDF_400x400.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

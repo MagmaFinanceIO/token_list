@@ -1,0 +1,13 @@
+{
+  "name": "BATGOAT ON SUI",
+  "symbol": "BATGOAT",
+  "decimals": 3,
+  "coin_type": "0xb8e2baffa995b75d901b7e78fd349683e878dac6bd2a0a64002f9b5d89278f05::batgoat::BATGOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e2a0cc44-611d-4c18-843c-dbc49c3642d0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

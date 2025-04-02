@@ -1,0 +1,13 @@
+{
+  "name": "Suiky",
+  "symbol": "SUIKY",
+  "decimals": 6,
+  "coin_type": "0x8ccc7987ff33fa40cbdb17491cbd5697ffc4d2da3b341fb16bf8afad401336f1::suiky::SUIKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suiky_4a004d95d6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

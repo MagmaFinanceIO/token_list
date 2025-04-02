@@ -1,0 +1,13 @@
+{
+  "name": "testicles by SuiAI",
+  "symbol": "TESTES",
+  "decimals": 6,
+  "coin_type": "0x4a3d7504cf89f21b24f8dc373154cd620738ef01cbbda454aa9d6211b54290e4::testes::TESTES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/NPSUI_LOGO_a367f973c0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

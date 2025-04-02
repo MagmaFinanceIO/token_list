@@ -1,0 +1,13 @@
+{
+  "name": "Bubble On Sui",
+  "symbol": "BUBL",
+  "decimals": 6,
+  "coin_type": "0x82f7064c75c9b0533030f77715225ab438a359071dadfa316ef0b4cc8a184c8e::bubl::BUBL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000037492_ff2ecb5b4f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

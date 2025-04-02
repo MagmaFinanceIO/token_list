@@ -1,0 +1,13 @@
+{
+  "name": "Official Family Coin",
+  "symbol": "TRUMPFAM",
+  "decimals": 9,
+  "coin_type": "0xc9c6b6944b0c10ae29ff4e66b7d8160ec220d9546fb7b2408de8c5a07e9cf64b::trumpfam::TRUMPFAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/zFCN2vUTXjhy5wTpGzysqfPYHbK8SZymSuTnSKjpump.png?size=lg&key=09c80a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUISSEBALL",
+  "symbol": "$SB",
+  "decimals": 6,
+  "coin_type": "0x927f0f9c561d20126686efbac174f209e2a0650c7b1fe17c0b69f5d62df2b0da::sb::SB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://suisseball.com/img/logo2.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

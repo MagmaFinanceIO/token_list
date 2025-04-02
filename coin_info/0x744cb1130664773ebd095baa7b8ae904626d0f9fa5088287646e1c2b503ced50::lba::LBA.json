@@ -1,0 +1,13 @@
+{
+  "name": "Lost Baby Alien by SuiAI",
+  "symbol": "LBA",
+  "decimals": 6,
+  "coin_type": "0x744cb1130664773ebd095baa7b8ae904626d0f9fa5088287646e1c2b503ced50::lba::LBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/alien_1d42603b2a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TwerkCoin",
+  "symbol": "TWERK",
+  "decimals": 9,
+  "coin_type": "0x8838a9e3f89a308ec1c57094cb732fa448478ecf74d57c6640e08f9e34a5f599::twerk::TWERK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DV44rX6H8pEu4qwruwUvjswyRPTUib5qHTjWNRigpump.png?size=lg&key=fa0805",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

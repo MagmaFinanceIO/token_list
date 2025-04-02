@@ -1,0 +1,13 @@
+{
+  "name": "Andruw Tetsui",
+  "symbol": "ANDEUW",
+  "decimals": 8,
+  "coin_type": "0x3ecd628ace879e282d1f8b99698a3f6f22c5e7cfa854e1718b512b177aa0a794::andeuw::ANDEUW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d143b480-636a-4fd9-b251-abf925dfff29.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

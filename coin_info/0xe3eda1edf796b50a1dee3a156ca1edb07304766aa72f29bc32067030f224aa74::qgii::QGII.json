@@ -1,0 +1,13 @@
+{
+  "name": "squid game 2",
+  "symbol": "QGII",
+  "decimals": 9,
+  "coin_type": "0xe3eda1edf796b50a1dee3a156ca1edb07304766aa72f29bc32067030f224aa74::qgii::QGII",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/377967d5-3519-4fb2-9f74-0bcbf0e117c6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

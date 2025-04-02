@@ -1,0 +1,13 @@
+{
+  "name": "Info Finance",
+  "symbol": "IF",
+  "decimals": 9,
+  "coin_type": "0xf0384cb1d945aca9f98e9b5ddc05d788d0cd22c236c4f5d9a4bd75f8ca226c0d::if::IF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2gLfiMj6PjzfimKpcpHRogwWnwvdQwVrnE1SCLdTpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

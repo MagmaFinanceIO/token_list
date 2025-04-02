@@ -1,0 +1,13 @@
+{
+  "name": "Sad Frog",
+  "symbol": "SAD",
+  "decimals": 6,
+  "coin_type": "0xd7cf23bf20c48b3b3cd907a07ac2809d7d5bed652a82cedf2970875f29c5ae05::sad::SAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/sadfrog_movepump_bdffccd9c2.JPEG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

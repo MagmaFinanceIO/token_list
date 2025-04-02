@@ -1,0 +1,13 @@
+{
+  "name": "Dark Pepe",
+  "symbol": "DAPE",
+  "decimals": 9,
+  "coin_type": "0x6208f2badcffd147a6141dd252a3c44ddb96e6c54579c02bb4dfa7ef2a5ae642::dape::DAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d8a54850-c2e8-4ac7-8579-08e8d4625be7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

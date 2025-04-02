@@ -1,0 +1,13 @@
+{
+  "name": "CHOPSUI",
+  "symbol": "CHOPSUI",
+  "decimals": 6,
+  "coin_type": "0x732f1d3341851051be61c25713eb44f68896e1742df8f10cfdd5b939e65ebd61::chopsui::CHOPSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmeyJbuLUBhj1nrV9kn3afsujZut4x97JU9bsqdNUQsbt4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

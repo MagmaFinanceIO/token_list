@@ -1,0 +1,13 @@
+{
+  "name": "Tremp Sui",
+  "symbol": "Trempsuii",
+  "decimals": 6,
+  "coin_type": "0x6f48241ff15375ca134097536f1d15d760232f95f7263c614f618b98eec7a8c5::trempsuii::TREMPSUII",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_9239_6783d13240.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

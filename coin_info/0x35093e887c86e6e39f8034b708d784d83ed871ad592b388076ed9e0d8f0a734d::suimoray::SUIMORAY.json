@@ -1,0 +1,13 @@
+{
+  "name": "Moray Eel",
+  "symbol": "SuiMoray",
+  "decimals": 6,
+  "coin_type": "0x35093e887c86e6e39f8034b708d784d83ed871ad592b388076ed9e0d8f0a734d::suimoray::SUIMORAY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7261_98c9e15aa0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

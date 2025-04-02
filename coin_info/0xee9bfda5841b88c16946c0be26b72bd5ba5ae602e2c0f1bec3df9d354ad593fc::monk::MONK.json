@@ -1,0 +1,13 @@
+{
+  "name": "Monk on SUI",
+  "symbol": "MONK",
+  "decimals": 9,
+  "coin_type": "0xee9bfda5841b88c16946c0be26b72bd5ba5ae602e2c0f1bec3df9d354ad593fc::monk::MONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/33a374cb-b943-4c53-9a85-edc39b7542c9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

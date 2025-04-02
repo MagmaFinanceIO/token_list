@@ -1,0 +1,13 @@
+{
+  "name": "AI1000 DAO",
+  "symbol": "AI1000",
+  "decimals": 9,
+  "coin_type": "0xf4fc1a2690aaf05172e8206797e4aa177beea28c25242231777a37200bcb706a::ai1000::AI1000",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a72f84f5-66a2-4d44-abc3-f3522c5e6815.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

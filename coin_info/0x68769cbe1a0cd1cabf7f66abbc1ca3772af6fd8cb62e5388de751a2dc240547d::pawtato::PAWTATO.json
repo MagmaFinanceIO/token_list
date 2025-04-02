@@ -1,0 +1,13 @@
+{
+  "name": "Pawtato Sui AI",
+  "symbol": "PAWTATO",
+  "decimals": 9,
+  "coin_type": "0x68769cbe1a0cd1cabf7f66abbc1ca3772af6fd8cb62e5388de751a2dc240547d::pawtato::PAWTATO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1b3e5b8b-7635-493e-8780-d72a00a1f20e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

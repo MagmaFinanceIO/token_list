@@ -1,0 +1,13 @@
+{
+  "name": "Christmas Maya",
+  "symbol": "CHRIMAYA",
+  "decimals": 9,
+  "coin_type": "0x0577ce2174e9d5c400b867df6cbcebd960abe96971c1371c8bee76c312fce349::chrimaya::CHRIMAYA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6c940876-7266-4c13-82e5-a2b92fd92543.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

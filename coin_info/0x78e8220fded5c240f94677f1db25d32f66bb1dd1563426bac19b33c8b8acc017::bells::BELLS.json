@@ -1,0 +1,13 @@
+{
+  "name": "Bellscoin",
+  "symbol": "BELLS",
+  "decimals": 9,
+  "coin_type": "0x78e8220fded5c240f94677f1db25d32f66bb1dd1563426bac19b33c8b8acc017::bells::BELLS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xba2a3dad197d6fee75471215efd5c30c8c854e11.png?size=lg&key=0e9c66",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

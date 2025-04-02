@@ -1,0 +1,13 @@
+{
+  "name": "ShuluX",
+  "symbol": "shuluX",
+  "decimals": 9,
+  "coin_type": "0x8c69945a26e9881be2edc95fda82b0d6dadb38fc4b1218d661400f3e89450ef7::shulux::SHULUX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/14aa9f8c-c556-4a68-8fad-24db2f609f6c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

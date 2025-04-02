@@ -1,0 +1,13 @@
+{
+  "name": "PoSuiDon",
+  "symbol": "PSUI",
+  "decimals": 2,
+  "coin_type": "0x58bd0be821b7dbb5d44e87eefa64377caaadfc4cc5e85946e4aef7e264b36ddc::psui::PSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/502b2784-935e-4a36-baae-9301fdd24ec5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

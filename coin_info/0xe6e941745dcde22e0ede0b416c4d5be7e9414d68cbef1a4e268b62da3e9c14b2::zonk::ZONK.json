@@ -1,0 +1,13 @@
+{
+  "name": "ZONK - the stoned brother of BONK",
+  "symbol": "ZONK",
+  "decimals": 9,
+  "coin_type": "0xe6e941745dcde22e0ede0b416c4d5be7e9414d68cbef1a4e268b62da3e9c14b2::zonk::ZONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0b43c217-d1aa-4ff8-9396-7382a58fc721.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

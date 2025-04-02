@@ -1,0 +1,13 @@
+{
+  "name": "Octa Render",
+  "symbol": "OR",
+  "decimals": 6,
+  "coin_type": "0x6be26d83aabf16171d7c9f9b37e6a550be7532ecf4c9f85c4a2c9495422cd021::or::OR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/baabbc50-82bc-4fb2-b1a7-394bdc240c27.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

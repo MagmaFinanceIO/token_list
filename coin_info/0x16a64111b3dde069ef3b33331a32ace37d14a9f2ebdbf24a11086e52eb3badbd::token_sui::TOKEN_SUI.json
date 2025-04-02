@@ -1,0 +1,13 @@
+{
+  "name": "aaa cat 23",
+  "symbol": "AAA23",
+  "decimals": 9,
+  "coin_type": "0x16a64111b3dde069ef3b33331a32ace37d14a9f2ebdbf24a11086e52eb3badbd::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4995_cfd6177d03.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

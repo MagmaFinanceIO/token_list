@@ -1,0 +1,13 @@
+{
+  "name": "AIR",
+  "symbol": "AIR",
+  "decimals": 9,
+  "coin_type": "0x9a9fee2292fd0a628b9dff291b595c62b16f93da842d41ed3fe0a526500386b5::air::AIR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

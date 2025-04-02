@@ -1,0 +1,13 @@
+{
+  "name": "Sui Pepe",
+  "symbol": "SP",
+  "decimals": 9,
+  "coin_type": "0x63dbe0f1a6c23f04622649f7b142c374c6a97a031c8449f8d60aa31ddaa81ae6::sp::SP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/de3bc961-f67b-4080-af51-2ea4de7eef40.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

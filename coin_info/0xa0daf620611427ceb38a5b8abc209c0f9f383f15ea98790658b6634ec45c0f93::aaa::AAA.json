@@ -1,0 +1,13 @@
+{
+  "name": "Retarded AI Agent",
+  "symbol": "AAA",
+  "decimals": 6,
+  "coin_type": "0xa0daf620611427ceb38a5b8abc209c0f9f383f15ea98790658b6634ec45c0f93::aaa::AAA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Retarded_AI_Agent2_0a719747f8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

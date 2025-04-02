@@ -1,0 +1,13 @@
+{
+  "name": "MOODENG",
+  "symbol": "MOO",
+  "decimals": 9,
+  "coin_type": "0xc82cf36526abd2c533f5a0a77cfe3b6525514de373e749f2344c6191f18f8290::moo::MOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmeFni99y4B9vkKqH21nTYMgPPGpB7B5BeAvx81g2UySdF",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

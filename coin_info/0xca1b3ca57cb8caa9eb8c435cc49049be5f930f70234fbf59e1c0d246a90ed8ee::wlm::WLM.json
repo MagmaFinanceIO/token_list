@@ -1,0 +1,13 @@
+{
+  "name": "WLM HAT",
+  "symbol": "WLM",
+  "decimals": 9,
+  "coin_type": "0xca1b3ca57cb8caa9eb8c435cc49049be5f930f70234fbf59e1c0d246a90ed8ee::wlm::WLM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5f5o26isDtLmaHuMjpp1TKCLv9YJZLtFci6xbaJUpump.png?size=lg&key=d48582",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

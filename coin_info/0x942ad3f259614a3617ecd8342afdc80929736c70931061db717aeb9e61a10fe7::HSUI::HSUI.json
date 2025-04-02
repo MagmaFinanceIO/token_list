@@ -1,0 +1,13 @@
+{
+  "name": "SIG P320-K Tactical Verson",
+  "symbol": "SigSauer",
+  "decimals": 9,
+  "coin_type": "0x942ad3f259614a3617ecd8342afdc80929736c70931061db717aeb9e61a10fe7::HSUI::HSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/704/501/large/kazami-xin-tp320-main-01.jpg?1728309010",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

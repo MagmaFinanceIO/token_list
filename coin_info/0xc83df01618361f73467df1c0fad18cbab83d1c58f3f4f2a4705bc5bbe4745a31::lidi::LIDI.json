@@ -1,0 +1,13 @@
+{
+  "name": "Lidi",
+  "symbol": "LIDI",
+  "decimals": 9,
+  "coin_type": "0xc83df01618361f73467df1c0fad18cbab83d1c58f3f4f2a4705bc5bbe4745a31::lidi::LIDI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/93ae1ee6-0283-490b-ae30-4425f8ff64a2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

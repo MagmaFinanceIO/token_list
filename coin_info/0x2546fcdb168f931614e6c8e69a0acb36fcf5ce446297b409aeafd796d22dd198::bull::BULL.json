@@ -1,0 +1,13 @@
+{
+  "name": "Trump's Golden Bull",
+  "symbol": "BULL",
+  "decimals": 9,
+  "coin_type": "0x2546fcdb168f931614e6c8e69a0acb36fcf5ce446297b409aeafd796d22dd198::bull::BULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/59cf85bf-1cf9-4e67-b36c-66f45ac0ec59.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

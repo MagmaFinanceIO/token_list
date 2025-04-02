@@ -1,0 +1,13 @@
+{
+  "name": "The Bird Ai by SuiAI",
+  "symbol": "TBIRD",
+  "decimals": 6,
+  "coin_type": "0xe43dce401c08570cba4888fadaf33b6568b8dd11aa8ffe489f968cf6466782ac::tbird::TBIRD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_0698_378669920b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FRED",
+  "symbol": "FRED",
+  "decimals": 6,
+  "coin_type": "0xf68f206fbdb3db58efcff3637b63bd362115e5cacbc1cfb806f674ec7dcc2af2::fred::FRED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmZ9NUcGrhdW4pNz8bMeUpYNaecPQGjCuDHc7Wxs4uPpMP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

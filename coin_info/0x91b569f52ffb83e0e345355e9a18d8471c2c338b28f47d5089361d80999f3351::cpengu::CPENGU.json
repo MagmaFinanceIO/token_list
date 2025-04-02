@@ -1,0 +1,13 @@
+{
+  "name": "Just A Chill Pengu",
+  "symbol": "CPENGU",
+  "decimals": 9,
+  "coin_type": "0x91b569f52ffb83e0e345355e9a18d8471c2c338b28f47d5089361d80999f3351::cpengu::CPENGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9xyhcEN4e13z5K6rAVojzzw8mMu3bmkm4XZd3dc7pump.png?size=lg&key=17b238",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

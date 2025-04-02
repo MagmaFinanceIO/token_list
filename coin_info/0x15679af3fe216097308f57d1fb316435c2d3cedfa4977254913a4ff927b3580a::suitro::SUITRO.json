@@ -1,0 +1,13 @@
+{
+  "name": "Nitro on Sui",
+  "symbol": "Suitro",
+  "decimals": 6,
+  "coin_type": "0x15679af3fe216097308f57d1fb316435c2d3cedfa4977254913a4ff927b3580a::suitro::SUITRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730440692746.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

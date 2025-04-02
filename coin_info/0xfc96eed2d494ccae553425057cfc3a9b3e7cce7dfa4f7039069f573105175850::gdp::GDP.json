@@ -1,0 +1,13 @@
+{
+  "name": "Gas Station Dick Pills",
+  "symbol": "GDP",
+  "decimals": 9,
+  "coin_type": "0xfc96eed2d494ccae553425057cfc3a9b3e7cce7dfa4f7039069f573105175850::gdp::GDP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b1dd5363-65bf-46bc-87a0-bc25cba7f33e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

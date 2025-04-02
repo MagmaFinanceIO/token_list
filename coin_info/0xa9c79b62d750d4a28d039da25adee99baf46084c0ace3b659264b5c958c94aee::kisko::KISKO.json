@@ -1,0 +1,13 @@
+{
+  "name": "Sui Kisko",
+  "symbol": "KISKO",
+  "decimals": 9,
+  "coin_type": "0xa9c79b62d750d4a28d039da25adee99baf46084c0ace3b659264b5c958c94aee::kisko::KISKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ac9b1dd3-58a9-4fd3-9aec-813d16c17c70.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

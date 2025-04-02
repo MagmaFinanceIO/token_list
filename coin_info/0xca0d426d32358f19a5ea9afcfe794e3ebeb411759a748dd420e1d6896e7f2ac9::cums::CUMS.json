@@ -1,0 +1,13 @@
+{
+  "name": "alpha humans",
+  "symbol": "CUMS",
+  "decimals": 9,
+  "coin_type": "0xca0d426d32358f19a5ea9afcfe794e3ebeb411759a748dd420e1d6896e7f2ac9::cums::CUMS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmeAfvY5k9kbmRawENhA4Qx1EmcRRwyG81uxiFcKDJ8tfM",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

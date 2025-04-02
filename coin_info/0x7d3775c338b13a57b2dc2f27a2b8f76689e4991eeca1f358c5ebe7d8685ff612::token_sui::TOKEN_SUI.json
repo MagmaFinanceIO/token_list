@@ -1,0 +1,13 @@
+{
+  "name": "Halloween Cat Mask",
+  "symbol": "CatMask",
+  "decimals": 9,
+  "coin_type": "0x7d3775c338b13a57b2dc2f27a2b8f76689e4991eeca1f358c5ebe7d8685ff612::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dribbble.com/userupload/17232423/file/original-25cda2518301f41d3de4910e79038e32.png?resize=1024x819",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUBBY",
+  "symbol": "SUBBY",
+  "decimals": 9,
+  "coin_type": "0x41ba7061b3e4b9f82dc1e5d55b3f623948f35e7b17b5ae80af8fb18ed790a10c::subby::SUBBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/E3pio16HbpSRjekcj78PJWe5jmKRzCDcWEFMT7APpump.png?size=lg&key=5e1595",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

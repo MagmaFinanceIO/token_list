@@ -1,0 +1,13 @@
+{
+  "name": "Wummy On Sui",
+  "symbol": "WUMMY",
+  "decimals": 9,
+  "coin_type": "0xf2b36ff1535206c14d7c26fb272bf94848fc2328a9ffe613a4fcc730a8ff84f3::wummy::WUMMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ec9d51cd-7547-4acd-9c50-d39d066a09b9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

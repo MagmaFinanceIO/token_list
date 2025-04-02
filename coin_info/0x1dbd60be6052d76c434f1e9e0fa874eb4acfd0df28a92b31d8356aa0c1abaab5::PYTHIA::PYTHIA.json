@@ -1,0 +1,13 @@
+{
+  "name": "PYTHIA",
+  "symbol": "PYTHIA",
+  "decimals": 2,
+  "coin_type": "0x1dbd60be6052d76c434f1e9e0fa874eb4acfd0df28a92b31d8356aa0c1abaab5::PYTHIA::PYTHIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/zKGz-nOnuUEKRn2yGFPqJIclwNUHrF0SQf7ZKaGlUkw?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

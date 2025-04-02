@@ -1,0 +1,13 @@
+{
+  "name": "ASIAN BEARY",
+  "symbol": "AsianBeary",
+  "decimals": 9,
+  "coin_type": "0x03e1e1ff68a52c6a49f859f84cdb1de164635f47178285397d0ecfc7a6e3d0d1::asianbeary::ASIANBEARY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c76205fb-64c2-41ff-bf99-942d67bed1b4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

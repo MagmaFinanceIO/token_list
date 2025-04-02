@@ -1,0 +1,13 @@
+{
+  "name": "Bang Bang MotherDUCKERS",
+  "symbol": "MOTHERDUCKERS",
+  "decimals": 9,
+  "coin_type": "0x0af6ab182c16bf844f7bf717cdad06ce410477118fd89f9341bc0e9919f770ff::motherduckers::MOTHERDUCKERS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c42bd955-d466-4b16-a010-9e8f7b43ebab.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

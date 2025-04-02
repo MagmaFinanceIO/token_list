@@ -1,0 +1,13 @@
+{
+  "name": "Satoshi AI by SuiAI",
+  "symbol": "SAI",
+  "decimals": 6,
+  "coin_type": "0xabbc5b00aa9add34e69088e8f1cde772745f1045bfc50b1d8000aa5ff52ff9e8::sai::SAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_2121_c38ad3ec74.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

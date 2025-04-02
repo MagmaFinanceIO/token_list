@@ -1,0 +1,13 @@
+{
+  "name": "Frenk",
+  "symbol": "FRENK",
+  "decimals": 6,
+  "coin_type": "0x1ff0207f9c54b6fed849401174b2e2a4b4bdaeac72c304ba4696e0d1dbe4542d::frenk::FRENK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20250105_WA_0027_1603ec80d2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Claus",
+  "symbol": "SCLAUS",
+  "decimals": 9,
+  "coin_type": "0x3996100ce64682b0d91ecfe42f025259ebbedc3989cbe2b0a53f3d589cfed6c9::sclaus::SCLAUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B9ESxmwshuLDvTkPG2ZQePGD8aAVYEazJXhsry28pump.png?size=lg&key=35973e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

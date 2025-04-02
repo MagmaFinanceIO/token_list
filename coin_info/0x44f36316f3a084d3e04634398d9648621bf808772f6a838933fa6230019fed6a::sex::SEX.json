@@ -1,0 +1,13 @@
+{
+  "name": "Sex",
+  "symbol": "Sex",
+  "decimals": 9,
+  "coin_type": "0x44f36316f3a084d3e04634398d9648621bf808772f6a838933fa6230019fed6a::sex::SEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9359a354-c175-42e3-9513-8531eff8ebf0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

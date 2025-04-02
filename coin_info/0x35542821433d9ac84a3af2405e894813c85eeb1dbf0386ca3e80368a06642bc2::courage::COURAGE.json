@@ -1,0 +1,13 @@
+{
+  "name": "COURAGE DOG",
+  "symbol": "COURAGE",
+  "decimals": 9,
+  "coin_type": "0x35542821433d9ac84a3af2405e894813c85eeb1dbf0386ca3e80368a06642bc2::courage::COURAGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5LGfTX1Ti1c886edyzxXY28AxcmKPbHampU5ujmupump.png?size=lg&key=e3956d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

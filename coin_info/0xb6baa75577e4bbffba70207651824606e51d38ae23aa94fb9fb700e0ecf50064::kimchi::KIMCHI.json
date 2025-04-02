@@ -1,0 +1,15 @@
+{
+  "name": "KIMCHI",
+  "symbol": "KIMCHI",
+  "decimals": 5,
+  "coin_type": "0xb6baa75577e4bbffba70207651824606e51d38ae23aa94fb9fb700e0ecf50064::kimchi::KIMCHI",
+  "pyth_id": "",
+  "birdeyeid": "0xb6baa75577e4bbffba70207651824606e51d38ae23aa94fb9fb700e0ecf50064::kimchi::KIMCHI",
+  "coin_priority": [
+    "600"
+  ],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/kimchi.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

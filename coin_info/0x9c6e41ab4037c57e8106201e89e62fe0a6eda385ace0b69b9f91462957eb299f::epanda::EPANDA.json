@@ -1,0 +1,13 @@
+{
+  "name": "epanda",
+  "symbol": "EPANDA",
+  "decimals": 6,
+  "coin_type": "0x9c6e41ab4037c57e8106201e89e62fe0a6eda385ace0b69b9f91462957eb299f::epanda::EPANDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000154_18e48bdff4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Plankz",
+  "symbol": "PLANKZ",
+  "decimals": 6,
+  "coin_type": "0xa6208b84c4873c01449be860818212992714c09ab20ce15bf3f2a62fb3e136ea::plankz::PLANKZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Plankz_222_2f6d998f45.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

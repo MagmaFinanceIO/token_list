@@ -1,0 +1,13 @@
+{
+  "name": "LOOPY",
+  "symbol": "LOOPY",
+  "decimals": 9,
+  "coin_type": "0x1bb129b086ffada073d5a419f67702aa3310f4e42f5ffbb1eda36a946d29f984::loopy_sui::LOOPY_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://blush-tremendous-canidae-396.mypinata.cloud/ipfs/QmSNRiCLDCZ2RJFvn9mJ7gmWpm45pgNAZeJJ3wYEkaje5F",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

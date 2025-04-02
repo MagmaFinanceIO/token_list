@@ -1,0 +1,13 @@
+{
+  "name": "RUPEET",
+  "symbol": "RPT",
+  "decimals": 9,
+  "coin_type": "0xefcf88e021c498443e9e97b2b06fa4a4ad9a3a5189984c4d5f9e81f34a212b1f::rpt::RPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c42c77c1-7dc6-49f7-9bda-65fa15e8969b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

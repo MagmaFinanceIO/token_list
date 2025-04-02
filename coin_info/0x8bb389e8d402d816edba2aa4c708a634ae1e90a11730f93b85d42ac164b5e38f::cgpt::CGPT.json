@@ -1,0 +1,13 @@
+{
+  "name": "CHAIN GPT SUI",
+  "symbol": "CGPT",
+  "decimals": 6,
+  "coin_type": "0x8bb389e8d402d816edba2aa4c708a634ae1e90a11730f93b85d42ac164b5e38f::cgpt::CGPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e2d64c20-8776-451e-b578-23f8d7a50bd2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

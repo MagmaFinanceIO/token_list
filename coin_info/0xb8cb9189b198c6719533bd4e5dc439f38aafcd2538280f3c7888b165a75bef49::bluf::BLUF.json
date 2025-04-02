@@ -1,0 +1,13 @@
+{
+  "name": "BLUE FISH",
+  "symbol": "BLUF",
+  "decimals": 9,
+  "coin_type": "0xb8cb9189b198c6719533bd4e5dc439f38aafcd2538280f3c7888b165a75bef49::bluf::BLUF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2a48ad6f-ac8f-4641-99c7-6f422f64b56c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

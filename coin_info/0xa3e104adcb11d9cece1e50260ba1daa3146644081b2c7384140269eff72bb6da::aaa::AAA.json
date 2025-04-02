@@ -1,0 +1,13 @@
+{
+  "name": "Arcade Autonomous Agent by SuiAI",
+  "symbol": "AAA",
+  "decimals": 6,
+  "coin_type": "0xa3e104adcb11d9cece1e50260ba1daa3146644081b2c7384140269eff72bb6da::aaa::AAA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/j_Yh_AT_3_Vr_400x400_a733cee78c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

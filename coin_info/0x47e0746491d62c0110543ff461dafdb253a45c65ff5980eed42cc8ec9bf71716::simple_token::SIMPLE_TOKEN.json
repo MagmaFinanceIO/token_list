@@ -1,0 +1,13 @@
+{
+  "name": "axisui",
+  "symbol": "axisui",
+  "decimals": 9,
+  "coin_type": "0x47e0746491d62c0110543ff461dafdb253a45c65ff5980eed42cc8ec9bf71716::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

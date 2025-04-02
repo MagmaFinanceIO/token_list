@@ -1,0 +1,13 @@
+{
+  "name": "Just a chill fwog",
+  "symbol": "CHILLWOG",
+  "decimals": 9,
+  "coin_type": "0x12805f782ad58bc436b2f325083a85bc79cfc1e014342acc5b74aadb79a06f95::chillwog::CHILLWOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9sZdGsHZvYoTtmqh1qswtFX2qwy4JckuYXezGJpLpump.png?size=lg&key=4801cd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

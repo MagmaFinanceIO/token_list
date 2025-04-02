@@ -1,0 +1,13 @@
+{
+  "name": "Vesse Food Tracker",
+  "symbol": "VFT",
+  "decimals": 6,
+  "coin_type": "0x8d0f569b5ed7a4f2532211e51afceee8e4a4c3492acc58bfe998adc6436415a2::vft::VFT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1734858797722.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

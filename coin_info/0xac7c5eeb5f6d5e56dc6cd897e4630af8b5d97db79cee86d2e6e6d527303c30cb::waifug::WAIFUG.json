@@ -1,0 +1,13 @@
+{
+  "name": "Waifu Generator",
+  "symbol": "WAIFUG",
+  "decimals": 6,
+  "coin_type": "0xac7c5eeb5f6d5e56dc6cd897e4630af8b5d97db79cee86d2e6e6d527303c30cb::waifug::WAIFUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736534867381.avif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Claude Opus",
+  "symbol": "OPUS",
+  "decimals": 9,
+  "coin_type": "0x0521b4874129866e6f030265174fd81f27a82ff7d579e7b95c8aacd4be4ffe2f::opus::OPUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmbeQtDEDvdbYYPcmfMzDSoybXVXE4s7tdWuy48LfA1jQP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

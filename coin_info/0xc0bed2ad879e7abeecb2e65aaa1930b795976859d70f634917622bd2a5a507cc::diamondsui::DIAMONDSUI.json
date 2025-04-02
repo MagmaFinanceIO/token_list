@@ -1,0 +1,13 @@
+{
+  "name": "SUIDIAMOND by SuiAI",
+  "symbol": "DIAMONDSUI",
+  "decimals": 6,
+  "coin_type": "0xc0bed2ad879e7abeecb2e65aaa1930b795976859d70f634917622bd2a5a507cc::diamondsui::DIAMONDSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Screenshot_20250112_003936_Telegram_887b9c483c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

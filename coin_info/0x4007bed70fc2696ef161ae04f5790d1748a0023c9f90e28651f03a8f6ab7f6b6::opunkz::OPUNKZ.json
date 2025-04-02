@@ -1,0 +1,13 @@
+{
+  "name": "OTTER PUNKZ",
+  "symbol": "OPUNKZ",
+  "decimals": 6,
+  "coin_type": "0x4007bed70fc2696ef161ae04f5790d1748a0023c9f90e28651f03a8f6ab7f6b6::opunkz::OPUNKZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/token_icon_13668c8ffb.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

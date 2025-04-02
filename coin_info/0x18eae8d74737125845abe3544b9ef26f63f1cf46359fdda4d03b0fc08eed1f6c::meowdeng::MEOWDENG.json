@@ -1,0 +1,13 @@
+{
+  "name": "Meow Deng",
+  "symbol": "MeowDeng",
+  "decimals": 6,
+  "coin_type": "0x18eae8d74737125845abe3544b9ef26f63f1cf46359fdda4d03b0fc08eed1f6c::meowdeng::MEOWDENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/G_Yv_Y1_LMXUA_Ay_Evz_c8de186bf8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

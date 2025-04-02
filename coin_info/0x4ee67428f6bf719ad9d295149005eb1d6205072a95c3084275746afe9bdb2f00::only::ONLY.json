@@ -1,0 +1,13 @@
+{
+  "name": "OneSuiPerPerson",
+  "symbol": "ONLY",
+  "decimals": 9,
+  "coin_type": "0x4ee67428f6bf719ad9d295149005eb1d6205072a95c3084275746afe9bdb2f00::only::ONLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekQB4hmR8tR9EPTk11lg8mG8V7tmAQfK4pw&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Bull",
+  "symbol": "BULL",
+  "decimals": 6,
+  "coin_type": "0x65191c3be3cd00bd055a18682e2e79d244457c7bd269612ccb476c4fccc9106f::bull::BULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_2912_ef4efa4417.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

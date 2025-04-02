@@ -1,0 +1,13 @@
+{
+  "name": "GEN Z",
+  "symbol": "GENZ",
+  "decimals": 9,
+  "coin_type": "0x3fa0ebe62ff38ac2f3b0070e3f4267bf6436ca97a6bcefeb13eb4167e8d2c60a::genz::GENZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5PX34R7hD8zs1fPgNYSosmDkVa2ryRFrXkKGx1C4pump.png?size=xl&key=c93298",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

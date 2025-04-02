@@ -1,0 +1,13 @@
+{
+  "name": "Supump",
+  "symbol": "Supump",
+  "decimals": 9,
+  "coin_type": "0xb16fa31512eef7d756e194c10f34f42d141634583a56229d10f38cf2cbe6e647::supump::SUPUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://tradesanta.com/blog/wp-content/uploads/2022/03/pump-dump-1200x675.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PASOK",
+  "symbol": "PASOK",
+  "decimals": 6,
+  "coin_type": "0xe2be4fe48ec245c3303e7a23b3dfc5852ffeebd03c5237f416e22150ecac3d75::pasok::PASOK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Satoshi_Papandreou_b3a70977ef.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuiPug_buy",
+  "symbol": "SuiPug_buy",
+  "decimals": 9,
+  "coin_type": "0x866c91d4fc354acd1ee66fe07d63c321d3f585e9eede142db43520dcac179ab9::suipug_buy::SUIPUG_BUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e9d7eeb4-5d42-4eaa-ae6a-66e901796ee0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

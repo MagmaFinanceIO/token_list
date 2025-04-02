@@ -1,0 +1,13 @@
+{
+  "name": "Quantum Void Labs",
+  "symbol": "QVL",
+  "decimals": 6,
+  "coin_type": "0x84778bd055a4665e4a94d5d052defb0e7f6b6e4b6ef2e25da979a87cf876e43d::qvl::QVL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/qvl_pfp_6149b42065.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

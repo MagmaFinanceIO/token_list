@@ -1,0 +1,13 @@
+{
+  "name": "HADES AI",
+  "symbol": "HADES",
+  "decimals": 9,
+  "coin_type": "0x25bed629aca4d5285bd126e3ae18cecb965225fe6c2a3e9ac26dccbe53b579dd::hades::HADES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/NBiFWtyKuMmPGuWD9D9LKNV5xqGadhXyT9u4SqjaYnn.png?size=lg&key=b50646",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

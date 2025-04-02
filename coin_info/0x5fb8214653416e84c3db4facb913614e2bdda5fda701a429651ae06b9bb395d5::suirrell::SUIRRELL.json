@@ -1,0 +1,13 @@
+{
+  "name": "Peanut the Suirrell",
+  "symbol": "Suirrell",
+  "decimals": 6,
+  "coin_type": "0x5fb8214653416e84c3db4facb913614e2bdda5fda701a429651ae06b9bb395d5::suirrell::SUIRRELL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qmepmeh8sXCpdwc3aUWLEYtAKf6FvJsFLRkB2YtuV5NcMt",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

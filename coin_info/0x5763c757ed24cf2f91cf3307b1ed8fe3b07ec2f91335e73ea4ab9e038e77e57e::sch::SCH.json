@@ -1,0 +1,13 @@
+{
+  "name": "such",
+  "symbol": "SCH",
+  "decimals": 6,
+  "coin_type": "0x5763c757ed24cf2f91cf3307b1ed8fe3b07ec2f91335e73ea4ab9e038e77e57e::sch::SCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/a406babaf4d4b0b50f7de90449d820a4_e749872f52.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

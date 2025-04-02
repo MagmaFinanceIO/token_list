@@ -1,0 +1,13 @@
+{
+  "name": "KING",
+  "symbol": "KING",
+  "decimals": 5,
+  "coin_type": "0x29de79bdd260064b5d60f4d030dc6bc9c58db66b7d1b549461ed54b85a686420::king::KING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://static.vecteezy.com/system/resources/thumbnails/016/126/416/small_2x/king-crown-esport-logo-design-vector.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

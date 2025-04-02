@@ -1,0 +1,13 @@
+{
+  "name": "DNA PEPE",
+  "symbol": "DNAPEPE",
+  "decimals": 9,
+  "coin_type": "0xd628c4a8d252df30f650fc5f9eee16cde264890b67846fe0ac1bfe5c4ce5cab6::dnapepe::DNAPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/nJAugAiexEcJdfqGqBqWXskhzApRHpEcHLWaBm1BMGq.png?size=lg&key=f9e43b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

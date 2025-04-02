@@ -1,0 +1,13 @@
+{
+  "name": "Chaotic Sonic",
+  "symbol": "Chaotic",
+  "decimals": 6,
+  "coin_type": "0x7a510e33358e90c8e98730bb7eae9ce2b3272b1086aa5e294042eb52da3fa5d5::chaotic::CHAOTIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7463_38b1cf840d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

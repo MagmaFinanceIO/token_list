@@ -1,0 +1,13 @@
+{
+  "name": "Decart ai",
+  "symbol": "DECART",
+  "decimals": 6,
+  "coin_type": "0x638b2320acabb7ef38b672388125bdd5dfac00a590e8b7d441cac130011096d0::decart::DECART",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SADASDAADA_32b67e6592.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "KAPSEL AI",
+  "symbol": "KAPSEL",
+  "decimals": 9,
+  "coin_type": "0x5f5f8382b3fd5dc2d9da8884bb9106d4e4cd4a8819ea8536938ddde1f5d756d2::kapsel::KAPSEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/W-kvRJd2KYNdS_L2?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AITRUMP",
+  "symbol": "AITRUMP",
+  "decimals": 9,
+  "coin_type": "0x503c6ea0551746bcb7010bde7646c055ff9569033287f1dbb23474242879b845::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

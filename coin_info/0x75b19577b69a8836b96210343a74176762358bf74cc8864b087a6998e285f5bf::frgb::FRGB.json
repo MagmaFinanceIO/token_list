@@ -1,0 +1,13 @@
+{
+  "name": "Pepe's Frogbar",
+  "symbol": "FRGB",
+  "decimals": 9,
+  "coin_type": "0x75b19577b69a8836b96210343a74176762358bf74cc8864b087a6998e285f5bf::frgb::FRGB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8fsiouYMJyZTCJygTBG84W1idDMJGGjhvmdK6aV2j3Uy.png?size=lg&key=bb7317",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

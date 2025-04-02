@@ -1,0 +1,13 @@
+{
+  "name": "Wompus The Cackling Goblin",
+  "symbol": "WOMPUS",
+  "decimals": 9,
+  "coin_type": "0xd9aaa7e5120c3d777e961f9cc52bf103337cbe456c8fe2cbf705bc92b06de380::wompusthecacklinggoblin::WOMPUSTHECACKLINGGOBLIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1b2c479c-0572-45d7-9d40-c38317725670.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

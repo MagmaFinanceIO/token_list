@@ -1,0 +1,13 @@
+{
+  "name": "Loom on Sui",
+  "symbol": "LOOM AI",
+  "decimals": 9,
+  "coin_type": "0xa82a7e4e12c5607d79295ff62e101b76a69637d5395fef61e268b03eebe48624::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

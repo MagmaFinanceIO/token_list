@@ -1,0 +1,13 @@
+{
+  "name": "Go Get TikTok",
+  "symbol": "GGTikTok",
+  "decimals": 9,
+  "coin_type": "0xec59370ae6431d5f1af9f6199c2ea9ef5a4d4a5ebac8d9e70f854ead9e8fb25f::ggtiktok::GGTIKTOK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GsapZpBHULgHpacCm7ap5CyDpDbrJ8nX3jGXa1Wh6B6V.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Godzilla",
+  "symbol": "SUIZILLA",
+  "decimals": 6,
+  "coin_type": "0x9877f1f7695c7aa1c5fe3078d60ae85bd2d2588cb872a21e49b58e751affc579::suizilla::SUIZILLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_1080_ad4455dd3f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AiFeg Agent by SuiAI",
+  "symbol": "AIFEG",
+  "decimals": 6,
+  "coin_type": "0x0191aaed9ec58f492479ed80d69c31a74c0762fa4e7d8665f105228d7e73c3a3::aifeg::AIFEG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/image_88_583c8ea3a6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Chicken Katsui",
+  "symbol": "KATSUI",
+  "decimals": 6,
+  "coin_type": "0xfbfa1e6e2fd7e37bec5ab612c25d11e0062b66da0afed3db47523d7257f65912::katsui::KATSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_8981_scaled_9f7c62e338.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

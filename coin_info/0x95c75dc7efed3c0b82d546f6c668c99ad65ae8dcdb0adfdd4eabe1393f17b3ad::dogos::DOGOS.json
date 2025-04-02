@@ -1,0 +1,13 @@
+{
+  "name": "Dogo Satoru",
+  "symbol": "DOGOS",
+  "decimals": 6,
+  "coin_type": "0x95c75dc7efed3c0b82d546f6c668c99ad65ae8dcdb0adfdd4eabe1393f17b3ad::dogos::DOGOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/dogos_1d857bb516.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

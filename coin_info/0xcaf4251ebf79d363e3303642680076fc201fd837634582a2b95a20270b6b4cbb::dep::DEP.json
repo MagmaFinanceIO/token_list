@@ -1,0 +1,13 @@
+{
+  "name": "DEPRESSION",
+  "symbol": "DEP",
+  "decimals": 9,
+  "coin_type": "0xcaf4251ebf79d363e3303642680076fc201fd837634582a2b95a20270b6b4cbb::dep::DEP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/vYKef78kFVenpWGVbjU1Hsc5Ej343xycPNXbR3UTdep.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

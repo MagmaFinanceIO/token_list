@@ -1,0 +1,13 @@
+{
+  "name": "Performance AI",
+  "symbol": "PAI",
+  "decimals": 9,
+  "coin_type": "0x87d1c26b50379762971584ee65657587e6e7174ad5e7dcd25f665321b100a831::pai::PAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4087865a-ec11-4c30-886d-7b753675fd0c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

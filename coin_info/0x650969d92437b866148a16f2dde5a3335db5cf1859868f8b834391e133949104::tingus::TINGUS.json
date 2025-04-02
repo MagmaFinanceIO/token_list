@@ -1,0 +1,13 @@
+{
+  "name": "TINGUS on SUI",
+  "symbol": "TINGUS",
+  "decimals": 9,
+  "coin_type": "0x650969d92437b866148a16f2dde5a3335db5cf1859868f8b834391e133949104::tingus::TINGUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qmf8iHPBry3nEFh4SxMCwmRMAqAeDv4nC11tzLaAsfdhVg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

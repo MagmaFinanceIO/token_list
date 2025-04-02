@@ -1,0 +1,13 @@
+{
+  "name": "DROP NFT",
+  "symbol": "VDROP",
+  "decimals": 6,
+  "coin_type": "0x376c2b87663d27393b5dabdcaf14e642916b97bede593c63028983829b9ed1da::vdrop::VDROP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_03_29_22_15_52_80f3f7905d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

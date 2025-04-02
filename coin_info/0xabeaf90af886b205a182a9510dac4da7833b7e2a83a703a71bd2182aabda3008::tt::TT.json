@@ -1,0 +1,13 @@
+{
+  "name": "Just for test!",
+  "symbol": "TEST",
+  "decimals": 2,
+  "coin_type": "0xabeaf90af886b205a182a9510dac4da7833b7e2a83a703a71bd2182aabda3008::tt::TT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/s21Mp30/2609f4e62abee443b75ecf78061e5ffd.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

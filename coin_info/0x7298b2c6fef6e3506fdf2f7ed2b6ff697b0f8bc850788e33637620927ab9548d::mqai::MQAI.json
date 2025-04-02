@@ -1,0 +1,13 @@
+{
+  "name": "Meta Quest Ai",
+  "symbol": "MQAI",
+  "decimals": 6,
+  "coin_type": "0x7298b2c6fef6e3506fdf2f7ed2b6ff697b0f8bc850788e33637620927ab9548d::mqai::MQAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/73a82a5d-f2ae-4fda-ac66-a22d572006f1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

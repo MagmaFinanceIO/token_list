@@ -1,0 +1,13 @@
+{
+  "name": "nou",
+  "symbol": "nou",
+  "decimals": 9,
+  "coin_type": "0xf9faa2137edf5d0e1e345dd80bbda42b1c7a2a830262d6a5c1ca828d20479a66::nou::NOU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BSZzQNrA5JHyWFt3zYfZra4v8bo9Ycou3q4MQUbkpump.png?size=lg&key=a9bedb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

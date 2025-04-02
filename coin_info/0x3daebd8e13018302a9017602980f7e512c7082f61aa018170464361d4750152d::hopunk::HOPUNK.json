@@ -1,0 +1,13 @@
+{
+  "name": "HoPunk",
+  "symbol": "HoPunk",
+  "decimals": 6,
+  "coin_type": "0x3daebd8e13018302a9017602980f7e512c7082f61aa018170464361d4750152d::hopunk::HOPUNK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmQdEkttLHPfvBx7ptBhRaPKoTzAG1CUxgBqW9e8GZQWWc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AI1000 Token",
+  "symbol": "AI1000",
+  "decimals": 9,
+  "coin_type": "0x251515ad6790bd3d526f07adc9151e6c95d5692137c99ffe1f60f7ea5d2ac6f3::ai1000::AI1000",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bd187529-38b7-44ae-898d-93482749d021.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

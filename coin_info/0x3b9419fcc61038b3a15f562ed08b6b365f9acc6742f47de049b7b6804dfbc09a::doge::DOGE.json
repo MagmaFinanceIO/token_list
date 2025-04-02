@@ -1,0 +1,13 @@
+{
+  "name": "Department of Government Efficiency",
+  "symbol": "DOGE",
+  "decimals": 6,
+  "coin_type": "0x3b9419fcc61038b3a15f562ed08b6b365f9acc6742f47de049b7b6804dfbc09a::doge::DOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/doge_logo_7f07517e51.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

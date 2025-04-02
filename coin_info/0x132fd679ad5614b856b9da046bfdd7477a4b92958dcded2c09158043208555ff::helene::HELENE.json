@@ -1,0 +1,13 @@
+{
+  "name": "HELENE",
+  "symbol": "HELENE",
+  "decimals": 9,
+  "coin_type": "0x132fd679ad5614b856b9da046bfdd7477a4b92958dcded2c09158043208555ff::helene::HELENE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

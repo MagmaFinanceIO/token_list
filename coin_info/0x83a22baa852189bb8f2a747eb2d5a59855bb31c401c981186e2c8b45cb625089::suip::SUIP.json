@@ -1,0 +1,13 @@
+{
+  "name": "SuiPlay",
+  "symbol": "SuiP",
+  "decimals": 6,
+  "coin_type": "0x83a22baa852189bb8f2a747eb2d5a59855bb31c401c981186e2c8b45cb625089::suip::SUIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmdgtwV86kHW9MejWDv8t85hctqjELppqsKzzL6GptFcoh",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

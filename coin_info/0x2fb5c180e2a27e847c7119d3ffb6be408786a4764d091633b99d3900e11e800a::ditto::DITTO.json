@@ -1,0 +1,13 @@
+{
+  "name": "Ditto",
+  "symbol": "Ditto",
+  "decimals": 9,
+  "coin_type": "0x2fb5c180e2a27e847c7119d3ffb6be408786a4764d091633b99d3900e11e800a::ditto::DITTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

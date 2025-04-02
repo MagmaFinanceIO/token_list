@@ -1,0 +1,13 @@
+{
+  "name": "felis manul pallas",
+  "symbol": "MANUL",
+  "decimals": 6,
+  "coin_type": "0xead5dcc8cac8a5b2e2a2187fc5916531971266908accb426fbab0242c2ce285e::manul::MANUL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/manul1_f0410474e7.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

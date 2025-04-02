@@ -1,0 +1,13 @@
+{
+  "name": "DIDDY",
+  "symbol": "DIDDY",
+  "decimals": 9,
+  "coin_type": "0x0ce61f6f8b92b584c5f6066f1eeaf80c05d45e1fd6a2398786fdbcf73bad363c::diddy::DIDDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://imagez.tmz.com/image/13/4by3/2024/09/25/13d90bba24a0477a9ebd5db3c784c013_md.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

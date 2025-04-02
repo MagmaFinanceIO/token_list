@@ -1,0 +1,13 @@
+{
+  "name": "PEOPLE AI by SuiAI",
+  "symbol": "PEOPLE",
+  "decimals": 6,
+  "coin_type": "0x228177e9bddbf97ff750a303de3be7aa20cd212c1dfb67413f44b3afe28a474a::people::PEOPLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1001182610_22144c94bb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

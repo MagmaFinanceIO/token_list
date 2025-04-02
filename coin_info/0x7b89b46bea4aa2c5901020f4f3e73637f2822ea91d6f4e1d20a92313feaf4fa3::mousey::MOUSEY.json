@@ -1,0 +1,13 @@
+{
+  "name": "MOUSEY",
+  "symbol": "MOUSEY",
+  "decimals": 9,
+  "coin_type": "0x7b89b46bea4aa2c5901020f4f3e73637f2822ea91d6f4e1d20a92313feaf4fa3::mousey::MOUSEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AdsrKt5rH6H8cUZtSZEsBjmmGTHJaGrUe92Lj4PaJvna.png?size=lg&key=b00f20",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

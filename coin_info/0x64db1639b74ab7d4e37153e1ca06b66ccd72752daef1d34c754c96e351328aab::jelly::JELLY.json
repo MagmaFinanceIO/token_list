@@ -1,0 +1,13 @@
+{
+  "name": "JellyJelly",
+  "symbol": "JELLY",
+  "decimals": 9,
+  "coin_type": "0x64db1639b74ab7d4e37153e1ca06b66ccd72752daef1d34c754c96e351328aab::jelly::JELLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/zxEBUHiETeb1Grq2B6hHFLzymRXqEdDPmpu5Qdzpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

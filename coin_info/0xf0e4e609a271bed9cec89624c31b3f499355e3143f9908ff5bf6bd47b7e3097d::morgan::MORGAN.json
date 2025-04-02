@@ -1,0 +1,13 @@
+{
+  "name": "Morgan",
+  "symbol": "MORGAN",
+  "decimals": 9,
+  "coin_type": "0xf0e4e609a271bed9cec89624c31b3f499355e3143f9908ff5bf6bd47b7e3097d::morgan::MORGAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/98ac3cb0-3f40-4382-b755-779e1e113062.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

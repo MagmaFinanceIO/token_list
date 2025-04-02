@@ -1,0 +1,13 @@
+{
+  "name": "gif cat",
+  "symbol": "GIFCAT",
+  "decimals": 6,
+  "coin_type": "0x9d8c2e2130fc0fdf3bd36257b4b16108729939d845cf9cebb190990e39aece20::gifcat::GIFCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000122379_a277d89c3a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

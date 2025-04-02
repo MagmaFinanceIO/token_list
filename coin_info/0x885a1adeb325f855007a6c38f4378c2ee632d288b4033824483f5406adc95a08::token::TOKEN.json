@@ -1,0 +1,13 @@
+{
+  "name": "BITCOIN",
+  "symbol": "BTC",
+  "decimals": 9,
+  "coin_type": "0x885a1adeb325f855007a6c38f4378c2ee632d288b4033824483f5406adc95a08::token::TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/2048px-Bitcoin.svg.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

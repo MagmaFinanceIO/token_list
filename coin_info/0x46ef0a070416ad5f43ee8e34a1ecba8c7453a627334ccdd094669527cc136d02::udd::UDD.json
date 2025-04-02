@@ -1,0 +1,13 @@
+{
+  "name": "Udd of Sui",
+  "symbol": "UDD",
+  "decimals": 6,
+  "coin_type": "0x46ef0a070416ad5f43ee8e34a1ecba8c7453a627334ccdd094669527cc136d02::udd::UDD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/UDD_1_2_82c850fc53.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

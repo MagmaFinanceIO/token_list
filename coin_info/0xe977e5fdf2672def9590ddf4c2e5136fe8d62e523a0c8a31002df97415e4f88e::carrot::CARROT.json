@@ -1,0 +1,13 @@
+{
+  "name": "first vegetable to 100m",
+  "symbol": "Carrot",
+  "decimals": 9,
+  "coin_type": "0xe977e5fdf2672def9590ddf4c2e5136fe8d62e523a0c8a31002df97415e4f88e::carrot::CARROT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GmgNTs2oRaDLTLTgApYvxZuAcziffFWPWB6fjJ1JBprz.png?size=lg&key=f7c03a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TRUMPS",
+  "symbol": "TRUMPS",
+  "decimals": 9,
+  "coin_type": "0x87e0db2a8b577655f12d8159b236319c7a97e45093472facc718192965c5216d::TRUMPS::TRUMPS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

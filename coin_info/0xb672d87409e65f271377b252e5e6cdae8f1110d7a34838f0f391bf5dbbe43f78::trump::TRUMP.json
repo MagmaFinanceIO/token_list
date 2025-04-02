@@ -1,0 +1,13 @@
+{
+  "name": "Trump",
+  "symbol": "Trump",
+  "decimals": 9,
+  "coin_type": "0xb672d87409e65f271377b252e5e6cdae8f1110d7a34838f0f391bf5dbbe43f78::trump::TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://gateway.irys.xyz/2EP91wCilQmQqVCCpO1ugCa6RMb-d7Kv8QALV6sKo2A",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

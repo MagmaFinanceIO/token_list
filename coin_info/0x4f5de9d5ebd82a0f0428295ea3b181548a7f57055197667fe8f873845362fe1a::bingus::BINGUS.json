@@ -1,0 +1,13 @@
+{
+  "name": "Bingus The Cat",
+  "symbol": "BINGUS",
+  "decimals": 9,
+  "coin_type": "0x4f5de9d5ebd82a0f0428295ea3b181548a7f57055197667fe8f873845362fe1a::bingus::BINGUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dexscreener.com/solana/9vtm5vgqhnauuqaejwxmtjgv2q4afomhlwhstvj9d6ez",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

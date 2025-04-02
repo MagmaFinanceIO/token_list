@@ -1,0 +1,13 @@
+{
+  "name": "Suki Cat",
+  "symbol": "SUKI",
+  "decimals": 6,
+  "coin_type": "0x7534861bb378ad215707eec83b0598c225df4cea0dd30ee01fdd8b011255126a::suki::SUKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suki_use_1_22406b3190.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

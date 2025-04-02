@@ -1,0 +1,13 @@
+{
+  "name": "MOVEPUMP",
+  "symbol": "MOVEPUMP",
+  "decimals": 2,
+  "coin_type": "0x35129828e5ee47392564bd0a6792c1bf00370683b3ee41be77a8df78bf3aedb9::movepump::MOVEPUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ac207402-da77-4d1a-a389-3ee6e263fc34.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

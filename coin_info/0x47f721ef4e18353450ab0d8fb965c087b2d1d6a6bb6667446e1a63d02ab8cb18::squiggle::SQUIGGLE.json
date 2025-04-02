@@ -1,0 +1,13 @@
+{
+  "name": "SquiggleSui",
+  "symbol": "Squiggle",
+  "decimals": 6,
+  "coin_type": "0x47f721ef4e18353450ab0d8fb965c087b2d1d6a6bb6667446e1a63d02ab8cb18::squiggle::SQUIGGLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_16_080028876_c827a83554.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

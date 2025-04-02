@@ -1,0 +1,13 @@
+{
+  "name": "Retardio Kamala",
+  "symbol": "rKamala",
+  "decimals": 6,
+  "coin_type": "0x9cd1754646c095963087261ed9a27b04292426f7f98a3e4923d5a1bfe29874f8::rkamala::RKAMALA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmPefXawJjkrfWEk2Pt8hQUHFmCEZCbCBYbaf3p7naQnea",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

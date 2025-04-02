@@ -1,0 +1,13 @@
+{
+  "name": "Suiro",
+  "symbol": "SYRO",
+  "decimals": 9,
+  "coin_type": "0x77d81b9b551ea2b9a54bb31d4a14d99a13686c9b236fb0326dc88ff6b2cf393e::syro::SYRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/501b0812-697b-45f8-8111-da9076c9fb79.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

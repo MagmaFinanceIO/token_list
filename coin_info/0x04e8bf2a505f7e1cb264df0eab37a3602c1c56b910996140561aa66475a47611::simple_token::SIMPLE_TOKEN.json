@@ -1,0 +1,13 @@
+{
+  "name": "KEKIUSS",
+  "symbol": "KEKIUSS",
+  "decimals": 9,
+  "coin_type": "0x04e8bf2a505f7e1cb264df0eab37a3602c1c56b910996140561aa66475a47611::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

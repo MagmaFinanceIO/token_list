@@ -1,0 +1,13 @@
+{
+  "name": "Night Panther",
+  "symbol": "PANTHER",
+  "decimals": 9,
+  "coin_type": "0xc84df23285c72c1209f381dbaddb3f7c63177c9c06ab56b8ff1a78dc84ffe15b::panther::PANTHER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e9755174-d704-46e4-8ff7-bf4f76645080.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

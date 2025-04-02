@@ -1,0 +1,13 @@
+{
+  "name": "The Dep Of Government Efficiency",
+  "symbol": "DOGE",
+  "decimals": 9,
+  "coin_type": "0x7ce27012cce030e7dc78f405822df78af8ae961b2ae5d5becea1878576220e77::doge::DOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreiamvhuvvx3rffzni5h6ehcn7t6x6u5r5oymwhnloopqovkm2bchpa.ipfs.w3s.link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Angels",
+  "symbol": "ANGELSUI",
+  "decimals": 9,
+  "coin_type": "0x215603221ed78681c3fa16acd61a262e0d40e34c319b3ea33f7807dd08b67042::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HRdyCK3HQNWca8XY5Y4pGtfpH1Xgn9pW2RAaBbBApump.png?size=xl&key=99eddf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

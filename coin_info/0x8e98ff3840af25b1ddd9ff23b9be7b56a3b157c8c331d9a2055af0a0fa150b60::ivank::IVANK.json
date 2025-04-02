@@ -1,0 +1,13 @@
+{
+  "name": "Ivanka Trump",
+  "symbol": "Ivank",
+  "decimals": 9,
+  "coin_type": "0x8e98ff3840af25b1ddd9ff23b9be7b56a3b157c8c331d9a2055af0a0fa150b60::ivank::IVANK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmRcFvnexRt6gDDJQt66DodLkKNNJw6UvBeuAZ2efGKcf8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

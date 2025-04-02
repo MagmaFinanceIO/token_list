@@ -1,0 +1,13 @@
+{
+  "name": "GLORIA",
+  "symbol": "GLORY",
+  "decimals": 9,
+  "coin_type": "0x25ca09087764845e0262ad30afbbfc645c0b44a6b1075251afdaa0bec7d7d9d7::glory::GLORY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/036770fe-7eed-427d-8c88-9301b9814652.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

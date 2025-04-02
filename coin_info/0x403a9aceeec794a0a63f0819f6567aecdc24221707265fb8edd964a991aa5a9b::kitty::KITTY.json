@@ -1,0 +1,13 @@
+{
+  "name": "Kitty On Sui",
+  "symbol": "KITTY",
+  "decimals": 6,
+  "coin_type": "0x403a9aceeec794a0a63f0819f6567aecdc24221707265fb8edd964a991aa5a9b::kitty::KITTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/aaa_cfb2770b55.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

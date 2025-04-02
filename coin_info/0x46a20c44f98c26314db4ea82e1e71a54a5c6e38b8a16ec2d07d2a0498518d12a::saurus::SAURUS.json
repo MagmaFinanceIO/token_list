@@ -1,0 +1,13 @@
+{
+  "name": "SUISAURUS",
+  "symbol": "SAURUS",
+  "decimals": 6,
+  "coin_type": "0x46a20c44f98c26314db4ea82e1e71a54a5c6e38b8a16ec2d07d2a0498518d12a::saurus::SAURUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000006475_11f107b2e3.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

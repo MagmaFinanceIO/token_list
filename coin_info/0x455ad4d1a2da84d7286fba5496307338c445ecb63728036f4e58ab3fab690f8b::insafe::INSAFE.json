@@ -1,0 +1,13 @@
+{
+  "name": "INSAFE LTD.",
+  "symbol": "INSAFE",
+  "decimals": 9,
+  "coin_type": "0x455ad4d1a2da84d7286fba5496307338c445ecb63728036f4e58ab3fab690f8b::insafe::INSAFE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6c9250a9-efff-44a8-b3ca-bd77db69e920.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

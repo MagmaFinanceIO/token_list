@@ -1,0 +1,13 @@
+{
+  "name": "Orca",
+  "symbol": "ORCA",
+  "decimals": 6,
+  "coin_type": "0xa4f50acd64598080e3e37f505612cb2f8ac06812fbd7ba42d852c0de9afac41e::orca::ORCA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1204_b4cfa1d9c1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

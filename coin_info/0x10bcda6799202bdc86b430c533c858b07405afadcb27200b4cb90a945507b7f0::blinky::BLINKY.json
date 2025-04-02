@@ -1,0 +1,13 @@
+{
+  "name": "blinky",
+  "symbol": "Blinky",
+  "decimals": 6,
+  "coin_type": "0x10bcda6799202bdc86b430c533c858b07405afadcb27200b4cb90a945507b7f0::blinky::BLINKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1135_ff89a76553.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

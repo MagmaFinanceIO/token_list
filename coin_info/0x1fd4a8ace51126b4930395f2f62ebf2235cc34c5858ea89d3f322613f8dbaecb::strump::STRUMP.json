@@ -1,0 +1,13 @@
+{
+  "name": "Super President Trump",
+  "symbol": "STRUMP",
+  "decimals": 6,
+  "coin_type": "0x1fd4a8ace51126b4930395f2f62ebf2235cc34c5858ea89d3f322613f8dbaecb::strump::STRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Zo_Axz_N_Hw1q_Y5_X4a_Znj_Nqk5_ZVKVZ_2_A8zu_N2gv_Rx_GA_1_E_Ec_a0931be6e7.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

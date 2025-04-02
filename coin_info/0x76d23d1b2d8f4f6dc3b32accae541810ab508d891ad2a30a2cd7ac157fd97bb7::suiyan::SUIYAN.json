@@ -1,0 +1,13 @@
+{
+  "name": "SUPER SUIYAN",
+  "symbol": "SUIYAN",
+  "decimals": 6,
+  "coin_type": "0x76d23d1b2d8f4f6dc3b32accae541810ab508d891ad2a30a2cd7ac157fd97bb7::suiyan::SUIYAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmbnM9L7FdGNLYgNpA6kmJw3sSf4QFRm36QEaqwmzk5Zn8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Test13",
+  "symbol": "TEstthirteeen",
+  "decimals": 9,
+  "coin_type": "0x9282da49f2f1348f55eb6714b75d7e475687d159fc789fcb37d5fd49d8c950d5::testthirteeen::TESTTHIRTEEEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/86ecb037-f681-49f5-960d-32010b5d0544.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

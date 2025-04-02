@@ -1,0 +1,13 @@
+{
+  "name": "ROCKY SUI",
+  "symbol": "ROCKY",
+  "decimals": 6,
+  "coin_type": "0x8d0eb5bb054ac2af1261c322f0098b28d040812d16f86f14340a2ddb7e6299d2::rocky::ROCKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_R6n_K9q_Ncj4z_VJ_Ay_Na_F_Zs98_EMSXJ_Pe_S7_Bcbj_Qxwxi_Gb_ZA_84d6e1beab_0c43da8350.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

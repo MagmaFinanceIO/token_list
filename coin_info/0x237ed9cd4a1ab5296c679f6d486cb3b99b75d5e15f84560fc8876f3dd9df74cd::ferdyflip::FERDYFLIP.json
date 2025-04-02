@@ -1,0 +1,13 @@
+{
+  "name": "FERDY",
+  "symbol": "FerdyFlip",
+  "decimals": 6,
+  "coin_type": "0x237ed9cd4a1ab5296c679f6d486cb3b99b75d5e15f84560fc8876f3dd9df74cd::ferdyflip::FERDYFLIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dashboard-assets.dappradar.com/document/47500/ferdyflip-project-gambling-47500-logo-166x166_fc99a239d323fdbf59b6fa9842913d1f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

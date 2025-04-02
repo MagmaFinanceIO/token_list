@@ -1,0 +1,13 @@
+{
+  "name": "SEQUOAI",
+  "symbol": "SEQUOAI",
+  "decimals": 9,
+  "coin_type": "0xba52a3ea06ab62c91fc34f5781fa845083bac5c057e42a4b95092a65ea5e98d6::sequoai::SEQUOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7F1u9MsGCsDnE1x8ES8w7nL6cvZoQCipeH67cDZYpump.png?claimId=tm96579NKUWfmWnZ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

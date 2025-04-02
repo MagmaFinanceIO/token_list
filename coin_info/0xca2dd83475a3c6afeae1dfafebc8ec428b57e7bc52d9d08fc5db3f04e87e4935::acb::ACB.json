@@ -1,0 +1,13 @@
+{
+  "name": "ABC",
+  "symbol": "ACB",
+  "decimals": 6,
+  "coin_type": "0xca2dd83475a3c6afeae1dfafebc8ec428b57e7bc52d9d08fc5db3f04e87e4935::acb::ACB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_0TBFFDGMKvmE0JZ6g2NId14i55VhLAfIew&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

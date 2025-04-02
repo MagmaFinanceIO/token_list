@@ -1,0 +1,13 @@
+{
+  "name": "Yusuf Dikec",
+  "symbol": "YSDK",
+  "decimals": 6,
+  "coin_type": "0x6a6890c34b1e9bda1d5d36ac47a6df871edeef05c45d25ce7dc7bdedae9f1aef::ysdk::YSDK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000010039_e59740c663.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

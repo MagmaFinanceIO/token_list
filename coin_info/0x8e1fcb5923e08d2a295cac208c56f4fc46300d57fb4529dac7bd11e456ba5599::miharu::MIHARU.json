@@ -1,0 +1,13 @@
+{
+  "name": "MIHARU SUILING DOLPHIN",
+  "symbol": "MIHARU",
+  "decimals": 9,
+  "coin_type": "0x8e1fcb5923e08d2a295cac208c56f4fc46300d57fb4529dac7bd11e456ba5599::miharu::MIHARU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/594541da-886d-4987-8b1e-07713f56b395.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

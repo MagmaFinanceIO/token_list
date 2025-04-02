@@ -1,0 +1,13 @@
+{
+  "name": "SOL_Mascot",
+  "symbol": "Smascot",
+  "decimals": 9,
+  "coin_type": "0x464d484520f459cf037e55ed0a067559f570a108cfddc1d9802c394f93246dad::smascot::SMASCOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmQcBkUVHVv2FTpTcF9ZvoiT3gBGzQsAnWy534KhPXxqYG?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

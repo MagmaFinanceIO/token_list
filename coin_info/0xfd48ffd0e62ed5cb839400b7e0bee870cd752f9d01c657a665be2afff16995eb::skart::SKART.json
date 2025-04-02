@@ -1,0 +1,15 @@
+{
+  "name": "sKART",
+  "symbol": "sKARTCOIN",
+  "decimals": 9,
+  "coin_type": "0xfd48ffd0e62ed5cb839400b7e0bee870cd752f9d01c657a665be2afff16995eb::skart::SKART",
+  "pyth_id": "",
+  "birdeyeid": "0xfd48ffd0e62ed5cb839400b7e0bee870cd752f9d01c657a665be2afff16995eb::skart::SKART",
+  "coin_priority": [
+    "770"
+  ],
+  "logo_url": "https://osp3bhhpqkgtrtuww3cn6cqpcy36lxhu2j4djhbr5fu4fzusrt2a.arweave.net/dJ-wnO-CjTjOlrbE3woPFjfl3PTSeDScMelpwuaSjPQ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

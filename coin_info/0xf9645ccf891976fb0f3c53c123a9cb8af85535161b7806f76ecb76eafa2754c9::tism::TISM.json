@@ -1,0 +1,13 @@
+{
+  "name": "Degentism",
+  "symbol": "TISM",
+  "decimals": 9,
+  "coin_type": "0xf9645ccf891976fb0f3c53c123a9cb8af85535161b7806f76ecb76eafa2754c9::tism::TISM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7QogCRyB1hJJiYCTkxkvFHPKHfmw8VMoCrNL3Cg6pump.png?size=lg&key=9acfbc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

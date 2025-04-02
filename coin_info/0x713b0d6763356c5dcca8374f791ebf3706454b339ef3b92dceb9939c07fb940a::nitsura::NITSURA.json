@@ -1,0 +1,13 @@
+{
+  "name": "NITSURA",
+  "symbol": "NITSURA",
+  "decimals": 9,
+  "coin_type": "0x713b0d6763356c5dcca8374f791ebf3706454b339ef3b92dceb9939c07fb940a::nitsura::NITSURA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmV54AJibaxYjhouRPnhW58kPdxNpfULz55SVcUJf1R4vP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dog in the swimming pool",
+  "symbol": "SWIM",
+  "decimals": 6,
+  "coin_type": "0x08c2cb98ad32760270040aa12ec1f5c34bea0ab94131c0fa9c71660017f3e37f::swim::SWIM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/P_Kp_Eb_J_dfb3fa3480.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

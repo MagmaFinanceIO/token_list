@@ -1,0 +1,13 @@
+{
+  "name": "TokenName2",
+  "symbol": "TokenSymbol2",
+  "decimals": 9,
+  "coin_type": "0x75a2477bc68c91328c0568f5d09e94fbd586848d3d23ecba9873538fe8ceb250::Token::TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hdqwalls.com/wallpapers/clouds-summer-weather-5k-1b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

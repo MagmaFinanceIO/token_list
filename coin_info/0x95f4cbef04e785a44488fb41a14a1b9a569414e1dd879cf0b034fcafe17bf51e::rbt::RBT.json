@@ -1,0 +1,13 @@
+{
+  "name": "RBT",
+  "symbol": "RBT",
+  "decimals": 9,
+  "coin_type": "0x95f4cbef04e785a44488fb41a14a1b9a569414e1dd879cf0b034fcafe17bf51e::rbt::RBT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

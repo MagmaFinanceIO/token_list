@@ -1,0 +1,13 @@
+{
+  "name": "BULL DOG",
+  "symbol": "BULLDOG",
+  "decimals": 9,
+  "coin_type": "0xb8102a464e69f805befffdebdbd943f7881ebd066f847514962cff566cbc1d61::bulldog::BULLDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b2bc3962-172a-4c9b-bb4a-79ce3f4bab5a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

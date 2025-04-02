@@ -1,0 +1,13 @@
+{
+  "name": "Bruce Lee",
+  "symbol": "BEWATER",
+  "decimals": 6,
+  "coin_type": "0xeb60b8eb961569718b7143fb172c17f36a706b581c2a7cf34a5bb2d291972369::bewater::BEWATER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Vjbhrxhv_Q0_K_Yml_Hrv_Ae58_Q11_1_bedf8bbb2b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

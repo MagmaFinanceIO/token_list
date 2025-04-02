@@ -1,0 +1,13 @@
+{
+  "name": "NESSIE on SUI",
+  "symbol": "NESSIE",
+  "decimals": 6,
+  "coin_type": "0x43181d93f261df5962f9de0e7c28def5ed8537be163155ce0c13e8b1d32ceb1c::nessie::NESSIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_10_00_17_36_3af8a99e6d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

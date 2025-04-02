@@ -1,0 +1,13 @@
+{
+  "name": "SUI New Year",
+  "symbol": "SUISUI",
+  "decimals": 9,
+  "coin_type": "0x610c8f0594950fe3a3592aaa010b69d8454f3b7edf151d5aeae9de8d6ea74ed4::suisui::SUISUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A2PHmXjS2R1s1yz2v2mqE5jrhQ7roffUqqzUhMDmhsEv.png?size=lg&key=e20e3e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

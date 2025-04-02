@@ -1,0 +1,13 @@
+{
+  "name": "Need for Speed ",
+  "symbol": "NFS",
+  "decimals": 6,
+  "coin_type": "0x1ef625ab5c3751b0a73de35c303a52dd9a8a82549074b2ca3997f8e244c964ed::nfs::NFS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730959874233.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

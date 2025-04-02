@@ -1,0 +1,13 @@
+{
+  "name": "PIGU",
+  "symbol": "PIGU",
+  "decimals": 9,
+  "coin_type": "0x48cfa16dcef0b1d5d4871a8f4ad6533c222b942a14a633476b0e2470cb989e0f::pigu::PIGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://t3.ftcdn.net/jpg/00/71/83/90/360_F_71839037_VgXffl3DgbC0g3EOuC4yYiLCwtr5HV1d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

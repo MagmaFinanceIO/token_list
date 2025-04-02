@@ -1,0 +1,13 @@
+{
+  "name": "DE BLOBS",
+  "symbol": "BLOBS",
+  "decimals": 6,
+  "coin_type": "0x9bf234e7d1b781dee0a591e99517986c3be6cd2e7999182f9beedbe65249c05c::blobs::BLOBS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/BLOOOBS_80aa2396dc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

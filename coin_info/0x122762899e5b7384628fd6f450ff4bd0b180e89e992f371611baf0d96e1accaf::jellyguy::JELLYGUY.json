@@ -1,0 +1,13 @@
+{
+  "name": "Just a Jelly guy",
+  "symbol": "JELLYGUY",
+  "decimals": 9,
+  "coin_type": "0x122762899e5b7384628fd6f450ff4bd0b180e89e992f371611baf0d96e1accaf::jellyguy::JELLYGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/y1yubYn9uuMoahvcwm55Jofhii7Dj6PFMfT9vYQpump.png?size=lg&key=18bcae",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

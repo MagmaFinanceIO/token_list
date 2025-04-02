@@ -1,0 +1,13 @@
+{
+  "name": "focai.fun",
+  "symbol": "Focai",
+  "decimals": 9,
+  "coin_type": "0xb9757c314fcd9ab92138eab0515668c964408f6af1a5d1a82a25d15487ffaca7::focai::FOCAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmWRS5h5smVBZto3ouQXB88Rw3BWQckpcUCA7stQ3VEvqW",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL BEAST SUI",
+  "symbol": "BEASTS",
+  "decimals": 9,
+  "coin_type": "0xb647919d78c1135ff6157407b14ba0d84440cf1d6b3b53a7a8226d34c97c91b1::beasts::BEASTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/85CrqJ53uL1URs8J8J1wtNDQudKTsZ4Hv2D3nUaKpump.png?size=lg&key=68307b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

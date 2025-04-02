@@ -1,0 +1,13 @@
+{
+  "name": "Nami",
+  "symbol": "Nami",
+  "decimals": 9,
+  "coin_type": "0xc9122d97a1ecaaf45cc55e040502d300c1cc4713e9b893fc9a88a3077f7f535a::nami::NAMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FKRM7gPZBxqbZXwq2kYVYWpqxGUgELXTdL4ReeTGpump.png?size=lg&key=95a9da",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

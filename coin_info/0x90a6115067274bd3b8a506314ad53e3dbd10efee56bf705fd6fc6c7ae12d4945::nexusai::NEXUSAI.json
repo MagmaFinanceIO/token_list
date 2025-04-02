@@ -1,0 +1,13 @@
+{
+  "name": "NEXUSAI",
+  "symbol": "NEXUSAI",
+  "decimals": 9,
+  "coin_type": "0x90a6115067274bd3b8a506314ad53e3dbd10efee56bf705fd6fc6c7ae12d4945::nexusai::NEXUSAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://x.com/NexusAIx/status/1869490354514547144/photo/1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

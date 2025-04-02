@@ -1,0 +1,13 @@
+{
+  "name": "Ghost WIF HAT",
+  "symbol": "GHWIF",
+  "decimals": 9,
+  "coin_type": "0x6e237cb465d23ff57036ccc7a63e0ca4893a711a00dcc4fe71b3ae8f03a55811::ghwif::GHWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/33fe1567-974e-499f-bc52-3e0326900a09.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

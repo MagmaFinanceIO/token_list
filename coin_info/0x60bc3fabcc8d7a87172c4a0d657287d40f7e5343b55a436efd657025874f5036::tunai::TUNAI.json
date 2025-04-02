@@ -1,0 +1,13 @@
+{
+  "name": "TUNE AI",
+  "symbol": "TUNAI",
+  "decimals": 9,
+  "coin_type": "0x60bc3fabcc8d7a87172c4a0d657287d40f7e5343b55a436efd657025874f5036::tunai::TUNAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CQeKWhB16A3XWjU5Koq6wjebr8M8Lz7Hxr2zUNmLpump.png?size=lg&key=700649",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

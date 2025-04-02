@@ -1,0 +1,13 @@
+{
+  "name": "USAID",
+  "symbol": "USAID",
+  "decimals": 9,
+  "coin_type": "0xb334fe781831c8373777eb86392ea82d52dabdabeb0776f6daeb13ff7dbec9d4::usaid::USAID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6P8ixuqGZpfyHAxyxbU4a31vsMiFiCQjBzVV58gPpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

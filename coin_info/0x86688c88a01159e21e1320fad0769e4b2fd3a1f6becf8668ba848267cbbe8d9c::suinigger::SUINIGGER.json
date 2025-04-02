@@ -1,0 +1,13 @@
+{
+  "name": "SUINIGGER",
+  "symbol": "SUINIGGER",
+  "decimals": 9,
+  "coin_type": "0x86688c88a01159e21e1320fad0769e4b2fd3a1f6becf8668ba848267cbbe8d9c::suinigger::SUINIGGER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5ea68b56-427b-48e7-a0c0-44ce0537bca9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

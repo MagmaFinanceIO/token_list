@@ -1,0 +1,13 @@
+{
+  "name": "Saad Boi",
+  "symbol": "SAAD",
+  "decimals": 9,
+  "coin_type": "0xb96ace34ebaa01ec5ef1dda3400c514d8fc248ebdff7c8c13dfd764595ef93cd::saad::SAAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BC2CWeUZZvZKniqn4MedxFh12jNjSMLke2Hp2puTXutE.png?size=lg&key=499bf2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

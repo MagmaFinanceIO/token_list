@@ -1,0 +1,13 @@
+{
+  "name": "Cyber Pirates X",
+  "symbol": "CPX",
+  "decimals": 6,
+  "coin_type": "0x79fed0f2f5a84ceb39cb65d64a84505cf549736b53c63ce998c4a0af71f7117d::cpx::CPX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/8dae8255_f638_4c57_b3df_c34cde1a1e90_4aba5cf5c4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

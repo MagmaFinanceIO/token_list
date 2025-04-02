@@ -1,0 +1,13 @@
+{
+  "name": "Super",
+  "symbol": "super",
+  "decimals": 9,
+  "coin_type": "0x7c65341e52fca5e6dcba188c5d658eabb5162d7f9c7bb3d17bcb963ffdffbd3a::super::SUPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

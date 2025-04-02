@@ -1,0 +1,13 @@
+{
+  "name": "The Most Famous Penguin",
+  "symbol": "NILSOLAV",
+  "decimals": 9,
+  "coin_type": "0xc015c95fc432f3bb9f1fe8a64d1450300400c0483bc74f5dfb1381b36147fe44::nilsolav::NILSOLAV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Tb58eZvL91MJrFtv7t9musFWBVMGdfS72wETUic4v6s.png?size=lg&key=e3b78f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

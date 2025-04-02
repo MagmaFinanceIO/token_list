@@ -1,0 +1,13 @@
+{
+  "name": "Peanut AI",
+  "symbol": "PEAI",
+  "decimals": 9,
+  "coin_type": "0xccdcb5dfad7ff71ff2977af3f39c125d893c6b26a8af0dcf4f4c1b3d349fc7b7::peai::PEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6eff6049-c53c-4b71-9c36-58880bda8096.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

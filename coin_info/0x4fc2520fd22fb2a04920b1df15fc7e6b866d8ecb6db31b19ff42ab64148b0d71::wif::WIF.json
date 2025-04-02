@@ -1,0 +1,13 @@
+{
+  "name": "wif",
+  "symbol": "WIF",
+  "decimals": 6,
+  "coin_type": "0x4fc2520fd22fb2a04920b1df15fc7e6b866d8ecb6db31b19ff42ab64148b0d71::wif::WIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000383_70b5cae3b8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

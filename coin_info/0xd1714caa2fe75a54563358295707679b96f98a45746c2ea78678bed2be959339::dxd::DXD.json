@@ -1,0 +1,13 @@
+{
+  "name": "DXD Labs",
+  "symbol": "DXD",
+  "decimals": 9,
+  "coin_type": "0xd1714caa2fe75a54563358295707679b96f98a45746c2ea78678bed2be959339::dxd::DXD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

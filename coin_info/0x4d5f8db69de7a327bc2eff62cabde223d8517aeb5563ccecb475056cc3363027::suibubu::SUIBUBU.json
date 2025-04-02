@@ -1,0 +1,13 @@
+{
+  "name": "SUIBUBU",
+  "symbol": "SUIBUBU",
+  "decimals": 9,
+  "coin_type": "0x4d5f8db69de7a327bc2eff62cabde223d8517aeb5563ccecb475056cc3363027::suibubu::SUIBUBU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0d3d2d05-dc1a-4a72-9c0a-7d2e3338a3f1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

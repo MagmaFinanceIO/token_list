@@ -1,0 +1,13 @@
+{
+  "name": "the real beta",
+  "symbol": "McLovin",
+  "decimals": 9,
+  "coin_type": "0x8037a45948c7ad4248d12f0e1dc7dfef71057e3f50dcf1988578d42c65116188::mclovin::MCLOVIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8g4rQVxvvQuTqWj62xK7jHL1Qq9Wnogv7Xtbodabpump.png?size=lg&key=cc656c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

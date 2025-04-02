@@ -1,0 +1,13 @@
+{
+  "name": "XRANILECCARS",
+  "symbol": "XRL",
+  "decimals": 9,
+  "coin_type": "0x0ebba7db29caa336653800cbf964e13ad4fe4213776583a8b95e1a035480ede7::xranileccars::XRANILECCARS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

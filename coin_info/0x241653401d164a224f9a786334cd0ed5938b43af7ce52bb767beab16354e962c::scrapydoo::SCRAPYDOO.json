@@ -1,0 +1,13 @@
+{
+  "name": "ScrapyDoo",
+  "symbol": "ScrapyDoo",
+  "decimals": 9,
+  "coin_type": "0x241653401d164a224f9a786334cd0ed5938b43af7ce52bb767beab16354e962c::scrapydoo::SCRAPYDOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bf4379c9-7d0f-45b3-8e20-3a1de9c7092a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

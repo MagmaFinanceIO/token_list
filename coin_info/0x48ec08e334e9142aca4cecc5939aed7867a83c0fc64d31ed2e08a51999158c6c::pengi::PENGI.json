@@ -1,0 +1,13 @@
+{
+  "name": "PENG AI",
+  "symbol": "PENGI",
+  "decimals": 9,
+  "coin_type": "0x48ec08e334e9142aca4cecc5939aed7867a83c0fc64d31ed2e08a51999158c6c::pengi::PENGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BtTwK9BuTjCGBC5X4ejj4GA1Qgp3o3ZKAMNcE71vpump.png?size=lg&key=c868c7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

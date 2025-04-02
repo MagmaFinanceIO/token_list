@@ -1,0 +1,13 @@
+{
+  "name": "SWEE_CAP_U USDT Coin",
+  "symbol": "SWEE_CAP_U",
+  "decimals": 6,
+  "coin_type": "0x58db341b880ab7865860dbb4f27d929580c9ef164c88463decba4bc1014d5c23::swee_cap_u::SWEE_CAP_U",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pntvpw2m7uxvx7j4roojxy3sb2lrc57jqzwo66kafwdjaj5v3oea.arweave.net/e2dX20z9L1v9PIucm-NyDpcRd-mGbO95QC2GkCe124g",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

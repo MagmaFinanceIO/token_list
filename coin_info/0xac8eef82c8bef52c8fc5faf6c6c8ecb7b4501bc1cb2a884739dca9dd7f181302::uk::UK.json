@@ -1,0 +1,13 @@
+{
+  "name": "United Kingdom",
+  "symbol": "UK",
+  "decimals": 2,
+  "coin_type": "0xac8eef82c8bef52c8fc5faf6c6c8ecb7b4501bc1cb2a884739dca9dd7f181302::uk::UK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/495d3833-e004-4a0b-8d50-3a013ded2f03.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

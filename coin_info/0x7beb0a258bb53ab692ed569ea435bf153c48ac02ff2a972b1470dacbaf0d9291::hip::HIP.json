@@ -1,0 +1,13 @@
+{
+  "name": "Hip Sui",
+  "symbol": "HIP",
+  "decimals": 9,
+  "coin_type": "0x7beb0a258bb53ab692ed569ea435bf153c48ac02ff2a972b1470dacbaf0d9291::hip::HIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bdce4ea9-5aba-4f74-a940-9dd45b82ffc4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sceletor",
+  "symbol": "SCELETOR",
+  "decimals": 9,
+  "coin_type": "0x38183824b73ef381f90688926fb3bb78d14e012a3a3ff2f6aaf01d248774f8e7::sceletor::SCELETOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f20af35e-f9e2-4437-9292-f04a5a7afb7a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

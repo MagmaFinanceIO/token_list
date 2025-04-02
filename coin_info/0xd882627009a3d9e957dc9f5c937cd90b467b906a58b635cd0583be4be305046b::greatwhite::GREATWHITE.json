@@ -1,0 +1,13 @@
+{
+  "name": "Great White",
+  "symbol": "GREATWHITE",
+  "decimals": 9,
+  "coin_type": "0xd882627009a3d9e957dc9f5c937cd90b467b906a58b635cd0583be4be305046b::greatwhite::GREATWHITE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b1a9fcf2-ecac-45cc-898e-32d812af9c2d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

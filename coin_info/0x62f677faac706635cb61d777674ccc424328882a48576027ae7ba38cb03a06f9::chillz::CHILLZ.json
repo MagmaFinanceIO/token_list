@@ -1,0 +1,13 @@
+{
+  "name": "chill guy",
+  "symbol": "CHILLZ",
+  "decimals": 9,
+  "coin_type": "0x62f677faac706635cb61d777674ccc424328882a48576027ae7ba38cb03a06f9::chillz::CHILLZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8a225517-f7be-4b39-bd58-0a3d4863842e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

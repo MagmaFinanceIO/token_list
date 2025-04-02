@@ -1,0 +1,13 @@
+{
+  "name": "Suitardio",
+  "symbol": "STARD",
+  "decimals": 6,
+  "coin_type": "0xa21215d2338307b15b1834d7eacf8d7b1b6fcee888723330237258e6b14e06dd::stard::STARD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000008512_45eb851bb8.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Farty Pets",
+  "symbol": "FARTY",
+  "decimals": 9,
+  "coin_type": "0x8a0807115efc0f735932917f3d9dd5d4fdc60f34eea78e3cf6b8b2afa90419a4::farty::FARTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FHe2n65pzSgbdqG3tJEUtgUjpFuecCo6FsYcURpapump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

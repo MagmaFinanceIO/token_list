@@ -1,0 +1,13 @@
+{
+  "name": "CHIP on SUI",
+  "symbol": "CHIP",
+  "decimals": 9,
+  "coin_type": "0x1a566780fc2480db154650207ce10c838b6fb5b0488bb6ddf0477fa56db76275::chip::CHIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmWzb2rbg8NSRry1LbtqHaFG2p1MceHFQH1MoR7HDiuREw",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

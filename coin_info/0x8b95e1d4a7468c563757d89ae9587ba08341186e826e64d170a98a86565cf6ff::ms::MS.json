@@ -1,0 +1,13 @@
+{
+  "name": "Microsoft Community Token",
+  "symbol": "MS",
+  "decimals": 9,
+  "coin_type": "0x8b95e1d4a7468c563757d89ae9587ba08341186e826e64d170a98a86565cf6ff::ms::MS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "Vs9Veqy0I5yrmE9-",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

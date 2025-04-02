@@ -1,0 +1,13 @@
+{
+  "name": "Tsunami 🌊",
+  "symbol": "TSUI",
+  "decimals": 9,
+  "coin_type": "0x5dfe7e9969d554f48bdd6ebcba485ad7f95544bfc5b2628a15ba2416e6490a89::tsui::TSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a1d83fcf-8ffe-491e-9911-e3338eeb0d75.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

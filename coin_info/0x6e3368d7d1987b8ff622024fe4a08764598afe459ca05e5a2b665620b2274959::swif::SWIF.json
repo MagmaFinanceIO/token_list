@@ -1,0 +1,13 @@
+{
+  "name": "DOGWIFSUI",
+  "symbol": "SWIF",
+  "decimals": 6,
+  "coin_type": "0x6e3368d7d1987b8ff622024fe4a08764598afe459ca05e5a2b665620b2274959::swif::SWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_10_09_153622523_cb88c4b767.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

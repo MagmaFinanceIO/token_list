@@ -1,0 +1,13 @@
+{
+  "name": "PUSSY",
+  "symbol": "PSY",
+  "decimals": 9,
+  "coin_type": "0x5a7d1245e5ddccee45094d1b5646a644474987227f736f96379934a8d546b212::psy::PSY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c9f25159-c481-4917-b553-dea4168688e2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

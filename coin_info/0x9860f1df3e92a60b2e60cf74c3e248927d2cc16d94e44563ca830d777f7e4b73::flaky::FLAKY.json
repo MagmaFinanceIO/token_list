@@ -1,0 +1,13 @@
+{
+  "name": "Flaky the Feline",
+  "symbol": "FLAKY",
+  "decimals": 9,
+  "coin_type": "0x9860f1df3e92a60b2e60cf74c3e248927d2cc16d94e44563ca830d777f7e4b73::flaky::FLAKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4dBkey6Q6uZv883c4Jrfphiebincxb2ZNnHr5WAinFNt.png?size=lg&key=5f697d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

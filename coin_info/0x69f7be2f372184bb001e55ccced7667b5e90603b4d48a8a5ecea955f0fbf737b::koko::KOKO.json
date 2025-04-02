@@ -1,0 +1,13 @@
+{
+  "name": "Koko",
+  "symbol": "Koko",
+  "decimals": 9,
+  "coin_type": "0x69f7be2f372184bb001e55ccced7667b5e90603b4d48a8a5ecea955f0fbf737b::koko::KOKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/17a6eedc-c93d-4d0f-8d67-72cb31b9426e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

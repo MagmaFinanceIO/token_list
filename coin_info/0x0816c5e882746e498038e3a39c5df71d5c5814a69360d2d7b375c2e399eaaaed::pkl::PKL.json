@@ -1,0 +1,13 @@
+{
+  "name": "PICKLE",
+  "symbol": "PKL",
+  "decimals": 9,
+  "coin_type": "0x0816c5e882746e498038e3a39c5df71d5c5814a69360d2d7b375c2e399eaaaed::pkl::PKL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1830734d-ca7d-4682-890f-6fe8388c75eb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

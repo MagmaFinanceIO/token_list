@@ -1,0 +1,13 @@
+{
+  "name": "SEND",
+  "symbol": "SEND",
+  "decimals": 6,
+  "coin_type": "0xb45fcfcc2cc07ce0702cc2d229621e046c906ef14d9b25e8e4d25f6e8763fef7::send::SEND",
+  "pyth_id": "",
+  "birdeyeid": "0xb45fcfcc2cc07ce0702cc2d229621e046c906ef14d9b25e8e4d25f6e8763fef7::send::SEND",
+  "coin_priority": [],
+  "logo_url": "https://suilend-assets.s3.us-east-2.amazonaws.com/SEND/SEND.svg",
+  "project_url": "",
+  "coingecko_id": "suilend",
+  "is_trusted": true
+}

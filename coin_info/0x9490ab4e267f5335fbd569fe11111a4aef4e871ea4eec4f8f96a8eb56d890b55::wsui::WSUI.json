@@ -1,0 +1,13 @@
+{
+  "name": "WrappedSUI",
+  "symbol": "WSUI",
+  "decimals": 6,
+  "coin_type": "0x9490ab4e267f5335fbd569fe11111a4aef4e871ea4eec4f8f96a8eb56d890b55::wsui::WSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/wsui_7be23f30ad.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

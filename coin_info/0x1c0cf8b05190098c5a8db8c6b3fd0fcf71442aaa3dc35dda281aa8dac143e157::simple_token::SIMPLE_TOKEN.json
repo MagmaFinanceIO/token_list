@@ -1,0 +1,13 @@
+{
+  "name": "CUTELM",
+  "symbol": "$CUTELM",
+  "decimals": 9,
+  "coin_type": "0x1c0cf8b05190098c5a8db8c6b3fd0fcf71442aaa3dc35dda281aa8dac143e157::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

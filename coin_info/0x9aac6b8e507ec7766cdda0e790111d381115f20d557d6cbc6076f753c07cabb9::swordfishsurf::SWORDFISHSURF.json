@@ -1,0 +1,13 @@
+{
+  "name": "SwordfishSurf",
+  "symbol": "SwordfishSurf",
+  "decimals": 9,
+  "coin_type": "0x9aac6b8e507ec7766cdda0e790111d381115f20d557d6cbc6076f753c07cabb9::swordfishsurf::SWORDFISHSURF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4e147f7d-47a3-47af-8f53-d82b5972fb15.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Fisher On Sui",
+  "symbol": "FISHER",
+  "decimals": 9,
+  "coin_type": "0x92c82f3913183c286c9f9e9294e466e5a79507a3ad19c5af92bab4fd8733364c::fisher::FISHER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/729d0a36-4c30-44b9-82b0-483c1f0263f6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

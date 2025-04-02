@@ -1,0 +1,13 @@
+{
+  "name": "Aura SUI",
+  "symbol": "AURA",
+  "decimals": 6,
+  "coin_type": "0x1f058ff58526a309ac3777bf71ebedf24d93f6b2d9fca213d25b3c5b68df296d::aura::AURA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_P3_L7t_Wyc_Yn_ZH_9sc_Hq_JC_Ynp_St_Q_Muum_Dt_Cc_Zw_Vjo_Ds_Es5o_5b5553f0b5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

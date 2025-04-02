@@ -1,0 +1,13 @@
+{
+  "name": "AlleyCat",
+  "symbol": "ALLEYCAT",
+  "decimals": 9,
+  "coin_type": "0xf9e5cd169d33ff2ea54be610b92749696b2775d90e24d62f7f68177f94c42f29::alleycat::ALLEYCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.degencdn.com/ipfs/bafybeifzyj5blpme655jdiotq3vhyim6xtkzkc4vi2s6mbczndvpjln4ou",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuiCowboyWorm",
+  "symbol": "SCW",
+  "decimals": 9,
+  "coin_type": "0x154f1ebee19c5c5c86221020d484781ed6a7ad0998ee2fe5a4f347c3161e71f6::scw::SCW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8e1e5078-5e24-48ae-a664-de40ab4a651d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

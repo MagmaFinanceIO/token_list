@@ -1,0 +1,13 @@
+{
+  "name": "Puzzle",
+  "symbol": "PUZZ",
+  "decimals": 9,
+  "coin_type": "0xe956cbdd1971e0a84ee600547f595162290f5d844f453fa39c5b86a366cf676a::puzz::PUZZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/833ffd17-da69-44b9-b977-3c34af71cfeb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

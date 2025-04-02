@@ -1,0 +1,13 @@
+{
+  "name": "SUI TRIBE",
+  "symbol": "TRIBE",
+  "decimals": 6,
+  "coin_type": "0x58f2b9aa3cc57dfa4bfaa49a43149554450f76537f8f6c433f8abd59d6cb0b41::tribe::TRIBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0001_410cccfd37.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

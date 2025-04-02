@@ -1,0 +1,13 @@
+{
+  "name": "SUICOIN",
+  "symbol": "SUICOIN",
+  "decimals": 9,
+  "coin_type": "0x25d29568de883f78be7c89a310e3476c7cb30045dd6b7826c87c4dc898560e39::suicoin::SUICOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/G6esXaVQUsZKtStZn7bvTkx4nMnovUXRsrox9Lovpump.png?size=lg&key=2d22be",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

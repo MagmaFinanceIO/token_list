@@ -1,0 +1,13 @@
+{
+  "name": "TRINITY",
+  "symbol": "TRINITY",
+  "decimals": 9,
+  "coin_type": "0xb475f40964143c39ac17c2dbc3b71dd2e5250b72269aa4c3fa68fd6733d0948c::trinity::TRINITY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6UWNmC8NHHquKQZShp4Mgj13HBE8pKj2BTq5UJPSpump.png?size=lg&key=40c221",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

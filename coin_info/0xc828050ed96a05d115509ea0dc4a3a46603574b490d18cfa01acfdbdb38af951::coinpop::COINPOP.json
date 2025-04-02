@@ -1,0 +1,13 @@
+{
+  "name": "CoinPOP",
+  "symbol": "COINPOP",
+  "decimals": 9,
+  "coin_type": "0xc828050ed96a05d115509ea0dc4a3a46603574b490d18cfa01acfdbdb38af951::coinpop::COINPOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ae6c379c-9788-4252-a007-3d0c61e781c4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

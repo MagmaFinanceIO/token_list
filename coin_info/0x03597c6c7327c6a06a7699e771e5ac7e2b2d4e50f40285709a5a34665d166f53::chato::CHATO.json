@@ -1,0 +1,13 @@
+{
+  "name": "Chato on SUI",
+  "symbol": "CHATO",
+  "decimals": 9,
+  "coin_type": "0x03597c6c7327c6a06a7699e771e5ac7e2b2d4e50f40285709a5a34665d166f53::chato::CHATO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/252c47c9-f3f1-43d6-ae21-b843308ec520.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

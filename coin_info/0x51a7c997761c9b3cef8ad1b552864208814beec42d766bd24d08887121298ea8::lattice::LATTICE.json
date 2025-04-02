@@ -1,0 +1,13 @@
+{
+  "name": "AGENT LATTICE",
+  "symbol": "LATTICE",
+  "decimals": 6,
+  "coin_type": "0x51a7c997761c9b3cef8ad1b552864208814beec42d766bd24d08887121298ea8::lattice::LATTICE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/dorcelle_b0f1d63582.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

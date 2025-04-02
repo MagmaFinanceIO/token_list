@@ -1,0 +1,13 @@
+{
+  "name": "Broxithebear",
+  "symbol": "RFCWATP",
+  "decimals": 9,
+  "coin_type": "0x362a250ca01f28b5289e13994fa18b3dd1ce44483e9c43f1ac4c892a5d81229f::rfcwatp::RFCWATP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/772b327a-42aa-40b5-b6d4-766034e89d6f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "OCTOTokenRealm",
+  "symbol": "OCTOTokenRealm",
+  "decimals": 9,
+  "coin_type": "0x59c189a02297c19bcee085da82850018cfbff4ded24088b6caacd8f3ffd055e0::octotokenrealm::OCTOTOKENREALM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9e82cf83-1912-4ebf-8d47-339223312bb6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

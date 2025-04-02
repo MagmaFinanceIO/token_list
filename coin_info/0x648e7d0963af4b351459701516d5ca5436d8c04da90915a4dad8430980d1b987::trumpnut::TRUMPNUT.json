@@ -1,0 +1,13 @@
+{
+  "name": "TRUMP FOR PNUT",
+  "symbol": "TRUMPNUT",
+  "decimals": 9,
+  "coin_type": "0x648e7d0963af4b351459701516d5ca5436d8c04da90915a4dad8430980d1b987::trumpnut::TRUMPNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2mJ9dSNiMkfFsFvAbM9fNKbATTbr1TQcjJcuhZdypump.png?size=lg&key=d37b2d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

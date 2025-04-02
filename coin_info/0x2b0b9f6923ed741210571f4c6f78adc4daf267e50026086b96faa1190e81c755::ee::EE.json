@@ -1,0 +1,13 @@
+{
+  "name": "reef3",
+  "symbol": "ee",
+  "decimals": 6,
+  "coin_type": "0x2b0b9f6923ed741210571f4c6f78adc4daf267e50026086b96faa1190e81c755::ee::EE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

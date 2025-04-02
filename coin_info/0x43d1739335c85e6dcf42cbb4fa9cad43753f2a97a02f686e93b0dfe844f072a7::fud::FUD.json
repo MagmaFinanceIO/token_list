@@ -1,0 +1,13 @@
+{
+  "name": "SUI FUD",
+  "symbol": "FUD",
+  "decimals": 9,
+  "coin_type": "0x43d1739335c85e6dcf42cbb4fa9cad43753f2a97a02f686e93b0dfe844f072a7::fud::FUD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8ad8845d-2448-4db5-af63-48269cd9e7f6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

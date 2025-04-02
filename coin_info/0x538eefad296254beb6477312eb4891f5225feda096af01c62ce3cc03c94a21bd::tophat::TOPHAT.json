@@ -1,0 +1,13 @@
+{
+  "name": "Mr. Top Hat Coin",
+  "symbol": "TOPHAT",
+  "decimals": 9,
+  "coin_type": "0x538eefad296254beb6477312eb4891f5225feda096af01c62ce3cc03c94a21bd::tophat::TOPHAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "WjL1B6NwzjfaaNkx",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

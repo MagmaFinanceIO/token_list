@@ -1,0 +1,13 @@
+{
+  "name": "quarm",
+  "symbol": "quarm",
+  "decimals": 9,
+  "coin_type": "0x5c73066e8251f8609c52af3119fc9fc31011fbda04af6c99c999f325116ea8b9::quarm::QUARM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2zEgJriivukRSTsmCpGGjn3Kf8SykUixf3M7ct3Hpump.png?size=lg&key=c7a822",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

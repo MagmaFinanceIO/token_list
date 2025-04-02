@@ -1,0 +1,13 @@
+{
+  "name": "RXH",
+  "symbol": "RXH",
+  "decimals": 9,
+  "coin_type": "0x0503c6071ddcf0ffaa0a3b94c36552af736acc5c1ac7f5361e1919d39b118853::rxh::RXH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2SNstbEYVEn2iTNQyZHKGzgTPZwBgnujwKa8hn5opump.png?size=lg&key=16c90b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

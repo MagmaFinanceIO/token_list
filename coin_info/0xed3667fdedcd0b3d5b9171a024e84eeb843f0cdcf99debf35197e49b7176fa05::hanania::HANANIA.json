@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL HANANIA",
+  "symbol": "HANANIA",
+  "decimals": 9,
+  "coin_type": "0xed3667fdedcd0b3d5b9171a024e84eeb843f0cdcf99debf35197e49b7176fa05::hanania::HANANIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5RQsQ31TPSMPWZNvoAzfjpNbcGQRRsDX6RUQoinepump.png?size=lg&key=b8a42c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

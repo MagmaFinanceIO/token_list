@@ -1,0 +1,13 @@
+{
+  "name": "Sui Raindrop",
+  "symbol": "SUIEPE",
+  "decimals": 6,
+  "coin_type": "0x79b7dbc76fcad57cd7c740cc3c28c1bdbed41e80c5092d710f74dedc09fd3861::suiepe::SUIEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/b8m_Id_Mz_U_400x400_78e5790a16.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

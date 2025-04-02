@@ -1,0 +1,13 @@
+{
+  "name": "Suisteriod Doge",
+  "symbol": "Suisteriod",
+  "decimals": 9,
+  "coin_type": "0xed1010788a5eb36321341a8c9fa312ed4d4526953cfdcefb9820950cdbcd9036::suisteriod::SUISTERIOD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0e2edf15-3c2e-4bb1-9240-3b4a0ce07ce4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

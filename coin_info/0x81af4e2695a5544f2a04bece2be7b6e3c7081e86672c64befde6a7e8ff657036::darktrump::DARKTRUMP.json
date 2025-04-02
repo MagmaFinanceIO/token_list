@@ -1,0 +1,13 @@
+{
+  "name": "DarkTrump",
+  "symbol": "DarkTrump",
+  "decimals": 9,
+  "coin_type": "0x81af4e2695a5544f2a04bece2be7b6e3c7081e86672c64befde6a7e8ff657036::darktrump::DARKTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8d716c90-329b-47f6-8bb9-d56b2ecf8754.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

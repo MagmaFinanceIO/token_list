@@ -1,0 +1,13 @@
+{
+  "name": "I AM SROOT",
+  "symbol": "SROOT",
+  "decimals": 6,
+  "coin_type": "0x3400aa2e9e87937086012303809a3a527bbd8e7037913ca47ec5cebadd5204d3::sroot::SROOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1734993828_0326052_BF_0_C6937_CE_09_40_A8_9_E19_686_AE_03968_EB_3f6174fcb0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

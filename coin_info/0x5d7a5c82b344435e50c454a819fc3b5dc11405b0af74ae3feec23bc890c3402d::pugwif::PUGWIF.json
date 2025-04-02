@@ -1,0 +1,13 @@
+{
+  "name": "Pugwifhat",
+  "symbol": "PUGWIF",
+  "decimals": 9,
+  "coin_type": "0x5d7a5c82b344435e50c454a819fc3b5dc11405b0af74ae3feec23bc890c3402d::pugwif::PUGWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f1ba4f78-8a4b-49e4-b268-87ef200fd698.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

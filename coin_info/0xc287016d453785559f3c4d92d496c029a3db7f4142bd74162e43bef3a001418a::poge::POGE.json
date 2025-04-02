@@ -1,0 +1,13 @@
+{
+  "name": "PEPE OF GAINS EFFECIENCY",
+  "symbol": "POGE",
+  "decimals": 9,
+  "coin_type": "0xc287016d453785559f3c4d92d496c029a3db7f4142bd74162e43bef3a001418a::poge::POGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5cYMsgM2gipANuXva1baQiS1KoiXktZfesMiUc23pump.png?size=lg&key=3e770e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

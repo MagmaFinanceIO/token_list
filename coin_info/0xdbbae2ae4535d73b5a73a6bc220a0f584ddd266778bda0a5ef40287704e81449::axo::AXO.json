@@ -1,0 +1,13 @@
+{
+  "name": "Axo the Axolotl",
+  "symbol": "Axo",
+  "decimals": 6,
+  "coin_type": "0xdbbae2ae4535d73b5a73a6bc220a0f584ddd266778bda0a5ef40287704e81449::axo::AXO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731261436036.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

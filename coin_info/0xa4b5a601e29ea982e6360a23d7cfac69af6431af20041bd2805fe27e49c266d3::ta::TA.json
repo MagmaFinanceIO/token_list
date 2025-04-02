@@ -1,0 +1,13 @@
+{
+  "name": "Tigero",
+  "symbol": "TA",
+  "decimals": 9,
+  "coin_type": "0xa4b5a601e29ea982e6360a23d7cfac69af6431af20041bd2805fe27e49c266d3::ta::TA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/79767e96-4ff7-4012-b34f-45bec0087a89.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

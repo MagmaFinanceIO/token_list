@@ -1,0 +1,13 @@
+{
+  "name": "ChalkZone",
+  "symbol": "CHALK",
+  "decimals": 9,
+  "coin_type": "0x47ee9a912346674f4b02a8bf9ce6a753debff18f5777af7ea07c8c75390fb4f8::chalk::CHALK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/oCFUBXm46iHKZxeXhUFk1354tdJbY5ShRR7FwQMpump.png?size=lg&key=92424d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

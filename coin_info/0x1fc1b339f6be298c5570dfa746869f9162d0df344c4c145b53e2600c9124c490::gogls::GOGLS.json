@@ -1,0 +1,13 @@
+{
+  "name": "Goggles",
+  "symbol": "GOGLS",
+  "decimals": 6,
+  "coin_type": "0x1fc1b339f6be298c5570dfa746869f9162d0df344c4c145b53e2600c9124c490::gogls::GOGLS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_73cb23aa79.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

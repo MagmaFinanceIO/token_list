@@ -1,0 +1,13 @@
+{
+  "name": "Merry OLAF",
+  "symbol": "OLAF",
+  "decimals": 6,
+  "coin_type": "0x04b6ec7fbaae4932758b9301b1941d02988a0e57059c41191c36825838c42d48::olaf::OLAF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_12_22_23_23_00_065c2cd8e8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pay Day",
+  "symbol": "PAYDAY",
+  "decimals": 9,
+  "coin_type": "0x7e44caacab6a293e7980280b066f7e5bba2dbccec982903f002e3e351442fd9d::payday::PAYDAY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3iEzJovwMcq8dXRKLvahuDU13bwWc1JpxyWPBzNoCmKJ.png?size=lg&key=a29f78",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

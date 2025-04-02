@@ -1,0 +1,13 @@
+{
+  "name": "SplootSui",
+  "symbol": "Sploot",
+  "decimals": 6,
+  "coin_type": "0xbc22ab5bbdd1cebe31a9a470ba6de484ef7844a9c468b3957901c02fdf073c98::sploot::SPLOOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_16_070932340_f580642fd9.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Chilly Pig AI",
+  "symbol": "CHILLYPIG",
+  "decimals": 9,
+  "coin_type": "0x52733b10da8f170fe4bc8ea0292c1b0ba02d30efef3fe2a3bc5ae520fec98d97::chillypig::CHILLYPIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ecfafb8e-46f6-4fc2-8fa1-50678c509b54.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

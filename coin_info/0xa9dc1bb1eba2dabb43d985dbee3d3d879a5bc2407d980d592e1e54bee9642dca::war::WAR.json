@@ -1,0 +1,13 @@
+{
+  "name": "TRADE WARS",
+  "symbol": "WAR",
+  "decimals": 9,
+  "coin_type": "0xa9dc1bb1eba2dabb43d985dbee3d3d879a5bc2407d980d592e1e54bee9642dca::war::WAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/TChmtZEB2mc8yjH38RMu61Dou1rmDRT9s3q8Zifpump.png?size=lg&key=4549f1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

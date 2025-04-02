@@ -1,0 +1,13 @@
+{
+  "name": "treasury",
+  "symbol": "TREASURY",
+  "decimals": 6,
+  "coin_type": "0x58e59d70f9c5132632bc87c97e7fd3fa390f29e4e30d736a6a2eedc7e70df77f::treasury::TREASURY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

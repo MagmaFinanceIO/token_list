@@ -1,0 +1,13 @@
+{
+  "name": "Stonks Army",
+  "symbol": "Stonks",
+  "decimals": 9,
+  "coin_type": "0xb6c25afc102f4f32c8b88b926e6f334f825b17e9d0c44f2f4f8a256161b644e2::stonks::STONKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b26f63e5-b226-400c-804d-297aa7a8f8c4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "I-BUZ TEST",
+  "symbol": "IBT",
+  "decimals": 9,
+  "coin_type": "0x9d7b30e42f2b0264915bc2d7505b4461f100d8412d62ddf13aa707c78a432f1a::ibt::IBT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b439ad57-9ea0-4560-bef4-239a89823a45.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Garbage Pail Kids",
+  "symbol": "GARBAGE",
+  "decimals": 6,
+  "coin_type": "0xfa856938b66abbc563d1b59d0f3133b6923a271b326829e76701c44dd57a9fcc::garbage::GARBAGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4727_1aeda4a9bd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

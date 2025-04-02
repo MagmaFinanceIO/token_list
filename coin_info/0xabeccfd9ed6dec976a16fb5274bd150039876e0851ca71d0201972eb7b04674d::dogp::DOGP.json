@@ -1,0 +1,13 @@
+{
+  "name": "Dogphin",
+  "symbol": "DOGP",
+  "decimals": 6,
+  "coin_type": "0xabeccfd9ed6dec976a16fb5274bd150039876e0851ca71d0201972eb7b04674d::dogp::DOGP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000064004_449ad9eb0b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

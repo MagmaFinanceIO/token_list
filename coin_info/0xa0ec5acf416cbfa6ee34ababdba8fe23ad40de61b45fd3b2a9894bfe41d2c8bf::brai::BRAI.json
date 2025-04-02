@@ -1,0 +1,13 @@
+{
+  "name": "Broker AI",
+  "symbol": "BRAI",
+  "decimals": 9,
+  "coin_type": "0xa0ec5acf416cbfa6ee34ababdba8fe23ad40de61b45fd3b2a9894bfe41d2c8bf::brai::BRAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AUi8j5Gn7K6Qaa94CPUJH8vPMqo1fyrp4YBeZxnopump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

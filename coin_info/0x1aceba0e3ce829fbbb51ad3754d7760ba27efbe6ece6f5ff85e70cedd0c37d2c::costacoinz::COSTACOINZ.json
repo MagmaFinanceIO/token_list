@@ -1,0 +1,13 @@
+{
+  "name": "CostaCoin",
+  "symbol": "COSTACOINZ",
+  "decimals": 9,
+  "coin_type": "0x1aceba0e3ce829fbbb51ad3754d7760ba27efbe6ece6f5ff85e70cedd0c37d2c::costacoinz::COSTACOINZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/533a0995-1a33-47c1-9f1b-25d5628cb76c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

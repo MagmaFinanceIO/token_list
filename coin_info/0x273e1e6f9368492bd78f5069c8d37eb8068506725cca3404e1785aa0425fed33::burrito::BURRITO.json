@@ -1,0 +1,13 @@
+{
+  "name": "Mr. Burrito",
+  "symbol": "Burrito",
+  "decimals": 9,
+  "coin_type": "0x273e1e6f9368492bd78f5069c8d37eb8068506725cca3404e1785aa0425fed33::burrito::BURRITO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a6afd38f-8cd8-4e1a-bb7a-7fa471bc83cb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

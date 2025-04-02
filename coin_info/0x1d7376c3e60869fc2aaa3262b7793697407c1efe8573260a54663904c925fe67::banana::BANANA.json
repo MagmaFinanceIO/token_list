@@ -1,0 +1,13 @@
+{
+  "name": "Banana",
+  "symbol": "BANANA",
+  "decimals": 9,
+  "coin_type": "0x1d7376c3e60869fc2aaa3262b7793697407c1efe8573260a54663904c925fe67::banana::BANANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1i9QWLVSxDQVvfRyRE4t2gKUtYmhOJEsLeA&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

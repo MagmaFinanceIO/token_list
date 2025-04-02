@@ -1,0 +1,13 @@
+{
+  "name": "Pump Fun SUI",
+  "symbol": "PumpSUI",
+  "decimals": 9,
+  "coin_type": "0xca9148cf3dc61a1a9f65cbe13d121692d3f857ebf4d5be4ebad84d9221361ecb::pumpsui::PUMPSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/921d71de-2acf-4e2a-93dc-b762f892c196.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

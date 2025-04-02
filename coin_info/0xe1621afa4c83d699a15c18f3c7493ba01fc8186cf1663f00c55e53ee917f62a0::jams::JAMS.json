@@ -1,0 +1,13 @@
+{
+  "name": "SUI Jam",
+  "symbol": "JAMS",
+  "decimals": 9,
+  "coin_type": "0xe1621afa4c83d699a15c18f3c7493ba01fc8186cf1663f00c55e53ee917f62a0::jams::JAMS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FMGA_LOGO_2_5966874bed.jpg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mochi Sui",
+  "symbol": "MOCHI",
+  "decimals": 6,
+  "coin_type": "0x025c0aa6b052b939a1b61c629b97fbe6cbe91ce37f47954b484f05fe762b6302::mochi::MOCHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000343_7010bc59a6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

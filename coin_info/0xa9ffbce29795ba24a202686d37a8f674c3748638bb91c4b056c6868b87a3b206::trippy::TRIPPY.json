@@ -1,0 +1,13 @@
+{
+  "name": "X mascot By Grok",
+  "symbol": "TRIPPY",
+  "decimals": 9,
+  "coin_type": "0xa9ffbce29795ba24a202686d37a8f674c3748638bb91c4b056c6868b87a3b206::trippy::TRIPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x17c84c6645e496b68ab455fdb2ef8eee27c85624.png?size=lg&key=9c03a7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

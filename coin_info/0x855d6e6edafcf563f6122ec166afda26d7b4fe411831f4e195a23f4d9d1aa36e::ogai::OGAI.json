@@ -1,0 +1,13 @@
+{
+  "name": "Oogwai",
+  "symbol": "OGAI",
+  "decimals": 9,
+  "coin_type": "0x855d6e6edafcf563f6122ec166afda26d7b4fe411831f4e195a23f4d9d1aa36e::ogai::OGAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/F4EktiMszSPpEibf3txnzMoehbgR9NTCHYVtfk3SGVYT.png?size=lg&key=c6d9e7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

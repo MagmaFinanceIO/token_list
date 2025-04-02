@@ -1,0 +1,13 @@
+{
+  "name": "Arkaeon AI",
+  "symbol": "ARKAEON",
+  "decimals": 9,
+  "coin_type": "0xf6e3366ce80bc67b9b33694b17060733239cacd2c8e22f7acd6b7d1a61d9b3b1::arkaeon::ARKAEON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/02743f79-c4e5-4a2b-9a62-6fab9d129d1c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

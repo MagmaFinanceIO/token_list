@@ -1,0 +1,13 @@
+{
+  "name": "baby lofi",
+  "symbol": "BBLOFI",
+  "decimals": 6,
+  "coin_type": "0x26f31ba460d2c2074c5897cbd3fbe571b56bc6ff1142fb540463949f54734850::bblofi::BBLOFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/5125462874553167014_f59707b5af.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

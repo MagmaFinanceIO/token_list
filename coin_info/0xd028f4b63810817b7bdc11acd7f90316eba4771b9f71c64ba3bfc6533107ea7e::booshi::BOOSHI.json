@@ -1,0 +1,13 @@
+{
+  "name": "Booshi On Sui",
+  "symbol": "BOOSHI",
+  "decimals": 6,
+  "coin_type": "0xd028f4b63810817b7bdc11acd7f90316eba4771b9f71c64ba3bfc6533107ea7e::booshi::BOOSHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_2_13_b5f5e9db13.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

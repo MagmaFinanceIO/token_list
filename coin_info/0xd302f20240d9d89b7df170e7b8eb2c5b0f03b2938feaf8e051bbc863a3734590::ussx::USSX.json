@@ -1,0 +1,13 @@
+{
+  "name": "USSX",
+  "symbol": "USSX",
+  "decimals": 9,
+  "coin_type": "0xd302f20240d9d89b7df170e7b8eb2c5b0f03b2938feaf8e051bbc863a3734590::ussx::USSX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HheTmXNNkrzN78Qsyz6obfGSL1HvFttG7FU5fok3pump.png?size=lg&key=282918",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

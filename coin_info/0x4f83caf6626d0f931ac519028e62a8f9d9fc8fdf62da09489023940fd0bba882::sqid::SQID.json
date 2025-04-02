@@ -1,0 +1,13 @@
+{
+  "name": "SquidOnSui",
+  "symbol": "SQID",
+  "decimals": 6,
+  "coin_type": "0x4f83caf6626d0f931ac519028e62a8f9d9fc8fdf62da09489023940fd0bba882::sqid::SQID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4469_aba274c6ad.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

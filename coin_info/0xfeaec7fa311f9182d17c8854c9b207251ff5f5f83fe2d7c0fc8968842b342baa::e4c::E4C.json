@@ -1,0 +1,13 @@
+{
+  "name": "Ambrus Studio",
+  "symbol": "E4C",
+  "decimals": 9,
+  "coin_type": "0xfeaec7fa311f9182d17c8854c9b207251ff5f5f83fe2d7c0fc8968842b342baa::e4c::E4C",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ambrus.s3.amazonaws.com/E4C-tokenicon.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

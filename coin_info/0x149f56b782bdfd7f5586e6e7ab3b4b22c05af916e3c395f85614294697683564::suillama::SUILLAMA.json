@@ -1,0 +1,13 @@
+{
+  "name": "Sui Llama",
+  "symbol": "SUILLAMA",
+  "decimals": 9,
+  "coin_type": "0x149f56b782bdfd7f5586e6e7ab3b4b22c05af916e3c395f85614294697683564::suillama::SUILLAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/671921ad-dede-437d-be7c-52af2f278254.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

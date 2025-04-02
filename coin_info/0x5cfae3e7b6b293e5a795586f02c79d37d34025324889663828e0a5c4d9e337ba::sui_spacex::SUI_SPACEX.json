@@ -1,0 +1,13 @@
+{
+  "name": "Sui_SpaceX",
+  "symbol": "Sui_SpaceX",
+  "decimals": 9,
+  "coin_type": "0x5cfae3e7b6b293e5a795586f02c79d37d34025324889663828e0a5c4d9e337ba::sui_spacex::SUI_SPACEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2ca10615-1d81-48bb-9956-db0466b90c04.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

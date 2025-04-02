@@ -1,0 +1,13 @@
+{
+  "name": "TWTR",
+  "symbol": "TWTR",
+  "decimals": 4,
+  "coin_type": "0x1ac482f8286c5faa4d6446d733c971bcb68727acf3a7474998ff31a63b5a58a5::twtr::TWTR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2a1bd74f-eda5-4454-b433-7d6c980e385a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

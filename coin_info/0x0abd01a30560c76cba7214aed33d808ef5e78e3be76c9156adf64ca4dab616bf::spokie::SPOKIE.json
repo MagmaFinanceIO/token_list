@@ -1,0 +1,13 @@
+{
+  "name": "Sui Pokie",
+  "symbol": "SPOKIE",
+  "decimals": 6,
+  "coin_type": "0x0abd01a30560c76cba7214aed33d808ef5e78e3be76c9156adf64ca4dab616bf::spokie::SPOKIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735904142195.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

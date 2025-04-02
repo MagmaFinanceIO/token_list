@@ -1,0 +1,13 @@
+{
+  "name": "Hush AI",
+  "symbol": "HUSH",
+  "decimals": 9,
+  "coin_type": "0x8054e1adc230e41cc0570f7b1ee3d85b0e47a144856fcc0d025016a5ea132255::hush::HUSH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmR4VSz1GCmASgKvwJzohPCmPUGFN7xrEhiF7DyPHMxdTU",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

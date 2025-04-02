@@ -1,0 +1,13 @@
+{
+  "name": "Equitrix",
+  "symbol": "TRIX",
+  "decimals": 6,
+  "coin_type": "0xe1ce4d635e3b2f4bd207f0a0a602d79caf5d4bc510c5aa8fe874da7d5b54c52c::trix::TRIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Equitrix_55d01a8bc6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

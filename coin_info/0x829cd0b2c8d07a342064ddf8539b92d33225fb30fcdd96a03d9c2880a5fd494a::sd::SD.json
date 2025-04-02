@@ -1,0 +1,13 @@
+{
+  "name": "Sea Dog",
+  "symbol": "SD",
+  "decimals": 6,
+  "coin_type": "0x829cd0b2c8d07a342064ddf8539b92d33225fb30fcdd96a03d9c2880a5fd494a::sd::SD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c3fff55c-0f61-4943-828f-4d1fd10f3d7f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

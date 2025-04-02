@@ -1,0 +1,13 @@
+{
+  "name": "Sweeper On Sui",
+  "symbol": "SUIPPER",
+  "decimals": 6,
+  "coin_type": "0x683bafbc9dceb954e1ff5e0addf1c0b6741ffdfbf5adb316351470a8ffb0803c::suipper::SUIPPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_10_12_100751_removebg_preview_5c19c30d1f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

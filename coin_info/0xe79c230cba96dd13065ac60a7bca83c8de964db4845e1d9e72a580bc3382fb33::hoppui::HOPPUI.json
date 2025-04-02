@@ -1,0 +1,13 @@
+{
+  "name": "HOPPY ON SUI",
+  "symbol": "HOPPUI",
+  "decimals": 6,
+  "coin_type": "0xe79c230cba96dd13065ac60a7bca83c8de964db4845e1d9e72a580bc3382fb33::hoppui::HOPPUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/hoppy_sui_logo_6f84c1f385.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

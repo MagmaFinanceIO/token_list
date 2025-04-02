@@ -1,0 +1,13 @@
+{
+  "name": "Sui Resistance",
+  "symbol": "SURE",
+  "decimals": 9,
+  "coin_type": "0x3dd6f335bcb0e1352e1bd18e1d8cc72c58565079d949343cfb4fc608404959a0::sure::SURE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b8d5f273-915f-4911-978c-dd77b1bcd288.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

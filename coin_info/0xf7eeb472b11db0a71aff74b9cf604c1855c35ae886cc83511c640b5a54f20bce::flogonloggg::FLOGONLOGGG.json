@@ -1,0 +1,13 @@
+{
+  "name": "FlogOnLog",
+  "symbol": "FLOG",
+  "decimals": 9,
+  "coin_type": "0xf7eeb472b11db0a71aff74b9cf604c1855c35ae886cc83511c640b5a54f20bce::flogonloggg::FLOGONLOGGG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7eb52e17-944a-40fa-a84b-019ed6d25938.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

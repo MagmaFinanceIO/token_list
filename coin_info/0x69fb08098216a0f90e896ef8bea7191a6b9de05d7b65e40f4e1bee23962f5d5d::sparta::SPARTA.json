@@ -1,0 +1,13 @@
+{
+  "name": "SPARTACUS",
+  "symbol": "SPARTA",
+  "decimals": 9,
+  "coin_type": "0x69fb08098216a0f90e896ef8bea7191a6b9de05d7b65e40f4e1bee23962f5d5d::sparta::SPARTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/F9TbyMSdsYtWbyXhRXer3Mw5e7sc7ZkH22cwhZjLpump.png?size=lg&key=c69e10",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

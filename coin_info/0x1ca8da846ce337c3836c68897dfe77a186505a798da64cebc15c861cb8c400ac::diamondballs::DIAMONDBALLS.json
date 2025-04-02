@@ -1,0 +1,13 @@
+{
+  "name": "DIAMOND BALLS",
+  "symbol": "DIAMONDBALLS",
+  "decimals": 6,
+  "coin_type": "0x1ca8da846ce337c3836c68897dfe77a186505a798da64cebc15c861cb8c400ac::diamondballs::DIAMONDBALLS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5751_6e4ce628c5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "$PORAGEM",
+  "symbol": "PORAGEM",
+  "decimals": 9,
+  "coin_type": "0x649c6e2c18f0d670c83f256d4ac7c5ab566f0a875e51a1d2ec0f5c0fef9cf471::poragem::PORAGEM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4ad27f88-a91b-4fc9-a1f0-f528e1a4f215.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Just a Chill CAT",
+  "symbol": "CHILLCAT",
+  "decimals": 9,
+  "coin_type": "0xfb88374621658838a9f48240d5c75519aec3588cc7a8752ba91f7005bd31bac3::chillcat::CHILLCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4LM7nub6nFmudMDEFb7Si9VN8dtH2t1MwFsDJZZUFRkK.png?size=lg&key=854212",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

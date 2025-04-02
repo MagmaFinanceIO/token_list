@@ -1,0 +1,13 @@
+{
+  "name": "Pumpe on Sui",
+  "symbol": "PUMPE",
+  "decimals": 6,
+  "coin_type": "0x848339696b57f36bd70f7a15a71bf2eccdf6c29e92a2b730a7e6173b76446941::pumpe::PUMPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_18_77355edbbd.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BABY HOPPY",
+  "symbol": "HOPPY",
+  "decimals": 9,
+  "coin_type": "0xcee1e12b6de37e7ceae1727afcb0fefcc4ed0a839d63fd32fcc4abe50eb86618::hoppy::HOPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/23157962-6229-4674-b734-a5298c86cb52.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

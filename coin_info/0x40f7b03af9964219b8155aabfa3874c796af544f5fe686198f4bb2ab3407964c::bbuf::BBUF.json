@@ -1,0 +1,13 @@
+{
+  "name": "BOSSY BUFFALO",
+  "symbol": "BBUF",
+  "decimals": 6,
+  "coin_type": "0x40f7b03af9964219b8155aabfa3874c796af544f5fe686198f4bb2ab3407964c::bbuf::BBUF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_21_033446231_52bf4f8530.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

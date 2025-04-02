@@ -1,0 +1,13 @@
+{
+  "name": "BLOCKBUSTER",
+  "symbol": "BLOCKBUSTR",
+  "decimals": 9,
+  "coin_type": "0x8ee4369a47375c69b2c7e2d118de106c3eb91dd4fcb98534499fe69fc013b7f3::blockbustr::BLOCKBUSTR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/E2PRMheac4foBANksKVAtygdk3aDFkPGKUewNDEDpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

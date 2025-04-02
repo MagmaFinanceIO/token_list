@@ -1,0 +1,13 @@
+{
+  "name": "GeminiToken",
+  "symbol": "GMT",
+  "decimals": 9,
+  "coin_type": "0x898c04bdd54c72a2b2e365af9794c40ecf81671e41f7e97d2bd08605702699b9::gmt::GMT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/32c3b112-6dc4-49e1-94e8-45c2294be07f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIDENG",
+  "symbol": "SUIDENG",
+  "decimals": 9,
+  "coin_type": "0x02621c386adae83f2fae1107ae1a3175708db9fb1ce9720c8b456551cead99b8::suideng::SUIDENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6a6e9ecc-fd82-401b-bba1-1c8f48b309d1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

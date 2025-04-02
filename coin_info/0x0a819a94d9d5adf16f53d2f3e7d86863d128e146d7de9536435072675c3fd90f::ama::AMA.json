@@ -1,0 +1,13 @@
+{
+  "name": "AiMegaAgent by SuiAI",
+  "symbol": "AMA",
+  "decimals": 6,
+  "coin_type": "0x0a819a94d9d5adf16f53d2f3e7d86863d128e146d7de9536435072675c3fd90f::ama::AMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Designer_4_885a3453e2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

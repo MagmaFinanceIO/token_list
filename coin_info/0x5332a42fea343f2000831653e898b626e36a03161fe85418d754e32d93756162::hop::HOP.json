@@ -1,0 +1,13 @@
+{
+  "name": "Hoppy",
+  "symbol": "HOP",
+  "decimals": 6,
+  "coin_type": "0x5332a42fea343f2000831653e898b626e36a03161fe85418d754e32d93756162::hop::HOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmPVm7QNhstGvhyMnKoYHXVsmuwGRcyT4riAH2Z3cr1MgG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

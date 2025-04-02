@@ -1,0 +1,13 @@
+{
+  "name": "Baby Neiro",
+  "symbol": "BabyNeiro",
+  "decimals": 9,
+  "coin_type": "0xdebd2be42c448d98bbe769dd3bce7346fc44ff326a51ae6ce9aa9ff5d7b92b8f::babyneiro::BABYNEIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4d8fcd8a-c6ab-4d2b-b3ac-9e02f5684a4b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

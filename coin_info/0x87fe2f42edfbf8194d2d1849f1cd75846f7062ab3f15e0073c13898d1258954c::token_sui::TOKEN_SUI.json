@@ -1,0 +1,13 @@
+{
+  "name": "Sui Punks NFT",
+  "symbol": "suipunks",
+  "decimals": 9,
+  "coin_type": "0x87fe2f42edfbf8194d2d1849f1cd75846f7062ab3f15e0073c13898d1258954c::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.bluemove.io/uploads/sui-punks/logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

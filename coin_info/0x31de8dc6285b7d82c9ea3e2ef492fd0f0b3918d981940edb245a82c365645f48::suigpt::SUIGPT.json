@@ -1,0 +1,13 @@
+{
+  "name": "SuiGPT",
+  "symbol": "SuiGPT",
+  "decimals": 6,
+  "coin_type": "0x31de8dc6285b7d82c9ea3e2ef492fd0f0b3918d981940edb245a82c365645f48::suigpt::SUIGPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3dd1006b-c997-4a97-ab84-cd7ff807229b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Boinky The Monkey",
+  "symbol": "BOINKY",
+  "decimals": 9,
+  "coin_type": "0xa34428277ac8411b857002f6faf7696f1b43902a08b2e1b7180df69ab639e269::boinky::BOINKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3d4e619e-8044-47fc-95a3-1c3471cf4060.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

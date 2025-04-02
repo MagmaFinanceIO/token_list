@@ -1,0 +1,13 @@
+{
+  "name": "MOMO",
+  "symbol": "MOMO",
+  "decimals": 2,
+  "coin_type": "0x3d5419ceb953638029b347a49bc588d19a64d7990b21423c1a823476d14904e1::MOMO::MOMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/zjQz74_wEeVE11GegWjjiIuGU-GQxV1fjxVWKUfL-kY?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

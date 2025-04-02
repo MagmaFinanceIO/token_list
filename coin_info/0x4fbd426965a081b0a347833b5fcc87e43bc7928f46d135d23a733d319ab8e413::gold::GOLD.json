@@ -1,0 +1,13 @@
+{
+  "name": "GOLD",
+  "symbol": "GOLD",
+  "decimals": 9,
+  "coin_type": "0x4fbd426965a081b0a347833b5fcc87e43bc7928f46d135d23a733d319ab8e413::gold::GOLD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co.com/RzHqkcx/images-9-2-1-jpeg-removebg-preview.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

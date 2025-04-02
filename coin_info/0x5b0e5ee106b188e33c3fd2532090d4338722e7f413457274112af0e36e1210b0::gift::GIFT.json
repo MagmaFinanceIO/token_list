@@ -1,0 +1,13 @@
+{
+  "name": "GIFT On SUI",
+  "symbol": "GIFT",
+  "decimals": 9,
+  "coin_type": "0x5b0e5ee106b188e33c3fd2532090d4338722e7f413457274112af0e36e1210b0::gift::GIFT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qme3J6wmmK7MJJM4d3bEWhTVrfuCRS8dLenXUfiSNJMweZ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

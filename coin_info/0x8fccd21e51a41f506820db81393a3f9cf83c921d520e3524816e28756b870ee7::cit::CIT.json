@@ -1,0 +1,13 @@
+{
+  "name": "CIT Token",
+  "symbol": "CIT",
+  "decimals": 6,
+  "coin_type": "0x8fccd21e51a41f506820db81393a3f9cf83c921d520e3524816e28756b870ee7::cit::CIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://6mlzu7yihlt2drajl5idor3p5nyt7kwtgmnmudptt4tx7ff7fzkq.arweave.net/8xeafwg656HECV9QN0dv63E_qtMzGsoN858nf5S_LlU",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

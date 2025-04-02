@@ -1,0 +1,13 @@
+{
+  "name": "London",
+  "symbol": "London",
+  "decimals": 9,
+  "coin_type": "0x78d8a9c8bcba2f3e061e2f9da3466b424679a5e06da29376b4a523d7aaea0b97::london::LONDON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

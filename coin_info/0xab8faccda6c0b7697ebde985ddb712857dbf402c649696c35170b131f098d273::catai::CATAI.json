@@ -1,0 +1,13 @@
+{
+  "name": "CAT AI",
+  "symbol": "CATAI",
+  "decimals": 9,
+  "coin_type": "0xab8faccda6c0b7697ebde985ddb712857dbf402c649696c35170b131f098d273::catai::CATAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/AESWfFl-CnWRqreM?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "lata",
+  "symbol": "lata",
+  "decimals": 9,
+  "coin_type": "0x0967dfbc83d224e3f8e7382104ab01403d00f8f654da1dd59c47e201c9f49149::lata::LATA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

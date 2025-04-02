@@ -1,0 +1,13 @@
+{
+  "name": "Polly The Polar Bear",
+  "symbol": "POLLY",
+  "decimals": 6,
+  "coin_type": "0x6dd6d8b6126e7c51ae839676fb8e4b8a592eff7e6c20eb0ecc7966b4e644b547::polly::POLLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/coinerpfp_a23e196156.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

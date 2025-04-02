@@ -1,0 +1,13 @@
+{
+  "name": "WIFBAG",
+  "symbol": "WIFBAG",
+  "decimals": 4,
+  "coin_type": "0x9a1eb4f8b2dcb2b25de36df584a962a36417f613cfd629d7758454d365157f2f::wifbag::WIFBAG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FF4dN8Qy8NNF88HRgMA3TkbRVZ8PTXWXZCZJb59X3Sbg.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

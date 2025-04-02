@@ -1,0 +1,13 @@
+{
+  "name": "Otin Iwaju",
+  "symbol": "OTIN",
+  "decimals": 6,
+  "coin_type": "0xbe6ca7959ff1dbffa98b81fbdca2a5df2fde152560724e6e83f3ee56f2e3655f::otin::OTIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000032121_d5188b24d4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "paki",
+  "symbol": "paki",
+  "decimals": 9,
+  "coin_type": "0x0f0fc2a2230d11a3a3601e33eef50f82dfc07c6df77a7df8bf0392ebac9ac8b5::paki::PAKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

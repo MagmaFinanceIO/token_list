@@ -1,0 +1,13 @@
+{
+  "name": "ROARING KITTY CHILL",
+  "symbol": "ROKC",
+  "decimals": 9,
+  "coin_type": "0x0a53d9c141bf2aa0e9a245c51e93e6afeb3ca54b1a8e94426f474e455c0e8e6d::rokc::ROKC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2G7wi1ENKEswzLkWG5qBfrix1xYvBvjQUaUQwDropump.png?size=lg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

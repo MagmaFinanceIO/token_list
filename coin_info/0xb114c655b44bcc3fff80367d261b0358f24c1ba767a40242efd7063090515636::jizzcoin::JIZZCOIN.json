@@ -1,0 +1,13 @@
+{
+  "name": "Jizzcoin",
+  "symbol": "JIZZCOIN",
+  "decimals": 9,
+  "coin_type": "0xb114c655b44bcc3fff80367d261b0358f24c1ba767a40242efd7063090515636::jizzcoin::JIZZCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/31qasBMqg5aB4eJzz2frjQ96bYJ3pyisKtaZBz1Jpump.png?size=lg&key=e0897c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

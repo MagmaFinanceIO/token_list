@@ -1,0 +1,13 @@
+{
+  "name": "CryptoPunks",
+  "symbol": "Punks",
+  "decimals": 9,
+  "coin_type": "0x4907d2cd65747326de4d502e307b248ad9d826443cc2e594b3db658011d79f65::punks::PUNKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4qfin7Cnq8TAvCxVobmxSBzKPeaakmgNH9jhEGPmpump.png?size=lg&key=65baeb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

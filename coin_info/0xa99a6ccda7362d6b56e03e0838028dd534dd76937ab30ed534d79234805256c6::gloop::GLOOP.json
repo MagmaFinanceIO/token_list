@@ -1,0 +1,13 @@
+{
+  "name": "GLOOP",
+  "symbol": "GLOOP",
+  "decimals": 9,
+  "coin_type": "0xa99a6ccda7362d6b56e03e0838028dd534dd76937ab30ed534d79234805256c6::gloop::GLOOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/QuVUS7cMcZAGNFwt?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

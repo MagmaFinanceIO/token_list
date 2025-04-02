@@ -1,0 +1,13 @@
+{
+  "name": "TESTDRYVE",
+  "symbol": "TEZTDRVE",
+  "decimals": 9,
+  "coin_type": "0x66953724b08207b914ee341e890ddcf5a5e83b63eb33bbeb4aff3860db8d7225::teztdrve::TEZTDRVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

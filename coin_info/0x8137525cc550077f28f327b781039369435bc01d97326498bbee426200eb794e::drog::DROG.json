@@ -1,0 +1,13 @@
+{
+  "name": "Frog Dog",
+  "symbol": "DROG",
+  "decimals": 6,
+  "coin_type": "0x8137525cc550077f28f327b781039369435bc01d97326498bbee426200eb794e::drog::DROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_8_c1e7195481.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

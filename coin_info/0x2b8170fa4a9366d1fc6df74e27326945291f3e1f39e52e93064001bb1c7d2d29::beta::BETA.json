@@ -1,0 +1,13 @@
+{
+  "name": "Beta",
+  "symbol": "Beta",
+  "decimals": 9,
+  "coin_type": "0x2b8170fa4a9366d1fc6df74e27326945291f3e1f39e52e93064001bb1c7d2d29::beta::BETA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/65f002f6-198c-41ed-9ff8-8dbff33f6e75.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

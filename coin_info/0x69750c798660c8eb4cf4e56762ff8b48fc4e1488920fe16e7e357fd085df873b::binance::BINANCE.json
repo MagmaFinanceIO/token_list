@@ -1,0 +1,13 @@
+{
+  "name": "Binance",
+  "symbol": "BINANCE",
+  "decimals": 9,
+  "coin_type": "0x69750c798660c8eb4cf4e56762ff8b48fc4e1488920fe16e7e357fd085df873b::binance::BINANCE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5ukFUcSw5NuiBMQEPucSfwBf1jKruoQvwxuuuicbpump.png?size=lg&key=88a293",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

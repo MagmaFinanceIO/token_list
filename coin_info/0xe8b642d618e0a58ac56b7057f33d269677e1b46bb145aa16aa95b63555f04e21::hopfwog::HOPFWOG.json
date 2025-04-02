@@ -1,0 +1,13 @@
+{
+  "name": "HOPFWOG",
+  "symbol": "HOPFWOG",
+  "decimals": 9,
+  "coin_type": "0xe8b642d618e0a58ac56b7057f33d269677e1b46bb145aa16aa95b63555f04e21::hopfwog::HOPFWOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/706e971d-6895-4a01-97cb-84b88406d77f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

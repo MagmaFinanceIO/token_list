@@ -1,0 +1,13 @@
+{
+  "name": "Make America Bullish Again",
+  "symbol": "MABA",
+  "decimals": 9,
+  "coin_type": "0x49ea10f52d0f6937c4375b79854d29b78e2321f1d87cfe9ad08c02e3ba62256c::maba::MABA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4miBuqzY2YHJGZLscFe1yQJLCJU9XTjF6sy3eFrkpump.png?size=lg&key=9cfb72",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

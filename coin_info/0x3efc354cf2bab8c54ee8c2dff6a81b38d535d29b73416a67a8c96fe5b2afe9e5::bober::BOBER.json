@@ -1,0 +1,13 @@
+{
+  "name": "boberAI",
+  "symbol": "bober",
+  "decimals": 9,
+  "coin_type": "0x3efc354cf2bab8c54ee8c2dff6a81b38d535d29b73416a67a8c96fe5b2afe9e5::bober::BOBER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmVzpfnwXMLvwcxwgEYV3dgXDF9RzsTPrpR4wANRwqKUzp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PIG NOSE",
+  "symbol": "PIGNOSE",
+  "decimals": 6,
+  "coin_type": "0xe43ba9265ea4ca883df59f1d2b3d17a096957a0a3d1e810a158904fc07b4647b::pignose::PIGNOSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/pignose.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

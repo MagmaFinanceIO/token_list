@@ -1,0 +1,13 @@
+{
+  "name": "SUI CATI",
+  "symbol": "SCATI",
+  "decimals": 6,
+  "coin_type": "0xb6e3979471a2384a12d9420e343e6e6483d3b07662b3ebe36585726671c8924f::scati::SCATI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/a_a_ae_a_2024_10_06_225655_efef1f8686.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

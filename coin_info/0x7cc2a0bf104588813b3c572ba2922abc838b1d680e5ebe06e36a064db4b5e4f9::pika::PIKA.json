@@ -1,0 +1,13 @@
+{
+  "name": "Pikachu on SUI",
+  "symbol": "Pika",
+  "decimals": 6,
+  "coin_type": "0x7cc2a0bf104588813b3c572ba2922abc838b1d680e5ebe06e36a064db4b5e4f9::pika::PIKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Bor_A_t_A_39123441bd.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

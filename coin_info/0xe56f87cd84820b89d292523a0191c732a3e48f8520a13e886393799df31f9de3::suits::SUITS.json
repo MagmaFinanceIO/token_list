@@ -1,0 +1,13 @@
+{
+  "name": "SUITS",
+  "symbol": "SUITS",
+  "decimals": 0,
+  "coin_type": "0xe56f87cd84820b89d292523a0191c732a3e48f8520a13e886393799df31f9de3::suits::SUITS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2639c249-8fd8-40bf-8bd1-67e753739b6d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

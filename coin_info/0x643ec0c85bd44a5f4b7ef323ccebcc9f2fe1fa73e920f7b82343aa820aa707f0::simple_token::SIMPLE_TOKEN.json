@@ -1,0 +1,13 @@
+{
+  "name": "DEVSUI",
+  "symbol": "DEVSUI",
+  "decimals": 9,
+  "coin_type": "0x643ec0c85bd44a5f4b7ef323ccebcc9f2fe1fa73e920f7b82343aa820aa707f0::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

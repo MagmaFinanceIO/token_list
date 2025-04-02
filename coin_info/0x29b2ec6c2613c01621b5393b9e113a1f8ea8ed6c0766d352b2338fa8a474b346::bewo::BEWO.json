@@ -1,0 +1,13 @@
+{
+  "name": "Blue Eyes White Omnicat",
+  "symbol": "BEWO",
+  "decimals": 9,
+  "coin_type": "0x29b2ec6c2613c01621b5393b9e113a1f8ea8ed6c0766d352b2338fa8a474b346::bewo::BEWO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CZjkgMmQBDzNq5XWwXR2vUER2WxCeB7MVwsKeZ9Ypump.png?size=lg&key=ce3f44",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

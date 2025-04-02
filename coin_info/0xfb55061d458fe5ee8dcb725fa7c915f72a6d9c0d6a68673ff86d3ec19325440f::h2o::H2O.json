@@ -1,0 +1,13 @@
+{
+  "name": "H2O",
+  "symbol": "H2O",
+  "decimals": 6,
+  "coin_type": "0xfb55061d458fe5ee8dcb725fa7c915f72a6d9c0d6a68673ff86d3ec19325440f::h2o::H2O",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.okx.com/cdn/web3/currency/token/784-0x0b998e7490971775b2e4197a679f39a14d864a15aeaf5fcf9f76ba0feb8416af::H2O::H2O-98.png/type=default_350_0?v=1735795107146&x-oss-process=image/format,webp/ignore-error,1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Blue Kolt",
+  "symbol": "KOLT",
+  "decimals": 6,
+  "coin_type": "0xa43f890c2796ade022241f34178ce12f3031a30ccc0897e17c45a7a4ff655793::kolt::KOLT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Blue_Kolt_becec3ccd5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

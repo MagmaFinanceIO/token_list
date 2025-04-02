@@ -1,0 +1,13 @@
+{
+  "name": "Spacedog Fluffy",
+  "symbol": "FLUFFY",
+  "decimals": 9,
+  "coin_type": "0x1742d007b39ee4296e87838a97bec450c5ea1e7c7f2fb96dec2dc76c83bca00f::fluffy::FLUFFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a2e3754f-0462-4805-8f31-3575bff9e65a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mizura",
+  "symbol": "Mizura",
+  "decimals": 9,
+  "coin_type": "0xb61549fc13055043462f7f2be7dace5e8fc5001c7b6b87f7074a668c55270112::mizura::MIZURA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2E12VC6aKdcDj4oHNukm6LSERMZUo1DzmVkd68v7pump.png?size=lg&key=1d90a0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Major League Trading",
+  "symbol": "MLT",
+  "decimals": 9,
+  "coin_type": "0x0b05edffb8bd80c800c191962b24bbe261cbd17f8604d66af6d57128590dc56a::mlt::MLT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B4hBGqdSkp9LHg3V1nm57idpmyDp5aLDPpG9Nszopump.png?size=lg&key=373910",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dogbite",
+  "symbol": "DOB",
+  "decimals": 6,
+  "coin_type": "0x06d09005836c5e6c206b2d50e18bacaf52acc855bea86f0a8cc3a02a6e835bb0::dob::DOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Telegram_Image_ac9fea8351.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Cutie Pie",
+  "symbol": "CUTE",
+  "decimals": 10,
+  "coin_type": "0x98e5a7604dd13b9f522d4b6e8668a12074d2669bf5d8f91e1b2ab4f041a82c73::cute::CUTE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b7ddfc06-448a-4d1a-a7aa-823b5569b58d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

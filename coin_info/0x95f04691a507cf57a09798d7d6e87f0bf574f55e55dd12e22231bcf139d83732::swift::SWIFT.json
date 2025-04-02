@@ -1,0 +1,13 @@
+{
+  "name": "SWIFTPAW",
+  "symbol": "SWIFT",
+  "decimals": 6,
+  "coin_type": "0x95f04691a507cf57a09798d7d6e87f0bf574f55e55dd12e22231bcf139d83732::swift::SWIFT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/460050118_122154424112263711_7141379020474299253_n_da5b607f10.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

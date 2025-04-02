@@ -1,0 +1,13 @@
+{
+  "name": "racconius",
+  "symbol": "RACCOONIUS",
+  "decimals": 6,
+  "coin_type": "0x0588805f852035c5ba60adfeae99c147238dd330c14995508082e43fc59e71be::raccoonius::RACCOONIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

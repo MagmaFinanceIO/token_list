@@ -1,0 +1,13 @@
+{
+  "name": "Pettsui",
+  "symbol": "Pettsui",
+  "decimals": 9,
+  "coin_type": "0xbcaec9182ea30b06869010689e6e0665b6e84b09b9d5b96a0de706ff814b9691::pettsui::PETTSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ff0791ab-005c-4568-9bd0-b31dc82f9b4d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

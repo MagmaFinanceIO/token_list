@@ -1,0 +1,13 @@
+{
+  "name": "🎰SuiMemeBet🎰",
+  "symbol": "MEMEBET",
+  "decimals": 9,
+  "coin_type": "0xfbdbb5d26f51a170df6f3f2242220811032207ef80b6a844577a4f1bdf717e99::memebet::MEMEBET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c3bedc42-f9e4-40d6-abba-d3509edbab12.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

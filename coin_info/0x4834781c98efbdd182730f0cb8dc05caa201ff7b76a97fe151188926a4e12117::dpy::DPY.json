@@ -1,0 +1,13 @@
+{
+  "name": "Dragonpay",
+  "symbol": "DPY",
+  "decimals": 6,
+  "coin_type": "0x4834781c98efbdd182730f0cb8dc05caa201ff7b76a97fe151188926a4e12117::dpy::DPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0c17068d-156e-48ad-ae9e-67e54508b14f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

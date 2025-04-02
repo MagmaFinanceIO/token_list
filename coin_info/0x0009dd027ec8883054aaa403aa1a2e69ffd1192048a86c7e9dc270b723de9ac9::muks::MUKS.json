@@ -1,0 +1,13 @@
+{
+  "name": "Eln Muks",
+  "symbol": "MUKS",
+  "decimals": 6,
+  "coin_type": "0x0009dd027ec8883054aaa403aa1a2e69ffd1192048a86c7e9dc270b723de9ac9::muks::MUKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/portal_7c7f974c00.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ADENSUI",
+  "symbol": "ADENSUI",
+  "decimals": 9,
+  "coin_type": "0x59bb6f72563789ae47051f6c47ce89f7662dc48ff6b757229a3ab39ca7df0d63::adensui::ADENSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b500350b-b342-4f09-8a94-261e4068c31f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

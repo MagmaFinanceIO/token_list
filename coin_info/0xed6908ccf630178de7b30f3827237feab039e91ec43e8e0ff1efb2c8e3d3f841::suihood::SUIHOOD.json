@@ -1,0 +1,13 @@
+{
+  "name": "SUI HOOD",
+  "symbol": "SUIHOOD",
+  "decimals": 9,
+  "coin_type": "0xed6908ccf630178de7b30f3827237feab039e91ec43e8e0ff1efb2c8e3d3f841::suihood::SUIHOOD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/42189930-b4d4-4884-967b-f3cdcf33cab2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

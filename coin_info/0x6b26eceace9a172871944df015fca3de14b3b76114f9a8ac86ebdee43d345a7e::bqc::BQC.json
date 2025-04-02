@@ -1,0 +1,13 @@
+{
+  "name": "First Ever Memecoin",
+  "symbol": "BQC",
+  "decimals": 9,
+  "coin_type": "0x6b26eceace9a172871944df015fca3de14b3b76114f9a8ac86ebdee43d345a7e::bqc::BQC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7p4RodzmcU7YTrrqHLAkuPvH7Wye342xgkcrcvh3pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

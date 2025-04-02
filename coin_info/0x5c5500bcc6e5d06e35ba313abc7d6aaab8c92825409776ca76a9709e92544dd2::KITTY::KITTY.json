@@ -1,0 +1,13 @@
+{
+  "name": "Kitty honey millions",
+  "symbol": "KITTY",
+  "decimals": 9,
+  "coin_type": "0x5c5500bcc6e5d06e35ba313abc7d6aaab8c92825409776ca76a9709e92544dd2::KITTY::KITTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

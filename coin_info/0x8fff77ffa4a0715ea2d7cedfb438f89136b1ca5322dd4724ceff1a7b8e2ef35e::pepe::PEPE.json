@@ -1,0 +1,13 @@
+{
+  "name": "PEPE CTO",
+  "symbol": "PEPE",
+  "decimals": 2,
+  "coin_type": "0x8fff77ffa4a0715ea2d7cedfb438f89136b1ca5322dd4724ceff1a7b8e2ef35e::pepe::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f11c8c0d-3bee-4a4d-8806-c783423d81ac.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PUDGE",
+  "symbol": "PUDGE",
+  "decimals": 9,
+  "coin_type": "0xf388a90a731efeb5e8b42eec72a7feb3fb9b2e57df133504c701a1b5af4c0e14::pudge::PUDGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b3cf1c26-4c91-4238-950d-ed6ac04087f6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

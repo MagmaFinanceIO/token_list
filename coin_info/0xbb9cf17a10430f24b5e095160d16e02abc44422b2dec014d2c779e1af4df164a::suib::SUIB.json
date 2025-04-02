@@ -1,0 +1,13 @@
+{
+  "name": "Suiba Ini",
+  "symbol": "SUIB",
+  "decimals": 2,
+  "coin_type": "0xbb9cf17a10430f24b5e095160d16e02abc44422b2dec014d2c779e1af4df164a::suib::SUIB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0122efea-5a98-48b9-b457-c7c16e88f1e8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

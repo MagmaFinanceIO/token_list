@@ -1,0 +1,13 @@
+{
+  "name": "SAM",
+  "symbol": "SAM",
+  "decimals": 9,
+  "coin_type": "0x28782dca9c11779961a4fe044fdc0f92e03b1f50947df58f9c6651646693948f::sam::SAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/76b73848-0a31-496b-bc48-2171fe0b4d69.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

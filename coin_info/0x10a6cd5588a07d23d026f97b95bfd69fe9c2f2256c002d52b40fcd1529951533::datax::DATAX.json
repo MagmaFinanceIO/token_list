@@ -1,0 +1,13 @@
+{
+  "name": "DataX-S AI Agent",
+  "symbol": "DATAX",
+  "decimals": 6,
+  "coin_type": "0x10a6cd5588a07d23d026f97b95bfd69fe9c2f2256c002d52b40fcd1529951533::datax::DATAX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Data_X_S_7bec515720.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

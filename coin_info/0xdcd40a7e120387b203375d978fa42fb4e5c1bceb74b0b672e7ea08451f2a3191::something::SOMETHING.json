@@ -1,0 +1,13 @@
+{
+  "name": "something on sui",
+  "symbol": "something",
+  "decimals": 9,
+  "coin_type": "0xdcd40a7e120387b203375d978fa42fb4e5c1bceb74b0b672e7ea08451f2a3191::something::SOMETHING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0988f1c3-7055-47f8-af4d-109560f4e943.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

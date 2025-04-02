@@ -1,0 +1,13 @@
+{
+  "name": "Meow Meme",
+  "symbol": "MEOW",
+  "decimals": 9,
+  "coin_type": "0xb4b4d274b37ea528eafa5fcd9b785491103de1f31b793b9955aaad73b10348db::meow::MEOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/32cfe92b-148b-4108-87b6-bb00c23e5a3f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUINARWHAL",
+  "symbol": "NAR",
+  "decimals": 9,
+  "coin_type": "0xa16a8d7c2022312cae191bf5432287ec245ba12a967b44e49c4acdfb4cec3fe0::nar::NAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c1813a24-5852-4f18-aa14-5a43f1b6b27f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PEPE BOM AI",
+  "symbol": "PEBOMAI",
+  "decimals": 9,
+  "coin_type": "0x9bc240b570a3f32bd8d451b530c2b778dfaf90d710049d21e1dc4dc4ce891cba::pebomai::PEBOMAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1224db18-fc18-40cd-8f8b-0169338db8c4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

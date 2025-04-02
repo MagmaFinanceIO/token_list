@@ -1,0 +1,13 @@
+{
+  "name": "President Goat",
+  "symbol": "PGOAT",
+  "decimals": 9,
+  "coin_type": "0xb93a3476aa4562b23048c6f2a3791d9f3314b9d78871d262824b9e35f401f831::pgoat::PGOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fe3503e2-ca85-4815-a4e1-bf02c0dd2ee0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

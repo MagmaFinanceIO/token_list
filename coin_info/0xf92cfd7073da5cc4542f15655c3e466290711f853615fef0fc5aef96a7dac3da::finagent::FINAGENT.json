@@ -1,0 +1,13 @@
+{
+  "name": "Fin Agent AI",
+  "symbol": "FINAGENT",
+  "decimals": 9,
+  "coin_type": "0xf92cfd7073da5cc4542f15655c3e466290711f853615fef0fc5aef96a7dac3da::finagent::FINAGENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/J8qK7YBXVAr17MiBEgUTZZvD8rrcdPuoSYSuR8R3pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

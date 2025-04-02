@@ -1,0 +1,13 @@
+{
+  "name": "Meow DAO",
+  "symbol": "MEOW",
+  "decimals": 6,
+  "coin_type": "0xbea07b3fdc21b9ee6bcf8f96edcd0d9fcdc5c4b1d5305b554b4481c5f297f505::meow::MEOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://public-cdn.daossui.io/assets/tokens/meowdao-token.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

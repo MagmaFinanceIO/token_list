@@ -1,0 +1,13 @@
+{
+  "name": "One Piece",
+  "symbol": "onepiece",
+  "decimals": 9,
+  "coin_type": "0x941807666dc323cee8b3e6e8358edb2ff9a052dc3392c5df443d84073794cdce::onepiece::ONEPIECE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/576/460/large/-2.jpg?1727937341",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

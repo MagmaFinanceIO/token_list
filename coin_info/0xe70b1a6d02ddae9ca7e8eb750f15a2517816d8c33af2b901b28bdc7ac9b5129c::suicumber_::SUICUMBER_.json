@@ -1,0 +1,13 @@
+{
+  "name": "Suicumber",
+  "symbol": "Suicumber",
+  "decimals": 9,
+  "coin_type": "0xe70b1a6d02ddae9ca7e8eb750f15a2517816d8c33af2b901b28bdc7ac9b5129c::suicumber_::SUICUMBER_",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

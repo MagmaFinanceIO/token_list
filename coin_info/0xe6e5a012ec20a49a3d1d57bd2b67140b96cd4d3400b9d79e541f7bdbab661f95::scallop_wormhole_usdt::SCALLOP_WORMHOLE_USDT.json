@@ -1,0 +1,13 @@
+{
+  "name": "swUSDT",
+  "symbol": "swUSDT",
+  "decimals": 6,
+  "coin_type": "0xe6e5a012ec20a49a3d1d57bd2b67140b96cd4d3400b9d79e541f7bdbab661f95::scallop_wormhole_usdt::SCALLOP_WORMHOLE_USDT",
+  "pyth_id": "",
+  "birdeyeid": "0xe6e5a012ec20a49a3d1d57bd2b67140b96cd4d3400b9d79e541f7bdbab661f95::scallop_wormhole_usdt::SCALLOP_WORMHOLE_USDT",
+  "coin_priority": [],
+  "logo_url": "https://gateway.irys.xyz/GNNHRxZcwE3QnxL39LZQksEHB1JARX2bhBHGbcZCvfWg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

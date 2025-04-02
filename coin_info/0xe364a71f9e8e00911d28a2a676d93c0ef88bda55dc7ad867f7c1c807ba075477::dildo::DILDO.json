@@ -1,0 +1,13 @@
+{
+  "name": "dildo",
+  "symbol": "DILDO",
+  "decimals": 6,
+  "coin_type": "0xe364a71f9e8e00911d28a2a676d93c0ef88bda55dc7ad867f7c1c807ba075477::dildo::DILDO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/17065605580_54eabddcbb.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

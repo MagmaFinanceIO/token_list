@@ -1,0 +1,13 @@
+{
+  "name": "Seanut Arc on Sui",
+  "symbol": "SNUT",
+  "decimals": 9,
+  "coin_type": "0x1298ee9e36adbd81b3ed7f4c0bfcdb70aa90f4c5398df8788dccd0849481cb1e::snut::SNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/66d0f2ec6e07bac424f20f4b1063856ablob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

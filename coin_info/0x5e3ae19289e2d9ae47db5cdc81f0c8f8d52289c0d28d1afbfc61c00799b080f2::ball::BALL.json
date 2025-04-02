@@ -1,0 +1,13 @@
+{
+  "name": "Crypto Ball",
+  "symbol": "BALL",
+  "decimals": 9,
+  "coin_type": "0x5e3ae19289e2d9ae47db5cdc81f0c8f8d52289c0d28d1afbfc61c00799b080f2::ball::BALL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dexscreener.com/solana/azrzkuby6psfr3pebkw4pw6gdr823tepcygsdm2npump",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

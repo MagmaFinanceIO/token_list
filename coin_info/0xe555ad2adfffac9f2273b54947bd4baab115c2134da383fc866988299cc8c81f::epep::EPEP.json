@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Backwards",
+  "symbol": "EPEP",
+  "decimals": 9,
+  "coin_type": "0xe555ad2adfffac9f2273b54947bd4baab115c2134da383fc866988299cc8c81f::epep::EPEP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6465ef36-2026-40f2-aa38-caf3a637ee41.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FUGU",
+  "symbol": "PUFF",
+  "decimals": 6,
+  "coin_type": "0xae21cde6c273bb5a99fd2f6251f6024f564f46800b5308ece1f2736b95b9e252::puff::PUFF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730955549763.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Star Power",
+  "symbol": "Star",
+  "decimals": 6,
+  "coin_type": "0x4ed69017906d83f619730f00d9e4587923903f8fcec834a6b2aff490fc7a266a::star::STAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_09_12_at_6_51_29a_PM_9376bc694a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

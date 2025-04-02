@@ -1,0 +1,13 @@
+{
+  "name": "SUI PEPE",
+  "symbol": "SPEPE",
+  "decimals": 9,
+  "coin_type": "0xff418c761708e18c9e495c16fe837f7fddfcdf22dbb86a04e5e8f1e68dbc2667::spepe::SPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuOzk5MzHrB4gOhrVkr_436IRmlujgQjC2-w&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

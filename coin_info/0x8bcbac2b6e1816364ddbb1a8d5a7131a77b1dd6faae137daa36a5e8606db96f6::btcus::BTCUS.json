@@ -1,0 +1,13 @@
+{
+  "name": "Bitcoinus Maximus",
+  "symbol": "BTCUS",
+  "decimals": 9,
+  "coin_type": "0x8bcbac2b6e1816364ddbb1a8d5a7131a77b1dd6faae137daa36a5e8606db96f6::btcus::BTCUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3nDvgesyikUWXFpB9ZgBVXUGPemWyfbUDimymJ89JNAu.png?size=lg&key=5dfd68",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

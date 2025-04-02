@@ -1,0 +1,13 @@
+{
+  "name": "Funny The Bunny",
+  "symbol": "FUNNY",
+  "decimals": 6,
+  "coin_type": "0x55199835cc4b411dc37cc77261c6d8e98b9ba84e3250ca0246660c39db941458::funny::FUNNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730952435703.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Doogle by Matt Furie",
+  "symbol": "Doogle",
+  "decimals": 9,
+  "coin_type": "0x5c071325239255ba71f5fc7c41ab5ef2de8141e501a2ae0fb2e3cfc321c16bbd::doogle::DOOGLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9d8d310d-8214-4f8a-a605-54df7902af26.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

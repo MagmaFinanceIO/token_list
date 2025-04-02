@@ -1,0 +1,13 @@
+{
+  "name": "Justice For Monkeys",
+  "symbol": "BURNED",
+  "decimals": 9,
+  "coin_type": "0x74a732bb6e65c060d7c288c932d81415ccecbc12a89f38848adf03d8e39d355d::burned::BURNED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmYjAdhMAmx7ueaVHBx3Eu6ZHrie5BBgbGF9jE9tai4gFM",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

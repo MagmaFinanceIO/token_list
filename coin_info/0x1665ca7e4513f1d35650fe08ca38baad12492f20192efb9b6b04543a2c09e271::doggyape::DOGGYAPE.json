@@ -1,0 +1,13 @@
+{
+  "name": "DoggyApe",
+  "symbol": "DoggyApe",
+  "decimals": 9,
+  "coin_type": "0x1665ca7e4513f1d35650fe08ca38baad12492f20192efb9b6b04543a2c09e271::doggyape::DOGGYAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/69b0bb36-c4ee-43b6-a5d4-295c47a64438.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

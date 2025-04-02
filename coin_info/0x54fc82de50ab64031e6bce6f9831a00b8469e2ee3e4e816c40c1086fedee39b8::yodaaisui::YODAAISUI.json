@@ -1,0 +1,13 @@
+{
+  "name": "YODA AI FUN",
+  "symbol": "YODAAISUI",
+  "decimals": 6,
+  "coin_type": "0x54fc82de50ab64031e6bce6f9831a00b8469e2ee3e4e816c40c1086fedee39b8::yodaaisui::YODAAISUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/monica_L_98b9e46927.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

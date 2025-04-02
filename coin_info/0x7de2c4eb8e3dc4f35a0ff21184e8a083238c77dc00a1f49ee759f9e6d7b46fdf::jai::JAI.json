@@ -1,0 +1,13 @@
+{
+  "name": "Japanese Akita Inu",
+  "symbol": "JAI",
+  "decimals": 9,
+  "coin_type": "0x7de2c4eb8e3dc4f35a0ff21184e8a083238c77dc00a1f49ee759f9e6d7b46fdf::jai::JAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BP7YCdPC7GK9Wu28eFAMcbe5zd9j1c6q1HVadmi3pump.png?size=lg&key=75c4f5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

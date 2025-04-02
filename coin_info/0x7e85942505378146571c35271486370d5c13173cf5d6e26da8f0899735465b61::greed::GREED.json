@@ -1,0 +1,13 @@
+{
+  "name": "Greed",
+  "symbol": "GREED",
+  "decimals": 6,
+  "coin_type": "0x7e85942505378146571c35271486370d5c13173cf5d6e26da8f0899735465b61::greed::GREED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736019146833.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Blackie",
+  "symbol": "xB",
+  "decimals": 6,
+  "coin_type": "0x6fb618b1a368a9644c342d04cc7d274f829e0caa7c506e0b385fd269b0434efa::xb::XB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1729778328651b8300eps_d39ec682eb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

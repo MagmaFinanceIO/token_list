@@ -1,0 +1,13 @@
+{
+  "name": "il Capo Of Crypto",
+  "symbol": "CAPO",
+  "decimals": 9,
+  "coin_type": "0xd1a844e2c853da3bfcf618ad31484aca66eb2408a075603b399f045e206ce550::capo::CAPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/akEVQvMa4Nft8vUZtUhV8uPiLMcFUphkeETmjZTnks4.png?size=lg&key=44b95e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

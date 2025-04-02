@@ -1,0 +1,13 @@
+{
+  "name": "Elon Deng",
+  "symbol": "ELD",
+  "decimals": 6,
+  "coin_type": "0x44b150cc1de2d0d6d4e4ae41ae831a616b5f89d5e60467fde681a80f5fd0182b::eld::ELD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Zg_H_Mv_W_Jvikx1_Xm_UDG_2zez_Us_Q1r36oj_WC_1_CY_3_T93_XQ_4n_C_0d27c3ab8d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

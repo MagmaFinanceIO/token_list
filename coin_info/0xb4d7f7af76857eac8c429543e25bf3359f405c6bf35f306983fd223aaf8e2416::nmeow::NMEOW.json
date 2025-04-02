@@ -1,0 +1,13 @@
+{
+  "name": "NoodMeow",
+  "symbol": "NMEOW",
+  "decimals": 9,
+  "coin_type": "0xb4d7f7af76857eac8c429543e25bf3359f405c6bf35f306983fd223aaf8e2416::nmeow::NMEOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/97d261bb-f34b-48c9-a890-2da371de4c28.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

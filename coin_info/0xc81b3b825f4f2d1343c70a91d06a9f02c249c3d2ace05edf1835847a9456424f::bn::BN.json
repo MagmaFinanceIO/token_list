@@ -1,0 +1,13 @@
+{
+  "name": "Bijiewang Network",
+  "symbol": "BN",
+  "decimals": 6,
+  "coin_type": "0xc81b3b825f4f2d1343c70a91d06a9f02c249c3d2ace05edf1835847a9456424f::bn::BN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bijieoss.oss-cn-hongkong.aliyuncs.com/logo/bn.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Save Elons Cybertruck",
+  "symbol": "SEC",
+  "decimals": 9,
+  "coin_type": "0x6ac1cab16199868006733cdd34386cc810114a8f3c4b16f60a7ae7f451746b62::sec::SEC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2EKT7eLRUe4sRyQ1M4Hi7WxvEEg4Ruch1FM6aCW3pump.png?size=lg&key=4c9246",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

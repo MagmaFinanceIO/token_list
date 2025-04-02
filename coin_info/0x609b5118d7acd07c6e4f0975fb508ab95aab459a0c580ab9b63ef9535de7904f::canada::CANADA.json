@@ -1,0 +1,13 @@
+{
+  "name": "Canada",
+  "symbol": "Canada",
+  "decimals": 2,
+  "coin_type": "0x609b5118d7acd07c6e4f0975fb508ab95aab459a0c580ab9b63ef9535de7904f::canada::CANADA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9b976bc4-bb9e-4de4-9355-21846dc20a3d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ebememer Scrooge",
+  "symbol": "HUMBUG",
+  "decimals": 9,
+  "coin_type": "0x867089797dcda6808a8f550c9e80a5300e458577e7f3943beb5a255fad1eda7e::humbug::HUMBUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9ecadc59-6af6-4eda-89ac-ae4fd382711e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

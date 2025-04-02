@@ -1,0 +1,13 @@
+{
+  "name": "SUI Northman Token",
+  "symbol": "TBA",
+  "decimals": 9,
+  "coin_type": "0x2d54116243685e3d7e538ef571aab6f56acffa464c818dca94347264de2cd048::tba::TBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/15aaa4c8-b316-4ad9-805a-e15b16b868d8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

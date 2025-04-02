@@ -1,0 +1,13 @@
+{
+  "name": "TEST",
+  "symbol": "TEST",
+  "decimals": 6,
+  "coin_type": "0x668c28cedc6b761b5282dd839c4758fcfe19f84804c57443050bf79e35a19d61::test::TEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/test_abc8772d55.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

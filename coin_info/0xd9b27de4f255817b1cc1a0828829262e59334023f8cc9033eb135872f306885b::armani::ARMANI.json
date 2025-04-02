@@ -1,0 +1,13 @@
+{
+  "name": "Armani Dog",
+  "symbol": "ARMANI",
+  "decimals": 9,
+  "coin_type": "0xd9b27de4f255817b1cc1a0828829262e59334023f8cc9033eb135872f306885b::armani::ARMANI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4Ka7RcmhK7MXzN17mtH68RtBr17YBZmEcWX4m7Lrpump.png?size=lg&key=2ccadf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

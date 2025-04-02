@@ -1,0 +1,13 @@
+{
+  "name": "Aya Asagiri",
+  "symbol": "AYA",
+  "decimals": 6,
+  "coin_type": "0x8e9187b49143e6071d8bdee63e34224a8e79fdaa6207d2d2ed54007c45936e0b::aya::AYA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/aya_with_sui_tear_aa38eb3d00.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

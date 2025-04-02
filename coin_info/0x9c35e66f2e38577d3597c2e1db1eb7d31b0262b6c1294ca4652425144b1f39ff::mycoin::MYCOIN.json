@@ -1,0 +1,13 @@
+{
+  "name": "D.O.G.E",
+  "symbol": "D.O.G.E",
+  "decimals": 9,
+  "coin_type": "0x9c35e66f2e38577d3597c2e1db1eb7d31b0262b6c1294ca4652425144b1f39ff::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

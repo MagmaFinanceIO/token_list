@@ -1,0 +1,13 @@
+{
+  "name": "CHILL ANDY",
+  "symbol": "CHILLADY",
+  "decimals": 9,
+  "coin_type": "0x3287eecc8dcfa02d80ecfbd9a1cd2d6d58979de38fbfa7f26c47f69547c2cd96::chillady::CHILLADY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9eEvGKn6SHdM5W1yaJxxR431r32x5DmJx5FWojuXpump.png?size=lg&key=0ebb8f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

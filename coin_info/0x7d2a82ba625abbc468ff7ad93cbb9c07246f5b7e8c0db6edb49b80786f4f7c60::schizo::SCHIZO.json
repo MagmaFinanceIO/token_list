@@ -1,0 +1,13 @@
+{
+  "name": "Schizo Terminal AI",
+  "symbol": "SCHIZO",
+  "decimals": 9,
+  "coin_type": "0x7d2a82ba625abbc468ff7ad93cbb9c07246f5b7e8c0db6edb49b80786f4f7c60::schizo::SCHIZO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/H1NPJkh3KUJGbpjkyQD5qG1nrpFW7tHiqek5SAbMpump.png?size=lg&key=075bf5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MOCHISUI",
+  "symbol": "MOCHISUI",
+  "decimals": 9,
+  "coin_type": "0x68c8660f413f00c4b594e5264721657231a930d97ccd9d21b8803859a66be9bb::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

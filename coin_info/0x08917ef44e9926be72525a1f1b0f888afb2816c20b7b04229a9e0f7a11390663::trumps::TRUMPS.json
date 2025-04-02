@@ -1,0 +1,13 @@
+{
+  "name": "Meet The Trumps",
+  "symbol": "TRUMPS",
+  "decimals": 9,
+  "coin_type": "0x08917ef44e9926be72525a1f1b0f888afb2816c20b7b04229a9e0f7a11390663::trumps::TRUMPS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CZR2CkWbepisHQ29RRvCgBYfSfzaHmAgVdr8okYdpump.png?size=lg&key=39b596",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

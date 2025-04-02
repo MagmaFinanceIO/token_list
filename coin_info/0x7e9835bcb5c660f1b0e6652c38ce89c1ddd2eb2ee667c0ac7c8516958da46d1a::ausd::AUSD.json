@@ -1,0 +1,13 @@
+{
+  "name": "AUSD",
+  "symbol": "AUSD",
+  "decimals": 6,
+  "coin_type": "0x7e9835bcb5c660f1b0e6652c38ce89c1ddd2eb2ee667c0ac7c8516958da46d1a::ausd::AUSD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e46b9fbd-d5b0-4ae0-8537-d5e1f5dbecf7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

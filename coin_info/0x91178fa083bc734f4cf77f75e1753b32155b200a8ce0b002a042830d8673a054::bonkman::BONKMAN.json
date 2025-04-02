@@ -1,0 +1,13 @@
+{
+  "name": "bonkman",
+  "symbol": "BONKMAN",
+  "decimals": 9,
+  "coin_type": "0x91178fa083bc734f4cf77f75e1753b32155b200a8ce0b002a042830d8673a054::bonkman::BONKMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ae1d5cf5-3b00-4540-b13e-61bc17edeba4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

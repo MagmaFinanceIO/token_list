@@ -1,0 +1,13 @@
+{
+  "name": "Quby",
+  "symbol": "QUBY",
+  "decimals": 9,
+  "coin_type": "0x567d56736040cab36ceaec9a2199c16c54fb646e08651a47783a03592aafabab::quby::QUBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5471b4e7-bc31-4f53-a3e6-67e8277fe5bd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

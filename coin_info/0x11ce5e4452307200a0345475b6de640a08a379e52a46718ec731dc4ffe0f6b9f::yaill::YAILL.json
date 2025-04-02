@@ -1,0 +1,13 @@
+{
+  "name": "Evelyn by SuiAI",
+  "symbol": "YAILL",
+  "decimals": 6,
+  "coin_type": "0x11ce5e4452307200a0345475b6de640a08a379e52a46718ec731dc4ffe0f6b9f::yaill::YAILL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_8411_5063fa8a83.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

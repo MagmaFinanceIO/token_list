@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Blue",
+  "symbol": "PEPE",
+  "decimals": 6,
+  "coin_type": "0x7f8398845771a4be81e8919ebd93a0fd5124917f80135679fd60ac313986f2d5::pepe::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000012440_a23d622573.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

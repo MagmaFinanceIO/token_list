@@ -1,0 +1,13 @@
+{
+  "name": "Hamster Kombat",
+  "symbol": "HAM",
+  "decimals": 9,
+  "coin_type": "0x71bd5564fa014632c758e9eeb79e721fefa1d32c7c2210b89ce18b3f2ce60481::ham::HAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

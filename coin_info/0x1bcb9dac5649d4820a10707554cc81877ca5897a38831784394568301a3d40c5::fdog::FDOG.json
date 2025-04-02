@@ -1,0 +1,13 @@
+{
+  "name": "flowerdog",
+  "symbol": "FDOG",
+  "decimals": 9,
+  "coin_type": "0x1bcb9dac5649d4820a10707554cc81877ca5897a38831784394568301a3d40c5::fdog::FDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d434047a-8875-4a3e-9535-76cf409c9b59.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

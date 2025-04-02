@@ -1,0 +1,13 @@
+{
+  "name": "ROCKET X",
+  "symbol": "RX",
+  "decimals": 9,
+  "coin_type": "0x097f1f599d3a3cdfdc86ac5827086959b9c934a1f45306c0819cf93dd0c3cb5b::rx::RX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "JXwDGyWs5S4xCLGL",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MIAW",
+  "symbol": "MIAW",
+  "decimals": 9,
+  "coin_type": "0xd3b7ec9c713352af2a61029f72271f2b62b9c1c7c33e965701549cb4fbbc95ec::miaw::MIAW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c60cd3d4-ae9d-43a5-9e85-39a2539111ba.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

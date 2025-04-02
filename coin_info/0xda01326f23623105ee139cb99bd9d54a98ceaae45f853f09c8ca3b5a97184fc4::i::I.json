@@ -1,0 +1,13 @@
+{
+  "name": "Infinite AI",
+  "symbol": "I",
+  "decimals": 6,
+  "coin_type": "0xda01326f23623105ee139cb99bd9d54a98ceaae45f853f09c8ca3b5a97184fc4::i::I",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/de01b1d0-b296-48e3-954c-f993c2d168ef.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

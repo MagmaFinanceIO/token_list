@@ -1,0 +1,13 @@
+{
+  "name": "Sui PiPi",
+  "symbol": "PIPI",
+  "decimals": 9,
+  "coin_type": "0x1ccecd180eb7d504a4513cefcdd7b511527e0ecfc380a322ee2e04e2d309f5b7::pipi::PIPI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fc677585-bbf3-41cc-9068-c4ff29e90404.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

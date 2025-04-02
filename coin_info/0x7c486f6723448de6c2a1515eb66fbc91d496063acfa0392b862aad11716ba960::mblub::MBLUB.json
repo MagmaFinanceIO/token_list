@@ -1,0 +1,13 @@
+{
+  "name": "MutantBlub",
+  "symbol": "MBLUB",
+  "decimals": 9,
+  "coin_type": "0x7c486f6723448de6c2a1515eb66fbc91d496063acfa0392b862aad11716ba960::mblub::MBLUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/63bac19d-14b0-410b-8057-4b3e6c6dcec0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

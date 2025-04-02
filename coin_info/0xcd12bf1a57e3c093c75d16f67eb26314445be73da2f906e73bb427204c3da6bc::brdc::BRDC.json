@@ -1,0 +1,13 @@
+{
+  "name": "Brown dog Coin",
+  "symbol": "BRDC",
+  "decimals": 9,
+  "coin_type": "0xcd12bf1a57e3c093c75d16f67eb26314445be73da2f906e73bb427204c3da6bc::brdc::BRDC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/843471b7-7141-46d3-9105-17d4163c88b6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

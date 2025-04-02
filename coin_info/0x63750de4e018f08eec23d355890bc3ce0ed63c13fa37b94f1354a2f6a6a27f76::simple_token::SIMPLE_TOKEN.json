@@ -1,0 +1,13 @@
+{
+  "name": "SDODO",
+  "symbol": "SDODO",
+  "decimals": 9,
+  "coin_type": "0x63750de4e018f08eec23d355890bc3ce0ed63c13fa37b94f1354a2f6a6a27f76::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

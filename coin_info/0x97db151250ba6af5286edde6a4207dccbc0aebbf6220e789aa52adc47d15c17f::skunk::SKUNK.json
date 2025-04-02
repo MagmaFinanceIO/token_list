@@ -1,0 +1,13 @@
+{
+  "name": "STINKY",
+  "symbol": "SKUNK",
+  "decimals": 6,
+  "coin_type": "0x97db151250ba6af5286edde6a4207dccbc0aebbf6220e789aa52adc47d15c17f::skunk::SKUNK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Geh7i2_M_Xs_AA_Qu_If_c87393aa73.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

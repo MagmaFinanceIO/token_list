@@ -1,0 +1,13 @@
+{
+  "name": "No Meta Index",
+  "symbol": "NMI6900",
+  "decimals": 9,
+  "coin_type": "0xc8450c75486bddb39196aad8a807c3c047ab60fd64882ca02870cd20238d005e::nmi6900::NMI6900",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Ajfi2dVn38vPHzVzhVScWKDHanJJxFdKQZxFqmaApump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

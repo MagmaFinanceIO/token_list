@@ -1,0 +1,13 @@
+{
+  "name": "Izzume",
+  "symbol": "Izzume",
+  "decimals": 9,
+  "coin_type": "0x66c739fd35db722c6f7cb0216a00206f0f5ab68f2b3669cb5f52c6b43e12333f::izzume::IZZUME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AjPfXgUXtQsjs7msxPEEVYWmnH9MC4CbXirAQXC8pump.png?size=lg&key=70b062",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

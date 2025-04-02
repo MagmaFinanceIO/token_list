@@ -1,0 +1,13 @@
+{
+  "name": "Burdo The Bear",
+  "symbol": "BURDO",
+  "decimals": 9,
+  "coin_type": "0x1b740faa875a2a2f09a2f61644f8bf38b3ab8a952db3f131ea8095fae461008a::burdo::BURDO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5KJJ6cE2SNULw9uLkebgvGami3MdV8XWYEZBBWgY9xb.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

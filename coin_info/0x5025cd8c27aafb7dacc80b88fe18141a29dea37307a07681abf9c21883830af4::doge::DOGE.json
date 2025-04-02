@@ -1,0 +1,13 @@
+{
+  "name": "D.O.G.E",
+  "symbol": "DOGE",
+  "decimals": 6,
+  "coin_type": "0x5025cd8c27aafb7dacc80b88fe18141a29dea37307a07681abf9c21883830af4::doge::DOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731514642640.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

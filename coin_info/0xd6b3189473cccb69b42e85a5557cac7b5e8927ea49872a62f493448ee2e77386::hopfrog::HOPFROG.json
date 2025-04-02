@@ -1,0 +1,13 @@
+{
+  "name": "HopFrog On Sui",
+  "symbol": "HopFrog",
+  "decimals": 9,
+  "coin_type": "0xd6b3189473cccb69b42e85a5557cac7b5e8927ea49872a62f493448ee2e77386::hopfrog::HOPFROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/41866c89-6668-4592-8c1d-051f2bdaeb65.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

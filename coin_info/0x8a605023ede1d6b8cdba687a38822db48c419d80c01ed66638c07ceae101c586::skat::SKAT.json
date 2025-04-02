@@ -1,0 +1,13 @@
+{
+  "name": "SKATING CAT",
+  "symbol": "SKAT",
+  "decimals": 6,
+  "coin_type": "0x8a605023ede1d6b8cdba687a38822db48c419d80c01ed66638c07ceae101c586::skat::SKAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ab9decfc_184e_4f9d_bbb3_9a3132c8ed81_79c31ac0b1.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

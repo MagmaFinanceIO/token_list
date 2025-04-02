@@ -1,0 +1,13 @@
+{
+  "name": "DOGs IN OCEAN",
+  "symbol": "DOGs",
+  "decimals": 6,
+  "coin_type": "0x4892ed352ba5438153084c91ed76d75cc5258060b8dfa3a61aa2b757ef6f5ff7::dogs::DOGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_dfd1da8789.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

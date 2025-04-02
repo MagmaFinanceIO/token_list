@@ -1,0 +1,13 @@
+{
+  "name": "Jedi Pepe",
+  "symbol": "JEDI",
+  "decimals": 6,
+  "coin_type": "0x3df47c3b31b513bc7cf14c085a01b020cb55e3a262fd396e530243c9fad11352::jedi::JEDI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/3zor_e0d12e9635.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

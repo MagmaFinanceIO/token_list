@@ -1,0 +1,13 @@
+{
+  "name": "DENG",
+  "symbol": "DEENG",
+  "decimals": 9,
+  "coin_type": "0xa6ab8bfd66239c0e02a4e639c846a91845bcb342cea77c4c61fc357fedf45c30::deeng::DEENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0885a9b1-b8e0-4acc-b157-f08698e2547f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

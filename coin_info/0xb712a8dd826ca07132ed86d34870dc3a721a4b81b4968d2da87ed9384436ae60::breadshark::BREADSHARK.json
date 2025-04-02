@@ -1,0 +1,13 @@
+{
+  "name": "Bread Shark",
+  "symbol": "BREADSHARK",
+  "decimals": 6,
+  "coin_type": "0xb712a8dd826ca07132ed86d34870dc3a721a4b81b4968d2da87ed9384436ae60::breadshark::BREADSHARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0215_76c9248eb1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

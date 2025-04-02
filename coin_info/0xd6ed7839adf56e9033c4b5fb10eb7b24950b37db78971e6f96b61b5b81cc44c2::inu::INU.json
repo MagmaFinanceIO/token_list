@@ -1,0 +1,13 @@
+{
+  "name": "Inu",
+  "symbol": "INU",
+  "decimals": 6,
+  "coin_type": "0xd6ed7839adf56e9033c4b5fb10eb7b24950b37db78971e6f96b61b5b81cc44c2::inu::INU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

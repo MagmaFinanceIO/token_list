@@ -1,0 +1,13 @@
+{
+  "name": "Red Gecko",
+  "symbol": "RGO",
+  "decimals": 6,
+  "coin_type": "0x9149deaaa4dc30df222234633dc0b806381a7f96fdb30a7e914098df5714131c::rgo::RGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Red_Pepe_4a8c5e5937.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

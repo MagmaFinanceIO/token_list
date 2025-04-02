@@ -1,0 +1,13 @@
+{
+  "name": "MAGA",
+  "symbol": "TRUMP",
+  "decimals": 9,
+  "coin_type": "0x1e6362d4d1f6fc0cd8dfc3dbf6fc56176567f1eaffe85f1a8664c3ac0fa31ab3::trump::TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=134,fit=crop,q=95/A85wke81QwsjLV7N/ed9537fe-54d6-4d7f-811b-bbcfabca54d1-AGB67kojv7t8Nv3E.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

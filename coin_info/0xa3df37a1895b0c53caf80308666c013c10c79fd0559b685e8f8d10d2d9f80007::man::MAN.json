@@ -1,0 +1,13 @@
+{
+  "name": "MAN",
+  "symbol": "MAN",
+  "decimals": 6,
+  "coin_type": "0xa3df37a1895b0c53caf80308666c013c10c79fd0559b685e8f8d10d2d9f80007::man::MAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmWDUbwmFuPDy9mW5jRk4h7v1nhnXUr1jmmna6jHA3Npfo",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

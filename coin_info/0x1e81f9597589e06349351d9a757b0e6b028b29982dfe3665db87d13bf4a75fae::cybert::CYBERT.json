@@ -1,0 +1,13 @@
+{
+  "name": "CyberTrump",
+  "symbol": "CyberT",
+  "decimals": 9,
+  "coin_type": "0x1e81f9597589e06349351d9a757b0e6b028b29982dfe3665db87d13bf4a75fae::cybert::CYBERT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3p8ZLxXKA9ivHmAagB1MdhCLCRX1oWY5aBy2hERa1JnB.png?size=lg&key=25e231",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

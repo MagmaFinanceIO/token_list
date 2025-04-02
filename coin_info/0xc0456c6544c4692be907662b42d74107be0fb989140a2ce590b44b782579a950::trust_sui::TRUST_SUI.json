@@ -1,0 +1,13 @@
+{
+  "name": "trust coin",
+  "symbol": "TRUST",
+  "decimals": 6,
+  "coin_type": "0xc0456c6544c4692be907662b42d74107be0fb989140a2ce590b44b782579a950::trust_sui::TRUST_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://blush-tremendous-canidae-396.mypinata.cloud/ipfs/QmSNRiCLDCZ2RJFvn9mJ7gmWpm45pgNAZeJJ3wYEkaje5F",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

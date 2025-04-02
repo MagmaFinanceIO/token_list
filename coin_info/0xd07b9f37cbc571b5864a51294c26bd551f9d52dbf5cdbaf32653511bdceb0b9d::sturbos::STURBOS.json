@@ -1,0 +1,13 @@
+{
+  "name": "Staked Turbos",
+  "symbol": "sTURBOS",
+  "decimals": 9,
+  "coin_type": "0xd07b9f37cbc571b5864a51294c26bd551f9d52dbf5cdbaf32653511bdceb0b9d::sturbos::STURBOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5e5e62da-ada1-40b2-894c-5a4c5a7adc10.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "VEGA Bear",
+  "symbol": "VEGA",
+  "decimals": 6,
+  "coin_type": "0xa8d543ee208e760733b3e8305a6bb8980d4bff7f5e1a0455f71c22ddb8d4637c::vega::VEGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000161632_576f618cb9.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

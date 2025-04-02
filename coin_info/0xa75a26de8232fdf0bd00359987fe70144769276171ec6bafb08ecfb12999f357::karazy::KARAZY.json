@@ -1,0 +1,13 @@
+{
+  "name": "Krazy On Sui",
+  "symbol": "KARAZY",
+  "decimals": 9,
+  "coin_type": "0xa75a26de8232fdf0bd00359987fe70144769276171ec6bafb08ecfb12999f357::karazy::KARAZY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8cda81d8-1a1f-493e-8d5f-5331995c79d7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

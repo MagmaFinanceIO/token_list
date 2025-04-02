@@ -1,0 +1,13 @@
+{
+  "name": "Ai Pump Crypto",
+  "symbol": "AIPUMP",
+  "decimals": 9,
+  "coin_type": "0x9d338bdef8c1518fd2f8fb51b117de53117573b437f5fdf858c797402f9c9918::aipump::AIPUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FLhNk1NJVkngyJf7Stne2nRa3BvCw5Lm7pncsuMHpump.png?size=lg&key=7a180a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

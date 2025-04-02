@@ -1,0 +1,13 @@
+{
+  "name": "BabyPuffer",
+  "symbol": "BPuffer",
+  "decimals": 9,
+  "coin_type": "0x01833751a4c55910ed66582d0897c4a2223af135e16fe8447930fe002a27d1cf::bpuffer::BPUFFER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/media/GXrNEkdbUAAPTOF?format=jpg&name=small",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

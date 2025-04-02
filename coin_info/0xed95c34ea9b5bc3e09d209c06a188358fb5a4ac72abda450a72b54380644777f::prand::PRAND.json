@@ -1,0 +1,13 @@
+{
+  "name": "PRAND",
+  "symbol": "PRAND",
+  "decimals": 9,
+  "coin_type": "0xed95c34ea9b5bc3e09d209c06a188358fb5a4ac72abda450a72b54380644777f::prand::PRAND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x63c30a765736dbe0e5dea3ceb9b202aa1ab36cd4.png?size=lg&key=c4f6af",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

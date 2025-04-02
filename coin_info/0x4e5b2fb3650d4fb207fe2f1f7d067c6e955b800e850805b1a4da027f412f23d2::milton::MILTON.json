@@ -1,0 +1,13 @@
+{
+  "name": "ratomilton",
+  "symbol": "MILTON",
+  "decimals": 9,
+  "coin_type": "0x4e5b2fb3650d4fb207fe2f1f7d067c6e955b800e850805b1a4da027f412f23d2::milton::MILTON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmNZj7LW21ePrQQbeau9zdmegr6SzLfiDDWEH1ZHDuP9Y7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

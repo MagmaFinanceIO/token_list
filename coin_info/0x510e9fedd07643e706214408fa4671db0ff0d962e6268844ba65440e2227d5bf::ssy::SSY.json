@@ -1,0 +1,13 @@
+{
+  "name": "supersuiyan",
+  "symbol": "SSY",
+  "decimals": 6,
+  "coin_type": "0x510e9fedd07643e706214408fa4671db0ff0d962e6268844ba65440e2227d5bf::ssy::SSY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmQHXY6CFB9iCvec79J5YqUMozWzcMFuEfqYK658MuBJ2S",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

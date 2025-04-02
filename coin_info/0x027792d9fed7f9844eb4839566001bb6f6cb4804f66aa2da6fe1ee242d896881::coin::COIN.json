@@ -1,0 +1,15 @@
+{
+  "name": "Wrapped BTC (Portal from Eth)",
+  "symbol": "WBTC",
+  "decimals": 8,
+  "coin_type": "0x027792d9fed7f9844eb4839566001bb6f6cb4804f66aa2da6fe1ee242d896881::coin::COIN",
+  "pyth_id": "e62df6c8b4a85fe1a67db44dc12de5db330f7ac66b72dc658afedf0f4a415b43",
+  "birdeyeid": "0x027792d9fed7f9844eb4839566001bb6f6cb4804f66aa2da6fe1ee242d896881::coin::COIN",
+  "coin_priority": [
+    "890"
+  ],
+  "logo_url": "https://ucnnvm4qciffcmk5cervagst6et7v45hmtq33uy5awcr4kjivt5q.arweave.net/oJras5ASClExXREjUBpT8Sf686dk4b3THQWFHikorPs",
+  "project_url": "",
+  "coingecko_id": "wrapped-btc-wormhole",
+  "is_trusted": true
+}

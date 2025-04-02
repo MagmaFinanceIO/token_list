@@ -1,0 +1,13 @@
+{
+  "name": "Token Jungle",
+  "symbol": "JUNGLE",
+  "decimals": 9,
+  "coin_type": "0xfc910cdd0e6e7fe913065ae071f9283a61a2fb22110bffe73ea9ec17daa529ba::jungle::JUNGLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CzYjL9DJJqWATFFiwZS5BiJKKJ5AJiu8ngN5ccQDS9d1.png?size=lg&key=66ef4d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

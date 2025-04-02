@@ -1,0 +1,13 @@
+{
+  "name": "GROVER SUI",
+  "symbol": "GROVER",
+  "decimals": 6,
+  "coin_type": "0xf68ba1f379d0a26e411d0bd6f1fc76b929ef1441d571228ab5cb71fcc299ea18::grover::GROVER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7223_7482db2c53.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

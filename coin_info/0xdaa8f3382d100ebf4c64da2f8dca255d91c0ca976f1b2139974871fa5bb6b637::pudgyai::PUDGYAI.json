@@ -1,0 +1,13 @@
+{
+  "name": "PUDGY AI",
+  "symbol": "PUDGYAI",
+  "decimals": 9,
+  "coin_type": "0xdaa8f3382d100ebf4c64da2f8dca255d91c0ca976f1b2139974871fa5bb6b637::pudgyai::PUDGYAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EneA6x3fTDbfWq86KAVK2Bdq1PScyAFiiBzKrFiGpump.png?size=lg&key=c14502",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

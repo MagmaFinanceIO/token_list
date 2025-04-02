@@ -1,0 +1,13 @@
+{
+  "name": "Sui Maximus",
+  "symbol": "SUIUS",
+  "decimals": 9,
+  "coin_type": "0x6c99a806c0731cac409fa5cc1a8ec96b3b34408957f28299acaf4d5b5e09179a::suius::SUIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x6900112b105cb9122846f609e74a0c99b8f28f4a.png?size=lg&key=25d5cf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

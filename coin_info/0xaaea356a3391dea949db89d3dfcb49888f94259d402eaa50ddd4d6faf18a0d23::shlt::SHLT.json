@@ -1,0 +1,13 @@
+{
+  "name": "ShibaLite",
+  "symbol": "SHLT",
+  "decimals": 9,
+  "coin_type": "0xaaea356a3391dea949db89d3dfcb49888f94259d402eaa50ddd4d6faf18a0d23::shlt::SHLT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c0f17fde-b01f-4b75-936b-a2f097e94652.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

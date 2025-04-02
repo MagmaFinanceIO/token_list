@@ -1,0 +1,13 @@
+{
+  "name": "Ghostcat",
+  "symbol": "Catsper",
+  "decimals": 9,
+  "coin_type": "0x57bd97ea9f3157c9857fedb24df9ce0ea102e05ebbb26e3356fdcd432ce32839::catsper::CATSPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/19f2697a-388b-4336-ad44-2617082a74ec.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

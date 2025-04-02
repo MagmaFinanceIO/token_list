@@ -1,0 +1,13 @@
+{
+  "name": "Oscar The Octopus",
+  "symbol": "OCTO",
+  "decimals": 6,
+  "coin_type": "0x4b6d48afff2948c3ccc67191cf0ef175637472b007c1a8601fa18e16e236909c::octo::OCTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/DALLA_E_2024_09_14_20_36_43_A_cute_cartoonish_octopus_designed_as_a_profile_picture_The_octopus_has_a_round_friendly_face_with_big_adorable_eyes_and_a_cheerful_smile_It_is_pr_b57590d63d.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

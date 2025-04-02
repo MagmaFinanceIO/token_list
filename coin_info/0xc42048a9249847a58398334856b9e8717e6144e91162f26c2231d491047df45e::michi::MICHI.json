@@ -1,0 +1,13 @@
+{
+  "name": "SuiMichi",
+  "symbol": "MICHI",
+  "decimals": 9,
+  "coin_type": "0xc42048a9249847a58398334856b9e8717e6144e91162f26c2231d491047df45e::michi::MICHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/12d0360e-ffe3-4db9-bb35-863305e511c3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

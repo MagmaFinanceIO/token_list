@@ -1,0 +1,13 @@
+{
+  "name": "Wojak Guy",
+  "symbol": "WOJAKGUY",
+  "decimals": 9,
+  "coin_type": "0x8da785863fbec26345d4d0fcab41e523881417fbe8ec67bf5f44ba0e63917c87::wojakguy::WOJAKGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d1bcd177-ab1b-41c5-95d8-05f5734cc2d2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

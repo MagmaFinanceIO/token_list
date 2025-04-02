@@ -1,0 +1,13 @@
+{
+  "name": "FuLiJi",
+  "symbol": "FLJ",
+  "decimals": 9,
+  "coin_type": "0x09c2670834c19a5c11a626ae12de97809256dd0f069fc9685ab4e88b6d345c42::flj::FLJ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://waterpump.fun/api/file/9709db68ea434e62ad949e189ff1d39c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

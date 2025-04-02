@@ -1,0 +1,13 @@
+{
+  "name": "BLUS",
+  "symbol": "BLUS",
+  "decimals": 9,
+  "coin_type": "0x7348284b9dd8ea769a26ada2930f30a5e646145afbbd098620232571f7d03d30::blus::BLUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5cdfab57-52e7-49a8-904e-fdcc601b204c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

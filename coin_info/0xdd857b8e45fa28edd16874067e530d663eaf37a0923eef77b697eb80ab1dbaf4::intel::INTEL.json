@@ -1,0 +1,13 @@
+{
+  "name": "INTEL",
+  "symbol": "INTEL",
+  "decimals": 9,
+  "coin_type": "0xdd857b8e45fa28edd16874067e530d663eaf37a0923eef77b697eb80ab1dbaf4::intel::INTEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

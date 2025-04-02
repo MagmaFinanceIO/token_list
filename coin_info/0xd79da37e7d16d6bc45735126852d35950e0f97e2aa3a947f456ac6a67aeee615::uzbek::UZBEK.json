@@ -1,0 +1,13 @@
+{
+  "name": "Uzbek On Sui",
+  "symbol": "UZBEK",
+  "decimals": 6,
+  "coin_type": "0xd79da37e7d16d6bc45735126852d35950e0f97e2aa3a947f456ac6a67aeee615::uzbek::UZBEK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_uzbek_1_30cfb022e1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

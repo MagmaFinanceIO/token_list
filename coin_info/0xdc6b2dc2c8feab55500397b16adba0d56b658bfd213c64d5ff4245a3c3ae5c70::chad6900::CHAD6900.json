@@ -1,0 +1,13 @@
+{
+  "name": "CHAD SUI",
+  "symbol": "CHAD6900",
+  "decimals": 6,
+  "coin_type": "0xdc6b2dc2c8feab55500397b16adba0d56b658bfd213c64d5ff4245a3c3ae5c70::chad6900::CHAD6900",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/CHAD_c549ce7292.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

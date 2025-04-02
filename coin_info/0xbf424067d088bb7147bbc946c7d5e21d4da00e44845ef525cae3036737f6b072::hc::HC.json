@@ -1,0 +1,13 @@
+{
+  "name": "HopCat",
+  "symbol": "HC",
+  "decimals": 6,
+  "coin_type": "0xbf424067d088bb7147bbc946c7d5e21d4da00e44845ef525cae3036737f6b072::hc::HC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5502_59de9f6279.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

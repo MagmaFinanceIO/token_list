@@ -1,0 +1,13 @@
+{
+  "name": "Just a Bread",
+  "symbol": "BREAD",
+  "decimals": 9,
+  "coin_type": "0xe16243ef1f30c3ab2b4193e1fae571c4631e0b6bf5766e6ce9b3fbd389493121::bread::BREAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3r8igbjdAsWRyqo84FXBnpQFDEstTUu3GwkuUb8hpump.png?size=lg&key=077b6d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

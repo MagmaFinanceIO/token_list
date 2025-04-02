@@ -1,0 +1,13 @@
+{
+  "name": "rabbit",
+  "symbol": "rabbit",
+  "decimals": 6,
+  "coin_type": "0xf39dba2f6ccc84f5ebf5e81b463241464acde7a840a9b93b8a53c298248154d9::rabbit::RABBIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmU2tKh2oSARzAn1YgtnhZac33qxDukZtu8SGQr9B1AwM8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

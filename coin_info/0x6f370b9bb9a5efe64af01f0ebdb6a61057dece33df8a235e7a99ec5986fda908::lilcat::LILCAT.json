@@ -1,0 +1,13 @@
+{
+  "name": "Lil Cat",
+  "symbol": "lilcat",
+  "decimals": 9,
+  "coin_type": "0x6f370b9bb9a5efe64af01f0ebdb6a61057dece33df8a235e7a99ec5986fda908::lilcat::LILCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8f54b0f2-1385-403f-95f8-44c50ceba292.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

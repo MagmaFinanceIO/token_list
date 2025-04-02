@@ -1,0 +1,13 @@
+{
+  "name": "Nothing",
+  "symbol": "VOID",
+  "decimals": 9,
+  "coin_type": "0x4ab473023e02291ac71033c523493ce7043a07e55c431276a492149e33655e2f::void::VOID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6gh8b2mqUrVb6Ew8Mwt89tNyN9keCDNstzT5cdp5pump.png?size=lg&key=09ba52",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

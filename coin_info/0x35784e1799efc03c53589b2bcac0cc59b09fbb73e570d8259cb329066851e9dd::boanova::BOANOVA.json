@@ -1,0 +1,13 @@
+{
+  "name": "BOANOVA",
+  "symbol": "BOANOVA",
+  "decimals": 9,
+  "coin_type": "0x35784e1799efc03c53589b2bcac0cc59b09fbb73e570d8259cb329066851e9dd::boanova::BOANOVA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b1056d38-269b-4822-a30b-7fad8a77ccf7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

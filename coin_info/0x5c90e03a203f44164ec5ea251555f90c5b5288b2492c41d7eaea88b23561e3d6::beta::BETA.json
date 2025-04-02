@@ -1,0 +1,13 @@
+{
+  "name": "BETA Token",
+  "symbol": "BETA",
+  "decimals": 9,
+  "coin_type": "0x5c90e03a203f44164ec5ea251555f90c5b5288b2492c41d7eaea88b23561e3d6::beta::BETA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://letsenhance.io/static/66c1b6abf8f7cf44c19185254d7adb0c/ff1b5/AiArtBefore.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

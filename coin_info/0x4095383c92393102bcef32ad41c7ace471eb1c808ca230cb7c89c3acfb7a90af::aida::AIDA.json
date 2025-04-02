@@ -1,0 +1,13 @@
+{
+  "name": "Aida",
+  "symbol": "AIDA",
+  "decimals": 9,
+  "coin_type": "0x4095383c92393102bcef32ad41c7ace471eb1c808ca230cb7c89c3acfb7a90af::aida::AIDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/photo_2024_12_19_22_11_19_1dbcb256da.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

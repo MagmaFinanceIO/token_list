@@ -1,0 +1,13 @@
+{
+  "name": "TDEXIUS MAXIMUS",
+  "symbol": "TDEXIUS",
+  "decimals": 9,
+  "coin_type": "0xe3c64a44d4b268feb171ee01bda3adc659840e2a8a3ad54b74793987deec115e::tdexius::TDEXIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/arHlcyGo6bEcSIS9?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

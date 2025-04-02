@@ -1,0 +1,13 @@
+{
+  "name": "Dragon On Sui",
+  "symbol": "SDRAG",
+  "decimals": 9,
+  "coin_type": "0xba825e388f1614c01fe4ae7fa59de08678b8164dcd2ab33fa641aa34898cd756::sdrag::SDRAG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/02744637-4543-4988-b1c0-c3a2294f3e2b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

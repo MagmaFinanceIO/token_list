@@ -1,0 +1,13 @@
+{
+  "name": "BLU",
+  "symbol": "BLUEY",
+  "decimals": 6,
+  "coin_type": "0x26780241e62b61efe6717d98bee643f02362c96755b51d84d94207ee3eb46036::bluey::BLUEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731185516338.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

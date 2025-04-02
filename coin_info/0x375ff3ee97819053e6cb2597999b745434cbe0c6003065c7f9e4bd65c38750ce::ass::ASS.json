@@ -1,0 +1,13 @@
+{
+  "name": "ASS",
+  "symbol": "ASS",
+  "decimals": 2,
+  "coin_type": "0x375ff3ee97819053e6cb2597999b745434cbe0c6003065c7f9e4bd65c38750ce::ass::ASS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/be3c8ca7-e2d6-4e3c-9b44-05c8af7934aa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

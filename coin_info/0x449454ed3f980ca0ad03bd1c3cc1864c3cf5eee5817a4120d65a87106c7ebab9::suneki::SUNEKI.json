@@ -1,0 +1,13 @@
+{
+  "name": "SUNEKI CAT",
+  "symbol": "SUNEKI",
+  "decimals": 6,
+  "coin_type": "0x449454ed3f980ca0ad03bd1c3cc1864c3cf5eee5817a4120d65a87106c7ebab9::suneki::SUNEKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SUNEKI_SUI_9e2c765289.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

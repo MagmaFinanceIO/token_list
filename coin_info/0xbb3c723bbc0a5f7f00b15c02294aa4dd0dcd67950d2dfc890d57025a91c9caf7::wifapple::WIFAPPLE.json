@@ -1,0 +1,13 @@
+{
+  "name": "Dog Wif Apple",
+  "symbol": "WIFAPPLE",
+  "decimals": 6,
+  "coin_type": "0xbb3c723bbc0a5f7f00b15c02294aa4dd0dcd67950d2dfc890d57025a91c9caf7::wifapple::WIFAPPLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/dogwifapple_a902132fcb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

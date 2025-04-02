@@ -1,0 +1,13 @@
+{
+  "name": "GODES",
+  "symbol": "GES",
+  "decimals": 6,
+  "coin_type": "0xdf77d64936ef83e70d4050e15797f1890c0a0ea26dfca8a89e876eafd1f9d475::ges::GES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmPRuzvrun1mRxKvxcc94QcLnRuqkp2HCL2hiaQvAYqxfb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

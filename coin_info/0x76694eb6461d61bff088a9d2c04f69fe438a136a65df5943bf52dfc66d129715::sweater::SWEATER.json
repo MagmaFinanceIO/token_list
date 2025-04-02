@@ -1,0 +1,13 @@
+{
+  "name": "SWEATER",
+  "symbol": "SWEATER",
+  "decimals": 9,
+  "coin_type": "0x76694eb6461d61bff088a9d2c04f69fe438a136a65df5943bf52dfc66d129715::sweater::SWEATER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3RHuvbv5JtxgPsymK3LqF4F7rz8kTW72YigFx8ggpump.png?size=lg&key=90af65",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

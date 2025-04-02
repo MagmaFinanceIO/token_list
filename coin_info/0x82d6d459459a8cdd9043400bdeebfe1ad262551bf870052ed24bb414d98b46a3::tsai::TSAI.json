@@ -1,0 +1,13 @@
+{
+  "name": "TRUMP SUI AI",
+  "symbol": "TSAI",
+  "decimals": 6,
+  "coin_type": "0x82d6d459459a8cdd9043400bdeebfe1ad262551bf870052ed24bb414d98b46a3::tsai::TSAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/trumpsuiailogo_33e1d3c6d9.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

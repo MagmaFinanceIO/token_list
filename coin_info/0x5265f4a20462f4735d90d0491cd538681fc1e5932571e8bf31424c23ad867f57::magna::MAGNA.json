@@ -1,0 +1,13 @@
+{
+  "name": "Magna AI by SuiAI",
+  "symbol": "MAGNA",
+  "decimals": 6,
+  "coin_type": "0x5265f4a20462f4735d90d0491cd538681fc1e5932571e8bf31424c23ad867f57::magna::MAGNA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_2236_244af0ff5e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

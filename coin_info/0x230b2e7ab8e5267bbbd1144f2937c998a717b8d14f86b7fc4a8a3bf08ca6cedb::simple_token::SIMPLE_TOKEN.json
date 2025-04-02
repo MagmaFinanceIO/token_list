@@ -1,0 +1,13 @@
+{
+  "name": "hyperbole on sui",
+  "symbol": "hyperbole",
+  "decimals": 9,
+  "coin_type": "0x230b2e7ab8e5267bbbd1144f2937c998a717b8d14f86b7fc4a8a3bf08ca6cedb::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CosmosAI",
+  "symbol": "CSAI",
+  "decimals": 9,
+  "coin_type": "0xc654ee987d01bbccc53728327b2df64dd8b7b856ff8831f0d1caac6a45741411::csai::CSAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e84e4aea-fd21-4e09-b5d7-ef402d124e18.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

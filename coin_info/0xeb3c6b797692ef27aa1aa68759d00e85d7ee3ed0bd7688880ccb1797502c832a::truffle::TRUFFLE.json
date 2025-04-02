@@ -1,0 +1,13 @@
+{
+  "name": "Trump Truffle",
+  "symbol": "TRUFFLE",
+  "decimals": 9,
+  "coin_type": "0xeb3c6b797692ef27aa1aa68759d00e85d7ee3ed0bd7688880ccb1797502c832a::truffle::TRUFFLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BF3F8J5BBYg8QdqsD8GLF46fbaNLoGAUS8uX1434ZLBU.png?size=lg&key=3a1078",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

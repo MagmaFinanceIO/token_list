@@ -1,0 +1,13 @@
+{
+  "name": "JERK STEVE",
+  "symbol": "JERK",
+  "decimals": 9,
+  "coin_type": "0x1dbb1cd24f1c55090cc6e14a60841b867511f7d5c245a9780c9512f80479dc7c::jerk::JERK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4pyktCdWhXgWRsMe7zPboVJaA75g5XrwTU73My1Upump.png?size=lg&key=8a2a29",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

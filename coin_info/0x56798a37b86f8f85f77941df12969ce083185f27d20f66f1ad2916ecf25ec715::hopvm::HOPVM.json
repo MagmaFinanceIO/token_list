@@ -1,0 +1,13 @@
+{
+  "name": "HOPVEMBER",
+  "symbol": "$HOPVM",
+  "decimals": 6,
+  "coin_type": "0x56798a37b86f8f85f77941df12969ce083185f27d20f66f1ad2916ecf25ec715::hopvm::HOPVM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmdwrAZd5WT3EDuGxrrLkTXPrH2yA2yipgA2zdR7UnsPPK",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

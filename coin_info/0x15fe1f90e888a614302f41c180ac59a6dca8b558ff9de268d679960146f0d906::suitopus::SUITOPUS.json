@@ -1,0 +1,13 @@
+{
+  "name": "Sui Octopus",
+  "symbol": "SUITOPUS",
+  "decimals": 6,
+  "coin_type": "0x15fe1f90e888a614302f41c180ac59a6dca8b558ff9de268d679960146f0d906::suitopus::SUITOPUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/zodiac000z_rpg_item_icon_of_a_blue_octopusgolden_coin_eyescoins_32a05e2b_24dc_4c07_8b60_bd03395c3e0e_1_9123edb5f6.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

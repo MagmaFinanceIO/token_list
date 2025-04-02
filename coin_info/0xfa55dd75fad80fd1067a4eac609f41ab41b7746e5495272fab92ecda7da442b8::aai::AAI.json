@@ -1,0 +1,13 @@
+{
+  "name": "AiOnSui by SuiAI",
+  "symbol": "AAI",
+  "decimals": 6,
+  "coin_type": "0xfa55dd75fad80fd1067a4eac609f41ab41b7746e5495272fab92ecda7da442b8::aai::AAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Screenshot_2025_01_10_at_3_24_06_pm_617615ff7b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

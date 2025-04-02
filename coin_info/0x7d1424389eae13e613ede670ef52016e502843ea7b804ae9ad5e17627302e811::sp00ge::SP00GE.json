@@ -1,0 +1,13 @@
+{
+  "name": "SP00GE",
+  "symbol": "SP00GE",
+  "decimals": 6,
+  "coin_type": "0x7d1424389eae13e613ede670ef52016e502843ea7b804ae9ad5e17627302e811::sp00ge::SP00GE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.okx.com/cdn/web3/currency/token/501-34D7VCSA7uKsCHe5rRs5NpnkGRy7PW4g41asJnZ9pump-98.png/type=default_350_0?v=1735831285617&x-oss-process=image/format,webp/ignore-error,1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

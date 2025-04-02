@@ -1,0 +1,13 @@
+{
+  "name": "SWARM",
+  "symbol": "SWARMM",
+  "decimals": 6,
+  "coin_type": "0xc3dcd9bac8f9a1ab9d5e123ee0d5096677a42e4a48e312214555e7fa207a1748::swarmm::SWARMM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/swarm_ef177f1b1d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Goggles On Poodle",
+  "symbol": "POODLE",
+  "decimals": 6,
+  "coin_type": "0x55b3ec037d32e57eb4f34e9ecd4ec6123d2090b75cc537714196eb34fb862ab9::poodle::POODLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/poodle3_619295d9df.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

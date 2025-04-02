@@ -1,0 +1,13 @@
+{
+  "name": "Nexus AI",
+  "symbol": "NAI",
+  "decimals": 9,
+  "coin_type": "0x63a5f2dd25e895ada0216abd9ffa3a08cc26531fb356f1d493bddbd82548ab96::nai::NAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b8ff3555-f099-4b05-aaa0-c081bb1b7fdf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

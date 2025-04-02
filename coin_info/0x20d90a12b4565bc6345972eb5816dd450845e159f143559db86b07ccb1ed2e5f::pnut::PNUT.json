@@ -1,0 +1,13 @@
+{
+  "name": "PNUTS",
+  "symbol": "PNUT",
+  "decimals": 6,
+  "coin_type": "0x20d90a12b4565bc6345972eb5816dd450845e159f143559db86b07ccb1ed2e5f::pnut::PNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pn2_aeac16fd95.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

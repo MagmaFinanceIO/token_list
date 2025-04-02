@@ -1,0 +1,13 @@
+{
+  "name": "Harambe AI",
+  "symbol": "HARAMBEAI",
+  "decimals": 9,
+  "coin_type": "0xb5e5620c61056db77011d72d3de06b20c9af54bc21f821c6b03de2f0ba49dfd5::harambeai::HARAMBEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a010a2d9-5e48-4ea1-a37d-0110c97f21a6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

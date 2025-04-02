@@ -1,0 +1,13 @@
+{
+  "name": "BabyTurtle",
+  "symbol": "TURTLE",
+  "decimals": 6,
+  "coin_type": "0x052b7777a6295862237dd4101610703f484016e6147d021e606fd3609267a1e5::turtle::TURTLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Vas_Mh1_CWH_Qife_H_Bwhe_ZC_3_Z7227a_Md_ES_Wo6c9_BE_Vi7a_Cq_4b73db2d25.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

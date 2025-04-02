@@ -1,0 +1,13 @@
+{
+  "name": "BELUGA",
+  "symbol": "$BELUGA",
+  "decimals": 6,
+  "coin_type": "0x8b7aa115daaa980ac5476944d3971bce9731bc02380d2039f1bfb402fffa0fce::beluga::BELUGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmenaDAB4AqadRUbwnigf7oJA7A5e9bS3YnZY6gfc1XUX3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

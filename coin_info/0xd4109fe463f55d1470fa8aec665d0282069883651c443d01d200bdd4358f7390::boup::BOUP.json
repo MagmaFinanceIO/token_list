@@ -1,0 +1,13 @@
+{
+  "name": "bOUP",
+  "symbol": "bOUP",
+  "decimals": 9,
+  "coin_type": "0xd4109fe463f55d1470fa8aec665d0282069883651c443d01d200bdd4358f7390::boup::BOUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CB48KiK1oi1tWtjmPWxVR2NPeEr9ewzmZQ8ERk79Ue4b.png?size=lg&key=e3d4b7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

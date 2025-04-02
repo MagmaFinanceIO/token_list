@@ -1,0 +1,13 @@
+{
+  "name": "Abaddon the Despoiler",
+  "symbol": "despoiler",
+  "decimals": 9,
+  "coin_type": "0x9b2b74dfbbc93fbcfa74c98a5e6ea156cabf76b055f77c7a673fa805cc370a09::despoiler::DESPOILER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/850/131/large/alexei-konev-1.jpg?1728673719",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

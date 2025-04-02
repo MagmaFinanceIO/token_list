@@ -1,0 +1,13 @@
+{
+  "name": "WorlldZ",
+  "symbol": "WRZ",
+  "decimals": 6,
+  "coin_type": "0xeddf484e1ca2179eb9523cc003f26fd88f1a12b8c16c7c8b3c0ca89df2e32428::wrz::WRZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmYMUF8UshRkcepq3PByxGC9aB9Z2WvRntkDPbvtQm5fGJ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Super SUI",
+  "symbol": "SUPER",
+  "decimals": 6,
+  "coin_type": "0x7a76bfc8581a2d342341265e2ee53992dda1da856ea20b1bfeabac2c173f25b2::super::SUPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/super_sui_5e330be1db.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

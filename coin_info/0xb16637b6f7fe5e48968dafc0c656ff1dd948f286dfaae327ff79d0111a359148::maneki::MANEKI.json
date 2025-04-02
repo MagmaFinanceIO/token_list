@@ -1,0 +1,13 @@
+{
+  "name": "Maneki",
+  "symbol": "NEKO",
+  "decimals": 9,
+  "coin_type": "0xb16637b6f7fe5e48968dafc0c656ff1dd948f286dfaae327ff79d0111a359148::maneki::MANEKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b899af3c-2816-4640-ad20-661aa160ec08.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

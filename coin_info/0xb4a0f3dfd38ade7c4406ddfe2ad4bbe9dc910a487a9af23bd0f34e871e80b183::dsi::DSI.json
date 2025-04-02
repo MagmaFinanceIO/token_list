@@ -1,0 +1,13 @@
+{
+  "name": "Diamond Sui",
+  "symbol": "DSI",
+  "decimals": 9,
+  "coin_type": "0xb4a0f3dfd38ade7c4406ddfe2ad4bbe9dc910a487a9af23bd0f34e871e80b183::dsi::DSI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aa27c163-fb8e-4fba-ae6b-06f0d9cf9eed.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "YAKO",
+  "symbol": "YAKO",
+  "decimals": 9,
+  "coin_type": "0x57f473d6cb25615cab13e8f2caf5f413bbff1a7563d12a61154aa39615e82abb::yako::YAKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DAuCECHZeKEMQi4GbuJrHR3gBymy4gks7NNAdi7Bpump.png?size=lg&key=e42df4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

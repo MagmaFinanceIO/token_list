@@ -1,0 +1,13 @@
+{
+  "name": "SpriteCat",
+  "symbol": "SpriteCat",
+  "decimals": 9,
+  "coin_type": "0xfe5da8021c47b51298079ceb16ad1784b4a72e4a126921ae5af8a755b5ee6f1f::spritecat::SPRITECAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a973d8c6-71be-4dc5-aa3b-05b613d95efd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

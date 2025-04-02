@@ -1,0 +1,13 @@
+{
+  "name": "Degen Spartan AI",
+  "symbol": "DEGENAI",
+  "decimals": 9,
+  "coin_type": "0x127d80b14fbb7bd0083e8d9586b818f69720edbd51e475f8e068c0defac578c3::degenai::DEGENAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7qcW8hubnpSsmTvA9wa1HfqEbS3Egkf5djTmoFjqXaKP.png?size=lg&key=134c1c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

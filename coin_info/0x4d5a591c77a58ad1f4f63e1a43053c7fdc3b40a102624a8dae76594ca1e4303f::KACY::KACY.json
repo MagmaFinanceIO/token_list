@@ -1,0 +1,13 @@
+{
+  "name": "markkacy",
+  "symbol": "KACY",
+  "decimals": 2,
+  "coin_type": "0x4d5a591c77a58ad1f4f63e1a43053c7fdc3b40a102624a8dae76594ca1e4303f::KACY::KACY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/_yc9APsp6du8ju0H158BDgFRC-5sF9F-xYcd_kFmS3M?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

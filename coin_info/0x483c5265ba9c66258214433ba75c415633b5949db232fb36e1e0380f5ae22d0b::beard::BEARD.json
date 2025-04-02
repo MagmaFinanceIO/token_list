@@ -1,0 +1,13 @@
+{
+  "name": "Blue Beard",
+  "symbol": "BEARD",
+  "decimals": 6,
+  "coin_type": "0x483c5265ba9c66258214433ba75c415633b5949db232fb36e1e0380f5ae22d0b::beard::BEARD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/BEARD_a92967b5fa.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Nautilus Agent",
+  "symbol": "NATL",
+  "decimals": 6,
+  "coin_type": "0x44bec60c55e7c4233a240b804310511e6d0c18168636bf537639669035bbb1b2::natl::NATL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737292788747.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

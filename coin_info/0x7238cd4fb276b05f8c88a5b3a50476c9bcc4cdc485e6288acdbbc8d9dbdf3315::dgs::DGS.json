@@ -1,0 +1,13 @@
+{
+  "name": "Doge Sui",
+  "symbol": "DGS",
+  "decimals": 0,
+  "coin_type": "0x7238cd4fb276b05f8c88a5b3a50476c9bcc4cdc485e6288acdbbc8d9dbdf3315::dgs::DGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/80d7b9b4-a253-417f-a501-3907df92f92f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

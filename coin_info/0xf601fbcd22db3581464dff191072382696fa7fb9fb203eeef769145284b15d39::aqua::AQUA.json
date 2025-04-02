@@ -1,0 +1,13 @@
+{
+  "name": "AquaMen",
+  "symbol": "AQUA",
+  "decimals": 9,
+  "coin_type": "0xf601fbcd22db3581464dff191072382696fa7fb9fb203eeef769145284b15d39::aqua::AQUA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/00c84606-1947-454f-b2b9-b0a2563dc41b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

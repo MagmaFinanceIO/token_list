@@ -1,0 +1,13 @@
+{
+  "name": "BBBTC",
+  "symbol": "BBB",
+  "decimals": 9,
+  "coin_type": "0xada78a3de15ae1fcc12928d7ded092bb041dc3a40164532fc37b35f7ec2d44ae::bbb::BBB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/840eeff1-89c9-434b-8cc0-1600d07addad.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

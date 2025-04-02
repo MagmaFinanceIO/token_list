@@ -1,0 +1,13 @@
+{
+  "name": "Totoro",
+  "symbol": "TORO",
+  "decimals": 9,
+  "coin_type": "0x7ce74e1d5be2f283ed2fb4f2923ddb1a835b828df7e8470dd52f58ff333604db::toro::TORO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/00fa7d0d-6f3a-4e1c-9d97-0bf0a2eb0fc6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

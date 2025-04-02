@@ -1,0 +1,13 @@
+{
+  "name": "BLS",
+  "symbol": "BLS",
+  "decimals": 2,
+  "coin_type": "0x34ada9a906eee798c0e3dcbb0e99563eb0aa59cf15bdb8b8f3a0df48619ad6f4::BLS::BLS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/31b80d49-166a-4143-a873-83e05d966988.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

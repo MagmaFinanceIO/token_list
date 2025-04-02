@@ -1,0 +1,13 @@
+{
+  "name": "green eyed cat",
+  "symbol": "GREEN",
+  "decimals": 9,
+  "coin_type": "0x4e24d67f9f0592fed3a0d14e59a930d7b8c63368f513fe44b7a03146e2b14352::green::GREEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0b37654e-95da-41a4-b9a8-68074ce52d13.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

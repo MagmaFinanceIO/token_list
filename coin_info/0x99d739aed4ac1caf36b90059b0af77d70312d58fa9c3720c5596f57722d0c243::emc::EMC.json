@@ -1,0 +1,13 @@
+{
+  "name": "ELONg MUSKy COIN",
+  "symbol": "EMC",
+  "decimals": 6,
+  "coin_type": "0x99d739aed4ac1caf36b90059b0af77d70312d58fa9c3720c5596f57722d0c243::emc::EMC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_11_23_061925_8b1c3451ca.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

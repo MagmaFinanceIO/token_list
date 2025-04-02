@@ -1,0 +1,13 @@
+{
+  "name": "SuiOrca",
+  "symbol": "Orca",
+  "decimals": 9,
+  "coin_type": "0x06119c5567edf45510092e523f6f701139a498721684d5c2eca2ed1df317a9ab::orca::ORCA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/214fbcf8-6046-4e40-b513-5741993b4a65.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

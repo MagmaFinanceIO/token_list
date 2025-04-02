@@ -1,0 +1,13 @@
+{
+  "name": "The Year Of The Snake",
+  "symbol": "SNAKE",
+  "decimals": 9,
+  "coin_type": "0x9f45566215e12cf6b2d807655e6675c066dbb6a4927fd1bd99c3165423d6e38d::snake::SNAKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9RDKFJaqv9N8yrvJPD5hRPFCpskv2hFc6CZs7roppump.png?size=lg&key=4f1b06",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BEACH",
+  "symbol": "BEA",
+  "decimals": 6,
+  "coin_type": "0xd0af7613346c3cf072d570b84f530f7cdd389e5dbfa36ed6343f03b849ffebde::bea::BEA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/af00714b-eeb9-4cdd-8562-73ed17941637.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

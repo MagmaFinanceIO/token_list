@@ -1,0 +1,13 @@
+{
+  "name": "CAP",
+  "symbol": "CAP",
+  "decimals": 9,
+  "coin_type": "0x4df28e95cc8cb636ae17c175eb03e91ffa0d547527878ef5878aa08d62cb3dce::cap::CAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

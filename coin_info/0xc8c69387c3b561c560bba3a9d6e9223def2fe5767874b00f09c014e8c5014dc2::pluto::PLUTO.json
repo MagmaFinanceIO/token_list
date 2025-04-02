@@ -1,0 +1,13 @@
+{
+  "name": "Pluto",
+  "symbol": "PLUTO",
+  "decimals": 9,
+  "coin_type": "0xc8c69387c3b561c560bba3a9d6e9223def2fe5767874b00f09c014e8c5014dc2::pluto::PLUTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DVrnYnddfVjrjZFiHEZ94LvhqVETSuCR8qPYKwZubU1m.png?size=lg&key=b3725f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SeaAI Protocol",
+  "symbol": "SeaAI",
+  "decimals": 9,
+  "coin_type": "0x90d003af986bdb4d3e127a1c6cb4a0ec93baeea8ad40826e21d61c009b3a78fa::seaai::SEAAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/88ed00ca-f96f-44d3-a37b-734a43a741d4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Bean",
+  "symbol": "BEAN",
+  "decimals": 5,
+  "coin_type": "0x671d0530237007efa25dca5c7d8b00eac3a4282cce4876e3758f87c7bee395c9::bean::BEAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e90b232b-6206-46e9-a614-b6e0c834fe9c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

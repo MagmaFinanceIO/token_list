@@ -1,0 +1,13 @@
+{
+  "name": "SUIZ",
+  "symbol": "SUIZ",
+  "decimals": 6,
+  "coin_type": "0xda79c0756319ea12c1679cb0d2c9fa85c66c0c724f45b7d1af0f7ed79fe4573d::suiz::SUIZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

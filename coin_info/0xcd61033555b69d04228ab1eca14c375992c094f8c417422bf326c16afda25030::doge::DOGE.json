@@ -1,0 +1,13 @@
+{
+  "name": "Sleep Dog",
+  "symbol": "DOGE",
+  "decimals": 6,
+  "coin_type": "0xcd61033555b69d04228ab1eca14c375992c094f8c417422bf326c16afda25030::doge::DOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_9970_454ccdd652.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

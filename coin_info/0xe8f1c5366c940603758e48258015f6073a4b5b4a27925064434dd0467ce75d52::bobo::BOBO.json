@@ -1,0 +1,13 @@
+{
+  "name": "BOBO",
+  "symbol": "Sui BoBo",
+  "decimals": 9,
+  "coin_type": "0xe8f1c5366c940603758e48258015f6073a4b5b4a27925064434dd0467ce75d52::bobo::BOBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/QmTodgMdoFUmko7Rs6gYFdNYVLDWMESdJbPVaeGfPdj9uq",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

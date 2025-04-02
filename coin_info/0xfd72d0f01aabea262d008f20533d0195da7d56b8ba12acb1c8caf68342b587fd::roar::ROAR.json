@@ -1,0 +1,13 @@
+{
+  "name": "Roar",
+  "symbol": "Roar",
+  "decimals": 9,
+  "coin_type": "0xfd72d0f01aabea262d008f20533d0195da7d56b8ba12acb1c8caf68342b587fd::roar::ROAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8bGz35QSb9AwcK1hLb8vnpRvBLctQ4YCdHmEBX3XKiz6.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

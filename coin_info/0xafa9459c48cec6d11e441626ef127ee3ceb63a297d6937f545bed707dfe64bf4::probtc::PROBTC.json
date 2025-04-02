@@ -1,0 +1,13 @@
+{
+  "name": "Pro Bitcoin President",
+  "symbol": "PROBTC",
+  "decimals": 9,
+  "coin_type": "0xafa9459c48cec6d11e441626ef127ee3ceb63a297d6937f545bed707dfe64bf4::probtc::PROBTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/UAvV3WFdijiuRWn6VeVzRn93d1mNjuE5ZrRuUXwpump.png?size=lg&key=b61e34",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

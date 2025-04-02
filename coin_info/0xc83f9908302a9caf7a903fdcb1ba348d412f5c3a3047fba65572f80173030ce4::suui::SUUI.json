@@ -1,0 +1,13 @@
+{
+  "name": "Sui Ultimate Instincts",
+  "symbol": "SUUI",
+  "decimals": 6,
+  "coin_type": "0xc83f9908302a9caf7a903fdcb1ba348d412f5c3a3047fba65572f80173030ce4::suui::SUUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/84977127-9035-4230-9f2a-3e7d3fcacfbc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

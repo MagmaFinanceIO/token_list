@@ -1,0 +1,13 @@
+{
+  "name": "HOMITOKEN",
+  "symbol": "HOMI",
+  "decimals": 9,
+  "coin_type": "0xf6e7fcac642280ba427bc1b3e158a169fa0624cad36cd79fc931aba3502880a5::homi::HOMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/pRt6NpQ/HomiCoin.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

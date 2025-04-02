@@ -1,0 +1,13 @@
+{
+  "name": "BLACKY THE CAT",
+  "symbol": "BLACKY",
+  "decimals": 9,
+  "coin_type": "0xa9512db9e8632b1e303e9e53c14419bd2f0282bfb8072d341b3f7216d6e711c5::blacky::BLACKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/801cb414-4027-4cde-a37b-d63f739f7b86.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

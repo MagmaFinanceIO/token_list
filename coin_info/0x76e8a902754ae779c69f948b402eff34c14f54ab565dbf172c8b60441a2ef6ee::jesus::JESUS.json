@@ -1,0 +1,13 @@
+{
+  "name": "Jesus On Sui",
+  "symbol": "JESUS",
+  "decimals": 9,
+  "coin_type": "0x76e8a902754ae779c69f948b402eff34c14f54ab565dbf172c8b60441a2ef6ee::jesus::JESUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/37e8fd13-4583-4ad7-af7f-8054ff329437.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

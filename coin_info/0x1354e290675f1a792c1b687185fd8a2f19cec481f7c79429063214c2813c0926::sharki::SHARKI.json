@@ -1,0 +1,13 @@
+{
+  "name": "SHARKI",
+  "symbol": "SHARKI",
+  "decimals": 9,
+  "coin_type": "0x1354e290675f1a792c1b687185fd8a2f19cec481f7c79429063214c2813c0926::sharki::SHARKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/82aab066-ae51-46f4-871a-803ca78620b4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

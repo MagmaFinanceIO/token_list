@@ -1,0 +1,13 @@
+{
+  "name": "PEPE CTO",
+  "symbol": "PEPE",
+  "decimals": 2,
+  "coin_type": "0x87014af4fa333c77a62e9d8431fb23b66755bfac1522120fe11d7e22d5a0c3a8::PEPE::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/mNiT7tQMLALJ5Ut68fShNM77TQ4vGPsUgeKiSKs1zZs?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

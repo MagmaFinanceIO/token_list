@@ -1,0 +1,13 @@
+{
+  "name": "Sui Sguard",
+  "symbol": "SGUARD",
+  "decimals": 6,
+  "coin_type": "0x299297119869b5b71831c1dff735385c4c4b0c9dfa9c7c46097b908614da01ce::sguard::SGUARD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000008551_200ee05d87.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "America Pac",
+  "symbol": "PAC",
+  "decimals": 9,
+  "coin_type": "0x5cd6e1453fbb45cc75d1568a6441da1792a1a8683597e1a3fcb92e0df7d10d4b::pac::PAC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9f34cfab-a08e-4e58-ad47-d1b070d6e900.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

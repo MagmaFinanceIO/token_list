@@ -1,0 +1,13 @@
+{
+  "name": "Anita AI",
+  "symbol": "ANITA",
+  "decimals": 9,
+  "coin_type": "0x3ce0b36a59a6ea65de6aa4b5773b7bc648286bbea1a88c1817f7f5f9181a2008::anita::ANITA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AnXE9mZYWReqBw4v5HrY2S2utt42uEtcBGmuCXASvRAi.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

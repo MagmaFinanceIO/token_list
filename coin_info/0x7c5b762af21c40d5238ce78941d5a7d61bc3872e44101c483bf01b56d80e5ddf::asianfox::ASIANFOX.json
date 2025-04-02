@@ -1,0 +1,13 @@
+{
+  "name": "ASIAN FOX",
+  "symbol": "AsianFox",
+  "decimals": 9,
+  "coin_type": "0x7c5b762af21c40d5238ce78941d5a7d61bc3872e44101c483bf01b56d80e5ddf::asianfox::ASIANFOX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d66a7671-fd21-4600-a816-5bff1bebf81a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

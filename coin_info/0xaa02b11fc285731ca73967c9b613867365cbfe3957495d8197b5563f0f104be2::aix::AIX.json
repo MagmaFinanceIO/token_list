@@ -1,0 +1,13 @@
+{
+  "name": "AIX Terminal",
+  "symbol": "AIX",
+  "decimals": 9,
+  "coin_type": "0xaa02b11fc285731ca73967c9b613867365cbfe3957495d8197b5563f0f104be2::aix::AIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e5561d50-8589-4d09-a0d1-d42604e3d729.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

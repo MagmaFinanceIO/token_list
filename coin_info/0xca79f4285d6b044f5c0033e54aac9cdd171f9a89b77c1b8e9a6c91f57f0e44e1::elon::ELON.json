@@ -1,0 +1,13 @@
+{
+  "name": "ELON PARODY",
+  "symbol": "ELON",
+  "decimals": 9,
+  "coin_type": "0xca79f4285d6b044f5c0033e54aac9cdd171f9a89b77c1b8e9a6c91f57f0e44e1::elon::ELON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/79388fa1-70a7-494e-8070-094ab53c330d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

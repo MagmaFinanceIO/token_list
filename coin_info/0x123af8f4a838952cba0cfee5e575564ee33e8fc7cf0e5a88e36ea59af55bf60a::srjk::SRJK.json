@@ -1,0 +1,13 @@
+{
+  "name": "SRJK",
+  "symbol": "SRJK",
+  "decimals": 9,
+  "coin_type": "0x123af8f4a838952cba0cfee5e575564ee33e8fc7cf0e5a88e36ea59af55bf60a::srjk::SRJK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

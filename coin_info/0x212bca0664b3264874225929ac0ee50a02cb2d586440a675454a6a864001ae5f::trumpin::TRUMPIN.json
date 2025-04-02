@@ -1,0 +1,13 @@
+{
+  "name": "Trump Inauguration",
+  "symbol": "TrumpIn",
+  "decimals": 9,
+  "coin_type": "0x212bca0664b3264874225929ac0ee50a02cb2d586440a675454a6a864001ae5f::trumpin::TRUMPIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aef96cce-a40b-4877-b524-e4bda01473b4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

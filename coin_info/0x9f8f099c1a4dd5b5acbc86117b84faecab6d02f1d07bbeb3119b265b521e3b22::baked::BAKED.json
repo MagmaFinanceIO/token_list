@@ -1,0 +1,13 @@
+{
+  "name": "Baked Sui",
+  "symbol": "BAKED",
+  "decimals": 6,
+  "coin_type": "0x9f8f099c1a4dd5b5acbc86117b84faecab6d02f1d07bbeb3119b265b521e3b22::baked::BAKED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/13186_B2_B_58_E8_472_A_AE_45_9_EF_917_EE_8402_f8c8a4cd4b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

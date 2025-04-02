@@ -1,0 +1,13 @@
+{
+  "name": "Director of Gov Efficiency",
+  "symbol": "DOGE",
+  "decimals": 9,
+  "coin_type": "0xfd4ee94e8f8137da8fe1a428918006262a0045f345d7b1fa79cb43e48b6e67f3::doge::DOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8Pge1x5tHHgPXzHTzLXfsiGoeDMAgAaf1xFUTrzopump.png?size=lg&key=43afcb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

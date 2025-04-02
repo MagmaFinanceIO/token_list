@@ -1,0 +1,13 @@
+{
+  "name": "bros",
+  "symbol": "Bros",
+  "decimals": 6,
+  "coin_type": "0xb7d31e526cd68e3fea3a815e7f3ce0934fa697d0a37befd64866ddcc655419cc::bros::BROS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731151897081.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

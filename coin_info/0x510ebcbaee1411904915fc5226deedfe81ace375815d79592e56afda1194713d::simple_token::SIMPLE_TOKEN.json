@@ -1,0 +1,13 @@
+{
+  "name": "Qforge on Sui",
+  "symbol": "Qforge",
+  "decimals": 9,
+  "coin_type": "0x510ebcbaee1411904915fc5226deedfe81ace375815d79592e56afda1194713d::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

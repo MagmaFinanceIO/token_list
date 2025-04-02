@@ -1,0 +1,13 @@
+{
+  "name": "CapyCoolCoin",
+  "symbol": "CCC",
+  "decimals": 9,
+  "coin_type": "0x01635872c30e3e88cca48ff86f2d02d4e25aa46b031c1cb521bcb93611796e18::ccc::CCC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/TqdQxw-E_o9Yq7xS?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

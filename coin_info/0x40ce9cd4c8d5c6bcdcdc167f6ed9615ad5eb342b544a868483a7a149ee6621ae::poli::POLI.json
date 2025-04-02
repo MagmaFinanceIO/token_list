@@ -1,0 +1,13 @@
+{
+  "name": "POLITICAL",
+  "symbol": "POLI",
+  "decimals": 6,
+  "coin_type": "0x40ce9cd4c8d5c6bcdcdc167f6ed9615ad5eb342b544a868483a7a149ee6621ae::poli::POLI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/politicalimage_c691721d40.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

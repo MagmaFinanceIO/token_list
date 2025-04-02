@@ -1,0 +1,13 @@
+{
+  "name": "CATTUS",
+  "symbol": "CATTUS",
+  "decimals": 9,
+  "coin_type": "0x0dd9caeff71fc6469d8e3de4c649d9c1f9a14124a1378e9239b47f3dde77bacc::cattus::CATTUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3JVE9Syjsw3S7TxQAZm1FXfhVJBJmDJDGb2cbEVgpump.png?size=lg&key=415a19",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

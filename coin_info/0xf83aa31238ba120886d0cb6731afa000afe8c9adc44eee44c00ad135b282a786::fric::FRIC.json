@@ -1,0 +1,13 @@
+{
+  "name": "FRIC",
+  "symbol": "FRIC",
+  "decimals": 9,
+  "coin_type": "0xf83aa31238ba120886d0cb6731afa000afe8c9adc44eee44c00ad135b282a786::fric::FRIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmZXTBS8KnU5g9W7yYYkFDuvLZqEr4Xh46e9Qa95BTzNqM",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

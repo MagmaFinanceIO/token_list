@@ -1,0 +1,13 @@
+{
+  "name": "The Smurfs on SUI",
+  "symbol": "SMURFS",
+  "decimals": 9,
+  "coin_type": "0x49760a1e65e3a3bd286e765d8af4ab396c4f51f7722bfe63030fe28ee5e9b5de::thesmurfsonsui::THESMURFSONSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/43d3de6c-20bd-422a-9987-2f42cf2ec786.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

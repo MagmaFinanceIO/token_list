@@ -1,0 +1,13 @@
+{
+  "name": "Pastor AI",
+  "symbol": "Pastor",
+  "decimals": 9,
+  "coin_type": "0x13ad60498e994089b5ffb1516b103a1322280ddb8e1ccb018a8f05cbe4fb1379::pastor::PASTOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5LCBXYwo4XXrXojxbqrhXD2WJ3zGwBrbKbnCmiuemcDm.png?size=lg&key=c561b5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

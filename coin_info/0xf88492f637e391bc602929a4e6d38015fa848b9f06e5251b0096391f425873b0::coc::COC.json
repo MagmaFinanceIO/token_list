@@ -1,0 +1,13 @@
+{
+  "name": "Community Over Cabal",
+  "symbol": "COC",
+  "decimals": 6,
+  "coin_type": "0xf88492f637e391bc602929a4e6d38015fa848b9f06e5251b0096391f425873b0::coc::COC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20241213_110939_994_332e8ffda9.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

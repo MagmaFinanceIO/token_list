@@ -1,0 +1,13 @@
+{
+  "name": "FlexYourMeme.com",
+  "symbol": "FLEX",
+  "decimals": 6,
+  "coin_type": "0xd29bb74ecbc5c7f966518556e3ee44d6b5dcbdf835b96f8dcb19c9d6a5105eff::flex::FLEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735805113620.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

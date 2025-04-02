@@ -1,0 +1,13 @@
+{
+  "name": "Versa AI",
+  "symbol": "VersaAi",
+  "decimals": 6,
+  "coin_type": "0xc9f7be93526f5bdec05f396b2a0b6bdd576762c8fcbfcb0eb0cb07b3c0658a84::versaai::VERSAAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000091_3c40a5b554.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

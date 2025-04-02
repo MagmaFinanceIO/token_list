@@ -1,0 +1,13 @@
+{
+  "name": "VQO",
+  "symbol": "VQO",
+  "decimals": 7,
+  "coin_type": "0x861cc3c7c47ea22454ab3957030316d15fa5766c3ebec911798fad632c2ff091::vqo::VQO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b8e00ff6-8c26-41b7-b9d9-04f25d533c0d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

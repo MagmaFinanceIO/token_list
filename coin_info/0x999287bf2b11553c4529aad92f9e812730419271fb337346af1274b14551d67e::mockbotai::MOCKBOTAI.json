@@ -1,0 +1,13 @@
+{
+  "name": "MOCKBOT AI",
+  "symbol": "MOCKBOTAI",
+  "decimals": 6,
+  "coin_type": "0x999287bf2b11553c4529aad92f9e812730419271fb337346af1274b14551d67e::mockbotai::MOCKBOTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736451415579.00",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

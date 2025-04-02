@@ -1,0 +1,13 @@
+{
+  "name": "ECO SUISTEM",
+  "symbol": "Ecosui",
+  "decimals": 6,
+  "coin_type": "0x551aad90457aac65984616671e0eda70ee14fe65c9189fcff7d842aecd9293b8::ecosui::ECOSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20241013_004014_956_3c7bc01614.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Bailey",
+  "symbol": "Bailey",
+  "decimals": 9,
+  "coin_type": "0x8420d8840f945d96755485756e933fcb9d934fb41103524f667614ffe370bcca::bailey::BAILEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/775daa8b-b023-405a-ab74-7290b135ac61.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

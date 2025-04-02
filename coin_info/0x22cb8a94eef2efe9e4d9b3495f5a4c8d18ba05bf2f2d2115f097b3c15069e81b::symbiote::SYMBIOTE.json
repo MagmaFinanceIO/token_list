@@ -1,0 +1,13 @@
+{
+  "name": "QUANTUM SYMBIOTE",
+  "symbol": "SYMBIOTE",
+  "decimals": 9,
+  "coin_type": "0x22cb8a94eef2efe9e4d9b3495f5a4c8d18ba05bf2f2d2115f097b3c15069e81b::symbiote::SYMBIOTE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmNo8HVPuBd36TKHzCaraSarfJfjrtTWCdwJdoZ6S7yJys?img-width=800&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

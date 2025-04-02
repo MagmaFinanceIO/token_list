@@ -1,0 +1,13 @@
+{
+  "name": "JZP",
+  "symbol": "JZP",
+  "decimals": 9,
+  "coin_type": "0x5b3397804295bf1429722248c6c51767afe1f87cd6e2504b86bd598a99d4f17c::jzp::JZP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

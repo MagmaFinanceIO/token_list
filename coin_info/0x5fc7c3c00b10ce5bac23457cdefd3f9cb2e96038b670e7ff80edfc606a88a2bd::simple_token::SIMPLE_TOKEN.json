@@ -1,0 +1,13 @@
+{
+  "name": "Voltr AI",
+  "symbol": "VOLTR",
+  "decimals": 9,
+  "coin_type": "0x5fc7c3c00b10ce5bac23457cdefd3f9cb2e96038b670e7ff80edfc606a88a2bd::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

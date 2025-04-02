@@ -1,0 +1,13 @@
+{
+  "name": "Obi PNut Kenobi",
+  "symbol": "peanut",
+  "decimals": 9,
+  "coin_type": "0x4377ee6fa63a09df16ff29178d5fce5be0633b1cc5f730d92c610bfca5826508::peanut::PEANUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/642baec9-9449-44e2-b7ac-7e37f39b7b8f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

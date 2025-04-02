@@ -1,0 +1,13 @@
+{
+  "name": "DUCK X SUI",
+  "symbol": "DUCX",
+  "decimals": 9,
+  "coin_type": "0x12ecd697313c2a8ed1c9e2eb9b422751441d5f44eabcda76b443abdc65c4c795::ducx::DUCX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d3783628-d932-471b-86e7-63da8aabebcd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Dolan",
+  "symbol": "DOLAN",
+  "decimals": 9,
+  "coin_type": "0xb8465117962e2457f3f8b4ba393249bc59fbb0cb51af4e8073a4814af7add26b::dolan::DOLAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/89a0777d-8bf4-401e-8056-fd0c97772cda.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

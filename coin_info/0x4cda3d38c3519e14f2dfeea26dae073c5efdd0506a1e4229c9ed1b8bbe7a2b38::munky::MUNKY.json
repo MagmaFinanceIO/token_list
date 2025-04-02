@@ -1,0 +1,13 @@
+{
+  "name": "Munky Cat",
+  "symbol": "Munky",
+  "decimals": 9,
+  "coin_type": "0x4cda3d38c3519e14f2dfeea26dae073c5efdd0506a1e4229c9ed1b8bbe7a2b38::munky::MUNKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/65wwCdZaHvWLXKh7bZQDaRsY7yRj97sX9VDyGXMXpump.png?size=xl&key=2d7825",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

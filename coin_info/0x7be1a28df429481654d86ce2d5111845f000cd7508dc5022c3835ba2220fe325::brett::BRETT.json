@@ -1,0 +1,13 @@
+{
+  "name": "Brett on Sui",
+  "symbol": "BRETT",
+  "decimals": 2,
+  "coin_type": "0x7be1a28df429481654d86ce2d5111845f000cd7508dc5022c3835ba2220fe325::brett::BRETT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/df4f76e3-1467-453f-bd35-854469ce3651.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

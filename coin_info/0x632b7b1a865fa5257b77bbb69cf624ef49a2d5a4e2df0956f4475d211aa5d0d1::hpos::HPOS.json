@@ -1,0 +1,13 @@
+{
+  "name": "Hop piece of shit",
+  "symbol": "HPOS",
+  "decimals": 6,
+  "coin_type": "0x632b7b1a865fa5257b77bbb69cf624ef49a2d5a4e2df0956f4475d211aa5d0d1::hpos::HPOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmZbv9UGvXyY1XSL628odoQyjvJ5y7bfmwRpBCxA9T8JJD",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

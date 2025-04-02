@@ -1,0 +1,13 @@
+{
+  "name": "SuiMafia",
+  "symbol": "Mafia",
+  "decimals": 6,
+  "coin_type": "0x38ac0fea7ec1a88c0d4978cbc874259fd634174cb93395db2467bc983788b42b::mafia::MAFIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_8102_04f7eba109.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

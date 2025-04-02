@@ -1,0 +1,13 @@
+{
+  "name": "Doctor Spinach",
+  "symbol": "DrSpinach",
+  "decimals": 9,
+  "coin_type": "0x8660de303323fa21354399d23efffda2690de8b30bfefd5af0e5ddd336cdadf0::drspinach::DRSPINACH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f6471514-964c-4833-9b6f-4e8d34b957df.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

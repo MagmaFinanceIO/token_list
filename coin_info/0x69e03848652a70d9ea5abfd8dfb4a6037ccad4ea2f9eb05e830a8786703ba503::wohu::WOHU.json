@@ -1,0 +1,13 @@
+{
+  "name": "Wolf Hu",
+  "symbol": "WoHu",
+  "decimals": 9,
+  "coin_type": "0x69e03848652a70d9ea5abfd8dfb4a6037ccad4ea2f9eb05e830a8786703ba503::wohu::WOHU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f65c7ae4-c68f-4b13-baab-535cd9065b69.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

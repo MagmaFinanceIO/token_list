@@ -1,0 +1,13 @@
+{
+  "name": "OniAi",
+  "symbol": "OniAi",
+  "decimals": 9,
+  "coin_type": "0x84179fa6cc6c5eb3e766ac4cc1e6b4dd79d3e56d66a44c98f0bf4af7fea7b123::oniai::ONIAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a5c6db59-4199-457d-8925-67cae3210c40.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

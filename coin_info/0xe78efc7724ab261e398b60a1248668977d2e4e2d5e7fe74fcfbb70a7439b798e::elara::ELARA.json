@@ -1,0 +1,13 @@
+{
+  "name": "Elara News",
+  "symbol": "ELARA",
+  "decimals": 6,
+  "coin_type": "0xe78efc7724ab261e398b60a1248668977d2e4e2d5e7fe74fcfbb70a7439b798e::elara::ELARA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000009225_34c09e9671.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

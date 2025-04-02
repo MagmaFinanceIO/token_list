@@ -1,0 +1,13 @@
+{
+  "name": "Santa Trump",
+  "symbol": "STRUMP",
+  "decimals": 9,
+  "coin_type": "0x356d77751d8cce321e5f57767dfe84cf63c0adb25267a4ef9a5db1938d64a1c8::strump::STRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/aQEsBWHcZEVN5S7qcLRyd8SZimHsNACBsXQeanHpump.png?size=lg&key=2caa71",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

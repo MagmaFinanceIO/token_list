@@ -1,0 +1,13 @@
+{
+  "name": "Sui Cat",
+  "symbol": "SCAT",
+  "decimals": 9,
+  "coin_type": "0x349007b06747920bd719a29fd0e5fbeb8a22f75c6efdb60a095a8faa0d6aa04c::scat::SCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/24db81c3-32cb-4835-a17f-acc43efc1a7e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

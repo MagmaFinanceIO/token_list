@@ -1,0 +1,13 @@
+{
+  "name": "TURBO on SUI",
+  "symbol": "TURBOS",
+  "decimals": 9,
+  "coin_type": "0x50f31a749e3d11ae44082a7bd6cee94de10734699d70e64c6569733fae5de9b3::turbos::TURBOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2Jk4M9yXtVB66VBBawx2pQJFjPPMrCummWjBDXuSpump.png?size=lg&key=e7d9e5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

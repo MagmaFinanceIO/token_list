@@ -1,0 +1,13 @@
+{
+  "name": "🦏Pepe Rhino",
+  "symbol": "PERHINO",
+  "decimals": 3,
+  "coin_type": "0x88e0cb172be4d9b467f511e67234e9b0b2ecd4ea28832c4a5c3413e9db563996::perhino::PERHINO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1bdd19a9-2fb6-4367-971d-d60d49b58039.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NEIRO",
+  "symbol": "NEIROONSUI",
+  "decimals": 6,
+  "coin_type": "0x37b294c586015bb70d85db76205b353221a3c0031af0e081e00fe98827ddcb19::common_coin::COMMON_COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FNNN_78e9d8b358.jpg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

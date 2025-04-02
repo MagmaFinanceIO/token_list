@@ -1,0 +1,13 @@
+{
+  "name": "trumpcycle (real)",
+  "symbol": "TRUMPCYCLE",
+  "decimals": 9,
+  "coin_type": "0x56b6d81717022ac3b511a4b2a92800dbd440e7822a25dd2b1db784e908f9ecb4::trumpcycle::TRUMPCYCLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3vLjW2cmcqLb5avpaXdv7Li8JDo9nTbBt6VYodB2pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

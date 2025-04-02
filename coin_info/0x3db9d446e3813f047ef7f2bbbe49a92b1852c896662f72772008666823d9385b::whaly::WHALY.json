@@ -1,0 +1,13 @@
+{
+  "name": "WHALY",
+  "symbol": "WHALY",
+  "decimals": 9,
+  "coin_type": "0x3db9d446e3813f047ef7f2bbbe49a92b1852c896662f72772008666823d9385b::whaly::WHALY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/ads/asset/a6ee3157e24c8f1180ed531a8c87014708a88fc9.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

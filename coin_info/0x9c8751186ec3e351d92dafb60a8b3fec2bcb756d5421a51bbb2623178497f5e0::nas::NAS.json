@@ -1,0 +1,13 @@
+{
+  "name": "Nasan contruction",
+  "symbol": "NaS",
+  "decimals": 6,
+  "coin_type": "0x9c8751186ec3e351d92dafb60a8b3fec2bcb756d5421a51bbb2623178497f5e0::nas::NAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/7dae712d_7718_41b5_873f_42fafd925613_e184d326d7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

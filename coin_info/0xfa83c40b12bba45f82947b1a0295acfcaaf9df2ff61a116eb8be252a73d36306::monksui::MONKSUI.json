@@ -1,0 +1,13 @@
+{
+  "name": "Monksui",
+  "symbol": "MONKSUI",
+  "decimals": 9,
+  "coin_type": "0xfa83c40b12bba45f82947b1a0295acfcaaf9df2ff61a116eb8be252a73d36306::monksui::MONKSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e9bfa1e5-4007-41c5-95e7-4f6818a4800d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "xTerminal",
+  "symbol": "XTER",
+  "decimals": 6,
+  "coin_type": "0xfbb7bcf2783c60156cf11ba025a7c877c85cf46823f05834fd6a39ee872cf815::xter::XTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logogreen_d7ee24eeaf.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

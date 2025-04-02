@@ -1,0 +1,13 @@
+{
+  "name": "INUPUB",
+  "symbol": "INUPUB",
+  "decimals": 9,
+  "coin_type": "0x1931cfc82f757ab0f67286ad1b7b32c0006a682f9556ff36dae7850143aea4c0::inupub::INUPUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/16584b35-bd13-49be-a209-2e44c11be026.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

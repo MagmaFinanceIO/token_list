@@ -1,0 +1,13 @@
+{
+  "name": "SuiPlay0X1 by SuiAI",
+  "symbol": "ZEROXONE",
+  "decimals": 6,
+  "coin_type": "0x00cedf918463b86bff096275af49ffc494795a2cd2c48c32dfd235f69735d5e1::zeroxone::ZEROXONE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/a1ccb883_abd0_4a8f_b031_9e6b5f6bce5f_2873c0f529.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

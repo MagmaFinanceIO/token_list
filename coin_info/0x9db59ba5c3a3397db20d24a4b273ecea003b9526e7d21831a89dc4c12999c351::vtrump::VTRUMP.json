@@ -1,0 +1,13 @@
+{
+  "name": "Vote Trump to save the world",
+  "symbol": "VTrump",
+  "decimals": 9,
+  "coin_type": "0x9db59ba5c3a3397db20d24a4b273ecea003b9526e7d21831a89dc4c12999c351::vtrump::VTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Ep367cveEBmv7tYbHP6yucf2Kek67jc7DZJAkfqQ3yPd.png?size=lg&key=1e5de7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

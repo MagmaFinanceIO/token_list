@@ -1,0 +1,13 @@
+{
+  "name": "KRUSTY",
+  "symbol": "krusty",
+  "decimals": 6,
+  "coin_type": "0xc8b169505d4b8c3d4fe28f3d5ec047dbd83e7e71aa0984fa2a0b2e2857cbe3f3::krusty::KRUSTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a8242670-8432-4154-b707-3e15de228456.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

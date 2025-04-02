@@ -1,0 +1,13 @@
+{
+  "name": "SUI PIG",
+  "symbol": "SPIG",
+  "decimals": 6,
+  "coin_type": "0x3a6f70831576f3b6112a7da769a5a2201e27f967783f440c0f5f483b3fdd0c48::spig::SPIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suipig_044abd7fa6.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

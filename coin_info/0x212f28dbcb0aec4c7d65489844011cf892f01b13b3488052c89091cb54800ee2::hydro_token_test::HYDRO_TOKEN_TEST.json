@@ -1,0 +1,13 @@
+{
+  "name": "HYDRO_TEST",
+  "symbol": "HYO_TEST",
+  "decimals": 9,
+  "coin_type": "0x212f28dbcb0aec4c7d65489844011cf892f01b13b3488052c89091cb54800ee2::hydro_token_test::HYDRO_TOKEN_TEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Unicorn Fart Dust",
+  "symbol": "UFD",
+  "decimals": 9,
+  "coin_type": "0xd397b1e78d4d2c2b4993ba0375e432e1198b588be1af6305a02b4045bfcbc4d3::ufd::UFD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ccd93254-e9cb-4f62-b5dc-29315e9f1139.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

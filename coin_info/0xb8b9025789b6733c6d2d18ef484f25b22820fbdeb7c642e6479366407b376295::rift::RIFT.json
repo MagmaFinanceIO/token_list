@@ -1,0 +1,13 @@
+{
+  "name": "RIFT AI",
+  "symbol": "RIFT",
+  "decimals": 9,
+  "coin_type": "0xb8b9025789b6733c6d2d18ef484f25b22820fbdeb7c642e6479366407b376295::rift::RIFT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/jUpa2aDCzvdR9EF4fqDXmuyMUkonPTohphABLmRkRFj.png?size=lg&key=a4ccd1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

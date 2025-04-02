@@ -1,0 +1,13 @@
+{
+  "name": "Monsoon! Sui",
+  "symbol": "MONSOON",
+  "decimals": 9,
+  "coin_type": "0x289ae2cf20f2b4a46701556cf663fefbe80ff93e0a27d5d2ae2f7d5b7511b382::monsoon::MONSOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/346efd29-2d2e-48ab-b55e-9a95def5190b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "brat on sui",
+  "symbol": "BRAT",
+  "decimals": 6,
+  "coin_type": "0x255815773238646b607beae9793cfee375a1ecbf5ca8a88961c42e17d6559464::brat::BRAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c0899794-fe92-4ef8-803d-6c1a41f0393d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

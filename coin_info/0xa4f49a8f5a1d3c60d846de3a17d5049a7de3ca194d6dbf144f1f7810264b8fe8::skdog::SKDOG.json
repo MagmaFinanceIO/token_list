@@ -1,0 +1,13 @@
+{
+  "name": "SKATE DOG",
+  "symbol": "SKDOG",
+  "decimals": 9,
+  "coin_type": "0xa4f49a8f5a1d3c60d846de3a17d5049a7de3ca194d6dbf144f1f7810264b8fe8::skdog::SKDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/65a57891-6fd1-4c1f-81b8-401f98702084.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

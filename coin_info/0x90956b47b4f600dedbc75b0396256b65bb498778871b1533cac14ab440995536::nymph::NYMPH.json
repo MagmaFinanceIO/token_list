@@ -1,0 +1,13 @@
+{
+  "name": "Sui Nymph",
+  "symbol": "NYMPH",
+  "decimals": 6,
+  "coin_type": "0x90956b47b4f600dedbc75b0396256b65bb498778871b1533cac14ab440995536::nymph::NYMPH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmPcVkn5cuLsExwbyBbsBbzZBtjoPLAM6QKDECenQAv2hF",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

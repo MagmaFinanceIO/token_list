@@ -1,0 +1,13 @@
+{
+  "name": "Kekius Maximus",
+  "symbol": "KEKIUS",
+  "decimals": 6,
+  "coin_type": "0x8c89eb311c341bbfceecc6c6fb53848205d0d9b1508079c6453d0aae5eb4ee8c::kekius::KEKIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0c6f451e-b0d0-4c38-8217-e59af4279bec.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "XQW",
+  "symbol": "XQW",
+  "decimals": 9,
+  "coin_type": "0x85956380d311912e7ae27de95c988b24b33c45009dd7d2ad52bfc79902a71d47::xqw::XQW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2SNstbEYVEn2iTNQyZHKGzgTPZwBgnujwKa8hn5opump.png?size=lg&key=16c90b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

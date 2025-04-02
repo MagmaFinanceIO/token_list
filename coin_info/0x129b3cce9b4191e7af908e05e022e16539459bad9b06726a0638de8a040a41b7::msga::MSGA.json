@@ -1,0 +1,13 @@
+{
+  "name": "MakeSuiGreatAgain",
+  "symbol": "MSGA",
+  "decimals": 9,
+  "coin_type": "0x129b3cce9b4191e7af908e05e022e16539459bad9b06726a0638de8a040a41b7::msga::MSGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AhBBWzKfgSgXc4NTXxqvcziXcMQPv6TcfFnTu4yrBaJH/header.png?size=xl&key=895d81",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

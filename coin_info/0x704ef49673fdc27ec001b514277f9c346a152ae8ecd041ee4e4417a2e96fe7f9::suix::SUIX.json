@@ -1,0 +1,13 @@
+{
+  "name": "SUIX - The Mystical Gem Hunter🐇💎 by SuiAI",
+  "symbol": "SUIX",
+  "decimals": 6,
+  "coin_type": "0x704ef49673fdc27ec001b514277f9c346a152ae8ecd041ee4e4417a2e96fe7f9::suix::SUIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/32ea5567_eccb_403c_9e17_d2500d459025_537969546a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

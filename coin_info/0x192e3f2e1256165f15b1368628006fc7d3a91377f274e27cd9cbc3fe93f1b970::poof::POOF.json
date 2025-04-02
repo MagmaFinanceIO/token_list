@@ -1,0 +1,13 @@
+{
+  "name": "POOF",
+  "symbol": "POOF",
+  "decimals": 9,
+  "coin_type": "0x192e3f2e1256165f15b1368628006fc7d3a91377f274e27cd9cbc3fe93f1b970::poof::POOF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

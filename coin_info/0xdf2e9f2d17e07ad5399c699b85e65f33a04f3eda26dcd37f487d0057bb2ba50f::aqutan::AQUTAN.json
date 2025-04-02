@@ -1,0 +1,13 @@
+{
+  "name": "Minato Aqua",
+  "symbol": "AQUTAN",
+  "decimals": 9,
+  "coin_type": "0xdf2e9f2d17e07ad5399c699b85e65f33a04f3eda26dcd37f487d0057bb2ba50f::aqutan::AQUTAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DwfC6Nk7jxPKasLVgLwmqSCTg9kkGQzbQt6dV4X8pump.png?size=lg&key=b4a50b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

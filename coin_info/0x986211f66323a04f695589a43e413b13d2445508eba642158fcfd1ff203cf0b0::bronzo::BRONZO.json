@@ -1,0 +1,13 @@
+{
+  "name": "Bronzo Shib",
+  "symbol": "BRONZO",
+  "decimals": 9,
+  "coin_type": "0x986211f66323a04f695589a43e413b13d2445508eba642158fcfd1ff203cf0b0::bronzo::BRONZO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7cfc946d-14ae-4f36-993c-871c03c8f567.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PugCoin",
+  "symbol": "PUG",
+  "decimals": 9,
+  "coin_type": "0xf44d661998b2609f5e5e4849e9086ab408a04f8e2a96b4a3b37c8d7171183307::pug::PUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://file.aiquickdraw.com/chatgpt/file-Pczzy7yDzp3dxoMn0fbYv8iW.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

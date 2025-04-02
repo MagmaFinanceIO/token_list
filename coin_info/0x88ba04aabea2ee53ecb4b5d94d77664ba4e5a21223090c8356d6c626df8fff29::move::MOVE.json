@@ -1,0 +1,13 @@
+{
+  "name": "SUI Move Token 💧​",
+  "symbol": "MOVE",
+  "decimals": 9,
+  "coin_type": "0x88ba04aabea2ee53ecb4b5d94d77664ba4e5a21223090c8356d6c626df8fff29::move::MOVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0bd9d024-e320-4b54-b218-ee12e6e6b4ee.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

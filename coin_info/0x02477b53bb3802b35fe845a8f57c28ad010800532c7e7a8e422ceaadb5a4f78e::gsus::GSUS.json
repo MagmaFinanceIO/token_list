@@ -1,0 +1,13 @@
+{
+  "name": "God Save the US",
+  "symbol": "GSUS",
+  "decimals": 9,
+  "coin_type": "0x02477b53bb3802b35fe845a8f57c28ad010800532c7e7a8e422ceaadb5a4f78e::gsus::GSUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EYfQc2HzgB9oCkuj7nw3ChQGh8pZKbPVwtAf5KKjKAxX.png?size=xl&key=7c3b2b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

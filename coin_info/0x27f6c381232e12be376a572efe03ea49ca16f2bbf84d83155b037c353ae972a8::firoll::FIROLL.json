@@ -1,0 +1,13 @@
+{
+  "name": "FIROLL",
+  "symbol": "FRO",
+  "decimals": 9,
+  "coin_type": "0x27f6c381232e12be376a572efe03ea49ca16f2bbf84d83155b037c353ae972a8::firoll::FIROLL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_cozcat_9c068db346.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

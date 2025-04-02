@@ -1,0 +1,13 @@
+{
+  "name": "Mplo",
+  "symbol": "MPLO",
+  "decimals": 4,
+  "coin_type": "0x08bb5368d57dddcf5f0896da7376276445e97a33b6c787ce31c2028fa9867d4f::mplo::MPLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bcb7d478-73f0-4771-9dc1-f5d8f846a6d2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

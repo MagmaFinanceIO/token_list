@@ -1,0 +1,13 @@
+{
+  "name": "Three Socks",
+  "symbol": "TROX",
+  "decimals": 9,
+  "coin_type": "0x1f82ae55aad0831d3e1763e2b71fa8cd4e0cef9df793793793e66d087fc8094d::trox::TROX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d7e56792-a83d-4604-a784-358ab30f8122.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Finding Suimo",
+  "symbol": "SUIMO",
+  "decimals": 6,
+  "coin_type": "0xd7c00d25b550d2c196cbac3c32b280bd89f00bcd699b0ba4201a211be623cb8f::suimo::SUIMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_01_16_55_17_3aeabae39f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

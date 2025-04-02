@@ -1,0 +1,13 @@
+{
+  "name": "PENGUSUI",
+  "symbol": "Pengu",
+  "decimals": 6,
+  "coin_type": "0x648300ef29ed50c983e0c2400b34c273f5de0c061b0c0d16cbe38caccdcf0dbb::pengu::PENGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pengu_6a16d0c49a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

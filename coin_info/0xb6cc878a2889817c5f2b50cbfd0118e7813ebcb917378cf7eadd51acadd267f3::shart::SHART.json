@@ -1,0 +1,13 @@
+{
+  "name": "Shartcoin",
+  "symbol": "Shart",
+  "decimals": 6,
+  "coin_type": "0xb6cc878a2889817c5f2b50cbfd0118e7813ebcb917378cf7eadd51acadd267f3::shart::SHART",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_2784_12b76c6a90.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

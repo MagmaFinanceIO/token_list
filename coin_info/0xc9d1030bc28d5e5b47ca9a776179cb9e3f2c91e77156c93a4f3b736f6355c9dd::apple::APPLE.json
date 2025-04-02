@@ -1,0 +1,13 @@
+{
+  "name": "Apple",
+  "symbol": "Apple",
+  "decimals": 9,
+  "coin_type": "0xc9d1030bc28d5e5b47ca9a776179cb9e3f2c91e77156c93a4f3b736f6355c9dd::apple::APPLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Wars",
+  "symbol": "SUIWARS",
+  "decimals": 6,
+  "coin_type": "0x4c1a56ec227f256c069d5bc1ef4f9209aed1e54d0ac6aed87a1574f150e301df::suiwars::SUIWARS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_9878_2c22061d04.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

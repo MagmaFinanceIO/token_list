@@ -1,0 +1,13 @@
+{
+  "name": "CyberPawsCoin",
+  "symbol": "CPaws",
+  "decimals": 9,
+  "coin_type": "0x78450473412f7c8458569a3e7964671b23b09fd225493929a11578a3f5498bd5::cpaws::CPAWS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/65b4375b-551d-48af-8294-b44e9479e3d0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

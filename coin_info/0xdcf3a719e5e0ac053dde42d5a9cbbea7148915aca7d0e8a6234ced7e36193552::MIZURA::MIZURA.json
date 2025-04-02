@@ -1,0 +1,13 @@
+{
+  "name": "Mizura Girl",
+  "symbol": "MIZURA",
+  "decimals": 9,
+  "coin_type": "0xdcf3a719e5e0ac053dde42d5a9cbbea7148915aca7d0e8a6234ced7e36193552::MIZURA::MIZURA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2E12VC6aKdcDj4oHNukm6LSERMZUo1DzmVkd68v7pump.png?size=xl&key=1d90a0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

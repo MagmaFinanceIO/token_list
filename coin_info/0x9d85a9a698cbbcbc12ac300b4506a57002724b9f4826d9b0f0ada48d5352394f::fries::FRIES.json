@@ -1,0 +1,13 @@
+{
+  "name": "Diabeetus Maximus",
+  "symbol": "FRIES",
+  "decimals": 9,
+  "coin_type": "0x9d85a9a698cbbcbc12ac300b4506a57002724b9f4826d9b0f0ada48d5352394f::fries::FRIES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/69DGrfN4hMEEpTfCnBNwXx7JyjexcNhwXDstfnUepump.png?size=lg&key=4ddd24",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

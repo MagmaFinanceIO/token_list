@@ -1,0 +1,13 @@
+{
+  "name": "CHILLSUI",
+  "symbol": "Chill Guy on Sui",
+  "decimals": 6,
+  "coin_type": "0x84ade2ce433c63d6be77f59c2943291194e8a1a9b7a21d75899813e43a2a7a61::CHILLSUI::CHILLSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

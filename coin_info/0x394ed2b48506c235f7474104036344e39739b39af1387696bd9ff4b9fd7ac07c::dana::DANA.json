@@ -1,0 +1,13 @@
+{
+  "name": "DANAs girls",
+  "symbol": "DANA",
+  "decimals": 6,
+  "coin_type": "0x394ed2b48506c235f7474104036344e39739b39af1387696bd9ff4b9fd7ac07c::dana::DANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Sin_t_A_tulo_1aa810d193.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

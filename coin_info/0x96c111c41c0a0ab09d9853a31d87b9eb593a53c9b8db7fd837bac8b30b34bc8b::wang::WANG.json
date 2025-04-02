@@ -1,0 +1,13 @@
+{
+  "name": "Wang",
+  "symbol": "WANG",
+  "decimals": 6,
+  "coin_type": "0x96c111c41c0a0ab09d9853a31d87b9eb593a53c9b8db7fd837bac8b30b34bc8b::wang::WANG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/wangggg_2fbcd62ab2.JPEG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

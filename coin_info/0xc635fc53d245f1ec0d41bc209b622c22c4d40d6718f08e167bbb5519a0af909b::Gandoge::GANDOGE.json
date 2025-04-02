@@ -1,0 +1,13 @@
+{
+  "name": "GANDOGE",
+  "symbol": "GANDOGE",
+  "decimals": 6,
+  "coin_type": "0xc635fc53d245f1ec0d41bc209b622c22c4d40d6718f08e167bbb5519a0af909b::Gandoge::GANDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://sui-api-mainnet.bluemove.net/uploads/GANDOGE_acbf01b9a6.WEBP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

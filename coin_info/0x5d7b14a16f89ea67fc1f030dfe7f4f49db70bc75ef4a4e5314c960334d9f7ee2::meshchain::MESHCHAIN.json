@@ -1,0 +1,13 @@
+{
+  "name": "Meshchain Ai",
+  "symbol": "Meshchain",
+  "decimals": 9,
+  "coin_type": "0x5d7b14a16f89ea67fc1f030dfe7f4f49db70bc75ef4a4e5314c960334d9f7ee2::meshchain::MESHCHAIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GzkE8jBurir9SDPXb8oMWVkmae7tq3eb8F4J8AQ6pump.png?size=lg&key=720d26",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

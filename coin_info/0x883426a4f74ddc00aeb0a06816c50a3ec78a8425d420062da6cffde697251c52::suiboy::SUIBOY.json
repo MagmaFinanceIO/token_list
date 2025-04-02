@@ -1,0 +1,13 @@
+{
+  "name": "SuiBOY",
+  "symbol": "SUIBOY",
+  "decimals": 9,
+  "coin_type": "0x883426a4f74ddc00aeb0a06816c50a3ec78a8425d420062da6cffde697251c52::suiboy::SUIBOY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

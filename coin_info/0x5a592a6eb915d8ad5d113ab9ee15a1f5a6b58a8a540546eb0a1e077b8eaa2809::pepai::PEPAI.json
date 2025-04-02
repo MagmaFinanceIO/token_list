@@ -1,0 +1,13 @@
+{
+  "name": "PEPE Terminal",
+  "symbol": "PEPAI",
+  "decimals": 9,
+  "coin_type": "0x5a592a6eb915d8ad5d113ab9ee15a1f5a6b58a8a540546eb0a1e077b8eaa2809::pepai::PEPAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CHkg2UHS8NnFEc4uHUewaDWDiZS13f3gXP3SFjrdS3L8.png?size=lg&key=fa7d9b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

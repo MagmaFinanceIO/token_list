@@ -1,0 +1,13 @@
+{
+  "name": "Sentient Mind Agent",
+  "symbol": "AGENTS",
+  "decimals": 6,
+  "coin_type": "0xcc710a41fc0554694e76d3ff983d7289026cd232456ff49309c7d84060653578::agents::AGENTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/45038f36-637f-4719-83c9-715ee8629e01.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

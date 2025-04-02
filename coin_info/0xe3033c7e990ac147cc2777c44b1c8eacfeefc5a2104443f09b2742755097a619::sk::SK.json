@@ -1,0 +1,13 @@
+{
+  "name": "Shark",
+  "symbol": "SK",
+  "decimals": 9,
+  "coin_type": "0xe3033c7e990ac147cc2777c44b1c8eacfeefc5a2104443f09b2742755097a619::sk::SK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6f061f43-c72b-44bc-b82c-2f208aa93fd3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

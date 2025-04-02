@@ -1,0 +1,13 @@
+{
+  "name": "SUI MOONY",
+  "symbol": "SMOONY",
+  "decimals": 9,
+  "coin_type": "0xc447b8c3b8e92b260e57957fc7909e9ea76bb15e4331ad6a68e7ffc29fba8ea8::smoony::SMOONY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/51ebf097-6386-4364-9bb9-2d04958166d5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

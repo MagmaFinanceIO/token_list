@@ -1,0 +1,13 @@
+{
+  "name": "Boy sui",
+  "symbol": "Boysui",
+  "decimals": 6,
+  "coin_type": "0x991597e7a839064fa4107f65b1201506469fe5430fdd9579f724e9115a967a13::boysui::BOYSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000014465_6d59f2e78d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

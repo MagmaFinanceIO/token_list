@@ -1,0 +1,13 @@
+{
+  "name": "Pepeism",
+  "symbol": "P",
+  "decimals": 9,
+  "coin_type": "0xefb27c065c9478b0bf40131174694e6437feca5f3131011d5045824ad61239d8::p::P",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1839515173956235264/05RAeXUR_400x400.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

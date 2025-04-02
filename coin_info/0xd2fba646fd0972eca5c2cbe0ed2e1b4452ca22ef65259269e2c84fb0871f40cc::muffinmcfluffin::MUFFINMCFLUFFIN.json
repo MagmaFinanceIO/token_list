@@ -1,0 +1,13 @@
+{
+  "name": "Muffin McFluffin",
+  "symbol": "MUFFIN",
+  "decimals": 9,
+  "coin_type": "0xd2fba646fd0972eca5c2cbe0ed2e1b4452ca22ef65259269e2c84fb0871f40cc::muffinmcfluffin::MUFFINMCFLUFFIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ac3a4194-5906-4be8-900c-634c6d280298.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

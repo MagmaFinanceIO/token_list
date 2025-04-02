@@ -1,0 +1,13 @@
+{
+  "name": "Bangbangbong",
+  "symbol": "Bong",
+  "decimals": 6,
+  "coin_type": "0x9c81bef919e8c143a108a2f1c57f44659edaf9f958343aa9fdd1f09fd6c41a17::bong::BONG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/bangbangbong_db1c6783cf.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

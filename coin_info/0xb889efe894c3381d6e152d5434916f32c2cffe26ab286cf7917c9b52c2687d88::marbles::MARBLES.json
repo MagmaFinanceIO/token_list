@@ -1,0 +1,13 @@
+{
+  "name": "MARBLE SAGA",
+  "symbol": "MARBLES",
+  "decimals": 6,
+  "coin_type": "0xb889efe894c3381d6e152d5434916f32c2cffe26ab286cf7917c9b52c2687d88::marbles::MARBLES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/marblesui_f80d9522b0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

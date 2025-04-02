@@ -1,0 +1,13 @@
+{
+  "name": "Hippie Pepe",
+  "symbol": "HIPPIE",
+  "decimals": 6,
+  "coin_type": "0x7cc9ee6fdd561a63cedbfe1a548375a6bfab2d4332ab7dae6df49920b8216424::hippie::HIPPIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/hippiepepeprof_5b8de1ed53.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

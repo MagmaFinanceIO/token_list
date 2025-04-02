@@ -1,0 +1,13 @@
+{
+  "name": "One Last Goon",
+  "symbol": "Goonucide",
+  "decimals": 9,
+  "coin_type": "0x8fea22d9e330bf750560be653da6db61c631f2e8f27894eba2bc1805b2cb2125::goonucide::GOONUCIDE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dexscreener.com/solana/3tmckann2qdfjqwuxq91y47tneyexw6mnbqcntv8pump",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

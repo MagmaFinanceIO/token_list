@@ -1,0 +1,13 @@
+{
+  "name": "The Golden Age Of America",
+  "symbol": "GOLDEN",
+  "decimals": 9,
+  "coin_type": "0x653463ddaf8de6941ab41ba82472d3039f8e9861494b9cbad6c04c4aa1d24e35::golden::GOLDEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmVXbF4VNjsrZVeCWioybijKxphHiY7XwDAFfgeC1sHvuu",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

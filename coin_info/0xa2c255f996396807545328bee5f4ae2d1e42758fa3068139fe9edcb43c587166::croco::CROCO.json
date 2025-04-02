@@ -1,0 +1,13 @@
+{
+  "name": "$CROCOSUI",
+  "symbol": "CROCO",
+  "decimals": 6,
+  "coin_type": "0xa2c255f996396807545328bee5f4ae2d1e42758fa3068139fe9edcb43c587166::croco::CROCO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/newpfp2_a6ad5c1103.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

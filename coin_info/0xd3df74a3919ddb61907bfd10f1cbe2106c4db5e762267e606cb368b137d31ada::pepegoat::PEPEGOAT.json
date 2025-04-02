@@ -1,0 +1,13 @@
+{
+  "name": "Goatseus Pepesimus",
+  "symbol": "PEPEGOAT",
+  "decimals": 9,
+  "coin_type": "0xd3df74a3919ddb61907bfd10f1cbe2106c4db5e762267e606cb368b137d31ada::pepegoat::PEPEGOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmcXVvGMXy7rwsmVc5NEKcpdVhbNnPEkKTqiXRSwXLTozy",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

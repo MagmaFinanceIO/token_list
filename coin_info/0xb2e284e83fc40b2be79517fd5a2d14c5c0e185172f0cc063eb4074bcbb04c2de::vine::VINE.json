@@ -1,0 +1,13 @@
+{
+  "name": "Vine Coin",
+  "symbol": "VINE",
+  "decimals": 9,
+  "coin_type": "0xb2e284e83fc40b2be79517fd5a2d14c5c0e185172f0cc063eb4074bcbb04c2de::vine::VINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

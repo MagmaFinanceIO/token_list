@@ -1,0 +1,13 @@
+{
+  "name": "Bathord Coin",
+  "symbol": "BATHORD",
+  "decimals": 9,
+  "coin_type": "0x4b35198b55204cf94c9e24eb0d8f2e3874588a1ec510d52e07e95b2449f2381c::bathord::BATHORD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

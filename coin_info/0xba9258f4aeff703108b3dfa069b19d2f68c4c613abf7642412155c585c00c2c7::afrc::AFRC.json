@@ -1,0 +1,13 @@
+{
+  "name": "AFRICOIN",
+  "symbol": "AFRC",
+  "decimals": 2,
+  "coin_type": "0xba9258f4aeff703108b3dfa069b19d2f68c4c613abf7642412155c585c00c2c7::afrc::AFRC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/485c279f-eecd-4c4d-acbd-c966c7267132.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "REKT",
+  "symbol": "REKT",
+  "decimals": 9,
+  "coin_type": "0x34ac15321c214379059637566b7dfb0bfed9c7fee8ae50fb2ad63697ce1ff7f7::rekt::REKT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/be8b50a3-7aa8-4e14-b36c-ee4ba56701d7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

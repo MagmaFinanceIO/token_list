@@ -1,0 +1,13 @@
+{
+  "name": "Suishi Dog",
+  "symbol": "WOOF",
+  "decimals": 6,
+  "coin_type": "0x297f0a2ef1cae77260bc9eedcbfc3e639ec93165d999ace7f70ab81ab15c3156::woof::WOOF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pp_68895d55fc.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

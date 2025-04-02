@@ -1,0 +1,13 @@
+{
+  "name": "Infinium",
+  "symbol": "INFNUM",
+  "decimals": 6,
+  "coin_type": "0xc8d4e29585c23f92fecbacecc3b78145bd0029210fae5e323638663e0529c114::infnum::INFNUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000048161_b0a07e0ccd.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

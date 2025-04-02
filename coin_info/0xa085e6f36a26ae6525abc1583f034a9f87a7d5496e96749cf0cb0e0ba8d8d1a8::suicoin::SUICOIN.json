@@ -1,0 +1,13 @@
+{
+  "name": "SUICIDE",
+  "symbol": "SUIC",
+  "decimals": 6,
+  "coin_type": "0xa085e6f36a26ae6525abc1583f034a9f87a7d5496e96749cf0cb0e0ba8d8d1a8::suicoin::SUICOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/axQBBkZ.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

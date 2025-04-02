@@ -1,0 +1,15 @@
+{
+  "name": "Volo Staked SUI",
+  "symbol": "vSUI",
+  "decimals": 9,
+  "coin_type": "0x549e8b69270defbfafd4f94e17ec44cdbdd99820b33bda2278dea3b9a32d3f55::cert::CERT",
+  "pyth_id": "57ff7100a282e4af0c91154679c5dae2e5dcacb93fd467ea9cb7e58afdcfde27",
+  "birdeyeid": "0x549e8b69270defbfafd4f94e17ec44cdbdd99820b33bda2278dea3b9a32d3f55::cert::CERT",
+  "coin_priority": [
+    "910"
+  ],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/vsui.png",
+  "project_url": "",
+  "coingecko_id": "volo-staked-sui",
+  "is_trusted": true
+}

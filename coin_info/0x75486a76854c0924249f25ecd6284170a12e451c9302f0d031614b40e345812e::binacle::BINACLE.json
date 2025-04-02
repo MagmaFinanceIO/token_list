@@ -1,0 +1,13 @@
+{
+  "name": "Binary Oracle",
+  "symbol": "BINACLE",
+  "decimals": 6,
+  "coin_type": "0x75486a76854c0924249f25ecd6284170a12e451c9302f0d031614b40e345812e::binacle::BINACLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/cut_e200646d2d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

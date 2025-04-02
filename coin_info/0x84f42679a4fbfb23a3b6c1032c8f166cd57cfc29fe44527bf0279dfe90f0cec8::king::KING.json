@@ -1,0 +1,13 @@
+{
+  "name": "Golden Lion",
+  "symbol": "King",
+  "decimals": 9,
+  "coin_type": "0x84f42679a4fbfb23a3b6c1032c8f166cd57cfc29fe44527bf0279dfe90f0cec8::king::KING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/83a6b868-6548-4f0a-ab11-de059590e6bb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

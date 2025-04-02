@@ -1,0 +1,13 @@
+{
+  "name": "Official Elon Coin",
+  "symbol": "ELON",
+  "decimals": 9,
+  "coin_type": "0xfbe6a92ec4400b3f6b571c8511d4328da8e89c64cd84b5b4542930a10a64547e::elon::ELON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmXgt6TEGac8Mx8EKKYR9mjjJLmvd9BBVdyRYJzw3kk3mu",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

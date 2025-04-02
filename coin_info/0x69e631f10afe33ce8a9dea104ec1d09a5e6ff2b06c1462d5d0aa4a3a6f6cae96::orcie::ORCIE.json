@@ -1,0 +1,13 @@
+{
+  "name": "ORCIE",
+  "symbol": "orcie",
+  "decimals": 6,
+  "coin_type": "0x69e631f10afe33ce8a9dea104ec1d09a5e6ff2b06c1462d5d0aa4a3a6f6cae96::orcie::ORCIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qmbrtoc1nZpMbbRUGQbSXwMQkVN4GBtRysMFKZG26BYxpC",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Obi PNut Kenobi",
+  "symbol": "KENO",
+  "decimals": 9,
+  "coin_type": "0x10042723eba3a52bd2eeb3633c5cfc68fea84718a2e13579949b34bd9fdafe7d::keno::KENO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6txVUc4uUQNF7yoMCD8SnBcmr7CxoHHALoERkZT1pump.png?size=lg&key=55fd3a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

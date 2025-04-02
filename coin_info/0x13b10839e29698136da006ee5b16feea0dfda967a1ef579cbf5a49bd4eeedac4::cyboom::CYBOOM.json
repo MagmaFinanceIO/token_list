@@ -1,0 +1,13 @@
+{
+  "name": "cybertruck explodes",
+  "symbol": "Cyboom",
+  "decimals": 9,
+  "coin_type": "0x13b10839e29698136da006ee5b16feea0dfda967a1ef579cbf5a49bd4eeedac4::cyboom::CYBOOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Fb965KbVSXuS7UmKvPbGiawtwMPvYXzisHdMT4s3pump.png?size=lg&key=c3bdf7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Turbo Granny",
+  "symbol": "TGRANNY",
+  "decimals": 9,
+  "coin_type": "0x9abc52ce5eb3081aee26f8e52b35baa17895cf590962413ac6bfddb4d9178c30::tgranny::TGRANNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

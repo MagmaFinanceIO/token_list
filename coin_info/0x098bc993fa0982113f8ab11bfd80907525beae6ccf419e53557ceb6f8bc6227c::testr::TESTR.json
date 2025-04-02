@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "symbol": "testr",
+  "decimals": 6,
+  "coin_type": "0x098bc993fa0982113f8ab11bfd80907525beae6ccf419e53557ceb6f8bc6227c::testr::TESTR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pub-efea87dea3f94e8084e073588c980c50.r2.dev/logo/01JB6ABKQK6SYTGM8P0P30C6J9/01JB6ATGRC5R9T4X3Y5D4EH1T3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

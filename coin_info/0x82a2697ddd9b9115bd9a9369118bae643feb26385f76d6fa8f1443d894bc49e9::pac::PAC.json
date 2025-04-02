@@ -1,0 +1,13 @@
+{
+  "name": "PACMOON",
+  "symbol": "PAC",
+  "decimals": 6,
+  "coin_type": "0x82a2697ddd9b9115bd9a9369118bae643feb26385f76d6fa8f1443d894bc49e9::pac::PAC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730949814404.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

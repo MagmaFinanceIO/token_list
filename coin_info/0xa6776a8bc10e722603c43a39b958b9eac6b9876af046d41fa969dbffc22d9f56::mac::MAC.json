@@ -1,0 +1,13 @@
+{
+  "name": "MAC M3",
+  "symbol": "MAC",
+  "decimals": 6,
+  "coin_type": "0xa6776a8bc10e722603c43a39b958b9eac6b9876af046d41fa969dbffc22d9f56::mac::MAC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://public-cdn.daossui.io/assets/tokens/01fd2340-ded2-11ef-9dba-070b578638a0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

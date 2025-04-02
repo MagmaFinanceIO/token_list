@@ -1,0 +1,13 @@
+{
+  "name": "Bullionaire protocol",
+  "symbol": "BP",
+  "decimals": 7,
+  "coin_type": "0x53412b225b7d71f6b1af125e4f0c133d92ac90f0d29b5697ed482d0562ce4362::bp::BP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3dc4753a-1075-4110-a304-978fc797bc01.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

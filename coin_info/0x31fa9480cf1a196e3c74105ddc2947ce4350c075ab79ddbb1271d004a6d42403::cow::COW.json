@@ -1,0 +1,13 @@
+{
+  "name": "Yeehaw",
+  "symbol": "COW",
+  "decimals": 9,
+  "coin_type": "0x31fa9480cf1a196e3c74105ddc2947ce4350c075ab79ddbb1271d004a6d42403::cow::COW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5pB5P6XbMLAqxX4cProGiFg1jWaygyYMuBUMc5VW5uGg.png?size=lg&key=06bcb0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

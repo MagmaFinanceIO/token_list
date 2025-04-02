@@ -1,0 +1,13 @@
+{
+  "name": "COP",
+  "symbol": "COP",
+  "decimals": 9,
+  "coin_type": "0x9c99adec8a54ce577b4ca779cf743d963acee3f67ef85deb2c4a7e085ef52d0b::Cop::COP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_cozcat_9c068db346.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

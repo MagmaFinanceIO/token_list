@@ -1,0 +1,13 @@
+{
+  "name": "Moon Peanut",
+  "symbol": "MOONUT",
+  "decimals": 9,
+  "coin_type": "0x86340cd4c5d6d0354902e29643d4c41370e35a77581cc4d24ab0d51e63098c3e::moonut::MOONUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/438fd33c-c376-43dd-b72c-6767259fe3b4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

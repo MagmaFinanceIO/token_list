@@ -1,0 +1,13 @@
+{
+  "name": "SUI PARK",
+  "symbol": "SUIPARK",
+  "decimals": 6,
+  "coin_type": "0xb2ee3c405c9cc6c6815fbb2cdb37a94cedc8d4a65acefd77fd96881db19631be::suipark::SUIPARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731010804325.PNG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

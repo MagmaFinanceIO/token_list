@@ -1,0 +1,13 @@
+{
+  "name": "YUGECOIN",
+  "symbol": "YUGE",
+  "decimals": 9,
+  "coin_type": "0x303ec309c4399690a01d2063f92f2d45e409d71526e1faa65de4da3ee576ac06::yuge::YUGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/53f00b1a-dd27-4521-b224-51f58d97e3c9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

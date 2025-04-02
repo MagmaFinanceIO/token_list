@@ -1,0 +1,13 @@
+{
+  "name": "SUITON",
+  "symbol": "SUITONS",
+  "decimals": 6,
+  "coin_type": "0x134a0142d95596cabfcb250208294373a9ef4889dd97a590ccde81e40035f4cf::suitons::SUITONS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Art_3a0563cf0b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

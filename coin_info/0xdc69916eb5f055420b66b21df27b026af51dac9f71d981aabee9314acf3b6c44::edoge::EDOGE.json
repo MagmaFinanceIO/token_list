@@ -1,0 +1,13 @@
+{
+  "name": "Ethereum Doge",
+  "symbol": "EDOGE",
+  "decimals": 9,
+  "coin_type": "0xdc69916eb5f055420b66b21df27b026af51dac9f71d981aabee9314acf3b6c44::edoge::EDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmU5CzoLw59yApYXNQBRf9CkzJbP7iYxssxZCq62EzqeTM",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

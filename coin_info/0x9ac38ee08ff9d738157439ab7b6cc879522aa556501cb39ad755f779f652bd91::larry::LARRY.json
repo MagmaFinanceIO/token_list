@@ -1,0 +1,13 @@
+{
+  "name": "LARRY DOG",
+  "symbol": "LARRY",
+  "decimals": 9,
+  "coin_type": "0x9ac38ee08ff9d738157439ab7b6cc879522aa556501cb39ad755f779f652bd91::larry::LARRY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a3a12124-b86a-4439-824a-3fa52a3aeb6f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

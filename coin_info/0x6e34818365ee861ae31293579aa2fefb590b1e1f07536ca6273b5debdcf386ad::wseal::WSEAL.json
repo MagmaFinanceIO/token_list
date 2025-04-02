@@ -1,0 +1,13 @@
+{
+  "name": "Wrapped Seal",
+  "symbol": "wSeal",
+  "decimals": 6,
+  "coin_type": "0x6e34818365ee861ae31293579aa2fefb590b1e1f07536ca6273b5debdcf386ad::wseal::WSEAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/asdasd12312543_7cc82aa4a0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

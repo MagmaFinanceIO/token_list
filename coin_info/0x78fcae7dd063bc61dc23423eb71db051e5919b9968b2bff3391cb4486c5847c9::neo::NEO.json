@@ -1,0 +1,13 @@
+{
+  "name": "neo cat",
+  "symbol": "NEO",
+  "decimals": 6,
+  "coin_type": "0x78fcae7dd063bc61dc23423eb71db051e5919b9968b2bff3391cb4486c5847c9::neo::NEO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f09d7a9b-ce4d-4c93-a76b-580c690863cf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

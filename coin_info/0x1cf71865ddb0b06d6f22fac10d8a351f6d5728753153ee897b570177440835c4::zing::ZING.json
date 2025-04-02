@@ -1,0 +1,13 @@
+{
+  "name": "Zing Zing",
+  "symbol": "ZING",
+  "decimals": 9,
+  "coin_type": "0x1cf71865ddb0b06d6f22fac10d8a351f6d5728753153ee897b570177440835c4::zing::ZING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/G6Rbo9Mzzy6KMm9qP27rZb5jvhZnMPFnfFJaSa3pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

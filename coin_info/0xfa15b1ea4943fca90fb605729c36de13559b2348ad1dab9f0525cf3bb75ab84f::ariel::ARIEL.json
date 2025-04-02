@@ -1,0 +1,13 @@
+{
+  "name": "Siren Of Sui by SuiAI",
+  "symbol": "ARIEL",
+  "decimals": 6,
+  "coin_type": "0xfa15b1ea4943fca90fb605729c36de13559b2348ad1dab9f0525cf3bb75ab84f::ariel::ARIEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Token_408b256b5a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

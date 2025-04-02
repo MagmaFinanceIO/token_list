@@ -1,0 +1,13 @@
+{
+  "name": "SuiAILab",
+  "symbol": "SuiAILab",
+  "decimals": 6,
+  "coin_type": "0x9d090eb8c686581eeed09beb53cb0924003d5d5e753481b39c5e76107fc12e95::suiailab::SUIAILAB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2513148a-9546-442f-a259-26f3194716ce.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

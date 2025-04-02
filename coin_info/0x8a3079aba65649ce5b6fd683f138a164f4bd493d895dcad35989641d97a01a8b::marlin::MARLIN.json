@@ -1,0 +1,13 @@
+{
+  "name": "Marlin",
+  "symbol": "MARLIN",
+  "decimals": 9,
+  "coin_type": "0x8a3079aba65649ce5b6fd683f138a164f4bd493d895dcad35989641d97a01a8b::marlin::MARLIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a933724e-6b6c-4dfd-a3a4-8667c47b4b72.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

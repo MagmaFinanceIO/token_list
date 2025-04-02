@@ -1,0 +1,13 @@
+{
+  "name": "RELAXED DOG",
+  "symbol": "RELAXEDDOG",
+  "decimals": 9,
+  "coin_type": "0x59f04f65d4e1f74f674f85ead07f0bcefe70b1fb568614c615c29bbd5a1e0876::relaxeddog::RELAXEDDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/68o1DHL3XoEESBmMU1a1qQwe5BMAV2HFVPCCb5qmpump.png?size=lg&key=ba0885",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

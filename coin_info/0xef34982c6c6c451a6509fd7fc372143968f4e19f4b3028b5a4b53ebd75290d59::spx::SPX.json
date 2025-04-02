@@ -1,0 +1,13 @@
+{
+  "name": "SPX6900",
+  "symbol": "SPX",
+  "decimals": 2,
+  "coin_type": "0xef34982c6c6c451a6509fd7fc372143968f4e19f4b3028b5a4b53ebd75290d59::spx::SPX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7d3e6681-3b1a-4181-8173-01b9f60b76b4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

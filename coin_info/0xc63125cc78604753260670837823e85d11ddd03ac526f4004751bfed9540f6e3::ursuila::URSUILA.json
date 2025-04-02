@@ -1,0 +1,13 @@
+{
+  "name": "Ursuila",
+  "symbol": "URSUILA",
+  "decimals": 6,
+  "coin_type": "0xc63125cc78604753260670837823e85d11ddd03ac526f4004751bfed9540f6e3::ursuila::URSUILA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ok_c7d0b6933f.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

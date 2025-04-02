@@ -1,0 +1,13 @@
+{
+  "name": "Bretto Meme",
+  "symbol": "Bretto",
+  "decimals": 9,
+  "coin_type": "0x1bda7c5c6695a1818d8b4c8ebffe5051fb39115cb0359d50c3db367f19e16c97::bretto::BRETTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f40f78dd-bd60-4ab2-b777-04868f714638.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

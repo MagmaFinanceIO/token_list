@@ -1,0 +1,13 @@
+{
+  "name": "Andrew Tate Ai",
+  "symbol": "TATEAI",
+  "decimals": 9,
+  "coin_type": "0x6624e9e7594afcae8ea010293133d3ddf0ba67aa390bc1fb2cb0fd35cca75878::tateai::TATEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmRURpmV1WqvqRHTWFK1CTa8EmoqfkyLkrfGKYTq12pEwN",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

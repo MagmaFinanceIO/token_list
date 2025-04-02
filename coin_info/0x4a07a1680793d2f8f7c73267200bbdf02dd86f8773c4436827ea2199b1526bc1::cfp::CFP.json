@@ -1,0 +1,13 @@
+{
+  "name": "Cat Feeding Place",
+  "symbol": "CFP",
+  "decimals": 6,
+  "coin_type": "0x4a07a1680793d2f8f7c73267200bbdf02dd86f8773c4436827ea2199b1526bc1::cfp::CFP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/GZ_8e_U_Rz_XEAMIQI_1_f873a22b5e.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Slooni",
+  "symbol": "SLOONI",
+  "decimals": 6,
+  "coin_type": "0x684956cf152a397eb4081b7d12104e832d2cdfeea24eea8928769c3ad07d30ed::slooni::SLOONI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/555_d292bb3059.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Baby Pepe",
+  "symbol": "PEPE",
+  "decimals": 9,
+  "coin_type": "0xbb20b7c4939f93b231cd43b5bd9a59c135203591778242aaf4013ce2843c9abc::pepe::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c2bbb45e-848f-4d10-93c2-fc306d12e421.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

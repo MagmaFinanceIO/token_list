@@ -1,0 +1,13 @@
+{
+  "name": "SHREKAI",
+  "symbol": "SHREK",
+  "decimals": 9,
+  "coin_type": "0xac1526f45924633d3b7cea191907dd57a56a4b67f167bd4bb10baca7d4ed77c9::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

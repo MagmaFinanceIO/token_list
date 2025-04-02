@@ -1,0 +1,13 @@
+{
+  "name": "The Dumb and Dumber",
+  "symbol": "APES",
+  "decimals": 9,
+  "coin_type": "0xf2479ad24a514bf9a9334ac86342527f0f383eaa09aab9a2f546133f5a6e5cf9::apes::APES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c55534cb-aa94-4605-ab07-c542b9f11fc0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

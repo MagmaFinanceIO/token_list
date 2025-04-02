@@ -1,0 +1,13 @@
+{
+  "name": "SpaceAI",
+  "symbol": "SpaceAI",
+  "decimals": 9,
+  "coin_type": "0xb0bb57dffe2332256cd89e0b95fd60c42997b1e762d87a8a94c02bd179610e96::spaceai::SPACEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6e9c2809-7a03-468f-970d-8c59de630362.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

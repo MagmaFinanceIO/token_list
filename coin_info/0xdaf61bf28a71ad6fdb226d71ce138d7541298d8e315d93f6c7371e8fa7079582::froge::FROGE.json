@@ -1,0 +1,13 @@
+{
+  "name": "FROGE",
+  "symbol": "FROGE",
+  "decimals": 6,
+  "coin_type": "0xdaf61bf28a71ad6fdb226d71ce138d7541298d8e315d93f6c7371e8fa7079582::froge::FROGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Picsart_24_12_20_22_07_22_982_a1598800e2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Gordon The Bird",
+  "symbol": "GORDON",
+  "decimals": 9,
+  "coin_type": "0xaf673898a4f1ddd52e8a044aa17524c5f1ddac0cb4363da731564123f8eba620::gordon::GORDON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/QYFYQaCk2ffAmGxS31xVA3wbVcpbaKWHwwzDsz8pump.png?size=lg&key=7b6d75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

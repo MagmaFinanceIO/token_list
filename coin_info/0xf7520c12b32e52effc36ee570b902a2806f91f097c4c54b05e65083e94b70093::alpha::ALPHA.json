@@ -1,0 +1,13 @@
+{
+  "name": "Trump's Alter Ego",
+  "symbol": "ALPHA",
+  "decimals": 9,
+  "coin_type": "0xf7520c12b32e52effc36ee570b902a2806f91f097c4c54b05e65083e94b70093::alpha::ALPHA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9A197SbZCDvXXR8XncGKi5y2k3kWkCF7erUvd2q9pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

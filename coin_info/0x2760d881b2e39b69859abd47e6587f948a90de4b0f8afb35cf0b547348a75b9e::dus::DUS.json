@@ -1,0 +1,13 @@
+{
+  "name": "Dusky",
+  "symbol": "DUS",
+  "decimals": 9,
+  "coin_type": "0x2760d881b2e39b69859abd47e6587f948a90de4b0f8afb35cf0b547348a75b9e::dus::DUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9ef33a88-db7c-45cc-a633-17beadb3fdc9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FACT",
+  "symbol": "FACT",
+  "decimals": 6,
+  "coin_type": "0x994340b4949be10d17296005b46298e750add6305f009c21c2a278e0be2d1f1e::token_factory::TOKEN_FACTORY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://lexica.art/prompt/e37e4ffb-201a-4638-9445-de094d73fffc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

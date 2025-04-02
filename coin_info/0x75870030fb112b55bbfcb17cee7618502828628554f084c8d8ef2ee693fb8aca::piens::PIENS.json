@@ -1,0 +1,13 @@
+{
+  "name": "Suipiens by SuiAI",
+  "symbol": "PIENS",
+  "decimals": 6,
+  "coin_type": "0x75870030fb112b55bbfcb17cee7618502828628554f084c8d8ef2ee693fb8aca::piens::PIENS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/n_Sx_W_Miq_T_400x400_3932f4b838.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

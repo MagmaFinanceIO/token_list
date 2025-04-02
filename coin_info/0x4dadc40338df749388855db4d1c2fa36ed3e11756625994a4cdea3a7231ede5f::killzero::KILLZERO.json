@@ -1,0 +1,13 @@
+{
+  "name": "KILL",
+  "symbol": "KILL ZERO",
+  "decimals": 6,
+  "coin_type": "0x4dadc40338df749388855db4d1c2fa36ed3e11756625994a4cdea3a7231ede5f::killzero::KILLZERO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://aquamarine-magnetic-ptarmigan-262.mypinata.cloud/ipfs/QmYigiKeNknK9gc4JPNcjU3qKLPqMBwaToYPUPBBjYgmA5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

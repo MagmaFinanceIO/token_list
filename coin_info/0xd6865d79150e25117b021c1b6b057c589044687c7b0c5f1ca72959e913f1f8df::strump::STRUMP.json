@@ -1,0 +1,13 @@
+{
+  "name": "SUPER TRUMP",
+  "symbol": "STRUMP",
+  "decimals": 9,
+  "coin_type": "0xd6865d79150e25117b021c1b6b057c589044687c7b0c5f1ca72959e913f1f8df::strump::STRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ESySNf2ByiT8H8WpdG3Pq7euPLSjMnD3gkAk5sGbpump.png?size=lg&key=e2ab02",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

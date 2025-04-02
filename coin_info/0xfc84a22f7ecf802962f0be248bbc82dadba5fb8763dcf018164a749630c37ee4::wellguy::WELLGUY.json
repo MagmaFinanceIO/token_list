@@ -1,0 +1,13 @@
+{
+  "name": "Well..Guy",
+  "symbol": "WELLGUY",
+  "decimals": 6,
+  "coin_type": "0xfc84a22f7ecf802962f0be248bbc82dadba5fb8763dcf018164a749630c37ee4::wellguy::WELLGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/WELLGUY_ICON_d536f70c3a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

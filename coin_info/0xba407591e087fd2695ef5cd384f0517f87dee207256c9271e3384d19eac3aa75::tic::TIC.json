@@ -1,0 +1,13 @@
+{
+  "name": "Epileptic",
+  "symbol": "TIC",
+  "decimals": 6,
+  "coin_type": "0xba407591e087fd2695ef5cd384f0517f87dee207256c9271e3384d19eac3aa75::tic::TIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0249_b2c6bb2750.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

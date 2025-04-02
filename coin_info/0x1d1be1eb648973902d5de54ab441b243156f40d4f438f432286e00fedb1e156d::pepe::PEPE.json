@@ -1,0 +1,13 @@
+{
+  "name": "Pepe The King Prawn",
+  "symbol": "Pepe",
+  "decimals": 6,
+  "coin_type": "0x1d1be1eb648973902d5de54ab441b243156f40d4f438f432286e00fedb1e156d::pepe::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pepe_prawn_1a05ba4712.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

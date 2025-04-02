@@ -1,0 +1,13 @@
+{
+  "name": "Smoking Bird",
+  "symbol": "SMOKINGBIRD",
+  "decimals": 6,
+  "coin_type": "0x879441f7c757ca9d12f6cec01d62f09caf1b3ac7cbc1c03f9fea6233d063768c::smokingbird::SMOKINGBIRD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/smoke_bird_by_danggles2_d986bk5_375w_2x_b682821e0f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

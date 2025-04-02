@@ -1,0 +1,13 @@
+{
+  "name": "PIM PIMLING",
+  "symbol": "PIM",
+  "decimals": 9,
+  "coin_type": "0x40bb7edcdf0f638248c68514d7b2bd7e18dd39e56f1eb412edf6247a0fbe0940::pim::PIM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/zrvL3iuAqoBdfwAmaUYrYcS8UjUk6LbKrexT7aepump.png?size=lg&key=b5da33",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

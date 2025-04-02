@@ -1,0 +1,13 @@
+{
+  "name": "PILL THE DOG",
+  "symbol": "PILL",
+  "decimals": 9,
+  "coin_type": "0x00b47c54318bfcf60c9f84d095e6841be15a916ac2a27302b9dae3cfd669ba75::pill::PILL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CnUi3v9MXjY1N3VwjAfqr8qKqv3Dx1rV2A6GdjNugWUb.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

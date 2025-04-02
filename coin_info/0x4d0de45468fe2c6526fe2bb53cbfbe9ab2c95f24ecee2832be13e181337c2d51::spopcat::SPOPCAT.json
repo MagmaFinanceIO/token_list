@@ -1,0 +1,13 @@
+{
+  "name": "SUI BASED POPCAT",
+  "symbol": "SPOPCAT",
+  "decimals": 9,
+  "coin_type": "0x4d0de45468fe2c6526fe2bb53cbfbe9ab2c95f24ecee2832be13e181337c2d51::spopcat::SPOPCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/06ab670c-8a75-420e-9c7b-4e26d448d3ec.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

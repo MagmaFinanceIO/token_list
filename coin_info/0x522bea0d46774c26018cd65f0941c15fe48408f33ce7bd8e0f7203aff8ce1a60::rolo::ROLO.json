@@ -1,0 +1,13 @@
+{
+  "name": "Rolo baby shark on SUI",
+  "symbol": "ROLO",
+  "decimals": 6,
+  "coin_type": "0x522bea0d46774c26018cd65f0941c15fe48408f33ce7bd8e0f7203aff8ce1a60::rolo::ROLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_d8d2554f63.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

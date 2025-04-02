@@ -1,0 +1,13 @@
+{
+  "name": "BEBE",
+  "symbol": "BEBE",
+  "decimals": 2,
+  "coin_type": "0x5b000609b8a4b7e5d4c3de4c8392b3565477f34342f93b0b1be43e40cf56dfa8::BEBE::BEBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/VgXvlTHSG78bxVWXljqnYpNuXimVWegiWvFqXjZDcRg?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Baby Jaguar",
+  "symbol": "JAGO",
+  "decimals": 9,
+  "coin_type": "0xd7320cf0c5aab036e844a93d5ed5de09dcc592caa70eb67bfe63df5edce0989f::jago::JAGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/18736d30-57ee-4800-9b02-b48a513f485f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

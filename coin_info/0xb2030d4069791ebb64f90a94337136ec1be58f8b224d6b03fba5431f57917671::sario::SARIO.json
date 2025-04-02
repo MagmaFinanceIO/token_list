@@ -1,0 +1,13 @@
+{
+  "name": "Sui Mario",
+  "symbol": "SARIO",
+  "decimals": 6,
+  "coin_type": "0xb2030d4069791ebb64f90a94337136ec1be58f8b224d6b03fba5431f57917671::sario::SARIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_56_1_0f00d58a8a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

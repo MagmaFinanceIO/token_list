@@ -1,0 +1,13 @@
+{
+  "name": "Dognut",
+  "symbol": "DNUT",
+  "decimals": 9,
+  "coin_type": "0x0739d23074c56418a0d0c1cee3b1cd7c6c4ff5b52d285d7208f383d944ad2513::dnut::DNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmPjYsVe86rNbooFeDr6kuYu8Wpp9cszR7t1igKGRqZ14E",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

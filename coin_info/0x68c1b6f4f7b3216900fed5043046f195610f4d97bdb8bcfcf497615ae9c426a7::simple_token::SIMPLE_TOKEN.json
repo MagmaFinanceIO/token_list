@@ -1,0 +1,13 @@
+{
+  "name": "RETARD",
+  "symbol": "RETARD",
+  "decimals": 9,
+  "coin_type": "0x68c1b6f4f7b3216900fed5043046f195610f4d97bdb8bcfcf497615ae9c426a7::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

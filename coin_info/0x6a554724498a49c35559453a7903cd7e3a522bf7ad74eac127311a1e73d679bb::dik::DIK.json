@@ -1,0 +1,13 @@
+{
+  "name": "Dog In Kimono",
+  "symbol": "$Dik",
+  "decimals": 6,
+  "coin_type": "0x6a554724498a49c35559453a7903cd7e3a522bf7ad74eac127311a1e73d679bb::dik::DIK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmZsaDzbPs5NbGCRkN2HhnnBEavmDviESkxWYJbcVXPitY",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

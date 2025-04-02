@@ -1,0 +1,13 @@
+{
+  "name": "BONK DOG",
+  "symbol": "BONK",
+  "decimals": 9,
+  "coin_type": "0x77f8bd5c0a325ab90f118e9a6efcbe4a87eec94fd1d49458c24f97bb74177f6a::bonk::BONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7fb6521f-e9e0-45da-ad49-f2955757a941.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

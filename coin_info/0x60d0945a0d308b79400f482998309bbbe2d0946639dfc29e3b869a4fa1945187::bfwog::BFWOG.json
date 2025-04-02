@@ -1,0 +1,13 @@
+{
+  "name": "Baby Fwog",
+  "symbol": "BFWOG",
+  "decimals": 9,
+  "coin_type": "0x60d0945a0d308b79400f482998309bbbe2d0946639dfc29e3b869a4fa1945187::bfwog::BFWOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Ah8DfbSvZJjweL9p4rdgYMmSogexYrp8PvrUgL3Jpump.png?size=lg&key=9f9cb3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

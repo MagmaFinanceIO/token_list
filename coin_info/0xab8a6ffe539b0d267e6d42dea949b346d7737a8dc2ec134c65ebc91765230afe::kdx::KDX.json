@@ -1,0 +1,13 @@
+{
+  "name": "KDX",
+  "symbol": "KDX",
+  "decimals": 6,
+  "coin_type": "0xab8a6ffe539b0d267e6d42dea949b346d7737a8dc2ec134c65ebc91765230afe::kdx::KDX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ccce0e40-20c7-4945-8760-15bd2c978c2e.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

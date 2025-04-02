@@ -1,0 +1,13 @@
+{
+  "name": "Happy Hoppy Rabbit",
+  "symbol": "HOPPY",
+  "decimals": 6,
+  "coin_type": "0x8ed2edd0147e308a14ef52569c8d6118033b4ebda86e55d3160481be58ababc6::hoppy::HOPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731179642446.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

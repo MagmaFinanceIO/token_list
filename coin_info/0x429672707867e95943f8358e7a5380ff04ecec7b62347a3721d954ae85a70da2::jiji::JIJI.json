@@ -1,0 +1,13 @@
+{
+  "name": "Jiji",
+  "symbol": "Jiji",
+  "decimals": 9,
+  "coin_type": "0x429672707867e95943f8358e7a5380ff04ecec7b62347a3721d954ae85a70da2::jiji::JIJI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

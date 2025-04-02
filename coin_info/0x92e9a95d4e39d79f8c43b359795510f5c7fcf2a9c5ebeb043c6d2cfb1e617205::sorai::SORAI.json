@@ -1,0 +1,13 @@
+{
+  "name": "SORA AI",
+  "symbol": "SORAI",
+  "decimals": 9,
+  "coin_type": "0x92e9a95d4e39d79f8c43b359795510f5c7fcf2a9c5ebeb043c6d2cfb1e617205::sorai::SORAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GppMEXH7b3zcbVXxV3J3G7uH49CgnruGvf81reW5pump.png?size=lg&key=03fc87",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

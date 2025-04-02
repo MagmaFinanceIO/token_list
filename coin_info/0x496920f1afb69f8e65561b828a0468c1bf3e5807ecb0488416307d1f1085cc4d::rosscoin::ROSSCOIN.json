@@ -1,0 +1,13 @@
+{
+  "name": "ROSSCOIN",
+  "symbol": "ROSSCOIN",
+  "decimals": 9,
+  "coin_type": "0x496920f1afb69f8e65561b828a0468c1bf3e5807ecb0488416307d1f1085cc4d::rosscoin::ROSSCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EkVYMGehJKAFowTQpGoxiCpDTRNEoGanwvNUYXhqpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

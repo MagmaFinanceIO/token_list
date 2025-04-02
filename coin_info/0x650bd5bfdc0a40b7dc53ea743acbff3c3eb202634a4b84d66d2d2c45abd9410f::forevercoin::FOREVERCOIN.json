@@ -1,0 +1,13 @@
+{
+  "name": "Forever Coin on SUI",
+  "symbol": "ForeverCoin",
+  "decimals": 9,
+  "coin_type": "0x650bd5bfdc0a40b7dc53ea743acbff3c3eb202634a4b84d66d2d2c45abd9410f::forevercoin::FOREVERCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f5e0d467-9eda-4874-9b19-f52926a1c576.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

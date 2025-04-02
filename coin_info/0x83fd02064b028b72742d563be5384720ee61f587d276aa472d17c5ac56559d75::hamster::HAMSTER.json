@@ -1,0 +1,13 @@
+{
+  "name": "Hamster Sui",
+  "symbol": "HAMSTER",
+  "decimals": 6,
+  "coin_type": "0x83fd02064b028b72742d563be5384720ee61f587d276aa472d17c5ac56559d75::hamster::HAMSTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/6af34706dc35c260c6ba540c9f49f7a7_7bd32daa39.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

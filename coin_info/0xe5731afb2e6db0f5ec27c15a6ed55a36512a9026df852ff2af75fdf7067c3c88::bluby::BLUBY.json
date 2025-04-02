@@ -1,0 +1,13 @@
+{
+  "name": "BLUBY The Shark",
+  "symbol": "BLUBY",
+  "decimals": 9,
+  "coin_type": "0xe5731afb2e6db0f5ec27c15a6ed55a36512a9026df852ff2af75fdf7067c3c88::bluby::BLUBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ca0261b8-c1ca-49c3-a5ed-a8dc8ac8e8b7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

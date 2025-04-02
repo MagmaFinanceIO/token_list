@@ -1,0 +1,13 @@
+{
+  "name": "Sui Pump",
+  "symbol": "SPUMP",
+  "decimals": 6,
+  "coin_type": "0x9a9cffad44e5a45317a93c7ea74d03a33b7b5538a71e554fd7c94faecd8176cd::spump::SPUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6e7c7199-c085-4e9a-a22f-d467b56c8731.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

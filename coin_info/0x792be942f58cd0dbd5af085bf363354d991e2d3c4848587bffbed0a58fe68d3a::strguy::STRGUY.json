@@ -1,0 +1,13 @@
+{
+  "name": "STRESS GUY",
+  "symbol": "STRGUY",
+  "decimals": 9,
+  "coin_type": "0x792be942f58cd0dbd5af085bf363354d991e2d3c4848587bffbed0a58fe68d3a::strguy::STRGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/48a6986866af3dfcf4ba3667bce48789blob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

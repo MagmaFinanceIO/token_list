@@ -1,0 +1,13 @@
+{
+  "name": "TED HOPE",
+  "symbol": "TEDH",
+  "decimals": 9,
+  "coin_type": "0xb0ebcb757bf480e173fa78737ebd281c2fcf607cc4338d1aa87238406f38fc67::tedh::TEDH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ABwGiyosWGVBXQrJ1TT72uXUNqKvZ6nZki2peLZpbGyK.png?size=lg&key=7249d0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

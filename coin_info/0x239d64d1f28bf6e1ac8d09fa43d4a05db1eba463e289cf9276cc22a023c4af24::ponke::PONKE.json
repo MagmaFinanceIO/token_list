@@ -1,0 +1,13 @@
+{
+  "name": "Escobar Ponke",
+  "symbol": "Ponke",
+  "decimals": 9,
+  "coin_type": "0x239d64d1f28bf6e1ac8d09fa43d4a05db1eba463e289cf9276cc22a023c4af24::ponke::PONKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d268a286-a60b-4eb6-b777-fdf78b9bd733.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

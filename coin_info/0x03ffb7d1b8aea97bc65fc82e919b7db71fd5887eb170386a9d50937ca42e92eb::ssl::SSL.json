@@ -1,0 +1,13 @@
+{
+  "name": "Steven Suigal",
+  "symbol": "SSL",
+  "decimals": 6,
+  "coin_type": "0x03ffb7d1b8aea97bc65fc82e919b7db71fd5887eb170386a9d50937ca42e92eb::ssl::SSL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/stevensuigal_6d61a3c3fe.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

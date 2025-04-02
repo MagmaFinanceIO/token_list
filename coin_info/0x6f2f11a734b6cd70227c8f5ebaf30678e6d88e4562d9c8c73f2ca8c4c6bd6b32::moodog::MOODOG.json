@@ -1,0 +1,13 @@
+{
+  "name": "MOODOG",
+  "symbol": "MOODOG",
+  "decimals": 9,
+  "coin_type": "0x6f2f11a734b6cd70227c8f5ebaf30678e6d88e4562d9c8c73f2ca8c4c6bd6b32::moodog::MOODOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/885c57d1-02da-42d5-a1e0-2883da2dddce.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

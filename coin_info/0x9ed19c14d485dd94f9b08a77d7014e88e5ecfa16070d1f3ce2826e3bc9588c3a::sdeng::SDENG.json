@@ -1,0 +1,13 @@
+{
+  "name": "Super Deng Moo",
+  "symbol": "SDENG",
+  "decimals": 9,
+  "coin_type": "0x9ed19c14d485dd94f9b08a77d7014e88e5ecfa16070d1f3ce2826e3bc9588c3a::sdeng::SDENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0756161e-8ca4-42aa-b0d8-061b7b0943c0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

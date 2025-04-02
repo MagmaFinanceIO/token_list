@@ -1,0 +1,13 @@
+{
+  "name": "Doge on Suits",
+  "symbol": "SUIDG",
+  "decimals": 9,
+  "coin_type": "0xd5564417a76d1d1a07c755cbdb1d0f840b598273885b5bc7df93f7c0d33a2b80::suidg::SUIDG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/489612c9-58e5-48fc-a79e-ef6dfda8dd87.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

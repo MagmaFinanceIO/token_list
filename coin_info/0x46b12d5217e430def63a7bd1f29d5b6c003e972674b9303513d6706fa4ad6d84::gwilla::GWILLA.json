@@ -1,0 +1,13 @@
+{
+  "name": "THE GWILLA",
+  "symbol": "GWILLA",
+  "decimals": 6,
+  "coin_type": "0x46b12d5217e430def63a7bd1f29d5b6c003e972674b9303513d6706fa4ad6d84::gwilla::GWILLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Gwilla_91bf8c6683.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

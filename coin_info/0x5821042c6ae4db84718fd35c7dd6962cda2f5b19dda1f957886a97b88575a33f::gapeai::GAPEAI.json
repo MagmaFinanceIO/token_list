@@ -1,0 +1,13 @@
+{
+  "name": "Gangster Pepe AI",
+  "symbol": "GAPEAI",
+  "decimals": 9,
+  "coin_type": "0x5821042c6ae4db84718fd35c7dd6962cda2f5b19dda1f957886a97b88575a33f::gapeai::GAPEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b9bf5b7c-76f1-4dc8-bcd6-ed83214d4675.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

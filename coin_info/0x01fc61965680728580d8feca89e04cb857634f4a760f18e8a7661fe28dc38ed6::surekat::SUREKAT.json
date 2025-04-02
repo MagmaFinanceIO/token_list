@@ -1,0 +1,13 @@
+{
+  "name": "Sui Rekt Cat",
+  "symbol": "SUREKAT",
+  "decimals": 9,
+  "coin_type": "0x01fc61965680728580d8feca89e04cb857634f4a760f18e8a7661fe28dc38ed6::surekat::SUREKAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d3495819-996d-4136-808d-c6fd51d6f4c5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

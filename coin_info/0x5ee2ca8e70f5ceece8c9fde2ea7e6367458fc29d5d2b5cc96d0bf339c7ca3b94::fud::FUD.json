@@ -1,0 +1,13 @@
+{
+  "name": "FUD AI",
+  "symbol": "FUD",
+  "decimals": 9,
+  "coin_type": "0x5ee2ca8e70f5ceece8c9fde2ea7e6367458fc29d5d2b5cc96d0bf339c7ca3b94::fud::FUD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmXwTzyFqsVbt5gFDwke8CyxsHtiyRFPB4s9WoALFY5nZ9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

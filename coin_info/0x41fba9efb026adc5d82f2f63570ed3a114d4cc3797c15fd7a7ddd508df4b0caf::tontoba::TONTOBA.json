@@ -1,0 +1,13 @@
+{
+  "name": "Tontoba",
+  "symbol": "Tontoba",
+  "decimals": 9,
+  "coin_type": "0x41fba9efb026adc5d82f2f63570ed3a114d4cc3797c15fd7a7ddd508df4b0caf::tontoba::TONTOBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmeMMK2aSThwDqsbrkt4WJo16gNbmtDpJGTwNXNwAf7kDw",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

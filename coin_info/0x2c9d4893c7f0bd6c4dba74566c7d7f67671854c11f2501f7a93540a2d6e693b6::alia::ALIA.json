@@ -1,0 +1,13 @@
+{
+  "name": "AlienAI on Sui",
+  "symbol": "ALIA",
+  "decimals": 6,
+  "coin_type": "0x2c9d4893c7f0bd6c4dba74566c7d7f67671854c11f2501f7a93540a2d6e693b6::alia::ALIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Th_A_m_ti_A_u_Ae_a_1204_x_1204_px_1204_x_1204_px_1204_x_850_px_1215_x_1215_px_1230_x_1215_px_1230_x_1000_px_1230_x_1000_px_1250_x_1000_px_1300_x_1000_px_1350_x_1000_px_23_5cf2a5e966.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

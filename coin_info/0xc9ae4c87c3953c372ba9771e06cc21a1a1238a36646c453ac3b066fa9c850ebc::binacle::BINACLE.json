@@ -1,0 +1,13 @@
+{
+  "name": "Binary Oracle",
+  "symbol": "BINACLE",
+  "decimals": 9,
+  "coin_type": "0xc9ae4c87c3953c372ba9771e06cc21a1a1238a36646c453ac3b066fa9c850ebc::binacle::BINACLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bca57c87-a501-4948-8528-5cf719344dd9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

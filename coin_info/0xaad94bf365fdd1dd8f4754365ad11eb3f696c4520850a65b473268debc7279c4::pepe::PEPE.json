@@ -1,0 +1,13 @@
+{
+  "name": "PEPE",
+  "symbol": "PE",
+  "decimals": 9,
+  "coin_type": "0xaad94bf365fdd1dd8f4754365ad11eb3f696c4520850a65b473268debc7279c4::pepe::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

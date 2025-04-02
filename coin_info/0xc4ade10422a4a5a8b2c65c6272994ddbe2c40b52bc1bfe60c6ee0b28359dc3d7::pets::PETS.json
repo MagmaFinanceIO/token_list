@@ -1,0 +1,13 @@
+{
+  "name": "Sacred Pets",
+  "symbol": "PETS",
+  "decimals": 6,
+  "coin_type": "0xc4ade10422a4a5a8b2c65c6272994ddbe2c40b52bc1bfe60c6ee0b28359dc3d7::pets::PETS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0a8315a1-38b0-4af3-9c73-cce1cac02fe6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

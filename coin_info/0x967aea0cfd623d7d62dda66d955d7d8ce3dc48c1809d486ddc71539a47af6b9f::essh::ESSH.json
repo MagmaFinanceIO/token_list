@@ -1,0 +1,13 @@
+{
+  "name": "eros cash",
+  "symbol": "ESSH",
+  "decimals": 9,
+  "coin_type": "0x967aea0cfd623d7d62dda66d955d7d8ce3dc48c1809d486ddc71539a47af6b9f::essh::ESSH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f129e09b-96c5-4d9c-a6e4-d13635b64676.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

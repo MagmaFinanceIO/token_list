@@ -1,0 +1,13 @@
+{
+  "name": "ZIPPY ZEBRA",
+  "symbol": "ZZEB",
+  "decimals": 6,
+  "coin_type": "0x43162c0c6a47fa0539e100a63f320b06701c3b13e0a7e4e0102b4f24519f892b::zzeb::ZZEB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_21_032703762_7c2efbee22.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

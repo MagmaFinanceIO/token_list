@@ -1,0 +1,13 @@
+{
+  "name": "TOGA",
+  "symbol": "TOGA",
+  "decimals": 9,
+  "coin_type": "0x5004a5711ea8aca8972a064c2d19b42bb1a470502100348f35fb123943a8e9b1::toga::TOGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4T54PGF4gAU75NL9j2GHvrVbR6u5zjyJE4zGuJbkpump.png?size=lg&key=e296e1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

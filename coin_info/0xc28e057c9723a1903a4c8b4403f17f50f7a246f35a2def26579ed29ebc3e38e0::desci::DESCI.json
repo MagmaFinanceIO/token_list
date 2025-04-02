@@ -1,0 +1,13 @@
+{
+  "name": "SUI Desci Agents",
+  "symbol": "DESCI",
+  "decimals": 6,
+  "coin_type": "0xc28e057c9723a1903a4c8b4403f17f50f7a246f35a2def26579ed29ebc3e38e0::desci::DESCI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3e521af9-8b76-4420-8573-ffd040b33557.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

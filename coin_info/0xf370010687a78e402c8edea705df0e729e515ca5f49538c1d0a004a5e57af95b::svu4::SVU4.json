@@ -1,0 +1,13 @@
+{
+  "name": "svU4",
+  "symbol": "svU4",
+  "decimals": 9,
+  "coin_type": "0xf370010687a78e402c8edea705df0e729e515ca5f49538c1d0a004a5e57af95b::svu4::SVU4",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CB48KiK1oi1tWtjmPWxVR2NPeEr9ewzmZQ8ERk79Ue4b.png?size=lg&key=e3d4b7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

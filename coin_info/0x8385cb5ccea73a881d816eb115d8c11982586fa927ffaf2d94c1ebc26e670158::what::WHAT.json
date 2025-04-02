@@ -1,0 +1,13 @@
+{
+  "name": "WHAT",
+  "symbol": "WHAT",
+  "decimals": 9,
+  "coin_type": "0x8385cb5ccea73a881d816eb115d8c11982586fa927ffaf2d94c1ebc26e670158::what::WHAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkjmKy6a1gal-g6LnwGpAjyE0AiF-Kb4qISQ&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

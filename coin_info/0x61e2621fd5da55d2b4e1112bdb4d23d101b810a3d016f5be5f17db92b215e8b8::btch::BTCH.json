@@ -1,0 +1,13 @@
+{
+  "name": "Bitchcoin",
+  "symbol": "BTCH",
+  "decimals": 9,
+  "coin_type": "0x61e2621fd5da55d2b4e1112bdb4d23d101b810a3d016f5be5f17db92b215e8b8::btch::BTCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/61b7de44-cc38-495b-b98b-42d3a2f5ea75.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

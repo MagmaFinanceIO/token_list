@@ -1,0 +1,13 @@
+{
+  "name": "WHALE",
+  "symbol": "WHALE2",
+  "decimals": 6,
+  "coin_type": "0x48fb581316399dbc7eaa3afc5d1298b9f1ab0bf284f406fed26d1cb27b99bf73::whale2::WHALE2",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/whale2.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

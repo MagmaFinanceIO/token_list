@@ -1,0 +1,13 @@
+{
+  "name": "SPEPE",
+  "symbol": "SPEPE",
+  "decimals": 9,
+  "coin_type": "0x8a49bd2deb73eceae764c1c6937758b947407ebd78a5b2151768cef393747181::spepe::SPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d7fc6739-b5de-42df-bc41-4ed07d1b3195.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Baby Monkey",
+  "symbol": "BBMO",
+  "decimals": 9,
+  "coin_type": "0x1f0026fcfbfba8a44dd4a26bc72843a6dd670595ac7be628e8da1cb3c5956921::bbmo::BBMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cdde3862-7a0c-4dad-8e97-63245d36916f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

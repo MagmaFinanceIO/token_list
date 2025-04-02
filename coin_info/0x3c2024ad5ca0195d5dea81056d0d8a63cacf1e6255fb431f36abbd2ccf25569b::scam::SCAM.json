@@ -1,0 +1,13 @@
+{
+  "name": "Official Scam Coin",
+  "symbol": "SCAM",
+  "decimals": 9,
+  "coin_type": "0x3c2024ad5ca0195d5dea81056d0d8a63cacf1e6255fb431f36abbd2ccf25569b::scam::SCAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/J8wM2nDdDCAbU5ubuCeBdBJrk7strxtfcjhTHMtmpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

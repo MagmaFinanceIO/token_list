@@ -1,0 +1,13 @@
+{
+  "name": "UNICORN",
+  "symbol": "UNICORNFACE",
+  "decimals": 6,
+  "coin_type": "0x292daebf557915453c0e90bd319645c3b01e30ee39db071462c7b860e7e83e15::unicornface::UNICORNFACE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/unicornface.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CAPYSPLASH",
+  "symbol": "CAPY",
+  "decimals": 9,
+  "coin_type": "0xfb25cb4c3a393a1ce2729fcd88e1b4493848a088c53a35ca798ae0a0906df7b0::capy::CAPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/1e8e450a3e01db19108a2186ed62b8c1blob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

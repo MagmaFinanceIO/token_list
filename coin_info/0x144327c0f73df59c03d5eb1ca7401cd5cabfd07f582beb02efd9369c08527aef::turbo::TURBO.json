@@ -1,0 +1,13 @@
+{
+  "name": "Turbo on Sui",
+  "symbol": "TURBO",
+  "decimals": 6,
+  "coin_type": "0x144327c0f73df59c03d5eb1ca7401cd5cabfd07f582beb02efd9369c08527aef::turbo::TURBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/images_1_45f2f20591.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

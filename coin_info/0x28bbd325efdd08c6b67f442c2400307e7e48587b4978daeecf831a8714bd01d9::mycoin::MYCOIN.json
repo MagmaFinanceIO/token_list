@@ -1,0 +1,13 @@
+{
+  "name": "Seek Agent",
+  "symbol": "SEEKAGENT",
+  "decimals": 9,
+  "coin_type": "0x28bbd325efdd08c6b67f442c2400307e7e48587b4978daeecf831a8714bd01d9::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

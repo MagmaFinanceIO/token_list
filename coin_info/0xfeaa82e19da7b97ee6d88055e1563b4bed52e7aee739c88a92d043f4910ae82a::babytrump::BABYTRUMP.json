@@ -1,0 +1,13 @@
+{
+  "name": "BABYTRUMP",
+  "symbol": "BABYTRUMP",
+  "decimals": 9,
+  "coin_type": "0xfeaa82e19da7b97ee6d88055e1563b4bed52e7aee739c88a92d043f4910ae82a::babytrump::BABYTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f0aa8205-385d-4498-8d6c-b3997eeb71f8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

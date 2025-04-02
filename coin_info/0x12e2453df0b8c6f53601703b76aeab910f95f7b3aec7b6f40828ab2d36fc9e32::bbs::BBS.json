@@ -1,0 +1,13 @@
+{
+  "name": "Baby Shark",
+  "symbol": "BBS",
+  "decimals": 9,
+  "coin_type": "0x12e2453df0b8c6f53601703b76aeab910f95f7b3aec7b6f40828ab2d36fc9e32::bbs::BBS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/65671d0fefdce71874e5fcab96d0ad67blob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

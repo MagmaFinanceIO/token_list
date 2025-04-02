@@ -1,0 +1,13 @@
+{
+  "name": "ELEGANCIA",
+  "symbol": "EGC",
+  "decimals": 9,
+  "coin_type": "0x12030da45701de21da9b85661d3126250ba13e9ac1578635bf093db26c27f4e5::egc::EGC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/071e44b4-b16e-4ab5-b2bd-9ecdcb93d085.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

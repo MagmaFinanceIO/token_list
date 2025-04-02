@@ -1,0 +1,13 @@
+{
+  "name": "AI-therum",
+  "symbol": "AITHER",
+  "decimals": 6,
+  "coin_type": "0xba646fa1ae22df4ab7b94d2305553209c6e894bbdfc9fb1d5f2d4715e3b349b3::aither::AITHER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/ai_therium_ce2ecec036.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

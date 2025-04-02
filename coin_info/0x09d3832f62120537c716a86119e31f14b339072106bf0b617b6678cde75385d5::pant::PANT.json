@@ -1,0 +1,13 @@
+{
+  "name": "PEANUT",
+  "symbol": "PANT",
+  "decimals": 6,
+  "coin_type": "0x09d3832f62120537c716a86119e31f14b339072106bf0b617b6678cde75385d5::pant::PANT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmZBrpBA4jMMhRAQoiB5mGKC9xQVZYab2V167RHZpGgvKz",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

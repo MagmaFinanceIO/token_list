@@ -1,0 +1,13 @@
+{
+  "name": "CICARO",
+  "symbol": "CAO",
+  "decimals": 9,
+  "coin_type": "0xb2846fdaf7563f455e52f1b8446a594bcf7cb7cade649d5244942ce02cb0d95c::cao::CAO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3ac55d9e-30ee-44f0-83d6-d7ec543be060.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SquirtSquad",
+  "symbol": "SQS",
+  "decimals": 9,
+  "coin_type": "0x59b41a6ab65802f33af2a32395b55c930699ee4a170c7fdffa19fd46b3dbb5fc::sqs::SQS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d8cb1590-9326-41cf-a175-bfcd572a3272.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

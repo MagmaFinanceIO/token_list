@@ -1,0 +1,13 @@
+{
+  "name": "Landwu",
+  "symbol": "Landwu",
+  "decimals": 9,
+  "coin_type": "0x4998db2037e105cd3f3a9836abaf6de2d246142014974ce408f1f6e1cf6bb472::landwu::LANDWU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7b17a257-c8fe-4246-acfb-86599961afe4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

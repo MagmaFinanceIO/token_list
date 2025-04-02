@@ -1,0 +1,13 @@
+{
+  "name": "Suiholio",
+  "symbol": "Suiholio",
+  "decimals": 9,
+  "coin_type": "0xdb55683b9fa840aa7c8077d9bc9d95dba766f034ccf5ca971f2a3d93dcce2e78::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

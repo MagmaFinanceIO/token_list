@@ -1,0 +1,13 @@
+{
+  "name": "AIGENT",
+  "symbol": "AIGENT",
+  "decimals": 9,
+  "coin_type": "0x107d466f8d6889b007b01b7661dd2fc224c6d7074ac5c46aaf5af5ec187efdba::AIGENT::AIGENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

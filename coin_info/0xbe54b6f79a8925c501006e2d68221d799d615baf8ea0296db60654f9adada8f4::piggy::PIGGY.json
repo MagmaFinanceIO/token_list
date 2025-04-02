@@ -1,0 +1,13 @@
+{
+  "name": "Piggy Bank",
+  "symbol": "Piggy",
+  "decimals": 6,
+  "coin_type": "0xbe54b6f79a8925c501006e2d68221d799d615baf8ea0296db60654f9adada8f4::piggy::PIGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmXtBrMNyovsXVKUi2LFEiUPYzNAJ5DsG3fetQ7HWuZzhy",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

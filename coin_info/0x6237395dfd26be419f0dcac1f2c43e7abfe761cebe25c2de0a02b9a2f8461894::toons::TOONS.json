@@ -1,0 +1,13 @@
+{
+  "name": "Toons A",
+  "symbol": "TOONS",
+  "decimals": 9,
+  "coin_type": "0x6237395dfd26be419f0dcac1f2c43e7abfe761cebe25c2de0a02b9a2f8461894::toons::TOONS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/jimBqijNp9yZwgMmxFaLECr5rFypPGZQNEqL9YU4UjT.png?size=lg&key=4cfa61",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

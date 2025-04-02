@@ -1,0 +1,13 @@
+{
+  "name": "Horse Prophet",
+  "symbol": "Horse Prophet",
+  "decimals": 9,
+  "coin_type": "0xa73e68afa46ce073298e0c7877b5fff2940f51a4a495b434aedf65a9e754ab6a::horse_prophet::HORSE_PROPHET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9020e9c3-e2ea-4247-8c94-af89149ebc95.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

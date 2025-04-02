@@ -1,0 +1,13 @@
+{
+  "name": "Just a Chill Dude",
+  "symbol": "CHILLDUDE",
+  "decimals": 9,
+  "coin_type": "0x3b24ce660e2c68e9f1116bba468efcb5aad79dd2f88a447492ed92e12c255bec::chilldude::CHILLDUDE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/46dd6eca-444a-4edc-ba47-4a29af69d77b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

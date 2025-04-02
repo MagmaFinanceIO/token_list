@@ -1,0 +1,13 @@
+{
+  "name": "David Sacks",
+  "symbol": "SACKS",
+  "decimals": 9,
+  "coin_type": "0x2acb21ee5ed133002f048315f5603a04107a4cff069dfc03f5f679ca1c390c2e::sacks::SACKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/pepEMw1rN49vkeVA6h5dvuva5i6ukQsbMJgNCvumwu6.png?claimId=PmPovswgw0e67El_",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

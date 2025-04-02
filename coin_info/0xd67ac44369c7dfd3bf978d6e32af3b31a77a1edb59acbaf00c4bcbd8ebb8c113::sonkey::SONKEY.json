@@ -1,0 +1,13 @@
+{
+  "name": "Sui Monkey",
+  "symbol": "SONKEY",
+  "decimals": 6,
+  "coin_type": "0xd67ac44369c7dfd3bf978d6e32af3b31a77a1edb59acbaf00c4bcbd8ebb8c113::sonkey::SONKEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_2a5da218f7.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

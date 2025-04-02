@@ -1,0 +1,13 @@
+{
+  "name": "Asuika EVA",
+  "symbol": "ASUIKA",
+  "decimals": 9,
+  "coin_type": "0x63a5a37eb68d50483fdab0755d3d04694631321e44df7f8ae27fda363403e542::asuika::ASUIKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/076/590/437/large/fhnt-01-1.jpg?1717343730",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

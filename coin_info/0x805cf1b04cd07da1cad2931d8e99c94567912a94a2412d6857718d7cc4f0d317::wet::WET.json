@@ -1,0 +1,13 @@
+{
+  "name": "WETonSUI",
+  "symbol": "WET",
+  "decimals": 6,
+  "coin_type": "0x805cf1b04cd07da1cad2931d8e99c94567912a94a2412d6857718d7cc4f0d317::wet::WET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_11_11_20_44_17_181b01949d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

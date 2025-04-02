@@ -1,0 +1,13 @@
+{
+  "name": "Mantis Terminal by SuiAI",
+  "symbol": "MANTISAI",
+  "decimals": 6,
+  "coin_type": "0x3827008458df8bd90c61f1c16624ef3cf62def07966a42d8278a9867e59bd3b8::mantisai::MANTISAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/mantis_f08673c060.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

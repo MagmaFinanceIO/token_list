@@ -1,0 +1,13 @@
+{
+  "name": "MOGY THE ASTRONAUT SUI",
+  "symbol": "MOGY",
+  "decimals": 9,
+  "coin_type": "0xa896d0eea8c3cc18d9640afc2b71e9cd9da0ceb8f392e08816ed2aa0ef55dfa5::mogy::MOGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d87e04cd-b406-438f-9e28-ebcfbda2b47e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

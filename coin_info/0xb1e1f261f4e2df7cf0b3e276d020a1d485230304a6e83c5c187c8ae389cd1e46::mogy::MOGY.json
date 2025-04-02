@@ -1,0 +1,13 @@
+{
+  "name": "MOGY SUI",
+  "symbol": "MOGY",
+  "decimals": 6,
+  "coin_type": "0xb1e1f261f4e2df7cf0b3e276d020a1d485230304a6e83c5c187c8ae389cd1e46::mogy::MOGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/002726ed_f9e7_4a85_9500_0846abbb688c_fec4bd980e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

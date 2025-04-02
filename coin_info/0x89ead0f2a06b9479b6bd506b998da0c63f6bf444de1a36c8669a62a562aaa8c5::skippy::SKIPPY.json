@@ -1,0 +1,13 @@
+{
+  "name": "Skippy The Hamster",
+  "symbol": "Skippy",
+  "decimals": 9,
+  "coin_type": "0x89ead0f2a06b9479b6bd506b998da0c63f6bf444de1a36c8669a62a562aaa8c5::skippy::SKIPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/38wBUkgLgQ6rmsRBt3dZbLEq1h7BvWHfTpJ64TnCpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

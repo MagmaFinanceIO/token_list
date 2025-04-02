@@ -1,0 +1,13 @@
+{
+  "name": "yyy",
+  "symbol": "YYY",
+  "decimals": 6,
+  "coin_type": "0xec1401c51611e087cab6270ff0928825697b43b76fc858ca58f0d1dbc4013513::yyy::YYY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/4_3f3d5146cc.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

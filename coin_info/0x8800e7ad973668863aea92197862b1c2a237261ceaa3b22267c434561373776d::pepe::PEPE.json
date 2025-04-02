@@ -1,0 +1,13 @@
+{
+  "name": "SUIPED",
+  "symbol": "PEPE",
+  "decimals": 9,
+  "coin_type": "0x8800e7ad973668863aea92197862b1c2a237261ceaa3b22267c434561373776d::pepe::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

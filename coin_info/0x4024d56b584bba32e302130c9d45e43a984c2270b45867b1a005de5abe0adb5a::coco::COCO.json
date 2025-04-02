@@ -1,0 +1,13 @@
+{
+  "name": "Coco",
+  "symbol": "COCO",
+  "decimals": 9,
+  "coin_type": "0x4024d56b584bba32e302130c9d45e43a984c2270b45867b1a005de5abe0adb5a::coco::COCO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cdb39d96-eff9-425f-82c4-b3986cfb524a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

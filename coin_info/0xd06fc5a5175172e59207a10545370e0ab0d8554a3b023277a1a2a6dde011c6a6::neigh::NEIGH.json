@@ -1,0 +1,13 @@
+{
+  "name": "Neigh",
+  "symbol": "NEIGH",
+  "decimals": 9,
+  "coin_type": "0xd06fc5a5175172e59207a10545370e0ab0d8554a3b023277a1a2a6dde011c6a6::neigh::NEIGH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/46379389-3acf-45ec-95b6-80fd1a83ec65.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

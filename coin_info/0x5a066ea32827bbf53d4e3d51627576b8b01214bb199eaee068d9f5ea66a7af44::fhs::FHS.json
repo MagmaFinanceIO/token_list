@@ -1,0 +1,13 @@
+{
+  "name": "Fantasy Humanoids Coin on SUI",
+  "symbol": "FHS",
+  "decimals": 6,
+  "coin_type": "0x5a066ea32827bbf53d4e3d51627576b8b01214bb199eaee068d9f5ea66a7af44::fhs::FHS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_aadeaad5a3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

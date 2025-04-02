@@ -1,0 +1,13 @@
+{
+  "name": "MIMIMI",
+  "symbol": "MIMIMI",
+  "decimals": 6,
+  "coin_type": "0xff13080734a282ee39386c477ae2d7716b63fa8862c664ad1e78ed079d650c4f::mimimi::MIMIMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://aquamarine-bright-chinchilla-232.mypinata.cloud/ipfs/Qma2U1uBhR3DgG6FJKoY6rDk6bocAyrjrbVRogLCQjnXPo/icon.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

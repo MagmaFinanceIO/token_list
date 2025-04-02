@@ -1,0 +1,13 @@
+{
+  "name": "BLUBAM SUI",
+  "symbol": "BLUBAM",
+  "decimals": 6,
+  "coin_type": "0x197e9d6d85ac2c3aee0f0501c2a20ad22b5ebabf62b3d53d8d04a6a1f01be8ae::blubam::BLUBAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/06d2430970ecf462907ac891d84698ff_82e6dab71b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

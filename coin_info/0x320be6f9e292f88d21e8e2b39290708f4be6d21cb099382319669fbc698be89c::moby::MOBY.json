@@ -1,0 +1,13 @@
+{
+  "name": "Moby Dick",
+  "symbol": "MOBY",
+  "decimals": 6,
+  "coin_type": "0x320be6f9e292f88d21e8e2b39290708f4be6d21cb099382319669fbc698be89c::moby::MOBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000019237_cf1d586297.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

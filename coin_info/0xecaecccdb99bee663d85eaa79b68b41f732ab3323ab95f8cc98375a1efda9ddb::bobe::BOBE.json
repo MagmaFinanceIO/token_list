@@ -1,0 +1,13 @@
+{
+  "name": "BobeOnSui",
+  "symbol": "BOBE",
+  "decimals": 6,
+  "coin_type": "0xecaecccdb99bee663d85eaa79b68b41f732ab3323ab95f8cc98375a1efda9ddb::bobe::BOBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000039626_268aac72f2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

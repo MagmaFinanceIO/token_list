@@ -1,0 +1,13 @@
+{
+  "name": "Pepe AI Agent",
+  "symbol": "PEPEAI",
+  "decimals": 9,
+  "coin_type": "0x6d062b06ff12d229e524a5f8ae7ae2dd74ebc52d4056dce47deaf642213b07a5::pepeai::PEPEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4EVDa9omQgaaMxHiZukf2F3RMZfEMb1r1jacdiJrT6N8.png?size=lg&key=f8d5fb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

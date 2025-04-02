@@ -1,0 +1,13 @@
+{
+  "name": "SUIPRISE",
+  "symbol": "SUIPRISE",
+  "decimals": 6,
+  "coin_type": "0xdf8af4829b9aff56348af1884779e93c017105707174041777ac818617f614df::suiprise::SUIPRISE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e9515980-fe22-43a5-a5b0-acfb5e28c675.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

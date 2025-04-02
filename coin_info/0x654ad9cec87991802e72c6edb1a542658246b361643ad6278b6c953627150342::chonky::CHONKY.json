@@ -1,0 +1,13 @@
+{
+  "name": "Chonky",
+  "symbol": "CHONKY",
+  "decimals": 6,
+  "coin_type": "0x654ad9cec87991802e72c6edb1a542658246b361643ad6278b6c953627150342::chonky::CHONKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Qv_P4x_CS_92_AC_Hrh_Zp_M8_Gz_Cxz_GE_7_S2e_X1_DC_Sf9_UB_Hz_Tt_CV_af8b7c3974.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Peanut",
+  "symbol": "PNUT",
+  "decimals": 9,
+  "coin_type": "0x49bfae71341c5908dbe91f121a47772f3999fb5c50246d547ba7869e4fcf7882::pnut::PNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c3236f10-865a-42d0-b768-fd6c7b80393c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

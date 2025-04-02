@@ -1,0 +1,13 @@
+{
+  "name": "Chill Kdot",
+  "symbol": "ChillKDot",
+  "decimals": 6,
+  "coin_type": "0xae2274d5a5d5be2f5f5e54148ec9525d3bf109a8a22f8ba090a04223f159ed12::chillkdot::CHILLKDOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Chill_K_Dot_3f7ff49e02.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

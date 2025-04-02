@@ -1,0 +1,13 @@
+{
+  "name": "OOGA",
+  "symbol": "OOGA",
+  "decimals": 9,
+  "coin_type": "0x4f2c56ca74144680ee0b33b7d30c2ef077591e936af24300517d7a0d5544dcb6::ooga::OOGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PONKO",
+  "symbol": "PONKO",
+  "decimals": 9,
+  "coin_type": "0x01c85bab9a432ac03ed09c4bd3ec85b242a87dc929c289ba32e93e1bca459836::ponko::PONKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8eefa17c-4655-4efb-b5f5-d1adf1f944aa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Axie Infinity Dog",
+  "symbol": "Jaspe",
+  "decimals": 9,
+  "coin_type": "0xa6ddbed4693e8d2caa6cc7658bf7d091370d49a496b02aed529b3f8a4a0eb177::jaspe::JASPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmZTdB1wVpqtsbenbAqiccQTyJacSphwA7vi3eNd6W3zb4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

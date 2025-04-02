@@ -1,0 +1,13 @@
+{
+  "name": "Purple Pepe",
+  "symbol": "PURPE",
+  "decimals": 6,
+  "coin_type": "0x6c880349411d0668ddc1a43f015e68766e5e614150d1f53fbb181c8d691930b0::purpe::PURPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735008451508.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

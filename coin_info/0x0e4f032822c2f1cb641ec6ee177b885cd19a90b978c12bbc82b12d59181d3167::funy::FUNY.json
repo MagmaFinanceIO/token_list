@@ -1,0 +1,13 @@
+{
+  "name": "Money for Fun",
+  "symbol": "FUNY",
+  "decimals": 3,
+  "coin_type": "0x0e4f032822c2f1cb641ec6ee177b885cd19a90b978c12bbc82b12d59181d3167::funy::FUNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/86e424ce-bf76-4d1f-ae16-214b945edcc5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

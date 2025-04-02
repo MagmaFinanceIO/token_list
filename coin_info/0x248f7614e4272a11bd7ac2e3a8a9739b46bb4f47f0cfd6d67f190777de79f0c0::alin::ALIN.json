@@ -1,0 +1,13 @@
+{
+  "name": "Alin",
+  "symbol": "ALIN",
+  "decimals": 9,
+  "coin_type": "0x248f7614e4272a11bd7ac2e3a8a9739b46bb4f47f0cfd6d67f190777de79f0c0::alin::ALIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a2251ed9-56ac-4c87-a7ac-df1b38eab898.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

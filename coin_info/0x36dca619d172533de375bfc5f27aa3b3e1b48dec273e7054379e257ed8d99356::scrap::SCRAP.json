@@ -1,0 +1,13 @@
+{
+  "name": "Scraps",
+  "symbol": "SCRAP",
+  "decimals": 9,
+  "coin_type": "0x36dca619d172533de375bfc5f27aa3b3e1b48dec273e7054379e257ed8d99356::scrap::SCRAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/68f2d77c-f494-4bfe-ad67-e6af6716e35b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

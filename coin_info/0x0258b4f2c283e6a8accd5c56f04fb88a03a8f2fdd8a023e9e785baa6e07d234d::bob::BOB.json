@@ -1,0 +1,13 @@
+{
+  "name": "B O B",
+  "symbol": "BOB",
+  "decimals": 6,
+  "coin_type": "0x0258b4f2c283e6a8accd5c56f04fb88a03a8f2fdd8a023e9e785baa6e07d234d::bob::BOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/fcu3z_Qob_400x400_658ed075fd.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

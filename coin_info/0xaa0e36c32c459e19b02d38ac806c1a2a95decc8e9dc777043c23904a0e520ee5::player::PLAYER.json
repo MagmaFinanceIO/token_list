@@ -1,0 +1,13 @@
+{
+  "name": "PLAYER 456",
+  "symbol": "PLAYER",
+  "decimals": 6,
+  "coin_type": "0xaa0e36c32c459e19b02d38ac806c1a2a95decc8e9dc777043c23904a0e520ee5::player::PLAYER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/logo_e4bd43dc62.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Arc Bound by SuiAI",
+  "symbol": "ABD",
+  "decimals": 6,
+  "coin_type": "0x6a87f0bba4614d5f4c8bdb7790180344914c36c7b658dd54db4b9c75926a4a56::abd::ABD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/sasa_c0b5d1d37e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

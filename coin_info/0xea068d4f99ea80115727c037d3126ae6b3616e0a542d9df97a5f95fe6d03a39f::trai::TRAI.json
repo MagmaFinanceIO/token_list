@@ -1,0 +1,13 @@
+{
+  "name": "Tesseract AI",
+  "symbol": "TRAI",
+  "decimals": 9,
+  "coin_type": "0xea068d4f99ea80115727c037d3126ae6b3616e0a542d9df97a5f95fe6d03a39f::trai::TRAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/z9QqD2ABCK6X29z96zPsJNtz4q1c6n2JWq7TSGQpump.png?size=lg&key=927037",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

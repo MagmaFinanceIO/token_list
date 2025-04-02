@@ -1,0 +1,13 @@
+{
+  "name": "Teter",
+  "symbol": "USTD",
+  "decimals": 6,
+  "coin_type": "0x85077c18176444de8d2877540918ddd8b2249cc542e3041e4354ca7a37e5908c::ustd::USTD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pfp_e9eb1cd04c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

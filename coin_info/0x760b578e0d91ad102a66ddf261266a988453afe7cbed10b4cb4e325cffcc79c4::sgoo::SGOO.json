@@ -1,0 +1,13 @@
+{
+  "name": "Slow Goo",
+  "symbol": "SGOO",
+  "decimals": 6,
+  "coin_type": "0x760b578e0d91ad102a66ddf261266a988453afe7cbed10b4cb4e325cffcc79c4::sgoo::SGOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_U_Hre_Yu_Cmp_Xu_Qu5o_TKFQMMMRTC_5xag29u_Vdr_Mzn_Y_Mjcq1_cea0138aac.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

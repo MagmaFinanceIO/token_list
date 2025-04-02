@@ -1,0 +1,13 @@
+{
+  "name": "Baby Axol",
+  "symbol": "BBAxol",
+  "decimals": 6,
+  "coin_type": "0x6a04d15df13185ea25526c7afe550581fe73435e3e4e00cbd7f857871d3e1897::bbaxol::BBAXOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736212550907.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

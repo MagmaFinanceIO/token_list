@@ -1,0 +1,13 @@
+{
+  "name": "President Trump",
+  "symbol": "TRUMPX",
+  "decimals": 9,
+  "coin_type": "0xb51f1117c304b076468b6f53ea40f64f1c01912e27436ca37694ae677b2a7fe9::trumpx::TRUMPX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HdHqKPz3n52e6FCJREKY3MS56TagyvRxsxVYG7E4rF99.png?size=lg&key=55bbbf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

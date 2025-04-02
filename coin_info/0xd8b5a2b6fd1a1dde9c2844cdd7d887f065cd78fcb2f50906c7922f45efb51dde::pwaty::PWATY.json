@@ -1,0 +1,13 @@
+{
+  "name": "Pwaty",
+  "symbol": "PWATY",
+  "decimals": 6,
+  "coin_type": "0xd8b5a2b6fd1a1dde9c2844cdd7d887f065cd78fcb2f50906c7922f45efb51dde::pwaty::PWATY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1734706656593.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

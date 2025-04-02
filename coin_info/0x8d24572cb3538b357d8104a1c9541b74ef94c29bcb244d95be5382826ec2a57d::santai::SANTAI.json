@@ -1,0 +1,13 @@
+{
+  "name": "Santa Terminal",
+  "symbol": "SANTAI",
+  "decimals": 9,
+  "coin_type": "0x8d24572cb3538b357d8104a1c9541b74ef94c29bcb244d95be5382826ec2a57d::santai::SANTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DWvtBtDK79v8pVN7BkNuBW9aqzErKBDLe6g1mh1ypump.png?size=lg&key=1e43c8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

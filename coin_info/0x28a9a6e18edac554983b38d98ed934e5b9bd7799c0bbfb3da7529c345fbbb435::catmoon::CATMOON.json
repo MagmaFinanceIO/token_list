@@ -1,0 +1,13 @@
+{
+  "name": "SCATMOON",
+  "symbol": "CATMOON",
+  "decimals": 9,
+  "coin_type": "0x28a9a6e18edac554983b38d98ed934e5b9bd7799c0bbfb3da7529c345fbbb435::catmoon::CATMOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2Fcatmoon_35fc7d467d.jpg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

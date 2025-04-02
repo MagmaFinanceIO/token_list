@@ -1,0 +1,13 @@
+{
+  "name": "wSOL",
+  "symbol": "WSOL",
+  "decimals": 6,
+  "coin_type": "0x06a1c2eefd163bc8add3dc2044ae4db036136e07eeea5b7ba1d5259fe2cd9100::wsol::WSOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/80216055-33ba-4375-9396-40a60bb4a2ed.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

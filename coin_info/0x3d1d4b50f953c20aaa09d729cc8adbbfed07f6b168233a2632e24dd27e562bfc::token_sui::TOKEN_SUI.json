@@ -1,0 +1,13 @@
+{
+  "name": "Loopy 150",
+  "symbol": "LOOPY150",
+  "decimals": 9,
+  "coin_type": "0x3d1d4b50f953c20aaa09d729cc8adbbfed07f6b168233a2632e24dd27e562bfc::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://strapi-dev.scand.app/uploads/image_3_e09c3cb20c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

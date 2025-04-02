@@ -1,0 +1,13 @@
+{
+  "name": "Sui Peng",
+  "symbol": "SUPENG",
+  "decimals": 9,
+  "coin_type": "0x2dae270e1452419bd9a23e90e56e836452c1759883840169ac96bc23fae3295b::supeng::SUPENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9e4e3486-b6a3-4b48-b1fc-2d813f5984ac.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

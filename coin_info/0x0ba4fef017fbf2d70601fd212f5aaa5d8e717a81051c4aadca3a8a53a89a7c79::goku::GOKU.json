@@ -1,0 +1,13 @@
+{
+  "name": "SUPERGOKU AI",
+  "symbol": "GOKU",
+  "decimals": 9,
+  "coin_type": "0x0ba4fef017fbf2d70601fd212f5aaa5d8e717a81051c4aadca3a8a53a89a7c79::goku::GOKU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5df8ZT1VJry1DxbUqzFyW2zAgqXWoPRo6YF39ekDpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

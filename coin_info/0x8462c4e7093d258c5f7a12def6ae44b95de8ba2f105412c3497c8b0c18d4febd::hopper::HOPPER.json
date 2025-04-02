@@ -1,0 +1,13 @@
+{
+  "name": "The Rabbit",
+  "symbol": "HOPPER",
+  "decimals": 6,
+  "coin_type": "0x8462c4e7093d258c5f7a12def6ae44b95de8ba2f105412c3497c8b0c18d4febd::hopper::HOPPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmZ6rdWkRLMFGzceL6YtgabAVo3c33BkxrKWThoQX3necS",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

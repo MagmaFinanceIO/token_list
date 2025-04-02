@@ -1,0 +1,13 @@
+{
+  "name": "CHUCHU",
+  "symbol": "CHUI",
+  "decimals": 3,
+  "coin_type": "0x0bea6551dd90bac0ff51963b452183a89cbfbdf0b9ccbb849e48d30dfcd425eb::chui::CHUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/110d2a0b-7eea-4132-bbc6-0ca3a32f51d2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

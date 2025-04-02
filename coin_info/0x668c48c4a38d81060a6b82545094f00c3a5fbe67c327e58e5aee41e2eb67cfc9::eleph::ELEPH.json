@@ -1,0 +1,13 @@
+{
+  "name": "Elephino Meme Token",
+  "symbol": "ELEPH",
+  "decimals": 6,
+  "coin_type": "0x668c48c4a38d81060a6b82545094f00c3a5fbe67c327e58e5aee41e2eb67cfc9::eleph::ELEPH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ELEPH_png_89515be702.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

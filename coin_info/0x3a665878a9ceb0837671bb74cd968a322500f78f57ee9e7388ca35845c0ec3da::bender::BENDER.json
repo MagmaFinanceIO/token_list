@@ -1,0 +1,13 @@
+{
+  "name": "BENDER",
+  "symbol": "BENDER",
+  "decimals": 9,
+  "coin_type": "0x3a665878a9ceb0837671bb74cd968a322500f78f57ee9e7388ca35845c0ec3da::bender::BENDER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "0rb7cVL1r0Ba_IUS",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

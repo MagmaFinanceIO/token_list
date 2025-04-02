@@ -1,0 +1,13 @@
+{
+  "name": "Trinity",
+  "symbol": "PILL",
+  "decimals": 9,
+  "coin_type": "0xa056a69978e960de360bcc47c73f31ee49d481055bbed65d983bbdd2c1f2e9bd::pill::PILL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmZauH1ScQ8Kes1pqzECenoh1au9xmF3efnhoJrLfCsmAY",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

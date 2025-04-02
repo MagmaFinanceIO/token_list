@@ -1,0 +1,13 @@
+{
+  "name": "High AF",
+  "symbol": "ATH",
+  "decimals": 9,
+  "coin_type": "0x685427c7274e0e5d7e931248b00920e442626059e0ff790032215c2317f5a801::ath::ATH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/teBPKvR8PH4n58BCvHKVotLKaV9RAoB8taWTmkMpump.png?size=lg&key=efd495",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

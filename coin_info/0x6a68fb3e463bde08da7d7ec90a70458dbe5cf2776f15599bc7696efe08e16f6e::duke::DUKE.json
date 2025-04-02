@@ -1,0 +1,13 @@
+{
+  "name": "DUKE COIN",
+  "symbol": "DUKE",
+  "decimals": 9,
+  "coin_type": "0x6a68fb3e463bde08da7d7ec90a70458dbe5cf2776f15599bc7696efe08e16f6e::duke::DUKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmPRyoXPcpNUzshFMkra7oqvX8wrtjDm9rXk5uizcLJNGL",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

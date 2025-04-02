@@ -1,0 +1,13 @@
+{
+  "name": "StarFish",
+  "symbol": "STARF",
+  "decimals": 6,
+  "coin_type": "0x881161c372272924fcf8279f05211c1b670ce84fc5c5e72dbabb346223bb958e::starf::STARF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/OW_8_MX_Ciy_400x400_79e490d1ad.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

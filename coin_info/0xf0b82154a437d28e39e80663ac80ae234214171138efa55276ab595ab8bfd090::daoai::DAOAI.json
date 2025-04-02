@@ -1,0 +1,13 @@
+{
+  "name": "SuiDaoAi by SuiAI",
+  "symbol": "DAOAI",
+  "decimals": 6,
+  "coin_type": "0xf0b82154a437d28e39e80663ac80ae234214171138efa55276ab595ab8bfd090::daoai::DAOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/frente_ec86361409.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

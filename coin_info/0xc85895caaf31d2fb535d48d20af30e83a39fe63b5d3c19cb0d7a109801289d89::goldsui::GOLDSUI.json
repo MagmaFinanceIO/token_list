@@ -1,0 +1,13 @@
+{
+  "name": "GoldSui XAU",
+  "symbol": "GoldSui",
+  "decimals": 8,
+  "coin_type": "0xc85895caaf31d2fb535d48d20af30e83a39fe63b5d3c19cb0d7a109801289d89::goldsui::GOLDSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/abc447dd-475e-4f40-8bb6-5fe0c0d6beba.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

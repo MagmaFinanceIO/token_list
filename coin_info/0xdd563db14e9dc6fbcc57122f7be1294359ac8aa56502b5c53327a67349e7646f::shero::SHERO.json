@@ -1,0 +1,13 @@
+{
+  "name": "SHERO",
+  "symbol": "Shero",
+  "decimals": 9,
+  "coin_type": "0xdd563db14e9dc6fbcc57122f7be1294359ac8aa56502b5c53327a67349e7646f::shero::SHERO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

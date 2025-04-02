@@ -1,0 +1,13 @@
+{
+  "name": "Suicoste - Fun in Sui",
+  "symbol": "Suicoste",
+  "decimals": 6,
+  "coin_type": "0x72d1d0301aeee027a606ff7e2a99da4d4dfcbf78b1f115a08be436bfc2d7a6aa::suicoste::SUICOSTE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Suicoste_Move_Pump_123d6e2777.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AI RETARDIO",
+  "symbol": "AITARDIO",
+  "decimals": 6,
+  "coin_type": "0xbc25475d6efdc35c793c7006c2ac137571e16d3aa6d83bf28e7cef25e832fbb8::aitardio::AITARDIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7783_61de1ffdd5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

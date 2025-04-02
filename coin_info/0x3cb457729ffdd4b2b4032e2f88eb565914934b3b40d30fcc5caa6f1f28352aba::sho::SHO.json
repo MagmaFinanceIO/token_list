@@ -1,0 +1,13 @@
+{
+  "name": "Shonda",
+  "symbol": "Sho",
+  "decimals": 9,
+  "coin_type": "0x3cb457729ffdd4b2b4032e2f88eb565914934b3b40d30fcc5caa6f1f28352aba::sho::SHO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

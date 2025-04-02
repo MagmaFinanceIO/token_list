@@ -1,0 +1,13 @@
+{
+  "name": "AQUA",
+  "symbol": "AIR",
+  "decimals": 9,
+  "coin_type": "0x71ce04655a3bd46c49936c591332e36722195a7fb2290118c9992f19a0ccae76::air::AIR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/883b3807-ee98-48c2-b8e0-5b2905c697bf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CATSUMI",
+  "symbol": "CATSUMI",
+  "decimals": 9,
+  "coin_type": "0xa92b83b988549e9405cd2e74de7bb8ddd346c4455bf195e51c86c192c271bc8e::catsumi::CATSUMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bf20e387-71fa-4be7-bf32-1b33735b31ca.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

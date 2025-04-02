@@ -1,0 +1,13 @@
+{
+  "name": "Bagy Sui",
+  "symbol": "BAGY",
+  "decimals": 6,
+  "coin_type": "0x7bf9b3025af94cb648f1348d22160b07426e8ba43673d32ce9b5ac852441e69e::bagy::BAGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ban_bb2b33f129.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

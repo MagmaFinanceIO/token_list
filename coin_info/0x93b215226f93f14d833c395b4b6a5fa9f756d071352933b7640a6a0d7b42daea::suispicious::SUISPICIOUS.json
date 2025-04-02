@@ -1,0 +1,13 @@
+{
+  "name": "Suispicious",
+  "symbol": "SUISPICIOUS",
+  "decimals": 6,
+  "coin_type": "0x93b215226f93f14d833c395b4b6a5fa9f756d071352933b7640a6a0d7b42daea::suispicious::SUISPICIOUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Usi_2_cc3497aa9b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

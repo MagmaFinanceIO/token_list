@@ -1,0 +1,13 @@
+{
+  "name": "SUIM",
+  "symbol": "SUIM",
+  "decimals": 9,
+  "coin_type": "0xfb46ec41c56c439e6342a7035b4d0c95b6dac04bbf2f683d3e873666585495f2::suim::SUIM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

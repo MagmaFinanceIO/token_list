@@ -1,0 +1,13 @@
+{
+  "name": "This is Bob. Copy and paste him",
+  "symbol": "BobBoa",
+  "decimals": 9,
+  "coin_type": "0x0e5ea1b80733c10adfe2f3bfc7cbda189809749ae8e191c3e5ca7cd20adb55fc::bobboa::BOBBOA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5Q9XAG8b5JPrjkTwwRnQXDmAyQB8UuzrLYWbuKAdpump.png?size=lg&key=355bff",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

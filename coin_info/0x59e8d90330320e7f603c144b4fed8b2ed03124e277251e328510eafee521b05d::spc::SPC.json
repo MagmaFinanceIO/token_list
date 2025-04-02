@@ -1,0 +1,13 @@
+{
+  "name": "Surprisedpepecoin",
+  "symbol": "SPC",
+  "decimals": 9,
+  "coin_type": "0x59e8d90330320e7f603c144b4fed8b2ed03124e277251e328510eafee521b05d::spc::SPC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/169f9346-8867-4658-ab4f-0676f9e57ac0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

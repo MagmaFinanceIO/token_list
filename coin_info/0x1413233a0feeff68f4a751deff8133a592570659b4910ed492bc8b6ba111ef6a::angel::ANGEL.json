@@ -1,0 +1,13 @@
+{
+  "name": "ANGEL_COIN",
+  "symbol": "ANGEL",
+  "decimals": 9,
+  "coin_type": "0x1413233a0feeff68f4a751deff8133a592570659b4910ed492bc8b6ba111ef6a::angel::ANGEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8zp9AtDapxZ3oa5t9Q4aNFhFaHupKZPioVynjoSnpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

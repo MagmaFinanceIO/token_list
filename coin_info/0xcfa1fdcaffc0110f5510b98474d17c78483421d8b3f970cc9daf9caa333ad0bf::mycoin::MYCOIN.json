@@ -1,0 +1,13 @@
+{
+  "name": "Team47",
+  "symbol": "Team47",
+  "decimals": 9,
+  "coin_type": "0xcfa1fdcaffc0110f5510b98474d17c78483421d8b3f970cc9daf9caa333ad0bf::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

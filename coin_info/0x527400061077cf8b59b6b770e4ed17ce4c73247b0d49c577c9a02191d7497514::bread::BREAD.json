@@ -1,0 +1,13 @@
+{
+  "name": "Bread Dolphin",
+  "symbol": "BREAD",
+  "decimals": 6,
+  "coin_type": "0x527400061077cf8b59b6b770e4ed17ce4c73247b0d49c577c9a02191d7497514::bread::BREAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/bread_dolph_bb7f0c627a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

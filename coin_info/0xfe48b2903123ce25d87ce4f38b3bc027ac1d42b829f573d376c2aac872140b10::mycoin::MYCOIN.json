@@ -1,0 +1,13 @@
+{
+  "name": "TOKITOSUI",
+  "symbol": "TOKITO",
+  "decimals": 9,
+  "coin_type": "0xfe48b2903123ce25d87ce4f38b3bc027ac1d42b829f573d376c2aac872140b10::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

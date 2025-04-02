@@ -1,0 +1,13 @@
+{
+  "name": "MooDeng on Sui",
+  "symbol": "DENGs",
+  "decimals": 6,
+  "coin_type": "0x15b0ca6b47c144a287fc1b8bfacfb9e9852b1668d4726d6287b931c28b381b9c::dengs::DENGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/5_c9d90e72a5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

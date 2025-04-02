@@ -1,0 +1,13 @@
+{
+  "name": "gigacat",
+  "symbol": "GIGACAT",
+  "decimals": 6,
+  "coin_type": "0x8e7a20b684e7eaeadedbfbcfede7a9c6ecd869f4475cdacdc3c15428b1745b12::gigacat::GIGACAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1733796713663.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

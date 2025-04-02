@@ -1,0 +1,13 @@
+{
+  "name": "SoSUICat",
+  "symbol": "SSCAT",
+  "decimals": 9,
+  "coin_type": "0xb9741242a8f4e2170b8c11c4e42e042cc49805153c2fbb1d061a62d56fca3233::sscat::SSCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b22e8123-8a0e-42b4-bc9c-013a061dcd4d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

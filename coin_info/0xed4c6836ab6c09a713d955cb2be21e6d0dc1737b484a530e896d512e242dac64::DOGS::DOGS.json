@@ -1,0 +1,13 @@
+{
+  "name": "DOGS",
+  "symbol": "DOGS",
+  "decimals": 9,
+  "coin_type": "0xed4c6836ab6c09a713d955cb2be21e6d0dc1737b484a530e896d512e242dac64::DOGS::DOGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

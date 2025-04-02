@@ -1,0 +1,13 @@
+{
+  "name": "Bruh",
+  "symbol": "BRUH",
+  "decimals": 6,
+  "coin_type": "0x8d530b5f894c702ab066a59e7448495e86ffc256b6cdf1f7822bc4beda206ab8::bruh::BRUH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/bruh_ebf708d2f4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

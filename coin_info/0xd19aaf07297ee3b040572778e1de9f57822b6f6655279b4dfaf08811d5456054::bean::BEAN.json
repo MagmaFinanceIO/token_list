@@ -1,0 +1,13 @@
+{
+  "name": "Killer Bean",
+  "symbol": "Bean",
+  "decimals": 9,
+  "coin_type": "0xd19aaf07297ee3b040572778e1de9f57822b6f6655279b4dfaf08811d5456054::bean::BEAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmUthLqgLrmYu1HbmfLQLwsxuKGRjczxJf1PtkW4EobLju",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Katsui",
+  "symbol": "KATSUI",
+  "decimals": 9,
+  "coin_type": "0xcaafc22d6baf3ac4194d29d77e541426cae1b0f01df800d95e981861eafbcc31::katsui::KATSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/86d1adc2-750c-4955-871f-1553b22cc28f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

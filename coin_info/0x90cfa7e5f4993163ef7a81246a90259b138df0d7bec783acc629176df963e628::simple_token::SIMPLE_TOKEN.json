@@ -1,0 +1,13 @@
+{
+  "name": "TIFFANY ON SUI",
+  "symbol": "TIFFANY",
+  "decimals": 9,
+  "coin_type": "0x90cfa7e5f4993163ef7a81246a90259b138df0d7bec783acc629176df963e628::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

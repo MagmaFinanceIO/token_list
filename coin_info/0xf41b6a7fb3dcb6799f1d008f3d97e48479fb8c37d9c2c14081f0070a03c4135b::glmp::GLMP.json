@@ -1,0 +1,13 @@
+{
+  "name": "Glimpy",
+  "symbol": "GLMP",
+  "decimals": 9,
+  "coin_type": "0xf41b6a7fb3dcb6799f1d008f3d97e48479fb8c37d9c2c14081f0070a03c4135b::glmp::GLMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/57c4b019-ab7d-4816-86f5-3ff8ee8b6c68.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

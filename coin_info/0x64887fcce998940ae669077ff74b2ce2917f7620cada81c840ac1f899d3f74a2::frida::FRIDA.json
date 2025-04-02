@@ -1,0 +1,13 @@
+{
+  "name": "Frida The Merdog",
+  "symbol": "FRIDA",
+  "decimals": 6,
+  "coin_type": "0x64887fcce998940ae669077ff74b2ce2917f7620cada81c840ac1f899d3f74a2::frida::FRIDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/icon_dfa8437705.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BONKE",
+  "symbol": "BONKE",
+  "decimals": 9,
+  "coin_type": "0xa79835a8b7bdfb33f07f45d046cb12756dd1c905dc926910888651d0a6dfbb2d::bonke::BONKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1c13acce-6f56-4cd0-bbd5-aa06f82eaf83.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

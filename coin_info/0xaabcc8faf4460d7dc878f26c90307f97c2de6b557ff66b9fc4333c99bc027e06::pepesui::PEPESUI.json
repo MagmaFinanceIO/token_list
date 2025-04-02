@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Sui",
+  "symbol": "PEPESUI",
+  "decimals": 6,
+  "coin_type": "0xaabcc8faf4460d7dc878f26c90307f97c2de6b557ff66b9fc4333c99bc027e06::pepesui::PEPESUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000027964_7be908a29d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

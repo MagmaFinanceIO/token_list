@@ -1,0 +1,13 @@
+{
+  "name": "Sui Boys",
+  "symbol": "SUBOYS",
+  "decimals": 6,
+  "coin_type": "0x963135dad667a8d64b203abd160ae624bc216e4129e29671a75d4b45fbc9069a::suboys::SUBOYS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8310c982-4c39-477e-b767-1542ede62a0c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

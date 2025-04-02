@@ -1,0 +1,13 @@
+{
+  "name": "Tui",
+  "symbol": "TUI",
+  "decimals": 9,
+  "coin_type": "0x088f1a7c8491e2e45d47444d75b4b7cc802330cdb8a85047a250dc418e4371d9::tui::TUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

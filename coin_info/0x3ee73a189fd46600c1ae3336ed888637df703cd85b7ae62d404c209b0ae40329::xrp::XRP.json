@@ -1,0 +1,13 @@
+{
+  "name": "THE TICKER IS XRP",
+  "symbol": "XRP",
+  "decimals": 9,
+  "coin_type": "0x3ee73a189fd46600c1ae3336ed888637df703cd85b7ae62d404c209b0ae40329::xrp::XRP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmYL5Ywvc5pRD1gjCi7orzMMbeoF89814m2TTKQgELUkLZ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

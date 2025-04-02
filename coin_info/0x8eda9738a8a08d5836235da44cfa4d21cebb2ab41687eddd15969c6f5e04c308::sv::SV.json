@@ -1,0 +1,13 @@
+{
+  "name": "Sui Vaporeon",
+  "symbol": "SV",
+  "decimals": 9,
+  "coin_type": "0x8eda9738a8a08d5836235da44cfa4d21cebb2ab41687eddd15969c6f5e04c308::sv::SV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4d185d6e-0774-4166-a789-88b670620ed7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

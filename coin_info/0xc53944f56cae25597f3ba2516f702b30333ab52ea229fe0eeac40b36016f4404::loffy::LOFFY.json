@@ -1,0 +1,13 @@
+{
+  "name": "LOFFY",
+  "symbol": "LOFFY",
+  "decimals": 9,
+  "coin_type": "0xc53944f56cae25597f3ba2516f702b30333ab52ea229fe0eeac40b36016f4404::loffy::LOFFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

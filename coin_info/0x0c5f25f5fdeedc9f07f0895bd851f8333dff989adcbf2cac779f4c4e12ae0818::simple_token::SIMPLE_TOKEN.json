@@ -1,0 +1,13 @@
+{
+  "name": "STRUE",
+  "symbol": "STRUE",
+  "decimals": 9,
+  "coin_type": "0x0c5f25f5fdeedc9f07f0895bd851f8333dff989adcbf2cac779f4c4e12ae0818::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

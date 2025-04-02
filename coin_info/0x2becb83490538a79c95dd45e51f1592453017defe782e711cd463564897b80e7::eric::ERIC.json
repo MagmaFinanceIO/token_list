@@ -1,0 +1,13 @@
+{
+  "name": "Eric Cartman",
+  "symbol": "ERIC",
+  "decimals": 9,
+  "coin_type": "0x2becb83490538a79c95dd45e51f1592453017defe782e711cd463564897b80e7::eric::ERIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b8fc8631-162c-4a00-b203-36c7c761aa53.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

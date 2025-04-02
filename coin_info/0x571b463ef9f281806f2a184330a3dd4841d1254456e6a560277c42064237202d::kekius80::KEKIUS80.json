@@ -1,0 +1,13 @@
+{
+  "name": "Kekius Maximus 80",
+  "symbol": "KEKIUS80",
+  "decimals": 9,
+  "coin_type": "0x571b463ef9f281806f2a184330a3dd4841d1254456e6a560277c42064237202d::kekius80::KEKIUS80",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GDAjBbVDsEdKPLN4aJXiQH6kXkS8tJ8UJSStr9Smpump.png?size=lg&key=546904",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

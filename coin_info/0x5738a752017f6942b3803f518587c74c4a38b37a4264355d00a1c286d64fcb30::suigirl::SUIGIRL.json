@@ -1,0 +1,13 @@
+{
+  "name": "Sui Girl",
+  "symbol": "suigirl",
+  "decimals": 9,
+  "coin_type": "0x5738a752017f6942b3803f518587c74c4a38b37a4264355d00a1c286d64fcb30::suigirl::SUIGIRL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/079/220/704/large/kirill-senzu-untitled-main-camera-001.jpg?1724310573",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

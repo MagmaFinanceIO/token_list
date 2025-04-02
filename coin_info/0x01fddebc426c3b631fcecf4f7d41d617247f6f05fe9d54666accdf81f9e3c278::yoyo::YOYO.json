@@ -1,0 +1,13 @@
+{
+  "name": "Yoyo",
+  "symbol": "YOYO",
+  "decimals": 6,
+  "coin_type": "0x01fddebc426c3b631fcecf4f7d41d617247f6f05fe9d54666accdf81f9e3c278::yoyo::YOYO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/yoyo_c48c8634cb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

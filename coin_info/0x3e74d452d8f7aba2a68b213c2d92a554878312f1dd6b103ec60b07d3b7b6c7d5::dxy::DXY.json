@@ -1,0 +1,13 @@
+{
+  "name": "US Degen Index 6900",
+  "symbol": "DXY",
+  "decimals": 9,
+  "coin_type": "0x3e74d452d8f7aba2a68b213c2d92a554878312f1dd6b103ec60b07d3b7b6c7d5::dxy::DXY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x6900f7b42fb4abb615c938db6a26d73a9afbed69.png?size=lg&key=71f534",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Lumina ai",
+  "symbol": "LUMINA",
+  "decimals": 9,
+  "coin_type": "0xa9a0efec7fe0898c71a3a45fcce0c2a69e40437d4079738af683864e47ea0f36::lumina::LUMINA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GcKAEB28akwesqYuDuDtha1xpxRP41eVMGuhSiKEpump.png?size=lg&key=d8c9d7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hyperfy ON SUI",
+  "symbol": "HYPER",
+  "decimals": 2,
+  "coin_type": "0xb58cd92fd56c5f0c1495a7a1a96225e22751c7615e83193fa9f09c7c9b56a465::HYPER::HYPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/RVJrDhNvQaWjI9q03NjdzgLOsbrsqG8PA6CFhRXHnMQ?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

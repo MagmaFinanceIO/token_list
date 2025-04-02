@@ -1,0 +1,13 @@
+{
+  "name": "I AGENT",
+  "symbol": "IAG",
+  "decimals": 6,
+  "coin_type": "0x95d491147d9e6671ecb4c4b881038cd7a1c808a069040c2f5de460c9cf32ca72::iag::IAG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_13_11_20_09_54bce1bbee.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

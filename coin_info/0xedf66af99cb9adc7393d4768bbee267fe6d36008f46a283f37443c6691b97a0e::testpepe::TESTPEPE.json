@@ -1,0 +1,13 @@
+{
+  "name": "TestPepe",
+  "symbol": "TestPepe",
+  "decimals": 9,
+  "coin_type": "0xedf66af99cb9adc7393d4768bbee267fe6d36008f46a283f37443c6691b97a0e::testpepe::TESTPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.lanworks.com/wp-content/uploads/2017/02/test-button-1024x1024.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

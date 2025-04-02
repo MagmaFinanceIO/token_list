@@ -1,0 +1,13 @@
+{
+  "name": "SPICY FOX",
+  "symbol": "SpicyFox",
+  "decimals": 9,
+  "coin_type": "0x31d93012a539f5918b43d9ae49ffc1ec199ab4022b35c41404377a6931332214::spicyfox::SPICYFOX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/65a781d6-1893-4294-958b-6839500f165f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

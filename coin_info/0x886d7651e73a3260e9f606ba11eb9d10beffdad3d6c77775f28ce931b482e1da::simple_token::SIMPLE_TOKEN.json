@@ -1,0 +1,13 @@
+{
+  "name": "FOG",
+  "symbol": "FOG",
+  "decimals": 9,
+  "coin_type": "0x886d7651e73a3260e9f606ba11eb9d10beffdad3d6c77775f28ce931b482e1da::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

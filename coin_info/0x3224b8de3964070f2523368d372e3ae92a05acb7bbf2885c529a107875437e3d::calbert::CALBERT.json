@@ -1,0 +1,13 @@
+{
+  "name": "Calbert the crab 🦀",
+  "symbol": "CALBERT",
+  "decimals": 9,
+  "coin_type": "0x3224b8de3964070f2523368d372e3ae92a05acb7bbf2885c529a107875437e3d::calbert::CALBERT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2cc144e3-ae5c-4ec9-81b0-603490821834.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

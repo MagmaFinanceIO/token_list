@@ -1,0 +1,13 @@
+{
+  "name": "The Solana Sui Ghost Detective",
+  "symbol": "SOLAISUI",
+  "decimals": 6,
+  "coin_type": "0x855fd33d3013f03abc43b0ebc219bbfc9236fd40ff6cac0f4e7ce71c3ca68f3e::solaisui::SOLAISUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SOLASUI_PFP_fff690274e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

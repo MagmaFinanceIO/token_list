@@ -1,0 +1,13 @@
+{
+  "name": "DogSui Meme",
+  "symbol": "DogSui",
+  "decimals": 6,
+  "coin_type": "0xda4f48f5225e73a93964295337ba4c4aa7c4f9418aba0ee9a431c5ce28f9b191::dogsui::DOGSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a00d10ac-477b-4ef8-9824-a3104bd97065.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

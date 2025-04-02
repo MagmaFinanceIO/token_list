@@ -1,0 +1,13 @@
+{
+  "name": "BOOST",
+  "symbol": "BOOST",
+  "decimals": 9,
+  "coin_type": "0x0acfc8665df93b6c9f2ad8f0891cc5eaeac14ca0ce59152479605b1ab2b22ce1::BOOST::BOOST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://graiscale.fun/logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BrettSUI",
+  "symbol": "BrettSUI",
+  "decimals": 9,
+  "coin_type": "0xd42806b09e452e0045c12fac8e830b1b8fc2b75e716624cd9325b1354a9849e3::brettsui::BRETTSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2a7b9979-92b6-46e0-895b-1e083709a129.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

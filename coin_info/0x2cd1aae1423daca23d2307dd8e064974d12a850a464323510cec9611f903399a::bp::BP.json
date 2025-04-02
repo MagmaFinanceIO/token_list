@@ -1,0 +1,13 @@
+{
+  "name": "Bulls Parade",
+  "symbol": "BP",
+  "decimals": 9,
+  "coin_type": "0x2cd1aae1423daca23d2307dd8e064974d12a850a464323510cec9611f903399a::bp::BP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/deab8c5b-ce8c-482f-b87c-4d24e0ea875e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

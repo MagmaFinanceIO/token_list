@@ -1,0 +1,13 @@
+{
+  "name": "SUIBATMAN",
+  "symbol": "SUIBATMAN",
+  "decimals": 9,
+  "coin_type": "0x6459dd81c6b4854b92255d1b4e0b4b4fccb55cf9a4aceccd6454c217e52fbed5::suibatman::SUIBATMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a5108c9f-0978-4e84-9697-1e1eaaaee662.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Daisy Woof",
+  "symbol": "DaisyW",
+  "decimals": 1,
+  "coin_type": "0xad298b7f4c8c662e7f1b1461f5637ef562bcdfc4ffa71406d7a4dc1ab6b836c2::daisyw::DAISYW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8d7c6c92-b76e-4e27-b136-ab71f63a4d3f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

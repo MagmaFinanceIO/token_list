@@ -1,0 +1,13 @@
+{
+  "name": "MUMA ON SUI",
+  "symbol": "MUMA",
+  "decimals": 6,
+  "coin_type": "0x7c21f451d69969224f5004e78f73a135398fbb17a8f1bfaf1a3720ba36a8bc7b::muma::MUMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_SYU_Wr_Ezg7xkk_Lw9_N5u_Nfhg_Tg_M6_Qa5_BT_5dz3_Xif_Nt_W16_E_050654710e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

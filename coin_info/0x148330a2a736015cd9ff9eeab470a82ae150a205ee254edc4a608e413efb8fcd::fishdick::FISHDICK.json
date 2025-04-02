@@ -1,0 +1,13 @@
+{
+  "name": "fishdick",
+  "symbol": "FISHDICK",
+  "decimals": 9,
+  "coin_type": "0x148330a2a736015cd9ff9eeab470a82ae150a205ee254edc4a608e413efb8fcd::fishdick::FISHDICK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmfSf6bNyWuYji76gX55MpmkFcVLoF7pNXXHKAsrDN4CWr",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

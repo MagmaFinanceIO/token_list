@@ -1,0 +1,13 @@
+{
+  "name": "Sui Simpson",
+  "symbol": "Simpson",
+  "decimals": 9,
+  "coin_type": "0x16113e8d7dd8b3afd9817a64fc6c24a323f02ed1dd56cb2310c1782760c884d8::simpson::SIMPSON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x490842e0ce13a77b0b58d456120e13c7599808d7.png?size=lg&key=231cb4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

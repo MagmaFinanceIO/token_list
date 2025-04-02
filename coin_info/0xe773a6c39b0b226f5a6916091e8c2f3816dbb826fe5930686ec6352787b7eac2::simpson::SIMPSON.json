@@ -1,0 +1,13 @@
+{
+  "name": "First Sui Simpson",
+  "symbol": "SIMPSON",
+  "decimals": 6,
+  "coin_type": "0xe773a6c39b0b226f5a6916091e8c2f3816dbb826fe5930686ec6352787b7eac2::simpson::SIMPSON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_2_11_9c5d642881.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

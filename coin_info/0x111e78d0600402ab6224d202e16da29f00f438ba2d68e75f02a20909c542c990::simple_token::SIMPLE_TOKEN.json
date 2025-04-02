@@ -1,0 +1,13 @@
+{
+  "name": "Chippy on Sui",
+  "symbol": "CHIPPYSUI",
+  "decimals": 9,
+  "coin_type": "0x111e78d0600402ab6224d202e16da29f00f438ba2d68e75f02a20909c542c990::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

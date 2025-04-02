@@ -1,0 +1,13 @@
+{
+  "name": "AiRA by SuiAI",
+  "symbol": "AIRA",
+  "decimals": 6,
+  "coin_type": "0x8385d4324b63ef5935f076b9cae6e0fe1b7353699b08fc6d33e2b1544cff5471::aira::AIRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/aira_logo_1808432334.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

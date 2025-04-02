@@ -1,0 +1,13 @@
+{
+  "name": "NOUVA AI",
+  "symbol": "NOUVAI",
+  "decimals": 9,
+  "coin_type": "0x6061921a2e97874adbf287bf137282f70032a8eb099844fd97b58b53f1a062a6::nouvai::NOUVAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CHMQSNXCvkvtdQSr9BE9Bpk6TxqtUg8eAkNsPbHLpump.png?size=lg&key=e3afc7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

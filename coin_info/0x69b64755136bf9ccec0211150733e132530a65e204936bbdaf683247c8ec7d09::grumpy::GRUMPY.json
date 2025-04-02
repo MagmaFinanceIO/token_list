@@ -1,0 +1,13 @@
+{
+  "name": "GRUMPY",
+  "symbol": "GRUMPY",
+  "decimals": 9,
+  "coin_type": "0x69b64755136bf9ccec0211150733e132530a65e204936bbdaf683247c8ec7d09::grumpy::GRUMPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5d6a9df3-c1bf-49f7-a11f-ed0c6f04df48.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

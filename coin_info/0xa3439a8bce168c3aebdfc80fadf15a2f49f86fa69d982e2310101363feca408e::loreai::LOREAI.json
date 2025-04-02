@@ -1,0 +1,13 @@
+{
+  "name": "LORE SUI AI by SuiAI",
+  "symbol": "LOREAI",
+  "decimals": 6,
+  "coin_type": "0xa3439a8bce168c3aebdfc80fadf15a2f49f86fa69d982e2310101363feca408e::loreai::LOREAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Gemini_Generated_Image_c5bihjc5bihjc5bi_ba43728a80.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

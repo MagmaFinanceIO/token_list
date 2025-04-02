@@ -1,0 +1,13 @@
+{
+  "name": "Drones",
+  "symbol": "DRONES",
+  "decimals": 6,
+  "coin_type": "0xa27bc087a4ec9474326456bc80b6d3211ef1dd03cf0c9292c54cc470f7a75abf::drones::DRONES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1734711723240.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

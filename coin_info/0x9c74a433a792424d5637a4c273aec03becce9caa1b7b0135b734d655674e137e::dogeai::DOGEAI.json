@@ -1,0 +1,13 @@
+{
+  "name": "Doge AI",
+  "symbol": "DOGEAI",
+  "decimals": 6,
+  "coin_type": "0x9c74a433a792424d5637a4c273aec03becce9caa1b7b0135b734d655674e137e::dogeai::DOGEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20250106_004231_864_5922070d8a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

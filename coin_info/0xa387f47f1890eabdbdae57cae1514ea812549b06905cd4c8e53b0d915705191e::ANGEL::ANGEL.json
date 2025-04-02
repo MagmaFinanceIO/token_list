@@ -1,0 +1,13 @@
+{
+  "name": "Descending Angel",
+  "symbol": "ANGEL",
+  "decimals": 9,
+  "coin_type": "0xa387f47f1890eabdbdae57cae1514ea812549b06905cd4c8e53b0d915705191e::ANGEL::ANGEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/081/021/315/large/maarten-verhoeven-001-done.jpg?1729162380",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

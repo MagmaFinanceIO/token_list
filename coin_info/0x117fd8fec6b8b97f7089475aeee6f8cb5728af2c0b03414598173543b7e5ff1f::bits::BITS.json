@@ -1,0 +1,13 @@
+{
+  "name": "Bitscoin",
+  "symbol": "BITS",
+  "decimals": 6,
+  "coin_type": "0x117fd8fec6b8b97f7089475aeee6f8cb5728af2c0b03414598173543b7e5ff1f::bits::BITS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735446258576.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

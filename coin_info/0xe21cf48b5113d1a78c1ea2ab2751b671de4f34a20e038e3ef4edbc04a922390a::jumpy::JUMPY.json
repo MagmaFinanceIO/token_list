@@ -1,0 +1,13 @@
+{
+  "name": "Jumpy Elon",
+  "symbol": "JUMPY",
+  "decimals": 6,
+  "coin_type": "0xe21cf48b5113d1a78c1ea2ab2751b671de4f34a20e038e3ef4edbc04a922390a::jumpy::JUMPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/o_Mk_V2_Yc_Q_400x400_8602efd328.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

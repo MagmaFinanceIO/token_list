@@ -1,0 +1,13 @@
+{
+  "name": "Tyranitar",
+  "symbol": "TYRANITAR",
+  "decimals": 9,
+  "coin_type": "0x74251173b6716b11e672c2d7610af8ab4da587d154d4c8ed366628601c2811b6::tyranitar::TYRANITAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/078/485/929/large/jose-de-las-heras-mainshot-tyra-artstation-png.jpg?1722255886",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

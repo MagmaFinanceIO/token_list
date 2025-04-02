@@ -1,0 +1,13 @@
+{
+  "name": "NEIRO ai",
+  "symbol": "neirAI",
+  "decimals": 9,
+  "coin_type": "0xc27a239dd26750ee34bfffd8e39a023a2b9c59ace490ecbba3db58381b8e2753::neirai::NEIRAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5J3gc2T7H3Lz8f34J65ydRwDmTWKgPR4DJMa1B1gpump.png?size=lg&key=30e732",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

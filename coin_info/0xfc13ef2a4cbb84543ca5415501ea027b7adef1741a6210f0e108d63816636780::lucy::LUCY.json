@@ -1,0 +1,13 @@
+{
+  "name": "Agent Lucy Rebirth by SuiAI",
+  "symbol": "LUCY",
+  "decimals": 6,
+  "coin_type": "0xfc13ef2a4cbb84543ca5415501ea027b7adef1741a6210f0e108d63816636780::lucy::LUCY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/e28d8392_3279_4d6b_8057_21e23e5f57e9_0b9ac50fd6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

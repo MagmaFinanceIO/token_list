@@ -1,0 +1,13 @@
+{
+  "name": "LEXI AI",
+  "symbol": "LEXAI",
+  "decimals": 9,
+  "coin_type": "0xe9941d3d5bc44a2ca5e5ac798261ed462c6751b04ce997e03abc16152ff6aeb8::lexai::LEXAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4zYMQiwN7aPpB69SuitzwftA2bi4P7hjqWwfswCypump.png?size=lg&key=e0a413",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

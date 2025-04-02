@@ -1,0 +1,13 @@
+{
+  "name": "The Penguin of SUI",
+  "symbol": "SUIGUIN",
+  "decimals": 9,
+  "coin_type": "0xec9e11cc39111b03085899005428fd8f10f5b7aac82e10a3eab971a38f4d7d2a::suiguin::SUIGUIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/65baec2b-cfa4-466c-b0df-bde95b7b1bd8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mazu",
+  "symbol": "MAZU",
+  "decimals": 9,
+  "coin_type": "0x9122346e9c20f8d52a343c1d66e5092cf5192d0bacd8082adaf5cc136f9dd6ff::mazu::MAZU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/7KgZBFW/mazu-logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

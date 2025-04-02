@@ -1,0 +1,13 @@
+{
+  "name": "Pump Up God",
+  "symbol": "PUG",
+  "decimals": 9,
+  "coin_type": "0x6961171bd55bb5d4a6e2f1a4ed9e0073a65c2bc041c0bc4c453b5ff26e3829f2::pug::PUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4FBr6xMkvVzgYyPBaesDmgiaaQncptedZuUU4d28pump.png?size=lg&key=187854",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

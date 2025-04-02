@@ -1,0 +1,13 @@
+{
+  "name": "Suck The Duck",
+  "symbol": "SUCK",
+  "decimals": 9,
+  "coin_type": "0xcce32a6b24c1455109d9e888063d46df0a9cc5308bdbd25f343c8b7386ef36e5::suck::SUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "http://suckduck.xyz/suck_logo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

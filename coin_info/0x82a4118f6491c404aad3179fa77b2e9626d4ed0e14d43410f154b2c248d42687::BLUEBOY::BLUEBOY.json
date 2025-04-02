@@ -1,0 +1,13 @@
+{
+  "name": "BLUEBOY",
+  "symbol": "BLUEBOY",
+  "decimals": 9,
+  "coin_type": "0x82a4118f6491c404aad3179fa77b2e9626d4ed0e14d43410f154b2c248d42687::BLUEBOY::BLUEBOY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

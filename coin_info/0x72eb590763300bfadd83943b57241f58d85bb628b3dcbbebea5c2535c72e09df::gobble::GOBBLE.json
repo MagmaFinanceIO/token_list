@@ -1,0 +1,13 @@
+{
+  "name": "Gobble",
+  "symbol": "GOBBLE",
+  "decimals": 9,
+  "coin_type": "0x72eb590763300bfadd83943b57241f58d85bb628b3dcbbebea5c2535c72e09df::gobble::GOBBLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3625e61a-3369-4703-97b3-8109c62b6d0e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

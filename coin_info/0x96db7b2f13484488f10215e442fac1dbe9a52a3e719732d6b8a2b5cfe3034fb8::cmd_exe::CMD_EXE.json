@@ -1,0 +1,13 @@
+{
+  "name": "CowboyMonkeyDuck.exe",
+  "symbol": "cmd_exe",
+  "decimals": 9,
+  "coin_type": "0x96db7b2f13484488f10215e442fac1dbe9a52a3e719732d6b8a2b5cfe3034fb8::cmd_exe::CMD_EXE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GevMhaMtYtvv44pnkaoyBewrTuAK9x532xo55MTjpump.png?size=lg&key=1ba56b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

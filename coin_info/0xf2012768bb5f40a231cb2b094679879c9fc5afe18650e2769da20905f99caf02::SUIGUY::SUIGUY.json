@@ -1,0 +1,13 @@
+{
+  "name": "SUIGUY",
+  "symbol": "SUI GUY",
+  "decimals": 2,
+  "coin_type": "0xf2012768bb5f40a231cb2b094679879c9fc5afe18650e2769da20905f99caf02::SUIGUY::SUIGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.postimg.cc/wxRKdJYM/suiguy.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

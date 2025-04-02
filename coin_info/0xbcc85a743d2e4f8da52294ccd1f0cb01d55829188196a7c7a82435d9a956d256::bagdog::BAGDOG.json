@@ -1,0 +1,13 @@
+{
+  "name": "BagDog",
+  "symbol": "BAGDOG",
+  "decimals": 6,
+  "coin_type": "0xbcc85a743d2e4f8da52294ccd1f0cb01d55829188196a7c7a82435d9a956d256::bagdog::BAGDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qme_RA_7_D_Xx1m9x4_MJ_Vwo_C7p_Zg5w_L_Dj4_G2_SGU_6_V_Nc9oemk6p_af6f6a706c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

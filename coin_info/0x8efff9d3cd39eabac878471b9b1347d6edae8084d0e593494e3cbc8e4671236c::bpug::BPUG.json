@@ -1,0 +1,13 @@
+{
+  "name": "BABY PUG",
+  "symbol": "BPUG",
+  "decimals": 6,
+  "coin_type": "0x8efff9d3cd39eabac878471b9b1347d6edae8084d0e593494e3cbc8e4671236c::bpug::BPUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731191992797.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

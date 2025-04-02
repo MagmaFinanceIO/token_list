@@ -1,0 +1,13 @@
+{
+  "name": "Sea Marmaid",
+  "symbol": "MAID",
+  "decimals": 9,
+  "coin_type": "0x9fd0fc5f3b4fda2bdf9c5758da41052a81d371a71b50b623afccec930dbdd887::maid::MAID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

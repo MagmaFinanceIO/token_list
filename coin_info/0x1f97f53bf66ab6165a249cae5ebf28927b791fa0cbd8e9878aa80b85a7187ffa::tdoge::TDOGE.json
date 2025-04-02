@@ -1,0 +1,13 @@
+{
+  "name": "Trump Doge",
+  "symbol": "TDOGE",
+  "decimals": 9,
+  "coin_type": "0x1f97f53bf66ab6165a249cae5ebf28927b791fa0cbd8e9878aa80b85a7187ffa::tdoge::TDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8d4c8fdc-31b0-4e1b-a6c1-1780aa7c7549.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SQUIDGAME On SUI",
+  "symbol": "SQUIDGAME",
+  "decimals": 9,
+  "coin_type": "0x72be8aa793e36dad8ba9b862a09d5a5bcdc05db51cffe0d124d7a0b46394dc54::squidgame::SQUIDGAME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQNxdRDtoxtfpdB4FhWKooPYE87fT6kUtN73C3JUDQ9rj",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hawa Coin",
+  "symbol": "HAWACN",
+  "decimals": 9,
+  "coin_type": "0x4e371dfeeb8c16e5081f747256f981e7256c919098058bbfc4c168feb3e06e70::hawacn::HAWACN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5b870f21-6a8c-4fce-996c-be0c2b37fb10.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

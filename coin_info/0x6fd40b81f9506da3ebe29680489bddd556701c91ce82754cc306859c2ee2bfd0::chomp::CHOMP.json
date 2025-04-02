@@ -1,0 +1,13 @@
+{
+  "name": "Final Boss Chomp",
+  "symbol": "CHOMP",
+  "decimals": 9,
+  "coin_type": "0x6fd40b81f9506da3ebe29680489bddd556701c91ce82754cc306859c2ee2bfd0::chomp::CHOMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/acac28f5-68b9-405a-93b8-14e7015baf54.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

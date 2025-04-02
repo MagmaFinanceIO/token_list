@@ -1,0 +1,13 @@
+{
+  "name": "MOO DENG PEANUT",
+  "symbol": "MOONUT",
+  "decimals": 9,
+  "coin_type": "0x5ac1b9ac7e4ad343d855745daca0a94917dbeaadf032d159053cb7e178409095::moonut::MOONUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d95b1b47-7cbc-46e9-a636-184cfaeb7180.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

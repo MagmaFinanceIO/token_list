@@ -1,0 +1,13 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDTbnb",
+  "decimals": 9,
+  "coin_type": "0x967fa49437889dbbe4141e9d53a4cb13b171d7722e72b755ff0b84287a3fd497::usdtbnb::USDTBNB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/488e1b9c-d16c-483c-b042-1b6379f34ef7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

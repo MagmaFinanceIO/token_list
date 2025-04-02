@@ -1,0 +1,13 @@
+{
+  "name": "Melania Trump Sui",
+  "symbol": "MTRUMP",
+  "decimals": 6,
+  "coin_type": "0xa6306402c33756c5d6138acc1b3d8ce39a592af7c792172d8de14606105f23c6::mtrump::MTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737309682559.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

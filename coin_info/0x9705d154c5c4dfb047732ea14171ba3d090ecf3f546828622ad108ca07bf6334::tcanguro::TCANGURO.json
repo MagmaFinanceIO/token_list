@@ -1,0 +1,13 @@
+{
+  "name": "Team Canguro",
+  "symbol": "TCANGURO",
+  "decimals": 6,
+  "coin_type": "0x9705d154c5c4dfb047732ea14171ba3d090ecf3f546828622ad108ca07bf6334::tcanguro::TCANGURO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000051436_6c8f7089b1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

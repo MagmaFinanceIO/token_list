@@ -1,0 +1,13 @@
+{
+  "name": "Andy Pepe Trump President",
+  "symbol": "APETRUMP",
+  "decimals": 9,
+  "coin_type": "0xda2936802e1d326f336f8bbca3ec93562eb6d376f811bdb8405a9215e4dc300f::apetrump::APETRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1661f913-2b53-4bd8-9a75-ae0e7e90c71c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

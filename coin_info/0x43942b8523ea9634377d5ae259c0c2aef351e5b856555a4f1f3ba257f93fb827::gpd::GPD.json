@@ -1,0 +1,13 @@
+{
+  "name": "Golden Pony Dollars",
+  "symbol": "GPD",
+  "decimals": 9,
+  "coin_type": "0x43942b8523ea9634377d5ae259c0c2aef351e5b856555a4f1f3ba257f93fb827::gpd::GPD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5tig1LhsrrusppmHaEuQjGxpYXDod2ZKcuWi8FYXpump.png?claimId=7U5mqq_8hhe_VueY",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

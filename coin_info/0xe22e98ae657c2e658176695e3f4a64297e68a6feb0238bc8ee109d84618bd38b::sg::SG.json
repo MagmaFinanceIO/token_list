@@ -1,0 +1,13 @@
+{
+  "name": "SuiGin",
+  "symbol": "SG",
+  "decimals": 9,
+  "coin_type": "0xe22e98ae657c2e658176695e3f4a64297e68a6feb0238bc8ee109d84618bd38b::sg::SG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a6e047ad-93a8-4a14-a6c4-f046ade2da3b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Testing BBB Token",
+  "symbol": "BBB",
+  "decimals": 9,
+  "coin_type": "0xd20c2fba792d6d8bedea70a425f002ead83c0c9aab7d92a6fbbcb71520b410ff::bbb::BBB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

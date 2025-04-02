@@ -1,0 +1,13 @@
+{
+  "name": "Act III : Great Growth",
+  "symbol": "ACTGG",
+  "decimals": 9,
+  "coin_type": "0x204126bff9c92d55ca6f46be1502498a30bd2779104dfce9717fdef04d0515a0::actgg::ACTGG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/14nDugEp4qMGkfbE2YhF4rPdVsxBwFxKAQ9S8v3hpump.png?size=lg&key=c0fc92",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

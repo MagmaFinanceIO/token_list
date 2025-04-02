@@ -1,0 +1,13 @@
+{
+  "name": "SELFORT",
+  "symbol": "SELF",
+  "decimals": 9,
+  "coin_type": "0x85b465f100f0a24c9271633bb9a88c860416263b9c337da77b5ee6c5327d36b8::self::SELF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/YRMv8c1JeDkGTQNf?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

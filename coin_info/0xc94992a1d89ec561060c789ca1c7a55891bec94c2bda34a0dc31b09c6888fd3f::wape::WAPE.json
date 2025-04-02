@@ -1,0 +1,13 @@
+{
+  "name": "Whatever Ape",
+  "symbol": "WAPE",
+  "decimals": 9,
+  "coin_type": "0xc94992a1d89ec561060c789ca1c7a55891bec94c2bda34a0dc31b09c6888fd3f::wape::WAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/C4u9GYmTvtaGa1a7q6iijn5DK2GYe78fqEeoPwrpump.png?size=xl&key=89f93d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

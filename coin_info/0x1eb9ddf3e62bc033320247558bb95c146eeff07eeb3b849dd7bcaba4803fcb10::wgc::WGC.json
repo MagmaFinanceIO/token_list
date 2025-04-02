@@ -1,0 +1,13 @@
+{
+  "name": "SUI World Game",
+  "symbol": "WGC",
+  "decimals": 6,
+  "coin_type": "0x1eb9ddf3e62bc033320247558bb95c146eeff07eeb3b849dd7bcaba4803fcb10::wgc::WGC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1738598532425.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

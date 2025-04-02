@@ -1,0 +1,13 @@
+{
+  "name": "Festival Fanboy",
+  "symbol": "METAL",
+  "decimals": 9,
+  "coin_type": "0x7256b1ab890ed6dd9d56379fe75f519ee19d670a9098abe6f9b9f89b2fdceae8::metal::METAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e6b781ab-e994-4b0e-8a54-e09b72567251.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

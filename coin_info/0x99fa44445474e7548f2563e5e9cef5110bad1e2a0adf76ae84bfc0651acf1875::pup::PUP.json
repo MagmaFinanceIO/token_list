@@ -1,0 +1,13 @@
+{
+  "name": "SlopFatherPup",
+  "symbol": "PUP",
+  "decimals": 6,
+  "coin_type": "0x99fa44445474e7548f2563e5e9cef5110bad1e2a0adf76ae84bfc0651acf1875::pup::PUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5046_2023ac280e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

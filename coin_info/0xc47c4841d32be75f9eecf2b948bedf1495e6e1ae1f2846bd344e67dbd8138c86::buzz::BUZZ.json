@@ -1,0 +1,13 @@
+{
+  "name": "Hive AI",
+  "symbol": "BUZZ",
+  "decimals": 6,
+  "coin_type": "0xc47c4841d32be75f9eecf2b948bedf1495e6e1ae1f2846bd344e67dbd8138c86::buzz::BUZZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qme1_Aw_Rhg_U8_L_Vp_L_Hz_V_Gp_Kr_Rz_UE_Uw_Mj_Mx_S4_G_Abarmr_Foi_EJ_1cdc131499.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

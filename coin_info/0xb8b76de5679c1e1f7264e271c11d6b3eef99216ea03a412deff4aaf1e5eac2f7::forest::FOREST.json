@@ -1,0 +1,13 @@
+{
+  "name": "FOREST",
+  "symbol": "FOREST",
+  "decimals": 9,
+  "coin_type": "0xb8b76de5679c1e1f7264e271c11d6b3eef99216ea03a412deff4aaf1e5eac2f7::forest::FOREST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BoAQaykj3LtkM2Brevc7cQcRAzpqcsP47nJ2rkyopump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

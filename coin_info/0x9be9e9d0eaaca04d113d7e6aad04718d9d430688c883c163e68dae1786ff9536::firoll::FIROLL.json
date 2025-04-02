@@ -1,0 +1,13 @@
+{
+  "name": "DUMB",
+  "symbol": "DUMB",
+  "decimals": 9,
+  "coin_type": "0x9be9e9d0eaaca04d113d7e6aad04718d9d430688c883c163e68dae1786ff9536::firoll::FIROLL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafybeiecppfzpgx7xosf7h4a2zistip2d4lawqkwsp2dtp3ucmjpmnb6tq.ipfs.nftstorage.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

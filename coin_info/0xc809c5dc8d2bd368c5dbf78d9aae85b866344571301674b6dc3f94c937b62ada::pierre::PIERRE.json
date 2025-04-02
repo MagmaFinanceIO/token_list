@@ -1,0 +1,13 @@
+{
+  "name": "Pierre",
+  "symbol": "PIERRE",
+  "decimals": 9,
+  "coin_type": "0xc809c5dc8d2bd368c5dbf78d9aae85b866344571301674b6dc3f94c937b62ada::pierre::PIERRE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/73b5026d-b71b-43d6-8368-796cf58bd6d3.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CUTO",
+  "symbol": "CUTO",
+  "decimals": 9,
+  "coin_type": "0x8621fd73782d7af16d3bb27892c044233e987d8acb7bcca2a4175a28e9fb0d37::cuto::CUTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmbN2UccKMabyX4SBwebM9C3eFpM7QgEPd8muB1mDt5jRK?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

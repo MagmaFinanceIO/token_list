@@ -1,0 +1,13 @@
+{
+  "name": "thanks bro on Sui",
+  "symbol": "Thanks bro",
+  "decimals": 9,
+  "coin_type": "0xd776bbceac5446cbe8278b52df2d587c6e22fafca6da2bc1dfe2f342b1de1cd0::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

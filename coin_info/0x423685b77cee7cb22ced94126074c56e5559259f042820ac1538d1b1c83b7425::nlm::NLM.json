@@ -1,0 +1,13 @@
+{
+  "name": "Neurolink AI",
+  "symbol": "NLM",
+  "decimals": 6,
+  "coin_type": "0x423685b77cee7cb22ced94126074c56e5559259f042820ac1538d1b1c83b7425::nlm::NLM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737018144615.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

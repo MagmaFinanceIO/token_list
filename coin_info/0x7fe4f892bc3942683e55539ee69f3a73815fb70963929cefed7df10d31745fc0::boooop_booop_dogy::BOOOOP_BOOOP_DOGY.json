@@ -1,0 +1,13 @@
+{
+  "name": "BOOP",
+  "symbol": "BOOOOP BOOOP DOGY",
+  "decimals": 9,
+  "coin_type": "0x7fe4f892bc3942683e55539ee69f3a73815fb70963929cefed7df10d31745fc0::boooop_booop_dogy::BOOOOP_BOOOP_DOGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a00e75cb-3ba7-45f3-b604-b0c889eb5107.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

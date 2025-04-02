@@ -1,0 +1,13 @@
+{
+  "name": "SCREAM",
+  "symbol": "SCREAM",
+  "decimals": 6,
+  "coin_type": "0xe68fc9ab55e38b80e90e5446a0f1c1712b3de1d097a110f84f195ec2e28a2f77::scream::SCREAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3UhxA8jBKYEhJQxG9VzNYFFGkZ5brZtWMuTvbb4rpump.png?size=lg&key=f6466d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

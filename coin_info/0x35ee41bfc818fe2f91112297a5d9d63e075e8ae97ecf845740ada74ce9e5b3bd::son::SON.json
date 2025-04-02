@@ -1,0 +1,13 @@
+{
+  "name": "SON",
+  "symbol": "SON",
+  "decimals": 9,
+  "coin_type": "0x35ee41bfc818fe2f91112297a5d9d63e075e8ae97ecf845740ada74ce9e5b3bd::son::SON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Son_Heung-min_-_2022_%2852552243725%29_%28cropped%29.jpg/640px-Son_Heung-min_-_2022_%2852552243725%29_%28cropped%29.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

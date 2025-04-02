@@ -1,0 +1,13 @@
+{
+  "name": "ENTJ Coin",
+  "symbol": "ENTJ",
+  "decimals": 6,
+  "coin_type": "0x81ce6f4fd6a63643e608e7d0d46bdb532d6159858a31cfb2ce4dfc003783d867::entj::ENTJ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Wh_E_Lf_Rt_F_Rk_D_Fz_Y_Enur6a_N8yea_Tu_Mk_Bmx8_Qn32_X9u_M4_Pf_ca7fefad90.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

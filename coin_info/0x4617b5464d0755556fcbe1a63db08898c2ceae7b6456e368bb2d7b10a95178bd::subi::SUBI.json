@@ -1,0 +1,13 @@
+{
+  "name": "Suibara",
+  "symbol": "SUBI",
+  "decimals": 9,
+  "coin_type": "0x4617b5464d0755556fcbe1a63db08898c2ceae7b6456e368bb2d7b10a95178bd::subi::SUBI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://app.magmafinance.io/api/logo/0x4617b5464d0755556fcbe1a63db08898c2ceae7b6456e368bb2d7b10a95178bd::subi::SUBI.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Damasco AI",
+  "symbol": "MASCO",
+  "decimals": 9,
+  "coin_type": "0x2b53773b1399ccac4fa37672c35488835ca00f8152c42e1f5c67071560c8de1b::masco::MASCO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A6C1zM4nBf8jr8tRxQskytusNQNQT9kpkWKUUjAgpump.png?size=lg&key=adc5c1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Eye Tech AI",
+  "symbol": "EYEAI",
+  "decimals": 6,
+  "coin_type": "0x27c09bf0433ee7421ea6237dd8cee303b1260cb8a468b1ef720f4adb699a65e4::eyeai::EYEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b308217c-8531-4463-8931-599fa964dda4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

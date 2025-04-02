@@ -1,0 +1,13 @@
+{
+  "name": "WE ARE AGI",
+  "symbol": "WEB4",
+  "decimals": 9,
+  "coin_type": "0x4bfd2da534b81cb2aec6a2227e5d49bb7663f46c9b4fed010087888c7062e3fe::web4::WEB4",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5t5jxx6GCv2hnjzwUuYKjMc1pHcFVwAdq9DrgBjepump.png?size=lg&key=5ed437",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Jumpy the Lizard",
+  "symbol": "JUMPY",
+  "decimals": 9,
+  "coin_type": "0xc4ebf4ced8db296a827d61097036f520d22e022e2c991891c1e1c2376cf8209f::jumpythelizard::JUMPYTHELIZARD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/99bf337c-2de0-4d73-b0fd-d33932e44ea4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

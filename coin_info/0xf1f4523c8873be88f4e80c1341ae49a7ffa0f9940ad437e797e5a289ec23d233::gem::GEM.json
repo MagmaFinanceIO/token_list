@@ -1,0 +1,13 @@
+{
+  "name": "GEM",
+  "symbol": "GEM",
+  "decimals": 9,
+  "coin_type": "0xf1f4523c8873be88f4e80c1341ae49a7ffa0f9940ad437e797e5a289ec23d233::gem::GEM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC1O0vpOk4yj6UknPt2Ted77suyVnzci6muA&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HOPBUNNY",
+  "symbol": "HopBunny",
+  "decimals": 6,
+  "coin_type": "0xb3df40059f631bba20b03c11c51cbb8a7f353edc9132fee3a4cfd362354ae510::hopbunny::HOPBUNNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmearEhnZ62uzEeHUHY3r4B1QQENYW8ykzBnHc6UGo1tfD",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

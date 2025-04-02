@@ -1,0 +1,13 @@
+{
+  "name": "Trench",
+  "symbol": "GOT",
+  "decimals": 9,
+  "coin_type": "0xa39033858c40e3693f3f6bad66688c3de8c4cb7c76a0e532a3fabd2c461f7844::got::GOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ecbd33fb-f9e0-4fb8-bc73-acbe59fdcccc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

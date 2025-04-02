@@ -1,0 +1,13 @@
+{
+  "name": "Shark Cat",
+  "symbol": "SCAT",
+  "decimals": 6,
+  "coin_type": "0x82d6a9ecd52f9375d5791142944d27b3108d0cf5ca094627f350c205179d695b::scat::SCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/sharkcatprof_559b821d07.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

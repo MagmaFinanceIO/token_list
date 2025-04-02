@@ -1,0 +1,13 @@
+{
+  "name": "Chop on Sui",
+  "symbol": "CHOP",
+  "decimals": 6,
+  "coin_type": "0x0c85cca8a580dd40cbd610b4f3f76b001f044fbe513ac4f65f0fde15e11164be::chop::CHOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/chopimage_021c8610d7.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

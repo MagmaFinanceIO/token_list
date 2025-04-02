@@ -1,0 +1,13 @@
+{
+  "name": "SuiSkibidi",
+  "symbol": "SKBD",
+  "decimals": 9,
+  "coin_type": "0x6df1a09fd4f0dd3b0e2c81087614dd52c3f7f31ce65eb2b74cafc0db8ebada59::skbd::SKBD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/65082f53-6bdd-440b-bbea-cc6e7c545195.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

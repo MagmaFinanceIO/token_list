@@ -1,0 +1,13 @@
+{
+  "name": "sharki",
+  "symbol": "SHARKI",
+  "decimals": 6,
+  "coin_type": "0x53580cadcf8eab43ec22e045cea8de27644c3ec7e00d6d9123d3b7198c96a91f::sharki::SHARKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SHARKY_3cb3e26ed4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

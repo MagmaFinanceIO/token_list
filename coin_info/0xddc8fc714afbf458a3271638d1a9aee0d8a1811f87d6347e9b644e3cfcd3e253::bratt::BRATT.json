@@ -1,0 +1,13 @@
+{
+  "name": "BRATT",
+  "symbol": "BRATT",
+  "decimals": 9,
+  "coin_type": "0xddc8fc714afbf458a3271638d1a9aee0d8a1811f87d6347e9b644e3cfcd3e253::bratt::BRATT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/361abb4e-3165-4556-96eb-d139cac92137.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

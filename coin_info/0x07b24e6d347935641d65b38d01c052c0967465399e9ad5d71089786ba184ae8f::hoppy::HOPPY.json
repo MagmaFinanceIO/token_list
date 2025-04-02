@@ -1,0 +1,13 @@
+{
+  "name": "Hoppy",
+  "symbol": "HOPPY",
+  "decimals": 9,
+  "coin_type": "0x07b24e6d347935641d65b38d01c052c0967465399e9ad5d71089786ba184ae8f::hoppy::HOPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x6e79b51959cf968d87826592f46f819f92466615.png?size=lg&key=567af5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Gloo Sui",
+  "symbol": "Gloo",
+  "decimals": 6,
+  "coin_type": "0x388c9b9b2064b42fa41ae3a3715c5724c20579c97e4dfce12da15d785c570b74::gloo::GLOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736020462566.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

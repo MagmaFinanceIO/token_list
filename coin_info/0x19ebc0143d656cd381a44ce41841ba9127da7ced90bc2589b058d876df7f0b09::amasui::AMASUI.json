@@ -1,0 +1,13 @@
+{
+  "name": "Amasui",
+  "symbol": "AMASUI",
+  "decimals": 6,
+  "coin_type": "0x19ebc0143d656cd381a44ce41841ba9127da7ced90bc2589b058d876df7f0b09::amasui::AMASUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1728516063913_2_5a416a6535.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

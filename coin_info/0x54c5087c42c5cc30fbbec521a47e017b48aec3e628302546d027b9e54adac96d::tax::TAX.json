@@ -1,0 +1,13 @@
+{
+  "name": "Tax node",
+  "symbol": "Tax",
+  "decimals": 6,
+  "coin_type": "0x54c5087c42c5cc30fbbec521a47e017b48aec3e628302546d027b9e54adac96d::tax::TAX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000019363_09699d43aa.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

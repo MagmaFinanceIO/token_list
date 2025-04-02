@@ -1,0 +1,13 @@
+{
+  "name": "Wolf",
+  "symbol": "Wof",
+  "decimals": 6,
+  "coin_type": "0x99b7d39bc27329af9cae310a9068c012d9738be4529abafb50700f6c34a94e3e::wof::WOF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/a_ae_a_c_20241014023536_5b5d2b6e8c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FASTGPT",
+  "symbol": "FASTGPT",
+  "decimals": 9,
+  "coin_type": "0x07c8b8b7b1e8c91a2c5bdc152baf5cab1b4bd691a32ce40024fb385cdab8336a::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

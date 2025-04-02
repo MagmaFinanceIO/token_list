@@ -1,0 +1,13 @@
+{
+  "name": "Pokepep",
+  "symbol": "POKEPEP",
+  "decimals": 9,
+  "coin_type": "0x32a01c882dafcbe0e342afe1ee54d8cc9789191532fb1d539283daf9f1b483a3::pokepep::POKEPEP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7b449a31-28ad-427e-808b-94a312076e34.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

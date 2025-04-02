@@ -1,0 +1,13 @@
+{
+  "name": "BOLB SUI",
+  "symbol": "BOLB",
+  "decimals": 6,
+  "coin_type": "0x4727dc1d26677276ca5b7f406c250e7fa0a995de36a19ab7ebe25a7cbacc2c7f::bolb::BOLB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7936_9d7eeb1820.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

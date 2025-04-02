@@ -1,0 +1,13 @@
+{
+  "name": "SIN",
+  "symbol": "SIN",
+  "decimals": 9,
+  "coin_type": "0x78796695f8556f7d3013ffe7f189622416815232da79bc60ff1f0f5cb58cc93f::sin::SIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE9oqVhsUusw4S0oQuMD8HbOw2iMSC_aMVJQ&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

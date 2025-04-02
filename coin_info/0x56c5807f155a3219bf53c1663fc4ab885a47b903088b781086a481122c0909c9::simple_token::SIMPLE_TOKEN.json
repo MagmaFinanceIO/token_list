@@ -1,0 +1,13 @@
+{
+  "name": "Xiaoya on Sui",
+  "symbol": "Xiaoya Sui",
+  "decimals": 9,
+  "coin_type": "0x56c5807f155a3219bf53c1663fc4ab885a47b903088b781086a481122c0909c9::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

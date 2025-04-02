@@ -1,0 +1,13 @@
+{
+  "name": "PUKIE CAT",
+  "symbol": "PUKIE",
+  "decimals": 6,
+  "coin_type": "0x8675dd879401d8df2ad49f424c0be30b7dcd4df8ae2a14fb951ef844e40918d9::pukie::PUKIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731368506824.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

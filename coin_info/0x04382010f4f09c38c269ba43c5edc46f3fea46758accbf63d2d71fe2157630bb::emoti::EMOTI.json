@@ -1,0 +1,13 @@
+{
+  "name": "EMOTICOIN",
+  "symbol": "EMOTI",
+  "decimals": 9,
+  "coin_type": "0x04382010f4f09c38c269ba43c5edc46f3fea46758accbf63d2d71fe2157630bb::emoti::EMOTI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x0f7b8a61780006832aabef435db12a5e8125aae3.png?size=xl&key=ca0a26",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

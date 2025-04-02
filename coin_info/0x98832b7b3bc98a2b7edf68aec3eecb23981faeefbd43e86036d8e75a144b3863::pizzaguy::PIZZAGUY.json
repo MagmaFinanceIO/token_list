@@ -1,0 +1,13 @@
+{
+  "name": "Justice For Pizza Guy",
+  "symbol": "PIZZAGUY",
+  "decimals": 9,
+  "coin_type": "0x98832b7b3bc98a2b7edf68aec3eecb23981faeefbd43e86036d8e75a144b3863::pizzaguy::PIZZAGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4kNS9EDwpiJNBJpUCQ2eYcZkuj5Xo4cco4jsrwk9pump.png?size=lg&key=c385c4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

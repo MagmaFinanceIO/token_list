@@ -1,0 +1,13 @@
+{
+  "name": "ArsoCat",
+  "symbol": "ArsonCat",
+  "decimals": 6,
+  "coin_type": "0x41ac97f90dfe22921d6eca09924f9ac4a8ca079712b0f7d46aa444cc1699d999::arsoncat::ARSONCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/mmexport1733497818146_89cb1ac78f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Bull Hodler",
+  "symbol": "BHDL",
+  "decimals": 9,
+  "coin_type": "0xf04586a12ed3664ecb062497c2fdc7055aec4567ac00f67f9fa06a5b47bcf805::bhdl::BHDL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6415cd49-d3ee-48e5-bfcf-0fefb651532b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

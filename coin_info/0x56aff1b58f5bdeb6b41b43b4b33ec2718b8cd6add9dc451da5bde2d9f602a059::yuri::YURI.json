@@ -1,0 +1,13 @@
+{
+  "name": "Agent Yuri On Sui",
+  "symbol": "YURI",
+  "decimals": 9,
+  "coin_type": "0x56aff1b58f5bdeb6b41b43b4b33ec2718b8cd6add9dc451da5bde2d9f602a059::yuri::YURI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/69mycYwKATgmKNpqoZdgAFAoiASfFuQU2gxYyxXmrPVb.png?size=lg&key=5a7aa0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

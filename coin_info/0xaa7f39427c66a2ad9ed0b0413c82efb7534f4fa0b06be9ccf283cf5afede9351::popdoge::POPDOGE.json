@@ -1,0 +1,13 @@
+{
+  "name": "PopDoge",
+  "symbol": "POPDOGE",
+  "decimals": 6,
+  "coin_type": "0xaa7f39427c66a2ad9ed0b0413c82efb7534f4fa0b06be9ccf283cf5afede9351::popdoge::POPDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_VB_3nsjm_Nm5_DSN_7h_M_Ljfiut_E_Gk_Z_Uxt_TU_Hh_Jq_NSRRV_Ly74_c5c8db48b7.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

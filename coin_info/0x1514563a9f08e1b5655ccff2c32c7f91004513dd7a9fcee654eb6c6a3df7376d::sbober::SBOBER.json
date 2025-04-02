@@ -1,0 +1,13 @@
+{
+  "name": "BOBER SANTA",
+  "symbol": "SBOBER",
+  "decimals": 9,
+  "coin_type": "0x1514563a9f08e1b5655ccff2c32c7f91004513dd7a9fcee654eb6c6a3df7376d::sbober::SBOBER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ed3ac28f-0ae1-41c4-a57d-3736cc5bad33.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

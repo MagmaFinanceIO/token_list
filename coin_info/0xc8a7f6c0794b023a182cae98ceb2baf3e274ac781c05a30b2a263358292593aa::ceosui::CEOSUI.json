@@ -1,0 +1,13 @@
+{
+  "name": "CEOSUIFAN",
+  "symbol": "CEOSUI",
+  "decimals": 6,
+  "coin_type": "0xc8a7f6c0794b023a182cae98ceb2baf3e274ac781c05a30b2a263358292593aa::ceosui::CEOSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2024_12_01_19_43_50_e75252153b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

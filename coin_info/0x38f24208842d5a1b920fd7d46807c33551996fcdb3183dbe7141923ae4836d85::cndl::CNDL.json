@@ -1,0 +1,13 @@
+{
+  "name": "Candle AI",
+  "symbol": "CNDL",
+  "decimals": 3,
+  "coin_type": "0x38f24208842d5a1b920fd7d46807c33551996fcdb3183dbe7141923ae4836d85::cndl::CNDL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e8c73446-fdea-4559-8271-986a534885dc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

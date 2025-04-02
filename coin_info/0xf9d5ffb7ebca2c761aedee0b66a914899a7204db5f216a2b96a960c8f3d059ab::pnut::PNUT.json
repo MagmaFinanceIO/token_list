@@ -1,0 +1,13 @@
+{
+  "name": "Peanut the Squirrel on SUI",
+  "symbol": "Pnut",
+  "decimals": 9,
+  "coin_type": "0xf9d5ffb7ebca2c761aedee0b66a914899a7204db5f216a2b96a960c8f3d059ab::pnut::PNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3eae9560-4981-4c35-b599-3b8d6f638927.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

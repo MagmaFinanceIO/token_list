@@ -1,0 +1,13 @@
+{
+  "name": "Hyperpigmentation",
+  "symbol": "HYPER",
+  "decimals": 9,
+  "coin_type": "0x977ed0f83eed648032e706beae72c64ec21e826c9db9d02fe5122dd66c7fc96b::hyper::HYPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Aq8Gocyvyyi8xk5EYxd6viUfVmVvs9T9R6mZFzZFpump.png?claimId=9vTsJb9K1kYl2RN3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

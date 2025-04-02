@@ -1,0 +1,13 @@
+{
+  "name": "What's Updog",
+  "symbol": "UPDOG",
+  "decimals": 6,
+  "coin_type": "0x7f9e06f1ea19203c7ecd2e4dc6385495199bfe4fbf3979def803b058f7726cd1::updog::UPDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0081_04025a16fa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

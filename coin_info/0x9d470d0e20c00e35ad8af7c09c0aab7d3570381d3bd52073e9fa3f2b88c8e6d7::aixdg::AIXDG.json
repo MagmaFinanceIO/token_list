@@ -1,0 +1,13 @@
+{
+  "name": "aixdg",
+  "symbol": "AIXDG",
+  "decimals": 6,
+  "coin_type": "0x9d470d0e20c00e35ad8af7c09c0aab7d3570381d3bd52073e9fa3f2b88c8e6d7::aixdg::AIXDG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/aixdg_940cfd6f9e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

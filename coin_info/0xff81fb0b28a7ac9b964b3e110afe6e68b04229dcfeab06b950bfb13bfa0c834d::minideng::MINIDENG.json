@@ -1,0 +1,13 @@
+{
+  "name": "MINIDENG",
+  "symbol": "MINIDENG",
+  "decimals": 3,
+  "coin_type": "0xff81fb0b28a7ac9b964b3e110afe6e68b04229dcfeab06b950bfb13bfa0c834d::minideng::MINIDENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/12254d14-45f8-4c28-9671-de6ba2dbe16e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

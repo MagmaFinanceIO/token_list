@@ -1,0 +1,13 @@
+{
+  "name": "Pepe6900",
+  "symbol": "SuiPepe",
+  "decimals": 9,
+  "coin_type": "0x31ffb4d2016f1bf6a38dcef63ddf8532f0e38e369ceb94f190c9193427c206db::suipepe::SUIPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/385807db-7533-4e19-9f57-11a3d598e7c2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

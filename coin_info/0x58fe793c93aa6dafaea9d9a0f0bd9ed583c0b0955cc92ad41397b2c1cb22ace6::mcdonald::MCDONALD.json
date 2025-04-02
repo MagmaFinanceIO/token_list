@@ -1,0 +1,13 @@
+{
+  "name": "Mc Donald",
+  "symbol": "MCDONALD",
+  "decimals": 6,
+  "coin_type": "0x58fe793c93aa6dafaea9d9a0f0bd9ed583c0b0955cc92ad41397b2c1cb22ace6::mcdonald::MCDONALD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

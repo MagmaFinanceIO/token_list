@@ -1,0 +1,13 @@
+{
+  "name": "Retardia",
+  "symbol": "Retardia",
+  "decimals": 9,
+  "coin_type": "0x5de7a0e42da58241e390fa139a1d1b82e4761116a99e46790c7feec81b828108::retardia::RETARDIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7RrLheV7dSecVka3MfjYb4Wa6Z6uegNyzhpFeERsfFZP/header.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

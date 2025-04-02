@@ -1,0 +1,13 @@
+{
+  "name": "Bloody Santa Claus",
+  "symbol": "BSANTA",
+  "decimals": 9,
+  "coin_type": "0x4f395008f695200d1b1d4eb4d4d490e2be027fe83f4b617af5d11ea80e96deb8::bsanta::BSANTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/C8hegTsykTk2Ko43q1wT3kBotiWbEEKqa12938JnaBXc.png?size=lg&key=528eb1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

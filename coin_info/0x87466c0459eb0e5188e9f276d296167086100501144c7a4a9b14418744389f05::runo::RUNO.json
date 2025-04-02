@@ -1,0 +1,13 @@
+{
+  "name": "Runocoin",
+  "symbol": "RUNO",
+  "decimals": 9,
+  "coin_type": "0x87466c0459eb0e5188e9f276d296167086100501144c7a4a9b14418744389f05::runo::RUNO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/baa2b740-a559-4a40-8fd2-2748b7748cad.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "THE BANANA PEPE",
+  "symbol": "BANAPE",
+  "decimals": 9,
+  "coin_type": "0x29fa3bec729db253cc12177ee6896d3bfbcfb010859a44e0a1108c4aef3ccb5b::banape::BANAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3e3a584b-2ca0-415f-a71a-efd682441f93.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

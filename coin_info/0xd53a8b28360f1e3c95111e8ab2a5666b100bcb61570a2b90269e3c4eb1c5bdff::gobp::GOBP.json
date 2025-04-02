@@ -1,0 +1,13 @@
+{
+  "name": "Forest Gobp",
+  "symbol": "GOBP",
+  "decimals": 9,
+  "coin_type": "0xd53a8b28360f1e3c95111e8ab2a5666b100bcb61570a2b90269e3c4eb1c5bdff::gobp::GOBP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/5-nV-TN-WWaL0vNl?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

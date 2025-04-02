@@ -1,0 +1,13 @@
+{
+  "name": "Akira AI",
+  "symbol": "AKIRA",
+  "decimals": 9,
+  "coin_type": "0xe9e43ce32c34a392e0f1c8700772f0631cbcaed4fc9473d077b2535137417d1d::akira::AKIRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6bGMEhMThXbmjNDeHZ1PMzksmMpsPAjCg4fL2gyRpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

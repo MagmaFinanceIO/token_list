@@ -1,0 +1,13 @@
+{
+  "name": "Wick",
+  "symbol": "WICK",
+  "decimals": 6,
+  "coin_type": "0xf2a35d2f077c93b97132b3789a632127367a54b6da966c5eeb8dcf9f2abae3aa::wick::WICK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000082234_3e66a5db3f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

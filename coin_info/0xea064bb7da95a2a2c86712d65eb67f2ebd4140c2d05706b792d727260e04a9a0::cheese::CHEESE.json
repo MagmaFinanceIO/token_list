@@ -1,0 +1,13 @@
+{
+  "name": "Cheese Cat 8888",
+  "symbol": "CHEESE",
+  "decimals": 9,
+  "coin_type": "0xea064bb7da95a2a2c86712d65eb67f2ebd4140c2d05706b792d727260e04a9a0::cheese::CHEESE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2Fcheesecatsmol_df207c99db.jpg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

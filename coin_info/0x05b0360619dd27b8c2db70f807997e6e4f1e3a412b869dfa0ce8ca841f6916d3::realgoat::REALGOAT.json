@@ -1,0 +1,13 @@
+{
+  "name": "Naughtius Maximus",
+  "symbol": "REALGOAT",
+  "decimals": 9,
+  "coin_type": "0x05b0360619dd27b8c2db70f807997e6e4f1e3a412b869dfa0ce8ca841f6916d3::realgoat::REALGOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4PXN7SY5zgDhwrbV6fk8CXk2Uk8JXv53E4VuCBEvKwko.png?size=lg&key=87cc75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

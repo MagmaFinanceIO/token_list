@@ -1,0 +1,13 @@
+{
+  "name": "token MEGASUI",
+  "symbol": "symbol MEGA",
+  "decimals": 9,
+  "coin_type": "0x8a157b1c2a0b581c3c29818fb86a2a44b5f1dca110cda585def5edaf381d9f7f::megasui::MEGASUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

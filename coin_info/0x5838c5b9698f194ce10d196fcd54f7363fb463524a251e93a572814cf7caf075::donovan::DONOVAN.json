@@ -1,0 +1,13 @@
+{
+  "name": "Donovan Patterson",
+  "symbol": "Donovan",
+  "decimals": 9,
+  "coin_type": "0x5838c5b9698f194ce10d196fcd54f7363fb463524a251e93a572814cf7caf075::donovan::DONOVAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BhCZW9Wnkw9fq2BrcU3HpMAQxR7pZB36FqrzJVknpump.png?size=lg&key=e29a4a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

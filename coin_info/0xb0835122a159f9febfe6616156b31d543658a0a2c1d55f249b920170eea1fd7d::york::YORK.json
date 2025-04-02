@@ -1,0 +1,13 @@
+{
+  "name": "Yeti Fork",
+  "symbol": "YORK",
+  "decimals": 6,
+  "coin_type": "0xb0835122a159f9febfe6616156b31d543658a0a2c1d55f249b920170eea1fd7d::york::YORK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5958_c8980a8bb2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

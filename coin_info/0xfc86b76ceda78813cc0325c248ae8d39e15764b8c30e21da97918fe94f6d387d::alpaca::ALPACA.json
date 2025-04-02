@@ -1,0 +1,13 @@
+{
+  "name": "Alpaca Sui",
+  "symbol": "ALPACA",
+  "decimals": 9,
+  "coin_type": "0xfc86b76ceda78813cc0325c248ae8d39e15764b8c30e21da97918fe94f6d387d::alpaca::ALPACA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.alpaca-token.com/wp-content/uploads/2024/10/Tokenomics.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

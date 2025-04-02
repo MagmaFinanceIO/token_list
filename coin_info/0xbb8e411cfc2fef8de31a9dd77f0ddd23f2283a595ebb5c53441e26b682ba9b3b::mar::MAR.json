@@ -1,0 +1,13 @@
+{
+  "name": "MAR Token",
+  "symbol": "MAR",
+  "decimals": 2,
+  "coin_type": "0xbb8e411cfc2fef8de31a9dd77f0ddd23f2283a595ebb5c53441e26b682ba9b3b::mar::MAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreifqbvbdj6h6wa2xpazr256h5zftsrypcrxmqd2sfuyjpfpyuvn3sm.ipfs.w3s.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

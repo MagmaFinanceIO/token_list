@@ -1,0 +1,13 @@
+{
+  "name": "Suiza",
+  "symbol": "SUIZA",
+  "decimals": 2,
+  "coin_type": "0x719df8fec1daec045f1284288578c89cd9b84e78634dc5e96157a48dd119ed5a::suiza::SUIZA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/29e347d6-b23f-4514-965f-d0827c04bbce.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

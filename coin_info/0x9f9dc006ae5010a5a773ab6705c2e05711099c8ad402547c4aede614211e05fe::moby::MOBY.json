@@ -1,0 +1,13 @@
+{
+  "name": "SUI MOBY",
+  "symbol": "MOBY",
+  "decimals": 6,
+  "coin_type": "0x9f9dc006ae5010a5a773ab6705c2e05711099c8ad402547c4aede614211e05fe::moby::MOBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/moby_eb64028db3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

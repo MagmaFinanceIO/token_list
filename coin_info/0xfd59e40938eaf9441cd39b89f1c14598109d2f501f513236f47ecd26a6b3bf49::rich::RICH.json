@@ -1,0 +1,13 @@
+{
+  "name": "Oxtrich",
+  "symbol": "RICH",
+  "decimals": 9,
+  "coin_type": "0xfd59e40938eaf9441cd39b89f1c14598109d2f501f513236f47ecd26a6b3bf49::rich::RICH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreibniqfdwbt7isccjdmtzgtcwycsdggdpptnqmb457mu6fxorz25oq.ipfs.w3s.link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

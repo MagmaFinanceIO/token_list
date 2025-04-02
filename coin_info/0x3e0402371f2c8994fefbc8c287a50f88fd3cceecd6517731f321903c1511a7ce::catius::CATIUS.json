@@ -1,0 +1,13 @@
+{
+  "name": "CATIUS MAXIMUS",
+  "symbol": "CATIUS",
+  "decimals": 9,
+  "coin_type": "0x3e0402371f2c8994fefbc8c287a50f88fd3cceecd6517731f321903c1511a7ce::catius::CATIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EDeAZZxoKc3XqtF96Y2pbUDQ7kyp6rpQ2CsEnEtwpump.png?size=lg&key=bd336c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

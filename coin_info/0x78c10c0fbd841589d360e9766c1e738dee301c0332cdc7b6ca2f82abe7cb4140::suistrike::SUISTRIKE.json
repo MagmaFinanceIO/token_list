@@ -1,0 +1,13 @@
+{
+  "name": "Sui Strike",
+  "symbol": "SUISTRIKE",
+  "decimals": 6,
+  "coin_type": "0x78c10c0fbd841589d360e9766c1e738dee301c0332cdc7b6ca2f82abe7cb4140::suistrike::SUISTRIKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000033412_e765f8bfdc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

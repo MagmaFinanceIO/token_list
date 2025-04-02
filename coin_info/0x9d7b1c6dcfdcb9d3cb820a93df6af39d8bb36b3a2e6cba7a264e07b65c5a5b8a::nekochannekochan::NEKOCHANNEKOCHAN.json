@@ -1,0 +1,13 @@
+{
+  "name": "Neko chan Neko chan Neko",
+  "symbol": "NekochanNekochan",
+  "decimals": 6,
+  "coin_type": "0x9d7b1c6dcfdcb9d3cb820a93df6af39d8bb36b3a2e6cba7a264e07b65c5a5b8a::nekochannekochan::NEKOCHANNEKOCHAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pub-efea87dea3f94e8084e073588c980c50.r2.dev/logo/01JBGQ43S2XNAHPDZZH1CVCGJE/01JBGRX9RH2EF5GXFTF4RW6FBT",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

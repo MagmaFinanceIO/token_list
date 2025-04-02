@@ -1,0 +1,13 @@
+{
+  "name": "Shin Chan",
+  "symbol": "SHINCHAN",
+  "decimals": 6,
+  "coin_type": "0x6fab4415c333b62678fb47332f7271d827e536caf4ecd86d979f3b12ac4feb48::shinchan::SHINCHAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://w7.pngwing.com/pngs/768/766/png-transparent-shin-chan-illustration-crayon-shin-chan-drawing-shinnosuke-nohara-desktop-kasukabe-shinchan-love-child-hand-thumbnail.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

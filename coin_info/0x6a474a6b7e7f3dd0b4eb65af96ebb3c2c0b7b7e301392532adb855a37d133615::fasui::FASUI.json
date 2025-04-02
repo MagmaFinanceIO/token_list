@@ -1,0 +1,13 @@
+{
+  "name": "Football Arena Sui",
+  "symbol": "FASUI",
+  "decimals": 9,
+  "coin_type": "0x6a474a6b7e7f3dd0b4eb65af96ebb3c2c0b7b7e301392532adb855a37d133615::fasui::FASUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ec4d17ae-46be-4843-9099-0c13b36ad968.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

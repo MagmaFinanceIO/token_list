@@ -1,0 +1,13 @@
+{
+  "name": "Fwog Ai",
+  "symbol": "FWOGAI",
+  "decimals": 9,
+  "coin_type": "0x614a4690543996f7ae8d9faf3da0179ef15bcf78659b314552c121ee83066a22::fwogai::FWOGAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/879TxsiX3tYkMkoCZmYqr6VTqg3SRTA6DmS9QNyVPHMe.png?size=lg&key=cf1141",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

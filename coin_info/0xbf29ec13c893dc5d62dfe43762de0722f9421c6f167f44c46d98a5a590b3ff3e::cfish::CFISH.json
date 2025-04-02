@@ -1,0 +1,13 @@
+{
+  "name": "Chill Sui Fisher Man",
+  "symbol": "CFISH",
+  "decimals": 9,
+  "coin_type": "0xbf29ec13c893dc5d62dfe43762de0722f9421c6f167f44c46d98a5a590b3ff3e::cfish::CFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/33940a56-6512-40f1-9f41-dbc3df8f29bd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

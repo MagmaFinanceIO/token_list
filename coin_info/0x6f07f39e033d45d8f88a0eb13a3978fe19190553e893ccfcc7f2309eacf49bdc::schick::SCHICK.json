@@ -1,0 +1,13 @@
+{
+  "name": "Sonic Chicken",
+  "symbol": "SCHICK",
+  "decimals": 9,
+  "coin_type": "0x6f07f39e033d45d8f88a0eb13a3978fe19190553e893ccfcc7f2309eacf49bdc::schick::SCHICK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c2fcefbd-8542-4c2f-bec2-fcd71d429346.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

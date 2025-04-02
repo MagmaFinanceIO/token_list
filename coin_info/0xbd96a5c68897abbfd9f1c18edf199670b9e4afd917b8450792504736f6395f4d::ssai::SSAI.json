@@ -1,0 +1,13 @@
+{
+  "name": "SuiSenseAI",
+  "symbol": "SSAI",
+  "decimals": 6,
+  "coin_type": "0xbd96a5c68897abbfd9f1c18edf199670b9e4afd917b8450792504736f6395f4d::ssai::SSAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737028280818.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "octopus chef",
+  "symbol": "OCTOPUSCHEF",
+  "decimals": 6,
+  "coin_type": "0xe06bab2319fe37c84c9e54ab2b5211581f07d5a91f24c7462b992aa24c264643::octopuschef::OCTOPUSCHEF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_08_07_53_00_d3f6bf23bc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

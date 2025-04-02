@@ -1,0 +1,13 @@
+{
+  "name": "Ozone Labs",
+  "symbol": "OZONE",
+  "decimals": 6,
+  "coin_type": "0x907931536c656c615bb768a50e33a32511ebe5762f1cc4088383e653f5847363::ozone::OZONE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5c0d65c5-be4d-4d2b-bbb4-f370edc6402f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

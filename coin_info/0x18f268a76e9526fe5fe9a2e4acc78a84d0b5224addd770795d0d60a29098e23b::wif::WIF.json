@@ -1,0 +1,13 @@
+{
+  "name": "dogwifhat",
+  "symbol": "WIF",
+  "decimals": 9,
+  "coin_type": "0x18f268a76e9526fe5fe9a2e4acc78a84d0b5224addd770795d0d60a29098e23b::wif::WIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e6ee9278-626c-45e3-b656-788aecb09350.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

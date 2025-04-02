@@ -1,0 +1,13 @@
+{
+  "name": "Gomu World",
+  "symbol": "GOMU",
+  "decimals": 9,
+  "coin_type": "0x0709a06983dfec2122c64e365f7aaf2a1a1ae61c06e26cab459d3062cdf1f910::gomu::GOMU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CRVZobvUzpq4C6rh4JdaziUsPXDzWcvrRxU3oK59pump.png?size=lg&key=ce812f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

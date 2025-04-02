@@ -1,0 +1,13 @@
+{
+  "name": "KHADIJA",
+  "symbol": "KHA",
+  "decimals": 9,
+  "coin_type": "0xd5ae823fcb50b31f15a890c4114345b8f32d0e0169358b204047655edcc7f349::kha::KHA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/eSKEaSVP4fZRSbsZD4yVoRKbSWaTbmpMDq2dUQ9pump.png?size=lg&key=90fee5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

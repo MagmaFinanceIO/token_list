@@ -1,0 +1,13 @@
+{
+  "name": "Bitsui",
+  "symbol": "BTSUI",
+  "decimals": 9,
+  "coin_type": "0x06d02b62f8e83baa67684d5b49a5eaeb62a4669d64922561da53891d076f68d3::btsui::BTSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9d47382d-e386-446f-ac37-2d70f430f42a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

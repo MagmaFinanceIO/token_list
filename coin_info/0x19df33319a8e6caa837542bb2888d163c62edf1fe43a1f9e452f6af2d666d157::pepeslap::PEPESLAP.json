@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Slap Doge",
+  "symbol": "PEPESLAP",
+  "decimals": 9,
+  "coin_type": "0x19df33319a8e6caa837542bb2888d163c62edf1fe43a1f9e452f6af2d666d157::pepeslap::PEPESLAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/086bddf6-fed2-433b-b9ce-b1526e12edc6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

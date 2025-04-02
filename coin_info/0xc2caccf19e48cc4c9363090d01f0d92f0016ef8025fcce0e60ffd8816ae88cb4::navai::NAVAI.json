@@ -1,0 +1,13 @@
+{
+  "name": "NAVai",
+  "symbol": "NAVai",
+  "decimals": 9,
+  "coin_type": "0xc2caccf19e48cc4c9363090d01f0d92f0016ef8025fcce0e60ffd8816ae88cb4::navai::NAVAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4PEBYdgiYFWme47MiX6yZq1rPYSxVagjoDecWeNfpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

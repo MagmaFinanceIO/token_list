@@ -1,0 +1,13 @@
+{
+  "name": "Suiqrtle",
+  "symbol": "SUQ",
+  "decimals": 6,
+  "coin_type": "0x751e47b8ad43e1b7b1002432978068d384d41a5f60e603a11225d0ce4c3d2496::suq::SUQ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

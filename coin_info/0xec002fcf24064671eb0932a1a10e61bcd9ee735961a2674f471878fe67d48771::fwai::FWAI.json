@@ -1,0 +1,13 @@
+{
+  "name": "FlashWash AI",
+  "symbol": "FWAI",
+  "decimals": 9,
+  "coin_type": "0xec002fcf24064671eb0932a1a10e61bcd9ee735961a2674f471878fe67d48771::fwai::FWAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BU4JdAAjAnU2oiEP5isTtfveKvtNBN6twvYxcCDJgqXy.png?size=lg&key=1fa270",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

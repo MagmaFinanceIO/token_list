@@ -1,0 +1,13 @@
+{
+  "name": "FROG ON SUI",
+  "symbol": "FROG",
+  "decimals": 9,
+  "coin_type": "0x58df8f5ed24c75649c57f536bec2c8af34cecd1157f1373d095706af34a205dd::frog::FROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

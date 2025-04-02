@@ -1,0 +1,13 @@
+{
+  "name": "sSBUSDT",
+  "symbol": "sSBUSDT",
+  "decimals": 6,
+  "coin_type": "0xb1d7df34829d1513b73ba17cb7ad90c88d1e104bb65ab8f62f13e0cc103783d3::scallop_sb_usdt::SCALLOP_SB_USDT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://zu6izvoktna456r6pbxg3knacc4bysfalutz25xo6zfkx6x3wvda.arweave.net/zTyM1cqbQc76PnhubamgELgcSKBdJ5127vZKq_r7tUY",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Kamala",
+  "symbol": "KAM",
+  "decimals": 6,
+  "coin_type": "0x9be77d39cd00301864cedf6386bc3628758f6c72303544ebbea3a4055ed4b076::kam::KAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/3_ac01d118e8.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

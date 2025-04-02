@@ -1,0 +1,13 @@
+{
+  "name": "Smurf on Sui",
+  "symbol": "SUIMURF",
+  "decimals": 6,
+  "coin_type": "0xd9d8f0056fac13e2dae6e3587df06d0a8f54ea86a49d7ea30f1eabc26d5b8824::suimurf::SUIMURF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_1_24_256a6f0e0b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

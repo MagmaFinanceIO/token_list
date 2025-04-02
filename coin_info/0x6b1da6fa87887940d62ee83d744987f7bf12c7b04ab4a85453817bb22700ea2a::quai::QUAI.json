@@ -1,0 +1,13 @@
+{
+  "name": "Quai Network",
+  "symbol": "QUAI",
+  "decimals": 9,
+  "coin_type": "0x6b1da6fa87887940d62ee83d744987f7bf12c7b04ab4a85453817bb22700ea2a::quai::QUAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/D8CQf2zeEXiQgVJoWDy51VQ97DxASuRqHuVSto6Hd7TA.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

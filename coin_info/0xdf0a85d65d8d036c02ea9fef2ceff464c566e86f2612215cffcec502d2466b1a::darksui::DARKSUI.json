@@ -1,0 +1,13 @@
+{
+  "name": "DARK SUI",
+  "symbol": "DARKSUI",
+  "decimals": 9,
+  "coin_type": "0xdf0a85d65d8d036c02ea9fef2ceff464c566e86f2612215cffcec502d2466b1a::darksui::DARKSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7fd040eb-2ddf-400e-adb8-524c169c939d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

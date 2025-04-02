@@ -1,0 +1,13 @@
+{
+  "name": "Live Dog",
+  "symbol": "RAFFY",
+  "decimals": 9,
+  "coin_type": "0x33d6ef73e9ffa81d252cbddb50ddf60efae5b6998f60e2d31aa2f6d7e7ceb466::raffy::RAFFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQjwtXKFb59GyDYZxZcYAKCRPZcFZZwAnxdpo7d9Vspjr",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

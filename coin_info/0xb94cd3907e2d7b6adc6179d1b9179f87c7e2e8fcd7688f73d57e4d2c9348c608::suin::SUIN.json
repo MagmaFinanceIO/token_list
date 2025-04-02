@@ -1,0 +1,13 @@
+{
+  "name": "SUIWEEN",
+  "symbol": "SUIN",
+  "decimals": 6,
+  "coin_type": "0xb94cd3907e2d7b6adc6179d1b9179f87c7e2e8fcd7688f73d57e4d2c9348c608::suin::SUIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_2006_fa0be1050f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

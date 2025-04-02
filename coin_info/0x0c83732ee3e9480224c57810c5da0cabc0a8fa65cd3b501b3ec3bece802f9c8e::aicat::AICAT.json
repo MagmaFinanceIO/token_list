@@ -1,0 +1,13 @@
+{
+  "name": "Cat Ai by SuiAI",
+  "symbol": "AICAT",
+  "decimals": 6,
+  "coin_type": "0x0c83732ee3e9480224c57810c5da0cabc0a8fa65cd3b501b3ec3bece802f9c8e::aicat::AICAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/favicon_093c1ca4d5.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

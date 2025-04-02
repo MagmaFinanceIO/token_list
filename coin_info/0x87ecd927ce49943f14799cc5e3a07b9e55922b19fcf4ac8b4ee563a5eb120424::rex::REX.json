@@ -1,0 +1,13 @@
+{
+  "name": "$REX",
+  "symbol": "$REX",
+  "decimals": 6,
+  "coin_type": "0x87ecd927ce49943f14799cc5e3a07b9e55922b19fcf4ac8b4ee563a5eb120424::rex::REX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://plum-accurate-ermine-64.mypinata.cloud/ipfs/QmfW8wUUfQhmibemy7iteThTA4V1ovJboN5DE7AhX65cfz",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

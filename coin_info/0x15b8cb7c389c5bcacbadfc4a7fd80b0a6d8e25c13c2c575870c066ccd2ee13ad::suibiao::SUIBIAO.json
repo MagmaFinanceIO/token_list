@@ -1,0 +1,13 @@
+{
+  "name": "Sui Biao",
+  "symbol": "SUIBIAO",
+  "decimals": 9,
+  "coin_type": "0x15b8cb7c389c5bcacbadfc4a7fd80b0a6d8e25c13c2c575870c066ccd2ee13ad::suibiao::SUIBIAO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/bafkreihubxtzyyspq7gb5virs4godvyebla4dijrtkkqzqems7pkgtwfju",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Fob",
+  "symbol": "FOB",
+  "decimals": 9,
+  "coin_type": "0x4f27f3ce6a7f3928d3ad51d8edc1e13b15b7ded75c1acb02685ba067af06a5a6::fob::FOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HRX9BoeaTM9keXiqSAm6HuTzuHRUqTfwixXXBXW4pump.png?size=lg&key=e894cd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

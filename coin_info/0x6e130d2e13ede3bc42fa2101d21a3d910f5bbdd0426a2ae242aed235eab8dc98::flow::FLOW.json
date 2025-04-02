@@ -1,0 +1,13 @@
+{
+  "name": "ORINOCO",
+  "symbol": "FLOW",
+  "decimals": 6,
+  "coin_type": "0x6e130d2e13ede3bc42fa2101d21a3d910f5bbdd0426a2ae242aed235eab8dc98::flow::FLOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ff7dd0fc_f17a_4bda_9885_12116b79340a_6fc6330310.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

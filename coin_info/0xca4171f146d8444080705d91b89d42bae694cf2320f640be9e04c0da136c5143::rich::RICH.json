@@ -1,0 +1,13 @@
+{
+  "name": "GPU ai Rich",
+  "symbol": "rich",
+  "decimals": 9,
+  "coin_type": "0xca4171f146d8444080705d91b89d42bae694cf2320f640be9e04c0da136c5143::rich::RICH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GRQfnwWyhd4qeJqUVCZo9ku61p3YN7MWCCk8vBXnpump.png?size=xl&key=57c929",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

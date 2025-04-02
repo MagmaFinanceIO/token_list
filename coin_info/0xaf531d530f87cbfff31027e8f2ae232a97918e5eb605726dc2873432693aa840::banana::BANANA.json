@@ -1,0 +1,13 @@
+{
+  "name": "banana wif hat",
+  "symbol": "banana",
+  "decimals": 9,
+  "coin_type": "0xaf531d530f87cbfff31027e8f2ae232a97918e5eb605726dc2873432693aa840::banana::BANANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/436f6ac8-6ee0-4420-8e36-517f9e825ef6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

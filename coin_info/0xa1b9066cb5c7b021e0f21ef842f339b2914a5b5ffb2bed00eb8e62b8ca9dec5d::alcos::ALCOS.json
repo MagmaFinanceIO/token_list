@@ -1,0 +1,13 @@
+{
+  "name": "Alcoholics of SUI",
+  "symbol": "ALCOS",
+  "decimals": 6,
+  "coin_type": "0xa1b9066cb5c7b021e0f21ef842f339b2914a5b5ffb2bed00eb8e62b8ca9dec5d::alcos::ALCOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_12_16_22_24_30_f8c5738d61.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

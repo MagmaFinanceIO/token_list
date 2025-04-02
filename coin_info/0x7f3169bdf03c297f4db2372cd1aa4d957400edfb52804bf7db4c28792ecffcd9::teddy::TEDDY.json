@@ -1,0 +1,13 @@
+{
+  "name": "Teddy The Blind Dog",
+  "symbol": "TEDDY",
+  "decimals": 9,
+  "coin_type": "0x7f3169bdf03c297f4db2372cd1aa4d957400edfb52804bf7db4c28792ecffcd9::teddy::TEDDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/F92eBSVS3pzpomZAuGmFFek4Y7gyHipxiiAgj548pump.png?size=lg&key=4b0861",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

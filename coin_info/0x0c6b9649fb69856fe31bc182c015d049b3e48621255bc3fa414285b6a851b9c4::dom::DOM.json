@@ -1,0 +1,13 @@
+{
+  "name": "SUIDOM",
+  "symbol": "DOM",
+  "decimals": 6,
+  "coin_type": "0x0c6b9649fb69856fe31bc182c015d049b3e48621255bc3fa414285b6a851b9c4::dom::DOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/DOM_logo_06c45b374c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

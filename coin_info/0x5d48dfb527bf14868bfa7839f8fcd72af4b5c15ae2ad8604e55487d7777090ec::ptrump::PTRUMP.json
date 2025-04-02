@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Trump",
+  "symbol": "pTRUMP",
+  "decimals": 9,
+  "coin_type": "0x5d48dfb527bf14868bfa7839f8fcd72af4b5c15ae2ad8604e55487d7777090ec::ptrump::PTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xb8c150fffb0883780107c9e46409e9207a6204a2.png?size=lg&key=0ec0f8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

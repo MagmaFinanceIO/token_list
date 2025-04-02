@@ -1,0 +1,13 @@
+{
+  "name": "AlphaSui",
+  "symbol": "ALPHA",
+  "decimals": 9,
+  "coin_type": "0x7ee1b9a26097254c724c25b344d6285edaf567e2936c91438a1cf7c155a86961::alpha_sui::ALPHA_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.bluemove.io/token/alpha-coin.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

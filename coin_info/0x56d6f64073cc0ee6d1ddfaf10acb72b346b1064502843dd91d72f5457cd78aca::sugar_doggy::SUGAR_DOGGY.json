@@ -1,0 +1,13 @@
+{
+  "name": "Sugar Doggy",
+  "symbol": "Sugar Doggy",
+  "decimals": 7,
+  "coin_type": "0x56d6f64073cc0ee6d1ddfaf10acb72b346b1064502843dd91d72f5457cd78aca::sugar_doggy::SUGAR_DOGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/381e8d4d-5130-4b90-bc61-f4dab7c1fbc1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

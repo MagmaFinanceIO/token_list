@@ -1,0 +1,13 @@
+{
+  "name": "CAPITL COIN",
+  "symbol": "CC",
+  "decimals": 9,
+  "coin_type": "0x31ad8b38f4910d2262d7e03a5f8d865e002f6f1a25ee0c487a684a9bec9aaf4d::cc::CC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/03046a6b-b608-4c02-93de-b9e8310852eb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

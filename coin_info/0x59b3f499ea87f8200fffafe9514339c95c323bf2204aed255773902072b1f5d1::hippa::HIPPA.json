@@ -1,0 +1,13 @@
+{
+  "name": "Hippa The Hippo Father",
+  "symbol": "HIPPA",
+  "decimals": 9,
+  "coin_type": "0x59b3f499ea87f8200fffafe9514339c95c323bf2204aed255773902072b1f5d1::hippa::HIPPA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3cdd809f-0095-4599-9846-43b1fddc47c8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "LeSanta",
+  "symbol": "LeSanta",
+  "decimals": 9,
+  "coin_type": "0x0088a0d698ac1b2e57ae575c6ce1acea26025e5ee0feb841175cf4849a031e3d::lesanta::LESANTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d88471c7-1a77-4e97-9660-a9ee4325991c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CaptSui",
+  "symbol": "CPTS",
+  "decimals": 6,
+  "coin_type": "0xfdd66030c781e7ac4a9b7b08d45917c634eb2f69c80790aaa65c439b6be3c8ba::cpts::CPTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6f9e6cbb-35e3-4697-bf0e-e1cfb165e927.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DANZO",
+  "symbol": "DANZO",
+  "decimals": 0,
+  "coin_type": "0x70d8740daf0b5a6b90fd208811b7b5e5fc87d0518a8589e676a24ff0004ccaf1::danzo::DANZO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6f9a3ecc-425b-434c-8be7-6b004687f384.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Abstract Dog",
+  "symbol": "ABSTRACT",
+  "decimals": 6,
+  "coin_type": "0x56ba569c1927e875dd769b3a40832da0ea346b2765cc20190b75e0a4f526a416::abstract::ABSTRACT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Rqa_Spki_EE_Kt7n_MYV_4b_LA_Urfssz_N2dmh_KG_83_Ncx_Xzhra_N_9eda65e6b4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

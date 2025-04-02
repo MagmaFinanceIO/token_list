@@ -1,0 +1,13 @@
+{
+  "name": "chichi",
+  "symbol": "chichi",
+  "decimals": 9,
+  "coin_type": "0x349b877990b45ccdd77cff0cb38791bc63abbf4e5044d1bb3214c997518fc4d2::chichi::CHICHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BLXsCT43Q9pXHFpeTSq6bxddefNXBgqfe22RAAzXpyEY.png?size=xl&key=0a5437",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

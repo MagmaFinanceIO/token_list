@@ -1,0 +1,13 @@
+{
+  "name": "Tree stuck in cat",
+  "symbol": "TREECAT",
+  "decimals": 9,
+  "coin_type": "0x1c403c977daa28146f2d7d957ebe54a8522d0da132e39588d33fefbad1749b80::treecat::TREECAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/Bkwv0_mxn45ZJn_i?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

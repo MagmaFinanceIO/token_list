@@ -1,0 +1,13 @@
+{
+  "name": "ZAJEBOSHI",
+  "symbol": "ZJBSH",
+  "decimals": 9,
+  "coin_type": "0x8d7f220a9a3a4e27fb2e6756f3547874b2f580188e9d674ba19f69051941c82c::zjbsh::ZJBSH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/af94afcf-6cfb-44db-9f49-43823b86f6f6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

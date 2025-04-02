@@ -1,0 +1,13 @@
+{
+  "name": "MEGA",
+  "symbol": "MEGA",
+  "decimals": 9,
+  "coin_type": "0xfeb996a9ab1955f3531263735e401bae04273d5b45f0171b391ee7971e5ddc16::mega::MEGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO14CbwyaVny0hrn-ohDb0d-tBFAKlGtOA7Q&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

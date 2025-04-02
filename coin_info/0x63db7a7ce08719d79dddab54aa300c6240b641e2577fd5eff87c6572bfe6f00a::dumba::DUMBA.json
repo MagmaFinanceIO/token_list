@@ -1,0 +1,13 @@
+{
+  "name": "DUMB AGENT",
+  "symbol": "DUMBA",
+  "decimals": 6,
+  "coin_type": "0x63db7a7ce08719d79dddab54aa300c6240b641e2577fd5eff87c6572bfe6f00a::dumba::DUMBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/bot_profile_3fdd7a6a26.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

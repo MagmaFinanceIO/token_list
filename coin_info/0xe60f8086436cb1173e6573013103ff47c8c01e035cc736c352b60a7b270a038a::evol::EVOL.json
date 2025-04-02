@@ -1,0 +1,13 @@
+{
+  "name": "Evol by Genesis Program",
+  "symbol": "EVOL",
+  "decimals": 9,
+  "coin_type": "0xe60f8086436cb1173e6573013103ff47c8c01e035cc736c352b60a7b270a038a::evol::EVOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EVQLAwPXiMHwY1xzf8Z3sC8iem4tf9QoRQ51wjg8pLUQ.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

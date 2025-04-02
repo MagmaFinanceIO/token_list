@@ -1,0 +1,13 @@
+{
+  "name": "Elon Tremp SpaceX",
+  "symbol": "ELOTRES",
+  "decimals": 9,
+  "coin_type": "0x0fcc37db75633f0de6caea98fa29b5ddc7231aa98b984341e53516bd35bf31ba::elotres::ELOTRES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7de11e41-c81e-4806-9dcc-14e1ff2119c2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

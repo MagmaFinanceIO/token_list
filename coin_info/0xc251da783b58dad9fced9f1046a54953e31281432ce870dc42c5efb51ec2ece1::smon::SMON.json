@@ -1,0 +1,13 @@
+{
+  "name": "SUILOR MOON",
+  "symbol": "SMON",
+  "decimals": 9,
+  "coin_type": "0xc251da783b58dad9fced9f1046a54953e31281432ce870dc42c5efb51ec2ece1::smon::SMON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ef01aec9-0624-40b0-8eba-6027b3f2d9d1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

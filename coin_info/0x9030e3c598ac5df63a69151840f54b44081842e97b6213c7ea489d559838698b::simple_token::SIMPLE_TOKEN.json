@@ -1,0 +1,13 @@
+{
+  "name": "aipump",
+  "symbol": "AIPUMP",
+  "decimals": 9,
+  "coin_type": "0x9030e3c598ac5df63a69151840f54b44081842e97b6213c7ea489d559838698b::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

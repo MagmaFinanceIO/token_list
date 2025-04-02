@@ -1,0 +1,13 @@
+{
+  "name": "Pisscoin",
+  "symbol": "PISSCOIN",
+  "decimals": 9,
+  "coin_type": "0x64e458dafc8a8671986e6072b8f538786dd0e5d8fbbc6dd121cd3d90d0f4387f::pisscoin::PISSCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FgUeAFvbWdPj3pVPBnQQfdA17w18srsmkb7pEM1Epump.png?size=lg&key=7c5364",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

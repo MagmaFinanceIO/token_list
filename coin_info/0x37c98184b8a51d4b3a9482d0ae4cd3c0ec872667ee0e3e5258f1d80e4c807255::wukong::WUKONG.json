@@ -1,0 +1,13 @@
+{
+  "name": "Wukong",
+  "symbol": "Wukong",
+  "decimals": 9,
+  "coin_type": "0x37c98184b8a51d4b3a9482d0ae4cd3c0ec872667ee0e3e5258f1d80e4c807255::wukong::WUKONG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9b2FQBXgUZTpZk4PNfJa2sNPK3qf6kS4PxnQQmWpoa5E.png?size=lg&key=4ffea8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

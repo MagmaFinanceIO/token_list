@@ -1,0 +1,13 @@
+{
+  "name": "suicat",
+  "symbol": "SUICAT",
+  "decimals": 6,
+  "coin_type": "0x43a26120f3aac18d06f1ee58cfd52a939d7783ceee2ef6210459556b99e4ca21::suicat::SUICAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000015470_0c36a2e885.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

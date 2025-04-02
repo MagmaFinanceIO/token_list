@@ -1,0 +1,13 @@
+{
+  "name": "Sui Goat Whale",
+  "symbol": "whale",
+  "decimals": 9,
+  "coin_type": "0xe9b904c04a037025b6dff97ff5db2b7962ec59db445eea75f5d2fbc21955ea4c::whale::WHALE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1a9927ef-3807-4a9f-8a18-018b4cdac8ed.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

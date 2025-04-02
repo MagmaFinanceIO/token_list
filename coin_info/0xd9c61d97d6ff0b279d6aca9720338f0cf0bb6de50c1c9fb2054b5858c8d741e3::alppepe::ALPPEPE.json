@@ -1,0 +1,13 @@
+{
+  "name": "AlphaPEPE",
+  "symbol": "ALPPEPE",
+  "decimals": 9,
+  "coin_type": "0xd9c61d97d6ff0b279d6aca9720338f0cf0bb6de50c1c9fb2054b5858c8d741e3::alppepe::ALPPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6XSQoKD7oyBjbzFHJx2heeoLWzzSm1dXDoVMEtSfxKbt.png?size=lg&key=ba26ec",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

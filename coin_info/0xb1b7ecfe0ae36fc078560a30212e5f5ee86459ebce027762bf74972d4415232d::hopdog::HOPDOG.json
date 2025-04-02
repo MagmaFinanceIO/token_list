@@ -1,0 +1,13 @@
+{
+  "name": "HopDog",
+  "symbol": "HopDog",
+  "decimals": 6,
+  "coin_type": "0xb1b7ecfe0ae36fc078560a30212e5f5ee86459ebce027762bf74972d4415232d::hopdog::HOPDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSD5znzbTdpfxBFaUqLG95hHAmzV9WqbPut1vSNee8YJv",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

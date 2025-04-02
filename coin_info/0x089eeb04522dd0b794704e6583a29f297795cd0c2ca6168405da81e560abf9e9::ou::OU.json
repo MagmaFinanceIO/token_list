@@ -1,0 +1,13 @@
+{
+  "name": "Ou Ou",
+  "symbol": "Ou",
+  "decimals": 9,
+  "coin_type": "0x089eeb04522dd0b794704e6583a29f297795cd0c2ca6168405da81e560abf9e9::ou::OU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmYsdWTryyCHV4mkY973bn4xPxTmwASAdqXUrfGPR3x7TQ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

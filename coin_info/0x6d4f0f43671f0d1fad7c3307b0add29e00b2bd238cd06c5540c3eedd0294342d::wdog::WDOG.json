@@ -1,0 +1,13 @@
+{
+  "name": "wDOG",
+  "symbol": "wDOG",
+  "decimals": 9,
+  "coin_type": "0x6d4f0f43671f0d1fad7c3307b0add29e00b2bd238cd06c5540c3eedd0294342d::wdog::WDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GYKmdfcUmZVrqfcH1g579BGjuzSRijj3LBuwv79rpump.png?size=lg&key=558dc6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suiquirt",
+  "symbol": "SUIQUIRT",
+  "decimals": 6,
+  "coin_type": "0xbcbcf855702bc7ceb2aef08580d6c23333f8a9b11f8fe64b602a74a2f5ec3c6b::suiquirt::SUIQUIRT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "http://movepump.xyz/uploads/pfp_42e24cd64e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

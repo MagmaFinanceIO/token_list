@@ -1,0 +1,13 @@
+{
+  "name": "GLENN AI",
+  "symbol": "GLENNAI",
+  "decimals": 9,
+  "coin_type": "0xdede90aeddee8952fca51a51a40f38d2016784782e7e20d93973b704a668104f::glennai::GLENNAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0bebf705-2c13-4695-ad2e-531394072848.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

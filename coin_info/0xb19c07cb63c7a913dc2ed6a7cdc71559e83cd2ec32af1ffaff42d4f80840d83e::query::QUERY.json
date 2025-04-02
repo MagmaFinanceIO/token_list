@@ -1,0 +1,13 @@
+{
+  "name": "QUERY",
+  "symbol": "QUERY",
+  "decimals": 9,
+  "coin_type": "0xb19c07cb63c7a913dc2ed6a7cdc71559e83cd2ec32af1ffaff42d4f80840d83e::query::QUERY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4ivEbktXWNt53XDwZfDdHmPtjZgNq7WBPpFofyYE4GDb.png?size=lg&key=439c11",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

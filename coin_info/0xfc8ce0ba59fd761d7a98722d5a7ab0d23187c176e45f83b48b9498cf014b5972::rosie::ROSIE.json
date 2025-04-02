@@ -1,0 +1,13 @@
+{
+  "name": "Rosie the Robot",
+  "symbol": "ROSIE",
+  "decimals": 9,
+  "coin_type": "0xfc8ce0ba59fd761d7a98722d5a7ab0d23187c176e45f83b48b9498cf014b5972::rosie::ROSIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EDHrQBSssKYGNht9FZMhB9zzf52MZaBe4N35iyRgpump.png?size=lg&key=45313a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

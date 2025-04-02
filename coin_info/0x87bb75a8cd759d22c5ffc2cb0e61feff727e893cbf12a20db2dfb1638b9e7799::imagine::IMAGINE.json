@@ -1,0 +1,13 @@
+{
+  "name": "Imagine We All Held",
+  "symbol": "IMAGINE",
+  "decimals": 9,
+  "coin_type": "0x87bb75a8cd759d22c5ffc2cb0e61feff727e893cbf12a20db2dfb1638b9e7799::imagine::IMAGINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4DFHSt7byviLNAjF8TQhxLfXHF1EBjzj8rGzA6tvTefU.png?size=lg&key=0c2787",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUITAMA",
+  "symbol": "STAMA",
+  "decimals": 6,
+  "coin_type": "0xb77a91130facaf94634cdfdfe2b38e7c50058867d5a7eb16880b56efe7f67553::stama::STAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000008158_d5f27d8b30.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

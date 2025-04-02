@@ -1,0 +1,13 @@
+{
+  "name": "Goatseus Poppimus",
+  "symbol": "POPGOAT",
+  "decimals": 6,
+  "coin_type": "0xea004c32b8c9e11863260b243347c099d1ac865cf8a8c7b01c066bb9d0385b0a::popgoat::POPGOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DtWz93pDUZe5cYqBFmZjXq1wzZqZPygCeox5d3ajpump.png?size=lg&key=28efe7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

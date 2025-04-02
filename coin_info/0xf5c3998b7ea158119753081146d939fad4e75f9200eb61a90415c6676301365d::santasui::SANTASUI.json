@@ -1,0 +1,13 @@
+{
+  "name": "Sui Santa",
+  "symbol": "SANTASUI",
+  "decimals": 9,
+  "coin_type": "0xf5c3998b7ea158119753081146d939fad4e75f9200eb61a90415c6676301365d::santasui::SANTASUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HonePAVwnfRenMygx9ppcUK8M5Cn5B42cHhXFFurh6Ff.png?size=lg&key=bfb237",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

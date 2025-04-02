@@ -1,0 +1,13 @@
+{
+  "name": "Sui My Love",
+  "symbol": "SML",
+  "decimals": 6,
+  "coin_type": "0xad68daf1d443d0bd7e93bc9544771955691a2a3161520d3b930d94e2f8b4f71b::sml::SML",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1732282026126.00",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

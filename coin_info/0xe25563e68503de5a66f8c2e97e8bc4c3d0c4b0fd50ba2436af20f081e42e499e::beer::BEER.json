@@ -1,0 +1,13 @@
+{
+  "name": "Sui Beer",
+  "symbol": "BEER",
+  "decimals": 6,
+  "coin_type": "0xe25563e68503de5a66f8c2e97e8bc4c3d0c4b0fd50ba2436af20f081e42e499e::beer::BEER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Beer_3f17e6c9de.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

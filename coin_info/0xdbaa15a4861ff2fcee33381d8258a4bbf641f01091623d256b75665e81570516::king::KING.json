@@ -1,0 +1,13 @@
+{
+  "name": "Golden Lion King",
+  "symbol": "King",
+  "decimals": 9,
+  "coin_type": "0xdbaa15a4861ff2fcee33381d8258a4bbf641f01091623d256b75665e81570516::king::KING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f41a8db7-b140-4424-9271-c6441a5fa98c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

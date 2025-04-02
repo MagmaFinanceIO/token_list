@@ -1,0 +1,13 @@
+{
+  "name": "Jack Suiparrow",
+  "symbol": "SUIPARROW",
+  "decimals": 6,
+  "coin_type": "0xfee5514cea78485320a4585698df13585b080da87ba48b7e0f0bdf98a8fc1393::suiparrow::SUIPARROW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1105_7b805d4b47.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

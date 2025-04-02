@@ -1,0 +1,13 @@
+{
+  "name": "FoxSui",
+  "symbol": "FoxSui",
+  "decimals": 9,
+  "coin_type": "0xe22939d13f7d04e9380e8cc5e34b51cdc02958f81ae0eaea7a98531bc6452398::foxsui::FOXSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a920f5f7-37a7-43a3-a585-8659faa0b769.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

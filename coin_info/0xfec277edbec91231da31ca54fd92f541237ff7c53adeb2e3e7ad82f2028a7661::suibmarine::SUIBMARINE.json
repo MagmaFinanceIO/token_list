@@ -1,0 +1,13 @@
+{
+  "name": "SUIBMARINE",
+  "symbol": "SUIBMARINE",
+  "decimals": 2,
+  "coin_type": "0xfec277edbec91231da31ca54fd92f541237ff7c53adeb2e3e7ad82f2028a7661::suibmarine::SUIBMARINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

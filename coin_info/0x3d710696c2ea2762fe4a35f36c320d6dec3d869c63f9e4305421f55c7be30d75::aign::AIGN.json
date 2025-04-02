@@ -1,0 +1,13 @@
+{
+  "name": "AIGEN",
+  "symbol": "AIGN",
+  "decimals": 0,
+  "coin_type": "0x3d710696c2ea2762fe4a35f36c320d6dec3d869c63f9e4305421f55c7be30d75::aign::AIGN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fabdf30d-bdab-4e74-85fd-ba5654c81ec0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "🟧",
+  "symbol": "Orange",
+  "decimals": 9,
+  "coin_type": "0xe0052bc432f4ef0229d333aeb595f58fab24e858bc56ba703fe0fba60a5dbceb::ORANGE::ORANGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/b6nmFqY/png3.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

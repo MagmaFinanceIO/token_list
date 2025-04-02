@@ -1,0 +1,13 @@
+{
+  "name": "SUI BOT",
+  "symbol": "SUIBOT",
+  "decimals": 9,
+  "coin_type": "0xa74bd63b072f656156b5f5f86bfea24f9c1a0fbe9daaba368757e3da1499e46c::suibot::SUIBOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Doland J Tremp",
+  "symbol": "TREMP",
+  "decimals": 6,
+  "coin_type": "0x3680921ac0086c96c58e7153333260cad6e99071e05cdf691af5500f96fb5e77::tremp::TREMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000003534_8008470c7f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

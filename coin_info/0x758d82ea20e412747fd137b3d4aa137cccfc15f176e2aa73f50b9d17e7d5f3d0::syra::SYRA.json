@@ -1,0 +1,13 @@
+{
+  "name": "Sui Syra",
+  "symbol": "SYRA",
+  "decimals": 6,
+  "coin_type": "0x758d82ea20e412747fd137b3d4aa137cccfc15f176e2aa73f50b9d17e7d5f3d0::syra::SYRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/merm_5a809c5bb0.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BB FUD",
+  "symbol": "BBFUD",
+  "decimals": 6,
+  "coin_type": "0x28c232ea858b5bbc8414c13ac560613fe9c24ee8ee04cfaf76ea8aa4e8cdc081::bbfud::BBFUD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/0x76cb819b01abed502bee8a702b4c2d547532c12f25001c9dea795a5e631c26f1_fud_fud_1_b851bd09da.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

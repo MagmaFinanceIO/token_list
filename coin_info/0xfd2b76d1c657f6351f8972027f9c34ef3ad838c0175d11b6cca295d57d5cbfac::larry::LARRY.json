@@ -1,0 +1,13 @@
+{
+  "name": "Larry the Lobster",
+  "symbol": "LARRY",
+  "decimals": 9,
+  "coin_type": "0xfd2b76d1c657f6351f8972027f9c34ef3ad838c0175d11b6cca295d57d5cbfac::larry::LARRY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cb2d0bc0-c046-45f8-b313-b5e08f3bfdca.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CHEF KIWI",
+  "symbol": "cKIWI",
+  "decimals": 9,
+  "coin_type": "0xef72df4be0726da754932e28433a65dd9d5d03b82d8754c640494ef89abbb2fe::ckiwi::CKIWI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/eaefce2f-9c2b-47a3-b487-60d3a8eb372b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

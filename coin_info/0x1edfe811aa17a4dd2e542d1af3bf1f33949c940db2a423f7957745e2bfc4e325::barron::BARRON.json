@@ -1,0 +1,13 @@
+{
+  "name": "Sui Trump son",
+  "symbol": "Barron",
+  "decimals": 6,
+  "coin_type": "0x1edfe811aa17a4dd2e542d1af3bf1f33949c940db2a423f7957745e2bfc4e325::barron::BARRON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000014691_ea9358cce4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

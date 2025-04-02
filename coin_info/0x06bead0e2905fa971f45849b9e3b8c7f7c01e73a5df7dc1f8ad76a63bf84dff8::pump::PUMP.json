@@ -1,0 +1,13 @@
+{
+  "name": "pump ",
+  "symbol": "PUMP",
+  "decimals": 9,
+  "coin_type": "0x06bead0e2905fa971f45849b9e3b8c7f7c01e73a5df7dc1f8ad76a63bf84dff8::pump::PUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump-image.tucanadev.net/icon/cf1dafa2-34ff-42f8-8f90-72117cafda25_cetus_pump_1732156848.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

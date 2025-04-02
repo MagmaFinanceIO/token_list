@@ -1,0 +1,13 @@
+{
+  "name": "TST Token",
+  "symbol": "TST",
+  "decimals": 6,
+  "coin_type": "0xa3b52897a06fe2cbbcc4ee2cf83d7472da74cb9c864d744b2644d6c205e71d45::tst::TST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Gabe_the_Dog_f6aa0a42f7.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

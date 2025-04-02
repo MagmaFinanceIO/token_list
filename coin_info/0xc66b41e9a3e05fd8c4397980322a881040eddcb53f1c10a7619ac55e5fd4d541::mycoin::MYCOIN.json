@@ -1,0 +1,13 @@
+{
+  "name": "Deep Blue",
+  "symbol": "DEEPBLUE",
+  "decimals": 9,
+  "coin_type": "0xc66b41e9a3e05fd8c4397980322a881040eddcb53f1c10a7619ac55e5fd4d541::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

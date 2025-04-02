@@ -1,0 +1,13 @@
+{
+  "name": "TRUMPER",
+  "symbol": "TRUMPER",
+  "decimals": 2,
+  "coin_type": "0xc929077babeedf08c8befac6f7d4b72b2f24ff207f33ee1b1a301f6879bacc77::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

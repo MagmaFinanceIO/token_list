@@ -1,0 +1,13 @@
+{
+  "name": "Godzilla AI",
+  "symbol": "GODAI",
+  "decimals": 9,
+  "coin_type": "0x1c4fd1782148644998f3146113aac28c0d93bdc3f3a257b6f89548ac099edce8::godai::GODAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5yBRWWaEJar5iUDAS2HyFe67u7PwcDNfoEFfqbsppump.png?size=lg&key=03c575",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

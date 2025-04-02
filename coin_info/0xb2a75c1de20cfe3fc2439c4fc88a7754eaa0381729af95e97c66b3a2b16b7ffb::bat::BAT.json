@@ -1,0 +1,13 @@
+{
+  "name": "BAT Token",
+  "symbol": "BAT",
+  "decimals": 6,
+  "coin_type": "0xb2a75c1de20cfe3fc2439c4fc88a7754eaa0381729af95e97c66b3a2b16b7ffb::bat::BAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreiepkmnmiwdxsvsldfefghfwkr2fzyrtaybfdx5nbmsynbdmppqd6q.ipfs.w3s.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

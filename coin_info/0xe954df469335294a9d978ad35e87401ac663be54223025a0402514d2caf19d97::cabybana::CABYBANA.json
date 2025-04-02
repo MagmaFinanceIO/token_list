@@ -1,0 +1,13 @@
+{
+  "name": "Cabybara Banana",
+  "symbol": "CABYBANA",
+  "decimals": 9,
+  "coin_type": "0xe954df469335294a9d978ad35e87401ac663be54223025a0402514d2caf19d97::cabybana::CABYBANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d37101dd-13a3-4be3-9a46-7d53c312f011.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

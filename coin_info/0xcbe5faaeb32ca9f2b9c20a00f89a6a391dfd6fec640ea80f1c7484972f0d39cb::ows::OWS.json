@@ -1,0 +1,13 @@
+{
+  "name": "OWL ON SUI",
+  "symbol": "OWS",
+  "decimals": 9,
+  "coin_type": "0xcbe5faaeb32ca9f2b9c20a00f89a6a391dfd6fec640ea80f1c7484972f0d39cb::ows::OWS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a1c28cde-9bb9-4855-976a-06065e95d507.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

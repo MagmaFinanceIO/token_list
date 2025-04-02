@@ -1,0 +1,13 @@
+{
+  "name": "Move Pemp",
+  "symbol": "PEMP",
+  "decimals": 9,
+  "coin_type": "0x8e790aa3a5ec2ce875e83b6838512248513b0292c537f90c967c049015deff56::pemp::PEMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/31fc51b0-6600-445f-bce7-ce478e493e07.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

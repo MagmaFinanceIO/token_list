@@ -1,0 +1,13 @@
+{
+  "name": "SU",
+  "symbol": "SU",
+  "decimals": 9,
+  "coin_type": "0x8d1b68ddcaa0aab6872a424cf011a2c601ff84112368b02f382a3e790c98b2d4::su::SU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

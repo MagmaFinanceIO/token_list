@@ -1,0 +1,13 @@
+{
+  "name": "ARENA AI",
+  "symbol": "ARENA",
+  "decimals": 9,
+  "coin_type": "0xd2e26900cd40f03b6c1a4f6b267bfe2d2e2c815554682b1749e20ce7261d4832::arena::ARENA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8r6thGxNwhteXbFeNCx8nC5A1Zsi5EGPiSxeTXjypump.png?size=lg&key=beeb4b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

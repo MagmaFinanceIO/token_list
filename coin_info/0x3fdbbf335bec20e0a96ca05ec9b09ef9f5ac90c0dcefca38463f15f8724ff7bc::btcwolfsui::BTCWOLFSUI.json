@@ -1,0 +1,13 @@
+{
+  "name": "BTC Wolf on SUI",
+  "symbol": "BTCWOLFSUI",
+  "decimals": 9,
+  "coin_type": "0x3fdbbf335bec20e0a96ca05ec9b09ef9f5ac90c0dcefca38463f15f8724ff7bc::btcwolfsui::BTCWOLFSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f2010f49-3ba7-41b0-9650-48adcd03a92e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

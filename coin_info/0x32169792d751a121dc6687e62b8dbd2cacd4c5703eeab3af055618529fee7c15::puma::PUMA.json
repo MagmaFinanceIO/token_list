@@ -1,0 +1,13 @@
+{
+  "name": "PUMP MAN",
+  "symbol": "PUMA",
+  "decimals": 9,
+  "coin_type": "0x32169792d751a121dc6687e62b8dbd2cacd4c5703eeab3af055618529fee7c15::puma::PUMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/bW24Xsz9CO94t_6T?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

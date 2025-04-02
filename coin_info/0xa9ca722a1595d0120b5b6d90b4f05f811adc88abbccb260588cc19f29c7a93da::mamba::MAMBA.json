@@ -1,0 +1,13 @@
+{
+  "name": "Sui Mamba",
+  "symbol": "MAMBA",
+  "decimals": 9,
+  "coin_type": "0xa9ca722a1595d0120b5b6d90b4f05f811adc88abbccb260588cc19f29c7a93da::mamba::MAMBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f28dbcc8-0c76-487b-9d56-5650514344bb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

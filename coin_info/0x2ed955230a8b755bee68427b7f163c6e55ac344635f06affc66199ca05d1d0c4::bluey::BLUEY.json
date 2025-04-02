@@ -1,0 +1,13 @@
+{
+  "name": "Bluey The Dog",
+  "symbol": "Bluey",
+  "decimals": 6,
+  "coin_type": "0x2ed955230a8b755bee68427b7f163c6e55ac344635f06affc66199ca05d1d0c4::bluey::BLUEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/LOGO_01_0e64475930.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Watch AI",
+  "symbol": "WATCH",
+  "decimals": 6,
+  "coin_type": "0x685606417c276aedebe8d4a9dd3a32600bca08fe1d6ae3baab726b7fbbc8eeea::watch::WATCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20250106_001730_076_d998aff380.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

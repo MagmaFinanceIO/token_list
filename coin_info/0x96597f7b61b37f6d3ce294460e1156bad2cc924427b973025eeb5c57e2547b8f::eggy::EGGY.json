@@ -1,0 +1,13 @@
+{
+  "name": "EGGY on SUI",
+  "symbol": "EGGY",
+  "decimals": 6,
+  "coin_type": "0x96597f7b61b37f6d3ce294460e1156bad2cc924427b973025eeb5c57e2547b8f::eggy::EGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20241009_234147_713_1f19590f64.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

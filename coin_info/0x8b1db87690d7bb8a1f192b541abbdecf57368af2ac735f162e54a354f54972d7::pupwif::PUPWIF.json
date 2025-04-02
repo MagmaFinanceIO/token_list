@@ -1,0 +1,13 @@
+{
+  "name": "Puppywifbone",
+  "symbol": "PUPWIF",
+  "decimals": 9,
+  "coin_type": "0x8b1db87690d7bb8a1f192b541abbdecf57368af2ac735f162e54a354f54972d7::pupwif::PUPWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d4751a55-0542-46ed-961a-7d8dc05e5ef7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI BRADZ",
+  "symbol": "SBRADZ",
+  "decimals": 6,
+  "coin_type": "0xddbe067b3e8a229011dba430388d823fc33fecaff779b9cdc21c9eb255448de5::sbradz::SBRADZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20250105_WA_0031_028a2f7208.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

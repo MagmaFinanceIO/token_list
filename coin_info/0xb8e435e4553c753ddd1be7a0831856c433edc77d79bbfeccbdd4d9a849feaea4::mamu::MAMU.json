@@ -1,0 +1,13 @@
+{
+  "name": "Frog King",
+  "symbol": "MAMU",
+  "decimals": 9,
+  "coin_type": "0xb8e435e4553c753ddd1be7a0831856c433edc77d79bbfeccbdd4d9a849feaea4::mamu::MAMU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3xL3v5Q6QiJseKi2R7kZqHhn3B9mK6wVHCWxUohgMY2F.png?size=lg&key=e0fc59",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

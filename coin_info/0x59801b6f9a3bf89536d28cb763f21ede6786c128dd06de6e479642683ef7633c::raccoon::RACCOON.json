@@ -1,0 +1,13 @@
+{
+  "name": "Risky Raccoon",
+  "symbol": "RACCOON",
+  "decimals": 9,
+  "coin_type": "0x59801b6f9a3bf89536d28cb763f21ede6786c128dd06de6e479642683ef7633c::raccoon::RACCOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i0.wp.com/riskyraccoon.com/wp-content/uploads/2024/12/Updated-background-pic-.jpg?w=1024&ssl=1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

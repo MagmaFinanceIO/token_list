@@ -1,0 +1,13 @@
+{
+  "name": "Banana Kaboom",
+  "symbol": "Badaboom",
+  "decimals": 6,
+  "coin_type": "0xe82b1a7f0b1d5697dc160f1b57264c8c68387a39b64bab4a7d4291f19142f5f3::badaboom::BADABOOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_76f1a5bf70.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

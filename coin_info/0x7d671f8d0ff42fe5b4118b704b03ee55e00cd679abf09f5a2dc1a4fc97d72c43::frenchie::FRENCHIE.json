@@ -1,0 +1,13 @@
+{
+  "name": "Cool Frenchie",
+  "symbol": "Frenchie",
+  "decimals": 6,
+  "coin_type": "0x7d671f8d0ff42fe5b4118b704b03ee55e00cd679abf09f5a2dc1a4fc97d72c43::frenchie::FRENCHIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/c2673a93da7691759c8676901f7e563a_6544487612.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

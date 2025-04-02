@@ -1,0 +1,13 @@
+{
+  "name": "Suki",
+  "symbol": "UKI",
+  "decimals": 9,
+  "coin_type": "0xcfdbbbc31da48a749bb64f133b5f8f931de47d4874a197ef0d8ef6319884cdf1::uki::UKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

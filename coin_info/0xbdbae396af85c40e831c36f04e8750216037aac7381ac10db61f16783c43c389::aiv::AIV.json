@@ -1,0 +1,13 @@
+{
+  "name": "Ai Verse",
+  "symbol": "AIV",
+  "decimals": 6,
+  "coin_type": "0xbdbae396af85c40e831c36f04e8750216037aac7381ac10db61f16783c43c389::aiv::AIV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736464078973.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

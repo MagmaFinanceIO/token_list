@@ -1,0 +1,13 @@
+{
+  "name": "Sortuals on Sui",
+  "symbol": "Sortuals",
+  "decimals": 6,
+  "coin_type": "0xfed73d66fda9847643c145b53723a9b0eb6261723209b9320eae6f82e0e8d25a::sortuals::SORTUALS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1_0_1024x836_a3ba936466.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

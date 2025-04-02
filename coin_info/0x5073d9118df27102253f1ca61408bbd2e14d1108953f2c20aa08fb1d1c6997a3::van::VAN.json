@@ -1,0 +1,13 @@
+{
+  "name": "suivan",
+  "symbol": "Van",
+  "decimals": 6,
+  "coin_type": "0x5073d9118df27102253f1ca61408bbd2e14d1108953f2c20aa08fb1d1c6997a3::van::VAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730953869411.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SHUIT",
+  "symbol": "SHT",
+  "decimals": 9,
+  "coin_type": "0x0f017caa604c3d0404e4cea55a3e5ddce3b5d39495c81a7264ade00c01b215e1::sht::SHT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FUntitled_design_0617a03dc6.png&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

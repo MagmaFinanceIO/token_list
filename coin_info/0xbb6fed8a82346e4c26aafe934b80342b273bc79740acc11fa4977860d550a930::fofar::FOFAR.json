@@ -1,0 +1,13 @@
+{
+  "name": "Fofar Gaming On Sui",
+  "symbol": "FOFAR",
+  "decimals": 6,
+  "coin_type": "0xbb6fed8a82346e4c26aafe934b80342b273bc79740acc11fa4977860d550a930::fofar::FOFAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_1_16_b0ef3cc0a9.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Turkey",
+  "symbol": "Turkey",
+  "decimals": 2,
+  "coin_type": "0xf8f8e032616c0960c7da657f867936894880b0203dc21dfc569333a399c04552::turkey::TURKEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5a7da3d6-1faa-440c-bd4c-d2a3312b42b4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

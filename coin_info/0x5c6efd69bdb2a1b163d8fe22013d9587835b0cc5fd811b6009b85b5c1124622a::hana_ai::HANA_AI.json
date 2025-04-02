@@ -1,0 +1,13 @@
+{
+  "name": "Hana Ai",
+  "symbol": "Hana Ai",
+  "decimals": 9,
+  "coin_type": "0x5c6efd69bdb2a1b163d8fe22013d9587835b0cc5fd811b6009b85b5c1124622a::hana_ai::HANA_AI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a1086ac9-2a9d-466e-bc5d-dd863e7a4ebc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

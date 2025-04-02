@@ -1,0 +1,13 @@
+{
+  "name": "Suikita",
+  "symbol": "SUIKITA",
+  "decimals": 6,
+  "coin_type": "0x5cc65c809fd95e2929599aceae8cff1ca61fbd9623831ced5913893ef7e95f6c::suikita::SUIKITA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/sukita92_17710c07dd.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

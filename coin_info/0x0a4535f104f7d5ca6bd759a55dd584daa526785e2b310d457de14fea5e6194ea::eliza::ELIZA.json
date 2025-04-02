@@ -1,0 +1,13 @@
+{
+  "name": "ai16zeliza2",
+  "symbol": "eliza2",
+  "decimals": 9,
+  "coin_type": "0x0a4535f104f7d5ca6bd759a55dd584daa526785e2b310d457de14fea5e6194ea::eliza::ELIZA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/wUtwjNmjCP9TTTtoc5Xn5h5sZ2cYJm5w2w44b79yr2o.png?size=lg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

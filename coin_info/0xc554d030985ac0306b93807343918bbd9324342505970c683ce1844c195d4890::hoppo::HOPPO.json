@@ -1,0 +1,13 @@
+{
+  "name": "Hoppopotamus",
+  "symbol": "Hoppo",
+  "decimals": 6,
+  "coin_type": "0xc554d030985ac0306b93807343918bbd9324342505970c683ce1844c195d4890::hoppo::HOPPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmbyWg4TzUd5SXjEXCtiuednDfKjNRSgaR9kDP4L9ZQiKs",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

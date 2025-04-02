@@ -1,0 +1,13 @@
+{
+  "name": "Garry Corner",
+  "symbol": "GARRY",
+  "decimals": 9,
+  "coin_type": "0x65d4f35cf4c7c76affecda553eec7ac5a2068416e378ddef33fd554b3d573b5f::garry::GARRY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EENevTG5pncwpyH3WH5nPCJpRdcLBVZsfiSdr2Spump.png?size=lg&key=b63b65",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

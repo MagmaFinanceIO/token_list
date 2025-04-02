@@ -1,0 +1,13 @@
+{
+  "name": "New DOGE",
+  "symbol": "NDOGE",
+  "decimals": 9,
+  "coin_type": "0x8186538b014cd144ccc836d1226a7ce06357b3b56e92939fba928dc529ae86e7::ndoge::NDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5yANonrpREHVJEg1KQ8Fm4xRCg2RhETRTUQ2eAuisLHd.png?size=lg&key=426aec",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

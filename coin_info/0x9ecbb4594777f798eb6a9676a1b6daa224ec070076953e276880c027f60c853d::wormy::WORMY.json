@@ -1,0 +1,13 @@
+{
+  "name": "WORMY",
+  "symbol": "WORMY",
+  "decimals": 9,
+  "coin_type": "0x9ecbb4594777f798eb6a9676a1b6daa224ec070076953e276880c027f60c853d::wormy::WORMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://static.vecteezy.com/system/resources/previews/012/070/354/non_2x/worms-from-the-ground-cartoon-free-vector.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

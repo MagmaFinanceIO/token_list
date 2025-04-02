@@ -1,0 +1,13 @@
+{
+  "name": "ChainGPT",
+  "symbol": "CGPT",
+  "decimals": 9,
+  "coin_type": "0xb525c0c0fb34e5ddaa901b2f35e8a48d16a41327312b1dda8b934b6563dafa08::cgpt::CGPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/32ff7249-b5e5-4268-82b3-56a783e3647f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

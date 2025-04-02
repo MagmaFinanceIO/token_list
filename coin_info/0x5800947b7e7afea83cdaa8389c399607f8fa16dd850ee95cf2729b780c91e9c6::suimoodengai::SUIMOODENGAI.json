@@ -1,0 +1,13 @@
+{
+  "name": "SuiMooDengAI",
+  "symbol": "SuiMooDengAI",
+  "decimals": 9,
+  "coin_type": "0x5800947b7e7afea83cdaa8389c399607f8fa16dd850ee95cf2729b780c91e9c6::suimoodengai::SUIMOODENGAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fd7e5407-6616-4c36-9abf-6476d4aa2a74.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

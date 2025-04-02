@@ -1,0 +1,13 @@
+{
+  "name": "Be Like Moo Deng",
+  "symbol": "BLM",
+  "decimals": 9,
+  "coin_type": "0xc590f6fb7fe6db5d408dfc20ee6e2e44c2ac6208aefecf30e7e62ad96422280a::blm::BLM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e3398ab7-201b-4aed-b1ef-ee4f58573ef2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

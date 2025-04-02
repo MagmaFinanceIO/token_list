@@ -1,0 +1,13 @@
+{
+  "name": "Pepsuiman",
+  "symbol": "PEPSUI",
+  "decimals": 9,
+  "coin_type": "0x90b30c5a978ffd6f81c8c5e8561a9fc447eba09210c675b7c4b3aaac2d77aeb0::pepsui::PEPSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/28e7529a-86e1-4465-86fd-3b4852be930a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

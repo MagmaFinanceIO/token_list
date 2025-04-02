@@ -1,0 +1,13 @@
+{
+  "name": "GLOBE WITH MERIDIANS",
+  "symbol": "GLOBEWITHMERIDIANS",
+  "decimals": 6,
+  "coin_type": "0x27e9531852d2405c9dd16ee0edb5864f408e3fef850f760202dfb45731be903c::globewithmeridians::GLOBEWITHMERIDIANS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/globewithmeridians.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

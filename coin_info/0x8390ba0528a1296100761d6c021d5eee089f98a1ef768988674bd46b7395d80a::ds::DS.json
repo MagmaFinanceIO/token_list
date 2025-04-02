@@ -1,0 +1,13 @@
+{
+  "name": "Dogsui",
+  "symbol": "DS",
+  "decimals": 9,
+  "coin_type": "0x8390ba0528a1296100761d6c021d5eee089f98a1ef768988674bd46b7395d80a::ds::DS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/53b49c1d-7e59-4736-a1a1-b5d62a2d9333.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

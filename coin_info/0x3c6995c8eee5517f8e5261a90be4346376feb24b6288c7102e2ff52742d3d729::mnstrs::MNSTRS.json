@@ -1,0 +1,13 @@
+{
+  "name": "Crazy Monsters",
+  "symbol": "MNSTRS",
+  "decimals": 9,
+  "coin_type": "0x3c6995c8eee5517f8e5261a90be4346376feb24b6288c7102e2ff52742d3d729::mnstrs::MNSTRS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aa0a283c-131c-4686-abf4-1770e4c7b32d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

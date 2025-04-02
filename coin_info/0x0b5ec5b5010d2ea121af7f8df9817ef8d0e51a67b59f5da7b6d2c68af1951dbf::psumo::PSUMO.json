@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Sumo On Sui",
+  "symbol": "PSUMO",
+  "decimals": 6,
+  "coin_type": "0x0b5ec5b5010d2ea121af7f8df9817ef8d0e51a67b59f5da7b6d2c68af1951dbf::psumo::PSUMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_1_36_c4232b70dc.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

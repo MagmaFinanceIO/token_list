@@ -1,0 +1,13 @@
+{
+  "name": "Sui Nexus Flow",
+  "symbol": "FLOW",
+  "decimals": 6,
+  "coin_type": "0x11ed9fa5e3a9937814efc696baa7f2dc42680aef2114bdeefba9946928e5b63c::flow::FLOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ea516937-9fed-4f11-9720-74a813407684.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIUSDD",
+  "symbol": "USDD",
+  "decimals": 9,
+  "coin_type": "0xd168d22340e8eb32eb3d39f872d960ec0e14ee77e698faaf7f140d869def8cef::usdd::USDD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.gtokentool.com/1737030829/1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

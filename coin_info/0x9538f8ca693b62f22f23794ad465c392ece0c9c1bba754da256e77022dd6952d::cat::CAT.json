@@ -1,0 +1,13 @@
+{
+  "name": "AI CAT",
+  "symbol": "CAT",
+  "decimals": 6,
+  "coin_type": "0x9538f8ca693b62f22f23794ad465c392ece0c9c1bba754da256e77022dd6952d::cat::CAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000057641_196e798bb3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

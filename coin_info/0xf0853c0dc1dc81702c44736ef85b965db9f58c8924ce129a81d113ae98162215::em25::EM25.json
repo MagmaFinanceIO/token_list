@@ -1,0 +1,13 @@
+{
+  "name": "Elontavius Musk",
+  "symbol": "EM25",
+  "decimals": 9,
+  "coin_type": "0xf0853c0dc1dc81702c44736ef85b965db9f58c8924ce129a81d113ae98162215::em25::EM25",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8ZZStsTDM14baZNiiJGdbAzcFfG3pQ8FtEkijFrGpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

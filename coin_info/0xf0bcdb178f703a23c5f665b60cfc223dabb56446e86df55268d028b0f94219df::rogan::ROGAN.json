@@ -1,0 +1,13 @@
+{
+  "name": "Joe Rogan Experience",
+  "symbol": "Rogan",
+  "decimals": 9,
+  "coin_type": "0xf0bcdb178f703a23c5f665b60cfc223dabb56446e86df55268d028b0f94219df::rogan::ROGAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "LUrd0YJVCRjiesWY",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

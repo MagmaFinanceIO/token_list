@@ -1,0 +1,13 @@
+{
+  "name": "Apple Dog",
+  "symbol": "DOGA",
+  "decimals": 9,
+  "coin_type": "0xb19e62b12de938f51de6612892410b648b26f343b427c25d4bc6fa19972be739::doga::DOGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/1PeYFmc663NYbEW7Mc8XdyrTzSJLrDE58Bawtx7pump.png?size=lg&key=a192eb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

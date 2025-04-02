@@ -1,0 +1,13 @@
+{
+  "name": "MJYU",
+  "symbol": "MJYU",
+  "decimals": 9,
+  "coin_type": "0x7c717f729e4af836659a4e4bc22ac77fdcbb6828250a8a5814e97f98a0f72130::mjyu::MJYU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HheTmXNNkrzN78Qsyz6obfGSL1HvFttG7FU5fok3pump.png?size=lg&key=282918",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

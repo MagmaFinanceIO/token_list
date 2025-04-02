@@ -1,0 +1,13 @@
+{
+  "name": "weimar",
+  "symbol": "weimar",
+  "decimals": 9,
+  "coin_type": "0xced6c3df250bb89aaecaf3b930327310b485ff76cec04eae66634bb87b077087::weimar::WEIMAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HAMSTER",
+  "symbol": "HAMSTER SUI",
+  "decimals": 6,
+  "coin_type": "0x7324b14981e3b9077a0d1937110660848654b2eea78d2d4ed9540a7ed25e3d14::hamster::HAMSTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://beige-shocked-dinosaur-182.mypinata.cloud/ipfs/QmPb5oNc7vupEoW23XRiZEJdLms7zD86qEuLrdZ4M4MkZC",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

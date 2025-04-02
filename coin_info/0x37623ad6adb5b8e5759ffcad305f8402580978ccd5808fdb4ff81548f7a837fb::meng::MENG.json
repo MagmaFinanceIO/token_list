@@ -1,0 +1,13 @@
+{
+  "name": "Meng Chong",
+  "symbol": "MENG",
+  "decimals": 9,
+  "coin_type": "0x37623ad6adb5b8e5759ffcad305f8402580978ccd5808fdb4ff81548f7a837fb::meng::MENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmawiBvDW3vcsBRTvhoSSXkYKXHxzjW9q5wjuzvwQEgrFv",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

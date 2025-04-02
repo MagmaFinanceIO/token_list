@@ -1,0 +1,13 @@
+{
+  "name": "Based Duck",
+  "symbol": "BDUCK",
+  "decimals": 6,
+  "coin_type": "0x6e9eba42397e9e349f9c95df374b7c3e2be65b1683f613362e00d12a4dfda7f2::bduck::BDUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/123123_removebg_preview_34cd1d9e42.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

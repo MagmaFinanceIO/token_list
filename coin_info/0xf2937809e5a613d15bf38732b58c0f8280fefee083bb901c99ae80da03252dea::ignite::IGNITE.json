@@ -1,0 +1,13 @@
+{
+  "name": "Ignite International",
+  "symbol": "IGNITE",
+  "decimals": 9,
+  "coin_type": "0xf2937809e5a613d15bf38732b58c0f8280fefee083bb901c99ae80da03252dea::ignite::IGNITE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Dan5toMnR92GZSTfz8zPubw5qWmcZfNfmJQRKTdboQsY.png?size=lg&key=38bf3d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

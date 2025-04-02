@@ -1,0 +1,13 @@
+{
+  "name": "BONECOIN",
+  "symbol": "BONECOIN",
+  "decimals": 9,
+  "coin_type": "0xe9dabfeffcc5e8ba1d4deae1ae5d9fb4268ef003300dd2965b2648a6a11a775f::bonecoin::BONECOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BjCmA9ZYwJ1BwusMGaSxe4pgaa9gfXTtdyX27NYEpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

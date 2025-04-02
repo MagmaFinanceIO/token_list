@@ -1,0 +1,13 @@
+{
+  "name": "Lola on Sui",
+  "symbol": "LOLA",
+  "decimals": 6,
+  "coin_type": "0xf8a427221c524444f2f7aea9c65fc3a50423170259ee0bfffc1e505513a61031::lola::LOLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/190108144_306220441059181_2063770929823882151_n_02977397e5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

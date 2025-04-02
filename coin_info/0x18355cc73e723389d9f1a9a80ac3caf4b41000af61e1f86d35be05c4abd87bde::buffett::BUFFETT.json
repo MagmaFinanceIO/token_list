@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL BUFFETT COIN",
+  "symbol": "BUFFETT",
+  "decimals": 9,
+  "coin_type": "0x18355cc73e723389d9f1a9a80ac3caf4b41000af61e1f86d35be05c4abd87bde::buffett::BUFFETT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmNXjscKfnuhxxkDYK2MbFJ8KDEm7kzTVG18ELzSRThQ4p",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PPButt",
+  "symbol": "PPButt",
+  "decimals": 9,
+  "coin_type": "0xbe643431d55022e6d48329ddde73a8dac665a603507dbb4fa5aa39eac435b78f::ppbutt::PPBUTT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5xmiEcqZTFzuYbMJ5Yo2pBacoQMb22qJ7mUi2zpzpump.png?size=lg&key=963ded",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

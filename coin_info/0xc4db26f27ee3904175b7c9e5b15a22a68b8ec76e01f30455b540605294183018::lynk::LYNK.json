@@ -1,0 +1,13 @@
+{
+  "name": "Lynk Coin",
+  "symbol": "LYNK",
+  "decimals": 9,
+  "coin_type": "0xc4db26f27ee3904175b7c9e5b15a22a68b8ec76e01f30455b540605294183018::lynk::LYNK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BfxhMerBkBhRUGn4tX5YrBRqLqN8VjvUXHhU7K9Fpump.png?size=lg&key=08275b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

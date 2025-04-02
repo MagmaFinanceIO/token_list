@@ -1,0 +1,13 @@
+{
+  "name": "Yippie",
+  "symbol": "YIPPIE",
+  "decimals": 6,
+  "coin_type": "0xdd19f2c1f64d31de6ed5b75d217b904d690be65c36defbb9eb7f11f65f2f8aeb::yippie::YIPPIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/n0_Gvh_TE_400x400_c5ee8874be.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

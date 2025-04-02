@@ -1,0 +1,13 @@
+{
+  "name": "DogAstronaut On Sui",
+  "symbol": "DNAUT",
+  "decimals": 6,
+  "coin_type": "0x5da1502c73a4cfe45ee715a4e980f70fe6a46df96e87b03b07af231fbefc2337::dnaut::DNAUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000002146_b84568de75.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

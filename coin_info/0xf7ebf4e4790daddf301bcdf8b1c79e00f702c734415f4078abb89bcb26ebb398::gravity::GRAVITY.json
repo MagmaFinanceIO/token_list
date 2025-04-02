@@ -1,0 +1,13 @@
+{
+  "name": "Gravity Falls",
+  "symbol": "GRAVITY",
+  "decimals": 9,
+  "coin_type": "0xf7ebf4e4790daddf301bcdf8b1c79e00f702c734415f4078abb89bcb26ebb398::gravity::GRAVITY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AaExTY5dQSRRBf7N5jR27uS2UquPsbncNPRReoBBpump.png?size=lg&key=25cea9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

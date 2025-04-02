@@ -1,0 +1,13 @@
+{
+  "name": "Escudo",
+  "symbol": "Esc",
+  "decimals": 9,
+  "coin_type": "0x42fe55f212a5b77279a46b7838de6e013ee149b6600c51e84626abaa6e47fc9f::esc::ESC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cb52e418-477e-49dd-8964-d0b3825b49d0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

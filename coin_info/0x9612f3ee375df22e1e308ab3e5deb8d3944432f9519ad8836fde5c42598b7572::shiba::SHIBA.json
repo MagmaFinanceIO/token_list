@@ -1,0 +1,13 @@
+{
+  "name": "Shiba Inu",
+  "symbol": "shiba",
+  "decimals": 9,
+  "coin_type": "0x9612f3ee375df22e1e308ab3e5deb8d3944432f9519ad8836fde5c42598b7572::shiba::SHIBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aa337b33-f490-4aac-888a-3cc2a1e48dfd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

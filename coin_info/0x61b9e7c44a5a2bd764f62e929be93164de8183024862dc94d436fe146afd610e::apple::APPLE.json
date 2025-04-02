@@ -1,0 +1,13 @@
+{
+  "name": "Apple",
+  "symbol": "APPLE",
+  "decimals": 9,
+  "coin_type": "0x61b9e7c44a5a2bd764f62e929be93164de8183024862dc94d436fe146afd610e::apple::APPLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b701ce4d-430e-4724-bfd1-6e83b6c6a6cb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

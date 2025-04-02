@@ -1,0 +1,13 @@
+{
+  "name": "Meowth Millions",
+  "symbol": "MEOWTHMILLIONS",
+  "decimals": 9,
+  "coin_type": "0x7cb4aa321907d02d695ddff4401cfb7a740bcfe2f65ac5ed50c04eb824f633a7::MEOWTHMILLIONS::MEOWTHMILLIONS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5455e602-8557-49ac-a882-5c07fcaefd87.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

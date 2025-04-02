@@ -1,0 +1,13 @@
+{
+  "name": "Hoper",
+  "symbol": "HOPER",
+  "decimals": 6,
+  "coin_type": "0xdaf20a4d79f04494c407657595d9a285635b1fc2f11d6d50daa9baf7820aab57::hoper::HOPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/hoper1_d4cd85ea1f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ghostbusters",
+  "symbol": "GHOST",
+  "decimals": 6,
+  "coin_type": "0xb28dd39e55f54e81a817dd704b29eb19117f13a6084821a8073663bd894fc775::ghost::GHOST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmdYVstP8gYJ9qcT6LvuNtaXUXd1oemkKPfvxi8XNBNQm9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

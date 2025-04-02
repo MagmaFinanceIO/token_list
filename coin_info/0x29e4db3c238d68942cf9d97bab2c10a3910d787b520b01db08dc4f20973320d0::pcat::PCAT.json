@@ -1,0 +1,13 @@
+{
+  "name": "Pixel Cat",
+  "symbol": "PCAT",
+  "decimals": 6,
+  "coin_type": "0x29e4db3c238d68942cf9d97bab2c10a3910d787b520b01db08dc4f20973320d0::pcat::PCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "http://movepump.xyz/uploads/a_ae_a_c_20240925023727_e2b3d81d40.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

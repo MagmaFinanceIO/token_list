@@ -1,0 +1,13 @@
+{
+  "name": "Megamind on Sui",
+  "symbol": "Megamind",
+  "decimals": 6,
+  "coin_type": "0x49d78eb24464ab95817a7feb1569a877607bff850060be9126fbcde1b48f0728::megamind::MEGAMIND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Megamind_e5892ae827.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pump Penguin",
+  "symbol": "PPENG",
+  "decimals": 9,
+  "coin_type": "0x8eda2713195af72c00f8ce150415d5c3e422cdeb09f6f7b40d4d731f522f480f::ppeng::PPENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/90a24618-02e5-4b98-907b-7031b6f25c90.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

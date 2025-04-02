@@ -1,0 +1,13 @@
+{
+  "name": "PEPEPIG ON SUI",
+  "symbol": "PEPEPIG",
+  "decimals": 9,
+  "coin_type": "0x41c0ab9f800db151d657529f64f5a5fa7002bec63bc2a9c75edbe7e2094f1735::pepepig::PEPEPIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f0869857-294e-4c8d-8be3-0fdd8c8ab3d9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

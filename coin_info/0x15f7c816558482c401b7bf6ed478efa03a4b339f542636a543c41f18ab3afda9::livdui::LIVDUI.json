@@ -1,0 +1,13 @@
+{
+  "name": "LIVE DUI",
+  "symbol": "Livdui",
+  "decimals": 6,
+  "coin_type": "0x15f7c816558482c401b7bf6ed478efa03a4b339f542636a543c41f18ab3afda9::livdui::LIVDUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736561615148.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

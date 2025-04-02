@@ -1,0 +1,13 @@
+{
+  "name": "Shifu",
+  "symbol": "SHIFU",
+  "decimals": 2,
+  "coin_type": "0x137e759935897cfd6d3021c17b6b3b2fc299d90e0dad75f79551ef555ff3ddc5::SHIFU::SHIFU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/qHLvWEi_z41h4JcyJtMvUq1gLid6QEkZZqaIIcoruv8?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

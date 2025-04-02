@@ -1,0 +1,13 @@
+{
+  "name": "Betty",
+  "symbol": "Betty",
+  "decimals": 9,
+  "coin_type": "0x9c40aa79f338131888b15b5ac088998448ffaff8e8b07ca7eabfb9685acf9880::betty::BETTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0xddd1ff57ba027c6fee2c97a49d56d1aed9c076d5.png?size=lg&key=882233",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "WSTREET PEPE ELON",
+  "symbol": "WEPE",
+  "decimals": 9,
+  "coin_type": "0x50e67f46a0945295bbed98496e2af78c2ad4a94437db9ab68b0163f9dd9ffdad::wepe::WEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/50b4569d-9e9b-4130-b7eb-2bf80bbc20f0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

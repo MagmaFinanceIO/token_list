@@ -1,0 +1,13 @@
+{
+  "name": "MINMIN",
+  "symbol": "MINMIN",
+  "decimals": 9,
+  "coin_type": "0x9647448ed166da97e474eeecdab3e45ba23fc782f4324c267975399bc3f07541::minmin::MINMIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6Lqx1LrLtqB7XeWwNzKMYCNWH3aM82CUb1RRtGgTpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Wonky Frog",
+  "symbol": "WONKY",
+  "decimals": 9,
+  "coin_type": "0xd2f86c03770a348c35e0f8f708d466060db30a4e8270d3ed11b6e6bdd955f228::wonky::WONKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DnftPBZcCE8iVp7e1FjJdS6GYFdyBZJ2nSvyhwQWk68Y.png?size=lg&key=374a85",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

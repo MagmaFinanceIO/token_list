@@ -1,0 +1,13 @@
+{
+  "name": "Monica",
+  "symbol": "MONICA",
+  "decimals": 9,
+  "coin_type": "0xe78127becebfdc9a2f700689825c574ecea0e202aeda9440c11afc8d1e9c8751::monica::MONICA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmYqUE28yPDj9kGerREgNwaexUbtTmbucQFqsQNWzcin81",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

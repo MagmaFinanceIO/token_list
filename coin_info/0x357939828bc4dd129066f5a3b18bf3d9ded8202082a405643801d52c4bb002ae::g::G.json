@@ -1,0 +1,13 @@
+{
+  "name": "Andrew Tate's Dog",
+  "symbol": "G",
+  "decimals": 9,
+  "coin_type": "0x357939828bc4dd129066f5a3b18bf3d9ded8202082a405643801d52c4bb002ae::g::G",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4ac3cc50-a145-40f6-ab7b-6398a0f44ff9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

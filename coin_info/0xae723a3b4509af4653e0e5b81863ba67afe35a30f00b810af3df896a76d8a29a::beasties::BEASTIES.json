@@ -1,0 +1,13 @@
+{
+  "name": "Beasties",
+  "symbol": "Beasties",
+  "decimals": 9,
+  "coin_type": "0xae723a3b4509af4653e0e5b81863ba67afe35a30f00b810af3df896a76d8a29a::beasties::BEASTIES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ac51cb65-80c8-44e6-aa52-dde47b93aa0a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

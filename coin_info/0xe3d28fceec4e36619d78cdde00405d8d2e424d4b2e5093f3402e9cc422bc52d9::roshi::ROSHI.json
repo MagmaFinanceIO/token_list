@@ -1,0 +1,13 @@
+{
+  "name": "Master Roshi",
+  "symbol": "ROSHI",
+  "decimals": 9,
+  "coin_type": "0xe3d28fceec4e36619d78cdde00405d8d2e424d4b2e5093f3402e9cc422bc52d9::roshi::ROSHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/079/814/334/large/xai-tbrender001-viewport.jpg?1725899994",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

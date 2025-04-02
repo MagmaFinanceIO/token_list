@@ -1,0 +1,13 @@
+{
+  "name": "SuiSpin",
+  "symbol": "SPIN",
+  "decimals": 6,
+  "coin_type": "0x8945924ce48190a77827a52ff0e66fd072b11dfda0c835de8d557b6f09613d30::spin::SPIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suispin_logo_d5b6c23293.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

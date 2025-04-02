@@ -1,0 +1,13 @@
+{
+  "name": "SQUID SUI AI",
+  "symbol": "SQAI",
+  "decimals": 9,
+  "coin_type": "0x3d622af062f24de4aec96a96b85765bdedd3a4d99cf4cd19841a03d556bb3dc1::sqai::SQAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8c54db1e-7888-4f39-ba32-02996e7c9817.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

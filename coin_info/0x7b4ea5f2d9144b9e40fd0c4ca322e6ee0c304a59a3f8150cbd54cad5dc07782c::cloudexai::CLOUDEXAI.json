@@ -1,0 +1,13 @@
+{
+  "name": "CLOUDEX AI",
+  "symbol": "CLOUDEXAI",
+  "decimals": 9,
+  "coin_type": "0x7b4ea5f2d9144b9e40fd0c4ca322e6ee0c304a59a3f8150cbd54cad5dc07782c::cloudexai::CLOUDEXAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FvEg6RNREcLqicJLTKNeKFyTpvqDc9XyfefF3S6Upump.png?size=lg&key=681e7d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

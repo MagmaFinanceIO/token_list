@@ -1,0 +1,13 @@
+{
+  "name": "NEURATECH",
+  "symbol": "NEURAI",
+  "decimals": 6,
+  "coin_type": "0xa219d42444fdb2ef8e2c2f5636b19b0d8e6e404e4fdf9312219218744281ff6e::neurai::NEURAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/neuratech_12fdcb2600.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

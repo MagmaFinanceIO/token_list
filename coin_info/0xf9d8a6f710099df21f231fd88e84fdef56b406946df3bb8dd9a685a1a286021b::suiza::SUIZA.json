@@ -1,0 +1,13 @@
+{
+  "name": "SZA on Sui",
+  "symbol": "SUIZA",
+  "decimals": 9,
+  "coin_type": "0xf9d8a6f710099df21f231fd88e84fdef56b406946df3bb8dd9a685a1a286021b::suiza::SUIZA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f1c3aa36-1514-4516-b463-9cd23ecdb8e8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

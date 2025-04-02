@@ -1,0 +1,13 @@
+{
+  "name": "UNIC",
+  "symbol": "UNIC",
+  "decimals": 8,
+  "coin_type": "0x3a7ae500ce0697c298673add28ac02377e8fa29b7f7ec4b8e3a628f9d4e4a92a::unic::UNIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0dcb367a-17ca-4eed-9260-8cd8c6133640.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

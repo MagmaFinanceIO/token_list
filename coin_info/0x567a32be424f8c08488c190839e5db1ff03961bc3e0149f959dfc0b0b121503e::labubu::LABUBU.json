@@ -1,0 +1,13 @@
+{
+  "name": "Labubu",
+  "symbol": "LABUBU",
+  "decimals": 6,
+  "coin_type": "0x567a32be424f8c08488c190839e5db1ff03961bc3e0149f959dfc0b0b121503e::labubu::LABUBU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/received_807748938047650_10f25de8f2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

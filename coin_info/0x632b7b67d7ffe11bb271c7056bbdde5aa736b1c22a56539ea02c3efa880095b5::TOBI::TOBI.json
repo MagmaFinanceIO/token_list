@@ -1,0 +1,13 @@
+{
+  "name": "tobi",
+  "symbol": "tobi",
+  "decimals": 9,
+  "coin_type": "0x632b7b67d7ffe11bb271c7056bbdde5aa736b1c22a56539ea02c3efa880095b5::TOBI::TOBI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HPueqQjSgaSatMBKrvBvAnRmc6jnr51cPM1EjUJVpump.png?size=xl&key=71fb50",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

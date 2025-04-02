@@ -1,0 +1,13 @@
+{
+  "name": "Rigby On Sui",
+  "symbol": "Rigby",
+  "decimals": 6,
+  "coin_type": "0x7a909eb6c042c3adc45fc2308819e91099814264099b5f5c3051bcc481181011::rigby::RIGBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Tokenomic_Img2_399e3cc3_1_c8f985d656.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

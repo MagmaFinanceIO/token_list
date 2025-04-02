@@ -1,0 +1,13 @@
+{
+  "name": "Freysa AI",
+  "symbol": "Freysa",
+  "decimals": 9,
+  "coin_type": "0x34c51c7724bc0e54dea67e3495d35b771a19048c27e57c58ac1cef227402a936::freysa::FREYSA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Gsc8YTsVwGUUMxkq4Ndc3CmaTTZSncMU8YAXNoD4AYTp.png?size=lg&key=2f26b7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

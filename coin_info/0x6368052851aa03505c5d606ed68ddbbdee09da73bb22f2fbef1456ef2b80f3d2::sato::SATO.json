@@ -1,0 +1,13 @@
+{
+  "name": "SATOSHIPHIA",
+  "symbol": "SATO",
+  "decimals": 9,
+  "coin_type": "0x6368052851aa03505c5d606ed68ddbbdee09da73bb22f2fbef1456ef2b80f3d2::sato::SATO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x2797ef622d33aec90690dd924c061844ea2412b9.png?size=lg&key=a04ce5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

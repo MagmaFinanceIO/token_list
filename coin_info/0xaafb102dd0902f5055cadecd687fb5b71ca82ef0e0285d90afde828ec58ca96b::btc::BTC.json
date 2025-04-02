@@ -1,0 +1,15 @@
+{
+  "name": "Wrapped Bitcoin by Sui Bridge",
+  "symbol": "wBTC",
+  "decimals": 8,
+  "coin_type": "0xaafb102dd0902f5055cadecd687fb5b71ca82ef0e0285d90afde828ec58ca96b::btc::BTC",
+  "pyth_id": "",
+  "birdeyeid": "0xaafb102dd0902f5055cadecd687fb5b71ca82ef0e0285d90afde828ec58ca96b::btc::BTC",
+  "coin_priority": [
+    "889"
+  ],
+  "logo_url": "https://bridge-assets.sui.io/suiWBTC.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

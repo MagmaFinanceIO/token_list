@@ -1,0 +1,13 @@
+{
+  "name": "Keep it shrimple",
+  "symbol": "Shrimp",
+  "decimals": 9,
+  "coin_type": "0xb48726655a56a6050544d512283a2607a831f1a2e579afb8ab47f5dcd5b0da1b::shrimp::SHRIMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmV1pDhythwJvAKpQvt7g7hySP7ZWCoq8Sz4tPkQe31QR7?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

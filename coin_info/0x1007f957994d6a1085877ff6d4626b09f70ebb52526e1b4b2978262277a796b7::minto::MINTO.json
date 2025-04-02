@@ -1,0 +1,13 @@
+{
+  "name": "Minto",
+  "symbol": "Minto",
+  "decimals": 9,
+  "coin_type": "0x1007f957994d6a1085877ff6d4626b09f70ebb52526e1b4b2978262277a796b7::minto::MINTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CBzJKfJjgvBqeP9KyaXpqQqhP3sYBDST8Lay9P1QKSUD.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

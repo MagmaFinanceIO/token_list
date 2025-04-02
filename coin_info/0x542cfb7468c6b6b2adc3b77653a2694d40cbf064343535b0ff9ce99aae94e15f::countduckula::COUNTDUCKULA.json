@@ -1,0 +1,13 @@
+{
+  "name": "COUNT DUCKULA",
+  "symbol": "COUNT DUCKULA",
+  "decimals": 6,
+  "coin_type": "0x542cfb7468c6b6b2adc3b77653a2694d40cbf064343535b0ff9ce99aae94e15f::countduckula::COUNTDUCKULA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/509249b8-b07d-45f4-bdb3-565103e31420.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

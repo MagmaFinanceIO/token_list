@@ -1,0 +1,13 @@
+{
+  "name": "Slopfather",
+  "symbol": "FATHA",
+  "decimals": 9,
+  "coin_type": "0xcc43af1e88b99df818cf9b0e202e5c257bc6795d62cc3e099feae826d1c859b6::fatha::FATHA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmXgAFbdNsWeRsU272vCEedogxMmvVHRPExHzpQSxCZRca",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sniper Brett",
+  "symbol": "Brett",
+  "decimals": 9,
+  "coin_type": "0x078ce879ae1f33d0d0dd9c9e3475c43919b7b97952aebeaf5da998d8bce0aaa0::brett::BRETT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/32975817-be98-4b0b-aa48-66472bc72f4e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

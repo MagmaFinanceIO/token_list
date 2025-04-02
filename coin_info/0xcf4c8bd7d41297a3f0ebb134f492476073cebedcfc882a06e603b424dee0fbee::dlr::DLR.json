@@ -1,0 +1,13 @@
+{
+  "name": "Dilerium",
+  "symbol": "DLR",
+  "decimals": 6,
+  "coin_type": "0xcf4c8bd7d41297a3f0ebb134f492476073cebedcfc882a06e603b424dee0fbee::dlr::DLR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000643_4055e15022.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

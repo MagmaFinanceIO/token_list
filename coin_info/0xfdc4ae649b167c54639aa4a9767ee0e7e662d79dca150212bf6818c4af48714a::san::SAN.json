@@ -1,0 +1,13 @@
+{
+  "name": "San Chan",
+  "symbol": "San",
+  "decimals": 9,
+  "coin_type": "0xfdc4ae649b167c54639aa4a9767ee0e7e662d79dca150212bf6818c4af48714a::san::SAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmWDv4SzGZ6qJDSEtRFS9wKCcR8eiS27iQ8nFcL5McdpuW",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

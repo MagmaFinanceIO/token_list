@@ -1,0 +1,13 @@
+{
+  "name": "Jeffcoin",
+  "symbol": "Jeff",
+  "decimals": 6,
+  "coin_type": "0xaaf6e89aa9a2737ac7871dd83b7c0e7a26efe34f795e181bc670718fc3b601bd::jeff::JEFF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000008200_359c0390a2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

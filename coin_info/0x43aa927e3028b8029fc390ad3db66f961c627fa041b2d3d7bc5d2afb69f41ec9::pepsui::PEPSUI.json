@@ -1,0 +1,13 @@
+{
+  "name": "Pepsui",
+  "symbol": "PEPSUI",
+  "decimals": 6,
+  "coin_type": "0x43aa927e3028b8029fc390ad3db66f961c627fa041b2d3d7bc5d2afb69f41ec9::pepsui::PEPSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_10_21_51_30_b54765e59a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

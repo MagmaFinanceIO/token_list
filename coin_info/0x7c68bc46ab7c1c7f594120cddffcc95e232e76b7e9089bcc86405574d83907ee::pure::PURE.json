@@ -1,0 +1,13 @@
+{
+  "name": "PURE",
+  "symbol": "PURE",
+  "decimals": 9,
+  "coin_type": "0x7c68bc46ab7c1c7f594120cddffcc95e232e76b7e9089bcc86405574d83907ee::pure::PURE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/edff0aac-6572-4a3a-b826-30a6a4345094.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

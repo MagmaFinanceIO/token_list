@@ -1,0 +1,13 @@
+{
+  "name": "Sui Womy",
+  "symbol": "WOMY",
+  "decimals": 9,
+  "coin_type": "0xdc241891bb0622a60ef3b878c715dbfc1ed79dd67fccc1ffa81de96a2957f329::womy::WOMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/63548b04-4b08-4f0a-b7f9-cbcfc023aa27.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

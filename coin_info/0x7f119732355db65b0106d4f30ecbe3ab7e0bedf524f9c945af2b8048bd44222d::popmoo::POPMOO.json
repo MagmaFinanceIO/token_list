@@ -1,0 +1,13 @@
+{
+  "name": "POP MOO DENG",
+  "symbol": "POPMOO",
+  "decimals": 9,
+  "coin_type": "0x7f119732355db65b0106d4f30ecbe3ab7e0bedf524f9c945af2b8048bd44222d::popmoo::POPMOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7429874b-a76b-4352-89cb-fac61ca59fb3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

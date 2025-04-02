@@ -1,0 +1,13 @@
+{
+  "name": "Tuna Turner",
+  "symbol": "TUNA",
+  "decimals": 6,
+  "coin_type": "0x006c2b28068e3b7aa1394c723dd09b49128723778ae3933aa6a1451c8cfbb543::tuna::TUNA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_9422_1b0a3d6418.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

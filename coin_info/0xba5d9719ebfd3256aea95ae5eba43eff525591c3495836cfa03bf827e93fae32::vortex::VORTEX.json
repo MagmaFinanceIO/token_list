@@ -1,0 +1,13 @@
+{
+  "name": "VORTEX SUI",
+  "symbol": "VORTEX",
+  "decimals": 6,
+  "coin_type": "0xba5d9719ebfd3256aea95ae5eba43eff525591c3495836cfa03bf827e93fae32::vortex::VORTEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_23_7abeec6f52.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

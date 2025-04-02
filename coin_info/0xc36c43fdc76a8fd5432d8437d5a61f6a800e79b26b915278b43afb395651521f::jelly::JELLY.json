@@ -1,0 +1,13 @@
+{
+  "name": "Jellyfish",
+  "symbol": "JELLY",
+  "decimals": 6,
+  "coin_type": "0xc36c43fdc76a8fd5432d8437d5a61f6a800e79b26b915278b43afb395651521f::jelly::JELLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmdR2uB1NC5gFjMMFZXVCJbnmejCXrNWCtsu4w9HnhZJxH",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

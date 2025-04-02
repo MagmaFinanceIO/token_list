@@ -1,0 +1,13 @@
+{
+  "name": "SnugglyUi",
+  "symbol": "SNGUI",
+  "decimals": 6,
+  "coin_type": "0x840bc6e0ace6985a570ed3794e96877c7dd476437b73b9ea28b3bbc54b7b5eeb::sngui::SNGUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmZ45Hb6wKvJ9S11e11HFfSCDymT5ayLehoLQFcuKhm9R4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "The Suiman",
+  "symbol": "SUIMAN",
+  "decimals": 6,
+  "coin_type": "0xaa2e5ca8621707d7ddaf3340c29fc39be74cc021182b98a78588739cb784ea63::suiman::SUIMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/The_Suiman_e32ddae1b7.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

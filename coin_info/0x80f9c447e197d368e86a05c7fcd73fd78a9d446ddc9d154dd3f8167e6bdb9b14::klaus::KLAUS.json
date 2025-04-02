@@ -1,0 +1,13 @@
+{
+  "name": "Klaus on Sui",
+  "symbol": "KLAUS",
+  "decimals": 2,
+  "coin_type": "0x80f9c447e197d368e86a05c7fcd73fd78a9d446ddc9d154dd3f8167e6bdb9b14::klaus::KLAUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a18dd2f2-3532-4db5-82b6-5094cf2e5af1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

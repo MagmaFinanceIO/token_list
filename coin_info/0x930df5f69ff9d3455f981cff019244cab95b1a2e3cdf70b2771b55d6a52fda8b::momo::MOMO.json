@@ -1,0 +1,13 @@
+{
+  "name": "momo",
+  "symbol": "MOMO",
+  "decimals": 6,
+  "coin_type": "0x930df5f69ff9d3455f981cff019244cab95b1a2e3cdf70b2771b55d6a52fda8b::momo::MOMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736861913017.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

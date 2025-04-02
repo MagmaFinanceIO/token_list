@@ -1,0 +1,13 @@
+{
+  "name": "Socky",
+  "symbol": "SOCKY",
+  "decimals": 6,
+  "coin_type": "0x1e44ecac5dcfb39cc26473ee56cab4dd5c54e0953ba0b894808e0a5d4764a38e::socky::SOCKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/iuz_QA_Qg_L_400x400_4ba33c509b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

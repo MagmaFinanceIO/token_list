@@ -1,0 +1,13 @@
+{
+  "name": "JUST APE",
+  "symbol": "JUSTAPE",
+  "decimals": 9,
+  "coin_type": "0x0699696f4b169728b295e80f81f65ae62016112d4d0fec79ca7dc78b2e164f7f::justape::JUSTAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3iLndy89Pi4GhtKf8SgYy1vFLBGbm8FMvyooEX7CEm4v.png?size=lg&key=58c591",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

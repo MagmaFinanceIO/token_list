@@ -1,0 +1,13 @@
+{
+  "name": "aaa cat 15",
+  "symbol": "AAA15",
+  "decimals": 9,
+  "coin_type": "0x9169cc234bc0fc956231949598ee26ec05213b38a5d0943d34b4c89159b911a9::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4995_cfd6177d03.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

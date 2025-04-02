@@ -1,0 +1,13 @@
+{
+  "name": "Official DogeLar",
+  "symbol": "DogeLar",
+  "decimals": 9,
+  "coin_type": "0xf188298e9d0d776093627271a2b4ad8c0e3dee30eb2939f3cc286eaf598e8028::dogelar::DOGELAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9rxjne5nSETrZr5ERHYgCpyvVwv13gdEHCUmT22npump.png?size=lg&key=76ddd6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

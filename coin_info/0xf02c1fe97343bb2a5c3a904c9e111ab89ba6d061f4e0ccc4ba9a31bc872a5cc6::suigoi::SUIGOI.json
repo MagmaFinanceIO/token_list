@@ -1,0 +1,13 @@
+{
+  "name": "suigoi",
+  "symbol": "SUIGOI",
+  "decimals": 9,
+  "coin_type": "0xf02c1fe97343bb2a5c3a904c9e111ab89ba6d061f4e0ccc4ba9a31bc872a5cc6::suigoi::SUIGOI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

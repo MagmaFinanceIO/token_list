@@ -1,0 +1,13 @@
+{
+  "name": "🎃 AI PUMPKIN DEGEN",
+  "symbol": "PUMPKIN",
+  "decimals": 9,
+  "coin_type": "0x243519c67e8a622d1dcf08b4a2ccad0b668da2d2a3e9c9f66156cde51b4b2132::pumpkin::PUMPKIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2de4d209-84b0-4e18-af72-0320f7de7cb4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

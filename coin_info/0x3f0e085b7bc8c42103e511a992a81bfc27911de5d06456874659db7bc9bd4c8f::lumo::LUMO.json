@@ -1,0 +1,13 @@
+{
+  "name": "Lumo",
+  "symbol": "LUMO",
+  "decimals": 9,
+  "coin_type": "0x3f0e085b7bc8c42103e511a992a81bfc27911de5d06456874659db7bc9bd4c8f::lumo::LUMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fb3cef13-9e6c-481f-a2a9-4bfa2b23ac3f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

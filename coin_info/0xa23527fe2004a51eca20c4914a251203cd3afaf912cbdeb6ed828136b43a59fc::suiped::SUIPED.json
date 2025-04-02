@@ -1,0 +1,13 @@
+{
+  "name": "SUIPED",
+  "symbol": "SUIPED",
+  "decimals": 9,
+  "coin_type": "0xa23527fe2004a51eca20c4914a251203cd3afaf912cbdeb6ed828136b43a59fc::suiped::SUIPED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a5fbb489-6166-402c-9726-e2f60f474255.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

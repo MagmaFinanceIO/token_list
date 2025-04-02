@@ -1,0 +1,13 @@
+{
+  "name": "SWIPE",
+  "symbol": "SWIPE",
+  "decimals": 9,
+  "coin_type": "0x6644f8ddd2f045d265e7c026cf0a5878d76facfacdfe87127d12a5d0f9d0b37e::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

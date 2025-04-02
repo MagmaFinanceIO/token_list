@@ -1,0 +1,13 @@
+{
+  "name": "messui",
+  "symbol": "msi",
+  "decimals": 6,
+  "coin_type": "0x70ab8b80afef4ce52d44f8bd7936b46eb5ed7d2d12ee17bb5c4c03dcf35e7362::msi::MSI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmUSNPmaR2RsHzHyeMgv4XzCrunu5RH5akyQd8nQCFdmH4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

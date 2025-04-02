@@ -1,0 +1,13 @@
+{
+  "name": "JWLSCA",
+  "symbol": "JWLSCA",
+  "decimals": 9,
+  "coin_type": "0x851e2402c495b1099dcbed8c5743461f23d3153637ce141fa7502eb485327c4d::jwlsca::JWLSCA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://s2.coinmarketcap.com/static/img/coins/64x64/29679.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

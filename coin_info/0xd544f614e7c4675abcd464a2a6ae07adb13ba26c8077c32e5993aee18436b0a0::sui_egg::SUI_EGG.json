@@ -1,0 +1,13 @@
+{
+  "name": "SUI EGG",
+  "symbol": "SUI EGG",
+  "decimals": 9,
+  "coin_type": "0xd544f614e7c4675abcd464a2a6ae07adb13ba26c8077c32e5993aee18436b0a0::sui_egg::SUI_EGG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

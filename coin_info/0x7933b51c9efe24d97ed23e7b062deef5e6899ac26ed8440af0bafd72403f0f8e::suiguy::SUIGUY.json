@@ -1,0 +1,13 @@
+{
+  "name": "SuiGuy",
+  "symbol": "SuiGuy",
+  "decimals": 9,
+  "coin_type": "0x7933b51c9efe24d97ed23e7b062deef5e6899ac26ed8440af0bafd72403f0f8e::suiguy::SUIGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/D21SExP97KfDWh5KYhyUT6VS1VJ6M2XuSx4ThMvBpump.png?size=lg&key=59e434",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Monkey Lady",
+  "symbol": "monkeylady",
+  "decimals": 9,
+  "coin_type": "0x3cf8c306a5b2afc196f2ddcdcd04434ca38cf7539074c2ac29dcdb9c936148a6::monkeylady::MONKEYLADY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/079/346/860/large/robin-r-20240826-2.jpg?1724681729",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

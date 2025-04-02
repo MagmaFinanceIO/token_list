@@ -1,0 +1,13 @@
+{
+  "name": "SuiTopia by SuiAI",
+  "symbol": "SUITOPIA",
+  "decimals": 6,
+  "coin_type": "0x1c160812049f8595f2a376a00e8e2f5b3d78704c5e79bd9ee6868c2d7c3ea377::suitopia::SUITOPIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/DALL_E_2025_01_14_22_22_removebg_preview_1f0319884d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

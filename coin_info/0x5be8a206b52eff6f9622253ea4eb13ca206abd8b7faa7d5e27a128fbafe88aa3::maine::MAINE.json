@@ -1,0 +1,13 @@
+{
+  "name": "MaineCoon",
+  "symbol": "MAINE",
+  "decimals": 9,
+  "coin_type": "0x5be8a206b52eff6f9622253ea4eb13ca206abd8b7faa7d5e27a128fbafe88aa3::maine::MAINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/33b90ac7-f741-4e21-8c35-660215b31e55.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

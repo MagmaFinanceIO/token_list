@@ -1,0 +1,13 @@
+{
+  "name": "Fart AI",
+  "symbol": "FARTAI",
+  "decimals": 9,
+  "coin_type": "0x1d526dfcd574ebecbb374ea60e61315778f6e4b24fc5acdeb1e3fb94f032bffa::fartai::FARTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4XDWaqQCjr4wjJAZS92aPHX57jr9pwteHb83JXdBm2TC.png?size=lg&key=1691bf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SISKA",
+  "symbol": "SISKA",
+  "decimals": 9,
+  "coin_type": "0x07256b4204e8666238cc7f28374a4271baff6ae4a88698ee043a1d7a5a26d599::siska::SISKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8d043444-ab13-42b3-856a-23ad2ecb482d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

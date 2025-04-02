@@ -1,0 +1,13 @@
+{
+  "name": "Wukong Goat",
+  "symbol": "WUGOAT",
+  "decimals": 3,
+  "coin_type": "0xceab74ec1cc3e35a4ab3541e69c2286607afaff7975c271a257910ef72d76664::wugoat::WUGOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/793aed4f-6bcb-427c-ac53-81053e0c3ea4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

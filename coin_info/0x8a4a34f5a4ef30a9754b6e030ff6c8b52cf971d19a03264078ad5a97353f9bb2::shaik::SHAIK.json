@@ -1,0 +1,13 @@
+{
+  "name": "MOSHAIK",
+  "symbol": "SHAIK",
+  "decimals": 6,
+  "coin_type": "0x8a4a34f5a4ef30a9754b6e030ff6c8b52cf971d19a03264078ad5a97353f9bb2::shaik::SHAIK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/MOSHAIK_bab687ddbe.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

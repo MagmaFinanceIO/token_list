@@ -1,0 +1,13 @@
+{
+  "name": "Pnut",
+  "symbol": "PNUT",
+  "decimals": 2,
+  "coin_type": "0xce5aeb71f94421fe81c9c9110b61ba95f6a09c251a25a9c26b77d0380c37e512::PNUT::PNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/gfSEi5zyCslHzXLrM8sCGWwrDHazjL98-Mmspg15rvk?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

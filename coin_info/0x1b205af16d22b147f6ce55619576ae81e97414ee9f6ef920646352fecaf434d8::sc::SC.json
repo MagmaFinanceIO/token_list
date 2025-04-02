@@ -1,0 +1,13 @@
+{
+  "name": "SUIcom",
+  "symbol": "Sc",
+  "decimals": 6,
+  "coin_type": "0x1b205af16d22b147f6ce55619576ae81e97414ee9f6ef920646352fecaf434d8::sc::SC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/8af1c396_a7c0_45ad_acdb_e57ec6d7a872_72b4b040c9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

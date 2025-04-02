@@ -1,0 +1,13 @@
+{
+  "name": "skate baguette sui",
+  "symbol": "SKATEBAG",
+  "decimals": 6,
+  "coin_type": "0x9f23cbb891a670b9fb2685dadf304f2e4508ce6f1a76db37c2acd0d374155ab7::skatebag::SKATEBAG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20241204_112900_750_35118ae106.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

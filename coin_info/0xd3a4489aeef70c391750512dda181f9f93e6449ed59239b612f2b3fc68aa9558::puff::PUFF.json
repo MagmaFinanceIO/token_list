@@ -1,0 +1,13 @@
+{
+  "name": "Puff",
+  "symbol": "PUFF",
+  "decimals": 9,
+  "coin_type": "0xd3a4489aeef70c391750512dda181f9f93e6449ed59239b612f2b3fc68aa9558::puff::PUFF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3cb4db5d-63d6-4870-9251-a36a63f27b47.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

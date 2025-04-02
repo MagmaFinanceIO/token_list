@@ -1,0 +1,13 @@
+{
+  "name": "SUI GOD",
+  "symbol": "GOD",
+  "decimals": 9,
+  "coin_type": "0xd47eaedb08cb8ec49c39b3a4e0fdc937d950c67af78fd39c20240d7bdc401151::god::GOD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/04a103db-7dab-4db8-bf46-74091f7f8b3a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

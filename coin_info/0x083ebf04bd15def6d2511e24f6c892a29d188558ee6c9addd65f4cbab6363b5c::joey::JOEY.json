@@ -1,0 +1,13 @@
+{
+  "name": "Sui Joey",
+  "symbol": "JOEY",
+  "decimals": 9,
+  "coin_type": "0x083ebf04bd15def6d2511e24f6c892a29d188558ee6c9addd65f4cbab6363b5c::joey::JOEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e252dad6-455b-4be6-9ef9-56f48ff19215.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

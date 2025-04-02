@@ -1,0 +1,13 @@
+{
+  "name": "TIMECOIN",
+  "symbol": "TIME",
+  "decimals": 12,
+  "coin_type": "0x26a8a8fe46ae9b641c10381f2101739233d7c69d4c423fba71d2a8a156c7cbc0::timecoin::TIMECOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5ff6dee5-c606-42e2-938c-6f67c617b761.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

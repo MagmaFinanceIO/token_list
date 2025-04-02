@@ -1,0 +1,13 @@
+{
+  "name": "Blocksy AI Agent by SuiAI",
+  "symbol": "BLOCKSY",
+  "decimals": 6,
+  "coin_type": "0xe1f98c1d9edeaf9f28f9906c124d9abe1cb4fb46ee0ef4f3a1c72ea93f75bb31::blocksy::BLOCKSY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Z75_Nwp_Qi_400x400_38274f5942.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUILAMBO",
+  "symbol": "SLAMBO",
+  "decimals": 6,
+  "coin_type": "0xa4ed22910fc8da88726320ae5aaa20da0b4183285d25aa8520cb708a68f2cf94::slambo::SLAMBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/65da58ee-e201-42b4-b66e-5ec89cda6329.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Soviet Dog Wif Hat",
+  "symbol": "SOVIETWIF",
+  "decimals": 6,
+  "coin_type": "0x12aa40158a04113d4d89e0b36e8170c2663cd399722f0acdc232fd06f41ef345::sovietwif::SOVIETWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/sovietdogwiftg_9d55944982.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

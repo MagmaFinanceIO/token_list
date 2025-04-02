@@ -1,0 +1,13 @@
+{
+  "name": "ASSCOIN",
+  "symbol": "ASSCOIN",
+  "decimals": 2,
+  "coin_type": "0x618d5639787a13b54fc3e3fda4b8dcec93fbcd2108631c1144b64b6a8a8cd4ee::ASSCOIN::ASSCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/epwxdRrxAYDrQWZZG37AHfOtNcl2N27RLEAWV4WvGoY?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

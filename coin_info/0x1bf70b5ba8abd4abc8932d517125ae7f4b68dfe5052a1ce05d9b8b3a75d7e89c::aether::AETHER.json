@@ -1,0 +1,13 @@
+{
+  "name": "Aether AI",
+  "symbol": "AETHER",
+  "decimals": 9,
+  "coin_type": "0x1bf70b5ba8abd4abc8932d517125ae7f4b68dfe5052a1ce05d9b8b3a75d7e89c::aether::AETHER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/E9cgRJzHne28duGPk6nj46FJ6hyvPGmuKmCUj7bwpump.png?size=lg&key=7accd2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

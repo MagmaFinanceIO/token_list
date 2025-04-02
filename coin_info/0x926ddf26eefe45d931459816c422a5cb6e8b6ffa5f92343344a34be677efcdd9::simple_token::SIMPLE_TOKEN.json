@@ -1,0 +1,13 @@
+{
+  "name": "BOTSUI",
+  "symbol": "BOTSUI",
+  "decimals": 9,
+  "coin_type": "0x926ddf26eefe45d931459816c422a5cb6e8b6ffa5f92343344a34be677efcdd9::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

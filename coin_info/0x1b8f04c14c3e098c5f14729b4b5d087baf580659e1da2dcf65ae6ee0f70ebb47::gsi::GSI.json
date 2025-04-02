@@ -1,0 +1,13 @@
+{
+  "name": "GameSi",
+  "symbol": "GSI",
+  "decimals": 9,
+  "coin_type": "0x1b8f04c14c3e098c5f14729b4b5d087baf580659e1da2dcf65ae6ee0f70ebb47::gsi::GSI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://s2.coinmarketcap.com/static/img/coins/200x200/11783.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

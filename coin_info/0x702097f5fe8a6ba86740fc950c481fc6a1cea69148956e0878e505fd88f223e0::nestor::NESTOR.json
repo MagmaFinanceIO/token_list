@@ -1,0 +1,13 @@
+{
+  "name": "NESTOR THE SENDOR",
+  "symbol": "NESTOR",
+  "decimals": 9,
+  "coin_type": "0x702097f5fe8a6ba86740fc950c481fc6a1cea69148956e0878e505fd88f223e0::nestor::NESTOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/mb5D7RKXCU2GgszY?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

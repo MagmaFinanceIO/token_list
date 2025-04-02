@@ -1,0 +1,13 @@
+{
+  "name": "ZOMBIE PUMP",
+  "symbol": "ZOMP",
+  "decimals": 6,
+  "coin_type": "0x1c264c3305369e787033e8389a615d1b9aa426fbe161abe6e84f6fc905ada1ae::zomp::ZOMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/20250120_094740_833948e31a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

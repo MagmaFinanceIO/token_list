@@ -1,0 +1,13 @@
+{
+  "name": "SUINIGERIA",
+  "symbol": "SNGN",
+  "decimals": 6,
+  "coin_type": "0x1ebcd28e438ec06f41482bf9aa9cd7513e72e5bc0d410d9ec82702ff74f1f427::sngn::SNGN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/f7cf3633_9a66_417f_97a8_7bef2939cca6_4a67159ac8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

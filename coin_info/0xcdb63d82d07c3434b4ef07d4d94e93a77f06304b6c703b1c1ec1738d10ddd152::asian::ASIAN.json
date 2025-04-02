@@ -1,0 +1,13 @@
+{
+  "name": "Asian Ai",
+  "symbol": "Asian",
+  "decimals": 9,
+  "coin_type": "0xcdb63d82d07c3434b4ef07d4d94e93a77f06304b6c703b1c1ec1738d10ddd152::asian::ASIAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3cfypbdxWAsak9uQWdXaTEmPsVhL7C6wWmoHW2M2pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

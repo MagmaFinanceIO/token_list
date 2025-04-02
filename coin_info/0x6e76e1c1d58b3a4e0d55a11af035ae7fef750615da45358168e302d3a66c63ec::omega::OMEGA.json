@@ -1,0 +1,13 @@
+{
+  "name": "OMEGA",
+  "symbol": "OMEGA",
+  "decimals": 9,
+  "coin_type": "0x6e76e1c1d58b3a4e0d55a11af035ae7fef750615da45358168e302d3a66c63ec::omega::OMEGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8C5wsKz682s8ByYLxVpY8J3GHSAHTsT4fJPfT97Npump.png?size=lg&key=855f38",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

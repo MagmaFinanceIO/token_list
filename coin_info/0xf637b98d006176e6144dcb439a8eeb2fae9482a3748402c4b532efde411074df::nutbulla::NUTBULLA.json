@@ -1,0 +1,13 @@
+{
+  "name": "Hasbulla's Peanut",
+  "symbol": "NUTBULLA",
+  "decimals": 9,
+  "coin_type": "0xf637b98d006176e6144dcb439a8eeb2fae9482a3748402c4b532efde411074df::nutbulla::NUTBULLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FmfwV7NPqGnXse7SA9w6fwjDf1zg3FAdpMbdg4EqtkXF.png?size=lg&key=33734b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bb",
+  "symbol": "bb",
+  "decimals": 9,
+  "coin_type": "0xd258e2a88f482ac317f45101f884fb8a839fecb2ea8e82cbbeba70443e3122df::bb::BB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

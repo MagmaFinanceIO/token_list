@@ -1,0 +1,13 @@
+{
+  "name": "sGOAT On Sui",
+  "symbol": "sGOAT",
+  "decimals": 6,
+  "coin_type": "0xba04445a0538c12b3b7d9726f6a498eb2a6a8baa407b06756933d478c84b1b7b::sgoat::SGOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/0x43f9a13675e352154f745d6402e853fecc388aa5_9365c21e72.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

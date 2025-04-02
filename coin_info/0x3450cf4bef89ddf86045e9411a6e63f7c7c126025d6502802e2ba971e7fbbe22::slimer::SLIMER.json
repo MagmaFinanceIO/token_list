@@ -1,0 +1,13 @@
+{
+  "name": "Sui Slimer",
+  "symbol": "SLIMER",
+  "decimals": 6,
+  "coin_type": "0x3450cf4bef89ddf86045e9411a6e63f7c7c126025d6502802e2ba971e7fbbe22::slimer::SLIMER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000013081_e5e887c1f8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

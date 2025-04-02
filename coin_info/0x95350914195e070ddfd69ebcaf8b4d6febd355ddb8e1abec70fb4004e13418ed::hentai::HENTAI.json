@@ -1,0 +1,13 @@
+{
+  "name": "HentAI Intelligence",
+  "symbol": "hentAI",
+  "decimals": 9,
+  "coin_type": "0x95350914195e070ddfd69ebcaf8b4d6febd355ddb8e1abec70fb4004e13418ed::hentai::HENTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HP3J2hu3B87pUREsXARHp5xZMPMRu7v4QK4YuCf8pump.png?size=xl&key=e2527c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

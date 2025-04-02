@@ -1,0 +1,13 @@
+{
+  "name": "Beenz",
+  "symbol": "Beenz",
+  "decimals": 9,
+  "coin_type": "0x23270c83fbf0f23e9ac20d0a35e904e8bfdfda3c107d6ecc6eb2c79ca2ea4d81::beenz::BEENZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9sbrLLnk4vxJajnZWXP9h5qk1NDFw7dz2eHjgemcpump.png?size=lg&key=84ae76",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

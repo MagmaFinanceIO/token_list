@@ -1,0 +1,13 @@
+{
+  "name": "Sui Sigma",
+  "symbol": "SUIGMA",
+  "decimals": 9,
+  "coin_type": "0xa7fd0a3c0e7041561db576c67f12ddd54ec0ff64189de4f11398460448eae673::suigma::SUIGMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3a07884c-e055-406d-8f9f-026e4b4adc74.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

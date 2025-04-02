@@ -1,0 +1,13 @@
+{
+  "name": "PIKE THE DINO",
+  "symbol": "PIKE",
+  "decimals": 6,
+  "coin_type": "0x02c61cf8b45a45e381ade7ee0590eee064305c5afef0d8b59612005253d537db::pike::PIKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Xhiz_JJKM_9nx_NS_Biu_Kss27_K2z_J_Pfka_Cjtc54o_J_Dqbdq_F9_e23de3f826.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SLOP FUN",
+  "symbol": "SLOP",
+  "decimals": 6,
+  "coin_type": "0x4efa29f4ef10fae0046357be81a5e1d19f759df17d5b9ff9a22891195f88c508::slop::SLOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SLOP_LOGO_11722004be.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

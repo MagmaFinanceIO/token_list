@@ -1,0 +1,13 @@
+{
+  "name": "Heineken",
+  "symbol": "BEER",
+  "decimals": 9,
+  "coin_type": "0x39b7abc0c96f7f3261c507c49be3dbc24b57bfe6fd7b94d3abdc8928f8ed68e9::beera::BEERA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5rXgy7cakMLat9fYsEjcnd46Nt59cbVEu5M6WaYmpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

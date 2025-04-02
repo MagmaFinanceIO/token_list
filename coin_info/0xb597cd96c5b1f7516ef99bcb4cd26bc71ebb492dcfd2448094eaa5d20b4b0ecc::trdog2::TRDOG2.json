@@ -1,0 +1,13 @@
+{
+  "name": "TRUMP DOG V2",
+  "symbol": "TRDOG2",
+  "decimals": 9,
+  "coin_type": "0xb597cd96c5b1f7516ef99bcb4cd26bc71ebb492dcfd2448094eaa5d20b4b0ecc::trdog2::TRDOG2",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f7b5f4b1-711d-4c5a-8ec9-4c11621a7e35.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

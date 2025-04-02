@@ -1,0 +1,13 @@
+{
+  "name": "EDOG",
+  "symbol": "EDOG",
+  "decimals": 9,
+  "coin_type": "0x4b3791cdcac0f411177eae7d35250ce25a0d3ffe079105eefe4f2578ba871b8a::edog::EDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4e226e8d-2d56-4d06-aee8-e36e62c0989b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

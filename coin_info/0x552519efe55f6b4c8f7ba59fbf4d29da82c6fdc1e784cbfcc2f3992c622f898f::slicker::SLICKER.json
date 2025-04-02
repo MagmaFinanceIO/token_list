@@ -1,0 +1,13 @@
+{
+  "name": "SUI LICKER",
+  "symbol": "SLICKER",
+  "decimals": 9,
+  "coin_type": "0x552519efe55f6b4c8f7ba59fbf4d29da82c6fdc1e784cbfcc2f3992c622f898f::slicker::SLICKER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/64d9bca8-e0ff-4b6a-a926-ef6b1504dbdb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

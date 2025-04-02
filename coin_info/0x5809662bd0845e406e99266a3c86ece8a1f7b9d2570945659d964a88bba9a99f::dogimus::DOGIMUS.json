@@ -1,0 +1,13 @@
+{
+  "name": "TeslaDogimus",
+  "symbol": "DOGIMUS",
+  "decimals": 6,
+  "coin_type": "0x5809662bd0845e406e99266a3c86ece8a1f7b9d2570945659d964a88bba9a99f::dogimus::DOGIMUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qmapxobj8_Hza_Y_Kn_Gxq7_K2esm_Np9r6_Txs9kqn_Sfu_Q_Mf_Qbq_K_ef4c0a1132.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Just A Chill Pengu",
+  "symbol": "CHILLPENGU",
+  "decimals": 9,
+  "coin_type": "0xf3b7c98db7f3464beebfaa9929daecd6897496142e3e4d0818abc41fc95d5b7e::chillpengu::CHILLPENGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmPHtfSfZHUFtqtxU9gs1jyeuVYyNJaYAsKMcDL45zK3tq",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

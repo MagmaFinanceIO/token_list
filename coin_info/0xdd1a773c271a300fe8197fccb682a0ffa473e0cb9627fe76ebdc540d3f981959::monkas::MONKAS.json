@@ -1,0 +1,13 @@
+{
+  "name": "MONKAS",
+  "symbol": "MONKAS",
+  "decimals": 9,
+  "coin_type": "0xdd1a773c271a300fe8197fccb682a0ffa473e0cb9627fe76ebdc540d3f981959::monkas::MONKAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/71925248-e0ce-4fac-8929-cf020a973889.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

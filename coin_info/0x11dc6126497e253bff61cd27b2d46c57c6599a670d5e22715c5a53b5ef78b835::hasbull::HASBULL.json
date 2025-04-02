@@ -1,0 +1,13 @@
+{
+  "name": "markkacy",
+  "symbol": "HASBULL",
+  "decimals": 9,
+  "coin_type": "0x11dc6126497e253bff61cd27b2d46c57c6599a670d5e22715c5a53b5ef78b835::hasbull::HASBULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/zSyuawLybV374Fiufx4bQnLnwfFRxX2cFsQ6kwKpump.png?size=lg&key=6ae6a3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

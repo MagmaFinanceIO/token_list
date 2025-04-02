@@ -1,0 +1,13 @@
+{
+  "name": "National Digital Asset Stockpile",
+  "symbol": "NDAS",
+  "decimals": 9,
+  "coin_type": "0xbdd089e8b69229be29a59853a4b1eb00a1751c9e9469be91a21d6af30a1df2f1::ndas::NDAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/yCYSJATPJiFgtE1Up7LFGQEV8XLZ5Ma7Y53JnXKpump.png?size=lg&key=e66994",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

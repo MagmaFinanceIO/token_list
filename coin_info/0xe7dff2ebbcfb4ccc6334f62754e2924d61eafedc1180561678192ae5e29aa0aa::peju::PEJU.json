@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Juice",
+  "symbol": "PEJU",
+  "decimals": 9,
+  "coin_type": "0xe7dff2ebbcfb4ccc6334f62754e2924d61eafedc1180561678192ae5e29aa0aa::peju::PEJU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/PEJUzy3LJxy34ZTHuHNrPTLxKbQHT3AiN8B64zxgFLC.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

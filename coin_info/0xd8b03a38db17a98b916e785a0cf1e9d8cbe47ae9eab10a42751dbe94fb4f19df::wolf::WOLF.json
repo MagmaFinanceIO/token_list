@@ -1,0 +1,13 @@
+{
+  "name": "LandWolf",
+  "symbol": "WOLF",
+  "decimals": 6,
+  "coin_type": "0xd8b03a38db17a98b916e785a0cf1e9d8cbe47ae9eab10a42751dbe94fb4f19df::wolf::WOLF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e52decea-523f-4d9c-9204-302fe54f64d2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

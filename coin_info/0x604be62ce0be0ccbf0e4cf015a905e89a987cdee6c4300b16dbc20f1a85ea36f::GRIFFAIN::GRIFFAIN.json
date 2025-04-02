@@ -1,0 +1,13 @@
+{
+  "name": "test griffain.com",
+  "symbol": "GRIFFAIN",
+  "decimals": 2,
+  "coin_type": "0x604be62ce0be0ccbf0e4cf015a905e89a987cdee6c4300b16dbc20f1a85ea36f::GRIFFAIN::GRIFFAIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/SWwjEC6tDINoB-FTala_Hv-Wb2ON8G56A9kd0LQjbwE?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

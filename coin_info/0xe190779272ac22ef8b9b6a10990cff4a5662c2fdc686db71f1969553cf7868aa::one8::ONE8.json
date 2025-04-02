@@ -1,0 +1,13 @@
+{
+  "name": "KEBAP",
+  "symbol": "18",
+  "decimals": 6,
+  "coin_type": "0xe190779272ac22ef8b9b6a10990cff4a5662c2fdc686db71f1969553cf7868aa::one8::ONE8",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmdrrsA2EygRRBGmVz91UUHbLmJ23Vn1SFnzw1nLGG5dat",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

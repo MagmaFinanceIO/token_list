@@ -1,0 +1,13 @@
+{
+  "name": "MAGA",
+  "symbol": "SUIMAGA",
+  "decimals": 6,
+  "coin_type": "0xfe4a97ae2e6ee1508efb383e4ad5220ee482e7428f90d6e1760d4c549fe9ba72::suimaga::SUIMAGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/15973ac4-c21c-4d6e-b31f-6b3b6fa9b953.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

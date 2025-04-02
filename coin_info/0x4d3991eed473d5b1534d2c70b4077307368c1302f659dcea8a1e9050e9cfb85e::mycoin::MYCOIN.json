@@ -1,0 +1,13 @@
+{
+  "name": "SUICAT",
+  "symbol": "SUICAT",
+  "decimals": 9,
+  "coin_type": "0x4d3991eed473d5b1534d2c70b4077307368c1302f659dcea8a1e9050e9cfb85e::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

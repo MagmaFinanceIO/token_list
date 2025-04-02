@@ -1,0 +1,13 @@
+{
+  "name": "FIONA ON SUI",
+  "symbol": "SUIFIONA",
+  "decimals": 6,
+  "coin_type": "0xbf6cb6f7c77dbf3632fbc9c5571e37d6ec3f2d3198dd0809a34d937b62660102::suifiona::SUIFIONA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3501_d579c75fd8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

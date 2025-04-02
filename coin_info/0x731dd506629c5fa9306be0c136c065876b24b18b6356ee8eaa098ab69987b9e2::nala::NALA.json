@@ -1,0 +1,13 @@
+{
+  "name": "Nala Cat",
+  "symbol": "Nala",
+  "decimals": 9,
+  "coin_type": "0x731dd506629c5fa9306be0c136c065876b24b18b6356ee8eaa098ab69987b9e2::nala::NALA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aa7e0842-5a8c-4bbe-b47c-b14257c85018.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

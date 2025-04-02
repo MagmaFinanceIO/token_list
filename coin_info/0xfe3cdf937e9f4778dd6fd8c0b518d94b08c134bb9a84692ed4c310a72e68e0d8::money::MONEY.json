@@ -1,0 +1,13 @@
+{
+  "name": "MONEY",
+  "symbol": "MONEY",
+  "decimals": 9,
+  "coin_type": "0xfe3cdf937e9f4778dd6fd8c0b518d94b08c134bb9a84692ed4c310a72e68e0d8::money::MONEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/906bad83-ad68-44a0-8cec-87e321de7f5e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

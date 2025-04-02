@@ -1,0 +1,13 @@
+{
+  "name": "Crypto Luigi",
+  "symbol": "CLU",
+  "decimals": 9,
+  "coin_type": "0xddaf7da67abfdfe2b276b2da0514cae21b10f2e5654e3ae55a4ec0d421f31271::clu::CLU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e0778396-9d20-471e-aa19-80203354169e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

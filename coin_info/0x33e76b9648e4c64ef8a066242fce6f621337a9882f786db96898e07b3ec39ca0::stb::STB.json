@@ -1,0 +1,13 @@
+{
+  "name": "Sui The Bob",
+  "symbol": "STB",
+  "decimals": 6,
+  "coin_type": "0x33e76b9648e4c64ef8a066242fce6f621337a9882f786db96898e07b3ec39ca0::stb::STB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/BOB_THE_BLOB_6f3b505836.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Super Ape",
+  "symbol": "SSUPER",
+  "decimals": 9,
+  "coin_type": "0xa280828c809a2d79190565417a093f02857f4996defff7e52025212a4db31972::ssuper::SSUPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c9b24cb9-2f44-473f-bec1-15173aee65d1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

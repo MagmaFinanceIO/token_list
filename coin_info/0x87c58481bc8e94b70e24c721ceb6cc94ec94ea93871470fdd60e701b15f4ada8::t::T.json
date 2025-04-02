@@ -1,0 +1,13 @@
+{
+  "name": "t",
+  "symbol": "t",
+  "decimals": 6,
+  "coin_type": "0x87c58481bc8e94b70e24c721ceb6cc94ec94ea93871470fdd60e701b15f4ada8::t::T",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

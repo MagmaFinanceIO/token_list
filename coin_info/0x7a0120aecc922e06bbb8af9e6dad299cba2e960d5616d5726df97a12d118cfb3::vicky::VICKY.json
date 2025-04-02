@@ -1,0 +1,13 @@
+{
+  "name": "Shiba Inus Daughter",
+  "symbol": "VICKY",
+  "decimals": 9,
+  "coin_type": "0x7a0120aecc922e06bbb8af9e6dad299cba2e960d5616d5726df97a12d118cfb3::vicky::VICKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A7waCUZrjBG5TSwdY6MSyn5iLGCBF2a8hPtuscN3pump.png?size=lg&key=e0940e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

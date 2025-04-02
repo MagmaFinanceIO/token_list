@@ -1,0 +1,13 @@
+{
+  "name": "Trump Party",
+  "symbol": "TRUMPY",
+  "decimals": 6,
+  "coin_type": "0xb1db267016a6ae30c038d985f932e696fde828ab2258c6a080d6e0063f6e9be8::trumpy::TRUMPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logooo_eb2f490276.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

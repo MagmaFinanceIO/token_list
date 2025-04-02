@@ -1,0 +1,13 @@
+{
+  "name": "Kentucky Fried Chicken",
+  "symbol": "KFC",
+  "decimals": 9,
+  "coin_type": "0xea87b565400635607b83a9d6777b6686c634ffcf0d05855b79d06be7a14e1158::kfc::KFC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/KFCDobj1arGBPFn84A8C3dPiM8PvetJKWhva4SDC9Kj.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

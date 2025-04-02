@@ -1,0 +1,13 @@
+{
+  "name": "Alex Becker",
+  "symbol": "ZSSUI",
+  "decimals": 9,
+  "coin_type": "0x264cf1117e5c332cc6b8c3c8467083c823e0b130c5b339547b728c27c48549d5::zssui::ZSSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8555b427-0ed1-400b-96a5-0f48847551e2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

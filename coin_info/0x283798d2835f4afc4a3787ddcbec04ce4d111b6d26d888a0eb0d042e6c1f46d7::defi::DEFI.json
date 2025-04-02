@@ -1,0 +1,13 @@
+{
+  "name": "DEFI",
+  "symbol": "defi",
+  "decimals": 9,
+  "coin_type": "0x283798d2835f4afc4a3787ddcbec04ce4d111b6d26d888a0eb0d042e6c1f46d7::defi::DEFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "example.com",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

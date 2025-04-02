@@ -1,0 +1,13 @@
+{
+  "name": "Shiba $Wing",
+  "symbol": "WING",
+  "decimals": 9,
+  "coin_type": "0xba8c66e557a69412c4ef4e102dc7c6f3ac1e3e77dc5e6e9847b99eb9bd8b3d29::wing::WING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xc47db7535b063a494f3619317b7633041737c8e9.png?size=lg&key=05bd84",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

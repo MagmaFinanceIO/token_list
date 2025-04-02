@@ -1,0 +1,13 @@
+{
+  "name": "NEXUS AI",
+  "symbol": "NEXUSAI",
+  "decimals": 9,
+  "coin_type": "0xc77bb054f0b87d2d869aabda61e9bac72e4b5c7728d8941ddb3808df51f86b2d::nexusai::NEXUSAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AtVt7vHoxq9qyk18dvxHnsYYGmq7vKagP3cWXFwSpump.png?size=lg&key=33aa1c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

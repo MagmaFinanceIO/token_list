@@ -1,0 +1,13 @@
+{
+  "name": "Just Hold",
+  "symbol": "HOLD",
+  "decimals": 9,
+  "coin_type": "0x45850d43f762b77baa56b4c3e2e08c87149f2785f7b5c78a14f12a5e670b9269::hold::HOLD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FTvFRs8bj6oG13rGrC4h22USGkMNPP38N9LygD3spump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

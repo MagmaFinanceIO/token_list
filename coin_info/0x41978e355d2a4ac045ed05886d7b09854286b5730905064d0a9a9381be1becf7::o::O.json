@@ -1,0 +1,13 @@
+{
+  "name": "Omni Agent AI",
+  "symbol": "O",
+  "decimals": 6,
+  "coin_type": "0x41978e355d2a4ac045ed05886d7b09854286b5730905064d0a9a9381be1becf7::o::O",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ec63b16b-e81e-4ebf-90ee-d9f58493e707.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

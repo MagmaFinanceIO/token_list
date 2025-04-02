@@ -1,0 +1,13 @@
+{
+  "name": "Sigma on Sui",
+  "symbol": "SUIGMA",
+  "decimals": 6,
+  "coin_type": "0x38c41caa99a1e767f9436b60a5ce7be73d6c70d4f4b1e6a6048b90277cb0cd85::suigma::SUIGMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Pasted_Graphic_15_db3fdca145.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

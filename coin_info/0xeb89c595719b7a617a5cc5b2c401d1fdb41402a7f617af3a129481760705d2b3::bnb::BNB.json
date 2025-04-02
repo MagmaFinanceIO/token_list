@@ -1,0 +1,13 @@
+{
+  "name": "BNBonSui",
+  "symbol": "BNB",
+  "decimals": 6,
+  "coin_type": "0xeb89c595719b7a617a5cc5b2c401d1fdb41402a7f617af3a129481760705d2b3::bnb::BNB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731269550014.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

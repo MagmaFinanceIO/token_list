@@ -1,0 +1,13 @@
+{
+  "name": "Ote Moa",
+  "symbol": "OTS",
+  "decimals": 6,
+  "coin_type": "0xbece4066d177ffb956976ab9664b1c63bad03698fa54368823fcf0e3d0d2d104::ots::OTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000026597_7ad9c22803.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

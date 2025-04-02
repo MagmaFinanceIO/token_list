@@ -1,0 +1,13 @@
+{
+  "name": "Only A Million",
+  "symbol": "Suvarna",
+  "decimals": 9,
+  "coin_type": "0xbcc296b4b5170d6ad92a5b04e161e57a92cc9d701e4915f8766e46deb8fd9e17::suvarna::SUVARNA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ALSHzSP363jtG3JrpA4o6XWNaQyp3p6pPpV2zuEMUwbB.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

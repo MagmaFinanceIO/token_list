@@ -1,0 +1,13 @@
+{
+  "name": "SPANK",
+  "symbol": "SPANK",
+  "decimals": 9,
+  "coin_type": "0x52343f97f119c1e44ffcb91caea2191c4265873dc09ce88f52f5d6c02f14236f::spank::SPANK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9e35c8c0-2cd4-4d7b-a474-42e44632ad59.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

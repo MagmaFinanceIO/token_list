@@ -1,0 +1,13 @@
+{
+  "name": "SUIGOD",
+  "symbol": "SGOD",
+  "decimals": 6,
+  "coin_type": "0x28c2171e94d49b91167954dfc1b0dcbf86d87285a7752ed72238877e2b083baa::sgod::SGOD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000360378_4e3000dfd4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

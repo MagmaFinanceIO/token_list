@@ -1,0 +1,13 @@
+{
+  "name": "Tyra AI",
+  "symbol": "TyraAI",
+  "decimals": 9,
+  "coin_type": "0xe6b885ee6f0f20c860e542b5c0bde4f0fece7eb89c3908c18461407de35d86dc::tyraai::TYRAAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/48TLXYogvC6etm9b9bTmjHinWdAF8gShXzgQ4QUfjbT4.png?size=lg&key=e64140",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

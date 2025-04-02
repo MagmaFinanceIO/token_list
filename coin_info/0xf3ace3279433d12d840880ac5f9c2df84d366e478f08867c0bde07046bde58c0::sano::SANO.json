@@ -1,0 +1,13 @@
+{
+  "name": "SANO",
+  "symbol": "SANO",
+  "decimals": 9,
+  "coin_type": "0xf3ace3279433d12d840880ac5f9c2df84d366e478f08867c0bde07046bde58c0::sano::SANO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Hf4TjknrQqT2aAfJiJWmQB4uDhx5zKbUG1WV6E2bpump.png?size=lg&key=05999a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

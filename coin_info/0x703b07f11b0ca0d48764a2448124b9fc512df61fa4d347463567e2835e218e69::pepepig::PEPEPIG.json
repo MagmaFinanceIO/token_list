@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Pig On Sui",
+  "symbol": "PepePig",
+  "decimals": 6,
+  "coin_type": "0x703b07f11b0ca0d48764a2448124b9fc512df61fa4d347463567e2835e218e69::pepepig::PEPEPIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/channels4_profile_2f3f276ce0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

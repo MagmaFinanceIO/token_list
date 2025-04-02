@@ -1,0 +1,13 @@
+{
+  "name": "Philtoken",
+  "symbol": "PHIL",
+  "decimals": 9,
+  "coin_type": "0x1e815818cef28119e06e7b0e8dd1c0c1cbc79626c96272e8fd98427a65bb7dd1::phil::PHIL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4fab10da-ea08-4e93-b7de-30b7d4b686b3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

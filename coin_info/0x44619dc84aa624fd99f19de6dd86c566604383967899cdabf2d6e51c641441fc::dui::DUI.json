@@ -1,0 +1,13 @@
+{
+  "name": "Dui on Sui 🍻",
+  "symbol": "DUI",
+  "decimals": 9,
+  "coin_type": "0x44619dc84aa624fd99f19de6dd86c566604383967899cdabf2d6e51c641441fc::dui::DUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/92f08380-5b4f-4e63-8bb1-6413aaa1b7d3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Fridge",
+  "symbol": "SuiFridge",
+  "decimals": 6,
+  "coin_type": "0xdee072d6d04885b92cf32e97722b7676f07032535aa041078b833d98a27d4154::suifridge::SUIFRIDGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Zlr_Ma_X1_400x400_1_ecb0b2b5ae.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Monke Inu",
+  "symbol": "MONKE",
+  "decimals": 9,
+  "coin_type": "0xfff7ecf8bb477161e07182d8c7f8af5c649528f1c683936a6f5c0b84ef2fb53d::monke::MONKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://photos.pinksale.finance/file/pinksale-logo-upload/1729582227397-4b57a805e610d87d47bae2008da847b3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

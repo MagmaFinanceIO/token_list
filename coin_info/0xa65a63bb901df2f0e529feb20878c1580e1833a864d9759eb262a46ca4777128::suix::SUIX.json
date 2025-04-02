@@ -1,0 +1,13 @@
+{
+  "name": "SuiX",
+  "symbol": "SuiX",
+  "decimals": 9,
+  "coin_type": "0xa65a63bb901df2f0e529feb20878c1580e1833a864d9759eb262a46ca4777128::suix::SUIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1639668819462615040/4YzPm1SZ.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

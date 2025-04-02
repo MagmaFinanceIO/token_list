@@ -1,0 +1,13 @@
+{
+  "name": "Benji for SUI",
+  "symbol": "Benji",
+  "decimals": 9,
+  "coin_type": "0xd94f526590b8b8dae741eb6d889cc7328da2f03f47e31a7c06842ab9167e6835::benji::BENJI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/68f32482-4cc9-4264-a29e-dfb0d4e60105.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

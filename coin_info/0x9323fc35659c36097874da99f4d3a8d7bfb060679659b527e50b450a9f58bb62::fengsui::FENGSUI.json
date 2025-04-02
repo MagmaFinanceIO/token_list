@@ -1,0 +1,13 @@
+{
+  "name": "FENG SHUI",
+  "symbol": "FENGSUI",
+  "decimals": 6,
+  "coin_type": "0x9323fc35659c36097874da99f4d3a8d7bfb060679659b527e50b450a9f58bb62::fengsui::FENGSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000131309_864669f195.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

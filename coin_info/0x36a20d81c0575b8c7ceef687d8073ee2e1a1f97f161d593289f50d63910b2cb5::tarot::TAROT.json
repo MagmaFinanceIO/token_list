@@ -1,0 +1,13 @@
+{
+  "name": "Tarot AI by SuiAI",
+  "symbol": "TAROT",
+  "decimals": 6,
+  "coin_type": "0x36a20d81c0575b8c7ceef687d8073ee2e1a1f97f161d593289f50d63910b2cb5::tarot::TAROT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/tarot_533714ed29.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

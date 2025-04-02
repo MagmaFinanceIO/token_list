@@ -1,0 +1,13 @@
+{
+  "name": "Bandido",
+  "symbol": "BANDI",
+  "decimals": 6,
+  "coin_type": "0xccee8b5b1f3ef927fa57e22440e02f463fcfb4badc16305e723cec6de9633d01::bandi::BANDI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/bandi_6fb575f2f1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

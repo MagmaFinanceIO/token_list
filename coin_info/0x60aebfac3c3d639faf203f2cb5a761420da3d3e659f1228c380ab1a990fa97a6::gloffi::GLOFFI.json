@@ -1,0 +1,13 @@
+{
+  "name": "Gloffi-Oh",
+  "symbol": "Gloffi",
+  "decimals": 6,
+  "coin_type": "0x60aebfac3c3d639faf203f2cb5a761420da3d3e659f1228c380ab1a990fa97a6::gloffi::GLOFFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/6acf48a2_e4ef_4322_a43e_761e633a4b6f_804f20e934.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

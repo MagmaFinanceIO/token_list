@@ -1,0 +1,13 @@
+{
+  "name": "THE BLOB",
+  "symbol": "BLOB",
+  "decimals": 6,
+  "coin_type": "0xba7e88f7e31a7363fae216edbaef2002edcba28d4bc56557e920085a75b9904f::blob::BLOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_11_21_01_23_04_0623a997f8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

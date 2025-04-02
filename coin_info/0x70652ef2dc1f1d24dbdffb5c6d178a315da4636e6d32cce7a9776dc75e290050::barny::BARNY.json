@@ -1,0 +1,13 @@
+{
+  "name": "Barny",
+  "symbol": "BARNY",
+  "decimals": 9,
+  "coin_type": "0x70652ef2dc1f1d24dbdffb5c6d178a315da4636e6d32cce7a9776dc75e290050::barny::BARNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6Ze9cd4gR7LB2J8aRrorW95MEiwXGqQFvMXUWJgpump.png?size=lg&key=a47fa2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

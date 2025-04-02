@@ -1,0 +1,13 @@
+{
+  "name": "TRUMPTARDIO",
+  "symbol": "TRUMP",
+  "decimals": 6,
+  "coin_type": "0xe8a4ea1f3bbc69951e0ae9e0f4774486e66e57e157b40accbcad39a12ae66613::trump::TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/6_DCD_9703_DA_01_4_C22_9_D29_74_C51241_EEB_5_0b34c65dfd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

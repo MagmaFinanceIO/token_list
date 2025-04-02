@@ -1,0 +1,15 @@
+{
+  "name": "CETUS Token",
+  "symbol": "CETUS",
+  "decimals": 9,
+  "coin_type": "0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS",
+  "pyth_id": "e5b274b2611143df055d6e7cd8d93fe1961716bcd4dca1cad87a83bc1e78c1ef",
+  "birdeyeid": "0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::CETUS",
+  "coin_priority": [
+    "970"
+  ],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/cetus.png",
+  "project_url": "",
+  "coingecko_id": "cetus-protocol",
+  "is_trusted": true
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI DORI",
+  "symbol": "sori",
+  "decimals": 6,
+  "coin_type": "0x6a8f1c5775016aa5ac1c0ad8df2334c99776a75f9f87e6c689bf35371fa489c9::sori::SORI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ik.imagekit.io/qsp1f71zd/sori.jpeg?updatedAt=1728605026491",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

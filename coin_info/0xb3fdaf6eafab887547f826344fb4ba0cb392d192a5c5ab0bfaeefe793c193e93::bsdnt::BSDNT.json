@@ -1,0 +1,13 @@
+{
+  "name": "BASED PRESIDENT",
+  "symbol": "BSDNT",
+  "decimals": 9,
+  "coin_type": "0xb3fdaf6eafab887547f826344fb4ba0cb392d192a5c5ab0bfaeefe793c193e93::bsdnt::BSDNT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/S1nJxXLsFLmvZmrseJiee5XNSmy5YTCMErdadaTpump.png?size=xl&key=e9ba73",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

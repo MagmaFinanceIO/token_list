@@ -1,0 +1,13 @@
+{
+  "name": "opportunity",
+  "symbol": "PPY",
+  "decimals": 1,
+  "coin_type": "0x148a9cd32e7f27464b42af0cffcb444332c19623ee14009c9b523275738b82cb::ppy::PPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7d233b0d-bcd0-4b92-bd16-faabf92a60be.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "The Blue Pill",
+  "symbol": "SUIGRA",
+  "decimals": 6,
+  "coin_type": "0xfb5fb2d4181d12943b531bb6f58180e538d1f9b5cc57167bf2dd7979b309d551::suigra::SUIGRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_9087_37e394a3ba.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

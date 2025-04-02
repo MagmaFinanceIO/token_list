@@ -1,0 +1,13 @@
+{
+  "name": "Contra",
+  "symbol": "CNTRA",
+  "decimals": 9,
+  "coin_type": "0x728d8cf6d959aa33ef8472bd0a8e8e3d3dd735ed287f66a449bd63c1c481ccb3::cntra::CNTRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bd532b4e-76a6-42f4-b171-350093becb31.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

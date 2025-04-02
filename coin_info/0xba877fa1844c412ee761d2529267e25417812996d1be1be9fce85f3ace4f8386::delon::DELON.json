@@ -1,0 +1,13 @@
+{
+  "name": "Dark Elon",
+  "symbol": "DELON",
+  "decimals": 9,
+  "coin_type": "0xba877fa1844c412ee761d2529267e25417812996d1be1be9fce85f3ace4f8386::delon::DELON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aa2b2dea-ff5f-4c73-baf3-6a082e8b1410.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

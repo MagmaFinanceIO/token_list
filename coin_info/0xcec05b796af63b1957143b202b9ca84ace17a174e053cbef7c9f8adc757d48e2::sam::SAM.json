@@ -1,0 +1,13 @@
+{
+  "name": "Samtoshi",
+  "symbol": "SAM",
+  "decimals": 6,
+  "coin_type": "0xcec05b796af63b1957143b202b9ca84ace17a174e053cbef7c9f8adc757d48e2::sam::SAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736483001501.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

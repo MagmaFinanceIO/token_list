@@ -1,0 +1,13 @@
+{
+  "name": "Sindhi Dogie",
+  "symbol": "SDOGIE",
+  "decimals": 9,
+  "coin_type": "0xcedd165292bdbff48bed02db20524acc8788a7026f18d6534af11ac6d925274a::sdogie::SDOGIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a8a93c57-1db7-4f63-a57d-8eeb8c549895.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

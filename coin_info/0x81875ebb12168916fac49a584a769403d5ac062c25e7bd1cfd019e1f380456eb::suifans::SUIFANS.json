@@ -1,0 +1,13 @@
+{
+  "name": "SUI Fans",
+  "symbol": "SUIfans",
+  "decimals": 6,
+  "coin_type": "0x81875ebb12168916fac49a584a769403d5ac062c25e7bd1cfd019e1f380456eb::suifans::SUIFANS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SUI_Fans_33928a7f50.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

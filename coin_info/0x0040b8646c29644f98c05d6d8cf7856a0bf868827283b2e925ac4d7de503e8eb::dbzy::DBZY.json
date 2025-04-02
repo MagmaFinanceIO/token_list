@@ -1,0 +1,13 @@
+{
+  "name": "Dubzy",
+  "symbol": "Dbzy",
+  "decimals": 6,
+  "coin_type": "0x0040b8646c29644f98c05d6d8cf7856a0bf868827283b2e925ac4d7de503e8eb::dbzy::DBZY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1920_e5673639c1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

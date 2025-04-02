@@ -1,0 +1,13 @@
+{
+  "name": "SuVidia",
+  "symbol": "SVIDIA",
+  "decimals": 9,
+  "coin_type": "0x512b19ba7b62d339fd419336d78f3dbaa289283f8f9eeb4e1cdbd818ae721477::svidia::SVIDIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1748035354475823105/VkENH0r4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

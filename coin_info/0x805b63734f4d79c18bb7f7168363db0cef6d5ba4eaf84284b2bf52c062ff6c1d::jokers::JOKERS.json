@@ -1,0 +1,13 @@
+{
+  "name": "Joker Sui Fun",
+  "symbol": "JOKERS",
+  "decimals": 6,
+  "coin_type": "0x805b63734f4d79c18bb7f7168363db0cef6d5ba4eaf84284b2bf52c062ff6c1d::jokers::JOKERS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_3_4_89bd5ddc68.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

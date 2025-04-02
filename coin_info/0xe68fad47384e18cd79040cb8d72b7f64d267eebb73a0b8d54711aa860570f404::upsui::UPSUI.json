@@ -1,0 +1,13 @@
+{
+  "name": "Double Up Sui",
+  "symbol": "UPSUI",
+  "decimals": 9,
+  "coin_type": "0xe68fad47384e18cd79040cb8d72b7f64d267eebb73a0b8d54711aa860570f404::upsui::UPSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.doubleup.fun/Diamond_Only.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

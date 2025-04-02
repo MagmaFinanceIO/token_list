@@ -1,0 +1,13 @@
+{
+  "name": "BarronTest",
+  "symbol": "BarronTest",
+  "decimals": 6,
+  "coin_type": "0x4c556b35ab1126db7edcea4438f387f932e9b278b416409c3abc5e6e0b705756::barrontest::BARRONTEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2d9e4b63-f900-4957-be12-7c00573b227b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

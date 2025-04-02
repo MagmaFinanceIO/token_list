@@ -1,0 +1,13 @@
+{
+  "name": "MR. Graphito",
+  "symbol": "GRAPH",
+  "decimals": 9,
+  "coin_type": "0xb4196285aed224d7d74b923e59ecc9e59c0e2b305488867d52fef28480b7b20f::graph::GRAPH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/75f763ba-cca2-47fe-b34d-f89e771e5e9f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

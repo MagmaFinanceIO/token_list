@@ -1,0 +1,13 @@
+{
+  "name": "Tontoba Coin on SUI",
+  "symbol": "TONTOBA",
+  "decimals": 6,
+  "coin_type": "0x98f79a20dfdd1cfb86102601f2cfeaba9c8e2441189b582785f2ef4e6e78c134::tontoba::TONTOBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_11_25_14_06_37_6875099e98.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

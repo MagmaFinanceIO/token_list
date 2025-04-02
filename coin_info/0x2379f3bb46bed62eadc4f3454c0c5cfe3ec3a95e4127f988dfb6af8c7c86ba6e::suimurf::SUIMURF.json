@@ -1,0 +1,13 @@
+{
+  "name": "SUIMURF",
+  "symbol": "SUIMURF",
+  "decimals": 9,
+  "coin_type": "0x2379f3bb46bed62eadc4f3454c0c5cfe3ec3a95e4127f988dfb6af8c7c86ba6e::suimurf::SUIMURF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c3c2b431-ef3c-47d6-9f56-1c6cbe2f3b29.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

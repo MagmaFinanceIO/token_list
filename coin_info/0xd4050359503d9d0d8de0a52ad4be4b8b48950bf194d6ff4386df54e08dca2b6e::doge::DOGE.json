@@ -1,0 +1,13 @@
+{
+  "name": "DOGE on SOL",
+  "symbol": "DOGE",
+  "decimals": 9,
+  "coin_type": "0xd4050359503d9d0d8de0a52ad4be4b8b48950bf194d6ff4386df54e08dca2b6e::doge::DOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/RH8madTrhXDzKyk1URwmtNgDa2YHQJDUXnwhVx9doge.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Test12",
+  "symbol": "TEsttwelve",
+  "decimals": 9,
+  "coin_type": "0x50ed6cc59a794eee960b128c754c69459c8a36bbe2f42b4f8c36dd7aa8689cca::testtwelve::TESTTWELVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1811e27c-40a7-4a84-9d62-8ae4627023ba.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

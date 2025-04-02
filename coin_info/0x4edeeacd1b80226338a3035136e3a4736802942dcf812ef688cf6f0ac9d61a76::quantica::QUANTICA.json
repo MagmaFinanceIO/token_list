@@ -1,0 +1,13 @@
+{
+  "name": "Quantica AI",
+  "symbol": "QUANTICA",
+  "decimals": 9,
+  "coin_type": "0x4edeeacd1b80226338a3035136e3a4736802942dcf812ef688cf6f0ac9d61a76::quantica::QUANTICA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8v3ua4CC4fmKKz7mLn6D3hRhxWgdwRAXtaJeCyrkpump.png?size=lg&key=0ec237",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

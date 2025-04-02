@@ -1,0 +1,13 @@
+{
+  "name": "Scrat the Squirrel",
+  "symbol": "SCRAT",
+  "decimals": 9,
+  "coin_type": "0xec7f226f53c42ecf332b60d637af1cf1400b1050d2f483f2de1b49e7155cd616::scrat::SCRAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FDcxbhN8skU853oz4Ky1mAwHaPeAqRRhPAVToRqq7nqD.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

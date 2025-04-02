@@ -1,0 +1,13 @@
+{
+  "name": "Ramen Cat",
+  "symbol": "RAMENCAT",
+  "decimals": 6,
+  "coin_type": "0x95f29b680f2b24ebc27c939f4aa174330b45886d756dd2262bac10a5322114bf::ramencat::RAMENCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_R_Tajh_Fws_BMXZ_6_Efq3fvr9_EP_2_Sn_A2h_YP_Wo_MB_Nc_F43e_C_Sf_ee9749bac3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

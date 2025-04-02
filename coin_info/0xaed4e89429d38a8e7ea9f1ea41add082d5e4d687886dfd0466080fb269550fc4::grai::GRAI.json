@@ -1,0 +1,13 @@
+{
+  "name": "GRINCH AI",
+  "symbol": "GRAI",
+  "decimals": 9,
+  "coin_type": "0xaed4e89429d38a8e7ea9f1ea41add082d5e4d687886dfd0466080fb269550fc4::grai::GRAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/scTdi5qfMrhGdDXg4osjWbPuBfSwCsFaEBfHw4rpump.png?size=lg&key=699c3f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

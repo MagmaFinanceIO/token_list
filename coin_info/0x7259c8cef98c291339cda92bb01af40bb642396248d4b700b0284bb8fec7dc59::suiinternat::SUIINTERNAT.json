@@ -1,0 +1,13 @@
+{
+  "name": "SUIInterNational",
+  "symbol": "SUIINTERNAT",
+  "decimals": 9,
+  "coin_type": "0x7259c8cef98c291339cda92bb01af40bb642396248d4b700b0284bb8fec7dc59::suiinternat::SUIINTERNAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/362df535-59d0-4927-8a35-299a6b6ec33b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

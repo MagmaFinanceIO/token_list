@@ -1,0 +1,13 @@
+{
+  "name": "Sniper Rekt",
+  "symbol": "RKT",
+  "decimals": 6,
+  "coin_type": "0x8cdf6606cfc8b209386b96c036d2c3e554fff80e188d56ffdb12de547ba884cc::rkt::RKT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/rkt_5d7ca8496a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

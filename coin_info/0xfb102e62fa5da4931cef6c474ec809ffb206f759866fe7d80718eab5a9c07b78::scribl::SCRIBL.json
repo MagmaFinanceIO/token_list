@@ -1,0 +1,13 @@
+{
+  "name": "Scribbles",
+  "symbol": "SCRIBL",
+  "decimals": 6,
+  "coin_type": "0xfb102e62fa5da4931cef6c474ec809ffb206f759866fe7d80718eab5a9c07b78::scribl::SCRIBL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/vision_f06e2083b1.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

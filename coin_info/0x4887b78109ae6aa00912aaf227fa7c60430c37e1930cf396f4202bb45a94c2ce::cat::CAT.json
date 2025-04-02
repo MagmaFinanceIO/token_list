@@ -1,0 +1,13 @@
+{
+  "name": "CAT FACE",
+  "symbol": "CAT",
+  "decimals": 6,
+  "coin_type": "0x4887b78109ae6aa00912aaf227fa7c60430c37e1930cf396f4202bb45a94c2ce::cat::CAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/cat.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

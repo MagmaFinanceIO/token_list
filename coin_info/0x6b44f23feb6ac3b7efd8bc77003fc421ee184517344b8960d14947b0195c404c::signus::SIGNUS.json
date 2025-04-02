@@ -1,0 +1,13 @@
+{
+  "name": "SIGNUS BOT",
+  "symbol": "SIGNUS",
+  "decimals": 9,
+  "coin_type": "0x6b44f23feb6ac3b7efd8bc77003fc421ee184517344b8960d14947b0195c404c::signus::SIGNUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ac5d8936-a9a2-497c-8b53-6515e6743abc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

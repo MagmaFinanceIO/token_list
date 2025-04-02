@@ -1,0 +1,13 @@
+{
+  "name": "Squirrel AI Agent by SuiAI",
+  "symbol": "SQUIRREL",
+  "decimals": 6,
+  "coin_type": "0x79c33940a56794409f9f93850ecb8d74864f83382dd98e3da7f7cfe176db3e37::squirrel::SQUIRREL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/logo_72095510c4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Fizzmas",
+  "symbol": "Fizzmas",
+  "decimals": 9,
+  "coin_type": "0x9166468dbe085555fb47893502f3b3c90d0b4d7404e0ba4e02b85e01cd194590::fizzmas::FIZZMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GChHk2mSTv8rcsdDhWsZYu92ESH3LVeo9op9HYbDSaUY.png?size=lg&key=8cd3c8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

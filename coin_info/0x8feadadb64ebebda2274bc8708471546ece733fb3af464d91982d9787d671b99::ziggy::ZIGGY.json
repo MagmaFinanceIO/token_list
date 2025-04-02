@@ -1,0 +1,13 @@
+{
+  "name": "Truth Terminal Creators Dog",
+  "symbol": "ZIGGY",
+  "decimals": 9,
+  "coin_type": "0x8feadadb64ebebda2274bc8708471546ece733fb3af464d91982d9787d671b99::ziggy::ZIGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/btgbdakeyMTWpy1Y?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

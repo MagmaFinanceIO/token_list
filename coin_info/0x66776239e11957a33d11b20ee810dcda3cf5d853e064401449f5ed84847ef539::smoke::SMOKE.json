@@ -1,0 +1,13 @@
+{
+  "name": "Smoke",
+  "symbol": "SMOKE",
+  "decimals": 9,
+  "coin_type": "0x66776239e11957a33d11b20ee810dcda3cf5d853e064401449f5ed84847ef539::smoke::SMOKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/863/829/large/-d83b47792fc39e8c3161d4ddd906122.jpg?1728729157",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

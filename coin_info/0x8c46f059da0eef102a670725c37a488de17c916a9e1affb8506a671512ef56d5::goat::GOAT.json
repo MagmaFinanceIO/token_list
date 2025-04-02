@@ -1,0 +1,13 @@
+{
+  "name": "HopGoat",
+  "symbol": "Goat",
+  "decimals": 6,
+  "coin_type": "0x8c46f059da0eef102a670725c37a488de17c916a9e1affb8506a671512ef56d5::goat::GOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/a_Goat_c5aa57b7b4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

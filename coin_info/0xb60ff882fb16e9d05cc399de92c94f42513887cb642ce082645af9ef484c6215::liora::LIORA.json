@@ -1,0 +1,13 @@
+{
+  "name": "Liora",
+  "symbol": "Liora",
+  "decimals": 9,
+  "coin_type": "0xb60ff882fb16e9d05cc399de92c94f42513887cb642ce082645af9ef484c6215::liora::LIORA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5cigB4xUy9J2xzk2htUreJT9dgRXiC1hjawdDk1fpump.png?size=lg&key=a37afe",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

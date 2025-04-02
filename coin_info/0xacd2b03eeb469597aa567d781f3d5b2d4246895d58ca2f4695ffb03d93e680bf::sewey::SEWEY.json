@@ -1,0 +1,13 @@
+{
+  "name": "Sewey",
+  "symbol": "SEWEY",
+  "decimals": 6,
+  "coin_type": "0xacd2b03eeb469597aa567d781f3d5b2d4246895d58ca2f4695ffb03d93e680bf::sewey::SEWEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_Artwork_98520d8ac2.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

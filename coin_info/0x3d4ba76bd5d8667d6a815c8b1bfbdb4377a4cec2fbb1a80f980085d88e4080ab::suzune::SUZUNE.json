@@ -1,0 +1,13 @@
+{
+  "name": "Suzune",
+  "symbol": "SUZUNE",
+  "decimals": 9,
+  "coin_type": "0x3d4ba76bd5d8667d6a815c8b1bfbdb4377a4cec2fbb1a80f980085d88e4080ab::suzune::SUZUNE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7gn5PmuxLwMrifYMyroALbhBmWB5e4aPSsvPmnZtpump.png?size=xl&key=3fc654",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

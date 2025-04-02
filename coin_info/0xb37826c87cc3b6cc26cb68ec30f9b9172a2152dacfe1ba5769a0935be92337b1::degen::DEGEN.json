@@ -1,0 +1,13 @@
+{
+  "name": "Degem SUI",
+  "symbol": "Degen",
+  "decimals": 6,
+  "coin_type": "0xb37826c87cc3b6cc26cb68ec30f9b9172a2152dacfe1ba5769a0935be92337b1::degen::DEGEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/STRICKER_00000_fd1a8b4b9e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

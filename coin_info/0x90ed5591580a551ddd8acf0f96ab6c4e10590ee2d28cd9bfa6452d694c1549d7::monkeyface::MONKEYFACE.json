@@ -1,0 +1,13 @@
+{
+  "name": "MONKEY FACE",
+  "symbol": "MONKEYFACE",
+  "decimals": 6,
+  "coin_type": "0x90ed5591580a551ddd8acf0f96ab6c4e10590ee2d28cd9bfa6452d694c1549d7::monkeyface::MONKEYFACE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/monkeyface.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "The ILLUSION Project",
+  "symbol": "ILLUSION",
+  "decimals": 9,
+  "coin_type": "0x1d9935d6cd4120705f74cdd225309fa6f9bbb0fdcf40944558fe629f3eb1d99e::illusion::ILLUSION",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmSzHt7br8DD1UmnVkNVaJgiARpm4QRpWhVvkaJHeTgqFD",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

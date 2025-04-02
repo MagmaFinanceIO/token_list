@@ -1,0 +1,13 @@
+{
+  "name": "Sorra",
+  "symbol": "SOR",
+  "decimals": 9,
+  "coin_type": "0x1dc4f6e2463f96d7f9640145ea1ae46550dbf355e5bea2ff18e8fea781790917::sor::SOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xe021baa5b70c62a9ab2468490d3f8ce0afdd88df.png?size=xl&key=e9eeae",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

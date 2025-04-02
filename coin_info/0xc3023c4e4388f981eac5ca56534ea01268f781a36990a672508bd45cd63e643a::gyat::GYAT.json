@@ -1,0 +1,13 @@
+{
+  "name": "Gyat Coin",
+  "symbol": "GYAT",
+  "decimals": 9,
+  "coin_type": "0xc3023c4e4388f981eac5ca56534ea01268f781a36990a672508bd45cd63e643a::gyat::GYAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EfgEGG9PxLhyk1wqtqgGnwgfVC7JYic3vC9BCWLvpump.png?size=lg&key=6f07a3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Potato by SuiAI",
+  "symbol": "SUITATO",
+  "decimals": 6,
+  "coin_type": "0x4650db2557cd3f836eef61631ba5fd08bb98509aa0562662765546b5341b8f2d::suitato::SUITATO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Anadir_un_titulo_73_9d95005697.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

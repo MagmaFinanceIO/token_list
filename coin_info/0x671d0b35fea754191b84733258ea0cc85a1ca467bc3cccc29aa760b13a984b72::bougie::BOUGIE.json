@@ -1,0 +1,13 @@
+{
+  "name": "Bougie Dog",
+  "symbol": "BOUGIE",
+  "decimals": 9,
+  "coin_type": "0x671d0b35fea754191b84733258ea0cc85a1ca467bc3cccc29aa760b13a984b72::bougie::BOUGIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/acf784b0-8961-4944-b0b2-f279a4e98be4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

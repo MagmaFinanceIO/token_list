@@ -1,0 +1,13 @@
+{
+  "name": "TRUSK ON SUI",
+  "symbol": "TRUSK",
+  "decimals": 9,
+  "coin_type": "0xe68f864c6b0e0e6bc3818f1e67c39bdc5a93a68f714c71c8374984eae489a9a9::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

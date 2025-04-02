@@ -1,0 +1,13 @@
+{
+  "name": "Matt Furie’s Whale",
+  "symbol": "WHALE",
+  "decimals": 9,
+  "coin_type": "0x6981466b674f8a155e4a05f75ea560a2227549ca502e277bf0d0af22eb7b9771::whale::WHALE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0fd665c1-444c-4fbc-97b0-1615730be599.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

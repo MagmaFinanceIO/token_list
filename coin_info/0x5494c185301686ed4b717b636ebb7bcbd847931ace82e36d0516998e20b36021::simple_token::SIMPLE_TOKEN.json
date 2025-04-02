@@ -1,0 +1,13 @@
+{
+  "name": "ZYS",
+  "symbol": "ZYS",
+  "decimals": 9,
+  "coin_type": "0x5494c185301686ed4b717b636ebb7bcbd847931ace82e36d0516998e20b36021::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CABAL AI",
+  "symbol": "CBLAI",
+  "decimals": 9,
+  "coin_type": "0xab2e9d932b9802530a353489c7f10fd820868d1c761fe28a3a93380600bb1db1::cblai::CBLAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8AiofvntQrqVpk7rg9d5kTkfREUKM7aqRJcoUG6qbUKy.png?size=lg&key=7c7292",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

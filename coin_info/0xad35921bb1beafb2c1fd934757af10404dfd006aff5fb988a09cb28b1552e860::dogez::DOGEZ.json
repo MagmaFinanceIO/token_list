@@ -1,0 +1,13 @@
+{
+  "name": "DOGEZ",
+  "symbol": "DOGEZ",
+  "decimals": 9,
+  "coin_type": "0xad35921bb1beafb2c1fd934757af10404dfd006aff5fb988a09cb28b1552e860::dogez::DOGEZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3pq2z3MV9f65nKfigi9i82ro2mdNS2os1VDUfqFTER3E.png?size=lg&key=257513",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

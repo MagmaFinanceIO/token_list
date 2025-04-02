@@ -1,0 +1,13 @@
+{
+  "name": "Crypto Goat",
+  "symbol": "Goat",
+  "decimals": 9,
+  "coin_type": "0x73588f6958ada741ab7711e96a001889426b47e86021a2e9ea5bba297563b128::goat::GOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/20acb6a65d2a2be58b8dcc01eb3cae7eblob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

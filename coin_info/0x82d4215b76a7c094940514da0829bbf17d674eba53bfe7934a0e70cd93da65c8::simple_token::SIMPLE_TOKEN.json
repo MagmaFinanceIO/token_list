@@ -1,0 +1,13 @@
+{
+  "name": "STARGATE ON SUI",
+  "symbol": "STARGATE",
+  "decimals": 9,
+  "coin_type": "0x82d4215b76a7c094940514da0829bbf17d674eba53bfe7934a0e70cd93da65c8::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

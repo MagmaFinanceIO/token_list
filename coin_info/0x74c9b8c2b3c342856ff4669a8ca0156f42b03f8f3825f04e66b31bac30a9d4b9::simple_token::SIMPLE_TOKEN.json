@@ -1,0 +1,13 @@
+{
+  "name": "SWACK",
+  "symbol": "SWACK",
+  "decimals": 9,
+  "coin_type": "0x74c9b8c2b3c342856ff4669a8ca0156f42b03f8f3825f04e66b31bac30a9d4b9::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DONNE",
+  "symbol": "MERCI",
+  "decimals": 6,
+  "coin_type": "0xbf6cfd87839f9542f346a021d08f68b2daddc12c6023c768c55124d6bc7be873::merci::MERCI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/spy_a344c59126.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

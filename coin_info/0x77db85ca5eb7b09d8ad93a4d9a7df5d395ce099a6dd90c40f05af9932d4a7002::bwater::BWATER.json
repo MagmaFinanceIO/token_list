@@ -1,0 +1,13 @@
+{
+  "name": "Brett in the water",
+  "symbol": "BWATER",
+  "decimals": 6,
+  "coin_type": "0x77db85ca5eb7b09d8ad93a4d9a7df5d395ce099a6dd90c40f05af9932d4a7002::bwater::BWATER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/brett_245a14fcbf.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

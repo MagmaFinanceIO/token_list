@@ -1,0 +1,13 @@
+{
+  "name": "Toasty Tony",
+  "symbol": "TOASTY",
+  "decimals": 9,
+  "coin_type": "0xe8fe3c865b1c6eaff79d628261c925e64fe4b2fd2c031db3847ad11672b7c9d0::toasty::TOASTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e09a04ab-396d-47b1-87fd-eb7e6ab2d3d6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

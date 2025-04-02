@@ -1,0 +1,13 @@
+{
+  "name": "Dog wif cash",
+  "symbol": "DOGCASH",
+  "decimals": 9,
+  "coin_type": "0x91de6db9673d824f220728c309eecb51e5c21295a15ad900fb13b42e50910b81::dogcash::DOGCASH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/cR2b6vVn8CN95q21eTuZXoWCCeuJDHGMP6o2Toayd7g.png?size=xl&key=06c713",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

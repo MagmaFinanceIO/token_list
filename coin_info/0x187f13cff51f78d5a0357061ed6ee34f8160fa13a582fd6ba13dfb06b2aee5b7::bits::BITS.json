@@ -1,0 +1,13 @@
+{
+  "name": "2BITS TERM",
+  "symbol": "BITS",
+  "decimals": 6,
+  "coin_type": "0x187f13cff51f78d5a0357061ed6ee34f8160fa13a582fd6ba13dfb06b2aee5b7::bits::BITS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/G2_Lbf_K_Fj_400x400_c06914a716.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

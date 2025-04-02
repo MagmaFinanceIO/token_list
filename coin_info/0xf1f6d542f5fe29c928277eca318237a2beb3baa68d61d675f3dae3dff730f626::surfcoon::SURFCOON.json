@@ -1,0 +1,13 @@
+{
+  "name": "SurfCoon",
+  "symbol": "SurfCoon",
+  "decimals": 9,
+  "coin_type": "0xf1f6d542f5fe29c928277eca318237a2beb3baa68d61d675f3dae3dff730f626::surfcoon::SURFCOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9fa9be5b-96cf-4db5-9aa6-53859be34160.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

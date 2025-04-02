@@ -1,0 +1,13 @@
+{
+  "name": "Daddy Sui",
+  "symbol": "DADDY",
+  "decimals": 9,
+  "coin_type": "0x8b9db7a9592f171ae9624cd94b318b52b4f4afe623261a0944c7b5392ec98b06::daddy::DADDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8fd44f69-766f-4df0-8317-28a43cf4eb56.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

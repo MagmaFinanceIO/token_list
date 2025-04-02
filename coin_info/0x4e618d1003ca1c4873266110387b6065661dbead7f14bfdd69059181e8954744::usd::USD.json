@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL UNITED STATE DOLLAR",
+  "symbol": "USD",
+  "decimals": 9,
+  "coin_type": "0x4e618d1003ca1c4873266110387b6065661dbead7f14bfdd69059181e8954744::usd::USD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3Aq3vFLFiVojYv14trmnXv8eRc8tuRDEZtYMjouWpump.png?size=lg&key=a52720",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

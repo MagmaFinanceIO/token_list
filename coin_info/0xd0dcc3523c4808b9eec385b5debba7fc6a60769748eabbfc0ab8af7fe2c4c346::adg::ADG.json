@@ -1,0 +1,13 @@
+{
+  "name": "AdiGazAi",
+  "symbol": "ADG",
+  "decimals": 6,
+  "coin_type": "0xd0dcc3523c4808b9eec385b5debba7fc6a60769748eabbfc0ab8af7fe2c4c346::adg::ADG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Leonardo_Phoenix_09_A_vibrant_3_D_rendered_Adidas_Gazelle_sneak_0_5e66dbf64b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

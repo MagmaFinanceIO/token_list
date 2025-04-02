@@ -1,0 +1,13 @@
+{
+  "name": "BRIDGY: The Cross-Chain Connector by SuiAI",
+  "symbol": "BRIDGY",
+  "decimals": 6,
+  "coin_type": "0xaba7f395a0dfffb264c2541fc6c3fca2a7753ac2fec1524df39b9633008b1660::bridgy::BRIDGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_6754_46a4f3d071.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Tether (Celer)",
+  "symbol": "cUSDT",
+  "decimals": 6,
+  "coin_type": "0x94e7a8e71830d2b34b3edaa195dc24c45d142584f06fa257b73af753d766e690::celer_usdt_coin::CELER_USDT_COIN",
+  "pyth_id": "2b89b9dc8fdf9f34709a5b106b472f0f39bb6ca9ce04b0fd7f2e971688e2e53b",
+  "birdeyeid": "0x94e7a8e71830d2b34b3edaa195dc24c45d142584f06fa257b73af753d766e690::celer_usdt_coin::CELER_USDT_COIN",
+  "coin_priority": [],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/usdt_celer.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

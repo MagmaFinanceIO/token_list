@@ -1,0 +1,13 @@
+{
+  "name": "ALIVE",
+  "symbol": "ALIVE",
+  "decimals": 9,
+  "coin_type": "0xc5e1de7203f167ce3a54d3a10bf5d6df1da51bcc31878bed9517bb1b79370b86::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

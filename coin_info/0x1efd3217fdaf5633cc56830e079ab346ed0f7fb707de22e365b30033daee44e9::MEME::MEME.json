@@ -1,0 +1,13 @@
+{
+  "name": "Trump election",
+  "symbol": "TRUMP",
+  "decimals": 9,
+  "coin_type": "0x1efd3217fdaf5633cc56830e079ab346ed0f7fb707de22e365b30033daee44e9::MEME::MEME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FartDOG",
+  "symbol": "FDOG",
+  "decimals": 9,
+  "coin_type": "0xbb94ef7532a85325dff7472a955cba5c31c2d8f0ae59ede78d7f5ef37f25a7f0::fdog::FDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/69497979-86eb-4ad2-af97-f81d2e4275f5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

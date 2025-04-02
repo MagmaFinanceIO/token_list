@@ -1,0 +1,13 @@
+{
+  "name": "D.O.G.E N.U.T A.I",
+  "symbol": "DOGENUTA",
+  "decimals": 9,
+  "coin_type": "0x2751289b0ed2ba38eba161983dfc254cc7c80808d651ec34c33d067db4406727::dogenuta::DOGENUTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cb824f6f-c69a-4041-9471-227f16a20ac2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

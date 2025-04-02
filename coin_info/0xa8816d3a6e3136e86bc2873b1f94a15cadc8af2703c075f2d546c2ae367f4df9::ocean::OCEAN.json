@@ -1,0 +1,13 @@
+{
+  "name": "Ocean Token",
+  "symbol": "OCEAN",
+  "decimals": 9,
+  "coin_type": "0xa8816d3a6e3136e86bc2873b1f94a15cadc8af2703c075f2d546c2ae367f4df9::ocean::OCEAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://file.walletapp.waveonsui.com/logos/ocean.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

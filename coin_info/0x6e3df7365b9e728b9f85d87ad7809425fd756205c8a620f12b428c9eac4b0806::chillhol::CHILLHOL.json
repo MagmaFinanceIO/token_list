@@ -1,0 +1,13 @@
+{
+  "name": "Chill Holiday",
+  "symbol": "Chillhol",
+  "decimals": 9,
+  "coin_type": "0x6e3df7365b9e728b9f85d87ad7809425fd756205c8a620f12b428c9eac4b0806::chillhol::CHILLHOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6Fki2HZRJNxRz9qi4eRnkYEDGjhHNi9FXKukgzZMZhVz.png?size=lg&key=a16423",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

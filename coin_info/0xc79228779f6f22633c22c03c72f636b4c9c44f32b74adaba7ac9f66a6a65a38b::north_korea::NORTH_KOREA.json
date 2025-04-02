@@ -1,0 +1,13 @@
+{
+  "name": "North Korea",
+  "symbol": "North Korea",
+  "decimals": 2,
+  "coin_type": "0xc79228779f6f22633c22c03c72f636b4c9c44f32b74adaba7ac9f66a6a65a38b::north_korea::NORTH_KOREA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/02b79606-16f6-4ffe-ba54-4db679c85705.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

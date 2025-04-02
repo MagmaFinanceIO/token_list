@@ -1,0 +1,13 @@
+{
+  "name": "When Lambo?",
+  "symbol": "LAMBO",
+  "decimals": 9,
+  "coin_type": "0xfc8c5ac01e74db3befb4bb97d9c338cdbc47a51fa890b04ab245327cea68daf6::lambo::LAMBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2Unp9JkNoaWt8Kv9U8Mh9zBegzBwNacaqGDKnN5Spump.png?size=lg&key=4ce005",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

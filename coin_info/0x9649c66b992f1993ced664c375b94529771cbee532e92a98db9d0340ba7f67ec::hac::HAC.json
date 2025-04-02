@@ -1,0 +1,13 @@
+{
+  "name": "HackArCode Token",
+  "symbol": "HAC",
+  "decimals": 9,
+  "coin_type": "0x9649c66b992f1993ced664c375b94529771cbee532e92a98db9d0340ba7f67ec::hac::HAC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ab1e3203-c1a9-4624-874d-7a5c8030830d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

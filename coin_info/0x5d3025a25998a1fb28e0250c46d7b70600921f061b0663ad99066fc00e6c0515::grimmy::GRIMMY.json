@@ -1,0 +1,13 @@
+{
+  "name": "Grimmy Inu",
+  "symbol": "GRIMMY",
+  "decimals": 9,
+  "coin_type": "0x5d3025a25998a1fb28e0250c46d7b70600921f061b0663ad99066fc00e6c0515::grimmy::GRIMMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2B83eodck3HxjbvZpJibsazGWwyFuS1o1i8nPfKApump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

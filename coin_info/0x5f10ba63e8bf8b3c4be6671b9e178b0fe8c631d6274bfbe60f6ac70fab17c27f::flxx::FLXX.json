@@ -1,0 +1,13 @@
+{
+  "name": "Flexx Coin",
+  "symbol": "FLXX",
+  "decimals": 9,
+  "coin_type": "0x5f10ba63e8bf8b3c4be6671b9e178b0fe8c631d6274bfbe60f6ac70fab17c27f::flxx::FLXX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1f5c1855-8b0a-4ef3-9d9c-f7d6ddab62f1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

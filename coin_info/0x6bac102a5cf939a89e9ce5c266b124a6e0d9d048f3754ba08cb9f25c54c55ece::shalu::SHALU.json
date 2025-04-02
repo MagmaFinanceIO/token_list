@@ -1,0 +1,13 @@
+{
+  "name": "Shailushai",
+  "symbol": "SHALU",
+  "decimals": 9,
+  "coin_type": "0x6bac102a5cf939a89e9ce5c266b124a6e0d9d048f3754ba08cb9f25c54c55ece::shalu::SHALU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bfd16115-6cc5-4788-b469-6f617e2ef821.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

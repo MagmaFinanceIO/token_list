@@ -1,0 +1,13 @@
+{
+  "name": "Pikape",
+  "symbol": "PIKAPE",
+  "decimals": 9,
+  "coin_type": "0x9bc2f4b47e7c3e8ce15e9dfcd165877c4abdbf6d2f162ca890ddaf08bbae4f8c::pikape::PIKAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9Ln6MbfTFy9jAjQFCjeb8CSfPpKYAqotWw7XWRQjvSq2.png?size=lg&key=be7c7d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

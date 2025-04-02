@@ -1,0 +1,13 @@
+{
+  "name": "Suiet Union",
+  "symbol": "Suilin",
+  "decimals": 6,
+  "coin_type": "0x0c6cc5cd3abee917ca6ce684e2481cdf18c1a3737196dfc19608bb5e8e0c41ed::suilin::SUILIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/head_208ecb95e5.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

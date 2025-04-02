@@ -1,0 +1,13 @@
+{
+  "name": "suiheppo",
+  "symbol": "heppo",
+  "decimals": 6,
+  "coin_type": "0x3cd3a9681a2cef93e9d34dce6d4bdff4061bc9a13d6b67231d5cad2bf6af3a36::heppo::HEPPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmT9cAytovJL78nHHhq6cJJRiQPXNgaj9aLg8DjuRkiqKq",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

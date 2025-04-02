@@ -1,0 +1,13 @@
+{
+  "name": "Ant Super Computer",
+  "symbol": "NUCLEAR",
+  "decimals": 9,
+  "coin_type": "0xb30aee3fa3c23e8e5852949680499f7e3e35dfd53169b7103b44310d104e8d3a::nuclear::NUCLEAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6302cb1a-5b85-40b6-869e-e810a943b4f6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

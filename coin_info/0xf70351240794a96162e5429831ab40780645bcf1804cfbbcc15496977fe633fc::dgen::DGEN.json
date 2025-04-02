@@ -1,0 +1,13 @@
+{
+  "name": "Degen The Otter",
+  "symbol": "DGEN",
+  "decimals": 9,
+  "coin_type": "0xf70351240794a96162e5429831ab40780645bcf1804cfbbcc15496977fe633fc::dgen::DGEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmXcSgVmvWnbRk3dzZWBLKwXHmjEZSpqGGNkRqEavmULjd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

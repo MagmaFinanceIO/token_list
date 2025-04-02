@@ -1,0 +1,13 @@
+{
+  "name": "Maga Trump",
+  "symbol": "Trump",
+  "decimals": 6,
+  "coin_type": "0xa3f9c105007fc34a8ff3d2bc1b9d8b683a8323201f55f75ff55ad7b86f8b34a6::trump::TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731010188534.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

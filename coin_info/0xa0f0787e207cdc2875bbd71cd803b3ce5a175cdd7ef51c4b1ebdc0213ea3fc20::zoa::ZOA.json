@@ -1,0 +1,13 @@
+{
+  "name": "ZOA AI ",
+  "symbol": "ZOA",
+  "decimals": 9,
+  "coin_type": "0xa0f0787e207cdc2875bbd71cd803b3ce5a175cdd7ef51c4b1ebdc0213ea3fc20::zoa::ZOA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmZw7Hjb1CnqX6gx555Btz8isHzvpD2m4Ndgtt6SVpmFkS",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

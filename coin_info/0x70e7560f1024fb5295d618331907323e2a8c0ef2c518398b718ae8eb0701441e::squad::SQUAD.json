@@ -1,0 +1,13 @@
+{
+  "name": "NON SQUAD",
+  "symbol": "SQUAD",
+  "decimals": 9,
+  "coin_type": "0x70e7560f1024fb5295d618331907323e2a8c0ef2c518398b718ae8eb0701441e::squad::SQUAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5f48f194-395d-45e2-9347-3576af385532.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

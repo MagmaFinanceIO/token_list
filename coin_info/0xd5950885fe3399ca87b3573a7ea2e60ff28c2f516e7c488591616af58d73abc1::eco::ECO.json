@@ -1,0 +1,13 @@
+{
+  "name": "EcoVerse",
+  "symbol": "ECO",
+  "decimals": 9,
+  "coin_type": "0xd5950885fe3399ca87b3573a7ea2e60ff28c2f516e7c488591616af58d73abc1::eco::ECO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/79x6wWmM3xrgvGs3xaRnpxaXekuU7sYz8wVXnv9zpump.png?size=lg&key=1000ae",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

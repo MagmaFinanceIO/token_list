@@ -1,0 +1,13 @@
+{
+  "name": "Molly The Dogo",
+  "symbol": "MOLLY",
+  "decimals": 9,
+  "coin_type": "0x37bd9cd0076d7c27026bdf05697db678837a8d6ba41e86d0f5d0b4ee324acde6::molly::MOLLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b6c80097-d286-4005-8300-c33b7eeab718.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

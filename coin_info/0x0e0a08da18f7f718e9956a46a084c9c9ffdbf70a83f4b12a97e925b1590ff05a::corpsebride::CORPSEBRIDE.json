@@ -1,0 +1,13 @@
+{
+  "name": "Corpse Bride",
+  "symbol": "CORPSEBRIDE",
+  "decimals": 6,
+  "coin_type": "0x0e0a08da18f7f718e9956a46a084c9c9ffdbf70a83f4b12a97e925b1590ff05a::corpsebride::CORPSEBRIDE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Corpse_Bride_53e497f38d.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

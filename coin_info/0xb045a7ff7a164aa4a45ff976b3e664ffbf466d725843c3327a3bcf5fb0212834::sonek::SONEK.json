@@ -1,0 +1,13 @@
+{
+  "name": "Sonek",
+  "symbol": "SONEK",
+  "decimals": 6,
+  "coin_type": "0xb045a7ff7a164aa4a45ff976b3e664ffbf466d725843c3327a3bcf5fb0212834::sonek::SONEK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/20241220_135011_7d33f2da96.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

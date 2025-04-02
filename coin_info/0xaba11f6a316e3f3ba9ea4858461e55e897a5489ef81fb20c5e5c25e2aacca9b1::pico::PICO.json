@@ -1,0 +1,13 @@
+{
+  "name": "Picolas Cage",
+  "symbol": "PICO",
+  "decimals": 6,
+  "coin_type": "0xaba11f6a316e3f3ba9ea4858461e55e897a5489ef81fb20c5e5c25e2aacca9b1::pico::PICO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_12_03_065000_30fccc698d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

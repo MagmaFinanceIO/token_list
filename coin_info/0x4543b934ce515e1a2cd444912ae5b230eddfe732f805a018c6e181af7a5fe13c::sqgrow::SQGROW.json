@@ -1,0 +1,13 @@
+{
+  "name": "Squid Grow Sui",
+  "symbol": "SQGROW",
+  "decimals": 9,
+  "coin_type": "0x4543b934ce515e1a2cd444912ae5b230eddfe732f805a018c6e181af7a5fe13c::sqgrow::SQGROW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0881089e-6c1e-42a0-87e6-055e3a4ab8cd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

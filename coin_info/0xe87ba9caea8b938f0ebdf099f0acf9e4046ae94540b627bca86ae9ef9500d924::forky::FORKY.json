@@ -1,0 +1,13 @@
+{
+  "name": "Forky on sui",
+  "symbol": "FORKY",
+  "decimals": 6,
+  "coin_type": "0xe87ba9caea8b938f0ebdf099f0acf9e4046ae94540b627bca86ae9ef9500d924::forky::FORKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/0x3e2242cb2fc1465822a0bb81ca2fe1f633a45757_58ea13987a.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

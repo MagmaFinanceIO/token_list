@@ -1,0 +1,13 @@
+{
+  "name": "KriyaCetus-NAVX-Chopper-VaultToken",
+  "symbol": "KC_NAVX_CHOPPER_VT",
+  "decimals": 6,
+  "coin_type": "0x1e06cc1e491b434cd1be9f24e1f8a82f6fcb016f6fb87f0586b0fe57ecca6cbb::kc_navx_chopper_vt::KC_NAVX_CHOPPER_VT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e3d25a8d-04e0-42df-b88e-0ee0820a8dd0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

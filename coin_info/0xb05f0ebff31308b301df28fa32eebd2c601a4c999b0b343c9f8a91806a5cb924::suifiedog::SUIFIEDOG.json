@@ -1,0 +1,13 @@
+{
+  "name": "Suifie Dog",
+  "symbol": "SuifieDog",
+  "decimals": 6,
+  "coin_type": "0xb05f0ebff31308b301df28fa32eebd2c601a4c999b0b343c9f8a91806a5cb924::suifiedog::SUIFIEDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/DHU_Zu_yw_400x400_a34c2959a8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

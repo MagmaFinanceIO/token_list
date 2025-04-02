@@ -1,0 +1,13 @@
+{
+  "name": "Methie The Rat",
+  "symbol": "METHIE",
+  "decimals": 9,
+  "coin_type": "0xe1abd41b0cfd25d0330e298bd69cbeddccf8bc808fb246e7cfdf444f29545cf2::methie::METHIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Asrho131eXNBZXvLtLqL3MFTirFFrEXaW9QBSnU3pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

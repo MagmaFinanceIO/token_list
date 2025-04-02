@@ -1,0 +1,13 @@
+{
+  "name": "SuiMania",
+  "symbol": "SUIMANIA",
+  "decimals": 8,
+  "coin_type": "0xa4bf79c6776d63434da476808256627899a08d1115d349fc50e316bbe6fe64f3::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

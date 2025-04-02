@@ -1,0 +1,13 @@
+{
+  "name": "Dop",
+  "symbol": "DOP",
+  "decimals": 6,
+  "coin_type": "0xcde836b47b056497a0f6a0369b3a6bd0f48e80f0c8f98f954e55d37d6145f90a::dop::DOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7556_1_27d5d6856e.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

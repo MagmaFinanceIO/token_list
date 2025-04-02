@@ -1,0 +1,13 @@
+{
+  "name": "SUISAD",
+  "symbol": "sdA",
+  "decimals": 9,
+  "coin_type": "0x8bae2c04de50117fe93da23acea675da4c2ed9b087c7bd1b1598ab534da8813b::sda::SDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cb352034-bdf7-42f0-8dc5-7efe3a9c5dab.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

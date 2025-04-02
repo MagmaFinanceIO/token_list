@@ -1,0 +1,13 @@
+{
+  "name": "Grendel",
+  "symbol": "GRENDEL",
+  "decimals": 9,
+  "coin_type": "0x215ee4f8656756284f0d7bd3b4b9de9b4584efd2ec5b49f34bc98f8a923d83e0::grendel::GRENDEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/887/656/large/joan-francesc-oliveras-pallerols-grendel.jpg?1728819098",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

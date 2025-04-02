@@ -1,0 +1,13 @@
+{
+  "name": "WHATEVER",
+  "symbol": "POOP",
+  "decimals": 9,
+  "coin_type": "0x6cb8f7ba3846d8861d19f31714015ddce50779fd53a302f094e073523351e81e::whatever::WHATEVER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://freelogopng.com/images/all_img/1690643640twitter-x-icon-png.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SHARPEI",
+  "symbol": "SHAR",
+  "decimals": 9,
+  "coin_type": "0x8cbc229b3a331e3b41a7c262eda835f3aa4da62f4e30ba90c12b6cc881c79f87::shar::SHAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9jZgvgS2bWtQiYzv48GcWzY4tnkeRSANbTm8Kp1LmSyS.png?size=lg&key=27244a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

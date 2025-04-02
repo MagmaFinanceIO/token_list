@@ -1,0 +1,13 @@
+{
+  "name": "SUIWOOF",
+  "symbol": "SUIWOOF",
+  "decimals": 9,
+  "coin_type": "0xfea6be87e721fc44665822082a7211bded66f4c41405c924e84f3e9d197d18c9::suiwoof::SUIWOOF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.seadn.io/gcs/files/6c2ce33eefa4a583cb08283cfdd004ff.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

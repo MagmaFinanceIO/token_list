@@ -1,0 +1,13 @@
+{
+  "name": "Free Suily",
+  "symbol": "Suily",
+  "decimals": 6,
+  "coin_type": "0x75630368966596aeea89bb4d8bfa47f5dfc6a06d2048443d31c21e5c47928a3b::suily::SUILY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_c4459c72_7cd2_4a4a_ba9d_11fc451d93f8_fb70af72dc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

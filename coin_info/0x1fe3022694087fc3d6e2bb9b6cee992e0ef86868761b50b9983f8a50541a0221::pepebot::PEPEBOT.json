@@ -1,0 +1,13 @@
+{
+  "name": "PepeRobot",
+  "symbol": "Pepebot",
+  "decimals": 6,
+  "coin_type": "0x1fe3022694087fc3d6e2bb9b6cee992e0ef86868761b50b9983f8a50541a0221::pepebot::PEPEBOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3621_1f14583c1e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

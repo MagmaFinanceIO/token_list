@@ -1,0 +1,13 @@
+{
+  "name": "HUDO",
+  "symbol": "HUDO",
+  "decimals": 9,
+  "coin_type": "0xed2425f990ea05a13b2c8813e170e0e3f8038e40186459c0270d03bb8a232107::HUDO::HUDO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

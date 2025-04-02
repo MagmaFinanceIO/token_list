@@ -1,0 +1,13 @@
+{
+  "name": "NEIRO WIF HAT ON SUI",
+  "symbol": "NEIROH",
+  "decimals": 6,
+  "coin_type": "0x389b730b0fcd37a6418a3b287e1375008632445b6558fa1c85baab306312f9ed::neiroh::NEIROH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_neiroh_c98c2e1618.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

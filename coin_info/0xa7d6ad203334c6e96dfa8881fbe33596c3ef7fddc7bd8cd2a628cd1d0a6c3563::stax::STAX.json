@@ -1,0 +1,13 @@
+{
+  "name": "STAX on SUI",
+  "symbol": "STAX",
+  "decimals": 6,
+  "coin_type": "0xa7d6ad203334c6e96dfa8881fbe33596c3ef7fddc7bd8cd2a628cd1d0a6c3563::stax::STAX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/stax_cd78caa22f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

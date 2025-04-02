@@ -1,0 +1,13 @@
+{
+  "name": "CHILLNUT on Sui",
+  "symbol": "CHILLNUT",
+  "decimals": 6,
+  "coin_type": "0x3db22f6de659280d53b73a2512515c1f0db965f5584147e28f02a6f86a803ccc::chillnut::CHILLNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4167_dc6e944caf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NEKO AI",
+  "symbol": "NEKO AI",
+  "decimals": 9,
+  "coin_type": "0xe0a534c83f9433321e58c41c020d4cc7525f9a9a95ee7b471e378752882fbf82::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

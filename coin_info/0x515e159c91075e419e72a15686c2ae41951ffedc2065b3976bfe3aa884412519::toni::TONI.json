@@ -1,0 +1,13 @@
+{
+  "name": "ToniStuirk",
+  "symbol": "TONI",
+  "decimals": 9,
+  "coin_type": "0x515e159c91075e419e72a15686c2ae41951ffedc2065b3976bfe3aa884412519::toni::TONI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTbtGMVHuIS5fh1WnKRwetupgF5hx2ORX7ew&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

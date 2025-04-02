@@ -1,0 +1,13 @@
+{
+  "name": "BB",
+  "symbol": "BBB",
+  "decimals": 9,
+  "coin_type": "0x6af47180cbdd4cb749f062381b4e6bb3318ec0ec35ff668a3d829bb8b85cdad9::meme_token_b::MEME_TOKEN_B",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6b0ef704-d22e-4e68-ad2c-c822ac321820.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FlowerAI",
+  "symbol": "Flower",
+  "decimals": 9,
+  "coin_type": "0xa67faf6eb4d57b75a9398e05a56041c18b00d7a4e941521bd5e8f51af410e165::flower::FLOWER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmXBz7u22ErAg9uWki2XK4gaHEc3Uri5V57VKVz6DM6ciQ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

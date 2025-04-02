@@ -1,0 +1,13 @@
+{
+  "name": "Doctor Lui",
+  "symbol": "Lui",
+  "decimals": 6,
+  "coin_type": "0x0f62f2bb1b862e0ce279152b55fd5993cf81b377d31a1035250a42c65e5dbdd9::lui::LUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000039520_8ab2297328.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

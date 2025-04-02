@@ -1,0 +1,13 @@
+{
+  "name": "CATPITALISM",
+  "symbol": "CATX",
+  "decimals": 9,
+  "coin_type": "0xa5532d391281f9d04498fb244011dcade0900cacd7c9900db24d62a38d1f2e2e::catx::CATX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/J8RJJjEm3CSWu4QAN78oM2nyDw97v4Sapzza5Gowv6JP.png?size=lg&key=876ac8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

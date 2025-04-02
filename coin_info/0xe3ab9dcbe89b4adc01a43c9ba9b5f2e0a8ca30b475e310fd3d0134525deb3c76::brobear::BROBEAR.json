@@ -1,0 +1,13 @@
+{
+  "name": "BITCOIN BRO BEAR RUNE",
+  "symbol": "BROBEAR",
+  "decimals": 9,
+  "coin_type": "0xe3ab9dcbe89b4adc01a43c9ba9b5f2e0a8ca30b475e310fd3d0134525deb3c76::brobear::BROBEAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/JCBCrHSqN71w2SFsACwe254q77KH2MVsGBsoHMvfCQzR.png?size=lg&key=8052fb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

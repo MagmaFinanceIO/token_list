@@ -1,0 +1,13 @@
+{
+  "name": "Sui Doge",
+  "symbol": "SOGE",
+  "decimals": 6,
+  "coin_type": "0xa27d8e70bc8f90345c353c6f6e8a49e90ab434ebb5cec5ac058a04cbf1af8705::soge::SOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suidog_ac7daec3e7.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

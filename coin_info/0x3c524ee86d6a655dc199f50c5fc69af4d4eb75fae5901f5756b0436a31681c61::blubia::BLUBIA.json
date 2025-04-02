@@ -1,0 +1,13 @@
+{
+  "name": "Blubia",
+  "symbol": "BLUBIA",
+  "decimals": 6,
+  "coin_type": "0x3c524ee86d6a655dc199f50c5fc69af4d4eb75fae5901f5756b0436a31681c61::blubia::BLUBIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/copy11_69f73beb5c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

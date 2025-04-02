@@ -1,0 +1,13 @@
+{
+  "name": "Cult of Pepe",
+  "symbol": "COPE",
+  "decimals": 9,
+  "coin_type": "0x9148c259f3c3490be4de6d1047aa939af722168ea85c95b0d1774154d8265e6e::cope::COPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmVqNb6Poi2qdA68YV265vZBfBochrQvVxCwextSxBErGm",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

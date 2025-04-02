@@ -1,0 +1,13 @@
+{
+  "name": "Sovereign Wealth Fund",
+  "symbol": "SWF",
+  "decimals": 9,
+  "coin_type": "0xac4e1a695a11e2734996ac240d165ac4e094c7d04e2fc519e00a612d45945830::swf::SWF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FtBXDMyD4SvAa6keQPAGk4sgRVuUECsxGU1X2dLWpump.png?size=lg&key=f55ebd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

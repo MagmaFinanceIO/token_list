@@ -1,0 +1,13 @@
+{
+  "name": "Pengsuin 🐧",
+  "symbol": "PengSuin",
+  "decimals": 9,
+  "coin_type": "0x88ab3a059d22213318c093baa4e9eca643409abd9eeedb72130ba985a19e8776::pengsuin::PENGSUIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4c7b3dee-2912-4fc0-ae00-1c838a85af7b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

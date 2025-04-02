@@ -1,0 +1,13 @@
+{
+  "name": "caet on sui",
+  "symbol": "caet",
+  "decimals": 9,
+  "coin_type": "0x5f24706e3246fc32daf806628f84ee2a62b704c4afdd4020e0d8b899dd8d9066::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

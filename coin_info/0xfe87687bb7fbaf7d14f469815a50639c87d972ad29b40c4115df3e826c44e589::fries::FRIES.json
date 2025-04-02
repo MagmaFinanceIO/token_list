@@ -1,0 +1,13 @@
+{
+  "name": "Fries in the bag bro",
+  "symbol": "FRIES",
+  "decimals": 9,
+  "coin_type": "0xfe87687bb7fbaf7d14f469815a50639c87d972ad29b40c4115df3e826c44e589::fries::FRIES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/uto2Lz8BLvW7D8gkuXqtpWdxRTfsWiaETkn3Mvhpump.png?size=lg&key=49bb98",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

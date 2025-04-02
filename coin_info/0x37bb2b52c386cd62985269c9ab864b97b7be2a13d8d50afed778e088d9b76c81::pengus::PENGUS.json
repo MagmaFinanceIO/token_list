@@ -1,0 +1,13 @@
+{
+  "name": "PENGUI SUI AIRDROP",
+  "symbol": "PENGUS",
+  "decimals": 9,
+  "coin_type": "0x37bb2b52c386cd62985269c9ab864b97b7be2a13d8d50afed778e088d9b76c81::pengus::PENGUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b465c6f4-25b5-402e-bfe0-76ed31551563.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

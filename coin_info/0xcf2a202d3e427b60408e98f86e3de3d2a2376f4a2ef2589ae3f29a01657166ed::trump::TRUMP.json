@@ -1,0 +1,13 @@
+{
+  "name": "Crypto a National Priority",
+  "symbol": "TRUMP",
+  "decimals": 9,
+  "coin_type": "0xcf2a202d3e427b60408e98f86e3de3d2a2376f4a2ef2589ae3f29a01657166ed::trump::TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5MwuhVbLDCU36rSKZUwGrdVabkC2uVw4zZ8Rt1Umpump.png?size=lg&key=d44734",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

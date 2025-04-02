@@ -1,0 +1,13 @@
+{
+  "name": "SUI MERON",
+  "symbol": "MERON",
+  "decimals": 9,
+  "coin_type": "0xf64d2059a99e702bf22ee804b3e7486b627abbed1f402c7e6820729789fc5d41::meron::MERON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aee43992-aff7-4d90-a921-04d4ff2ed7cc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

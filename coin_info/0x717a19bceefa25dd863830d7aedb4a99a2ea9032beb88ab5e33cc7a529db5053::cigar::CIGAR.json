@@ -1,0 +1,13 @@
+{
+  "name": "Cigar",
+  "symbol": "Cigar",
+  "decimals": 1,
+  "coin_type": "0x717a19bceefa25dd863830d7aedb4a99a2ea9032beb88ab5e33cc7a529db5053::cigar::CIGAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/220581b8-f832-4e21-b8e2-bbc0f13cb81b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

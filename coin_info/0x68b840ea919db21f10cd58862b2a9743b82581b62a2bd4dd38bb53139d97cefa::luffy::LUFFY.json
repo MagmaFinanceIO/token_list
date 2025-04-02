@@ -1,0 +1,13 @@
+{
+  "name": "STRAWHAT",
+  "symbol": "LUFFY",
+  "decimals": 6,
+  "coin_type": "0x68b840ea919db21f10cd58862b2a9743b82581b62a2bd4dd38bb53139d97cefa::luffy::LUFFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/download_2386e7066c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

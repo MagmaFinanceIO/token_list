@@ -1,0 +1,13 @@
+{
+  "name": "Sui Degen",
+  "symbol": "SuiGen",
+  "decimals": 6,
+  "coin_type": "0xc58d3ebd4d07024db8f7508fd72f74b8638c39e03a1c782e8f84fff28904a880::suigen::SUIGEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Sui_Gen_logo_2dc105247c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

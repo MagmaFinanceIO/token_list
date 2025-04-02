@@ -1,0 +1,13 @@
+{
+  "name": "SonicTest",
+  "symbol": "SonicTest",
+  "decimals": 9,
+  "coin_type": "0x84803c820bea7f4f7351173b0a0c80c6e7ca436984ac8cf66f0a0847d53d1795::sonictest::SONICTEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

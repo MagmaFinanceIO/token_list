@@ -1,0 +1,13 @@
+{
+  "name": "SUICHAINETF",
+  "symbol": "SUIETF",
+  "decimals": 6,
+  "coin_type": "0xb68d32acd8344bc29a09919e22244b891500e457040c4c26bc1f59e94103c3a5::suietf::SUIETF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3736_51cf5273a9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

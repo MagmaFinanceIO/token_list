@@ -1,0 +1,13 @@
+{
+  "name": "rabbids",
+  "symbol": "RABBIDS",
+  "decimals": 9,
+  "coin_type": "0x7822bd8881f6cbf722bb76b01a1262f28d685d9cf6dcd875a7536509b0f86640::rabbids::RABBIDS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4xfa581mcUCLSvuHPAsdvbb9opvsnuumAhtgsz46pump.png?size=lg&key=1bdff2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

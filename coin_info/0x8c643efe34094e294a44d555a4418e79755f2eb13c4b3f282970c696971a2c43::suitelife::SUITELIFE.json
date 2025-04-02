@@ -1,0 +1,13 @@
+{
+  "name": "Suite Life",
+  "symbol": "SUITELIFE",
+  "decimals": 9,
+  "coin_type": "0x8c643efe34094e294a44d555a4418e79755f2eb13c4b3f282970c696971a2c43::suitelife::SUITELIFE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6eabbab1-28ce-40d1-b1a7-fc09d146747c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

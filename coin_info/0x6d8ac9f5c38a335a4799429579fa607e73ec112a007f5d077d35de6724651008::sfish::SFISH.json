@@ -1,0 +1,13 @@
+{
+  "name": "SPIDER FISH",
+  "symbol": "sFISH",
+  "decimals": 9,
+  "coin_type": "0x6d8ac9f5c38a335a4799429579fa607e73ec112a007f5d077d35de6724651008::sfish::SFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/920cef14-4a48-4293-9288-e7d8305b8888.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

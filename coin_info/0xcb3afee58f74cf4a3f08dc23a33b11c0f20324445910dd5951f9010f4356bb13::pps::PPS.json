@@ -1,0 +1,13 @@
+{
+  "name": "PetPals Token",
+  "symbol": "PPS",
+  "decimals": 3,
+  "coin_type": "0xcb3afee58f74cf4a3f08dc23a33b11c0f20324445910dd5951f9010f4356bb13::pps::PPS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmbwHuBmb5y9RFMTa938vVFebaxTozCGvjuv9w3sUsba2Z",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

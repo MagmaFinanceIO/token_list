@@ -1,0 +1,13 @@
+{
+  "name": "SARDINE",
+  "symbol": "SARDINE",
+  "decimals": 9,
+  "coin_type": "0x16f726dc2fda61f1a162640679a8acfe65a559539324e92aa07ed3721be96dfb::sardine::SARDINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9795f708-cfbd-4ea2-94b0-6d4208b8e3af.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

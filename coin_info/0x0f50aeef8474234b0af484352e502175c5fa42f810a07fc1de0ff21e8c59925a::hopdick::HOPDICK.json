@@ -1,0 +1,13 @@
+{
+  "name": "HOP DICK",
+  "symbol": "HOPDICK",
+  "decimals": 6,
+  "coin_type": "0x0f50aeef8474234b0af484352e502175c5fa42f810a07fc1de0ff21e8c59925a::hopdick::HOPDICK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731011455890.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

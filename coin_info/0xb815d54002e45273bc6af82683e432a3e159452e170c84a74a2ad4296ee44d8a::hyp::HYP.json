@@ -1,0 +1,13 @@
+{
+  "name": "Hyperliquid",
+  "symbol": "HYP",
+  "decimals": 9,
+  "coin_type": "0xb815d54002e45273bc6af82683e432a3e159452e170c84a74a2ad4296ee44d8a::hyp::HYP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8b242ce1-89ff-484d-9d27-109661b71e88.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

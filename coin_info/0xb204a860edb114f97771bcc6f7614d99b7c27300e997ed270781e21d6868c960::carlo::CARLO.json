@@ -1,0 +1,13 @@
+{
+  "name": "Carlo",
+  "symbol": "CARLO",
+  "decimals": 9,
+  "coin_type": "0xb204a860edb114f97771bcc6f7614d99b7c27300e997ed270781e21d6868c960::carlo::CARLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/vkZbBhf/cl.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

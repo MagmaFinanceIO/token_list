@@ -1,0 +1,13 @@
+{
+  "name": "suitcase",
+  "symbol": "suitcase",
+  "decimals": 9,
+  "coin_type": "0x584a263b50830e98525cb8f79b5e73ffbe68421dbcdf0c1670681a1319fd8c47::suitcase::SUITCASE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/efba6bc0-0d89-4f82-8ab9-164708b70876.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

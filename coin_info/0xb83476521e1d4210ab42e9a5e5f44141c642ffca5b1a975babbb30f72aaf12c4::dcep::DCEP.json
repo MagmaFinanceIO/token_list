@@ -1,0 +1,13 @@
+{
+  "name": "eCNY",
+  "symbol": "DCEP",
+  "decimals": 6,
+  "coin_type": "0xb83476521e1d4210ab42e9a5e5f44141c642ffca5b1a975babbb30f72aaf12c4::dcep::DCEP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f0526bcf-5a5c-4a72-b4e8-f9f51d04ce89.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

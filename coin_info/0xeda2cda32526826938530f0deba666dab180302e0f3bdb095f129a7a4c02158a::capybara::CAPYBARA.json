@@ -1,0 +1,13 @@
+{
+  "name": "Capybara",
+  "symbol": "CAPY",
+  "decimals": 9,
+  "coin_type": "0xeda2cda32526826938530f0deba666dab180302e0f3bdb095f129a7a4c02158a::capybara::CAPYBARA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/112de9da-f024-4e1b-ba9a-fecedef3d517.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "chibi",
+  "symbol": "chibi",
+  "decimals": 9,
+  "coin_type": "0xd1b61d349ceb5303d6071f95c0ee0f7a397d10d90d741a87e6e6705a0cfad5d8::chibi::CHIBI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/86fc55a5-7c83-4db7-bcea-d50f6dc83055.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

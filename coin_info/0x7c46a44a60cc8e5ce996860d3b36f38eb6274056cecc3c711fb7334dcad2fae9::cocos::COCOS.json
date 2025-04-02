@@ -1,0 +1,13 @@
+{
+  "name": "Co2COIN",
+  "symbol": "COCOS",
+  "decimals": 9,
+  "coin_type": "0x7c46a44a60cc8e5ce996860d3b36f38eb6274056cecc3c711fb7334dcad2fae9::cocos::COCOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d5e1ed70-7d0f-4881-84d7-7f4d6a1339d0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

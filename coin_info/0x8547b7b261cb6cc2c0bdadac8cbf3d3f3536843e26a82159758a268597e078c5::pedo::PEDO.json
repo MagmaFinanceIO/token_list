@@ -1,0 +1,13 @@
+{
+  "name": "Dirk",
+  "symbol": "PEDO",
+  "decimals": 9,
+  "coin_type": "0x8547b7b261cb6cc2c0bdadac8cbf3d3f3536843e26a82159758a268597e078c5::pedo::PEDO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8bGRgAv5Ed6yCoGkQtRdpFPU4qPrQHLnCXmBDWurpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

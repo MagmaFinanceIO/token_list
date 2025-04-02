@@ -1,0 +1,13 @@
+{
+  "name": "Health & Wealth",
+  "symbol": "HW",
+  "decimals": 9,
+  "coin_type": "0x89c0666d877998c6211e9f9f9574576dce62554f482fb97eefa7415839ee72b0::hw::HW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dc743ed9-f5c0-4db2-be1e-4390aa52d0b4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

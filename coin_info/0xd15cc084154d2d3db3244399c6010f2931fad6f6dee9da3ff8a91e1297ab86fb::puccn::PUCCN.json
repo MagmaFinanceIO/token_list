@@ -1,0 +1,13 @@
+{
+  "name": "PUCCOIN",
+  "symbol": "PUCCN",
+  "decimals": 9,
+  "coin_type": "0xd15cc084154d2d3db3244399c6010f2931fad6f6dee9da3ff8a91e1297ab86fb::puccn::PUCCN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0384340a-b32b-4c57-8ed7-39235c8a1c3a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Blue Bulldog",
+  "symbol": "BUBU",
+  "decimals": 9,
+  "coin_type": "0x038fff95aca9229f74536b03e57b7e6dcde7cebd5e9380c22b89c8671f1c16a9::bubu::BUBU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/090b14ce-7398-4ece-8829-fb778387dfe6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TRIDENT",
+  "symbol": "Trident",
+  "decimals": 2,
+  "coin_type": "0xa14bf21bfc54253a134d91c4b32cc62954d8f8360a1f865a840520ea60a858d6::trident::TRIDENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/YtWyQqq/trident.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

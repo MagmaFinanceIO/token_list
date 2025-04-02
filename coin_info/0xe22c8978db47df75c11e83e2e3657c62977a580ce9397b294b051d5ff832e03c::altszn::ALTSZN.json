@@ -1,0 +1,13 @@
+{
+  "name": "Altcoin Season",
+  "symbol": "ALTSZN",
+  "decimals": 9,
+  "coin_type": "0xe22c8978db47df75c11e83e2e3657c62977a580ce9397b294b051d5ff832e03c::altszn::ALTSZN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6LUXwhDXWTFkCWHgoxGsND5Ks9M6BQkZUcdMS7p5PXmx.png?size=lg&key=179486",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

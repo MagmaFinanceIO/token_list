@@ -1,0 +1,13 @@
+{
+  "name": "Kyronix Agent by SuiAI",
+  "symbol": "KYRONIX",
+  "decimals": 6,
+  "coin_type": "0xcc82ed4214466a16b6b4ce8a780ab743265ef198f8b189825bd4d95553790db1::kyronix::KYRONIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Screenshot_122_fb6639265c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

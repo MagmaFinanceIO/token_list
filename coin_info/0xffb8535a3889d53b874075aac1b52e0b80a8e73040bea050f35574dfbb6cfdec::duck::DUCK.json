@@ -1,0 +1,13 @@
+{
+  "name": "Lemonade Stand Duck",
+  "symbol": "DUCK",
+  "decimals": 9,
+  "coin_type": "0xffb8535a3889d53b874075aac1b52e0b80a8e73040bea050f35574dfbb6cfdec::duck::DUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GV1uJgT2rfiR61KAuZkTFBbDetNSEbiBw1VnSd3hcaVi.png?size=lg&key=b11635",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

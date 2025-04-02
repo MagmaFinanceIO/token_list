@@ -1,0 +1,13 @@
+{
+  "name": "SHEZUKA",
+  "symbol": "Shezuka",
+  "decimals": 9,
+  "coin_type": "0x5c02db29fe42aa7d9ff7cd3a2bf3792a4eb12cf2185679db84931439cf593bfd::shezuka::SHEZUKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

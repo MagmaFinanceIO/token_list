@@ -1,0 +1,13 @@
+{
+  "name": "Taylor Token",
+  "symbol": "TayTok",
+  "decimals": 9,
+  "coin_type": "0xb6be1052576af188a3c34e5d1b3bd1218e79bd772d9a856a3a61558fb251f83a::taytok::TAYTOK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3a825c49-4842-4a97-ad39-e91727475482.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

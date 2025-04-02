@@ -1,0 +1,13 @@
+{
+  "name": "Burnbro AI",
+  "symbol": "BURN",
+  "decimals": 6,
+  "coin_type": "0xed5de892bfb59f9982d38c2452b03196d7aa8bea64227e98903b405c8e4a1336::burn::BURN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_2766_4580dd1139.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

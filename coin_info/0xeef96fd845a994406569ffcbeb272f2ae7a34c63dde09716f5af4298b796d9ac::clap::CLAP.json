@@ -1,0 +1,13 @@
+{
+  "name": "Clap Cat",
+  "symbol": "CLAP",
+  "decimals": 9,
+  "coin_type": "0xeef96fd845a994406569ffcbeb272f2ae7a34c63dde09716f5af4298b796d9ac::clap::CLAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9b8jL2wcVjBFpieC5TUR76BDJ6sW8Eghd3fyq5VJmzir.png?size=lg&key=c646ca",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

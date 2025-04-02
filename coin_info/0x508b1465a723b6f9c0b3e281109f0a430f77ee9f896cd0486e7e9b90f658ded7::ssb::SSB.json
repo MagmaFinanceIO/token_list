@@ -1,0 +1,13 @@
+{
+  "name": "Sui Street Bets",
+  "symbol": "SSB",
+  "decimals": 6,
+  "coin_type": "0x508b1465a723b6f9c0b3e281109f0a430f77ee9f896cd0486e7e9b90f658ded7::ssb::SSB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SSB_Logo_b36a07fb3b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

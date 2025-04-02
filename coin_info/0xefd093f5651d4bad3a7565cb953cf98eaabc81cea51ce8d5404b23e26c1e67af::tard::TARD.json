@@ -1,0 +1,13 @@
+{
+  "name": "GET RETARDED",
+  "symbol": "TARD",
+  "decimals": 9,
+  "coin_type": "0xefd093f5651d4bad3a7565cb953cf98eaabc81cea51ce8d5404b23e26c1e67af::tard::TARD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6bbATbj5XDYBoS8LFzQmDSRoGwfZZvNaAUA5WKuapump.png?size=lg&key=c11b54",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

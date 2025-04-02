@@ -1,0 +1,15 @@
+{
+  "name": "NAVX Token",
+  "symbol": "NAVX",
+  "decimals": 9,
+  "coin_type": "0xa99b8952d4f7d947ea77fe0ecdcc9e5fc0bcab2841d6e2a5aa00c3044e5544b5::navx::NAVX",
+  "pyth_id": "88250f854c019ef4f88a5c073d52a18bb1c6ac437033f5932cd017d24917ab46",
+  "birdeyeid": "0xa99b8952d4f7d947ea77fe0ecdcc9e5fc0bcab2841d6e2a5aa00c3044e5544b5::navx::NAVX",
+  "coin_priority": [
+    "950"
+  ],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/navx.png",
+  "project_url": "",
+  "coingecko_id": "navi",
+  "is_trusted": true
+}

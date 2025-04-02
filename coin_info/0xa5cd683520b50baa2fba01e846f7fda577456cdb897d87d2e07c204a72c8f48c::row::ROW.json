@@ -1,0 +1,13 @@
+{
+  "name": "Row by SuiAI",
+  "symbol": "ROW",
+  "decimals": 6,
+  "coin_type": "0xa5cd683520b50baa2fba01e846f7fda577456cdb897d87d2e07c204a72c8f48c::row::ROW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/90412504_51ce24d555.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

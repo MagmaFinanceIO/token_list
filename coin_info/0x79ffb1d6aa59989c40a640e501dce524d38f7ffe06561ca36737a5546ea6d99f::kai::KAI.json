@@ -1,0 +1,13 @@
+{
+  "name": "Kyex AI",
+  "symbol": "KAI",
+  "decimals": 9,
+  "coin_type": "0x79ffb1d6aa59989c40a640e501dce524d38f7ffe06561ca36737a5546ea6d99f::kai::KAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x77d7b4497aa49a5506aaa83e8a5490ac2b3facbd.png?size=lg&key=1ff653",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

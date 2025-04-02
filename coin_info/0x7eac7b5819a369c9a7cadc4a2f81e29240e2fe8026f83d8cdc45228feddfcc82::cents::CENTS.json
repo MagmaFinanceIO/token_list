@@ -1,0 +1,13 @@
+{
+  "name": "Centience",
+  "symbol": "CENTS",
+  "decimals": 9,
+  "coin_type": "0x7eac7b5819a369c9a7cadc4a2f81e29240e2fe8026f83d8cdc45228feddfcc82::cents::CENTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmTX489DPUAQsziULpB5VJgzqQuyJ5WtM18GHF29sw8F4c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

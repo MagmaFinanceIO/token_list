@@ -1,0 +1,13 @@
+{
+  "name": "QLR",
+  "symbol": "QLR",
+  "decimals": 9,
+  "coin_type": "0x411b802e3b7f22fb524c34bd900bff8f0e02a3b134760807c31f94fb7b2b2e16::qlr::QLR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

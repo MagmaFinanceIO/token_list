@@ -1,0 +1,13 @@
+{
+  "name": "JACKY CAT",
+  "symbol": "JackyCat",
+  "decimals": 9,
+  "coin_type": "0x88f294eb713e10e36199b820f64b34f34f1ca40e643592dc708247397e84e771::jackycat::JACKYCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3d711da5-26fa-4b4b-bf60-3c5e5ab463e6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

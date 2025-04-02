@@ -1,0 +1,13 @@
+{
+  "name": "PLAY",
+  "symbol": "PLAY",
+  "decimals": 9,
+  "coin_type": "0x168bd612bc5a2adabb8835466e94d5c920cb9d58c91dd5e89b805553070bddbd::play::PLAY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/184d6df1-71f2-4424-a70b-720c8ff3d731.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

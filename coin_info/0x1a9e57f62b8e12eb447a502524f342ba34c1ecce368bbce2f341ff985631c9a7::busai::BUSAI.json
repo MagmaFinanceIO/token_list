@@ -1,0 +1,13 @@
+{
+  "name": "BusaiSDK",
+  "symbol": "BUSAI",
+  "decimals": 9,
+  "coin_type": "0x1a9e57f62b8e12eb447a502524f342ba34c1ecce368bbce2f341ff985631c9a7::busai::BUSAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4R98Y1Xv2fjmdHBRPZHF2VsF2jyUk9FKRLkbxRPfpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

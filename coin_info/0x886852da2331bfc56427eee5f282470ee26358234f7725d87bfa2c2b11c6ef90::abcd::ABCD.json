@@ -1,0 +1,13 @@
+{
+  "name": "ABCD",
+  "symbol": "abcd",
+  "decimals": 9,
+  "coin_type": "0x886852da2331bfc56427eee5f282470ee26358234f7725d87bfa2c2b11c6ef90::abcd::ABCD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d91f9281-1898-48c6-beb1-fcf92005637d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

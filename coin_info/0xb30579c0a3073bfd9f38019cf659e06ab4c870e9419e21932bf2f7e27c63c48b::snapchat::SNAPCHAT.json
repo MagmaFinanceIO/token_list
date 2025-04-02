@@ -1,0 +1,13 @@
+{
+  "name": "Snapchat Coin",
+  "symbol": "Snapchat",
+  "decimals": 9,
+  "coin_type": "0xb30579c0a3073bfd9f38019cf659e06ab4c870e9419e21932bf2f7e27c63c48b::snapchat::SNAPCHAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2nCHqFD63XHz3idfyLq1usmFSR3pmHUSYdx9B5Zjpump.png?size=lg&key=d8a849",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

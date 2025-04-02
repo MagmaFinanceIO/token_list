@@ -1,0 +1,13 @@
+{
+  "name": "Pudgy Pepe",
+  "symbol": "PEPU",
+  "decimals": 9,
+  "coin_type": "0xe0faa812ae70b3f1572b80f0ef67594191f49ec4cc68692e0b9240d4317bea80::pepu::PEPU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/KxrcKoKi6nEK5J7yV6TBzPGxusXxAm1dFoLaZPBpump.png?size=lg&key=fc0182",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sad Dog On Sui",
+  "symbol": "SADDOG",
+  "decimals": 9,
+  "coin_type": "0x0bdf74e35a54fba293f10bf2d7e96a3b364fa00a12d0948beadefd0c038cec2e::saddog::SADDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GQJBDsSnHfDTECQtLrcBWJRYj4AGEg4ANsTKSGhaSWDw.png?size=lg&key=65189b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

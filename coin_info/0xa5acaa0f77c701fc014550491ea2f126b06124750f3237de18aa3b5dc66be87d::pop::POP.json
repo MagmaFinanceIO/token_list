@@ -1,0 +1,13 @@
+{
+  "name": "PopIsland",
+  "symbol": "POP",
+  "decimals": 6,
+  "coin_type": "0xa5acaa0f77c701fc014550491ea2f126b06124750f3237de18aa3b5dc66be87d::pop::POP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/immagine_3_67b7728860.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

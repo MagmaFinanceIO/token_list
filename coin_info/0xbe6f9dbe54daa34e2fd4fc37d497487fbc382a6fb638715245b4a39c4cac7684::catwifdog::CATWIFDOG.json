@@ -1,0 +1,13 @@
+{
+  "name": "CatWifDog",
+  "symbol": "CatWifDog",
+  "decimals": 9,
+  "coin_type": "0xbe6f9dbe54daa34e2fd4fc37d497487fbc382a6fb638715245b4a39c4cac7684::catwifdog::CATWIFDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2c6195e3-f4fd-4993-bb0a-76a8ff908e2d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mutum Asinum",
+  "symbol": "MASM",
+  "decimals": 9,
+  "coin_type": "0xe426be3608d92c3f8b3d70aefceea7a0d850ed73460ea218e4a30fc59f8bef34::masm::MASM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8aa0419d-2339-4ecc-b918-aafee1b0914c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

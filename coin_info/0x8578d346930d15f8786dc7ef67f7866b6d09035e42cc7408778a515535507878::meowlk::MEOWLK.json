@@ -1,0 +1,13 @@
+{
+  "name": "MEOWLK",
+  "symbol": "MEOWLK",
+  "decimals": 6,
+  "coin_type": "0x8578d346930d15f8786dc7ef67f7866b6d09035e42cc7408778a515535507878::meowlk::MEOWLK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmaAF9uTKVwL5FhEjqoP6mNbxLi7jyWp2G7A7PWBx1zDPs",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

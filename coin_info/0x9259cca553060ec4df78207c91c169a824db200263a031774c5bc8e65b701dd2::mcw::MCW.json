@@ -1,0 +1,13 @@
+{
+  "name": "My Crypto Wallet",
+  "symbol": "MCW",
+  "decimals": 6,
+  "coin_type": "0x9259cca553060ec4df78207c91c169a824db200263a031774c5bc8e65b701dd2::mcw::MCW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/hungryweara_pfp_1_10fb07b980.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

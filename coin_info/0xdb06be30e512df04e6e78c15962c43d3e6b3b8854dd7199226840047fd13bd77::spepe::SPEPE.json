@@ -1,0 +1,13 @@
+{
+  "name": "Santa Pepe",
+  "symbol": "SPEPE",
+  "decimals": 9,
+  "coin_type": "0xdb06be30e512df04e6e78c15962c43d3e6b3b8854dd7199226840047fd13bd77::spepe::SPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HuLHkBebCrvSnpKrMBL9yk4PH1Fu1J6es4cnDx6kcSpY.png?size=lg&key=625f25",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

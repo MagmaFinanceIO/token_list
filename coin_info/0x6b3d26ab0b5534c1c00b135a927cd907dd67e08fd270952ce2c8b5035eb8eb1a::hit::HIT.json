@@ -1,0 +1,13 @@
+{
+  "name": "HIT",
+  "symbol": "HIT",
+  "decimals": 9,
+  "coin_type": "0x6b3d26ab0b5534c1c00b135a927cd907dd67e08fd270952ce2c8b5035eb8eb1a::hit::HIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMFQ-QMjSoRCL2GVf2qgGa1SQyDT2VAv5QBg&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

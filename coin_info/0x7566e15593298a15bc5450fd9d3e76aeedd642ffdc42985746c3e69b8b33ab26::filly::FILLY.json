@@ -1,0 +1,13 @@
+{
+  "name": "FREEPHILLY",
+  "symbol": "FILLY",
+  "decimals": 6,
+  "coin_type": "0x7566e15593298a15bc5450fd9d3e76aeedd642ffdc42985746c3e69b8b33ab26::filly::FILLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

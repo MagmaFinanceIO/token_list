@@ -1,0 +1,13 @@
+{
+  "name": "meow",
+  "symbol": "meow",
+  "decimals": 6,
+  "coin_type": "0x06b145d0322e389d6225f336ab57bba4c67e4e701bd6c6bc959d90675900a17e::meow::MEOW",
+  "pyth_id": "",
+  "birdeyeid": "0x06b145d0322e389d6225f336ab57bba4c67e4e701bd6c6bc959d90675900a17e::meow::MEOW",
+  "coin_priority": [],
+  "logo_url": "https://g2eop2adggvbnllpabicghum55pai3bt23c5yvo3c5gohtix6fma.arweave.net/Nojn6AMxqhatbwBQIx6M714EbDPWxdxV2xdM480X8Vg",
+  "project_url": "",
+  "coingecko_id": "meow-3",
+  "is_trusted": true
+}

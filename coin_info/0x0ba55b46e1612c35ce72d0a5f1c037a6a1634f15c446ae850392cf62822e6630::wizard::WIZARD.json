@@ -1,0 +1,13 @@
+{
+  "name": "Sui Wizard",
+  "symbol": "WIZARD",
+  "decimals": 6,
+  "coin_type": "0x0ba55b46e1612c35ce72d0a5f1c037a6a1634f15c446ae850392cf62822e6630::wizard::WIZARD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_2_59f2384409.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

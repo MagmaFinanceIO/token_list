@@ -1,0 +1,13 @@
+{
+  "name": "Extra Large Language Model",
+  "symbol": "XLLM",
+  "decimals": 9,
+  "coin_type": "0x31f479c74effc042a886d7992b7c3212dec9eef2203eeb4d2ab7a335868bb862::xllm::XLLM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9aLx5SCcoacuK4VVmucy3yu7smR37TWXFyTHnxUQpump.png?size=lg&key=0b2daf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

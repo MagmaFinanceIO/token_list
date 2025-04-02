@@ -1,0 +1,13 @@
+{
+  "name": "Avatar on Sui",
+  "symbol": "AVATAR",
+  "decimals": 6,
+  "coin_type": "0xb3892e6f1b41610453cad06822bfeff5b16aeeae1542299b8af62afc6e768971::avatar::AVATAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Avatar_063ff74093.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

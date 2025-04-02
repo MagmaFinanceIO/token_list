@@ -1,0 +1,13 @@
+{
+  "name": "FROSTYBABY",
+  "symbol": "FROSTYBABY",
+  "decimals": 9,
+  "coin_type": "0x24eb79a4c7fff87ae7c3d35399d94ed95e76c70b96f2d90ca30dfb09828c53e9::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

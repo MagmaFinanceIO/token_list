@@ -1,0 +1,13 @@
+{
+  "name": "MingMang",
+  "symbol": "MINGMANG",
+  "decimals": 6,
+  "coin_type": "0x0bcd4e7f827b01c2c3200dfbf446c5da358d43a623214613394131b2e10c6b9b::mingmang::MINGMANG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/01cfbe74b2352826a7a6cb64e5d8e1010977c6_1933768312.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Ilussional Creator",
+  "symbol": "Teddy",
+  "decimals": 6,
+  "coin_type": "0x1986bb48d4c1a25b99fe779c1987cb9bd03c80304de6eeb8c77eac366bcc071e::teddy::TEDDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736606880124.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

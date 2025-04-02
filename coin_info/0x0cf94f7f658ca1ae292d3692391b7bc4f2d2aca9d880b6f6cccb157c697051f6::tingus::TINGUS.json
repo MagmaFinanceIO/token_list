@@ -1,0 +1,13 @@
+{
+  "name": "TINGUS",
+  "symbol": "TINGUS",
+  "decimals": 9,
+  "coin_type": "0x0cf94f7f658ca1ae292d3692391b7bc4f2d2aca9d880b6f6cccb157c697051f6::tingus::TINGUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FFMBajrDXwRwUw4j5D8XDN14Jp1Z72mnxjAoh34pump.png?size=lg&key=d8308d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

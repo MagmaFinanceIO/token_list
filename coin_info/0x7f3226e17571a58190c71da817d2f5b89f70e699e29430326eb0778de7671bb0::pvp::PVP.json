@@ -1,0 +1,13 @@
+{
+  "name": "Si Battles",
+  "symbol": "PVP",
+  "decimals": 9,
+  "coin_type": "0x7f3226e17571a58190c71da817d2f5b89f70e699e29430326eb0778de7671bb0::pvp::PVP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a9cc1544-2eab-4176-8e5b-cfbf25a7c43d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

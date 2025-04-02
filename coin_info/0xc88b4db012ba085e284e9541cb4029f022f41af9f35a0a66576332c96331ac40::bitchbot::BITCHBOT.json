@@ -1,0 +1,13 @@
+{
+  "name": "BITCHBOT",
+  "symbol": "BITCHBOT",
+  "decimals": 9,
+  "coin_type": "0xc88b4db012ba085e284e9541cb4029f022f41af9f35a0a66576332c96331ac40::bitchbot::BITCHBOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BWxRRwx2WwsJqihxoK8GVNRKKWD2Pp1DsmWXQ2NuuY3V.png?size=lg&key=690367",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

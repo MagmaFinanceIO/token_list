@@ -1,0 +1,13 @@
+{
+  "name": "WALLSTREET MAGA",
+  "symbol": "WSM",
+  "decimals": 6,
+  "coin_type": "0xa79b6bb7e1249d32160309d55d67d74b921aa79055bfd76bbdc804d58dffe3eb::wsm::WSM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4281_93c5435d89.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

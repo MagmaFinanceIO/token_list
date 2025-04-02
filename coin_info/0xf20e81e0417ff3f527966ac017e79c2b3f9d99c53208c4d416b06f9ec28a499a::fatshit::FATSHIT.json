@@ -1,0 +1,13 @@
+{
+  "name": "FATSHIT",
+  "symbol": "FATSHIT",
+  "decimals": 9,
+  "coin_type": "0xf20e81e0417ff3f527966ac017e79c2b3f9d99c53208c4d416b06f9ec28a499a::fatshit::FATSHIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

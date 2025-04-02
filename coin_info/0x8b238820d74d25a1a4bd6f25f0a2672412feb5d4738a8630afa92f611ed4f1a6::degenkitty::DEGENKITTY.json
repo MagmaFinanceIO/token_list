@@ -1,0 +1,13 @@
+{
+  "name": "Degen Kitty",
+  "symbol": "DegenKitty",
+  "decimals": 9,
+  "coin_type": "0x8b238820d74d25a1a4bd6f25f0a2672412feb5d4738a8630afa92f611ed4f1a6::degenkitty::DEGENKITTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4ba3e53e-f7bd-42bf-973a-626f2c2d8b2c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

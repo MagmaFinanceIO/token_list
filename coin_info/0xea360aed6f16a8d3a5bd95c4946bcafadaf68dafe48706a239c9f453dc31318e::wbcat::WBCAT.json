@@ -1,0 +1,13 @@
+{
+  "name": "WalrusBishCat",
+  "symbol": "WBCAT",
+  "decimals": 6,
+  "coin_type": "0xea360aed6f16a8d3a5bd95c4946bcafadaf68dafe48706a239c9f453dc31318e::wbcat::WBCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/walrusbishcatprof_280e160e24.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

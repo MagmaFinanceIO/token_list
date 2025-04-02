@@ -1,0 +1,13 @@
+{
+  "name": "CatMeme",
+  "symbol": "CMM",
+  "decimals": 9,
+  "coin_type": "0x538d9d67c150098d181692d7f8df620f265d1f86c317a9aea7a17a1d8b24be7d::cmm::CMM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/05c1c40b-f16b-4a73-a87e-279b905160be.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

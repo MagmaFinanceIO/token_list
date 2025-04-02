@@ -1,0 +1,13 @@
+{
+  "name": "POPPENG",
+  "symbol": "POPPENG",
+  "decimals": 9,
+  "coin_type": "0xc59026cf22fb7f8cebf0f50eb541dc4ed2a3531b3c08a23a17d24eac92e09623::poppeng::POPPENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DXi7ZDVtSo4Yg5hheZNyBxiG8WboTufcu1nwjkMspump.png?size=lg&key=e78b27",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUILIEVE",
+  "symbol": "SUIBLV",
+  "decimals": 6,
+  "coin_type": "0x794d2a58279a51a2f876a475d0817809a41011ed783d6dc402e8558c594f75da::suiblv::SUIBLV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_10_29_8_14_14_PM_129c87688b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

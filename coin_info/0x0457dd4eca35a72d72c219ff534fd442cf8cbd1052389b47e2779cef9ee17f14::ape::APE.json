@@ -1,0 +1,13 @@
+{
+  "name": "Gangsta Ape",
+  "symbol": "APE",
+  "decimals": 9,
+  "coin_type": "0x0457dd4eca35a72d72c219ff534fd442cf8cbd1052389b47e2779cef9ee17f14::ape::APE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c7b00f2e-4108-4ad3-879c-4ef998d13f67.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

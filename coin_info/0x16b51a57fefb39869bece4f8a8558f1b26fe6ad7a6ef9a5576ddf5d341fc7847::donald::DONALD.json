@@ -1,0 +1,13 @@
+{
+  "name": "DONALD COIN ON SUI",
+  "symbol": "DONALD",
+  "decimals": 9,
+  "coin_type": "0x16b51a57fefb39869bece4f8a8558f1b26fe6ad7a6ef9a5576ddf5d341fc7847::donald::DONALD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/71540bd2-70af-446d-919f-021e5d29e7cd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

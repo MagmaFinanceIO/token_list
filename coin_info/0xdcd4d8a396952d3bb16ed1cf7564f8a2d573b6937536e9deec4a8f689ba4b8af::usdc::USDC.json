@@ -1,0 +1,13 @@
+{
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "decimals": 8,
+  "coin_type": "0xdcd4d8a396952d3bb16ed1cf7564f8a2d573b6937536e9deec4a8f689ba4b8af::usdc::USDC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://gateway.irys.xyz/0MdZ2O8j2pFPvYeYab6kdXXZjZQ-sDhoBz56EZeHHJ8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

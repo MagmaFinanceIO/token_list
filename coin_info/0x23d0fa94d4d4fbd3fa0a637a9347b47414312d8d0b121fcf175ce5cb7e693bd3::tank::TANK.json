@@ -1,0 +1,13 @@
+{
+  "name": "Sui Tank",
+  "symbol": "TANK",
+  "decimals": 6,
+  "coin_type": "0x23d0fa94d4d4fbd3fa0a637a9347b47414312d8d0b121fcf175ce5cb7e693bd3::tank::TANK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Tank_2ac8c68cc1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

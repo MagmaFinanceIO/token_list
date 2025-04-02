@@ -1,0 +1,13 @@
+{
+  "name": "Escobar Homer Simpson",
+  "symbol": "Homer",
+  "decimals": 9,
+  "coin_type": "0x13235e22994106a6a6b030f90a1c606b8ac34f423ac154b5a820e7f005adc710::homer::HOMER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ec71d06e-9ad8-4be8-be54-31aeb4c9ba85.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

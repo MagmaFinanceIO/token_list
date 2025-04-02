@@ -1,0 +1,13 @@
+{
+  "name": "KREA AI",
+  "symbol": "KREA",
+  "decimals": 9,
+  "coin_type": "0x50194deb429d8f86012f36042785e52719dd157cc7e72732edd68b516e186a0f::krea::KREA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6DnJCLfvqF3YwxWbFDxzwQBkAAUaV1NTUMM1QbjPpump.png?size=lg&key=41c779",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

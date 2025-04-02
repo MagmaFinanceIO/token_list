@@ -1,0 +1,13 @@
+{
+  "name": "Bored Platypus Social Club",
+  "symbol": "PLATY",
+  "decimals": 6,
+  "coin_type": "0xc9abe7d44c1d0d722703574c495c4445c672f6cae55c93d6823556b8bdffa507::platy::PLATY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/bpsc_token_icon_84f2ba7654.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

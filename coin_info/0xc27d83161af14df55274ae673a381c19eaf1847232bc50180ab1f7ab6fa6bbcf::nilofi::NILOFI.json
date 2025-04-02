@@ -1,0 +1,13 @@
+{
+  "name": "Niga Lofi",
+  "symbol": "NiLofi",
+  "decimals": 6,
+  "coin_type": "0xc27d83161af14df55274ae673a381c19eaf1847232bc50180ab1f7ab6fa6bbcf::nilofi::NILOFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/niga_lofi_portal_71d64edcbc.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

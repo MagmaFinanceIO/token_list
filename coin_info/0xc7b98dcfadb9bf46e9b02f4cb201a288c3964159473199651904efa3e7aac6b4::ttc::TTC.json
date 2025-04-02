@@ -1,0 +1,13 @@
+{
+  "name": "Trump's Tax Company",
+  "symbol": "TTC",
+  "decimals": 9,
+  "coin_type": "0xc7b98dcfadb9bf46e9b02f4cb201a288c3964159473199651904efa3e7aac6b4::ttc::TTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FdRNfzPK2UdPnxYRRLkenV8QA1PuDKxjgXLBAozApump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUICROCO",
+  "symbol": "CROCO",
+  "decimals": 6,
+  "coin_type": "0x335cf1bd33de4d0990eeaeb057ccfaf4654ef6bba223c81476cae6b23ca0be23::croco::CROCO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Gaz9w_Dub0_AA_mx7_745b1fef5b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

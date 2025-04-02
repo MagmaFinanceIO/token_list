@@ -1,0 +1,13 @@
+{
+  "name": "Keyaru",
+  "symbol": "Keyagra",
+  "decimals": 9,
+  "coin_type": "0x30bdadefdecc6e04cf87832f726ec6ab714285e6dc717ddda9bafb0d6934513d::keyagra::KEYAGRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9e3627b5-df1b-4f90-991a-d703a842f4b4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

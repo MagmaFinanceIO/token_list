@@ -1,0 +1,13 @@
+{
+  "name": "HODL DAY",
+  "symbol": "HODL",
+  "decimals": 9,
+  "coin_type": "0x343935e97f721509a7a9cad593122593d645a5e5f6117590a95c653ab4841407::hodl::HODL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/maEgHRe5fRa2N2natr4657vZbDCUejjTjmbJ3fNpump.png?size=lg&key=2a0f5b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

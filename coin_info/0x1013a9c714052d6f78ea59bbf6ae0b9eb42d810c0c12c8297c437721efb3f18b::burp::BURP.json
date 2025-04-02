@@ -1,0 +1,13 @@
+{
+  "name": "BurpCoin",
+  "symbol": "BURP",
+  "decimals": 9,
+  "coin_type": "0x1013a9c714052d6f78ea59bbf6ae0b9eb42d810c0c12c8297c437721efb3f18b::burp::BURP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmUJ2eJgz3PqTG8GpLgnWB79WURJLzkb3tRUCV5BtbRc2R",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

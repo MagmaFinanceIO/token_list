@@ -1,0 +1,13 @@
+{
+  "name": "Magnet",
+  "symbol": "MAGNET",
+  "decimals": 6,
+  "coin_type": "0x9f1efc4e38470d5080fcccedddfc9b8ea680535e3c8b43a494b67abd731d6e0f::magnet::MAGNET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/magnet_emoji_clipart_lg_efd256fd1c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "We Stand Together",
+  "symbol": "WST",
+  "decimals": 6,
+  "coin_type": "0x6893472b18b487c8ea91ee6620689d7b8f7b132e70c8e43b1cf6e4659926963b::wst::WST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmQG9P7QDw7BufufZW8r16xNRKHvReYC3Cgwgngjq4ufDH",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

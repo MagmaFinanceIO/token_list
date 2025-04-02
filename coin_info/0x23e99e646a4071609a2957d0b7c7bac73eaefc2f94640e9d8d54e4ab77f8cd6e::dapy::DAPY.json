@@ -1,0 +1,13 @@
+{
+  "name": "dapy",
+  "symbol": "DAPY",
+  "decimals": 9,
+  "coin_type": "0x23e99e646a4071609a2957d0b7c7bac73eaefc2f94640e9d8d54e4ab77f8cd6e::dapy::DAPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://d1fvsuv3rrz9o2.cloudfront.net/dogs/party_dressed.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

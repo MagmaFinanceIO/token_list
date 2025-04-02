@@ -1,0 +1,13 @@
+{
+  "name": "Murks Rise",
+  "symbol": "Murks",
+  "decimals": 6,
+  "coin_type": "0x738c18e0f0e0eaa7ff486cc89da4e45d739e24ecd0b30fa98433d40c9d9d60f6::murks::MURKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/C_Ttk_Hiq_400x400_bcd3048504.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

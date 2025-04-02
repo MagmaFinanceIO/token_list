@@ -1,0 +1,13 @@
+{
+  "name": "SUMIRE - the Two-legged DOGE/Shiba",
+  "symbol": "SUMIRE",
+  "decimals": 6,
+  "coin_type": "0xed13635f8456246d241a724a92731b8463390b6953516fed5d627ecd5590f07a::sumire::SUMIRE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_10_07_55_55_6e9bca6bd4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

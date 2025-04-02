@@ -1,0 +1,13 @@
+{
+  "name": "EMPORIUM",
+  "symbol": "EMP",
+  "decimals": 9,
+  "coin_type": "0x05fc981b031c90da71468b685deaa8d831b9147b24e9978cca1d93851d4c0077::emp::EMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fe063448-a4fd-4c44-b13e-cce50685c815.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

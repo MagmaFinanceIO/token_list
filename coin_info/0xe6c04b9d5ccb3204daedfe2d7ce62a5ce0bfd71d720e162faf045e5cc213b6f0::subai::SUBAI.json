@@ -1,0 +1,13 @@
+{
+  "name": "Subly AI",
+  "symbol": "SUBAI",
+  "decimals": 9,
+  "coin_type": "0xe6c04b9d5ccb3204daedfe2d7ce62a5ce0bfd71d720e162faf045e5cc213b6f0::subai::SUBAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmWca3tHUPLsgqS21bA9YdgqdDYD6koRtdNbbWa2zkE555",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

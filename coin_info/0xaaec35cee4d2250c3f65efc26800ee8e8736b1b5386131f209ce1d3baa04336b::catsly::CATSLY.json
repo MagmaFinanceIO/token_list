@@ -1,0 +1,13 @@
+{
+  "name": "CAT SLY SUI",
+  "symbol": "CATSLY",
+  "decimals": 9,
+  "coin_type": "0xaaec35cee4d2250c3f65efc26800ee8e8736b1b5386131f209ce1d3baa04336b::catsly::CATSLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/20e2b870-c119-4d4c-8e6b-1ad466d678eb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

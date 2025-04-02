@@ -1,0 +1,13 @@
+{
+  "name": "RONALDO Token",
+  "symbol": "RONALDO",
+  "decimals": 9,
+  "coin_type": "0x867b9617b8a1ceb8d6c885f77c1998e1e5158db9d6c7386140d07599a5ed81f6::ronaldo::RONALDO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.baoangiang.com.vn/image/fckeditor/upload/2024/20240110/images/ronaldo-the-ky-21-1-5129.jpg.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

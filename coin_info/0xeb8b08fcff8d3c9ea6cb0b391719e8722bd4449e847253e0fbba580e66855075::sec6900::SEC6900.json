@@ -1,0 +1,13 @@
+{
+  "name": "SEC6900",
+  "symbol": "SEC6900",
+  "decimals": 9,
+  "coin_type": "0xeb8b08fcff8d3c9ea6cb0b391719e8722bd4449e847253e0fbba580e66855075::sec6900::SEC6900",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6WG2zDjDHTAfwF1gvNdU7ieQbVUwo4Cz9P93HuEspump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

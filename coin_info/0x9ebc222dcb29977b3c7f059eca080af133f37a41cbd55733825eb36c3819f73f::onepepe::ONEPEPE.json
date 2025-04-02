@@ -1,0 +1,13 @@
+{
+  "name": "One Pepe",
+  "symbol": "onepepe",
+  "decimals": 6,
+  "coin_type": "0x9ebc222dcb29977b3c7f059eca080af133f37a41cbd55733825eb36c3819f73f::onepepe::ONEPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmdEPyZRxpvRig8qNvyrCnSQcf3Hvadq8TvnX7sJt1Jts9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

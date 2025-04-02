@@ -1,0 +1,13 @@
+{
+  "name": "SC",
+  "symbol": "SC",
+  "decimals": 8,
+  "coin_type": "0x92aad4e078dded45773628adc3a9977d546b178bdadabcae351ce1818c5bb1fb::sc::SC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn-aahmh.nitrocdn.com/mwIJloVUffDtKiCgRcivopdgojcJrVwT/assets/images/optimized/rev-31cad3f/www.cozycatfurniture.com/image/Beautiful-Siamese-Cat.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

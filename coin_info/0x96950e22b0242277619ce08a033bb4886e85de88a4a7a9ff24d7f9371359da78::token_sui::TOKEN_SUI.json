@@ -1,0 +1,13 @@
+{
+  "name": "Simpsons",
+  "symbol": "SSONS",
+  "decimals": 9,
+  "coin_type": "0x96950e22b0242277619ce08a033bb4886e85de88a4a7a9ff24d7f9371359da78::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0xcc0733b7ba63b446624002441c4816d7fec8f4e0.png?size=xl&key=d7e0f1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

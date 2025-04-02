@@ -1,0 +1,13 @@
+{
+  "name": "Suimoo",
+  "symbol": "Suimoo",
+  "decimals": 6,
+  "coin_type": "0x78e066dfe0683be1e5970504f3d8602d8eb789050a4a9357eb7175c3e0e6ea23::suimoo::SUIMOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ed6d5585-1f77-4e2f-b888-257b3510a000.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

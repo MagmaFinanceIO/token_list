@@ -1,0 +1,13 @@
+{
+  "name": "Popape",
+  "symbol": "PAPE",
+  "decimals": 6,
+  "coin_type": "0x626570eaff927d7f760e7dcc2acb610f1995191da9897d0c57532859b1ef3f70::pape::PAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2025_01_05_12_38_35_c23306c13b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

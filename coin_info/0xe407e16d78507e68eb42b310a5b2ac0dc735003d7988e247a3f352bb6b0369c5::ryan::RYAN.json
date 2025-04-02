@@ -1,0 +1,13 @@
+{
+  "name": "Ryan The Rhino",
+  "symbol": "RYAN",
+  "decimals": 9,
+  "coin_type": "0xe407e16d78507e68eb42b310a5b2ac0dc735003d7988e247a3f352bb6b0369c5::ryan::RYAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9b8fa0dd-7089-4b6f-a579-3bf5df59463e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

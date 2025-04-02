@@ -1,0 +1,13 @@
+{
+  "name": "🤠Cowboy Pepe Sui",
+  "symbol": "COWPE",
+  "decimals": 3,
+  "coin_type": "0xadeb9269f372cc9c224530a54299068096a4d3c5e54d7d93c0094074509dcea5::cowpe::COWPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cd5d47d7-7cbd-44c6-8252-375178923419.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

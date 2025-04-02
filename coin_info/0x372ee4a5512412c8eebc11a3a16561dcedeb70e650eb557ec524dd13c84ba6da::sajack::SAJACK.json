@@ -1,0 +1,13 @@
+{
+  "name": "Samurai Jack",
+  "symbol": "SAJACK",
+  "decimals": 9,
+  "coin_type": "0x372ee4a5512412c8eebc11a3a16561dcedeb70e650eb557ec524dd13c84ba6da::sajack::SAJACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/813/196/large/umral-ismayilov-main.jpg?1728573428",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

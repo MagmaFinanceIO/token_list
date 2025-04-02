@@ -1,0 +1,13 @@
+{
+  "name": "Ducky on sui",
+  "symbol": "DUCKY",
+  "decimals": 9,
+  "coin_type": "0x862f13ea8a023ad04574b7010efc1d9004c23afa38bda40d09d4eed764947a3c::ducky::DUCKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/665c2121-c60f-4b30-844e-e3c746df769e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

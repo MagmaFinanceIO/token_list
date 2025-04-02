@@ -1,0 +1,13 @@
+{
+  "name": "Sui Doge",
+  "symbol": "SOGE",
+  "decimals": 9,
+  "coin_type": "0xc4bc7727de3fa37fa382efd6b6ba5e7c66831eb04311ee360344d38d216dde84::soge::SOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/843a67a7-ac06-48cf-a872-f39a478d660d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NICK",
+  "symbol": "FUENTES",
+  "decimals": 6,
+  "coin_type": "0x533bdc673fca2df9637fc8b55a61864ad8dc92f1bade49462e9f2ed9a42a5dc3::fuentes::FUENTES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/nick_f5a16d9c4e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

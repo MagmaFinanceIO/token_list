@@ -1,0 +1,13 @@
+{
+  "name": "SensAI",
+  "symbol": "SensAI",
+  "decimals": 9,
+  "coin_type": "0x95750d3de632a39507646eed2c73625f38f0f257edd6e44ee48731ef9b0299db::sensai::SENSAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/c1cFQC7Um28foR3UdjXyuitdFa15BoxrSgtgegcpump.png?size=lg&key=fe5f31",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

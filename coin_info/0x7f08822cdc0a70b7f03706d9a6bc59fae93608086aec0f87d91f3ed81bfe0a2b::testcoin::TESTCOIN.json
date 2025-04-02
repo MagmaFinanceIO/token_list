@@ -1,0 +1,13 @@
+{
+  "name": "TESTCOIN",
+  "symbol": "TESTCOIN",
+  "decimals": 5,
+  "coin_type": "0x7f08822cdc0a70b7f03706d9a6bc59fae93608086aec0f87d91f3ed81bfe0a2b::testcoin::TESTCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/NBpKgFO_lq.mp4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

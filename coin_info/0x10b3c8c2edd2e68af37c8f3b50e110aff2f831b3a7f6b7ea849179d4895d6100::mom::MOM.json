@@ -1,0 +1,13 @@
+{
+  "name": "Museum Of Memes",
+  "symbol": "MOM",
+  "decimals": 9,
+  "coin_type": "0x10b3c8c2edd2e68af37c8f3b50e110aff2f831b3a7f6b7ea849179d4895d6100::mom::MOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmVQ1bWJmna3vbFCRMTGJknJRs1SMJGESXV658JjDchgUM",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

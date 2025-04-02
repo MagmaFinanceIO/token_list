@@ -1,0 +1,13 @@
+{
+  "name": "SuiTurtle",
+  "symbol": "SUITRL",
+  "decimals": 9,
+  "coin_type": "0x43c75fd051eaf1d4c869cd28a71459fd9c68419ad3786f47d5b0222b236bd3a6::suitrl::SUITRL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/446a4ba8-ce39-4db3-98e3-bd5232023dec.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

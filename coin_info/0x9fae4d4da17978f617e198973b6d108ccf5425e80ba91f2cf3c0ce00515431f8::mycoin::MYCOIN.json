@@ -1,0 +1,13 @@
+{
+  "name": "FEETCOIN",
+  "symbol": "FEETCOIN",
+  "decimals": 9,
+  "coin_type": "0x9fae4d4da17978f617e198973b6d108ccf5425e80ba91f2cf3c0ce00515431f8::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

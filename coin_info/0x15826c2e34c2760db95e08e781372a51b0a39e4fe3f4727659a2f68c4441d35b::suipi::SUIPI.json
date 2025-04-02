@@ -1,0 +1,13 @@
+{
+  "name": "PINGUIN MASCOT SUI",
+  "symbol": "SUIPI",
+  "decimals": 6,
+  "coin_type": "0x15826c2e34c2760db95e08e781372a51b0a39e4fe3f4727659a2f68c4441d35b::suipi::SUIPI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3662_4e042f2098.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

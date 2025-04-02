@@ -1,0 +1,13 @@
+{
+  "name": "Suiweed",
+  "symbol": "SUIWEED",
+  "decimals": 9,
+  "coin_type": "0xd6df1adefd34743e4b01fb319de341899f4cd30e7fe1ad920487d79cd6cdde35::suiweed::SUIWEED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d5d5f0b7-3c94-439b-88a9-5a91210b5f5c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suinator",
+  "symbol": "SUINATOR",
+  "decimals": 9,
+  "coin_type": "0x6c069a836bcbbae828db35e48a970ed31574c0d7cca050a03e255591cb4071b2::suinator::SUINATOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f4725270-6c09-4d87-97aa-341640db470f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

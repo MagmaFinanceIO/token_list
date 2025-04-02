@@ -1,0 +1,13 @@
+{
+  "name": "Elon's mum",
+  "symbol": "MUM",
+  "decimals": 6,
+  "coin_type": "0x348eb2322209b8a749a957efb5f67ccdd22ac97977214554051872b0f61cdbee::mum::MUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/licensed_image_59d01e0f08.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

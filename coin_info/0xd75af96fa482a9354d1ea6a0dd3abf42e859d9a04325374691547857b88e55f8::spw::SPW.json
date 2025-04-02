@@ -1,0 +1,13 @@
+{
+  "name": "Sparrow Network",
+  "symbol": "SPW",
+  "decimals": 6,
+  "coin_type": "0xd75af96fa482a9354d1ea6a0dd3abf42e859d9a04325374691547857b88e55f8::spw::SPW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731575790804.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

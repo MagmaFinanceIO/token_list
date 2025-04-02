@@ -1,0 +1,13 @@
+{
+  "name": "Scared Cactus",
+  "symbol": "Cactus",
+  "decimals": 9,
+  "coin_type": "0xa5ab9c4b1304e2e2fb7bfb60fd96f0e6d19428dca6f387d66b290ba753bb672c::cactus::CACTUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b9938dd7-2884-4de6-9946-99ebb59cb376.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

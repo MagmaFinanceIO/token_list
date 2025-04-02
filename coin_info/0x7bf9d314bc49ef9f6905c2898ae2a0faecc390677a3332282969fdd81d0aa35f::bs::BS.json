@@ -1,0 +1,13 @@
+{
+  "name": "BottleOfSui",
+  "symbol": "BS",
+  "decimals": 6,
+  "coin_type": "0x7bf9d314bc49ef9f6905c2898ae2a0faecc390677a3332282969fdd81d0aa35f::bs::BS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737540627773.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

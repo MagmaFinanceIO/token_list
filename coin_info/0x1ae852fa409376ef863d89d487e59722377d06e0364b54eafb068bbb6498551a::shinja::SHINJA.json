@@ -1,0 +1,13 @@
+{
+  "name": "Shinja",
+  "symbol": "Shinja",
+  "decimals": 9,
+  "coin_type": "0x1ae852fa409376ef863d89d487e59722377d06e0364b54eafb068bbb6498551a::shinja::SHINJA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8baebd66-ec61-49d9-aa97-5bfebe896b65.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

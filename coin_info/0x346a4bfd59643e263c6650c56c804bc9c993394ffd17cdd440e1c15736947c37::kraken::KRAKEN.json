@@ -1,0 +1,13 @@
+{
+  "name": "Kraken",
+  "symbol": "Kraken",
+  "decimals": 1,
+  "coin_type": "0x346a4bfd59643e263c6650c56c804bc9c993394ffd17cdd440e1c15736947c37::kraken::KRAKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ac594d1b-d4c0-40c0-b075-b30e0a797c3f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

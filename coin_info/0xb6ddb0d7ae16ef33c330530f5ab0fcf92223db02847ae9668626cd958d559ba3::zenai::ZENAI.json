@@ -1,0 +1,13 @@
+{
+  "name": "ZENAI by SuiAI",
+  "symbol": "ZENAI",
+  "decimals": 6,
+  "coin_type": "0xb6ddb0d7ae16ef33c330530f5ab0fcf92223db02847ae9668626cd958d559ba3::zenai::ZENAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/images_18_a7ba0a1b91.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

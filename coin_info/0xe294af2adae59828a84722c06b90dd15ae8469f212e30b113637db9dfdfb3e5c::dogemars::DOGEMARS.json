@@ -1,0 +1,13 @@
+{
+  "name": "DOGE TO MARS",
+  "symbol": "DOGEMARS",
+  "decimals": 9,
+  "coin_type": "0xe294af2adae59828a84722c06b90dd15ae8469f212e30b113637db9dfdfb3e5c::dogemars::DOGEMARS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A3t4ap3oHBGRZATex6tFnCDZUdFqybTMhGPbTMzF9kzb.png?size=lg&key=16dd5c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

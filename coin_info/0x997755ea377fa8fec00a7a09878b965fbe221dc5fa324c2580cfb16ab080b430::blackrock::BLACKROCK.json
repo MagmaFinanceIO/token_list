@@ -1,0 +1,13 @@
+{
+  "name": "BlackRock, Inc.",
+  "symbol": "BlackRock",
+  "decimals": 2,
+  "coin_type": "0x997755ea377fa8fec00a7a09878b965fbe221dc5fa324c2580cfb16ab080b430::blackrock::BLACKROCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2217e6a6-598e-45a9-9d8c-a669c077dbb6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

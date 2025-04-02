@@ -1,0 +1,13 @@
+{
+  "name": "KOA",
+  "symbol": "KOA",
+  "decimals": 9,
+  "coin_type": "0x97a08573c300c1e7ea1128883bfbe53e64721fb3fd1e9b49e268bd38d6fb700a::koa::KOA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/wpdjfnFPcNAwkfYwsyRuUGiKYcoaN5NmntfCgNcpump.png?size=lg&key=646fea",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

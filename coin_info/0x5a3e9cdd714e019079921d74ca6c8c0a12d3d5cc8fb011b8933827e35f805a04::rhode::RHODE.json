@@ -1,0 +1,13 @@
+{
+  "name": "RHODE",
+  "symbol": "rhode",
+  "decimals": 9,
+  "coin_type": "0x5a3e9cdd714e019079921d74ca6c8c0a12d3d5cc8fb011b8933827e35f805a04::rhode::RHODE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "example.com",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

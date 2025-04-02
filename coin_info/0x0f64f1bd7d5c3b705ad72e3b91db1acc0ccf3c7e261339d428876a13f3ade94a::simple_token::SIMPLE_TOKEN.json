@@ -1,0 +1,13 @@
+{
+  "name": "lynzie",
+  "symbol": "lynzie",
+  "decimals": 9,
+  "coin_type": "0x0f64f1bd7d5c3b705ad72e3b91db1acc0ccf3c7e261339d428876a13f3ade94a::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Daossui Token",
+  "symbol": "DAOS",
+  "decimals": 6,
+  "coin_type": "0xd40cec91f6dca0673b25451fb0d654e62ad13bf6546a32a21ef0c59eba42e71c::daos::DAOS",
+  "pyth_id": "",
+  "birdeyeid": "0xd40cec91f6dca0673b25451fb0d654e62ad13bf6546a32a21ef0c59eba42e71c::daos::DAOS",
+  "coin_priority": [],
+  "logo_url": "https://public.daossui.io/dao-sui/assets/daossui-token.png",
+  "project_url": "https://daossui.io/",
+  "coingecko_id": "daossui-token",
+  "is_trusted": true
+}

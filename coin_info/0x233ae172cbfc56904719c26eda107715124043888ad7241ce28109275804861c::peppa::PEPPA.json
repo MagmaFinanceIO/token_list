@@ -1,0 +1,13 @@
+{
+  "name": "Peppa Pig",
+  "symbol": "Peppa",
+  "decimals": 6,
+  "coin_type": "0x233ae172cbfc56904719c26eda107715124043888ad7241ce28109275804861c::peppa::PEPPA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/mmexport1625720578702_c50948fd2e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

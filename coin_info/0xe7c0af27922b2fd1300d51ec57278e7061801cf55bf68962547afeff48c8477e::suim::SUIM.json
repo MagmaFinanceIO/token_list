@@ -1,0 +1,13 @@
+{
+  "name": "SUI Monkey",
+  "symbol": "SUIM",
+  "decimals": 9,
+  "coin_type": "0xe7c0af27922b2fd1300d51ec57278e7061801cf55bf68962547afeff48c8477e::suim::SUIM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6577dd4b-aef0-4cfe-9b5d-7705a8c5e565.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

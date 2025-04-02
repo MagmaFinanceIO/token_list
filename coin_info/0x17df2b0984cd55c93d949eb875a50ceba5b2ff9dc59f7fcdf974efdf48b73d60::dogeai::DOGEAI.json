@@ -1,0 +1,13 @@
+{
+  "name": "Doge Terminal AI",
+  "symbol": "DOGEAI",
+  "decimals": 9,
+  "coin_type": "0x17df2b0984cd55c93d949eb875a50ceba5b2ff9dc59f7fcdf974efdf48b73d60::dogeai::DOGEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/vDgOevMn3_mbBMfc?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

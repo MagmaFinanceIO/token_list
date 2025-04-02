@@ -1,0 +1,13 @@
+{
+  "name": "Mino",
+  "symbol": "MINO",
+  "decimals": 9,
+  "coin_type": "0x471c1cf00d41e5451d748cd432a0eb23062315320f75c7711e6cf3b6acd94d3f::mino::MINO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/78db630f-d828-4d6c-9793-a43389990d7f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

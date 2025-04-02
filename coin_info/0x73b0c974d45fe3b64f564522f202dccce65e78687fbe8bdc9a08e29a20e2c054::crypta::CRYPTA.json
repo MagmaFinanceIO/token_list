@@ -1,0 +1,13 @@
+{
+  "name": "Crypta by SuiAI",
+  "symbol": "CRYPTA",
+  "decimals": 6,
+  "coin_type": "0x73b0c974d45fe3b64f564522f202dccce65e78687fbe8bdc9a08e29a20e2c054::crypta::CRYPTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Crypta_957787da05.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

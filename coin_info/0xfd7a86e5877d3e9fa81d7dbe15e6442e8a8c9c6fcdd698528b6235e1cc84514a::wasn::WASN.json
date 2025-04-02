@@ -1,0 +1,13 @@
+{
+  "name": "DC Natives",
+  "symbol": "WASN",
+  "decimals": 6,
+  "coin_type": "0xfd7a86e5877d3e9fa81d7dbe15e6442e8a8c9c6fcdd698528b6235e1cc84514a::wasn::WASN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/111db080-9e1e-4378-b3e2-6f183378b346.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

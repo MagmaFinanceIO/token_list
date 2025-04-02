@@ -1,0 +1,13 @@
+{
+  "name": "SUI JOYCAT",
+  "symbol": "JOYCAT",
+  "decimals": 9,
+  "coin_type": "0x009d243102d4b1b2e3f0400b9267c67045f49ff9fbd4d598846e8f8cc6f8825b::joycat::JOYCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cb1726a8-aca1-44e1-b5a8-c518f6ea5d74.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

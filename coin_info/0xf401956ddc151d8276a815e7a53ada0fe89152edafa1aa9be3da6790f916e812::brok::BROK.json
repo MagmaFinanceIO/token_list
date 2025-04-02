@@ -1,0 +1,13 @@
+{
+  "name": "Brok",
+  "symbol": "Brok",
+  "decimals": 9,
+  "coin_type": "0xf401956ddc151d8276a815e7a53ada0fe89152edafa1aa9be3da6790f916e812::brok::BROK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://photos.pinksale.finance/file/pinksale-logo-upload/1729610558500-5497943c0d467e93f3137505a2b14080.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

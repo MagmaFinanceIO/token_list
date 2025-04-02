@@ -1,0 +1,13 @@
+{
+  "name": "Library Token WTF?",
+  "symbol": "LIBRARY",
+  "decimals": 9,
+  "coin_type": "0x0b28fb74f842f3797c09f83fdc1e35a2f7ca82799c6a54d3b0162ab0943dc514::library::LIBRARY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/479/212/large/sophie-almecija-almecija-sophie-a.jpg?1727702187",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

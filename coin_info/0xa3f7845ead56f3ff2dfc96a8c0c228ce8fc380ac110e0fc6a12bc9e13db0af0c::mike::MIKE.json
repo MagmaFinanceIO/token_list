@@ -1,0 +1,13 @@
+{
+  "name": "Mike Wazowski",
+  "symbol": "Mike",
+  "decimals": 6,
+  "coin_type": "0xa3f7845ead56f3ff2dfc96a8c0c228ce8fc380ac110e0fc6a12bc9e13db0af0c::mike::MIKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmV1wkHRYumAWTsw85ns9S7G1kQ5fuWCjkiU8eutKqRXaz",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

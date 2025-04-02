@@ -1,0 +1,13 @@
+{
+  "name": "Escape",
+  "symbol": "ESC",
+  "decimals": 9,
+  "coin_type": "0xcd4f4a84b198aeb0a96e6defbaaa031756acede46d0b9603f40fa3d751e6a9a9::esc::ESC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7w7n17dfq5KtWSJEJdM8uT9dMKB2u2CMCNEKRU7ipump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

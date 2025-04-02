@@ -1,0 +1,13 @@
+{
+  "name": "ALPHA",
+  "symbol": "LEADER",
+  "decimals": 9,
+  "coin_type": "0x07f5ecff5405f3c1d70d0bf9f40925f71dc28bcc81dde5be678e88a3e50a7cb3::leader::LEADER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Fi97gn5ranUyRooNbLPwVMCyZrGYLNQF1o5N9oimpump.png?size=lg&key=275da8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

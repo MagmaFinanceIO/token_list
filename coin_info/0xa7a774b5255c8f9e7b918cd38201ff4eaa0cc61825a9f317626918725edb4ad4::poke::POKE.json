@@ -1,0 +1,13 @@
+{
+  "name": "Poke",
+  "symbol": "POKE",
+  "decimals": 9,
+  "coin_type": "0xa7a774b5255c8f9e7b918cd38201ff4eaa0cc61825a9f317626918725edb4ad4::poke::POKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BGiDKDaq3vGHBYKifEQ8871nE2sNEdTuM51TfdfDpump.png?size=lg&key=760add",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

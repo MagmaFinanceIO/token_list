@@ -1,0 +1,13 @@
+{
+  "name": "BAIN",
+  "symbol": "BAIN",
+  "decimals": 9,
+  "coin_type": "0x77da06a6fe9326fc0c69628a5a118fcca8c41782ddbc18922bddcc29980c1a5a::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

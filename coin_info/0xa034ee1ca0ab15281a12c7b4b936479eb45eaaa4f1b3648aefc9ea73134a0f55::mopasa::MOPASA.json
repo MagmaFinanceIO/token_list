@@ -1,0 +1,13 @@
+{
+  "name": "MOPASA",
+  "symbol": "mopasa",
+  "decimals": 9,
+  "coin_type": "0xa034ee1ca0ab15281a12c7b4b936479eb45eaaa4f1b3648aefc9ea73134a0f55::mopasa::MOPASA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

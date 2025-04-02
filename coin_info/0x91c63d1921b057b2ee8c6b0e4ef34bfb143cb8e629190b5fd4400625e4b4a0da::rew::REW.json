@@ -1,0 +1,13 @@
+{
+  "name": "rew",
+  "symbol": "rew",
+  "decimals": 6,
+  "coin_type": "0x91c63d1921b057b2ee8c6b0e4ef34bfb143cb8e629190b5fd4400625e4b4a0da::rew::REW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

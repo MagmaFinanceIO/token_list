@@ -1,0 +1,13 @@
+{
+  "name": "MYSTENAI",
+  "symbol": "MYSTENAI",
+  "decimals": 9,
+  "coin_type": "0x18d7774680a3ad87066dfebd9f8c7ea67406a1d3989d833e80110f7bf0b05c66::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

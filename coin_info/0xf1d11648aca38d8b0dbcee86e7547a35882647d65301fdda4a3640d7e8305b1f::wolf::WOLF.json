@@ -1,0 +1,13 @@
+{
+  "name": "Wolf of Wall Street",
+  "symbol": "WOLF",
+  "decimals": 9,
+  "coin_type": "0xf1d11648aca38d8b0dbcee86e7547a35882647d65301fdda4a3640d7e8305b1f::wolf::WOLF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3de9c042-dfce-436d-9632-b5e2993b0154.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

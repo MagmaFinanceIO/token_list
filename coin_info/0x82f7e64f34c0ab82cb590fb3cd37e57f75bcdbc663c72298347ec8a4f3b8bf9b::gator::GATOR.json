@@ -1,0 +1,13 @@
+{
+  "name": "Gator Sui",
+  "symbol": "Gator",
+  "decimals": 6,
+  "coin_type": "0x82f7e64f34c0ab82cb590fb3cd37e57f75bcdbc663c72298347ec8a4f3b8bf9b::gator::GATOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2025_01_02_at_11_34_16a_pm_85080bc67f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

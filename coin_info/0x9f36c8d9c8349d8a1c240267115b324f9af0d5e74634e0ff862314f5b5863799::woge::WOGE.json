@@ -1,0 +1,13 @@
+{
+  "name": "WingsOfDoge",
+  "symbol": "WOGE",
+  "decimals": 8,
+  "coin_type": "0x9f36c8d9c8349d8a1c240267115b324f9af0d5e74634e0ff862314f5b5863799::woge::WOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1441d2d7-2068-4062-be20-2e25f85160f3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

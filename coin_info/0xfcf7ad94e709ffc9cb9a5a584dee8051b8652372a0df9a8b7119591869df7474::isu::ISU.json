@@ -1,0 +1,13 @@
+{
+  "name": "Iustitia Coin",
+  "symbol": "ISU",
+  "decimals": 9,
+  "coin_type": "0xfcf7ad94e709ffc9cb9a5a584dee8051b8652372a0df9a8b7119591869df7474::isu::ISU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://gateway.irys.xyz/yz20S_hJrmBQHk5i1oy65fLenlg15NQw1BLT2Z3iB50",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

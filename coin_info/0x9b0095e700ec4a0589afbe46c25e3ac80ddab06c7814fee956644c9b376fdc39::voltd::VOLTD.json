@@ -1,0 +1,13 @@
+{
+  "name": "VoltDoge",
+  "symbol": "VOLTD",
+  "decimals": 9,
+  "coin_type": "0x9b0095e700ec4a0589afbe46c25e3ac80ddab06c7814fee956644c9b376fdc39::voltd::VOLTD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d680d80e-61f4-4572-a241-eb732d448cfe.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

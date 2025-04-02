@@ -1,0 +1,13 @@
+{
+  "name": "Sui Goby",
+  "symbol": "GOBY",
+  "decimals": 9,
+  "coin_type": "0x4cf2f996e292edd2abed120fbb4f0ad449babdefdaebd7d684457433220f6e08::goby::GOBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/327dbe85-f308-434b-88d7-8127d2c9d974.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

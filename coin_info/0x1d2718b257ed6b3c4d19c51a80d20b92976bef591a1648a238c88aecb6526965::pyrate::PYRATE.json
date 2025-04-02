@@ -1,0 +1,13 @@
+{
+  "name": "PYRATE SUI",
+  "symbol": "PYRATE",
+  "decimals": 9,
+  "coin_type": "0x1d2718b257ed6b3c4d19c51a80d20b92976bef591a1648a238c88aecb6526965::pyrate::PYRATE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/LqRHpuymKBiAbb69",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

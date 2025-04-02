@@ -1,0 +1,13 @@
+{
+  "name": "MEOWW",
+  "symbol": "MEO",
+  "decimals": 9,
+  "coin_type": "0xf4334eab111b39032245cad93b776cf4aaf1fee0f074e8b982eac82281e8ceda::meo::MEO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump-fun-7k-dev.nysm.work/api/file-upload/5644b5077bc6fbcc8f1532b49b5bc887blob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

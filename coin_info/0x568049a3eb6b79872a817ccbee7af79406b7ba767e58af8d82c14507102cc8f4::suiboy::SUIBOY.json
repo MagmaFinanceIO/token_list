@@ -1,0 +1,13 @@
+{
+  "name": "SUIBOY",
+  "symbol": "SUIBOY",
+  "decimals": 1,
+  "coin_type": "0x568049a3eb6b79872a817ccbee7af79406b7ba767e58af8d82c14507102cc8f4::suiboy::SUIBOY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/07450a6c-2eb4-44ff-b2c3-b9c022a95fff.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NuttyAi",
+  "symbol": "NUTTY",
+  "decimals": 9,
+  "coin_type": "0xbe501d666a65af1a5b207989e3352665072bd93d5dfdbccf475af33b6016f4d3::nutty::NUTTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9ZBYsQCNaR6Ck3KnwWwfWB4dLFKMakCuJaUGAHE8pump.png?size=lg&key=413013",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

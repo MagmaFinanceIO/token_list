@@ -1,0 +1,13 @@
+{
+  "name": "SCAT",
+  "symbol": "SCAT",
+  "decimals": 9,
+  "coin_type": "0xa50cee3b701ae92c7cce25e168982d61e18d2db11815c49f1ffe3948548cbab2::scat::SCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.app.goo.gl/UeuLVyDKJXCN9kxW6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

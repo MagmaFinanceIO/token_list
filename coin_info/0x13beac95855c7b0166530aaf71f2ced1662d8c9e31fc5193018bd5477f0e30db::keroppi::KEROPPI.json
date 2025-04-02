@@ -1,0 +1,13 @@
+{
+  "name": "japanese pepe",
+  "symbol": "KEROPPI",
+  "decimals": 9,
+  "coin_type": "0x13beac95855c7b0166530aaf71f2ced1662d8c9e31fc5193018bd5477f0e30db::keroppi::KEROPPI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BqcpPFHcjgcpdGMmaGe3Y1dZT3tGTWqm3cYt4hcZsBVL.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

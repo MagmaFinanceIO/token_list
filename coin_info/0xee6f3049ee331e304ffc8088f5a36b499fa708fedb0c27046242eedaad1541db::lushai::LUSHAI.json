@@ -1,0 +1,13 @@
+{
+  "name": "Lush AI",
+  "symbol": "LUSHAI",
+  "decimals": 6,
+  "coin_type": "0xee6f3049ee331e304ffc8088f5a36b499fa708fedb0c27046242eedaad1541db::lushai::LUSHAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/39cf9b44-ebf0-4ce2-81a0-2883b47e4200.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

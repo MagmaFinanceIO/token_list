@@ -1,0 +1,13 @@
+{
+  "name": "Push da Hippo",
+  "symbol": "HIPUSH",
+  "decimals": 6,
+  "coin_type": "0x4c7e7cbd6a2161cb3e74c089520760dc2ed073220219a782467167facb0ac459::hipush::HIPUSH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/rlogo_b70072c5d6.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

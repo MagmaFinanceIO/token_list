@@ -1,0 +1,13 @@
+{
+  "name": "SuiSmart Agent by SuiAI",
+  "symbol": "SSA",
+  "decimals": 6,
+  "coin_type": "0xe7a75f9714aa61763afeaa7b3a9b785104864ad9329433064090ea200f08e2ae::ssa::SSA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/100100_cb54687fe5.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

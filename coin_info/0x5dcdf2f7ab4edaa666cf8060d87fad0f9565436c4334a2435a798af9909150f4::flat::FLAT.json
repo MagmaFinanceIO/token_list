@@ -1,0 +1,13 @@
+{
+  "name": "FLAT EARTH SOCIETY TOKEN",
+  "symbol": "FLAT",
+  "decimals": 9,
+  "coin_type": "0x5dcdf2f7ab4edaa666cf8060d87fad0f9565436c4334a2435a798af9909150f4::flat::FLAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9190c7ba-f132-4a41-8b58-87129f5e3bf2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Chick Egg",
+  "symbol": "Chick Egg",
+  "decimals": 9,
+  "coin_type": "0x92c0bdca188f8cd5c2d5f75dd48f61610844125625dc0c1024147c55d94f80a8::chick_egg::CHICK_EGG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d0d3d6c3-539e-4d05-bdb0-5090df8cd0e1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

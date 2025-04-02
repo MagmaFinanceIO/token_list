@@ -1,0 +1,13 @@
+{
+  "name": "VARIA AI",
+  "symbol": "VARIA",
+  "decimals": 9,
+  "coin_type": "0xaf858588d4055b0a3110566d7604f50e523234f91fa026e16937b8c96ce5924f::varia::VARIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3MAs7sJKxpmJu1KkZvaDgTy3KdMYA8qEoF5no6m2pump.png?size=lg&key=3566de",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Biscuit",
+  "symbol": "BISQT",
+  "decimals": 9,
+  "coin_type": "0xb2d8140653b08e61aa3de1c663dd1b0745eb8b5d92d2f54d42c6c2a3708776b7::bisqt::BISQT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/28634dce-23ee-4b07-bed5-1f1faac240ac.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Baby Bomb",
+  "symbol": "BabyBomb",
+  "decimals": 9,
+  "coin_type": "0x892470e4a331d9c9da49764cd4dfa050834fe369758cb3ef15d3777ed3385b7d::babybomb::BABYBOMB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

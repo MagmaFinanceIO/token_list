@@ -1,0 +1,13 @@
+{
+  "name": "Meng Chong",
+  "symbol": "MENG",
+  "decimals": 9,
+  "coin_type": "0xae8ffaf2ace9ebe7c536566e46eafb4b8ba46f535084882b9a7eea371bc87fce::meng::MENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "The cutest bunny on SUI",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

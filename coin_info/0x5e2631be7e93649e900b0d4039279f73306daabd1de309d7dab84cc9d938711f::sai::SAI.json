@@ -1,0 +1,13 @@
+{
+  "name": "SAI",
+  "symbol": "SAI",
+  "decimals": 9,
+  "coin_type": "0x5e2631be7e93649e900b0d4039279f73306daabd1de309d7dab84cc9d938711f::sai::SAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b95fe302-e9ee-4423-901f-706d9d2964f0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

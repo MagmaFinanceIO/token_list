@@ -1,0 +1,13 @@
+{
+  "name": "Mike Tyson vs Jake Paul",
+  "symbol": "MTvsJP",
+  "decimals": 9,
+  "coin_type": "0x7955571508088a38cdd248a7e50d09a092c8783924bf2324b5f02038d18f4f6d::mtvsjp::MTVSJP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a42a50d1-a063-4e0a-9e83-cf33954dc1cc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

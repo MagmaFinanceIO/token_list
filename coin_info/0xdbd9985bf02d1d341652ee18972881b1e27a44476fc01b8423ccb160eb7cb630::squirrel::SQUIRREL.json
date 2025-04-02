@@ -1,0 +1,13 @@
+{
+  "name": "Sui Squirrel",
+  "symbol": "SQUIRREL",
+  "decimals": 9,
+  "coin_type": "0xdbd9985bf02d1d341652ee18972881b1e27a44476fc01b8423ccb160eb7cb630::squirrel::SQUIRREL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6oKQSiKBMKpYP6wUbQAUfmYHHMQk9qaRrFA7PEcXpump.png?size=lg&key=f794e2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

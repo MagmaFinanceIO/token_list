@@ -1,0 +1,13 @@
+{
+  "name": "PepeWifGangstaHat",
+  "symbol": "PepeWifGangstaHat",
+  "decimals": 9,
+  "coin_type": "0x0bb0570151eff851d8708ae709f70e0c9d7a907bd42d50d55c74c87d62a1e9c3::pepewifgangstahat::PEPEWIFGANGSTAHAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c8995f5c-d1ae-4ff7-93ad-45897a9c2a90.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

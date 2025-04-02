@@ -1,0 +1,13 @@
+{
+  "name": "Puppy",
+  "symbol": "Puppy",
+  "decimals": 9,
+  "coin_type": "0x7c3a5b573040fa0a5e3b319306ed395d23d3ab556804facfdfa0cb8c678436a1::puppy::PUPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmY4zyF2s9zdanW5fAfBHNCTwg1DArWrpVz356aURFP5m4?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Domo Kun",
+  "symbol": "DOMO",
+  "decimals": 9,
+  "coin_type": "0x133e93d9c3de8b62ecd2d7edd93491c76f259a291c3983019cf8026dc3fae673::domo::DOMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7UQUyVddgEScQHWtWvYrcxWvous9vDMb44Ugc2uspump.png?size=lg&key=2b00c5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

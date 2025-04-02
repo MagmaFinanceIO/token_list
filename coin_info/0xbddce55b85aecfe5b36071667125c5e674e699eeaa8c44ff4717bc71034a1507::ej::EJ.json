@@ -1,0 +1,13 @@
+{
+  "name": "EJ",
+  "symbol": "EJ",
+  "decimals": 5,
+  "coin_type": "0xbddce55b85aecfe5b36071667125c5e674e699eeaa8c44ff4717bc71034a1507::ej::EJ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ibb.co/xMSZsXf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

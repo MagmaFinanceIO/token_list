@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL gayTRUMP",
+  "symbol": "gayTRUMP",
+  "decimals": 9,
+  "coin_type": "0x57e0d7c7af166cebdee99f8c371ec1f36a8be4085cfe74e1c8367229274c3e7f::gaytrump::GAYTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8jZtW89PjxqLwK7svrKK1GfwRmdrHqLjDWdMj1wrB3LY.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

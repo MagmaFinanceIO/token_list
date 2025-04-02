@@ -1,0 +1,13 @@
+{
+  "name": "Sui Wagmi ",
+  "symbol": "Wagmi",
+  "decimals": 6,
+  "coin_type": "0xa690b2a84160fbb946511829ec8e8385f3db74cbfc28d77067d9ab5b25353fb4::wagmi::WAGMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731356692086.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

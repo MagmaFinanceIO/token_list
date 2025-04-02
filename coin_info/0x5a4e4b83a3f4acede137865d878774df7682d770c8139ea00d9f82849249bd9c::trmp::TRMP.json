@@ -1,0 +1,13 @@
+{
+  "name": "TRUMP",
+  "symbol": "TRMP",
+  "decimals": 9,
+  "coin_type": "0x5a4e4b83a3f4acede137865d878774df7682d770c8139ea00d9f82849249bd9c::trmp::TRMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.natgeofe.com/k/5e4ea67e-2219-4de4-9240-2992faef0cb6/trump-portrait.jpg?wp=1&w=1084.125&h=1068.375",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIDOGI",
+  "symbol": "SDOG",
+  "decimals": 6,
+  "coin_type": "0xbd454473d9f69e01d67ed9932ecb183de667a67c77a0d27c4dc06ee80f9948ea::sdog::SDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/17_7656aec0d8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

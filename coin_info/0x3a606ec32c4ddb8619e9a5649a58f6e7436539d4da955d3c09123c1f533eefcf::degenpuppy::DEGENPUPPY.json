@@ -1,0 +1,13 @@
+{
+  "name": "Degen Puppy",
+  "symbol": "DegenPuppy",
+  "decimals": 9,
+  "coin_type": "0x3a606ec32c4ddb8619e9a5649a58f6e7436539d4da955d3c09123c1f533eefcf::degenpuppy::DEGENPUPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e593aff9-0b0b-4798-aa54-1af8199be3ac.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TONKEEE",
+  "symbol": "TONKEEE",
+  "decimals": 9,
+  "coin_type": "0x4626727978c3b4ca344131a7d65ffc2cf990994982f43462e60be84fdf57ce49::tonkeee::TONKEEE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

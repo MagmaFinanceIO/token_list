@@ -1,0 +1,13 @@
+{
+  "name": "TRON",
+  "symbol": "TRON",
+  "decimals": 9,
+  "coin_type": "0x9b0838cee838eca0c034b505f2594be156fd1b15381f4e5a15064f8b7f900398::tron::TRON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.pluggedin.com/wp-content/uploads/2019/12/tron-scaled.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

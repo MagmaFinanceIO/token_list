@@ -1,0 +1,13 @@
+{
+  "name": "SUINAINU",
+  "symbol": "SUINA",
+  "decimals": 6,
+  "coin_type": "0x838d62016e2e2e0887380ab04dcb2e149c86830ef952491939a175e01c56b5c6::suina::SUINA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3980_c4bf4fb99e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

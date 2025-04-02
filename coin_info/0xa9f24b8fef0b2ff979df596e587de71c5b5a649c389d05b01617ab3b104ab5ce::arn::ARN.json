@@ -1,0 +1,13 @@
+{
+  "name": "ARN",
+  "symbol": "ARN",
+  "decimals": 9,
+  "coin_type": "0xa9f24b8fef0b2ff979df596e587de71c5b5a649c389d05b01617ab3b104ab5ce::arn::ARN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE4QEJtkNCMMgtRywU-uCB1LP0Qav1fpFCDw&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

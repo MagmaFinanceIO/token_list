@@ -1,0 +1,13 @@
+{
+  "name": "Samurai Mama",
+  "symbol": "MAMA",
+  "decimals": 4,
+  "coin_type": "0xdadd16aa43ec92a4aa74d77c896a930910c0629c2b832cf06eecaf0815a9c4c6::mama::MAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/66057526-3292-4ee6-ab3d-88360f11ceec.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

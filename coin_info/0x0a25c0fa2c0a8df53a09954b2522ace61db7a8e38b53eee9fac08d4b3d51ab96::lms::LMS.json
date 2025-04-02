@@ -1,0 +1,13 @@
+{
+  "name": "Loner Mochi on Sui",
+  "symbol": "LMS",
+  "decimals": 9,
+  "coin_type": "0x0a25c0fa2c0a8df53a09954b2522ace61db7a8e38b53eee9fac08d4b3d51ab96::lms::LMS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9bbbe05d-9312-4b3c-9205-06c7579de9c9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

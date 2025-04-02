@@ -1,0 +1,13 @@
+{
+  "name": "SUIBALOO",
+  "symbol": "BALOO",
+  "decimals": 6,
+  "coin_type": "0x080357d1168682f3375bdf06ad25d8c41108bd0571d15c25a36d6a07ba1c0476::baloo::BALOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20241010_084606_575_905855eab8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

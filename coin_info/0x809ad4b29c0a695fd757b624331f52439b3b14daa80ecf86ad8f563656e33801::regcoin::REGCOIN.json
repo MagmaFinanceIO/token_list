@@ -1,0 +1,13 @@
+{
+  "name": "ELOOO coin",
+  "symbol": "REGCOIN",
+  "decimals": 6,
+  "coin_type": "0x809ad4b29c0a695fd757b624331f52439b3b14daa80ecf86ad8f563656e33801::regcoin::REGCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "We are all gonna make it",
+  "symbol": "WAGMI",
+  "decimals": 6,
+  "coin_type": "0x7bd581cedcc7b10d65dd45a1f5bc1826ff261f0e833bbe462f9e346e414b00d6::wagmi::WAGMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Wagmi_4d514d474e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI UST",
+  "symbol": "USDT",
+  "decimals": 9,
+  "coin_type": "0x1c66b44a36376e7b57cfa2127f02ebf97d98338b2d4bee900e1875c8cddd7bb8::usdt::USDT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.gtokentool.com/1737002165/1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

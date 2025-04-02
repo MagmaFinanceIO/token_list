@@ -1,0 +1,13 @@
+{
+  "name": "Haraambe",
+  "symbol": "HARAMBE",
+  "decimals": 6,
+  "coin_type": "0xb7e78cf96e8562ab608327c5c2e4cf3394c7cd87c71cea0251a0aa29f6c268fb::harambe::HARAMBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2024_10_12_14_46_25_4dfcb337f4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

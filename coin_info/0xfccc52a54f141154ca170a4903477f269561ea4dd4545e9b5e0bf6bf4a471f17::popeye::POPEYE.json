@@ -1,0 +1,13 @@
+{
+  "name": "Popeye the Sailor",
+  "symbol": "POPEYE",
+  "decimals": 6,
+  "coin_type": "0xfccc52a54f141154ca170a4903477f269561ea4dd4545e9b5e0bf6bf4a471f17::popeye::POPEYE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logojpg_6493c6d9f3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

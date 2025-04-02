@@ -1,0 +1,13 @@
+{
+  "name": "Rei Agent by SuiAI",
+  "symbol": "REI",
+  "decimals": 6,
+  "coin_type": "0xc203694c6eac741613a2f4be00c7678e54ca0d5cb4e26893aa6a598e1e74ad3e::rei::REI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/6075854977273807047_5d206f487d_0284e3d595.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "National Fart Token",
+  "symbol": "NFT",
+  "decimals": 9,
+  "coin_type": "0xa64282ef56eb9aa9d016727752239534b92083034a43201f184359ece3bb81d9::nft::NFT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2iFnBisF4PRY2ahQQgA4xTqze51V88FCBM4h9c3M8HCg.png?size=lg&key=a7c18a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI Dope",
+  "symbol": "Dope",
+  "decimals": 9,
+  "coin_type": "0x8cc91b94ee4f85691d0c474712b7426593acd793ed2088e7558d5dae40c6db0d::dope::DOPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/893592a1-a962-439f-b082-9c7cc26da1bc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

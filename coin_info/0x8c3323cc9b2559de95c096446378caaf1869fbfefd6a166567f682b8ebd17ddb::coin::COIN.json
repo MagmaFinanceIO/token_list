@@ -1,0 +1,13 @@
+{
+  "name": "AI Wizard",
+  "symbol": "AIWIZ",
+  "decimals": 8,
+  "coin_type": "0x8c3323cc9b2559de95c096446378caaf1869fbfefd6a166567f682b8ebd17ddb::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

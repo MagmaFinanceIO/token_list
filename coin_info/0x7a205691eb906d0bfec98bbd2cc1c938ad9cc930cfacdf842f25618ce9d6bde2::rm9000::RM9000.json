@@ -1,0 +1,13 @@
+{
+  "name": "RoastMaster9000",
+  "symbol": "RM9000",
+  "decimals": 9,
+  "coin_type": "0x7a205691eb906d0bfec98bbd2cc1c938ad9cc930cfacdf842f25618ce9d6bde2::rm9000::RM9000",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/677zp2C8pRNpbL7b9qqQNVSGVvABYeZNBRh5Gf2Mpump.png?size=lg&key=848905",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIBASETWD",
+  "symbol": "SUIBTWD",
+  "decimals": 9,
+  "coin_type": "0xe872fa6e2e27affd996f0bffcf5503c9a228a8b2aa8bbd8f9373274d48626d2f::suibtwd::SUIBTWD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.gtokentool.com/1738253003/1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

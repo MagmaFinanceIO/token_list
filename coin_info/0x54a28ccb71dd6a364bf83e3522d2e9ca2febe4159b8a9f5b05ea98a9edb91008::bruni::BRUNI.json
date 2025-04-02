@@ -1,0 +1,13 @@
+{
+  "name": "BRUNI SUI",
+  "symbol": "BRUNI",
+  "decimals": 6,
+  "coin_type": "0x54a28ccb71dd6a364bf83e3522d2e9ca2febe4159b8a9f5b05ea98a9edb91008::bruni::BRUNI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1736555645_305013_9_F7_D30_F9_209_E_4_BDC_B52_F_96_C7_DAB_7_B238_46e2f8a5ce.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuiFer",
+  "symbol": "SURFER",
+  "decimals": 9,
+  "coin_type": "0x44054992b1e5a11cf433e40e594b819ade386c830eebc5a2ecb3a1a83e0b419c::surfer::SURFER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2ba19616-ffeb-4c34-b411-36669a92e627.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

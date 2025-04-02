@@ -1,0 +1,13 @@
+{
+  "name": "Suirfer Dog",
+  "symbol": "Suirf",
+  "decimals": 6,
+  "coin_type": "0xfb83014b090ad9b3e5978a8486cb776d9a2892777c1ddf6eab384fc101ea179b::suirf::SUIRF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Suirfer_dog_5594a6d41f.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

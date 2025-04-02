@@ -1,0 +1,13 @@
+{
+  "name": "Baby Neiro",
+  "symbol": "Neiro",
+  "decimals": 9,
+  "coin_type": "0x755541f92a89eb199b6241f3e9865c75c17fe1e8aa5177a12585e7dde0b0cda2::neiro::NEIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

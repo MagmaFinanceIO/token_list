@@ -1,0 +1,13 @@
+{
+  "name": "Book of Wall Street on Sui",
+  "symbol": "BOWS",
+  "decimals": 6,
+  "coin_type": "0xa69dad56f25fb8a8b1cac5515a129da936474609239673aeb1e5719bbe3e7cfa::bows::BOWS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_1_24_dcc98f7d14.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

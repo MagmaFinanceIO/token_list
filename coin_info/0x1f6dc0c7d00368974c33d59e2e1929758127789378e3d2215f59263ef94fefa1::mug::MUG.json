@@ -1,0 +1,13 @@
+{
+  "name": "MugShot",
+  "symbol": "MUG",
+  "decimals": 9,
+  "coin_type": "0x1f6dc0c7d00368974c33d59e2e1929758127789378e3d2215f59263ef94fefa1::mug::MUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cc1b6a29-678c-4581-8e50-8ad6e4b42e0c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

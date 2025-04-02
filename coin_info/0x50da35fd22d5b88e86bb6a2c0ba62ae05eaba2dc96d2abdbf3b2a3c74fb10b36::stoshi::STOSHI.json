@@ -1,0 +1,13 @@
+{
+  "name": "SUITOSHI",
+  "symbol": "STOSHI",
+  "decimals": 6,
+  "coin_type": "0x50da35fd22d5b88e86bb6a2c0ba62ae05eaba2dc96d2abdbf3b2a3c74fb10b36::stoshi::STOSHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5904_32f73b25f4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

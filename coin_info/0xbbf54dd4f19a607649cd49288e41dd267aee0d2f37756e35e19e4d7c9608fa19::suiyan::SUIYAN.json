@@ -1,0 +1,13 @@
+{
+  "name": "SUIYAN",
+  "symbol": "SUIYAN",
+  "decimals": 9,
+  "coin_type": "0xbbf54dd4f19a607649cd49288e41dd267aee0d2f37756e35e19e4d7c9608fa19::suiyan::SUIYAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9edcb753-c25f-4a81-ac0a-0739fd907d58.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Big Red",
+  "symbol": "bigred",
+  "decimals": 9,
+  "coin_type": "0xa5d744806e462e1078794fa8ab8ac823362448a033f18af026d40fe77c8b7aec::bigred::BIGRED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/603/851/large/adam-baines-scribsbots3a.jpg?1727996365",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

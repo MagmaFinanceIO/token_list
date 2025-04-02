@@ -1,0 +1,13 @@
+{
+  "name": "MAXUM DREAMS",
+  "symbol": "NEXB",
+  "decimals": 9,
+  "coin_type": "0xf03b7c22ec051af7444ace50251e8532cb6398c0c0bf2cb477833f6e50791b09::nexb::NEXB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1bebfe33-b93c-48b8-b5a3-5da9ee08a3b0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Baby Shark",
+  "symbol": "BABYSHARK",
+  "decimals": 9,
+  "coin_type": "0x38ff4911d30e3757d57b8cb28c705fb2192248f6f99ec79e04e2193751df98de::babyshark::BABYSHARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1843734874156679168/uvMTIaPx.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

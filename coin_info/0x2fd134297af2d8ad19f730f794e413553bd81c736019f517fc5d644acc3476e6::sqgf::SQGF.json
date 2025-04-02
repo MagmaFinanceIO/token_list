@@ -1,0 +1,13 @@
+{
+  "name": "Squid Game 2 FanCoin",
+  "symbol": "SQGF",
+  "decimals": 9,
+  "coin_type": "0x2fd134297af2d8ad19f730f794e413553bd81c736019f517fc5d644acc3476e6::sqgf::SQGF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/871d0f55-bcfa-4544-af65-3a7c849b1806.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "armoured pnut",
+  "symbol": "apnut",
+  "decimals": 6,
+  "coin_type": "0x3c8d27c982b063a32f2e7fa3cc663df336b21fbd5f26e8860c1b92a267dceccb::apnut::APNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmQF38oVRC6JLp1dZAKXi5EtiESe4jNy2L1G7Wm6mh8iRY",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

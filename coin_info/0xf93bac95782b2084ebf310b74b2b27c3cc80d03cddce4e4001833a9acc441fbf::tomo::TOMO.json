@@ -1,0 +1,13 @@
+{
+  "name": "TOMO",
+  "symbol": "TOMO",
+  "decimals": 9,
+  "coin_type": "0xf93bac95782b2084ebf310b74b2b27c3cc80d03cddce4e4001833a9acc441fbf::tomo::TOMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4FbXdkJ9yuuSqstcqLAM1VTpJqaxd2tMwSDMTsFYzKYz.png?size=lg&key=5562ae",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

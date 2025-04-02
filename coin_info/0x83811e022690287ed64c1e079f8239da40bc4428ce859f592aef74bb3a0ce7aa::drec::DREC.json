@@ -1,0 +1,13 @@
+{
+  "name": "Demeter rec",
+  "symbol": "DREC",
+  "decimals": 9,
+  "coin_type": "0x83811e022690287ed64c1e079f8239da40bc4428ce859f592aef74bb3a0ce7aa::drec::DREC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3cad87f2-e7ad-4f70-9eec-fc389701cedc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

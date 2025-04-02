@@ -1,0 +1,13 @@
+{
+  "name": "LUNO",
+  "symbol": "LUNO",
+  "decimals": 9,
+  "coin_type": "0x365c733a52f9250bf696d682020e7969f9b0716ee9a6bc8c49fbf46a1a0824ea::luno::LUNO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/97yp7DoguD5LNeW6TJixSo6RDBkzBqaACn4avE4Xpump.png?size=lg&key=febc31",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

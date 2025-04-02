@@ -1,0 +1,13 @@
+{
+  "name": "Toilet Wif Hat",
+  "symbol": "ToiletWifHat",
+  "decimals": 9,
+  "coin_type": "0x4bd9b70c9ff237fca9b48abd5f5fac2346be66c692a7f3403c7ef432bf5c9cea::toiletwifhat::TOILETWIFHAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5fc87e7f-143d-4ec7-92cb-4fce28b7cf13.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "cat is wet",
+  "symbol": "WETCAT",
+  "decimals": 6,
+  "coin_type": "0xbd263d914adc0a59ee7a72271ac4a3d71088aba879270695d6ab81bf9fd1dc81::wetcat::WETCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/cat_water_96039e8e72.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

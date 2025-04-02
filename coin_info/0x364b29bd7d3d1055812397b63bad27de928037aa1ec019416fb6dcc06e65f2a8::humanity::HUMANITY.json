@@ -1,0 +1,13 @@
+{
+  "name": "HUMANITY",
+  "symbol": "HUMANITY",
+  "decimals": 9,
+  "coin_type": "0x364b29bd7d3d1055812397b63bad27de928037aa1ec019416fb6dcc06e65f2a8::humanity::HUMANITY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6ipq59qkwJVECtYBwe4qfz3NprvQ5FtQY7THvXWFpump.png?size=lg&key=ba702c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

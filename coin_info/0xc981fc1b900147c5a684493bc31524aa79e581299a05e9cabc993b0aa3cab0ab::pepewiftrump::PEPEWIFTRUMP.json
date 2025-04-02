@@ -1,0 +1,13 @@
+{
+  "name": "PepeWifTrump",
+  "symbol": "PepeWifTrump",
+  "decimals": 9,
+  "coin_type": "0xc981fc1b900147c5a684493bc31524aa79e581299a05e9cabc993b0aa3cab0ab::pepewiftrump::PEPEWIFTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/28373388-0dec-42a6-ae4d-d33f1e357ebc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

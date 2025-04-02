@@ -1,0 +1,13 @@
+{
+  "name": "Happy Fish",
+  "symbol": "HAPPYFISH",
+  "decimals": 6,
+  "coin_type": "0xb71ae4728f3174bb771b44633eb6d75b41bd0f189cdf1bb2eea6e546f713a34c::happyfish::HAPPYFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i1.sndcdn.com/artworks-OYGbRJdV7y36c2yD-9nYTuQ-t500x500.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

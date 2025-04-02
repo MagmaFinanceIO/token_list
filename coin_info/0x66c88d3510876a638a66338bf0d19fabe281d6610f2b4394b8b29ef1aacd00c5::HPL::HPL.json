@@ -1,0 +1,13 @@
+{
+  "name": "HPL",
+  "symbol": "HPL",
+  "decimals": 9,
+  "coin_type": "0x66c88d3510876a638a66338bf0d19fabe281d6610f2b4394b8b29ef1aacd00c5::HPL::HPL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

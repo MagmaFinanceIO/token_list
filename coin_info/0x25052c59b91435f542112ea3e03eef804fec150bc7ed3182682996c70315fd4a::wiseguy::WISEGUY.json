@@ -1,0 +1,13 @@
+{
+  "name": "CryptoFellas",
+  "symbol": "WiseGuy",
+  "decimals": 6,
+  "coin_type": "0x25052c59b91435f542112ea3e03eef804fec150bc7ed3182682996c70315fd4a::wiseguy::WISEGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1733108007736.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

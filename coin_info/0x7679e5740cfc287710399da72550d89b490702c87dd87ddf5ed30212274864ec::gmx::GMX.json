@@ -1,0 +1,13 @@
+{
+  "name": "GMX AI",
+  "symbol": "GMX",
+  "decimals": 9,
+  "coin_type": "0x7679e5740cfc287710399da72550d89b490702c87dd87ddf5ed30212274864ec::gmx::GMX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/arbitrum/0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a.png?size=lg&key=69df52",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

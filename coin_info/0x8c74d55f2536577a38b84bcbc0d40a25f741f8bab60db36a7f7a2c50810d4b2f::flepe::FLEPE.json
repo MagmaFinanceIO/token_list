@@ -1,0 +1,13 @@
+{
+  "name": "flepe",
+  "symbol": "Flepe",
+  "decimals": 6,
+  "coin_type": "0x8c74d55f2536577a38b84bcbc0d40a25f741f8bab60db36a7f7a2c50810d4b2f::flepe::FLEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1738091717625.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

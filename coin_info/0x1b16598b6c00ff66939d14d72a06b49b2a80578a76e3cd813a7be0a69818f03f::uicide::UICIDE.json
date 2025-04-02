@@ -1,0 +1,13 @@
+{
+  "name": "SUICIDE SOCIAL CLUB",
+  "symbol": "UICIDE",
+  "decimals": 9,
+  "coin_type": "0x1b16598b6c00ff66939d14d72a06b49b2a80578a76e3cd813a7be0a69818f03f::uicide::UICIDE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b491b97a-64ec-40f8-bfd9-d51d907fc185.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

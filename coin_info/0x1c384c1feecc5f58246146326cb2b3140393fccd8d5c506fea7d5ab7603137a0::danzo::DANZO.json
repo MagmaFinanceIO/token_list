@@ -1,0 +1,13 @@
+{
+  "name": "DANZO",
+  "symbol": "DANZO",
+  "decimals": 9,
+  "coin_type": "0x1c384c1feecc5f58246146326cb2b3140393fccd8d5c506fea7d5ab7603137a0::danzo::DANZO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/cardano/bf3e19192da77dfadc7c9065944e50ca7e1a439d90833e3ae58b720a44414e5a4f.png?size=lg&key=fa2346",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GRIMACE COIN",
+  "symbol": "GRIMACE",
+  "decimals": 9,
+  "coin_type": "0x8085ea1388f8025cd56b8c9800debf74de3bc6e16140a99c282400fd9d07b09e::grimace::GRIMACE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/arbitrum/0x764bfc309090e7f93edce53e5befa374cdcb7b8e.png?size=lg&key=c884d4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

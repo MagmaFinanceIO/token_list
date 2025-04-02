@@ -1,0 +1,13 @@
+{
+  "name": "Sui Punk 2077",
+  "symbol": "SPUNK",
+  "decimals": 6,
+  "coin_type": "0xdcd2bcbb2bb12205038a38a63d67d40b0e1298684668bb14858c0671d46e2040::spunk::SPUNK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/DALLA_E_2025_01_08_01_41_02_A_cartoonish_cyberpunk_character_portrait_The_character_is_a_young_tech_savvy_adventurer_with_spiky_blue_hair_and_a_neon_lit_visor_over_his_eyes_He_9127b7c745.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

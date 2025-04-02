@@ -1,0 +1,13 @@
+{
+  "name": "HopCatSui",
+  "symbol": "HopCat",
+  "decimals": 6,
+  "coin_type": "0xc5280902b79577eddaddc5bfb7d9cb9e976576d7b271768e22131c5b4ebd93f7::hopcat::HOPCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/G_Zm_P_Sh_XWQAEV_2oc_8dcf9569fc.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

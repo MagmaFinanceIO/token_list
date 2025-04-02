@@ -1,0 +1,13 @@
+{
+  "name": "MAGA BANANA",
+  "symbol": "MAGABA",
+  "decimals": 9,
+  "coin_type": "0x5eb1120eee2dd8a7ee23ce49b8680be7f604972a7936d0fdc3cd0540fb1f96f2::magaba::MAGABA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c173ffa7-dcc4-4596-93e7-90f75826bed0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

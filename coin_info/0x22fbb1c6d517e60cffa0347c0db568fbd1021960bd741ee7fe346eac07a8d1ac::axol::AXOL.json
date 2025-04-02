@@ -1,0 +1,13 @@
+{
+  "name": "Axol on Sui",
+  "symbol": "AXOL",
+  "decimals": 6,
+  "coin_type": "0x22fbb1c6d517e60cffa0347c0db568fbd1021960bd741ee7fe346eac07a8d1ac::axol::AXOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735841655887.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

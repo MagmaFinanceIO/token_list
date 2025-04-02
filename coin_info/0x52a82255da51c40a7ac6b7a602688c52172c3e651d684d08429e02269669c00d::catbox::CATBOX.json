@@ -1,0 +1,13 @@
+{
+  "name": "Cat Box",
+  "symbol": "CATBOX",
+  "decimals": 9,
+  "coin_type": "0x52a82255da51c40a7ac6b7a602688c52172c3e651d684d08429e02269669c00d::catbox::CATBOX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3b4ec1e7-8673-4236-b8a7-9e713aa252d7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

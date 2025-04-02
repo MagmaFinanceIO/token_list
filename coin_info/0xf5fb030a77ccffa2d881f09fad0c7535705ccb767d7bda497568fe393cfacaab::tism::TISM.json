@@ -1,0 +1,13 @@
+{
+  "name": "TISM",
+  "symbol": "TISM",
+  "decimals": 9,
+  "coin_type": "0xf5fb030a77ccffa2d881f09fad0c7535705ccb767d7bda497568fe393cfacaab::tism::TISM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/91739e00-bde0-4f74-a73c-cc67af61bd33.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Yandere Agent by SuiAI",
+  "symbol": "YAN",
+  "decimals": 6,
+  "coin_type": "0x20a7d14b5d1e5e1e602ffcbeefaaf31bd933dfdfae8f73d129254c1a6271d88e::yan::YAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_8083_81464e6b8e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

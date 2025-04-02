@@ -1,0 +1,13 @@
+{
+  "name": "500 MC Shitter",
+  "symbol": "Shitter",
+  "decimals": 6,
+  "coin_type": "0x3f448d0c9782891a9a819b31c4626366c4b36aefcae0e375f787e455797373e3::shitter::SHITTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4520_996b6d4ece.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

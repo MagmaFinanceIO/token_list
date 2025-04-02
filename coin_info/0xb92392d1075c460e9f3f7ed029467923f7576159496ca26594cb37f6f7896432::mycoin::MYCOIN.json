@@ -1,0 +1,13 @@
+{
+  "name": "Seek AI",
+  "symbol": "SEEKAI",
+  "decimals": 9,
+  "coin_type": "0xb92392d1075c460e9f3f7ed029467923f7576159496ca26594cb37f6f7896432::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui City",
+  "symbol": "SITY",
+  "decimals": 6,
+  "coin_type": "0x71fc61d2ac805c5a92487e118ddb21c5f4e8827bc3c083a3c05beb7e342376e2::sity::SITY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737743473433.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GOAT OF SUI by SuiAI",
+  "symbol": "CHEEPO",
+  "decimals": 6,
+  "coin_type": "0xb83c0b24a3bc82188d617a5729422530857d78117f47b17c752f1eff50529219::cheepo::CHEEPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/e_Ys_MH_SJ_400x400_8c0b546a22.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

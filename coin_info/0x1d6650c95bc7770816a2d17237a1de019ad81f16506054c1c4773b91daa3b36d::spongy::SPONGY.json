@@ -1,0 +1,13 @@
+{
+  "name": "Spongy Meme",
+  "symbol": "Spongy",
+  "decimals": 9,
+  "coin_type": "0x1d6650c95bc7770816a2d17237a1de019ad81f16506054c1c4773b91daa3b36d::spongy::SPONGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3ef47bac-fb40-4783-8f9c-510a25202096.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

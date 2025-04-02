@@ -1,0 +1,13 @@
+{
+  "name": "AquaEvan",
+  "symbol": "AQUAEVAN",
+  "decimals": 6,
+  "coin_type": "0x5a63061e580bd9201443874fd50eb675a97582b0e87666caf98c382bd529f911::aquaevan::AQUAEVAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmPsjfJNEF8YvwxjHukpgAXUkY1gHgawsMsUHcATckZwfP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

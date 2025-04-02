@@ -1,0 +1,13 @@
+{
+  "name": "Pumpcat",
+  "symbol": "Pumpcat",
+  "decimals": 9,
+  "coin_type": "0xa88936aa37fb4fd9f078eaa60e0c8b1434c652b3b35cc50e737b8effb8860347::pumpcat::PUMPCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5r6ZqgrT4kwcBu7XWKdKHzXvAwL6nXJumQWryQyu8qEJ.png?size=xl&key=3591ed",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

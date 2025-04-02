@@ -1,0 +1,13 @@
+{
+  "name": "Aurix AI",
+  "symbol": "A",
+  "decimals": 6,
+  "coin_type": "0x50dd8010e21d892c6a508d086a3c3cf7e358a5a78ef452b12e60689362dec4d5::a::A",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ed944fdb-6395-4f59-bc94-1a148019f87f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Cult J",
+  "symbol": "CULTJ",
+  "decimals": 9,
+  "coin_type": "0xae5b0195e648d05f5a672aebb04fab9c6c3ca8f0c14051fe111eff3385a9da74::cultg::CULTG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC.png?size=lg&key=b380cb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

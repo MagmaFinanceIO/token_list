@@ -1,0 +1,13 @@
+{
+  "name": "Mugu",
+  "symbol": "Mugu",
+  "decimals": 9,
+  "coin_type": "0xb8d4ceff0efab6955fdb89b10c50ab1168ca3ccdb973591339f2fad5b74836a8::mugu::MUGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6fd5df02-3564-46b8-8344-a9c21229fa2f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

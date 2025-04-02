@@ -1,0 +1,13 @@
+{
+  "name": "The Official Elon Meme",
+  "symbol": "ELON",
+  "decimals": 9,
+  "coin_type": "0xe0760de2b0c1518f98792989bfa64f37d74c89c33492b12a3ed3d5ca5c659737::elon::ELON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BftUiGB2iDkNDa8AKdhtLuJHHXiUfqLvTNmiXaSopump.png?size=lg&key=35cf67",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

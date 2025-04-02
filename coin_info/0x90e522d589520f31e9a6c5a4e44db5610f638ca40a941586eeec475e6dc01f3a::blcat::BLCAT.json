@@ -1,0 +1,13 @@
+{
+  "name": "BLUE CAT",
+  "symbol": "BLCAT",
+  "decimals": 6,
+  "coin_type": "0x90e522d589520f31e9a6c5a4e44db5610f638ca40a941586eeec475e6dc01f3a::blcat::BLCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/5116232753610862827_78d6d2f64c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

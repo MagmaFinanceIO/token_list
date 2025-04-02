@@ -1,0 +1,13 @@
+{
+  "name": "Large Language Model",
+  "symbol": "LLM",
+  "decimals": 9,
+  "coin_type": "0xfcd511ad89a56d31f431d0edb47efbe72a5b712cd71044c6b6993bf073028717::llm::LLM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/98mb39tPFKQJ4Bif8iVg9mYb9wsfPZgpgN1sxoVTpump.png?size=lg&key=c47612",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

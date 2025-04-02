@@ -1,0 +1,13 @@
+{
+  "name": "The Hedgehog on Sui",
+  "symbol": "SHRUB",
+  "decimals": 6,
+  "coin_type": "0x79be3a71a81a01f395549d356d7b415c649214aff68203781f81f799f8ce1a39::shrub::SHRUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/gif_7526540023.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

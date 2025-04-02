@@ -1,0 +1,13 @@
+{
+  "name": "FISH",
+  "symbol": "fish.sui",
+  "decimals": 9,
+  "coin_type": "0xcd9c4e78c58d04b27587b574b3719079aa121978e84d7a33d87a54af45333d56::fishsui::FISHSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.ethoswallet.xyz/ipfs/bafybeielfvz4m33f3vesmp3kxc2oplp3lmoaq7cu4tq45p5tp3fqdcnkxm",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

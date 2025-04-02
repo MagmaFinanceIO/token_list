@@ -1,0 +1,13 @@
+{
+  "name": "DocuSui",
+  "symbol": "DOCUSUI",
+  "decimals": 9,
+  "coin_type": "0x71c2d29c8a26c317102110e5933f7bb2ad9a1dba47dbe2ec611040defc8fdc3c::docusui::DOCUSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2thfFEH6nR7Qbqd315Dt9BjSJRau9YQ4mmBhkAuepump.png?size=lg&key=e2e7c3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SIRY",
+  "symbol": "SIRY",
+  "decimals": 9,
+  "coin_type": "0x9018ca8ddee0cb696679e84c154b7428d510ecd3d86e389d51c4b58b0dc3195b::siry::SIRY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1839753648965926912/npDfJTFq_400x400.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

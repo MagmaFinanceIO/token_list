@@ -1,0 +1,13 @@
+{
+  "name": "DOUG",
+  "symbol": "DOUG",
+  "decimals": 9,
+  "coin_type": "0x5cf7e6c67904ef41bc83457530ebd18caee566a8226a8c70eb49c4d24efc4f30::doug::DOUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2XHoQQhd5qcZ2wbQCiNK3Ppa2cEnHnDBfDnFTBjFpump.png?size=lg&key=761f08",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

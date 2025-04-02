@@ -1,0 +1,13 @@
+{
+  "name": "Waifu",
+  "symbol": "Waifu",
+  "decimals": 9,
+  "coin_type": "0x8d6572a4a8095cda9007a0657c2592c90b961eca56128c9953258ad839428d97::waifu::WAIFU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8afc73f5-758e-417a-9cee-6faf5b476e06.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

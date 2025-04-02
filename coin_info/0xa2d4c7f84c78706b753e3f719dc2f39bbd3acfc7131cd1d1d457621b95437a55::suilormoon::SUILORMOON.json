@@ -1,0 +1,13 @@
+{
+  "name": "Suilor Moon",
+  "symbol": "SUILORMOON",
+  "decimals": 9,
+  "coin_type": "0xa2d4c7f84c78706b753e3f719dc2f39bbd3acfc7131cd1d1d457621b95437a55::suilormoon::SUILORMOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7fc9b64c-a82b-4cab-af85-aec2377caa52.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

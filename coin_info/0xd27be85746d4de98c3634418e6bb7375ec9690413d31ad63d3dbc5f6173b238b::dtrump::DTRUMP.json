@@ -1,0 +1,13 @@
+{
+  "name": "DogTrump",
+  "symbol": "DTRUMP",
+  "decimals": 6,
+  "coin_type": "0xd27be85746d4de98c3634418e6bb7375ec9690413d31ad63d3dbc5f6173b238b::dtrump::DTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20241115_185735_887_f124bfdf03.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

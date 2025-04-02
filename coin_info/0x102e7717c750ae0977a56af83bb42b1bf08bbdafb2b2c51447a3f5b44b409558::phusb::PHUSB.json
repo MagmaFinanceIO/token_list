@@ -1,0 +1,13 @@
+{
+  "name": "Peanut Husbulla",
+  "symbol": "PHUSB",
+  "decimals": 9,
+  "coin_type": "0x102e7717c750ae0977a56af83bb42b1bf08bbdafb2b2c51447a3f5b44b409558::phusb::PHUSB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmNSNoLPL8f4oWPEpj4fWkmA2iMCzcjKGjYiHHAqHr2ufj",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

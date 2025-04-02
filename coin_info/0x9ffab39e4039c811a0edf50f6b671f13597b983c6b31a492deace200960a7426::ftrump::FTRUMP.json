@@ -1,0 +1,13 @@
+{
+  "name": "Flappy Trump",
+  "symbol": "FTRUMP",
+  "decimals": 6,
+  "coin_type": "0x9ffab39e4039c811a0edf50f6b671f13597b983c6b31a492deace200960a7426::ftrump::FTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5d36d3ea-722a-4cf6-a925-beee282e7548.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

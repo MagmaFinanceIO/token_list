@@ -1,0 +1,13 @@
+{
+  "name": "Astro Inu",
+  "symbol": "ASTROINU",
+  "decimals": 9,
+  "coin_type": "0x70595ae30c9b5366f10193aefb3271009808d70b5f1a87da0425d8ed9eea106f::astroinu::ASTROINU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/945c0b36-710f-41b2-9b44-4c340100a245.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

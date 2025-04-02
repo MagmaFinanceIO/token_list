@@ -1,0 +1,13 @@
+{
+  "name": "Bluefin",
+  "symbol": "BLUE",
+  "decimals": 9,
+  "coin_type": "0xa90be51ee2a0e1531ca7e869fc9afabffcf48b8e3b252a984da9805f1eeb32e8::blue::BLUE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bluefin.io/images/square.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

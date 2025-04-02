@@ -1,0 +1,13 @@
+{
+  "name": "MystenAi by SuiAI",
+  "symbol": "MYAI",
+  "decimals": 6,
+  "coin_type": "0xa19ee9c5a2e12af8b8d7590cea7cc298c8499c8572c3537792ceffb9932059d0::myai::MYAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_4258_2e83ebb9d8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

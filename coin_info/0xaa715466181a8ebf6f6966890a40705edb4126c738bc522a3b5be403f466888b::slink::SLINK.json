@@ -1,0 +1,13 @@
+{
+  "name": "SuiLink",
+  "symbol": "SLINK",
+  "decimals": 6,
+  "coin_type": "0xaa715466181a8ebf6f6966890a40705edb4126c738bc522a3b5be403f466888b::slink::SLINK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_18_15_24_56_a18d71c776.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

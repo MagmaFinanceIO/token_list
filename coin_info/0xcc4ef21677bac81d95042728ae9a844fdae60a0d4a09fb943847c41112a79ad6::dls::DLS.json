@@ -1,0 +1,13 @@
+{
+  "name": "DeepLinkSui",
+  "symbol": "DLS",
+  "decimals": 9,
+  "coin_type": "0xcc4ef21677bac81d95042728ae9a844fdae60a0d4a09fb943847c41112a79ad6::dls::DLS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://public-cdn.daossui.io/assets/tokens/3a2bbf50-daeb-11ef-80e8-811f7f414973",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dogwifhat",
+  "symbol": "WIF",
+  "decimals": 9,
+  "coin_type": "0x3d8ca97001b8b9e27a4fd808c05b4350195c43f951893815a69a03c42ad3cdd2::wif::WIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1723823186473529344/nms-iIKi_400x400.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

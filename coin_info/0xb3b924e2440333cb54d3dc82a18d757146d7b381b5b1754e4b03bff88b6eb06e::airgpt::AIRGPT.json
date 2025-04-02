@@ -1,0 +1,13 @@
+{
+  "name": "Air GPT",
+  "symbol": "AirGPT",
+  "decimals": 6,
+  "coin_type": "0xb3b924e2440333cb54d3dc82a18d757146d7b381b5b1754e4b03bff88b6eb06e::airgpt::AIRGPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e88a624e-3c08-457b-8113-ac0a4c0a5c81.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

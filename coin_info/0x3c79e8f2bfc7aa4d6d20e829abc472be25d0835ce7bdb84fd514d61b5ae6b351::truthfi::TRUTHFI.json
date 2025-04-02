@@ -1,0 +1,13 @@
+{
+  "name": "TruthFi",
+  "symbol": "TruthFI",
+  "decimals": 9,
+  "coin_type": "0x3c79e8f2bfc7aa4d6d20e829abc472be25d0835ce7bdb84fd514d61b5ae6b351::truthfi::TRUTHFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HyVDEc81P8DGfNfZbBZwyntJPvjrSi7JEK1vgqbJmUq9.png?claimId=O9CeK83EOFC0MIV9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

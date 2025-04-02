@@ -1,0 +1,13 @@
+{
+  "name": "SUICHILL",
+  "symbol": "SUICHILL",
+  "decimals": 9,
+  "coin_type": "0x749f7a5efa52157f7ed3437095567d7937c7bc97f8e5682d3842164d5faeb8cd::SUICHILL::SUICHILL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

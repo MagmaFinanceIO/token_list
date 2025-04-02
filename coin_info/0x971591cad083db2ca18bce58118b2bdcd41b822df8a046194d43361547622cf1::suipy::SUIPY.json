@@ -1,0 +1,13 @@
+{
+  "name": "SuipyMas",
+  "symbol": "SUIPY",
+  "decimals": 9,
+  "coin_type": "0x971591cad083db2ca18bce58118b2bdcd41b822df8a046194d43361547622cf1::suipy::SUIPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GXJmxv2PmjxdknyVBc43gqgMrtc86TRfHDFkWriupump.png?size=lg&key=1dac79",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

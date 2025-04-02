@@ -1,0 +1,13 @@
+{
+  "name": "ZZO",
+  "symbol": "ZZO",
+  "decimals": 9,
+  "coin_type": "0x6c91188943292d46bdd466dbf786691d2eb96d33ce8c30db55dc7bb7d2a35a0f::zzo::ZZO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

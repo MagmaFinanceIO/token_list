@@ -1,0 +1,13 @@
+{
+  "name": "Adansonia Digitata",
+  "symbol": "ADAD",
+  "decimals": 6,
+  "coin_type": "0x67abcfb3b3c74ef3b9de9acaad470502f5db2ae6cc3a8a66e036e5ecf49961a6::adad::ADAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/man_8559535_1280_40561057ff.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

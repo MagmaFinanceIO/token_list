@@ -1,0 +1,13 @@
+{
+  "name": "Pedro Raccoon",
+  "symbol": "Pedro",
+  "decimals": 9,
+  "coin_type": "0x3f0110aa48c44919a3fdc511f8e874969a63ec8c1c21763b3dd6b243e17259bc::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ton/eqbgtsm26tdn6brjzrmlzkzmqk-k8wd4r66k52ntpu4uzcv0.png?size=xl&key=61806c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Walter The Farting Dog",
+  "symbol": "WTFDOG",
+  "decimals": 9,
+  "coin_type": "0x8e643a18427ff54d32f616f58e39ab4843e5af2310e2bc7759a51307c08a214c::wtfdog::WTFDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/vjTJVR4ZWpnVFYAdFAmQT1yQmVvWdkSoAikTRkvNhat.png?size=lg&key=da250d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

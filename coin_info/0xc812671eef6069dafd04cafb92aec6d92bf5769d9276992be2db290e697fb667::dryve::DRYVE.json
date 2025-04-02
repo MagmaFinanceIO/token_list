@@ -1,0 +1,13 @@
+{
+  "name": "Testdryve 2",
+  "symbol": "Dryve",
+  "decimals": 4,
+  "coin_type": "0xc812671eef6069dafd04cafb92aec6d92bf5769d9276992be2db290e697fb667::dryve::DRYVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

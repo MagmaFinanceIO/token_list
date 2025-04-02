@@ -1,0 +1,13 @@
+{
+  "name": "WIFIUS MAXIMUS",
+  "symbol": "WIFIUS",
+  "decimals": 9,
+  "coin_type": "0x98c7dd319c6bfd1be860e1ac8c4cf45858a5f189196eaf55148b362fda6b37da::wifius::WIFIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BAVV6GbVzZq8kk3RnusoEoyjK9kg32EyjXcgdj1Ppump.png?size=lg&key=3882d4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

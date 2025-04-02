@@ -1,0 +1,13 @@
+{
+  "name": "Baby sui monster",
+  "symbol": "BabySuimon",
+  "decimals": 6,
+  "coin_type": "0x893d5df118884cfc42d85a72eb4178bcb13d0bc8ae3636fa43e820457dce1795::babysuimon::BABYSUIMON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000004555_97be862583.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

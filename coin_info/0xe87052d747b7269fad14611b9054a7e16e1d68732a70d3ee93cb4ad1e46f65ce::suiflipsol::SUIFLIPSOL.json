@@ -1,0 +1,13 @@
+{
+  "name": "Sui Flip Sol",
+  "symbol": "SuiFlipSol",
+  "decimals": 6,
+  "coin_type": "0xe87052d747b7269fad14611b9054a7e16e1d68732a70d3ee93cb4ad1e46f65ce::suiflipsol::SUIFLIPSOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "http://movepump.xyz/uploads/1000105434_7963e7139a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

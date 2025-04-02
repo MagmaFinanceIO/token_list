@@ -1,0 +1,13 @@
+{
+  "name": "Boredcat",
+  "symbol": "BCAT",
+  "decimals": 9,
+  "coin_type": "0x446d205008c47d85fcdabe513f8a6cae1eef65458b7610a5e689daa3289b20df::bcat::BCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump-static.cetus.zone/icon/fe339ec8-943e-447b-8bff-f33cb84555bc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

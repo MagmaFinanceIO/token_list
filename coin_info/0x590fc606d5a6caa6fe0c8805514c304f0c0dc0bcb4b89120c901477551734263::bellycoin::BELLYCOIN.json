@@ -1,0 +1,13 @@
+{
+  "name": "Fart Reserve",
+  "symbol": "BELLYCOIN",
+  "decimals": 9,
+  "coin_type": "0x590fc606d5a6caa6fe0c8805514c304f0c0dc0bcb4b89120c901477551734263::bellycoin::BELLYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DMEEBQ1e3Msmv7T5LXcVrLud5LsuGV9ctN4SrwpEpump.png?claimId=AQed_BHI1h-E4N5f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

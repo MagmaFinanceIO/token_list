@@ -1,0 +1,13 @@
+{
+  "name": "$USA",
+  "symbol": "USA",
+  "decimals": 6,
+  "coin_type": "0xc1f49ba5126cf76ba4ce7d2fcb96b3f222ded5869dfefc2e90d0813abdfabda0::usa::USA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000017188_fdbd531f0a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

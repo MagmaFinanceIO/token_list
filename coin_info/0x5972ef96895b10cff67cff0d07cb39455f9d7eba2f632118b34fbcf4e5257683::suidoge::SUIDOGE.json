@@ -1,0 +1,13 @@
+{
+  "name": "SUIDOGE",
+  "symbol": "SUIDOGE",
+  "decimals": 9,
+  "coin_type": "0x5972ef96895b10cff67cff0d07cb39455f9d7eba2f632118b34fbcf4e5257683::suidoge::SUIDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/59850205-49d5-48ad-b1a3-dbfdf7c8b7ce.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI ATH Breaker",
+  "symbol": "ATHSUI",
+  "decimals": 6,
+  "coin_type": "0xf0372beea9bff1701a702d65a20130949c444f22567b924b375d2cea1dc63902::athsui::ATHSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/66be4530_3fbd_43c8_b1a7_cfd79ca2f385_a589f8d14a.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

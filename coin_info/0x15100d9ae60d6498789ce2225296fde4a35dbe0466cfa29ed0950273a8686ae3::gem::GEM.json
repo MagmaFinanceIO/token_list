@@ -1,0 +1,13 @@
+{
+  "name": "GEM HUNTER by SuiAI",
+  "symbol": "GEM",
+  "decimals": 6,
+  "coin_type": "0x15100d9ae60d6498789ce2225296fde4a35dbe0466cfa29ed0950273a8686ae3::gem::GEM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/image_1_4dc5d50209.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

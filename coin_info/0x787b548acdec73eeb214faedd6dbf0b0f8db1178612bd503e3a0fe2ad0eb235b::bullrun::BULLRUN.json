@@ -1,0 +1,13 @@
+{
+  "name": "bull run",
+  "symbol": "bullrun",
+  "decimals": 6,
+  "coin_type": "0x787b548acdec73eeb214faedd6dbf0b0f8db1178612bd503e3a0fe2ad0eb235b::bullrun::BULLRUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmRMX3Rvp9A1cM6uhBTRHa5oyfpyapUcW1ckZSDQvgPhQY",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

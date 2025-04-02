@@ -1,0 +1,13 @@
+{
+  "name": "Cat Town AI",
+  "symbol": "CATTOWN",
+  "decimals": 9,
+  "coin_type": "0x0d7ab317073e4d496fdf81d039ba81797b71161013e163dd01b56bc5537e7c70::cattown::CATTOWN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/tBr9kYgRJXkaEiVGuoxiHHgQR5mH6LxzoxQLZnXpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

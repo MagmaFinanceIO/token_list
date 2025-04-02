@@ -1,0 +1,13 @@
+{
+  "name": "tuzki on sui",
+  "symbol": "tuzki ai",
+  "decimals": 9,
+  "coin_type": "0x4d2fb37d28c887ed7ed914f3176e7c56304b9f9212ea007126badc83c44add85::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

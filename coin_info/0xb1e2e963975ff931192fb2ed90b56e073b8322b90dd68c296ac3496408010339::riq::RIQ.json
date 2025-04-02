@@ -1,0 +1,13 @@
+{
+  "name": "RICO",
+  "symbol": "RIQ",
+  "decimals": 6,
+  "coin_type": "0xb1e2e963975ff931192fb2ed90b56e073b8322b90dd68c296ac3496408010339::riq::RIQ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/alien_032bca9920.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

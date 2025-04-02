@@ -1,0 +1,13 @@
+{
+  "name": "BATMEW",
+  "symbol": "BATMEW",
+  "decimals": 3,
+  "coin_type": "0xe0b8afa8148abaa0e40aa6016e4d5097e4492ba1b646767622762edd26ee1fb6::batmew::BATMEW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/74e3bed3-983e-4795-9447-fdac60a47c12.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

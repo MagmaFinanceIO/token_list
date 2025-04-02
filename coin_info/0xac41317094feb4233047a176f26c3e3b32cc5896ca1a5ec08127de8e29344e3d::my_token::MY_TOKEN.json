@@ -1,0 +1,13 @@
+{
+  "name": "MY_TOKEN",
+  "symbol": "AMY",
+  "decimals": 9,
+  "coin_type": "0xac41317094feb4233047a176f26c3e3b32cc5896ca1a5ec08127de8e29344e3d::my_token::MY_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

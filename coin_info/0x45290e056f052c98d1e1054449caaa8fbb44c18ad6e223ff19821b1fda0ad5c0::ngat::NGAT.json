@@ -1,0 +1,13 @@
+{
+  "name": "NGA TIGER",
+  "symbol": "NGAT",
+  "decimals": 9,
+  "coin_type": "0x45290e056f052c98d1e1054449caaa8fbb44c18ad6e223ff19821b1fda0ad5c0::ngat::NGAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cb6b4ee7-d6a8-4cfc-addf-1146cea37602.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

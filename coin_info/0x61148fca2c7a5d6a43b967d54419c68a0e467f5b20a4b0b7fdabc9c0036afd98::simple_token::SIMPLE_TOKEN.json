@@ -1,0 +1,13 @@
+{
+  "name": "Mod",
+  "symbol": "Mod",
+  "decimals": 9,
+  "coin_type": "0x61148fca2c7a5d6a43b967d54419c68a0e467f5b20a4b0b7fdabc9c0036afd98::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

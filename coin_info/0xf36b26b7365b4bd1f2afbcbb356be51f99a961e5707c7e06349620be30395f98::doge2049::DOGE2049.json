@@ -1,0 +1,13 @@
+{
+  "name": "DOGE-2049",
+  "symbol": "DOGE2049",
+  "decimals": 6,
+  "coin_type": "0xf36b26b7365b4bd1f2afbcbb356be51f99a961e5707c7e06349620be30395f98::doge2049::DOGE2049",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3575_599965aa25.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

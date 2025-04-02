@@ -1,0 +1,13 @@
+{
+  "name": "Gold Sui",
+  "symbol": "XAU",
+  "decimals": 9,
+  "coin_type": "0xcc32db110eb36839db760cbce5313d05627d3048d35d3b41b07630203666ed5d::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/79eXoT1aR7qhBMGKXzVNdV4ZcLqHsupqj2WTFvDumpSZ.png?size=xl&key=3dae84",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

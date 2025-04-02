@@ -1,0 +1,13 @@
+{
+  "name": "Sui Popcat",
+  "symbol": "SOPCAT",
+  "decimals": 6,
+  "coin_type": "0x3f169942858eacecf8b87168ce3f1b87551820b11dcca5416b81b04b128c9f0d::sopcat::SOPCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/sopelogo_f0974d4a9f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

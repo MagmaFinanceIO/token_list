@@ -1,0 +1,13 @@
+{
+  "name": "POPA",
+  "symbol": "POPA",
+  "decimals": 9,
+  "coin_type": "0x219245adce6a1b3ba0b41977e596d9e075a802108f4e9cc2362267123ede66ca::popa::POPA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

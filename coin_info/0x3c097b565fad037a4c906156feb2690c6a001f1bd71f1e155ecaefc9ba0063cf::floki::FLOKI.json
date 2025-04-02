@@ -1,0 +1,13 @@
+{
+  "name": "FLOKI On SUI",
+  "symbol": "FLOKI",
+  "decimals": 9,
+  "coin_type": "0x3c097b565fad037a4c906156feb2690c6a001f1bd71f1e155ecaefc9ba0063cf::floki::FLOKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmTrqUHwhEep7otevBviS2VcWYVSoMLWZ8Xo7q1kC2hsEF",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

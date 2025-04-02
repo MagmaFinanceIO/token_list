@@ -1,0 +1,13 @@
+{
+  "name": "💸 USDC-APTOS.ORG",
+  "symbol": "USDC",
+  "decimals": 6,
+  "coin_type": "0x22ce9242e38c8a5f79346ced2ce98151ec5d93fab87b983b302354141a2e8526::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

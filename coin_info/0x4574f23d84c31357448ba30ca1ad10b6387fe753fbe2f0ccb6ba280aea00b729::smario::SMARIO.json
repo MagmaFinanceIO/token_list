@@ -1,0 +1,13 @@
+{
+  "name": "Suiper Mario",
+  "symbol": "SMARIO",
+  "decimals": 6,
+  "coin_type": "0x4574f23d84c31357448ba30ca1ad10b6387fe753fbe2f0ccb6ba280aea00b729::smario::SMARIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1734392301824.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

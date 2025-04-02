@@ -1,0 +1,13 @@
+{
+  "name": "SEA CAT",
+  "symbol": "SEACAT",
+  "decimals": 6,
+  "coin_type": "0x122bd07ed8a1b33a91203df778a66e6ca66d6b0d12d5049e3965ff51fea615ba::seacat::SEACAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/6_0ccdcc23d2.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

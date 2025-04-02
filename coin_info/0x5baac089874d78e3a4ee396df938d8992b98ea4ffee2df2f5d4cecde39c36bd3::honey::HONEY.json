@@ -1,0 +1,13 @@
+{
+  "name": "Justice For Honey",
+  "symbol": "HONEY",
+  "decimals": 9,
+  "coin_type": "0x5baac089874d78e3a4ee396df938d8992b98ea4ffee2df2f5d4cecde39c36bd3::honey::HONEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x70d9e6df4ec90f9e73d51d4d61e93d62db035570.png?size=lg&key=a636dc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

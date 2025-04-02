@@ -1,0 +1,13 @@
+{
+  "name": "NINTENDOGE",
+  "symbol": "NINTENDOGE",
+  "decimals": 9,
+  "coin_type": "0x1da722abd357e43368548503116ffdc47d31a707a521704cdc02357d505a8597::nintendoge::NINTENDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/EqT070u_z1-MO-Tf?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

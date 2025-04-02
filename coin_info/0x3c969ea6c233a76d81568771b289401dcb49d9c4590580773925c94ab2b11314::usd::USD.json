@@ -1,0 +1,13 @@
+{
+  "name": "UnoSuiDollar",
+  "symbol": "USD",
+  "decimals": 9,
+  "coin_type": "0x3c969ea6c233a76d81568771b289401dcb49d9c4590580773925c94ab2b11314::usd::USD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/79ac428f-f0e0-4ace-ba9a-8cea649f23be.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PUMPEII",
+  "symbol": "PUMP",
+  "decimals": 6,
+  "coin_type": "0xadea249d34872a66b7bb76211870cd7d37316c196339b161c6d835cd92ff5a4a::pump::PUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/POMPEYAOK_ed72386115.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

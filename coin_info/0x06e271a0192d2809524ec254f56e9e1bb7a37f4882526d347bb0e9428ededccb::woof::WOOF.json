@@ -1,0 +1,13 @@
+{
+  "name": "WoofMask",
+  "symbol": "WOOF",
+  "decimals": 9,
+  "coin_type": "0x06e271a0192d2809524ec254f56e9e1bb7a37f4882526d347bb0e9428ededccb::woof::WOOF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0b321530-d349-4296-80bd-ae58b4a5dad0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

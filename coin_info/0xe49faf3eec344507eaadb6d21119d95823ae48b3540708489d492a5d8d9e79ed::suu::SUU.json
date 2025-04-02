@@ -1,0 +1,13 @@
+{
+  "name": "Suuflex",
+  "symbol": "SUU",
+  "decimals": 9,
+  "coin_type": "0xe49faf3eec344507eaadb6d21119d95823ae48b3540708489d492a5d8d9e79ed::suu::SUU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7e9871c9-2040-429c-8a09-16f6b1db87ca.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "VENOM Symbiont",
+  "symbol": "VENOM",
+  "decimals": 9,
+  "coin_type": "0xccf7c46263d0ca278e72e70b5c28b3dbc83e7ebd160a2b67916f9a2bb99eeb1f::venom::VENOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.redwolf.in/image/cache/catalog/artwork-Images/mens/Digital/venom-x-carnage-t-shirt-india-artwork-500x667.jpg?m=1687857269",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

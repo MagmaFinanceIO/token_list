@@ -1,0 +1,13 @@
+{
+  "name": "FLOSS",
+  "symbol": "FLOSS",
+  "decimals": 9,
+  "coin_type": "0x045baad02e6e9accbd8671792b8419db1d8653b5fa6606bf371e6dd719fdf96a::floss::FLOSS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GwbwKAWVZiXcxUmfAQLbRNjdEMzHKoT5ioR66Te16cxd.png?size=lg&key=0c7eb7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

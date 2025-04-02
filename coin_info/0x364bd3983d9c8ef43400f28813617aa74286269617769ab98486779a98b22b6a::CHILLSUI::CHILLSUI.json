@@ -1,0 +1,13 @@
+{
+  "name": "CHILLSUI",
+  "symbol": "CHILLSUI",
+  "decimals": 9,
+  "coin_type": "0x364bd3983d9c8ef43400f28813617aa74286269617769ab98486779a98b22b6a::CHILLSUI::CHILLSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

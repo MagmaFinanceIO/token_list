@@ -1,0 +1,13 @@
+{
+  "name": "MOLA",
+  "symbol": "MOLA",
+  "decimals": 9,
+  "coin_type": "0x61e85a36e9b0f24ef09df56cddf2e3060175e11d8f0f5ac28dddccb0c78ff84d::mola::MOLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5228cf53-f23a-4b86-b592-9353dedb1812.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

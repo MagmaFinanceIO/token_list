@@ -1,0 +1,13 @@
+{
+  "name": "Horin",
+  "symbol": "HORIN",
+  "decimals": 9,
+  "coin_type": "0xd1a45aec47f9b0a62ae5cd245ef1c5cd99f4645710dd805cc93f99747febb69b::horin::HORIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GjKYDwePfNWMbZHQ1koQ8eXtigkUdCuFmxqr9rCspump.png?size=lg&key=03f991",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

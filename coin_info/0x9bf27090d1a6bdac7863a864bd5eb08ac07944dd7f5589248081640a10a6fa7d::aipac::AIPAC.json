@@ -1,0 +1,13 @@
+{
+  "name": "Ai Pacino",
+  "symbol": "AIPAC",
+  "decimals": 6,
+  "coin_type": "0x9bf27090d1a6bdac7863a864bd5eb08ac07944dd7f5589248081640a10a6fa7d::aipac::AIPAC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_P_Br85_J_Sc_Jsdnpq_H_Kp6_F_Xbty_P_Dknp_Yv_Wftu_M_Lf37sr_L3_R_4693ecd8ad.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

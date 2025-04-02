@@ -1,0 +1,13 @@
+{
+  "name": "DEEPSEEK ARMY",
+  "symbol": "DSARMY",
+  "decimals": 9,
+  "coin_type": "0xcef8be4e130a10c3910038e363f5b5305798ae6854e05a566fc4a206938280c6::dsarmy::DSARMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/X25o9fcK_AFWwPlJ?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

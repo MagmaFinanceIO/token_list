@@ -1,0 +1,13 @@
+{
+  "name": "C.A.I.R.E by SuiAI",
+  "symbol": "CAIRE",
+  "decimals": 6,
+  "coin_type": "0x7ee747760fb2d37b0458ea72f1ad4ddcf6de3b024115664e61144d8f488a08b2::caire::CAIRE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/d0556480_f824_4011_a817_552c02cb0155_b764f685dc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

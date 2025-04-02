@@ -1,0 +1,13 @@
+{
+  "name": "UNITED STATES DOGE",
+  "symbol": "USD",
+  "decimals": 9,
+  "coin_type": "0x09759b5501cd185450d1c336238970f3f7ef675749f8f2cc0b1f26f4f485ba09::usd::USD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DcbRJ9VJVEaku61YiZYvfLuH5SnCogrErHqSHKffpump.png?size=lg&key=82b437",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

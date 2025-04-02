@@ -1,0 +1,13 @@
+{
+  "name": "PECMAN",
+  "symbol": "PECMAN",
+  "decimals": 9,
+  "coin_type": "0x7052dc82536c4ff708040bd695e07d458af59f8ee544f9f28de39e760961643c::pecman::PECMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0x64b9a967e6461210f06b259148b58c401ef3d19c0f207c03d9fa85542acdcb71::pecman::pecman.png?size=lg&key=461dac",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

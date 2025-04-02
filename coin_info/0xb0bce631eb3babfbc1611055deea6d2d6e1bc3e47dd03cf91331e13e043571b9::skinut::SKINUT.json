@@ -1,0 +1,13 @@
+{
+  "name": "SKI MASK PEANUT",
+  "symbol": "SKINUT",
+  "decimals": 9,
+  "coin_type": "0xb0bce631eb3babfbc1611055deea6d2d6e1bc3e47dd03cf91331e13e043571b9::skinut::SKINUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FG37QgnBBTSYroGpJTvfDuuq8e8CZSCQhMLTom3Ypump.png?size=lg&key=4ee644",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

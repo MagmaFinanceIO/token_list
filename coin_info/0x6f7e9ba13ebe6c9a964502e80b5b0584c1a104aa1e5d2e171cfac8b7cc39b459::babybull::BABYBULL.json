@@ -1,0 +1,13 @@
+{
+  "name": "BabyBull",
+  "symbol": "BabyBull",
+  "decimals": 9,
+  "coin_type": "0x6f7e9ba13ebe6c9a964502e80b5b0584c1a104aa1e5d2e171cfac8b7cc39b459::babybull::BABYBULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/75a4ec3a-36c8-4a50-9ed2-f3677f7db5d9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

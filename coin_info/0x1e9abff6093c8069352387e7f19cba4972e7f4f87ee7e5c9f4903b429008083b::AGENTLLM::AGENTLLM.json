@@ -1,0 +1,13 @@
+{
+  "name": "AGENTLLM",
+  "symbol": "AGENTLLM",
+  "decimals": 9,
+  "coin_type": "0x1e9abff6093c8069352387e7f19cba4972e7f4f87ee7e5c9f4903b429008083b::AGENTLLM::AGENTLLM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

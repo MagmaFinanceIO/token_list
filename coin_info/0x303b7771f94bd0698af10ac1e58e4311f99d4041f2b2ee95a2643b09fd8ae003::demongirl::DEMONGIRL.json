@@ -1,0 +1,13 @@
+{
+  "name": "Demon Girl",
+  "symbol": "DEMONGIRL",
+  "decimals": 9,
+  "coin_type": "0x303b7771f94bd0698af10ac1e58e4311f99d4041f2b2ee95a2643b09fd8ae003::demongirl::DEMONGIRL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/048/980/783/large/stasia-bubnova-dg-bubnova-stasia-3.jpg?1651418066",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

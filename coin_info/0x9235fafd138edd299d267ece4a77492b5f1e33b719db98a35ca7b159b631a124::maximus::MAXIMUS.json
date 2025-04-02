@@ -1,0 +1,13 @@
+{
+  "name": "Kekius Maximus",
+  "symbol": "MAXIMUS",
+  "decimals": 9,
+  "coin_type": "0x9235fafd138edd299d267ece4a77492b5f1e33b719db98a35ca7b159b631a124::maximus::MAXIMUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQniYkFR1KU7SgwwDHfC96kfwYKHB6VzETv9r8z56ViRz",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

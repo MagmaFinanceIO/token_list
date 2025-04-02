@@ -1,0 +1,13 @@
+{
+  "name": "Xenon AGI",
+  "symbol": "X",
+  "decimals": 6,
+  "coin_type": "0x74c43208d0e3c95eecbd83cd611fb6a950a68fc20da82512fc95df1eed099165::x::X",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8faf07f8-88f2-48a9-babd-f5de1b2c61d3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

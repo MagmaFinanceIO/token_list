@@ -1,0 +1,13 @@
+{
+  "name": "Racoon AI",
+  "symbol": "RCAI",
+  "decimals": 9,
+  "coin_type": "0x1af508da846fb7a970dc4e0d0b45eb59500429ec6a4fae68b55f1a7705a20571::rcai::RCAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1d125110-e189-419f-83f2-6dfcdb6efc4f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

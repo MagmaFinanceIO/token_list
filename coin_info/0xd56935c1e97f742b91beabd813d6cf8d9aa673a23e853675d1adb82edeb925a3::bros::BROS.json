@@ -1,0 +1,13 @@
+{
+  "name": "SUI BRO BEAR",
+  "symbol": "BROS",
+  "decimals": 6,
+  "coin_type": "0xd56935c1e97f742b91beabd813d6cf8d9aa673a23e853675d1adb82edeb925a3::bros::BROS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1732280622796.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

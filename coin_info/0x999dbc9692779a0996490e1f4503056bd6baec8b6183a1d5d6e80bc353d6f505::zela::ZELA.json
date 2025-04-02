@@ -1,0 +1,13 @@
+{
+  "name": "Zela coin",
+  "symbol": "Zela",
+  "decimals": 9,
+  "coin_type": "0x999dbc9692779a0996490e1f4503056bd6baec8b6183a1d5d6e80bc353d6f505::zela::ZELA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2HxrCzbPo6DfnHSDviNgg7QTsXwQzLdxAUdjGc65pump.png?size=xl&key=f5f716",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

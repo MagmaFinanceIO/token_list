@@ -1,0 +1,13 @@
+{
+  "name": "DUKHOP",
+  "symbol": "DUK",
+  "decimals": 6,
+  "coin_type": "0x9ec397350d2f68912467a111759b8a85d9529062bd29afd70ce5f2b576ce35a6::duk::DUK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731085883253.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

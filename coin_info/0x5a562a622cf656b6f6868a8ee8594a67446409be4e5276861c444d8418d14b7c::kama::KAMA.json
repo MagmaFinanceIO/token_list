@@ -1,0 +1,13 @@
+{
+  "name": "CHIIKAWA",
+  "symbol": "KAMA",
+  "decimals": 6,
+  "coin_type": "0x5a562a622cf656b6f6868a8ee8594a67446409be4e5276861c444d8418d14b7c::kama::KAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1728712003534_fba7e0f76d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

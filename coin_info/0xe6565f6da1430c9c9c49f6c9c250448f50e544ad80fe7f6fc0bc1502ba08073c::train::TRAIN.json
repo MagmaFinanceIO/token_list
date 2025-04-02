@@ -1,0 +1,13 @@
+{
+  "name": "Thomas The Pump Train",
+  "symbol": "TRAIN",
+  "decimals": 6,
+  "coin_type": "0xe6565f6da1430c9c9c49f6c9c250448f50e544ad80fe7f6fc0bc1502ba08073c::train::TRAIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1094_f39a100d8f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

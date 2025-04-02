@@ -1,0 +1,13 @@
+{
+  "name": "BOEIER",
+  "symbol": "BOEIER",
+  "decimals": 7,
+  "coin_type": "0x3a8b1f337f07bf408b3443859dea07a31b8c1469cf213f63d8265a1dda5f319e::boeier::BOEIER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/689a8e2c-d7a2-4377-9c2f-a8d21bca30fb.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

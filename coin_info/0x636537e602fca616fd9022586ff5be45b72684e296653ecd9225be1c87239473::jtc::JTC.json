@@ -1,0 +1,13 @@
+{
+  "name": "Jimmy The Condom",
+  "symbol": "JTC",
+  "decimals": 6,
+  "coin_type": "0x636537e602fca616fd9022586ff5be45b72684e296653ecd9225be1c87239473::jtc::JTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_11_28_064333_569ba622bc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

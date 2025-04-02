@@ -1,0 +1,13 @@
+{
+  "name": "DIDDY",
+  "symbol": "DIDDY",
+  "decimals": 9,
+  "coin_type": "0xa10145168ffe11a3c3ce1f63acf6fa49e9fdeddbbee8f3095ada2408f311e860::diddy::DIDDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bottleraiders.com/wp-content/uploads/2024/01/AP23342133782579-scaled.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

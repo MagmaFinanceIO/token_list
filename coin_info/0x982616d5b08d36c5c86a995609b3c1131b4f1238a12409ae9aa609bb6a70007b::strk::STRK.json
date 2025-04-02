@@ -1,0 +1,13 @@
+{
+  "name": "Starknet",
+  "symbol": "STRK",
+  "decimals": 8,
+  "coin_type": "0x982616d5b08d36c5c86a995609b3c1131b4f1238a12409ae9aa609bb6a70007b::strk::STRK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d1d852e2-328b-4cb4-af01-b5975ce7328e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

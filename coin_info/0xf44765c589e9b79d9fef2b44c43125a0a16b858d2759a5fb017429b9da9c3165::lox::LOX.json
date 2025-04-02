@@ -1,0 +1,13 @@
+{
+  "name": "LOX",
+  "symbol": "LOX",
+  "decimals": 9,
+  "coin_type": "0xf44765c589e9b79d9fef2b44c43125a0a16b858d2759a5fb017429b9da9c3165::lox::LOX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

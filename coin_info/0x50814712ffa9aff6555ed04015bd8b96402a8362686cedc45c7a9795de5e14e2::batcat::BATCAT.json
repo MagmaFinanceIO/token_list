@@ -1,0 +1,13 @@
+{
+  "name": "BATCAT AI",
+  "symbol": "BATCAT",
+  "decimals": 9,
+  "coin_type": "0x50814712ffa9aff6555ed04015bd8b96402a8362686cedc45c7a9795de5e14e2::batcat::BATCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7f5524a0-d065-4b87-ad60-6b31455c0064.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

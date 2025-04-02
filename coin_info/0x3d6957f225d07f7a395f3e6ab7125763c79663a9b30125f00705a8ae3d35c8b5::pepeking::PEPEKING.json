@@ -1,0 +1,13 @@
+{
+  "name": "King Pepe",
+  "symbol": "PEPEKING",
+  "decimals": 9,
+  "coin_type": "0x3d6957f225d07f7a395f3e6ab7125763c79663a9b30125f00705a8ae3d35c8b5::pepeking::PEPEKING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7aaf9af7-f3d7-4954-b1d3-07fbf0fdf6b5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

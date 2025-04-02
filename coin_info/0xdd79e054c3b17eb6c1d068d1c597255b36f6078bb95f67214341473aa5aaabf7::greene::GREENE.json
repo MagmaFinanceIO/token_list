@@ -1,0 +1,13 @@
+{
+  "name": "Sui Greene",
+  "symbol": "GREENE",
+  "decimals": 9,
+  "coin_type": "0xdd79e054c3b17eb6c1d068d1c597255b36f6078bb95f67214341473aa5aaabf7::greene::GREENE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/41ed45ec-ae5d-4d6a-be50-e3e902b96230.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

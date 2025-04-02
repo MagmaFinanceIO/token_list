@@ -1,0 +1,13 @@
+{
+  "name": "BootyCoin",
+  "symbol": "BOOTY",
+  "decimals": 9,
+  "coin_type": "0x08d1ff831ae5931abf42ea5e6b007cf567e89f0d9f6a5b4f7ca90295cd19a82d::booty::BOOTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DTqJDnrDK4pK4nh6LcgnSzm1EsGogvh8zdvi6y8Epump.png?size=lg&key=8122bf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

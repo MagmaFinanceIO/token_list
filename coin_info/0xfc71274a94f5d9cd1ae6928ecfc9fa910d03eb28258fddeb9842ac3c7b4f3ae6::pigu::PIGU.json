@@ -1,0 +1,13 @@
+{
+  "name": "PIGU",
+  "symbol": "PIGU",
+  "decimals": 5,
+  "coin_type": "0xfc71274a94f5d9cd1ae6928ecfc9fa910d03eb28258fddeb9842ac3c7b4f3ae6::pigu::PIGU",
+  "pyth_id": "",
+  "birdeyeid": "0xfc71274a94f5d9cd1ae6928ecfc9fa910d03eb28258fddeb9842ac3c7b4f3ae6::pigu::PIGU",
+  "coin_priority": [],
+  "logo_url": "https://idcawqx5x4ziq6wq7xck7wlleckqbzv5jbhqpgbbeynww2kd4pda.arweave.net/QMQLQv2_Moh60P3Er9lrIJUA5r1ITweYISYba2lD48Y",
+  "project_url": "",
+  "coingecko_id": "pigu",
+  "is_trusted": true
+}

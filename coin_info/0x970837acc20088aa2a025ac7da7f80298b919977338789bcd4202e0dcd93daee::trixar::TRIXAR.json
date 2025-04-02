@@ -1,0 +1,13 @@
+{
+  "name": "Pixar Trump",
+  "symbol": "Trixar",
+  "decimals": 9,
+  "coin_type": "0x970837acc20088aa2a025ac7da7f80298b919977338789bcd4202e0dcd93daee::trixar::TRIXAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/L-HhL_TF0o2LDOD1?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

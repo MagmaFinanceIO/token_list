@@ -1,0 +1,13 @@
+{
+  "name": "STRONGEST OF ALL TIME",
+  "symbol": "SOAT",
+  "decimals": 6,
+  "coin_type": "0x0e8b233a8c3e21cc81dabbe1ad94f3e99f85b819688b1cb2c5b78cd439908b9b::soat::SOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Design_sans_titre_2024_10_11_T201928_613_154d984291.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

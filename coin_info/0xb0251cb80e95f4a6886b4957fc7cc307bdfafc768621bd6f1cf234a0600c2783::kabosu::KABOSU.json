@@ -1,0 +1,13 @@
+{
+  "name": "kabosu",
+  "symbol": "KABOSU",
+  "decimals": 6,
+  "coin_type": "0xb0251cb80e95f4a6886b4957fc7cc307bdfafc768621bd6f1cf234a0600c2783::kabosu::KABOSU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000371_f43cb6f480.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

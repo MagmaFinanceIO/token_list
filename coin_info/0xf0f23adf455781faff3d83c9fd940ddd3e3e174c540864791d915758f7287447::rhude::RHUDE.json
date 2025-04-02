@@ -1,0 +1,13 @@
+{
+  "name": "RHUDE",
+  "symbol": "rhude",
+  "decimals": 9,
+  "coin_type": "0xf0f23adf455781faff3d83c9fd940ddd3e3e174c540864791d915758f7287447::rhude::RHUDE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SHARK DOG",
+  "symbol": "SHOG",
+  "decimals": 6,
+  "coin_type": "0x43825dacf07569b0caf98eee19cc39510937ed012d167f3d802391fb35c541b7::shog::SHOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0293_5689388ae9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HODAI",
+  "symbol": "HODAI",
+  "decimals": 9,
+  "coin_type": "0xae229afb73cfa0e0d0369a6b1ee6fe9d0fb5a46529aadd4d872179334c837a3c::hodai::HODAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/Nkn-3LjsfRYqFP5K?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

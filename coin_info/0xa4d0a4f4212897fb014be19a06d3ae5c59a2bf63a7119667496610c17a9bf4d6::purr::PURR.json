@@ -1,0 +1,13 @@
+{
+  "name": "PURRCOIN",
+  "symbol": "PURR",
+  "decimals": 9,
+  "coin_type": "0xa4d0a4f4212897fb014be19a06d3ae5c59a2bf63a7119667496610c17a9bf4d6::purr::PURR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0b1b1a07-e415-40f8-97da-9e553742f01b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

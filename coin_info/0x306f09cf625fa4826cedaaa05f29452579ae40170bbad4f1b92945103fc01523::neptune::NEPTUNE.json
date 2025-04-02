@@ -1,0 +1,13 @@
+{
+  "name": "Sui Neptune",
+  "symbol": "NEPTUNE",
+  "decimals": 6,
+  "coin_type": "0x306f09cf625fa4826cedaaa05f29452579ae40170bbad4f1b92945103fc01523::neptune::NEPTUNE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_c75700b030.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

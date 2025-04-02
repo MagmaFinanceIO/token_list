@@ -1,0 +1,13 @@
+{
+  "name": "Just a Chill Guy",
+  "symbol": "Chill",
+  "decimals": 6,
+  "coin_type": "0x168bcb2113a0cf849269e20096a1d26840ff3fafa268c57b7cb21737e1d3d0a6::chill::CHILL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4405_6a9940b5c2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

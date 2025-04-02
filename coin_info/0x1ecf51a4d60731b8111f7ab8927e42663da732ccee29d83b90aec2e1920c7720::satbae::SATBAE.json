@@ -1,0 +1,13 @@
+{
+  "name": "SATOSHI BAE",
+  "symbol": "SATBAE",
+  "decimals": 9,
+  "coin_type": "0x1ecf51a4d60731b8111f7ab8927e42663da732ccee29d83b90aec2e1920c7720::satbae::SATBAE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/34s1uzZQXxB66NyAbzbT1AT14gszLJAWikpF2wSGpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

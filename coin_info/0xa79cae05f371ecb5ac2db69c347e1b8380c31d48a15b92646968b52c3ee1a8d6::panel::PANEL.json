@@ -1,0 +1,13 @@
+{
+  "name": "Panelverse AI",
+  "symbol": "PANEL",
+  "decimals": 9,
+  "coin_type": "0xa79cae05f371ecb5ac2db69c347e1b8380c31d48a15b92646968b52c3ee1a8d6::panel::PANEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9uUsQCi8B8LBsPJbQVqi3LRpjVDzeHPwLJ1SRD9Cpump.png?size=lg&key=9c23f4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

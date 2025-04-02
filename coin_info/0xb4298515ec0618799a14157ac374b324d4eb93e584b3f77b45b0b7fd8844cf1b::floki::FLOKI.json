@@ -1,0 +1,13 @@
+{
+  "name": "FLOKI",
+  "symbol": "FLOKI",
+  "decimals": 9,
+  "coin_type": "0xb4298515ec0618799a14157ac374b324d4eb93e584b3f77b45b0b7fd8844cf1b::floki::FLOKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d46c7dfe-4c4a-474c-bc66-abef50cf12b4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

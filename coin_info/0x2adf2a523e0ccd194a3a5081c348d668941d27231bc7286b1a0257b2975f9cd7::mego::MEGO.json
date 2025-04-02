@@ -1,0 +1,13 @@
+{
+  "name": "MEGO",
+  "symbol": "MEGO",
+  "decimals": 9,
+  "coin_type": "0x2adf2a523e0ccd194a3a5081c348d668941d27231bc7286b1a0257b2975f9cd7::mego::MEGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xd7497b41d7e493ee26e7a0e3cfa34dfd33456ae0.png?size=lg&key=57696f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

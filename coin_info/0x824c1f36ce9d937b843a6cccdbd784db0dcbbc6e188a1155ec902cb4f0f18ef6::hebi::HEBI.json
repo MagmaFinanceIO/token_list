@@ -1,0 +1,13 @@
+{
+  "name": "$HEBI",
+  "symbol": "HEBI",
+  "decimals": 6,
+  "coin_type": "0x824c1f36ce9d937b843a6cccdbd784db0dcbbc6e188a1155ec902cb4f0f18ef6::hebi::HEBI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pfpcoin_26e67f244b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

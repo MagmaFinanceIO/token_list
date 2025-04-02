@@ -1,0 +1,13 @@
+{
+  "name": "ARBISH DOG",
+  "symbol": "ARBISH",
+  "decimals": 6,
+  "coin_type": "0x5d05db1561016640ba55a115719783af81242104e90a512d2daa35e31b2d99ec::arbish::ARBISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731059995946.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

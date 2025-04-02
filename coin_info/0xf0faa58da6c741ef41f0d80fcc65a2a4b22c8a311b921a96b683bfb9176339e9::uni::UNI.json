@@ -1,0 +1,13 @@
+{
+  "name": "Uni",
+  "symbol": "Uni",
+  "decimals": 9,
+  "coin_type": "0xf0faa58da6c741ef41f0d80fcc65a2a4b22c8a311b921a96b683bfb9176339e9::uni::UNI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://unicoinsui.com/logo_uni",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

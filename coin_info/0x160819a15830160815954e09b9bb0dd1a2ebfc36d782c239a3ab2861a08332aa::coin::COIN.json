@@ -1,0 +1,13 @@
+{
+  "name": "WATER",
+  "symbol": "WATER",
+  "decimals": 8,
+  "coin_type": "0x160819a15830160815954e09b9bb0dd1a2ebfc36d782c239a3ab2861a08332aa::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

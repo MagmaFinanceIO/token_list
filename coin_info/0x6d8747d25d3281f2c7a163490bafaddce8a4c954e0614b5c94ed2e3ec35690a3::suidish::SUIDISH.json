@@ -1,0 +1,13 @@
+{
+  "name": "Suidish Fish",
+  "symbol": "SUIDISH",
+  "decimals": 9,
+  "coin_type": "0x6d8747d25d3281f2c7a163490bafaddce8a4c954e0614b5c94ed2e3ec35690a3::suidish::SUIDISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5ae5a406-1a86-4f04-bfbb-8ab64a80cd1c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

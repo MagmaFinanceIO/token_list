@@ -1,0 +1,13 @@
+{
+  "name": "Sproto Gremlin",
+  "symbol": "SPROTO",
+  "decimals": 9,
+  "coin_type": "0xd6e804560bfc5d07b8a884f0323319bb318fa3c024181e742ff99f6584a827da::sproto::SPROTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b10b01df-04dd-4ec5-b6fd-25b004163185.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

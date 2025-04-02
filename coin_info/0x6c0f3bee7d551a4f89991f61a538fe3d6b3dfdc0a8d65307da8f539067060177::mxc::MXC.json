@@ -1,0 +1,13 @@
+{
+  "name": "MachineX3",
+  "symbol": "MXC",
+  "decimals": 9,
+  "coin_type": "0x6c0f3bee7d551a4f89991f61a538fe3d6b3dfdc0a8d65307da8f539067060177::mxc::MXC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6284a52d-488e-44bd-a27a-020316cd22b1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

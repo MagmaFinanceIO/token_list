@@ -1,0 +1,13 @@
+{
+  "name": "Shartcoin",
+  "symbol": "Shartcoin",
+  "decimals": 9,
+  "coin_type": "0xf5e46c77e084d6ba80ab02fcd9cc49bcc8acce1a602185e8fc8db2200a579a48::shartcoin::SHARTCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EbvJsEaRfoP7dgvegCUwVqE7jNZ8YPtNgDtNuDE1pump.png?size=lg&key=954099",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

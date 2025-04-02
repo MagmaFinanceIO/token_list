@@ -1,0 +1,13 @@
+{
+  "name": "mockAPE",
+  "symbol": "mockAPE",
+  "decimals": 9,
+  "coin_type": "0x12db553f6d13aa4c0182f97686b31bcb3b01d9b5442b42b35b5c907059f03b04::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CambodiaDigitalAsset",
+  "symbol": "CDA",
+  "decimals": 6,
+  "coin_type": "0x0f08ea6ceffcf50874dd4961599d762cb2b74d813067d11e63455adb564b1b24::cda::CDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735129292809.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

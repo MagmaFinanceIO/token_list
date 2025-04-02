@@ -1,0 +1,13 @@
+{
+  "name": "Loopy 132",
+  "symbol": "LOOPY132",
+  "decimals": 9,
+  "coin_type": "0x73d1ea85d9aba65e8cadbe1c455ae750c7ed671ad186de24854df81b137c6fc2::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://strapi-dev.scand.app/uploads/image_3_e09c3cb20c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

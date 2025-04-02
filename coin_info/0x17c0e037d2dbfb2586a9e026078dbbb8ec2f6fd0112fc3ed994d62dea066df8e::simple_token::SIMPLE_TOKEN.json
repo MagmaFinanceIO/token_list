@@ -1,0 +1,13 @@
+{
+  "name": "SELFSUI",
+  "symbol": "SELFSUI",
+  "decimals": 9,
+  "coin_type": "0x17c0e037d2dbfb2586a9e026078dbbb8ec2f6fd0112fc3ed994d62dea066df8e::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

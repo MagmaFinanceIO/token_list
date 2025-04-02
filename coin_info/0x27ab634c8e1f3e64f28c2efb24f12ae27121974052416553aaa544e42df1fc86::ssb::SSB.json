@@ -1,0 +1,13 @@
+{
+  "name": "Sui Street Bets CTO",
+  "symbol": "SSB",
+  "decimals": 6,
+  "coin_type": "0x27ab634c8e1f3e64f28c2efb24f12ae27121974052416553aaa544e42df1fc86::ssb::SSB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pfp_bb43490c6f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

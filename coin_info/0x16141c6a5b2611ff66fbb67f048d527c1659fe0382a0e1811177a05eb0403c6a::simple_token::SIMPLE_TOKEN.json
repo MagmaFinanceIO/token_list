@@ -1,0 +1,13 @@
+{
+  "name": "CLANKHUB",
+  "symbol": "CLANKHUB",
+  "decimals": 9,
+  "coin_type": "0x16141c6a5b2611ff66fbb67f048d527c1659fe0382a0e1811177a05eb0403c6a::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

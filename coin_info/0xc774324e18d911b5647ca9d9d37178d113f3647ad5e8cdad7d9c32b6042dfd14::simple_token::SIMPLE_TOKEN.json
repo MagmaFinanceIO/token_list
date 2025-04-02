@@ -1,0 +1,13 @@
+{
+  "name": "ZOKU",
+  "symbol": "ZOKU",
+  "decimals": 9,
+  "coin_type": "0xc774324e18d911b5647ca9d9d37178d113f3647ad5e8cdad7d9c32b6042dfd14::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

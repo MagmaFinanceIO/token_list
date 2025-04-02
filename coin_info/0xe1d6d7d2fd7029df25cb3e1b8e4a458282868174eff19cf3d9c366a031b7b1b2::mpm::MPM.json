@@ -1,0 +1,13 @@
+{
+  "name": "MPM",
+  "symbol": "MPM",
+  "decimals": 9,
+  "coin_type": "0xe1d6d7d2fd7029df25cb3e1b8e4a458282868174eff19cf3d9c366a031b7b1b2::mpm::MPM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2SNstbEYVEn2iTNQyZHKGzgTPZwBgnujwKa8hn5opump.png?size=lg&key=16c90b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

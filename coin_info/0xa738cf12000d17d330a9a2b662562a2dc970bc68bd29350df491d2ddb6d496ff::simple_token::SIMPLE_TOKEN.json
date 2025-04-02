@@ -1,0 +1,13 @@
+{
+  "name": "Lexi on Sui",
+  "symbol": "LEXISUI",
+  "decimals": 9,
+  "coin_type": "0xa738cf12000d17d330a9a2b662562a2dc970bc68bd29350df491d2ddb6d496ff::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

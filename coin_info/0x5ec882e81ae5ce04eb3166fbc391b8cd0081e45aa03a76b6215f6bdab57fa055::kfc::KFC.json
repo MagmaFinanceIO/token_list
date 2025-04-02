@@ -1,0 +1,13 @@
+{
+  "name": "KFC",
+  "symbol": "KFC",
+  "decimals": 9,
+  "coin_type": "0x5ec882e81ae5ce04eb3166fbc391b8cd0081e45aa03a76b6215f6bdab57fa055::kfc::KFC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

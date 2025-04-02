@@ -1,0 +1,13 @@
+{
+  "name": "Smiley Dolphin",
+  "symbol": "DOLPHIN",
+  "decimals": 9,
+  "coin_type": "0x4d22e2a30420b5b8ac2ba89dc6fee74759301ac50ed448a20485c6f1da6e19af::dolphin::DOLPHIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/QmQ6s3e9iMoxMxqSfwFsXVvYYy3h8yjfgD5PLspy4DW9bE",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

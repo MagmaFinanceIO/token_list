@@ -1,0 +1,13 @@
+{
+  "name": "SIU",
+  "symbol": "SIU",
+  "decimals": 6,
+  "coin_type": "0x5c4033c2c6012e53f35de934e6a8485d971b2838c35ef8cd9500bce0aaac3d21::siu::SIU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmWtAVBvGGHAyDq8Lyb2tTSBptFAdqRRsvxBNsFJMsoAPA",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Loricoin",
+  "symbol": "LORC",
+  "decimals": 9,
+  "coin_type": "0x18060ed4afb1d6f1e1f156789fb2ec319ace6790b2136761a69fa843d475158a::lorc::LORC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/99fff0a8-e56b-4634-a6dc-a300820ff9b6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

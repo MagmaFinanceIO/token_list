@@ -1,0 +1,13 @@
+{
+  "name": "Brainiac AI by SuiAI",
+  "symbol": "BRAINCA",
+  "decimals": 6,
+  "coin_type": "0x0ecc5bdb863bf0f10e1d417bfeecfd4758416adf367efb6a7848cee0b541b4c1::brainca::BRAINCA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/4_Z_Xuo3n_P_400x400_291177e51e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

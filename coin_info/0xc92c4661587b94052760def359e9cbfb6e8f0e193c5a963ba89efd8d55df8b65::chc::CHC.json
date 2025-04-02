@@ -1,0 +1,13 @@
+{
+  "name": "Cute Happy Cactus",
+  "symbol": "CHC",
+  "decimals": 9,
+  "coin_type": "0xc92c4661587b94052760def359e9cbfb6e8f0e193c5a963ba89efd8d55df8b65::chc::CHC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1f46ff81-311d-4372-9d40-1c24210055ea.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

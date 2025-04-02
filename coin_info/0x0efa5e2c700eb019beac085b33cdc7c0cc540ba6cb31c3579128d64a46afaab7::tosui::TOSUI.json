@@ -1,0 +1,13 @@
+{
+  "name": "Trump on Sui",
+  "symbol": "ToSui",
+  "decimals": 9,
+  "coin_type": "0x0efa5e2c700eb019beac085b33cdc7c0cc540ba6cb31c3579128d64a46afaab7::tosui::TOSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://assets.coingecko.com/coins/images/31498/large/Maga-Trump-Logo-200px.png?1696530309",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

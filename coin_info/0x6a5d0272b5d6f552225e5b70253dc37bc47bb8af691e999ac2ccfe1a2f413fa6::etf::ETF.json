@@ -1,0 +1,13 @@
+{
+  "name": "Eat, Trade, Fart",
+  "symbol": "ETF",
+  "decimals": 9,
+  "coin_type": "0x6a5d0272b5d6f552225e5b70253dc37bc47bb8af691e999ac2ccfe1a2f413fa6::etf::ETF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8cVZCdP973kupdt1TktpD4jq3k7Jpr3FiaBAxN5Kpump.png?size=lg&key=db4e81",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

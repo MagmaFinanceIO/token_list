@@ -1,0 +1,13 @@
+{
+  "name": "Degen Creepy Dough",
+  "symbol": "DCD",
+  "decimals": 9,
+  "coin_type": "0xdb36c67217c00621572cb70066e4483d633dac26e1c14a1301de0dedf2dedd74::dcd::DCD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d422f049-c46c-4a1b-8bc9-3616b273f07b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

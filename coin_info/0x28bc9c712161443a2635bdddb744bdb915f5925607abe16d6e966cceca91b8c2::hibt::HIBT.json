@@ -1,0 +1,13 @@
+{
+  "name": "HibouTech Coin",
+  "symbol": "HIBT",
+  "decimals": 9,
+  "coin_type": "0x28bc9c712161443a2635bdddb744bdb915f5925607abe16d6e966cceca91b8c2::hibt::HIBT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e9dce514-4db3-4ef5-a3af-6b8fc9d8061d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

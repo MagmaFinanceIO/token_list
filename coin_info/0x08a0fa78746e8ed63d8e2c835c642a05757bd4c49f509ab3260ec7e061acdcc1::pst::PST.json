@@ -1,0 +1,13 @@
+{
+  "name": "Planet Saving Tree",
+  "symbol": "PST",
+  "decimals": 9,
+  "coin_type": "0x08a0fa78746e8ed63d8e2c835c642a05757bd4c49f509ab3260ec7e061acdcc1::pst::PST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d10dcc87-83f4-4edb-8de1-b6b151ab9e9d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

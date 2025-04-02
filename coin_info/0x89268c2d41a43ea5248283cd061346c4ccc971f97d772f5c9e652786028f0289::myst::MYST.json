@@ -1,0 +1,13 @@
+{
+  "name": "Myst Privacy",
+  "symbol": "MYST",
+  "decimals": 6,
+  "coin_type": "0x89268c2d41a43ea5248283cd061346c4ccc971f97d772f5c9e652786028f0289::myst::MYST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735839043360.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

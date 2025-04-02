@@ -1,0 +1,13 @@
+{
+  "name": "Pixie AI",
+  "symbol": "PIXIEAI",
+  "decimals": 9,
+  "coin_type": "0x0852b82e0d31377f56669ccc47b4f6124451f7da2d374940467d4e3c373226d1::pixieai::PIXIEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BzSQNpsT7K1PRxfzgyAaamV1m3kNNMW1s29nyQ81pump.png?size=lg&key=addbc4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

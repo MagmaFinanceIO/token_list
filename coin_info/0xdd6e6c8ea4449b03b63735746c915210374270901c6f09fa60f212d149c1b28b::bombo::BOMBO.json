@@ -1,0 +1,13 @@
+{
+  "name": "BOMBO",
+  "symbol": "BOMBO",
+  "decimals": 9,
+  "coin_type": "0xdd6e6c8ea4449b03b63735746c915210374270901c6f09fa60f212d149c1b28b::bombo::BOMBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f69ad21d-a879-4c39-9c69-13dc95d9dad0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

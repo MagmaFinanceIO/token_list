@@ -1,0 +1,13 @@
+{
+  "name": "APU",
+  "symbol": "Apu",
+  "decimals": 9,
+  "coin_type": "0x1bb6452ffd35898f1771d3d85722be93120488010a0b3601ecb1e4ac57bce8ab::Apu::APU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/p27hwhh/apuicon1-250x250.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "THE NEIRO BANANA",
+  "symbol": "NEIBAN",
+  "decimals": 9,
+  "coin_type": "0x630207897e6a2272fd23b80eada209dbb7be41b1613ca4435e7a4f8e056d561f::neiban::NEIBAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c1ef83e0-337a-4cc8-8950-d90cef4c4ace.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

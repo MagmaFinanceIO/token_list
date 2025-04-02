@@ -1,0 +1,13 @@
+{
+  "name": "META",
+  "symbol": "META",
+  "decimals": 9,
+  "coin_type": "0xd66a15f21456f9d2cbca0b0e582d0329c371a0b70f9bebb97d50a488625c1828::meta::META",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e386f3c4-2f55-47a7-980b-ce8213beb73b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

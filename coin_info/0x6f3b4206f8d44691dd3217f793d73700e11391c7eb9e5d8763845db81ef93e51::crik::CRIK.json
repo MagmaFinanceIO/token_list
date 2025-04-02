@@ -1,0 +1,13 @@
+{
+  "name": "SUI CRIK",
+  "symbol": "CRIK",
+  "decimals": 6,
+  "coin_type": "0x6f3b4206f8d44691dd3217f793d73700e11391c7eb9e5d8763845db81ef93e51::crik::CRIK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/4dd28c6f_c22f_4f88_a45c_2ff0525fee0a_642bf7b08b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

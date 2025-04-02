@@ -1,0 +1,13 @@
+{
+  "name": "Oister SUI",
+  "symbol": "OISTER",
+  "decimals": 6,
+  "coin_type": "0xe27a0ab66901fa55a6c47f148bc074934d20dbdd384f5d74584422f346a49a25::oister::OISTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_oister_8b9756230e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

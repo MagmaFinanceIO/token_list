@@ -1,0 +1,13 @@
+{
+  "name": "Patrick Star",
+  "symbol": "PATRICK",
+  "decimals": 9,
+  "coin_type": "0xc7ac9781d9c48e0c7c22fd8bc20f495d4f05e05c322ffbff614f30acb466cfd5::patrick::PATRICK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5b088ee8-9347-43e1-a097-521c04caa3cd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

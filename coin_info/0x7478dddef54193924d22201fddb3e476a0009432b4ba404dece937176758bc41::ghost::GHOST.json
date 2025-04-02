@@ -1,0 +1,13 @@
+{
+  "name": "👻GHOST",
+  "symbol": "GHOST",
+  "decimals": 5,
+  "coin_type": "0x7478dddef54193924d22201fddb3e476a0009432b4ba404dece937176758bc41::ghost::GHOST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/94192db5-e679-4d2d-834e-74c681dcb8df.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

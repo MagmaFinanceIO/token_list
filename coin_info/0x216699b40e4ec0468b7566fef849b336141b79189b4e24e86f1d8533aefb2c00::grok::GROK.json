@@ -1,0 +1,13 @@
+{
+  "name": "SuiGrok",
+  "symbol": "Grok",
+  "decimals": 9,
+  "coin_type": "0x216699b40e4ec0468b7566fef849b336141b79189b4e24e86f1d8533aefb2c00::grok::GROK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5913ee8d-d40c-492d-b823-090b5aabddae.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

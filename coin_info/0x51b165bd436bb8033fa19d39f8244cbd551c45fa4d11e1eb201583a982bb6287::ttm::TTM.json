@@ -1,0 +1,13 @@
+{
+  "name": "Totem AI",
+  "symbol": "TTM",
+  "decimals": 6,
+  "coin_type": "0x51b165bd436bb8033fa19d39f8244cbd551c45fa4d11e1eb201583a982bb6287::ttm::TTM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737886468833.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

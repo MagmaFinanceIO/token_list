@@ -1,0 +1,13 @@
+{
+  "name": "JOOZY AI",
+  "symbol": "JOOZY",
+  "decimals": 9,
+  "coin_type": "0xee15bc374a911363d503f3cd384808e3f06fe8954d67643f370ba5a83d94b137::joozy::JOOZY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://static.wixstatic.com/media/8d9f7b_9bc45d9dcd5047b582709c16cca7f6b1~mv2.png/v1/fill/w_298,h_650,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8d9f7b_9bc45d9dcd5047b582709c16cca7f6b1~mv2.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

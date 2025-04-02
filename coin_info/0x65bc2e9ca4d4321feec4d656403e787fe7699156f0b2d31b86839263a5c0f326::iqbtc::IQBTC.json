@@ -1,0 +1,13 @@
+{
+  "name": "Iraq Bitcoin",
+  "symbol": "IQBTC",
+  "decimals": 9,
+  "coin_type": "0x65bc2e9ca4d4321feec4d656403e787fe7699156f0b2d31b86839263a5c0f326::iqbtc::IQBTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d7377d90-f14a-4ed7-bbd9-74926fb79e3f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

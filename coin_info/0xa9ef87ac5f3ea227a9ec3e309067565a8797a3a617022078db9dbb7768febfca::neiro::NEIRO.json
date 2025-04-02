@@ -1,0 +1,13 @@
+{
+  "name": "Sui Neiro",
+  "symbol": "NEIRO",
+  "decimals": 9,
+  "coin_type": "0xa9ef87ac5f3ea227a9ec3e309067565a8797a3a617022078db9dbb7768febfca::neiro::NEIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=150,fit=crop,q=95/d95KMvqO2DcVb6x1/group-3-copy-m5KwPKqjj9fQ0v0L.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

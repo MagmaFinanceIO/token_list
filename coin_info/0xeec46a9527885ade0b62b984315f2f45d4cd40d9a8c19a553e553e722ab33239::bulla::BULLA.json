@@ -1,0 +1,13 @@
+{
+  "name": "BULLA",
+  "symbol": "BULLA",
+  "decimals": 8,
+  "coin_type": "0xeec46a9527885ade0b62b984315f2f45d4cd40d9a8c19a553e553e722ab33239::bulla::BULLA",
+  "pyth_id": "",
+  "birdeyeid": "0xeec46a9527885ade0b62b984315f2f45d4cd40d9a8c19a553e553e722ab33239::bulla::BULLA",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/YPFKKZw.jpeg",
+  "project_url": "",
+  "coingecko_id": "bulla-2",
+  "is_trusted": true
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUNFLOWER LAND",
+  "symbol": "LAND",
+  "decimals": 9,
+  "coin_type": "0x8b02283bc1bf0b71036e4962cebc4ce939d17c55a75f141677fa8e1e98111c3b::land::LAND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/-xyVFomgUaAnVthA?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

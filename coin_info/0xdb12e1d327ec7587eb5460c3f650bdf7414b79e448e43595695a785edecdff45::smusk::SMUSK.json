@@ -1,0 +1,13 @@
+{
+  "name": "SUI AI President Musk by SuiAI",
+  "symbol": "SMUSK",
+  "decimals": 6,
+  "coin_type": "0xdb12e1d327ec7587eb5460c3f650bdf7414b79e448e43595695a785edecdff45::smusk::SMUSK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/elon_musk_logo_2ad75d4776.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

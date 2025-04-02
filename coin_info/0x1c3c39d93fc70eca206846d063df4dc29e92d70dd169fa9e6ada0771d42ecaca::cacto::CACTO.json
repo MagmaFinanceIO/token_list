@@ -1,0 +1,13 @@
+{
+  "name": "Cacto",
+  "symbol": "CACTO",
+  "decimals": 9,
+  "coin_type": "0x1c3c39d93fc70eca206846d063df4dc29e92d70dd169fa9e6ada0771d42ecaca::cacto::CACTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

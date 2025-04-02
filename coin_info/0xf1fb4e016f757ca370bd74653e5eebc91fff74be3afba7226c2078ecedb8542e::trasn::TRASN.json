@@ -1,0 +1,13 @@
+{
+  "name": "Trump Assassin",
+  "symbol": "TRASN",
+  "decimals": 9,
+  "coin_type": "0xf1fb4e016f757ca370bd74653e5eebc91fff74be3afba7226c2078ecedb8542e::trasn::TRASN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/293a8892-af49-4ed7-be2e-52f48c152668.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

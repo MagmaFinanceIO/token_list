@@ -1,0 +1,13 @@
+{
+  "name": "paris",
+  "symbol": "paris",
+  "decimals": 9,
+  "coin_type": "0x4014d72209e7b64741c5a4b91ce9250fdb5207460f760e187c9cbf9e2ec2b1d1::paris::PARIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "E Coin",
+  "symbol": "ECoin",
+  "decimals": 6,
+  "coin_type": "0xd100633a0ca2258877ec97f0c6a0f9e35438df92c07fbd7b81f73e1e5d67cb1d::ecoin::ECOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/c_c_2_efc1692b50.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

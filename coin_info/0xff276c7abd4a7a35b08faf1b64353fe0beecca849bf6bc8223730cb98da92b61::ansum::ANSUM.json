@@ -1,0 +1,13 @@
+{
+  "name": "ansum",
+  "symbol": "ANSUM",
+  "decimals": 6,
+  "coin_type": "0xff276c7abd4a7a35b08faf1b64353fe0beecca849bf6bc8223730cb98da92b61::ansum::ANSUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/GZ_0_Xi_WNWUA_At_A5b_5ee1d8890e.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

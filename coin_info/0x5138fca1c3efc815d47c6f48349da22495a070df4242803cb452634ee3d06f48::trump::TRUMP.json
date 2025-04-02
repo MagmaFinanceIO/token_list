@@ -1,0 +1,13 @@
+{
+  "name": "Muscle Trump  by SuiAI",
+  "symbol": "TRUMP",
+  "decimals": 6,
+  "coin_type": "0x5138fca1c3efc815d47c6f48349da22495a070df4242803cb452634ee3d06f48::trump::TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/trump_fb5c203163.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "aaa cat 40",
+  "symbol": "AAA40",
+  "decimals": 9,
+  "coin_type": "0x8fc21df5e2cf651f6983a156cd27c46a151f0d790239eb343f32210c986f01fe::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4995_cfd6177d03.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

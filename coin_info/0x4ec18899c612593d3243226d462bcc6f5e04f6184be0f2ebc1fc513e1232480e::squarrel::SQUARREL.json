@@ -1,0 +1,13 @@
+{
+  "name": "Squarrel",
+  "symbol": "Squarrel",
+  "decimals": 9,
+  "coin_type": "0x4ec18899c612593d3243226d462bcc6f5e04f6184be0f2ebc1fc513e1232480e::squarrel::SQUARREL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6X9SrWsBCBCwp1j8TvqqK8iQg2JLS19gUJ8LZ1pApump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

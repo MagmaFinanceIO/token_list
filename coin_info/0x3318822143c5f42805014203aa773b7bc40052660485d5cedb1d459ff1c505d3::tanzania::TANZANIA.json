@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL TANZANIA",
+  "symbol": "TANZANIA",
+  "decimals": 9,
+  "coin_type": "0x3318822143c5f42805014203aa773b7bc40052660485d5cedb1d459ff1c505d3::tanzania::TANZANIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9FTsV2o25JLokK12DcfXFHE5cQF9yEjGrCWLKAT5pump.png?size=lg&key=fff783",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

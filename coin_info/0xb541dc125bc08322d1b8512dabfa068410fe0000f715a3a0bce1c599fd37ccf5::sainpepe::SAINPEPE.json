@@ -1,0 +1,13 @@
+{
+  "name": "Pepe the saint on sui",
+  "symbol": "SAINPEPE",
+  "decimals": 6,
+  "coin_type": "0xb541dc125bc08322d1b8512dabfa068410fe0000f715a3a0bce1c599fd37ccf5::sainpepe::SAINPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SUI_GOD_7602156bb0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

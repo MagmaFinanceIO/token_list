@@ -1,0 +1,13 @@
+{
+  "name": "AIFRENS",
+  "symbol": "AIFRENS",
+  "decimals": 9,
+  "coin_type": "0xa5a83e7fe4208f0b4a2c83914ea4d78e86d776c29254cb2d9efe6553f91dd70a::AIFRENS::AIFRENS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

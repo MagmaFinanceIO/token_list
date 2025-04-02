@@ -1,0 +1,13 @@
+{
+  "name": "Solium",
+  "symbol": "SOLIUM",
+  "decimals": 9,
+  "coin_type": "0x0a07d5e1263a1d7b23021be1b81aff15e159f59d880a991bb5f8ad704a4e008f::solium::SOLIUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dfd5bc21-b96f-4f18-a14f-3031cb281d5e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

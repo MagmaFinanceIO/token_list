@@ -1,0 +1,13 @@
+{
+  "name": "Memes AI",
+  "symbol": "MemesAI",
+  "decimals": 9,
+  "coin_type": "0x292771bbebf01d55373fae54cbf58017a0b3d12f41ff2130aaf761baebbe5122::memesai::MEMESAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmUbDNeYK1Rea6ZUzozzijvXtDJMHJnkL5f5rmpSathHBx",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

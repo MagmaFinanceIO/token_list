@@ -1,0 +1,13 @@
+{
+  "name": "SUIShib",
+  "symbol": "Suishib",
+  "decimals": 6,
+  "coin_type": "0x1ed18aacb4131f744c4516addc8aa9eb8e440aae6ded6683db996b0cc739996f::suishib::SUISHIB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20241012_113210_097_f9c8f05f8a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

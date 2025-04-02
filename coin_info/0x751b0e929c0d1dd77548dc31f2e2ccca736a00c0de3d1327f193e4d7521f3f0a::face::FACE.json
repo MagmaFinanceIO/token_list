@@ -1,0 +1,13 @@
+{
+  "name": "Suiface",
+  "symbol": "FACE",
+  "decimals": 6,
+  "coin_type": "0x751b0e929c0d1dd77548dc31f2e2ccca736a00c0de3d1327f193e4d7521f3f0a::face::FACE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmUX2VTdjCJig67wWrH5t3MVxV521cv5w1CX9jTXt6wWqs",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

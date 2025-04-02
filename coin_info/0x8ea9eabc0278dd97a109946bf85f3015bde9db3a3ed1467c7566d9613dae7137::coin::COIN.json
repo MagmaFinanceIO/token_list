@@ -1,0 +1,13 @@
+{
+  "name": "Baby Floki New Year",
+  "symbol": "BabyFlokiNY",
+  "decimals": 8,
+  "coin_type": "0x8ea9eabc0278dd97a109946bf85f3015bde9db3a3ed1467c7566d9613dae7137::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

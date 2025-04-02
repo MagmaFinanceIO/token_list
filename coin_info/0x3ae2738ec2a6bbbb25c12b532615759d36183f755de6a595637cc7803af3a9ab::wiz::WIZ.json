@@ -1,0 +1,13 @@
+{
+  "name": "Wiz",
+  "symbol": "Wiz",
+  "decimals": 9,
+  "coin_type": "0x3ae2738ec2a6bbbb25c12b532615759d36183f755de6a595637cc7803af3a9ab::wiz::WIZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2TobzM4NNpEvyVAEpFC8AkxJGBHz8fFgMksK1gBy5dub.png?size=lg&key=61fb1b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

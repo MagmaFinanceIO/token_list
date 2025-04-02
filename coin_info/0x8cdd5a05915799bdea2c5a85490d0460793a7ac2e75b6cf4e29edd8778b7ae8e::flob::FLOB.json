@@ -1,0 +1,13 @@
+{
+  "name": "F.L.O.B",
+  "symbol": "FLOB",
+  "decimals": 9,
+  "coin_type": "0x8cdd5a05915799bdea2c5a85490d0460793a7ac2e75b6cf4e29edd8778b7ae8e::flob::FLOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/41dnBeXMHxPGd95WmhLurckKXt7HzfqPqxG2AaCjpump.png?size=lg&key=cc60c7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

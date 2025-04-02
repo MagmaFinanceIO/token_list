@@ -1,0 +1,13 @@
+{
+  "name": "Shibetoshi Nakamoto ",
+  "symbol": "BillyM2k",
+  "decimals": 9,
+  "coin_type": "0x83f83da5650045796706b00f00e6532cd51d103e09d4f09fe714e46452b60fab::billym2k::BILLYM2K",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmfKZYcPqP3EHubZDKQ448C3Sx7sfVWovDh3EPMUdkiU7o",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

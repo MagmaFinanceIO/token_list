@@ -1,0 +1,13 @@
+{
+  "name": "Baby Sméagol",
+  "symbol": "GOL",
+  "decimals": 9,
+  "coin_type": "0xb5e7d5f0fb2e6272fa8feee3d606060ed4d138f855824422402bbd5b3a0bbd0c::gol::GOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2223f11d-2f12-4c98-961a-fcf2c36cb652.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

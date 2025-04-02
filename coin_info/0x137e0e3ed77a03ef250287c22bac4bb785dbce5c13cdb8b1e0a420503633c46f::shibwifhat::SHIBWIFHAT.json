@@ -1,0 +1,13 @@
+{
+  "name": "SHIB INU WIF HAT",
+  "symbol": "SHIBWIFHAT",
+  "decimals": 9,
+  "coin_type": "0x137e0e3ed77a03ef250287c22bac4bb785dbce5c13cdb8b1e0a420503633c46f::shibwifhat::SHIBWIFHAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9d06eee5-fbeb-4f7d-bb62-709e50bdac0b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

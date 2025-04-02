@@ -1,0 +1,13 @@
+{
+  "name": "Melania Trump AI",
+  "symbol": "MTAI",
+  "decimals": 9,
+  "coin_type": "0x317b903ee4f4175da7acf5929fe14a86243d03662cb18afa7f1db3188085a091::mtaia::MTAIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6KWLSeqyvdbzj2a7BJYPuNoKn3G7kmaiNw87XHJ3pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

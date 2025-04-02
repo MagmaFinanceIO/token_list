@@ -1,0 +1,13 @@
+{
+  "name": "gecko",
+  "symbol": "GECKO",
+  "decimals": 6,
+  "coin_type": "0xa3126c0e337c20c32640e643ab53a6ddbc1c4ee3debe7a0f23142419ede66f38::gecko::GECKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "XENOMORPH",
+  "symbol": "XENO",
+  "decimals": 9,
+  "coin_type": "0x6fe09e840c9e537b60f8477f934139408111f409f4fba93113140424d810f1aa::xeno::XENO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmedHosYnfxJ2HLDY2r4FyiGxWFcVyXohRKVcfUzmQ4ogQ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

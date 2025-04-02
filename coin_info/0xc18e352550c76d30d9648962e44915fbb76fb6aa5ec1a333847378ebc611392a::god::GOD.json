@@ -1,0 +1,13 @@
+{
+  "name": "God",
+  "symbol": "GOD",
+  "decimals": 6,
+  "coin_type": "0xc18e352550c76d30d9648962e44915fbb76fb6aa5ec1a333847378ebc611392a::god::GOD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PFP_310c04f7f7.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

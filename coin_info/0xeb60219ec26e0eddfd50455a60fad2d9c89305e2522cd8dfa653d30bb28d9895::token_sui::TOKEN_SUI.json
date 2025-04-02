@@ -1,0 +1,13 @@
+{
+  "name": "FUD 6",
+  "symbol": "FUD6",
+  "decimals": 9,
+  "coin_type": "0xeb60219ec26e0eddfd50455a60fad2d9c89305e2522cd8dfa653d30bb28d9895::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://strapi-dev.scand.app/uploads/FUD_Logo_46c0468f49.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

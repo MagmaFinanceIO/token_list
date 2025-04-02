@@ -1,0 +1,13 @@
+{
+  "name": "petunia_rocks",
+  "symbol": "petunia",
+  "decimals": 9,
+  "coin_type": "0xc08cce091527b228a4f5944461cec28c0552eb7bb601cf06fb8cde3b26639fbe::petunia::PETUNIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qmd5hnnEe3Twifegg7idZ4gNd2MvhotFcriMb6dSmeuSe9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

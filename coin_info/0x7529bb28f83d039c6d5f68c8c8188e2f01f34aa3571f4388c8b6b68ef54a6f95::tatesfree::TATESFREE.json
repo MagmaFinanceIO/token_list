@@ -1,0 +1,13 @@
+{
+  "name": "TATESFREE",
+  "symbol": "TATESFREE",
+  "decimals": 9,
+  "coin_type": "0x7529bb28f83d039c6d5f68c8c8188e2f01f34aa3571f4388c8b6b68ef54a6f95::tatesfree::TATESFREE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qma5nFRCNUeGtUF1PdkoBRyrqMwEqjq2rbvgm9bnYsXJRT",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

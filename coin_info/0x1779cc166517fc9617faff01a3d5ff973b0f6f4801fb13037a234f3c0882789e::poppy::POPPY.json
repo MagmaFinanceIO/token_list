@@ -1,0 +1,13 @@
+{
+  "name": "POPPY on SUI",
+  "symbol": "POPPY",
+  "decimals": 9,
+  "coin_type": "0x1779cc166517fc9617faff01a3d5ff973b0f6f4801fb13037a234f3c0882789e::poppy::POPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qmcxd7gJSoGAygebRnq3SYDPU1jUPvuFSGeZLTriEqiYvP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TOPURIA",
+  "symbol": "TOP",
+  "decimals": 6,
+  "coin_type": "0x145520773ebd26ac0b5af3d0d2e682f87f1ec8db56d2f971201dd32778a16418::top::TOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/8a36ac7f_7114_447e_8125_f69e6dbba322_d83d8fceff.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

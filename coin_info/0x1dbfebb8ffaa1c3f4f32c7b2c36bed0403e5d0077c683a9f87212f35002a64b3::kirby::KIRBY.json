@@ -1,0 +1,13 @@
+{
+  "name": "Kirby",
+  "symbol": "KIRBY",
+  "decimals": 6,
+  "coin_type": "0x1dbfebb8ffaa1c3f4f32c7b2c36bed0403e5d0077c683a9f87212f35002a64b3::kirby::KIRBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/kirby_65153deaad.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

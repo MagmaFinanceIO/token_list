@@ -1,0 +1,13 @@
+{
+  "name": "SUITIFY",
+  "symbol": "SUIT",
+  "decimals": 6,
+  "coin_type": "0xf0b89d9190ff5896efaf265b86452018eecc7f20666ec15aeeb8c6bc71fb40ab::suit::SUIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20241011_165850_994_6f9b952492.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

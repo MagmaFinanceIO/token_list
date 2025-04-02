@@ -1,0 +1,13 @@
+{
+  "name": "LandWolfs On SUI",
+  "symbol": "LandWolfs",
+  "decimals": 9,
+  "coin_type": "0x2bcf45dd31e4054a6faea05ac63a2c2e96470328368fef3a3f88bacdde5ac4e4::landwolfs::LANDWOLFS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bf500b99-e2a8-4871-9e87-f9cbfb79b6db.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

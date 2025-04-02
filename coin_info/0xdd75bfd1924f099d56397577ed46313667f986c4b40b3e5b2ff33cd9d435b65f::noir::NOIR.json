@@ -1,0 +1,13 @@
+{
+  "name": "Noir",
+  "symbol": "NOIR",
+  "decimals": 6,
+  "coin_type": "0xdd75bfd1924f099d56397577ed46313667f986c4b40b3e5b2ff33cd9d435b65f::noir::NOIR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1732486560622.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

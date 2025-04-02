@@ -1,0 +1,13 @@
+{
+  "name": "LUCHI",
+  "symbol": "LUCHI",
+  "decimals": 9,
+  "coin_type": "0x8bd1783f3c63c4b7e29ad97f5fd6337c0ea2c365ba78b4e6cc39c6412296c661::luchi::LUCHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9c6cecJavALyer9nr5kryUpUjvHAXcrQ992N1tyHpump.png?size=xl&key=cd5363",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

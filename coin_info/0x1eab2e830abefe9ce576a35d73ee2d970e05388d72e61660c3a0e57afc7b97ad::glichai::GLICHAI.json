@@ -1,0 +1,13 @@
+{
+  "name": "GLICH AI",
+  "symbol": "GLICHAI",
+  "decimals": 9,
+  "coin_type": "0x1eab2e830abefe9ce576a35d73ee2d970e05388d72e61660c3a0e57afc7b97ad::glichai::GLICHAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4pYVipsojvJt7DRbpxiuY7bNnbWKSnhJPWeJThbUpump.png?size=lg&key=2b2014",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

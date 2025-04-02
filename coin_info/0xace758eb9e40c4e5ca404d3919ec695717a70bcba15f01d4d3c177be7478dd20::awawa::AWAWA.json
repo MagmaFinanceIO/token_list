@@ -1,0 +1,13 @@
+{
+  "name": "Screaming Hyrax",
+  "symbol": "AWAWA",
+  "decimals": 9,
+  "coin_type": "0xace758eb9e40c4e5ca404d3919ec695717a70bcba15f01d4d3c177be7478dd20::awawa::AWAWA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EXkLo2gj414TcicTum7ZseGTfaVFbJrQZntvTK8Tpump.png?size=xl&key=66abe0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

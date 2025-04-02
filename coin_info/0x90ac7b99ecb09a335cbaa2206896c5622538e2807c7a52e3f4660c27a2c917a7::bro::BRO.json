@@ -1,0 +1,13 @@
+{
+  "name": "BROSKI ON SUI",
+  "symbol": "BRO",
+  "decimals": 6,
+  "coin_type": "0x90ac7b99ecb09a335cbaa2206896c5622538e2807c7a52e3f4660c27a2c917a7::bro::BRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/04_Pepe_1_8eee9d62f2.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "justablackhole",
+  "symbol": "BLACK",
+  "decimals": 9,
+  "coin_type": "0x70e32e4ebbf2306da1aa63f020247554c0da15895a5b940096fd5f9991cd4e3d::black::BLACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmSae5VsK2z7JMFK58aPybrzX8FWGvum7kTwvZCrLyzxDw",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

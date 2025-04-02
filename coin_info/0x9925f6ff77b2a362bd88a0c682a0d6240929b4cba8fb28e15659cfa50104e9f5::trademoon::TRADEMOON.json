@@ -1,0 +1,13 @@
+{
+  "name": "TradeMoon AI",
+  "symbol": "TRADEMOON",
+  "decimals": 9,
+  "coin_type": "0x9925f6ff77b2a362bd88a0c682a0d6240929b4cba8fb28e15659cfa50104e9f5::trademoon::TRADEMOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmNeCa5woZMvXwMtv2rZDYCHhgXJg6JcVbGpFRYLqkQ7uK",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

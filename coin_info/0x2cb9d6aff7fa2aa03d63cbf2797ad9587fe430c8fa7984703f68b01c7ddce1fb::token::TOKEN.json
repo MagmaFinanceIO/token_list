@@ -1,0 +1,13 @@
+{
+  "name": "SUI_TOKEN_TEST",
+  "symbol": "TST",
+  "decimals": 9,
+  "coin_type": "0x2cb9d6aff7fa2aa03d63cbf2797ad9587fe430c8fa7984703f68b01c7ddce1fb::token::TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreia2vfy4zap6plymncr37eeywxbno6zzfcchnrvrlys3rgbimx5w5a.ipfs.nftstorage.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

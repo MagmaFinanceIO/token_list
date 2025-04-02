@@ -1,0 +1,13 @@
+{
+  "name": "Twyla by SuiAI",
+  "symbol": "TWYLA",
+  "decimals": 6,
+  "coin_type": "0x8b7222db1ee4fd869e39370a8beb0004cf534ef2da66798974fa7ac38412b188::twyla::TWYLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/openart_image_x_V_Oencg_X_1737501882363_raw_86a750cc89.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

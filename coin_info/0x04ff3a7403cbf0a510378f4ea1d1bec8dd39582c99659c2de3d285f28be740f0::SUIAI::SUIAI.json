@@ -1,0 +1,13 @@
+{
+  "name": "SUIAI",
+  "symbol": "SUIAI",
+  "decimals": 9,
+  "coin_type": "0x04ff3a7403cbf0a510378f4ea1d1bec8dd39582c99659c2de3d285f28be740f0::SUIAI::SUIAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

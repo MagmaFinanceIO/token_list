@@ -1,0 +1,13 @@
+{
+  "name": "Sui Shuidi Token",
+  "symbol": "SSU",
+  "decimals": 9,
+  "coin_type": "0x678ddc13a57a6c0fbaaece9817f11b3af81b6645605521e763bffc10f96f1aee::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR-tL1EbuheSK6tdtWCxs1d4ZNCl7VBAae8A&usqp=CAU",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

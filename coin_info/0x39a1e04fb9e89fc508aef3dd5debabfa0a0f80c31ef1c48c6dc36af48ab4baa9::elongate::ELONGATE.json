@@ -1,0 +1,13 @@
+{
+  "name": "Project Elon Gate",
+  "symbol": "Elongate",
+  "decimals": 9,
+  "coin_type": "0x39a1e04fb9e89fc508aef3dd5debabfa0a0f80c31ef1c48c6dc36af48ab4baa9::elongate::ELONGATE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9VWryH3hj5Zio4PdiKHPB7Aa4s5Vd6QrP7y1uw4Spump.png?size=lg&key=aa2228",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

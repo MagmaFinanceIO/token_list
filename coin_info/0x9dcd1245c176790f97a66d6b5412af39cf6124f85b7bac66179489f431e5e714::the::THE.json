@@ -1,0 +1,13 @@
+{
+  "name": "TaWsHe",
+  "symbol": "THE",
+  "decimals": 9,
+  "coin_type": "0x9dcd1245c176790f97a66d6b5412af39cf6124f85b7bac66179489f431e5e714::the::THE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/23f5ca06-6049-4943-99c8-8264d49c5b73.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

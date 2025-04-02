@@ -1,0 +1,13 @@
+{
+  "name": "DONATELO AI",
+  "symbol": "DONATELOAI",
+  "decimals": 6,
+  "coin_type": "0xec6ff3646631fd3e85f5a82b8b0bbda459ffc7bfcece351a3fe9dae75d9c73bf::donateloai::DONATELOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736078204845.15",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

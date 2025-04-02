@@ -1,0 +1,13 @@
+{
+  "name": "SUINET by SuiAI",
+  "symbol": "SUINET",
+  "decimals": 6,
+  "coin_type": "0x99dd10cca137c6d24fcef6e650f54ec77dd8ca31c4d04e148f1c0de6ab5bb607::suinet::SUINET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/20250110_225201_7b5786a737.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

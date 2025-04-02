@@ -1,0 +1,13 @@
+{
+  "name": "Bitcoin",
+  "symbol": "BTC",
+  "decimals": 9,
+  "coin_type": "0x048ceae964530f0b6b7164f56c8c5cbc6b572c2665f2a3624342182da0a854e9::bitcoin::BITCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreicwf73wega7luowx6w6xhmuyb53toin24yv5g3kgiwkfad6dw3ywa.ipfs.w3s.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

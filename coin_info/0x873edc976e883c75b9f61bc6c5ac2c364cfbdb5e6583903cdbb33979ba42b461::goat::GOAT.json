@@ -1,0 +1,13 @@
+{
+  "name": "goat Sui",
+  "symbol": "GOAT",
+  "decimals": 6,
+  "coin_type": "0x873edc976e883c75b9f61bc6c5ac2c364cfbdb5e6583903cdbb33979ba42b461::goat::GOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731917199536.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

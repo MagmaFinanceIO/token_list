@@ -1,0 +1,13 @@
+{
+  "name": "FIRST AMERICAN PEPE ON SUI",
+  "symbol": "USPEPE",
+  "decimals": 6,
+  "coin_type": "0xc932833493e64e8d21bb263e4c5cd96c4dce861848e7b6a3527825733f576acc::uspepe::USPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_1_5_cc58b74507.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

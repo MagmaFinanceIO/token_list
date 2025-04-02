@@ -1,0 +1,13 @@
+{
+  "name": "Brainy On Sui",
+  "symbol": "BRAINY",
+  "decimals": 9,
+  "coin_type": "0xb433c784dc32e33244711af8f4ec6b46c2ee1aa2e150de4439d8d6080e8ad2bb::brainy::BRAINY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmcndRhnSg7UyiYRZGyRVd74XUwYt94K58YZy18MxcgJgG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PANDA",
+  "symbol": "PANDAFACE",
+  "decimals": 6,
+  "coin_type": "0x1d1d79fbcf1de9ce6433cbea57740865c9993444c7717bc2cfa97e2bd23ecf08::pandaface::PANDAFACE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/pandaface.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

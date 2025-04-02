@@ -1,0 +1,13 @@
+{
+  "name": "AGN",
+  "symbol": "AGN",
+  "decimals": 9,
+  "coin_type": "0x4876f2cee2101e1331ebb7ca4cddce9d4137e730e99fddaa74db56e34e92df03::agn::AGN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

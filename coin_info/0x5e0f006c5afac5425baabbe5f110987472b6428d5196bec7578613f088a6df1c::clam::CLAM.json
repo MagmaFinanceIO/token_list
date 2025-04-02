@@ -1,0 +1,13 @@
+{
+  "name": "Clam",
+  "symbol": "CLAM",
+  "decimals": 6,
+  "coin_type": "0x5e0f006c5afac5425baabbe5f110987472b6428d5196bec7578613f088a6df1c::clam::CLAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_12_20_33_59_4f5052d52b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

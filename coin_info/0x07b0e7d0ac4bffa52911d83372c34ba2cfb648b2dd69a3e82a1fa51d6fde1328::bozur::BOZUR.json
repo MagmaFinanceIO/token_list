@@ -1,0 +1,13 @@
+{
+  "name": "Bozur AI",
+  "symbol": "BOZUR",
+  "decimals": 9,
+  "coin_type": "0x07b0e7d0ac4bffa52911d83372c34ba2cfb648b2dd69a3e82a1fa51d6fde1328::bozur::BOZUR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xe3949a30971d0adfdcfdd47a8b3b4a7f7a9aee13.png?size=lg&key=9a40fa",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

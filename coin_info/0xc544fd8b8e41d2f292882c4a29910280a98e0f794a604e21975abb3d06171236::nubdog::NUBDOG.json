@@ -1,0 +1,13 @@
+{
+  "name": "NubDog",
+  "symbol": "NubDog",
+  "decimals": 9,
+  "coin_type": "0xc544fd8b8e41d2f292882c4a29910280a98e0f794a604e21975abb3d06171236::nubdog::NUBDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5oYWXfTHsuczqydtafjMtWarqVmwmepzPhcBt5Tdpump.png?size=lg&key=12c563",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

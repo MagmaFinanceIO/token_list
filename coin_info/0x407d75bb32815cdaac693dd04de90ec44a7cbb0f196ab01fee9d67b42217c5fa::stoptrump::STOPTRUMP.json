@@ -1,0 +1,13 @@
+{
+  "name": "StopTrump",
+  "symbol": "StopTrump",
+  "decimals": 9,
+  "coin_type": "0x407d75bb32815cdaac693dd04de90ec44a7cbb0f196ab01fee9d67b42217c5fa::stoptrump::STOPTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FHmfSftTDrdhaPRmKkwHZYvB8bnRE18CTQX19v9hpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

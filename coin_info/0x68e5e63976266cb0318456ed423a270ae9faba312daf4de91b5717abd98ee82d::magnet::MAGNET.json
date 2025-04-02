@@ -1,0 +1,13 @@
+{
+  "name": "Magnet Attraction",
+  "symbol": "Magnet",
+  "decimals": 9,
+  "coin_type": "0x68e5e63976266cb0318456ed423a270ae9faba312daf4de91b5717abd98ee82d::magnet::MAGNET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2rFLDce3dm1T4R3DxmqDQv6azJitSbgUsRaJHrhnpump.png?size=lg&key=383d63",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

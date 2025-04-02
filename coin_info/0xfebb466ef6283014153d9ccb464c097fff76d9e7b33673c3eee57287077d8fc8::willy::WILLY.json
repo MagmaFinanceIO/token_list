@@ -1,0 +1,13 @@
+{
+  "name": "Willy The Whale",
+  "symbol": "WILLY",
+  "decimals": 6,
+  "coin_type": "0xfebb466ef6283014153d9ccb464c097fff76d9e7b33673c3eee57287077d8fc8::willy::WILLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/90833fe2-3e50-400e-a99d-bb3876513954.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

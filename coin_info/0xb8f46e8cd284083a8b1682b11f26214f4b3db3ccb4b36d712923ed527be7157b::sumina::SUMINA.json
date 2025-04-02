@@ -1,0 +1,13 @@
+{
+  "name": "Sumina ai",
+  "symbol": "SUMINA",
+  "decimals": 9,
+  "coin_type": "0xb8f46e8cd284083a8b1682b11f26214f4b3db3ccb4b36d712923ed527be7157b::sumina::SUMINA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GcKAEB28akwesqYuDuDtha1xpxRP41eVMGuhSiKEpump.png?size=lg&key=d8c9d7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ORBIT",
+  "symbol": "ORBIT",
+  "decimals": 9,
+  "coin_type": "0x6a6b8176d7ff4ff0899a7b681be68fb75a47b874790bef448a6b655efa649e36::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

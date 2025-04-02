@@ -1,0 +1,13 @@
+{
+  "name": "Udin learning coin",
+  "symbol": "UDNLC",
+  "decimals": 9,
+  "coin_type": "0x7baaaf4092d54cd317be7d8bb04224b7ddc7b5b25906fac11aff7994d13303d6::udnlc::UDNLC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9791fab6-d22a-4e58-a597-cec2ba3566e0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

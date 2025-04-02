@@ -1,0 +1,13 @@
+{
+  "name": "FartWif",
+  "symbol": "FartWif",
+  "decimals": 9,
+  "coin_type": "0x07dca07e842a5ddbdb0a6a0183c041875929270767319ff945cd0e869c78f2d7::fartwif::FARTWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ARsPmv4EWXVFFtVMxCE2pPuBd75e2ikmAZaKTAszpump.png?size=lg&key=7d8b79",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

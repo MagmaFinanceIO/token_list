@@ -1,0 +1,13 @@
+{
+  "name": "Major Frog",
+  "symbol": "MAJOR",
+  "decimals": 9,
+  "coin_type": "0x385b500c197348a739ae6a17ed47dfb6c7f8107927937b02fafb79a9dceedeba::major::MAJOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1e2d7221-16e2-474b-a596-cfafe44158eb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

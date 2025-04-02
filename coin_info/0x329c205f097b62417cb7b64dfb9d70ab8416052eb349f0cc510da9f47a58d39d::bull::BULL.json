@@ -1,0 +1,13 @@
+{
+  "name": "BULL CTO",
+  "symbol": "BULL",
+  "decimals": 6,
+  "coin_type": "0x329c205f097b62417cb7b64dfb9d70ab8416052eb349f0cc510da9f47a58d39d::bull::BULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/BUL_f3654266e6.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

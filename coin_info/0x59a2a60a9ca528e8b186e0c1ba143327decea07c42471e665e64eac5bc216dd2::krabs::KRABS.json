@@ -1,0 +1,13 @@
+{
+  "name": "Mr Krabs",
+  "symbol": "KRABS",
+  "decimals": 9,
+  "coin_type": "0x59a2a60a9ca528e8b186e0c1ba143327decea07c42471e665e64eac5bc216dd2::krabs::KRABS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x722c7a4a490b2cb2479d3fb7c122f8f037005baf.png?size=lg&key=6fdbd9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

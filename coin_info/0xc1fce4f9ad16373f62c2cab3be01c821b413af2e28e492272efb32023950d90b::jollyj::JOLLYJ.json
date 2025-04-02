@@ -1,0 +1,13 @@
+{
+  "name": "JOLLY JAGUAR",
+  "symbol": "JOLLYJ",
+  "decimals": 6,
+  "coin_type": "0xc1fce4f9ad16373f62c2cab3be01c821b413af2e28e492272efb32023950d90b::jollyj::JOLLYJ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_21_042529193_418456f3d3.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

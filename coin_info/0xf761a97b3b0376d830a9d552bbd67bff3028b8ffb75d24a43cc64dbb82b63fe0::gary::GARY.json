@@ -1,0 +1,13 @@
+{
+  "name": "gary",
+  "symbol": "GARY",
+  "decimals": 9,
+  "coin_type": "0xf761a97b3b0376d830a9d552bbd67bff3028b8ffb75d24a43cc64dbb82b63fe0::gary::GARY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5SRer48NRfmhsut1n4ZwSAVUJAErNjdKcXTMVaxdpump.png?claimId=hQ0WPQDMIJ1yhXdB",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

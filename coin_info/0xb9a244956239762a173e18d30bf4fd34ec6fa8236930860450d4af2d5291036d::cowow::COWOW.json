@@ -1,0 +1,13 @@
+{
+  "name": "ANGRY COW",
+  "symbol": "COWOW",
+  "decimals": 9,
+  "coin_type": "0xb9a244956239762a173e18d30bf4fd34ec6fa8236930860450d4af2d5291036d::cowow::COWOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

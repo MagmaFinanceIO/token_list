@@ -1,0 +1,13 @@
+{
+  "name": "Suidermun",
+  "symbol": "SUIDER",
+  "decimals": 6,
+  "coin_type": "0xa23a642d1dba61673f8a5638789bf9f3f3e5c19bee3229be283b10fef2cde9fa::suider::SUIDER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suider_123fe49e2f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

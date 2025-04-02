@@ -1,0 +1,13 @@
+{
+  "name": "Stick Man",
+  "symbol": "STICKY",
+  "decimals": 9,
+  "coin_type": "0x8e0e200729cde0a24c991ed9df931dbcb27da44141541a034a3c6b98c817240b::sticky::STICKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d5a24d58-cb20-463b-9593-df4f849f81f9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

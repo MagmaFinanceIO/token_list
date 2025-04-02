@@ -1,0 +1,13 @@
+{
+  "name": "Baby Pnut",
+  "symbol": "BABYPNUT",
+  "decimals": 9,
+  "coin_type": "0x153b6c505ecdaa483df3fcb978756eb081d3f544b3743b9b2c4b2e187ede4145::babypnut::BABYPNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/z9ysNwXCYrh4xXRyQG9ujWqxNrdcChoicoJA9ebd7iF.png?size=lg&key=e863e6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

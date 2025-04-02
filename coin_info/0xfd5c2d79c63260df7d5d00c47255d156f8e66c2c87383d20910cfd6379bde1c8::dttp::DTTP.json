@@ -1,0 +1,13 @@
+{
+  "name": "Doge Targeting The Penny",
+  "symbol": "DTTP",
+  "decimals": 9,
+  "coin_type": "0xfd5c2d79c63260df7d5d00c47255d156f8e66c2c87383d20910cfd6379bde1c8::dttp::DTTP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a9b9d70e-c258-42ec-9017-0ce0766eae9e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

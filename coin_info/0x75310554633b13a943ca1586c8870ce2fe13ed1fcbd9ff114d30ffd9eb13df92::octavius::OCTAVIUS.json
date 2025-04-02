@@ -1,0 +1,13 @@
+{
+  "name": "Doctor Otto Octavius",
+  "symbol": "OCTAVIUS",
+  "decimals": 9,
+  "coin_type": "0x75310554633b13a943ca1586c8870ce2fe13ed1fcbd9ff114d30ffd9eb13df92::octavius::OCTAVIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/887/810/large/paul-deasy-dock-ock-hex.jpg?1728819815",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

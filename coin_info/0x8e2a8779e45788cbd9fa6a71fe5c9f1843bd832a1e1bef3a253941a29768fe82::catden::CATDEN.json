@@ -1,0 +1,13 @@
+{
+  "name": "Sui Catden",
+  "symbol": "CATDEN",
+  "decimals": 9,
+  "coin_type": "0x8e2a8779e45788cbd9fa6a71fe5c9f1843bd832a1e1bef3a253941a29768fe82::catden::CATDEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5a507578-7bf9-4589-9936-5e1603598ee3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Atoma Network",
+  "symbol": "ATOMA",
+  "decimals": 9,
+  "coin_type": "0x3d977388bdd6076ad0daec63650e6686c6d5f60de6a670e9aa26fdf9d797afa5::atoma::ATOMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8bc768b5-82f8-482c-9145-6f0de7bf940d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

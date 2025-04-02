@@ -1,0 +1,13 @@
+{
+  "name": "Richy The Rabbit",
+  "symbol": "Richy The Rabbit",
+  "decimals": 9,
+  "coin_type": "0x63f891188ed9c58b9194710733a4744df14fb1a07aa4f070c0fbea2307e1f72d::richy_the_rabbit::RICHY_THE_RABBIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/33bcd76d-209b-4339-85f8-a335b00a8770.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

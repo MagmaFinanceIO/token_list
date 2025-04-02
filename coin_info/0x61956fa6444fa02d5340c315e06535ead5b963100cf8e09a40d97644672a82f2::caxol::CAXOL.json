@@ -1,0 +1,13 @@
+{
+  "name": "Cute Axol",
+  "symbol": "CAXOL",
+  "decimals": 6,
+  "coin_type": "0x61956fa6444fa02d5340c315e06535ead5b963100cf8e09a40d97644672a82f2::caxol::CAXOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736498645004.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

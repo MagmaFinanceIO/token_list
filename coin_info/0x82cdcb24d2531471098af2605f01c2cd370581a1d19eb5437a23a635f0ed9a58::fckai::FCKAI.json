@@ -1,0 +1,13 @@
+{
+  "name": "FckAI by SuiAI",
+  "symbol": "FCKAI",
+  "decimals": 6,
+  "coin_type": "0x82cdcb24d2531471098af2605f01c2cd370581a1d19eb5437a23a635f0ed9a58::fckai::FCKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_2139_7952ee3228.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

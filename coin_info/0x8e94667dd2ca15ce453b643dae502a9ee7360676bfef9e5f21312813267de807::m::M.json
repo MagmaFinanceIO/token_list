@@ -1,0 +1,13 @@
+{
+  "name": "Morph AI",
+  "symbol": "M",
+  "decimals": 6,
+  "coin_type": "0x8e94667dd2ca15ce453b643dae502a9ee7360676bfef9e5f21312813267de807::m::M",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6dda0528-8338-4389-9116-476d0c3370cc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "OlympusDAO",
+  "symbol": "PEOPLE",
+  "decimals": 2,
+  "coin_type": "0x3e6139c1a177bb7dc8836c0cbba4d6c1f654af9f9879a9a3aab9a46db2244c06::PEOPLE::PEOPLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/kLmaMlgiwcXLQAn6WFbrH5QEi1jBj-GKB0NNI7RLzVA?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

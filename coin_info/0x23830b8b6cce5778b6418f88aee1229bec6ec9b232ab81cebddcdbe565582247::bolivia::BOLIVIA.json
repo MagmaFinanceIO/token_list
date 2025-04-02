@@ -1,0 +1,13 @@
+{
+  "name": "Bolivia",
+  "symbol": "Bolivia",
+  "decimals": 2,
+  "coin_type": "0x23830b8b6cce5778b6418f88aee1229bec6ec9b232ab81cebddcdbe565582247::bolivia::BOLIVIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/209959da-baba-497b-9957-e79a875dae1d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

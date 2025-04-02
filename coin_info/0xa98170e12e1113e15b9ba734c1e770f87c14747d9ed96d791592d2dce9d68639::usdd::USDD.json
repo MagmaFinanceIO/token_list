@@ -1,0 +1,13 @@
+{
+  "name": "Decentralized USD",
+  "symbol": "USDD",
+  "decimals": 9,
+  "coin_type": "0xa98170e12e1113e15b9ba734c1e770f87c14747d9ed96d791592d2dce9d68639::usdd::USDD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.gtokentool.com/1738654661/1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Turt",
+  "symbol": "TURT",
+  "decimals": 6,
+  "coin_type": "0xf1171a911c98dc86282f7b80be3612ae1848dc2e26b7835b8e0a98e243805b17::turt::TURT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_22_04_05_02_2cd8003d2d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

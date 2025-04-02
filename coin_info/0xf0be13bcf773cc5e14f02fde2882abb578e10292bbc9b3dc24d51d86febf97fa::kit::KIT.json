@@ -1,0 +1,13 @@
+{
+  "name": "Kitsune",
+  "symbol": "KIT",
+  "decimals": 9,
+  "coin_type": "0xf0be13bcf773cc5e14f02fde2882abb578e10292bbc9b3dc24d51d86febf97fa::kit::KIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9hfKxLSnwh4LhpRgmxBYDRgrKeYUgszMePKxuidPpump.png?size=lg&key=8e5bfd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

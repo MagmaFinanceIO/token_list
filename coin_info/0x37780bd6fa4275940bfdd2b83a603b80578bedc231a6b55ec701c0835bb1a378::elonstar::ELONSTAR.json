@@ -1,0 +1,13 @@
+{
+  "name": "ELONSTARLINK",
+  "symbol": "ELONSTAR",
+  "decimals": 6,
+  "coin_type": "0x37780bd6fa4275940bfdd2b83a603b80578bedc231a6b55ec701c0835bb1a378::elonstar::ELONSTAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_11_11_23_04_00_8521b52788.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

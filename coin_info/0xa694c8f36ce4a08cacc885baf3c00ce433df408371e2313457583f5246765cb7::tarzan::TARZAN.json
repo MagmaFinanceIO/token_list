@@ -1,0 +1,13 @@
+{
+  "name": "tarzan",
+  "symbol": "tarzan",
+  "decimals": 9,
+  "coin_type": "0xa694c8f36ce4a08cacc885baf3c00ce433df408371e2313457583f5246765cb7::tarzan::TARZAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

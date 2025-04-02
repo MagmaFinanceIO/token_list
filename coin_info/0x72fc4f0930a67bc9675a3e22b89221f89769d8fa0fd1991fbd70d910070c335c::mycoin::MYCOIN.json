@@ -1,0 +1,13 @@
+{
+  "name": "Deepie The Whale",
+  "symbol": "DEEPIE",
+  "decimals": 9,
+  "coin_type": "0x72fc4f0930a67bc9675a3e22b89221f89769d8fa0fd1991fbd70d910070c335c::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

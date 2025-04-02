@@ -1,0 +1,13 @@
+{
+  "name": "Muskito On Sui",
+  "symbol": "MUSKITO",
+  "decimals": 9,
+  "coin_type": "0xd43273698b5bd1c4272599bf58e3dc42d5cb743c5e9611aa1dee292e0f3f3143::muskito::MUSKITO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Bi2dPTYKv3R3eUhCmojh6kn2PAhLBJHBpDphmcLwpump.png?size=lg&key=d77674",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

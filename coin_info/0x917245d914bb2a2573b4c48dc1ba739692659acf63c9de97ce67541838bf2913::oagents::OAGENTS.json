@@ -1,0 +1,13 @@
+{
+  "name": "Ocada AI Agents",
+  "symbol": "OAGENTS",
+  "decimals": 6,
+  "coin_type": "0x917245d914bb2a2573b4c48dc1ba739692659acf63c9de97ce67541838bf2913::oagents::OAGENTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b98d711f-9fac-41f0-aa67-7898ed9f0f2d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

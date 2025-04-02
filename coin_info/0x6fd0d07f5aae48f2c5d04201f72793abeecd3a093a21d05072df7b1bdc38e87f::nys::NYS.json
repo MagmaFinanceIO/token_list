@@ -1,0 +1,13 @@
+{
+  "name": "New Years Santa",
+  "symbol": "NYS",
+  "decimals": 9,
+  "coin_type": "0x6fd0d07f5aae48f2c5d04201f72793abeecd3a093a21d05072df7b1bdc38e87f::nys::NYS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/iTKODXtTomefK_Db?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

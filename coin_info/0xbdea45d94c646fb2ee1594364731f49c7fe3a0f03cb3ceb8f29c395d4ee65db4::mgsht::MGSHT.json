@@ -1,0 +1,13 @@
+{
+  "name": "Mugshot Coin (Trump)",
+  "symbol": "MGSHT",
+  "decimals": 9,
+  "coin_type": "0xbdea45d94c646fb2ee1594364731f49c7fe3a0f03cb3ceb8f29c395d4ee65db4::mgsht::MGSHT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2d49aa8d-957f-4db4-94b9-fc6a9f14d91c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

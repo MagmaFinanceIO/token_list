@@ -1,0 +1,13 @@
+{
+  "name": "CORE AI",
+  "symbol": "CORE",
+  "decimals": 6,
+  "coin_type": "0x7ecaca89914b1ca90d595702e7ef63648cd284f4c72a9d208130814670371313::core::CORE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1732061140991.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FREE THE PEANUT",
+  "symbol": "PEANUT",
+  "decimals": 9,
+  "coin_type": "0x08a672d970eec15ce4b2bdf83f9cce761cf9a21e3d246a17d3161c737cb70784::peanut::PEANUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CzFesN18ZPErgtLoV8CRRDfN7NJW9F7gJxkwXkf68jpA.png?size=lg&key=e38202",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

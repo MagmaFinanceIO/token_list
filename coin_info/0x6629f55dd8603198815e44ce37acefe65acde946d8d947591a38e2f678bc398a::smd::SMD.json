@@ -1,0 +1,13 @@
+{
+  "name": "Seal Moo Deng",
+  "symbol": "SMD",
+  "decimals": 6,
+  "coin_type": "0x6629f55dd8603198815e44ce37acefe65acde946d8d947591a38e2f678bc398a::smd::SMD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_20_fceb790ded.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

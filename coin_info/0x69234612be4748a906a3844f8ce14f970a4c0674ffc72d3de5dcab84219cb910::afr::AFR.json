@@ -1,0 +1,13 @@
+{
+  "name": "AFRICOIN",
+  "symbol": "AFR",
+  "decimals": 9,
+  "coin_type": "0x69234612be4748a906a3844f8ce14f970a4c0674ffc72d3de5dcab84219cb910::afr::AFR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/75f01add-1e9f-4ce2-8d64-cf754cc59715.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

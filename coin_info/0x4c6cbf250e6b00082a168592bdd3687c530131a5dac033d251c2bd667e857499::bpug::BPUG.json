@@ -1,0 +1,13 @@
+{
+  "name": "Baby Pug",
+  "symbol": "BPUG",
+  "decimals": 6,
+  "coin_type": "0x4c6cbf250e6b00082a168592bdd3687c530131a5dac033d251c2bd667e857499::bpug::BPUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/profile_photo_1_42af3073f4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

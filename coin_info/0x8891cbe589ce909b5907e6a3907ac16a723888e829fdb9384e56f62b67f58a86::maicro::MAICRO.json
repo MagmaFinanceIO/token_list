@@ -1,0 +1,13 @@
+{
+  "name": "maicrotrader by Virtuals",
+  "symbol": "MAICRO",
+  "decimals": 9,
+  "coin_type": "0x8891cbe589ce909b5907e6a3907ac16a723888e829fdb9384e56f62b67f58a86::maicro::MAICRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0xe74731ba9d1da6fd3c8c60ff363732bebac5273e.png?size=lg&key=c32925",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

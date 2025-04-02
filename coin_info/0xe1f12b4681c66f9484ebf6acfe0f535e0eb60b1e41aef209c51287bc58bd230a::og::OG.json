@@ -1,0 +1,13 @@
+{
+  "name": "Orange Grouper",
+  "symbol": "OG",
+  "decimals": 6,
+  "coin_type": "0xe1f12b4681c66f9484ebf6acfe0f535e0eb60b1e41aef209c51287bc58bd230a::og::OG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/O_9f4f68b2b6.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

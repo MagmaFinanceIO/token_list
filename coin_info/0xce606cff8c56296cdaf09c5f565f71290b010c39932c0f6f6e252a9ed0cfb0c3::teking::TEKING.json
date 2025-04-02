@@ -1,0 +1,13 @@
+{
+  "name": "Technoviking",
+  "symbol": "TEKING",
+  "decimals": 9,
+  "coin_type": "0xce606cff8c56296cdaf09c5f565f71290b010c39932c0f6f6e252a9ed0cfb0c3::teking::TEKING",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/5Rnsf9w/avatars-000188082827-odkr2k-t240x240-modified.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

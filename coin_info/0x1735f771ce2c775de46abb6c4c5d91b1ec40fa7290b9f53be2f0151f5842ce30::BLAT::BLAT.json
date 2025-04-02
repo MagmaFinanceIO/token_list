@@ -1,0 +1,13 @@
+{
+  "name": "BeLaunch Token",
+  "symbol": "BLAT",
+  "decimals": 9,
+  "coin_type": "0x1735f771ce2c775de46abb6c4c5d91b1ec40fa7290b9f53be2f0151f5842ce30::BLAT::BLAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://belaunch.s3.ap-southeast-1.amazonaws.com/media/images/blat.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

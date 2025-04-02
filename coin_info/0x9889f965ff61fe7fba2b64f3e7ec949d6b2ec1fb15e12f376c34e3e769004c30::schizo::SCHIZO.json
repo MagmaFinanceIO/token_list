@@ -1,0 +1,13 @@
+{
+  "name": "SCHIZO",
+  "symbol": "SCHIZO",
+  "decimals": 9,
+  "coin_type": "0x9889f965ff61fe7fba2b64f3e7ec949d6b2ec1fb15e12f376c34e3e769004c30::schizo::SCHIZO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/hyperliquid/0xe140201197ced74f8884a698190da7aa.png?size=lg&key=8cb71c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

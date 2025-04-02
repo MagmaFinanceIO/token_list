@@ -1,0 +1,13 @@
+{
+  "name": "Fisherman's Frog",
+  "symbol": "FROGGO",
+  "decimals": 6,
+  "coin_type": "0x1d2ff780d6a986e45af2f0a65436313c773c6a8eb34716d461af89d3ae4f664d::froggo::FROGGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736511868645.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

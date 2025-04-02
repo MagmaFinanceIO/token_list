@@ -1,0 +1,13 @@
+{
+  "name": "Atom AI",
+  "symbol": "ATOM",
+  "decimals": 9,
+  "coin_type": "0x60e02e5ede0a610e9f61aa060513285e455d7a44939d3165b86950975005a9a5::atom::ATOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9xkpP444SBe4FmtbdBLhukQdKc4fRQ5reqQVdadUpump.png?size=lg&key=457333",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

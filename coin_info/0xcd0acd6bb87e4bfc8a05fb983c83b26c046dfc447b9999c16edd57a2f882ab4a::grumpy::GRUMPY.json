@@ -1,0 +1,13 @@
+{
+  "name": "grumpy Cat",
+  "symbol": "Grumpy",
+  "decimals": 9,
+  "coin_type": "0xcd0acd6bb87e4bfc8a05fb983c83b26c046dfc447b9999c16edd57a2f882ab4a::grumpy::GRUMPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bae878ef-7fa4-40d2-bd9a-99747fea1da4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

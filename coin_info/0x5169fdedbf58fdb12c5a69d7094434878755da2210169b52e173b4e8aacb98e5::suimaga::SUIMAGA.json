@@ -1,0 +1,13 @@
+{
+  "name": "SUI MAGA",
+  "symbol": "SUIMAGA",
+  "decimals": 6,
+  "coin_type": "0x5169fdedbf58fdb12c5a69d7094434878755da2210169b52e173b4e8aacb98e5::suimaga::SUIMAGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Sui_Magalogo_0caa5509a7.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

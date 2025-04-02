@@ -1,0 +1,13 @@
+{
+  "name": "Kobe Bryant on SUI",
+  "symbol": "Kobe",
+  "decimals": 9,
+  "coin_type": "0xe9c816f1a1623e934a2b4d56b46d86a286bd6edce531d6167311b9e4ec3ac675::kobe::KOBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a0918410-6319-4db2-bb00-bec39f82926a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Diamonds Hands Sui",
+  "symbol": "DHANDS",
+  "decimals": 6,
+  "coin_type": "0x4809d387cfd8327f2310fab9862840763f04521577714adf8b53d6e622f1dad5::dhands::DHANDS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5257_adaa90afde.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

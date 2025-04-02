@@ -1,0 +1,13 @@
+{
+  "name": "ShibaSalmon - Imagine a Shiba Inu with fins",
+  "symbol": "SHIBMON",
+  "decimals": 6,
+  "coin_type": "0xb2c006d5dd2285d356fd6d77a3f1f3d44fbf87df94f9606912a2db32de93b772::shibmon::SHIBMON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d7402f44-1731-4bbf-98e3-89bbc027d4e8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

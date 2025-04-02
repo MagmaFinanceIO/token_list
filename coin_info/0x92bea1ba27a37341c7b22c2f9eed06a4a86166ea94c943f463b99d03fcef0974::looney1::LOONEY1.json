@@ -1,0 +1,13 @@
+{
+  "name": "Looney",
+  "symbol": "Looney1",
+  "decimals": 6,
+  "coin_type": "0x92bea1ba27a37341c7b22c2f9eed06a4a86166ea94c943f463b99d03fcef0974::looney1::LOONEY1",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/c109865d_9508_4683_a9ed_848c6a00979e_b935704497.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

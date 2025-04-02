@@ -1,0 +1,13 @@
+{
+  "name": "Suisage",
+  "symbol": "SUISAGE",
+  "decimals": 6,
+  "coin_type": "0xf7e2a78a72b78637a6fb640e2075949c73a0f5386cc12c7fea16d093ed09df8a::suisage::SUISAGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Suisage_Logo_c69c0967b0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

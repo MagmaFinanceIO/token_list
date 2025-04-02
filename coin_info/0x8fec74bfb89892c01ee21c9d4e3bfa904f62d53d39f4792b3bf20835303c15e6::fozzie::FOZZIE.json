@@ -1,0 +1,13 @@
+{
+  "name": "Fozzie Bear",
+  "symbol": "Fozzie",
+  "decimals": 9,
+  "coin_type": "0x8fec74bfb89892c01ee21c9d4e3bfa904f62d53d39f4792b3bf20835303c15e6::fozzie::FOZZIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EGVXx47hrsumYvksZ8bADEit6VvzcQBNrH9y7EJCfvXa.png?size=lg&key=f9d876",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Satosui Nakamoto",
+  "symbol": "SATOSUI",
+  "decimals": 9,
+  "coin_type": "0x52dfaa32e504b4c8df0a1b989be9d2526780ecc628936db48501f00be070be1d::satosui::SATOSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a9a00c5b-7850-4503-9083-8edb9f871daf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

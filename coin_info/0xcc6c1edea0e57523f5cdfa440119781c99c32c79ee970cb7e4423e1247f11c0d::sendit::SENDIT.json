@@ -1,0 +1,13 @@
+{
+  "name": "Send It.",
+  "symbol": "SendIt",
+  "decimals": 9,
+  "coin_type": "0xcc6c1edea0e57523f5cdfa440119781c99c32c79ee970cb7e4423e1247f11c0d::sendit::SENDIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "NUvofnCIpC-N7-6n",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

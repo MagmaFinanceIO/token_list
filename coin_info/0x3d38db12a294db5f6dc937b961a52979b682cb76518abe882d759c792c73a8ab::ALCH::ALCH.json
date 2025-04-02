@@ -1,0 +1,13 @@
+{
+  "name": "Alchemist AI",
+  "symbol": "ALCH",
+  "decimals": 2,
+  "coin_type": "0x3d38db12a294db5f6dc937b961a52979b682cb76518abe882d759c792c73a8ab::ALCH::ALCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/455AP7z_WT7NKMGMxFXT_zF6GOFqRxGRrnDjs2xHp4Q?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

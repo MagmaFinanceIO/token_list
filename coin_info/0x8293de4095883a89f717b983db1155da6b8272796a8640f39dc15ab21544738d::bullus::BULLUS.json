@@ -1,0 +1,13 @@
+{
+  "name": "Hasbullus Maximus",
+  "symbol": "BULLUS",
+  "decimals": 9,
+  "coin_type": "0x8293de4095883a89f717b983db1155da6b8272796a8640f39dc15ab21544738d::bullus::BULLUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8nf4RikLms6Ue9Fr6XBLC2QQRE5Poo7FNKbxBn9xpump.png?size=lg&key=2d7308",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ST1",
+  "symbol": "SUIDAOS TOKEN 1",
+  "decimals": 9,
+  "coin_type": "0xfdb5af6972084caf9f7228842d2677a3390ac203ac5d3b9e4d8d65b288f70f47::st1::ST1",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbhnDgWMBc2Edo0UZhB3KBZSlvfDyxe8WMMQ&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

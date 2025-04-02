@@ -1,0 +1,13 @@
+{
+  "name": "Wolverine Pepe",
+  "symbol": "WOLPEPE",
+  "decimals": 9,
+  "coin_type": "0xb35ec8757082d77b0b724f2a085d6d4b679db2acf63047df68a26d060536579c::wolpepe::WOLPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CPpXgH5SF4jqLrKysa5bJLY72rJDWHcTpdWvreNDL6qd.png?size=lg&key=330057",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

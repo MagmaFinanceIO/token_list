@@ -1,0 +1,13 @@
+{
+  "name": "Donald Pump",
+  "symbol": "PUMP",
+  "decimals": 6,
+  "coin_type": "0x9dafa146c1c43e833c33d8047ac561fda6b78f34e789ff9347566e97f0f98b87::pump::PUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pump_09b5bb4b8d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

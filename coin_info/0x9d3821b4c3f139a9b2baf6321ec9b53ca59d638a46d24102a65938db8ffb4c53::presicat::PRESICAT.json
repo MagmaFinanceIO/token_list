@@ -1,0 +1,13 @@
+{
+  "name": "Presicat",
+  "symbol": "PRESICAT",
+  "decimals": 6,
+  "coin_type": "0x9d3821b4c3f139a9b2baf6321ec9b53ca59d638a46d24102a65938db8ffb4c53::presicat::PRESICAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qmad_Rd_Wv_B_Ti_Txcri4_N9ogb3_Ejm_P7fi_Pu_Gmm_Ma2q_K_Ge7bp_X_d04cac6f49.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

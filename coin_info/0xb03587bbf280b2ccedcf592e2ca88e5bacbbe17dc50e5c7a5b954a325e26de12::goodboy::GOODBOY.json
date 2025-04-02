@@ -1,0 +1,13 @@
+{
+  "name": "GoodBoy",
+  "symbol": "GOODBOY",
+  "decimals": 9,
+  "coin_type": "0xb03587bbf280b2ccedcf592e2ca88e5bacbbe17dc50e5c7a5b954a325e26de12::goodboy::GOODBOY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4DNcAxMMhWffAy5WTiJyxoCnMMkeXzrcw2RXJrakr7ym.png?size=xl&key=f6a541",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

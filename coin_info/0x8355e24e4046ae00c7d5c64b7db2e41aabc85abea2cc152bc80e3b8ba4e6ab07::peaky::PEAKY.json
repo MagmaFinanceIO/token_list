@@ -1,0 +1,13 @@
+{
+  "name": "Peaky",
+  "symbol": "peaky",
+  "decimals": 9,
+  "coin_type": "0x8355e24e4046ae00c7d5c64b7db2e41aabc85abea2cc152bc80e3b8ba4e6ab07::peaky::PEAKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dribbble.com/users/5638/screenshots/17187751/media/71bfa413480dcf85dbd5d78b685787a7.jpg?resize=800x600&vertical=center",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AshtarSheranGalacticCommander",
+  "symbol": "ASHTAR",
+  "decimals": 6,
+  "coin_type": "0x830721b382d13e157590fb06d93ceb4de19f8978bd7b6282155d022fd5620667::ashtar::ASHTAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/quadro_ashtar_sheran_comandante_estelar_pleiadiano_pleidiano_32bf2159ad.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

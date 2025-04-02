@@ -1,0 +1,13 @@
+{
+  "name": "IQ6900",
+  "symbol": "IQ",
+  "decimals": 9,
+  "coin_type": "0xca00d8731e395a2f24d75091f9a60d524daf033dfb3e13eafa7fad67136e65f0::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FLY",
+  "symbol": "FLY",
+  "decimals": 9,
+  "coin_type": "0x6e2e2888aa96170a126edc790f437c755e764f391c54772f6c0a8c4547bbac97::fly::FLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

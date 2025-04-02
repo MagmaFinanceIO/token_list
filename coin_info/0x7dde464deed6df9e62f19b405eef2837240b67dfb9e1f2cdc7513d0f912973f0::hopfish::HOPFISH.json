@@ -1,0 +1,13 @@
+{
+  "name": "HopFish",
+  "symbol": "HopFish",
+  "decimals": 9,
+  "coin_type": "0x7dde464deed6df9e62f19b405eef2837240b67dfb9e1f2cdc7513d0f912973f0::hopfish::HOPFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b6d2e111-1c32-40ec-8cc8-1becf7cfaa5b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

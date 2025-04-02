@@ -1,0 +1,13 @@
+{
+  "name": "Non Playable Sui's",
+  "symbol": "NPSUI",
+  "decimals": 6,
+  "coin_type": "0x9fad05ab47e6fc9885fd1904317ed0b158691b8494d010604bbc977af19ff0e5::npsui::NPSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/NPSUI_LOGO_591d9756d5.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Deblobs",
+  "symbol": "Blobs",
+  "decimals": 9,
+  "coin_type": "0x239431b11c925a15cc31534944c3828fbe49eccf3d0ef83cef91dfdc158083d2::blobs::BLOBS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ebd77080-319c-48d9-8153-4366468f76cf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Chronite",
+  "symbol": "CHRON",
+  "decimals": 9,
+  "coin_type": "0x8df464d40934e18d599c843ffef18e78725f6e22d7b5d27bc8bb037fdc8ec378::chron::CHRON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

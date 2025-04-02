@@ -1,0 +1,13 @@
+{
+  "name": "KRIM AI by SuiAI",
+  "symbol": "KRIM",
+  "decimals": 6,
+  "coin_type": "0x38975c0efb625e447368b5b7d380fed25bef89d1e5f443b8c020fcba951fe03b::krim::KRIM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/krim_ai_2fb8782d27.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

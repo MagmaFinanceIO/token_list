@@ -1,0 +1,13 @@
+{
+  "name": "GECO SUI",
+  "symbol": "GECO",
+  "decimals": 9,
+  "coin_type": "0xca3484d5cbb52450e959d3a0d4ecc6f4221c74634b12e2714981980de2e28dbd::geco::GECO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0f69e92a-79b2-44f4-9e89-fe49435e7884.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

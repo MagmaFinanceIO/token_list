@@ -1,0 +1,13 @@
+{
+  "name": "Baby Seal",
+  "symbol": "BABYSEAL",
+  "decimals": 9,
+  "coin_type": "0xd9df1391d2405e47b8257bd7874756de8e5e6accf95e1d0260e4eb0c89474632::babyseal::BABYSEAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1b2e198d-7acd-4ceb-b266-965e84ba2367.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

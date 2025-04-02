@@ -1,0 +1,13 @@
+{
+  "name": "LeakIntel",
+  "symbol": "LEAKINTEL",
+  "decimals": 9,
+  "coin_type": "0xb8b4922e87f1fa5a67be981939917f1a5cce001f73ddddbf81eef141e00dc195::leakintel::LEAKINTEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5s74HCXHY11w2Z3FQ9C5X4ddajTPnDuLpSgC3EFppump.png?size=lg&key=fd0340",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hashtech AI",
+  "symbol": "HASHAI",
+  "decimals": 9,
+  "coin_type": "0xbac592e83276076ca229ebe85f2114862d428db8f6b727e6747d91f0c63dec38::hashai::HASHAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/tgrMR2isxPNQ1AV7XGGxFHmvBb345bCBcm7oNKypump.png?size=lg&key=d2b175",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

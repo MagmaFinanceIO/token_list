@@ -1,0 +1,13 @@
+{
+  "name": "trump",
+  "symbol": "trm",
+  "decimals": 6,
+  "coin_type": "0x0298ecface4c8c7c2561ff251e9c6c1c0f3a6cfa7ecc3d16c929d1717d7980f2::trm::TRM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmVU9jhfdyAVZkchT6Kb4bfT4jdjehHAfsYzmpAR3ZSt7w",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

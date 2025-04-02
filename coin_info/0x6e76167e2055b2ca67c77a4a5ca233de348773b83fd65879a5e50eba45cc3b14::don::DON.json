@@ -1,0 +1,13 @@
+{
+  "name": "Dolphin",
+  "symbol": "DON",
+  "decimals": 6,
+  "coin_type": "0x6e76167e2055b2ca67c77a4a5ca233de348773b83fd65879a5e50eba45cc3b14::don::DON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/G_Zsw90_Ha_AAE_2l_Q_c7e537226a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

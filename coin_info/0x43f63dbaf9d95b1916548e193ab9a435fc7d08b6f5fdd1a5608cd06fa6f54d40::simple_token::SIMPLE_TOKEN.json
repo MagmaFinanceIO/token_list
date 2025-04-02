@@ -1,0 +1,13 @@
+{
+  "name": "GWIZ",
+  "symbol": "GWIZ",
+  "decimals": 9,
+  "coin_type": "0x43f63dbaf9d95b1916548e193ab9a435fc7d08b6f5fdd1a5608cd06fa6f54d40::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

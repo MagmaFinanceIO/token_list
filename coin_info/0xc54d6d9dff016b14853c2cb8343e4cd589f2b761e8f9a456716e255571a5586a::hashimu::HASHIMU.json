@@ -1,0 +1,13 @@
+{
+  "name": "Justice For Hashimura",
+  "symbol": "Hashimu",
+  "decimals": 9,
+  "coin_type": "0xc54d6d9dff016b14853c2cb8343e4cd589f2b761e8f9a456716e255571a5586a::hashimu::HASHIMU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9xQB5vgUaWYNknAr3TyAzNkEchbRtGCkuLpSdiCUpump.png?size=lg&key=a54f60",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Kaida",
+  "symbol": "KAIDA",
+  "decimals": 9,
+  "coin_type": "0x6f5e427e2958fda33ff0512a3bd722941338bcf1b3cd3570ace62964d34f04a1::kaida::KAIDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/34xtE4vUQ6gpJEqsBkFtzgSedFrhx55jBrn9XDydpump.png?size=lg&key=84f7bf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

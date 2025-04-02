@@ -1,0 +1,13 @@
+{
+  "name": "SUNALDO",
+  "symbol": "SUUU",
+  "decimals": 9,
+  "coin_type": "0x9e1d79fca2fbb8a721442013d697a13efab8913dda59c67aa47ed97c82128dc4::suuu::SUUU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d77ae33d-f668-4107-8f53-6409fc7430fb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

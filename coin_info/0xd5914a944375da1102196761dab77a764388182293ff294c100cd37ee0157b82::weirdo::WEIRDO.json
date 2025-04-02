@@ -1,0 +1,13 @@
+{
+  "name": "Weirdo",
+  "symbol": "Weirdo",
+  "decimals": 9,
+  "coin_type": "0xd5914a944375da1102196761dab77a764388182293ff294c100cd37ee0157b82::weirdo::WEIRDO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x76734b57dfe834f102fb61e1ebf844adf8dd931e.png?size=xl&key=f5c984",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

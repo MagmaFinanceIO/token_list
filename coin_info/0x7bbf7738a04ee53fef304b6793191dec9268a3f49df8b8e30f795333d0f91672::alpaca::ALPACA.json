@@ -1,0 +1,13 @@
+{
+  "name": "Alpaca",
+  "symbol": "ALPACA",
+  "decimals": 9,
+  "coin_type": "0x7bbf7738a04ee53fef304b6793191dec9268a3f49df8b8e30f795333d0f91672::alpaca::ALPACA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2AZH2nNLNzmG3v6nMC88pUEXWo3GA58zHzPxAmUppump.png?size=lg&key=bbee26",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

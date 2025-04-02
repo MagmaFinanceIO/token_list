@@ -1,0 +1,13 @@
+{
+  "name": "Magnet Sui",
+  "symbol": "Magnet",
+  "decimals": 6,
+  "coin_type": "0x8265864481e639184eb47fdee4911d449124684ba70e49933bccbedc80b7ee9b::magnet::MAGNET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_R1_M3k_HVCE_Gu_Rj_Fk_Mw3g_Tt_J_Vu_UE_946_K_Tw9_RP_Vij_Km6_Co_Y_58d60cf98e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

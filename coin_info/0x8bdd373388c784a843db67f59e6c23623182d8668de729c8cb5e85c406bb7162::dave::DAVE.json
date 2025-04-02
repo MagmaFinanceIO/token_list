@@ -1,0 +1,13 @@
+{
+  "name": "Dirty Dave AI",
+  "symbol": "DAVE",
+  "decimals": 6,
+  "coin_type": "0x8bdd373388c784a843db67f59e6c23623182d8668de729c8cb5e85c406bb7162::dave::DAVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/9a914608_cb87_4a53_be68_484091717086_0964a498ba.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

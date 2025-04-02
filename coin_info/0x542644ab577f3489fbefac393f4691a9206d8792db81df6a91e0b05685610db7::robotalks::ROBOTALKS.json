@@ -1,0 +1,13 @@
+{
+  "name": "Robotalks AI",
+  "symbol": "RoboTalks",
+  "decimals": 6,
+  "coin_type": "0x542644ab577f3489fbefac393f4691a9206d8792db81df6a91e0b05685610db7::robotalks::ROBOTALKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1738253460057.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

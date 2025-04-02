@@ -1,0 +1,13 @@
+{
+  "name": "Bloo",
+  "symbol": "Bloo",
+  "decimals": 9,
+  "coin_type": "0x84a8b2379437792442b808c767e8d68ff3bad93e9fde1d97419b4294de97ec0d::bloo::BLOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/50151e6c-ee0d-47cf-a93c-67481af7a206.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

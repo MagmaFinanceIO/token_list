@@ -1,0 +1,13 @@
+{
+  "name": "Mister Suiggles",
+  "symbol": "SUIGGLES",
+  "decimals": 9,
+  "coin_type": "0xc3489f6f2d31ce82d10243ae3c50b95e997ee83ac087e08452ba7ae95b6f6eb5::suiggles::SUIGGLES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://framerusercontent.com/images/Q1ik3dKCt582kKAAa032Uy4JyDM.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

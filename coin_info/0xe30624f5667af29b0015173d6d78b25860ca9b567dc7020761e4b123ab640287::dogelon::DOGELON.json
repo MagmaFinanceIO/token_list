@@ -1,0 +1,13 @@
+{
+  "name": "DOGELON MARS",
+  "symbol": "DOGELON",
+  "decimals": 9,
+  "coin_type": "0xe30624f5667af29b0015173d6d78b25860ca9b567dc7020761e4b123ab640287::dogelon::DOGELON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3tbLnZUujLvMAiKMyrs4LodWEuXXWidqY1GovQ9Rpump.png?size=lg&key=88e3ec",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pepito",
+  "symbol": "PETITO",
+  "decimals": 9,
+  "coin_type": "0x9d83f75425a847454e14a4b19ad1d8fbfea34c98529853c733726ebbbf90a8f3::petito::PETITO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmY9YcswioYwj1EDDXFqZGGUbqUwqohu2NXHm1CbrWxveB?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

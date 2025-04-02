@@ -1,0 +1,13 @@
+{
+  "name": "MIGGLES",
+  "symbol": "MIGGLUI",
+  "decimals": 6,
+  "coin_type": "0x870dd0f93d6b7737eb089b1da5b16bd3ff698dd4f45d17988e0a0c0e86d8534b::migglui::MIGGLUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/miggles_sui_full_image_404ae98600.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

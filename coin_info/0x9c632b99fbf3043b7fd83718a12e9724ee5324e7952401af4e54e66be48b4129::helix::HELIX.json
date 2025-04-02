@@ -1,0 +1,13 @@
+{
+  "name": "Helix Agent AI",
+  "symbol": "HELIX",
+  "decimals": 9,
+  "coin_type": "0x9c632b99fbf3043b7fd83718a12e9724ee5324e7952401af4e54e66be48b4129::helix::HELIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CVUe1TSYa7zi4o8sPjYwSwUJdcQhLRM7zzyjNkLemdND.png?size=lg&key=0915ed",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

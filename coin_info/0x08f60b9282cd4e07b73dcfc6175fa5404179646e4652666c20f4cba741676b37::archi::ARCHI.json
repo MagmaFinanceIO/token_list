@@ -1,0 +1,13 @@
+{
+  "name": "ARCHIMEDES",
+  "symbol": "ARCHI",
+  "decimals": 9,
+  "coin_type": "0x08f60b9282cd4e07b73dcfc6175fa5404179646e4652666c20f4cba741676b37::archi::ARCHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/290d2f8b-9b1d-485f-bb1e-de3526317e8f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

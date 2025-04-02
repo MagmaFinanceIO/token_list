@@ -1,0 +1,13 @@
+{
+  "name": "Italy",
+  "symbol": "Italy",
+  "decimals": 2,
+  "coin_type": "0xbb8f7487e4cd04a19e0da14cefc6d39fcc4ad266b665f54b8e81691a06790612::italy::ITALY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5f98b856-d25a-4d04-aaaa-ce378d9c14a2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

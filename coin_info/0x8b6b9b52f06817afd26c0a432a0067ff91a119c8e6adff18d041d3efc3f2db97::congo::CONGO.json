@@ -1,0 +1,13 @@
+{
+  "name": "Congo Mon Pays",
+  "symbol": "CONGO",
+  "decimals": 9,
+  "coin_type": "0x8b6b9b52f06817afd26c0a432a0067ff91a119c8e6adff18d041d3efc3f2db97::congo::CONGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1ecfaa4b-2825-4205-8bde-7b1da68a86cc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

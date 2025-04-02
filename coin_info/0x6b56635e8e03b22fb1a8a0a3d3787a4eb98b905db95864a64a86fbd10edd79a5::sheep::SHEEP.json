@@ -1,0 +1,13 @@
+{
+  "name": "SHEEP SUI",
+  "symbol": "SHEEP",
+  "decimals": 6,
+  "coin_type": "0x6b56635e8e03b22fb1a8a0a3d3787a4eb98b905db95864a64a86fbd10edd79a5::sheep::SHEEP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20241008_223302_305_4ea3b96a7d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

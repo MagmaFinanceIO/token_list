@@ -1,0 +1,13 @@
+{
+  "name": "Game Gold",
+  "symbol": "GG",
+  "decimals": 9,
+  "coin_type": "0x896a6e8d1cb194d8bdfbf05ab2cbab8b114bd1011442fa9a665d578cf61debbb::gg::GG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ec5aee40-f0ba-4526-a794-38965087d490.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

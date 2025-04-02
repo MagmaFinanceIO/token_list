@@ -1,0 +1,13 @@
+{
+  "name": "Pulsed Lab",
+  "symbol": "PULSED",
+  "decimals": 9,
+  "coin_type": "0x8099794a8f6a99fd7c91d5e734c469fc6f7fa0b789379213584520af054df881::pulsed::PULSED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/42KuhhGge1fmd1StEzyapEkVomMuzgz4ZCrKdVzTpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

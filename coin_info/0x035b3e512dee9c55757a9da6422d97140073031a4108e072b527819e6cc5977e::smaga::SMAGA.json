@@ -1,0 +1,13 @@
+{
+  "name": "Super MAGA",
+  "symbol": "SMAGA",
+  "decimals": 6,
+  "coin_type": "0x035b3e512dee9c55757a9da6422d97140073031a4108e072b527819e6cc5977e::smaga::SMAGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_11_04_23_30_49_39416eaaac.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mike TySui",
+  "symbol": "MIKE",
+  "decimals": 6,
+  "coin_type": "0x0d4d5ba6755f07fccb817a7823165703adfd5dd3ca85e0c5d93d13c27f6eecfa::mike::MIKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731449942325.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

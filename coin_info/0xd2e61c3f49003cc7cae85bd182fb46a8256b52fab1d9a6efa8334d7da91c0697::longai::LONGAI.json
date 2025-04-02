@@ -1,0 +1,13 @@
+{
+  "name": "Longevity AI",
+  "symbol": "LONGAI",
+  "decimals": 9,
+  "coin_type": "0xd2e61c3f49003cc7cae85bd182fb46a8256b52fab1d9a6efa8334d7da91c0697::longai::LONGAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9yBr75m6TBZzQqHeh1ztfv454pmqAiAvHUHdpPQcpump.png?size=lg&key=2a2646",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

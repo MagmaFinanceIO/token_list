@@ -1,0 +1,13 @@
+{
+  "name": "MESSI",
+  "symbol": "MESSI",
+  "decimals": 9,
+  "coin_type": "0x5eaff34930d052b0d58ce4b63a087be74150117d42131889e0a3b9b85720dd04::messi::MESSI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

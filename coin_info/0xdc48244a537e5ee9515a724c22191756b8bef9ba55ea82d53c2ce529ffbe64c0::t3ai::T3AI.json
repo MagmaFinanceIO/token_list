@@ -1,0 +1,13 @@
+{
+  "name": "TrustInWeb3",
+  "symbol": "T3AI",
+  "decimals": 9,
+  "coin_type": "0xdc48244a537e5ee9515a724c22191756b8bef9ba55ea82d53c2ce529ffbe64c0::t3ai::T3AI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/1f7BwwCrRVul8QAi?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Boss Blub",
+  "symbol": "Bblub",
+  "decimals": 6,
+  "coin_type": "0x9a33a36d93c463a6b3c7771891e4bd1f14f103a4c2cc958b745111bd65bcb5a0::bblub::BBLUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/4820a097_0e78_4c00_8b17_88dcee273cf3_344985265f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

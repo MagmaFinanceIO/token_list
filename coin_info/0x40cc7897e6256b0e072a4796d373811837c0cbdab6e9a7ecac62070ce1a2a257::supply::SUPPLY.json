@@ -1,0 +1,13 @@
+{
+  "name": "SupplyVest AI by SuiAI",
+  "symbol": "SUPPLY",
+  "decimals": 6,
+  "coin_type": "0x40cc7897e6256b0e072a4796d373811837c0cbdab6e9a7ecac62070ce1a2a257::supply::SUPPLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_2119_fa1dee1197.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

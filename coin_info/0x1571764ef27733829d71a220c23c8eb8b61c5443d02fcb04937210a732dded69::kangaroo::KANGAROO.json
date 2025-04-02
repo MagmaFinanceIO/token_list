@@ -1,0 +1,13 @@
+{
+  "name": "7Kangaroo",
+  "symbol": "Kangaroo",
+  "decimals": 9,
+  "coin_type": "0x1571764ef27733829d71a220c23c8eb8b61c5443d02fcb04937210a732dded69::kangaroo::KANGAROO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/779578e34b04001f6678cadbc181e22ablob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

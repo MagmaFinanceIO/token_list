@@ -1,0 +1,13 @@
+{
+  "name": "Take the L",
+  "symbol": "L",
+  "decimals": 9,
+  "coin_type": "0x608f0df1da992054d07a8ae5dab568721e2e6390d6e5ae9a0bc4556135fa3a3f::l::L",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qma8kqdUJVk1oSgmkcT2Lovxm8fwAQBbdQ29pKjZeSNvRh",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

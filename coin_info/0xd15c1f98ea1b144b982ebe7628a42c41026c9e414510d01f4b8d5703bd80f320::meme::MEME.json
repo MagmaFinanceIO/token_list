@@ -1,0 +1,13 @@
+{
+  "name": "Meme token",
+  "symbol": "Meme",
+  "decimals": 9,
+  "coin_type": "0xd15c1f98ea1b144b982ebe7628a42c41026c9e414510d01f4b8d5703bd80f320::meme::MEME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

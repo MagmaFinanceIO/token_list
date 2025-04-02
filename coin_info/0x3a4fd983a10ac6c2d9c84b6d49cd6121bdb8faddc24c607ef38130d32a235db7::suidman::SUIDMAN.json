@@ -1,0 +1,13 @@
+{
+  "name": "SUIDERMAN",
+  "symbol": "SUIDMAN",
+  "decimals": 6,
+  "coin_type": "0x3a4fd983a10ac6c2d9c84b6d49cd6121bdb8faddc24c607ef38130d32a235db7::suidman::SUIDMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7643_5afc287151.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "mUSD",
+  "symbol": "mUSD",
+  "decimals": 9,
+  "coin_type": "0xe44df51c0b21a27ab915fa1fe2ca610cd3eaa6d9666fe5e62b988bf7f0bd8722::musd::MUSD",
+  "pyth_id": "",
+  "birdeyeid": "0xe44df51c0b21a27ab915fa1fe2ca610cd3eaa6d9666fe5e62b988bf7f0bd8722::musd::MUSD",
+  "coin_priority": [],
+  "logo_url": "https://mstable.io/coins/musd.svg",
+  "project_url": "",
+  "coingecko_id": "meta-usd",
+  "is_trusted": true
+}

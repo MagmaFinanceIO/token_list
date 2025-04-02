@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Slayer",
+  "symbol": "PESER",
+  "decimals": 9,
+  "coin_type": "0x0ea06f8c78a4034c754b6bde16b9fe1619ece24ed4b90cde080b29b2fd823cb5::peser::PESER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9KtmZMhDzFf8F1EEBGgsuPTTMSKNDtwJWJwgqzBABMMH.png?size=lg&key=eaffb4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

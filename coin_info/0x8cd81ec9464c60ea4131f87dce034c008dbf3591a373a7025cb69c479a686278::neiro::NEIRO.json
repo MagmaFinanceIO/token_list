@@ -1,0 +1,13 @@
+{
+  "name": "NEIRO",
+  "symbol": "Neiro",
+  "decimals": 9,
+  "coin_type": "0x8cd81ec9464c60ea4131f87dce034c008dbf3591a373a7025cb69c479a686278::neiro::NEIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/QmdEfNtUbhSWss8xwPhDpwLEjhafxbSwBYZbUdyfXJw9HS",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

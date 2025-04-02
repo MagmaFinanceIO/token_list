@@ -1,0 +1,13 @@
+{
+  "name": "MasterCard Coin",
+  "symbol": "MASTERCARD",
+  "decimals": 9,
+  "coin_type": "0x1ea736d62d3ee4eb37d09ab160138b1602a37e8e085bd7bc8c0b7e79723a093d::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

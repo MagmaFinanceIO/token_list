@@ -1,0 +1,13 @@
+{
+  "name": "I.R. Baboon",
+  "symbol": "BOON",
+  "decimals": 9,
+  "coin_type": "0x5cf64c14c002e37b65ba7d5abfa456a4ef48aeb062c53e309f0f5a8fe7942607::boon::BOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/87517e48-d48f-4012-9b4d-311168007222.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

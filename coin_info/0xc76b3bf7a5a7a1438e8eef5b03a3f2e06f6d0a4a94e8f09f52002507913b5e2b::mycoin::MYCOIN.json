@@ -1,0 +1,13 @@
+{
+  "name": "Mc Doge",
+  "symbol": "MCDOGE",
+  "decimals": 9,
+  "coin_type": "0xc76b3bf7a5a7a1438e8eef5b03a3f2e06f6d0a4a94e8f09f52002507913b5e2b::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

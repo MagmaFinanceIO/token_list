@@ -1,0 +1,13 @@
+{
+  "name": "PEPE GOLD",
+  "symbol": "POLG",
+  "decimals": 9,
+  "coin_type": "0x71c9d97ec336ecab6763b210cff2579d9fdff976a917735a81033c667336ba85::polg::POLG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/D8M1tnDs7dgtzxYX?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

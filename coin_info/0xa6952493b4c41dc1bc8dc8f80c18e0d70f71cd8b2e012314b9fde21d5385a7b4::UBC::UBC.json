@@ -1,0 +1,13 @@
+{
+  "name": "Universal Basic Compute",
+  "symbol": "UBC",
+  "decimals": 2,
+  "coin_type": "0xa6952493b4c41dc1bc8dc8f80c18e0d70f71cd8b2e012314b9fde21d5385a7b4::UBC::UBC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/hiL5dN-unKKOWhkyjlHTlEYoTemGYXwFv4VeyPJBhLs?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

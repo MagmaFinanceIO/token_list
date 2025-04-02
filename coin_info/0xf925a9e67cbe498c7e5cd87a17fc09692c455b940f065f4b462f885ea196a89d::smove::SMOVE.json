@@ -1,0 +1,15 @@
+{
+  "name": "sMOVE",
+  "symbol": "sMOVECOIN",
+  "decimals": 0,
+  "coin_type": "0xf925a9e67cbe498c7e5cd87a17fc09692c455b940f065f4b462f885ea196a89d::smove::SMOVE",
+  "pyth_id": "",
+  "birdeyeid": "0xf925a9e67cbe498c7e5cd87a17fc09692c455b940f065f4b462f885ea196a89d::smove::SMOVE",
+  "coin_priority": [
+    "760"
+  ],
+  "logo_url": "https://4g7mzcwybmcqsnwiygg4eotqtqkays7y6qyyuycm7tetewing4da.arweave.net/4b7MitgLBQk2yMGNwjpwnBQMS_j0MYpgTPzJMlkNNwY",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

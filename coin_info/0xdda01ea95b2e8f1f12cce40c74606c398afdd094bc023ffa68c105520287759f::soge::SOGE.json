@@ -1,0 +1,13 @@
+{
+  "name": "Doge of Sui",
+  "symbol": "SOGE",
+  "decimals": 9,
+  "coin_type": "0xdda01ea95b2e8f1f12cce40c74606c398afdd094bc023ffa68c105520287759f::soge::SOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HVR8QZpNnhf7zVcmMfW49sozbdKbg39JmdCQbt6Spump.png?size=xl&key=519787",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

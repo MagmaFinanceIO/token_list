@@ -1,0 +1,13 @@
+{
+  "name": "dogelite",
+  "symbol": "DOGEL",
+  "decimals": 10,
+  "coin_type": "0x9cff93c3b5ab5e3200a15017f52f7e4a6e7773cb88de083386ca8fd793460dc8::dogel::DOGEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b76979a1-105b-40ae-b15a-a340ce0644ab.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

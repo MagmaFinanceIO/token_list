@@ -1,0 +1,13 @@
+{
+  "name": "Safe Moon",
+  "symbol": "SM",
+  "decimals": 9,
+  "coin_type": "0x0b59867811fa54f9926ef28f53cbfbdf3bbf1f7ccbc71f709e9cbb5fa31b72c4::sm::SM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b2a72895-761b-4ec0-9c6f-75a4fcb4fcdd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

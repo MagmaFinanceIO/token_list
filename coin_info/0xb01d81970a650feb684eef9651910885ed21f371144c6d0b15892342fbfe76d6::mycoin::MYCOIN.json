@@ -1,0 +1,13 @@
+{
+  "name": "MAGFREGO",
+  "symbol": "FREGO",
+  "decimals": 9,
+  "coin_type": "0xb01d81970a650feb684eef9651910885ed21f371144c6d0b15892342fbfe76d6::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

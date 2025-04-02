@@ -1,0 +1,13 @@
+{
+  "name": "Donald Trump Jr.",
+  "symbol": "JUNIOR",
+  "decimals": 9,
+  "coin_type": "0xb0456a1a90f99ec5f7fb6777fb9359d19a3dde4b7a79599c79dc03ab864b1a96::junior::JUNIOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6UHTTM12WpwVEZkDPihx5JUVdmTDdxJsEXdXxzpdpump.png?size=lg&key=46fb36",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

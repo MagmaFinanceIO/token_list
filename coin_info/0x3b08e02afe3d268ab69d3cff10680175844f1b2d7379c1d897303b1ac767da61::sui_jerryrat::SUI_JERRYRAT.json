@@ -1,0 +1,13 @@
+{
+  "name": "Sui_JERRYRAT",
+  "symbol": "Sui_JERRYRAT",
+  "decimals": 9,
+  "coin_type": "0x3b08e02afe3d268ab69d3cff10680175844f1b2d7379c1d897303b1ac767da61::sui_jerryrat::SUI_JERRYRAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/55cb1477-ada2-4396-9b67-d536554fb068.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

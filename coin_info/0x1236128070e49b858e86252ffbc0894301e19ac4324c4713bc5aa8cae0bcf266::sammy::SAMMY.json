@@ -1,0 +1,13 @@
+{
+  "name": "Sammy The Shark",
+  "symbol": "SAMMY",
+  "decimals": 9,
+  "coin_type": "0x1236128070e49b858e86252ffbc0894301e19ac4324c4713bc5aa8cae0bcf266::sammy::SAMMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7eebf89c-d230-485f-8029-0b66aa34e05f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

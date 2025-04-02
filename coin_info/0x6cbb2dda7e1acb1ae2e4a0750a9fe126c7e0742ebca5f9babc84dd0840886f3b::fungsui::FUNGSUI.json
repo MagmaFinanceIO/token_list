@@ -1,0 +1,13 @@
+{
+  "name": "Fung Sui",
+  "symbol": "FUNGSUI",
+  "decimals": 7,
+  "coin_type": "0x6cbb2dda7e1acb1ae2e4a0750a9fe126c7e0742ebca5f9babc84dd0840886f3b::fungsui::FUNGSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4dc419d8-6245-434c-89e4-be23c46f5838.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Codex",
+  "symbol": "CDEX",
+  "decimals": 6,
+  "coin_type": "0x89b7cd1189701fe40e5d1ad6a61ed51ea005d341124fdd88fb2475eaa25fb02d::cdex::CDEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/86a6b799-43f8-42cc-acf6-b7bdac354c86.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

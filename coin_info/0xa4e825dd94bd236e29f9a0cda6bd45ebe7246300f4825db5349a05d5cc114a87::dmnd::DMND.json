@@ -1,0 +1,13 @@
+{
+  "name": "Diamond",
+  "symbol": "DMND",
+  "decimals": 9,
+  "coin_type": "0xa4e825dd94bd236e29f9a0cda6bd45ebe7246300f4825db5349a05d5cc114a87::dmnd::DMND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/3bx2tXD.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ABU",
+  "symbol": "ABU",
+  "decimals": 9,
+  "coin_type": "0xebcd5be02f2d35ef1256cc8e67271c0553b94ffb6e842e13e938dea8d54e9f63::abu::ABU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

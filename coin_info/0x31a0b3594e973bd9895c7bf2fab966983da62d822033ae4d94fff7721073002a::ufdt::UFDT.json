@@ -1,0 +1,13 @@
+{
+  "name": "Unicorn Fart Dust Terminal",
+  "symbol": "UFDT",
+  "decimals": 9,
+  "coin_type": "0x31a0b3594e973bd9895c7bf2fab966983da62d822033ae4d94fff7721073002a::ufdt::UFDT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Dj1uofauJK6Yp9TVr5wHyEouWcf2sJue1Btm2xQ4pump.png?size=lg&key=b3aba3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Test14",
+  "symbol": "TFTN",
+  "decimals": 9,
+  "coin_type": "0x4c3c1e9824179e04afdbb907a12fd4d14a12db1d142697d0a7a181a11d757b7c::tftn::TFTN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f2aad7c6-3275-4b4e-bc0e-d66d0a83c5cf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

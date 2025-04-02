@@ -1,0 +1,13 @@
+{
+  "name": "EPId",
+  "symbol": "EPId",
+  "decimals": 9,
+  "coin_type": "0xd626fd341832c886a89d51bbc225ee8f2d033bd14bdcd1324b43e62db9820bd8::epid::EPID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CB48KiK1oi1tWtjmPWxVR2NPeEr9ewzmZQ8ERk79Ue4b.png?size=lg&key=e3d4b7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

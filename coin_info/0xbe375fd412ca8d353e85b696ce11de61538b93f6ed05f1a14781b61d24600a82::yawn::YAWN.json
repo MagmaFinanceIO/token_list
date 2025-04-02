@@ -1,0 +1,13 @@
+{
+  "name": "Yawn",
+  "symbol": "YAWN",
+  "decimals": 6,
+  "coin_type": "0xbe375fd412ca8d353e85b696ce11de61538b93f6ed05f1a14781b61d24600a82::yawn::YAWN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/banneryawn_d53e2fd08d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

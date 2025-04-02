@@ -1,0 +1,13 @@
+{
+  "name": "Fwuggo AI Meme",
+  "symbol": "FWUAI",
+  "decimals": 9,
+  "coin_type": "0x15862d7bfa0c61887963df7da44b918d697a8dc7d470e977dcf56cb182323bdf::fwuai::FWUAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f9ae296d-33b8-4413-a613-2265dd2664f8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Deepfake AI",
+  "symbol": "DEEPFAKE",
+  "decimals": 9,
+  "coin_type": "0x21f7bd0428b414f7741e2196eed6c80fd0200c7f5ff80207c27848047a404d50::deepfake::DEEPFAKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/WUB3WsEEU1ejBfa5SiNiB4i4nVt1y3jHoGnmS6gpump.png?size=lg&key=8e4037",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

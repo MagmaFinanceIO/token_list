@@ -1,0 +1,13 @@
+{
+  "name": "BrainletSui",
+  "symbol": "BLET",
+  "decimals": 6,
+  "coin_type": "0x779dc4710dde5ef66ce958fc31842a73157b4265b90b3d49cdd9b6c38c7403cc::blet::BLET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_10_12_220722_bd93cdaf21.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

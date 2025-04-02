@@ -1,0 +1,13 @@
+{
+  "name": "Speedy",
+  "symbol": "Speedy",
+  "decimals": 9,
+  "coin_type": "0x9a3f4a96d5828daab3e52ca0780deb9b4c3d3e2f9db3501a18a24ecb91b5dcd5::speedy::SPEEDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ad09db7f-f1c6-49c1-9b2c-2c4208ab6c4c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Shazeteli",
+  "symbol": "SHAZETELI",
+  "decimals": 9,
+  "coin_type": "0x2ff3ef559426cc3760f2e273d283c120c4a66246ab75df5623ab96d9f9284674::shazeteli::SHAZETELI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/43be19b9-9f24-4659-b62e-bc57a09e61ca.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

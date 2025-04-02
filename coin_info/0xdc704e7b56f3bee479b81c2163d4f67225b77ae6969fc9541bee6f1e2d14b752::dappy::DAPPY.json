@@ -1,0 +1,13 @@
+{
+  "name": "DAPPY  SUI",
+  "symbol": "DAPPY",
+  "decimals": 6,
+  "coin_type": "0xdc704e7b56f3bee479b81c2163d4f67225b77ae6969fc9541bee6f1e2d14b752::dappy::DAPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_44_cb6c73af64.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

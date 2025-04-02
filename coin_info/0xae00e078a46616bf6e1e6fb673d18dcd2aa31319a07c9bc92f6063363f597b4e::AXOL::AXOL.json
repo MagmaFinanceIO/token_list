@@ -1,0 +1,13 @@
+{
+  "name": "AXOL",
+  "symbol": "AXOL",
+  "decimals": 9,
+  "coin_type": "0xae00e078a46616bf6e1e6fb673d18dcd2aa31319a07c9bc92f6063363f597b4e::AXOL::AXOL",
+  "pyth_id": "",
+  "birdeyeid": "0xae00e078a46616bf6e1e6fb673d18dcd2aa31319a07c9bc92f6063363f597b4e::AXOL::AXOL",
+  "coin_priority": [],
+  "logo_url": "https://p7op7v4f4nub263xmrqch45p32rkeclriobps4v6nrut5g7q464q.arweave.net/f9z_14XjaB17d2RgI_Ov3qKiCXFDgvlyvmxpPpvw57k",
+  "project_url": "",
+  "coingecko_id": "axol",
+  "is_trusted": true
+}

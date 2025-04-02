@@ -1,0 +1,13 @@
+{
+  "name": "Lollipup",
+  "symbol": "Lollipup",
+  "decimals": 6,
+  "coin_type": "0xd64662c938ca187470d2d7be3008046e0fb6a945bceaa3408f078e5ea8b63a3f::lollipup::LOLLIPUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9442f542-80ec-4697-85fc-40e7e7430d06.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

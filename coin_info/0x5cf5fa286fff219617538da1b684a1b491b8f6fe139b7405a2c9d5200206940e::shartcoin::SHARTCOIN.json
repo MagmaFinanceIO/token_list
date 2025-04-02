@@ -1,0 +1,13 @@
+{
+  "name": "Shartcoin",
+  "symbol": "SHARTCOIN",
+  "decimals": 9,
+  "coin_type": "0x5cf5fa286fff219617538da1b684a1b491b8f6fe139b7405a2c9d5200206940e::shartcoin::SHARTCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmRMHcqTdiKHAktRJpzer3siFgmRBVNGEspMBYdpWRxasW",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Agent Neo",
+  "symbol": "NEO",
+  "decimals": 6,
+  "coin_type": "0x07e4c911b0003178d48cd5a484580232ec5aab5f801578208bddfe80b40b70eb::neo::NEO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Unknown_2_b5740f309d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Gatto",
+  "symbol": "Gatto",
+  "decimals": 9,
+  "coin_type": "0xe3ba010bb6b72b7589d8ff2d14719d05d473c26c5fd27e2484276b6ba84c9247::gatto::GATTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

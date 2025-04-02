@@ -1,0 +1,13 @@
+{
+  "name": "Chill Alpaca",
+  "symbol": "CALPACA",
+  "decimals": 9,
+  "coin_type": "0x7e0d6904ad3912c8bba9cf671207d9a4d1aef1c992525f763cc215daa05538f1::calpaca::CALPACA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/8lyGwzo-GIh2hD7h?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

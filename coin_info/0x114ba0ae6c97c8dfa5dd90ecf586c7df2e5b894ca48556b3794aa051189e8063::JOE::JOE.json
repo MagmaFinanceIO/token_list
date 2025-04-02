@@ -1,0 +1,13 @@
+{
+  "name": "Joe Coin",
+  "symbol": "JOE",
+  "decimals": 2,
+  "coin_type": "0x114ba0ae6c97c8dfa5dd90ecf586c7df2e5b894ca48556b3794aa051189e8063::JOE::JOE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/pjlWNmmfRqh0-dJdrObKD9gvLLqrcp5K-XFNFM_a5NI?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

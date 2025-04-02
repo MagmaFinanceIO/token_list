@@ -1,0 +1,13 @@
+{
+  "name": "Baby dog",
+  "symbol": "BBDOG",
+  "decimals": 2,
+  "coin_type": "0xc21c9582a237d7e8d89a17866239b14a66c4a5b8261ba6ed4c16d96079433f71::bbdog::BBDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/xFDLb3X/1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

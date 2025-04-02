@@ -1,0 +1,13 @@
+{
+  "name": "DonaldTrump",
+  "symbol": "MAGA",
+  "decimals": 6,
+  "coin_type": "0xb341a7ed07449a8f86a0378f3b833eda00d973567d51dbeed92c319d66e33434::maga::MAGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmdebTpGuM5H7CVH8Msy67PbgTdZ3Poz4vNbcgbwxmbuk5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

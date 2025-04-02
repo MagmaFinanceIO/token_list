@@ -1,0 +1,13 @@
+{
+  "name": "Terra Ai",
+  "symbol": "TAI",
+  "decimals": 6,
+  "coin_type": "0xfdb84da0d16878604e1b7b925c0c2acdc647432ffbc6fbcb4d8d1d5e14a133b2::tai::TAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/da92b800-9c14-45fb-b446-3c48bfa50cc8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

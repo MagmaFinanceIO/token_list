@@ -1,0 +1,13 @@
+{
+  "name": "Adeniyius maximus",
+  "symbol": "AM",
+  "decimals": 6,
+  "coin_type": "0x13bbda29431dcd59e5120c137968f071c2c4f4103b1a0cc4f185098443dc4d98::am::AM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_2025_01_01_T201326_527_337d9701c0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Peanut Husbulla on SUI",
+  "symbol": "PHUSB",
+  "decimals": 9,
+  "coin_type": "0xdf6389a172a1126377b6dae66d22a7dbfeee3941ea1d864d8adc29c0f830cdc1::phusb::PHUSB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmNSNoLPL8f4oWPEpj4fWkmA2iMCzcjKGjYiHHAqHr2ufj",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BAPBUL On Sui",
+  "symbol": "BAPBUL",
+  "decimals": 6,
+  "coin_type": "0x9b90ec30683ec6573729c5b68290d0417beff525e12dfb0973509381848c222e::bapbul::BAPBUL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000158851_6da812cf01.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

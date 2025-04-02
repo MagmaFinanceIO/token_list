@@ -1,0 +1,13 @@
+{
+  "name": "Popeye",
+  "symbol": "SPINACH",
+  "decimals": 6,
+  "coin_type": "0x10a20e3c7702f8695e2695bad4dae90686b3449e7757d3c839c52f62a05c3200::spinach::SPINACH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSdG4LtSM11izmJqLGr96PkgUjwL6NeZATfm9TD85zbv5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

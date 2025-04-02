@@ -1,0 +1,13 @@
+{
+  "name": "MUMI",
+  "symbol": "MUMIX",
+  "decimals": 9,
+  "coin_type": "0x3502e6b550dad5a21eb879e0f5e54cda7aeaf3734ea6034b9f229515cfe042f8::mumix::MUMIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

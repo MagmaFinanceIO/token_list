@@ -1,0 +1,13 @@
+{
+  "name": "HOPIUM",
+  "symbol": "HOPIUM",
+  "decimals": 9,
+  "coin_type": "0x971745b140998cd4a0485107e99d21c539a2be3d700fcd77522203404023282e::hopium::HOPIUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/33cfef4b-bc67-4a5b-8bed-98563c7ba730.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pepe's Cat",
+  "symbol": "PIPI",
+  "decimals": 9,
+  "coin_type": "0x49d6068d9f9f0182da3d516c32ad72b455e55b559e5c381ea66c36a3a1ab1acd::pipi::PIPI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Cy8WknH3MZyRQYxQxFVv6PRaviNiCvLKq8n9CUawdLGB.png?size=lg&key=c2553a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

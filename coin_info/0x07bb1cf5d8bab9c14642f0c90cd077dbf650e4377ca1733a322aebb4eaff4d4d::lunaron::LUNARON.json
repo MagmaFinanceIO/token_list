@@ -1,0 +1,13 @@
+{
+  "name": "LUNARON by SuiAI",
+  "symbol": "LUNARON",
+  "decimals": 6,
+  "coin_type": "0x07bb1cf5d8bab9c14642f0c90cd077dbf650e4377ca1733a322aebb4eaff4d4d::lunaron::LUNARON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/lunr_5e1688d0f3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

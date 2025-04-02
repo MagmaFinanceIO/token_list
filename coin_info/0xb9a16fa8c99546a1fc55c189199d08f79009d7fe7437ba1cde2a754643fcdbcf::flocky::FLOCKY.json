@@ -1,0 +1,13 @@
+{
+  "name": "FLOCKY",
+  "symbol": "FLOCKY",
+  "decimals": 9,
+  "coin_type": "0xb9a16fa8c99546a1fc55c189199d08f79009d7fe7437ba1cde2a754643fcdbcf::flocky::FLOCKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9XkR8j3ygnygzAcQaURpyE9e5kDb1gqAbJZxAwzZpump.png?size=lg&key=4dd217",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

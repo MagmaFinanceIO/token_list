@@ -1,0 +1,13 @@
+{
+  "name": "Freaky Lovehound",
+  "symbol": "Freaky",
+  "decimals": 9,
+  "coin_type": "0x9a81894849c052f1b0c41385f8a9ef58edb8b00d5151d55a15d77cfb7a73e11a::freaky::FREAKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/64S7KKw8B1UmZ7oAhT5LjC7PanGYDodUMUWfwZtmpump.png?size=lg&key=4c45da",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

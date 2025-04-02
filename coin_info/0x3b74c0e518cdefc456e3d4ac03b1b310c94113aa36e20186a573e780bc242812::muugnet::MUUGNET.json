@@ -1,0 +1,13 @@
+{
+  "name": "Muugnet",
+  "symbol": "MUUGNET",
+  "decimals": 6,
+  "coin_type": "0x3b74c0e518cdefc456e3d4ac03b1b310c94113aa36e20186a573e780bc242812::muugnet::MUUGNET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_TZU_3xq_Zu_Y_Frri5_Sm_SZSH_Uqy_U_Am_P_Nq_V9_Jb_Ax_HBUC_Pbcv8_89f250833c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

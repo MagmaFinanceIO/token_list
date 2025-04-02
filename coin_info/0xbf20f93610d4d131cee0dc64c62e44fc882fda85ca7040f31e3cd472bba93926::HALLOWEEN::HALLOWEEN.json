@@ -1,0 +1,13 @@
+{
+  "name": "Halloween",
+  "symbol": "HALLOWEEN",
+  "decimals": 9,
+  "coin_type": "0xbf20f93610d4d131cee0dc64c62e44fc882fda85ca7040f31e3cd472bba93926::HALLOWEEN::HALLOWEEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/990/815/large/pierre-armal-le-halloween-copie2.jpg?1729087058",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

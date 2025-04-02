@@ -1,0 +1,13 @@
+{
+  "name": "JESUIS",
+  "symbol": "JESUIS",
+  "decimals": 9,
+  "coin_type": "0xbe3fe65bbeb850d0130b614fa00dd308ae86947de647e3ec60a5a641a62eea41::jesuis::JESUIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0xd74441359aa05b5e5fec916c9bef83eb522682f248822e8105e1b1b4b1b337e6::jesuis::jesuis.png?size=lg&key=dc3dca",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

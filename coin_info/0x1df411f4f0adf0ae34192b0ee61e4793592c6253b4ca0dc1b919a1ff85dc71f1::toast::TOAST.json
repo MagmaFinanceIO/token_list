@@ -1,0 +1,13 @@
+{
+  "name": "Toastie",
+  "symbol": "TOAST",
+  "decimals": 9,
+  "coin_type": "0x1df411f4f0adf0ae34192b0ee61e4793592c6253b4ca0dc1b919a1ff85dc71f1::toast::TOAST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/aaf91f20-de03-4ef6-a0ee-be81a9ce3d6c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuiPhant",
+  "symbol": "SPHANT",
+  "decimals": 9,
+  "coin_type": "0xcc1aeb4ff07602a09bb2faedef7c222d1b8ee91220f9a940373e49b81e10e8f4::sphant::SPHANT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b22f310a-2a7f-4399-bc34-45466f07f7cc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "LACOTE",
+  "symbol": "LACOTE",
+  "decimals": 6,
+  "coin_type": "0xb01cbf9988a737a343d2c06c3028f8b93e39cdb7cd8084d89c2abc34db5377eb::lacote::LACOTE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/xMh4tzw/lacote.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

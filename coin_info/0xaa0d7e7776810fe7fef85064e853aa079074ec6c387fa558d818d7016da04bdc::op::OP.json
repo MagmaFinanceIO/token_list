@@ -1,0 +1,13 @@
+{
+  "name": "OPIUM",
+  "symbol": "OP",
+  "decimals": 9,
+  "coin_type": "0xaa0d7e7776810fe7fef85064e853aa079074ec6c387fa558d818d7016da04bdc::op::OP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

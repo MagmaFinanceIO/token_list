@@ -1,0 +1,13 @@
+{
+  "name": "MOONBAG",
+  "symbol": "BAG",
+  "decimals": 9,
+  "coin_type": "0x56aa67b23279b603d161b6084905671d6670784ec82f811ebc6046d4602ef974::bag::BAG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638887460/EducationHub/photos/full-moon.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

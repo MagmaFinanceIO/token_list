@@ -1,0 +1,13 @@
+{
+  "name": "ThisIsSuiTest",
+  "symbol": "ThisIsSui",
+  "decimals": 9,
+  "coin_type": "0xdb07fcffcd4827d39c40fa33f519a81a7f6f3c6bce0ca3127fce64eb7bad35d2::thisissui::THISISSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

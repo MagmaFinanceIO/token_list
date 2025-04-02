@@ -1,0 +1,13 @@
+{
+  "name": "Snowy Inu",
+  "symbol": "SNOWY",
+  "decimals": 9,
+  "coin_type": "0x1f27879f89ef08f746cb8d66269ffbee1ec59cb8f65a67ba2d026d7e0d80e83d::snowy::SNOWY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/o1oPwTDZ7bmUNGjeNcFtj6wvbMftGdJBGmNUZpXpump.png?size=lg&key=1efbe9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

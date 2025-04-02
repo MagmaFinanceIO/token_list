@@ -1,0 +1,13 @@
+{
+  "name": "Bruce the Sharky",
+  "symbol": "BRUCE",
+  "decimals": 6,
+  "coin_type": "0xf58742b8df1e378d8dc6d847c6ece15beeaa7d00cb4872d8fffc4266a489972f::bruce::BRUCE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmZQFWExhtGNwLbeR4Qpv5T6FcPRQew2WbYrh8Su82xCst",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

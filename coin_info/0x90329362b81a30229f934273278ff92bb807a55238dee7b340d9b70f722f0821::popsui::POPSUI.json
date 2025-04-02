@@ -1,0 +1,13 @@
+{
+  "name": "POPCAT SUI",
+  "symbol": "POPSUI",
+  "decimals": 6,
+  "coin_type": "0x90329362b81a30229f934273278ff92bb807a55238dee7b340d9b70f722f0821::popsui::POPSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_popcatsui_2_b9361c2744.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

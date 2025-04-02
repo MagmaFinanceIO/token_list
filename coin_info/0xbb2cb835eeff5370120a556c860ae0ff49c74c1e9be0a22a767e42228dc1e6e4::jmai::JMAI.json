@@ -1,0 +1,13 @@
+{
+  "name": "JOKEMASTER AI by SuiAI",
+  "symbol": "JMAI",
+  "decimals": 6,
+  "coin_type": "0xbb2cb835eeff5370120a556c860ae0ff49c74c1e9be0a22a767e42228dc1e6e4::jmai::JMAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/output_25d5d014f0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

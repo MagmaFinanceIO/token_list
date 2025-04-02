@@ -1,0 +1,13 @@
+{
+  "name": "The SUI God",
+  "symbol": "God",
+  "decimals": 6,
+  "coin_type": "0x9769b8ad0662b4a09596656fa5216c664f6b5d70edf83336118639a8ff5beaca::god::GOD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5178_79dd3109e7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

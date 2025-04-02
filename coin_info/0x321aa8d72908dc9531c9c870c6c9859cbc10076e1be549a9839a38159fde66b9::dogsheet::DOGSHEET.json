@@ -1,0 +1,13 @@
+{
+  "name": "Dogsheetcoin",
+  "symbol": "Dogsheet",
+  "decimals": 9,
+  "coin_type": "0x321aa8d72908dc9531c9c870c6c9859cbc10076e1be549a9839a38159fde66b9::dogsheet::DOGSHEET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/99XLnpFF9UAJcB8bY1a9mmnVebSgLiyPiPjx8GY2pump.png?size=lg&key=daaba7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

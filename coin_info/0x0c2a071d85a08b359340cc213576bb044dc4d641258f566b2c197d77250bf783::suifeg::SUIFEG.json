@@ -1,0 +1,13 @@
+{
+  "name": "SUI FEG",
+  "symbol": "SUIFEG",
+  "decimals": 6,
+  "coin_type": "0x0c2a071d85a08b359340cc213576bb044dc4d641258f566b2c197d77250bf783::suifeg::SUIFEG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000009763_4fb28b1f18.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

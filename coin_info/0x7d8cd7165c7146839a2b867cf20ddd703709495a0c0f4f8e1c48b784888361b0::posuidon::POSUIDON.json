@@ -1,0 +1,13 @@
+{
+  "name": "posuidon",
+  "symbol": "POSUIDON",
+  "decimals": 6,
+  "coin_type": "0x7d8cd7165c7146839a2b867cf20ddd703709495a0c0f4f8e1c48b784888361b0::posuidon::POSUIDON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0013_b65d59f024.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

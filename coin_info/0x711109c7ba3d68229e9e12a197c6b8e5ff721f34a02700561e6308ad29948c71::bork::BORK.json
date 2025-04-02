@@ -1,0 +1,13 @@
+{
+  "name": "Bork",
+  "symbol": "BORK",
+  "decimals": 6,
+  "coin_type": "0x711109c7ba3d68229e9e12a197c6b8e5ff721f34a02700561e6308ad29948c71::bork::BORK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/KN_Hq_ODJ_2_400x400_5dc0a122f3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Freddy Sui Bear",
+  "symbol": "Freddy",
+  "decimals": 6,
+  "coin_type": "0x330a7087fbc63fd6fc1d0c12a458bed47fb82017da5444a31a6c7c47bfa6b0bb::freddy::FREDDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Fsml_J_Yo_K_400x4001_5193b9cc6b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

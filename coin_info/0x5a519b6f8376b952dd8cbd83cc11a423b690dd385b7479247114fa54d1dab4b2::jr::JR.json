@@ -1,0 +1,13 @@
+{
+  "name": "Jordan",
+  "symbol": "JR",
+  "decimals": 9,
+  "coin_type": "0x5a519b6f8376b952dd8cbd83cc11a423b690dd385b7479247114fa54d1dab4b2::jr::JR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

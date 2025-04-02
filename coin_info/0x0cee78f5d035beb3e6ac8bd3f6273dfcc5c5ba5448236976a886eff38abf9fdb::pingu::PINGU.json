@@ -1,0 +1,13 @@
+{
+  "name": "Pingu",
+  "symbol": "PINGU",
+  "decimals": 9,
+  "coin_type": "0x0cee78f5d035beb3e6ac8bd3f6273dfcc5c5ba5448236976a886eff38abf9fdb::pingu::PINGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/30a45e79-188a-4e7f-a831-adee6a01da4f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

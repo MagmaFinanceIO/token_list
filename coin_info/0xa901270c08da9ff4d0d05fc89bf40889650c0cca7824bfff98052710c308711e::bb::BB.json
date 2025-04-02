@@ -1,0 +1,13 @@
+{
+  "name": "ByteBeast",
+  "symbol": "BB",
+  "decimals": 9,
+  "coin_type": "0xa901270c08da9ff4d0d05fc89bf40889650c0cca7824bfff98052710c308711e::bb::BB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c2dfcd04-8163-41fd-a9c6-6647e6bd8086.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

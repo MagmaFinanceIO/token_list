@@ -1,0 +1,13 @@
+{
+  "name": "Chicken Crab",
+  "symbol": "CHAB",
+  "decimals": 6,
+  "coin_type": "0x87dfdbc44fc9d647d0fb9618a84b2e452b0fd97ddde55f038ce0055d6d82f72b::chab::CHAB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_2_1a90921034.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

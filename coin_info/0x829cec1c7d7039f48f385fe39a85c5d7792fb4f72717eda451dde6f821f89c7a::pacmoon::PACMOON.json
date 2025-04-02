@@ -1,0 +1,13 @@
+{
+  "name": "PacMoon",
+  "symbol": "PACMOON",
+  "decimals": 9,
+  "coin_type": "0x829cec1c7d7039f48f385fe39a85c5d7792fb4f72717eda451dde6f821f89c7a::pacmoon::PACMOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/463dbeaa-581c-4ee0-955a-8c234be186c7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DropAi on sui by SuiAI",
+  "symbol": "DAIS",
+  "decimals": 6,
+  "coin_type": "0x477fe9f9259c4b9eb617169c35d20af83aa68f867938df68e8f55b3bcff839cc::dais::DAIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/unexpected_af01d3b07d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

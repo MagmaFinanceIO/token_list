@@ -1,0 +1,13 @@
+{
+  "name": "bztf",
+  "symbol": "bztf",
+  "decimals": 6,
+  "coin_type": "0xfe093eb0bd34c145839a64ca3a32f15986f738dedea6bf3db38710858a718bd8::bztf::BZTF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AMO",
+  "symbol": "AMO",
+  "decimals": 9,
+  "coin_type": "0xc4fd56c35d91aad0c7033ca7d6c290d2e2ff41cd8454d02b7c7ae349bcfc208f::amo::AMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Hf4TjknrQqT2aAfJiJWmQB4uDhx5zKbUG1WV6E2bpump.png?size=lg&key=05999a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

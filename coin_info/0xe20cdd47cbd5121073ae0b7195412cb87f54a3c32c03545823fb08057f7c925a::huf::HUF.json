@@ -1,0 +1,13 @@
+{
+  "name": "Huckleberry Fish",
+  "symbol": "HUF",
+  "decimals": 9,
+  "coin_type": "0xe20cdd47cbd5121073ae0b7195412cb87f54a3c32c03545823fb08057f7c925a::huf::HUF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/414b2050-7321-4ec9-9448-5d2736c2d0a4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

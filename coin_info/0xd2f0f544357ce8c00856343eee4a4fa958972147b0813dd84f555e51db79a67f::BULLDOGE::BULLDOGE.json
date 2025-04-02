@@ -1,0 +1,13 @@
+{
+  "name": "Bull + Doge",
+  "symbol": "BULLDOGE",
+  "decimals": 9,
+  "coin_type": "0xd2f0f544357ce8c00856343eee4a4fa958972147b0813dd84f555e51db79a67f::BULLDOGE::BULLDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Hdk3oDFxAW3Ykb2TBDgR4Gm1y5asq54hWnBeeyNiZLbs.png?size=xl&key=9ce413",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

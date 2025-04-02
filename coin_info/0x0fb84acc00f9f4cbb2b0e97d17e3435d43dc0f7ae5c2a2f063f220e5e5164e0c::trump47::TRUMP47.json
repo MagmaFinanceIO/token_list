@@ -1,0 +1,13 @@
+{
+  "name": "Official Trump 47",
+  "symbol": "TRUMP47",
+  "decimals": 6,
+  "coin_type": "0x0fb84acc00f9f4cbb2b0e97d17e3435d43dc0f7ae5c2a2f063f220e5e5164e0c::trump47::TRUMP47",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4995_cbf1c48b0b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

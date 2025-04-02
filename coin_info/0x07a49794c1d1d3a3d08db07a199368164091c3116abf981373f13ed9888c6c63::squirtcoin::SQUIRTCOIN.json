@@ -1,0 +1,13 @@
+{
+  "name": "Squirtcoin",
+  "symbol": "Squirtcoin",
+  "decimals": 9,
+  "coin_type": "0x07a49794c1d1d3a3d08db07a199368164091c3116abf981373f13ed9888c6c63::squirtcoin::SQUIRTCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BsULE6epuvxE5vjjFtP7gxm2aajug4aaxTK8higypump.png?size=lg&key=e258ff",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

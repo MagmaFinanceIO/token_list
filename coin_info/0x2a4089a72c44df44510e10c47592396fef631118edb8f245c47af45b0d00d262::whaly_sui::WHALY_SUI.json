@@ -1,0 +1,13 @@
+{
+  "name": "WHALY SUI",
+  "symbol": "WHALY SUI",
+  "decimals": 9,
+  "coin_type": "0x2a4089a72c44df44510e10c47592396fef631118edb8f245c47af45b0d00d262::whaly_sui::WHALY_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/15f42b9e-a7d9-49e5-8f34-8dcbc9c1e886.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

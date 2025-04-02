@@ -1,0 +1,13 @@
+{
+  "name": "Town 🌆",
+  "symbol": "Town",
+  "decimals": 9,
+  "coin_type": "0xc8b6a2be6cbc4e984aa9678a5c257bfee5f9be41c4144752765a77951f72b111::town::TOWN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/New_York_City_%28New_York%2C_USA%29%2C_Empire_State_Building_--_2012_--_6448.jpg/1200px-New_York_City_%28New_York%2C_USA%29%2C_Empire_State_Building_--_2012_--_6448.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

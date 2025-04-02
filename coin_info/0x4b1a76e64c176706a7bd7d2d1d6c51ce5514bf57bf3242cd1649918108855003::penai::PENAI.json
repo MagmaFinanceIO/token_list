@@ -1,0 +1,13 @@
+{
+  "name": "Penguin AI On Sui",
+  "symbol": "PENAI",
+  "decimals": 9,
+  "coin_type": "0x4b1a76e64c176706a7bd7d2d1d6c51ce5514bf57bf3242cd1649918108855003::penai::PENAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c9336773-a1f7-4f54-b60a-6ceefeb504aa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

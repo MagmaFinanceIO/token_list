@@ -1,0 +1,13 @@
+{
+  "name": "Hikaru by SuiAI",
+  "symbol": "HIKARU",
+  "decimals": 6,
+  "coin_type": "0x597f61c7571a963e321be095813f60c713ff35ddaa7089398bfb7f247ed8ac9c::hikaru::HIKARU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/RK_Hl7_VP_400x400_a90e5d0c46.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

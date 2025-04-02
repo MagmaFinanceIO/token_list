@@ -1,0 +1,13 @@
+{
+  "name": "SHIROKOAI",
+  "symbol": "SAI",
+  "decimals": 9,
+  "coin_type": "0x7b9307163f6888fc89ced68a99c3cf9202aa8b96d2546a466113dc4b37f653b3::sai::SAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/870cc800-0c3a-4902-9f7d-04ccfc901d75.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

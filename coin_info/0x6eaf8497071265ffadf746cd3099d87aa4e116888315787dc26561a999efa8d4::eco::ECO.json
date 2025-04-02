@@ -1,0 +1,13 @@
+{
+  "name": "Econatura -> Cow.ID -> (b)-ILL GATE-(s)",
+  "symbol": "ECO",
+  "decimals": 9,
+  "coin_type": "0x6eaf8497071265ffadf746cd3099d87aa4e116888315787dc26561a999efa8d4::eco::ECO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://app.magmafinance.io/api/logo/0x6eaf8497071265ffadf746cd3099d87aa4e116888315787dc26561a999efa8d4::eco::ECO.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

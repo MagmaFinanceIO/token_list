@@ -1,0 +1,13 @@
+{
+  "name": "Cat in a soc",
+  "symbol": "Soc",
+  "decimals": 6,
+  "coin_type": "0x51bd75eb7a4414f06dd89e7722a1dec3818ccc02a060518c4c64e59a163f3dbb::soc::SOC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0563_2e588ec69e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

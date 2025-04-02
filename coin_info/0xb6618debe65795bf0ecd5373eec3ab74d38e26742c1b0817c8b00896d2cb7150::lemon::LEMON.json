@@ -1,0 +1,13 @@
+{
+  "name": "Lemon",
+  "symbol": "LEMON",
+  "decimals": 6,
+  "coin_type": "0xb6618debe65795bf0ecd5373eec3ab74d38e26742c1b0817c8b00896d2cb7150::lemon::LEMON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731903121855.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

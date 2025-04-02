@@ -1,0 +1,13 @@
+{
+  "name": "Just a chill guy wif hat",
+  "symbol": "CHILLWIFHAT",
+  "decimals": 6,
+  "coin_type": "0x246f58ec3b02879d60a413c651d898beba64e812a2489eaa0fd444adcc93fe45::chillwifhat::CHILLWIFHAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9d0e0769-c1c2-449c-b05a-f231dd62f4ce.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

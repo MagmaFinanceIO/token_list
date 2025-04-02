@@ -1,0 +1,13 @@
+{
+  "name": "Hachikun Inu",
+  "symbol": "HACHI",
+  "decimals": 6,
+  "coin_type": "0x1eb298aab24109f29be453988b60b63d835c8d19785c85a136c1432f01606ea9::hachi::HACHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/APTOS_1_3e16a0662f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FLAPPY",
+  "symbol": "FLAPPY",
+  "decimals": 9,
+  "coin_type": "0xa223abd8e2704b63675dc5509c0a273b01a695fbb6e8fdcb72e86944c237ae6f::flappy::FLAPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BceBNYA5piejo5th9B1aQedCP1PmcaP7bN36F4cvpump.png?size=lg&key=fba31a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

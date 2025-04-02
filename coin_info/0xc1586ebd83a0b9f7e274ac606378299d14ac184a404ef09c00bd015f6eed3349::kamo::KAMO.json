@@ -1,0 +1,13 @@
+{
+  "name": "KAMO",
+  "symbol": "KAMO",
+  "decimals": 9,
+  "coin_type": "0xc1586ebd83a0b9f7e274ac606378299d14ac184a404ef09c00bd015f6eed3349::kamo::KAMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Hf4TjknrQqT2aAfJiJWmQB4uDhx5zKbUG1WV6E2bpump.png?size=lg&key=05999a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

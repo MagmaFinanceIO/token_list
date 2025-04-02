@@ -1,0 +1,13 @@
+{
+  "name": "GODDOG",
+  "symbol": "oooOOO",
+  "decimals": 8,
+  "coin_type": "0x1d5542720336ef7115b4454f23b3080fa6a542710de330f2c012a3a20cabe6a8::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

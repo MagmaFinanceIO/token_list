@@ -1,0 +1,13 @@
+{
+  "name": "kindi on sui",
+  "symbol": "KINDI",
+  "decimals": 6,
+  "coin_type": "0x6bf7c187f83d5df6607568b1a40993a93e7a75c701952c4f392bc335a8966646::kindi::KINDI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Z4hnb_UL_Rzjc_Yv_KV_8cqn_Cji3i_WGPC_1_Qy_L_Cs_Vgv_QE_16_Xqr_3f4a041327.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

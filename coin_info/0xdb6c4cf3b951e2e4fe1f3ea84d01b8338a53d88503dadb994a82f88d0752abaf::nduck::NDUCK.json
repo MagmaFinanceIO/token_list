@@ -1,0 +1,13 @@
+{
+  "name": "Nasduck",
+  "symbol": "NDUCK",
+  "decimals": 6,
+  "coin_type": "0xdb6c4cf3b951e2e4fe1f3ea84d01b8338a53d88503dadb994a82f88d0752abaf::nduck::NDUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9202c5f1-4ac1-4d99-9ecb-d6c521160af2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "KRABS ON SUI",
+  "symbol": "KRABSUI",
+  "decimals": 6,
+  "coin_type": "0x338702f4a98ed631e8248d3bcbc9760a948139dbbff85d02aa949ccaa3802b80::krabsui::KRABSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/krabs_500_500_61d263633d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

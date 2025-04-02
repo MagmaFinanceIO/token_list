@@ -1,0 +1,13 @@
+{
+  "name": "Suiduckz Coin",
+  "symbol": "SDC",
+  "decimals": 6,
+  "coin_type": "0x69d9ec94e8832a405abcfbb0231a2c08e631f6423f0335d5674d820ade178a58::sdc::SDC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Sui_Duckz_Coin_f3ef8c51ff.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

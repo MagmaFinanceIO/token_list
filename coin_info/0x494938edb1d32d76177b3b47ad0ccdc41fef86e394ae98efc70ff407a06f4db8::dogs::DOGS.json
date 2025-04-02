@@ -1,0 +1,13 @@
+{
+  "name": "Dogs on SUI",
+  "symbol": "Dogs",
+  "decimals": 6,
+  "coin_type": "0x494938edb1d32d76177b3b47ad0ccdc41fef86e394ae98efc70ff407a06f4db8::dogs::DOGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_09_20_14_10_39_241925463e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

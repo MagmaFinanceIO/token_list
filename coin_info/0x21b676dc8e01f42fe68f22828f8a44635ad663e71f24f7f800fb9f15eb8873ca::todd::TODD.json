@@ -1,0 +1,13 @@
+{
+  "name": "Suiper Todd AI",
+  "symbol": "TODD",
+  "decimals": 9,
+  "coin_type": "0x21b676dc8e01f42fe68f22828f8a44635ad663e71f24f7f800fb9f15eb8873ca::todd::TODD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/30b5cda5-f778-4eb3-8703-0cd428bddeeb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

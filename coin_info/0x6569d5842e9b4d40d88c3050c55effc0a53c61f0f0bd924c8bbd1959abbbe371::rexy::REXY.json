@@ -1,0 +1,13 @@
+{
+  "name": "The Dino Rexy",
+  "symbol": "Rexy",
+  "decimals": 9,
+  "coin_type": "0x6569d5842e9b4d40d88c3050c55effc0a53c61f0f0bd924c8bbd1959abbbe371::rexy::REXY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/03a652f6-439a-4d0a-a3f9-f13d8c1d90cb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

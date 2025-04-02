@@ -1,0 +1,13 @@
+{
+  "name": "Pepe's Cat",
+  "symbol": "PAT",
+  "decimals": 9,
+  "coin_type": "0xd72ebcb223c6fc1d87062823f75d5c75ed3b53f7ad46846ed33748468b5c843d::pat::PAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmTZ3MN2UcZCgcEiX3DHpw5u5n5GPzdFJbQezJdiPTcyui",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

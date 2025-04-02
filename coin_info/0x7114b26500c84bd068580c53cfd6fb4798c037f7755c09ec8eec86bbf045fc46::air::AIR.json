@@ -1,0 +1,13 @@
+{
+  "name": "AIRINE",
+  "symbol": "AIR",
+  "decimals": 6,
+  "coin_type": "0x7114b26500c84bd068580c53cfd6fb4798c037f7755c09ec8eec86bbf045fc46::air::AIR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ec9385c4_ba4a_4edd_8d18_a1fcfc7dc976_55cbccc947.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

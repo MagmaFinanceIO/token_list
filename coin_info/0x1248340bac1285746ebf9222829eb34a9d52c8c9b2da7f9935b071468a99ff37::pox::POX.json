@@ -1,0 +1,13 @@
+{
+  "name": "PoxOnSui",
+  "symbol": "Pox",
+  "decimals": 6,
+  "coin_type": "0x1248340bac1285746ebf9222829eb34a9d52c8c9b2da7f9935b071468a99ff37::pox::POX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Monkey_Pox_Sui_a7b1048191.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

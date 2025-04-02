@@ -1,0 +1,13 @@
+{
+  "name": "SUI Crazy Krill",
+  "symbol": "Crazy Krill",
+  "decimals": 9,
+  "coin_type": "0x5209c58044f9a6537f55b97cc48a5b9c4dc2067ecac58629dc16d7a1d518a051::crazy_krill::CRAZY_KRILL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8305b0a2-c75b-43c2-af99-3f8ac2df9bd8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

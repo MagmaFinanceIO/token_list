@@ -1,0 +1,13 @@
+{
+  "name": "TEST COIN",
+  "symbol": "TC",
+  "decimals": 9,
+  "coin_type": "0x0ec9498d48703f2e88b5e93123800085695d14be2c91f9730aa68eb7dae504da::tc::TC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/375e8c7f-ae55-4ae0-8a8a-0241c093fa0a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

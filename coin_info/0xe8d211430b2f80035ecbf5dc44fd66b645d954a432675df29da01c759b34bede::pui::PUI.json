@@ -1,0 +1,13 @@
+{
+  "name": "PEPE SUI",
+  "symbol": "PUI",
+  "decimals": 9,
+  "coin_type": "0xe8d211430b2f80035ecbf5dc44fd66b645d954a432675df29da01c759b34bede::pui::PUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3256ec97-5b04-4d31-b25b-b21085d497e8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

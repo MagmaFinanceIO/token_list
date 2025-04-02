@@ -1,0 +1,13 @@
+{
+  "name": "TWERKSUI",
+  "symbol": "TWERKSUI",
+  "decimals": 9,
+  "coin_type": "0xd2ef7810d2477c4849985b570b0419dcde5af800591e5cd1af81b79ad920d3ad::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

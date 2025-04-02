@@ -1,0 +1,13 @@
+{
+  "name": "SuiSphere",
+  "symbol": "SSPH",
+  "decimals": 9,
+  "coin_type": "0xa96dbff8285e103071ec44fc86cfe820cc19553f03be9bd982890e4202ac4063::ssph::SSPH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

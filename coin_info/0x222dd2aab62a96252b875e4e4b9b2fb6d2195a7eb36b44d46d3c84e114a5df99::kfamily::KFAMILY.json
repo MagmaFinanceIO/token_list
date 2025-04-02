@@ -1,0 +1,13 @@
+{
+  "name": "Official Kardashians",
+  "symbol": "KFAMILY",
+  "decimals": 9,
+  "coin_type": "0x222dd2aab62a96252b875e4e4b9b2fb6d2195a7eb36b44d46d3c84e114a5df99::kfamily::KFAMILY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/E8sBw7Ty8GXB7pdme2YYKKNnpY1swns2uzD9pdXaNkAm.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

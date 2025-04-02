@@ -1,0 +1,13 @@
+{
+  "name": "Chinese Fuddies",
+  "symbol": "CFUD",
+  "decimals": 6,
+  "coin_type": "0x633b6685db7f75da254cd381385da84411d156936a9b2c2411c4e7ba44e636ab::cfud::CFUD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_28_T211459_105_b057a520d5.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

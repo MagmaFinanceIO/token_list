@@ -1,0 +1,13 @@
+{
+  "name": "Roger Sui",
+  "symbol": "ROGER",
+  "decimals": 6,
+  "coin_type": "0xa96b06a34560f9526a83b0839b0167d9decfe21c0434a91e77d7f7d956109a85::roger::ROGER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://belaunchio.infura-ipfs.io/ipfs/QmePekN6Y2jJknQNBZkJjj3pGmR2vbtBB5hkerpJCpm1Jj",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

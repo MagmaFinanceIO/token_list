@@ -1,0 +1,13 @@
+{
+  "name": "GLOOMS2",
+  "symbol": "GLOOMS2",
+  "decimals": 6,
+  "coin_type": "0x8dcfd1623ea295d9da1c9593929e80947704b6bb28b9848a5b91ce98adf123ae::glooms::GLOOMS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://red-rainy-catfish-636.mypinata.cloud/ipfs/QmY8oLfuXAzE9c1LKgaFAEsVNaektL4W82pLRDX4ChY1KZ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

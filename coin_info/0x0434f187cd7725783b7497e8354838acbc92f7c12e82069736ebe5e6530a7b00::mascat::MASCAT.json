@@ -1,0 +1,13 @@
+{
+  "name": "Mask Cat",
+  "symbol": "MASCAT",
+  "decimals": 6,
+  "coin_type": "0x0434f187cd7725783b7497e8354838acbc92f7c12e82069736ebe5e6530a7b00::mascat::MASCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000020410_e53eb88343.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

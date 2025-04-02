@@ -1,0 +1,13 @@
+{
+  "name": "Goatseus Wiffimus",
+  "symbol": "GOATWIF",
+  "decimals": 9,
+  "coin_type": "0x82f32337992ea44dbc7fed19b0d5a07568f29659c5333c54bb8293747fbd3eb1::goatwif::GOATWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmNQCYKwuSno6a9i2wZH1V2WM6iRDzLBmBeM2QNrbigKDS",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

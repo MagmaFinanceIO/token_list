@@ -1,0 +1,13 @@
+{
+  "name": "Non-Playable Coin",
+  "symbol": "NPC",
+  "decimals": 9,
+  "coin_type": "0x8b8f02b2b76c5ac0118feba58e357d1ba79fc3345a85b9d088a8b3ed5e557031::npc::NPC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8f282f63-4f51-4b7f-b6c9-d847676e6b08.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

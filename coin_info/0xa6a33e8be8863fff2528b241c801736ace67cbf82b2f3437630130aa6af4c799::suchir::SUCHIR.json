@@ -1,0 +1,13 @@
+{
+  "name": "JUSTICE FOR SUCHIR",
+  "symbol": "SUCHIR",
+  "decimals": 9,
+  "coin_type": "0xa6a33e8be8863fff2528b241c801736ace67cbf82b2f3437630130aa6af4c799::suchir::SUCHIR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cbfc0986-48cc-40c1-90f4-33d4a2057540.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

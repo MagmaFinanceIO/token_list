@@ -1,0 +1,13 @@
+{
+  "name": "GAL",
+  "symbol": "GAL",
+  "decimals": 9,
+  "coin_type": "0x002e8dc0550b6173909bfb293c87955fe37503371397b4106f0277c844ce23a8::GAL::GAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

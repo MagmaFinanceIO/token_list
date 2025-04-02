@@ -1,0 +1,13 @@
+{
+  "name": "Sui BTC",
+  "symbol": "SBC",
+  "decimals": 9,
+  "coin_type": "0xc6dab3d42667e677e89d03af18b294839074548860ad739e9eca95bf954e1b2c::sbc::SBC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c16ae36d-ce20-4ee7-9968-6a476214e569.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

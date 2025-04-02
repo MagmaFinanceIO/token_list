@@ -1,0 +1,13 @@
+{
+  "name": "Being_AI",
+  "symbol": "BEINGAI",
+  "decimals": 9,
+  "coin_type": "0xf0fce0562a9bc656bb8e4a065b4605621ae1be82d455984100ff390a90bc305f::beingai::BEINGAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FdzVFSP9KX58GzpJywdqhAmADr3XTEypawHyenShpump.png?size=lg&key=b2fd18",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

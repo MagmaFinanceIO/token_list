@@ -1,0 +1,13 @@
+{
+  "name": "GIGA SUI CHAD",
+  "symbol": "CHAD",
+  "decimals": 6,
+  "coin_type": "0x683a67bde693f80634669f74e46b53c6152e95d3504d2cd21ef1478e73c64581::chad::CHAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5762_ed54cc2627.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

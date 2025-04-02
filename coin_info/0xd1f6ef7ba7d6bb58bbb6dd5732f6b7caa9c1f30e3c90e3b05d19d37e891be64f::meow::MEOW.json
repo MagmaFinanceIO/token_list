@@ -1,0 +1,13 @@
+{
+  "name": "Mew Mew",
+  "symbol": "MEOW",
+  "decimals": 9,
+  "coin_type": "0xd1f6ef7ba7d6bb58bbb6dd5732f6b7caa9c1f30e3c90e3b05d19d37e891be64f::meow::MEOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://aquamarine-giant-muskox-172.mypinata.cloud/ipfs/QmZdVZMmyCfaCXgEWcJ3jsWRzxFWdN38qYUSHxHuoxzJi2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

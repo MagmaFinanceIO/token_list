@@ -1,0 +1,13 @@
+{
+  "name": "Trumpet",
+  "symbol": "TRT",
+  "decimals": 9,
+  "coin_type": "0x040e8c993bc853f316da534f9adf2d894fbcaa15eb5758afdd6989c217567077::trt::TRT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/00148bc1-799a-49f6-b19f-6e4a3e84a6f5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TOBBY DOG",
+  "symbol": "TOBBY",
+  "decimals": 9,
+  "coin_type": "0x0d2c45a66abb0e6a4111271d4f27244e483d90a65200ed455122626ef5adef9f::tobby::TOBBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/E3pio16HbpSRjekcj78PJWe5jmKRzCDcWEFMT7APpump.png?size=lg&key=5e1595",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

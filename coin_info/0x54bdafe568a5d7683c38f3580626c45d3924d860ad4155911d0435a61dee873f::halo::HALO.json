@@ -1,0 +1,13 @@
+{
+  "name": "$HALO SCI",
+  "symbol": "HALO",
+  "decimals": 6,
+  "coin_type": "0x54bdafe568a5d7683c38f3580626c45d3924d860ad4155911d0435a61dee873f::halo::HALO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_6048771063829087752_x_4848b88e11.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MOODENG BONK",
+  "symbol": "MOOBONK",
+  "decimals": 9,
+  "coin_type": "0x61b34bef99971fa2539c643178ff309e57e4d1b6c872f3fca9f45e591901abd3::moobonk::MOOBONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/57bcbe08-cc93-41e7-bbb1-01e7d97bd734.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

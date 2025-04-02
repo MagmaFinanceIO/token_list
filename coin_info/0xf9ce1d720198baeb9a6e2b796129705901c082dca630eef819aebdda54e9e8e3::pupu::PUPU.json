@@ -1,0 +1,13 @@
+{
+  "name": "Pepe’s Dog",
+  "symbol": "PUPU",
+  "decimals": 9,
+  "coin_type": "0xf9ce1d720198baeb9a6e2b796129705901c082dca630eef819aebdda54e9e8e3::pupu::PUPU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/708efc9e-bcb0-4d09-98a2-6aa17be6820f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

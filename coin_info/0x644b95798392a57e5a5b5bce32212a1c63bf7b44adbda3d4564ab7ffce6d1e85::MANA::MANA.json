@@ -1,0 +1,13 @@
+{
+  "name": "MANA",
+  "symbol": "MANA",
+  "decimals": 9,
+  "coin_type": "0x644b95798392a57e5a5b5bce32212a1c63bf7b44adbda3d4564ab7ffce6d1e85::MANA::MANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

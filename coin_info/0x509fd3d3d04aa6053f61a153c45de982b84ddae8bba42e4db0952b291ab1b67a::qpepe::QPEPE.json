@@ -1,0 +1,13 @@
+{
+  "name": "Quantum Pepe",
+  "symbol": "QPEPE",
+  "decimals": 9,
+  "coin_type": "0x509fd3d3d04aa6053f61a153c45de982b84ddae8bba42e4db0952b291ab1b67a::qpepe::QPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/G6rxu4sKjowaYFTidnajvtgGhNvY2FwkN6wdcswzpump.png?size=lg&key=1516bf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

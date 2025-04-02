@@ -1,0 +1,13 @@
+{
+  "name": "ALCHEMIST",
+  "symbol": "ALCHEMIST",
+  "decimals": 9,
+  "coin_type": "0xf3142f5c1fac0b5a5dd2c0ba21b66206e094e06ebfc10432d1360e6818c1c575::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

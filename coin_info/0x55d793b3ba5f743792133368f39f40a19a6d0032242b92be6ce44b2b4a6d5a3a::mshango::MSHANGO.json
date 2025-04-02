@@ -1,0 +1,13 @@
+{
+  "name": "New Disney Lion",
+  "symbol": "MSHANGO",
+  "decimals": 9,
+  "coin_type": "0x55d793b3ba5f743792133368f39f40a19a6d0032242b92be6ce44b2b4a6d5a3a::mshango::MSHANGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xd78aabb9c309a50a4c1676f2d5334d51c0b7fcd2.png?size=lg&key=bbe26b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

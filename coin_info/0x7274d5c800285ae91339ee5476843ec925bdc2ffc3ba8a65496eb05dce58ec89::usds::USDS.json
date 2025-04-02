@@ -1,0 +1,13 @@
+{
+  "name": "United States Doge Services",
+  "symbol": "USDS",
+  "decimals": 9,
+  "coin_type": "0x7274d5c800285ae91339ee5476843ec925bdc2ffc3ba8a65496eb05dce58ec89::usds::USDS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2rsUYkLdkbkxGZHtYR4WFA7LozRjXCDHqgYjjED5pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

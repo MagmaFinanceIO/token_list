@@ -1,0 +1,13 @@
+{
+  "name": "Bogus",
+  "symbol": "BOGUS",
+  "decimals": 9,
+  "coin_type": "0x20e92c5dcfbf12258087b1be240d532ebc88dda1537361fecc5bcd4d72fbe3ba::bogus::BOGUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0xed1497e973f43037d63479622b614dbe6741ca9b.png?size=xl&key=85b832",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

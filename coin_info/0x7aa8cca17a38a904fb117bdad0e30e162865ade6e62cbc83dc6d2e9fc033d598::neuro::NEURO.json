@@ -1,0 +1,13 @@
+{
+  "name": "Neuromorphic Computing",
+  "symbol": "Neuro",
+  "decimals": 9,
+  "coin_type": "0x7aa8cca17a38a904fb117bdad0e30e162865ade6e62cbc83dc6d2e9fc033d598::neuro::NEURO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DPbSA2jf8Mqpc59upHUA29zr8ZdtP4mZMaz95k7wpump.png?size=lg&key=59862d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

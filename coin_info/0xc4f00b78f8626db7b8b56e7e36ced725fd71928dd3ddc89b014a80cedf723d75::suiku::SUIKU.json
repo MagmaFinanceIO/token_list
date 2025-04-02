@@ -1,0 +1,13 @@
+{
+  "name": "SUIKU on SUI",
+  "symbol": "SUIKU",
+  "decimals": 6,
+  "coin_type": "0xc4f00b78f8626db7b8b56e7e36ced725fd71928dd3ddc89b014a80cedf723d75::suiku::SUIKU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/di_RC_Aw_Z4_400x400_b3c09f673e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CHEERY CRAB",
+  "symbol": "CCRB",
+  "decimals": 6,
+  "coin_type": "0xc3213a779fcd9a3e9d991ffb78845bc33f6a1b4f001d9bffdeb814b3771ce569::ccrb::CCRB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_21_025305650_3ae154515e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

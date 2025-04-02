@@ -1,0 +1,13 @@
+{
+  "name": "OSIRIMOCK",
+  "symbol": "OSIRIMOCKS",
+  "decimals": 9,
+  "coin_type": "0xc0d49d930b895ebd837be0ad397cfcf6bf70580d1c16e31c467d5a69a19f49bf::osirimocks::OSIRIMOCKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

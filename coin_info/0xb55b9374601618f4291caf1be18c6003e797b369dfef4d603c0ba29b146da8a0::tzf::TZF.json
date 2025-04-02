@@ -1,0 +1,13 @@
+{
+  "name": "tzf",
+  "symbol": "tzf",
+  "decimals": 6,
+  "coin_type": "0xb55b9374601618f4291caf1be18c6003e797b369dfef4d603c0ba29b146da8a0::tzf::TZF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

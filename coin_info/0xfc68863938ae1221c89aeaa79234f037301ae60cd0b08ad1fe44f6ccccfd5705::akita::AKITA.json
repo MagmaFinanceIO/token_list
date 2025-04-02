@@ -1,0 +1,13 @@
+{
+  "name": "AKITA on SUI",
+  "symbol": "AKITA",
+  "decimals": 6,
+  "coin_type": "0xfc68863938ae1221c89aeaa79234f037301ae60cd0b08ad1fe44f6ccccfd5705::akita::AKITA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Gbzi0we_Ww_AM_2_CLD_22c0ac86e5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

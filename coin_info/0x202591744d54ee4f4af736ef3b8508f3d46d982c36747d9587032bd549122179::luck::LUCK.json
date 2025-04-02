@@ -1,0 +1,15 @@
+{
+  "name": "LuckyStar",
+  "symbol": "LUCK",
+  "decimals": 9,
+  "coin_type": "0x202591744d54ee4f4af736ef3b8508f3d46d982c36747d9587032bd549122179::luck::LUCK",
+  "pyth_id": "",
+  "birdeyeid": "0x202591744d54ee4f4af736ef3b8508f3d46d982c36747d9587032bd549122179::luck::LUCK",
+  "coin_priority": [
+    "640"
+  ],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/luck.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

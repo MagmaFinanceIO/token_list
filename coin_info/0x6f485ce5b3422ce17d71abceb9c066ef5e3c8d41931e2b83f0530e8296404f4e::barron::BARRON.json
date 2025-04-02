@@ -1,0 +1,13 @@
+{
+  "name": "Time Traveler",
+  "symbol": "Barron",
+  "decimals": 9,
+  "coin_type": "0x6f485ce5b3422ce17d71abceb9c066ef5e3c8d41931e2b83f0530e8296404f4e::barron::BARRON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HmAgiwjjP9CXqK5wQNsHKtjAt2CH3Kv8Q7xH5kGL2nqZ.png?size=lg&key=f278b4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

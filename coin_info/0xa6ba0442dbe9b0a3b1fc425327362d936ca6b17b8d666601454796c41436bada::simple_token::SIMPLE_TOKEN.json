@@ -1,0 +1,13 @@
+{
+  "name": "DAY3",
+  "symbol": "DAY3",
+  "decimals": 9,
+  "coin_type": "0xa6ba0442dbe9b0a3b1fc425327362d936ca6b17b8d666601454796c41436bada::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

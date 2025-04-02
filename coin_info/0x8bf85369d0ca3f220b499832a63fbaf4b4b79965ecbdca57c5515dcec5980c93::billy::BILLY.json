@@ -1,0 +1,13 @@
+{
+  "name": "Suitboy Billy",
+  "symbol": "Billy",
+  "decimals": 5,
+  "coin_type": "0x8bf85369d0ca3f220b499832a63fbaf4b4b79965ecbdca57c5515dcec5980c93::billy::BILLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/eb6d112d-f4c9-4b8f-85ba-31c8e8e5987d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

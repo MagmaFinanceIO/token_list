@@ -1,0 +1,13 @@
+{
+  "name": "Jack The Crab",
+  "symbol": "JACK",
+  "decimals": 6,
+  "coin_type": "0x92f75743661ac21edf3c31f0be7dba6d35e6d01b387f6170665eb8ea88827ae3::jack::JACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Profile_Photo_9ea5a1a18d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

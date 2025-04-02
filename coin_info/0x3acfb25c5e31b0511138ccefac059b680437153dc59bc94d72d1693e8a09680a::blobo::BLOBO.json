@@ -1,0 +1,13 @@
+{
+  "name": "Blobo",
+  "symbol": "BLOBO",
+  "decimals": 6,
+  "coin_type": "0x3acfb25c5e31b0511138ccefac059b680437153dc59bc94d72d1693e8a09680a::blobo::BLOBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_09_27_00_43_58_537543ef04.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

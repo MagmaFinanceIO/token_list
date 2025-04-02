@@ -1,0 +1,13 @@
+{
+  "name": "X Money",
+  "symbol": "Xmoney",
+  "decimals": 9,
+  "coin_type": "0xaad5cab83a7fda82d82bbfc3cc616a4af6acf47d0e1fa87d3770d45f8f81184f::xmoney::XMONEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FIMG_4579_a17c5ef3b9.jpeg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

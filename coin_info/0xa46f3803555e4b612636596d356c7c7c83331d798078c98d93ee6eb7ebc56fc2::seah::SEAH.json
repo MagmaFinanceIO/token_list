@@ -1,0 +1,13 @@
+{
+  "name": "Seahorse",
+  "symbol": "SEAH",
+  "decimals": 6,
+  "coin_type": "0xa46f3803555e4b612636596d356c7c7c83331d798078c98d93ee6eb7ebc56fc2::seah::SEAH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0904_e9cd372aad.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

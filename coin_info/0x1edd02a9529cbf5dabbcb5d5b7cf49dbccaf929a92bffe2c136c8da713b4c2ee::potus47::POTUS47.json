@@ -1,0 +1,13 @@
+{
+  "name": "Official Potus Coin",
+  "symbol": "POTUS47",
+  "decimals": 9,
+  "coin_type": "0x1edd02a9529cbf5dabbcb5d5b7cf49dbccaf929a92bffe2c136c8da713b4c2ee::potus47::POTUS47",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/J761ou15xY4rYBKYSXCGJEPrNJgXMe6GZ5zaufixpump.png?size=lg&key=8011bb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

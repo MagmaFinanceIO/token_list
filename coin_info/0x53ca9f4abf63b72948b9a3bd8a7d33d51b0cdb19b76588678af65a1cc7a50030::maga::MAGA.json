@@ -1,0 +1,13 @@
+{
+  "name": "TRUMP",
+  "symbol": "MAGA",
+  "decimals": 9,
+  "coin_type": "0x53ca9f4abf63b72948b9a3bd8a7d33d51b0cdb19b76588678af65a1cc7a50030::maga::MAGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://s7d2.scene7.com/is/image/TWCNews/trumpgoodyearpetejpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

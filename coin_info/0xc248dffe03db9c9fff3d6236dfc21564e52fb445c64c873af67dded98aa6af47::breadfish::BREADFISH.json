@@ -1,0 +1,13 @@
+{
+  "name": "Bread Fish",
+  "symbol": "BREADFISH",
+  "decimals": 6,
+  "coin_type": "0xc248dffe03db9c9fff3d6236dfc21564e52fb445c64c873af67dded98aa6af47::breadfish::BREADFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_6b49947dfb.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

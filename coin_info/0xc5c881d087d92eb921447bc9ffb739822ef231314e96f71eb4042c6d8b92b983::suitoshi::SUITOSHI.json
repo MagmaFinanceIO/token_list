@@ -1,0 +1,13 @@
+{
+  "name": "Suitoshi",
+  "symbol": "SUITOSHI",
+  "decimals": 9,
+  "coin_type": "0xc5c881d087d92eb921447bc9ffb739822ef231314e96f71eb4042c6d8b92b983::suitoshi::SUITOSHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/82c43e07-7c79-4596-af39-dcbd66cac231.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

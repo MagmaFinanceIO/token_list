@@ -1,0 +1,13 @@
+{
+  "name": "Crypto Messiah",
+  "symbol": "ONEGOONRICH",
+  "decimals": 6,
+  "coin_type": "0xedfa1a90dd22fcef0ed34d3ff08f3c59f21da5bb722791f4a97b33d0cdb59333::onegoonrich::ONEGOONRICH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/GZZX_4660_5ca88ed2dc.JPEG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

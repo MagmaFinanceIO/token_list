@@ -1,0 +1,13 @@
+{
+  "name": "MonkeyPox",
+  "symbol": "Mpox",
+  "decimals": 2,
+  "coin_type": "0x5694ec918e099b6be18ae4bebdfb5b3b15df72aa230131344ac107aeba0610b3::mpox::MPOX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/64986f4c-d46c-4d8e-94f8-b9e421eb9a58.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "The world's loneliest elephant",
+  "symbol": "HANAKO",
+  "decimals": 9,
+  "coin_type": "0x6563ad38be18b861248889658dfdc2aa98ace9a7133e5aecb727fdea3a768c6a::hanako::HANAKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GuEke73Zrt6GAUC92adj4NDp8vnDq6btLtbEE3Tcpump.png?size=lg&key=a7d936",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

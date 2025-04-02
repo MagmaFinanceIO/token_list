@@ -1,0 +1,13 @@
+{
+  "name": "Atomic Samurai",
+  "symbol": "AMURAI",
+  "decimals": 9,
+  "coin_type": "0x6cc3fa2eafb178f8fa3eb1be2b385e6eb603c7d843824666e8609aec9ad1b0eb::amurai::AMURAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d8a363f7-73b5-4c0d-a57f-f805a3a67749.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

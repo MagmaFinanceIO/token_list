@@ -1,0 +1,13 @@
+{
+  "name": "Apu Apustaja",
+  "symbol": "APU",
+  "decimals": 2,
+  "coin_type": "0xfd928945811f470f08ffa40ffaf3e659c9981f0adb1a16d25b6c803a18557546::APU::APU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/9Yv9NYqw8yKBoXTVDJUftLqaWnj9zEGhpMAP7HO1pHQ?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

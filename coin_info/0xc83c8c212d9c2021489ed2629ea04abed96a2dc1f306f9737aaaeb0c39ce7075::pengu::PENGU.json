@@ -1,0 +1,13 @@
+{
+  "name": "Pudgy Penguins",
+  "symbol": "PENGU",
+  "decimals": 9,
+  "coin_type": "0xc83c8c212d9c2021489ed2629ea04abed96a2dc1f306f9737aaaeb0c39ce7075::pengu::PENGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4uqEEiM6fVKuSMdqqxzcznJXieYCQ2aPnCi5PzK8pump.png?size=xl&key=05bd92",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

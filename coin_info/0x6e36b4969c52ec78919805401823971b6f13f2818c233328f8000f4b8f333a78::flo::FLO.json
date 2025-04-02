@@ -1,0 +1,13 @@
+{
+  "name": "Flo",
+  "symbol": "FLO",
+  "decimals": 9,
+  "coin_type": "0x6e36b4969c52ec78919805401823971b6f13f2818c233328f8000f4b8f333a78::flo::FLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/984a5d66-c7f7-464b-a717-75e83678c11d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

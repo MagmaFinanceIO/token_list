@@ -1,0 +1,13 @@
+{
+  "name": "Diamond Balls",
+  "symbol": "BALLS",
+  "decimals": 9,
+  "coin_type": "0x7023263662175fab1a6a29ee51b85aa40f3d59cf8d324c53d0d16ed3b7a08b33::balls::BALLS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5zn1VMUeYhZXY8rdwgLEMqQkYXLgWcoKpwM1hpuReRDo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

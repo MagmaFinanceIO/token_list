@@ -1,0 +1,13 @@
+{
+  "name": "RETARDIO COUSUIN",
+  "symbol": "COUSUIN",
+  "decimals": 6,
+  "coin_type": "0xd21c711c768e92b056feb255d0851d87756e0c20c7599e03f46310b0ee28bf89::cousuin::COUSUIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0966_1e5d0c2b1e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

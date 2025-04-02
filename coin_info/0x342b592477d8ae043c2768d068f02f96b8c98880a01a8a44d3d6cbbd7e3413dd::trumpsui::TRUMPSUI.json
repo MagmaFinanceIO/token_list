@@ -1,0 +1,13 @@
+{
+  "name": "TRUMP SUI",
+  "symbol": "TRUMPSUI",
+  "decimals": 6,
+  "coin_type": "0x342b592477d8ae043c2768d068f02f96b8c98880a01a8a44d3d6cbbd7e3413dd::trumpsui::TRUMPSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/462551721_471310978592764_2533261991304454941_n_13c421b8cd.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

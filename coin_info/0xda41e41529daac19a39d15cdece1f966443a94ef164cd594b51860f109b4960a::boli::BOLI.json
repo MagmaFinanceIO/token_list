@@ -1,0 +1,13 @@
+{
+  "name": "Sui Boli",
+  "symbol": "BOLI",
+  "decimals": 9,
+  "coin_type": "0xda41e41529daac19a39d15cdece1f966443a94ef164cd594b51860f109b4960a::boli::BOLI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmPLQx9rtsttdoh8TZa9BVry6VWHzjXDZXeBLrVwV18Pvc?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

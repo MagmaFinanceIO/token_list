@@ -1,0 +1,13 @@
+{
+  "name": "DTEK",
+  "symbol": "DTEK",
+  "decimals": 9,
+  "coin_type": "0xdc1365b2a94f47c1eb529c49f0e1819df7cd597358fce7e7be526c2929952bc0::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

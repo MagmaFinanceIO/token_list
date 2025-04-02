@@ -1,0 +1,13 @@
+{
+  "name": "Miyajima",
+  "symbol": "MIYAJIMA",
+  "decimals": 6,
+  "coin_type": "0x154d06aac88ce767c70193c3cd5cf669bcfee43805e23121c64aaccb499fedba::miyajima::MIYAJIMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/a_ae_a_c_20241010023501_8898a6d721.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DearBook",
+  "symbol": "DEARBOOK",
+  "decimals": 9,
+  "coin_type": "0x6528b56696db658af543047049d3ae9cb9e682c40e4b8854dc91f2c252d21597::dearbook::DEARBOOK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "The first AI-Powered Children's Book Generator Memecoin!",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sea Dog Inu wif hat",
+  "symbol": "SDIWH",
+  "decimals": 9,
+  "coin_type": "0x74d9ab18fd5d66957e4c4ac52e453d48c281a55edab1a522a7ebd2e6befee545::sdiwh::SDIWH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/039e4f48-fc3e-4911-aa3d-4e3fb218fc82.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "RACER AI",
+  "symbol": "RACER",
+  "decimals": 9,
+  "coin_type": "0x5acd43e4b4fa03396efacd95d538a8373d9ef070661a90a11eb8b4f6ebb247bb::racer::RACER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/A18g5EmqMo1LV2N8yfQGo1eBKiwRn4ovHs37Xspspump.png?size=lg&key=f49c9b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

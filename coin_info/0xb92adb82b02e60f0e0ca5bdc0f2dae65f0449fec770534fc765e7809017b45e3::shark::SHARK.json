@@ -1,0 +1,13 @@
+{
+  "name": "Sharky Sharkx",
+  "symbol": "Shark",
+  "decimals": 9,
+  "coin_type": "0xb92adb82b02e60f0e0ca5bdc0f2dae65f0449fec770534fc765e7809017b45e3::shark::SHARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9stDgyRz8rad6Czht7A3JwQRn7Hi1R5ace9egdj7pump.png?size=lg&key=0f0dd1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIBA INU",
+  "symbol": "SUIBA",
+  "decimals": 9,
+  "coin_type": "0x3954a0021f45e33846ba56d0a60dbb7cd8add42053909bb433e789d1d11957b6::suiba::SUIBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dogtime.com/wp-content/uploads/sites/12/2011/01/GettyImages-653001154-e1691965000531.jpg?w=1024",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

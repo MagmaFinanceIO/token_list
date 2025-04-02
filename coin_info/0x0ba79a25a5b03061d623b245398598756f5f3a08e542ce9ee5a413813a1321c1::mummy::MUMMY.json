@@ -1,0 +1,13 @@
+{
+  "name": "Mummy on Sui",
+  "symbol": "Mummy",
+  "decimals": 6,
+  "coin_type": "0x0ba79a25a5b03061d623b245398598756f5f3a08e542ce9ee5a413813a1321c1::mummy::MUMMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2024_10_31_17_45_24_3b88a040ad.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Seal Wif Hat",
+  "symbol": "SEAWIF",
+  "decimals": 9,
+  "coin_type": "0xe0240f453ba7e31c2f34abc50f1ae1bb6c299ae0dd4297e4faff9996c4d374eb::seawif::SEAWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1813ebb7-fb6f-4f3c-ab78-ad1931dd2882.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

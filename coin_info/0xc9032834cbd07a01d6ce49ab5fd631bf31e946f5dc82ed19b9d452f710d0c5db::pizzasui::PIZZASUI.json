@@ -1,0 +1,13 @@
+{
+  "name": "🍕Pizza Sui",
+  "symbol": "PIZZASUI",
+  "decimals": 9,
+  "coin_type": "0xc9032834cbd07a01d6ce49ab5fd631bf31e946f5dc82ed19b9d452f710d0c5db::pizzasui::PIZZASUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/eff6309e-5ec1-4f9a-825d-58252d2125ad.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

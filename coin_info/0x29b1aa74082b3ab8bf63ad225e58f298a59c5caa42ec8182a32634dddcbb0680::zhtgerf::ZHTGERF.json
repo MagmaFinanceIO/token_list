@@ -1,0 +1,13 @@
+{
+  "name": "zhtgerf",
+  "symbol": "zhtgerf",
+  "decimals": 6,
+  "coin_type": "0x29b1aa74082b3ab8bf63ad225e58f298a59c5caa42ec8182a32634dddcbb0680::zhtgerf::ZHTGERF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

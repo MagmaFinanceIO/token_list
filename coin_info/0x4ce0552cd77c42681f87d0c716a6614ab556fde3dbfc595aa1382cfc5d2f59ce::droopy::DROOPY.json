@@ -1,0 +1,13 @@
+{
+  "name": "Droopy",
+  "symbol": "Droopy",
+  "decimals": 9,
+  "coin_type": "0x4ce0552cd77c42681f87d0c716a6614ab556fde3dbfc595aa1382cfc5d2f59ce::droopy::DROOPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6iSSSkyEp7kyerYmU2thuy76zBU7esd87DWTGobpump.png?size=lg&key=ac5cf5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

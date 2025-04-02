@@ -1,0 +1,13 @@
+{
+  "name": "SCUBA DOG",
+  "symbol": "SCUBA",
+  "decimals": 6,
+  "coin_type": "0x9e6d6124287360cc110044d1f1d7d04a0954eb317c76cf7927244bef0706b113::SCUBA::SCUBA",
+  "pyth_id": "",
+  "birdeyeid": "0x9e6d6124287360cc110044d1f1d7d04a0954eb317c76cf7927244bef0706b113::SCUBA::SCUBA",
+  "coin_priority": [],
+  "logo_url": "https://j3i5gtlp36ptsx6lyygrujd2cx7vgzaxbqyeiyqded67ihlbehva.arweave.net/TtHTTW_fnzlfy8YNGiR6Ff9TZBcMMERiAyD99B1hIeo",
+  "project_url": "",
+  "coingecko_id": "scuba-dog",
+  "is_trusted": true
+}

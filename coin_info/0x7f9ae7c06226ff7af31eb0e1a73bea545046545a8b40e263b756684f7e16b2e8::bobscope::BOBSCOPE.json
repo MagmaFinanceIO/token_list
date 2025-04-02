@@ -1,0 +1,13 @@
+{
+  "name": "BOB",
+  "symbol": "BobScope",
+  "decimals": 6,
+  "coin_type": "0x7f9ae7c06226ff7af31eb0e1a73bea545046545a8b40e263b756684f7e16b2e8::bobscope::BOBSCOPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Dream_3_8ac5d81548.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui_Poseidon",
+  "symbol": "Sui_Poseidon",
+  "decimals": 9,
+  "coin_type": "0x3628b11e70af16468fbb488a5c738fd6fcf416685e67c6f639f1a40ba665cb1d::sui_poseidon::SUI_POSEIDON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d541d247-4f82-4ba0-b6dd-d7eec0977ac0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GEMINI AI",
+  "symbol": "GMAI",
+  "decimals": 9,
+  "coin_type": "0x9db5362fc0d8449049d273ddfaea229f8fc353e8324ce5dea7ddd1315b5ef429::gmai::GMAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BfS1iiWgVVZhSC36LbV57Vubc9ECb4b5TYBxxWuZiqv8.png?size=lg&key=fe6d96",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

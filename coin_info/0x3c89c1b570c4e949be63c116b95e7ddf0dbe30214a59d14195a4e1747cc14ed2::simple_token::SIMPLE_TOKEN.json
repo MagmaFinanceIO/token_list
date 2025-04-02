@@ -1,0 +1,13 @@
+{
+  "name": "Decart AI",
+  "symbol": "Decart",
+  "decimals": 9,
+  "coin_type": "0x3c89c1b570c4e949be63c116b95e7ddf0dbe30214a59d14195a4e1747cc14ed2::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

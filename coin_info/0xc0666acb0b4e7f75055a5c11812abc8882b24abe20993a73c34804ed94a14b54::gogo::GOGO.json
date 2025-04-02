@@ -1,0 +1,13 @@
+{
+  "name": "GoGo The Gorilla",
+  "symbol": "GOGO",
+  "decimals": 9,
+  "coin_type": "0xc0666acb0b4e7f75055a5c11812abc8882b24abe20993a73c34804ed94a14b54::gogo::GOGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4057a00d-337b-48a4-89d7-b72ffa1e8bab.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

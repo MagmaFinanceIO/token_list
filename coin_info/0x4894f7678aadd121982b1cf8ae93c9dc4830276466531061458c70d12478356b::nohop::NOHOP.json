@@ -1,0 +1,13 @@
+{
+  "name": "No-Hop",
+  "symbol": "NOHOP",
+  "decimals": 6,
+  "coin_type": "0x4894f7678aadd121982b1cf8ae93c9dc4830276466531061458c70d12478356b::nohop::NOHOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730954186009.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

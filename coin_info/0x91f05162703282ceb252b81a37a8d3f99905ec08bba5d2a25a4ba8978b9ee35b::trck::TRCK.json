@@ -1,0 +1,13 @@
+{
+  "name": "TRUMP TRACKER by SuiAI",
+  "symbol": "TRCK",
+  "decimals": 6,
+  "coin_type": "0x91f05162703282ceb252b81a37a8d3f99905ec08bba5d2a25a4ba8978b9ee35b::trck::TRCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Captura_de_tela_2025_01_19_160251_2a33aa1eff.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

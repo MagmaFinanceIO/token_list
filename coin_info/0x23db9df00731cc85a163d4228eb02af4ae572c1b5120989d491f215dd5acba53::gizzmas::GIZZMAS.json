@@ -1,0 +1,13 @@
+{
+  "name": "Gizzmas",
+  "symbol": "GIZZMAS",
+  "decimals": 9,
+  "coin_type": "0x23db9df00731cc85a163d4228eb02af4ae572c1b5120989d491f215dd5acba53::gizzmas::GIZZMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9MmuDBQCbGGYLGKGajNpfwWBja1sXhxmPgbLowMFpump.png?size=lg&key=9693ca",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Neo Religion",
+  "symbol": "NEO",
+  "decimals": 9,
+  "coin_type": "0xf57399e7d79e4698be25f5c2dc639260e1b89e80bc01f7c8fc76c8d7fe150636::neo::NEO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HY7JqpXZfAcELDY5sGzGaUU3iawJ3X5Kvv8ZNwBbpump.png?size=lg&key=677a86",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

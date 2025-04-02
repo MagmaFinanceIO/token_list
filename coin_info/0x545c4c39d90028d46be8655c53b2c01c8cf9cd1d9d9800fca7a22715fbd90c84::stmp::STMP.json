@@ -1,0 +1,13 @@
+{
+  "name": "SuiTrump",
+  "symbol": "STMP",
+  "decimals": 9,
+  "coin_type": "0x545c4c39d90028d46be8655c53b2c01c8cf9cd1d9d9800fca7a22715fbd90c84::stmp::STMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0937b72c-37c2-4547-80ce-8bb615d74ed4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

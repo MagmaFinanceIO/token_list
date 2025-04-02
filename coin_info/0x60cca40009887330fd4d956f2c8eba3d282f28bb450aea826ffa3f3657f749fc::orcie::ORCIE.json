@@ -1,0 +1,13 @@
+{
+  "name": "OrcieonSui",
+  "symbol": "Orcie",
+  "decimals": 6,
+  "coin_type": "0x60cca40009887330fd4d956f2c8eba3d282f28bb450aea826ffa3f3657f749fc::orcie::ORCIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731192671310.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

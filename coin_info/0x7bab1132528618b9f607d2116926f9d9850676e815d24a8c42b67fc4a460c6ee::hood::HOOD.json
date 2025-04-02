@@ -1,0 +1,13 @@
+{
+  "name": "Robbing the Hood",
+  "symbol": "Hood",
+  "decimals": 9,
+  "coin_type": "0x7bab1132528618b9f607d2116926f9d9850676e815d24a8c42b67fc4a460c6ee::hood::HOOD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "552nSH7Gj419xKFF",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

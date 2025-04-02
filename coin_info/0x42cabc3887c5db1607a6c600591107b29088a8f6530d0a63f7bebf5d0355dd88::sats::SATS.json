@@ -1,0 +1,13 @@
+{
+  "name": "Satoshi",
+  "symbol": "Sats",
+  "decimals": 9,
+  "coin_type": "0x42cabc3887c5db1607a6c600591107b29088a8f6530d0a63f7bebf5d0355dd88::sats::SATS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1e0897bf-655e-4d00-9a26-2363dfc0bd7d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Bennie The Frenchie",
+  "symbol": "BENNIE",
+  "decimals": 6,
+  "coin_type": "0x6955088528d4ea7774dbdf2af062936384e0f32b339a9a6a2044ec20fcf0ed3e::bennie::BENNIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1734412863507.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

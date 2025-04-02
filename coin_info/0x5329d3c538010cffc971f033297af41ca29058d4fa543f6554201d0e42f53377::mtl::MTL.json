@@ -1,0 +1,13 @@
+{
+  "name": "Montrial",
+  "symbol": "MTL",
+  "decimals": 9,
+  "coin_type": "0x5329d3c538010cffc971f033297af41ca29058d4fa543f6554201d0e42f53377::mtl::MTL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9aa13c22-4e71-405e-8f26-458f1001e4a8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

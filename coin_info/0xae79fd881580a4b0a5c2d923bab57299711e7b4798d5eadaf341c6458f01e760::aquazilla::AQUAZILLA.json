@@ -1,0 +1,13 @@
+{
+  "name": "AquaZilla",
+  "symbol": "AQUAZILLA",
+  "decimals": 9,
+  "coin_type": "0xae79fd881580a4b0a5c2d923bab57299711e7b4798d5eadaf341c6458f01e760::aquazilla::AQUAZILLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4ab24129-5771-418c-ad25-962f2a595796.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

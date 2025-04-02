@@ -1,0 +1,13 @@
+{
+  "name": "Squishiverse by SuiAI",
+  "symbol": "SQUIS",
+  "decimals": 6,
+  "coin_type": "0x08a8685cee9a44b23dbb42a9220346689184f6d80831b84ddf85484e6d212d27::squis::SQUIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/j_B_Ojs_Tn_S_400x400_85eebee920.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

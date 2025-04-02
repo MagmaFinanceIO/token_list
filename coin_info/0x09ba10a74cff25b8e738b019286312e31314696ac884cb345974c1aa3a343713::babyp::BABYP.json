@@ -1,0 +1,13 @@
+{
+  "name": "Baby Peanut On Sui",
+  "symbol": "BABYP",
+  "decimals": 6,
+  "coin_type": "0x09ba10a74cff25b8e738b019286312e31314696ac884cb345974c1aa3a343713::babyp::BABYP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/BABY_PEANUT_ICON_DEX_150x150_6af2c85b01.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

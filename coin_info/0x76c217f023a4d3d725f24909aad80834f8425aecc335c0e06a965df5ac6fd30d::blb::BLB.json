@@ -1,0 +1,13 @@
+{
+  "name": "BLUB.oO",
+  "symbol": "BLB",
+  "decimals": 6,
+  "coin_type": "0x76c217f023a4d3d725f24909aad80834f8425aecc335c0e06a965df5ac6fd30d::blb::BLB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5493_40fe75b315.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Goatseus Maximus",
+  "symbol": "Aibot",
+  "decimals": 6,
+  "coin_type": "0x19bce39115bda664fd1cfd6e55c721314a82ce9f9feced92d7cd188c52505a47::aibot::AIBOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/AQI_Upf_L3_400x400_215ae90452.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TEST",
+  "symbol": "TEST",
+  "decimals": 9,
+  "coin_type": "0x1cb6bbe0e664591073fdecebb49376d57c38b8964d852bee7c2a2bbcff3ac522::TEST::TEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://media.istockphoto.com/id/1045035708/vector/duckling-simple-vector-icon.jpg?s=612x612&w=0&k=20&c=DPyR6_meVD32JBRKEZiwrAkn0kFY5PT4qxiQblfqkjs=",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

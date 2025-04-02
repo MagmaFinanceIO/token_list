@@ -1,0 +1,13 @@
+{
+  "name": "Water Meloon",
+  "symbol": "WM",
+  "decimals": 9,
+  "coin_type": "0x151ce666d14e945259b903667182653b685f7857595267be5c79ecf23234c7c4::wm::WM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e02f1348-5741-42c2-9ead-6028934a7062.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SQUIDMEMES",
+  "symbol": "SMEMES",
+  "decimals": 6,
+  "coin_type": "0x07cb109771b913a620f6b89ed27f96ea4b0a009f59f61cd74f71487f9c1ccf71::smemes::SMEMES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7181_244707ad69.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

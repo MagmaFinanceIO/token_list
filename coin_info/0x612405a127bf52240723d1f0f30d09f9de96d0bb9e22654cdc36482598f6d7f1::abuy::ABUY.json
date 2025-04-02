@@ -1,0 +1,13 @@
+{
+  "name": "SuiAbuy",
+  "symbol": "ABUY",
+  "decimals": 6,
+  "coin_type": "0x612405a127bf52240723d1f0f30d09f9de96d0bb9e22654cdc36482598f6d7f1::abuy::ABUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000001101_cde6319ff1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

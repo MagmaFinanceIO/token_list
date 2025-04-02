@@ -1,0 +1,13 @@
+{
+  "name": "PixelPepe",
+  "symbol": "PXLPEPE",
+  "decimals": 9,
+  "coin_type": "0xf18026a2f9152d3e22ef9073b1a5374529b4847f793348bca8ff535cfb687839::pxlpepe::PXLPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/Pd2GNTpvTsJLR0Xn?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

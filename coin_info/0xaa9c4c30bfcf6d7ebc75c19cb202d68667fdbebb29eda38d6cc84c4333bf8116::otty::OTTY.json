@@ -1,0 +1,13 @@
+{
+  "name": "Otty",
+  "symbol": "OTTY",
+  "decimals": 6,
+  "coin_type": "0xaa9c4c30bfcf6d7ebc75c19cb202d68667fdbebb29eda38d6cc84c4333bf8116::otty::OTTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/20f1ba29741a5c46be5412b007539c9f_4d21fae53b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

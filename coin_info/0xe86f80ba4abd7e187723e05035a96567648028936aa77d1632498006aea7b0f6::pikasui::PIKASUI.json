@@ -1,0 +1,13 @@
+{
+  "name": "Pika on SUI",
+  "symbol": "PikaSui",
+  "decimals": 6,
+  "coin_type": "0xe86f80ba4abd7e187723e05035a96567648028936aa77d1632498006aea7b0f6::pikasui::PIKASUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736896308713.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

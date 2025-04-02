@@ -1,0 +1,13 @@
+{
+  "name": "Depp",
+  "symbol": "DEEP",
+  "decimals": 6,
+  "coin_type": "0x07e4e7a326bba248904b80ad17ec76c853656658a08867ad14562755041804da::deep::DEEP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/84970c64-975b-41ed-8209-1861ea727eb1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

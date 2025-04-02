@@ -1,0 +1,13 @@
+{
+  "name": "ZenFrogs",
+  "symbol": "ZEN",
+  "decimals": 9,
+  "coin_type": "0x76858cfeab11b607cabd4c7a41d54b74fdfeeb13bc73753c46bc56562fc4ce1a::zen::ZEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e1b82f34-9ca8-493d-9b6c-409bc903dcee.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

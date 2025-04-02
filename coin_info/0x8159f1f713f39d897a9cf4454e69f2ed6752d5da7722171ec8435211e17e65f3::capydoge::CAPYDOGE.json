@@ -1,0 +1,13 @@
+{
+  "name": "Capybara Doge",
+  "symbol": "CAPYDOGE",
+  "decimals": 9,
+  "coin_type": "0x8159f1f713f39d897a9cf4454e69f2ed6752d5da7722171ec8435211e17e65f3::capydoge::CAPYDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bb287cd8-d928-40e1-a162-4967164561f8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

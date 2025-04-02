@@ -1,0 +1,13 @@
+{
+  "name": "Make America Fun Again",
+  "symbol": "MAFA",
+  "decimals": 9,
+  "coin_type": "0x9134c41e8e3b572a2b75b4d2c640682706546751d03fdca1b6f5754f25ec154f::mafa::MAFA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cb4aa673-fe95-46df-be0a-034a1ee0f179.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

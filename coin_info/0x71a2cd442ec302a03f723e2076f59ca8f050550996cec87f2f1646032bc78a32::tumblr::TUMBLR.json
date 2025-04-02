@@ -1,0 +1,13 @@
+{
+  "name": "Tumblr Coin",
+  "symbol": "tumblr",
+  "decimals": 9,
+  "coin_type": "0x71a2cd442ec302a03f723e2076f59ca8f050550996cec87f2f1646032bc78a32::tumblr::TUMBLR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CXzgKyao8rTLB7Kkag3zNH4ZwFT8JSEq8f6kVGGrpump.png?size=lg&key=aab468",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

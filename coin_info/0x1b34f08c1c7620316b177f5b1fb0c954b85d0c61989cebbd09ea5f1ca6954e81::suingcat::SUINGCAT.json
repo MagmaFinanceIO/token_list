@@ -1,0 +1,13 @@
+{
+  "name": "Suing Cat 🐱",
+  "symbol": "SUINGCAT",
+  "decimals": 9,
+  "coin_type": "0x1b34f08c1c7620316b177f5b1fb0c954b85d0c61989cebbd09ea5f1ca6954e81::suingcat::SUINGCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/51444c93-6a50-4c86-9df5-09506b962465.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

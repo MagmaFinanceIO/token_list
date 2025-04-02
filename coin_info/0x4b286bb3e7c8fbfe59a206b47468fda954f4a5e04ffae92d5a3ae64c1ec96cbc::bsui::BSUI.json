@@ -1,0 +1,13 @@
+{
+  "name": "BLACK SUI",
+  "symbol": "BSUI",
+  "decimals": 6,
+  "coin_type": "0x4b286bb3e7c8fbfe59a206b47468fda954f4a5e04ffae92d5a3ae64c1ec96cbc::bsui::BSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_0ae2c1dc1a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

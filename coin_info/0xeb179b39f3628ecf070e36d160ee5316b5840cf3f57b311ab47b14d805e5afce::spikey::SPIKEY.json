@@ -1,0 +1,13 @@
+{
+  "name": "Spider Monkey",
+  "symbol": "Spikey",
+  "decimals": 9,
+  "coin_type": "0xeb179b39f3628ecf070e36d160ee5316b5840cf3f57b311ab47b14d805e5afce::spikey::SPIKEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/95b1b47f-ee13-44f8-8631-3d39ec59ecf2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

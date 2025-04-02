@@ -1,0 +1,13 @@
+{
+  "name": "Sui Zombitardio",
+  "symbol": "ZETARD",
+  "decimals": 9,
+  "coin_type": "0x5c07510b6ed468b09fdf771788c9b2d628f596003b38967b4ace113191e0f598::zetard::ZETARD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmT7pMXfHeobg1D5eBTStDVxbtn9x3GwWs9YCpxLbWCNJa?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

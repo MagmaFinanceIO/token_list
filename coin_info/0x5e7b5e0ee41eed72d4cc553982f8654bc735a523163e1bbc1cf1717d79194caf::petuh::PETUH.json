@@ -1,0 +1,13 @@
+{
+  "name": "Petuh Griffen",
+  "symbol": "PETUH",
+  "decimals": 9,
+  "coin_type": "0x5e7b5e0ee41eed72d4cc553982f8654bc735a523163e1bbc1cf1717d79194caf::petuh::PETUH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f1af22cf-ed32-419d-b022-8da004568b4c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuiTon",
+  "symbol": "STON",
+  "decimals": 9,
+  "coin_type": "0xb53634aa1a740d9eb14caad6dedacbaa861f271ebb3e74e17fe905a3df814d42::ston::STON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://avatars.githubusercontent.com/u/172283417?s=400&u=bbbd473bd600c173449de2091c63e9512b9c3096&v=4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

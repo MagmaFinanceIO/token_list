@@ -1,0 +1,13 @@
+{
+  "name": "Continental Travel Coin",
+  "symbol": "CTC",
+  "decimals": 4,
+  "coin_type": "0xcda923ed1749b776e8913c3d60b1cfe55dcabbc32c8e3e8bf6770386021c9494::ctc::CTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e5b8f421-5716-420f-80ea-6b3772c37e0f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pity Paws",
+  "symbol": "PAWS",
+  "decimals": 6,
+  "coin_type": "0x3438df0077c377a6837d30756436930ddfcec6d737f0d7f8c61090996e678e22::paws::PAWS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9797ed36-71b3-4090-a749-cb47ee2aa537.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

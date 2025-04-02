@@ -1,0 +1,13 @@
+{
+  "name": "Buble Blue",
+  "symbol": "BUBLE",
+  "decimals": 9,
+  "coin_type": "0x37d1ca948b519989e35640e2099747f221bcc0653bd5dfcd6eb3933a06f6653f::buble::BUBLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

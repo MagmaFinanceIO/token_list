@@ -1,0 +1,13 @@
+{
+  "name": "Griddy",
+  "symbol": "Griddy",
+  "decimals": 9,
+  "coin_type": "0xf019722cbdb878da7d53430ddffccd76ea1b624a95ec397ac39809ab4670af5d::griddy::GRIDDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/83fd82af-ec09-4abf-af51-67dc0a2691f8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NEUROBLOCK AI by SuiAI",
+  "symbol": "NEUROBLOCK",
+  "decimals": 6,
+  "coin_type": "0x3c5713362ce07986355e7ccce98b03fdebf9a703b422e18253adbdc6ec731ac7::neuroblock::NEUROBLOCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/66c9f636f3a481940275d123a50d3af1_b01e84378f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

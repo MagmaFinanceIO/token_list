@@ -1,0 +1,13 @@
+{
+  "name": "Brett2.0",
+  "symbol": "Brett2",
+  "decimals": 9,
+  "coin_type": "0xbb44388c0492196860dac65f821c07f552e7cc2deff9f0a6ed541680ad86b16b::brett2::BRETT2",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/rs-vqAhllkYwAZ3U?width=400&height=400&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

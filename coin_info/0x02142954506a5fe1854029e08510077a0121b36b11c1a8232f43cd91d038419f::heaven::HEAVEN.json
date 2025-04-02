@@ -1,0 +1,13 @@
+{
+  "name": "HEAVENONSUI",
+  "symbol": "HEAVEN",
+  "decimals": 6,
+  "coin_type": "0x02142954506a5fe1854029e08510077a0121b36b11c1a8232f43cd91d038419f::heaven::HEAVEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qme_Yg_L5okk_E5exs_T_Lzebt5_Hmt_K9_Ay2_H_Mr53i8ubm_VC_2e_BR_8bd71b44be.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

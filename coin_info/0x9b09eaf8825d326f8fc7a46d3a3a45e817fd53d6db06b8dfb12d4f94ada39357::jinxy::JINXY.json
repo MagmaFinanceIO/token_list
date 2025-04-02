@@ -1,0 +1,13 @@
+{
+  "name": "Pnut's Sister",
+  "symbol": "JINXY",
+  "decimals": 9,
+  "coin_type": "0x9b09eaf8825d326f8fc7a46d3a3a45e817fd53d6db06b8dfb12d4f94ada39357::jinxy::JINXY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BFhtS2T2y6KTicomS9xTCUN5HYZ8UdxZJBJkE31oCjeK.png?size=lg&key=1cca35",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

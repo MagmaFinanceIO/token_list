@@ -1,0 +1,13 @@
+{
+  "name": "Hello world 2",
+  "symbol": "HLWC",
+  "decimals": 4,
+  "coin_type": "0xb5e71358945a1724511389be9684574bbe300a7b3934fea463447f40c2bd5cb0::hlwc::HLWC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://public-cdn.daossui.io/assets/tokens/f22cd2b0-d73f-11ef-a70f-556b339362b9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

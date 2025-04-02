@@ -1,0 +1,13 @@
+{
+  "name": "InuOnARug",
+  "symbol": "IOAR",
+  "decimals": 9,
+  "coin_type": "0x4272b25c71412dd8309529b9090f6536bbb9ca4e2a60d3be8e5ba943081f3fdc::ioar::IOAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e9bba2ee-38e8-463a-a8d2-6c80e33cc8ee.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AI99x",
+  "symbol": "AI99X",
+  "decimals": 9,
+  "coin_type": "0x917840b4005d0a9fbd04332c6c7127d35b666ad58bf31fa199efd3bebf32f553::ai99x::AI99X",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DS6qJNTGJUz26tjC6G75hGXGA6dvEyyiupS7okhLpump.png?size=lg&key=7a6be2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

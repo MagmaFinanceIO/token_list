@@ -1,0 +1,13 @@
+{
+  "name": "Smiling Pufferfish",
+  "symbol": "sPUFF",
+  "decimals": 6,
+  "coin_type": "0xe85629f8c99eabda700b3b620fe11597faedb0a18c295d719a395dfb0683f0cb::spuff::SPUFF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000053994_3ba04b3b77.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

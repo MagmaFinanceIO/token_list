@@ -1,0 +1,13 @@
+{
+  "name": "Pimp Lincoln",
+  "symbol": "PIMP",
+  "decimals": 9,
+  "coin_type": "0x714c9b9fcfa5e05cd0f8cd07986e5732a3943775e5a12001310c501b9155a5a5::pimp::PIMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4CrKJs6d5hQ1z63XPjGCYL6phKTu8rJLisMqZiUBkNQr.png?size=lg&key=0393cd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

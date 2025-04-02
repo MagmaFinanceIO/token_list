@@ -1,0 +1,13 @@
+{
+  "name": "It's fine",
+  "symbol": "FINE",
+  "decimals": 6,
+  "coin_type": "0x149abc40350a1e6c60fe728311fbffe172fe73d542636cfb4a9976339dfa9206::fine::FINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/thisisfine_1_795acff1dd.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}
