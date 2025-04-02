@@ -1,0 +1,19 @@
+name: Release On Update
+
+on: [push, pull_request]
+
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Generate new tokens
+        run: python3 utils/merge_token_list.py
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: merged-coin-list
+          path: merged_coins.json

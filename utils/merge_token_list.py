@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-def merge_coin_files(input_dir="../coin_info", output_file="merged_coins.json"):
+def merge_coin_files(input_dir="./coin_info", output_file="merged_coins.json"):
     merged_data = []
     processed_coins = set()
     input_path = Path(input_dir)
