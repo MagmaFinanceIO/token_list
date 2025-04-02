@@ -16,10 +16,14 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: merged-coin-list
-          path: merged_coins.json
+          path: |
+            logo/
+            merged_coins.json
 
-      - name: Create release
-        uses: softprops/action-gh-release@v2
-        with:
-          files: merged_coins.json
-          tag: latest
+      # - name: Create release
+      #   uses: softprops/action-gh-release@v2
+      #   with:
+      #     files: merged_coins.json
+      #     tag: latest
+      #   env:
+      #     GH_ENTERPRISE_TOKEN: ${{ secrets.GITHUB_TOKEN }}
