@@ -1,0 +1,13 @@
+{
+  "name": "Hop Frog",
+  "symbol": "FROG",
+  "decimals": 9,
+  "coin_type": "0x087d98def62e3a9e6baebdb1a5404af2119237fdd3500d9b024da0c3aeac1506::frog::FROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4a35e252-4294-4c99-b864-426876fe9517.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

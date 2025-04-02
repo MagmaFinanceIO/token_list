@@ -1,0 +1,13 @@
+{
+  "name": "Farteus Maximus",
+  "symbol": "FARTEUS",
+  "decimals": 9,
+  "coin_type": "0xcce3ef4c08602ee8849ea4dfb24b9c6536d2e05c8b689ec6d2f210b57ae8d930::farteus::FARTEUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5sHWPSLvNZo1osATzxshy7WbrcvYNt7C124Un5LSpump.png?size=lg&key=e2cb70",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

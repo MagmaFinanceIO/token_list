@@ -1,0 +1,13 @@
+{
+  "name": "Official Elon Coin",
+  "symbol": "ELON",
+  "decimals": 6,
+  "coin_type": "0xb47af213dfad58f69e3dfc8a19d77f81451b8a4f96613c0eb5d90a80c619c9ae::elon::ELON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/948e0c19-ef1f-468a-b801-b96c2029ec40.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

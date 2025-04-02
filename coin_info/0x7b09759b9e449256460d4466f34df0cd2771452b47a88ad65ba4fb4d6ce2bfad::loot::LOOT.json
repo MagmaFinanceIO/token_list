@@ -1,0 +1,13 @@
+{
+  "name": "Plunder",
+  "symbol": "LOOT",
+  "decimals": 9,
+  "coin_type": "0x7b09759b9e449256460d4466f34df0cd2771452b47a88ad65ba4fb4d6ce2bfad::loot::LOOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/971e26b3-913b-4a9b-bcb2-0845377a598c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

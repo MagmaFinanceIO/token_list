@@ -1,0 +1,13 @@
+{
+  "name": "Zeiro Token",
+  "symbol": "ZEIRO",
+  "decimals": 9,
+  "coin_type": "0xfa33c7975480ccf2f1cadc29d7c664d4b7949b39c8271513a358c506b6843340::core::CORE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

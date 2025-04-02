@@ -1,0 +1,13 @@
+{
+  "name": "SUILOAF",
+  "symbol": "LOAF",
+  "decimals": 6,
+  "coin_type": "0xfdba35bc1afc68e601b06f0849954e07c790f88062ffeeaba6d2c9df01747f08::loaf::LOAF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/V_Pow_AU_400x400_710b4f221d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

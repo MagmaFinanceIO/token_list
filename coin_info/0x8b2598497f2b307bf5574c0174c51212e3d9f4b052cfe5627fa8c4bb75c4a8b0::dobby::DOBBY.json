@@ -1,0 +1,13 @@
+{
+  "name": "The Doberman of SUI",
+  "symbol": "DOBBY",
+  "decimals": 9,
+  "coin_type": "0x8b2598497f2b307bf5574c0174c51212e3d9f4b052cfe5627fa8c4bb75c4a8b0::dobby::DOBBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/45dced33-f720-4567-ae34-fbf5052e4a4e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Lets Make Sui Hob Again",
+  "symbol": "LMSH",
+  "decimals": 6,
+  "coin_type": "0xcbf8738afe79f682023a8b86e6fc0be1f80f9f04dc172f5f6cb963637d70fca7::lmsh::LMSH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmUw5T6gKUTAuZu8seyWHAQtdWZJ3hdBEQKqy6AzcgHRvt",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

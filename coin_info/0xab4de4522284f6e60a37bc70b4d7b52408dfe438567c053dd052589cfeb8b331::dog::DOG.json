@@ -1,0 +1,13 @@
+{
+  "name": "DOG by SuiAI",
+  "symbol": "DOG",
+  "decimals": 6,
+  "coin_type": "0xab4de4522284f6e60a37bc70b4d7b52408dfe438567c053dd052589cfeb8b331::dog::DOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/images_17_e784bcd867.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

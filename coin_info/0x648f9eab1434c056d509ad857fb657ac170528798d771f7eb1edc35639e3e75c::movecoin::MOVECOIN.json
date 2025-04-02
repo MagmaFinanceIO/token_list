@@ -1,0 +1,15 @@
+{
+  "name": "MOVE",
+  "symbol": "MOVE",
+  "decimals": 9,
+  "coin_type": "0x648f9eab1434c056d509ad857fb657ac170528798d771f7eb1edc35639e3e75c::movecoin::MOVECOIN",
+  "pyth_id": "",
+  "birdeyeid": "0x648f9eab1434c056d509ad857fb657ac170528798d771f7eb1edc35639e3e75c::movecoin::MOVECOIN",
+  "coin_priority": [
+    "690"
+  ],
+  "logo_url": "https://gk4id6fee24ru5cdipjxyz6cl42yjtzl3xfuizlpqjub42hx5rvq.arweave.net/MriB-KQmuRp0Q0PTfGfCXzWEzyvdy0Rlb4JoHmj37Gs",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

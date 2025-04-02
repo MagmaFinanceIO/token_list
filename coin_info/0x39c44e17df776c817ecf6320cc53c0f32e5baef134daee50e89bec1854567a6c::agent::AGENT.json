@@ -1,0 +1,13 @@
+{
+  "name": "Sui Agent",
+  "symbol": "AGENT",
+  "decimals": 6,
+  "coin_type": "0x39c44e17df776c817ecf6320cc53c0f32e5baef134daee50e89bec1854567a6c::agent::AGENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/20241212_170644_36_447060ad51.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

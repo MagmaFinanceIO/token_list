@@ -1,0 +1,15 @@
+{
+  "name": "Wrapped SOL (Portal from Solana)",
+  "symbol": "WSOL",
+  "decimals": 8,
+  "coin_type": "0xb7844e289a8410e50fb3ca48d69eb9cf29e27d223ef90353fe1bd8e27ff8f3f8::coin::COIN",
+  "pyth_id": "ef0d8b6fda2ceba41da15d4095d1da392a0d2f8ed0c6c7bc0f4cfac8c280b56d",
+  "birdeyeid": "0xb7844e289a8410e50fb3ca48d69eb9cf29e27d223ef90353fe1bd8e27ff8f3f8::coin::COIN",
+  "coin_priority": [
+    "790"
+  ],
+  "logo_url": "https://randjhppd5rrnyp52hplsyqgbc5hox5veu7jsnfo4ryigl5g7mdq.arweave.net/iBo0ne8fYxbh_dHeuWIGCLp3X7UlPpk0ruRwgy-m-wc",
+  "project_url": "",
+  "coingecko_id": "wormhole-bridged-wrapped-sol-sui",
+  "is_trusted": true
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Tremp Pepe",
+  "symbol": "TREMPE",
+  "decimals": 9,
+  "coin_type": "0xf024ab00dc7af0e3d062861c411553a14af4f8765139ff528d5126d880f299ea::trempe::TREMPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f0d6d526-4e5f-4352-aeb5-075eb54f23c1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

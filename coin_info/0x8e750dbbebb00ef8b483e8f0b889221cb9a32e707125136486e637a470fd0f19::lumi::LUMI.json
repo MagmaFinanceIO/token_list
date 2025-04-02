@@ -1,0 +1,13 @@
+{
+  "name": "Lumina",
+  "symbol": "LUMI",
+  "decimals": 9,
+  "coin_type": "0x8e750dbbebb00ef8b483e8f0b889221cb9a32e707125136486e637a470fd0f19::lumi::LUMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qma5GZu3u8Ci8K32YPfDXgr8t9gFGedbvrHPvva4fzbe8Y",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

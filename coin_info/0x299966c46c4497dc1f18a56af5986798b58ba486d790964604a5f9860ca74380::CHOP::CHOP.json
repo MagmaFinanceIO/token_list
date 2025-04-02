@@ -1,0 +1,13 @@
+{
+  "name": "Chop Sui Token",
+  "symbol": "ChopSui",
+  "decimals": 9,
+  "coin_type": "0x299966c46c4497dc1f18a56af5986798b58ba486d790964604a5f9860ca74380::CHOP::CHOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://strapi-dev.scand.app/uploads/CHOPSUI_5db8e786a3.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

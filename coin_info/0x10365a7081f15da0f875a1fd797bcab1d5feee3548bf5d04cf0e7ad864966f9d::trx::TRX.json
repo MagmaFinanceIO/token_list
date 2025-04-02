@@ -1,0 +1,13 @@
+{
+  "name": "TRON",
+  "symbol": "TRX",
+  "decimals": 9,
+  "coin_type": "0x10365a7081f15da0f875a1fd797bcab1d5feee3548bf5d04cf0e7ad864966f9d::trx::TRX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fc132c14-ea68-4601-886e-e78cd66208ce.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

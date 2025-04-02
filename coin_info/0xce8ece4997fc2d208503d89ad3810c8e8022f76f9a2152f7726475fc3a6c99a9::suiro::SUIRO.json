@@ -1,0 +1,13 @@
+{
+  "name": "Suiro",
+  "symbol": "SUIRO",
+  "decimals": 6,
+  "coin_type": "0xce8ece4997fc2d208503d89ad3810c8e8022f76f9a2152f7726475fc3a6c99a9::suiro::SUIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/BLN_od_GS_400x400_45ade9d886.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

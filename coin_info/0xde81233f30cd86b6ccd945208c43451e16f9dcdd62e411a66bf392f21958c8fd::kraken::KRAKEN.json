@@ -1,0 +1,13 @@
+{
+  "name": "Kraken",
+  "symbol": "KRAKEN",
+  "decimals": 6,
+  "coin_type": "0xde81233f30cd86b6ccd945208c43451e16f9dcdd62e411a66bf392f21958c8fd::kraken::KRAKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/111_dc420b46ea.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

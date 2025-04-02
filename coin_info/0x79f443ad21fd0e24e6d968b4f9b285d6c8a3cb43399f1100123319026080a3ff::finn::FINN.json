@@ -1,0 +1,13 @@
+{
+  "name": "Finn The Sharkoon",
+  "symbol": "FINN",
+  "decimals": 6,
+  "coin_type": "0x79f443ad21fd0e24e6d968b4f9b285d6c8a3cb43399f1100123319026080a3ff::finn::FINN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/log_A_3adaa25710.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

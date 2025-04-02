@@ -1,0 +1,13 @@
+{
+  "name": "MEME COIN-2025",
+  "symbol": "PEPE25",
+  "decimals": 9,
+  "coin_type": "0x473e99639896b7b1bde6bdd02949e117c32c1e9304e73ad207828a21eabe2e12::pepe25::PEPE25",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ARgdqYMvCz1QzqKVamnTg5ej2rKikHnqdBB9T9DneKb.png?size=lg&key=639496",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

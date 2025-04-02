@@ -1,0 +1,13 @@
+{
+  "name": "Official Trump Family On Sui",
+  "symbol": "TRUMPF",
+  "decimals": 9,
+  "coin_type": "0x0223126e823c3c21d45a6bc072792685a39a5b78a24612f2f5b951fb02fc3e26::trumpf::TRUMPF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/zFCN2vUTXjhy5wTpGzysqfPYHbK8SZymSuTnSKjpump.png?size=lg&key=09c80a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

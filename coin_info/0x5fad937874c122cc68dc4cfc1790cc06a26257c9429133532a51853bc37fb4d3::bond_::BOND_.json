@@ -1,0 +1,13 @@
+{
+  "name": "BOND",
+  "symbol": "BOND",
+  "decimals": 9,
+  "coin_type": "0x5fad937874c122cc68dc4cfc1790cc06a26257c9429133532a51853bc37fb4d3::bond_::BOND_",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/38dcbb1d-2d88-4b30-925f-2b46a229bc68.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GME6900",
+  "symbol": "GME",
+  "decimals": 6,
+  "coin_type": "0x2ebf959f391f1dccdc74fefd84947814f042cb4191824115298b8652eafa33f9::gme::GME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/wasdwadasx_b4e63fa467.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

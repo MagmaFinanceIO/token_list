@@ -1,0 +1,13 @@
+{
+  "name": "Chromosome",
+  "symbol": "XX",
+  "decimals": 6,
+  "coin_type": "0x6a2790fd789ce55ffa9baa9ac9d37267e61e5f6a9a9fd31fe55d8faccd0bc5f5::xx::XX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735694153420.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

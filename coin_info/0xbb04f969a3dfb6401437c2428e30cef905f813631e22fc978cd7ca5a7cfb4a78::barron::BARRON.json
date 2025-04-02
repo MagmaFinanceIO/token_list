@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL BARRON",
+  "symbol": "BARRON",
+  "decimals": 9,
+  "coin_type": "0xbb04f969a3dfb6401437c2428e30cef905f813631e22fc978cd7ca5a7cfb4a78::barron::BARRON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FVv7quUqG4YF4ahUWFNd1jkSBn1egzA1NkKQEzafzJY6.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

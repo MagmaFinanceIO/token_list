@@ -1,0 +1,13 @@
+{
+  "name": "CESEUS MAXIMUM",
+  "symbol": "CESEUS",
+  "decimals": 9,
+  "coin_type": "0xa40307a7e4e4ed396315acb6b207841973c41ce0ed4bbbab2bf47d1bdd7bd5ba::ceseus::CESEUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0x06864a6f921804860930db6ddbe2e16acdf8504495ea7481637a1c8b9a8fe54b::cetus::cetus.png?size=lg&key=c4cbdc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

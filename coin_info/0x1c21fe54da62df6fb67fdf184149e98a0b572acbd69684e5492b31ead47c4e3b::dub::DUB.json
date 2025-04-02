@@ -1,0 +1,13 @@
+{
+  "name": "Duby",
+  "symbol": "dub",
+  "decimals": 6,
+  "coin_type": "0x1c21fe54da62df6fb67fdf184149e98a0b572acbd69684e5492b31ead47c4e3b::dub::DUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://strapi-dev.scand.app/uploads/sui_c07df05f00.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

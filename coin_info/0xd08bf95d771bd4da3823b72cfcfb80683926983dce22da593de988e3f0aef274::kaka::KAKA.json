@@ -1,0 +1,13 @@
+{
+  "name": "KAKA the SUI AI Agent",
+  "symbol": "KAKA",
+  "decimals": 6,
+  "coin_type": "0xd08bf95d771bd4da3823b72cfcfb80683926983dce22da593de988e3f0aef274::kaka::KAKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1287_c11f76acfd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

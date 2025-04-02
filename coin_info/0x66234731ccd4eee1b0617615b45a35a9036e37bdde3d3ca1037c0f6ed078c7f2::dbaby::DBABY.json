@@ -1,0 +1,13 @@
+{
+  "name": "Dancing Baby",
+  "symbol": "DBaby",
+  "decimals": 6,
+  "coin_type": "0x66234731ccd4eee1b0617615b45a35a9036e37bdde3d3ca1037c0f6ed078c7f2::dbaby::DBABY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/dbaby_834aedc850.GIF",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

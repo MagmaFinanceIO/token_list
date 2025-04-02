@@ -1,0 +1,13 @@
+{
+  "name": "America Pac",
+  "symbol": "PAC",
+  "decimals": 2,
+  "coin_type": "0x1882fd80015028f1a2457e0cf4a065d9ae0fbd4e9c4dd719ebe34ceb4945bcb8::PAC::PAC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/1aEl8xcKSmWdOPYsV9RqsBQ9ZuJ4X4hX2ha5ZSWdHIw?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

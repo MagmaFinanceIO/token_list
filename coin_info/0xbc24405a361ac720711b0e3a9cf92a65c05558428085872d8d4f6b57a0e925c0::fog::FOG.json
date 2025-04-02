@@ -1,0 +1,13 @@
+{
+  "name": "Fish Dog",
+  "symbol": "FOG",
+  "decimals": 6,
+  "coin_type": "0xbc24405a361ac720711b0e3a9cf92a65c05558428085872d8d4f6b57a0e925c0::fog::FOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6522_ec6641daa6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

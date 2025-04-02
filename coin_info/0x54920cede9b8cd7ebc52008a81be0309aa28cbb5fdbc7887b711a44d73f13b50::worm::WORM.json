@@ -1,0 +1,13 @@
+{
+  "name": "Wormlag Sui",
+  "symbol": "WORM",
+  "decimals": 9,
+  "coin_type": "0x54920cede9b8cd7ebc52008a81be0309aa28cbb5fdbc7887b711a44d73f13b50::worm::WORM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2Fwormlag_c4fab2e6ad.jpg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SWEE_TEST USDT Coin",
+  "symbol": "SWEE_TEST",
+  "decimals": 6,
+  "coin_type": "0x82b44c0b9e6b2e1e622b3cab0331ba65fed91ca599c3e3a1622b3299b1a2918d::swee_test::SWEE_TEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pntvpw2m7uxvx7j4roojxy3sb2lrc57jqzwo66kafwdjaj5v3oea.arweave.net/e2dX20z9L1v9PIucm-NyDpcRd-mGbO95QC2GkCe124g",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

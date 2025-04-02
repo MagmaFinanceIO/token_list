@@ -1,0 +1,13 @@
+{
+  "name": "Serene AI",
+  "symbol": "SERE",
+  "decimals": 9,
+  "coin_type": "0xda85108ab92c756219e10a7f7884b2e24b0df2bbfc35be20cb0f290d2207ecbb::sere::SERE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x98100f6c24c5b4de5b5a4e9bfbbe05ed8d0f89fd.png?size=lg&key=b124a6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

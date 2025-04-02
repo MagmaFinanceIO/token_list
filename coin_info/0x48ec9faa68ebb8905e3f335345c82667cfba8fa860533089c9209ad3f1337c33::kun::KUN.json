@@ -1,0 +1,13 @@
+{
+  "name": "KUN LEGEND",
+  "symbol": "KUN",
+  "decimals": 6,
+  "coin_type": "0x48ec9faa68ebb8905e3f335345c82667cfba8fa860533089c9209ad3f1337c33::kun::KUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_1_3ad776b65b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

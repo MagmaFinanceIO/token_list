@@ -1,0 +1,13 @@
+{
+  "name": "SuiDuckz",
+  "symbol": "SDC",
+  "decimals": 9,
+  "coin_type": "0xaa87c47b745d853279052a318e7ba4357403c2584aede11a71a8b7ee093cd6d3::sdc::SDC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8330d4e9-d51c-4684-82be-c6354c9aad52.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BearWifGloves",
+  "symbol": "BEARGLOVE",
+  "decimals": 9,
+  "coin_type": "0x7b846c67a9114c08bcea6454539017d9f4e37bac50fc115f02a8dc7da69d83b6::bearglove::BEARGLOVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d64fac82-3f88-489b-bc09-24ee34bd578f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

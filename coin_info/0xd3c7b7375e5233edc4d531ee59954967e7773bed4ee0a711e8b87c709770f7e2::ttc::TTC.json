@@ -1,0 +1,13 @@
+{
+  "name": "TitineCoin",
+  "symbol": "TTC",
+  "decimals": 9,
+  "coin_type": "0xd3c7b7375e5233edc4d531ee59954967e7773bed4ee0a711e8b87c709770f7e2::ttc::TTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6d2a12de-6f18-4c57-9f84-216a2fe0eaee.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Agent Z3RO",
+  "symbol": "Z3RO",
+  "decimals": 6,
+  "coin_type": "0xe0d500c5ea0ccd97b94ad9469ac45e1e1b4cc4e9be3cae441fc016a31b842ea3::z3ro::Z3RO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1733252618377.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

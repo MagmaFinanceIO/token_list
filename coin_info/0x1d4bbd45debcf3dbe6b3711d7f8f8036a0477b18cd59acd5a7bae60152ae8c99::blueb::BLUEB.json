@@ -1,0 +1,13 @@
+{
+  "name": "BLUEB",
+  "symbol": "BLUEB",
+  "decimals": 9,
+  "coin_type": "0x1d4bbd45debcf3dbe6b3711d7f8f8036a0477b18cd59acd5a7bae60152ae8c99::blueb::BLUEB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d71d5bc1-2728-4b64-b6dc-da601056766b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Crazy Sui Frog",
+  "symbol": "SFROG",
+  "decimals": 6,
+  "coin_type": "0xe597f830d843ba927abbe8ea301cd7e18c405f52f4dfe0bb8d4aa26f87134720::sfrog::SFROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/273aedaf-f14d-461e-bfb7-eb48ad37b96b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

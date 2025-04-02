@@ -1,0 +1,13 @@
+{
+  "name": "Water",
+  "symbol": "H20",
+  "decimals": 9,
+  "coin_type": "0x3e95de3e77e1e8afa26203e7d373d65dc7fb1a462304e3cc3c9d3857c17a15ff::h20::H20",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Gb1TptEgwDfQSyoLnV9v6zxvxHG44VyCV7fopzuQpump.png?size=lg&key=3342f2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

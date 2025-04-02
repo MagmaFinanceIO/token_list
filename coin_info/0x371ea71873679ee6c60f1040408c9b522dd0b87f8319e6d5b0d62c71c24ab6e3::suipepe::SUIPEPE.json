@@ -1,0 +1,13 @@
+{
+  "name": "SUI ONPEPE",
+  "symbol": "SUIPEPE",
+  "decimals": 9,
+  "coin_type": "0x371ea71873679ee6c60f1040408c9b522dd0b87f8319e6d5b0d62c71c24ab6e3::suipepe::SUIPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://file-walletapp.waveonsui.com/images/wave-pumps/54b50619-98a8-4750-ad9a-eeb0eab6aaf1.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mini Doge",
+  "symbol": "MINIDOGE",
+  "decimals": 6,
+  "coin_type": "0xf25a6e5e8643939567ab3a50cc82d3a8ae0180cc9d5a2accf3966792f6228ad1::minidoge::MINIDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/200_f35f160305.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

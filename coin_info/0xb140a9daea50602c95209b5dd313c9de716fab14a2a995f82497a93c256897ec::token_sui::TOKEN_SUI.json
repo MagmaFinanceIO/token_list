@@ -1,0 +1,13 @@
+{
+  "name": "HoneyCart Utility Token",
+  "symbol": "HoneyCart",
+  "decimals": 9,
+  "coin_type": "0xb140a9daea50602c95209b5dd313c9de716fab14a2a995f82497a93c256897ec::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dribbble.com/userupload/17207507/file/original-2a9f2499e9efd287e0fc42ccb26f6c78.png?resize=752x564&vertical=center",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

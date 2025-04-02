@@ -1,0 +1,13 @@
+{
+  "name": "Trade Bot",
+  "symbol": "TRADE",
+  "decimals": 6,
+  "coin_type": "0x4c3da78d17a40bff164f4cf15c941b7799336f990bfb6c717e81652f175dc414::trade::TRADE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Leonardo_Anime_XL_Make_a_robot_operating_on_a_financial_graph_0_1_bb017856ca.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

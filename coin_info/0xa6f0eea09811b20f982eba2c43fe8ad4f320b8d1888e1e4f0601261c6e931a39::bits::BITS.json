@@ -1,0 +1,13 @@
+{
+  "name": "2 Bits Term",
+  "symbol": "BITS",
+  "decimals": 9,
+  "coin_type": "0xa6f0eea09811b20f982eba2c43fe8ad4f320b8d1888e1e4f0601261c6e931a39::bits::BITS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/503c974e-c0ff-440f-baf3-6f95b71504a4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

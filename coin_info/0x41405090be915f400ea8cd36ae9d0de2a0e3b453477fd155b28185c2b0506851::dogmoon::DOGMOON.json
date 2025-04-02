@@ -1,0 +1,13 @@
+{
+  "name": "The DOG on MOON",
+  "symbol": "DogMoon",
+  "decimals": 9,
+  "coin_type": "0x41405090be915f400ea8cd36ae9d0de2a0e3b453477fd155b28185c2b0506851::dogmoon::DOGMOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f5987c13-1797-4990-b65e-304651dd4e0b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

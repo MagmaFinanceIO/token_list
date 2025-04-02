@@ -1,0 +1,13 @@
+{
+  "name": "MELANIA AI by SuiAI",
+  "symbol": "MELANIA",
+  "decimals": 6,
+  "coin_type": "0x21b9545a843c8210d3d9c05ff59ca02a49a61a1923d0c8ddd18d48bd601cec45::melania::MELANIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/473564065_623193606788161_1055950694228575587_n_1c1b9417b4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

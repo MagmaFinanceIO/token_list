@@ -1,0 +1,13 @@
+{
+  "name": "Doge pharaoh",
+  "symbol": "DPC",
+  "decimals": 6,
+  "coin_type": "0x81898df80a5a9a487f357f94bb5e1270acc7ce141e500d8e03355402935451ec::dpc::DPC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Yi_Cc3yy2oqw_Fy_H8b_F_Lgh4_Y35r3_M3gsgze_For_Jf_X_Cgqvi_f77589b724.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

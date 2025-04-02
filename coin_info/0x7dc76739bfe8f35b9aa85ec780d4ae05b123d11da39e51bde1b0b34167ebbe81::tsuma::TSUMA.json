@@ -1,0 +1,13 @@
+{
+  "name": "Tsuma",
+  "symbol": "TSUMA",
+  "decimals": 9,
+  "coin_type": "0x7dc76739bfe8f35b9aa85ec780d4ae05b123d11da39e51bde1b0b34167ebbe81::tsuma::TSUMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x1defbae826f731fd4a48a38baecf13f505008e3b.png?size=lg&key=7ec9c1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

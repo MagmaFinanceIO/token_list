@@ -1,0 +1,13 @@
+{
+  "name": "The Quantor AI by SuiAI",
+  "symbol": "QUANTOR",
+  "decimals": 6,
+  "coin_type": "0x493478446608c03e7df8f33bf0ad3ef892d15dae2ab0ca1177b4cbb238aeb6d6::quantor::QUANTOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Artificial_Intelligence_Robot_Thinking_Brain_b0a6359b56.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

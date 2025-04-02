@@ -1,0 +1,13 @@
+{
+  "name": "Gumball",
+  "symbol": "GUMBALL",
+  "decimals": 9,
+  "coin_type": "0xf1d150ebf34fa57d078ffd5643bf94600aaa276593051c881a5b59ceecefeb42::gumball::GUMBALL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DyKXpVW96LA7a8yx4D8ZvaKjkpDBcVn4Bz3MUHyLpump.png?size=lg&key=e206b6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

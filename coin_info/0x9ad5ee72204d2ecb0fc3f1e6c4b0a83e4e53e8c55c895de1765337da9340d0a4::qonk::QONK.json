@@ -1,0 +1,13 @@
+{
+  "name": "QonkSui",
+  "symbol": "Qonk",
+  "decimals": 6,
+  "coin_type": "0x9ad5ee72204d2ecb0fc3f1e6c4b0a83e4e53e8c55c895de1765337da9340d0a4::qonk::QONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b9833d60-238b-4d81-8544-8d1ad34b62c5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

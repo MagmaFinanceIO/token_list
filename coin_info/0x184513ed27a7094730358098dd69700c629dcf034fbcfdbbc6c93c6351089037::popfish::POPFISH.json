@@ -1,0 +1,13 @@
+{
+  "name": "POPFISH",
+  "symbol": "POPFISH",
+  "decimals": 9,
+  "coin_type": "0x184513ed27a7094730358098dd69700c629dcf034fbcfdbbc6c93c6351089037::popfish::POPFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AminyTTRX9HEMBNFdB7afYPUjZQJ4tpAGvv1VRXzpump.png?size=lg&key=e53b14",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

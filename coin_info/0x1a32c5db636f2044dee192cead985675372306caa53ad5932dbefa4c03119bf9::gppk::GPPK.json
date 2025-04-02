@@ -1,0 +1,13 @@
+{
+  "name": "gppk",
+  "symbol": "gppk",
+  "decimals": 9,
+  "coin_type": "0x1a32c5db636f2044dee192cead985675372306caa53ad5932dbefa4c03119bf9::gppk::GPPK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CB48KiK1oi1tWtjmPWxVR2NPeEr9ewzmZQ8ERk79Ue4b.png?size=lg&key=e3d4b7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

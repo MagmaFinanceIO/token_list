@@ -1,0 +1,13 @@
+{
+  "name": "H4CK Terminal by Virtuals",
+  "symbol": "H4CK",
+  "decimals": 9,
+  "coin_type": "0x76bfbc6313d1d91b42fadcc7d881f2e0a33c0bd66a6c7f5922d99064354ba7a6::h4ck::H4CK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x625bb9bb04bdca51871ed6d07e2dd9034e914631.png?size=xl&key=5507c9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

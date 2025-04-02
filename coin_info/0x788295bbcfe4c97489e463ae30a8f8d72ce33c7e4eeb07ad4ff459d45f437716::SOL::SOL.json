@@ -1,0 +1,13 @@
+{
+  "name": "Solana cash",
+  "symbol": "SOL",
+  "decimals": 9,
+  "coin_type": "0x788295bbcfe4c97489e463ae30a8f8d72ce33c7e4eeb07ad4ff459d45f437716::SOL::SOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ce44702e-ca50-49b9-85a2-6f7b5b963a4c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

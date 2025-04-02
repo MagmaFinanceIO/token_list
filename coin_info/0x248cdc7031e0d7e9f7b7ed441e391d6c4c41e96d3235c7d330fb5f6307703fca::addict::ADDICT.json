@@ -1,0 +1,13 @@
+{
+  "name": "ADDICT AI",
+  "symbol": "ADDICT",
+  "decimals": 6,
+  "coin_type": "0x248cdc7031e0d7e9f7b7ed441e391d6c4c41e96d3235c7d330fb5f6307703fca::addict::ADDICT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736532202221.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

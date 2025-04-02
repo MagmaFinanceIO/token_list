@@ -1,0 +1,13 @@
+{
+  "name": "Froge Finance",
+  "symbol": "FROGE",
+  "decimals": 6,
+  "coin_type": "0xa82b4033bb909837382faf6dd145550cee1ce32f643ed0b7176cb199e13ca829::froge::FROGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1732847186048.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Blue eyed dog",
+  "symbol": "SUIBLUE",
+  "decimals": 9,
+  "coin_type": "0x10cf866f5318554d5e209c69903358153889d8586574e625ece6406c16b417f4::suiblue::SUIBLUE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0x53b7015c996f22c026fa320cff2110002771e55dd36307221c2a0f473107869b::blue::blue.png?size=lg&key=18c7f5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

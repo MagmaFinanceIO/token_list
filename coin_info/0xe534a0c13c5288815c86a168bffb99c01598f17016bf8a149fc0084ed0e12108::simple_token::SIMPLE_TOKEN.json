@@ -1,0 +1,13 @@
+{
+  "name": "COCO",
+  "symbol": "COCO",
+  "decimals": 9,
+  "coin_type": "0xe534a0c13c5288815c86a168bffb99c01598f17016bf8a149fc0084ed0e12108::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

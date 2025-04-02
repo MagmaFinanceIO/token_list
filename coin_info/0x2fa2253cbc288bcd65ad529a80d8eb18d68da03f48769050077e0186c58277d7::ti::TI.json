@@ -1,0 +1,13 @@
+{
+  "name": "Titanium",
+  "symbol": "Ti",
+  "decimals": 9,
+  "coin_type": "0x2fa2253cbc288bcd65ad529a80d8eb18d68da03f48769050077e0186c58277d7::ti::TI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6d4bdfee-d6c4-4f2f-ada1-fd2ce360931f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

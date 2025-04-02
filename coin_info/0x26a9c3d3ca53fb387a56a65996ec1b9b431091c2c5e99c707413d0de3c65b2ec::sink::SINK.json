@@ -1,0 +1,13 @@
+{
+  "name": "Deep Sink",
+  "symbol": "Sink",
+  "decimals": 9,
+  "coin_type": "0x26a9c3d3ca53fb387a56a65996ec1b9b431091c2c5e99c707413d0de3c65b2ec::sink::SINK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GuQgHt8BfmwMbDcpCcC6W9miisEWwK9WCx9iqwVepump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

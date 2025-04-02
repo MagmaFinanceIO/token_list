@@ -1,0 +1,13 @@
+{
+  "name": "MAGA SUI",
+  "symbol": "MAGASUI",
+  "decimals": 6,
+  "coin_type": "0x9b1b55c5c90e99619bd7aa9408fd8c807e035c3b2cb4a68363627d7fa2930e59::magasui::MAGASUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736819787886.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

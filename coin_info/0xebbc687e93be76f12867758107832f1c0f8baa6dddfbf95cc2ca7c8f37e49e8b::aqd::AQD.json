@@ -1,0 +1,13 @@
+{
+  "name": "AQD",
+  "symbol": "AQD",
+  "decimals": 9,
+  "coin_type": "0xebbc687e93be76f12867758107832f1c0f8baa6dddfbf95cc2ca7c8f37e49e8b::aqd::AQD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

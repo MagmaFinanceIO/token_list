@@ -1,0 +1,13 @@
+{
+  "name": "Team Liquid Fan Token",
+  "symbol": "MyBlue",
+  "decimals": 9,
+  "coin_type": "0x1510d4a84e6f8f867024daeea00079c08e6383c06f35e563c1de302f4d98beac::myblue::MYBLUE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://inventory-cdn.gamerbase.gg/25m7km05p1phlfr0/avatar/a437aae6-2a4f-46e0-b178-60c522e4fae0.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sonta clauz",
+  "symbol": "SONTA",
+  "decimals": 6,
+  "coin_type": "0x345fce741753b13af09b6a697f549b950a9b0d285a7dc88d35f4297bd8ede495::sonta::SONTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qmb_C_Ac_A3r66kz_X7_HQZH_1b_RCD_2eut_Fwn_Wt_Nbpqba_FN_Rphr_K_8d26243c80.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

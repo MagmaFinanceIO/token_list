@@ -1,0 +1,13 @@
+{
+  "name": "Suibmarine",
+  "symbol": "SUIBMARINE",
+  "decimals": 8,
+  "coin_type": "0xb8edd83d633e81e1500496c85dd877af7c15efcdfb9a9180e1123695de1a9032::suibmarine::SUIBMARINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5e242175-2127-4fb6-a013-f98bb0263b70.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

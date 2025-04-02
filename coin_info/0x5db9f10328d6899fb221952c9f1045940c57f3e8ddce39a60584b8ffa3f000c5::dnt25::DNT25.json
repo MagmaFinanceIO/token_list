@@ -1,0 +1,13 @@
+{
+  "name": "TRUM 2025",
+  "symbol": "DNT25",
+  "decimals": 9,
+  "coin_type": "0x5db9f10328d6899fb221952c9f1045940c57f3e8ddce39a60584b8ffa3f000c5::dnt25::DNT25",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/af1250be-1897-48b1-a4c0-0a1f2706a197.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

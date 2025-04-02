@@ -1,0 +1,13 @@
+{
+  "name": "Blue marlin",
+  "symbol": "BMS",
+  "decimals": 2,
+  "coin_type": "0xd69f3952269086d2be0a35224bd3cf066c49760794fe097d1dbda135658bc3ec::bms::BMS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/46920231-8810-4568-8a6a-fed19ceb8bba.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

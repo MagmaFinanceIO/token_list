@@ -1,0 +1,13 @@
+{
+  "name": "Denii Token",
+  "symbol": "DETN",
+  "decimals": 9,
+  "coin_type": "0x6403541fcfe902e87ffb88c4308d8c6ba06455e7423fba592a7365f85fd62a70::detn::DETN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "\"C:\\Users\\NYEIL\\OneDrive\\Pictures\\Saved Pictures\\Purple and Black Minimalist Space Desktop Wallpaper.png\"",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

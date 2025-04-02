@@ -1,0 +1,13 @@
+{
+  "name": "Side Eye Cat",
+  "symbol": "SEC",
+  "decimals": 9,
+  "coin_type": "0x94ba256d2cefc84637e63ef78d1c73fd56fa14ae564b994cfdeabdf8eefb825d::sec::SEC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e5204b90-18d3-4db8-b834-5f3aac774dfd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FROCHI",
+  "symbol": "FROCHI",
+  "decimals": 9,
+  "coin_type": "0x0f824c14e612a352972dbbd18f00a99925381ed6dd302e0d05abc4b9c4b9dffa::frochi::FROCHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/WQgvBQJexvrCtxKmYoZ6WsoK1RqqB23nx5KH9axpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

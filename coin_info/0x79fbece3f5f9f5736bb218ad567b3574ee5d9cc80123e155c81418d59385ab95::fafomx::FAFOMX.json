@@ -1,0 +1,13 @@
+{
+  "name": "FAFO MEXICANO",
+  "symbol": "FAFOMX",
+  "decimals": 9,
+  "coin_type": "0x79fbece3f5f9f5736bb218ad567b3574ee5d9cc80123e155c81418d59385ab95::fafomx::FAFOMX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/oghSDG5D2YEBGUnroDVU6Lt56kcU4JBkUWxgsscffmx.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

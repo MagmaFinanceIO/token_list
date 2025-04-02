@@ -1,0 +1,13 @@
+{
+  "name": "Suimal",
+  "symbol": "SUIMAL",
+  "decimals": 9,
+  "coin_type": "0xb65fe1f33d63fa01a6dcdbfc92185eb86cfbaf1532257f558d8881a9bce36b38::suimal::SUIMAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f697066732e696f2f697066732f516d556b34453661756b79556231473469376e7746556b465145446e794d5331475854797170784b4454534d3159",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

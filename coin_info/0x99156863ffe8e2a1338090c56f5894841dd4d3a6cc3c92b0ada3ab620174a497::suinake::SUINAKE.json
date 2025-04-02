@@ -1,0 +1,13 @@
+{
+  "name": "Lil Suinake",
+  "symbol": "SUINAKE",
+  "decimals": 9,
+  "coin_type": "0x99156863ffe8e2a1338090c56f5894841dd4d3a6cc3c92b0ada3ab620174a497::suinake::SUINAKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f5c5e5aa-c506-4409-b7f3-dc6b8647eb69.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

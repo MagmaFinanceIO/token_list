@@ -1,0 +1,13 @@
+{
+  "name": "🦊 FURRY",
+  "symbol": "FURRY",
+  "decimals": 9,
+  "coin_type": "0x00a242950f43349111e113b58b49538ef6bef0ca696c0b036d6e9ca248dabb23::furry::FURRY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/461e0d88-6805-46b7-b9af-712f35226ce1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

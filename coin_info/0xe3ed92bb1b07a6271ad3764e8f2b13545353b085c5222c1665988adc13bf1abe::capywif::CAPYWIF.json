@@ -1,0 +1,13 @@
+{
+  "name": "Capybara Wif Hat",
+  "symbol": "CAPYWIF",
+  "decimals": 9,
+  "coin_type": "0xe3ed92bb1b07a6271ad3764e8f2b13545353b085c5222c1665988adc13bf1abe::capywif::CAPYWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/673113bb-4077-4501-bef2-28373a94dd62.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

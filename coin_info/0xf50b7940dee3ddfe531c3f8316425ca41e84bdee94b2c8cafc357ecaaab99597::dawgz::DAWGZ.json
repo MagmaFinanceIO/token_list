@@ -1,0 +1,13 @@
+{
+  "name": "Suiweed Dawgz",
+  "symbol": "Dawgz",
+  "decimals": 6,
+  "coin_type": "0xf50b7940dee3ddfe531c3f8316425ca41e84bdee94b2c8cafc357ecaaab99597::dawgz::DAWGZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000017603_a527bcafea.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

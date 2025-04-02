@@ -1,0 +1,13 @@
+{
+  "name": "Agent B",
+  "symbol": "B",
+  "decimals": 6,
+  "coin_type": "0xd6b16e5071131e39c73a5cd68145daf0ef74a71c4af88ae46414bfe9dca0ee57::b::B",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000000364_9977b34320.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

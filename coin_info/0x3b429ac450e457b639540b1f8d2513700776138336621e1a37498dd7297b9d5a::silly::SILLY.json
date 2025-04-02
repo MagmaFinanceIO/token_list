@@ -1,0 +1,13 @@
+{
+  "name": "Silly The Worm",
+  "symbol": "SILLY",
+  "decimals": 9,
+  "coin_type": "0x3b429ac450e457b639540b1f8d2513700776138336621e1a37498dd7297b9d5a::silly::SILLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/eec75b8a-5d8d-4c2c-85ef-dbb2d8ce920e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

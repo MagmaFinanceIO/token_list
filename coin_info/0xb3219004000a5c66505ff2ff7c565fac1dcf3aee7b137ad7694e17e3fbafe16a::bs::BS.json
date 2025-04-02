@@ -1,0 +1,13 @@
+{
+  "name": "Baby Shark",
+  "symbol": "BS",
+  "decimals": 6,
+  "coin_type": "0xb3219004000a5c66505ff2ff7c565fac1dcf3aee7b137ad7694e17e3fbafe16a::bs::BS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/baby_shark_birthday_greeting_card_600nw_2332962073_35d9610287.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Brickle Cat",
+  "symbol": "BrickleCat",
+  "decimals": 9,
+  "coin_type": "0xb41beb006dc673e33b9214069173a5ddfff26a2fecdd2f707471a2b613037144::bricklecat::BRICKLECAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

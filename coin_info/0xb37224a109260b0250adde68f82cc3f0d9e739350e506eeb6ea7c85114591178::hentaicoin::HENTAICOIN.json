@@ -1,0 +1,13 @@
+{
+  "name": "HENTAICOIN",
+  "symbol": "HENTAICOIN",
+  "decimals": 9,
+  "coin_type": "0xb37224a109260b0250adde68f82cc3f0d9e739350e506eeb6ea7c85114591178::hentaicoin::HENTAICOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/97HJKngLUDxmfyYLPSwCfzVFqgHR1ZuRku9o9uvSpump.png?size=lg&key=9d0cb0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

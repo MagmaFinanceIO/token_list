@@ -1,0 +1,13 @@
+{
+  "name": "First Lady Melania Trump",
+  "symbol": "FLOTUS",
+  "decimals": 9,
+  "coin_type": "0x12827d92dd9a96e51e6c3ee3fba07bab351ed457043ea83c7416ca26eab239f5::flotus::FLOTUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/uc9MV7c7E8owtwVjBsNCndFygtQyf8dkbC94gwupump.png?size=lg&key=11b127",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

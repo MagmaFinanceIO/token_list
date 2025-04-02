@@ -1,0 +1,13 @@
+{
+  "name": "DEER SANTA GIFT",
+  "symbol": "DSG",
+  "decimals": 9,
+  "coin_type": "0x8f4fefd8707f2c97c24e3b1e615e52995fed5d1ce675fd975b370591841c3cd9::dsg::DSG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b467eb81-873e-48ff-b323-0d7e15e2824e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

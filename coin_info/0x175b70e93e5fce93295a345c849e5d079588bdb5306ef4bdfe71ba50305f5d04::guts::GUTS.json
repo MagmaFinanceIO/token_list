@@ -1,0 +1,13 @@
+{
+  "name": "Guts Dogs ",
+  "symbol": "GUTS",
+  "decimals": 9,
+  "coin_type": "0x175b70e93e5fce93295a345c849e5d079588bdb5306ef4bdfe71ba50305f5d04::guts::GUTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://file-walletapp.waveonsui.com/images/wave-pumps/4c85e387-1bb1-44d1-9027-b2b0536526a3.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

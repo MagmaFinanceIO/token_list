@@ -1,0 +1,13 @@
+{
+  "name": "BASHFUL BEAVER",
+  "symbol": "BBVR",
+  "decimals": 6,
+  "coin_type": "0x3fc6b4c32d3ad6620c15e459699619552d23501086ecd622b81963252bc8effb::bbvr::BBVR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_21_034909476_cb1304a598.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Fsh",
+  "symbol": "FSH",
+  "decimals": 6,
+  "coin_type": "0x9cf001ba3df429bff331ee41e17277a3f420f2d8d03c0d08d7151610c489b748::fsh::FSH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_11_20_230120_8f8fd0e830.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

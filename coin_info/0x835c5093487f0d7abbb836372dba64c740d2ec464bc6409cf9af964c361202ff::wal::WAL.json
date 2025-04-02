@@ -1,0 +1,13 @@
+{
+  "name": "walrus TGE pass",
+  "symbol": "WAL",
+  "decimals": 9,
+  "coin_type": "0x835c5093487f0d7abbb836372dba64c740d2ec464bc6409cf9af964c361202ff::wal::WAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/4786c86eb675253ba180377b5c371e82blob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

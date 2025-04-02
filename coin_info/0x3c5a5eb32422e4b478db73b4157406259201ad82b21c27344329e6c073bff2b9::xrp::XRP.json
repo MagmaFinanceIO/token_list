@@ -1,0 +1,13 @@
+{
+  "name": "XRP on Solana",
+  "symbol": "XRP",
+  "decimals": 9,
+  "coin_type": "0x3c5a5eb32422e4b478db73b4157406259201ad82b21c27344329e6c073bff2b9::xrp::XRP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreicxp7ojmkwzzl23s7a2rhufj2z4z2l6jybpsadlkrjzx5lwbnnzaq.ipfs.w3s.link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

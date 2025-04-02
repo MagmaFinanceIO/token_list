@@ -1,0 +1,13 @@
+{
+  "name": "Sexy Language Model",
+  "symbol": "SLM",
+  "decimals": 9,
+  "coin_type": "0xf75bbdc9926240d01fe8948ae4d933e078a3765727de0aa9701e97fdcf4ba4b2::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

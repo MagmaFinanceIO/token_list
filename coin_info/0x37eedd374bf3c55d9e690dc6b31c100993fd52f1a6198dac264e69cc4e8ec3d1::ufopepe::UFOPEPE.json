@@ -1,0 +1,13 @@
+{
+  "name": "UFO PEPE",
+  "symbol": "UFOPEPE",
+  "decimals": 6,
+  "coin_type": "0x37eedd374bf3c55d9e690dc6b31c100993fd52f1a6198dac264e69cc4e8ec3d1::ufopepe::UFOPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ufo_219ec28b92.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

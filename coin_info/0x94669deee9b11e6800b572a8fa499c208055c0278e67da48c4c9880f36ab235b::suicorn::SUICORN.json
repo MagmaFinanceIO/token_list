@@ -1,0 +1,13 @@
+{
+  "name": "Suicorn",
+  "symbol": "SUICORN",
+  "decimals": 1,
+  "coin_type": "0x94669deee9b11e6800b572a8fa499c208055c0278e67da48c4c9880f36ab235b::suicorn::SUICORN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3ac50b5f-a7cf-463c-87f3-7332d2c06956.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

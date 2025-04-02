@@ -1,0 +1,13 @@
+{
+  "name": "Sui Bubble",
+  "symbol": "BUBBLE",
+  "decimals": 6,
+  "coin_type": "0x80e76472336398d0608ec276227192c8533907eaa4c5248145e24648328e72cf::bubble::BUBBLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000036898_edf17e3228.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

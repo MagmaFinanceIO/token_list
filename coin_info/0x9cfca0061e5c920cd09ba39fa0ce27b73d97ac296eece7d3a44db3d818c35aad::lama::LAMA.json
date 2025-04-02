@@ -1,0 +1,13 @@
+{
+  "name": "Sui Lama",
+  "symbol": "LAMA",
+  "decimals": 6,
+  "coin_type": "0x9cfca0061e5c920cd09ba39fa0ce27b73d97ac296eece7d3a44db3d818c35aad::lama::LAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dfb61e90-7430-45dc-b32c-08ca2fa54d48.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

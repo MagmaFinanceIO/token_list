@@ -1,0 +1,13 @@
+{
+  "name": "Missing Luv",
+  "symbol": "LUV",
+  "decimals": 6,
+  "coin_type": "0x5f29db0672874096398206c241fe5b2b56140043d16db4713b4e909823572382::luv::LUV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmUWzHyv7hnYZtyyyX8ne88huNuGuunNVKAdaXZn3t8m8S",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

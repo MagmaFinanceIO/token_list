@@ -1,0 +1,13 @@
+{
+  "name": "$BLACKFISH ON SUI",
+  "symbol": "BLACKFISH",
+  "decimals": 6,
+  "coin_type": "0xe0c1074b9457a2ba242db6bf3c219b18786c4288712ce169d443a49c59e09d03::blackfish::BLACKFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20241118_132705_796_e1838444cd.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

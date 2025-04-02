@@ -1,0 +1,13 @@
+{
+  "name": "Muiala",
+  "symbol": "MUI",
+  "decimals": 9,
+  "coin_type": "0xd4e9a673db5d26f56e8d70889de4b38383a95fa53123b4023764df968a38dd66::mui::MUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9b993ae3-6994-461a-84db-fe0da16c895b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

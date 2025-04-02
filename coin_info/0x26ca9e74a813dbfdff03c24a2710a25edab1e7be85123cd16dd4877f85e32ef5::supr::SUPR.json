@@ -1,0 +1,13 @@
+{
+  "name": "Memecoin Supercycle",
+  "symbol": "SUPR",
+  "decimals": 9,
+  "coin_type": "0x26ca9e74a813dbfdff03c24a2710a25edab1e7be85123cd16dd4877f85e32ef5::supr::SUPR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/SUPRF6dwzVo7aXgZt3KzrpAQvsb1fHPDEX2gGNqxnsP.png?size=lg&key=8c9cca",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

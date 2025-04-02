@@ -1,0 +1,13 @@
+{
+  "name": "Sui Daddy Tate",
+  "symbol": "DADDY",
+  "decimals": 9,
+  "coin_type": "0x73fbba74f9d3b38d05a841acf2ec3bceb2ae8bfb9eac3a0efb3a94518f06ac84::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmXQ2NFebNVS1GQGvdXpj8PLM8H1P96A7pRVXF6geMtrnJ?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

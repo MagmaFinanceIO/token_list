@@ -1,0 +1,13 @@
+{
+  "name": "Anatolius Maximus",
+  "symbol": "ANALIUS",
+  "decimals": 9,
+  "coin_type": "0x04feb576d7aed5205f2e795a7d4c5735c3daf574c319511777e6fb6f12e5fbff::analius::ANALIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AYw6QFWjJecN9soJxTKWtvb5YYHTJf2JPSATgrwspump.png?size=lg&key=35394f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AndroidAH",
+  "symbol": "AAH",
+  "decimals": 6,
+  "coin_type": "0x711b3052c6194b79120d15ba775cbe1bd740907afb8de2209d76cff2f2172253::aah::AAH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/andr_54062b0c54.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

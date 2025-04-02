@@ -1,0 +1,13 @@
+{
+  "name": "Suingo",
+  "symbol": "SUINGO",
+  "decimals": 6,
+  "coin_type": "0x21a615ba0902ea7687436614b0943b971f10fa49568c5051c0f3bdf24084cc19::suingo::SUINGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Capture_d_ecran_2024_12_22_a_18_54_18_18dd9f46cc.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

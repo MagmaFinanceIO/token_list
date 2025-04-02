@@ -1,0 +1,13 @@
+{
+  "name": "CHICKO",
+  "symbol": "CHICKO",
+  "decimals": 9,
+  "coin_type": "0xc2c8a70ea8cf0d072f79d48adde5798b35b8797374c814aab52f7c9f0dc73934::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

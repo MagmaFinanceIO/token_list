@@ -1,0 +1,13 @@
+{
+  "name": "SUIVERSE",
+  "symbol": "VERSE",
+  "decimals": 6,
+  "coin_type": "0x71a8c329b4894f76c86c3aed0689e345033549d640a330670c46a10e2a70ae46::verse::VERSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmP5yt8khqwvXUK2DDPw6joXk5L1BrXJcjrfnGfvAWXNBd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

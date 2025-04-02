@@ -1,0 +1,13 @@
+{
+  "name": "MDMA",
+  "symbol": "MDMA",
+  "decimals": 9,
+  "coin_type": "0x515850de82cbc8d42f992bd68768ab97f408e9d989775a1d462711038232a9b9::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

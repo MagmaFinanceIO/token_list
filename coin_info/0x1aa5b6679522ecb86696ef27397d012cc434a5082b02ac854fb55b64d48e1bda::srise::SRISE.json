@@ -1,0 +1,13 @@
+{
+  "name": "SUIRISE",
+  "symbol": "SRISE",
+  "decimals": 9,
+  "coin_type": "0x1aa5b6679522ecb86696ef27397d012cc434a5082b02ac854fb55b64d48e1bda::srise::SRISE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1724d2df-2713-4780-b236-fbcb2762e594.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

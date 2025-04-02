@@ -1,0 +1,13 @@
+{
+  "name": "CHEESEBALL CAT",
+  "symbol": "SUICHEESEBALL",
+  "decimals": 6,
+  "coin_type": "0x5c5c23d3e2813f07c7a4843f10cc2c13220d0cd5cd255b9ea16f8f1673021816::suicheeseball::SUICHEESEBALL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3540_688b277fc1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

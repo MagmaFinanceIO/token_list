@@ -1,0 +1,13 @@
+{
+  "name": "DOGS",
+  "symbol": "DOGS",
+  "decimals": 9,
+  "coin_type": "0xec6adf2e55435f9c9ebbcdb73f782450a13748459af98139722ee141c178f79a::dogs::DOGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

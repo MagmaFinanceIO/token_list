@@ -1,0 +1,13 @@
+{
+  "name": "TLOGO",
+  "symbol": "TLOGO",
+  "decimals": 9,
+  "coin_type": "0xd6b9374a7cf23a10e269e982f2e1124caabfd667698c506ca65e6c169fc0815a::test::TEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/p27hwhh/apuicon1-250x250.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

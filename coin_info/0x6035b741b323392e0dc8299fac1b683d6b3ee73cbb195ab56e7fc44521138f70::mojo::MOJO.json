@@ -1,0 +1,13 @@
+{
+  "name": "MOJO ON SUI",
+  "symbol": "MOJO",
+  "decimals": 6,
+  "coin_type": "0x6035b741b323392e0dc8299fac1b683d6b3ee73cbb195ab56e7fc44521138f70::mojo::MOJO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731426937529.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

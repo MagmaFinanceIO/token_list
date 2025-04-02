@@ -1,0 +1,13 @@
+{
+  "name": "Magaverse",
+  "symbol": "MVRS",
+  "decimals": 9,
+  "coin_type": "0xa2bad87770fdd7ca32621751e4aa58b77996bb69c5cdd1abb4fdcf6da5257b71::mvrs::MVRS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6dk9H7RD5m8JtRuUErNztwhBbr5ynzWvzPTusLpxpump.png?size=lg&key=b74c7a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

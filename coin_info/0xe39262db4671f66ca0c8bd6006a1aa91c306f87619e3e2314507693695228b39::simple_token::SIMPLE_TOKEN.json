@@ -1,0 +1,13 @@
+{
+  "name": "VOICEAI",
+  "symbol": "VOICEAI",
+  "decimals": 9,
+  "coin_type": "0xe39262db4671f66ca0c8bd6006a1aa91c306f87619e3e2314507693695228b39::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

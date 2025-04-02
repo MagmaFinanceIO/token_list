@@ -1,0 +1,13 @@
+{
+  "name": "New Year Nyan Cat!",
+  "symbol": "NYNC",
+  "decimals": 9,
+  "coin_type": "0xca99321f20fd52c52b696cecc691d9dac7a21e763f2ca658dc23d14903c0edb7::nync::NYNC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BYXgSMha7DJkMuAA5ZD9UEFoRfqExEF3fJfDv7qZpump.png?size=lg&key=d1fdb0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Deep Pump AI",
+  "symbol": "DEEPPUMP",
+  "decimals": 9,
+  "coin_type": "0x852edb75120af34014a4ae2e3aa0eccf1780fafa57bc299ef47cfda8b50e70f1::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

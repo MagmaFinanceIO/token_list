@@ -1,0 +1,13 @@
+{
+  "name": "Woodle Sui",
+  "symbol": "Woodle",
+  "decimals": 6,
+  "coin_type": "0x69ec8d842072c6ad63efe162801dfd3cb7c99e2abd1bbab11100cb44d3dae91c::woodle::WOODLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/953c4cc8-29cf-4841-9b78-8bac2cf870f6.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

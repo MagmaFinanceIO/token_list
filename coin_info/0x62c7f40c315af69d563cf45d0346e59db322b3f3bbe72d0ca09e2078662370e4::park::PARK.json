@@ -1,0 +1,13 @@
+{
+  "name": "Parking AI",
+  "symbol": "Park",
+  "decimals": 6,
+  "coin_type": "0x62c7f40c315af69d563cf45d0346e59db322b3f3bbe72d0ca09e2078662370e4::park::PARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f0c69e2c-832f-42fb-b1c5-6a68fb39792f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TeddyOnHeels",
+  "symbol": "TOH",
+  "decimals": 9,
+  "coin_type": "0xd9f45fa42b95222e31a0e871ea9f56ded01f0e068488d41094ea0ef778e3142b::toh::TOH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7V7oQuCgKrrV41ymmpdamxPxJAJFjZ3FdfKQ8bD4goFR.png?size=lg&key=14c9dc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

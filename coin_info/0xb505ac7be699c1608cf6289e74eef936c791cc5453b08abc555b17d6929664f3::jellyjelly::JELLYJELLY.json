@@ -1,0 +1,13 @@
+{
+  "name": "jelly-my-jelly",
+  "symbol": "jellyjelly",
+  "decimals": 9,
+  "coin_type": "0xb505ac7be699c1608cf6289e74eef936c791cc5453b08abc555b17d6929664f3::jellyjelly::JELLYJELLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmWT4jA2ipuevUfBi1a2LW2gfnPJyvHn1JayAe2qz5kRQJ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Leo the Leopard Seal",
+  "symbol": "LEO",
+  "decimals": 6,
+  "coin_type": "0xb97b1dd4fe73f4a013d151ba0d633788931bf67a8e06b5343f98f77756cbc984::leo::LEO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/leo_6acc697fa3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

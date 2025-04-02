@@ -1,0 +1,13 @@
+{
+  "name": "AI Ecom Crypto Marketplace",
+  "symbol": "AIECOM",
+  "decimals": 6,
+  "coin_type": "0x47f9a359834771f82187dd52384ac6288f9f7f046f12fd0587152381b786bc06::aiecom::AIECOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/903ef79e-f795-434a-90d6-9b1a8579f033.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

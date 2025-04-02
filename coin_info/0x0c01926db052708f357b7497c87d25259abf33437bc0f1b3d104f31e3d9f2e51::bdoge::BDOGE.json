@@ -1,0 +1,13 @@
+{
+  "name": "BABY D.O.G.E SUI",
+  "symbol": "BDOGE",
+  "decimals": 9,
+  "coin_type": "0x0c01926db052708f357b7497c87d25259abf33437bc0f1b3d104f31e3d9f2e51::bdoge::BDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/88254f0f-a2e3-4a39-83c2-fdb5fff7ce9a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CroakCoin on SUI",
+  "symbol": "CROAK",
+  "decimals": 9,
+  "coin_type": "0x25572d79387b2ccbacf2a2650d472a1f07946af3af9699432212fc204439d49e::croak::CROAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://imgur.com/a/RZiEshK",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

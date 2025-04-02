@@ -1,0 +1,13 @@
+{
+  "name": "SUI STAR FISH",
+  "symbol": "SUISTAR",
+  "decimals": 6,
+  "coin_type": "0xc86612a21202b2dc3a15187745e6364b6af42c7d468e102d62adb0ed9af64a41::suistar::SUISTAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1634_aa4d6bcd5e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

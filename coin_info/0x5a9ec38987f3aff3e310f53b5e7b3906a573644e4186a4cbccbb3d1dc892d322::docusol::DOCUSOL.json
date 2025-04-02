@@ -1,0 +1,13 @@
+{
+  "name": "DocuSol",
+  "symbol": "DOCUSOL",
+  "decimals": 9,
+  "coin_type": "0x5a9ec38987f3aff3e310f53b5e7b3906a573644e4186a4cbccbb3d1dc892d322::docusol::DOCUSOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2thfFEH6nR7Qbqd315Dt9BjSJRau9YQ4mmBhkAuepump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

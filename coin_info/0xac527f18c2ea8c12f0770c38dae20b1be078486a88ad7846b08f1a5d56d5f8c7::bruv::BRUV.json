@@ -1,0 +1,13 @@
+{
+  "name": "BRUV",
+  "symbol": "BRUV",
+  "decimals": 9,
+  "coin_type": "0xac527f18c2ea8c12f0770c38dae20b1be078486a88ad7846b08f1a5d56d5f8c7::bruv::BRUV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/nFXLang7pEKP9gyEmkuVhGTByhPd3Soa1pA7Q8Lpump.png?size=lg&key=6c175b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

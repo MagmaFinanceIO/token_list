@@ -1,0 +1,13 @@
+{
+  "name": "SUI Genie",
+  "symbol": "GENIES",
+  "decimals": 6,
+  "coin_type": "0x060b3624902290fd57357866266d743192edac91c6187a3206e984bbb380fc79::genies::GENIES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FMGA_LOGO_2_6_4c08790ed5.jpg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

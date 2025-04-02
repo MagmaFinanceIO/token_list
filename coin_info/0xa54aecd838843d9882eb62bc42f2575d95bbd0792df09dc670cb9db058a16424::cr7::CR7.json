@@ -1,0 +1,13 @@
+{
+  "name": "Cristiano Ronaldo",
+  "symbol": "CR7",
+  "decimals": 9,
+  "coin_type": "0xa54aecd838843d9882eb62bc42f2575d95bbd0792df09dc670cb9db058a16424::cr7::CR7",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmUkDzch1AnSrkph7P6wLFeMBi9N2fjUDYJyje4Z39RuwW",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

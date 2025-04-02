@@ -1,0 +1,13 @@
+{
+  "name": "DonalDick",
+  "symbol": "DICK",
+  "decimals": 9,
+  "coin_type": "0x8c9790fc3260178783902441b1b530045ac654bce790f594c7788f06c1b8787a::dick::DICK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0c3515a8-5b39-4c21-93b1-fcc1cb0eabb8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

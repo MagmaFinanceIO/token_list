@@ -1,0 +1,13 @@
+{
+  "name": "Nuts",
+  "symbol": "NUTS",
+  "decimals": 9,
+  "coin_type": "0x06ca07536012fec015544800ed93bdc7b0ee92d254fe24858b372ce725efc8a3::nuts::NUTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4p5GVnMZYrwzp3qJfAenvcQVNzfCQxbd5QsRuRgvpump.png?size=xl&key=c882df",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "wimpy kid",
+  "symbol": "greg",
+  "decimals": 9,
+  "coin_type": "0x279fbccd13fc69ba9bbf46da5e19a1175a0f132e5f16f273f705b357bedcdf66::greg::GREG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmbdBudcQCc52o2aCoGcNa1JH5orWb1kHb34h7horTqVnb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

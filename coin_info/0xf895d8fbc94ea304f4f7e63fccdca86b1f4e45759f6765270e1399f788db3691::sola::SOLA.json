@@ -1,0 +1,13 @@
+{
+  "name": "SOLA AI",
+  "symbol": "SOLA",
+  "decimals": 6,
+  "coin_type": "0xf895d8fbc94ea304f4f7e63fccdca86b1f4e45759f6765270e1399f788db3691::sola::SOLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qmehs_Db_Nu_Jjx_T1x_E_Nr_Y2372_MQN_65v83arwsfg_QKDZQ_9a_Mn_00cfbe54d1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

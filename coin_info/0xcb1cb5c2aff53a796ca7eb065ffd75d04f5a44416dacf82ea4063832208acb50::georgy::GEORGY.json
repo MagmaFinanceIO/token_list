@@ -1,0 +1,13 @@
+{
+  "name": "GEORGY",
+  "symbol": "GEORGY",
+  "decimals": 9,
+  "coin_type": "0xcb1cb5c2aff53a796ca7eb065ffd75d04f5a44416dacf82ea4063832208acb50::georgy::GEORGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/18ea0ff0-cb45-46f4-96fd-ca4b0e3e7ffc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

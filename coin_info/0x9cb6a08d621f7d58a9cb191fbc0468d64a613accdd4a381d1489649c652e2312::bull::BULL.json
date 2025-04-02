@@ -1,0 +1,13 @@
+{
+  "name": "Bull Doge",
+  "symbol": "BULL",
+  "decimals": 9,
+  "coin_type": "0x9cb6a08d621f7d58a9cb191fbc0468d64a613accdd4a381d1489649c652e2312::bull::BULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d9238ef0-65af-441e-85ee-7483ce657e20.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Trading Bot",
+  "symbol": "SBot",
+  "decimals": 9,
+  "coin_type": "0xb5a274be4450e33d470c86e2f9c9af5c8b644a9576b4dfcfc5b693ea1897dd1b::sbot::SBOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ae642d72-bfe3-4a34-9742-1a5775bf038e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

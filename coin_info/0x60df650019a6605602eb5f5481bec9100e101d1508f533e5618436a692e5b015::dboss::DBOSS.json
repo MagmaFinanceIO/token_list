@@ -1,0 +1,13 @@
+{
+  "name": "DBOSS",
+  "symbol": "DBOSS",
+  "decimals": 8,
+  "coin_type": "0x60df650019a6605602eb5f5481bec9100e101d1508f533e5618436a692e5b015::dboss::DBOSS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f4c65ddb-56e5-4b15-b47f-a004951475cd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

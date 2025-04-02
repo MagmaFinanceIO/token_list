@@ -1,0 +1,13 @@
+{
+  "name": "DinoSui",
+  "symbol": "DSUI",
+  "decimals": 6,
+  "coin_type": "0x38e8facd2e4e3d0a11851cac073aafb8d3d1cb49ab1c323453cdc681fdcb74c3::dsui::DSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1631_675e01b24b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

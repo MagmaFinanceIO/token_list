@@ -1,0 +1,13 @@
+{
+  "name": "SocialFi",
+  "symbol": "SocialFi",
+  "decimals": 9,
+  "coin_type": "0x36ed85c2aceaabb36aeba2d991d20210f54e851581a59f703258f5ca233045f5::socialfi::SOCIALFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6fXovRdVbpRGEbDkjv187eF7QVA4sXNeTM16Frsapump.png?size=lg&key=eac53b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

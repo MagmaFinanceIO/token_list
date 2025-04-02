@@ -1,0 +1,13 @@
+{
+  "name": "McDonald's McVALUE",
+  "symbol": "McVALUE",
+  "decimals": 9,
+  "coin_type": "0x54f457e0eb753853de590e3991e7fbe61d882852f3153886433c6971c1b81f84::mcvalue::MCVALUE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmWFhVxadhcJ5hNvi4ahEhimkhBxCq7TdwA1gxGv39BJ1b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

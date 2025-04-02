@@ -1,0 +1,13 @@
+{
+  "name": "Pump It",
+  "symbol": "PUMP",
+  "decimals": 6,
+  "coin_type": "0x77c47a231d395319a25fceea4db2dc4f6935d128bce39a336ebd6b4b09f4544c::pump::PUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Pamp_It_0056b8a6ce.PNG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

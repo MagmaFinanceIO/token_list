@@ -1,0 +1,13 @@
+{
+  "name": "wassui",
+  "symbol": "WASSUI",
+  "decimals": 9,
+  "coin_type": "0xdd85f14207b61b3bd3cdeb9ae77e1c835d0b3f8c8663d6fc3150e792f51e7ea9::wassui::WASSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FDesign_sem_nome_38_3c34a263fb.png&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

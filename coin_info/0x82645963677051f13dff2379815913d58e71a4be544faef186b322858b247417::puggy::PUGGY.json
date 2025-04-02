@@ -1,0 +1,13 @@
+{
+  "name": "Puggy",
+  "symbol": "PUGGY",
+  "decimals": 9,
+  "coin_type": "0x82645963677051f13dff2379815913d58e71a4be544faef186b322858b247417::puggy::PUGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/abc25f52-bba0-46ff-8841-117620fd9042.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

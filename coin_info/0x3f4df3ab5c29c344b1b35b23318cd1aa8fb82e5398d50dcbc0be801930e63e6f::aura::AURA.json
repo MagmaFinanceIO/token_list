@@ -1,0 +1,13 @@
+{
+  "name": "AURA on SUI",
+  "symbol": "AURA",
+  "decimals": 9,
+  "coin_type": "0x3f4df3ab5c29c344b1b35b23318cd1aa8fb82e5398d50dcbc0be801930e63e6f::aura::AURA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qmd2BtoakzJ2PRheF9ktURPYQKXpv21EiAea9kA1U3rHyJ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

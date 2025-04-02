@@ -1,0 +1,13 @@
+{
+  "name": "Cute Koala",
+  "symbol": "KOA",
+  "decimals": 9,
+  "coin_type": "0x1de35e5a9aacb8f7bd21ea6df54688649b461a669cab3c5967ab74b72b323f32::koa::KOA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump-static.cetus.zone/icon/63e486dc-2430-4533-8cc0-932a57fe01a8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

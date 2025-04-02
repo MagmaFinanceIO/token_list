@@ -1,0 +1,13 @@
+{
+  "name": "Goatseus Maximus",
+  "symbol": "GOAT",
+  "decimals": 6,
+  "coin_type": "0x1e4a800ef0be7f452c8431c2803c880f5dc12b433b5a4ec1d120026e537debb5::goat::GOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Free_Simple_Modern_Circle_Design_Studio_Logo_200_x_200_px_98a4b5c2eb.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "🎃 Halloween Dogs",
+  "symbol": "HADOGS",
+  "decimals": 3,
+  "coin_type": "0x93b10726c5d370e735d6a869e3bdbafe4a03fbf2728fd450b32dafbb49356baa::hadogs::HADOGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a5076836-471a-486e-b58e-7c26e78ee380.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

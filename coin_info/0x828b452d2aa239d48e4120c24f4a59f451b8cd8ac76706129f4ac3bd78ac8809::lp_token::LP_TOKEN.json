@@ -1,0 +1,13 @@
+{
+  "name": "haSUI-SUI Cetus Vault LP Token",
+  "symbol": "haSUI-SUI vaultLP Cetus",
+  "decimals": 9,
+  "coin_type": "0x828b452d2aa239d48e4120c24f4a59f451b8cd8ac76706129f4ac3bd78ac8809::lp_token::LP_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dzuxtnuvuq7xqcurpbk4udj74zm2h5c52ftpaxsmgvxdt3fxtgva.arweave.net/Hml5tpWkP3gKkXhVyg0_5lmj9F3RZvBeTDVuOey3mao",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

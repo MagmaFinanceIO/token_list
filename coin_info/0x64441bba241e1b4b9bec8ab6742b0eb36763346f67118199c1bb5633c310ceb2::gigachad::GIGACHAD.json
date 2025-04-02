@@ -1,0 +1,13 @@
+{
+  "name": "GIGA",
+  "symbol": "GIGACHAD",
+  "decimals": 6,
+  "coin_type": "0x64441bba241e1b4b9bec8ab6742b0eb36763346f67118199c1bb5633c310ceb2::gigachad::GIGACHAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/giga_732f26fd47.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FBI",
+  "symbol": "FBI",
+  "decimals": 9,
+  "coin_type": "0xc741d3e49eb4d3b5e32fd1e8515af744db58117cd6bcfc8976c2bdea72c7272a::fbi::FBI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

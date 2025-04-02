@@ -1,0 +1,13 @@
+{
+  "name": "markkacy",
+  "symbol": "KACY",
+  "decimals": 9,
+  "coin_type": "0x440602af11450aa9af00cb6b719fe1b65733254930d49d8e6892e3cb2a3e0219::kacy::KACY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmXVUag77A8zmMLhvQRxdhhfhm7SmmkvLFb3SmvkGSiBZD",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

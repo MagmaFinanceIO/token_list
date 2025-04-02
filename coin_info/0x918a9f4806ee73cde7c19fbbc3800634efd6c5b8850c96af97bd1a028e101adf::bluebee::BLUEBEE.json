@@ -1,0 +1,13 @@
+{
+  "name": "Blue Bee",
+  "symbol": "BlueBee",
+  "decimals": 9,
+  "coin_type": "0x918a9f4806ee73cde7c19fbbc3800634efd6c5b8850c96af97bd1a028e101adf::bluebee::BLUEBEE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/89d2ac99-f71c-4322-8dfa-81a6e3077097.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Nasdog",
+  "symbol": "NASDOG",
+  "decimals": 6,
+  "coin_type": "0x5c271deeee940e7848576ecb4faa508affc696c0e20ce7195fd9eeeaa8cb11f9::nasdog::NASDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/NASDOG_df85eea303.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

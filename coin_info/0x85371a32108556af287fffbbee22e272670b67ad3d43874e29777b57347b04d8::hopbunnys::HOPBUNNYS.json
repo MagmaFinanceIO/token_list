@@ -1,0 +1,13 @@
+{
+  "name": "Hop bunny sui",
+  "symbol": "Hopbunnys",
+  "decimals": 6,
+  "coin_type": "0x85371a32108556af287fffbbee22e272670b67ad3d43874e29777b57347b04d8::hopbunnys::HOPBUNNYS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_9314_4a7dd8a116.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

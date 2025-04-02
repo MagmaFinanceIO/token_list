@@ -1,0 +1,13 @@
+{
+  "name": "Badger",
+  "symbol": "BAD",
+  "decimals": 9,
+  "coin_type": "0x776e2fe1eabb2b138d917b9a24b323631fc4824a4c43ed3a1840cd0518c9a972::bad::BAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/332a5c7a-892c-49ec-992c-110c02a91bb6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

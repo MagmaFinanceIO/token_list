@@ -1,0 +1,13 @@
+{
+  "name": "Trust The Process On Sui",
+  "symbol": "TRUST",
+  "decimals": 6,
+  "coin_type": "0xced71267b828dc60a99f5bd69d33c442c749141d885a75aa855208acdb20c040::trust::TRUST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_9fa89192e2.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

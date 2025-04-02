@@ -1,0 +1,13 @@
+{
+  "name": "SuiSmol",
+  "symbol": "Smol",
+  "decimals": 6,
+  "coin_type": "0xeef4fb42bcd440e7a88d2132e633277a663896ba8e7ce65af9e93ce1b9bab7ad::smol::SMOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/14ok_5d9df41e14.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

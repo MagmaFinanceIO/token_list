@@ -1,0 +1,13 @@
+{
+  "name": "PAC",
+  "symbol": "PAC",
+  "decimals": 9,
+  "coin_type": "0x201d8989278e95b01be0bc0cf53551e25684c29abd4662c768ee72965d0a49e8::pac::PAC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/236a979b-bf61-4c78-8592-4848a2087fce.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

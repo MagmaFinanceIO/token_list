@@ -1,0 +1,13 @@
+{
+  "name": "Suizilla",
+  "symbol": "SUIZILLA",
+  "decimals": 9,
+  "coin_type": "0xc6329c1187cd0b9f1d47a21b5bc3e565bcfdf4112b79d8fc6b662022c565b7f8::suizilla::SUIZILLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dd93397c-d490-4606-82d5-1a677e1001a3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

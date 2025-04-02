@@ -1,0 +1,13 @@
+{
+  "name": "Wrapped Cat",
+  "symbol": "WC",
+  "decimals": 6,
+  "coin_type": "0xceb895dddcf2cca5f1ec9ce648b34bcdbbc058c724a99ef11f20fbd8555d3e6c::wc::WC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/OIP_23dadab667.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

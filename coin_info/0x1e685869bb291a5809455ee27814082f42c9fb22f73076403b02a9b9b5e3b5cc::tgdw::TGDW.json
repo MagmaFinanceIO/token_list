@@ -1,0 +1,13 @@
+{
+  "name": "Target Does What??!!",
+  "symbol": "TGDW",
+  "decimals": 9,
+  "coin_type": "0x1e685869bb291a5809455ee27814082f42c9fb22f73076403b02a9b9b5e3b5cc::tgdw::TGDW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bfa52d4e-0e77-4d4a-8215-ca4b1de22196.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

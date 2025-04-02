@@ -1,0 +1,13 @@
+{
+  "name": "Chill Guy",
+  "symbol": "CHILL",
+  "decimals": 9,
+  "coin_type": "0xfc617e9e54dde119863dd944ef64c0296601fd992d3c6465bf08bf95963d8ea3::chill::CHILL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4f9585b0-d023-44aa-8aee-28869cb31dec.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

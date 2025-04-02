@@ -1,0 +1,13 @@
+{
+  "name": "Purple Cat",
+  "symbol": "PUCA",
+  "decimals": 9,
+  "coin_type": "0xda5b3ddf10372b9b68f065efcdec44caeacae8ec8ae7c81d28647fe75de822e9::puca::PUCA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2c0dccb5-6907-4e6b-b4f6-0be0f334f426.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "What the dog water",
+  "symbol": "WTDW",
+  "decimals": 9,
+  "coin_type": "0x8484873387644e0ea11caa66bc0089cfb5c4bf8592d4454992347890c1baac0c::wtdw::WTDW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a2f36aab-cc92-4adb-b1c5-55472f818739.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "LOL",
+  "symbol": "LOL",
+  "decimals": 9,
+  "coin_type": "0x704cac3cd613c91885e27545286eeff412a062d99e9a579d4834f859149e6dbd::lol::LOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

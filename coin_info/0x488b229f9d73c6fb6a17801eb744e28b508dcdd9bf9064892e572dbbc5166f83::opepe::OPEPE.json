@@ -1,0 +1,13 @@
+{
+  "name": "OLD PEPE",
+  "symbol": "OPEPE",
+  "decimals": 9,
+  "coin_type": "0x488b229f9d73c6fb6a17801eb744e28b508dcdd9bf9064892e572dbbc5166f83::opepe::OPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/72ac0cbb-1b9b-47d8-a6b9-db41ecc1ddcf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

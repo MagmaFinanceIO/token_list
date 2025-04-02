@@ -1,0 +1,13 @@
+{
+  "name": "Grok on Sui",
+  "symbol": "GROK",
+  "decimals": 6,
+  "coin_type": "0x66de7337f05224bf1de30dcda736322e55611d861fb2319b85b35d44ab71cb20::grok::GROK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_03ce9a17b7.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

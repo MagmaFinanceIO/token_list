@@ -1,0 +1,13 @@
+{
+  "name": "Spank That Bitch",
+  "symbol": "SPANK",
+  "decimals": 6,
+  "coin_type": "0x193a5fa8050fbb156dc4992f6a7a7d288a54a5f464bbd5f9ef33db6840d4c941::spank::SPANK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ezgif_1_771e6316dc_3c2e1a1f6a.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

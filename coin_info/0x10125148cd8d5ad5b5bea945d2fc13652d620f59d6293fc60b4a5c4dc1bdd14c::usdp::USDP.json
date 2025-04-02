@@ -1,0 +1,13 @@
+{
+  "name": "USDPsui",
+  "symbol": "USDP",
+  "decimals": 9,
+  "coin_type": "0x10125148cd8d5ad5b5bea945d2fc13652d620f59d6293fc60b4a5c4dc1bdd14c::usdp::USDP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.gtokentool.com/1737019257/1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

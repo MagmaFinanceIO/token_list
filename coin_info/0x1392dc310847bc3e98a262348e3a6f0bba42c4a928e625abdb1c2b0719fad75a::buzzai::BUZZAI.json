@@ -1,0 +1,13 @@
+{
+  "name": "BUZZ AI",
+  "symbol": "BUZZAI",
+  "decimals": 9,
+  "coin_type": "0x1392dc310847bc3e98a262348e3a6f0bba42c4a928e625abdb1c2b0719fad75a::buzzai::BUZZAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BUZZzx3EosQRHJfsC9sbg2FJXoCcBLRudNY6UkWqFfU8.png?size=lg&key=f6980f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

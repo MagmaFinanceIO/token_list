@@ -1,0 +1,13 @@
+{
+  "name": "Druid AI",
+  "symbol": "DRU",
+  "decimals": 9,
+  "coin_type": "0x95464493f22e348c4e70f3532a87ac5050151b36be796502ba09e19e0f874c6a::dru::DRU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/MLoYxeB1Xm4BZyuWLaM3K69LvMSm4TSPXWedF9Epump.png?size=lg&key=7fcb80",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

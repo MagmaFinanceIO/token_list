@@ -1,0 +1,13 @@
+{
+  "name": "Sui Animal Farm",
+  "symbol": "SAF",
+  "decimals": 6,
+  "coin_type": "0xe4b74c938ef902918524d8941f9cb38c0c087bcd6ce9c9a10a3ee39bf7f747c6::saf::SAF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/avt_1_2ba2eabaa7.PNG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

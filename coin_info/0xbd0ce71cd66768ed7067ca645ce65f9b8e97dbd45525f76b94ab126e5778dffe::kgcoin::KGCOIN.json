@@ -1,0 +1,13 @@
+{
+  "name": "KeyGrowCoin",
+  "symbol": "KGCoin",
+  "decimals": 9,
+  "coin_type": "0xbd0ce71cd66768ed7067ca645ce65f9b8e97dbd45525f76b94ab126e5778dffe::kgcoin::KGCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2f055ae4-11a7-4397-9a65-c382d8b9ce5a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

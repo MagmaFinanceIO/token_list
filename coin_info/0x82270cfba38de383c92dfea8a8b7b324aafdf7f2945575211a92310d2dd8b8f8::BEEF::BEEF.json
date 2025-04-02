@@ -1,0 +1,13 @@
+{
+  "name": "BEEF",
+  "symbol": "BEEF",
+  "decimals": 9,
+  "coin_type": "0x82270cfba38de383c92dfea8a8b7b324aafdf7f2945575211a92310d2dd8b8f8::BEEF::BEEF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

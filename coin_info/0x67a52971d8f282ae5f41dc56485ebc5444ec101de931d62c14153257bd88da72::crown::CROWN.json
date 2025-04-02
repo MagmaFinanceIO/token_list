@@ -1,0 +1,13 @@
+{
+  "name": "CROWN",
+  "symbol": "CROWN",
+  "decimals": 6,
+  "coin_type": "0x67a52971d8f282ae5f41dc56485ebc5444ec101de931d62c14153257bd88da72::crown::CROWN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/crown.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

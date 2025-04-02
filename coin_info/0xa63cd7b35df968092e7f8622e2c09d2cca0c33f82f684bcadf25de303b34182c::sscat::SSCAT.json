@@ -1,0 +1,13 @@
+{
+  "name": "The Smurfs Sui Cat",
+  "symbol": "SSCAT",
+  "decimals": 9,
+  "coin_type": "0xa63cd7b35df968092e7f8622e2c09d2cca0c33f82f684bcadf25de303b34182c::sscat::SSCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/edf5dbe8-afdb-49de-9dda-2016da9a50d0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

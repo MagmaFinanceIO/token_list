@@ -1,0 +1,13 @@
+{
+  "name": "BOSSU",
+  "symbol": "BOSSU",
+  "decimals": 9,
+  "coin_type": "0x32e4680e072a20e09e84e79d16140ae32cc223e3017ae2dba70f0717b8c29dcf::bossu::BOSSU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4HdEFgHidLMJJFwsutCVjLuk2obPk9DC2oXxRLWsNWto.png?size=lg&key=58f832",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

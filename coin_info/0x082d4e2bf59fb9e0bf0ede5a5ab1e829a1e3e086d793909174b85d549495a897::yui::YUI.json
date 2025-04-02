@@ -1,0 +1,13 @@
+{
+  "name": "Waifu Yui",
+  "symbol": "YUI",
+  "decimals": 9,
+  "coin_type": "0x082d4e2bf59fb9e0bf0ede5a5ab1e829a1e3e086d793909174b85d549495a897::yui::YUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FNUwkmhy6PkoJYBckroKHxg79fx6VHrLZkcHrY19j1J2.png?size=lg&key=da07a3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "End of The World",
+  "symbol": "EOTW",
+  "decimals": 6,
+  "coin_type": "0x9e011ce53e3b585242105a3632c486d7d686c24cab3dd3ed0c075a2171b3f0fa::eotw::EOTW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736695455572.47",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

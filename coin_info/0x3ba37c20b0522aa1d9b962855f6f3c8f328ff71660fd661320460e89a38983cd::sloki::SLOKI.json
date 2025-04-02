@@ -1,0 +1,13 @@
+{
+  "name": "Sui Floki",
+  "symbol": "SLOKI",
+  "decimals": 6,
+  "coin_type": "0x3ba37c20b0522aa1d9b962855f6f3c8f328ff71660fd661320460e89a38983cd::sloki::SLOKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Sloki_Logo_6b241400f1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

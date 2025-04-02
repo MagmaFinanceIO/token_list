@@ -1,0 +1,13 @@
+{
+  "name": "Christmas Pumper",
+  "symbol": "HESOLD",
+  "decimals": 9,
+  "coin_type": "0x5744eb97419af68d2ab124c212ebf579dc8ef8494601cc6c015db12c507e6492::hesold::HESOLD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/G4ohVY5KmpsLeiD4bcJ7kfNKfpLYNzvf6owoh4k6pump.png?size=xl&key=69450e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Elon Musk",
+  "symbol": "MuskTrump",
+  "decimals": 9,
+  "coin_type": "0x4d62d42a9558e652f4aba3309392c2b1d455389b5ecbc23096569ffb102c01d8::musktrump::MUSKTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Dmkv568QT5WtJw2AkqCMeCwX4SHs5Cvf7mDJmnsUPnJ1.png?size=lg&key=5c31e8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

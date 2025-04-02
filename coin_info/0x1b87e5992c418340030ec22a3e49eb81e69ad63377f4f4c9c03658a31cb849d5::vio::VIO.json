@@ -1,0 +1,13 @@
+{
+  "name": "Avior Protocol",
+  "symbol": "VIO",
+  "decimals": 6,
+  "coin_type": "0x1b87e5992c418340030ec22a3e49eb81e69ad63377f4f4c9c03658a31cb849d5::vio::VIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmPhNF5RNkBxNrR87TtMGtxsNiRnCs28rDFDDW5J2SXRiZ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

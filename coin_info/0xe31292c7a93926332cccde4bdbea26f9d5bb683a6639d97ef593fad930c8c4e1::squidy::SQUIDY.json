@@ -1,0 +1,13 @@
+{
+  "name": "Squidy",
+  "symbol": "squidy",
+  "decimals": 9,
+  "coin_type": "0xe31292c7a93926332cccde4bdbea26f9d5bb683a6639d97ef593fad930c8c4e1::squidy::SQUIDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Dpc3uCcZ13zVsTREkSEms2EXpxXKpuyWQgmhV9rKpump.png?size=lg&key=01a092",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

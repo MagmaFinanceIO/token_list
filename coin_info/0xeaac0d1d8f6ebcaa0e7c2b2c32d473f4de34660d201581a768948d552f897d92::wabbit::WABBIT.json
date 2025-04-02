@@ -1,0 +1,13 @@
+{
+  "name": "wabbit",
+  "symbol": "wabbit",
+  "decimals": 9,
+  "coin_type": "0xeaac0d1d8f6ebcaa0e7c2b2c32d473f4de34660d201581a768948d552f897d92::wabbit::WABBIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmbqEgzaTvPnGbkdRqPc7YgZay2WBG8ggMuize68a5XXZk",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

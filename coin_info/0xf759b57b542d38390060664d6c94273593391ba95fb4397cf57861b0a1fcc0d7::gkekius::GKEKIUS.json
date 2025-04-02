@@ -1,0 +1,13 @@
+{
+  "name": "Grok Kekius Maximus On Sui",
+  "symbol": "GKEKIUS",
+  "decimals": 9,
+  "coin_type": "0xf759b57b542d38390060664d6c94273593391ba95fb4397cf57861b0a1fcc0d7::gkekius::GKEKIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8f9f366f-9bd2-451e-8b4d-996a3422b574.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

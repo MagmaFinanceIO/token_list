@@ -1,0 +1,13 @@
+{
+  "name": "Mrs. Hazel Nut",
+  "symbol": "HAZELNUT",
+  "decimals": 9,
+  "coin_type": "0xfd7ee639143f1cf72b6763b981a09157e7ea13d528d4dbdcb3ce964bc87677c4::hazelnut::HAZELNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmWuMUnyuDf5sSiCcmdsXGCtcNtVjXDyba6bd7e914EJNt",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

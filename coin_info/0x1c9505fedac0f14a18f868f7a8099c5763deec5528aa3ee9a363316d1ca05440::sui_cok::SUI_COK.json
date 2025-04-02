@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "symbol": "SUICOK",
+  "decimals": 6,
+  "coin_type": "0x1c9505fedac0f14a18f868f7a8099c5763deec5528aa3ee9a363316d1ca05440::sui_cok::SUI_COK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

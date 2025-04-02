@@ -1,0 +1,13 @@
+{
+  "name": "DUMB MONEY",
+  "symbol": "DMON",
+  "decimals": 9,
+  "coin_type": "0x3ef8356f001e93d7b49f6ff591c209e95a15c594813aafe00fe902fd88d10958::dmon::DMON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2aNLqytQ3kJiA6YSBrGoqqArNYVPuXumJVLHh7F1pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

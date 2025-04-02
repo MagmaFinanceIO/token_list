@@ -1,0 +1,13 @@
+{
+  "name": "Pixel Fishing",
+  "symbol": "BAIT",
+  "decimals": 6,
+  "coin_type": "0xf587762fdc046cae6ab95a0d279a0fb3fbfa56d96e744d1320b2978fbb77d8b2::bait::BAIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pfp_ea5f6da36e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

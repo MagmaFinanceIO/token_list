@@ -1,0 +1,13 @@
+{
+  "name": "Suren Kyuko",
+  "symbol": "SUREN",
+  "decimals": 6,
+  "coin_type": "0x8f7732157b376a8088ad86b3472b21b597a76268af0eff32e341b9039dca0565::suren::SUREN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736525063077.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

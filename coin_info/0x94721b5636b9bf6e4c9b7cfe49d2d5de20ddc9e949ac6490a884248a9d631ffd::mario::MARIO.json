@@ -1,0 +1,13 @@
+{
+  "name": "Suiper Mario",
+  "symbol": "MARIO",
+  "decimals": 9,
+  "coin_type": "0x94721b5636b9bf6e4c9b7cfe49d2d5de20ddc9e949ac6490a884248a9d631ffd::mario::MARIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1634420790119763968/qy0qsO_F.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

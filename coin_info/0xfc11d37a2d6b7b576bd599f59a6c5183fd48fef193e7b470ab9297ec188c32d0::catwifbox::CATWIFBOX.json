@@ -1,0 +1,13 @@
+{
+  "name": "Catwifbox",
+  "symbol": "CATWIFBOX",
+  "decimals": 9,
+  "coin_type": "0xfc11d37a2d6b7b576bd599f59a6c5183fd48fef193e7b470ab9297ec188c32d0::catwifbox::CATWIFBOX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/310b278b-cb82-499b-8182-b6367327dc70.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

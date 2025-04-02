@@ -1,0 +1,13 @@
+{
+  "name": "MonkeyPoxOnSui",
+  "symbol": "Pox",
+  "decimals": 9,
+  "coin_type": "0x4e6289a009bbee0d771b133a43ccd33d35e95d9a6a3d3813449af6cfdca5259c::pox::POX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1a66732c-c73e-4d0e-a46c-0cd7d6d7e786.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

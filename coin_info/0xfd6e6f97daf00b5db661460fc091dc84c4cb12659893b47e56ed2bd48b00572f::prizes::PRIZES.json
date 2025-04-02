@@ -1,0 +1,13 @@
+{
+  "name": "Prizes Token",
+  "symbol": "PRIZES",
+  "decimals": 9,
+  "coin_type": "0xfd6e6f97daf00b5db661460fc091dc84c4cb12659893b47e56ed2bd48b00572f::prizes::PRIZES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a791fbd1-fd14-4452-8b51-82f30d5e5f53.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

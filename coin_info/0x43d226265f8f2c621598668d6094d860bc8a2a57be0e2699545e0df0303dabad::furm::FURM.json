@@ -1,0 +1,13 @@
+{
+  "name": "Furmula",
+  "symbol": "FURM",
+  "decimals": 9,
+  "coin_type": "0x43d226265f8f2c621598668d6094d860bc8a2a57be0e2699545e0df0303dabad::furm::FURM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/866Sh46xjH7cW7aW18tBUmGm3xh6EzGTk1Li7YbbmqJr.png?size=lg&key=2bc6b0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

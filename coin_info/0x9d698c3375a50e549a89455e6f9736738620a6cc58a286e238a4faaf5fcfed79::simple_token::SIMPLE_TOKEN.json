@@ -1,0 +1,13 @@
+{
+  "name": "LUMISUI",
+  "symbol": "LUMISUI",
+  "decimals": 9,
+  "coin_type": "0x9d698c3375a50e549a89455e6f9736738620a6cc58a286e238a4faaf5fcfed79::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Bobar Meme",
+  "symbol": "BOBO",
+  "decimals": 9,
+  "coin_type": "0xf3454530de305e3e229e6da7ab0ab2bbf263fe84e8ec2bcf3cb3f3eed5d4d65f::bobo::BOBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a1f48153-e2c2-46fc-9123-79aadcd40e02.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

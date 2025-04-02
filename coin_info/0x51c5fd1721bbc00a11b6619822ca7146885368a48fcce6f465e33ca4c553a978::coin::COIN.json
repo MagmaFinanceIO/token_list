@@ -1,0 +1,13 @@
+{
+  "name": "Rentible",
+  "symbol": "RNB",
+  "decimals": 8,
+  "coin_type": "0x51c5fd1721bbc00a11b6619822ca7146885368a48fcce6f465e33ca4c553a978::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

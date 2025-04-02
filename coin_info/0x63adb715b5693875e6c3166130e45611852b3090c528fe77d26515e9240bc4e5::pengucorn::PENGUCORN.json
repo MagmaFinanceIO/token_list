@@ -1,0 +1,13 @@
+{
+  "name": "Penguin Unicorn Sui",
+  "symbol": "PENGUCORN",
+  "decimals": 9,
+  "coin_type": "0x63adb715b5693875e6c3166130e45611852b3090c528fe77d26515e9240bc4e5::pengucorn::PENGUCORN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/03c46b1a-764f-4b30-b77f-38e444b7633a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SailorMoon",
+  "symbol": "LOON",
+  "decimals": 9,
+  "coin_type": "0xf0e3c29affa8ff0f3eea94fe25693168ccde6536d24f41a65433296befab8e6e::loon::LOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FUziH7HQHZbDRDs3b32oYAGZGpVeNYQ5HAKKXVjipump.png?size=lg&key=bf9382",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

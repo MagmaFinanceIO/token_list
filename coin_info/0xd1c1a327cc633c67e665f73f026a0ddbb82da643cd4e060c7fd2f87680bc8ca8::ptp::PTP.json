@@ -1,0 +1,13 @@
+{
+  "name": "P2P",
+  "symbol": "PTP",
+  "decimals": 9,
+  "coin_type": "0xd1c1a327cc633c67e665f73f026a0ddbb82da643cd4e060c7fd2f87680bc8ca8::ptp::PTP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

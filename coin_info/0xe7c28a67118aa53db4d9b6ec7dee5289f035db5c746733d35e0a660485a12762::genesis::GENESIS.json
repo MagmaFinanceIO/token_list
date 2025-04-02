@@ -1,0 +1,13 @@
+{
+  "name": "GENESIS",
+  "symbol": "GENESIS",
+  "decimals": 9,
+  "coin_type": "0xe7c28a67118aa53db4d9b6ec7dee5289f035db5c746733d35e0a660485a12762::genesis::GENESIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7EjWHZwtstT21dUniWpvVPRrw64cmX3UYFE5crJ8pump.png?size=lg&key=4d4457",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

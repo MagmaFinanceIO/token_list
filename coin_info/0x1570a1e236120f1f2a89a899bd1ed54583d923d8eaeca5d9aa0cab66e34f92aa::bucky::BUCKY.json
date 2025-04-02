@@ -1,0 +1,13 @@
+{
+  "name": "BUCKYS",
+  "symbol": "BUCKY",
+  "decimals": 6,
+  "coin_type": "0x1570a1e236120f1f2a89a899bd1ed54583d923d8eaeca5d9aa0cab66e34f92aa::bucky::BUCKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1996_5a7ff2f511.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

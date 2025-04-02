@@ -1,0 +1,13 @@
+{
+  "name": "PepShib Inu",
+  "symbol": "PepShib",
+  "decimals": 9,
+  "coin_type": "0x326b698f38793b7638b8b8aec246a66592897e7cd5a375c587bf418ba54b3104::pepshib::PEPSHIB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6d9a686e-c303-43f5-adfa-4b3bc5879e7e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

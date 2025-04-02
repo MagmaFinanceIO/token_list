@@ -1,0 +1,13 @@
+{
+  "name": "LunaCheck",
+  "symbol": "LUNA",
+  "decimals": 9,
+  "coin_type": "0x6d2c48cbe9433c1fadb1fa05da37cd6b4aecde52ef25ae20d9788590fad9ef2d::luna::LUNA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/25dcd951-7448-46ea-a003-a9979c28828c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

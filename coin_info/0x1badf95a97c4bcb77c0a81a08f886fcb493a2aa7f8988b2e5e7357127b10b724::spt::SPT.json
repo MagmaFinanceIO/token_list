@@ -1,0 +1,13 @@
+{
+  "name": "SPT",
+  "symbol": "SPT",
+  "decimals": 9,
+  "coin_type": "0x1badf95a97c4bcb77c0a81a08f886fcb493a2aa7f8988b2e5e7357127b10b724::spt::SPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ef854221-183a-438a-b34e-05f6f4eb40e0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

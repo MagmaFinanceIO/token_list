@@ -1,0 +1,13 @@
+{
+  "name": "SUIper Saiyan Memecoin",
+  "symbol": "SSM",
+  "decimals": 9,
+  "coin_type": "0xeb71d5b1cdc5978e7cf54495dd18027b919fe848cc4afec262ef5672939cace0::ssm::SSM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/523f2cc9-d3c5-4f30-a7b3-7112d79743a7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sasha",
+  "symbol": "Sasha",
+  "decimals": 9,
+  "coin_type": "0x589b225493a149eb20c7de900f47380e3078275fa2c396d080adf49954c1d8c3::sasha::SASHA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e3dd3fcf-341c-4a60-a204-4d1bf46c1fe4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

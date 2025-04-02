@@ -1,0 +1,13 @@
+{
+  "name": "Voci AI",
+  "symbol": "VOCI",
+  "decimals": 9,
+  "coin_type": "0x782ada61d13bdc5c2467e6b23b9fe391a609d3cb642c332f3aae9720c7c2ef1e::voci::VOCI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/affc854d-756a-49b5-b47c-a3e91b9fd81b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

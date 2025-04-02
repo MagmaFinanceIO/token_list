@@ -1,0 +1,13 @@
+{
+  "name": "SUICOIN",
+  "symbol": "SUICOIN",
+  "decimals": 9,
+  "coin_type": "0x74a5099b519296730998eb179c5eb2a60ce18f252f933d648c3092346d0d2d02::suicoin::SUICOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

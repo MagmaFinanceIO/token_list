@@ -1,0 +1,13 @@
+{
+  "name": "Cat In War",
+  "symbol": "CIW",
+  "decimals": 9,
+  "coin_type": "0xa9f08c6e9335d5f99790a7af019259f1fd65a91ac10d4e51ed2a751d9cd17a30::ciw::CIW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/667f1630-15e0-48c7-9364-77371dfe4ae1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

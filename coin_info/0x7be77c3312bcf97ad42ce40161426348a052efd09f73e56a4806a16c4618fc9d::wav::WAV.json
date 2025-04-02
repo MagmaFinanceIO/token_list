@@ -1,0 +1,13 @@
+{
+  "name": "wave",
+  "symbol": "wav",
+  "decimals": 9,
+  "coin_type": "0x7be77c3312bcf97ad42ce40161426348a052efd09f73e56a4806a16c4618fc9d::wav::WAV",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e9e7b327-c705-46c3-9679-941952442c57.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

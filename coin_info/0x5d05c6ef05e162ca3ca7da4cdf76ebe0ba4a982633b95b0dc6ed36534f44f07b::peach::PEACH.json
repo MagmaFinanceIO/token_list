@@ -1,0 +1,13 @@
+{
+  "name": "Peach Cat $SUI",
+  "symbol": "PEACH",
+  "decimals": 6,
+  "coin_type": "0x5d05c6ef05e162ca3ca7da4cdf76ebe0ba4a982633b95b0dc6ed36534f44f07b::peach::PEACH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/openart_491a07f3a3bc46c1a0a86214acbff459_raw_6f26e76208.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

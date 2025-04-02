@@ -1,0 +1,13 @@
+{
+  "name": "GUCCI",
+  "symbol": "GUCCI",
+  "decimals": 9,
+  "coin_type": "0xe4c79a6ed0802b50b2ac91627a34115964124aa3af9d940c69fc8b1c8e727342::gucci::GUCCI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

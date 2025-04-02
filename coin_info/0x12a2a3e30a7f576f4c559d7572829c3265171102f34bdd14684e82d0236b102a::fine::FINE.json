@@ -1,0 +1,13 @@
+{
+  "name": "This is fine",
+  "symbol": "FINE",
+  "decimals": 9,
+  "coin_type": "0x12a2a3e30a7f576f4c559d7572829c3265171102f34bdd14684e82d0236b102a::fine::FINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BgpZ9cXE2dRMTUPhroffbMQm3q8QTLpRorpHYeJspump.png?size=lg&key=3cfbe6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

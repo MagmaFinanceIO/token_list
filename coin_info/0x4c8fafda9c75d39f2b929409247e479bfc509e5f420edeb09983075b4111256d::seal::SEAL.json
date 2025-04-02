@@ -1,0 +1,13 @@
+{
+  "name": "🦭",
+  "symbol": "SEAL",
+  "decimals": 9,
+  "coin_type": "0x4c8fafda9c75d39f2b929409247e479bfc509e5f420edeb09983075b4111256d::seal::SEAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e7ca9d27-85dc-40e1-b391-c105d16efab3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

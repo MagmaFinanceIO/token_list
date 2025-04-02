@@ -1,0 +1,13 @@
+{
+  "name": "Mellow Meow",
+  "symbol": "MMEOW",
+  "decimals": 9,
+  "coin_type": "0xd9d0932538a37ab96e60c77ec374bebeceb63b02a8fbdfbe7759a4b23d5d61ea::mmeow::MMEOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/af888fa7-0080-433c-8b8c-fdfe132c1c51.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

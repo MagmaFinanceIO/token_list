@@ -1,0 +1,13 @@
+{
+  "name": "Mikey The Monkey",
+  "symbol": "MIKEY",
+  "decimals": 9,
+  "coin_type": "0x17b8899475040bff23790931debe891caa1efb10ea1865c5c2dfb0c00d02a892::mikey::MIKEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f450650e-a381-4e5a-bfc1-e134102d9e9f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

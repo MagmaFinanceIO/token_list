@@ -1,0 +1,13 @@
+{
+  "name": "SuipyBara",
+  "symbol": "SUIPY",
+  "decimals": 6,
+  "coin_type": "0x41e991b25179b4adb01e3b398ecd05954641fb8e856330a662066efa7916da01::suipy::SUIPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/capybara_6d19886a53.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

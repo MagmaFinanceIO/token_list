@@ -1,0 +1,13 @@
+{
+  "name": "Department of D.O.G.E",
+  "symbol": "DDOGE",
+  "decimals": 9,
+  "coin_type": "0x3f65c75e5fc50ca5176b226d8a34d1ba308f6cabc9114446ff366557128e27d0::ddoge::DDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ddd6b6c4-edc8-48c2-85f9-7642f65be4c4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

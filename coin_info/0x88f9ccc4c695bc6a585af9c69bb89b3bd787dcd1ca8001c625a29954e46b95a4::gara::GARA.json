@@ -1,0 +1,13 @@
+{
+  "name": "Gambling Rabbit",
+  "symbol": "GARA",
+  "decimals": 6,
+  "coin_type": "0x88f9ccc4c695bc6a585af9c69bb89b3bd787dcd1ca8001c625a29954e46b95a4::gara::GARA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736685629368.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

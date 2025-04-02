@@ -1,0 +1,13 @@
+{
+  "name": "foolish",
+  "symbol": "SUIFOOL",
+  "decimals": 9,
+  "coin_type": "0x49ce5c71b06555e440b8f91cdc167f7a28d26bf85d1bdc39634ebe08110605cd::suiprop::SUIPROP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://freelogopng.com/images/all_img/1690643640twitter-x-icon-png.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

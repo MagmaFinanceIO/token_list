@@ -1,0 +1,13 @@
+{
+  "name": "Barron X Spaces",
+  "symbol": "Barron",
+  "decimals": 9,
+  "coin_type": "0x5647de4d3bc4b87e44613a668bbf32c9cf44e8b7bcc76c5b01cce4dde94d34e6::barron::BARRON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FmduLq1RJVHuwFLav91b5TUTvbkhdbba1V8ZJtA1fVtE.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

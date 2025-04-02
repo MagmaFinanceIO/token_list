@@ -1,0 +1,13 @@
+{
+  "name": "Coolest blue on SUI",
+  "symbol": "BLUFI",
+  "decimals": 6,
+  "coin_type": "0x4eb541c2d341f6c3770291c819f670fb4a69e3ba7403589f06c58e2267375070::blufi::BLUFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Pfp_1_3b88ba1f5d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

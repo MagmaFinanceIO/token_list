@@ -1,0 +1,13 @@
+{
+  "name": "GUSD",
+  "symbol": "GUSD",
+  "decimals": 9,
+  "coin_type": "0xbee6cf44585f248a7c0b4530510f4b181a7a1a4eb7830ff9daee4a3cd089572d::gusd::GUSD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/zz-JUH-ODw95CAMIKfECUccPY06ERHyrxBENpFd3VW8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

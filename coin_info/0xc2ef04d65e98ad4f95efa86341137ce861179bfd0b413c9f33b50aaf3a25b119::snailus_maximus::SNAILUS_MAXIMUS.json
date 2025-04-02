@@ -1,0 +1,13 @@
+{
+  "name": "Snailus Maximus",
+  "symbol": "Snailus Maximus",
+  "decimals": 9,
+  "coin_type": "0xc2ef04d65e98ad4f95efa86341137ce861179bfd0b413c9f33b50aaf3a25b119::snailus_maximus::SNAILUS_MAXIMUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cee7778c-414a-4dc8-90ac-1afbbe9529e3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Aquaman",
+  "symbol": "AQUAMAN",
+  "decimals": 6,
+  "coin_type": "0x959f8753a7a7518cf0c01c81f93fb015c36821f22858763b77f61bc1ca6d23d9::aquaman::AQUAMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/59c09ae2-520b-4323-b556-90d1a7ddb0b3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

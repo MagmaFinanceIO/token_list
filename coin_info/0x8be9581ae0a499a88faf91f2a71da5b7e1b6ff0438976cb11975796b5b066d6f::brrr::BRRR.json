@@ -1,0 +1,13 @@
+{
+  "name": "Brrr de Money",
+  "symbol": "BRRR",
+  "decimals": 9,
+  "coin_type": "0x8be9581ae0a499a88faf91f2a71da5b7e1b6ff0438976cb11975796b5b066d6f::brrr::BRRR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x7dd7d5ca67df3e0f5a7f004af3653444b1fcfb76.png?size=xl&key=ce986a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FUCKYOU",
+  "symbol": "fuckyou",
+  "decimals": 9,
+  "coin_type": "0x0be92f0c99a528c3ebcb27ce568e06c074704d009d1949848f9968f312e1bcd8::fuckyou::FUCKYOU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

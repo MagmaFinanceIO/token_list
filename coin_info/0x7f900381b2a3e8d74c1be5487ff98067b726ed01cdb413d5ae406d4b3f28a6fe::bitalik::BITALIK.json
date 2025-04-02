@@ -1,0 +1,13 @@
+{
+  "name": "Bitalik",
+  "symbol": "Bitalik",
+  "decimals": 9,
+  "coin_type": "0x7f900381b2a3e8d74c1be5487ff98067b726ed01cdb413d5ae406d4b3f28a6fe::bitalik::BITALIK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/14e83c8f-9fb3-4b2e-9b57-c7908e2ed7b7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

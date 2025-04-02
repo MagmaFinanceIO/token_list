@@ -1,0 +1,13 @@
+{
+  "name": "Squirrel",
+  "symbol": "SQU",
+  "decimals": 9,
+  "coin_type": "0xb1ffd1ad72f6940b08e961bbb6be15d739dc4c772607015887aec1c53d21a59c::squ::SQU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/692c42f1-86cc-4228-b53d-78806657eae7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

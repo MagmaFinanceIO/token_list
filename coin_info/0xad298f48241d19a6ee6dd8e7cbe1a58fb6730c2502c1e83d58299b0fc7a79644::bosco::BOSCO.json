@@ -1,0 +1,13 @@
+{
+  "name": "Bosco The Grouch",
+  "symbol": "BOSCO",
+  "decimals": 9,
+  "coin_type": "0xad298f48241d19a6ee6dd8e7cbe1a58fb6730c2502c1e83d58299b0fc7a79644::bosco::BOSCO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1b08b6da-c37c-4d72-888f-1a6171c4e2d0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

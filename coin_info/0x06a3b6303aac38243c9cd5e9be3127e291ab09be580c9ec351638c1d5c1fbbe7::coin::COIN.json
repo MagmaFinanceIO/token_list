@@ -1,0 +1,13 @@
+{
+  "name": "SUI",
+  "symbol": "SUI",
+  "decimals": 8,
+  "coin_type": "0x06a3b6303aac38243c9cd5e9be3127e291ab09be580c9ec351638c1d5c1fbbe7::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

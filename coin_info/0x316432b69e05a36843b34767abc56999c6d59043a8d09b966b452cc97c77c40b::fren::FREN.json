@@ -1,0 +1,13 @@
+{
+  "name": "French Bulldog Sui",
+  "symbol": "FREN",
+  "decimals": 9,
+  "coin_type": "0x316432b69e05a36843b34767abc56999c6d59043a8d09b966b452cc97c77c40b::fren::FREN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4f031057-c2df-41bd-899b-994bf055c7ac.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

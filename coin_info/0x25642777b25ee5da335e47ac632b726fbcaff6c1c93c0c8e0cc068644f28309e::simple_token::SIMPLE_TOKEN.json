@@ -1,0 +1,13 @@
+{
+  "name": "Chinese Sui",
+  "symbol": "CHISUI",
+  "decimals": 9,
+  "coin_type": "0x25642777b25ee5da335e47ac632b726fbcaff6c1c93c0c8e0cc068644f28309e::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Alphabet Inc. Coin",
+  "symbol": "GOOGLE",
+  "decimals": 9,
+  "coin_type": "0x8a51c49ab9ba07209e7ab9deb78c80018f61b496c0c562778ac452382fb9b67c::google::GOOGLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/vhfzubq8waf1FfuZCFm2HonnRcbDwNsSLhfZg2Egoog.png?size=lg&key=061e45",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

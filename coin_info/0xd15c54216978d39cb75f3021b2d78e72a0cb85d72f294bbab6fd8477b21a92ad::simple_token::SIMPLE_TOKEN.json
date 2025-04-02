@@ -1,0 +1,13 @@
+{
+  "name": "HUFFY",
+  "symbol": "HUFFY",
+  "decimals": 9,
+  "coin_type": "0xd15c54216978d39cb75f3021b2d78e72a0cb85d72f294bbab6fd8477b21a92ad::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

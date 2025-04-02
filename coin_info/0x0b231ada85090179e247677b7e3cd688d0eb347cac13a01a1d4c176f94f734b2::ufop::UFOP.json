@@ -1,0 +1,13 @@
+{
+  "name": "UFO Pepe",
+  "symbol": "UFOP",
+  "decimals": 6,
+  "coin_type": "0x0b231ada85090179e247677b7e3cd688d0eb347cac13a01a1d4c176f94f734b2::ufop::UFOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/500x500_50d99dc58a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

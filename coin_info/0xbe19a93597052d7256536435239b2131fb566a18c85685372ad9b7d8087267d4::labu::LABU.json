@@ -1,0 +1,13 @@
+{
+  "name": "SUI LABUBU",
+  "symbol": "LABU",
+  "decimals": 9,
+  "coin_type": "0xbe19a93597052d7256536435239b2131fb566a18c85685372ad9b7d8087267d4::labu::LABU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4faa4b14-f8ba-489b-8040-a08cd1437849.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

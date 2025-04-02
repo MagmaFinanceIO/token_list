@@ -1,0 +1,13 @@
+{
+  "name": "PEDOBEAR",
+  "symbol": "PEDO",
+  "decimals": 9,
+  "coin_type": "0xf2b504a03413ef86771cf3f35d2b1b0a7b1cfc098b549a5d053a48a11fbe0264::pedo::PEDO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/G3o28X1DkqmQKyHzFL6rK5ghTHjYiUirtQstiz7qpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

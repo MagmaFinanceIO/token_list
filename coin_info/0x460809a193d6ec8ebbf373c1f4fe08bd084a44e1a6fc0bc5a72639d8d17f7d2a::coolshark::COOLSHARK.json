@@ -1,0 +1,13 @@
+{
+  "name": "Cool Shark wif AK",
+  "symbol": "COOLSHARK",
+  "decimals": 6,
+  "coin_type": "0x460809a193d6ec8ebbf373c1f4fe08bd084a44e1a6fc0bc5a72639d8d17f7d2a::coolshark::COOLSHARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/umutcklc_cartoon_design_of_ashark_with_sunglasses_firing_an_ak_fea34dd3_77fd_4d64_9219_4a63184a0dc0_1_9c1af04fa4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

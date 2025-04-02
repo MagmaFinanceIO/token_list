@@ -1,0 +1,13 @@
+{
+  "name": "HUHCAT",
+  "symbol": "HUHCAT",
+  "decimals": 9,
+  "coin_type": "0xd90a5e9f56a62009ac51e740b1be6d00eb9928f4c24627096923df5fde2306ed::huhcat::HUHCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/6WtU2To.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIRAMBE",
+  "symbol": "SUIRAMBE",
+  "decimals": 9,
+  "coin_type": "0xce615786ec53d1b6e1d0020d2e30a8c4dcf53bb8eb4323d2b2dd6c6ac7bee837::suirambe::SUIRAMBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0bc3411c-27ea-4d04-b61b-ff1c149de5e7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

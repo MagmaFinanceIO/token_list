@@ -1,0 +1,13 @@
+{
+  "name": "FROG THE FROG",
+  "symbol": "FTF",
+  "decimals": 9,
+  "coin_type": "0x62e4e944b3252cc37639a5b64f1ab7d8daf3db709c6a1d9a53dd91ec3d15de8a::ftf::FTF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/93b736cc-ac4e-487d-b344-900653ff5f13.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

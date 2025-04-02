@@ -1,0 +1,13 @@
+{
+  "name": "SUIWOMEN",
+  "symbol": "WOMEN",
+  "decimals": 6,
+  "coin_type": "0x0bd4ef925eb6feb2e70788742959c81434d297c17292bf59d79e2b02256699f4::women::WOMEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000198291_064e075cba.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

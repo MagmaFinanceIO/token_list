@@ -1,0 +1,13 @@
+{
+  "name": "FROGGY",
+  "symbol": "FROGGY",
+  "decimals": 9,
+  "coin_type": "0x8d2b0a360e11c4c6b2fd531cb3bfd7091f692a46e0773ae16e2ffd42b66c734a::froggy::FROGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2d233383-367a-43d1-b2fb-b25112bebdb5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

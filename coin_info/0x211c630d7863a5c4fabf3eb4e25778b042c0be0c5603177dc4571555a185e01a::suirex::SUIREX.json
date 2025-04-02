@@ -1,0 +1,13 @@
+{
+  "name": "SUIREX",
+  "symbol": "SUIREX",
+  "decimals": 9,
+  "coin_type": "0x211c630d7863a5c4fabf3eb4e25778b042c0be0c5603177dc4571555a185e01a::suirex::SUIREX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/811cef45-db77-424a-a0b5-fcab01f9e5de.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

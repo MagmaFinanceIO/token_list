@@ -1,0 +1,13 @@
+{
+  "name": "EGO",
+  "symbol": "EGO",
+  "decimals": 9,
+  "coin_type": "0x8386b5524704dfc18f8d26f0e10dc67d5a543197b14ed34effc84c0359122c31::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

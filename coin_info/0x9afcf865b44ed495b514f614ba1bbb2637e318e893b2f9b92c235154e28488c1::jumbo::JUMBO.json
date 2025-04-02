@@ -1,0 +1,13 @@
+{
+  "name": "Coco Jumbo",
+  "symbol": "JUMBO",
+  "decimals": 9,
+  "coin_type": "0x9afcf865b44ed495b514f614ba1bbb2637e318e893b2f9b92c235154e28488c1::jumbo::JUMBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BH1BQ7TfBPpfCkgejBCRgMQvYTHmLNCQD1timzCwpump.png?size=lg&key=88e994",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

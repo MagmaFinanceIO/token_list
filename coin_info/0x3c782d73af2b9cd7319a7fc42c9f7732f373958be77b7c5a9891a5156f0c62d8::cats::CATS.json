@@ -1,0 +1,13 @@
+{
+  "name": "Cats on sui",
+  "symbol": "Cats",
+  "decimals": 6,
+  "coin_type": "0x3c782d73af2b9cd7319a7fc42c9f7732f373958be77b7c5a9891a5156f0c62d8::cats::CATS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_2486_11ad8958c3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

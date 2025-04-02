@@ -1,0 +1,13 @@
+{
+  "name": "Seiro",
+  "symbol": "SEIRO",
+  "decimals": 6,
+  "coin_type": "0x6d7d4c2b3a484013b0a78bc885cb11317eb85050cee277bf6bd963fa4e8a78f5::seiro::SEIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/s_EIRO_0409ee640a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

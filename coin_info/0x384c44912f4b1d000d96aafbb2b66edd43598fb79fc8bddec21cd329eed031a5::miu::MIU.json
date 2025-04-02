@@ -1,0 +1,13 @@
+{
+  "name": "Miu Miu",
+  "symbol": "MIU",
+  "decimals": 6,
+  "coin_type": "0x384c44912f4b1d000d96aafbb2b66edd43598fb79fc8bddec21cd329eed031a5::miu::MIU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/239bfd66-b68e-4f67-ba2e-624700763ad3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

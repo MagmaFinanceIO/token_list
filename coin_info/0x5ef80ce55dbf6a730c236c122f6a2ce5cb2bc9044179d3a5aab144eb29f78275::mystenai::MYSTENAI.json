@@ -1,0 +1,13 @@
+{
+  "name": "Mysten AI Studio",
+  "symbol": "MYSTENAI",
+  "decimals": 6,
+  "coin_type": "0x5ef80ce55dbf6a730c236c122f6a2ce5cb2bc9044179d3a5aab144eb29f78275::mystenai::MYSTENAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://app.magmafinance.io/api/logo/0x5ef80ce55dbf6a730c236c122f6a2ce5cb2bc9044179d3a5aab144eb29f78275::mystenai::MYSTENAI.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

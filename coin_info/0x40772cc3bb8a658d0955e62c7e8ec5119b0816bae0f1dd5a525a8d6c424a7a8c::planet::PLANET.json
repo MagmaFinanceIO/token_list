@@ -1,0 +1,13 @@
+{
+  "name": "Planet Token",
+  "symbol": "Planet",
+  "decimals": 2,
+  "coin_type": "0x40772cc3bb8a658d0955e62c7e8ec5119b0816bae0f1dd5a525a8d6c424a7a8c::planet::PLANET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreifq6ujjadgiwc24plf2u62jcxxznohf5y3dvr7zyev3ns3pxhfoju.ipfs.w3s.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

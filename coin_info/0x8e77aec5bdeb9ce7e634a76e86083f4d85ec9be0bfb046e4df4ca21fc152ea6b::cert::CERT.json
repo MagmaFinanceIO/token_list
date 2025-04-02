@@ -1,0 +1,13 @@
+{
+  "name": "Volo Staked SUI",
+  "symbol": "voloSUI",
+  "decimals": 9,
+  "coin_type": "0x8e77aec5bdeb9ce7e634a76e86083f4d85ec9be0bfb046e4df4ca21fc152ea6b::cert::CERT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://volo.fi/voloSUI.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

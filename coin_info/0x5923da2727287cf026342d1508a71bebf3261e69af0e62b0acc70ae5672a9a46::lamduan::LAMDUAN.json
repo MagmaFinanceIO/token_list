@@ -1,0 +1,13 @@
+{
+  "name": "LAMDUAN",
+  "symbol": "LAMDUAN",
+  "decimals": 9,
+  "coin_type": "0x5923da2727287cf026342d1508a71bebf3261e69af0e62b0acc70ae5672a9a46::lamduan::LAMDUAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6WSppYPevaDEZxdmW2WoHLoSnJMeVyqz8Rqkm8MCpump.png?size=lg&key=899e94",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

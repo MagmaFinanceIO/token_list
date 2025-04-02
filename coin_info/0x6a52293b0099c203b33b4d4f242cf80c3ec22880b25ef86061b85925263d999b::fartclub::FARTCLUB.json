@@ -1,0 +1,13 @@
+{
+  "name": "FARTCLUB",
+  "symbol": "FARTCLUB",
+  "decimals": 9,
+  "coin_type": "0x6a52293b0099c203b33b4d4f242cf80c3ec22880b25ef86061b85925263d999b::fartclub::FARTCLUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AtG49sbSaf4uW2Ldq26t3ff5MGLwrQczQtu1vXFQpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

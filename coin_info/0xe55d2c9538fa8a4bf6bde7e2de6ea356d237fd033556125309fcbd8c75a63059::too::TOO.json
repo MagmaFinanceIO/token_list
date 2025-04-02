@@ -1,0 +1,13 @@
+{
+  "name": "TOO",
+  "symbol": "TOO",
+  "decimals": 9,
+  "coin_type": "0xe55d2c9538fa8a4bf6bde7e2de6ea356d237fd033556125309fcbd8c75a63059::too::TOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://forkast.news/wp-content/uploads/2023/10/Sui-network.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

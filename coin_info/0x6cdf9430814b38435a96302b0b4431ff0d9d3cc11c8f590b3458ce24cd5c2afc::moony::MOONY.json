@@ -1,0 +1,13 @@
+{
+  "name": "Moony Meme",
+  "symbol": "MOONY",
+  "decimals": 6,
+  "coin_type": "0x6cdf9430814b38435a96302b0b4431ff0d9d3cc11c8f590b3458ce24cd5c2afc::moony::MOONY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logos_f0b65097bc.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

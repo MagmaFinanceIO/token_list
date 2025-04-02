@@ -1,0 +1,13 @@
+{
+  "name": "Mascot Mitch",
+  "symbol": "MITCH",
+  "decimals": 6,
+  "coin_type": "0x6e8ff63d61e58f718ea8d5de79e36c7f40a9762958dfaab576712018e8341d88::mitch::MITCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_21_6af8620c7a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

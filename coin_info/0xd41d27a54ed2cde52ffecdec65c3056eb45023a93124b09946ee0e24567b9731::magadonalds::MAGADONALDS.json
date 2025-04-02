@@ -1,0 +1,13 @@
+{
+  "name": "MagaDonald's",
+  "symbol": "MagaDonalds",
+  "decimals": 6,
+  "coin_type": "0xd41d27a54ed2cde52ffecdec65c3056eb45023a93124b09946ee0e24567b9731::magadonalds::MAGADONALDS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Gaa4_YSIW_8_A_Aa_M7_D_c39825289f.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

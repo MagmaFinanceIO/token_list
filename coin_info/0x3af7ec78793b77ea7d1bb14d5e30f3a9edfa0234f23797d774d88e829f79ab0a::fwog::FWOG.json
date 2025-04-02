@@ -1,0 +1,13 @@
+{
+  "name": "FWOG",
+  "symbol": "FWOG",
+  "decimals": 2,
+  "coin_type": "0x3af7ec78793b77ea7d1bb14d5e30f3a9edfa0234f23797d774d88e829f79ab0a::fwog::FWOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5a68ec37-9fec-4d0c-ac78-f5af8c7f6156.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIBASE",
+  "symbol": "SB",
+  "decimals": 6,
+  "coin_type": "0x18214241182cc5c8bf3de8bff1e653986e90c889cc33a4739d84a92adab0e86d::sb::SB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1732498380477.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

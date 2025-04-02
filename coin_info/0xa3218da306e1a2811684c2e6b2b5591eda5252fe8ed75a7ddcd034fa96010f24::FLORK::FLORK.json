@@ -1,0 +1,13 @@
+{
+  "name": "flork ON SUI",
+  "symbol": "FLORK",
+  "decimals": 2,
+  "coin_type": "0xa3218da306e1a2811684c2e6b2b5591eda5252fe8ed75a7ddcd034fa96010f24::FLORK::FLORK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/i9GbU2guO4A6-p0_raQczrtGBEe-05dasx7aMLmRC8U?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

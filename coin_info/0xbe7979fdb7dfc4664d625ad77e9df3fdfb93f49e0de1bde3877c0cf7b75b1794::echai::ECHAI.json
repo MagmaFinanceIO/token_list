@@ -1,0 +1,13 @@
+{
+  "name": "Echelon AI",
+  "symbol": "ECHAI",
+  "decimals": 9,
+  "coin_type": "0xbe7979fdb7dfc4664d625ad77e9df3fdfb93f49e0de1bde3877c0cf7b75b1794::echai::ECHAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8nQBuF666JEuSGR6FLitmXDCvH2QJrnvwvVrK6oepump.png?size=lg&key=27d4c7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

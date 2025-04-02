@@ -1,0 +1,13 @@
+{
+  "name": "TYP",
+  "symbol": "TYP",
+  "decimals": 9,
+  "coin_type": "0xa4794fc3cf0db1fc6b156e29710adc9fcdf7283daac26cfa3f5ffc6e42159098::TYP::TYP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

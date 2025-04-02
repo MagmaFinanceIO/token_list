@@ -1,0 +1,13 @@
+{
+  "name": "Winnie",
+  "symbol": "Wpooh",
+  "decimals": 2,
+  "coin_type": "0xbc05b76857732fc9a2167a32a970f21e134964be8d36e4d2a7d54113690d4487::wpooh::WPOOH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fa31c43a-7d17-4ce6-a954-8a0c0db87afb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

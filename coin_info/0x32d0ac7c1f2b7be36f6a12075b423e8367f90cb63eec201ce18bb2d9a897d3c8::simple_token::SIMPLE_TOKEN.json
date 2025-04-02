@@ -1,0 +1,13 @@
+{
+  "name": "TERMOVA",
+  "symbol": "TERMOVA",
+  "decimals": 9,
+  "coin_type": "0x32d0ac7c1f2b7be36f6a12075b423e8367f90cb63eec201ce18bb2d9a897d3c8::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

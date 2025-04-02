@@ -1,0 +1,13 @@
+{
+  "name": "aaa cat 16",
+  "symbol": "AAA16",
+  "decimals": 9,
+  "coin_type": "0xa24bd073b48fa3f22bce26db506e1112c835ef481339604ca5bcadff0ad69183::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4995_cfd6177d03.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

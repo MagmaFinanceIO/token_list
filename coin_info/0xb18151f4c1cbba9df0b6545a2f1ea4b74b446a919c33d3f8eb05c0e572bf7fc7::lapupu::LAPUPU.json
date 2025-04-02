@@ -1,0 +1,13 @@
+{
+  "name": "Lapupu",
+  "symbol": "Lapupu",
+  "decimals": 9,
+  "coin_type": "0xb18151f4c1cbba9df0b6545a2f1ea4b74b446a919c33d3f8eb05c0e572bf7fc7::lapupu::LAPUPU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8PH1XWXyhvFWXWeixSbcWmfHX4uRJHQtcjnwkCgzfTkY.png?size=lg&key=052915",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

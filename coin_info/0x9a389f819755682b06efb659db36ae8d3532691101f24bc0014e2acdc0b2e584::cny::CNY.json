@@ -1,0 +1,13 @@
+{
+  "name": "CNY",
+  "symbol": "CNY",
+  "decimals": 9,
+  "coin_type": "0x9a389f819755682b06efb659db36ae8d3532691101f24bc0014e2acdc0b2e584::cny::CNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.gtokentool.com/1738496720/1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

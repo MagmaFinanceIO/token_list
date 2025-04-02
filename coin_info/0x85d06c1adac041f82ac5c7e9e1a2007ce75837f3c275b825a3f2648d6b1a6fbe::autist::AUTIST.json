@@ -1,0 +1,13 @@
+{
+  "name": "AutistStream24/7",
+  "symbol": "AUTIST",
+  "decimals": 9,
+  "coin_type": "0x85d06c1adac041f82ac5c7e9e1a2007ce75837f3c275b825a3f2648d6b1a6fbe::autist::AUTIST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/H9npef955RNUMBWFgEx6XH8YJwgbWZmiF5czhsPdpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

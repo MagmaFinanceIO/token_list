@@ -1,0 +1,13 @@
+{
+  "name": "DAWG",
+  "symbol": "DAWGG",
+  "decimals": 6,
+  "coin_type": "0x847250462fa8c439b38d3a399d02ae70704bcc39d6c6c910481faf5579e2accd::dawgg::DAWGG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731035477040.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

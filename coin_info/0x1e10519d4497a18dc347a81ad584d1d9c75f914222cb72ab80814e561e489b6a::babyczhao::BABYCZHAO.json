@@ -1,0 +1,13 @@
+{
+  "name": "BabyCZ",
+  "symbol": "BabyCzhao",
+  "decimals": 9,
+  "coin_type": "0x1e10519d4497a18dc347a81ad584d1d9c75f914222cb72ab80814e561e489b6a::babyczhao::BABYCZHAO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3c866624-d80e-4322-9d48-f195485faac4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

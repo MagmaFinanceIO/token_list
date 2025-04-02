@@ -1,0 +1,13 @@
+{
+  "name": "Frogo Fun",
+  "symbol": "Frogo",
+  "decimals": 9,
+  "coin_type": "0xa61d2d2b460d227047924a69c1a52afaa6457dbc8d67100b9a9c32853b9fbf5b::frogo::FROGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/pfKGgx28f-VQPWQ7?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

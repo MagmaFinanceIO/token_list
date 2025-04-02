@@ -1,0 +1,13 @@
+{
+  "name": "Konda",
+  "symbol": "KO",
+  "decimals": 9,
+  "coin_type": "0xfc20b52315361d6a0c83f8dfb9b2789e4c0ce12152fd379618caabbb08840ca6::ko::KO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

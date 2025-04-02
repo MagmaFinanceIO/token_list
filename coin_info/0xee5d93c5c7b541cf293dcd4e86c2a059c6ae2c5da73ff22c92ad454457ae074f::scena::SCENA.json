@@ -1,0 +1,13 @@
+{
+  "name": "SuiCena",
+  "symbol": "SCena",
+  "decimals": 6,
+  "coin_type": "0xee5d93c5c7b541cf293dcd4e86c2a059c6ae2c5da73ff22c92ad454457ae074f::scena::SCENA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "http://movepump.xyz/uploads/WX_20240925_112354_2x_5312f16222.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

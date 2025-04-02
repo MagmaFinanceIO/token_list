@@ -1,0 +1,13 @@
+{
+  "name": "MANDY",
+  "symbol": "MANDY",
+  "decimals": 9,
+  "coin_type": "0x55b3e18477bdcb40ca1162629f67780ec1225266bfcbe0e862da05293008266f::mandy::MANDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/62773a3c-0731-4d91-8643-01809290917f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

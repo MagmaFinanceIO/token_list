@@ -1,0 +1,13 @@
+{
+  "name": "Red_Panda",
+  "symbol": "RP",
+  "decimals": 6,
+  "coin_type": "0x6600ceef5246cd8c3fb2a023134cce4c3c3ead7b80b3c88cbfaf070d808e8812::rp::RP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/c831d9675094c2acf4abde59785e8720_ddd68e9f94.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AZUKI",
+  "symbol": "AZUKI",
+  "decimals": 9,
+  "coin_type": "0xb65e4fe5a742e89dc1164edcea7bc12b4bb08bb7c3f9d4594a4de09f2636db65::azuki::AZUKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://lh5.googleusercontent.com/Yi4Ay3xS8mC19uc6AG32GmhNPmLDnRWqfGkCpiV3NCKfHP-7hMjdTeGN741PuAva_obrASnBfhZ9eRF3grnBUWew9s80mrMp_i6JvE5WLS-gYQRkBX-7dVJ-8B6AS05qLell0QinO4zd2PjT51REXaJRXZ_gAyb4-DiGqpnTm38RRUvT_t1Rc8klBQ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

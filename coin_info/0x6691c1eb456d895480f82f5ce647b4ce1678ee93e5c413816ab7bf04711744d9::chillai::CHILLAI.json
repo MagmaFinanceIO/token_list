@@ -1,0 +1,13 @@
+{
+  "name": "CHILL A.I.",
+  "symbol": "CHILLAI",
+  "decimals": 6,
+  "coin_type": "0x6691c1eb456d895480f82f5ce647b4ce1678ee93e5c413816ab7bf04711744d9::chillai::CHILLAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735965037866.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

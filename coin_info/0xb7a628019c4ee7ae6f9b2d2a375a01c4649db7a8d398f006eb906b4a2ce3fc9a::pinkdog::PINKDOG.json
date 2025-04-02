@@ -1,0 +1,13 @@
+{
+  "name": "pinkdog",
+  "symbol": "PINKDOG",
+  "decimals": 9,
+  "coin_type": "0xb7a628019c4ee7ae6f9b2d2a375a01c4649db7a8d398f006eb906b4a2ce3fc9a::pinkdog::PINKDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4FiAGY3M9jqZ7Bs7SMRPyTebUMyub34Q9dVZKQobG3pS.png?size=lg&key=70c789",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

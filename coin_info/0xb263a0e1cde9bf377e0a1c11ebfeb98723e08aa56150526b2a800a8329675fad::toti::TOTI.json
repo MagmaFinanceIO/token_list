@@ -1,0 +1,13 @@
+{
+  "name": "TOTI",
+  "symbol": "TOTI",
+  "decimals": 9,
+  "coin_type": "0xb263a0e1cde9bf377e0a1c11ebfeb98723e08aa56150526b2a800a8329675fad::toti::TOTI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

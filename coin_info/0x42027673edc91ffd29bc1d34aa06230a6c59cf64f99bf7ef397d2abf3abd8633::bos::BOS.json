@@ -1,0 +1,13 @@
+{
+  "name": "Brett on Sui",
+  "symbol": "BoS",
+  "decimals": 6,
+  "coin_type": "0x42027673edc91ffd29bc1d34aa06230a6c59cf64f99bf7ef397d2abf3abd8633::bos::BOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/BRET_16e62025b2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

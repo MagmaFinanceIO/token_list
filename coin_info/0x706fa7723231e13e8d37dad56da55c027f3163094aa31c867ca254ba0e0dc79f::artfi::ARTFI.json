@@ -1,0 +1,13 @@
+{
+  "name": "ARTFI",
+  "symbol": "ARTFI",
+  "decimals": 9,
+  "coin_type": "0x706fa7723231e13e8d37dad56da55c027f3163094aa31c867ca254ba0e0dc79f::artfi::ARTFI",
+  "pyth_id": "",
+  "birdeyeid": "0x706fa7723231e13e8d37dad56da55c027f3163094aa31c867ca254ba0e0dc79f::artfi::ARTFI",
+  "coin_priority": [],
+  "logo_url": "https://rao3tdm6qnrnk3z6tga4jsnn5ufuapmlqoffpatiqligyjb2vnga.arweave.net/iB25jZ6DYtVvPpmBxMmt7QtAPYuDileCaILQbCQ6q0w",
+  "project_url": "",
+  "coingecko_id": "artfi",
+  "is_trusted": true
+}

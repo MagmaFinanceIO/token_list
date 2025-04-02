@@ -1,0 +1,13 @@
+{
+  "name": "OHNO",
+  "symbol": "OHNO",
+  "decimals": 9,
+  "coin_type": "0x59dd3d5cfded109807e8dc1d74ce765a681cf2119be51755d355f5599c0a3bd6::ohno::OHNO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cf.geekdo-images.com/camo/cba429883803dadea626df689cdbf3ddc0dc1bba/68747470733a2f2f692e696d6775722e636f6d2f456161485557462e6a7067",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

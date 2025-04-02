@@ -1,0 +1,13 @@
+{
+  "name": "AI LAWYER",
+  "symbol": "LAW",
+  "decimals": 9,
+  "coin_type": "0x157bc3cb7e3fec12432e5f27cc51cb360b5b32c433a09cd3b86ed54ee82c7774::law::LAW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CdZdyztM8mVxCixGn7aK2wDj8LPPKLksMagLp6Hwpump.png?size=lg&key=5335fb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

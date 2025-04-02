@@ -1,0 +1,13 @@
+{
+  "name": "Optimism",
+  "symbol": "OP",
+  "decimals": 8,
+  "coin_type": "0xe817f4f6f07f0da308698a4d9cd8af8a5d05b234edc55ce524916dc8d2b42fa5::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

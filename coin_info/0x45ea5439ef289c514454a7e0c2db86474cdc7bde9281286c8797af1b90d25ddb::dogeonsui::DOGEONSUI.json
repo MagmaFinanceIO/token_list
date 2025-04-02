@@ -1,0 +1,13 @@
+{
+  "name": "Doge on Sui",
+  "symbol": "DogeonSui",
+  "decimals": 6,
+  "coin_type": "0x45ea5439ef289c514454a7e0c2db86474cdc7bde9281286c8797af1b90d25ddb::dogeonsui::DOGEONSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/DOGEONSUI_FINAL_LOGO_8fc9867389.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

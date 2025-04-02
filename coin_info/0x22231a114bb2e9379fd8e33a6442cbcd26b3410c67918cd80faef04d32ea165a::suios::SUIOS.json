@@ -1,0 +1,13 @@
+{
+  "name": "SuiOS",
+  "symbol": "SuiOS",
+  "decimals": 9,
+  "coin_type": "0x22231a114bb2e9379fd8e33a6442cbcd26b3410c67918cd80faef04d32ea165a::suios::SUIOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://suios.xyz/token/suios.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

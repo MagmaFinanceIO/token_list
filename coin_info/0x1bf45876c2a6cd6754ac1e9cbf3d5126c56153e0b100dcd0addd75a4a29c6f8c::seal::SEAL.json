@@ -1,0 +1,13 @@
+{
+  "name": "Sealonsui",
+  "symbol": "SEAL",
+  "decimals": 6,
+  "coin_type": "0x1bf45876c2a6cd6754ac1e9cbf3d5126c56153e0b100dcd0addd75a4a29c6f8c::seal::SEAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731238214225.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

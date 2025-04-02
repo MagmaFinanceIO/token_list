@@ -1,0 +1,13 @@
+{
+  "name": "Ceem",
+  "symbol": "Ceem",
+  "decimals": 9,
+  "coin_type": "0x832da07df92a890cc1f33e9417394cf3be3335e70c31bd792b9c54f4fde010a8::ceem::CEEM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dbfcbf8b-89fd-4db9-8ca0-c1c8a6703212.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

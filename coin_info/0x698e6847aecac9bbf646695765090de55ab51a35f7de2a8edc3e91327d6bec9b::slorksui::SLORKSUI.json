@@ -1,0 +1,13 @@
+{
+  "name": "SLOORK",
+  "symbol": "SLORKSUI",
+  "decimals": 6,
+  "coin_type": "0x698e6847aecac9bbf646695765090de55ab51a35f7de2a8edc3e91327d6bec9b::slorksui::SLORKSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/lmx_D8m30_400x400_8878d2082a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

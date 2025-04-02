@@ -1,0 +1,13 @@
+{
+  "name": "Suipreme",
+  "symbol": "SUIPREME",
+  "decimals": 6,
+  "coin_type": "0x531f64dfb53861758d2b5e3b33abadb711f57953e88b2dba9cf0b23c9431b4c8::suipreme::SUIPREME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suipreme_beaver_d000a44907.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

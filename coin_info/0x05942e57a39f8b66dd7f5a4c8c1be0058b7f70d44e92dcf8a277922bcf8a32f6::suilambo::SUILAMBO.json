@@ -1,0 +1,13 @@
+{
+  "name": "Sui-Lambo",
+  "symbol": "SUILAMBO",
+  "decimals": 9,
+  "coin_type": "0x05942e57a39f8b66dd7f5a4c8c1be0058b7f70d44e92dcf8a277922bcf8a32f6::suilambo::SUILAMBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FhAdp55ngkaRCC3TGAMsJdDCUHQDPTMcxQDJ4HCfnxMf.png?size=lg&key=429a99",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Booba",
+  "symbol": "BOOBA",
+  "decimals": 9,
+  "coin_type": "0x15da5a1c863f45ff92dda0c4b3d5cd7431e9fb222071d7c183e07de203cb1580::booba::BOOBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2bd1c986-dc50-4ab4-8d77-35286bcd12ff.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

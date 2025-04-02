@@ -1,0 +1,13 @@
+{
+  "name": "Sui Vampire",
+  "symbol": "VAMPIRE",
+  "decimals": 6,
+  "coin_type": "0x086b22b1322ada6ae30b9247d575fead5b845b456e25c9eec856c1c6c84c68ea::vampire::VAMPIRE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_73_c3a20a4147.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

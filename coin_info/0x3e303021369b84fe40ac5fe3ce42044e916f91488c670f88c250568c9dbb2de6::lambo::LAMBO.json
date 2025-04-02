@@ -1,0 +1,13 @@
+{
+  "name": "Sui Lambo CLub",
+  "symbol": "LAMBO",
+  "decimals": 6,
+  "coin_type": "0x3e303021369b84fe40ac5fe3ce42044e916f91488c670f88c250568c9dbb2de6::lambo::LAMBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SL_TOKEN_ICON_80052b4f22.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

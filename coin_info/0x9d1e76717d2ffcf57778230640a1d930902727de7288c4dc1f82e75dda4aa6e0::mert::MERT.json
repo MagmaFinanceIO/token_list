@@ -1,0 +1,13 @@
+{
+  "name": "Hansum Mert",
+  "symbol": "MERT",
+  "decimals": 9,
+  "coin_type": "0x9d1e76717d2ffcf57778230640a1d930902727de7288c4dc1f82e75dda4aa6e0::mert::MERT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BFH8ejfHWL2XBpjv8q8irUeWgwbKXJ1X6wJz14HgUibH.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

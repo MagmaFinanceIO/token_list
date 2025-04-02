@@ -1,0 +1,13 @@
+{
+  "name": "ZEUS",
+  "symbol": "SUIZ",
+  "decimals": 9,
+  "coin_type": "0x7cd43b109aa3f280beeb18fb99996a5898e4868069ba3179ebde898b58f8e944::suiz::SUIZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/18386c2d-b6fb-438a-94ad-93c0462c162b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

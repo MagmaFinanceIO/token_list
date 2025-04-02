@@ -1,0 +1,13 @@
+{
+  "name": "CoughCoin",
+  "symbol": "COUGH",
+  "decimals": 9,
+  "coin_type": "0x2ec815f2024792e233421331a9e4ee042c4fe9f5d191fe9f8d78220dd27491d5::cough::COUGH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1a06d059-92b6-4e36-b5c2-327317fd472c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

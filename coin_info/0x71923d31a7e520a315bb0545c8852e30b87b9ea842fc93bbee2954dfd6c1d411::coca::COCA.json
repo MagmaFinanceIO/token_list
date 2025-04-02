@@ -1,0 +1,13 @@
+{
+  "name": "COCA LEAF",
+  "symbol": "COCA",
+  "decimals": 6,
+  "coin_type": "0x71923d31a7e520a315bb0545c8852e30b87b9ea842fc93bbee2954dfd6c1d411::coca::COCA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/coca_bbe2c7fa20.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

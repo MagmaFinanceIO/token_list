@@ -1,0 +1,13 @@
+{
+  "name": "Alice Weider ",
+  "symbol": "ALICE",
+  "decimals": 6,
+  "coin_type": "0xc6771b6f5a575ce0da054d4f059fd4c060dd6cdd3693eb8c59d6bb8e7c6eb0f3::alice::ALICE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736344690825.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

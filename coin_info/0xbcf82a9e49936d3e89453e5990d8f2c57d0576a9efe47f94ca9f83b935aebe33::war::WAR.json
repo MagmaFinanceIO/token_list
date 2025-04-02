@@ -1,0 +1,13 @@
+{
+  "name": "No War",
+  "symbol": "War",
+  "decimals": 6,
+  "coin_type": "0xbcf82a9e49936d3e89453e5990d8f2c57d0576a9efe47f94ca9f83b935aebe33::war::WAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/indir_d410147da5.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hakuma",
+  "symbol": "HAKUMA",
+  "decimals": 6,
+  "coin_type": "0xb6b24c2d17f0d68faec85f22789168e392a8e7ac94dcbc8171567f54e441e05f::hakuma::HAKUMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731715363028.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CJ",
+  "symbol": "CJ",
+  "decimals": 9,
+  "coin_type": "0x6a1817202081f9aaab60ebaa040754fa105d550c77e91f59949d71c2859e07ec::cj::CJ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

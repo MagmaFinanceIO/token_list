@@ -1,0 +1,13 @@
+{
+  "name": "DOGE",
+  "symbol": "DOGE",
+  "decimals": 6,
+  "coin_type": "0xf6cb84a68d88aad8007efd46e4b585405569b0b6ccde0a56ed7868158feb3fb0::doge::DOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/rd0MG3b/tg-image-2139435059.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

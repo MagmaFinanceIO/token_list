@@ -1,0 +1,13 @@
+{
+  "name": "Suiniper: Sniper bot on Sui",
+  "symbol": "SUINIPER",
+  "decimals": 9,
+  "coin_type": "0xe323179252e20e380c563383b35d9fe7c39eb4479001dff9d3ee5e34a1d18eab::suiniper::SUINIPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3FQmDJbKmzrbnKYS4mtsp8pnKTn1V51aDz4V65Lqpump.png?size=lg&key=96322b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

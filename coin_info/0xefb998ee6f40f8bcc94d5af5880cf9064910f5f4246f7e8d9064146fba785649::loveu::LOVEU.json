@@ -1,0 +1,13 @@
+{
+  "name": "iloveu token",
+  "symbol": "LOVEU",
+  "decimals": 6,
+  "coin_type": "0xefb998ee6f40f8bcc94d5af5880cf9064910f5f4246f7e8d9064146fba785649::loveu::LOVEU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://raw.githubusercontent.com/wuliuu99/iLoveuToken/refs/heads/main/love%20u%20200.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

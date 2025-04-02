@@ -1,0 +1,13 @@
+{
+  "name": "Silly Salmon",
+  "symbol": "SILLY",
+  "decimals": 6,
+  "coin_type": "0xe50f088c54ca65ae6f2b31913c33ce001b2c7b0212015d898e6a5c570d09ed2d::silly::SILLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_11_15_20_39_739c3446a4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

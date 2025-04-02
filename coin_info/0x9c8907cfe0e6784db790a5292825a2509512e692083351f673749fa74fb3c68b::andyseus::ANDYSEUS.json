@@ -1,0 +1,13 @@
+{
+  "name": "Andyseus Maximus",
+  "symbol": "ANDYSEUS",
+  "decimals": 9,
+  "coin_type": "0x9c8907cfe0e6784db790a5292825a2509512e692083351f673749fa74fb3c68b::andyseus::ANDYSEUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EVJHVCch3GKQitwExNsSi2PaQjSoxmBefu2dQznnad2E.png?size=lg&key=1c70d0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

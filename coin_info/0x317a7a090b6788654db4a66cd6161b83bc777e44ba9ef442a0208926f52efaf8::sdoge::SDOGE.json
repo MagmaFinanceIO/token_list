@@ -1,0 +1,13 @@
+{
+  "name": "Sui Doge",
+  "symbol": "Sdoge",
+  "decimals": 6,
+  "coin_type": "0x317a7a090b6788654db4a66cd6161b83bc777e44ba9ef442a0208926f52efaf8::sdoge::SDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSPjQH4nom6qS7ZyV7eB76spSUDSnDCFyasvUbgutcaKx",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

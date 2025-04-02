@@ -1,0 +1,13 @@
+{
+  "name": "Sui Heroes",
+  "symbol": "HEROES",
+  "decimals": 9,
+  "coin_type": "0xbe5b375cc0b238ad598268ee249e1b92f46efe4f1c992d8f2af08a65de2ceffa::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://strapi-dev.scand.app/uploads/Suiheroes_Logo_bf2946f831.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

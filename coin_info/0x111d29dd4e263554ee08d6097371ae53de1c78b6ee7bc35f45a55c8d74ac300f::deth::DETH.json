@@ -1,0 +1,13 @@
+{
+  "name": "DETH",
+  "symbol": "DETH",
+  "decimals": 9,
+  "coin_type": "0x111d29dd4e263554ee08d6097371ae53de1c78b6ee7bc35f45a55c8d74ac300f::deth::DETH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWCOS9hOo6MVHhZy2kK0fW2YDT72Mu7qUpZA&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SYLVI AGENT",
+  "symbol": "SYLVI",
+  "decimals": 6,
+  "coin_type": "0xbbeac1ef49f43f599314d11e4fedaa0ee1e18b6f05116febb2e0ad516cd17e3c::sylvi::SYLVI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736409418335.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

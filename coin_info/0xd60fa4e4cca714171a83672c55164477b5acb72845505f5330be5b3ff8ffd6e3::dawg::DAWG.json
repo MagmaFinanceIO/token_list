@@ -1,0 +1,13 @@
+{
+  "name": "Corndawg",
+  "symbol": "DAWG",
+  "decimals": 9,
+  "coin_type": "0xd60fa4e4cca714171a83672c55164477b5acb72845505f5330be5b3ff8ffd6e3::dawg::DAWG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cd67b8c4-fa87-4312-8f9b-404ad3deac08.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GONSTER",
+  "symbol": "GONSTER",
+  "decimals": 9,
+  "coin_type": "0x0736aad0929c5fe97be25febac6114059a8f964be520caeafa86c327dfb37e4a::gonster::GONSTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f381ceb5-8888-462f-9ac4-1f6ff8a46d07.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

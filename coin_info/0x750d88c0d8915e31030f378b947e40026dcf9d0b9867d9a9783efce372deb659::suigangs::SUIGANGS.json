@@ -1,0 +1,13 @@
+{
+  "name": "SUI Network Gangsters",
+  "symbol": "SuiGangs",
+  "decimals": 6,
+  "coin_type": "0x750d88c0d8915e31030f378b947e40026dcf9d0b9867d9a9783efce372deb659::suigangs::SUIGANGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Hi7o_RL_Mh_400x400_a9ae877889.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

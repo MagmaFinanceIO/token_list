@@ -1,0 +1,13 @@
+{
+  "name": "Dat Boi",
+  "symbol": "DATBOI",
+  "decimals": 9,
+  "coin_type": "0x5532bad51ac2ff97f5e73fb95e36b353701b0a0a553351953eb0a9567009967c::datboi::DATBOI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1f4769cd-9351-45e0-a03d-25dc24708ca6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

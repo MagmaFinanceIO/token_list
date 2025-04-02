@@ -1,0 +1,13 @@
+{
+  "name": "SEQUOAI",
+  "symbol": "SEQUOAI",
+  "decimals": 6,
+  "coin_type": "0xeaa92c01a0c2282417787087d18e13c03478f8c8f5c54707e95f76fae5ab84a3::sequoai::SEQUOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlmQ4cYgdssWL_atXr64egwB4-GMJN_5PcGw&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

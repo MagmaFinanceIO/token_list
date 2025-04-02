@@ -1,0 +1,13 @@
+{
+  "name": "Free SYRIA",
+  "symbol": "FSYR",
+  "decimals": 9,
+  "coin_type": "0xda1c5d17d888802e4a510fea00a582a45a217e9b01fd83dbad02ed178fa7f75a::fsyr::FSYR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0dc9d141-4c3d-4dec-ae41-c3fe37cbe389.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

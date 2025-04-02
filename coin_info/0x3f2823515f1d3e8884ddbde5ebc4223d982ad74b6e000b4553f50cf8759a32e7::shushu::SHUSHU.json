@@ -1,0 +1,13 @@
+{
+  "name": "Inoshushu",
+  "symbol": "SHUSHU",
+  "decimals": 9,
+  "coin_type": "0x3f2823515f1d3e8884ddbde5ebc4223d982ad74b6e000b4553f50cf8759a32e7::shushu::SHUSHU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8RRrZpEnwGHo2zMMtqKbdAUEZze34RoYuCbM9oh1RoGi.png?size=lg&key=703df0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

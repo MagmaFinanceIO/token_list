@@ -1,0 +1,13 @@
+{
+  "name": "IUS",
+  "symbol": "IUS",
+  "decimals": 9,
+  "coin_type": "0x918362e610ec6d35b2a9af34c299210f76f6a06aa080c3e0e1e796e9faf50518::ius::IUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

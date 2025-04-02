@@ -1,0 +1,13 @@
+{
+  "name": "Suilor Moon",
+  "symbol": "SMOON",
+  "decimals": 6,
+  "coin_type": "0x319b1149a0d05a513b6c8a41147fc99dec78e0f0d17be27063c9d6ed9dd5d13e::smoon::SMOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1734645411577.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

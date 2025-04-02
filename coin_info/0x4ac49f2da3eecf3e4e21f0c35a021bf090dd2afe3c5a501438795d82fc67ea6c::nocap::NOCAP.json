@@ -1,0 +1,13 @@
+{
+  "name": "NoCap",
+  "symbol": "NOCAP",
+  "decimals": 9,
+  "coin_type": "0x4ac49f2da3eecf3e4e21f0c35a021bf090dd2afe3c5a501438795d82fc67ea6c::nocap::NOCAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4b5b492c-8b1f-460a-9c96-6a113bd59712.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "America Is Back",
+  "symbol": "AMERICA",
+  "decimals": 9,
+  "coin_type": "0x055cfd7db230b8ec7880069cbf1e32c4a394bfbd65178638ee7f0e9aa1da0cce::america::AMERICA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qma6nyjbRLZKxYtGcNPTRkjGS4DuvaE8AafN5Z7kj7zXHn",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

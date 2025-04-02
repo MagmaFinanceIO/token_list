@@ -1,0 +1,13 @@
+{
+  "name": "WoJaks",
+  "symbol": "WoJak",
+  "decimals": 6,
+  "coin_type": "0xe0a8bfb2f04ff570df7f7c6c3cc423a813e50d6b2dcac3485d89d5d6cdb9b295::wojak::WOJAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000007255_b56f9835d9.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

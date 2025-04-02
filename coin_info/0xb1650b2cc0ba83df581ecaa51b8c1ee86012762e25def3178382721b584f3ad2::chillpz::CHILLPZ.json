@@ -1,0 +1,13 @@
+{
+  "name": "Just a chill pizza",
+  "symbol": "CHILLPZ",
+  "decimals": 9,
+  "coin_type": "0xb1650b2cc0ba83df581ecaa51b8c1ee86012762e25def3178382721b584f3ad2::chillpz::CHILLPZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4oZa7FxwkFPaAS5ofQZTESYVfBWSoQqpxgaqwdAppump.png?size=lg&key=de5f25",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

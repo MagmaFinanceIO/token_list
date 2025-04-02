@@ -1,0 +1,13 @@
+{
+  "name": "SUIUP",
+  "symbol": "SUIUP",
+  "decimals": 9,
+  "coin_type": "0xd360b2c52467e0cf0ee94cd6cfaa998128a1c2e94a0d3e48663c22b1636944ad::SUIUP::SUIUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

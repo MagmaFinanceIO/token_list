@@ -1,0 +1,13 @@
+{
+  "name": "HARRIS AI",
+  "symbol": "HARRIS",
+  "decimals": 9,
+  "coin_type": "0x493697eafbff1e9aca53670e3f92071ba969377b9ba03cff946df55053828414::HARRIS::HARRIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/eb4820fa-e09f-4da9-bfd9-4ce5ee2267a9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

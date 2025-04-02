@@ -1,0 +1,13 @@
+{
+  "name": "Agent Moo",
+  "symbol": "AGENT",
+  "decimals": 9,
+  "coin_type": "0x49111c5c91b939a87f6e35175dbace0d6d1bc7054db15cd309d677ec50539379::agent::AGENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3284ae94-559d-49fb-94cf-43a81c4d3f01.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GRASS",
+  "symbol": "GRASS",
+  "decimals": 9,
+  "coin_type": "0x6ad7368bf6bbe077cfd30adbc07037767596bc922934d2908027f2ab092c7530::grass::GRASS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bb9ed899-afc6-4ad3-8e72-4e3e9b12d0b9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

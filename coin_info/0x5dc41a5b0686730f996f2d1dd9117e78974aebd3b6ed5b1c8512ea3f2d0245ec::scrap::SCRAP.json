@@ -1,0 +1,13 @@
+{
+  "name": "Sui Crap",
+  "symbol": "SCRAP",
+  "decimals": 9,
+  "coin_type": "0x5dc41a5b0686730f996f2d1dd9117e78974aebd3b6ed5b1c8512ea3f2d0245ec::scrap::SCRAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/99063391-696c-450b-9323-dae32510436d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Blue Ape",
+  "symbol": "BlueApe",
+  "decimals": 9,
+  "coin_type": "0x163662d4c129f74b7334ff054c6761a9c6a337a314a222ff938a0f2f42a4ea66::blueape::BLUEAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/78cde02e-dc13-4f96-995e-9d2f9af701a7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

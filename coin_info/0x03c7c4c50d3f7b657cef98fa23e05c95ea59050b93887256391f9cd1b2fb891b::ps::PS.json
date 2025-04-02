@@ -1,0 +1,13 @@
+{
+  "name": "Ponke Sui",
+  "symbol": "PS",
+  "decimals": 9,
+  "coin_type": "0x03c7c4c50d3f7b657cef98fa23e05c95ea59050b93887256391f9cd1b2fb891b::ps::PS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5c69de1a-700c-43c5-a332-2d77a95413d3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

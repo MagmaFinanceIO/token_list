@@ -1,0 +1,13 @@
+{
+  "name": "tet",
+  "symbol": "TET",
+  "decimals": 8,
+  "coin_type": "0x6c73d80797637e124ffcc61bdefe517eb0b1f2e5ddf2b5d3efd8e0051b9e4835::tet::TET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://public-cdn.daossui.io/assets/tokens/1ba4b920-d93c-11ef-a74b-b3b817eed47e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

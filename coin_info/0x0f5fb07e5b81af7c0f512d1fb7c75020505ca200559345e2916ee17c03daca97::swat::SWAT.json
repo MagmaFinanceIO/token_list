@@ -1,0 +1,13 @@
+{
+  "name": "SWAT",
+  "symbol": "SWAT",
+  "decimals": 9,
+  "coin_type": "0x0f5fb07e5b81af7c0f512d1fb7c75020505ca200559345e2916ee17c03daca97::swat::SWAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DINOSHIB",
+  "symbol": "DINOSHIB",
+  "decimals": 4,
+  "coin_type": "0xa0e558a9a5195fe652426f03ee2594b51c5501bbcfd0a332805905861071a1e2::dinoshib::DINOSHIB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://img.freepik.com/free-vector/cute-shiba-inu-dog-wearing-dino-costume-cartoon-vector-icon-illustration-animal-holiday-isolated_138676-7108.jpg?w=740&t=st=1683882693~exp=1683883293~hmac=943b07a01b528ddbc77b0707c47e2a641944c440c2570d638a84fb0c7c195892",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

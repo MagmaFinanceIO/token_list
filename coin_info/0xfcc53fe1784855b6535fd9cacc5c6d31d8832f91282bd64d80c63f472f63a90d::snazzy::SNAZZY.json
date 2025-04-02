@@ -1,0 +1,13 @@
+{
+  "name": "SnazzySui",
+  "symbol": "Snazzy",
+  "decimals": 6,
+  "coin_type": "0xfcc53fe1784855b6535fd9cacc5c6d31d8832f91282bd64d80c63f472f63a90d::snazzy::SNAZZY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_16_081239747_8c5abbde2a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

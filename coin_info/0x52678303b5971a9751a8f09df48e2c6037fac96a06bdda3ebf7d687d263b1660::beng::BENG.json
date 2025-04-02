@@ -1,0 +1,13 @@
+{
+  "name": "BURNPENGU",
+  "symbol": "BENG",
+  "decimals": 6,
+  "coin_type": "0x52678303b5971a9751a8f09df48e2c6037fac96a06bdda3ebf7d687d263b1660::beng::BENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000004550_3a3cc9094f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

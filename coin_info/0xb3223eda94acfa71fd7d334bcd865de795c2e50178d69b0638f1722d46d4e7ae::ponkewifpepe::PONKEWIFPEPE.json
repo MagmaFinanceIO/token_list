@@ -1,0 +1,13 @@
+{
+  "name": "PonkeWifPepe",
+  "symbol": "PonkeWifPepe",
+  "decimals": 9,
+  "coin_type": "0xb3223eda94acfa71fd7d334bcd865de795c2e50178d69b0638f1722d46d4e7ae::ponkewifpepe::PONKEWIFPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/56ba79f8-ab5d-4016-aea0-e1563ff5fcc3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

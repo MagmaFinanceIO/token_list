@@ -1,0 +1,13 @@
+{
+  "name": "Based Kekius Maximus",
+  "symbol": "KEKIUS",
+  "decimals": 9,
+  "coin_type": "0xafde4b299992c1cc112aac100ded4219e31d52cf9b06c977718247bebe457fc8::kekius::KEKIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x26eb9a2311593a9756a6d03436d115cc088c881d.png?size=lg&key=fb240f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

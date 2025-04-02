@@ -1,0 +1,13 @@
+{
+  "name": "First Neiro On Sui",
+  "symbol": "NEIRO",
+  "decimals": 9,
+  "coin_type": "0x4c599935954e2fa94a15af614afdf662d5685b87d8bec23365533e8de2ec2389::neiro::NEIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/482384bb-b488-496e-b616-55684e04a430.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

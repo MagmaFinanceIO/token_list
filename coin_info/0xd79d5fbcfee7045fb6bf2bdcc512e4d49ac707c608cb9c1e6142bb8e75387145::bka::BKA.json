@@ -1,0 +1,13 @@
+{
+  "name": "Beaker AI",
+  "symbol": "BKA",
+  "decimals": 9,
+  "coin_type": "0xd79d5fbcfee7045fb6bf2bdcc512e4d49ac707c608cb9c1e6142bb8e75387145::bka::BKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x2dbcf653377ac85ef05fbfb415224a8d2aaec33d.png?size=lg&key=4d1898",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

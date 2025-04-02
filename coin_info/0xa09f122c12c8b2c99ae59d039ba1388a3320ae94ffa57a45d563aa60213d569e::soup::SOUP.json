@@ -1,0 +1,13 @@
+{
+  "name": "SOUP ON SUI",
+  "symbol": "SOUP",
+  "decimals": 6,
+  "coin_type": "0xa09f122c12c8b2c99ae59d039ba1388a3320ae94ffa57a45d563aa60213d569e::soup::SOUP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731168607853.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Milaween on Sui",
+  "symbol": "Milaween",
+  "decimals": 6,
+  "coin_type": "0x46a88db55b57ee7e1dc0b57b52d2615a692c0a403b893d609e42c36adeef24c6::milaween::MILAWEEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/web11_e29d9b8e31.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

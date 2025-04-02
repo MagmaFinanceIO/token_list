@@ -1,0 +1,13 @@
+{
+  "name": "FurGami",
+  "symbol": "FRGA",
+  "decimals": 9,
+  "coin_type": "0x72b799f5d1884cd72b7c41d9669c082650cb25923bd9d45eb2244b6d5d03cbe0::frga::FRGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9bac1a9f-ca8c-4de3-af93-ac983d0aa92a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

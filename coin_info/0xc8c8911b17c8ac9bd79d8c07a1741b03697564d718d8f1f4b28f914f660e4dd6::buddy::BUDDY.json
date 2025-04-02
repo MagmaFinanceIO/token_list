@@ -1,0 +1,13 @@
+{
+  "name": "Buddy Cute",
+  "symbol": "BUDDY",
+  "decimals": 6,
+  "coin_type": "0xc8c8911b17c8ac9bd79d8c07a1741b03697564d718d8f1f4b28f914f660e4dd6::buddy::BUDDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1_13_24ea3e2195.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

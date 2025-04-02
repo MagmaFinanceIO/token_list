@@ -1,0 +1,13 @@
+{
+  "name": "JeSUIs",
+  "symbol": "JESUIS",
+  "decimals": 2,
+  "coin_type": "0xa84b69fff7dc1312d9f0088d2e0ff0e990b99b9917720bcb3ec808fd18ba3fd7::jesuis::JESUIS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/104578f8-c7a0-46fe-b089-e2825a9bc159.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

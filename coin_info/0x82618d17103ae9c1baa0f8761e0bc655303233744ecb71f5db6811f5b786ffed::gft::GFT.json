@@ -1,0 +1,13 @@
+{
+  "name": "Goldfish Token",
+  "symbol": "GFT",
+  "decimals": 6,
+  "coin_type": "0x82618d17103ae9c1baa0f8761e0bc655303233744ecb71f5db6811f5b786ffed::gft::GFT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/goldfishlogo_02e7259d78.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

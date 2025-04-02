@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL MUSK",
+  "symbol": "MUSK",
+  "decimals": 9,
+  "coin_type": "0x1777eecc5ae9ffe208bfae40010c4c612b876704f5a54f9a92928e0690ab86d7::musk::MUSK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmW71sFVXFzQEWA5M8LNsvcap8XxrFyCzcQVqzGyc2RNSV",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

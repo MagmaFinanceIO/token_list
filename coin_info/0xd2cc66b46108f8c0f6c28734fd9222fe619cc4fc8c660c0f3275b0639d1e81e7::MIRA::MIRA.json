@@ -1,0 +1,13 @@
+{
+  "name": "Mira",
+  "symbol": "MIRA",
+  "decimals": 2,
+  "coin_type": "0xd2cc66b46108f8c0f6c28734fd9222fe619cc4fc8c660c0f3275b0639d1e81e7::MIRA::MIRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/2WHIb79eWAU1PtlunEYSRBgLw9utFdr-nwhoo0maIRo?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "FLEXI",
+  "symbol": "FLX",
+  "decimals": 9,
+  "coin_type": "0xf2844612fb6f98fd681e15b83afbcc986f912827776a6a38d2dd0e964efb1349::flx::FLX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/689b8816-3200-4e18-803f-013a70ba3f60.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

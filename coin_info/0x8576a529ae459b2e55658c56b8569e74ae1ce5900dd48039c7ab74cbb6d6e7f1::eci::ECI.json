@@ -1,0 +1,13 @@
+{
+  "name": "Elan Cat Inu",
+  "symbol": "ECI",
+  "decimals": 9,
+  "coin_type": "0x8576a529ae459b2e55658c56b8569e74ae1ce5900dd48039c7ab74cbb6d6e7f1::eci::ECI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0eae389f-a2c1-42d1-940a-ed0d6b545b80.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

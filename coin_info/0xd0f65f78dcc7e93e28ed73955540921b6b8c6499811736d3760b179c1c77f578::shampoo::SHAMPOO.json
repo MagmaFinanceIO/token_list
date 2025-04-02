@@ -1,0 +1,13 @@
+{
+  "name": "SHAMPOO 43",
+  "symbol": "SHAMPOO",
+  "decimals": 9,
+  "coin_type": "0xd0f65f78dcc7e93e28ed73955540921b6b8c6499811736d3760b179c1c77f578::shampoo::SHAMPOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4365dcd1-80af-48b9-aa09-810980fdac26.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

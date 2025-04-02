@@ -1,0 +1,13 @@
+{
+  "name": "Netium",
+  "symbol": "NTM",
+  "decimals": 9,
+  "coin_type": "0xc34fb4685084b8d2b5ab82146cd954b721102df36add669bd884e9f486fd2477::ntm::NTM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/41640454-cb42-4e74-ac4c-c715f45c91f3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

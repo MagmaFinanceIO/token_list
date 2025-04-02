@@ -1,0 +1,13 @@
+{
+  "name": "Nick Jr.",
+  "symbol": "FACE",
+  "decimals": 9,
+  "coin_type": "0x3e8ace855e1e1c1264a227adfe78969826fbd128afb2bb4f0bb33a7bc9f5c72a::face::FACE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/229514c7-9305-4e9a-ad83-39fefbd04df7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

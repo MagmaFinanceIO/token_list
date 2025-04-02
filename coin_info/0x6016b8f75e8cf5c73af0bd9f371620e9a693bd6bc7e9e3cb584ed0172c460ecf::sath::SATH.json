@@ -1,0 +1,13 @@
+{
+  "name": "SuiAthCelebrationCoin",
+  "symbol": "SATH",
+  "decimals": 8,
+  "coin_type": "0x6016b8f75e8cf5c73af0bd9f371620e9a693bd6bc7e9e3cb584ed0172c460ecf::sath::SATH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9B0OiJPPfYUelLHBPkrNaSCNrLsE2U6MHVQ&usqp=CAU",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MICHI CAT",
+  "symbol": "MICHI",
+  "decimals": 6,
+  "coin_type": "0x99ac78b8c01f534b52b0eadbdf40fc26b5356ee2af56d22ca0faf389d9c3ae06::michi::MICHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Michi_7bf2dffa5f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

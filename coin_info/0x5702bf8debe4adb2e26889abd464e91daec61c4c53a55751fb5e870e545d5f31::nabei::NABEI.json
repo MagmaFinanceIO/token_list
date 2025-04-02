@@ -1,0 +1,13 @@
+{
+  "name": "Nabei Cat",
+  "symbol": "NABEI",
+  "decimals": 9,
+  "coin_type": "0x5702bf8debe4adb2e26889abd464e91daec61c4c53a55751fb5e870e545d5f31::nabei::NABEI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6Y5u627hSm8XHAqxA1irmrtSZdoyG3JxRxd5CKtSpump.png?size=lg&key=4a3858",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "spartalı",
+  "symbol": "SPT",
+  "decimals": 9,
+  "coin_type": "0x5b6b6e3ab0ef9c88abcfb412d25d3280f8ccffdbb3d02f86d289317ea64a37ff::spt::SPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3e2776dc-02a7-42fe-a4c7-43b203488606.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

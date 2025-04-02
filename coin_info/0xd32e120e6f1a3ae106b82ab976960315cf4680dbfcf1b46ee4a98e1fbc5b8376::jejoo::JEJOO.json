@@ -1,0 +1,13 @@
+{
+  "name": "Jejoo Coin",
+  "symbol": "Jejoo",
+  "decimals": 9,
+  "coin_type": "0xd32e120e6f1a3ae106b82ab976960315cf4680dbfcf1b46ee4a98e1fbc5b8376::jejoo::JEJOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6df14e0a-b23c-48cf-97a7-1b71d416f9ba.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

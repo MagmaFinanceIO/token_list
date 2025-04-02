@@ -1,0 +1,13 @@
+{
+  "name": "WOLF AI by SuiAI",
+  "symbol": "WAI",
+  "decimals": 6,
+  "coin_type": "0xa7d5a54277051871e9acd9701d12751d138b84e93c7b382eb6a26ce0efe7156f::wai::WAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1001250103_a6ac812914.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

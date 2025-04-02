@@ -1,0 +1,13 @@
+{
+  "name": "MeowWooF",
+  "symbol": "$MEW",
+  "decimals": 6,
+  "coin_type": "0x55ff96aba7ffab8eac592f4fb550fa5d969adb351cda8905f30f69d287a9876c::mew::MEW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmQzsgpFsSLA1XV3yeAS2j2MxfdLUt4qR9CaGnHgVWAiRA",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

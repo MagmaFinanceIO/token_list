@@ -1,0 +1,13 @@
+{
+  "name": "CHAINREX_COIN",
+  "symbol": "CHAINREX",
+  "decimals": 9,
+  "coin_type": "0x5c1042a50f66773a2da032c15aa7620527b21091c01f30c4c89bb002104da8e7::chainrex_coin::CHAINREX_COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://avatars.githubusercontent.com/u/76983474",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Titty The Raccoon",
+  "symbol": "TITTY",
+  "decimals": 9,
+  "coin_type": "0x768160efcbd85fe722a3d451b00ea86cb4aa101c4938b0e4bc038d012d860a19::titty::TITTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8c016cc1-8ace-49d8-9640-970a48015d96.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "dd",
+  "symbol": "FFF",
+  "decimals": 9,
+  "coin_type": "0xb4aaee8ebc118be7eb02f56c99a37ecffcabb3bc3beba0fb08b2ed1be8c04909::fff::FFF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump-static.cetus.zone/icon/4bc8c655-5405-4774-b1c0-5bbdba5bb6d2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

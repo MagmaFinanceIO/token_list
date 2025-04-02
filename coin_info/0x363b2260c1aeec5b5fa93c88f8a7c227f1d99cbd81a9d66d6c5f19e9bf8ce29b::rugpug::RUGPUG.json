@@ -1,0 +1,13 @@
+{
+  "name": "PUG IN A RUG",
+  "symbol": "RUGPUG",
+  "decimals": 6,
+  "coin_type": "0x363b2260c1aeec5b5fa93c88f8a7c227f1d99cbd81a9d66d6c5f19e9bf8ce29b::rugpug::RUGPUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/8_ada6e5d51a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "fineshyt",
+  "symbol": "SHYT",
+  "decimals": 9,
+  "coin_type": "0x671070e9943e4653bfd904bee0a03880e996e5eee64c0f86ab4b59e012a33be1::shyt::SHYT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/END5iSC9FXtcx1tD8gpCMusJtbq4Ct3iYZPKogMHpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

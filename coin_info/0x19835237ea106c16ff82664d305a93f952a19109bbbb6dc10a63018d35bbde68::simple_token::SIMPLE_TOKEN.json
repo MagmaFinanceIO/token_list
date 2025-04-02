@@ -1,0 +1,13 @@
+{
+  "name": "SHELIO",
+  "symbol": "SHELIO",
+  "decimals": 9,
+  "coin_type": "0x19835237ea106c16ff82664d305a93f952a19109bbbb6dc10a63018d35bbde68::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

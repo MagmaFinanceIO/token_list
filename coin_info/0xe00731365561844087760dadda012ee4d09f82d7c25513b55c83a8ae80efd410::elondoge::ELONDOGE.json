@@ -1,0 +1,13 @@
+{
+  "name": "ElonDOGE",
+  "symbol": "ElonDOGE",
+  "decimals": 9,
+  "coin_type": "0xe00731365561844087760dadda012ee4d09f82d7c25513b55c83a8ae80efd410::elondoge::ELONDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f4ddced4-a4b2-401d-9f15-1451a73d7c02.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

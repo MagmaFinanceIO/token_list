@@ -1,0 +1,13 @@
+{
+  "name": "BADOO",
+  "symbol": "Badoo",
+  "decimals": 2,
+  "coin_type": "0xa6980cd6de027614e5ccd50d278e4c89e3cc72a2061e7b6961a1ab6d9801b200::managed::MANAGED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

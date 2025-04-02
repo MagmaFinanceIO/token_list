@@ -1,0 +1,13 @@
+{
+  "name": "Daram",
+  "symbol": "Daram",
+  "decimals": 9,
+  "coin_type": "0xddb6c64a3a7286ced89c12bf86ce8d5ae4c3b26628c620fe692e23c6adb4a63a::daram::DARAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

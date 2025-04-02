@@ -1,0 +1,13 @@
+{
+  "name": "BLUB 21",
+  "symbol": "BLUB21",
+  "decimals": 9,
+  "coin_type": "0x3cb4fce7180c78f83452fe3c945798af55c4f57f49001c86503e0929b37ab666::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0xfa7ac3951fdca92c5200d468d31a365eb03b2be9936fde615e69f0c1274ad3a0::blub::blub.png?size=xl&key=015554",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

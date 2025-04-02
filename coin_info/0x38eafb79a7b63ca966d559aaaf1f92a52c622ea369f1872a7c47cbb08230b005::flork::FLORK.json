@@ -1,0 +1,13 @@
+{
+  "name": "Flork",
+  "symbol": "FLORK",
+  "decimals": 9,
+  "coin_type": "0x38eafb79a7b63ca966d559aaaf1f92a52c622ea369f1872a7c47cbb08230b005::flork::FLORK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9NoSJ3Ns9TyM16uq91ZWwdY3NEo7x7Wchk28AD1WstWY.png?size=lg&key=7fc625",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

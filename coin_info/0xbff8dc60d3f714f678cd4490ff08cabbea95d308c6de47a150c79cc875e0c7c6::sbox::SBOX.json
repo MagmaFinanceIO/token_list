@@ -1,0 +1,15 @@
+{
+  "name": "SuiBoxer",
+  "symbol": "SBOX",
+  "decimals": 1,
+  "coin_type": "0xbff8dc60d3f714f678cd4490ff08cabbea95d308c6de47a150c79cc875e0c7c6::sbox::SBOX",
+  "pyth_id": "",
+  "birdeyeid": "0xbff8dc60d3f714f678cd4490ff08cabbea95d308c6de47a150c79cc875e0c7c6::sbox::SBOX",
+  "coin_priority": [
+    "630"
+  ],
+  "logo_url": "https://archive.cetus.zone/assets/image/sui/sbox.png",
+  "project_url": "",
+  "coingecko_id": "suiboxer",
+  "is_trusted": true
+}

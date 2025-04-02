@@ -1,0 +1,13 @@
+{
+  "name": "Xai Memes",
+  "symbol": "XAI",
+  "decimals": 9,
+  "coin_type": "0x5a3f80b16cd7e66973366e0acde3598df15aa23841c6bc0c5795efd1b01c51dd::xai::XAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmXVRmyotXfz5zSNmSM6Ao4qmmsry9CF5fsowYzZHxgSvP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

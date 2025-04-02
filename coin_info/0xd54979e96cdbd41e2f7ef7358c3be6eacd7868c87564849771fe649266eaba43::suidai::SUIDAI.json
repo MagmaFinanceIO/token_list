@@ -1,0 +1,13 @@
+{
+  "name": "SUI Dog AI",
+  "symbol": "SUIDAI",
+  "decimals": 9,
+  "coin_type": "0xd54979e96cdbd41e2f7ef7358c3be6eacd7868c87564849771fe649266eaba43::suidai::SUIDAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e0cf7b10-d29b-468d-b282-9e4815698a51.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

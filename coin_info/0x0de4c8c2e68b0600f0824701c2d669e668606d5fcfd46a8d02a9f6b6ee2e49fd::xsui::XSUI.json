@@ -1,0 +1,13 @@
+{
+  "name": "Xorsui",
+  "symbol": "XSUI",
+  "decimals": 6,
+  "coin_type": "0x0de4c8c2e68b0600f0824701c2d669e668606d5fcfd46a8d02a9f6b6ee2e49fd::xsui::XSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/P6j_Z2i_ZZ_Sheah_Py_Q_Tnb_XA_80cbe68746.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

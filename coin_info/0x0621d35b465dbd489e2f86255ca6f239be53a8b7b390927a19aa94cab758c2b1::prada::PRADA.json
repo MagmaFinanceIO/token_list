@@ -1,0 +1,13 @@
+{
+  "name": "PRADA",
+  "symbol": "PRADA",
+  "decimals": 9,
+  "coin_type": "0x0621d35b465dbd489e2f86255ca6f239be53a8b7b390927a19aa94cab758c2b1::prada::PRADA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

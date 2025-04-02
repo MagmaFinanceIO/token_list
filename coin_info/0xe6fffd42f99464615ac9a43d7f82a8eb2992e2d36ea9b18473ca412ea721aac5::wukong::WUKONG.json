@@ -1,0 +1,13 @@
+{
+  "name": "Wukong The God Of APES",
+  "symbol": "WUKONG",
+  "decimals": 9,
+  "coin_type": "0xe6fffd42f99464615ac9a43d7f82a8eb2992e2d36ea9b18473ca412ea721aac5::wukong::WUKONG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3bd15773-99bf-42bf-a51a-900312cf126e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

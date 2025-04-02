@@ -1,0 +1,13 @@
+{
+  "name": "SUSTATETOKEN",
+  "symbol": "ST",
+  "decimals": 9,
+  "coin_type": "0x8a33e676237ccbcdf43ac4f3965bfdda47501edc46599828b01785cd129444e7::sustatetoken::SUSTATETOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://belaunch.infura-ipfs.io/ipfs/QmRGfDH3Rn9qmKXsjMA79QCDvKLYv5ZbeALoCZxHGLi8fP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

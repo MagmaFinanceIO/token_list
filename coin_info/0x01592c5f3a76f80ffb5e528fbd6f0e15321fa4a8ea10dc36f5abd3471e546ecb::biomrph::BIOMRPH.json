@@ -1,0 +1,13 @@
+{
+  "name": "The Cult Of Order",
+  "symbol": "BIOMRPH",
+  "decimals": 6,
+  "coin_type": "0x01592c5f3a76f80ffb5e528fbd6f0e15321fa4a8ea10dc36f5abd3471e546ecb::biomrph::BIOMRPH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/45452345_f11a0c81f5.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

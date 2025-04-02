@@ -1,0 +1,13 @@
+{
+  "name": "PALM",
+  "symbol": "PALM",
+  "decimals": 9,
+  "coin_type": "0xa642c0ba43838be757eb4be8d758736edd8cb7c372e418f0ff4c6efe2a7d6625::palm::PALM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/831576fe-2599-4cf4-9022-b0e1dcbc40c3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

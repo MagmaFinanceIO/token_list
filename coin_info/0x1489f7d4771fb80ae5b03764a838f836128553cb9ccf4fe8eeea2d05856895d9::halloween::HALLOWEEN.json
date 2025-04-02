@@ -1,0 +1,13 @@
+{
+  "name": "Happy Halloween",
+  "symbol": "Halloween",
+  "decimals": 6,
+  "coin_type": "0x1489f7d4771fb80ae5b03764a838f836128553cb9ccf4fe8eeea2d05856895d9::halloween::HALLOWEEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/9796_jpg_wh300_04e104a43b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

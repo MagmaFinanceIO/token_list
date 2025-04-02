@@ -1,0 +1,13 @@
+{
+  "name": "FIRE MAN SUI",
+  "symbol": "FMAN",
+  "decimals": 6,
+  "coin_type": "0x56243ad924fee459fdd7138275754931736eaf5fb427bef25ffd2021c1f0a527::fman::FMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/x_XPD_7_Du_L_400x400_419333f268.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

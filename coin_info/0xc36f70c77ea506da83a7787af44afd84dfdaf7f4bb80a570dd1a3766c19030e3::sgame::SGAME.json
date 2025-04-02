@@ -1,0 +1,13 @@
+{
+  "name": "Suid Game",
+  "symbol": "SGAME",
+  "decimals": 6,
+  "coin_type": "0xc36f70c77ea506da83a7787af44afd84dfdaf7f4bb80a570dd1a3766c19030e3::sgame::SGAME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/12266_ezgif_com_optimize_1_a0939ba6d5.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Chummy Chum Chums",
+  "symbol": "Chumy",
+  "decimals": 9,
+  "coin_type": "0xe8f9e97566dcf7e26d185c4357d03007a757e4178e39458c6e2855825fca1bc1::chumy::CHUMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/269d5de9-6638-4af6-b301-9da2da41ac85.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Shark Sui",
+  "symbol": "Shui",
+  "decimals": 9,
+  "coin_type": "0xeb484f7d06cf211a7139572b9c9126c0222f952cad55ae34fbc2fe152a1906c3::shui::SHUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f712b212-9a73-4df9-b662-d0a033912b08.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

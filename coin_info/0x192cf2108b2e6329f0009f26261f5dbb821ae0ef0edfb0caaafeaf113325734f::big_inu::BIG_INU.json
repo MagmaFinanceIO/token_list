@@ -1,0 +1,13 @@
+{
+  "name": "INU INU",
+  "symbol": "BIG INU",
+  "decimals": 9,
+  "coin_type": "0x192cf2108b2e6329f0009f26261f5dbb821ae0ef0edfb0caaafeaf113325734f::big_inu::BIG_INU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

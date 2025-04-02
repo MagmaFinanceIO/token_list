@@ -1,0 +1,13 @@
+{
+  "name": "SUI PAW AI",
+  "symbol": "PAW",
+  "decimals": 9,
+  "coin_type": "0xc08543479be6e6e02b32b1e7eb339f2c92f21b4bbac9334f2c9a7215e7e58b42::paw::PAW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://app.magmafinance.io/api/logo/0xc08543479be6e6e02b32b1e7eb339f2c92f21b4bbac9334f2c9a7215e7e58b42::paw::PAW.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

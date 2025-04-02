@@ -1,0 +1,13 @@
+{
+  "name": "W.A.V.E. by SuiAI",
+  "symbol": "WAVE",
+  "decimals": 6,
+  "coin_type": "0xb282abe1cd66c84ad3061afa0677ed2b7a5b91eb3ed79e11695e42b3c15f5c3e::wave::WAVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/flo_74346f0275.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

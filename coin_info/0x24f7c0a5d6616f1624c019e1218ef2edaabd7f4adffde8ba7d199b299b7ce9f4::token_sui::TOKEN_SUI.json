@@ -1,0 +1,13 @@
+{
+  "name": "DeepBook 130",
+  "symbol": "DEEP130",
+  "decimals": 9,
+  "coin_type": "0x24f7c0a5d6616f1624c019e1218ef2edaabd7f4adffde8ba7d199b299b7ce9f4::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.deepbook.tech/icon.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

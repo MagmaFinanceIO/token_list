@@ -1,0 +1,13 @@
+{
+  "name": "Peanut Pepe",
+  "symbol": "PEENUT",
+  "decimals": 9,
+  "coin_type": "0xb93eb78e255d162dc6dcc3da1ddc965136da5c000f334fa4335669b46df23b67::peenut::PEENUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/800610b5-794f-42e9-ab33-676c27a577ec.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

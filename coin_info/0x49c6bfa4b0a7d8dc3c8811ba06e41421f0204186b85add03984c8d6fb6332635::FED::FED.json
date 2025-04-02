@@ -1,0 +1,13 @@
+{
+  "name": "FED funding rate",
+  "symbol": "FED",
+  "decimals": 9,
+  "coin_type": "0x49c6bfa4b0a7d8dc3c8811ba06e41421f0204186b85add03984c8d6fb6332635::FED::FED",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2d00067c-7001-4b30-a125-d11cbe5e63c6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

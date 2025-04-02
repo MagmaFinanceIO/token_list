@@ -1,0 +1,13 @@
+{
+  "name": "Rummy Gamez",
+  "symbol": "RMY",
+  "decimals": 6,
+  "coin_type": "0x1a98df3cad1701b8247cb716cef8f687adb657b5d28ffcb1ee91fd9973f70941::rmy::RMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_09_27_13_59_18_b9e17118a2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

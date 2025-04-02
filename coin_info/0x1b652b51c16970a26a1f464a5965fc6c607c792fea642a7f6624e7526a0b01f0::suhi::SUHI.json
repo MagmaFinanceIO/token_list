@@ -1,0 +1,13 @@
+{
+  "name": "Suhi on SUI",
+  "symbol": "SUHI",
+  "decimals": 6,
+  "coin_type": "0x1b652b51c16970a26a1f464a5965fc6c607c792fea642a7f6624e7526a0b01f0::suhi::SUHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SUHI_f67aa715d4.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

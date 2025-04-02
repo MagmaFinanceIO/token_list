@@ -1,0 +1,13 @@
+{
+  "name": "Calico",
+  "symbol": "Calicoin",
+  "decimals": 9,
+  "coin_type": "0x3c3ee0af9fb21946018ee5f35f7f0c26add5a558c46515b506c37c336daa650e::calicoin::CALICOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1dab1dcf-4542-4f96-ae70-0efe37a6ff20.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

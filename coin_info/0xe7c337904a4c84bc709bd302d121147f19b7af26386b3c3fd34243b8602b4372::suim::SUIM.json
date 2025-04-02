@@ -1,0 +1,13 @@
+{
+  "name": "SUIMATIC",
+  "symbol": "SUIM",
+  "decimals": 6,
+  "coin_type": "0xe7c337904a4c84bc709bd302d121147f19b7af26386b3c3fd34243b8602b4372::suim::SUIM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/unfair_0cb9603251.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

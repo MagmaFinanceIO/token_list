@@ -1,0 +1,13 @@
+{
+  "name": "Seal Dog",
+  "symbol": "SOG",
+  "decimals": 6,
+  "coin_type": "0x5ce7473cb090f37e3dd073931b512a1c2a7d635abdeb4d7cc8460da95d7dbd90::sog::SOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0853_b9cb5bb87d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

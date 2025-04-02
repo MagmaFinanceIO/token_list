@@ -1,0 +1,13 @@
+{
+  "name": "PumpSui",
+  "symbol": "PUMP",
+  "decimals": 6,
+  "coin_type": "0x0f4e7716a64e9673694eae07b5e60f99ce824f3c59dbc9e379689d4f3c73dfd7::pump::PUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e6f0585c-76d8-4750-8590-33e2361d37a2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

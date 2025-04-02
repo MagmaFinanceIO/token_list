@@ -1,0 +1,13 @@
+{
+  "name": "Fat Andy Ayrey",
+  "symbol": "andyxl",
+  "decimals": 9,
+  "coin_type": "0x4e6f29808232295daad33174ec9b01fb32e097145dd3cfba4c2eadbbc57d7ac1::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

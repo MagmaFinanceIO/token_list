@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Xmas On Sui",
+  "symbol": "PEPMAS",
+  "decimals": 9,
+  "coin_type": "0xb91f01ce5b1683e6fcfd5ed33f061fc7083883824af9e36db5da913a45df0a0c::pepmas::PEPMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/221e5c96-369e-492f-b7aa-c9239867058d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

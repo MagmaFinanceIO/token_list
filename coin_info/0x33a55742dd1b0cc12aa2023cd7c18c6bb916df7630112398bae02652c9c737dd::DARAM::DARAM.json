@@ -1,0 +1,13 @@
+{
+  "name": "Daram",
+  "symbol": "DARAM",
+  "decimals": 2,
+  "coin_type": "0x33a55742dd1b0cc12aa2023cd7c18c6bb916df7630112398bae02652c9c737dd::DARAM::DARAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/yoO_Lju6K8XAhSUfNRUBtsrRbmn-4lo0M2i9f3kWP3I?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SniperSearch on Sui by SuiAI",
+  "symbol": "SS",
+  "decimals": 6,
+  "coin_type": "0x8dcd0cf45487c59f006cea9cce25d57ad12d664ccfd717753f5cec3ab5f46bd2::ss::SS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1000201207_7116f995a8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

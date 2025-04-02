@@ -1,0 +1,13 @@
+{
+  "name": "FROG",
+  "symbol": "FROG",
+  "decimals": 9,
+  "coin_type": "0xdd3a9ed1df6be6deeed59434f369cef9d3a3d58ae9b71ccba4d3a8321f97a24a::frog::FROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.pinimg.com/736x/00/c0/6d/00c06d2d9e8062e493750791b9ade7d3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

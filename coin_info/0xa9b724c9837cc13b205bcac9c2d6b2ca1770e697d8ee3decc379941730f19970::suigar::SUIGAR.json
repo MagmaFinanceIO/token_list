@@ -1,0 +1,13 @@
+{
+  "name": "Suigar",
+  "symbol": "SUIGAR",
+  "decimals": 6,
+  "coin_type": "0xa9b724c9837cc13b205bcac9c2d6b2ca1770e697d8ee3decc379941730f19970::suigar::SUIGAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SUIGAR_PROFIL_b3088c58db.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

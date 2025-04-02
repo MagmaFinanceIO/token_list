@@ -1,0 +1,13 @@
+{
+  "name": "Suirrel",
+  "symbol": "SUIRREL",
+  "decimals": 6,
+  "coin_type": "0xcd741b5efe656400b61eaae6c92c07f237eda67d02d32d55ffd98c84f0ea4dd1::suirrel::SUIRREL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suirrel1_b928e52e28.JPEG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Payment 16",
+  "symbol": "Payment 16",
+  "decimals": 6,
+  "coin_type": "0xcf9ee252719624f4faba4f1569c408119fbbe8b89cf26d948af15c111902cdb4::cak::CAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "__Url here__",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Asteroid Gold",
+  "symbol": "HALO AI",
+  "decimals": 9,
+  "coin_type": "0x83a73015baa8293c6a1a5b051c8fb602a054bd226a9b21dce30154a8a52f2b6e::halo_ai::HALO_AI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d9c62df9-c276-41c0-85fb-8b060f48b2c3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

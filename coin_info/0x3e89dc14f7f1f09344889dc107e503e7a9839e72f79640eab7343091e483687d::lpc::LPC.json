@@ -1,0 +1,13 @@
+{
+  "name": "Lollypop",
+  "symbol": "LPC",
+  "decimals": 9,
+  "coin_type": "0x3e89dc14f7f1f09344889dc107e503e7a9839e72f79640eab7343091e483687d::lpc::LPC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://file-walletapp.waveonsui.com/images/wave-pumps/2b683a53-19eb-4052-9921-5ad870ba09a9.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "aiHash",
+  "symbol": "AIHASH",
+  "decimals": 6,
+  "coin_type": "0x1cfba8c40eda5affab9b748aec51d80ffb7161d77e66b021b6a5a268d2bd0a3e::aihash::AIHASH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/AI_Hash_Logo_8b0776d37f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

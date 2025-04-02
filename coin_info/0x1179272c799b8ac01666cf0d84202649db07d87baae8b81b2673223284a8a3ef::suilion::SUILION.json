@@ -1,0 +1,13 @@
+{
+  "name": "SUILION token",
+  "symbol": "SUILION",
+  "decimals": 6,
+  "coin_type": "0x1179272c799b8ac01666cf0d84202649db07d87baae8b81b2673223284a8a3ef::suilion::SUILION",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/HWA_Au_XA_2_400x400_c0682d5128.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

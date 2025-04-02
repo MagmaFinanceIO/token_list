@@ -1,0 +1,13 @@
+{
+  "name": "BOOBIES",
+  "symbol": "MILK",
+  "decimals": 6,
+  "coin_type": "0x70465027eb0acc791ad84e8da85038ef486a00d4fb1f82b476231484e1f23f62::milk::MILK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/boobies_a9e69aecde.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

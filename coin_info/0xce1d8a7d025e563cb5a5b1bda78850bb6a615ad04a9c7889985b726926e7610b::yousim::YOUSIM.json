@@ -1,0 +1,13 @@
+{
+  "name": "YouSim AI",
+  "symbol": "YOUSIM",
+  "decimals": 9,
+  "coin_type": "0xce1d8a7d025e563cb5a5b1bda78850bb6a615ad04a9c7889985b726926e7610b::yousim::YOUSIM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/66gsTs88mXJ5L4AtJnWqFW6H2L5YQDRy4W41y6zbpump.png?size=lg&key=a18bd3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Papa Pnut",
+  "symbol": "PAPANUT",
+  "decimals": 9,
+  "coin_type": "0x34e35ec301930e2860393846b65d83583172e7d445ea6cc6a53f3f698e262f59::papanut::PAPANUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/z9ysNwXCYrh4xXRyQG9ujWqxNrdcChoicoJA9ebd7iF.png?size=lg&key=e863e6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

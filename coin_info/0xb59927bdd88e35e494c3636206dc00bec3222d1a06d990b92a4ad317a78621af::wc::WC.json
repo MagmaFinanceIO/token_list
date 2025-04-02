@@ -1,0 +1,13 @@
+{
+  "name": "World Cat",
+  "symbol": "WC",
+  "decimals": 9,
+  "coin_type": "0xb59927bdd88e35e494c3636206dc00bec3222d1a06d990b92a4ad317a78621af::wc::WC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a1b15f3b-3e46-4ce7-b748-1be65472103a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Boysclub",
+  "symbol": "Boysclub",
+  "decimals": 9,
+  "coin_type": "0x47160ad686882722ce8a9bf02d0e9b9b4c558dad222c0fd6ba4a8d8e81ca8f93::boysclub::BOYSCLUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fd4944db-e712-40b0-a44a-737ea4791823.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

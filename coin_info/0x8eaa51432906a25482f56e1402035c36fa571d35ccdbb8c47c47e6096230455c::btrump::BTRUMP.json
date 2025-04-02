@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL BABY TRUMP",
+  "symbol": "BTRUMP",
+  "decimals": 9,
+  "coin_type": "0x8eaa51432906a25482f56e1402035c36fa571d35ccdbb8c47c47e6096230455c::btrump::BTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/caer1UmwhRsfFk5huGYkXcFmiL2tj4cyT7YjVxUpump.png?size=lg&key=78bd0f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

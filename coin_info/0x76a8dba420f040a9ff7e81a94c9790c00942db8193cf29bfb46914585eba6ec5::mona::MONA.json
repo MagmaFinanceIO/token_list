@@ -1,0 +1,13 @@
+{
+  "name": "Mona Arcane",
+  "symbol": "Mona",
+  "decimals": 9,
+  "coin_type": "0x76a8dba420f040a9ff7e81a94c9790c00942db8193cf29bfb46914585eba6ec5::mona::MONA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/MoNAoCoXKLb38Y2VpbukGacdNYhvRTyVn92DvRApXep.png?size=lg&key=dd3ddd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

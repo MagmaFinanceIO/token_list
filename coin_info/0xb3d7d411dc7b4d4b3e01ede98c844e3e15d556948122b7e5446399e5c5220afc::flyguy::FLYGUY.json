@@ -1,0 +1,13 @@
+{
+  "name": "FlyGuy",
+  "symbol": "FlyGuy",
+  "decimals": 9,
+  "coin_type": "0xb3d7d411dc7b4d4b3e01ede98c844e3e15d556948122b7e5446399e5c5220afc::flyguy::FLYGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/66yExHA1XwFB4hnTMwBru1Qp6J46YdUsqsqp4YrZUD5S.png?size=lg&key=f4a3ef",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

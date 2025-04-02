@@ -1,0 +1,13 @@
+{
+  "name": "BULLSUISH",
+  "symbol": "BULL",
+  "decimals": 6,
+  "coin_type": "0xff280c94523d176a7f039bc5e49a0fe7bf2a132450a8ef0466c9e901b2ac0fd8::bull::BULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/274c8ff5-101b-42c3-8c44-b16a6c02fe93.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

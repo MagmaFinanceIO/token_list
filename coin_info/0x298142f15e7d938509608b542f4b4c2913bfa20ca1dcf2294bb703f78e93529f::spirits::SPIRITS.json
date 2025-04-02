@@ -1,0 +1,13 @@
+{
+  "name": "Sui Spirits",
+  "symbol": "SPIRITS",
+  "decimals": 6,
+  "coin_type": "0x298142f15e7d938509608b542f4b4c2913bfa20ca1dcf2294bb703f78e93529f::spirits::SPIRITS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1732097007377.GIF",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

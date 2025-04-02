@@ -1,0 +1,13 @@
+{
+  "name": "BOOK OF GIRLS CLUB",
+  "symbol": "BOG",
+  "decimals": 9,
+  "coin_type": "0x83a3ee267215c95d66e41b5765f4251fe2c8116ad917565fb6949ba6b1dbfec4::bog::BOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/24af190b-7802-4f2c-9572-a06fd6a4ee1d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

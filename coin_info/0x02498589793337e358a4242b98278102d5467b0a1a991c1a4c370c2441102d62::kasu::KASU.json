@@ -1,0 +1,13 @@
+{
+  "name": "Kasu Hunter ",
+  "symbol": "KASU",
+  "decimals": 6,
+  "coin_type": "0x02498589793337e358a4242b98278102d5467b0a1a991c1a4c370c2441102d62::kasu::KASU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/kasu_3300a79cb9.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

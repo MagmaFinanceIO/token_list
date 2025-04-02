@@ -1,0 +1,13 @@
+{
+  "name": "AIquaman Agent",
+  "symbol": "AIQUAMAN",
+  "decimals": 9,
+  "coin_type": "0xe6f433277b79267caee7cdc169749ccb2775168be921a117ff10c37376b40479::aiquaman::AIQUAMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/bafkreifaul5hm4jdxa5ejyz4tyceikprqtgkdladknmbn5xxopjordwcve",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

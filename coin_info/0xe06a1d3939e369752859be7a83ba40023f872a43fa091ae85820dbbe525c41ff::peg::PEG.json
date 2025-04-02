@@ -1,0 +1,13 @@
+{
+  "name": "PEGI",
+  "symbol": "PEG",
+  "decimals": 6,
+  "coin_type": "0xe06a1d3939e369752859be7a83ba40023f872a43fa091ae85820dbbe525c41ff::peg::PEG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/9febef5e_b557_41a8_a90f_b8a34204a16d_64eb2b64b3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

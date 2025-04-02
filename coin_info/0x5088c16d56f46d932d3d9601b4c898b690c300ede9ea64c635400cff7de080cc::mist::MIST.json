@@ -1,0 +1,13 @@
+{
+  "name": "Modulated_Integrated_Source_Temple",
+  "symbol": "MIST",
+  "decimals": 6,
+  "coin_type": "0x5088c16d56f46d932d3d9601b4c898b690c300ede9ea64c635400cff7de080cc::mist::MIST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/MIST_NFT_df33a93ad6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

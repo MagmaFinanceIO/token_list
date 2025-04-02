@@ -1,0 +1,13 @@
+{
+  "name": "Crazy Hat",
+  "symbol": "CyHt",
+  "decimals": 9,
+  "coin_type": "0xb1e5928fada32adcbe41ff7adc0646fdc8110eac9f35dcff8d818fae032b3c17::cyht::CYHT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dba573f4-cc5e-4f42-9f82-73115e771c11.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

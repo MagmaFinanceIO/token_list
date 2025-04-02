@@ -1,0 +1,13 @@
+{
+  "name": "AKITA",
+  "symbol": "ADOG",
+  "decimals": 6,
+  "coin_type": "0xc780b60bf7bd027b5b16af7787cdf73804a09b350963345fd8ca2f4e0da0a6fd::adog::ADOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/0b80756ae7d18ac9468b8980b946402e_4b273ef4e7.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

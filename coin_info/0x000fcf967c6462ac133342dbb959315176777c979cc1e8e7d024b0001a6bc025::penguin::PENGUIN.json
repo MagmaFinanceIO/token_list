@@ -1,0 +1,13 @@
+{
+  "name": "Club Penguin",
+  "symbol": "PENGUIN",
+  "decimals": 9,
+  "coin_type": "0x000fcf967c6462ac133342dbb959315176777c979cc1e8e7d024b0001a6bc025::penguin::PENGUIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/47zZieMW6Nt9J8w3FUKdNXnfpYLX7UXuZyzdXhY9pump.png?size=lg&key=2a8d88",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

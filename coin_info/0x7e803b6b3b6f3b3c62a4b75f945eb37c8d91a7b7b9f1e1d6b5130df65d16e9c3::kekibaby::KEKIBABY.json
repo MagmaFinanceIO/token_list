@@ -1,0 +1,13 @@
+{
+  "name": "BABY KEKIUS",
+  "symbol": "KEKIBABY",
+  "decimals": 9,
+  "coin_type": "0x7e803b6b3b6f3b3c62a4b75f945eb37c8d91a7b7b9f1e1d6b5130df65d16e9c3::kekibaby::KEKIBABY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HbSGfB21xLAE4AVsFhM3p4Xmtb4v4w9hNJUuT6XASnqA.png?size=lg&key=048d33",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

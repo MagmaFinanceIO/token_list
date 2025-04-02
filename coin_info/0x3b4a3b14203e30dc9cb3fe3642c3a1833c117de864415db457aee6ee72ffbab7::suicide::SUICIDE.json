@@ -1,0 +1,13 @@
+{
+  "name": "SUICIDE",
+  "symbol": "SUICIDE",
+  "decimals": 6,
+  "coin_type": "0x3b4a3b14203e30dc9cb3fe3642c3a1833c117de864415db457aee6ee72ffbab7::suicide::SUICIDE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmUDQh485khinSSo2fTKyq48yzbJJLUnfWKp4ayznhUs6B",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

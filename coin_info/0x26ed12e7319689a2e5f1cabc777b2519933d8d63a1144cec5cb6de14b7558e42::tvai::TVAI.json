@@ -1,0 +1,13 @@
+{
+  "name": "Torvex AI",
+  "symbol": "TVAI",
+  "decimals": 9,
+  "coin_type": "0x26ed12e7319689a2e5f1cabc777b2519933d8d63a1144cec5cb6de14b7558e42::tvai::TVAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EuYSFFg7ffjhPZT3sahX2TzS98wcexAjQEgvfzJUpump.png?size=lg&key=436fd1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

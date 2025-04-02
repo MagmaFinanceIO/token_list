@@ -1,0 +1,13 @@
+{
+  "name": "Sensui",
+  "symbol": "SENSUI",
+  "decimals": 9,
+  "coin_type": "0x7418dbfe0e410ce63b404da420484c2854ce74b8f7b41f2b2ac958d0392dcf8c::sensui::SENSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e725198d-65ad-4cde-9092-1ad335636667.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

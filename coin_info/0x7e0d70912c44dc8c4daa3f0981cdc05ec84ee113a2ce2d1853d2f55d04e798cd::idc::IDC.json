@@ -1,0 +1,13 @@
+{
+  "name": "IRAQI DINAR COIN",
+  "symbol": "IDC",
+  "decimals": 7,
+  "coin_type": "0x7e0d70912c44dc8c4daa3f0981cdc05ec84ee113a2ce2d1853d2f55d04e798cd::idc::IDC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9f7b861c-1d6d-47b7-9868-a2a30aae380c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

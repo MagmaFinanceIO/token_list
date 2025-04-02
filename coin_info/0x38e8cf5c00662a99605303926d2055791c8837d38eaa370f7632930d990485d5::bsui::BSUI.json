@@ -1,0 +1,13 @@
+{
+  "name": "Make SUI Based Again!",
+  "symbol": "BSUI",
+  "decimals": 6,
+  "coin_type": "0x38e8cf5c00662a99605303926d2055791c8837d38eaa370f7632930d990485d5::bsui::BSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/MBSA_e1d55ff45f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

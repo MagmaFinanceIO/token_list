@@ -1,0 +1,13 @@
+{
+  "name": "COOK on Sui",
+  "symbol": "COOK",
+  "decimals": 6,
+  "coin_type": "0x9f93a250635a08486d07a09eb499ab33b0095f2959132ba817b5c62109f577cc::cook::COOK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dc96ad6a-c67b-4c26-88f6-92df493573bc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

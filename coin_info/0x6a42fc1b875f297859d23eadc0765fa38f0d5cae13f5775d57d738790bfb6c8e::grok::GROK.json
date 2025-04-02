@@ -1,0 +1,13 @@
+{
+  "name": "Grok Inu",
+  "symbol": "Grok",
+  "decimals": 9,
+  "coin_type": "0x6a42fc1b875f297859d23eadc0765fa38f0d5cae13f5775d57d738790bfb6c8e::grok::GROK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/bsc/0xd08b9e557d1f64c8dd50a168453ea302a83e47fc.png?size=lg&key=b6c471",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

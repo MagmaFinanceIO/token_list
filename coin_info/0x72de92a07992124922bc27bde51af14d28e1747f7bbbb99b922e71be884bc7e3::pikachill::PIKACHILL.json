@@ -1,0 +1,13 @@
+{
+  "name": "PIKACHILL AI",
+  "symbol": "PIKACHILL",
+  "decimals": 9,
+  "coin_type": "0x72de92a07992124922bc27bde51af14d28e1747f7bbbb99b922e71be884bc7e3::pikachill::PIKACHILL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e1cc57bd-11ef-43a4-85e2-481a2e3d5726.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

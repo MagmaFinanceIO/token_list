@@ -1,0 +1,13 @@
+{
+  "name": "Wilson The Alligator",
+  "symbol": "WILSON",
+  "decimals": 6,
+  "coin_type": "0x056b169192e30def971328df0b3137658acfd8226859a5d0a7102894b02a76a0::wilson::WILSON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/wilsonprofil_f2481c79ce.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

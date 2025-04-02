@@ -1,0 +1,13 @@
+{
+  "name": "Lucky Coin",
+  "symbol": "LUCKY",
+  "decimals": 9,
+  "coin_type": "0xb9fdf6437eac4330874730ac7bf5561bc9be52be907b87aec7bb4fed7ae2b720::lucky::LUCKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d6e59171-591d-434f-bcb3-600b1bd1c635.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PonekWifHat",
+  "symbol": "PonekWifHat",
+  "decimals": 9,
+  "coin_type": "0xfbecd14cc1035bdb8521a14b720615414c3aa91917c33bdfc445ee49d93a95c6::ponekwifhat::PONEKWIFHAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

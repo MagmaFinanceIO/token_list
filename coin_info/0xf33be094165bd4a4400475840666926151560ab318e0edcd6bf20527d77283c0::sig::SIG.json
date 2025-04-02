@@ -1,0 +1,13 @@
+{
+  "name": "SIG on SUI",
+  "symbol": "SIG",
+  "decimals": 6,
+  "coin_type": "0xf33be094165bd4a4400475840666926151560ab318e0edcd6bf20527d77283c0::sig::SIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Suispiciously_9649423ea7_1_961520b540.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

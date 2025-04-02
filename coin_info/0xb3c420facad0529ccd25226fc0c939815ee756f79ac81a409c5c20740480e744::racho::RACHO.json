@@ -1,0 +1,13 @@
+{
+  "name": "Rachop SUI",
+  "symbol": "RACHO",
+  "decimals": 9,
+  "coin_type": "0xb3c420facad0529ccd25226fc0c939815ee756f79ac81a409c5c20740480e744::racho::RACHO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3ecca197-59f4-46bc-a05d-f4ffbd8adfe0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

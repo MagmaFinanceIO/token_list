@@ -1,0 +1,13 @@
+{
+  "name": "Little Jason",
+  "symbol": "LJASON",
+  "decimals": 6,
+  "coin_type": "0xf2a7baf535a1dc3814ae8ceb3b7e0c4fad011a6d74909ce115b67e17bd1391fd::ljason::LJASON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000051737_3e9bd33b8c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

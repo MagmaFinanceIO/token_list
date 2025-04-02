@@ -1,0 +1,13 @@
+{
+  "name": "ONXE ON SUI",
+  "symbol": "ONXE",
+  "decimals": 6,
+  "coin_type": "0x84a01f2bd67a79a16fbd64e487fe2bd33e47f9060d59d7f5460852a8749ade7e::onxe::ONXE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/672b7256710a46c600998859_logo_p_500_f8cdc7071b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

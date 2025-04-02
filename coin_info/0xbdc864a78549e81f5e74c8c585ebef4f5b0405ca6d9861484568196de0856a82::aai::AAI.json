@@ -1,0 +1,13 @@
+{
+  "name": "Agent AI ",
+  "symbol": "AAI",
+  "decimals": 9,
+  "coin_type": "0xbdc864a78549e81f5e74c8c585ebef4f5b0405ca6d9861484568196de0856a82::aai::AAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwKqWKPwtSFzq42wcMUpgdDCSqGwdKJIZ7sg&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

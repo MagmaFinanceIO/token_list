@@ -1,0 +1,13 @@
+{
+  "name": "Krevetes",
+  "symbol": "KREVT",
+  "decimals": 9,
+  "coin_type": "0x09bc0b1137c5405de9efffd176e83519c8833f65793d438a2e65df142e032900::krevt::KREVT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pumpfun-indexer.s3.eu-west-1.amazonaws.com/icon/2da02021-9d3a-4d20-9718-929549a88d6c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

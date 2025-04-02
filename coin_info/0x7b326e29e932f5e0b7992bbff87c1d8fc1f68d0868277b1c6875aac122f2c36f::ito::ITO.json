@@ -1,0 +1,13 @@
+{
+  "name": "ITO on SUI",
+  "symbol": "ITO",
+  "decimals": 6,
+  "coin_type": "0x7b326e29e932f5e0b7992bbff87c1d8fc1f68d0868277b1c6875aac122f2c36f::ito::ITO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Profile_Image_15e518f824.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

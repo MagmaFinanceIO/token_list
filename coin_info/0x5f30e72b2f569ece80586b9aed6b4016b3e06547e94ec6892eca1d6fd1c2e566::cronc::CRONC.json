@@ -1,0 +1,13 @@
+{
+  "name": "CRONC",
+  "symbol": "CRONC",
+  "decimals": 9,
+  "coin_type": "0x5f30e72b2f569ece80586b9aed6b4016b3e06547e94ec6892eca1d6fd1c2e566::cronc::CRONC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/102bb990-dbb3-4da7-8a11-a67d60f5969c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

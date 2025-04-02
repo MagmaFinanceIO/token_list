@@ -1,0 +1,13 @@
+{
+  "name": "Neiro",
+  "symbol": "SuiNeiro",
+  "decimals": 6,
+  "coin_type": "0xa721f8148f8daee6045efd10ab2caecb120d966de2f9f23412ae21768019c62b::suineiro::SUINEIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/u0rx_Azc1_400x400_61941f4239.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI ON UTYA",
+  "symbol": "SOU",
+  "decimals": 6,
+  "coin_type": "0xd8d54125fd7659c207056f3fd9a426c2230166041a9467c2224e62d16190c56f::sou::SOU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suita_e79a9c6c42.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SkaterBat",
+  "symbol": "SkaterBat",
+  "decimals": 9,
+  "coin_type": "0x199b2f2c13c696e730daf75e31f8f68440e4fb1eaca872b60d7d1cc123fcc67f::skaterbat::SKATERBAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6e403589-ac49-40f0-a76a-fac618110f06.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

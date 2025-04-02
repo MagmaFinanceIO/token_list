@@ -1,0 +1,13 @@
+{
+  "name": "DUCK ELSA ON SUI",
+  "symbol": "ELSUI",
+  "decimals": 9,
+  "coin_type": "0x938bad526aa6c2e1adf66ad144c87fc9b91b9f372cba385cb1c6803f19776a1b::elsui::ELSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bf6dcabb-3bcd-4577-83db-515c35bc31e6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

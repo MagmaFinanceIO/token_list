@@ -1,0 +1,13 @@
+{
+  "name": "SAKO TOSHI",
+  "symbol": "SAKO",
+  "decimals": 6,
+  "coin_type": "0xc886d1e02270b4bd1b1baed36d944bc31c724f6fb7ff9eacab2504b50d5e0c70::sako::SAKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7988_7849e33761.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

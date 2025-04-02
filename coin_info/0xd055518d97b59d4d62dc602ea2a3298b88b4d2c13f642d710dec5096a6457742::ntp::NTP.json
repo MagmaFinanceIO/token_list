@@ -1,0 +1,13 @@
+{
+  "name": "NetPay",
+  "symbol": "NTP",
+  "decimals": 9,
+  "coin_type": "0xd055518d97b59d4d62dc602ea2a3298b88b4d2c13f642d710dec5096a6457742::ntp::NTP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c7b85741-c87c-4c37-a2e5-ff20b1450c2f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

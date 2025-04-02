@@ -1,0 +1,13 @@
+{
+  "name": "Quokka-Boo",
+  "symbol": "QUOKKA",
+  "decimals": 9,
+  "coin_type": "0x55e13049e244b4b5cc0d9e332af9b4d727745b2c9f2cc9fe371d7d1bf978cfa2::quokka::QUOKKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DXK58V2w4P28hc183AEEfLcgAHo6cZbbQHDeJfJepump.png?size=lg&key=ff8cac",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

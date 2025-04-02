@@ -1,0 +1,13 @@
+{
+  "name": "LEVIN",
+  "symbol": "LVN",
+  "decimals": 6,
+  "coin_type": "0x4549b2a06d6eead90b7c7b20b58b43b706a602f2fca3417a3f14dae0cca01a0e::lvn::LVN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ed1bfaa8_efc1_48de_89b6_f6ae157b4cb1_9e818fc87c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

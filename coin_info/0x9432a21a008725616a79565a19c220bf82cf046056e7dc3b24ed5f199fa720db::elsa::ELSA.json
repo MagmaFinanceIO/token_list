@@ -1,0 +1,13 @@
+{
+  "name": "Princess Elsa",
+  "symbol": "ELSA",
+  "decimals": 9,
+  "coin_type": "0x9432a21a008725616a79565a19c220bf82cf046056e7dc3b24ed5f199fa720db::elsa::ELSA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AKp7ZjbsVyWHFedZigPMT6fMMVy2kTTDpegPKQz1pump.png?size=lg&key=d380fc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

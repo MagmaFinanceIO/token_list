@@ -1,0 +1,13 @@
+{
+  "name": "Tusk walrus",
+  "symbol": "Tsk",
+  "decimals": 6,
+  "coin_type": "0xb09091616dd9df430962cdbc315f971c366827da22d67b4e12dae860cb6fe4bd::tsk::TSK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000018491_36b0f6d17d.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Jack Sui by SuiAI",
+  "symbol": "JACK",
+  "decimals": 6,
+  "coin_type": "0x0da5d8c3426d29eae6f7cb9a4aa5a94da7542e8ddc645d7b09df8f465ed7454a::jack::JACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/El_texto_del_parrafo_9_ff74da8b20.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

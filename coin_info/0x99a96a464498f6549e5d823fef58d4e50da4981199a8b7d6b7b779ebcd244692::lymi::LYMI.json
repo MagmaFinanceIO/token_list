@@ -1,0 +1,13 @@
+{
+  "name": "Lymi",
+  "symbol": "Lymi",
+  "decimals": 9,
+  "coin_type": "0x99a96a464498f6549e5d823fef58d4e50da4981199a8b7d6b7b779ebcd244692::lymi::LYMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ZxadG3Jw3kuPU5UiA2xVTmEkCB4tSLxwnk9Pcn5pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

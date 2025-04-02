@@ -1,0 +1,13 @@
+{
+  "name": "CHICKSTER",
+  "symbol": "CHICKS",
+  "decimals": 9,
+  "coin_type": "0xfbeedff0379e77e0f6bb84408948e335decd234d144d6cde1e3dabc156f49b96::chicks::CHICKS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5nG6WS4YTZHhiujHvzRZKmQXnWDurRLgPgbV57Yapump.png?size=lg&key=96de5e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DOGEAI TERMINAL",
+  "symbol": "DOGAI",
+  "decimals": 9,
+  "coin_type": "0x10201488275e951d10e44c754493577af6a8bf0c016e2ad33a023c7afbd9786a::dogai::DOGAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6x7cEbqp2GWLCW94vsnUYjUbTmqY5RKwxH6Gaa7juCam.png?size=lg&key=29af52",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUIDOG by SuiAI",
+  "symbol": "SUIDOG",
+  "decimals": 6,
+  "coin_type": "0xb8ac39d14da80e48efa1000be00abb2922dfaf5a89ed6a3644106f1f37eb93ec::suidog::SUIDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_3853_3e5f73831d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

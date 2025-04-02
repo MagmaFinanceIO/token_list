@@ -1,0 +1,13 @@
+{
+  "name": "47 ON SUI",
+  "symbol": "FOURSEVEN",
+  "decimals": 6,
+  "coin_type": "0x2c7e971bac714238c0c8aad161e9391d5e59bc392b38b7f842000a8198912caf::fourseven::FOURSEVEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736428012389.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "JESUITS",
+  "symbol": "JESUIT",
+  "decimals": 6,
+  "coin_type": "0xa4750840bbc5d5d4014d2db86653dbdf8c396e24a272f679c6fee09c0569dc1c::jesuit::JESUIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/images_1_e3576af6b2.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

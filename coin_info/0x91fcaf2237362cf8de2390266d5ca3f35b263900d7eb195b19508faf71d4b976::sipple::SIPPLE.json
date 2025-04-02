@@ -1,0 +1,13 @@
+{
+  "name": "Sipple",
+  "symbol": "SIPPLE",
+  "decimals": 9,
+  "coin_type": "0x91fcaf2237362cf8de2390266d5ca3f35b263900d7eb195b19508faf71d4b976::sipple::SIPPLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EUo4gyewUmUZ6mWVheeRiuNJpYehstWMRhVeick6pump.png?size=lg&key=01c2fd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

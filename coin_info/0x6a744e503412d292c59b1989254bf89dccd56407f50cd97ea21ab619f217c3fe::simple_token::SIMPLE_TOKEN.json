@@ -1,0 +1,13 @@
+{
+  "name": "SPARKSUI",
+  "symbol": "SPARKSUI",
+  "decimals": 9,
+  "coin_type": "0x6a744e503412d292c59b1989254bf89dccd56407f50cd97ea21ab619f217c3fe::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui vs Apt",
+  "symbol": "SuiApt",
+  "decimals": 9,
+  "coin_type": "0x0b50dbc0b4926ac03c238a45a8488b304d9a577fdaf936455dad4d46dec290d5::suiapt::SUIAPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn3d.iconscout.com/3d/premium/thumb/aptos-3d-icon-download-in-png-blend-fbx-gltf-file-formats--bitcoin-logo-apt-banking-crypto-currency-pack-business-icons-9833529.png?f=webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

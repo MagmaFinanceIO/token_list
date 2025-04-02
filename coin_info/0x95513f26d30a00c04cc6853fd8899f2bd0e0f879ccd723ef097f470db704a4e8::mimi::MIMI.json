@@ -1,0 +1,13 @@
+{
+  "name": "Mimi Sui",
+  "symbol": "MIMI",
+  "decimals": 9,
+  "coin_type": "0x95513f26d30a00c04cc6853fd8899f2bd0e0f879ccd723ef097f470db704a4e8::mimi::MIMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6vu7GphwLg6WfUVqfCBWTcpW4gQeBAws6VZSsAju1GoM.png?size=lg&key=ade51e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

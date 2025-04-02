@@ -1,0 +1,13 @@
+{
+  "name": "Agent Flipper",
+  "symbol": "FLIPPER",
+  "decimals": 9,
+  "coin_type": "0x043e1eb7c1459594a08b4808d299e630aecf605373c672f03c458f2cb94660ed::flipper::FLIPPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8XD1CHXnCZYbN8kGQyXQj2DS4L3y8DEcWdfxyKyJpump.png?size=lg&key=4220d1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

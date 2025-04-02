@@ -1,0 +1,13 @@
+{
+  "name": "SUI DUCK",
+  "symbol": "SUIDUCK",
+  "decimals": 6,
+  "coin_type": "0x6d48aa3f2ad5013c8f3e1bd74439e825331c395080dac249130ace5d2af35622::suiduck::SUIDUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_4197f97d43.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

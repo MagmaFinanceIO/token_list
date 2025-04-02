@@ -1,0 +1,13 @@
+{
+  "name": "Pauly the polar bear",
+  "symbol": "PAULY",
+  "decimals": 5,
+  "coin_type": "0xe7131700f8b336a011ff2d0e3403eb719ae9d5c15fc71bf371e4990eccf013a7::pauly::PAULY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b2e49158-c827-44ad-b55f-cf3f1865dfcb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

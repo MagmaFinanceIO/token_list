@@ -1,0 +1,13 @@
+{
+  "name": "Froxy",
+  "symbol": "FROXY",
+  "decimals": 6,
+  "coin_type": "0x208d8f6c001970dc55ca4c0fde64ab5ae87f227847751b751fe6728245571b85::froxy::FROXY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/643_426e8d6d51.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

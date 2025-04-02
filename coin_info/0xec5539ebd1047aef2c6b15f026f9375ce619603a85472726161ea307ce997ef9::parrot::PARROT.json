@@ -1,0 +1,13 @@
+{
+  "name": "Party Parrot",
+  "symbol": "PARROT",
+  "decimals": 9,
+  "coin_type": "0xec5539ebd1047aef2c6b15f026f9375ce619603a85472726161ea307ce997ef9::parrot::PARROT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreibrjwfiobjdiwaakr6qinhxqhyxfdjvdjbbsjricbbehw7h7vfv2u.ipfs.w3s.link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

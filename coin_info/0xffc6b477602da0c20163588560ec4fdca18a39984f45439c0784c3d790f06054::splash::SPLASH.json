@@ -1,0 +1,13 @@
+{
+  "name": "Splasher",
+  "symbol": "SPLASH",
+  "decimals": 6,
+  "coin_type": "0xffc6b477602da0c20163588560ec4fdca18a39984f45439c0784c3d790f06054::splash::SPLASH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/splashermainpic_e1a0a88a87_55d967eb02.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

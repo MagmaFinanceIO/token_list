@@ -1,0 +1,13 @@
+{
+  "name": "Unicorn Dog",
+  "symbol": "UNIDOG",
+  "decimals": 9,
+  "coin_type": "0xbd264859c50b235f95ec2dd419b1627cfb3f85ae8e505a9c74b7403564cc912a::unidog::UNIDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GtHT3V6UDK1LgEPDSrXJ61GD4LnQccigPacaEFEApump.png?size=lg&key=8e9658",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

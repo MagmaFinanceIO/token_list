@@ -1,0 +1,13 @@
+{
+  "name": "AIRDROP",
+  "symbol": "AIR",
+  "decimals": 9,
+  "coin_type": "0x85549b627bb82973eb6fc43d49b01824cb527a7d6901b573db7e6862e6aa07e3::air::AIR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

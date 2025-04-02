@@ -1,0 +1,13 @@
+{
+  "name": "Grand Trump Auto",
+  "symbol": "GTRUMP",
+  "decimals": 9,
+  "coin_type": "0xcc223fe3b5fcf08b2cb15c290ba7a00d03cbb379dc8d4c1afe9d6d3ff8a1b36e::gtrump::GTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/cVg3eoRr3-fi85yX",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

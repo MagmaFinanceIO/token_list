@@ -1,0 +1,13 @@
+{
+  "name": "$Krusty on SUI",
+  "symbol": "Krusty",
+  "decimals": 9,
+  "coin_type": "0xbc31f91a9e0c819eafc1a36bbb897bf80902623975eb08188d674c28ad7d594e::krusty::KRUSTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b0cfbcc8-c8dd-4f18-afb9-dcf16cd91c5a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

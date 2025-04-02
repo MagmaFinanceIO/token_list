@@ -1,0 +1,13 @@
+{
+  "name": "Cat AI",
+  "symbol": "CATAI",
+  "decimals": 9,
+  "coin_type": "0x7aa0b4b8036d2b1958451eb3b652efd1313623b0629d83be9d553c9eae2bb301::catai::CATAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmXrjenDWtdMz9uwvu3FHARvbmp2qSdvCSwPNFZRBkJY7d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NUBDOG",
+  "symbol": "NUBDOG",
+  "decimals": 9,
+  "coin_type": "0xbe943a8443550165d209eba785889a7f0507a62f615d38ed81db06e0a55088f0::nubdog::NUBDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/af024b5a-4ae3-4c72-be6c-9e1e0c2ed1c9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

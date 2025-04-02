@@ -1,0 +1,13 @@
+{
+  "name": "SuiDog AI",
+  "symbol": "DOGAI",
+  "decimals": 6,
+  "coin_type": "0x84819104041aebc0e52a3d36e9a4d4d7f93b9de46fc734d5dcc5c8889348f5a9::dogai::DOGAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e9d4d8e4-2ebf-4a7d-94c2-c6a4b4b4cfae.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

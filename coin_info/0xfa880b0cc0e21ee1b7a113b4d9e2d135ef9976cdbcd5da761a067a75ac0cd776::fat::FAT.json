@@ -1,0 +1,13 @@
+{
+  "name": "Fish Cat",
+  "symbol": "FAT",
+  "decimals": 6,
+  "coin_type": "0xfa880b0cc0e21ee1b7a113b4d9e2d135ef9976cdbcd5da761a067a75ac0cd776::fat::FAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_2009_3f081b95f0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

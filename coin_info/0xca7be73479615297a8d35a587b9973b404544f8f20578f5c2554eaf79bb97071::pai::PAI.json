@@ -1,0 +1,13 @@
+{
+  "name": "Performance AI",
+  "symbol": "PAI",
+  "decimals": 6,
+  "coin_type": "0xca7be73479615297a8d35a587b9973b404544f8f20578f5c2554eaf79bb97071::pai::PAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736779949207.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

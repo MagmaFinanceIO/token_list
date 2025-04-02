@@ -1,0 +1,13 @@
+{
+  "name": "Spookysui",
+  "symbol": "spky",
+  "decimals": 9,
+  "coin_type": "0xe30306eb00ba8e596361cd04203175f3f960573c4f86cf5c05a09b8e303faf67::spky::SPKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e86f350b-c869-41e5-8340-f0b69c8f7d36.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PieByte",
+  "symbol": "PIEB",
+  "decimals": 9,
+  "coin_type": "0x5cbee221bc7faec28ffa530e9a50ca3f6deffcc76d5bc4d59883fdecc82fb41e::pieb::PIEB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cdd08f61-b8a9-4f9f-9ead-511a8a11d397.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

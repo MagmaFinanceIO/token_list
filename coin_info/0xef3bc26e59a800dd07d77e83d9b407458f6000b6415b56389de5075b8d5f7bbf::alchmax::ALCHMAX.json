@@ -1,0 +1,13 @@
+{
+  "name": "Alchemist Maximus",
+  "symbol": "ALCHMAX",
+  "decimals": 9,
+  "coin_type": "0xef3bc26e59a800dd07d77e83d9b407458f6000b6415b56389de5075b8d5f7bbf::alchmax::ALCHMAX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GzLdwjmkDMZtKnFaprJYoyy4TNEjVHZ3kzKdYSLGZsjU.png?size=lg&key=121662",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

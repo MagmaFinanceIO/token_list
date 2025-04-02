@@ -1,0 +1,13 @@
+{
+  "name": "ackchyually",
+  "symbol": "ackly",
+  "decimals": 9,
+  "coin_type": "0xabde7f4f74cc2933d340655592dded2436a609125820c116d81f752cdce7e7bf::ackly::ACKLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3943b673-832a-40a7-877c-c6b3f158233f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

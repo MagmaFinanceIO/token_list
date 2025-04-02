@@ -1,0 +1,13 @@
+{
+  "name": "Crazy Lambo",
+  "symbol": "CZLAMBO",
+  "decimals": 9,
+  "coin_type": "0x13c62ef1d2ba9f78e58d2a41ce5ac87502c48542075bb80cfe85706321cb3618::czlambo::CZLAMBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/8herQgpFKSjlti4H?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

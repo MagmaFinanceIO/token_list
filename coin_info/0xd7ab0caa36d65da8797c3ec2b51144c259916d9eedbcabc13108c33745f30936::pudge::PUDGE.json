@@ -1,0 +1,13 @@
+{
+  "name": "PUDGY DOGE SUI",
+  "symbol": "PUDGE",
+  "decimals": 9,
+  "coin_type": "0xd7ab0caa36d65da8797c3ec2b51144c259916d9eedbcabc13108c33745f30936::pudge::PUDGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8a561abc-c9e6-4031-b304-c5a47a931c99.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

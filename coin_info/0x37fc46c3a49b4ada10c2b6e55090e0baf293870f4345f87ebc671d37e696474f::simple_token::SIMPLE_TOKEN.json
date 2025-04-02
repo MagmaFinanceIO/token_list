@@ -1,0 +1,13 @@
+{
+  "name": "Freedum Coin",
+  "symbol": "DUMM",
+  "decimals": 9,
+  "coin_type": "0x37fc46c3a49b4ada10c2b6e55090e0baf293870f4345f87ebc671d37e696474f::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

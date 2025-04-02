@@ -1,0 +1,13 @@
+{
+  "name": "CHeRCH",
+  "symbol": "CHERCH",
+  "decimals": 9,
+  "coin_type": "0x4f72b5204dff18f9b24ae20004af6c8ddf56bd75e4c2a899fb87566f2523ab72::cherch::CHERCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0894c500-a03c-468a-b19f-7e159fe96a8f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

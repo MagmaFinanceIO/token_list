@@ -1,0 +1,13 @@
+{
+  "name": "Mafia Monke",
+  "symbol": "Monke",
+  "decimals": 9,
+  "coin_type": "0x975f79c881b7e2236c63f09df315a30f6597b67ebb6e4fb18d56b95f0414cebe::monke::MONKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/10e24ac0-780d-41cd-a6fb-a6816454d1a6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

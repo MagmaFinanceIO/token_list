@@ -1,0 +1,13 @@
+{
+  "name": "Fuck KOREA Coin",
+  "symbol": "FKC",
+  "decimals": 9,
+  "coin_type": "0x9e5cc68564c8d7d1dfc9f89c314bfb62cd202583ff80c20de8f4f37681ee325e::fkc::FKC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/77c33867-0c1b-4c03-ac02-e8b660b94113.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

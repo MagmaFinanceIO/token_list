@@ -1,0 +1,13 @@
+{
+  "name": "SENTINEL",
+  "symbol": "SENTINEL",
+  "decimals": 9,
+  "coin_type": "0x26189536c2d92fe9e9f93e2e538dfeec21c42cc63ea961b60f1a3290f265603e::sentinel::SENTINEL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5RY5yN3xdnrHAX1rDvZWdTYMkmZCBJC5eCLwndRtpump.png?size=lg&key=f92c1b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

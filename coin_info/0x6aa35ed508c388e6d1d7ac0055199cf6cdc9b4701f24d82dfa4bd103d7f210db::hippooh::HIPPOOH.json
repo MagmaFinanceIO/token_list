@@ -1,0 +1,13 @@
+{
+  "name": "Pooh Deng",
+  "symbol": "HIPPOOH",
+  "decimals": 9,
+  "coin_type": "0x6aa35ed508c388e6d1d7ac0055199cf6cdc9b4701f24d82dfa4bd103d7f210db::hippooh::HIPPOOH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/85db2a71-f65b-4191-8524-40e7fa21d907.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

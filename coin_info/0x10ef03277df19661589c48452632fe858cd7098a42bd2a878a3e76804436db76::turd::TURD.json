@@ -1,0 +1,13 @@
+{
+  "name": "Turdle",
+  "symbol": "TURD",
+  "decimals": 9,
+  "coin_type": "0x10ef03277df19661589c48452632fe858cd7098a42bd2a878a3e76804436db76::turd::TURD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8b20614c-8e0c-4f5c-ab41-3294b0efeea1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "GPT Protocol",
+  "symbol": "GPT",
+  "decimals": 6,
+  "coin_type": "0x025e983f044e2818e69da83e1e35f581f671c1a90efaa36b81a9a6b40bc44226::gpt::GPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2358a46f-8d3a-4f75-a78b-899ec80173aa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

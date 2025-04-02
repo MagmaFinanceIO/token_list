@@ -1,0 +1,13 @@
+{
+  "name": "Penguin Cat",
+  "symbol": "PCAT",
+  "decimals": 6,
+  "coin_type": "0x655a1d5655f8ff731f48ce8947825f00907abf22529f3de70ac92d98d0109cb4::pcat::PCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_697_F7_CBAE_4_C3_1_14cc950ce5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

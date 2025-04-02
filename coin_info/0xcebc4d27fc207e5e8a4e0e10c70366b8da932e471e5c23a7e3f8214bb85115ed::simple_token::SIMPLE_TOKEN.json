@@ -1,0 +1,13 @@
+{
+  "name": "MoonTrump",
+  "symbol": "MoonTrump",
+  "decimals": 9,
+  "coin_type": "0xcebc4d27fc207e5e8a4e0e10c70366b8da932e471e5c23a7e3f8214bb85115ed::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HITLER COIN",
+  "symbol": "HITLER",
+  "decimals": 9,
+  "coin_type": "0xef2d2f004d4053e173e8760f3bf6e25ddee6dc26e7e2f4af345f632927063b26::hitler::HITLER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b5061b9e-84b0-4707-9a90-42935db15637.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

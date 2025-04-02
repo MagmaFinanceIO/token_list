@@ -1,0 +1,13 @@
+{
+  "name": "AAAPepe",
+  "symbol": "AAAPepe",
+  "decimals": 2,
+  "coin_type": "0x7581cba76a9cc570334587c53e1cf3f5c8a3201e11dde11b56d80d6da244ba81::aaapepe::AAAPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

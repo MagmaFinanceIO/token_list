@@ -1,0 +1,13 @@
+{
+  "name": "PIKAI AGENT REBORN by SuiAI",
+  "symbol": "PIKAI",
+  "decimals": 6,
+  "coin_type": "0x459067c21555d9355d2d421937a4e8c73c8caddb2997e0489c2d8730e3990e27::pikai::PIKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/photo_2025_01_11_22_04_16_8305eec359.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

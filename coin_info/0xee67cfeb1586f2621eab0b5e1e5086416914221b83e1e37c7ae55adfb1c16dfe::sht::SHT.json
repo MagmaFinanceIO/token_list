@@ -1,0 +1,13 @@
+{
+  "name": "ShitMaster",
+  "symbol": "SHT",
+  "decimals": 9,
+  "coin_type": "0xee67cfeb1586f2621eab0b5e1e5086416914221b83e1e37c7ae55adfb1c16dfe::sht::SHT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2547c84a-b9ec-49ef-a385-a67d774627eb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "KUN LEGEND",
+  "symbol": "KUN",
+  "decimals": 6,
+  "coin_type": "0x21f38d6159b306ffc24223e38238e3143fbd47e6a4c98d205b4554f8ff57a42c::kun::KUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5f0eed9d-c7e7-4dc0-9dc2-fbf3d9b56321.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

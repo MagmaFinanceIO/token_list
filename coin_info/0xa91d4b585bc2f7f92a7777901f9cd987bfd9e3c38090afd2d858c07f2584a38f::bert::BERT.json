@@ -1,0 +1,13 @@
+{
+  "name": "Whalebert",
+  "symbol": "Bert",
+  "decimals": 6,
+  "coin_type": "0xa91d4b585bc2f7f92a7777901f9cd987bfd9e3c38090afd2d858c07f2584a38f::bert::BERT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Neues_Projekt_3_5085348820.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

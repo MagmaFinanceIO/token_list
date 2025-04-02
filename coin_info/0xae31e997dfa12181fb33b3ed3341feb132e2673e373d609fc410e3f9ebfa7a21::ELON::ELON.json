@@ -1,0 +1,13 @@
+{
+  "name": "MEOWTH Meow Meow",
+  "symbol": "MEOWTH",
+  "decimals": 9,
+  "coin_type": "0xae31e997dfa12181fb33b3ed3341feb132e2673e373d609fc410e3f9ebfa7a21::ELON::ELON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

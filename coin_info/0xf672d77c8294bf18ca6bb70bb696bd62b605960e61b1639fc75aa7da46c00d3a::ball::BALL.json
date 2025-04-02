@@ -1,0 +1,13 @@
+{
+  "name": "Crypto Ball",
+  "symbol": "BALL",
+  "decimals": 9,
+  "coin_type": "0xf672d77c8294bf18ca6bb70bb696bd62b605960e61b1639fc75aa7da46c00d3a::ball::BALL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmerGPaYX4tgkJba7FEkSGiur3ogHwwYcMMWszhpac2VHS",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

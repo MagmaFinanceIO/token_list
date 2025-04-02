@@ -1,0 +1,13 @@
+{
+  "name": "Pochita",
+  "symbol": "Pochita",
+  "decimals": 9,
+  "coin_type": "0xe3761257242057764286e98a61d0fa15cc3760cb26d7df7fcf022c12701c2ac4::pochita::POCHITA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/F6mJSzUQ6Ur57UVCh5LjSDmQ4rPQ7hRAFxDrUrqiJrGZ.png?size=lg&key=5295b3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

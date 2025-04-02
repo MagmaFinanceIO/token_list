@@ -1,0 +1,13 @@
+{
+  "name": "Hammerhead",
+  "symbol": "HAMMERHEAD",
+  "decimals": 9,
+  "coin_type": "0x810356ed9cf9f791f4d883e8b435e16f275684a28879ece61d6664136d15bd93::hammerhead::HAMMERHEAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/999e4e11-1969-423e-9c62-258f8ae5e4ac.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

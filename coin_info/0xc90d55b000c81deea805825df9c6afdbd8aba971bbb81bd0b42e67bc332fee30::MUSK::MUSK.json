@@ -1,0 +1,13 @@
+{
+  "name": "Omo Lolo",
+  "symbol": "OMO",
+  "decimals": 9,
+  "coin_type": "0xc90d55b000c81deea805825df9c6afdbd8aba971bbb81bd0b42e67bc332fee30::MUSK::MUSK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

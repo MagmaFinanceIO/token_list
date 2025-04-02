@@ -1,0 +1,13 @@
+{
+  "name": "Moebius Syndrome Foundation",
+  "symbol": "MSF",
+  "decimals": 9,
+  "coin_type": "0xef6e3063889b74c59e32735220dc7dd599acb2f850547fc4bd9d50099728305a::msf::MSF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GhgRBCfv1sgi9wkwZfj6sDhDBgxpsLBxDevetb2ipump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

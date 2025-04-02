@@ -1,0 +1,13 @@
+{
+  "name": "Bolt",
+  "symbol": "BOLT",
+  "decimals": 9,
+  "coin_type": "0xa2b9eba1931d60638c0426675f5dd0997e99edcbe049101223afcd50afb97376::bolt::BOLT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CKTc5b9BcjyyVSqNkakzGy7ckMzoysnpzgQxkbwzpump.png?size=lg&key=084af7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

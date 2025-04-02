@@ -1,0 +1,13 @@
+{
+  "name": "CTO AI",
+  "symbol": "DEGEN",
+  "decimals": 6,
+  "coin_type": "0x440ac67517b6c950a06caff8c1049fddd976cc195f83c727e7d2e28a8dee563a::degen::DEGEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_6829_d9cb7328d3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

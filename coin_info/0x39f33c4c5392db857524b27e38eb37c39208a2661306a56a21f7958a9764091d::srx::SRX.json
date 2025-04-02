@@ -1,0 +1,13 @@
+{
+  "name": "suiREX",
+  "symbol": "SRX",
+  "decimals": 6,
+  "coin_type": "0x39f33c4c5392db857524b27e38eb37c39208a2661306a56a21f7958a9764091d::srx::SRX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/3z_BW_58ly_400x400_78e85ba293.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

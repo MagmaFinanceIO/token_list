@@ -1,0 +1,13 @@
+{
+  "name": "Trumpy Bags",
+  "symbol": "TBAGS",
+  "decimals": 9,
+  "coin_type": "0x94582855ee504788d2cee52c3059dc7ab89936bb864dca6ea1e00bbc71337b0c::tbags::TBAGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FU45vLmZq73br4B8g8Mcjs7MVnwCLEb32keBiv5Npump.png?size=lg&key=035536",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

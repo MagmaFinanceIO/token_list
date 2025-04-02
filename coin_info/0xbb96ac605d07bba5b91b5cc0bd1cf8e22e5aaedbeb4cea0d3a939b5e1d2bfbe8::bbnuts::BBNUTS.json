@@ -1,0 +1,13 @@
+{
+  "name": "Baby Peanut On Sui",
+  "symbol": "BBNUTS",
+  "decimals": 9,
+  "coin_type": "0xbb96ac605d07bba5b91b5cc0bd1cf8e22e5aaedbeb4cea0d3a939b5e1d2bfbe8::bbnuts::BBNUTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7ec3f229-f620-4713-9c38-b925d0743240.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

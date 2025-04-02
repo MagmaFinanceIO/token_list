@@ -1,0 +1,13 @@
+{
+  "name": "MANGO",
+  "symbol": "MANGO",
+  "decimals": 9,
+  "coin_type": "0xcb9a89e52f076204de4423b7b3758e99a5ca39ce0c8a9004536221c982137e45::mango::MANGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4e9d7a1f-c567-479f-bcc5-30eb0a600c3e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

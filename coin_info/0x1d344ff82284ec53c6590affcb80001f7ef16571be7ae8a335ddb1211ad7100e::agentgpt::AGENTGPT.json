@@ -1,0 +1,13 @@
+{
+  "name": "AgentGPT",
+  "symbol": "AgentGPT",
+  "decimals": 6,
+  "coin_type": "0x1d344ff82284ec53c6590affcb80001f7ef16571be7ae8a335ddb1211ad7100e::agentgpt::AGENTGPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e1e60512-f393-485c-a546-68079cbcdec7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

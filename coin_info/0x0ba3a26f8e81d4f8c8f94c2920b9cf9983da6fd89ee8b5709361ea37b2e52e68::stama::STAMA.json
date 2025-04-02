@@ -1,0 +1,13 @@
+{
+  "name": "SUITAMA",
+  "symbol": "STAMA",
+  "decimals": 9,
+  "coin_type": "0x0ba3a26f8e81d4f8c8f94c2920b9cf9983da6fd89ee8b5709361ea37b2e52e68::stama::STAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a2a39ac3-9027-47af-9234-d8a92db21761.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

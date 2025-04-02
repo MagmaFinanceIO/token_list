@@ -1,0 +1,13 @@
+{
+  "name": "American Dog",
+  "symbol": "ADOG",
+  "decimals": 9,
+  "coin_type": "0xb0e0a198860a9ab8ff12e10db74cf6130b430ff68dc7660bbe79b40af4adc330::adog::ADOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2nhfrSrhSM7U2bqu9iSTGbuFADUdXkHdAbu4hWiEw6H3.png?size=lg&key=afd018",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

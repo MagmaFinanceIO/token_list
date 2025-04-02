@@ -1,0 +1,13 @@
+{
+  "name": "SCOTT WU",
+  "symbol": "DEVIN",
+  "decimals": 9,
+  "coin_type": "0x5305ed92dde3d0df4b58e1503501164fd5cbdfbef27fafe4873b01983b71b81f::devin::DEVIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7gbEP2TAy5wM3TmMp5utCrRvdJ3FFqYjgN5KDpXiWPmo.png?size=lg&key=fb5ff9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

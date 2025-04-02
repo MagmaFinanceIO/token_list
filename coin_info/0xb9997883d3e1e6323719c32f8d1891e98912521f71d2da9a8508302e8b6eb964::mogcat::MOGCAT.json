@@ -1,0 +1,13 @@
+{
+  "name": "MOGCAT",
+  "symbol": "MOGCAT",
+  "decimals": 9,
+  "coin_type": "0xb9997883d3e1e6323719c32f8d1891e98912521f71d2da9a8508302e8b6eb964::mogcat::MOGCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/86dae4a6-9286-4813-b9d5-e809e92a08d0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

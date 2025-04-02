@@ -1,0 +1,13 @@
+{
+  "name": "MUIDENG",
+  "symbol": "MUIDG",
+  "decimals": 9,
+  "coin_type": "0x4a3cd6f2540aa4e3f831378ef91b3a4df143c0403f9104a8c1c7cb37b5a60759::muidg::MUIDG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2d0d0bd1-2b2f-4c43-9f50-d4b3e3d926e0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

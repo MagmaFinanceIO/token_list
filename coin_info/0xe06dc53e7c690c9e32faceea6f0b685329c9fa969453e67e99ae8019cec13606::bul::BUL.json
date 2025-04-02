@@ -1,0 +1,13 @@
+{
+  "name": "SUI BUL",
+  "symbol": "BUL",
+  "decimals": 9,
+  "coin_type": "0xe06dc53e7c690c9e32faceea6f0b685329c9fa969453e67e99ae8019cec13606::bul::BUL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bdd9ec4a-450c-4b59-b20b-34dfa90759ff.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

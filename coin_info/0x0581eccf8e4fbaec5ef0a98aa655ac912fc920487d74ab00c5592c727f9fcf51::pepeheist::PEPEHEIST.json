@@ -1,0 +1,13 @@
+{
+  "name": "PEPE HEIST",
+  "symbol": "PEPEHEIST",
+  "decimals": 9,
+  "coin_type": "0x0581eccf8e4fbaec5ef0a98aa655ac912fc920487d74ab00c5592c727f9fcf51::pepeheist::PEPEHEIST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/S4No9zJ28FoviqEb?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

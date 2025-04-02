@@ -1,0 +1,13 @@
+{
+  "name": "Fwogmi",
+  "symbol": "Fwogmi",
+  "decimals": 9,
+  "coin_type": "0x3af09f3141eefe6a01fb15c12699458f3f6a959f5c36941fc063a824343152bb::fwogmi::FWOGMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c8c4b92d-fa7a-4253-8f7b-07c3cf49b1d0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Aqua CAT",
+  "symbol": "ACAT",
+  "decimals": 9,
+  "coin_type": "0x4bf0a3f05f6bdb6768e878677a18f25bf14744e3c42865c6f2d42eb167b926c9::acat::ACAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c95c9256-ab4d-41a9-a590-52a0914dc3e2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

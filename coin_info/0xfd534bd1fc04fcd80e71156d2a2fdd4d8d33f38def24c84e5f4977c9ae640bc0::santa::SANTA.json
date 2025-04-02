@@ -1,0 +1,13 @@
+{
+  "name": "SANTA",
+  "symbol": "SANTA",
+  "decimals": 9,
+  "coin_type": "0xfd534bd1fc04fcd80e71156d2a2fdd4d8d33f38def24c84e5f4977c9ae640bc0::santa::SANTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2EgpQxxRy6SSsXG2YDx8fEM1Z8vyDRHmPAEzSowVpump.png?size=lg&key=7d872c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

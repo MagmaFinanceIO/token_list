@@ -1,0 +1,13 @@
+{
+  "name": "Ali Baba on Sui",
+  "symbol": "ALIBABA",
+  "decimals": 6,
+  "coin_type": "0x711377b437017c5e729b708e4fb06861eef28f64b42b2deedc9f016c3978edc4::alibaba::ALIBABA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5664_56684f8774.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

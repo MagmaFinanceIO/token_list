@@ -1,0 +1,13 @@
+{
+  "name": "Trump Cat Family",
+  "symbol": "TrumpCat",
+  "decimals": 9,
+  "coin_type": "0xe749d6fa0d36f9975a01d894aed42f4a6677837262a696f3bce00797ac09092b::trumpcat::TRUMPCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3vWoEFW9HzHUemY5usqyDyfCzf1QutWVmSrsdEaKpump.png?size=lg&key=e38fdf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

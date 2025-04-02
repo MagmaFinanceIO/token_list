@@ -1,0 +1,13 @@
+{
+  "name": "Fractionalise",
+  "symbol": "FRACT",
+  "decimals": 9,
+  "coin_type": "0x875da0c8d38936f57de15db14846c766e864f701139bacafda5766efb528ce2b::fract::FRACT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x38011e85fc7af8c2789de4fe5b52374c3d8f5acf.png?size=xl&key=400e36",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

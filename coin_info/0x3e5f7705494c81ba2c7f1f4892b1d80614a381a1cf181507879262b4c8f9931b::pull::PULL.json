@@ -1,0 +1,13 @@
+{
+  "name": "Mythical Pull",
+  "symbol": "PULL",
+  "decimals": 6,
+  "coin_type": "0x3e5f7705494c81ba2c7f1f4892b1d80614a381a1cf181507879262b4c8f9931b::pull::PULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Ns_G_Jn9qo_Svg_Lcn9a5_X4s_Yixkn_D_Tg_Ks_Ke_Tdu_B5u_J4brz9_460489162c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

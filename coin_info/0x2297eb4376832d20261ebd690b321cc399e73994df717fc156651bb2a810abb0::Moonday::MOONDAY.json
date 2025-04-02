@@ -1,0 +1,13 @@
+{
+  "name": "Mochi",
+  "symbol": "MOCHI",
+  "decimals": 0,
+  "coin_type": "0x2297eb4376832d20261ebd690b321cc399e73994df717fc156651bb2a810abb0::Moonday::MOONDAY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://storage.googleapis.com/moonday/tokens/c6fb1765-16b1-4ec6-9ee4-72a6600f20fd/mochi1.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

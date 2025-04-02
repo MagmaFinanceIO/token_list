@@ -1,0 +1,13 @@
+{
+  "name": "Suilution",
+  "symbol": "SUILUTION",
+  "decimals": 6,
+  "coin_type": "0x537bcb03e84c13c079cd34521dab1503ac71b2c1b0027601c29ce404193aed4c::suilution::SUILUTION",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SUILUTION_1_d842dcc09f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sketchy McDraw",
+  "symbol": "SKETCHY",
+  "decimals": 9,
+  "coin_type": "0x182a63176f518027708e00fb48fc5b7b546a56a0ff67e0c47d168c3ca4353a5d::sketchy::SKETCHY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/88LCjzUzHRWfHZB4ATzsopDi6dTousdo5M6XNpyppump.png?size=lg&key=f386db",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

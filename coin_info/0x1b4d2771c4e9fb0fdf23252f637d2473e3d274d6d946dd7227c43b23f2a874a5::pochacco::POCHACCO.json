@@ -1,0 +1,13 @@
+{
+  "name": "Pochacco",
+  "symbol": "POCHACCO",
+  "decimals": 9,
+  "coin_type": "0x1b4d2771c4e9fb0fdf23252f637d2473e3d274d6d946dd7227c43b23f2a874a5::pochacco::POCHACCO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Cuy5DpK6A4SRiLW4pixuA5z8KfYbU7GrQnnXy3oaFSLC.png?size=lg&key=bfc611",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

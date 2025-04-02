@@ -1,0 +1,13 @@
+{
+  "name": "Fluffnir",
+  "symbol": "FLUFFY",
+  "decimals": 6,
+  "coin_type": "0x57fdfa824b60d38269052657b6d80ac668ffcdc9b6f207d2dd4f0b610f713325::fluffy::FLUFFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1733179802315.PNG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

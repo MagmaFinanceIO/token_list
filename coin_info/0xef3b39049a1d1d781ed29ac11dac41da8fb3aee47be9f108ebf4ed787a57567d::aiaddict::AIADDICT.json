@@ -1,0 +1,13 @@
+{
+  "name": "Addict_Agent - AI_ADDICT by SuiAI",
+  "symbol": "AIADDICT",
+  "decimals": 6,
+  "coin_type": "0xef3b39049a1d1d781ed29ac11dac41da8fb3aee47be9f108ebf4ed787a57567d::aiaddict::AIADDICT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/1_Dq_HI_Jze_400x400_aebc32f3fc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

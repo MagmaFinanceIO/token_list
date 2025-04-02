@@ -1,0 +1,13 @@
+{
+  "name": "Chicken Road",
+  "symbol": "CHICKEN",
+  "decimals": 6,
+  "coin_type": "0x5aa4843803f2ab1ae06cb95816d405c7792e79718850cb9915e29259b60a19b6::chicken::CHICKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/20250116_185711_65989dd545.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

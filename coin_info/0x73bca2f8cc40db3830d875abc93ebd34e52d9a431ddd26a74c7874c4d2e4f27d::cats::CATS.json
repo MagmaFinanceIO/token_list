@@ -1,0 +1,13 @@
+{
+  "name": "CAT",
+  "symbol": "CATs",
+  "decimals": 9,
+  "coin_type": "0x73bca2f8cc40db3830d875abc93ebd34e52d9a431ddd26a74c7874c4d2e4f27d::cats::CATS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/81b4a36e-ad9b-4ed5-beaa-c457d542b618.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

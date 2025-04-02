@@ -1,0 +1,13 @@
+{
+  "name": "Relaxed Girl",
+  "symbol": "RelaxG",
+  "decimals": 9,
+  "coin_type": "0xf7daaae85382dfee3050af3ca93fe71e82644f1ec8375655baf21cab1a813b37::relaxg::RELAXG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4z77spJUGdDVgyEiMSD72KK3kbg6AH8Q2ZbfCBt728yb.png?size=lg&key=85ff30",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

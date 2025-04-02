@@ -1,0 +1,13 @@
+{
+  "name": "Health Sui",
+  "symbol": "HEALTHSU",
+  "decimals": 6,
+  "coin_type": "0xe59a15bbb7709fb9b370fa2824c9e51c395a00748f3a86358df18e5b75a9f9d0::healthsu::HEALTHSU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d3edb349-78d0-4cca-bf01-acf030882863.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

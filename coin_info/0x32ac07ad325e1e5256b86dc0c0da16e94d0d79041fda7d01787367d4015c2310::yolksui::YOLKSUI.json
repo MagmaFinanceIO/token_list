@@ -1,0 +1,13 @@
+{
+  "name": "SuiYolk",
+  "symbol": "YOLKSUI",
+  "decimals": 6,
+  "coin_type": "0x32ac07ad325e1e5256b86dc0c0da16e94d0d79041fda7d01787367d4015c2310::yolksui::YOLKSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Thia_t_ka_ch_AE_a_c_A_t_A_n_9_a361bc66a1.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

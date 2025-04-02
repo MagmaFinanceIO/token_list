@@ -1,0 +1,13 @@
+{
+  "name": "BUST",
+  "symbol": "GigaBust Token",
+  "decimals": 2,
+  "coin_type": "0xeb42f2e97e6c52a4c566a711591788ead385bf4fbae104c3313bd35fecb4baf9::BUST::BUST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FIMG_2126_d6e89fb38a.jpeg&w=640&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

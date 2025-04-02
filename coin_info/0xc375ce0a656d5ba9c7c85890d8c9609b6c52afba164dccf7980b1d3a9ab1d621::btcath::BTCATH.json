@@ -1,0 +1,13 @@
+{
+  "name": "BTCNEWATH",
+  "symbol": "BTCATH",
+  "decimals": 9,
+  "coin_type": "0xc375ce0a656d5ba9c7c85890d8c9609b6c52afba164dccf7980b1d3a9ab1d621::btcath::BTCATH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BQzsmcuETFrqEnPadiKNQJzQou1oFJ9KUogjjTWepump.png?size=lg&key=c44f82",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

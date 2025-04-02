@@ -1,0 +1,13 @@
+{
+  "name": "SUIAPE",
+  "symbol": "SUIAPE",
+  "decimals": 6,
+  "coin_type": "0x8e55759deac7b18f09e09c88ce503059ab306df01f8469a4be56c69b8b644fdc::suiape::SUIAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7445c965-8592-42f3-9745-8cdd3fb5dd74.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

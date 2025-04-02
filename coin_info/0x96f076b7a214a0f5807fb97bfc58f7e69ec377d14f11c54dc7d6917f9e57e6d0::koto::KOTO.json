@@ -1,0 +1,13 @@
+{
+  "name": "KOTO",
+  "symbol": "KOTO",
+  "decimals": 0,
+  "coin_type": "0x96f076b7a214a0f5807fb97bfc58f7e69ec377d14f11c54dc7d6917f9e57e6d0::koto::KOTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4360cab8-c363-4ddf-9db0-67b16df447dc.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

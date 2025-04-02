@@ -1,0 +1,13 @@
+{
+  "name": "iykyk",
+  "symbol": "COPIUM",
+  "decimals": 9,
+  "coin_type": "0x96acd3b9c73f723b82f134d4ed9fc80103006d977a4337d1fc4f3bdfa18e26c5::copium::COPIUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmUfgGQdzKaNAX1QfZXcnuSiSyknbSvsJy78DreDcnFg1a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

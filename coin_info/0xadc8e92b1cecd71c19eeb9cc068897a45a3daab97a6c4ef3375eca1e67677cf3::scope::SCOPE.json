@@ -1,0 +1,13 @@
+{
+  "name": "🤠Sui Cowboy Pepe",
+  "symbol": "SCOPE",
+  "decimals": 3,
+  "coin_type": "0xadc8e92b1cecd71c19eeb9cc068897a45a3daab97a6c4ef3375eca1e67677cf3::scope::SCOPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/804d1f7d-6fa4-42c2-a3aa-c152884804f5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

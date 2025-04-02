@@ -1,0 +1,13 @@
+{
+  "name": "Kitty Trump On Sui",
+  "symbol": "KITRUMP",
+  "decimals": 9,
+  "coin_type": "0x4ef3128caff76bfb9a291398764c19c8baeb12033aad3463fcca0cfecce98a66::kitrump::KITRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f29ea46d-a7bc-439f-9334-f6c2bea1139f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

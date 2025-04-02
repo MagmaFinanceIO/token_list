@@ -1,0 +1,13 @@
+{
+  "name": "FETUS",
+  "symbol": "FET",
+  "decimals": 9,
+  "coin_type": "0xe363ba875400c77aedba3c5b936dabfc374f88b46ac41e5ff3c74643e9bd7151::fet::FET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/53638eb6-3005-4584-bf9a-114b16f917a9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

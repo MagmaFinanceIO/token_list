@@ -1,0 +1,13 @@
+{
+  "name": "Suina",
+  "symbol": "SUINA",
+  "decimals": 6,
+  "coin_type": "0xef548d46a41c094e3eb7a96076ceac8a7b0f3bc16ac59e8b35623e6b0323431c::suina::SUINA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6233_83fec756d9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SIMBA",
+  "symbol": "SIMBA",
+  "decimals": 9,
+  "coin_type": "0x48e351f43c9a3bc8e77a5dda42c32c6787fe1499ae4a2b3a4b911413ebb7cb8e::simba::SIMBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1fca6708-92af-437b-a4ce-f47706e1e25f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

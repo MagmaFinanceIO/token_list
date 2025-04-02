@@ -1,0 +1,13 @@
+{
+  "name": "NST ON SUI",
+  "symbol": "NST",
+  "decimals": 6,
+  "coin_type": "0xaaba86358f5276b357421cebebd5143c4fce4b4550bf295f67bc392b2bc78569::nst::NST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_11_20_at_3_34_44a_pm_e5a8c63f68.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

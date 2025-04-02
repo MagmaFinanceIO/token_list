@@ -1,0 +1,13 @@
+{
+  "name": "BEMBOS",
+  "symbol": "BMBS",
+  "decimals": 9,
+  "coin_type": "0xae1b3d1055264dc1fe26a81959143f5052f161a8d2f36f7c11dc307c66a77c9e::bmbs::BMBS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1afd386d-067d-4521-8d14-cfd301a8089f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

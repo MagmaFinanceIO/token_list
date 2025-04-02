@@ -1,0 +1,13 @@
+{
+  "name": "Annoying Orange",
+  "symbol": "ORANGE",
+  "decimals": 9,
+  "coin_type": "0x4069c24a2cf19ef3ba47afb62ec4bb5675fb467f7ab1756c694b9839f97e3902::orange::ORANGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4sx9a8c81cPWYPy3QVptKcgZu87ncixZp5d2cxeVpump.png?size=lg&key=97e195",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

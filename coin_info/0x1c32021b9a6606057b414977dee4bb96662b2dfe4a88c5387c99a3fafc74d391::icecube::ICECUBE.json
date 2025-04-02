@@ -1,0 +1,13 @@
+{
+  "name": "Ice Cube",
+  "symbol": "ICECUBE",
+  "decimals": 9,
+  "coin_type": "0x1c32021b9a6606057b414977dee4bb96662b2dfe4a88c5387c99a3fafc74d391::icecube::ICECUBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmcxnFNd5kRc2vU8TLG6yoP9gvrmLoACseGF1QsJfRoGJ1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

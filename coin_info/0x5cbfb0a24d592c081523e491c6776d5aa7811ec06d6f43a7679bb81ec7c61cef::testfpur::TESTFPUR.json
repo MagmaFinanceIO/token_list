@@ -1,0 +1,13 @@
+{
+  "name": "Test4",
+  "symbol": "TestFpur",
+  "decimals": 9,
+  "coin_type": "0x5cbfb0a24d592c081523e491c6776d5aa7811ec06d6f43a7679bb81ec7c61cef::testfpur::TESTFPUR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8100de25-4f32-444a-b2e9-b3f2bae228b1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

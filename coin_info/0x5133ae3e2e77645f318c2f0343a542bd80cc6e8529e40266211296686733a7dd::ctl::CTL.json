@@ -1,0 +1,13 @@
+{
+  "name": "Citadel AI",
+  "symbol": "CTL",
+  "decimals": 9,
+  "coin_type": "0x5133ae3e2e77645f318c2f0343a542bd80cc6e8529e40266211296686733a7dd::ctl::CTL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ba05976f-60fb-436d-937a-4a0b79cb7ea7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

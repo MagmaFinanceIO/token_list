@@ -1,0 +1,13 @@
+{
+  "name": "SPLASHIR",
+  "symbol": "SPLISH",
+  "decimals": 9,
+  "coin_type": "0x092102216f9d6b1291bd48f319be1057958718eea5104d784b6fa0838be6712e::splish::SPLISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/89caf2b1-910f-4991-aaa1-5e7195f27c59.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

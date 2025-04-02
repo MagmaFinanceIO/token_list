@@ -1,0 +1,13 @@
+{
+  "name": "WOLFY",
+  "symbol": "WOLFY",
+  "decimals": 9,
+  "coin_type": "0xf49bdf71aee14589b1ce05683af36b854b53ee348b6ed4787440c209725eeab2::wolfy::WOLFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f3d4b8b5-65f1-49d2-b34d-3416207c6982.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

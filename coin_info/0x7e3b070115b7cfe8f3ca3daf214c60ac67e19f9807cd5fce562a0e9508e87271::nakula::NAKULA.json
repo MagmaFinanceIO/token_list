@@ -1,0 +1,13 @@
+{
+  "name": "Nakula",
+  "symbol": "NAKULA",
+  "decimals": 9,
+  "coin_type": "0x7e3b070115b7cfe8f3ca3daf214c60ac67e19f9807cd5fce562a0e9508e87271::nakula::NAKULA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://photos.pinksale.finance/file/pinksale-logo-upload/1730118053699-53e0cfbe5731e2153c2d49536bb67db5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

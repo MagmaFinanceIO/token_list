@@ -1,0 +1,13 @@
+{
+  "name": "Blue Wolf",
+  "symbol": "BlueWolf",
+  "decimals": 6,
+  "coin_type": "0xd05441d9704fa08f30b6a30e2d4753a61abee9e958daf5ce5d365ac1c0c995b7::bluewolf::BLUEWOLF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1727875322917_61ddc1fd70.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

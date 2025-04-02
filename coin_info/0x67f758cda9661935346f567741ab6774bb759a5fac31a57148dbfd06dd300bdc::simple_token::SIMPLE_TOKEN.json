@@ -1,0 +1,13 @@
+{
+  "name": "ALISUI",
+  "symbol": "ALISUI",
+  "decimals": 9,
+  "coin_type": "0x67f758cda9661935346f567741ab6774bb759a5fac31a57148dbfd06dd300bdc::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

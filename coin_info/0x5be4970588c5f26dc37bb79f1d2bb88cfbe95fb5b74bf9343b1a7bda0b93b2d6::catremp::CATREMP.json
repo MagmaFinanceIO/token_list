@@ -1,0 +1,13 @@
+{
+  "name": "Cat Tremp",
+  "symbol": "CATREMP",
+  "decimals": 9,
+  "coin_type": "0x5be4970588c5f26dc37bb79f1d2bb88cfbe95fb5b74bf9343b1a7bda0b93b2d6::catremp::CATREMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/daccbfea-2af2-4609-be1d-d5765fced388.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

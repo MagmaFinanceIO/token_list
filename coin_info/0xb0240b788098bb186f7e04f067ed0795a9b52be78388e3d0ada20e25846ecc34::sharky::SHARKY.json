@@ -1,0 +1,13 @@
+{
+  "name": "Suish Sharky",
+  "symbol": "SHARKY",
+  "decimals": 9,
+  "coin_type": "0xb0240b788098bb186f7e04f067ed0795a9b52be78388e3d0ada20e25846ecc34::sharky::SHARKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/426e1eb8-2922-4d54-8deb-dd7bd4493924.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

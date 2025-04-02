@@ -1,0 +1,13 @@
+{
+  "name": "Gangsta Ponkee",
+  "symbol": "Ponkee",
+  "decimals": 9,
+  "coin_type": "0x7d48337231b0e0ae43159141cbcb5f3c41b549c60e6a8d299692e738f1ad03ce::ponkee::PONKEE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c0e7e441-ea08-4f2d-8f27-b8d442da7fce.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

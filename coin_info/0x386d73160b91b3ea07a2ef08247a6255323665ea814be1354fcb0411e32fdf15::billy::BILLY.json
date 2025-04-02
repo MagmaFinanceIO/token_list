@@ -1,0 +1,13 @@
+{
+  "name": "BillySUI",
+  "symbol": "Billy",
+  "decimals": 6,
+  "coin_type": "0x386d73160b91b3ea07a2ef08247a6255323665ea814be1354fcb0411e32fdf15::billy::BILLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_2763_a003e1dc48.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

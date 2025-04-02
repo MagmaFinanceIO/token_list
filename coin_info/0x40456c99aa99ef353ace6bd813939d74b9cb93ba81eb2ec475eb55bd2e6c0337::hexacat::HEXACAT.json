@@ -1,0 +1,13 @@
+{
+  "name": "HEXACAT",
+  "symbol": "HEXACAT",
+  "decimals": 9,
+  "coin_type": "0x40456c99aa99ef353ace6bd813939d74b9cb93ba81eb2ec475eb55bd2e6c0337::hexacat::HEXACAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://red-rainy-catfish-636.mypinata.cloud/ipfs/QmcHh5ZsEiNpgAXdiBjGHaE14WfpGSxczPUpfnxR621B9D",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

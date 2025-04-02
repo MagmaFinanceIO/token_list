@@ -1,0 +1,13 @@
+{
+  "name": "SuiFun",
+  "symbol": "SUIFUN",
+  "decimals": 6,
+  "coin_type": "0x4213f504f254684e0f06395a5cc3c62d8e1f726715e39657151f1feabed92a73::suifun::SUIFUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000035080_11df04cc64.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Yeti on Sui",
+  "symbol": "YETI",
+  "decimals": 6,
+  "coin_type": "0x04ec34fe31a9f0ebcfd82cf07f637e197247bbc46a92f96c1ef84eabd2b11e1f::yeti::YETI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_5894_29f1acd73b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

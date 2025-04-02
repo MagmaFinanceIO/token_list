@@ -1,0 +1,13 @@
+{
+  "name": "Immigration Customs Enforcement",
+  "symbol": "ICE",
+  "decimals": 9,
+  "coin_type": "0xec9046c57a8d9efb119b5b85de30cd0b2cea03d1c78d4feac768a6f88f670e48::ice::ICE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/69mqWupVM29JNh5LJeBmh2xRETzYWQV26Bze6e4gpump.png?size=lg&key=2b0543",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "LA Fires unprecedented",
+  "symbol": "FIRES",
+  "decimals": 9,
+  "coin_type": "0x18f96f19d992219ed0613da4cdd8aadf3a78da3368221a0aa323de3e39130156::fires::FIRES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5oGd8BDaps2gDcotMLL134mBMo4XRVNvEwvLLYBtpump.png?size=lg&key=61739d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

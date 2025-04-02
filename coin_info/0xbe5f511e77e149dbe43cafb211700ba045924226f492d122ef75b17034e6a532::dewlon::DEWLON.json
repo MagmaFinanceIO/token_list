@@ -1,0 +1,13 @@
+{
+  "name": "Baby Deng Wif Melon",
+  "symbol": "DEWLON",
+  "decimals": 3,
+  "coin_type": "0xbe5f511e77e149dbe43cafb211700ba045924226f492d122ef75b17034e6a532::dewlon::DEWLON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dd74e4bb-899a-4952-a9bb-d9690367395e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "🦛",
+  "symbol": "HIPPO",
+  "decimals": 9,
+  "coin_type": "0x6ffba92d3bce7e911068490d181b139a741ecf03e6a97f0e7286877917d76c16::hippo::HIPPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c9c6c314-db96-48f6-919e-dbcf31bf55d5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

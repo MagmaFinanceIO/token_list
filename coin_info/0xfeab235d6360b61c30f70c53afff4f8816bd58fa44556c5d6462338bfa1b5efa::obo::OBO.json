@@ -1,0 +1,13 @@
+{
+  "name": "obo",
+  "symbol": "OBO",
+  "decimals": 9,
+  "coin_type": "0xfeab235d6360b61c30f70c53afff4f8816bd58fa44556c5d6462338bfa1b5efa::obo::OBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1476ee1d-77f7-4b56-9ffa-436146792884.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

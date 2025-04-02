@@ -1,0 +1,13 @@
+{
+  "name": "sCETUS",
+  "symbol": "sCETUS",
+  "decimals": 9,
+  "coin_type": "0xea346ce428f91ab007210443efcea5f5cdbbb3aae7e9affc0ca93f9203c31f0c::scallop_cetus::SCALLOP_CETUS",
+  "pyth_id": "",
+  "birdeyeid": "0xea346ce428f91ab007210443efcea5f5cdbbb3aae7e9affc0ca93f9203c31f0c::scallop_cetus::SCALLOP_CETUS",
+  "coin_priority": [],
+  "logo_url": "https://gateway.irys.xyz/FfmvsmthhRiAaBwY8nZjx8uavV2ySs7USgn5xamsxFf5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

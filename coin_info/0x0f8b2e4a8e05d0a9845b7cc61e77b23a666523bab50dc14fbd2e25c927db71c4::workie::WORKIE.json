@@ -1,0 +1,13 @@
+{
+  "name": "Workie",
+  "symbol": "WORKIE",
+  "decimals": 9,
+  "coin_type": "0x0f8b2e4a8e05d0a9845b7cc61e77b23a666523bab50dc14fbd2e25c927db71c4::workie::WORKIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qma1Zct5adnNKsoVa5MBtqUfxQ6AmUmjfuwx2fn1mqMYAS",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

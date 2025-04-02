@@ -1,0 +1,13 @@
+{
+  "name": "Marvin INU",
+  "symbol": "MARVIN",
+  "decimals": 9,
+  "coin_type": "0xa16f1cfd5f682506f1879f561d92b719dd2b1ca91f7ce97cc43752b69a58d5ca::marvin::MARVIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3e5okS4GZCZuTpqnMgex3bLJfdQYca3AoLYc36PS3b4U.png?size=lg&key=04a57f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

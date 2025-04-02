@@ -1,0 +1,13 @@
+{
+  "name": "QAIRO",
+  "symbol": "QAIRO",
+  "decimals": 9,
+  "coin_type": "0x44c95186870c75e329fb82f31fa975a5934cdd66736c1b40a54b60da992a48ba::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

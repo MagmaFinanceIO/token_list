@@ -1,0 +1,13 @@
+{
+  "name": "Scuba Wojak",
+  "symbol": "SWOJAK",
+  "decimals": 6,
+  "coin_type": "0x8d66961e572809bc9ebe7e5c815d245a3876f64e98ac899834d350f93e4b70e1::swojak::SWOJAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmZyJjJi6qZDSKv8ajBF3nZxbq3AiY67jjXGkJPffaJxRF",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

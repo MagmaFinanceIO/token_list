@@ -1,0 +1,13 @@
+{
+  "name": "SUI TURTLE",
+  "symbol": "SUITURTLE",
+  "decimals": 6,
+  "coin_type": "0x56814834a1163cd6e94a07ebcf26088057504e9aba9cfbda01b6b64055f81136::suiturtle::SUITURTLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Sui_turtle_pfp_d6b27c2feb.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

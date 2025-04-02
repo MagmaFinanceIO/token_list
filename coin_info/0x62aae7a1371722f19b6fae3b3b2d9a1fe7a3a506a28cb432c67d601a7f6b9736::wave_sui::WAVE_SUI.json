@@ -1,0 +1,13 @@
+{
+  "name": "WAVE Sui",
+  "symbol": "WAVE Sui",
+  "decimals": 9,
+  "coin_type": "0x62aae7a1371722f19b6fae3b3b2d9a1fe7a3a506a28cb432c67d601a7f6b9736::wave_sui::WAVE_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7af2400e-6885-4951-a164-d2d94cd7e136.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

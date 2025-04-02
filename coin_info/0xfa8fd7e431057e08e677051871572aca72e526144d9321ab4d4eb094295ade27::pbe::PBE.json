@@ -1,0 +1,13 @@
+{
+  "name": "Pump Boy Elon",
+  "symbol": "PBE",
+  "decimals": 9,
+  "coin_type": "0xfa8fd7e431057e08e677051871572aca72e526144d9321ab4d4eb094295ade27::pbe::PBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GM3RQFFdJwt2P7zPoKtzpavW5y75K94npQkeLM24pump.png?size=lg&key=114ae4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

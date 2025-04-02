@@ -1,0 +1,13 @@
+{
+  "name": "BATCAT ON SUI",
+  "symbol": "BATCAT",
+  "decimals": 6,
+  "coin_type": "0xa071d51983b2084cc1c1af38eba128530144ec12dada9ebe2af6aad796f368cd::batcat::BATCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Mxyi_G_Zo_M_400x400_de3f293851.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

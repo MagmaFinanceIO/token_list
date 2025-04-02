@@ -1,0 +1,13 @@
+{
+  "name": "NA AI",
+  "symbol": "ANAI",
+  "decimals": 9,
+  "coin_type": "0xffee5befa0a0ed524e1f61578078469023c05b95cdcbb9cba07b23babc6388d3::anai::ANAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2Gp8G4XTwoCvfJNNXTLUAtErqwT8HtfYGGFM5piBpump.png?size=lg&key=697e0b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

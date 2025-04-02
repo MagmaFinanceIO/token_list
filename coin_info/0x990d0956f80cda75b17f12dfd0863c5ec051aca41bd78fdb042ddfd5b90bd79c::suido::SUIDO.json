@@ -1,0 +1,13 @@
+{
+  "name": "SUIDO NYMPHS",
+  "symbol": "SUIDO",
+  "decimals": 9,
+  "coin_type": "0x990d0956f80cda75b17f12dfd0863c5ec051aca41bd78fdb042ddfd5b90bd79c::suido::SUIDO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a775a2f3-98c1-499f-9020-f8947f51bc48.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

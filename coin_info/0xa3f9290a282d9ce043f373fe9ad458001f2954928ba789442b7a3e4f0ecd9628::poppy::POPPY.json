@@ -1,0 +1,13 @@
+{
+  "name": "POPPY",
+  "symbol": "POPPY",
+  "decimals": 9,
+  "coin_type": "0xa3f9290a282d9ce043f373fe9ad458001f2954928ba789442b7a3e4f0ecd9628::poppy::POPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2cGgzqypybp4Dgk3Wkufvv3ZNnzpZYteZ3acfLj6GDwc.png?size=lg&key=93c5bc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

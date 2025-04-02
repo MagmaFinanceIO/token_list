@@ -1,0 +1,13 @@
+{
+  "name": "FXT",
+  "symbol": "FXT",
+  "decimals": 9,
+  "coin_type": "0x5a88cf8da880ab0817e3392a2505f10d4bae66189578bf7055c16670201207bd::fxt::FXT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6ceae82a-cfeb-4524-87b5-a1f3f94bccc3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

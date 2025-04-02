@@ -1,0 +1,13 @@
+{
+  "name": "BabySui",
+  "symbol": "BSUI",
+  "decimals": 9,
+  "coin_type": "0x858509d8761b52026678f3d2f841de307dfd254a9c7eb6cbacbee1a925ad9255::bsui::BSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/76c6c402-040e-474c-9662-2492f2b481c5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

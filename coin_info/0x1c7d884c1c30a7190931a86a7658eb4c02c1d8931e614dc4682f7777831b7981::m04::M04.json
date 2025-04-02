@@ -1,0 +1,13 @@
+{
+  "name": "MUN04",
+  "symbol": "M04",
+  "decimals": 9,
+  "coin_type": "0x1c7d884c1c30a7190931a86a7658eb4c02c1d8931e614dc4682f7777831b7981::m04::M04",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/34b12e258da4b37efeac917433b46a3ablob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

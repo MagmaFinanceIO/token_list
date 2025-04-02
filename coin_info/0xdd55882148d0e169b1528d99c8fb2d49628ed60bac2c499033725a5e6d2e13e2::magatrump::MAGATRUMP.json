@@ -1,0 +1,13 @@
+{
+  "name": "Maga Trump Sui",
+  "symbol": "MAGATRUMP",
+  "decimals": 9,
+  "coin_type": "0xdd55882148d0e169b1528d99c8fb2d49628ed60bac2c499033725a5e6d2e13e2::magatrump::MAGATRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/84349968-8f20-46af-a0f0-e2e1bad92e87.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

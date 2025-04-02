@@ -1,0 +1,13 @@
+{
+  "name": "DEEP SEEK AGENT",
+  "symbol": "SEEK",
+  "decimals": 6,
+  "coin_type": "0xff6d608e3722959ca2fe849d6df957722c1c744fed6a9e75fdc4b781d62927ab::seek::SEEK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/deepseeklogo_ef9e231cbb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

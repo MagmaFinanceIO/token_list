@@ -1,0 +1,13 @@
+{
+  "name": "SUI-Fu",
+  "symbol": "SFU",
+  "decimals": 9,
+  "coin_type": "0x34022177caae6b58c0ef4c09b2d8428936dc95fdafb4e448b3ee34f888ed94a5::sfu::SFU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/df41b3d7-40d4-4224-a285-fb223ba68869.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

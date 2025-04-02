@@ -1,0 +1,13 @@
+{
+  "name": "Mine Protocol",
+  "symbol": "MINE",
+  "decimals": 9,
+  "coin_type": "0x322bf41d615c5c9714680b0f37dd1ed4cfa719aea67cdd7f2ed52b60eb7d722c::mine::MINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/G3iAxm1yK6K8PwZMcueorHpr56mQrfQvUkUrVuMspump.png?size=lg&key=0ef280",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

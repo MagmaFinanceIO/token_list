@@ -1,0 +1,13 @@
+{
+  "name": "Donald Droid",
+  "symbol": "DONDROID",
+  "decimals": 9,
+  "coin_type": "0xabd30155231d21cb6cebfecd88005e4927307d762fa4b6c24d4f9b30497f538e::donald_droid::DONALD_DROID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreien4xh5zcz4sjjsk5vwgban2zytwmlg7thmstkzuxbasxco53gqu4.ipfs.w3s.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

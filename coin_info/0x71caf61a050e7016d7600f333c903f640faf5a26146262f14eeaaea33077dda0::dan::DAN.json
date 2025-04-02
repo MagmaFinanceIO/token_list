@@ -1,0 +1,13 @@
+{
+  "name": "LTdan",
+  "symbol": "Dan",
+  "decimals": 6,
+  "coin_type": "0x71caf61a050e7016d7600f333c903f640faf5a26146262f14eeaaea33077dda0::dan::DAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_8414_56dcaf359e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

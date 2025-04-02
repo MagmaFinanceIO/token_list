@@ -1,0 +1,13 @@
+{
+  "name": "FLOKI",
+  "symbol": "FLOKI",
+  "decimals": 9,
+  "coin_type": "0x95fbc6fb2183767bf3236518ff18db52770feba2aa44e63f6b8c3daa67ee1a1c::floki::FLOKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://s2.coinmarketcap.com/static/img/coins/64x64/10804.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

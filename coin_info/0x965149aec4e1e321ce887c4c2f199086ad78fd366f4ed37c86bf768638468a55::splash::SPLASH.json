@@ -1,0 +1,13 @@
+{
+  "name": "Splash AI",
+  "symbol": "SPLASH",
+  "decimals": 6,
+  "coin_type": "0x965149aec4e1e321ce887c4c2f199086ad78fd366f4ed37c86bf768638468a55::splash::SPLASH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Splash_AI_c05a24ae58.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

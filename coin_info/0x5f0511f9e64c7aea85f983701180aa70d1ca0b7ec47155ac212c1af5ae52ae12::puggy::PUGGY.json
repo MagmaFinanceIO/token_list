@@ -1,0 +1,13 @@
+{
+  "name": "Pugdog",
+  "symbol": "Puggy",
+  "decimals": 6,
+  "coin_type": "0x5f0511f9e64c7aea85f983701180aa70d1ca0b7ec47155ac212c1af5ae52ae12::puggy::PUGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_07_20_21_09_16_ec390665e2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

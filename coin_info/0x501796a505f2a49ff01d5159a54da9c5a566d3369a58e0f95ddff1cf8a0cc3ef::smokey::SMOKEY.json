@@ -1,0 +1,13 @@
+{
+  "name": "SMOKEY ON SUI",
+  "symbol": "SMOKEY",
+  "decimals": 6,
+  "coin_type": "0x501796a505f2a49ff01d5159a54da9c5a566d3369a58e0f95ddff1cf8a0cc3ef::smokey::SMOKEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_QFX_Zm_JAH_We_W_Uah2_Uk_S_Pr_W9d_Dat66mo3_C_Lvmcub8sgxba_2ea39ae276.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

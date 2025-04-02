@@ -1,0 +1,13 @@
+{
+  "name": "SOPCATSUI",
+  "symbol": "SOPCAT",
+  "decimals": 6,
+  "coin_type": "0x0c7e7f45cc68028e1847f6150a3246a7540cc664d114ba6ed9f157512f003f94::sopcat::SOPCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_29_14_22_21_a0cea3ddf8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

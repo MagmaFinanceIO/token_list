@@ -1,0 +1,13 @@
+{
+  "name": "Donald Trump",
+  "symbol": "Trump",
+  "decimals": 6,
+  "coin_type": "0x41816503dbd356402881657ce38c329b669c6df64a9985ab7429904483e011c0::trump::TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730948207736.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

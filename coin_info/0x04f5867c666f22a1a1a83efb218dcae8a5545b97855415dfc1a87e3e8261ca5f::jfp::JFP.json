@@ -1,0 +1,13 @@
+{
+  "name": "JUSTICE FOR PEANUT",
+  "symbol": "JFP",
+  "decimals": 9,
+  "coin_type": "0x04f5867c666f22a1a1a83efb218dcae8a5545b97855415dfc1a87e3e8261ca5f::jfp::JFP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CHKzK9EbEDxaQx1aU3SrRixJPFsToURcug5uUG2ipump.png?size=lg&key=b58754",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Xoe",
+  "symbol": "XOE",
+  "decimals": 9,
+  "coin_type": "0xf0e9e871d60c6b5b0bb152f976c0b919572fd2f6d4a168bf58d4438bcd3ff405::xoe::XOE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9A5rbEH7fzeJZ3iKyGWZSDmPRoVrQgS1qUWvEiBvNC3E.png?size=lg&key=dc45de",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

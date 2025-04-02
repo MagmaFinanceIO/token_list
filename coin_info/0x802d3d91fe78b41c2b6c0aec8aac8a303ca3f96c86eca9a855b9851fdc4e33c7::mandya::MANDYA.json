@@ -1,0 +1,13 @@
+{
+  "name": "MANDY COIN",
+  "symbol": "MANDY",
+  "decimals": 9,
+  "coin_type": "0x802d3d91fe78b41c2b6c0aec8aac8a303ca3f96c86eca9a855b9851fdc4e33c7::mandya::MANDYA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7aBe9kywnhEroyPC7WZAv2QdbfLLmiDJuaAqHGkEFALX.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

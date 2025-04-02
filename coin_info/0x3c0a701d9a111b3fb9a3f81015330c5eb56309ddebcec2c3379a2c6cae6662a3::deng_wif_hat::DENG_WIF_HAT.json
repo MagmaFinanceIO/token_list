@@ -1,0 +1,13 @@
+{
+  "name": "Deng Wif Hat",
+  "symbol": "DWIFH",
+  "decimals": 9,
+  "coin_type": "0x3c0a701d9a111b3fb9a3f81015330c5eb56309ddebcec2c3379a2c6cae6662a3::deng_wif_hat::DENG_WIF_HAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/QmT35bTaYRVn2ap8ogTrGhCqcueos399v7b9aqBeT7JcvA",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

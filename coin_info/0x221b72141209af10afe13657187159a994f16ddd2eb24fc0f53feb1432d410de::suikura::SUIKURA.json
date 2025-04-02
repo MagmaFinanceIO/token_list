@@ -1,0 +1,13 @@
+{
+  "name": "Suikura",
+  "symbol": "Suikura",
+  "decimals": 9,
+  "coin_type": "0x221b72141209af10afe13657187159a994f16ddd2eb24fc0f53feb1432d410de::suikura::SUIKURA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://yellow-total-guanaco-389.mypinata.cloud/ipfs/QmfTfAyxN3VswqN4NNXE8WnS69XLwZgaTwYC3bjWcdX3T5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

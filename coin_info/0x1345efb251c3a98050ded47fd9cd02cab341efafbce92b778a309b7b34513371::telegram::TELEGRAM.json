@@ -1,0 +1,13 @@
+{
+  "name": "Telegram Coin",
+  "symbol": "TELEGRAM",
+  "decimals": 9,
+  "coin_type": "0x1345efb251c3a98050ded47fd9cd02cab341efafbce92b778a309b7b34513371::telegram::TELEGRAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2JJJioEpPqHSTz6eJStCduoxyB5PAEdLhoBt66Adpump.png?size=lg&key=7f7736",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

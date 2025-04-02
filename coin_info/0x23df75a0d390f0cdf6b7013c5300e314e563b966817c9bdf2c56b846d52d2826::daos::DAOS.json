@@ -1,0 +1,13 @@
+{
+  "name": "There",
+  "symbol": "Hi",
+  "decimals": 6,
+  "coin_type": "0x23df75a0d390f0cdf6b7013c5300e314e563b966817c9bdf2c56b846d52d2826::daos::DAOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

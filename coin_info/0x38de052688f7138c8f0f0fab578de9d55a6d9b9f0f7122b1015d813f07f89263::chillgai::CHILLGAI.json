@@ -1,0 +1,13 @@
+{
+  "name": "chillgAI",
+  "symbol": "chillgAI",
+  "decimals": 9,
+  "coin_type": "0x38de052688f7138c8f0f0fab578de9d55a6d9b9f0f7122b1015d813f07f89263::chillgai::CHILLGAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6NtdHZ3NxyfB6syA8ZU7SVBg8c7eJHYM7SfJNMyEpump.png?size=lg&key=d9f5f3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

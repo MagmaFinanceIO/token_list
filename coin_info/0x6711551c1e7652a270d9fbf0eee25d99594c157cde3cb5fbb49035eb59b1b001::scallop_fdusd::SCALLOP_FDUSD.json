@@ -1,0 +1,13 @@
+{
+  "name": "sFDUSD",
+  "symbol": "sFDUSD",
+  "decimals": 6,
+  "coin_type": "0x6711551c1e7652a270d9fbf0eee25d99594c157cde3cb5fbb49035eb59b1b001::scallop_fdusd::SCALLOP_FDUSD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://am6vo2vn4mg2lm7vmajonsipgkat56z75mxe55babpztrbssmb4a.arweave.net/Az1Xaq3jDaWz9WAS5skPMoE--z_rLk70IAvzOIZSYHg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

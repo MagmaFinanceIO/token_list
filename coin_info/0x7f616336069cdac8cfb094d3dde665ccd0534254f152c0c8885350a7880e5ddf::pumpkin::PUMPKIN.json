@@ -1,0 +1,13 @@
+{
+  "name": "Pumpkin on Sui",
+  "symbol": "PUMPKIN",
+  "decimals": 6,
+  "coin_type": "0x7f616336069cdac8cfb094d3dde665ccd0534254f152c0c8885350a7880e5ddf::pumpkin::PUMPKIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_7e4a6bf56a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

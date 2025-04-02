@@ -1,0 +1,13 @@
+{
+  "name": "Kibooo The Cat",
+  "symbol": "KIBOOO",
+  "decimals": 6,
+  "coin_type": "0xf5d5f9f07304aedcd400fde486700e981e08e7ce34f40048590634e215b1b134::kibooo::KIBOOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730439164619.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BabySuiDoge",
+  "symbol": "BABYSUIDOGE",
+  "decimals": 2,
+  "coin_type": "0x00a8e3628380e7ed673dda8c2a50f540ed5ae6cece3d86856e45aa0579018901::BABYSUIDOGE::BABYSUIDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/VFkpBq-fdjvuOU2IrRdqu4tSN9utmI8qjA24L2On4lg?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

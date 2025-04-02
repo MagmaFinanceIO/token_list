@@ -1,0 +1,13 @@
+{
+  "name": "Impak AI",
+  "symbol": "ImpakAI",
+  "decimals": 9,
+  "coin_type": "0xc6495d36a89969b254e9a63f802749c80c0dd460f83cc23920297d788f9d2a5f::impakaia::IMPAKAIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Gyo11G9gSTGqxzt6B7BgcAy3z5JXS9M6Tdg6qZ84pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

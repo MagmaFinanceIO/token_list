@@ -1,0 +1,13 @@
+{
+  "name": "ABU DOGE",
+  "symbol": "ABUDOGE",
+  "decimals": 9,
+  "coin_type": "0x1e04d70d5b2be1c2bb9668369930010a7031ae684c235d83926af5915d6e7d75::abudoge::ABUDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/5ibKzbWQb2AmeI9p?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

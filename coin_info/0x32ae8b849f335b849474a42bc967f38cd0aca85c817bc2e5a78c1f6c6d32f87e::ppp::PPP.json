@@ -1,0 +1,13 @@
+{
+  "name": "pp",
+  "symbol": "ppp",
+  "decimals": 9,
+  "coin_type": "0x32ae8b849f335b849474a42bc967f38cd0aca85c817bc2e5a78c1f6c6d32f87e::ppp::PPP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

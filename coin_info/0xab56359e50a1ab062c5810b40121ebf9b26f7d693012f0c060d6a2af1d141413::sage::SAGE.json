@@ -1,0 +1,13 @@
+{
+  "name": "Suisage",
+  "symbol": "SAGE",
+  "decimals": 9,
+  "coin_type": "0xab56359e50a1ab062c5810b40121ebf9b26f7d693012f0c060d6a2af1d141413::sage::SAGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DNQCkpexG5KBxpyesr2Rt9tFJ1Yaw9xL6fDMNBF4pump.png?size=lg&key=ffea49",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

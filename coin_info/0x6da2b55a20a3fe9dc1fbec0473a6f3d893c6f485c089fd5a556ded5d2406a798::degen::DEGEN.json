@@ -1,0 +1,13 @@
+{
+  "name": "Lowq Degen",
+  "symbol": "DEGEN",
+  "decimals": 9,
+  "coin_type": "0x6da2b55a20a3fe9dc1fbec0473a6f3d893c6f485c089fd5a556ded5d2406a798::degen::DEGEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/F38KkrNY94u781sTEHssTbzPaDytZsmYzpkaQW44pump.png?size=lg&key=340db8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

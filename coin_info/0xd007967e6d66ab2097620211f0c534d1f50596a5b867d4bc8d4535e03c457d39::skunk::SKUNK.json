@@ -1,0 +1,13 @@
+{
+  "name": "SKUNKY COIN",
+  "symbol": "SKUNK",
+  "decimals": 9,
+  "coin_type": "0xd007967e6d66ab2097620211f0c534d1f50596a5b867d4bc8d4535e03c457d39::skunk::SKUNK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/55219dac-a799-4efe-a03f-cd04ebe788ff.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

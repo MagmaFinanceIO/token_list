@@ -1,0 +1,13 @@
+{
+  "name": "Nami",
+  "symbol": "NAMI",
+  "decimals": 9,
+  "coin_type": "0x5767c6596f7d458148d3ca47b69382bbb5af4bf1ce2e31ad0fcbda689d8e5d1e::nami::NAMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/33bbb1fc-edba-4645-881f-4e07db260ec8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

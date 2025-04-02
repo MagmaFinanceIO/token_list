@@ -1,0 +1,13 @@
+{
+  "name": "POPCAT",
+  "symbol": "POPCAT",
+  "decimals": 2,
+  "coin_type": "0xa8718237bf9759890227a88319ec6d5c75b5a7d96e49f78dd412c5604a85cfd3::POPCAT::POPCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/s6VKsUsYKXFGjMZN0NEJkGmVPbaWF3a-sPK6n75VKnw?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

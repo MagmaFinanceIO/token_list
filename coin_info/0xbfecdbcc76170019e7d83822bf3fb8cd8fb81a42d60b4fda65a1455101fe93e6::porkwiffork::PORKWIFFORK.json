@@ -1,0 +1,13 @@
+{
+  "name": "PorkWifFork",
+  "symbol": "PorkWifFork",
+  "decimals": 9,
+  "coin_type": "0xbfecdbcc76170019e7d83822bf3fb8cd8fb81a42d60b4fda65a1455101fe93e6::porkwiffork::PORKWIFFORK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0e981f8a-89e4-4461-ad8b-1b26f517f37d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Banana Bird",
+  "symbol": "BB",
+  "decimals": 6,
+  "coin_type": "0x91c89c92c48f3c452708db7d15f99e4c2b79fd2fea3b892d1214ff3ae9ba580b::bb::BB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000057358_5b7b1c9ff3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

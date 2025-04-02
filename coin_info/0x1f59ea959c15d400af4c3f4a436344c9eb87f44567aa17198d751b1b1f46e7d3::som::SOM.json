@@ -1,0 +1,13 @@
+{
+  "name": "Somputer",
+  "symbol": "SOM",
+  "decimals": 9,
+  "coin_type": "0x1f59ea959c15d400af4c3f4a436344c9eb87f44567aa17198d751b1b1f46e7d3::som::SOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6xQZpYtd8vmPWFa34dB5nGi8rTGPuQ3557FVAnZtYWes.png?size=lg&key=4cdf0f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

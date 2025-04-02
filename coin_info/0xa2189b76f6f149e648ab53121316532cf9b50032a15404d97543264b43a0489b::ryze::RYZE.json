@@ -1,0 +1,13 @@
+{
+  "name": "Ryze",
+  "symbol": "RYZE",
+  "decimals": 9,
+  "coin_type": "0xa2189b76f6f149e648ab53121316532cf9b50032a15404d97543264b43a0489b::ryze::RYZE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/J2Ed3fguv8fNE7Z2CMffhbo7YwHCS7mfvBebgpRppump.png?size=lg&key=123681",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

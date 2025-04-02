@@ -1,0 +1,13 @@
+{
+  "name": "SKRYPT on SUI",
+  "symbol": "SKRYPT",
+  "decimals": 9,
+  "coin_type": "0xe4cb50566b6ba224276e65036a22a67e83a398d55234b5bdc9a36705abfc4c72::skrypt::SKRYPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQEajVqLS6TgHXhBdQgWrGnJEC4wnL4kzDKYTshLyh5f1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

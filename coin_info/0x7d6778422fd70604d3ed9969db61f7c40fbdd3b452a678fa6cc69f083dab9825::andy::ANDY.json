@@ -1,0 +1,13 @@
+{
+  "name": "Andy On Sui",
+  "symbol": "Andy",
+  "decimals": 9,
+  "coin_type": "0x7d6778422fd70604d3ed9969db61f7c40fbdd3b452a678fa6cc69f083dab9825::andy::ANDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4fe21967-0e22-49ec-83e0-2ac799a9ea62.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

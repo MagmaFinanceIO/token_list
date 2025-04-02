@@ -1,0 +1,13 @@
+{
+  "name": "WILD WHALE",
+  "symbol": "WWHL",
+  "decimals": 6,
+  "coin_type": "0x51012436320102d89d0b374d6af6f25de92a021d6bcf321bce7e7d96a24618fe::wwhl::WWHL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_21_043739771_3a9fbca7bd.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

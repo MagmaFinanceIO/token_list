@@ -1,0 +1,13 @@
+{
+  "name": "CatFrog onSui",
+  "symbol": "CATF",
+  "decimals": 6,
+  "coin_type": "0x0ffc3cefb42038b9df1d0835f132307a137993c4ea3c52d5f7e07e82835ce409::catf::CATF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/4f399a5f_1ed4_4113_8deb_330b76ac9e68_afbbf0ae3d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

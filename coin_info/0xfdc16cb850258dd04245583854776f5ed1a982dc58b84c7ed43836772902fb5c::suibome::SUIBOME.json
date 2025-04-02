@@ -1,0 +1,13 @@
+{
+  "name": "Bluebome",
+  "symbol": "Suibome",
+  "decimals": 6,
+  "coin_type": "0xfdc16cb850258dd04245583854776f5ed1a982dc58b84c7ed43836772902fb5c::suibome::SUIBOME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_8887_38826bbbca.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

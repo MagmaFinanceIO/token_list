@@ -1,0 +1,13 @@
+{
+  "name": "MUTE",
+  "symbol": "MUTE",
+  "decimals": 6,
+  "coin_type": "0x1fc89d5bf139975252e62e7d07451bfa1192f91cc9e2e4868a9a617f12922be7::mute::MUTE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/h0omlTj.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

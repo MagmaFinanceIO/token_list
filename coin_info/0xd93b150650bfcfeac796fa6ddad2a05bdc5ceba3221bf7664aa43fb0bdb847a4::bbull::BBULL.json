@@ -1,0 +1,13 @@
+{
+  "name": "Blue Bull",
+  "symbol": "BBULL",
+  "decimals": 6,
+  "coin_type": "0xd93b150650bfcfeac796fa6ddad2a05bdc5ceba3221bf7664aa43fb0bdb847a4::bbull::BBULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/78747c96-d73c-40ae-817b-e6f65137bbec.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

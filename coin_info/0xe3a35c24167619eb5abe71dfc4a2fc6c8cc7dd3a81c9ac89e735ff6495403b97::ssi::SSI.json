@@ -1,0 +1,13 @@
+{
+  "name": "Space Shiba Inu",
+  "symbol": "SSI",
+  "decimals": 9,
+  "coin_type": "0xe3a35c24167619eb5abe71dfc4a2fc6c8cc7dd3a81c9ac89e735ff6495403b97::ssi::SSI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6wosGoDaUkHUPLRcZitWhNzCoPmFjS6F8Jo3gQjppump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

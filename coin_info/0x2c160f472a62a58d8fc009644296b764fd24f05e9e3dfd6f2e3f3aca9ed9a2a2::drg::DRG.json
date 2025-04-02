@@ -1,0 +1,13 @@
+{
+  "name": "Dragon",
+  "symbol": "DRG",
+  "decimals": 9,
+  "coin_type": "0x2c160f472a62a58d8fc009644296b764fd24f05e9e3dfd6f2e3f3aca9ed9a2a2::drg::DRG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c0573d4a-09e9-4073-a6c1-345b204b8bd9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

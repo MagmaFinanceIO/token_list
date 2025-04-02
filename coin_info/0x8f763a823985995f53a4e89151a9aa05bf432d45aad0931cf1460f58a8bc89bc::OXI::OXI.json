@@ -1,0 +1,13 @@
+{
+  "name": "OXI",
+  "symbol": "OXI",
+  "decimals": 9,
+  "coin_type": "0x8f763a823985995f53a4e89151a9aa05bf432d45aad0931cf1460f58a8bc89bc::OXI::OXI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://caposui.xyz/assets/img/nobgcapo.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

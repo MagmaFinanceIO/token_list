@@ -1,0 +1,13 @@
+{
+  "name": "ELYS",
+  "symbol": "ELYS",
+  "decimals": 9,
+  "coin_type": "0x25f9614daf824fc7ad027015debdd805fd49f72753fb53751a69692689a09bc7::elys::ELYS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1731847599370420224/qCiGEbe0_400x400.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

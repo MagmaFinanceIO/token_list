@@ -1,0 +1,13 @@
+{
+  "name": "Baby Moby",
+  "symbol": "BMOBY",
+  "decimals": 9,
+  "coin_type": "0x02a33b8eed212160572c32d479718a9223b3f9ec52c910566d2606e86753b6f6::bmoby::BMOBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qma4QewVM6g72E56ZUnDZsSbCuA3FFKgd3uSPdy7ju9t9s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

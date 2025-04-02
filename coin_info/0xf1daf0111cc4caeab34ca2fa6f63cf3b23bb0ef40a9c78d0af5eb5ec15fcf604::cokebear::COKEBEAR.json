@@ -1,0 +1,13 @@
+{
+  "name": "CokeBearAI",
+  "symbol": "COKEBEAR",
+  "decimals": 9,
+  "coin_type": "0xf1daf0111cc4caeab34ca2fa6f63cf3b23bb0ef40a9c78d0af5eb5ec15fcf604::cokebear::COKEBEAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6xwfKPYhbHnqhuQEXd3td2quWSxWEqVXUWKD1XeCc5Ce.png?size=lg&key=a1f88d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

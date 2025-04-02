@@ -1,0 +1,13 @@
+{
+  "name": "DUCK",
+  "symbol": "DUCK",
+  "decimals": 6,
+  "coin_type": "0x215eb8cf5c54f9e6731b34fec902efb7b79f6715e0e4abbc8c4813885941c73b::duck::DUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/duck.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

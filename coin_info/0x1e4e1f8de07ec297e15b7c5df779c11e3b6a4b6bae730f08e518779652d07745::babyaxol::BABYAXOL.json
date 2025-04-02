@@ -1,0 +1,13 @@
+{
+  "name": "BabyAXOL",
+  "symbol": "BabyAxol",
+  "decimals": 6,
+  "coin_type": "0x1e4e1f8de07ec297e15b7c5df779c11e3b6a4b6bae730f08e518779652d07745::babyaxol::BABYAXOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/33099630265425511111_ezgif_com_optimize_1_5452e82c60.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

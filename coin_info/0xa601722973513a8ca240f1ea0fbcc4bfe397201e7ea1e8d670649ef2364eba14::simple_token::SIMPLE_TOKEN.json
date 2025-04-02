@@ -1,0 +1,13 @@
+{
+  "name": "JUJUSUI",
+  "symbol": "JUJUSUI",
+  "decimals": 9,
+  "coin_type": "0xa601722973513a8ca240f1ea0fbcc4bfe397201e7ea1e8d670649ef2364eba14::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Ponke",
+  "symbol": "SuiPonke",
+  "decimals": 9,
+  "coin_type": "0x4565e36131a376ea5e3f5d1cf9d19738294f6027995da6280339551d1b6d9e34::suiponke::SUIPONKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/bafkreidzgrlu4sbz36yl42idg6txzmw6gwv45wfaj23hxe7hpbqgxb2q6m",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

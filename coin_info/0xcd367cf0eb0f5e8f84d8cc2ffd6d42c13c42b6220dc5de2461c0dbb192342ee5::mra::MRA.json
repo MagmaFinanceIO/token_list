@@ -1,0 +1,13 @@
+{
+  "name": "MRA",
+  "symbol": "MRA",
+  "decimals": 9,
+  "coin_type": "0xcd367cf0eb0f5e8f84d8cc2ffd6d42c13c42b6220dc5de2461c0dbb192342ee5::mra::MRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "YESONSUI",
+  "symbol": "YSI",
+  "decimals": 6,
+  "coin_type": "0x8608305133ee31fd3920292d1d3acd5a5bae9b6b0f8b5fc3b0068fe44c011bfa::ysi::YSI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/mqdefault_9ed27e9899.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

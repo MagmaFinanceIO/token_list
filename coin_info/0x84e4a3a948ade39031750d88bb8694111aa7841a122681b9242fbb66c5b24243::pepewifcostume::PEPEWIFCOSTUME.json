@@ -1,0 +1,13 @@
+{
+  "name": "PepeWifCostume",
+  "symbol": "PepeWifCostume",
+  "decimals": 9,
+  "coin_type": "0x84e4a3a948ade39031750d88bb8694111aa7841a122681b9242fbb66c5b24243::pepewifcostume::PEPEWIFCOSTUME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bb90fc96-1094-434c-8f7e-85b4c8e56924.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

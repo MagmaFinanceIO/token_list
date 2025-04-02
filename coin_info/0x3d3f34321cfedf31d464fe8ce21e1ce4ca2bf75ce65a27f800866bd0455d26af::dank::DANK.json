@@ -1,0 +1,13 @@
+{
+  "name": "DankBoyOnSui",
+  "symbol": "DANK",
+  "decimals": 9,
+  "coin_type": "0x3d3f34321cfedf31d464fe8ce21e1ce4ca2bf75ce65a27f800866bd0455d26af::dank::DANK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/jFArmo3c3AtkHRUxVkBe81V9ha34Xbpe5zYmZ9cDANK.png?size=lg&key=096d22",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

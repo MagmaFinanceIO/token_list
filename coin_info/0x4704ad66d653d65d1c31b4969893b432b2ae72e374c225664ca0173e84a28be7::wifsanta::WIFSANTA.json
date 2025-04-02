@@ -1,0 +1,13 @@
+{
+  "name": "DogWifSantaHat",
+  "symbol": "WIFSANTA",
+  "decimals": 9,
+  "coin_type": "0x4704ad66d653d65d1c31b4969893b432b2ae72e374c225664ca0173e84a28be7::wifsanta::WIFSANTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQZLwVhqujqwVnV2EZJ8pJoVWitRgcnJU3o5FZwvS3DGD",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

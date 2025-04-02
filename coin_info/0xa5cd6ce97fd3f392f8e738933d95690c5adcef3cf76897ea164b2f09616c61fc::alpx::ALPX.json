@@ -1,0 +1,13 @@
+{
+  "name": "ALPHABOT 3000",
+  "symbol": "ALPX",
+  "decimals": 9,
+  "coin_type": "0xa5cd6ce97fd3f392f8e738933d95690c5adcef3cf76897ea164b2f09616c61fc::alpx::ALPX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1d357664-181e-43dc-9387-3a96b6725ccf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

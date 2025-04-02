@@ -1,0 +1,13 @@
+{
+  "name": "DRAGON FACE",
+  "symbol": "DRAGONFACE",
+  "decimals": 6,
+  "coin_type": "0x8aa9888a3c746cac35bb778eeccf296868a19c780bb88644aa0795e979ad173b::dragonface::DRAGONFACE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/dragonface.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

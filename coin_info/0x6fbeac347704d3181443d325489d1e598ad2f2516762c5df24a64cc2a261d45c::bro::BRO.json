@@ -1,0 +1,13 @@
+{
+  "name": "Booty, Riches, Opportunity",
+  "symbol": "BRO",
+  "decimals": 9,
+  "coin_type": "0x6fbeac347704d3181443d325489d1e598ad2f2516762c5df24a64cc2a261d45c::bro::BRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5Edr1u1rQRZTa6QykPhjQ2waA4sunZGasuo4AcRMpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

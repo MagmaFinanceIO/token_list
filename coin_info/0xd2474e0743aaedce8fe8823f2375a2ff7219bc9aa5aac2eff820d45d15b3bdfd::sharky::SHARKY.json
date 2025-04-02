@@ -1,0 +1,13 @@
+{
+  "name": "SHARKY",
+  "symbol": "Sui Sharky",
+  "decimals": 6,
+  "coin_type": "0xd2474e0743aaedce8fe8823f2375a2ff7219bc9aa5aac2eff820d45d15b3bdfd::sharky::SHARKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0x1a033e52c3b72a4bebb34fee1b323a8dec0654e7efda00186659eece1f775574::sharky::sharky.png?size=xl&key=095715",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

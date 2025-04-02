@@ -1,0 +1,13 @@
+{
+  "name": "Solana Halloween",
+  "symbol": "SOLAWEEN",
+  "decimals": 9,
+  "coin_type": "0x407be2e63ad614c2aba179b1b1bb0bf063b5952851365d18a8cdf483f6f36722::solaween::SOLAWEEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2axC2gK7gxmWq1xYoftynZHaraHnTAQ59XobYfyapump.png?size=lg&key=fba466",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

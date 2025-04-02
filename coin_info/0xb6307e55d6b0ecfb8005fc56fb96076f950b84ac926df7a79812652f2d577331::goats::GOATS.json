@@ -1,0 +1,13 @@
+{
+  "name": "Goats n’ Boats Sui",
+  "symbol": "GOATS",
+  "decimals": 9,
+  "coin_type": "0xb6307e55d6b0ecfb8005fc56fb96076f950b84ac926df7a79812652f2d577331::goats::GOATS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8ac29532-4b53-4fea-81ac-56c3aab233fd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SQUANTUM",
+  "symbol": "SQUANTUM",
+  "decimals": 9,
+  "coin_type": "0xf5587beed9cd2c552e6e75fb04e66d2604d9ce68b28958f8e6b9ce4b5a2a6ed2::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

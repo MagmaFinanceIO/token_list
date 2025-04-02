@@ -1,0 +1,13 @@
+{
+  "name": "Aixbt Agent",
+  "symbol": "AIXBT",
+  "decimals": 9,
+  "coin_type": "0x71263fad2e920a81fe7e19b611d8041a54cb5629705ccd3e81ca34ae143190e8::aixbt::AIXBT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/12bH5Qvhk2JxrYHckyEkVxZSMrQ4yyncFFQzCmiw6oue.png?size=lg&key=1ca8cf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

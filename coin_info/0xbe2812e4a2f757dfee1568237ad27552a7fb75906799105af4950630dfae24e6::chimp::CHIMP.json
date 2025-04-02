@@ -1,0 +1,13 @@
+{
+  "name": "Chimp King",
+  "symbol": "CHIMP",
+  "decimals": 9,
+  "coin_type": "0xbe2812e4a2f757dfee1568237ad27552a7fb75906799105af4950630dfae24e6::chimp::CHIMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/86adb0d1-ba2b-40ae-9fca-95adc8dc8962.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

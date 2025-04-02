@@ -1,0 +1,13 @@
+{
+  "name": "KOI",
+  "symbol": "KOI",
+  "decimals": 6,
+  "coin_type": "0x97c293434003e00280465c926de02f83d0572321eeef54f70b1c4741ddd423be::Koi::KOI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/24f9c62a-6c78-4c5f-b279-6f66a0409eb1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

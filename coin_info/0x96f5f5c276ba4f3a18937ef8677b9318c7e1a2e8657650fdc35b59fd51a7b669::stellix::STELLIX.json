@@ -1,0 +1,13 @@
+{
+  "name": "Stellix Protocol",
+  "symbol": "STELLIX",
+  "decimals": 9,
+  "coin_type": "0x96f5f5c276ba4f3a18937ef8677b9318c7e1a2e8657650fdc35b59fd51a7b669::stellix::STELLIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FtW6b2YuDyiwGsXMEBocJQAYXcCv9xNz4zAmeRjFpump.png?size=lg&key=ab1264",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

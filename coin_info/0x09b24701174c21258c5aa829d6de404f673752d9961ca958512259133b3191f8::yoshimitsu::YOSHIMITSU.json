@@ -1,0 +1,13 @@
+{
+  "name": "Yoshimitsu",
+  "symbol": "YOSHIMITSU",
+  "decimals": 9,
+  "coin_type": "0x09b24701174c21258c5aa829d6de404f673752d9961ca958512259133b3191f8::yoshimitsu::YOSHIMITSU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/540/638/large/carlos-suzara-yoshimitsu-beauty-2-min.jpg?1727847477",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

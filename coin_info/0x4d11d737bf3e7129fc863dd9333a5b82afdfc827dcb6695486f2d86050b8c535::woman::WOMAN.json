@@ -1,0 +1,13 @@
+{
+  "name": "SUI WOMAN",
+  "symbol": "WOMAN",
+  "decimals": 9,
+  "coin_type": "0x4d11d737bf3e7129fc863dd9333a5b82afdfc827dcb6695486f2d86050b8c535::woman::WOMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/614ac2c7-0b70-4891-97a3-8f07f5c86084.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ABACUS AI AGENTS",
+  "symbol": "ABACUS",
+  "decimals": 9,
+  "coin_type": "0x77558e9a34cb2a9c6ccde8c357ec89876bd0ae19a95fd06f5a9c4471de55b487::abacus::ABACUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/3BBBtcOOXFRt2nt9?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

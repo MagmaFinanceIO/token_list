@@ -1,0 +1,13 @@
+{
+  "name": "Bakeneko",
+  "symbol": "BAKENEKO",
+  "decimals": 9,
+  "coin_type": "0x21ed122323e4d62942ef703e3b3242a2c1deb7eaaea25685336c68342ce6451f::bakeneko::BAKENEKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HkwWkJVWiUwPDncz8zQkyuNFGsV6Qs5BZyJvLNK9f5v.png?size=lg&key=371bae",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

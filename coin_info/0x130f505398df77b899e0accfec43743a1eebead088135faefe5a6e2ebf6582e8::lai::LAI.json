@@ -1,0 +1,13 @@
+{
+  "name": "Laika AI",
+  "symbol": "LAI",
+  "decimals": 9,
+  "coin_type": "0x130f505398df77b899e0accfec43743a1eebead088135faefe5a6e2ebf6582e8::lai::LAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/bsc/0x1865dc79a9e4b5751531099057d7ee801033d268.png?size=lg&key=bde3e1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

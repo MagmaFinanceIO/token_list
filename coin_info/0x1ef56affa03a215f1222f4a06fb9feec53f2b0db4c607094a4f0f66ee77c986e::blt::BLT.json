@@ -1,0 +1,13 @@
+{
+  "name": "BLTCOIN",
+  "symbol": "BLT",
+  "decimals": 9,
+  "coin_type": "0x1ef56affa03a215f1222f4a06fb9feec53f2b0db4c607094a4f0f66ee77c986e::blt::BLT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BYDrEVy1Loiehw7jYj8Tdjpk4NhA1AF6CBfQBhPCpump.png?size=lg&key=133770",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

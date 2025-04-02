@@ -1,0 +1,13 @@
+{
+  "name": "TSUINAMI",
+  "symbol": "TSUI",
+  "decimals": 6,
+  "coin_type": "0x7aca2327eed3dcdce564d92429db95ce090eb2c5ffa7e34a883889fd7c32cd15::tsui::TSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000004480_ac457051dd.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

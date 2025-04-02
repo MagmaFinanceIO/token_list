@@ -1,0 +1,13 @@
+{
+  "name": "HeyAnon",
+  "symbol": "Anon",
+  "decimals": 9,
+  "coin_type": "0x665dc7d780cd55ebe11bd5ee5dcf2531cf355492dd35548e881424cc7f7cbab1::anon::ANON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9McvH6w97oewLmPxqQEoHUAv3u5iYMyQ9AeZZhguYf1T.png?size=lg&key=835c33",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui_Corgi_Magic_Tales  2234",
+  "symbol": "Sui_Corgi_Magic_Tales",
+  "decimals": 9,
+  "coin_type": "0x37a44e212b9e2a37c229f5a256562a520e0b2398a20a0efe2e6d59223da86808::sui_corgi_magic_tales::SUI_CORGI_MAGIC_TALES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0ae510f6-90f2-4854-b580-fa31de1d15a7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

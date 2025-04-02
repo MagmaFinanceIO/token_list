@@ -1,0 +1,13 @@
+{
+  "name": "ATLANTIS AGENT",
+  "symbol": "ATL",
+  "decimals": 6,
+  "coin_type": "0xd45586b1b7132814338afd23f294fcaa939c6106e455d9b5cc9a0af0fa93c84c::atl::ATL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/LOGO_ATLANTIS_AGENT_65a682c215.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

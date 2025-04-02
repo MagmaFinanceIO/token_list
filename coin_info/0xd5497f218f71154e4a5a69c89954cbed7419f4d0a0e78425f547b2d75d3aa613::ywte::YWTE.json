@@ -1,0 +1,13 @@
+{
+  "name": "Torah Everywhere",
+  "symbol": "YWTE",
+  "decimals": 9,
+  "coin_type": "0xd5497f218f71154e4a5a69c89954cbed7419f4d0a0e78425f547b2d75d3aa613::ywte::YWTE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bceafb1d-0661-4870-ba05-ca5c2c4291e1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

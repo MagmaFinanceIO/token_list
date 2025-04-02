@@ -1,0 +1,13 @@
+{
+  "name": "Asamimi Sui",
+  "symbol": "ASAMIMI",
+  "decimals": 9,
+  "coin_type": "0x928bfb54897eff88c74ccce103ce97032f7724cdfdc13e34562a8b6952c50eb3::asamimi::ASAMIMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a2dc2698-77c9-46d4-80f5-2c5d6048fa45.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

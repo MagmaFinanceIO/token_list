@@ -1,0 +1,13 @@
+{
+  "name": "TROLLS",
+  "symbol": "TROLL",
+  "decimals": 6,
+  "coin_type": "0x6d10c99585481862e69805db62fd90a744b5e00bcf406ca499bb2d7c6e609cbf::troll::TROLL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000060316_e9998fd261.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

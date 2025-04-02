@@ -1,0 +1,13 @@
+{
+  "name": "LEGO'S NEW MASCOT",
+  "symbol": "LEGO",
+  "decimals": 9,
+  "coin_type": "0x74a9784b1975d759a12948b37dc2502cde9592c566ac7e2ff405fbc6dd99fbfb::lego::LEGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/34MbLAUvDAiFwRgvDxrP7HR7TMJ2t42E9mD7QBsGpump.png?size=lg&key=54e4d2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

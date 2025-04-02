@@ -1,0 +1,13 @@
+{
+  "name": "PINGO SUI",
+  "symbol": "PINGO",
+  "decimals": 6,
+  "coin_type": "0x6a8cad793a033c4452c633fddb1b01f270939a7266165c38c76c74c40b5fb2b8::pingo::PINGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Whats_App_Image_2024_10_26_at_18_28_18_58023748f4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

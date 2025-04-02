@@ -1,0 +1,13 @@
+{
+  "name": "DEAL WT-ME",
+  "symbol": "DEAL",
+  "decimals": 6,
+  "coin_type": "0xdc117a29c02f6431ddcab431fa94fa29ca2c1d3d6e3a6b7008f4ad45f64c19f2::deal::DEAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736444445833.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

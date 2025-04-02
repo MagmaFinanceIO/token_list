@@ -1,0 +1,13 @@
+{
+  "name": "Zynex AI",
+  "symbol": "ZYNEX",
+  "decimals": 9,
+  "coin_type": "0xf9ad2b86778e2973da760e9577fc12c9f5a850a220cbdde5c7931b87d4983c90::zynex::ZYNEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/tAwSdoPSSvTZaup9PB5mXtqPDhdw9ypzNp1Vypipump.png?size=lg&key=eb70d1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

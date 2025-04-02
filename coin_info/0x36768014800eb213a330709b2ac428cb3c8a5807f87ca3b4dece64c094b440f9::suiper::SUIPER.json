@@ -1,0 +1,13 @@
+{
+  "name": "Suipercycle",
+  "symbol": "SUIPER",
+  "decimals": 6,
+  "coin_type": "0x36768014800eb213a330709b2ac428cb3c8a5807f87ca3b4dece64c094b440f9::suiper::SUIPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1733319913055.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SIGMA BOYS",
+  "symbol": "BOYS",
+  "decimals": 9,
+  "coin_type": "0x88eb99c45b847060f73b698afa4a7bfe0deb109a0b8e38334876485525c1b4a6::boys::BOYS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HsdGjX2yDJm7cfAo5Un7MGdpZkhx44f4cZSAftspump.png?size=xl&key=15b3a3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

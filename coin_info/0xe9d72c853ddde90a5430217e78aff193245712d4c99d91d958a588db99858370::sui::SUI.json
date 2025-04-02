@@ -1,0 +1,13 @@
+{
+  "name": "SUI6900",
+  "symbol": "SUI",
+  "decimals": 6,
+  "coin_type": "0xe9d72c853ddde90a5430217e78aff193245712d4c99d91d958a588db99858370::sui::SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/sui69logo_11b3ab2966.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

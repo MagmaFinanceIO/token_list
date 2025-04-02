@@ -1,0 +1,13 @@
+{
+  "name": "TOKENA by SuiAI",
+  "symbol": "TOKENA",
+  "decimals": 6,
+  "coin_type": "0xda6978501504f109d687fa848b3ba481869771fd7b7015fb75943e3436eca67d::tokena::TOKENA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/photo_2024_12_30_09_37_07_c3ad8ffb53.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

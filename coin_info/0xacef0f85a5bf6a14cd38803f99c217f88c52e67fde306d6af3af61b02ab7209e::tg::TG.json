@@ -1,0 +1,13 @@
+{
+  "name": "TOP G",
+  "symbol": "TG",
+  "decimals": 9,
+  "coin_type": "0xacef0f85a5bf6a14cd38803f99c217f88c52e67fde306d6af3af61b02ab7209e::tg::TG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

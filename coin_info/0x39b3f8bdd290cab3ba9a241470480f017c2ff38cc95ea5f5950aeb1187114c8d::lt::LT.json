@@ -1,0 +1,13 @@
+{
+  "name": "LITHIUM",
+  "symbol": "LT",
+  "decimals": 9,
+  "coin_type": "0x39b3f8bdd290cab3ba9a241470480f017c2ff38cc95ea5f5950aeb1187114c8d::lt::LT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c02e3300-0b8e-4a62-8be7-6a98301f0a5b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AzurCryptus",
+  "symbol": "Azur",
+  "decimals": 6,
+  "coin_type": "0x6c3da5d16c4ad3e622dd27e12e5e58a7df804a87553ac95243e056ebb42ad9e9::azur::AZUR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735443140053.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Make Meme Great Again",
+  "symbol": "MMGA",
+  "decimals": 9,
+  "coin_type": "0xfc4edb4920bdb31044dc09b7c597ad19403a73c2e11d2132873cfafb81db59e8::mmga::MMGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://raw.githubusercontent.com/mmgammga/mmga/refs/heads/main/mmga%20logo%20(1).png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "LFGrok",
+  "symbol": "GROK",
+  "decimals": 9,
+  "coin_type": "0xf1b7828ec0b57fb663b5684f6d9986e1c1af56930093cfd850e259e7987f2009::grok::GROK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api-mainnet.suifrens.sui.io/suifrens/0x1e60e271316307a92af02b526485e8684d402b12f726089c57051c8305596872/svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

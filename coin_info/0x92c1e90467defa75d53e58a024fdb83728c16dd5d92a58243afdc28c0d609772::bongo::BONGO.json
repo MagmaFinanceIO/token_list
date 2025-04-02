@@ -1,0 +1,13 @@
+{
+  "name": "Bongo Cat",
+  "symbol": "BONGO",
+  "decimals": 6,
+  "coin_type": "0x92c1e90467defa75d53e58a024fdb83728c16dd5d92a58243afdc28c0d609772::bongo::BONGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_08_21_04_16_23_9b533fae08.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

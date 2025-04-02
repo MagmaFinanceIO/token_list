@@ -1,0 +1,13 @@
+{
+  "name": "SuiLama",
+  "symbol": "Lama",
+  "decimals": 9,
+  "coin_type": "0x610ba073edf6f9eee02650ba02fd560fa0531580e07e24fe3449bf1116adb0b4::lama::LAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e4284a3c-cee7-4501-8118-a80ea6956048.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

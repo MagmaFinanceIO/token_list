@@ -1,0 +1,13 @@
+{
+  "name": "Shinnosuke",
+  "symbol": "Shin",
+  "decimals": 6,
+  "coin_type": "0xb4842fed578605ff273c5125891712d9a49ebf893509a97546eb151c7b14b39f::shin::SHIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_0692_0a5cbb11e9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

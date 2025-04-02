@@ -1,0 +1,13 @@
+{
+  "name": "RAT",
+  "symbol": "RAT",
+  "decimals": 9,
+  "coin_type": "0x78a00e334fc0a9db8f3b8e974aa8f29763370c284ed9a0ba62dbbbc58f9ee93d::rat::RAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6nt5LCBRv8UWvCVnLmNH1amtTxRyVHeBbBQ&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

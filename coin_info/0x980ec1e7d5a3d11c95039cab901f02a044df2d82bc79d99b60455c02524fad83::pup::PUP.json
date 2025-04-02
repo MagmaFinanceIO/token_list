@@ -1,0 +1,13 @@
+{
+  "name": "Pum Pup",
+  "symbol": "PUP",
+  "decimals": 9,
+  "coin_type": "0x980ec1e7d5a3d11c95039cab901f02a044df2d82bc79d99b60455c02524fad83::pup::PUP",
+  "pyth_id": "",
+  "birdeyeid": "0x980ec1e7d5a3d11c95039cab901f02a044df2d82bc79d99b60455c02524fad83::pup::PUP",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/pup.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

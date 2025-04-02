@@ -1,0 +1,13 @@
+{
+  "name": "Vaporeon",
+  "symbol": "VAPOREON",
+  "decimals": 8,
+  "coin_type": "0x84d155fb70aebcc1391bf497d8fc139154be745765dfec57faef4704f4112c79::vaporeon::VAPOREON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/bmG3krz/Vaporeon.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

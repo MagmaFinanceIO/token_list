@@ -1,0 +1,13 @@
+{
+  "name": "Ponke",
+  "symbol": "Ponke",
+  "decimals": 9,
+  "coin_type": "0xffccdc641788cf24f832306be1435f5105da9aa3658dcd313000386a10ccad88::ponke::PONKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/beeaae1f-524a-4936-8bd4-06fe6ef32973.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

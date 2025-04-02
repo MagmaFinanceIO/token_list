@@ -1,0 +1,13 @@
+{
+  "name": "CHIP",
+  "symbol": "CHIP",
+  "decimals": 9,
+  "coin_type": "0xc551cca7030cd4b7f4bb86543d67c2a7f90d1e5918eb5d21ecac485b92b276fe::chip::CHIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HVYe8bNb8fMdQxDurckf9S3t86uxfknez4XuNoJzpump.png?size=lg&key=469275",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

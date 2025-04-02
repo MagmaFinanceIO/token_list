@@ -1,0 +1,13 @@
+{
+  "name": "DONALD on SUI",
+  "symbol": "DONALD",
+  "decimals": 9,
+  "coin_type": "0x07c1f31dae5d64f202585883ac45f01876c245f53b52a9a5f4936285c726dd35::donald::DONALD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmSkwApkwf4wPveMx8oNMDzJndL3J6ctTa6JY1PBtgY7JU",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

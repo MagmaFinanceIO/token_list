@@ -1,0 +1,13 @@
+{
+  "name": "DeepSeek Pepe",
+  "symbol": "DPEPE",
+  "decimals": 9,
+  "coin_type": "0x303f55bb59904e3ecfed1e848d86a648b1179bb3a6b72575c9d7bb711a65b4bc::dpepe::DPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/mWVtYU7VocqgZjuBShoXS7QDw6YnRPeFQV9gLGzpump.png?size=lg&key=0bef99",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

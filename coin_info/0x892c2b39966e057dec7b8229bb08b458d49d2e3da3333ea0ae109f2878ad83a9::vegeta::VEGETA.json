@@ -1,0 +1,13 @@
+{
+  "name": "Vegeta",
+  "symbol": "VEGETA",
+  "decimals": 9,
+  "coin_type": "0x892c2b39966e057dec7b8229bb08b458d49d2e3da3333ea0ae109f2878ad83a9::vegeta::VEGETA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/840/680/large/vineet-kumar-04.jpg?1728653325",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

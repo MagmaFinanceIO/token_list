@@ -1,0 +1,13 @@
+{
+  "name": "PandaPaws",
+  "symbol": "PAWS",
+  "decimals": 6,
+  "coin_type": "0x4640c793cecc315c1e66d1adcc9825639f0274f4b609e02ac449273c0af85e7c::paws::PAWS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmeDe8Cy2kSsUa9zWuz3wt5pbpBrdysEWZBm2aGnHCmj2H",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

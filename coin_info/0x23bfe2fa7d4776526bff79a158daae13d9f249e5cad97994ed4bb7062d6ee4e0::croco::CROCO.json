@@ -1,0 +1,13 @@
+{
+  "name": "Croco",
+  "symbol": "Croco",
+  "decimals": 9,
+  "coin_type": "0x23bfe2fa7d4776526bff79a158daae13d9f249e5cad97994ed4bb7062d6ee4e0::croco::CROCO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/6ehFVRqxReZFueLu?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

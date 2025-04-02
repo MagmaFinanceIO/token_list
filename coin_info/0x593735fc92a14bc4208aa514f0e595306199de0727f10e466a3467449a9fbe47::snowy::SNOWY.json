@@ -1,0 +1,13 @@
+{
+  "name": "SnowyBear",
+  "symbol": "SNOWY",
+  "decimals": 6,
+  "coin_type": "0x593735fc92a14bc4208aa514f0e595306199de0727f10e466a3467449a9fbe47::snowy::SNOWY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/snowy_7452ca6c65.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

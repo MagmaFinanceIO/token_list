@@ -1,0 +1,13 @@
+{
+  "name": "Fart Ai Protocol",
+  "symbol": "FAP",
+  "decimals": 9,
+  "coin_type": "0xf34369f03bf1ce84a25043408ad420adab15c1518e729a064249569d887dcf09::fap::FAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmTc7f2MLZg1FAqefQBoxWqfKtzWyi5WXSxTh7rgN7rQbD",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

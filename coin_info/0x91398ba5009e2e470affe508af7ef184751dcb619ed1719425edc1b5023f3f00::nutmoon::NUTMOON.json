@@ -1,0 +1,13 @@
+{
+  "name": "PEANUT MOONSHOT",
+  "symbol": "NUTMOON",
+  "decimals": 9,
+  "coin_type": "0x91398ba5009e2e470affe508af7ef184751dcb619ed1719425edc1b5023f3f00::nutmoon::NUTMOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f208b758-0330-4eb8-bfd2-78ed987485d6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

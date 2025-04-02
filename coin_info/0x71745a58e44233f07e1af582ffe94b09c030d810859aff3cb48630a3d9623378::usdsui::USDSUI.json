@@ -1,0 +1,13 @@
+{
+  "name": "USDSUI",
+  "symbol": "USDSUI",
+  "decimals": 9,
+  "coin_type": "0x71745a58e44233f07e1af582ffe94b09c030d810859aff3cb48630a3d9623378::usdsui::USDSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d4731c4a-72fd-4a83-b71d-062b307ac2b3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

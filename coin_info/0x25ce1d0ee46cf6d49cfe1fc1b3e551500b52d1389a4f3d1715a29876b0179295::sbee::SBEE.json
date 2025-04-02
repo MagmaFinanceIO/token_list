@@ -1,0 +1,13 @@
+{
+  "name": "SuiYa Bee",
+  "symbol": "SBee",
+  "decimals": 6,
+  "coin_type": "0x25ce1d0ee46cf6d49cfe1fc1b3e551500b52d1389a4f3d1715a29876b0179295::sbee::SBEE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/16d0c57f_3863_422a_bcc5_0a27b0d2b0e1_61959ca6d3.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

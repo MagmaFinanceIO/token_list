@@ -1,0 +1,13 @@
+{
+  "name": "PANDA EXPRESS",
+  "symbol": "PANEX",
+  "decimals": 9,
+  "coin_type": "0xd795d0820aee83fac71791283ef1199364688efa014ac1f06fb31c8414880af8::panex::PANEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3c641bf1-c667-4674-a117-b2ccec8b623e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

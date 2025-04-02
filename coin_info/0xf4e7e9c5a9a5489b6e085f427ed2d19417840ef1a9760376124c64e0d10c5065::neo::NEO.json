@@ -1,0 +1,13 @@
+{
+  "name": "NEO AI",
+  "symbol": "NEO",
+  "decimals": 9,
+  "coin_type": "0xf4e7e9c5a9a5489b6e085f427ed2d19417840ef1a9760376124c64e0d10c5065::neo::NEO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/D9mCVAP9eby1NSUkyDKJHWfCPvQQyTDHTiPY5Ddopump.png?size=lg&key=12fc15",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

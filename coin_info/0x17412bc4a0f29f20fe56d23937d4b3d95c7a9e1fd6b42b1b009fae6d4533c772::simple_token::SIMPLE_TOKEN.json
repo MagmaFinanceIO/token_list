@@ -1,0 +1,13 @@
+{
+  "name": "Titan on Sui",
+  "symbol": "TITANSUI",
+  "decimals": 9,
+  "coin_type": "0x17412bc4a0f29f20fe56d23937d4b3d95c7a9e1fd6b42b1b009fae6d4533c772::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

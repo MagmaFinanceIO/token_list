@@ -1,0 +1,13 @@
+{
+  "name": "AGENTSYS AI",
+  "symbol": "AGSYS",
+  "decimals": 9,
+  "coin_type": "0xe259f7ff64831b876077c9dc4761f401955d00da182bb6ee314e3aac70564ea8::agsys::AGSYS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x9ba77c059b5a59a220aa648a6bd97986fb1bf0a9.png?size=lg&key=73373e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

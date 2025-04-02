@@ -1,0 +1,13 @@
+{
+  "name": "MINIonSUI",
+  "symbol": "MINI",
+  "decimals": 6,
+  "coin_type": "0xdd282368a235f80be563754d2ba1962a8bc9946a8c3019a0c6b84682e2c2ebaa::mini::MINI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/mini_0f92e347ae.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

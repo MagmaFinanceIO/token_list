@@ -1,0 +1,13 @@
+{
+  "name": "VRAM.AI",
+  "symbol": "VRAM",
+  "decimals": 9,
+  "coin_type": "0x47aad0f070dbb7233932f3403bcf7d9d9485bd1ae1c641988a521f8ed0898861::vram::VRAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/19547f4e-4304-4593-a159-9539b77822f2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

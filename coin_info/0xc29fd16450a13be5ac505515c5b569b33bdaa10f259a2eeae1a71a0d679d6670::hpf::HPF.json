@@ -1,0 +1,13 @@
+{
+  "name": "Hopfun",
+  "symbol": "HPF",
+  "decimals": 6,
+  "coin_type": "0xc29fd16450a13be5ac505515c5b569b33bdaa10f259a2eeae1a71a0d679d6670::hpf::HPF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmQvXjD3avEQMvYHXK9qGPA4ixefgNqQXLfyd5PiLz3y35",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

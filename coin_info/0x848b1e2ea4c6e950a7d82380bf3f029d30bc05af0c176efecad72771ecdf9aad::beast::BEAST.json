@@ -1,0 +1,13 @@
+{
+  "name": "Sui Beast",
+  "symbol": "Beast",
+  "decimals": 6,
+  "coin_type": "0x848b1e2ea4c6e950a7d82380bf3f029d30bc05af0c176efecad72771ecdf9aad::beast::BEAST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ca23f9c5-2074-438e-90ed-832264f83891.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

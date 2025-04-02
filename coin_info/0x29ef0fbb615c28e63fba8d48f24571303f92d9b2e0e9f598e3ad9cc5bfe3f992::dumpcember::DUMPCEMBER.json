@@ -1,0 +1,13 @@
+{
+  "name": "DUMPCEMBER SUI",
+  "symbol": "DUMPCEMBER",
+  "decimals": 6,
+  "coin_type": "0x29ef0fbb615c28e63fba8d48f24571303f92d9b2e0e9f598e3ad9cc5bfe3f992::dumpcember::DUMPCEMBER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/6309616238875231242_e5c52a3d70.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

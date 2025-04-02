@@ -1,0 +1,13 @@
+{
+  "name": "BOBO",
+  "symbol": "BOBO ESCOBAR",
+  "decimals": 9,
+  "coin_type": "0x88dbf47b5e221b27648f125f9e5b35561b3743465da9ade68efc42ed9d969805::bobo_escobar::BOBO_ESCOBAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/31c144ca-8c06-4e25-a9e0-83f4a2c542f9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

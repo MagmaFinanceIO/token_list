@@ -1,0 +1,13 @@
+{
+  "name": "Dash The Turtle",
+  "symbol": "DASHI",
+  "decimals": 9,
+  "coin_type": "0x18000fb1769d746b67ddc6b70b5f6d85eb241e61e893cb9dbb878b360773dbc5::dashi::DASHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6f161cab-23f4-4027-b0a0-9f42fe6d77ff.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

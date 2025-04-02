@@ -1,0 +1,13 @@
+{
+  "name": "Sui Piggy Coin",
+  "symbol": "PIGGY",
+  "decimals": 6,
+  "coin_type": "0x7fa8ec0c7fd794b2397f4811a6b130ed092fe8bdb9aa8eb557cbdaf25b5e1fb0::piggy::PIGGY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/about_picture_e90b417b91.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

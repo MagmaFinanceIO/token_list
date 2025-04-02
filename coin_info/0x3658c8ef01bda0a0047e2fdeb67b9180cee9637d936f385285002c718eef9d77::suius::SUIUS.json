@@ -1,0 +1,13 @@
+{
+  "name": "Suius Maximus",
+  "symbol": "SUIUS",
+  "decimals": 9,
+  "coin_type": "0x3658c8ef01bda0a0047e2fdeb67b9180cee9637d936f385285002c718eef9d77::suius::SUIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6fcf4126-e031-448b-aebe-16ac120cc9aa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mini Pochita",
+  "symbol": "MPochita",
+  "decimals": 9,
+  "coin_type": "0xcd63223f5a1b6ea0aa099a6a5fbd8e6802e0ab7d78c2016f7c27cf15b52652f9::mpochita::MPOCHITA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/40dcfbdf-fd8f-4d2c-8fdc-6bd6997a3562.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

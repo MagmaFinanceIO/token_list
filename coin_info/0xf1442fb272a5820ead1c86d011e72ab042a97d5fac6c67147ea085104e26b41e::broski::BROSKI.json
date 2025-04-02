@@ -1,0 +1,13 @@
+{
+  "name": "FIRST BROSKI ON SUI",
+  "symbol": "BROSKI",
+  "decimals": 6,
+  "coin_type": "0xf1442fb272a5820ead1c86d011e72ab042a97d5fac6c67147ea085104e26b41e::broski::BROSKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_1_29_e168f1ef85.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

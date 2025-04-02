@@ -1,0 +1,13 @@
+{
+  "name": "FLOKI On SOL",
+  "symbol": "FLOKI",
+  "decimals": 9,
+  "coin_type": "0x4729181e37050253bbef9ec619668403a880aa584599f2d48086f6b7e6bd752f::floki::FLOKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmTrqUHwhEep7otevBviS2VcWYVSoMLWZ8Xo7q1kC2hsEF",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

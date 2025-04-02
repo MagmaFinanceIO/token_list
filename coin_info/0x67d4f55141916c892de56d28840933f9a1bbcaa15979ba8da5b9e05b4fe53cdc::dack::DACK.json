@@ -1,0 +1,13 @@
+{
+  "name": "DACK",
+  "symbol": "DACK",
+  "decimals": 9,
+  "coin_type": "0x67d4f55141916c892de56d28840933f9a1bbcaa15979ba8da5b9e05b4fe53cdc::dack::DACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafybeibcw7lwzyfretqhyuuravlmfy4xuv5z3vrdrve7k4dasnty46ps3i.ipfs.flk-ipfs.xyz",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

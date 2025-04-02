@@ -1,0 +1,13 @@
+{
+  "name": "PUFFER",
+  "symbol": "PUFF",
+  "decimals": 6,
+  "coin_type": "0x7cc3f7f6956e676d70da0adf9376a6befcefd3d7b08a06e189064bc52baa2bac::puff::PUFF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/901fc3e0-f3e3-49a5-a32d-6215fa535819.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

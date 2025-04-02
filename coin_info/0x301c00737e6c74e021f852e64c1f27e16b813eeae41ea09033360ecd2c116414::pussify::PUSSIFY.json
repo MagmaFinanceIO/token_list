@@ -1,0 +1,13 @@
+{
+  "name": "Pussify AI",
+  "symbol": "PUSSIFY",
+  "decimals": 9,
+  "coin_type": "0x301c00737e6c74e021f852e64c1f27e16b813eeae41ea09033360ecd2c116414::pussify::PUSSIFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c8271e3a-17c2-46e2-9bcb-7ce8b97c9f0b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

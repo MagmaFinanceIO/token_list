@@ -1,0 +1,13 @@
+{
+  "name": "DODO",
+  "symbol": "Dodo",
+  "decimals": 9,
+  "coin_type": "0x1da2c7c94b17b8ec149bd3c36c780200ec7a2851acb0baf8883ff6efb606349a::dodo::DODO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

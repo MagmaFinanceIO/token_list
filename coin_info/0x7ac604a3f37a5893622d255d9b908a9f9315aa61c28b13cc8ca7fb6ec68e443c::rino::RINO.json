@@ -1,0 +1,13 @@
+{
+  "name": "Rino Coin",
+  "symbol": "RINO",
+  "decimals": 9,
+  "coin_type": "0x7ac604a3f37a5893622d255d9b908a9f9315aa61c28b13cc8ca7fb6ec68e443c::rino::RINO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cf1b2640-4a82-4dc9-8acd-ab0cba5d8aba.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

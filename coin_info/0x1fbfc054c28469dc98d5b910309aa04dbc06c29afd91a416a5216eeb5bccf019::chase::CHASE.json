@@ -1,0 +1,13 @@
+{
+  "name": "Chase the Cheetah",
+  "symbol": "CHASE",
+  "decimals": 9,
+  "coin_type": "0x1fbfc054c28469dc98d5b910309aa04dbc06c29afd91a416a5216eeb5bccf019::chase::CHASE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0a57cac9-f31b-4521-92f3-610a82a34bb8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

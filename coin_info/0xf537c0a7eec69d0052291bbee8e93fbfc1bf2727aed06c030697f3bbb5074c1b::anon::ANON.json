@@ -1,0 +1,13 @@
+{
+  "name": "Anon Pepe",
+  "symbol": "ANON",
+  "decimals": 9,
+  "coin_type": "0xf537c0a7eec69d0052291bbee8e93fbfc1bf2727aed06c030697f3bbb5074c1b::anon::ANON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DbxxPVbXsFxuRrSZykFPpn8XNMM9qPmTWqrtGXLUpump.png?size=lg&key=21174e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

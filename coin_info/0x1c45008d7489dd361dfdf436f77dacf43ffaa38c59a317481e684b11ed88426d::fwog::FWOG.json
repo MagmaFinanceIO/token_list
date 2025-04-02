@@ -1,0 +1,13 @@
+{
+  "name": "FWOG ON SUI",
+  "symbol": "FWOG",
+  "decimals": 6,
+  "coin_type": "0x1c45008d7489dd361dfdf436f77dacf43ffaa38c59a317481e684b11ed88426d::fwog::FWOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_fwog_53e24b5a85.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

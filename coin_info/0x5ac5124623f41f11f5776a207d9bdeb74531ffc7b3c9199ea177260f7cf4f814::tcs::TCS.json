@@ -1,0 +1,13 @@
+{
+  "name": "Trident Clash Sui",
+  "symbol": "TCS",
+  "decimals": 9,
+  "coin_type": "0x5ac5124623f41f11f5776a207d9bdeb74531ffc7b3c9199ea177260f7cf4f814::tcs::TCS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://imgur.com/qpLaPyp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

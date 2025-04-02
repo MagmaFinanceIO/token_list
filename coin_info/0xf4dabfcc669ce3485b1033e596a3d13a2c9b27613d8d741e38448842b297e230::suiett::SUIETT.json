@@ -1,0 +1,13 @@
+{
+  "name": "Suiett",
+  "symbol": "SUIETT",
+  "decimals": 9,
+  "coin_type": "0xf4dabfcc669ce3485b1033e596a3d13a2c9b27613d8d741e38448842b297e230::suiett::SUIETT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a7287a9c-c6fe-46a8-8061-da15293ac3cd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Last Play of 24 on Sui",
+  "symbol": "PLAY",
+  "decimals": 9,
+  "coin_type": "0xe96f8fc58e8213841d8d8640dad4dc5ac810dc215270a5eac58cf209579e5346::play::PLAY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4eVyqhSHGwf7xSv2MJpUKUumDFSUxxmuddgq7dYXP1ry.png?size=lg&key=9215cc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

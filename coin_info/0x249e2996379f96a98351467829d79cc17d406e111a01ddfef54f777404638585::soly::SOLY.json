@@ -1,0 +1,13 @@
+{
+  "name": "SOLY AI",
+  "symbol": "SOLY",
+  "decimals": 9,
+  "coin_type": "0x249e2996379f96a98351467829d79cc17d406e111a01ddfef54f777404638585::soly::SOLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FmkD8vrRaxAeXfmG6WtpUjcd3kXYcWLcNWpmjsE7pump.png?size=lg&key=aa4344",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

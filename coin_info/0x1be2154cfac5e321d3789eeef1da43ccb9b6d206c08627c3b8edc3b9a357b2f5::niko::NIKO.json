@@ -1,0 +1,13 @@
+{
+  "name": "niko",
+  "symbol": "NIKO",
+  "decimals": 6,
+  "coin_type": "0x1be2154cfac5e321d3789eeef1da43ccb9b6d206c08627c3b8edc3b9a357b2f5::niko::NIKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/12456_a5351312ee.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Meow Pookie Cat",
+  "symbol": "POOKIE",
+  "decimals": 6,
+  "coin_type": "0x036a088f24e899843a9ef542c45164baf31855a572b6687639f6ecf140ea0ebf::pookie::POOKIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pp_81e5d1f364.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

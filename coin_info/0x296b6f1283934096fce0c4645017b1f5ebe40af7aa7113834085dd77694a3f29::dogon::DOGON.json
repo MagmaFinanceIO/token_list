@@ -1,0 +1,13 @@
+{
+  "name": "The Dogon",
+  "symbol": "Dogon",
+  "decimals": 9,
+  "coin_type": "0x296b6f1283934096fce0c4645017b1f5ebe40af7aa7113834085dd77694a3f29::dogon::DOGON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/97cfd179-36d6-408b-9246-d3ca79bd6d1d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

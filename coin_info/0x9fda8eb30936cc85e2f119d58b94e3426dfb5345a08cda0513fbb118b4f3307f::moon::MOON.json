@@ -1,0 +1,13 @@
+{
+  "name": "SUIMOON",
+  "symbol": "MOON",
+  "decimals": 9,
+  "coin_type": "0x9fda8eb30936cc85e2f119d58b94e3426dfb5345a08cda0513fbb118b4f3307f::moon::MOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

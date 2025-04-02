@@ -1,0 +1,13 @@
+{
+  "name": "Hawk AI Security",
+  "symbol": "HAWKAI",
+  "decimals": 6,
+  "coin_type": "0xa87f8df156c555d4a99d64abf7911bf926cab3434da097311b835e8f50d92d98::hawkai::HAWKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2f99d28e-c8b9-4412-81f5-dd9a1ee33f35.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

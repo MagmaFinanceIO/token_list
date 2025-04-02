@@ -1,0 +1,13 @@
+{
+  "name": "SQUID GAME ON SUIAI",
+  "symbol": "SQUIDGAME",
+  "decimals": 6,
+  "coin_type": "0x8fdc957f79bc40b2195856161f84f5568eb075b40464f2da11cf999f03149664::squidgame::SQUIDGAME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/logo_e091af684b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

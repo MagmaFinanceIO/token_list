@@ -1,0 +1,13 @@
+{
+  "name": "LOCK EM",
+  "symbol": "LOCKEM",
+  "decimals": 9,
+  "coin_type": "0x611f4126551b29d44914ad7e1b3c52f2c2daa9c246c3a1a88bfed7e2bea3bfde::lockem::LOCKEM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/LCkG1XBrRutNnbwT9s37nATkH4HXpxEMBWhVHxohWhd.png?size=lg&key=4bb37b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

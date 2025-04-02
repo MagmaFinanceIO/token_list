@@ -1,0 +1,13 @@
+{
+  "name": "SLOTHMAS",
+  "symbol": "SLOTHMAS",
+  "decimals": 9,
+  "coin_type": "0x7d56a78a82fe92ae30c188de9a5d707dbf6d7b0db9b7da5b6591ecca16df1c42::slothmas::SLOTHMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/57eSzT3LFt3seJZM782uLbHeE7er9AoptPzoeP8Npump.png?size=lg&key=7ffbe4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Goatseus Maximus",
+  "symbol": "Goatseus Maximus",
+  "decimals": 9,
+  "coin_type": "0x0f882d46821b672d423337611eeb2d9af5eead6a047bd082332b6f08e252577f::goatseus_maximus::GOATSEUS_MAXIMUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/df1970b4-c083-49f2-898a-4199cbda533b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

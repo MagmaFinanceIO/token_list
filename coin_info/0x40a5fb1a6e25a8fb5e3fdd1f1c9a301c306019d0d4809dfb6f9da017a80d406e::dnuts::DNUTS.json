@@ -1,0 +1,13 @@
+{
+  "name": "D.O.G.E N.U.T SUI",
+  "symbol": "DNUTS",
+  "decimals": 9,
+  "coin_type": "0x40a5fb1a6e25a8fb5e3fdd1f1c9a301c306019d0d4809dfb6f9da017a80d406e::dnuts::DNUTS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5cbca2c5-d6a9-49f6-a061-63530807fa72.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

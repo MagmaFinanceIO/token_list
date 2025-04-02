@@ -1,0 +1,13 @@
+{
+  "name": "Bundlr",
+  "symbol": "BLDR",
+  "decimals": 9,
+  "coin_type": "0xa3a93ec46ea4f10cab368e52be14b144dfba4704caad29e54de2de932b13affd::bldr::BLDR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2DPHUXHELVjw4BBfTHEG3CxWQbVWpcZPEbzpjZfzJkvo.png?size=lg&key=2a0e9e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

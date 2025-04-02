@@ -1,0 +1,13 @@
+{
+  "name": "$DRF",
+  "symbol": "DRF",
+  "decimals": 6,
+  "coin_type": "0x294de7579d55c110a00a7c4946e09a1b5cbeca2592fbb83fd7bfacba3cfeaf0e::drf::DRF",
+  "pyth_id": "",
+  "birdeyeid": "0x294de7579d55c110a00a7c4946e09a1b5cbeca2592fbb83fd7bfacba3cfeaf0e::drf::DRF",
+  "coin_priority": [],
+  "logo_url": "https://firebasestorage.googleapis.com/v0/b/drife-dubai-prod.appspot.com/o/drife_logo_round.png?alt=media&token=cb96bd23-5a08-4015-b1d2-e89114434d4f",
+  "project_url": "",
+  "coingecko_id": "drife-2",
+  "is_trusted": true
+}

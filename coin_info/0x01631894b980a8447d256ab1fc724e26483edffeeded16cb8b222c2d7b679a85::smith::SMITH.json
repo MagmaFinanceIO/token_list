@@ -1,0 +1,13 @@
+{
+  "name": "Agent Smith by SuiAI",
+  "symbol": "SMITH",
+  "decimals": 6,
+  "coin_type": "0x01631894b980a8447d256ab1fc724e26483edffeeded16cb8b222c2d7b679a85::smith::SMITH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Agent_Smith_The_Matrix_series_character_25a5ee2a64.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Woof",
+  "symbol": "WOOF",
+  "decimals": 9,
+  "coin_type": "0x275e4cbe2f381a57177e28e48c909d31412930e23f4adc720d47f7bf84eff413::woof::WOOF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f4d1d064-3234-4ef4-8e42-c5e49263520e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

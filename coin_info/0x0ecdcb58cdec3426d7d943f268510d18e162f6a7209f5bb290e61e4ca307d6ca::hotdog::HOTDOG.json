@@ -1,0 +1,13 @@
+{
+  "name": "Hot Dog Sui",
+  "symbol": "HOTDOG",
+  "decimals": 9,
+  "coin_type": "0x0ecdcb58cdec3426d7d943f268510d18e162f6a7209f5bb290e61e4ca307d6ca::hotdog::HOTDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/17893cd5-9f47-40c6-b6f7-b87808f2c5ea.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

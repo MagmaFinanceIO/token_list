@@ -1,0 +1,13 @@
+{
+  "name": "AI AGENTS ACADEMY",
+  "symbol": "AGNT",
+  "decimals": 9,
+  "coin_type": "0x541c776606f58ee77172f67adb41b40939fc08be6ff2f8815e617f5d3619ee5f::agnt::AGNT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AcaDeMYwmB6VvZZK7BrYnQawMknnHKbvihPXKoYPgmaf.png?size=lg&key=ab2f98",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

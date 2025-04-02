@@ -1,0 +1,13 @@
+{
+  "name": "SuiakTheBeluga",
+  "symbol": "SUIAK",
+  "decimals": 9,
+  "coin_type": "0xbe2e118b041bafe15128472dbd69954efcc5d8326088e7086370566d694a6763::suiak::SUIAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4dd7c88d-a49a-4246-a30a-224a57d57821.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

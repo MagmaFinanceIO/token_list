@@ -1,0 +1,13 @@
+{
+  "name": "Bucket Protocol",
+  "symbol": "BUT",
+  "decimals": 9,
+  "coin_type": "0x1bd3a5fefc1300d17ca1b52ce89a9d40ea197c0baf26404ae783399308cf50bd::but::BUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://strapi-dev.scand.app/uploads/Bucket_Protocol_Logo_60d64e5cf5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "EDOGE",
+  "symbol": "ELON DOGE",
+  "decimals": 8,
+  "coin_type": "0x287798561cb9348193f0a988be337b0535f001fd8ae244b8b1a7200aca3635da::elon_doge::ELON_DOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://s3.coinmarketcap.com/static-gravity/image/7fc3a42a722c4f6b99eed0f2bded7f09.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

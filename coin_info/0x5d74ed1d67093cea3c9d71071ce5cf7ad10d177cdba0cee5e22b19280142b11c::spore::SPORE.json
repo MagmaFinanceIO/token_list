@@ -1,0 +1,13 @@
+{
+  "name": "SPORE Fun AI",
+  "symbol": "SPORE",
+  "decimals": 9,
+  "coin_type": "0x5d74ed1d67093cea3c9d71071ce5cf7ad10d177cdba0cee5e22b19280142b11c::spore::SPORE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmfWyqv1MNpT59dvt7dt4S7NeVsfxftEpgtLfe4se8Ygox",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuiMarten",
+  "symbol": "MARTEN",
+  "decimals": 6,
+  "coin_type": "0x884d6bf72a7483b4802c779df570c74438bbd1b7ce234b753dca0a5c6231b2c7::marten::MARTEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000022226_a77d279bfc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

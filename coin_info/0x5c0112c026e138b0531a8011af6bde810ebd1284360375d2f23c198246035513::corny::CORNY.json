@@ -1,0 +1,13 @@
+{
+  "name": "CORNY",
+  "symbol": "CORNY",
+  "decimals": 9,
+  "coin_type": "0x5c0112c026e138b0531a8011af6bde810ebd1284360375d2f23c198246035513::corny::CORNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7e927c6f-034f-4ddc-aabd-d91859a2ae10.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

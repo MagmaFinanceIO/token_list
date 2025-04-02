@@ -1,0 +1,13 @@
+{
+  "name": "DOGAI",
+  "symbol": "DOGAI",
+  "decimals": 9,
+  "coin_type": "0x574885d6413ffc5177e18375666f46fc8508633d9a1328d2b9d67400645e3f29::dogai::DOGAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

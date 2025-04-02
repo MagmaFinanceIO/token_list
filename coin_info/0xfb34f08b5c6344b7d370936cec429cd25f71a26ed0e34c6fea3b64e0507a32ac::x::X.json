@@ -1,0 +1,13 @@
+{
+  "name": "X Empire",
+  "symbol": "X",
+  "decimals": 6,
+  "coin_type": "0xfb34f08b5c6344b7d370936cec429cd25f71a26ed0e34c6fea3b64e0507a32ac::x::X",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20241111_001849_595_ce0604cf23.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

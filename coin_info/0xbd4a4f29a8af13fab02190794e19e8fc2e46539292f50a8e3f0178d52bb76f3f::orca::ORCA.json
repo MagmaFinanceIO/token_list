@@ -1,0 +1,13 @@
+{
+  "name": "Sui Orca",
+  "symbol": "ORCA",
+  "decimals": 6,
+  "coin_type": "0xbd4a4f29a8af13fab02190794e19e8fc2e46539292f50a8e3f0178d52bb76f3f::orca::ORCA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/zodiac000z_rpg_item_icon_of_a_cute_orcaconcept_artart_gamecreat_c139f65b_7e17_4b93_b9af_693ed82e355f_fb2f5d5b06.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

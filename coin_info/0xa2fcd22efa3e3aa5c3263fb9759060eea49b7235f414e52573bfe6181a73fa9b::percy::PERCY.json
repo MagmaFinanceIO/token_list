@@ -1,0 +1,13 @@
+{
+  "name": "Percy Verence",
+  "symbol": "PERCY",
+  "decimals": 9,
+  "coin_type": "0xa2fcd22efa3e3aa5c3263fb9759060eea49b7235f414e52573bfe6181a73fa9b::percy::PERCY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B8pxgccd2KCFEBrssp2mGBCeTwAXr3uaNofA4DVRg6TB.png?size=lg&key=a3a5ba",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

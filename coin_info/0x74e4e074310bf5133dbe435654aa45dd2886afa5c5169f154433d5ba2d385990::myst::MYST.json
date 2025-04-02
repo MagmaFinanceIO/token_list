@@ -1,0 +1,13 @@
+{
+  "name": "Mystical",
+  "symbol": "MYST",
+  "decimals": 9,
+  "coin_type": "0x74e4e074310bf5133dbe435654aa45dd2886afa5c5169f154433d5ba2d385990::myst::MYST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/69ee3356-e197-4754-b9b7-a6f08eb88c22.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

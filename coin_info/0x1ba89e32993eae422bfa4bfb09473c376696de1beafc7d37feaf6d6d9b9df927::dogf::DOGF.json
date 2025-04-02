@@ -1,0 +1,13 @@
+{
+  "name": "The Dogfather",
+  "symbol": "DOGF",
+  "decimals": 6,
+  "coin_type": "0x1ba89e32993eae422bfa4bfb09473c376696de1beafc7d37feaf6d6d9b9df927::dogf::DOGF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1318_dffb6674b7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

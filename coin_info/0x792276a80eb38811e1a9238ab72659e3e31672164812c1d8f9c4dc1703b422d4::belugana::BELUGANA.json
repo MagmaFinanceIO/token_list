@@ -1,0 +1,13 @@
+{
+  "name": "Belugana",
+  "symbol": "BELUGANA",
+  "decimals": 6,
+  "coin_type": "0x792276a80eb38811e1a9238ab72659e3e31672164812c1d8f9c4dc1703b422d4::belugana::BELUGANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_10_11_225725_c393a58e5a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

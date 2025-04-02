@@ -1,0 +1,13 @@
+{
+  "name": "Causa Sui",
+  "symbol": "CAUSA",
+  "decimals": 9,
+  "coin_type": "0xc12fb8de513df4c6541d8dff0dbfd01b6079611703e01a4c0876e3c834c96be8::causa::CAUSA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/08dbc398-d625-4bfb-9146-d177a673b823.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

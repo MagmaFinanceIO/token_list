@@ -1,0 +1,13 @@
+{
+  "name": "Toncoin",
+  "symbol": "TON",
+  "decimals": 8,
+  "coin_type": "0x6e53b9a6dd6cb3abb548405ee98c6dcc2a972238ab026587a6cd13dd46d6745b::ton::TON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c6f100e5-e546-48ae-abaa-cb8a4a50170a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

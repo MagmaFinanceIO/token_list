@@ -1,0 +1,13 @@
+{
+  "name": "SUI ELEPHANT",
+  "symbol": "ELEPHANT",
+  "decimals": 6,
+  "coin_type": "0xe9e900b2b81b8196161bb27773ff822ed223a7149889e5af252ab78d48593202::elephant::ELEPHANT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ec4fe4e7_1e9c_49ee_91f1_d62329f9be8d_a38bed81bf.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Murad",
+  "symbol": "Murad",
+  "decimals": 9,
+  "coin_type": "0x63e4fb3f3da561e6f774e22499cccec109a00c33f923e2c06db50f25c82e6722::murad::MURAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FtPqJ2YTKmPyBxp3Npg18RE9Z77SQu9jrkRVYLzpump.png?size=lg&key=b0c164",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

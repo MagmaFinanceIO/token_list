@@ -1,0 +1,13 @@
+{
+  "name": "Agent Airena",
+  "symbol": "AIRENA",
+  "decimals": 9,
+  "coin_type": "0x78d5494db24daea2602c242f01a749ea1e97c8f60b2db2432240d3d56bb51ca9::airena::AIRENA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ANdwEKKgK7xa1ZkkDw7QHkYcmVTQsJYheKSQCfRVpump.png?size=lg&key=743d2f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Baby Sacabam",
+  "symbol": "BABYSCB",
+  "decimals": 3,
+  "coin_type": "0x8d7828432b668f731d3ceb17f7fb9cad7225bf01b6af16e61b71b02384f9f291::babyscb::BABYSCB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://iili.io/JRgDf2e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

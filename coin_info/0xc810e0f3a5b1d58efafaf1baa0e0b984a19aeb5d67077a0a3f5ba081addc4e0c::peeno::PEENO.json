@@ -1,0 +1,13 @@
+{
+  "name": "Peeno on SUI",
+  "symbol": "PEENO",
+  "decimals": 6,
+  "coin_type": "0xc810e0f3a5b1d58efafaf1baa0e0b984a19aeb5d67077a0a3f5ba081addc4e0c::peeno::PEENO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/a_XB_1_M9_Iq_400x400_9a4fe3c67d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

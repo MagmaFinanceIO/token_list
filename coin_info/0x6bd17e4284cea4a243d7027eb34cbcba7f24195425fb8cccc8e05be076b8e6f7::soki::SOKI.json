@@ -1,0 +1,13 @@
+{
+  "name": "Soki",
+  "symbol": "SOKI",
+  "decimals": 9,
+  "coin_type": "0x6bd17e4284cea4a243d7027eb34cbcba7f24195425fb8cccc8e05be076b8e6f7::soki::SOKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x65086e9928d297ebae6a7d24d8c3aea6f8f6b5d7.png?size=lg&key=ee258b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

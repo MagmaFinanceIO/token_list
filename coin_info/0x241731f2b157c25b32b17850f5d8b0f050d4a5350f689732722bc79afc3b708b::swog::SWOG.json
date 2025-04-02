@@ -1,0 +1,13 @@
+{
+  "name": "Swog",
+  "symbol": "SWOG",
+  "decimals": 6,
+  "coin_type": "0x241731f2b157c25b32b17850f5d8b0f050d4a5350f689732722bc79afc3b708b::swog::SWOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/af569ee3-2060-4460-bf1d-0a399f257119.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

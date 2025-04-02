@@ -1,0 +1,13 @@
+{
+  "name": "Donx",
+  "symbol": "DONX",
+  "decimals": 6,
+  "coin_type": "0xebf41a202c6ea8ecae4236b60bc1d754d3ab6ade69c53cd8f7282b8844c4da7f::donx::DONX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000020329_d609209dbf.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

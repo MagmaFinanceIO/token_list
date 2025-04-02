@@ -1,0 +1,13 @@
+{
+  "name": "BabySealDog",
+  "symbol": "BABYSOG",
+  "decimals": 6,
+  "coin_type": "0xad6a9a1c972a258f3965b460d235bc4b26bb24ae7147b652c2585f99a6be488d::babysog::BABYSOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/GK_19_Khla_UA_Aq0jb_7b718117d6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

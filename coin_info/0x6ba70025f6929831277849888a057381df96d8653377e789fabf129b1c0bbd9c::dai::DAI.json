@@ -1,0 +1,13 @@
+{
+  "name": "DecideAI",
+  "symbol": "DAI",
+  "decimals": 6,
+  "coin_type": "0x6ba70025f6929831277849888a057381df96d8653377e789fabf129b1c0bbd9c::dai::DAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/93211e5b-9f98-4598-b34b-34c0c4e5167f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Bouncy Pork",
+  "symbol": "MOODENG",
+  "decimals": 9,
+  "coin_type": "0xc0964442f38eec45c463b3927ec4fe14bbed6a831ffc4efd15c4a823ad71c005::MOODENG::MOODENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CoUxXvFyK8GEaTSfgTQn8ktiRCyXz33bmuk24Affcvzk.png?size=xl&key=7012fb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

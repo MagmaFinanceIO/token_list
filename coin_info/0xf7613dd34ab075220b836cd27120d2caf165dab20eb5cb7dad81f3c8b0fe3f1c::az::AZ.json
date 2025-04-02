@@ -1,0 +1,13 @@
+{
+  "name": "Alpha Zeta",
+  "symbol": "AZ",
+  "decimals": 9,
+  "coin_type": "0xf7613dd34ab075220b836cd27120d2caf165dab20eb5cb7dad81f3c8b0fe3f1c::az::AZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0085e36c-3e6b-45f3-adf7-62f8132f2b46.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

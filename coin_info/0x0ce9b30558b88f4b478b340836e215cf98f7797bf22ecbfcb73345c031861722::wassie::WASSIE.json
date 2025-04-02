@@ -1,0 +1,13 @@
+{
+  "name": "WASSIE on SUI",
+  "symbol": "WASSIE",
+  "decimals": 9,
+  "coin_type": "0x0ce9b30558b88f4b478b340836e215cf98f7797bf22ecbfcb73345c031861722::wassie::WASSIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmRXULSyBe271rd44qmXHrbCYEbe9GQi6aWbHrFhdZQAEC",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUITO",
+  "symbol": "SUITTO",
+  "decimals": 6,
+  "coin_type": "0xd93626eaecbd801ee4dabc086e7748185d9744ca5df63837791be248e399e86a::suitto::SUITTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/x_QX_Bmck_Z_400x400_c36860156b_d94ab1a9fd.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

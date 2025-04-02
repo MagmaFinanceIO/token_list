@@ -1,0 +1,13 @@
+{
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 9,
+  "coin_type": "0xf4cca427150a1ee98a427fe37c9d343b516bb69b585169c42a5ac5f2c4974957::pepe::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8Q1YqgWBV11MCEG3r2Mszdc29EmS2ETLUBmZ672jpump.png?size=lg&key=3278cd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suikachu ⚡️",
+  "symbol": "SUIKACHU",
+  "decimals": 9,
+  "coin_type": "0xbf9c704ba8f537182f686938a98860d57e3db1feda7dc10ce18817956fe4b73a::suikachu::SUIKACHU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4cb5c9b7-d9f0-4cdd-80f8-c1ac7d5bb791.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

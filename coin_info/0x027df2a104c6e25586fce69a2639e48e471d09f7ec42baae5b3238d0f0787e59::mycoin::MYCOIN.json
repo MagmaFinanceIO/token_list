@@ -1,0 +1,13 @@
+{
+  "name": "deadcoin",
+  "symbol": "deadcoin",
+  "decimals": 9,
+  "coin_type": "0x027df2a104c6e25586fce69a2639e48e471d09f7ec42baae5b3238d0f0787e59::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

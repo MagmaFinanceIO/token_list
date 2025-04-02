@@ -1,0 +1,13 @@
+{
+  "name": "XRP ETF",
+  "symbol": "XRPETF",
+  "decimals": 9,
+  "coin_type": "0x6f22dcd9bf92bb71b3b42099672c4fe2a7e3ca82ed6292af2c51daba1052ec7e::xrpetf::XRPETF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HyBAcPFiRuWgyUYNwR3YQrQXEw7qqoRoHyGfDxz8B1Xk.png?size=lg&key=a57575",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

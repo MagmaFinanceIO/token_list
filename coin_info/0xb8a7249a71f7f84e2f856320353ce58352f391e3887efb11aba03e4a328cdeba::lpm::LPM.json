@@ -1,0 +1,13 @@
+{
+  "name": "Liberty Pill Meme",
+  "symbol": "LPM",
+  "decimals": 9,
+  "coin_type": "0xb8a7249a71f7f84e2f856320353ce58352f391e3887efb11aba03e4a328cdeba::lpm::LPM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3EQCLg3ytUP1hKFFWJFAmaL35ihXcYCC7GZh7anupump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

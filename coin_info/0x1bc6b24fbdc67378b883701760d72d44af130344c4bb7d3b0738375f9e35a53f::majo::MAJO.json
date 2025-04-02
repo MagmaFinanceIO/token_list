@@ -1,0 +1,13 @@
+{
+  "name": "Majo",
+  "symbol": "Majo",
+  "decimals": 6,
+  "coin_type": "0x1bc6b24fbdc67378b883701760d72d44af130344c4bb7d3b0738375f9e35a53f::majo::MAJO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyW8nWT7eDDDRgHCcvUwmjp6qaSzGpY4Iefg&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

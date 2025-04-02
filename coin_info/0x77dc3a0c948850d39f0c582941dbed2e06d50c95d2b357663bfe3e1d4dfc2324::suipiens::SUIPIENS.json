@@ -1,0 +1,13 @@
+{
+  "name": "Suipiens",
+  "symbol": "SUIPIENS",
+  "decimals": 6,
+  "coin_type": "0x77dc3a0c948850d39f0c582941dbed2e06d50c95d2b357663bfe3e1d4dfc2324::suipiens::SUIPIENS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/n_Sx_W_Miq_T_400x400_d02795fb1a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

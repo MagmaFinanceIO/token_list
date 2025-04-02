@@ -1,0 +1,13 @@
+{
+  "name": "testicle",
+  "symbol": "SUITEST",
+  "decimals": 9,
+  "coin_type": "0x654a690996771d4b288a0a0bf25b8d803f381423ef44095c58ec0d03cf2cdf3a::suitest::SUITEST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a90b489b-a21a-42bc-8908-6539ef9da021.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

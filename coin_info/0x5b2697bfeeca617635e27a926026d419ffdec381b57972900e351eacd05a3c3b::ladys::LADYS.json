@@ -1,0 +1,13 @@
+{
+  "name": "Milady Meme Coin",
+  "symbol": "LADYS",
+  "decimals": 8,
+  "coin_type": "0x5b2697bfeeca617635e27a926026d419ffdec381b57972900e351eacd05a3c3b::ladys::LADYS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://assets.coingecko.com/coins/images/30194/small/logo.png?1683607297",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BunnyCoin",
+  "symbol": "Bunny",
+  "decimals": 9,
+  "coin_type": "0xc6615b69727b9559b119bc9751a50af6ab3f4aca0bb2d804c5879f23b3c804ed::bunny::BUNNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

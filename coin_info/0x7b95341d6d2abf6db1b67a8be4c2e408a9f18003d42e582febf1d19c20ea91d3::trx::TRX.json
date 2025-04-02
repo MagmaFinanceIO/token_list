@@ -1,0 +1,13 @@
+{
+  "name": "Wrapped TRX",
+  "symbol": "TRX",
+  "decimals": 9,
+  "coin_type": "0x7b95341d6d2abf6db1b67a8be4c2e408a9f18003d42e582febf1d19c20ea91d3::trx::TRX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://gateway.irys.xyz/-rnuOpdKaXjcKlkhWMz0mHvYPx7Ofr5ydRAig-SwAcY",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

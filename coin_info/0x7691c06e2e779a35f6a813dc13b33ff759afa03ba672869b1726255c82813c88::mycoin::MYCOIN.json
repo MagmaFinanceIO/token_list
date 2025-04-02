@@ -1,0 +1,13 @@
+{
+  "name": "CHIPAI",
+  "symbol": "CHIP",
+  "decimals": 9,
+  "coin_type": "0x7691c06e2e779a35f6a813dc13b33ff759afa03ba672869b1726255c82813c88::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

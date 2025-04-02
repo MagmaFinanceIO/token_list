@@ -1,0 +1,13 @@
+{
+  "name": "AX02",
+  "symbol": "AXZT",
+  "decimals": 9,
+  "coin_type": "0xeeb8dab5aa46d526a10cf82d49a4a8fd327dc2be78108f851f7f7e0668cb6095::axzt::AXZT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bfbbff62-8c5a-417e-b9e3-c2387b9e3810.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

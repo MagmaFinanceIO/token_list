@@ -1,0 +1,13 @@
+{
+  "name": "Lokai V2 by SuiAI",
+  "symbol": "LOKAI",
+  "decimals": 6,
+  "coin_type": "0x1df319efc7c059c0abfae197eec32b99afd7b8e6b88d993f37d45164b303b7b8::lokai::LOKAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_20250113_005121_103_858921db97.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

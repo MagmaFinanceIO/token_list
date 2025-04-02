@@ -1,0 +1,13 @@
+{
+  "name": "Frogocoin",
+  "symbol": "FRGCOIN",
+  "decimals": 9,
+  "coin_type": "0x4d8248f14e1545a29f15d3f29b43475424cefe8004f04adbef2be8aad07e7f4b::frgcoin::FRGCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PePe SUI",
+  "symbol": "PEPESUI",
+  "decimals": 9,
+  "coin_type": "0xee61ae8b01dd68bc824f17f9682b300bf829ef6393299820253a7c43b24c9d78::pepe::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pink-naval-kingfisher-12.mypinata.cloud/ipfs/QmNRWbrAB3qXjjLX5h1MVL3hQN5aa2ruiyeDd8nBzo1Vjd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

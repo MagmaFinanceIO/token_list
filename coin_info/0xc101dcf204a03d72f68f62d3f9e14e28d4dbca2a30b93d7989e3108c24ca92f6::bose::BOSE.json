@@ -1,0 +1,13 @@
+{
+  "name": "Book of Seth",
+  "symbol": "BOSE",
+  "decimals": 9,
+  "coin_type": "0xc101dcf204a03d72f68f62d3f9e14e28d4dbca2a30b93d7989e3108c24ca92f6::bose::BOSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x306f140e0b8b2427214ca16e8603e9069c3c3431.png?size=lg&key=b6c869",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

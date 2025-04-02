@@ -1,0 +1,13 @@
+{
+  "name": "Hop Aggregator",
+  "symbol": "Hop",
+  "decimals": 6,
+  "coin_type": "0xc39d62fdb915ae145e5b66223ffaccdbf44fdf820916fa926fedfd4ac4ad76b8::hop::HOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f8d5b710-29e3-4c25-ab0f-dbac2771d10c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

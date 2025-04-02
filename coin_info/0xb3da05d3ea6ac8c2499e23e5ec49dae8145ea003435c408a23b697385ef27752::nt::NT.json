@@ -1,0 +1,13 @@
+{
+  "name": "nini thowong",
+  "symbol": "NT",
+  "decimals": 9,
+  "coin_type": "0xb3da05d3ea6ac8c2499e23e5ec49dae8145ea003435c408a23b697385ef27752::nt::NT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6b97fa10-2f2a-4a90-a039-1b1eeadb4b8e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

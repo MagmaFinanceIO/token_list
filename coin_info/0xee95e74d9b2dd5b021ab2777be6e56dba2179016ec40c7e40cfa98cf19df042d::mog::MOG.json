@@ -1,0 +1,13 @@
+{
+  "name": "Mog Coin",
+  "symbol": "MOG",
+  "decimals": 9,
+  "coin_type": "0xee95e74d9b2dd5b021ab2777be6e56dba2179016ec40c7e40cfa98cf19df042d::mog::MOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EcQ51qJCMQdngpk3pqiwTAzqdwUQzBMp4Ftww8bxbXQi.png?size=lg&key=4e0ca4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

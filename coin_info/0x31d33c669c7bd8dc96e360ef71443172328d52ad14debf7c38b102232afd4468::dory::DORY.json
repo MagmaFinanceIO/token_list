@@ -1,0 +1,13 @@
+{
+  "name": "dory",
+  "symbol": "DORY",
+  "decimals": 6,
+  "coin_type": "0x31d33c669c7bd8dc96e360ef71443172328d52ad14debf7c38b102232afd4468::dory::DORY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_11_16_20_08_0c5ae82008.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

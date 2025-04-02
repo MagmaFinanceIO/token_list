@@ -1,0 +1,13 @@
+{
+  "name": "Dinofriends",
+  "symbol": "DFND",
+  "decimals": 9,
+  "coin_type": "0x0957626ffeabbc07a9225943829ab0f7ee5dbdad805def05b9d101a86ef1bc86::dfnd::DFND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ff898683-d9c4-4932-b214-461c4cdd3b90.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "White Dot Coin",
+  "symbol": "WDC",
+  "decimals": 9,
+  "coin_type": "0x545d1eb9050eae169d34a3ecf3272976f35256f5eb01f5f0ed5d22463f44d9fb::wdc::WDC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/34b52802-c3f9-4268-a478-9ea6f7d292dc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

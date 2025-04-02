@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL DOG OF BYBIT",
+  "symbol": "BYDOG",
+  "decimals": 9,
+  "coin_type": "0x3857b9e578cb98649b49a87927c5c3cdd367ddcb398f438fe1b6b0624777418c::bydog::BYDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FnyU17zyUzg5aeep5B1RqEoSkiXAmUqWkT7tKNhZpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

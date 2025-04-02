@@ -1,0 +1,13 @@
+{
+  "name": "SCAM Family Coin",
+  "symbol": "SCAM",
+  "decimals": 9,
+  "coin_type": "0x649c03c62164f48d1994c897500497e5f04d79bbf502e928ace059da8b3bd5ad::scam::SCAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/zFCN2vUTXjhy5wTpGzysqfPYHbK8SZymSuTnSKjpump.png?size=lg&key=09c80a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

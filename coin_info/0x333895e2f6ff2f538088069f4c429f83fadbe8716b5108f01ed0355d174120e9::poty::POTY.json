@@ -1,0 +1,13 @@
+{
+  "name": "Sui Poty",
+  "symbol": "POTY",
+  "decimals": 9,
+  "coin_type": "0x333895e2f6ff2f538088069f4c429f83fadbe8716b5108f01ed0355d174120e9::poty::POTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/14a06b42-36e9-4241-af0d-f4b3e49b8ba9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

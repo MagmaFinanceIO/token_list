@@ -1,0 +1,13 @@
+{
+  "name": "AICharz by SuiAI",
+  "symbol": "AICHARZ",
+  "decimals": 6,
+  "coin_type": "0x8e6d911f8f2c2ca05930199fdc24b9a01dd41dd7f8b3b24430edc38d84dad406::aicharz::AICHARZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/em3_a74f957898.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "WHALE LABS",
+  "symbol": "WHALEAI",
+  "decimals": 9,
+  "coin_type": "0x98c08cc9d207bb98b8fc75f3e129c7458135e744250d71608deb55738758bc1b::whaleai::WHALEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Ca7GzXw1JWLDVq9t6y5phL8iEWz16TS6sEjUYQChoewZ.png?size=lg&key=4fd4dc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

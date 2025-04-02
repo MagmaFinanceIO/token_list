@@ -1,0 +1,13 @@
+{
+  "name": "Fuddies Gang",
+  "symbol": "FUDGANG",
+  "decimals": 6,
+  "coin_type": "0x30d5c1df837cfb831eba582ff38b1d49360dde718893eb29396372542930f15b::fudgang::FUDGANG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_28_T223417_912_8bd6834010.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

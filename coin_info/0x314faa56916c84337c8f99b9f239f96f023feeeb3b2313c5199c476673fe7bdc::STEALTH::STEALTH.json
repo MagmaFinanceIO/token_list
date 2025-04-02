@@ -1,0 +1,13 @@
+{
+  "name": "StealthSDK ON SUI",
+  "symbol": "STEALTH",
+  "decimals": 2,
+  "coin_type": "0x314faa56916c84337c8f99b9f239f96f023feeeb3b2313c5199c476673fe7bdc::STEALTH::STEALTH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/qWec7VfCZ4C8zxUS99TxforIs13-ZyNOF1LtaJq9DrA?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SimonsCAT",
+  "symbol": "SimonsCAT",
+  "decimals": 9,
+  "coin_type": "0xd01f944a46ee329c66769fbd3c1c349216b52f2f60af07556dcf81f62961b856::simonscat::SIMONSCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/19a44afc-fd9e-44c5-9ba7-4a008abc19a0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

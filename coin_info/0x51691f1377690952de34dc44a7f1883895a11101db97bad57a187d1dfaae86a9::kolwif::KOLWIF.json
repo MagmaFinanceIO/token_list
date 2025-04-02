@@ -1,0 +1,13 @@
+{
+  "name": "Kolwaii Wif Hat",
+  "symbol": "KOLWIF",
+  "decimals": 9,
+  "coin_type": "0x51691f1377690952de34dc44a7f1883895a11101db97bad57a187d1dfaae86a9::kolwif::KOLWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EEvS83P1ZXGB8tExaNWzAfMjGav2nh49bf2zNuNfpump.phttps://dd.dexscreener.com/ds-data/tokens/solana/EEvS83P1ZXGB8tExaNWzAfMjGav2nh49bf2zNuNfpump.png?size=lg&key=0ecd42ng?size=lg&key=0ecd42",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

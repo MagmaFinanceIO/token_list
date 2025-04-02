@@ -1,0 +1,13 @@
+{
+  "name": "test_five",
+  "symbol": "test_five",
+  "decimals": 9,
+  "coin_type": "0x19987a01afd79d8afb80a7ef851ef246784e30e3c0179fafaa7a8c45c04d05f5::test_five::TEST_FIVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

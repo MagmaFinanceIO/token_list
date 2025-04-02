@@ -1,0 +1,13 @@
+{
+  "name": "Clown Kamala",
+  "symbol": "CLOWN",
+  "decimals": 9,
+  "coin_type": "0x4e2c18d04fdcd9c44ca216862d24514c70032bc1d51e027e693f24bef8b595b5::clown::CLOWN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0xfbe0932bc50218cb103073bb2a16f26c9c98aaf36212b18627708d4fb658e6d2::clown::clown.png?size=lg&key=978d6d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

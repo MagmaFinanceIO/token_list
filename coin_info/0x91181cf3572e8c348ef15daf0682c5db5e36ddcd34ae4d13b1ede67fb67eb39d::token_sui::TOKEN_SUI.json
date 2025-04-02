@@ -1,0 +1,13 @@
+{
+  "name": "DeepBook 103",
+  "symbol": "DEEP103",
+  "decimals": 9,
+  "coin_type": "0x91181cf3572e8c348ef15daf0682c5db5e36ddcd34ae4d13b1ede67fb67eb39d::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.deepbook.tech/icon.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

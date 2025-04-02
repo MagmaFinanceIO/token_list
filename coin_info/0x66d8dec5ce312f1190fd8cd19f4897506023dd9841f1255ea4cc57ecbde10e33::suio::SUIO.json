@@ -1,0 +1,13 @@
+{
+  "name": "Sui Olaf",
+  "symbol": "SUIO",
+  "decimals": 6,
+  "coin_type": "0x66d8dec5ce312f1190fd8cd19f4897506023dd9841f1255ea4cc57ecbde10e33::suio::SUIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8fe11f9d-ab3b-43b5-8def-588efb4f7911.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

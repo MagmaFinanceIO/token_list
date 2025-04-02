@@ -1,0 +1,13 @@
+{
+  "name": "Moon The Cat",
+  "symbol": "MOON",
+  "decimals": 6,
+  "coin_type": "0x7640b2bc5b4bd6cb483cb92887be595e6f47b8325fca22ed915b71245e0f8cd6::moon::MOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pfp_664134a352.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

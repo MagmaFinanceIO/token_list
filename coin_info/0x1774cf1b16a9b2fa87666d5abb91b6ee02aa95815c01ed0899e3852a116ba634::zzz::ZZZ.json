@@ -1,0 +1,13 @@
+{
+  "name": "AAA",
+  "symbol": "ZZZ",
+  "decimals": 6,
+  "coin_type": "0x1774cf1b16a9b2fa87666d5abb91b6ee02aa95815c01ed0899e3852a116ba634::zzz::ZZZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ON_Wqlvbz_400x400_4237c2048a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

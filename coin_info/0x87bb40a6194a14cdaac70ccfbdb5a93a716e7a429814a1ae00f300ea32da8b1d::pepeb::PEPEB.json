@@ -1,0 +1,13 @@
+{
+  "name": "PEPE BLUE",
+  "symbol": "PEPEB",
+  "decimals": 9,
+  "coin_type": "0x87bb40a6194a14cdaac70ccfbdb5a93a716e7a429814a1ae00f300ea32da8b1d::pepeb::PEPEB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://tomato-deep-eel-22.mypinata.cloud/ipfs/QmcFMNTk9Rf6VMHmeVZ6WZzCT94hedh9B7f4arDNDcDjHH",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

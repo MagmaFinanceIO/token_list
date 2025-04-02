@@ -1,0 +1,13 @@
+{
+  "name": "Th0gs on sui",
+  "symbol": "Th0gs",
+  "decimals": 6,
+  "coin_type": "0xea1e681992c69df2916f61ec91b93319960d20a11facaa0f0aba7f4222f7919c::th0gs::TH0GS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731048803066.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

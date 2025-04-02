@@ -1,0 +1,13 @@
+{
+  "name": "CUBIQ AI",
+  "symbol": "CUBIQ",
+  "decimals": 9,
+  "coin_type": "0x3564c6a1ad83a48abb88e98711723dc9baad0d822ff6dbc8f2ec6189fd1afab0::cubiq::CUBIQ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BK6WDw2yxFPtWPFXP7ZWzpn2pLwJx9un9caDwK3in8we.png?size=lg&key=1b428c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

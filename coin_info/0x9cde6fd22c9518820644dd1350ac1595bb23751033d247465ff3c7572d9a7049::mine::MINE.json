@@ -1,0 +1,13 @@
+{
+  "name": "Mineral",
+  "symbol": "MINE",
+  "decimals": 9,
+  "coin_type": "0x9cde6fd22c9518820644dd1350ac1595bb23751033d247465ff3c7572d9a7049::mine::MINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ba3a09cc-27e7-4689-b37a-66284bbb1f9f.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

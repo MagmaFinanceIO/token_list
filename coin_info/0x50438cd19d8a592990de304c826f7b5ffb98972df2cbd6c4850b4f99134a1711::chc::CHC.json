@@ -1,0 +1,13 @@
+{
+  "name": "Cat Hat Coin",
+  "symbol": "CHC",
+  "decimals": 9,
+  "coin_type": "0x50438cd19d8a592990de304c826f7b5ffb98972df2cbd6c4850b4f99134a1711::chc::CHC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c2d81be5-0517-4b6a-9fe0-ac59909933c5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

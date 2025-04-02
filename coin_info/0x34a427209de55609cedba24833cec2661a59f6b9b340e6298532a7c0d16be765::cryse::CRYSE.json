@@ -1,0 +1,13 @@
+{
+  "name": "CryptoSeals",
+  "symbol": "CRYSE",
+  "decimals": 9,
+  "coin_type": "0x34a427209de55609cedba24833cec2661a59f6b9b340e6298532a7c0d16be765::cryse::CRYSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2bdf6048-5b18-42cc-a70c-fc2fa1095d7e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

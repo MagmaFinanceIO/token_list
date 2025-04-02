@@ -1,0 +1,13 @@
+{
+  "name": "Banana Zone - From Fruit to Fortune!",
+  "symbol": "BANANAZONE",
+  "decimals": 6,
+  "coin_type": "0xe79f762c0c63885d340fecac71f4bf03b30bf4dc9ad888aab67d4d64e1af2e52::bananazone::BANANAZONE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/0_OG_HODL_cf3dcec730.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

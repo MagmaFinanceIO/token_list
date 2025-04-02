@@ -1,0 +1,13 @@
+{
+  "name": "Spark AI",
+  "symbol": "SPARK",
+  "decimals": 9,
+  "coin_type": "0x0c8f57dc723bcfdd7123885ce196896dd94a8e9bb90b9ee530ef708f140b43f5::spark::SPARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FCgwRzU9ghSbaixApa884vbQhDfnPgshFGWTwueSpump.png?size=lg&key=2e18b0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

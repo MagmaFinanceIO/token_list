@@ -1,0 +1,13 @@
+{
+  "name": "PHANTOM",
+  "symbol": "PTM",
+  "decimals": 6,
+  "coin_type": "0xb2aadc37b52a85e4c42037abfb3ce3bca994cfb7efd178dafa0b511d2c0a0106::ptm::PTM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/66030f2a_6085_4129_8555_b80de1a566a5_62d8f3d31e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

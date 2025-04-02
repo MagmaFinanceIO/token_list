@@ -1,0 +1,13 @@
+{
+  "name": "PikaSui",
+  "symbol": "PIKA",
+  "decimals": 6,
+  "coin_type": "0x0d4ab00a1e3f5aec86c5c23f0ba582ca6788046767b4760efcd4b0c8779f79d1::pika::PIKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/424b3d8a-1647-498e-92f2-639955bb7eae.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

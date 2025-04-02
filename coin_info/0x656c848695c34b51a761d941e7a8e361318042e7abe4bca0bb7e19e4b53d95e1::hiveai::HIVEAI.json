@@ -1,0 +1,13 @@
+{
+  "name": "THE HIVE AI SUI",
+  "symbol": "HIVEAI",
+  "decimals": 9,
+  "coin_type": "0x656c848695c34b51a761d941e7a8e361318042e7abe4bca0bb7e19e4b53d95e1::hiveai::HIVEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2fe6022e-bc85-45d3-8cdc-170d5a949acd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

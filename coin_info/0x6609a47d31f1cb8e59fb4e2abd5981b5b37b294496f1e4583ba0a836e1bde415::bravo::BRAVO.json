@@ -1,0 +1,13 @@
+{
+  "name": "Johnny Bravo",
+  "symbol": "BRAVO",
+  "decimals": 6,
+  "coin_type": "0x6609a47d31f1cb8e59fb4e2abd5981b5b37b294496f1e4583ba0a836e1bde415::bravo::BRAVO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736224713413.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

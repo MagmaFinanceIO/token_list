@@ -1,0 +1,13 @@
+{
+  "name": "Fishpaw",
+  "symbol": "FISHPAW",
+  "decimals": 9,
+  "coin_type": "0x23c9fc8f7d2309cba096e80245cc0f13a5095f043012661d516d513aef165780::fishpaw::FISHPAW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/49048ee7-fa07-41f9-91c7-6fe5ca82fd5d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

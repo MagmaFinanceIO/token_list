@@ -1,0 +1,13 @@
+{
+  "name": "SUI MASK DOG",
+  "symbol": "SUIMASK",
+  "decimals": 9,
+  "coin_type": "0xba36e94052fac36cf3740e5c25e18fb7f9b9bbc476d237c42b7ba495372f49d3::suimask_::SUIMASK_",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fbd7c33b-d7dd-454c-8018-2f838c0b3610.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

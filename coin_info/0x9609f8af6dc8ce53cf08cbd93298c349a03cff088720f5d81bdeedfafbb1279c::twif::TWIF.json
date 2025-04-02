@@ -1,0 +1,13 @@
+{
+  "name": "Trump Wifhat  by SuiAI",
+  "symbol": "TWIF",
+  "decimals": 6,
+  "coin_type": "0x9609f8af6dc8ce53cf08cbd93298c349a03cff088720f5d81bdeedfafbb1279c::twif::TWIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Screenshot_20250109_161727_706_23011f9d55.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

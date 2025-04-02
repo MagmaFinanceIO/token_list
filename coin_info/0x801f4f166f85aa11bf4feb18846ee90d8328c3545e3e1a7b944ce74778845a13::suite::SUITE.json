@@ -1,0 +1,13 @@
+{
+  "name": "SuiestTime",
+  "symbol": "Suite",
+  "decimals": 9,
+  "coin_type": "0x801f4f166f85aa11bf4feb18846ee90d8328c3545e3e1a7b944ce74778845a13::suite::SUITE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/59af05e4-cdf9-4c2e-a6d8-9bc46c21ce45.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

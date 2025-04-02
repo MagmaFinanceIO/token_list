@@ -1,0 +1,13 @@
+{
+  "name": "PIKA MOODENG",
+  "symbol": "PIKADENG",
+  "decimals": 6,
+  "coin_type": "0x65bc99cb28ffdccc9353645e246228a70cd5243afc9b4d0a924a5f698a755978::pikadeng::PIKADENG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/0dedab41_9906_4652_848d_7fbf26474212_a2b4c36233.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

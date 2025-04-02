@@ -1,0 +1,13 @@
+{
+  "name": "NAPCOIN",
+  "symbol": "NAP",
+  "decimals": 9,
+  "coin_type": "0xe0e5bac19008953a416ee017e38bcc91a73856ffe5300173c06cdcee906d9859::nap::NAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/496f1c05-d94b-416b-8e4e-09f86b8e062d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

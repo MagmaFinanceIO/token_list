@@ -1,0 +1,13 @@
+{
+  "name": "Princess Idol",
+  "symbol": "PrincessIdol",
+  "decimals": 9,
+  "coin_type": "0x66064ca602e2b6bcedd31c79d049cb7db7bee89b9defd35c882175c1e804e40e::princessidol::PRINCESSIDOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/60ab6363-a698-426a-82eb-4e5a7772d2bd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

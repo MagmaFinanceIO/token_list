@@ -1,0 +1,13 @@
+{
+  "name": "Buy:True",
+  "symbol": "BT",
+  "decimals": 9,
+  "coin_type": "0xde22cb0ebb4f0158238735291f2868a62b050fcb22ced5f448f24915f2ee2c0a::bt::BT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4e9cada0-2638-4113-9347-236b219eccaf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

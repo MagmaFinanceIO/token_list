@@ -1,0 +1,13 @@
+{
+  "name": "Mighty Frieza",
+  "symbol": "FRIEZA",
+  "decimals": 5,
+  "coin_type": "0x1413cfb98bf7b8a4ff285757b7c95bbc5bd8ccbd4849f3dce4973d7a20232bfd::frieza::FRIEZA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bdc27720-7de5-413f-9492-8a2687f57b59.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TrumpGivesAFuck",
+  "symbol": "TGAF",
+  "decimals": 9,
+  "coin_type": "0x5a2d6a01ef09ff6da53cfc947e7a158e2079c46d2e5252955029bd509b89b8c5::tgaf::TGAF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9fePXJt2b2EbLiGLnaru8rUHfxRYVLLAD1DpEPbxhQ47.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

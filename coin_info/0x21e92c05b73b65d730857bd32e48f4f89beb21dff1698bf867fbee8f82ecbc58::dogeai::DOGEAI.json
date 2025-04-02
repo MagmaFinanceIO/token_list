@@ -1,0 +1,13 @@
+{
+  "name": "DOGE AI",
+  "symbol": "DOGEAI",
+  "decimals": 9,
+  "coin_type": "0x21e92c05b73b65d730857bd32e48f4f89beb21dff1698bf867fbee8f82ecbc58::dogeai::DOGEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x7e4b370d594b0b6d50d511fecbb81bdcec0b0035.png?size=lg&key=bc16ef",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

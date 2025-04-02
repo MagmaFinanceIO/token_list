@@ -1,0 +1,13 @@
+{
+  "name": "NYAN GUY",
+  "symbol": "NYANGUY",
+  "decimals": 9,
+  "coin_type": "0x0bdcbdd175074856b7a252cce43e277b2d57172bf70f3f0efdf6384bad2348b9::nyanguy::NYANGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ATm2bcFGhrZo4G8UixsTPuJrWd9MPHzCdPNo5Mhypump.png?size=lg&key=7a1fe8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

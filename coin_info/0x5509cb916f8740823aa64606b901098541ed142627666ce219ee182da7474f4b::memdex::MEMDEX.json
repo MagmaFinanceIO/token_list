@@ -1,0 +1,13 @@
+{
+  "name": "MEMDEX100",
+  "symbol": "MEMDEX",
+  "decimals": 9,
+  "coin_type": "0x5509cb916f8740823aa64606b901098541ed142627666ce219ee182da7474f4b::memdex::MEMDEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/pCJPyyEDw2KCc424?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

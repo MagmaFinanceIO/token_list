@@ -1,0 +1,13 @@
+{
+  "name": "Cat girl friend",
+  "symbol": "CATGF",
+  "decimals": 6,
+  "coin_type": "0x673703a50ea09bb516c03693c303c7d609e28e63b0c5577323c8627959be4ce4::catgf::CATGF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/FDCB_0803_E3_A1_427_B_AE_63_E4383_B318948_1c4cdcf03f.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

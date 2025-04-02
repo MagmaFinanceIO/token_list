@@ -1,0 +1,13 @@
+{
+  "name": "Pipo",
+  "symbol": "PIPO",
+  "decimals": 9,
+  "coin_type": "0x2fad0dbf92e17b16bfbe0c2365b22563b046997b2e8d2b878bb60de48acb5f4e::pipoo::PIPOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0660a118-b7f8-4c5a-8203-071f45d930f1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

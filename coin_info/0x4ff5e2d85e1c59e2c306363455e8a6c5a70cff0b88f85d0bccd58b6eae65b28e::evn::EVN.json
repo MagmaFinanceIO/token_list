@@ -1,0 +1,13 @@
+{
+  "name": "Even Pod",
+  "symbol": "EVN",
+  "decimals": 9,
+  "coin_type": "0x4ff5e2d85e1c59e2c306363455e8a6c5a70cff0b88f85d0bccd58b6eae65b28e::evn::EVN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c2f418e4-6df4-4435-a737-8cb1395860b3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

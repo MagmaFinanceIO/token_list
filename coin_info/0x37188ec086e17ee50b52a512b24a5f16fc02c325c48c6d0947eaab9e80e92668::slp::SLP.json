@@ -1,0 +1,13 @@
+{
+  "name": "Sui Love Potion",
+  "symbol": "SLP",
+  "decimals": 2,
+  "coin_type": "0x37188ec086e17ee50b52a512b24a5f16fc02c325c48c6d0947eaab9e80e92668::slp::SLP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4a88a803-2e4a-468c-9bea-7dac837e600e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

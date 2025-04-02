@@ -1,0 +1,13 @@
+{
+  "name": "BabySuilama",
+  "symbol": "BLAMA",
+  "decimals": 6,
+  "coin_type": "0x29b5981dd30e50222f00d3b112c4da162dbd416fd6eeb939af560f1bed5dec86::blama::BLAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_14_00_27_50_3e4e73fd55.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

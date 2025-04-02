@@ -1,0 +1,13 @@
+{
+  "name": "KIMBA",
+  "symbol": "KIMBA",
+  "decimals": 9,
+  "coin_type": "0x807b056047b2869d5a83c1d5c2505aca691004c408b0274e8508748aebb58d25::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

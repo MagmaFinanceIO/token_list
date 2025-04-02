@@ -1,0 +1,13 @@
+{
+  "name": "Peanut on SUI",
+  "symbol": "SNUT",
+  "decimals": 6,
+  "coin_type": "0xc406381605e96b545b6a12cbd73490ba69400af234d34d97930320b39dfb2049::snut::SNUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/JTXT_Ksh9_400x400_72722d0650.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

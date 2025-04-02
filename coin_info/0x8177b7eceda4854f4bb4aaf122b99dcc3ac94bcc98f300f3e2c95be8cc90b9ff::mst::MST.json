@@ -1,0 +1,13 @@
+{
+  "name": "Misty",
+  "symbol": "Mst",
+  "decimals": 6,
+  "coin_type": "0x8177b7eceda4854f4bb4aaf122b99dcc3ac94bcc98f300f3e2c95be8cc90b9ff::mst::MST",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/f_VKZK_2_CI_400x400_1246212460.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

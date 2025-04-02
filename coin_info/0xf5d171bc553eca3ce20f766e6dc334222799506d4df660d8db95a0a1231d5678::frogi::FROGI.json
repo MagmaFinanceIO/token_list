@@ -1,0 +1,13 @@
+{
+  "name": "FROGI",
+  "symbol": "FROGI",
+  "decimals": 9,
+  "coin_type": "0xf5d171bc553eca3ce20f766e6dc334222799506d4df660d8db95a0a1231d5678::frogi::FROGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/xuDUxJ2yfGXiGorSH78yPYhekm3SqpPB8B6BxqRpump.png?size=lg&key=d6e6b0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

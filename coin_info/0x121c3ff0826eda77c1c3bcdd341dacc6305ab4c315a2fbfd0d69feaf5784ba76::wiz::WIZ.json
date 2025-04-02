@@ -1,0 +1,13 @@
+{
+  "name": "Wiz",
+  "symbol": "Wiz",
+  "decimals": 9,
+  "coin_type": "0x121c3ff0826eda77c1c3bcdd341dacc6305ab4c315a2fbfd0d69feaf5784ba76::wiz::WIZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmW63oJbuXmSJURbGTvyMBLC1YvwbbQdUCWSY6CzFfK7Ah",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

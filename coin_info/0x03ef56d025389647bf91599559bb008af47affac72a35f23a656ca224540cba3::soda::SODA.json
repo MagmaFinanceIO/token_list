@@ -1,0 +1,13 @@
+{
+  "name": "SUI SODA",
+  "symbol": "SODA",
+  "decimals": 6,
+  "coin_type": "0x03ef56d025389647bf91599559bb008af47affac72a35f23a656ca224540cba3::soda::SODA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000085993_5c4e64fe18.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

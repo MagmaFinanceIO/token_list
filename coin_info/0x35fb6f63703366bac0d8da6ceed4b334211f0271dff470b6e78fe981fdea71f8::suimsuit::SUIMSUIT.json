@@ -1,0 +1,13 @@
+{
+  "name": "SUIm SUIt",
+  "symbol": "SUIMSUIT",
+  "decimals": 9,
+  "coin_type": "0x35fb6f63703366bac0d8da6ceed4b334211f0271dff470b6e78fe981fdea71f8::suimsuit::SUIMSUIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/31c7397e-3deb-46a2-894c-dd36a4a8375b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

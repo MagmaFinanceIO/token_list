@@ -1,0 +1,13 @@
+{
+  "name": "Poké Dad",
+  "symbol": "PMD",
+  "decimals": 9,
+  "coin_type": "0x183990d3c82148c596d485edb3f2403133582e4717bc51d60b900571482ee8dd::pmd::PMD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b775c4be-589d-48ec-8639-7f43d3283689.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

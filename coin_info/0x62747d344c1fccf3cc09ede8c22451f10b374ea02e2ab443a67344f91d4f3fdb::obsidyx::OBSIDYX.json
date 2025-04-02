@@ -1,0 +1,13 @@
+{
+  "name": "OBSIDYX AI",
+  "symbol": "OBSIDYX",
+  "decimals": 9,
+  "coin_type": "0x62747d344c1fccf3cc09ede8c22451f10b374ea02e2ab443a67344f91d4f3fdb::obsidyx::OBSIDYX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ENLraJm6xaAbHwMV5t7EXBNJBA4ENuPtba72cKkvpump.png?size=lg&key=b9effc",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUISTAR",
+  "symbol": "STAR",
+  "decimals": 6,
+  "coin_type": "0xeafdc0a45a2fdb90344d1ff443b83e69dfff773decc1171050147cd55fa37255::star::STAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Fighting_47_ee6f87e4f2.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

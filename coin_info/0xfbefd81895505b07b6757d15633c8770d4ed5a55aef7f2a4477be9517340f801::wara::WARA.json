@@ -1,0 +1,13 @@
+{
+  "name": "WaraWara",
+  "symbol": "WARA",
+  "decimals": 6,
+  "coin_type": "0xfbefd81895505b07b6757d15633c8770d4ed5a55aef7f2a4477be9517340f801::wara::WARA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/warawara_is_e21f439ccc.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

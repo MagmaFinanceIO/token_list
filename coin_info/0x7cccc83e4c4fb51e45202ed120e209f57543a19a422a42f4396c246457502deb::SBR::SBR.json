@@ -1,0 +1,13 @@
+{
+  "name": "SBR",
+  "symbol": "SBR",
+  "decimals": 2,
+  "coin_type": "0x7cccc83e4c4fb51e45202ed120e209f57543a19a422a42f4396c246457502deb::SBR::SBR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/XlezfZnMCLj5ip6Q5rQcndLfVhp5s2SpLQuhMohF0YA?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

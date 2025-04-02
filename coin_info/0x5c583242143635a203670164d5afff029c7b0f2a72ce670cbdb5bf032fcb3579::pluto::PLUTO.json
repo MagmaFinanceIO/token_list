@@ -1,0 +1,13 @@
+{
+  "name": "The Last Pluto",
+  "symbol": "PLUTO",
+  "decimals": 6,
+  "coin_type": "0x5c583242143635a203670164d5afff029c7b0f2a72ce670cbdb5bf032fcb3579::pluto::PLUTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_f788baf77c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "egg",
+  "symbol": "EGG",
+  "decimals": 6,
+  "coin_type": "0xe7b58d32fa79875fc78b5765facbfb8a5a19a8d341cbd58c3855545477b64340::egg::EGG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/LOGO_3_f5a585c490.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

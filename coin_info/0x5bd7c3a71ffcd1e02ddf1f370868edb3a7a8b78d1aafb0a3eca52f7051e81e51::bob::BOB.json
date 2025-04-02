@@ -1,0 +1,13 @@
+{
+  "name": "Bob the blob",
+  "symbol": "BOB",
+  "decimals": 6,
+  "coin_type": "0x5bd7c3a71ffcd1e02ddf1f370868edb3a7a8b78d1aafb0a3eca52f7051e81e51::bob::BOB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e56f18a9-5fc6-4906-a141-c94c2e80c55a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

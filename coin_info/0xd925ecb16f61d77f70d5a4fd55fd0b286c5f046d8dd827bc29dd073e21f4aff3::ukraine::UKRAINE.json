@@ -1,0 +1,13 @@
+{
+  "name": "Ukraine",
+  "symbol": "Ukraine",
+  "decimals": 2,
+  "coin_type": "0xd925ecb16f61d77f70d5a4fd55fd0b286c5f046d8dd827bc29dd073e21f4aff3::ukraine::UKRAINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/81a0a8f9-ca7e-43b7-b9e1-fea37e95c47c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

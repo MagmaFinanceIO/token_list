@@ -1,0 +1,13 @@
+{
+  "name": "CAT BULL AI",
+  "symbol": "CATBULL",
+  "decimals": 9,
+  "coin_type": "0xbfbb28f82d9e0d16b67dbe7d346623866069e4740259405889847efab425663d::catbull::CATBULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d5f15ac7-e9b9-44f7-a7f8-a1ee01b33088.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

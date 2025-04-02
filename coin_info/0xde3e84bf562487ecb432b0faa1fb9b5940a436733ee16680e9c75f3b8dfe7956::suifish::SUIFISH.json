@@ -1,0 +1,13 @@
+{
+  "name": "Magical Fish of the Great Sui Seas!",
+  "symbol": "SUIFISH",
+  "decimals": 6,
+  "coin_type": "0xde3e84bf562487ecb432b0faa1fb9b5940a436733ee16680e9c75f3b8dfe7956::suifish::SUIFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SUIFISH_c1862a1f2f.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

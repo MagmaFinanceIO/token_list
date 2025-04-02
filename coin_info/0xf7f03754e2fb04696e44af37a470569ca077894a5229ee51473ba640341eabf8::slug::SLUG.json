@@ -1,0 +1,13 @@
+{
+  "name": "SLUG SUI",
+  "symbol": "SLUG",
+  "decimals": 6,
+  "coin_type": "0xf7f03754e2fb04696e44af37a470569ca077894a5229ee51473ba640341eabf8::slug::SLUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_f4d0469c65.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mole dot gg",
+  "symbol": "MOLE",
+  "decimals": 9,
+  "coin_type": "0xb7fc70a2fc8e0b290174b3d9e9d836c9171828ee1557e245463f5dba7deb8e59::mole::MOLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/Qme59iBhTThCFi2baLXhFDst7BRGLnJrjjw9JF3DNb2L4q",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

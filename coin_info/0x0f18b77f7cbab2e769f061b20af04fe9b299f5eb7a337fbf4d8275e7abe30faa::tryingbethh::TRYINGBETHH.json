@@ -1,0 +1,13 @@
+{
+  "name": "TRYINGBETH",
+  "symbol": "TRYINGBETHH",
+  "decimals": 9,
+  "coin_type": "0x0f18b77f7cbab2e769f061b20af04fe9b299f5eb7a337fbf4d8275e7abe30faa::tryingbethh::TRYINGBETHH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

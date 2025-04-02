@@ -1,0 +1,13 @@
+{
+  "name": "GOATMAN AI",
+  "symbol": "GOATMAN",
+  "decimals": 9,
+  "coin_type": "0x87356a24d2a0591285cc988baf7472ae8de0d06e985a3c4bdebd91c1c387a6d5::goatman::GOATMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f66e40a0-a1f9-42b7-987e-8ce60322cf19.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

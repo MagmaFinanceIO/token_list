@@ -1,0 +1,13 @@
+{
+  "name": "Lil Fucker",
+  "symbol": "El_Fucker",
+  "decimals": 9,
+  "coin_type": "0x584e13839faeb9b523ddca89665e7fbba8cf53e7f53a82fcef08a40e52ddd7c7::el_fucker::EL_FUCKER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4028032a-a2a5-4ef2-9f3e-f86fbce78811.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

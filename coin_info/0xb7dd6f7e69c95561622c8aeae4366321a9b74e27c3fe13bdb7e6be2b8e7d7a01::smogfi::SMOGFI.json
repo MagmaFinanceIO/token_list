@@ -1,0 +1,13 @@
+{
+  "name": "Smogfi",
+  "symbol": "SMOGFI",
+  "decimals": 6,
+  "coin_type": "0xb7dd6f7e69c95561622c8aeae4366321a9b74e27c3fe13bdb7e6be2b8e7d7a01::smogfi::SMOGFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Uy_O5_L_Ms_400x400_1_8d2ea9b086.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

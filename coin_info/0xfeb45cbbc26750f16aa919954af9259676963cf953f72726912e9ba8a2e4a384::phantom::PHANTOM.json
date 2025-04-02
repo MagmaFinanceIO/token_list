@@ -1,0 +1,13 @@
+{
+  "name": "Phantom",
+  "symbol": "PHANTOM",
+  "decimals": 9,
+  "coin_type": "0xfeb45cbbc26750f16aa919954af9259676963cf953f72726912e9ba8a2e4a384::phantom::PHANTOM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a2acaba3-9c4d-4a6e-a096-8f907f1e34cd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

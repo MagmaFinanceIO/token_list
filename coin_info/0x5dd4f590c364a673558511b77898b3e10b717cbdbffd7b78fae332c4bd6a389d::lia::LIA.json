@@ -1,0 +1,13 @@
+{
+  "name": "LIA",
+  "symbol": "LIA",
+  "decimals": 6,
+  "coin_type": "0x5dd4f590c364a673558511b77898b3e10b717cbdbffd7b78fae332c4bd6a389d::lia::LIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/iliayou_20241106_0011_e66f248081.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Sakamoto",
+  "symbol": "Sakamoto",
+  "decimals": 6,
+  "coin_type": "0xf7b5f4e3447e3c2290d1230a1c82df7941b0f6da5748cbf6c37ac774e5f971b9::sakamoto::SAKAMOTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736883453359.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "YouSUI",
+  "symbol": "XUI",
+  "decimals": 9,
+  "coin_type": "0x3cbae4efb916a6ff23eb4724f6fb5d37c5a342b689a6f308fa10acc944799f84::xui::XUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://yousui.io/images/coins/XUI.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

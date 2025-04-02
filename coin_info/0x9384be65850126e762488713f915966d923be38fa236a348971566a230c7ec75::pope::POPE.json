@@ -1,0 +1,13 @@
+{
+  "name": "POPE",
+  "symbol": "POPE",
+  "decimals": 9,
+  "coin_type": "0x9384be65850126e762488713f915966d923be38fa236a348971566a230c7ec75::pope::POPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0e53f463-3d41-466e-a73a-b7a7c8aa270b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

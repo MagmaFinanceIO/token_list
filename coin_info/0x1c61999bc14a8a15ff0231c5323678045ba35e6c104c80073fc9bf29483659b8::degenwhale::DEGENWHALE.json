@@ -1,0 +1,13 @@
+{
+  "name": "Degen Whale",
+  "symbol": "DegenWhale",
+  "decimals": 9,
+  "coin_type": "0x1c61999bc14a8a15ff0231c5323678045ba35e6c104c80073fc9bf29483659b8::degenwhale::DEGENWHALE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e617bd1f-bb8e-4bf7-93b8-6cb49b92232b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HOP",
+  "symbol": "HOP",
+  "decimals": 9,
+  "coin_type": "0x10a7de5486fa20ed4a03ccb0dc397e7ec874ad5780d3ded5b79c2bb2b6b5c819::hop::HOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8a9ab607-5bb7-4088-a0ae-e6f112753d16.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

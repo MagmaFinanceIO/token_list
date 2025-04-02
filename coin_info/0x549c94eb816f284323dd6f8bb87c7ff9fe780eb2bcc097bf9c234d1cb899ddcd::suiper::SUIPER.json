@@ -1,0 +1,13 @@
+{
+  "name": "Suiperman",
+  "symbol": "Suiper",
+  "decimals": 6,
+  "coin_type": "0x549c94eb816f284323dd6f8bb87c7ff9fe780eb2bcc097bf9c234d1cb899ddcd::suiper::SUIPER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Ga_R24_RD_Wc_A_Aa1u_V_0cb05cc213.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

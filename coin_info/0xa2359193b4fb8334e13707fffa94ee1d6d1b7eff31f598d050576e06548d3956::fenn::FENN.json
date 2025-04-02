@@ -1,0 +1,13 @@
+{
+  "name": "Fenn",
+  "symbol": "FENN",
+  "decimals": 6,
+  "coin_type": "0xa2359193b4fb8334e13707fffa94ee1d6d1b7eff31f598d050576e06548d3956::fenn::FENN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/FENNXD_a442c77a09.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

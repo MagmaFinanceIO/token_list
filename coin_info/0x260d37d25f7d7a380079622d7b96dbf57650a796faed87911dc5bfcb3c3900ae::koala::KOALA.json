@@ -1,0 +1,13 @@
+{
+  "name": "THE SUI KOALA",
+  "symbol": "KOALA",
+  "decimals": 9,
+  "coin_type": "0x260d37d25f7d7a380079622d7b96dbf57650a796faed87911dc5bfcb3c3900ae::koala::KOALA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/780f5a05-7c69-48d2-89ec-0b1f973e6ec2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ai420z",
+  "symbol": "ai420z",
+  "decimals": 9,
+  "coin_type": "0x11cd266b5d55d5ff20dd4637061862815d778ac669e05c18c9bba08b57d3b720::ai420z::AI420Z",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GPmqXeYc2ZAD4BvwN7uyJcyrhgGU6qQkSh3cTpDkFwdY.png?size=lg&key=db6069",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Mind of Pepe",
+  "symbol": "MIND",
+  "decimals": 9,
+  "coin_type": "0x5df19611ee2a0b8e41cb53f1dcb90eaa5d86b966bb8ded50fe48962c6967cb7c::mind::MIND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DQ76RZW7QRt8XzmhusYr3xY5xdQoHZHwE89zjH6tPzNw.png?size=lg&key=b71b18",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

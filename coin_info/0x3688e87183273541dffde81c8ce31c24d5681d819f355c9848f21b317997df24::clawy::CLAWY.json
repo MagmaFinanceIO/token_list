@@ -1,0 +1,13 @@
+{
+  "name": "SUI CLAWY",
+  "symbol": "CLAWY",
+  "decimals": 6,
+  "coin_type": "0x3688e87183273541dffde81c8ce31c24d5681d819f355c9848f21b317997df24::clawy::CLAWY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/crab_claw_161045e01e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuiWormy",
+  "symbol": "WORMY",
+  "decimals": 6,
+  "coin_type": "0xbe4316e7d562d8565f613f798ecaeaee6f7b21c1958fd133fe5bd181e62433d1::wormy::WORMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2025_01_12_15_22_17_b8b7e69d05.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

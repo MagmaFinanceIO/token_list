@@ -1,0 +1,13 @@
+{
+  "name": "CWOK",
+  "symbol": "CWOK",
+  "decimals": 5,
+  "coin_type": "0xdfa1458ddaa0004d18dadfadcdd0d8bb0700ec547cd734f030792177b73b100c::cwok::CWOK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7c76f78e-4eea-4bdc-96b2-153363660d74.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

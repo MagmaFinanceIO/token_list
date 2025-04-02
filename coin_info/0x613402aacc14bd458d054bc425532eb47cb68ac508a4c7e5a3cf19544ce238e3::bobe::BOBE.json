@@ -1,0 +1,13 @@
+{
+  "name": "BOBE SUI",
+  "symbol": "BOBE",
+  "decimals": 6,
+  "coin_type": "0x613402aacc14bd458d054bc425532eb47cb68ac508a4c7e5a3cf19544ce238e3::bobe::BOBE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/kotak_3c8b7facbf.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

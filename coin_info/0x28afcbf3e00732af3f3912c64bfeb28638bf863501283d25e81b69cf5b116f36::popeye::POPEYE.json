@@ -1,0 +1,13 @@
+{
+  "name": "POPEYE ON SUI",
+  "symbol": "POPEYE",
+  "decimals": 6,
+  "coin_type": "0x28afcbf3e00732af3f3912c64bfeb28638bf863501283d25e81b69cf5b116f36::popeye::POPEYE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_9926f106f0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

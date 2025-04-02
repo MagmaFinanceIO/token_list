@@ -1,0 +1,13 @@
+{
+  "name": "EcoBeez",
+  "symbol": "EBZ",
+  "decimals": 9,
+  "coin_type": "0x453a93f75c0fcf68fe1351a361bc4e03e8e0cfb41ac0825750139e77207d034d::ebz::EBZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4c6dc567-9e63-43f8-8375-faa11ecb9092.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

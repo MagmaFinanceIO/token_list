@@ -1,0 +1,13 @@
+{
+  "name": "Sui Suno",
+  "symbol": "SUNO",
+  "decimals": 6,
+  "coin_type": "0x01915890c2bb3ee12539b59a4a60ef051b339fc27fd27f866bb6d8ad828562ca::suno::SUNO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmTSvUQgiHa3HbDRN4BxSA1Jfi1LzTMCpdPMj2BB7bhKjz",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

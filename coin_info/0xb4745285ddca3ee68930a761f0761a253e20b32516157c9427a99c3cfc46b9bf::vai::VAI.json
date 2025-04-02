@@ -1,0 +1,13 @@
+{
+  "name": "Velocity AI",
+  "symbol": "VAI",
+  "decimals": 9,
+  "coin_type": "0xb4745285ddca3ee68930a761f0761a253e20b32516157c9427a99c3cfc46b9bf::vai::VAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ea26097e-7307-4b1b-bbd2-763f1f147ccc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SAD HAMSTER COMMUNITY",
+  "symbol": "SADHAMMY",
+  "decimals": 9,
+  "coin_type": "0x297ff2592d8a88423d5aa7e1d8cc51d63f6d8ece04a7571ba07b4d0b2f720c25::sadhammy::SADHAMMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/809b4179-f651-4211-a547-4ae0707f6a1d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

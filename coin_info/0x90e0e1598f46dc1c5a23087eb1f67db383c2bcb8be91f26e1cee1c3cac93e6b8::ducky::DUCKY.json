@@ -1,0 +1,13 @@
+{
+  "name": "DUCKY THE DUCK AI",
+  "symbol": "DUCKY",
+  "decimals": 9,
+  "coin_type": "0x90e0e1598f46dc1c5a23087eb1f67db383c2bcb8be91f26e1cee1c3cac93e6b8::ducky::DUCKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6b50ec8b-0a59-4927-a5c7-491517d39453.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Goatsuius Maxsuius",
+  "symbol": "GOATSUIUS",
+  "decimals": 6,
+  "coin_type": "0xaf3e6bd678d08f6bbfa230d9165ec83855f24ce5d07690c6f1a7e611e59b6ffc::goatsuius::GOATSUIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/333e4ce4-f159-4880-83fc-2d56cd7ed690.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

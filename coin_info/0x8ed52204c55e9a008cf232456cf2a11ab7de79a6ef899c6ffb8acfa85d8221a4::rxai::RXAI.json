@@ -1,0 +1,13 @@
+{
+  "name": "REVOX AI",
+  "symbol": "RXAI",
+  "decimals": 6,
+  "coin_type": "0x8ed52204c55e9a008cf232456cf2a11ab7de79a6ef899c6ffb8acfa85d8221a4::rxai::RXAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/19f23c4d-f8ec-4fcd-a047-f955662ff387.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

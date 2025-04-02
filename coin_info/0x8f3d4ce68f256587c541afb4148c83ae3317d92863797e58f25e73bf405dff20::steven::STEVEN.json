@@ -1,0 +1,13 @@
+{
+  "name": "Steven Universe",
+  "symbol": "STEVEN",
+  "decimals": 9,
+  "coin_type": "0x8f3d4ce68f256587c541afb4148c83ae3317d92863797e58f25e73bf405dff20::steven::STEVEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmX8bMiajK5sZpsnrwZoXaZWYPeQuZksHeCdpNuXazoC1v",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

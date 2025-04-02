@@ -1,0 +1,13 @@
+{
+  "name": "🐸 PAPA OF PEPI",
+  "symbol": "PAPI",
+  "decimals": 3,
+  "coin_type": "0x9201f9560811f1ad9f5513bab2da7773498195d073b17e0827b0c90e7491f52b::papi::PAPI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e7946542-ebc8-40c9-af82-d40027c1bad3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "gwb",
+  "symbol": "gwb",
+  "decimals": 6,
+  "coin_type": "0x351630f9df156094f21dec823e654a34ecf93de0dfb99b4a2f5af0515d7b3d96::gwb::GWB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

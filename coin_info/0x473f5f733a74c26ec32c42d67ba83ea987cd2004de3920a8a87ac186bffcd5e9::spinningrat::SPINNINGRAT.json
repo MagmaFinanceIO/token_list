@@ -1,0 +1,13 @@
+{
+  "name": "Spinning Rat",
+  "symbol": "SPINNINGRAT",
+  "decimals": 6,
+  "coin_type": "0x473f5f733a74c26ec32c42d67ba83ea987cd2004de3920a8a87ac186bffcd5e9::spinningrat::SPINNINGRAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000035369_7d516015cf.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

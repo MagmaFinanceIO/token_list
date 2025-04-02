@@ -1,0 +1,13 @@
+{
+  "name": "OBOT",
+  "symbol": "OBOT",
+  "decimals": 9,
+  "coin_type": "0x580afc14f4ba67e2723d3dcf5e7dc8056460203224d5e287eb99fb80365692ab::obot::OBOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmeeSqjjrpQ5ht5uc21uG3j3PdVM46CkfTXUCyt23vs462",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CYBEREXPLOSION",
+  "symbol": "CYBEREXPLOSION",
+  "decimals": 9,
+  "coin_type": "0xc27bae4baad5ee3ffececc6b430389b4507b102084ed9dabf08152f58feb7e65::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

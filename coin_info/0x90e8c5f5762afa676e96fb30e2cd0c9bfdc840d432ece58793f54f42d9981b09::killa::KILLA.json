@@ -1,0 +1,13 @@
+{
+  "name": "killa",
+  "symbol": "KILLA",
+  "decimals": 6,
+  "coin_type": "0x90e8c5f5762afa676e96fb30e2cd0c9bfdc840d432ece58793f54f42d9981b09::killa::KILLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/profile_c3d786692e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

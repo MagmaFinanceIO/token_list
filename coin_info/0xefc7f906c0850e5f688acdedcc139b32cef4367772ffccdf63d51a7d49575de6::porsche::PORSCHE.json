@@ -1,0 +1,13 @@
+{
+  "name": "PORSCHE D.VA",
+  "symbol": "PORSCHE",
+  "decimals": 9,
+  "coin_type": "0xefc7f906c0850e5f688acdedcc139b32cef4367772ffccdf63d51a7d49575de6::porsche::PORSCHE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/784/060/large/pietro-trizzullo-4k-overwatch-2-char-d-va-porsche-4-1.jpg?1728497334",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

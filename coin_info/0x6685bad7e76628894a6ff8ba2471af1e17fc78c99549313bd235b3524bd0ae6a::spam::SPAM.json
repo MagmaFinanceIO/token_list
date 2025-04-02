@@ -1,0 +1,13 @@
+{
+  "name": "SPAM",
+  "symbol": "SPAM",
+  "decimals": 4,
+  "coin_type": "0x6685bad7e76628894a6ff8ba2471af1e17fc78c99549313bd235b3524bd0ae6a::spam::SPAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/95edd35b-d985-4a25-996a-d54495fcc48a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

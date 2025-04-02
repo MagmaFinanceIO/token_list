@@ -1,0 +1,13 @@
+{
+  "name": "Water Tribe 🌊",
+  "symbol": "KATARA",
+  "decimals": 9,
+  "coin_type": "0x21ba7b71f1625e906be538f4f29c88bb19ed287194d0d4fc9d0221fe0fe47214::katara::KATARA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e7190e19-1259-4189-9d1c-a00cb3d364d6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

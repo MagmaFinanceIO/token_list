@@ -1,0 +1,13 @@
+{
+  "name": "Trump",
+  "symbol": "ForTrump",
+  "decimals": 6,
+  "coin_type": "0xe6c90a55d270c6cdda74a273e32bc6f07da8ff55591ef96ff36ecf7c08561288::fortrump::FORTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_6109_887a0bfe03.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

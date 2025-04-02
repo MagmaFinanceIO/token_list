@@ -1,0 +1,13 @@
+{
+  "name": "CORGi Inu",
+  "symbol": "CORGi",
+  "decimals": 9,
+  "coin_type": "0xecd8426cfd9b3789811c8d5fa61aad228e3dffb3bf49d39ba100ff0aaa063733::corgi::CORGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2a9a1be6-904c-46f7-ab08-dc19663e41aa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

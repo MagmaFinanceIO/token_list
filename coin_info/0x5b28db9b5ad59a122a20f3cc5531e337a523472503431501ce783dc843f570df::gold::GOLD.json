@@ -1,0 +1,13 @@
+{
+  "name": "GOLDIE",
+  "symbol": "GOLD",
+  "decimals": 6,
+  "coin_type": "0x5b28db9b5ad59a122a20f3cc5531e337a523472503431501ce783dc843f570df::gold::GOLD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736453802196.53",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

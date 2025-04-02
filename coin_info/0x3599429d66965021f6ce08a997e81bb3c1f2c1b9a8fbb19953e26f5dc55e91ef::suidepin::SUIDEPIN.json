@@ -1,0 +1,13 @@
+{
+  "name": "SUI DEPIN",
+  "symbol": "SUIDEPIN",
+  "decimals": 8,
+  "coin_type": "0x3599429d66965021f6ce08a997e81bb3c1f2c1b9a8fbb19953e26f5dc55e91ef::suidepin::SUIDEPIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3d874ef5-afb6-4eed-bf5f-2b6d00b834a0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

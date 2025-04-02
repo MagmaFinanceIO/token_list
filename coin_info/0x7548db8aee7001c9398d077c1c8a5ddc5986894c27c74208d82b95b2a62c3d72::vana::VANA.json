@@ -1,0 +1,13 @@
+{
+  "name": "Vana",
+  "symbol": "VANA",
+  "decimals": 9,
+  "coin_type": "0x7548db8aee7001c9398d077c1c8a5ddc5986894c27c74208d82b95b2a62c3d72::vana::VANA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/profile_images/1840397922761879552/HzOjl_JZ_400x400.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

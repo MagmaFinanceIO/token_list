@@ -1,0 +1,13 @@
+{
+  "name": "Kasumi 152 - AI",
+  "symbol": "Kasumi",
+  "decimals": 9,
+  "coin_type": "0x5987049d7507bc356472bab58b9b8cf646be5685999bafe1a154c44cdf0c0682::kasumi::KASUMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5E643BWj8k71yuJqn9n2QCg589bphjeRzEcgGP2xpump.png?size=lg&key=399d02",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

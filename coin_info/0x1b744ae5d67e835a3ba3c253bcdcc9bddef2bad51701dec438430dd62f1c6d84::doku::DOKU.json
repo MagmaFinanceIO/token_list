@@ -1,0 +1,13 @@
+{
+  "name": "Doku On Sui",
+  "symbol": "DOKU",
+  "decimals": 9,
+  "coin_type": "0x1b744ae5d67e835a3ba3c253bcdcc9bddef2bad51701dec438430dd62f1c6d84::doku::DOKU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/53b5c0a6-63f6-463f-89d7-4c275ba9df57.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

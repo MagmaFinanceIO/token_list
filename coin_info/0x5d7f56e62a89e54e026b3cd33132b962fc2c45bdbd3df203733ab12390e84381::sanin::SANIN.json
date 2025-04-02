@@ -1,0 +1,13 @@
+{
+  "name": "SANIN ON SUI",
+  "symbol": "SANIN",
+  "decimals": 6,
+  "coin_type": "0x5d7f56e62a89e54e026b3cd33132b962fc2c45bdbd3df203733ab12390e84381::sanin::SANIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3993_1d4fdb391d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "OSIRISAI",
+  "symbol": "OSIRISAI",
+  "decimals": 9,
+  "coin_type": "0xaaa7a2b2fc4b28db57792be405895f5c5fe4e12fe8d50e82451cfc3ccb985235::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

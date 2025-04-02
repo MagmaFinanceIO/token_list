@@ -1,0 +1,13 @@
+{
+  "name": "PLUG SUI",
+  "symbol": "PLUG",
+  "decimals": 6,
+  "coin_type": "0x948ec6e03a4ad91d1ce1fbd0994f7e86dcb88e53b0b8ced86f85ee63d2672515::plug::PLUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/cd6d4070_84c2_4454_8b76_ab43959aa393_29696c200b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

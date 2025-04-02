@@ -1,0 +1,13 @@
+{
+  "name": "Suiperman",
+  "symbol": "SUIPERMAN",
+  "decimals": 9,
+  "coin_type": "0x5c642c1c0a6f9ed90569dfb1d5fa5148f90ecebe5f0d0c06ce4d8698d9e7d10c::suiperman::SUIPERMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/020ae7cb-f4c5-4ef5-972e-bc4ef9b897a3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

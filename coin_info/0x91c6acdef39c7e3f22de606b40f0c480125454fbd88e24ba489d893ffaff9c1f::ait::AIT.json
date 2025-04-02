@@ -1,0 +1,13 @@
+{
+  "name": "AI TRUMP",
+  "symbol": "AIT",
+  "decimals": 9,
+  "coin_type": "0x91c6acdef39c7e3f22de606b40f0c480125454fbd88e24ba489d893ffaff9c1f::ait::AIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4i3aysdS3yqzxr76K62tFbGXzi4havb1mBk41tdypump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sigma AI Terminal",
+  "symbol": "saisui",
+  "decimals": 9,
+  "coin_type": "0x6a3d94637704739e094f279c69d08b55fa63f75db7b96dc645d09b59792335c2::saisui::SAISUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6APnaLJaNtmXzqjfp8anVTYyG7ZVfuHaX5h3yR94pump.png?size=lg&key=004d74",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

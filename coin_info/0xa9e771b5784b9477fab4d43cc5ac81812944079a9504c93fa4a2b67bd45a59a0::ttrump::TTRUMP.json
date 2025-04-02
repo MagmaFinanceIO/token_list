@@ -1,0 +1,13 @@
+{
+  "name": "Teddytrump",
+  "symbol": "ttrump",
+  "decimals": 9,
+  "coin_type": "0xa9e771b5784b9477fab4d43cc5ac81812944079a9504c93fa4a2b67bd45a59a0::ttrump::TTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/350a3f5f-3dcc-41dd-9e54-03be10c7c3bf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

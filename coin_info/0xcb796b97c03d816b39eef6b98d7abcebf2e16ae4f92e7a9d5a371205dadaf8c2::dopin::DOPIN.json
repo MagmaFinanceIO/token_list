@@ -1,0 +1,13 @@
+{
+  "name": "Dopin the Dolphin",
+  "symbol": "DOPIN",
+  "decimals": 9,
+  "coin_type": "0xcb796b97c03d816b39eef6b98d7abcebf2e16ae4f92e7a9d5a371205dadaf8c2::dopin::DOPIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://gateway.pinata.cloud/ipfs/QmYaNGP5RjLHw3KxRihjqY2opwUXp9vcfGRBdUBiXysjyB",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

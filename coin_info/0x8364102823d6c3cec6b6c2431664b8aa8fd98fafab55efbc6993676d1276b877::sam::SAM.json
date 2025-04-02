@@ -1,0 +1,13 @@
+{
+  "name": "Sam",
+  "symbol": "Sam",
+  "decimals": 9,
+  "coin_type": "0x8364102823d6c3cec6b6c2431664b8aa8fd98fafab55efbc6993676d1276b877::sam::SAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

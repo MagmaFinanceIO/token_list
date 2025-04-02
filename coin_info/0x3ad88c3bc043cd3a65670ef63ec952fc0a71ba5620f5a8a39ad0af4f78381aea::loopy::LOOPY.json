@@ -1,0 +1,13 @@
+{
+  "name": "aaa loopy",
+  "symbol": "LOOPY",
+  "decimals": 6,
+  "coin_type": "0x3ad88c3bc043cd3a65670ef63ec952fc0a71ba5620f5a8a39ad0af4f78381aea::loopy::LOOPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/0_7ca6cf3cb4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

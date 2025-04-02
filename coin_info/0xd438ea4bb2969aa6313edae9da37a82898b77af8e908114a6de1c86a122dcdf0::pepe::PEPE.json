@@ -1,0 +1,13 @@
+{
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 9,
+  "coin_type": "0xd438ea4bb2969aa6313edae9da37a82898b77af8e908114a6de1c86a122dcdf0::pepe::PEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b83e6870-f7b5-443d-9d60-3219481a9b36.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

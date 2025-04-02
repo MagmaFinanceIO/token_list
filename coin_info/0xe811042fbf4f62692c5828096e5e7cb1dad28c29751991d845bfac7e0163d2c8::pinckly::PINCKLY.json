@@ -1,0 +1,13 @@
+{
+  "name": "Mr. Pinckly",
+  "symbol": "PINCKLY",
+  "decimals": 6,
+  "coin_type": "0xe811042fbf4f62692c5828096e5e7cb1dad28c29751991d845bfac7e0163d2c8::pinckly::PINCKLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/default_Violet_Chinchilla_Courtesy_of_Cameron_s_Chinchillas_1_ef954a1178.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

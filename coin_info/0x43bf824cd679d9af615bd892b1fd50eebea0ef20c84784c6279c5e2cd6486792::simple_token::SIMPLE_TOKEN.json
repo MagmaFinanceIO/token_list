@@ -1,0 +1,13 @@
+{
+  "name": "Clarion AI",
+  "symbol": "CLARION",
+  "decimals": 9,
+  "coin_type": "0x43bf824cd679d9af615bd892b1fd50eebea0ef20c84784c6279c5e2cd6486792::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

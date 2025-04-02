@@ -1,0 +1,13 @@
+{
+  "name": "$MONEYFOMO",
+  "symbol": "FOMO",
+  "decimals": 9,
+  "coin_type": "0xe7cc3ad47ebd09463b8497fbb374f1b40f7eb2c1bb83bb9359df4d25856cb35c::fomo::FOMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://s1.coincarp.com/logo/1/fomobase.png?style=200&v=1711519680",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

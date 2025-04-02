@@ -1,0 +1,13 @@
+{
+  "name": "MiniDoge",
+  "symbol": "MiniDoge",
+  "decimals": 9,
+  "coin_type": "0xdef9f8504408a5e0b1ddcf15aaac3361cbc2d722d8408bcd08d0d0851714544e::minidoge::MINIDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a7faaca1-1e8b-4275-ab8d-ae580323af26.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

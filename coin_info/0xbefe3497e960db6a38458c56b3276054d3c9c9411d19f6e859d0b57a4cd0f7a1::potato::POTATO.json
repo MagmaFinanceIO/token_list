@@ -1,0 +1,13 @@
+{
+  "name": "Pablo The Potato",
+  "symbol": "POTATO",
+  "decimals": 9,
+  "coin_type": "0xbefe3497e960db6a38458c56b3276054d3c9c9411d19f6e859d0b57a4cd0f7a1::potato::POTATO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dc197109-6d5f-49e4-b61a-16b8deb3006f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

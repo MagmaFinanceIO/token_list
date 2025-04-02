@@ -1,0 +1,13 @@
+{
+  "name": "Simulize AI",
+  "symbol": "SMZAI",
+  "decimals": 9,
+  "coin_type": "0xfce624f9e0bd92ebd337dc6b59ec50a012ab0fe9fef445011dfc2e11c485750f::smzai::SMZAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/G9FwFW4KzzNGzA18BgWXxmiXfhFTEjdKHCt6bGWKpump.png?size=lg&key=63f104",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

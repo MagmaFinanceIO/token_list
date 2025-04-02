@@ -1,0 +1,15 @@
+{
+  "name": "Wrapped Matic (Portal from Polygon)",
+  "symbol": "WMATIC",
+  "decimals": 8,
+  "coin_type": "0xdbe380b13a6d0f5cdedd58de8f04625263f113b3f9db32b3e1983f49e2841676::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "0xdbe380b13a6d0f5cdedd58de8f04625263f113b3f9db32b3e1983f49e2841676::coin::COIN",
+  "coin_priority": [
+    "710"
+  ],
+  "logo_url": "https://fe3wnx45vysrtzfr7kwg4aowt7aqb2tku4szytg2ayfwdyp3jk6q.arweave.net/KTdm352uJRnksfqsbgHWn8EA6mqnJZxM2gYLYeH7Sr0",
+  "project_url": "",
+  "coingecko_id": "matic-wormhole",
+  "is_trusted": true
+}

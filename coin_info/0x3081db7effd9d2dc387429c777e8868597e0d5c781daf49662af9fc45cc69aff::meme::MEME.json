@@ -1,0 +1,13 @@
+{
+  "name": "Memecoin",
+  "symbol": "MEME",
+  "decimals": 6,
+  "coin_type": "0x3081db7effd9d2dc387429c777e8868597e0d5c781daf49662af9fc45cc69aff::meme::MEME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/MEME_a598587ffe.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

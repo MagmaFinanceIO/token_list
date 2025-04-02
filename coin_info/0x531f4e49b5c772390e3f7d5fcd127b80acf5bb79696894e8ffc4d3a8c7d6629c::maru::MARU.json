@@ -1,0 +1,13 @@
+{
+  "name": "MaruTaro on Sui",
+  "symbol": "MARU",
+  "decimals": 9,
+  "coin_type": "0x531f4e49b5c772390e3f7d5fcd127b80acf5bb79696894e8ffc4d3a8c7d6629c::maru::MARU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a6a5c4a6-8005-4f8d-af36-36450e415b88.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

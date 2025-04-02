@@ -1,0 +1,13 @@
+{
+  "name": "Rowdy Ringnecks",
+  "symbol": "ROWDY",
+  "decimals": 9,
+  "coin_type": "0xeb7f867bc1d56232eb27b0b79e9183a26558ddefad88f2c47d4ac4ffe5bec1ea::rowdy::ROWDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2x9hsMdPa3JoMZMEG2C4D8aiyeBsLtfCn39NZXWrvY2n.png?size=lg&key=aab145",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

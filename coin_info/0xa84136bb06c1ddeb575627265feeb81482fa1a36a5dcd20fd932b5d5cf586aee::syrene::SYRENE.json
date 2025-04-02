@@ -1,0 +1,13 @@
+{
+  "name": "Syrene Skull Bed",
+  "symbol": "SYRENE",
+  "decimals": 9,
+  "coin_type": "0xa84136bb06c1ddeb575627265feeb81482fa1a36a5dcd20fd932b5d5cf586aee::syrene::SYRENE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/231/080/large/paul-kwon-zeronis-img-8065.jpg?1727049177",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

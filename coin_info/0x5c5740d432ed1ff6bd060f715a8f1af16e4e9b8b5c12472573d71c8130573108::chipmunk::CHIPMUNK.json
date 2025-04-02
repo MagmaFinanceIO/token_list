@@ -1,0 +1,13 @@
+{
+  "name": "CHIPMUNK",
+  "symbol": "CHIPMUNK",
+  "decimals": 6,
+  "coin_type": "0x5c5740d432ed1ff6bd060f715a8f1af16e4e9b8b5c12472573d71c8130573108::chipmunk::CHIPMUNK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/chipmunk.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

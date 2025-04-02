@@ -1,0 +1,13 @@
+{
+  "name": "RAY AI AGENT",
+  "symbol": "RAI",
+  "decimals": 9,
+  "coin_type": "0xfe380b7e249219435b030e533272c7550eae7bf96ede80ede68139d65f0c466a::rai::RAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/88do16Qs1RbWuKnhW8nSoRjJtkicAm5kYy9wLfN8pump.png?size=lg&key=e9d378",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

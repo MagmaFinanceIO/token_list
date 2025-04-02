@@ -1,0 +1,13 @@
+{
+  "name": "JOJO",
+  "symbol": "JOJO",
+  "decimals": 9,
+  "coin_type": "0x471c7fe04126632c6bd44bab108db584861b2b1b30006f8b4f90d8bb02b2580d::jojo::JOJO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/12f34883-4c5d-45f8-9edd-3d423169f0a8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

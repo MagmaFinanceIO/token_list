@@ -1,0 +1,13 @@
+{
+  "name": "suipop",
+  "symbol": "SUIPOP",
+  "decimals": 6,
+  "coin_type": "0x1d2856a1ea4c67c15b848f1fdd85834e0b5d1abae415683b7bc74abc4538e854::suipop::SUIPOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

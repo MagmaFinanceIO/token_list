@@ -1,0 +1,13 @@
+{
+  "name": "Pipet",
+  "symbol": "PIPET",
+  "decimals": 9,
+  "coin_type": "0x80b7da8ce6a494331e60fab119ba8df10b6be7337473bf66051d771d9a0c6091::pipet::PIPET",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8f27dfa0-7a10-46f1-8603-09d3b3f56bdf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

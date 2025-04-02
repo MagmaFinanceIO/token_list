@@ -1,0 +1,13 @@
+{
+  "name": "Water",
+  "symbol": "WATER",
+  "decimals": 9,
+  "coin_type": "0xd3f7ea1fa9beeaa415777700b176900a77358f830596aa64330668ba98c7abb8::water::WATER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9dbb13ee-8de6-4d86-bd1f-05fb8660032e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

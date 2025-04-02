@@ -1,0 +1,13 @@
+{
+  "name": "$Fish",
+  "symbol": "FISH",
+  "decimals": 9,
+  "coin_type": "0xf6011e075f5633d614c9f81b8db1b6efb7471d501ba082a94d28c8c070e41a2d::fish::FISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://file-walletapp.waveonsui.com/images/wave-pumps/f7b80203-7124-47a0-a03e-c4ef7dc888b7.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

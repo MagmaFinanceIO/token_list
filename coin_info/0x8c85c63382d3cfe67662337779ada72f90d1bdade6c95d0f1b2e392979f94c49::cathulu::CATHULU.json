@@ -1,0 +1,13 @@
+{
+  "name": "CATHULU",
+  "symbol": "CATHULU",
+  "decimals": 9,
+  "coin_type": "0x8c85c63382d3cfe67662337779ada72f90d1bdade6c95d0f1b2e392979f94c49::cathulu::CATHULU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4zY4TkXrwz1z2EMKrpi9mgXbg5nr7m63cZ586pWHpump.png?size=lg&key=f8bdee",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

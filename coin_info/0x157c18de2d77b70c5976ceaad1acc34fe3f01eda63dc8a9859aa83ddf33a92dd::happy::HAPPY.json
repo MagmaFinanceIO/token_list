@@ -1,0 +1,13 @@
+{
+  "name": "Happy Cat",
+  "symbol": "HAPPY",
+  "decimals": 9,
+  "coin_type": "0x157c18de2d77b70c5976ceaad1acc34fe3f01eda63dc8a9859aa83ddf33a92dd::happy::HAPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HAPPYwgFcjEJDzRtfWE6tiHE9zGdzpNky2FvjPHsvvGZ.png?size=lg&key=7065e5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

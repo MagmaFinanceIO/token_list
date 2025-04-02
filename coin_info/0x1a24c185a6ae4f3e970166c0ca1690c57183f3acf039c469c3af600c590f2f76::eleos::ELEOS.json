@@ -1,0 +1,13 @@
+{
+  "name": "Eleos by Emotionality Labs",
+  "symbol": "ELEOS",
+  "decimals": 9,
+  "coin_type": "0x1a24c185a6ae4f3e970166c0ca1690c57183f3acf039c469c3af600c590f2f76::eleos::ELEOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2ekiPN5szqDqowUzwFSxPVAvcWRcXCZV1bzKAV4Hpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

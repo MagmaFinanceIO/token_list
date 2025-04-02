@@ -1,0 +1,13 @@
+{
+  "name": "H4CK Terminal",
+  "symbol": "HACK",
+  "decimals": 6,
+  "coin_type": "0x38e9ff2500171d62732209538ac2eefc9a7b98dcd1af34b7ef1c7e24fd37f159::hack::HACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/hack_terminal_1_6cc18f7bf8.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Duck",
+  "symbol": "SUIDUCK",
+  "decimals": 9,
+  "coin_type": "0xcd2173d5fec0419fe1bc3953c8ab9eac7515f9ecbf3cf7b24b307052e210c8a2::suiduck::SUIDUCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/bafkreicb46mpinms3dsvp6oeblrevd63ojv2skllzgj4wiash5woav5rpi",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

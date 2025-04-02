@@ -1,0 +1,13 @@
+{
+  "name": "spepei",
+  "symbol": "SPEPEI",
+  "decimals": 6,
+  "coin_type": "0x6c590c68248975118c58f80f5feb8a7362b48def14baf16861fc35fd62408213::spepei::SPEPEI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

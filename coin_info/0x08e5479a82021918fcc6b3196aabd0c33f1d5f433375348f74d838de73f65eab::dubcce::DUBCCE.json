@@ -1,0 +1,13 @@
+{
+  "name": "Dubcce",
+  "symbol": "DUBCCE",
+  "decimals": 9,
+  "coin_type": "0x08e5479a82021918fcc6b3196aabd0c33f1d5f433375348f74d838de73f65eab::dubcce::DUBCCE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3d20a75b-5af8-473c-a39d-4ee7e411db02.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

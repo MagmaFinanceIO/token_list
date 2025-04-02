@@ -1,0 +1,13 @@
+{
+  "name": "GOAT",
+  "symbol": "GOAT",
+  "decimals": 6,
+  "coin_type": "0xeea8675a12af0ae6358c85b070871cef6c693572b5fbb81694b477cc99a00f38::goat::GOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/goat.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

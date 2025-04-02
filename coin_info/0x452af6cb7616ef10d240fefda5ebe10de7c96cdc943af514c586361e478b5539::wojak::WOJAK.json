@@ -1,0 +1,13 @@
+{
+  "name": "Wojak on Sui",
+  "symbol": "Wojak",
+  "decimals": 6,
+  "coin_type": "0x452af6cb7616ef10d240fefda5ebe10de7c96cdc943af514c586361e478b5539::wojak::WOJAK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1734888270081.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

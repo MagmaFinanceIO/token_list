@@ -1,0 +1,13 @@
+{
+  "name": "AI Rig Complex On Sui",
+  "symbol": "arc",
+  "decimals": 9,
+  "coin_type": "0xb02ed55a430486129ec1d4f3ef7e4a6502055b58642ee3dc8e88267bee4d7571::arc::ARC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8916f042-76e9-48e9-bd35-73be84a3dd69.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

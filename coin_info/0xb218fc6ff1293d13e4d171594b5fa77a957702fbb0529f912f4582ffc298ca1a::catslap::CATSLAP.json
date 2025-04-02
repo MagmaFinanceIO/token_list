@@ -1,0 +1,13 @@
+{
+  "name": "CAT SLAP ON SUI",
+  "symbol": "CATSLAP",
+  "decimals": 9,
+  "coin_type": "0xb218fc6ff1293d13e4d171594b5fa77a957702fbb0529f912f4582ffc298ca1a::catslap::CATSLAP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/eae00ee7-fa57-4726-b7b8-c85bc4b910a2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

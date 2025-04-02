@@ -1,0 +1,13 @@
+{
+  "name": "WUTTCOIN",
+  "symbol": "WUTT",
+  "decimals": 6,
+  "coin_type": "0xce50abcd9ed6c4a0743b072f4cbfae0c2668fe5acf92108dd5d01c48fb61a072::wutt::WUTT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_b82a8d96d8.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

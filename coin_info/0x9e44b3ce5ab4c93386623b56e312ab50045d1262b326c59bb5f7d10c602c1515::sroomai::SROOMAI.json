@@ -1,0 +1,13 @@
+{
+  "name": "SroomAI",
+  "symbol": "SroomAI",
+  "decimals": 9,
+  "coin_type": "0x9e44b3ce5ab4c93386623b56e312ab50045d1262b326c59bb5f7d10c602c1515::sroomai::SROOMAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8d196a16-9ae3-4f51-9b03-66a393991c62.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

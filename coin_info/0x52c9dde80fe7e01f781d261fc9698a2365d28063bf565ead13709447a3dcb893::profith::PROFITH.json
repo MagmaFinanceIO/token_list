@@ -1,0 +1,13 @@
+{
+  "name": "PROFIT HEAD",
+  "symbol": "PROFITH",
+  "decimals": 9,
+  "coin_type": "0x52c9dde80fe7e01f781d261fc9698a2365d28063bf565ead13709447a3dcb893::profith::PROFITH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6qKtvGariq5BDNdR8um9xPVaHdsFQZscye6PUDrPpump.png?size=lg&key=5488b0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

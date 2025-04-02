@@ -1,0 +1,13 @@
+{
+  "name": "F9GP",
+  "symbol": "F9GP",
+  "decimals": 9,
+  "coin_type": "0x5c16ee2c4be3e686708bd0afb02cd68dcb065c46252566f5f0f1d36bd7bb0f77::f9gp::F9GP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CB48KiK1oi1tWtjmPWxVR2NPeEr9ewzmZQ8ERk79Ue4b.png?size=lg&key=e3d4b7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

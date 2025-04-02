@@ -1,0 +1,13 @@
+{
+  "name": "MenSwear Dog",
+  "symbol": "Bobhi",
+  "decimals": 9,
+  "coin_type": "0x3df2601ff6b1269d0000d554840a8020f53a327996edde397c71eb00d12fe939::bobhi::BOBHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fe4a4cf8-7878-44c5-a8cd-6e03ba97c3bc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

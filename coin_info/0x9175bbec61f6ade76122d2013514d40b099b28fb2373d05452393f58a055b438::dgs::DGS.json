@@ -1,0 +1,13 @@
+{
+  "name": "DANGO SUI",
+  "symbol": "DGS",
+  "decimals": 6,
+  "coin_type": "0x9175bbec61f6ade76122d2013514d40b099b28fb2373d05452393f58a055b438::dgs::DGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_11_05_14_41_08_cedb145ac0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

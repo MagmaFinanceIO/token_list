@@ -1,0 +1,13 @@
+{
+  "name": "Gwoat",
+  "symbol": "Gwoat",
+  "decimals": 9,
+  "coin_type": "0x55e6603a899c2674b3afecf35865251e93b552567a2a5bb6710d63983808e729::gwoat::GWOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FfkKmFbPgYTmhU53FyWD4U7AtqVMnL4hRWrcrhFEJR7J.png?size=lg&key=9875e9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "LUMINA",
+  "symbol": "lumina",
+  "decimals": 9,
+  "coin_type": "0x83dc855e0da67cee7baefd2418d825d8944d9e62329056bbd84dad83e05ebb13::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

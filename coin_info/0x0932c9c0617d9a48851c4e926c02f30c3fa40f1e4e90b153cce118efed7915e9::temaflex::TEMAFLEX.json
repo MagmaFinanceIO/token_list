@@ -1,0 +1,13 @@
+{
+  "name": "ArtemCoin",
+  "symbol": "TEMAFLEX",
+  "decimals": 9,
+  "coin_type": "0x0932c9c0617d9a48851c4e926c02f30c3fa40f1e4e90b153cce118efed7915e9::temaflex::TEMAFLEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bc40dcf3-fbe5-4398-82c5-2f75766f4bd7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

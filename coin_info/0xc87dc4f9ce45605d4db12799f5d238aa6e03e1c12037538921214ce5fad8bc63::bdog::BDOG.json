@@ -1,0 +1,13 @@
+{
+  "name": "BUNNYDOG",
+  "symbol": "BDOG",
+  "decimals": 6,
+  "coin_type": "0xc87dc4f9ce45605d4db12799f5d238aa6e03e1c12037538921214ce5fad8bc63::bdog::BDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730997953140.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

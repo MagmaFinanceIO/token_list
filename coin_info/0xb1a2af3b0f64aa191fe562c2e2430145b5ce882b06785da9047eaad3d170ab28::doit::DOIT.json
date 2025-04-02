@@ -1,0 +1,13 @@
+{
+  "name": "just do it",
+  "symbol": "DOIT",
+  "decimals": 9,
+  "coin_type": "0xb1a2af3b0f64aa191fe562c2e2430145b5ce882b06785da9047eaad3d170ab28::doit::DOIT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2YTDppQyVsmJSuZ5XjhdWks1nyZfqxcg1auzpGpgpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

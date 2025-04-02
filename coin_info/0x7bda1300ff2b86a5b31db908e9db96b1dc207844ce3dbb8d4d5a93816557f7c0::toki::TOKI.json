@@ -1,0 +1,13 @@
+{
+  "name": "Toki Sui",
+  "symbol": "TOKI",
+  "decimals": 9,
+  "coin_type": "0x7bda1300ff2b86a5b31db908e9db96b1dc207844ce3dbb8d4d5a93816557f7c0::toki::TOKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6YUvHdEDz1E5VRq4TKwWLmoW1KCZXeLbM36HjmzUpump.png?size=lg&key=5b8343",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

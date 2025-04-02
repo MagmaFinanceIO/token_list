@@ -1,0 +1,13 @@
+{
+  "name": "Suimon Cow",
+  "symbol": "SMC",
+  "decimals": 6,
+  "coin_type": "0xe9d3888db8500e7f31ed5280130a935122df849ef35a94f280edd6f9a3ffcc22::smc::SMC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/a_Q_Mfa_SR_400x400_06c1ca0365.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

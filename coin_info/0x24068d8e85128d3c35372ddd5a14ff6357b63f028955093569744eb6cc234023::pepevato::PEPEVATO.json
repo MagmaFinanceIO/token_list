@@ -1,0 +1,13 @@
+{
+  "name": "PEPE VATO ON SUI",
+  "symbol": "PEPEVATO",
+  "decimals": 9,
+  "coin_type": "0x24068d8e85128d3c35372ddd5a14ff6357b63f028955093569744eb6cc234023::pepevato::PEPEVATO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dd8ad81f-4202-4d06-b32d-570875f909d4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

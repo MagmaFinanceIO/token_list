@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "symbol": "SUILAMA",
+  "decimals": 6,
+  "coin_type": "0xe7e8210f7411aca3e32132b233a4ac47015df8ba3a8387e9c072e096389a8bee::sui_lama::SUI_LAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

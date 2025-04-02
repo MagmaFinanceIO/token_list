@@ -1,0 +1,13 @@
+{
+  "name": "Pudgy Girls",
+  "symbol": "PG",
+  "decimals": 9,
+  "coin_type": "0x25b8185d249856e878bc85923bb38ac51ac38a2ba0a068a18c43b7372e39c01b::pg::PG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmTRwDUPSFGU6E59Hn9wM9G8mNZmXDkttBCgLDGWXR2tsW",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

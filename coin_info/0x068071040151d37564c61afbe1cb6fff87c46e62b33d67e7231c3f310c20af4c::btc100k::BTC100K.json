@@ -1,0 +1,13 @@
+{
+  "name": "Bitcoin100000K",
+  "symbol": "BTC100K",
+  "decimals": 6,
+  "coin_type": "0x068071040151d37564c61afbe1cb6fff87c46e62b33d67e7231c3f310c20af4c::btc100k::BTC100K",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo111_cc16309584.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

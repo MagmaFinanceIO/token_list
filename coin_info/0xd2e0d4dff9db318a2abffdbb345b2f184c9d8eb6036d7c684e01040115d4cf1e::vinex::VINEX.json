@@ -1,0 +1,13 @@
+{
+  "name": "VineX Coin",
+  "symbol": "VineX",
+  "decimals": 9,
+  "coin_type": "0xd2e0d4dff9db318a2abffdbb345b2f184c9d8eb6036d7c684e01040115d4cf1e::vinex::VINEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5etHKPV37zoYhmxHDa7PiJj6EyXG2QRyggNhPSBypump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

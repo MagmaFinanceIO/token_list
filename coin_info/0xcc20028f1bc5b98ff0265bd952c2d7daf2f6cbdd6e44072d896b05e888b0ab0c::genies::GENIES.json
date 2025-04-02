@@ -1,0 +1,13 @@
+{
+  "name": "Genies On Sui",
+  "symbol": "Genies",
+  "decimals": 6,
+  "coin_type": "0xcc20028f1bc5b98ff0265bd952c2d7daf2f6cbdd6e44072d896b05e888b0ab0c::genies::GENIES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_design_2bc2170557.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

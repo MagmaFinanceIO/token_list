@@ -1,0 +1,13 @@
+{
+  "name": "Kermit on Sui",
+  "symbol": "KERMITS",
+  "decimals": 6,
+  "coin_type": "0xf256332e132dca6ecee2c7dc230a101a10529428c8b1f36f5070670f61550093::kermits::KERMITS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_03_19_50_15_4b1cf95c0b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

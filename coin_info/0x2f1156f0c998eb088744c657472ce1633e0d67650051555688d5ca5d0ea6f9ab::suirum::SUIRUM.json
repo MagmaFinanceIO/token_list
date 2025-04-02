@@ -1,0 +1,13 @@
+{
+  "name": "Suirum",
+  "symbol": "SUIR",
+  "decimals": 6,
+  "coin_type": "0x2f1156f0c998eb088744c657472ce1633e0d67650051555688d5ca5d0ea6f9ab::suirum::SUIRUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.postimg.cc/L63sX383/suirum-logo.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

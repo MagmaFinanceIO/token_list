@@ -1,0 +1,13 @@
+{
+  "name": "Pepeanut on Sui",
+  "symbol": "PENUT",
+  "decimals": 6,
+  "coin_type": "0x64736b98c4a9796048da767bead165d4f29a0ad78d88f77acdffcf5a7fb2047f::penut::PENUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/cropped_p_transparent_192x192_2be91cecd4.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

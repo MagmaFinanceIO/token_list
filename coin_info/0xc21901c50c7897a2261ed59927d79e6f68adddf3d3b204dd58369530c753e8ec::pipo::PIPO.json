@@ -1,0 +1,13 @@
+{
+  "name": "PIPO COIN SUI",
+  "symbol": "PIPO",
+  "decimals": 6,
+  "coin_type": "0xc21901c50c7897a2261ed59927d79e6f68adddf3d3b204dd58369530c753e8ec::pipo::PIPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_12_17_58_30_73ae8f4f59.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

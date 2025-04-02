@@ -1,0 +1,13 @@
+{
+  "name": "inFINIUM ON SUI",
+  "symbol": "INFNUM",
+  "decimals": 6,
+  "coin_type": "0x721b2d97b8fd2a2e93a266f2b0f961fc9e4b9762cc5d8239b63716b4ee749502::infnum::INFNUM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1732474061764.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

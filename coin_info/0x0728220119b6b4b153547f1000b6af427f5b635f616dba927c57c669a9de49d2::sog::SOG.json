@@ -1,0 +1,13 @@
+{
+  "name": "SEALDOGSUI",
+  "symbol": "SOG",
+  "decimals": 6,
+  "coin_type": "0x0728220119b6b4b153547f1000b6af427f5b635f616dba927c57c669a9de49d2::sog::SOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Captura_de_tela_2024_12_24_092907_0b6832bd3d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

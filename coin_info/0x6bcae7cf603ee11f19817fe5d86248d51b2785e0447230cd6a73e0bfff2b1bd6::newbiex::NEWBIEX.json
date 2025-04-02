@@ -1,0 +1,13 @@
+{
+  "name": "NEWBIEX",
+  "symbol": "newbiex",
+  "decimals": 9,
+  "coin_type": "0x6bcae7cf603ee11f19817fe5d86248d51b2785e0447230cd6a73e0bfff2b1bd6::newbiex::NEWBIEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

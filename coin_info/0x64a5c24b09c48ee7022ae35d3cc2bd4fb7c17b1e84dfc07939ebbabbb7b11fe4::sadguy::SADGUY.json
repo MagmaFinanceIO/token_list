@@ -1,0 +1,13 @@
+{
+  "name": "SADGUY",
+  "symbol": "SADGUY",
+  "decimals": 9,
+  "coin_type": "0x64a5c24b09c48ee7022ae35d3cc2bd4fb7c17b1e84dfc07939ebbabbb7b11fe4::sadguy::SADGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/698ec752-d8ec-4fd7-98ea-8790a4e2dbc9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

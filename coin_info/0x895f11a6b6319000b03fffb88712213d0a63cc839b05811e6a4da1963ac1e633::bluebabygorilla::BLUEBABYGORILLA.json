@@ -1,0 +1,13 @@
+{
+  "name": "Blue Baby Gorilla",
+  "symbol": "BlueBabyGorilla",
+  "decimals": 9,
+  "coin_type": "0x895f11a6b6319000b03fffb88712213d0a63cc839b05811e6a4da1963ac1e633::bluebabygorilla::BLUEBABYGORILLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dbb8cfaf-63ae-4ced-863d-07191a46a14c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

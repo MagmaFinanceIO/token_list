@@ -1,0 +1,13 @@
+{
+  "name": "TOKEN_NAME",
+  "symbol": "TOKEN_SYMBOL",
+  "decimals": 9,
+  "coin_type": "0xa83d49d739885dddbc32a91b544e65db6c9f684a2c37f6764bce94c5cf337884::template::TEMPLATE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump-static.cetus.zone/icon/a7a8111f-9fb1-4df8-922b-a95bbf566806",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

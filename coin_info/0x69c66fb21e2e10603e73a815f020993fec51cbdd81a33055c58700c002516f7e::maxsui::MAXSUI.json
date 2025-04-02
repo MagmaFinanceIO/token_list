@@ -1,0 +1,13 @@
+{
+  "name": "MAXSUI CTO",
+  "symbol": "MAXSUI",
+  "decimals": 6,
+  "coin_type": "0x69c66fb21e2e10603e73a815f020993fec51cbdd81a33055c58700c002516f7e::maxsui::MAXSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/MAXI_20fb08b24a.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

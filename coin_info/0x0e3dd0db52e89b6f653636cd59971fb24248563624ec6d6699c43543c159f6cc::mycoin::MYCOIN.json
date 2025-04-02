@@ -1,0 +1,13 @@
+{
+  "name": "Cute Yoko",
+  "symbol": "Yoko",
+  "decimals": 9,
+  "coin_type": "0x0e3dd0db52e89b6f653636cd59971fb24248563624ec6d6699c43543c159f6cc::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

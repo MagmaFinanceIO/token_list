@@ -1,0 +1,13 @@
+{
+  "name": "Neiro on SUI",
+  "symbol": "NEIRO",
+  "decimals": 9,
+  "coin_type": "0x7405059a8ce8119f1b864210027ba379065db3b320fc28e640027b6b6f47ada1::neiro::NEIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmbpGkMoiyjsBq1yPGxLjGqEdw6DdmzuwXg8WGzy2pH7op",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

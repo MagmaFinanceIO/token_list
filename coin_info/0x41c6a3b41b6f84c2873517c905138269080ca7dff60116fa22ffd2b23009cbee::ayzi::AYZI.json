@@ -1,0 +1,13 @@
+{
+  "name": "AyziCoin",
+  "symbol": "AYZI",
+  "decimals": 9,
+  "coin_type": "0x41c6a3b41b6f84c2873517c905138269080ca7dff60116fa22ffd2b23009cbee::ayzi::AYZI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/32f9d2e5-9529-487f-80d6-98273bbefec9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

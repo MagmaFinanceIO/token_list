@@ -1,0 +1,13 @@
+{
+  "name": "Barracuda",
+  "symbol": "CUDA",
+  "decimals": 6,
+  "coin_type": "0x62fc7cc585d820d59974aeb82cc3314c8cdda3b7538a0fd65c2f72ec622c51fc::barracuda::BARRACUDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/csJhd8R.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

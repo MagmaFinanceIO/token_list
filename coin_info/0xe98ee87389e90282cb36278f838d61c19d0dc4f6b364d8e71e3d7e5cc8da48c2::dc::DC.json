@@ -1,0 +1,13 @@
+{
+  "name": "DacCoin",
+  "symbol": "DC",
+  "decimals": 9,
+  "coin_type": "0xe98ee87389e90282cb36278f838d61c19d0dc4f6b364d8e71e3d7e5cc8da48c2::dc::DC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2094f672-ab42-494c-8406-43e09e5183fa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

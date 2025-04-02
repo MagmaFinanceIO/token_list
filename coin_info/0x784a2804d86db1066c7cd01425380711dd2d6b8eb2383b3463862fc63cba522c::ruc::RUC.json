@@ -1,0 +1,13 @@
+{
+  "name": "Ruc",
+  "symbol": "Ruc",
+  "decimals": 9,
+  "coin_type": "0x784a2804d86db1066c7cd01425380711dd2d6b8eb2383b3463862fc63cba522c::ruc::RUC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CB48KiK1oi1tWtjmPWxVR2NPeEr9ewzmZQ8ERk79Ue4b.png?size=lg&key=e3d4b7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

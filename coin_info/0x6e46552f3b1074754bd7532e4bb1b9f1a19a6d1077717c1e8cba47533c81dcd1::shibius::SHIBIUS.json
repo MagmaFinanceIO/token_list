@@ -1,0 +1,13 @@
+{
+  "name": "Shibius Maximus",
+  "symbol": "SHIBIUS",
+  "decimals": 9,
+  "coin_type": "0x6e46552f3b1074754bd7532e4bb1b9f1a19a6d1077717c1e8cba47533c81dcd1::shibius::SHIBIUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/xmMDafYwNKEHciaS?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

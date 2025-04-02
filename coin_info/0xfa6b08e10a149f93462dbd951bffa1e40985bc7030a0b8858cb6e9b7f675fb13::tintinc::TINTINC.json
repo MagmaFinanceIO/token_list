@@ -1,0 +1,13 @@
+{
+  "name": "TinTinCoin",
+  "symbol": "TINTINC",
+  "decimals": 9,
+  "coin_type": "0xfa6b08e10a149f93462dbd951bffa1e40985bc7030a0b8858cb6e9b7f675fb13::tintinc::TINTINC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3dd2e63c-5424-4936-a252-33860c65a3f1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

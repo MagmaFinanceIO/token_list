@@ -1,0 +1,13 @@
+{
+  "name": "Ronaldo",
+  "symbol": "SUII",
+  "decimals": 6,
+  "coin_type": "0xb20879fb69945c0d099e32ff4d8839755acbfeb2fef151af6f671ee31d4b46cd::suii::SUII",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c686ab40-ff68-48e7-adf3-53a61b828242.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ALPHA Token",
+  "symbol": "ALPHA",
+  "decimals": 9,
+  "coin_type": "0xfe3afec26c59e874f3c1d60b8203cb3852d2bb2aa415df9548b8d688e6683f93::alpha::ALPHA",
+  "pyth_id": "",
+  "birdeyeid": "0xfe3afec26c59e874f3c1d60b8203cb3852d2bb2aa415df9548b8d688e6683f93::alpha::ALPHA",
+  "coin_priority": [],
+  "logo_url": "https://7taj6jfau6n3dri7agspzfnva7qbj5sizz5xc3lb56nmxpsyoiba.arweave.net/_MCfJKCnm7HFHwGk_JW1B-AU9kjOe3FtYe-ay75YcgI",
+  "project_url": "",
+  "coingecko_id": "alpha-fi",
+  "is_trusted": true
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Moo",
+  "symbol": "MOO",
+  "decimals": 9,
+  "coin_type": "0xbcacc27fd697a40f4a11f47af82249caf709436a064545897151ccea69055ff1::moo::MOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/37d1e135-70d6-4ddb-a9b2-9909a16b77ad.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

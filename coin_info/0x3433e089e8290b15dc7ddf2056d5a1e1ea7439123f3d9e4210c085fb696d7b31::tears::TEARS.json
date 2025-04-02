@@ -1,0 +1,13 @@
+{
+  "name": "Sui Tears",
+  "symbol": "tears",
+  "decimals": 9,
+  "coin_type": "0x3433e089e8290b15dc7ddf2056d5a1e1ea7439123f3d9e4210c085fb696d7b31::tears::TEARS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/02934217-537d-4508-8b91-bb5315cb4b7b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

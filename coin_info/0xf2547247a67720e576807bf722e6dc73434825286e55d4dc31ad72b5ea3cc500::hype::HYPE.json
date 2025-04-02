@@ -1,0 +1,13 @@
+{
+  "name": "HYPE",
+  "symbol": "HYPE",
+  "decimals": 9,
+  "coin_type": "0xf2547247a67720e576807bf722e6dc73434825286e55d4dc31ad72b5ea3cc500::hype::HYPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://previews.123rf.com/images/olejio/olejio1709/olejio170900003/85781330-hype-badge-with-isolated-abstract-cloud-icon.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HYPE",
+  "symbol": "HYPE",
+  "decimals": 9,
+  "coin_type": "0xff9b1453e2612b7ba5b845f1fffaba9cfd9e731e1feb88feefe58a6bf7b6f2c9::hype::HYPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://hypeshoes.in/wp-content/uploads/2020/06/Rose_Gold_Elegant_Monogram_Floral_Circular_Logo-removebg-preview.png.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Fog",
+  "symbol": "Fog",
+  "decimals": 9,
+  "coin_type": "0x5726441b995d970fba91551c9a74858699ccf15da8f7cadfb9fd8143ae9afcbc::fog::FOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bde93638-5474-40ae-a9e1-6119b2ab6958.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

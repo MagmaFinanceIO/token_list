@@ -1,0 +1,13 @@
+{
+  "name": "Quack Suiky",
+  "symbol": "SUIKY",
+  "decimals": 6,
+  "coin_type": "0xc34212cfee862bc27bd317ec7d1c740ea2a7ca8d6cf8584d7bb441e041244967::suiky::SUIKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3632_f34587bb90.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

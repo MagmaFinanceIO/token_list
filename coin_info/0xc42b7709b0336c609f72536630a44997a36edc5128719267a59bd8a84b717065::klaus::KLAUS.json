@@ -1,0 +1,13 @@
+{
+  "name": "Klaus The Little Fish",
+  "symbol": "KLAUS",
+  "decimals": 6,
+  "coin_type": "0xc42b7709b0336c609f72536630a44997a36edc5128719267a59bd8a84b717065::klaus::KLAUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1b042dde-c3ef-4287-b9e5-add69def6fc9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

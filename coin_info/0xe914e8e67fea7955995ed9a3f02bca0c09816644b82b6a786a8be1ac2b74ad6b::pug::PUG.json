@@ -1,0 +1,13 @@
+{
+  "name": "🐶 Sui Pug",
+  "symbol": "PUG",
+  "decimals": 9,
+  "coin_type": "0xe914e8e67fea7955995ed9a3f02bca0c09816644b82b6a786a8be1ac2b74ad6b::pug::PUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a71d086a-b9e6-4319-9ec7-17378cef8a18.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

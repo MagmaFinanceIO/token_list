@@ -1,0 +1,13 @@
+{
+  "name": "SPX6900 SUI",
+  "symbol": "SPX",
+  "decimals": 9,
+  "coin_type": "0x1dd1fff7ef5f4f0562282ea9c0ab7c3b5bcfc088cea8b35c55b7a38de9f94203::spx::SPX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://teal-deliberate-skunk-670.mypinata.cloud/ipfs/QmdVwtAHApeTE9ne7s7bVNxxLE9iFX86AQG9ebbteCD3vF",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

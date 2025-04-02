@@ -1,0 +1,13 @@
+{
+  "name": "SmilingDolphin",
+  "symbol": "MIHARU",
+  "decimals": 6,
+  "coin_type": "0xe29bb824bddbdce9147d902af7f4d425045f8822f223f68ce0915e6d6364d842::miharu::MIHARU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/a_ae_a_c_20241009234400_ee8b1ec3a8.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

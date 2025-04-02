@@ -1,0 +1,13 @@
+{
+  "name": "SummerVibe",
+  "symbol": "VIBES",
+  "decimals": 9,
+  "coin_type": "0x9590683dc0d2125c24bc1581a37a36df706021bd58608b26865fb0060edd9e93::vibes::VIBES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

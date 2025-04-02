@@ -1,0 +1,13 @@
+{
+  "name": "SUI PEPE",
+  "symbol": "SUI PEPE",
+  "decimals": 6,
+  "coin_type": "0x744ff4d2275f78fa41afd9b748c37792f8d17fd195555e926dd0f18e3927baf0::SUIPEPE::SUIPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/OY2YvRcrV4RIGAbrB4DtpgneeiwEhn8pM6tDIXLlXCo?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

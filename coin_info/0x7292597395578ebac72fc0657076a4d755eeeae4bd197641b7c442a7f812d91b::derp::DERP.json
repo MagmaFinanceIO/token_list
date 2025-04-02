@@ -1,0 +1,13 @@
+{
+  "name": "DerpSui",
+  "symbol": "Derp",
+  "decimals": 6,
+  "coin_type": "0x7292597395578ebac72fc0657076a4d755eeeae4bd197641b7c442a7f812d91b::derp::DERP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_16_064847060_5f319e6a93.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

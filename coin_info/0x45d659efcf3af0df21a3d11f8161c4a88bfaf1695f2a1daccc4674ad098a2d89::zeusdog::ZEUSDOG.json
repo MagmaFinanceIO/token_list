@@ -1,0 +1,13 @@
+{
+  "name": "ZeusDog",
+  "symbol": "ZEUSDOG",
+  "decimals": 9,
+  "coin_type": "0x45d659efcf3af0df21a3d11f8161c4a88bfaf1695f2a1daccc4674ad098a2d89::zeusdog::ZEUSDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Fe3sEB1cAt4TsETqmaopPQBto5o8TsY2W2NTw6H9pump.png?size=lg&key=31c794",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

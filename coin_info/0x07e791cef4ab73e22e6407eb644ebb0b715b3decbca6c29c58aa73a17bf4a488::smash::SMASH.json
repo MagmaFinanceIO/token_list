@@ -1,0 +1,13 @@
+{
+  "name": "Sui Smash Bros",
+  "symbol": "SMASH",
+  "decimals": 6,
+  "coin_type": "0x07e791cef4ab73e22e6407eb644ebb0b715b3decbca6c29c58aa73a17bf4a488::smash::SMASH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/Qmd1HvXkzhRvHNMvjxpbbBjXSkBZNypfPekyfysS9KuPFh",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

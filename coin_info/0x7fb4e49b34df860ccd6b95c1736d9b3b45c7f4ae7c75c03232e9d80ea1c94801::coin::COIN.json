@@ -1,0 +1,13 @@
+{
+  "name": "The Vibe.",
+  "symbol": "VIBE",
+  "decimals": 8,
+  "coin_type": "0x7fb4e49b34df860ccd6b95c1736d9b3b45c7f4ae7c75c03232e9d80ea1c94801::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

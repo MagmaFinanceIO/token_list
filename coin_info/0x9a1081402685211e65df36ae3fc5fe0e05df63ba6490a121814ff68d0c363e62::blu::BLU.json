@@ -1,0 +1,13 @@
+{
+  "name": "Mischief of SUI",
+  "symbol": "BLU",
+  "decimals": 6,
+  "coin_type": "0x9a1081402685211e65df36ae3fc5fe0e05df63ba6490a121814ff68d0c363e62::blu::BLU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_Zeke_12_4_4b13ed55b3.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

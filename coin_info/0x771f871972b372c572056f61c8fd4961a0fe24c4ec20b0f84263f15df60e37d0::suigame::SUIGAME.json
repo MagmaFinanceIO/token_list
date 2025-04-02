@@ -1,0 +1,13 @@
+{
+  "name": "Sui Game",
+  "symbol": "SUIGAME",
+  "decimals": 6,
+  "coin_type": "0x771f871972b372c572056f61c8fd4961a0fe24c4ec20b0f84263f15df60e37d0::suigame::SUIGAME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dc424d97-7218-4a54-b410-79bfc76ad5ba.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

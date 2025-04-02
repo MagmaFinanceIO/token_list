@@ -1,0 +1,13 @@
+{
+  "name": "JigSaw",
+  "symbol": "JIGSAW",
+  "decimals": 9,
+  "coin_type": "0x42c1abb8ccce31223c9e8e1acb183256e158f52149a45dde9f20cf44fbaeda0b::jigsaw::JIGSAW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/89570803-b3a5-447c-aa80-bb6b8d2968d8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

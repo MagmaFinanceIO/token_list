@@ -1,0 +1,13 @@
+{
+  "name": "Guliver the Seagull",
+  "symbol": "GULL",
+  "decimals": 9,
+  "coin_type": "0x38eec6a7ef222bc0950d037b45423b5d3d9ac9bb471b91cbfbf51755277610a5::gull::GULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dde5dc96-0c79-4139-8dc9-6eb129b33c2e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "First Nigga To Launch",
+  "symbol": "nSUI",
+  "decimals": 6,
+  "coin_type": "0x7e1affb0f1b07585e41f1580ad78c81c71553495a12dfbec0b96db3218d2e9bd::nsui::NSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmWCKj4rcA3wktrD2dJ6edJBmGhvBSAxhjDsqvDbZ7FefK",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

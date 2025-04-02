@@ -1,0 +1,13 @@
+{
+  "name": "Bober The Beaver",
+  "symbol": "BOBER",
+  "decimals": 9,
+  "coin_type": "0x3a19061692534d97be8174a466ed29f74465e721a47949068f537b8240b829b7::bober::BOBER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmfVNThvAkGxoMsb1hdj4VMvf5RNqCDPUYPjWL1wg3eV5F?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

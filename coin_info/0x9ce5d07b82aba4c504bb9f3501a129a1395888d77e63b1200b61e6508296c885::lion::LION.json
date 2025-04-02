@@ -1,0 +1,13 @@
+{
+  "name": "Lion Pizza Punk",
+  "symbol": "Lion",
+  "decimals": 9,
+  "coin_type": "0x9ce5d07b82aba4c504bb9f3501a129a1395888d77e63b1200b61e6508296c885::lion::LION",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4ee32512-a65e-4da2-905e-1dba31d05e17.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

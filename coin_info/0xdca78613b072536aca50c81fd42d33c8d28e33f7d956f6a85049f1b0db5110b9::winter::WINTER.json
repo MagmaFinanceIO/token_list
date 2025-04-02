@@ -1,0 +1,13 @@
+{
+  "name": "Winter",
+  "symbol": "Winter",
+  "decimals": 9,
+  "coin_type": "0xdca78613b072536aca50c81fd42d33c8d28e33f7d956f6a85049f1b0db5110b9::winter::WINTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/F5TGJSXZnodkPbcrCiLuoWxc26rCDbRuB1zx534jAyio.png?size=lg&key=f42a4e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bluedog",
+  "symbol": "blue dog",
+  "decimals": 9,
+  "coin_type": "0xab4cc820cc916eedefcc1f53b19f49dc3c4ee75c40c6e5bfa9bb3a26c402820e::bluedog::BLUEDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/jWB6rVA.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SKUNK",
+  "symbol": "SKNK",
+  "decimals": 9,
+  "coin_type": "0xd501770676b9d3d238d9a20024f1a96c3bde943492f6719261b2cbe99257be63::sknk::SKNK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fb8b5d00-d234-4c29-8839-29dcaa255d3e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

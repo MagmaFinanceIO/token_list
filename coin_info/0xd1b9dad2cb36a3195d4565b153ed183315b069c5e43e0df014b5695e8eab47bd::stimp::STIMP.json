@@ -1,0 +1,13 @@
+{
+  "name": "Stimpy",
+  "symbol": "STIMP",
+  "decimals": 9,
+  "coin_type": "0xd1b9dad2cb36a3195d4565b153ed183315b069c5e43e0df014b5695e8eab47bd::stimp::STIMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/62d729de-a9c8-41d2-b437-71091ffc0fc7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

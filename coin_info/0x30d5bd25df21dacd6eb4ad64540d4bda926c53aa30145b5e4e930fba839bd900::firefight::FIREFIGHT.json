@@ -1,0 +1,13 @@
+{
+  "name": "Firefighters of the World",
+  "symbol": "Firefight",
+  "decimals": 9,
+  "coin_type": "0x30d5bd25df21dacd6eb4ad64540d4bda926c53aa30145b5e4e930fba839bd900::firefight::FIREFIGHT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x488e87546787ac7741389edd13012178e7be43c8.png?size=lg&key=157b4c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

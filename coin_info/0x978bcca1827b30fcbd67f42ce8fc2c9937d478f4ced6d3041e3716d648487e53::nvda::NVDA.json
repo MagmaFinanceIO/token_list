@@ -1,0 +1,13 @@
+{
+  "name": "Official NVIDIA",
+  "symbol": "NVDA",
+  "decimals": 9,
+  "coin_type": "0x978bcca1827b30fcbd67f42ce8fc2c9937d478f4ced6d3041e3716d648487e53::nvda::NVDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HXCaG7JWV8UigjsHyYUneYtxjjnD6BTiKVU4Yotfpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

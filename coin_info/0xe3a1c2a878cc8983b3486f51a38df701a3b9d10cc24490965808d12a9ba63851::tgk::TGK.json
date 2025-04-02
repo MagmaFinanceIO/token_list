@@ -1,0 +1,13 @@
+{
+  "name": "Tokyo Ghoul",
+  "symbol": "TGK",
+  "decimals": 6,
+  "coin_type": "0xe3a1c2a878cc8983b3486f51a38df701a3b9d10cc24490965808d12a9ba63851::tgk::TGK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ghoul_796bad5995.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

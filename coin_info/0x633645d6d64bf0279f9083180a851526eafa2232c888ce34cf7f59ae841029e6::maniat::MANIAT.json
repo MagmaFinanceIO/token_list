@@ -1,0 +1,13 @@
+{
+  "name": "TRUMP MANIA REBORN",
+  "symbol": "MANIAT",
+  "decimals": 9,
+  "coin_type": "0x633645d6d64bf0279f9083180a851526eafa2232c888ce34cf7f59ae841029e6::maniat::MANIAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/DFiXpgMVuTEEVAZ1XryhFyrwbkrtAa9RFc4RdjESvnNR.png?size=lg&key=6fbe1e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

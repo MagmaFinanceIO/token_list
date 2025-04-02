@@ -1,0 +1,13 @@
+{
+  "name": "AICMP",
+  "symbol": "AICMP",
+  "decimals": 6,
+  "coin_type": "0x65c1bba19e77ad8ac8e53dcbdd50b12cc20b757257c77c60f29be8e56b83888f::aicmp::AICMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.okx.com/cdn/web3/currency/token/501-BAEXK4X6B3hkqmEkPuyyZQ5fZUb5iZ6SaJ7a9UDnpump-98.png/type=default_350_0?v=1735610624671",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

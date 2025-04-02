@@ -1,0 +1,13 @@
+{
+  "name": "AKITA WIF HAT SUI",
+  "symbol": "AWH",
+  "decimals": 6,
+  "coin_type": "0x7bfb285fba0b8e700bf6b6946a16f3ee7bebb88719a6b301af6dcccd45404277::awh::AWH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_08_01_35_10_5eecabad4a.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

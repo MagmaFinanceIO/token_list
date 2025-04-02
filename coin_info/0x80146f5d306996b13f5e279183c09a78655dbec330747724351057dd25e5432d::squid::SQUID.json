@@ -1,0 +1,13 @@
+{
+  "name": "Handsome Squidward",
+  "symbol": "SQUID",
+  "decimals": 6,
+  "coin_type": "0x80146f5d306996b13f5e279183c09a78655dbec330747724351057dd25e5432d::squid::SQUID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/icon_9dd7caefef.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

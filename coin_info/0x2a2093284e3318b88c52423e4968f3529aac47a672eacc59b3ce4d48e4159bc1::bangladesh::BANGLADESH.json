@@ -1,0 +1,13 @@
+{
+  "name": "Bangladesh",
+  "symbol": "Bangladesh",
+  "decimals": 2,
+  "coin_type": "0x2a2093284e3318b88c52423e4968f3529aac47a672eacc59b3ce4d48e4159bc1::bangladesh::BANGLADESH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/acec303a-7293-4af1-a125-f86e33ab2eb1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

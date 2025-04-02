@@ -1,0 +1,13 @@
+{
+  "name": "Cortex Labs GPT",
+  "symbol": "CGPT",
+  "decimals": 6,
+  "coin_type": "0x282027c8604db19df81c0c385976429d61e650fb1a1c2e80611d31f5fb983283::cgpt::CGPT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5a327d9b-8319-4ec6-80f2-6d5ebb5a50dc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

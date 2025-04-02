@@ -1,0 +1,13 @@
+{
+  "name": "Worldcash",
+  "symbol": "WORLDC",
+  "decimals": 2,
+  "coin_type": "0xfa9c9d1bd86b18085d247ec426be59f6101dc2bdf200aeb46763b19c8e8050ab::worldc::WORLDC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://drive.google.com/file/d/156p5ibPJ4tQdYBHN3E93240VK9HaoT5g/view?usp=drive_link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

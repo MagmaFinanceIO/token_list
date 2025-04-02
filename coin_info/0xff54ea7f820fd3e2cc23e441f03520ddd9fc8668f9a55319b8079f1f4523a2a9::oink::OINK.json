@@ -1,0 +1,13 @@
+{
+  "name": "Sui Oink",
+  "symbol": "OINK",
+  "decimals": 6,
+  "coin_type": "0xff54ea7f820fd3e2cc23e441f03520ddd9fc8668f9a55319b8079f1f4523a2a9::oink::OINK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/baf21ee4-3243-48cb-a8e1-ad3d457108e2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

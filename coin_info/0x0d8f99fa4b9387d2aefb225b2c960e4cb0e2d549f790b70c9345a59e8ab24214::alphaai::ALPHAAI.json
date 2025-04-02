@@ -1,0 +1,13 @@
+{
+  "name": "ALPHA AI by SuiAI",
+  "symbol": "ALPHAAI",
+  "decimals": 6,
+  "coin_type": "0x0d8f99fa4b9387d2aefb225b2c960e4cb0e2d549f790b70c9345a59e8ab24214::alphaai::ALPHAAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/images_13_e3d66f9fb6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

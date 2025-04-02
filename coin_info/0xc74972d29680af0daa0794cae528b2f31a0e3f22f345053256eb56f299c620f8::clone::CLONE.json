@@ -1,0 +1,13 @@
+{
+  "name": "Clone Protocol",
+  "symbol": "CLONE",
+  "decimals": 9,
+  "coin_type": "0xc74972d29680af0daa0794cae528b2f31a0e3f22f345053256eb56f299c620f8::clone::CLONE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3a49d3f9-250f-4c65-8e0c-5e13f12a129d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Peanut - The Squirrel",
+  "symbol": "sPEANUT",
+  "decimals": 9,
+  "coin_type": "0x5d27c7bddf5ef22a5df704de968c2bda18c6d35d0768678e324aa617b8546397::speanut::SPEANUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BPmyWCdetMPsvDx1xw4nNv5JanGdxQ16DXq5as9Dpump.png?size=lg&key=a1ecfe",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

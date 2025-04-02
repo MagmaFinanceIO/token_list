@@ -1,0 +1,13 @@
+{
+  "name": "CYBER GIRL",
+  "symbol": "AIGIRL",
+  "decimals": 9,
+  "coin_type": "0xbc3638eea9a1d1b0032a86fe1283e8a8ff272ae0e73788dba9a5f335fe1d690b::aigirl::AIGIRL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8vMornfVvm5TQDD7mTLAECZcHDZj5s8UaS5p8TDpump.png?size=lg&key=cb7bfb",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

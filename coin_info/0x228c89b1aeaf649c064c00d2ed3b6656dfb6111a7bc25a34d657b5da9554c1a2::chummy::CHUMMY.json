@@ -1,0 +1,13 @@
+{
+  "name": "Chummy Sui",
+  "symbol": "Chummy",
+  "decimals": 6,
+  "coin_type": "0x228c89b1aeaf649c064c00d2ed3b6656dfb6111a7bc25a34d657b5da9554c1a2::chummy::CHUMMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731865062944.jfif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

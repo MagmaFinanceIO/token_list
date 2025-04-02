@@ -1,0 +1,13 @@
+{
+  "name": "Pepsuiii",
+  "symbol": "PEPS",
+  "decimals": 6,
+  "coin_type": "0x4fbe8c39b516c0d912f93c8e360e2570c22e51d0ad490ff86ea64e413b7e11da::peps::PEPS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000062515_f64508060e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

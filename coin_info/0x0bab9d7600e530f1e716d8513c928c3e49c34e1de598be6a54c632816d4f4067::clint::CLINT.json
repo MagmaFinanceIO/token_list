@@ -1,0 +1,13 @@
+{
+  "name": "Clint AI",
+  "symbol": "CLINT",
+  "decimals": 9,
+  "coin_type": "0x0bab9d7600e530f1e716d8513c928c3e49c34e1de598be6a54c632816d4f4067::clint::CLINT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/66800413-401c-412a-af5c-5c7b983b63dd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

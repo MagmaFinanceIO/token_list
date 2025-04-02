@@ -1,0 +1,13 @@
+{
+  "name": "MiiiWW",
+  "symbol": "MiiWW",
+  "decimals": 6,
+  "coin_type": "0x57744858e72aeb747e9220180de8b46b1ecbc29377c91140330e0da9aea1c4ae::miiww::MIIWW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1c531624-c267-4a02-8c80-578d2f3ee42f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

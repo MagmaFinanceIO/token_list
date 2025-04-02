@@ -1,0 +1,13 @@
+{
+  "name": "CrabySui",
+  "symbol": "Craby",
+  "decimals": 6,
+  "coin_type": "0x06d5f0d6fd856938075dcb03a64863a051f1e2d2d6b28392566c082e310c81c6::craby::CRABY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Remove_bg_ai_1727459232577_808d177a1b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

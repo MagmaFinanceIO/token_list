@@ -1,0 +1,13 @@
+{
+  "name": "MIKU",
+  "symbol": "MIKU",
+  "decimals": 9,
+  "coin_type": "0x34f3c6832494f871903bceaa8501f44c26232bc067493e34d6bcd35efaac37c6::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

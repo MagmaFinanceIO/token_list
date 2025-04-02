@@ -1,0 +1,13 @@
+{
+  "name": "Meow The Cat",
+  "symbol": "MEOW",
+  "decimals": 9,
+  "coin_type": "0xb7ed745c2fbef0386c8ba5b9dffc8176ae6f0c5efe9da4a39cec302697b8e0e0::meow::MEOW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/cbLBttn/sleeping-meowcat-NOT.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

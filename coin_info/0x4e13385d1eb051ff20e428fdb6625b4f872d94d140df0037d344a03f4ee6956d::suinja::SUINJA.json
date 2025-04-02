@@ -1,0 +1,13 @@
+{
+  "name": "SUINJA",
+  "symbol": "SUINJA",
+  "decimals": 9,
+  "coin_type": "0x4e13385d1eb051ff20e428fdb6625b4f872d94d140df0037d344a03f4ee6956d::suinja::SUINJA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/06b6cf63-6b33-4787-a88d-a9cae8c9a87e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

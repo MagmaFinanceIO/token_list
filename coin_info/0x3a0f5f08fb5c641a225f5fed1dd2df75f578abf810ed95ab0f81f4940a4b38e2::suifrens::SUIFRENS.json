@@ -1,0 +1,13 @@
+{
+  "name": "Sui Frens ai",
+  "symbol": "AIFRENS",
+  "decimals": 1,
+  "coin_type": "0x3a0f5f08fb5c641a225f5fed1dd2df75f578abf810ed95ab0f81f4940a4b38e2::suifrens::SUIFRENS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/4OvqVCM.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

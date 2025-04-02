@@ -1,0 +1,13 @@
+{
+  "name": "SuiShiba",
+  "symbol": "SUISHIBA",
+  "decimals": 6,
+  "coin_type": "0x5a6e3364916911ee3af114f0227e6a88d8feecb70df2f2f7a5ec5825698ec99d::suishiba::SUISHIBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a0658008-afa6-4843-a2c5-10ca77dfed0a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

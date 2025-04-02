@@ -1,0 +1,13 @@
+{
+  "name": "MAGA",
+  "symbol": "MAGA",
+  "decimals": 9,
+  "coin_type": "0xfd90726bb33ba9dad0f41d92854eeff0efeb6c570786eb7352b3a8d50eb098b5::maga::MAGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9d285020-1210-42a6-9d8f-2824c7799f36.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

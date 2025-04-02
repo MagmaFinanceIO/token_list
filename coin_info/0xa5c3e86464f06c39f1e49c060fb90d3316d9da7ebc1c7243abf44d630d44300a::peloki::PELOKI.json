@@ -1,0 +1,13 @@
+{
+  "name": "Peloki",
+  "symbol": "Peloki",
+  "decimals": 9,
+  "coin_type": "0xa5c3e86464f06c39f1e49c060fb90d3316d9da7ebc1c7243abf44d630d44300a::peloki::PELOKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/855130f7-95c4-42d2-8782-8d88011e277b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

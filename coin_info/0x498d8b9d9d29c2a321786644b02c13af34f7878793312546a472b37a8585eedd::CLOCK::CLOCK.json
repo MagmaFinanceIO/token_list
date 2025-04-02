@@ -1,0 +1,13 @@
+{
+  "name": "CLOCK",
+  "symbol": "CLOCK",
+  "decimals": 6,
+  "coin_type": "0x498d8b9d9d29c2a321786644b02c13af34f7878793312546a472b37a8585eedd::CLOCK::CLOCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://uptos-pump.myfilebase.com/ipfs/QmUg6UU34jaXJ2ZRx8ivFs2H3mHypoMjbXmoT745oHV7Ua",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

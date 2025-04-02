@@ -1,0 +1,13 @@
+{
+  "name": "SUI USUAL",
+  "symbol": "USUAL",
+  "decimals": 2,
+  "coin_type": "0x40b7190421235a9505f61cce9ca75b5a13e72c794c3f8f8d0575864d98dd9c75::USUAL::USUAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/GrkwH7jV44e0obx0yJ2F3BQ60aNtUpFqRGLqkaVilFE?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

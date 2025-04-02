@@ -1,0 +1,13 @@
+{
+  "name": "EGG",
+  "symbol": "EGG",
+  "decimals": 9,
+  "coin_type": "0x7a6a27a416721f302d7aad300b7b257cfbab0013dd3576416d8905517e6badda::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

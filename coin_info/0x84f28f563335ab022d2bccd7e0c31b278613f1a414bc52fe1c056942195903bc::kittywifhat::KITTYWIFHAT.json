@@ -1,0 +1,13 @@
+{
+  "name": "KittyWifHat",
+  "symbol": "KittyWifHat",
+  "decimals": 9,
+  "coin_type": "0x84f28f563335ab022d2bccd7e0c31b278613f1a414bc52fe1c056942195903bc::kittywifhat::KITTYWIFHAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3b9dea8d-b7ee-46c8-a4f8-8f8691491080.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

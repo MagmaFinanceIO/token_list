@@ -1,0 +1,13 @@
+{
+  "name": "Wild West Gold",
+  "symbol": "WWG",
+  "decimals": 9,
+  "coin_type": "0x89c5516d49e296686105d869364d435e80baf2d2040fbcd139fb33c8ff5011c4::wwg::WWG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2c6dadae-9575-484f-8afe-17e6210e098f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

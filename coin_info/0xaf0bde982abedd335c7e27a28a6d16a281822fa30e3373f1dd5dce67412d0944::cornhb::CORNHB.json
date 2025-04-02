@@ -1,0 +1,13 @@
+{
+  "name": "CORNHUB",
+  "symbol": "CORNHB",
+  "decimals": 6,
+  "coin_type": "0xaf0bde982abedd335c7e27a28a6d16a281822fa30e3373f1dd5dce67412d0944::cornhb::CORNHB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_12_12_065159_60e7787c34.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

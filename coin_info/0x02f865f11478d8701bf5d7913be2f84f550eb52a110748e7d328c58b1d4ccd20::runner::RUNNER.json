@@ -1,0 +1,13 @@
+{
+  "name": "Shit's running, bro.",
+  "symbol": "RUNNER",
+  "decimals": 9,
+  "coin_type": "0x02f865f11478d8701bf5d7913be2f84f550eb52a110748e7d328c58b1d4ccd20::runner::RUNNER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BWXMwzEzstgiLu1FR7ZcwceU55nyYThHomAFRuixpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TEST001",
+  "symbol": "PRO",
+  "decimals": 9,
+  "coin_type": "0x26fc078e273ff675d11e9f5400fb7462b88afb2aefc101d4c24012050c5d391b::test001::TEST001",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafybeiecppfzpgx7xosf7h4a2zistip2d4lawqkwsp2dtp3ucmjpmnb6tq.ipfs.nftstorage.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SMELIANIA",
+  "symbol": "SMELIANIA",
+  "decimals": 9,
+  "coin_type": "0xee772c5d29ef5913da337cd0c29272c097a1205a4d84b398da01e9cbf63cfe55::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

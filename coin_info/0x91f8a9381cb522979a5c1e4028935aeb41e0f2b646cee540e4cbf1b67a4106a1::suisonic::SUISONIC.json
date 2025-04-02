@@ -1,0 +1,13 @@
+{
+  "name": "Sonic6900",
+  "symbol": "SUISONIC",
+  "decimals": 9,
+  "coin_type": "0x91f8a9381cb522979a5c1e4028935aeb41e0f2b646cee540e4cbf1b67a4106a1::suisonic::SUISONIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://raw.githubusercontent.com/sonic6900/sonic/refs/heads/main/12b85b7f-e710-4338-aba8-624e3314f98c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

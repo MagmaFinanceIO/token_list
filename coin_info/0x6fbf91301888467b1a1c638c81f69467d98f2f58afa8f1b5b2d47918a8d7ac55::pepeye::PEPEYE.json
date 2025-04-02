@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Popeye",
+  "symbol": "PEPEYE",
+  "decimals": 3,
+  "coin_type": "0x6fbf91301888467b1a1c638c81f69467d98f2f58afa8f1b5b2d47918a8d7ac55::pepeye::PEPEYE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2aa72c4d-b134-4beb-8273-c1035fb72187.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

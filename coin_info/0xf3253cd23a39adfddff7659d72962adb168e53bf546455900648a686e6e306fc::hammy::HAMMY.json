@@ -1,0 +1,13 @@
+{
+  "name": "Sad Hamster on Sui",
+  "symbol": "HAMMY",
+  "decimals": 6,
+  "coin_type": "0xf3253cd23a39adfddff7659d72962adb168e53bf546455900648a686e6e306fc::hammy::HAMMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "http://movepump.xyz/uploads/photo_2024_09_24_23_42_11_835350eb0c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

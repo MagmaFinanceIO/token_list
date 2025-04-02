@@ -1,0 +1,13 @@
+{
+  "name": "PUME",
+  "symbol": "PUME",
+  "decimals": 6,
+  "coin_type": "0xef4dac10be4e08d5832b72fdde551c15bc0976e0d779f7f04172cd1383aeffd6::PUME::PUME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pume.zone/imgs/pume.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "roth",
+  "symbol": "roth",
+  "decimals": 9,
+  "coin_type": "0x831fa91c987fd26de479b7196b29fca2f84b57a11e929e2d5327c9cae5328f77::roth::ROTH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

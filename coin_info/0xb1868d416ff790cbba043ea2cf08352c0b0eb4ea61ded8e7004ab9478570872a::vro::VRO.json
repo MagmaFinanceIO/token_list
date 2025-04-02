@@ -1,0 +1,13 @@
+{
+  "name": "vro",
+  "symbol": "vro",
+  "decimals": 9,
+  "coin_type": "0xb1868d416ff790cbba043ea2cf08352c0b0eb4ea61ded8e7004ab9478570872a::vro::VRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Aribudg5kdw2EUDPh3nHcDyTr4sUZbHo2RdjcHzapump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

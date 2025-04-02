@@ -1,0 +1,13 @@
+{
+  "name": "ASD",
+  "symbol": "ASD",
+  "decimals": 6,
+  "coin_type": "0xace3b261beb089d0537730aaf7ee258147380aafa73a2772dc686126dce05c3c::asd::ASD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.okx.com/cdn/wallet/logo/Bonk-20230106.png?x-oss-process=image/format,webp/ignore-error,1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

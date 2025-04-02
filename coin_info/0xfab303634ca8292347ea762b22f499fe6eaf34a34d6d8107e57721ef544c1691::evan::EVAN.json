@@ -1,0 +1,13 @@
+{
+  "name": "Evan on SUI",
+  "symbol": "EVAN",
+  "decimals": 6,
+  "coin_type": "0xfab303634ca8292347ea762b22f499fe6eaf34a34d6d8107e57721ef544c1691::evan::EVAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qqe_Lg_Wo_B_400x400_6eb791fb4b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

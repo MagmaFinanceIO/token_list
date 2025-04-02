@@ -1,0 +1,13 @@
+{
+  "name": "SARA",
+  "symbol": "SARA",
+  "decimals": 9,
+  "coin_type": "0x954d073e381427af52b3f533d13ffca5178712040769dfa3cfffaf1bfad4aca2::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

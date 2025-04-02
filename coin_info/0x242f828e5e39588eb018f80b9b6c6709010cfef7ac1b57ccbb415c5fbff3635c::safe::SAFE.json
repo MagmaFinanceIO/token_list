@@ -1,0 +1,13 @@
+{
+  "name": "Sui Safe M00NS",
+  "symbol": "SAFE",
+  "decimals": 9,
+  "coin_type": "0x242f828e5e39588eb018f80b9b6c6709010cfef7ac1b57ccbb415c5fbff3635c::safe::SAFE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.midjourney.com/bafdb0e2-da5b-4627-aa4f-54a62f88706c/0_1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

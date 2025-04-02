@@ -1,0 +1,13 @@
+{
+  "name": "I'm Blue Da ba dee da ba di",
+  "symbol": "IMBLUE",
+  "decimals": 6,
+  "coin_type": "0x8a61ae2eff3efebd739c35b5150a9c77af4f0e3acf3a4b843a4936dc51c4980f::imblue::IMBLUE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1_bcfe578edb.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

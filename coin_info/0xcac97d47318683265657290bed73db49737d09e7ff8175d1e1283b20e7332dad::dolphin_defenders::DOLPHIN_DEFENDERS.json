@@ -1,0 +1,13 @@
+{
+  "name": "Dolphin Defenders",
+  "symbol": "Dolphin Defenders",
+  "decimals": 9,
+  "coin_type": "0xcac97d47318683265657290bed73db49737d09e7ff8175d1e1283b20e7332dad::dolphin_defenders::DOLPHIN_DEFENDERS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8ecae461-4b22-4264-8430-6a352d5fc7cc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

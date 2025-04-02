@@ -1,0 +1,13 @@
+{
+  "name": "Pila",
+  "symbol": "PILA",
+  "decimals": 9,
+  "coin_type": "0xc4b43b8072a90ad90c5e448f8d53f0114e31d062afebf041177b521c9e59ed44::pila::PILA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bdf63586-3749-4d4c-b1d6-7c88c1dd5ca6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SuiLand",
+  "symbol": "SuiLand",
+  "decimals": 9,
+  "coin_type": "0xa8c25b9a81b74d790f53b352120d541a15a6fd36e7fe63aa55388e5257c3631b::suiland::SUILAND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/682cad63-8fac-456d-99fc-12a0ab424462.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

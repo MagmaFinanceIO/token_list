@@ -1,0 +1,13 @@
+{
+  "name": "felon",
+  "symbol": "FELON",
+  "decimals": 9,
+  "coin_type": "0x03d19bf09ae8b84e88399164cc20d4802b6ba16ad4c13404a45602297b1cca22::felon::FELON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

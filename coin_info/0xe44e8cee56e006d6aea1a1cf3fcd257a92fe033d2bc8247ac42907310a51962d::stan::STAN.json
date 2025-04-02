@@ -1,0 +1,13 @@
+{
+  "name": "OG Axie Infinity Dog",
+  "symbol": "STAN",
+  "decimals": 9,
+  "coin_type": "0xe44e8cee56e006d6aea1a1cf3fcd257a92fe033d2bc8247ac42907310a51962d::stan::STAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AzhDnCihhPNfGCaoXR4qJHnDBgE9hWLPW9k8KUKpump.png?size=lg&key=dea594",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

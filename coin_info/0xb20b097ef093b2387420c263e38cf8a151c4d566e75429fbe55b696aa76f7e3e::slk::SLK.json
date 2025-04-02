@@ -1,0 +1,13 @@
+{
+  "name": "Suilock AI",
+  "symbol": "SLK",
+  "decimals": 6,
+  "coin_type": "0xb20b097ef093b2387420c263e38cf8a151c4d566e75429fbe55b696aa76f7e3e::slk::SLK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_ezgif_com_optimize_1_672cc6634b.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

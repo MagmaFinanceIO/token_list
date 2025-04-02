@@ -1,0 +1,13 @@
+{
+  "name": "SCUBA DOG SUI",
+  "symbol": "SCUBA",
+  "decimals": 9,
+  "coin_type": "0x31312dc2d6a8b65cb5c4f96bc3c95ac4086a86841189adfb9e54979ecd72774f::scuba::SCUBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2473a970-b034-4dbb-907b-2bce0d7bfdc1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

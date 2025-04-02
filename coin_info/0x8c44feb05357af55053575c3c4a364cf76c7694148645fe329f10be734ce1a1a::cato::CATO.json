@@ -1,0 +1,13 @@
+{
+  "name": "The Cool Cat Sui",
+  "symbol": "CATO",
+  "decimals": 9,
+  "coin_type": "0x8c44feb05357af55053575c3c4a364cf76c7694148645fe329f10be734ce1a1a::cato::CATO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/188a948b-5682-45f6-b077-d40745ca5bca.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

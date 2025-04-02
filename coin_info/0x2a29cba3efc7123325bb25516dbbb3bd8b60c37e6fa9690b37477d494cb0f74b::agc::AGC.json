@@ -1,0 +1,13 @@
+{
+  "name": "Artic Gold Coin",
+  "symbol": "AGC",
+  "decimals": 3,
+  "coin_type": "0x2a29cba3efc7123325bb25516dbbb3bd8b60c37e6fa9690b37477d494cb0f74b::agc::AGC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/db1aeb91-7f17-483d-abd0-e0c69dde2079.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

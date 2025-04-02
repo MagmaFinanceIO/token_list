@@ -1,0 +1,13 @@
+{
+  "name": "Adillo on SUI",
+  "symbol": "Adillo",
+  "decimals": 9,
+  "coin_type": "0x8c79a94e5a53235f77b59e8bb25fe97efa26a314c1bfb1214cf00b39bd5b6be9::adillo::ADILLO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmNj24i8J7vbR8gHBbMQ5vTMt3EZhpN4soJzhEyPKbfRkD",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

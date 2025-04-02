@@ -1,0 +1,13 @@
+{
+  "name": "CHILLGRINCH",
+  "symbol": "CHILLGR",
+  "decimals": 9,
+  "coin_type": "0xabb97dd2f839d04f56957cef9278235660dac5829caf77ce8b0ec16eecb37678::chillgr::CHILLGR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/61trovNRXxwEyDraZnyZA1U1XW5anmug5DjjDLR7pump.png?size=lg&key=a390d9",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

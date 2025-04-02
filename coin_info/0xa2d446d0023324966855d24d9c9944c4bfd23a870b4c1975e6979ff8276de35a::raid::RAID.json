@@ -1,0 +1,13 @@
+{
+  "name": "Elon Raids Mars",
+  "symbol": "RAID",
+  "decimals": 9,
+  "coin_type": "0xa2d446d0023324966855d24d9c9944c4bfd23a870b4c1975e6979ff8276de35a::raid::RAID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x2069e1dc5889de355dd2e8e2779093ca8d676e01.png?size=lg&key=3f6954",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

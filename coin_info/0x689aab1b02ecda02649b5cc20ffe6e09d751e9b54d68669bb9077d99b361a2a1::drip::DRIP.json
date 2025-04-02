@@ -1,0 +1,13 @@
+{
+  "name": "DripDog",
+  "symbol": "Drip",
+  "decimals": 9,
+  "coin_type": "0x689aab1b02ecda02649b5cc20ffe6e09d751e9b54d68669bb9077d99b361a2a1::drip::DRIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/rXKYBdFqtFuTbieQh2DBxuy6tCi8yDRY3h1kfwSpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

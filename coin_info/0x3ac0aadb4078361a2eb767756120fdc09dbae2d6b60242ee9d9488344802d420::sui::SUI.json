@@ -1,0 +1,13 @@
+{
+  "name": "Gongsui",
+  "symbol": "SUI",
+  "decimals": 6,
+  "coin_type": "0x3ac0aadb4078361a2eb767756120fdc09dbae2d6b60242ee9d9488344802d420::sui::SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/17296508523746ah0sstw_b03c6859b5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

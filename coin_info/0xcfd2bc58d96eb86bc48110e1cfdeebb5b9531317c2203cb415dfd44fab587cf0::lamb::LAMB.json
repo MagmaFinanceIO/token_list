@@ -1,0 +1,13 @@
+{
+  "name": "LAMBALL",
+  "symbol": "LAMB",
+  "decimals": 2,
+  "coin_type": "0xcfd2bc58d96eb86bc48110e1cfdeebb5b9531317c2203cb415dfd44fab587cf0::lamb::LAMB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/UKynM3J.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

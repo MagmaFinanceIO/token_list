@@ -1,0 +1,13 @@
+{
+  "name": "Podflow by sui",
+  "symbol": "POD",
+  "decimals": 6,
+  "coin_type": "0xbaf9ccea17b0e3c71f3fd17583e2d87ca6ab8be17c4dc926cd6ffe196aa71edb::pod::POD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Whats_App_Image_2024_12_29_at_10_03_09_0f8e05593a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

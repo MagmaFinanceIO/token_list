@@ -1,0 +1,13 @@
+{
+  "name": "star",
+  "symbol": "Star",
+  "decimals": 6,
+  "coin_type": "0xf237a7ed4d6439f975819c32adf51b826112bc44ecdff69636a6ffd4f9ac39cc::star::STAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_09_17_24_34_3c2a267a6e.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

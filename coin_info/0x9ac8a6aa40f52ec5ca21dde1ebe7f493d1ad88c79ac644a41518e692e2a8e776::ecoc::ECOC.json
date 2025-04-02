@@ -1,0 +1,13 @@
+{
+  "name": "EcoCrypt",
+  "symbol": "ECOC",
+  "decimals": 6,
+  "coin_type": "0x9ac8a6aa40f52ec5ca21dde1ebe7f493d1ad88c79ac644a41518e692e2a8e776::ecoc::ECOC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_10_02_164654_53cad5f91b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

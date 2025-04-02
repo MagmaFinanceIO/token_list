@@ -1,0 +1,13 @@
+{
+  "name": "Stack AI",
+  "symbol": "STAI",
+  "decimals": 9,
+  "coin_type": "0x7b01d912f9a8b9d68f5026f552bf065b0f6b0c3ae18e48ec9acceab242d154c1::stai::STAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xdbc24f21c0c33c56739c3328852ce63f40980ab9.png?size=lg&key=23550a",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

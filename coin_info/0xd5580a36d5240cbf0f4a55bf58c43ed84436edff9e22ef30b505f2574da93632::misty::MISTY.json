@@ -1,0 +1,13 @@
+{
+  "name": "Misty",
+  "symbol": "MISTY",
+  "decimals": 6,
+  "coin_type": "0xd5580a36d5240cbf0f4a55bf58c43ed84436edff9e22ef30b505f2574da93632::misty::MISTY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000033485_966b407d54.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

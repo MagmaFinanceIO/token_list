@@ -1,0 +1,13 @@
+{
+  "name": "SuiSocialAIr by SuiAI",
+  "symbol": "SSAT",
+  "decimals": 6,
+  "coin_type": "0x49979289e9b07974191fc99590091752300781551132707d316f9cbc58c59135::ssat::SSAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/100_3c9734ad3e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

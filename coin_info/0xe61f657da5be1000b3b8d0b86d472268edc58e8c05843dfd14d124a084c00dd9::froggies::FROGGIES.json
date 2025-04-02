@@ -1,0 +1,13 @@
+{
+  "name": "Froggie Sui",
+  "symbol": "Froggies",
+  "decimals": 6,
+  "coin_type": "0xe61f657da5be1000b3b8d0b86d472268edc58e8c05843dfd14d124a084c00dd9::froggies::FROGGIES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_frogies_775ca2c2ec.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

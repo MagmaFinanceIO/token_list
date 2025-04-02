@@ -1,0 +1,13 @@
+{
+  "name": "President TrumpAI by SuiAI",
+  "symbol": "PRESIDENT",
+  "decimals": 6,
+  "coin_type": "0x6ece52b510212a1b2d35697b96a48a9c747bc6d54153d0ec31a09eeeaf2035e9::president::PRESIDENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_2197_20f81ce14d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

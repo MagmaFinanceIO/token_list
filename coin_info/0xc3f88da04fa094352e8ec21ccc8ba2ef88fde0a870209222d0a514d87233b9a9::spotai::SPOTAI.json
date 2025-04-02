@@ -1,0 +1,13 @@
+{
+  "name": "SPOT AI ON SUI",
+  "symbol": "SPOTAI",
+  "decimals": 9,
+  "coin_type": "0xc3f88da04fa094352e8ec21ccc8ba2ef88fde0a870209222d0a514d87233b9a9::spotai::SPOTAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/da91bcf9-5856-473d-ac27-d7c726f62ca2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

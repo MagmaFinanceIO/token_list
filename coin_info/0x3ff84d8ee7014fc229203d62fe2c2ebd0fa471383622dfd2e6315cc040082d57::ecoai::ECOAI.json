@@ -1,0 +1,13 @@
+{
+  "name": "ECO AI",
+  "symbol": "ECOAI",
+  "decimals": 9,
+  "coin_type": "0x3ff84d8ee7014fc229203d62fe2c2ebd0fa471383622dfd2e6315cc040082d57::ecoai::ECOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/77dde2ab-c102-445f-8ec7-0a7665d20853.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

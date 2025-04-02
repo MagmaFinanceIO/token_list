@@ -1,0 +1,13 @@
+{
+  "name": "AIDOG",
+  "symbol": "AIDOG",
+  "decimals": 9,
+  "coin_type": "0x527efc13b99711a833e00f7933162e195af23971436f334f00427a3840aff188::aidog::AIDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/JqqSp6WuOs33ETrs?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

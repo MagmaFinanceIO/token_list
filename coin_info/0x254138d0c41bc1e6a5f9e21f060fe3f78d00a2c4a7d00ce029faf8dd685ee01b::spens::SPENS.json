@@ -1,0 +1,13 @@
+{
+  "name": "Suispension",
+  "symbol": "SPENS",
+  "decimals": 9,
+  "coin_type": "0x254138d0c41bc1e6a5f9e21f060fe3f78d00a2c4a7d00ce029faf8dd685ee01b::spens::SPENS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0206707d-d9c0-4230-82bf-39c66c4dfada.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

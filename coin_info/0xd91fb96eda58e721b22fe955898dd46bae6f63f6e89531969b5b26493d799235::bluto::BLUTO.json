@@ -1,0 +1,13 @@
+{
+  "name": "Bluto 🌚",
+  "symbol": "BLUTO",
+  "decimals": 9,
+  "coin_type": "0xd91fb96eda58e721b22fe955898dd46bae6f63f6e89531969b5b26493d799235::bluto::BLUTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0c823ea6-7ace-4ab8-816b-636610f34469.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

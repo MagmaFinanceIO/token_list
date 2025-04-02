@@ -1,0 +1,13 @@
+{
+  "name": "AUKB",
+  "symbol": "AUKB",
+  "decimals": 9,
+  "coin_type": "0xc9c2f83e908f61deb0dbced0718b634512122b0f033ba443ce64978b651e1f0b::aukb::AUKB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

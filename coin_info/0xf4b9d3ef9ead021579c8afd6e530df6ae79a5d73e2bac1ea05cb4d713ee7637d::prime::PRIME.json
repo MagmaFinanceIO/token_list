@@ -1,0 +1,13 @@
+{
+  "name": "Prime Objects",
+  "symbol": "PRIME",
+  "decimals": 6,
+  "coin_type": "0xf4b9d3ef9ead021579c8afd6e530df6ae79a5d73e2bac1ea05cb4d713ee7637d::prime::PRIME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730971059894.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

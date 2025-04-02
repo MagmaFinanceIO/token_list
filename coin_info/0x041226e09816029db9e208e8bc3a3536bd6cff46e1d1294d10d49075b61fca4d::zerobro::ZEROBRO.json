@@ -1,0 +1,13 @@
+{
+  "name": "Zerobro on sui",
+  "symbol": "ZEROBRO",
+  "decimals": 6,
+  "coin_type": "0x041226e09816029db9e208e8bc3a3536bd6cff46e1d1294d10d49075b61fca4d::zerobro::ZEROBRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_20241204_121641_524_2c34190acd.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

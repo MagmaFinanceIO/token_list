@@ -1,0 +1,13 @@
+{
+  "name": "WenOnSui",
+  "symbol": "WEN",
+  "decimals": 9,
+  "coin_type": "0x8624972e0560423a28a1d75f86b6c478f9a003974eb335aca37737af87163f76::wen::WEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/09e13377-44a8-4eb7-819d-dd92d99f195d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Jin Gui",
+  "symbol": "JINGUI",
+  "decimals": 9,
+  "coin_type": "0xaaefe6107a7b9ebe7ca489e89f38934a2e61ccc77c7a586d38b34f4c209f54a6::jingui::JINGUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/bsc/0x826dcbdac81a892428aa2bc5ecdd8cb6cd402f01.png?size=lg&key=c252d4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

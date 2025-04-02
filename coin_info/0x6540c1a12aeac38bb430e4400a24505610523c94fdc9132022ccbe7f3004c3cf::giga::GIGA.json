@@ -1,0 +1,13 @@
+{
+  "name": "giga snowman",
+  "symbol": "GIGA",
+  "decimals": 6,
+  "coin_type": "0x6540c1a12aeac38bb430e4400a24505610523c94fdc9132022ccbe7f3004c3cf::giga::GIGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731031989992.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

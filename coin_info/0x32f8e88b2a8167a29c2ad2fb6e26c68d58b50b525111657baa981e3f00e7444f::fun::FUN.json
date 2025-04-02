@@ -1,0 +1,13 @@
+{
+  "name": "HFM",
+  "symbol": "fun",
+  "decimals": 6,
+  "coin_type": "0x32f8e88b2a8167a29c2ad2fb6e26c68d58b50b525111657baa981e3f00e7444f::fun::FUN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmSyYkjBEBJc2orzpMBQyUPTTu7yNceZTYYCZU5BuQQRvN",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

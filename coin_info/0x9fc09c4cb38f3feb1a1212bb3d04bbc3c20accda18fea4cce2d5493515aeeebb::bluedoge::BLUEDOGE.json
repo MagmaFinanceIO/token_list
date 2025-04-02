@@ -1,0 +1,13 @@
+{
+  "name": "BLUEDOGE",
+  "symbol": "BlueDoge",
+  "decimals": 6,
+  "coin_type": "0x9fc09c4cb38f3feb1a1212bb3d04bbc3c20accda18fea4cce2d5493515aeeebb::bluedoge::BLUEDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/ezgif_com_optimize_8ba6ca3947.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

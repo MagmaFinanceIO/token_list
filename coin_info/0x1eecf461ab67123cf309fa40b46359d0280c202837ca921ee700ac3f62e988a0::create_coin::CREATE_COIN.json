@@ -1,0 +1,13 @@
+{
+  "name": "MNG",
+  "symbol": "MANAGED",
+  "decimals": 2,
+  "coin_type": "0x1eecf461ab67123cf309fa40b46359d0280c202837ca921ee700ac3f62e988a0::create_coin::CREATE_COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

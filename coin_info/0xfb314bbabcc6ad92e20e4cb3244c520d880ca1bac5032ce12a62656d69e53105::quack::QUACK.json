@@ -1,0 +1,13 @@
+{
+  "name": "Quacky Duck",
+  "symbol": "QUACK",
+  "decimals": 9,
+  "coin_type": "0xfb314bbabcc6ad92e20e4cb3244c520d880ca1bac5032ce12a62656d69e53105::quack::QUACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8577a03e-af9a-45d1-b544-cea37975e4fa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SQUI",
+  "symbol": "SQUI",
+  "decimals": 6,
+  "coin_type": "0x8d3b159836d9e9e83766c297429bd54864010fbaaf9118d293735cb25dae3206::squi::SQUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmQzzAfNYtgLQbGEaGruS5dQnAFqGmioht1WEFVfz3rQgW",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

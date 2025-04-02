@@ -1,0 +1,13 @@
+{
+  "name": "Pochita Sui",
+  "symbol": "Pochita",
+  "decimals": 6,
+  "coin_type": "0x24d78479e8fb90e7080b11061de2391a208ed50135171ca50c9568b40e1015f4::pochita::POCHITA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Whats_App_Image_2024_10_02_at_18_20_08_b9a6490b97.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

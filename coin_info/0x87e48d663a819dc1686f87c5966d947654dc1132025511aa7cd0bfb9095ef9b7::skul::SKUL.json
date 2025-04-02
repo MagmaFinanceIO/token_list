@@ -1,0 +1,13 @@
+{
+  "name": "Skully-sui",
+  "symbol": "skul",
+  "decimals": 9,
+  "coin_type": "0x87e48d663a819dc1686f87c5966d947654dc1132025511aa7cd0bfb9095ef9b7::skul::SKUL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9f23e140-18f6-4c2f-9853-0bb5e0acbacd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

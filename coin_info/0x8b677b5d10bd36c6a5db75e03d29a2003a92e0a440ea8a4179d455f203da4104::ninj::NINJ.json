@@ -1,0 +1,13 @@
+{
+  "name": "Satoshi AI Ninja",
+  "symbol": "NINJ",
+  "decimals": 6,
+  "coin_type": "0x8b677b5d10bd36c6a5db75e03d29a2003a92e0a440ea8a4179d455f203da4104::ninj::NINJ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_P3_Nrw_Hnv8b_Hj_Gd1_PYL_1_Q4i7_X_En8_MH_6g_WA_Jrgrk_H_Mf_E1a_b8e1e8a0df.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

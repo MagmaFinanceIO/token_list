@@ -1,0 +1,13 @@
+{
+  "name": "Brazilian Miku",
+  "symbol": "Miku",
+  "decimals": 9,
+  "coin_type": "0x4a6f7536b9c9ba4398a550f7e884169e70d74a31c22c2b6717c713cd92d3da43::miku::MIKU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/eKRmDZ42Tw73pgKoWzehYSU4kdjTQhx5w69dvEcpump.png?size=lg&key=e796b1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

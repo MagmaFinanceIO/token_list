@@ -1,0 +1,13 @@
+{
+  "name": "AlphaFi Stake SUI",
+  "symbol": "stSUI",
+  "decimals": 9,
+  "coin_type": "0x0929aa4db41b7f73a33968b8afa5bac95413429c7e79b1f2abd30ecf7ef8ed05::stsui::STSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/00b85c3d-ee81-4cf4-8d27-244193d63f49.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Tether",
+  "symbol": "USDT",
+  "decimals": 9,
+  "coin_type": "0xc3b41e5a2736d098bdb58eebd68053f24c1982a53dd574a4f551695c2a1c5e43::usdt::USDT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.gtokentool.com/1737884395/1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

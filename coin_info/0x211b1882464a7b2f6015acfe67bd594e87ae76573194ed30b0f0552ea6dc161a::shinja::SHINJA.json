@@ -1,0 +1,13 @@
+{
+  "name": "Shibnobi",
+  "symbol": "SHINJA",
+  "decimals": 9,
+  "coin_type": "0x211b1882464a7b2f6015acfe67bd594e87ae76573194ed30b0f0552ea6dc161a::shinja::SHINJA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/xnnpmjVnPsEJQSE4Pw8uxDKesYxM1oLSw5hgHKwpump.png?size=lg&key=66c1a7",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

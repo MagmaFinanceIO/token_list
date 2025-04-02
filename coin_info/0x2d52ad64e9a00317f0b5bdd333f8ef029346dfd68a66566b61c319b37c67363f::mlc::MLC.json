@@ -1,0 +1,13 @@
+{
+  "name": "Moloch",
+  "symbol": "MLC",
+  "decimals": 9,
+  "coin_type": "0x2d52ad64e9a00317f0b5bdd333f8ef029346dfd68a66566b61c319b37c67363f::mlc::MLC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/545dccc8-cfe1-4946-b204-5555c7c1448b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "troll",
+  "symbol": "TROLL",
+  "decimals": 6,
+  "coin_type": "0x5250cdb1c4950a6a42d41d2b5a81f6888cc25d373cf8d2eb0466e75fcfb9ea84::troll::TROLL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731554806289.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Rudolphin",
+  "symbol": "RUDOLPHIN",
+  "decimals": 6,
+  "coin_type": "0x8da46ca2f60e393f652b101db136e01a8d6cfc78365b76621d5ce0faace0d7c7::rudolphin::RUDOLPHIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/unnamed_fec49f52cd.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

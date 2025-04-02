@@ -1,0 +1,13 @@
+{
+  "name": "Pepe AI Agent on Sui",
+  "symbol": "PEPEAI",
+  "decimals": 6,
+  "coin_type": "0x39a8a2db8306b945270ba3977ac323a56f96b380e177c63f23f2bf3e12fc6b3e::pepeai::PEPEAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2025_01_17_21_20_13_c60cc05666.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

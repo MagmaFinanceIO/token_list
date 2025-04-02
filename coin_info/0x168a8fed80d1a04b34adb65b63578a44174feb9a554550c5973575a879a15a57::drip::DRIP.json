@@ -1,0 +1,13 @@
+{
+  "name": "Drippy 💧",
+  "symbol": "DRIP",
+  "decimals": 9,
+  "coin_type": "0x168a8fed80d1a04b34adb65b63578a44174feb9a554550c5973575a879a15a57::drip::DRIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fe38e595-fcfe-459a-a72d-88815f805ddd.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

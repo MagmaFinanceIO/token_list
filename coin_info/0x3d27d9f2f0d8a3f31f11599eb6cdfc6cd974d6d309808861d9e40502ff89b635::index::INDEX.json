@@ -1,0 +1,13 @@
+{
+  "name": "Sui Index LLM",
+  "symbol": "INDEX",
+  "decimals": 9,
+  "coin_type": "0x3d27d9f2f0d8a3f31f11599eb6cdfc6cd974d6d309808861d9e40502ff89b635::index::INDEX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/AAN8BMafBV6evELYrQqSssWhu6psoueyKCEDcwrWpump.png?size=lg&key=131802",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Dripward",
+  "symbol": "DRIP",
+  "decimals": 9,
+  "coin_type": "0x9eed28fc98688a799fe51aa6ed39b851bd09d950fc785b2d7c9f543796254631::drip::DRIP",
+  "pyth_id": "",
+  "birdeyeid": "0x9eed28fc98688a799fe51aa6ed39b851bd09d950fc785b2d7c9f543796254631::drip::DRIP",
+  "coin_priority": [],
+  "logo_url": "https://gh63r3fltrhlf22hh6722j667hyk546aycyevlmody46swnzh5da.arweave.net/Mf247KucTrLrRz-_rSfe-fCu88DAsEqtjh456Vm5P0Y",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

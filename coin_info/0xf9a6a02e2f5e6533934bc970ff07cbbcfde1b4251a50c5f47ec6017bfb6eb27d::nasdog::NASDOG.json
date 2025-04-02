@@ -1,0 +1,13 @@
+{
+  "name": "NASDAQ SUI DOGE",
+  "symbol": "NASDOG",
+  "decimals": 9,
+  "coin_type": "0xf9a6a02e2f5e6533934bc970ff07cbbcfde1b4251a50c5f47ec6017bfb6eb27d::nasdog::NASDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/86c00c16-c6b6-4cb1-8495-829dff474170.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

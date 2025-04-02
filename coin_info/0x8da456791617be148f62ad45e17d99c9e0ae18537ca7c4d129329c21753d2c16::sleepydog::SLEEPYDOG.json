@@ -1,0 +1,13 @@
+{
+  "name": "Sleepy Dog",
+  "symbol": "SleepyDog",
+  "decimals": 9,
+  "coin_type": "0x8da456791617be148f62ad45e17d99c9e0ae18537ca7c4d129329c21753d2c16::sleepydog::SLEEPYDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/11c8ebae-a528-4f30-abef-5f182d8268b0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "The King Neiro on Sui",
+  "symbol": "KING NEIRO",
+  "decimals": 9,
+  "coin_type": "0x13e4c60f86c86cf24eca7921c81ffe0c9e40d45a2ff9b7695a060b6d09a497fe::king_neiro::KING_NEIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.ibb.co/x2z1mRN/Social-Template-1x1-39.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Beagle Puppy",
+  "symbol": "PUPPY",
+  "decimals": 9,
+  "coin_type": "0xa19102f329f95672c8081d077eea932c9b24eb1845199ad177547470684d1a2c::puppy::PUPPY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/731f9e91-ef27-4568-92e2-2e13dc9040da.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

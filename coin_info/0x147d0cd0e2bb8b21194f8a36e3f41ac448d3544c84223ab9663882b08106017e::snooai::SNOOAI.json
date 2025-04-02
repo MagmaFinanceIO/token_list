@@ -1,0 +1,13 @@
+{
+  "name": "Snoo AI Sui",
+  "symbol": "SNOOAI",
+  "decimals": 9,
+  "coin_type": "0x147d0cd0e2bb8b21194f8a36e3f41ac448d3544c84223ab9663882b08106017e::snooai::SNOOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7cd5afac-08a2-42b3-894f-69a131fc49f4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

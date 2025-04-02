@@ -1,0 +1,13 @@
+{
+  "name": "Goat Emoji on Sui",
+  "symbol": "Goat",
+  "decimals": 9,
+  "coin_type": "0xb166ede1d613268f78aa431dea2b76e94fc9ea1a81a628225dfdb32cef2ebc2e::goat::GOAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FRsxjugMST57bepDqurKjsNZr7iTW4RDXYXtSFMHpump.png?size=lg&key=2d595e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

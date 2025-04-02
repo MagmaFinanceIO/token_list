@@ -1,0 +1,13 @@
+{
+  "name": "SUICIDE",
+  "symbol": "SUICIDE",
+  "decimals": 9,
+  "coin_type": "0xff9dd2b6bad5f84097107ae03d5d8bf560196292404d4697cee19fe8e774228b::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

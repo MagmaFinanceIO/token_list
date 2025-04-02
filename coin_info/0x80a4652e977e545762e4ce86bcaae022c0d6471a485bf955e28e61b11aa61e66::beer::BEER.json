@@ -1,0 +1,13 @@
+{
+  "name": "BeerCoin on Sui",
+  "symbol": "BEER",
+  "decimals": 6,
+  "coin_type": "0x80a4652e977e545762e4ce86bcaae022c0d6471a485bf955e28e61b11aa61e66::beer::BEER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2bbc4790-c002-4336-9cdc-0680c6336ff4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

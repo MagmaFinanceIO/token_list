@@ -1,0 +1,13 @@
+{
+  "name": "JWLCETUS",
+  "symbol": "JWLCETUS",
+  "decimals": 9,
+  "coin_type": "0xe76df21ae2a7b9e1c5742f3417fb72cd8b5a176e56c278b2df868b7fd2fd2892::jwlcetus::JWLCETUS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://raw.githubusercontent.com/JewelSwapXFinance/jewelswap-token-logos/main/sui/jwlcetus.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

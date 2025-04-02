@@ -1,0 +1,13 @@
+{
+  "name": "BIG BRAIN OF SUI",
+  "symbol": "SUIBRAIN",
+  "decimals": 6,
+  "coin_type": "0x03ccaaa30947463e3ab6eb26c8640b5911c1fea65895b563352b8268cd5180cc::suibrain::SUIBRAIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/SUIBRAIN_f5b085d493.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

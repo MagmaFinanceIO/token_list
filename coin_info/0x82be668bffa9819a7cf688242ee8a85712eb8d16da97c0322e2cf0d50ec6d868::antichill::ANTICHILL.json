@@ -1,0 +1,13 @@
+{
+  "name": "Anti Chill Guy",
+  "symbol": "ANTICHILL",
+  "decimals": 6,
+  "coin_type": "0x82be668bffa9819a7cf688242ee8a85712eb8d16da97c0322e2cf0d50ec6d868::antichill::ANTICHILL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000042845_330d94db90.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

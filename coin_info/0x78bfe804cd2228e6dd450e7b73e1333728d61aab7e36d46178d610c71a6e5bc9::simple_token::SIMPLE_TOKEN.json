@@ -1,0 +1,13 @@
+{
+  "name": "Pop dog on Sui",
+  "symbol": "POPDOG",
+  "decimals": 9,
+  "coin_type": "0x78bfe804cd2228e6dd450e7b73e1333728d61aab7e36d46178d610c71a6e5bc9::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

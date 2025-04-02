@@ -1,0 +1,13 @@
+{
+  "name": "Sui Cabybara Frog",
+  "symbol": "SCABOG",
+  "decimals": 3,
+  "coin_type": "0x72b29ec0deb6eae559a9af5852f0388f313f5be71850301cf661712dd6a6cfa4::scabog::SCABOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/965dfb44-bc15-40d6-a2e4-9b7e787bff7a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HEART COIN",
+  "symbol": "HEART",
+  "decimals": 9,
+  "coin_type": "0x3081829696dac55d69d0e8157f560c49a334e3795933a24e331deee66ef0e4f6::heart::HEART",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5a1e83af-f02d-4b47-85c8-6fd965774f99.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

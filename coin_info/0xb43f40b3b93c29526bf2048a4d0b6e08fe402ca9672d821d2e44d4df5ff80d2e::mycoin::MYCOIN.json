@@ -1,0 +1,13 @@
+{
+  "name": "Cannabis on Sui",
+  "symbol": "CANNABIS",
+  "decimals": 9,
+  "coin_type": "0xb43f40b3b93c29526bf2048a4d0b6e08fe402ca9672d821d2e44d4df5ff80d2e::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

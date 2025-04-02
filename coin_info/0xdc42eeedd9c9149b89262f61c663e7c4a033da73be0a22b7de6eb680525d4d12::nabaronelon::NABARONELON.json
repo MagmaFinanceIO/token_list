@@ -1,0 +1,13 @@
+{
+  "name": "Na-Baron Elon",
+  "symbol": "NABARONELON",
+  "decimals": 6,
+  "coin_type": "0xdc42eeedd9c9149b89262f61c663e7c4a033da73be0a22b7de6eb680525d4d12::nabaronelon::NABARONELON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/nabaron_068e70b2bb.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

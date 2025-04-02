@@ -1,0 +1,13 @@
+{
+  "name": "PEPE BULL",
+  "symbol": "PEPEBULL",
+  "decimals": 6,
+  "coin_type": "0xab89f30296c5e87ce27757e59c9350389df6e619a7bcc5c479971f16dffa5a87::pepebull::PEPEBULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PROFILE_PIC_X_transformed_9571aa04a9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

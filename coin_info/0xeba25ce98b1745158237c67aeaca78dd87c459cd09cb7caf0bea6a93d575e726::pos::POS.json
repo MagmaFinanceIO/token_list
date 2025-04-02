@@ -1,0 +1,13 @@
+{
+  "name": "Phantom on Sui",
+  "symbol": "POS",
+  "decimals": 6,
+  "coin_type": "0xeba25ce98b1745158237c67aeaca78dd87c459cd09cb7caf0bea6a93d575e726::pos::POS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000005270_ec7caecf33.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "HIPPO is the new future",
+  "symbol": "HIPPO",
+  "decimals": 6,
+  "coin_type": "0x42a44cbad69dd23848c771bcc11900597c561547ecc9b8b38c9bb079bc111d40::hippo::HIPPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://assets-global.website-files.com/616b2c72c5848304bf335535/616d0836910205a556029675_Hippo-6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

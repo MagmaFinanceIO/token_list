@@ -1,0 +1,13 @@
+{
+  "name": "Hoopo",
+  "symbol": "HOOPO",
+  "decimals": 6,
+  "coin_type": "0x722632e68cc36b6fcef101b260d19cc8d22a008b3ea84fa2338300ec9636f03f::hoopo::HOOPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000023854_85f4d250f2.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

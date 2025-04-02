@@ -1,0 +1,13 @@
+{
+  "name": " Sapphire AI by SuiAI",
+  "symbol": "SPHR",
+  "decimals": 6,
+  "coin_type": "0xeb4e181a6e1db1c86abb7b63ad60a45b16a8f51661ce7d3c4ca1449b36eedf53::sphr::SPHR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Sapphire_Diamond_Transparent_Feathered_92a2fc9439_cd68b1f9cd.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

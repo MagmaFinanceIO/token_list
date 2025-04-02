@@ -1,0 +1,13 @@
+{
+  "name": "Fashion Brenda On Sui",
+  "symbol": "BRENDA",
+  "decimals": 9,
+  "coin_type": "0x9a6e09cfeb90be409ba7cd0f777725f7bf19ec5ef3c0de7dbf64feb0300e1252::brenda::BRENDA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a777f247-8d65-4b29-b123-377b1cffb767.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

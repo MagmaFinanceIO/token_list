@@ -1,0 +1,13 @@
+{
+  "name": "Tremp Dog 2024",
+  "symbol": "TREMDOG",
+  "decimals": 9,
+  "coin_type": "0x512c7774372bd0db54454e0e7b79f2f936820ab3808f53e174322db23697b1d6::tremdog::TREMDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fa102fba-2cc7-43f6-b019-7abc4d2cf11e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

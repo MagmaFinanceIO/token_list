@@ -1,0 +1,13 @@
+{
+  "name": "SUI TO THE MOON",
+  "symbol": "STM",
+  "decimals": 9,
+  "coin_type": "0x37fe9f41390024b0731778256ab920855ce055324a78db598d8caa90e0433426::stm::STM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8d843bca-3492-4b7d-928a-7c686df1f04e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

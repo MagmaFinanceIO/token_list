@@ -1,0 +1,13 @@
+{
+  "name": "Addict",
+  "symbol": "ADDICT",
+  "decimals": 6,
+  "coin_type": "0x370a0164b995d4b402e6782374dd72f343b939996122290cdb08e8550c8f9202::addict::ADDICT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736531992971.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

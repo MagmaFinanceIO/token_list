@@ -1,0 +1,13 @@
+{
+  "name": "DogwifSaudiHat",
+  "symbol": "SaudiDog",
+  "decimals": 9,
+  "coin_type": "0x9ae9306916d71d76b9a7e5d03236af46f89abb8100fc57a9a0689e7be992d093::saudidog::SAUDIDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8c304d03-ca52-4d33-8f55-7f21358ac9ae.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

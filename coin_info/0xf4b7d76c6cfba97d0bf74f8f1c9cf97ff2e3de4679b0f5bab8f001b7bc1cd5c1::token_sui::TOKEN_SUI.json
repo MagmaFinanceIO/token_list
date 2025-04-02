@@ -1,0 +1,13 @@
+{
+  "name": "Doberman",
+  "symbol": "doberman",
+  "decimals": 9,
+  "coin_type": "0xf4b7d76c6cfba97d0bf74f8f1c9cf97ff2e3de4679b0f5bab8f001b7bc1cd5c1::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://strapi-dev.scand.app/uploads/Dobermam_Logo_ea4feb483c.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

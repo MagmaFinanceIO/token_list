@@ -1,0 +1,13 @@
+{
+  "name": "🐙Octopus🐙",
+  "symbol": "OCTO",
+  "decimals": 9,
+  "coin_type": "0x1d4830e7a05e86fda5df60cd1e4d169ad2de0ee4547b4051602cbb63423c5160::octo::OCTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e426a51a-2818-4b8d-a3ed-228fd75246f8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

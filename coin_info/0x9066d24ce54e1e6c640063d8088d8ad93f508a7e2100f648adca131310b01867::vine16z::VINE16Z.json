@@ -1,0 +1,13 @@
+{
+  "name": "vine16z on sui",
+  "symbol": "vine16z",
+  "decimals": 9,
+  "coin_type": "0x9066d24ce54e1e6c640063d8088d8ad93f508a7e2100f648adca131310b01867::vine16z::VINE16Z",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmfDRy2XngBnVVCtSZkqZyPMkDfgwQvVi4FaHSNR3PxS3u",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

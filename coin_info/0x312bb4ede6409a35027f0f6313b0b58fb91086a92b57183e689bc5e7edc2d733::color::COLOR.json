@@ -1,0 +1,13 @@
+{
+  "name": "Sui Color",
+  "symbol": "Color",
+  "decimals": 6,
+  "coin_type": "0x312bb4ede6409a35027f0f6313b0b58fb91086a92b57183e689bc5e7edc2d733::color::COLOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmP5okeHmsKCLkWAbWA3C34BPcqUDRWvPYDyLXVTPuEFWL",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

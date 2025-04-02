@@ -1,0 +1,13 @@
+{
+  "name": "Sui Greene",
+  "symbol": "GREENE",
+  "decimals": 6,
+  "coin_type": "0xbcd57bc959cc4aff44578e2be616fa37cb5f9a362fd6125d4b2171e41c7cf3e2::greene::GREENE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/a_ab3adeba50.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

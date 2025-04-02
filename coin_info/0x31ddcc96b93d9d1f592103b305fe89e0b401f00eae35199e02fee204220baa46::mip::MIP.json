@@ -1,0 +1,13 @@
+{
+  "name": "Magic Internet Pill",
+  "symbol": "MIP",
+  "decimals": 9,
+  "coin_type": "0x31ddcc96b93d9d1f592103b305fe89e0b401f00eae35199e02fee204220baa46::mip::MIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BmYhMKNSbc6WnPpJhGUJFZJLDdBTEqndai1WizQApump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

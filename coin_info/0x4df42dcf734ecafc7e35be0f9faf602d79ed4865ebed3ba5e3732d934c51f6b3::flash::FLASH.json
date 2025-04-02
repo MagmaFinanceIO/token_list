@@ -1,0 +1,13 @@
+{
+  "name": "FLASH",
+  "symbol": "FLASH",
+  "decimals": 9,
+  "coin_type": "0x4df42dcf734ecafc7e35be0f9faf602d79ed4865ebed3ba5e3732d934c51f6b3::flash::FLASH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5LMkXSETiJeDeHwkfSPgMA6u64DBhygVfeue8EXopump.png?size=lg&key=aff05e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

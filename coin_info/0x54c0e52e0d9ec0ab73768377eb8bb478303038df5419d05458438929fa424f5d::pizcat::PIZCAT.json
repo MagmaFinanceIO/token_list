@@ -1,0 +1,13 @@
+{
+  "name": "Pizcat",
+  "symbol": "PIZCAT",
+  "decimals": 9,
+  "coin_type": "0x54c0e52e0d9ec0ab73768377eb8bb478303038df5419d05458438929fa424f5d::pizcat::PIZCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/af99f979-798b-4e0d-834c-134535132494.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

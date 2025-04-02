@@ -1,0 +1,13 @@
+{
+  "name": "sUSDC",
+  "symbol": "sUSDC",
+  "decimals": 6,
+  "coin_type": "0x854950aa624b1df59fe64e630b2ba7c550642e9342267a33061d59fb31582da5::scallop_usdc::SCALLOP_USDC",
+  "pyth_id": "",
+  "birdeyeid": "0x854950aa624b1df59fe64e630b2ba7c550642e9342267a33061d59fb31582da5::scallop_usdc::SCALLOP_USDC",
+  "coin_priority": [],
+  "logo_url": "https://gateway.irys.xyz/29eNJ7Qu9B5CDy8Gr58TxtR8QWUKPN2XWsVYK9cLr4Zu",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": true
+}

@@ -1,0 +1,13 @@
+{
+  "name": "DogWifCat",
+  "symbol": "DogWifCat",
+  "decimals": 9,
+  "coin_type": "0xa652198724b892499bafb870384aae90643eb92282d3743c6e22bd4925a2fb66::dogwifcat::DOGWIFCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/83adb21e-dc9e-44de-af69-c2a6c9216567.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

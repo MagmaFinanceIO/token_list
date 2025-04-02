@@ -1,0 +1,13 @@
+{
+  "name": "WORD",
+  "symbol": "WORD",
+  "decimals": 9,
+  "coin_type": "0x5df1a0a76660c28d3b4764474cab14037af660160fa5c8fe9a1082cdd89bdbbb::word::WORD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

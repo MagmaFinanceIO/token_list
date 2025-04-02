@@ -1,0 +1,13 @@
+{
+  "name": "Pork",
+  "symbol": "PORK",
+  "decimals": 9,
+  "coin_type": "0x5a5514bb3ccb1d8d0f4651cbd4a9829a1c7735daf9ce11fed98d8d1e4d02fa24::pork::PORK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d65a9f4f-33e9-4e9e-9ed7-569226e536a9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BICOIN",
+  "symbol": "BICOIN",
+  "decimals": 9,
+  "coin_type": "0xfb050fc6f5fda6323414fa3d38fb942c8eacb560122877685cd65e55d97cfd10::bicoin::BICOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f02cf66b-b663-435d-94b7-b7475d734314.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

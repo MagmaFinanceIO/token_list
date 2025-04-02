@@ -1,0 +1,13 @@
+{
+  "name": "Zmog By Matt Furie",
+  "symbol": "ZMOG",
+  "decimals": 6,
+  "coin_type": "0x206a3d5058c9f3623416dfe252c294ca194de28cca596588d28d4239faa6a7e6::zmog::ZMOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731035013530.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

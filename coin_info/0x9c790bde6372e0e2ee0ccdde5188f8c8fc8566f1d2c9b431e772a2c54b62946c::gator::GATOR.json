@@ -1,0 +1,13 @@
+{
+  "name": "Gator Sui",
+  "symbol": "GATOR",
+  "decimals": 9,
+  "coin_type": "0x9c790bde6372e0e2ee0ccdde5188f8c8fc8566f1d2c9b431e772a2c54b62946c::gator::GATOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/20a7f888-e759-4fc2-b9f9-03ef59a3e8ea.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

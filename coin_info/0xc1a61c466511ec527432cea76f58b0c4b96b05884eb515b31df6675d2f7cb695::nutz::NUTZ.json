@@ -1,0 +1,13 @@
+{
+  "name": "SUI NUTZ PAD",
+  "symbol": "NUTZ",
+  "decimals": 9,
+  "coin_type": "0xc1a61c466511ec527432cea76f58b0c4b96b05884eb515b31df6675d2f7cb695::nutz::NUTZ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0ee058f7-41ff-4bee-9fce-bccc0c410726.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

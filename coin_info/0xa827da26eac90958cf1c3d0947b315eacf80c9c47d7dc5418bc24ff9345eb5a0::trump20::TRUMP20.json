@@ -1,0 +1,13 @@
+{
+  "name": "Official Trump 2.0",
+  "symbol": "TRUMP20",
+  "decimals": 9,
+  "coin_type": "0xa827da26eac90958cf1c3d0947b315eacf80c9c47d7dc5418bc24ff9345eb5a0::trump20::TRUMP20",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/BT4xDqQGxFnnVLnkcDgRzx2B42kNfae8bM1LJq9pump.png?size=lg&key=c9b38e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

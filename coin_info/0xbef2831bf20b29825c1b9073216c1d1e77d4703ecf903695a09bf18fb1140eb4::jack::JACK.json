@@ -1,0 +1,13 @@
+{
+  "name": "JACK",
+  "symbol": "jack",
+  "decimals": 9,
+  "coin_type": "0xbef2831bf20b29825c1b9073216c1d1e77d4703ecf903695a09bf18fb1140eb4::jack::JACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

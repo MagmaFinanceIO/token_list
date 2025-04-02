@@ -1,0 +1,13 @@
+{
+  "name": "Sui_Mo",
+  "symbol": "SUIMO",
+  "decimals": 6,
+  "coin_type": "0x535e234d5741831633d75176d0f36b96e81ed00c8b3b1151093d7cafd6374576::suimo::SUIMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1737430416342.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

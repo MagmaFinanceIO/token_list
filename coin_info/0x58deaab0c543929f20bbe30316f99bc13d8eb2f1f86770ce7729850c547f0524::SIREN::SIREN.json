@@ -1,0 +1,13 @@
+{
+  "name": "Siren's Embrace",
+  "symbol": "Siren",
+  "decimals": 9,
+  "coin_type": "0x58deaab0c543929f20bbe30316f99bc13d8eb2f1f86770ce7729850c547f0524::SIREN::SIREN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/081/062/101/large/thiago-lehmann-mermaid-small.jpg?1729259154",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

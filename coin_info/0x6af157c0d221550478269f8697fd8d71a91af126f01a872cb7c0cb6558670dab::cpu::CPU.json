@@ -1,0 +1,13 @@
+{
+  "name": "CUM PROCESSING UNIT",
+  "symbol": "CPU",
+  "decimals": 9,
+  "coin_type": "0x6af157c0d221550478269f8697fd8d71a91af126f01a872cb7c0cb6558670dab::cpu::CPU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3vPnCvrYU6xrWQj4xQqLtLeBzbiiYH4dLSoJQq2Lpump.png?claimId=VbWvMbPnwdKTlAcg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

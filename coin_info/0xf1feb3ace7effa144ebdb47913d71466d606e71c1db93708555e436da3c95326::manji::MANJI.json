@@ -1,0 +1,13 @@
+{
+  "name": "Manji",
+  "symbol": "Manji",
+  "decimals": 9,
+  "coin_type": "0xf1feb3ace7effa144ebdb47913d71466d606e71c1db93708555e436da3c95326::manji::MANJI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/de9931cd-29dd-408e-a7ef-a41648fcd427.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

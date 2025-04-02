@@ -1,0 +1,13 @@
+{
+  "name": "Top G Ponko",
+  "symbol": "Ponko",
+  "decimals": 9,
+  "coin_type": "0xd05d3898eb7874ba7e2dec88e7ec0ab7e014ec8d9e01cbe585c2dfd033165e6e::ponko::PONKO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a1903bff-147b-41b2-aa7c-3e0460841b39.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

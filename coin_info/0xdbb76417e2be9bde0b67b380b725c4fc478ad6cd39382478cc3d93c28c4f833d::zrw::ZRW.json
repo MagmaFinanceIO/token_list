@@ -1,0 +1,13 @@
+{
+  "name": "ZRW",
+  "symbol": "ZRW",
+  "decimals": 9,
+  "coin_type": "0xdbb76417e2be9bde0b67b380b725c4fc478ad6cd39382478cc3d93c28c4f833d::zrw::ZRW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

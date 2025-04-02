@@ -1,0 +1,13 @@
+{
+  "name": "darksun",
+  "symbol": "BINARY",
+  "decimals": 9,
+  "coin_type": "0xdffd80e5907c90a26ee3ad68cb70d9c6de11af980f04113d957424f73d83dc5b::binary::BINARY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/23ENcgMStoFMYYj5qdauaca3v1ouvRdZXTdi55J1pump.png?size=lg&key=4c5247",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

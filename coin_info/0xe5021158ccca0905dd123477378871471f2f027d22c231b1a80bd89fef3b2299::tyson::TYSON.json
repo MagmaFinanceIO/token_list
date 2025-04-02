@@ -1,0 +1,13 @@
+{
+  "name": "Sui Tyson",
+  "symbol": "TYSON",
+  "decimals": 6,
+  "coin_type": "0xe5021158ccca0905dd123477378871471f2f027d22c231b1a80bd89fef3b2299::tyson::TYSON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Sui_Tyson_1c4e53b623.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

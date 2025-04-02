@@ -1,0 +1,13 @@
+{
+  "name": "Gold bar",
+  "symbol": "GB",
+  "decimals": 9,
+  "coin_type": "0x90e528b1d863692af1fc24c7df2b73c505f3552a65325df7273b49cf902c8bac::gb::GB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/46c11d71-8ddb-407e-a0e1-b3b833b5b06d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

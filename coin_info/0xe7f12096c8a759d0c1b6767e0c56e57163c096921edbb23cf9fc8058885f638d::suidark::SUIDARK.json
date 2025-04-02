@@ -1,0 +1,13 @@
+{
+  "name": "Sui Dark",
+  "symbol": "SuiDark",
+  "decimals": 9,
+  "coin_type": "0xe7f12096c8a759d0c1b6767e0c56e57163c096921edbb23cf9fc8058885f638d::suidark::SUIDARK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f18b6e55-350c-4607-840f-f6f0cf0664f2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

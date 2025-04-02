@@ -1,0 +1,13 @@
+{
+  "name": "Crazy Frog",
+  "symbol": "CRAZY",
+  "decimals": 9,
+  "coin_type": "0x258bb43afb1d05c6682714208ead59a504ef53e2287b076d2cea75d60d583569::crazy::CRAZY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/3BCh3rN8qYemsuEG5cKCmxUJDhQbTZcQeSJtYG4YW3DR.png?size=lg&key=096bb0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

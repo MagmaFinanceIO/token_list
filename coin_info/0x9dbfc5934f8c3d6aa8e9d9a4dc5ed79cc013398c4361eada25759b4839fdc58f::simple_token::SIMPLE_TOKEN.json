@@ -1,0 +1,13 @@
+{
+  "name": "SUIAIAI",
+  "symbol": "SUIAIAI",
+  "decimals": 9,
+  "coin_type": "0x9dbfc5934f8c3d6aa8e9d9a4dc5ed79cc013398c4361eada25759b4839fdc58f::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

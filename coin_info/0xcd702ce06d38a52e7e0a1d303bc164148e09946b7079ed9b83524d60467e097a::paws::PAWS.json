@@ -1,0 +1,13 @@
+{
+  "name": "PAWS",
+  "symbol": "PAWS",
+  "decimals": 9,
+  "coin_type": "0xcd702ce06d38a52e7e0a1d303bc164148e09946b7079ed9b83524d60467e097a::paws::PAWS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7AwbQh2tRRmZGefKmrb2x21798AFpSxNr4knyomhD3iX.png?size=lg&key=4065a3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

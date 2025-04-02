@@ -1,0 +1,13 @@
+{
+  "name": "Elon Hedgehog",
+  "symbol": "SHRUB",
+  "decimals": 2,
+  "coin_type": "0x900c804aa97663cfc11e1368c32138d585ff9c1f99634c2ff58cc2d5c5730484::SHRUB::SHRUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://arweave.net/Pfyex3l3Pxu_clnsPbHQOnS28Bq_ysS7Z5NSqIyhXVY?ext=png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

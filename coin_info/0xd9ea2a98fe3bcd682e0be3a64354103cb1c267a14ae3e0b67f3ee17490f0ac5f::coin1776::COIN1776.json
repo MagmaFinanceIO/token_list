@@ -1,0 +1,13 @@
+{
+  "name": "Coin1776",
+  "symbol": "Coin1776",
+  "decimals": 9,
+  "coin_type": "0xd9ea2a98fe3bcd682e0be3a64354103cb1c267a14ae3e0b67f3ee17490f0ac5f::coin1776::COIN1776",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0086fc70-4e91-4eac-b9c0-6507257de4d5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

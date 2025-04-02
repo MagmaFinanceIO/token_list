@@ -1,0 +1,13 @@
+{
+  "name": "Sui Kabosu",
+  "symbol": "KABOSUI",
+  "decimals": 9,
+  "coin_type": "0x5842e0ec8e2660a52d85849fbc3c8557da64af1c57d0353291334c0e1017ae1a::kabosui::KABOSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/05ffef4c-54e6-4a6c-b908-37a20d6d7202.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

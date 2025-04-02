@@ -1,0 +1,13 @@
+{
+  "name": "SuibaWave",
+  "symbol": "SWAVE",
+  "decimals": 6,
+  "coin_type": "0xbbfaf4a710a3ac8f4dbca48dcd29d78cd20fc5fcbc487d5e96dad3141072c0bf::swave::SWAVE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d3e9343b-9d87-4e3e-b952-b3732831e8de.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

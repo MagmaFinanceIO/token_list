@@ -1,0 +1,13 @@
+{
+  "name": "SuiBrett",
+  "symbol": "SuiBrett",
+  "decimals": 9,
+  "coin_type": "0xe6b41cd05be3a47a94b96d7d2f68d26af9493d23e8acb44bddc47cad1b653357::suibrett::SUIBRETT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0ca46655-8fa5-4e56-9b15-9c853ea8cacf.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

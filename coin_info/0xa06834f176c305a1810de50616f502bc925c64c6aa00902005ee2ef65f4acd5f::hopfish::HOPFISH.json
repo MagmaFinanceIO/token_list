@@ -1,0 +1,13 @@
+{
+  "name": "Hop FISH SUI",
+  "symbol": "HOPFISH",
+  "decimals": 6,
+  "coin_type": "0xa06834f176c305a1810de50616f502bc925c64c6aa00902005ee2ef65f4acd5f::hopfish::HOPFISH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/hopfish_359e0c5ed8.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui3PO",
+  "symbol": "Sui3PO",
+  "decimals": 9,
+  "coin_type": "0x164b99265834bffbb1f5eaae77fe0076e8b82a8efbe9fd4c648eab94f6e358fb::sui3po::SUI3PO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/961c56e9-51c3-4489-83ef-4362d8e5e6f1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

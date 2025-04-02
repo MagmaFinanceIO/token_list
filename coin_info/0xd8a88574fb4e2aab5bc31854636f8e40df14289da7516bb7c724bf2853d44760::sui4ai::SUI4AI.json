@@ -1,0 +1,13 @@
+{
+  "name": "Sui4 AI",
+  "symbol": "SUI4AI",
+  "decimals": 9,
+  "coin_type": "0xd8a88574fb4e2aab5bc31854636f8e40df14289da7516bb7c724bf2853d44760::sui4ai::SUI4AI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4WFB4bEikmMsVZLsxAsnRiqms4yHSH48WAM29p9Spump.png?size=lg&key=2f489e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

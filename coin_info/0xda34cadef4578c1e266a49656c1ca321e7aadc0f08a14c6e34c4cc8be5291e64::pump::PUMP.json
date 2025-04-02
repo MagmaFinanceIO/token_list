@@ -1,0 +1,13 @@
+{
+  "name": "PUMPMAN",
+  "symbol": "PUMP",
+  "decimals": 9,
+  "coin_type": "0xda34cadef4578c1e266a49656c1ca321e7aadc0f08a14c6e34c4cc8be5291e64::pump::PUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/bW24Xsz9CO94t_6T?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

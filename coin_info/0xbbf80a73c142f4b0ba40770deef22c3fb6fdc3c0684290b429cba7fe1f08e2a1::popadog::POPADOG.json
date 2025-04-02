@@ -1,0 +1,13 @@
+{
+  "name": "Popa Dog On Sui",
+  "symbol": "POPADOG",
+  "decimals": 9,
+  "coin_type": "0xbbf80a73c142f4b0ba40770deef22c3fb6fdc3c0684290b429cba7fe1f08e2a1::popadog::POPADOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/96dd98df-89f3-4d31-88bc-a62e519b9f2b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

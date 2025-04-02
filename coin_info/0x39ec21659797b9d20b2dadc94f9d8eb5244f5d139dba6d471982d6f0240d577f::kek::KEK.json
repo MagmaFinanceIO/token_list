@@ -1,0 +1,13 @@
+{
+  "name": "Suikek",
+  "symbol": "Kek",
+  "decimals": 6,
+  "coin_type": "0x39ec21659797b9d20b2dadc94f9d8eb5244f5d139dba6d471982d6f0240d577f::kek::KEK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_2071_18f4f092eb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

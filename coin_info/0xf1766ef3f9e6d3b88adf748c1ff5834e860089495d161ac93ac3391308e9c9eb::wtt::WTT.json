@@ -1,0 +1,13 @@
+{
+  "name": "Wealthy Toad Token",
+  "symbol": "WTT",
+  "decimals": 9,
+  "coin_type": "0xf1766ef3f9e6d3b88adf748c1ff5834e860089495d161ac93ac3391308e9c9eb::wtt::WTT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fe2b6bdb-b6d1-4bcf-b43f-1f914b81eae1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TEST16",
+  "symbol": "TESTONESIX",
+  "decimals": 9,
+  "coin_type": "0x935bc3c8c750db6259af7aa201e292c31d871815f7883dc5562778d71a2fea51::testonesix::TESTONESIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

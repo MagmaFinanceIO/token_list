@@ -1,0 +1,13 @@
+{
+  "name": "Vodka",
+  "symbol": "Vodka",
+  "decimals": 9,
+  "coin_type": "0xb823305a9dae6b0fdfdad134a8b5f5378aa37dfed5e5f8a1e422cb608b380a9c::vodka::VODKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Smirnoff_Red_Label_8213.jpg/1200px-Smirnoff_Red_Label_8213.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

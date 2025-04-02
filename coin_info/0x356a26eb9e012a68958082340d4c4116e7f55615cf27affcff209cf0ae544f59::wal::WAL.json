@@ -1,0 +1,13 @@
+{
+  "name": "Walrus",
+  "symbol": "WAL",
+  "decimals": 9,
+  "coin_type": "0x356a26eb9e012a68958082340d4c4116e7f55615cf27affcff209cf0ae544f59::wal::WAL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://app.magmafinance.io/api/logo/0x356a26eb9e012a68958082340d4c4116e7f55615cf27affcff209cf0ae544f59::wal::WAL.svg",
+  "project_url": "https://www.walrus.xyz/",
+  "coingecko_id": "",
+  "is_trusted": true
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MIAU CAT",
+  "symbol": "MIAU",
+  "decimals": 9,
+  "coin_type": "0x4d41b6d088c4dd4fd0ff96fcdc330a608cc58c663a6cd7aa987295a3b58267f3::miau::MIAU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2c263b26-3ae1-4928-bf7a-8d1292492612.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

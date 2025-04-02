@@ -1,0 +1,13 @@
+{
+  "name": "FENNECS",
+  "symbol": "FNEC",
+  "decimals": 9,
+  "coin_type": "0xab5144b6e5f4311b3282026b08a9b6195f3032ae98d208fda54c6a637fb260ff::fnec::FNEC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f1657215-76bc-463e-80f8-bd877b430806.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

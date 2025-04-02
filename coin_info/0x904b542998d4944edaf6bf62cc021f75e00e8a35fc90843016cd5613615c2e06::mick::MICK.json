@@ -1,0 +1,13 @@
+{
+  "name": "Nightmare Mick",
+  "symbol": "MICK",
+  "decimals": 9,
+  "coin_type": "0x904b542998d4944edaf6bf62cc021f75e00e8a35fc90843016cd5613615c2e06::mick::MICK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/1d4c9966-c68a-4f16-b858-359d32bf1001.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

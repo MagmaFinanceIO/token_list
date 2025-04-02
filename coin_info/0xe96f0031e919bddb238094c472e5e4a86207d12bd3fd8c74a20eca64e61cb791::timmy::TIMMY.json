@@ -1,0 +1,13 @@
+{
+  "name": "Trench Timmy",
+  "symbol": "TIMMY",
+  "decimals": 9,
+  "coin_type": "0xe96f0031e919bddb238094c472e5e4a86207d12bd3fd8c74a20eca64e61cb791::timmy::TIMMY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/41Nr4hXEFpz8v4yvKD1nxnzEguWKQeYHbBFzHNFJP4cn.png?size=lg&key=1d6aec",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "QUANT PRIME",
+  "symbol": "QUANTP",
+  "decimals": 6,
+  "coin_type": "0xf8b69005e58401260301654af93f51a30948bffaa761e67139660ee9cebf935d::quantp::QUANTP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Gc2f_I_Os_XUA_Ecb71_6386cbbfa9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "🔵 Sui Circle",
+  "symbol": "SuiC",
+  "decimals": 9,
+  "coin_type": "0x8d8209150f12b2915d0f4f739fa968cce0473b15a95cb2cb3f557b5130bfe308::suic::SUIC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7db88276-376d-4337-932b-4f101fe16084.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

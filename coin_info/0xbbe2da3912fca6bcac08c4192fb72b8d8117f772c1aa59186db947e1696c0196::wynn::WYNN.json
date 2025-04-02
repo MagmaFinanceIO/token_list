@@ -1,0 +1,13 @@
+{
+  "name": "Anita Max Wynn",
+  "symbol": "WYNN",
+  "decimals": 6,
+  "coin_type": "0xbbe2da3912fca6bcac08c4192fb72b8d8117f772c1aa59186db947e1696c0196::wynn::WYNN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_1_3e42d91b56.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

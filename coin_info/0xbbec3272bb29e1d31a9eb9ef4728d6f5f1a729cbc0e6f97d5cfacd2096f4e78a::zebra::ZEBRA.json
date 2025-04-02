@@ -1,0 +1,13 @@
+{
+  "name": "SUI ZEBRA",
+  "symbol": "ZEBRA",
+  "decimals": 6,
+  "coin_type": "0xbbec3272bb29e1d31a9eb9ef4728d6f5f1a729cbc0e6f97d5cfacd2096f4e78a::zebra::ZEBRA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736609641243.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

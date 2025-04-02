@@ -1,0 +1,13 @@
+{
+  "name": "Black Pepe",
+  "symbol": "BLEPE",
+  "decimals": 6,
+  "coin_type": "0x4f878f88db288d9f033534c1a130bc800ca8780d887e6cf33218a9fdeea2953c::blepe::BLEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/91bd8570-d768-448e-a24b-6264104feeaa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

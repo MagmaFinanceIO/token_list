@@ -1,0 +1,13 @@
+{
+  "name": "pudgysa",
+  "symbol": "pudgysa",
+  "decimals": 9,
+  "coin_type": "0xb351f3563e431baa1a65aa6025e4882fc25a5380b197fb87adcdb76dd9dc5ff7::firoll::FIROLL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafybeiecppfzpgx7xosf7h4a2zistip2d4lawqkwsp2dtp3ucmjpmnb6tq.ipfs.nftstorage.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

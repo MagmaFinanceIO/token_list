@@ -1,0 +1,13 @@
+{
+  "name": "Snowman",
+  "symbol": "SNOWMAN",
+  "decimals": 9,
+  "coin_type": "0x7243804d4fef86662912ae5df9662c42a8608dc7f9384071f28acc9a0edaab0b::snowman::SNOWMAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CFYmttReyweRELse5CM9gU1fEQWvPVjJUPNEABnTheRg.png?size=lg&key=2ded56",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

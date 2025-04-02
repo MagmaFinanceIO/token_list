@@ -1,0 +1,13 @@
+{
+  "name": "Flocktopia On Sui",
+  "symbol": "FLOCK",
+  "decimals": 9,
+  "coin_type": "0xb79e4e268d49a371e7e8a579d43e21e1987e0ffb3c907e10fa789c5f131d2971::flock::FLOCK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a4c8cc72-52ab-4eef-811e-7d80857f2057.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Neuron AI",
+  "symbol": "NEURON",
+  "decimals": 9,
+  "coin_type": "0xd5fb7a04961e9c44f41b3dc05e40823b2641b0674bd07e3c0d50e9625918dab2::neuron::NEURON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Eg4AUpzkaYodsCaWLfxHvfWoPcqdxSiXpNQmYFWpump.png?size=lg&key=dbc73c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

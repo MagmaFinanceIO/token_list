@@ -1,0 +1,13 @@
+{
+  "name": "Tuxedosam Wif Doge",
+  "symbol": "TUXDOGE",
+  "decimals": 9,
+  "coin_type": "0x9910a4a895818c60586b7c3be60a5fd6f070ffce52b6ee680047b1b495a78d1b::tuxdoge::TUXDOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GNDCuyYThCFMAZR5dZgK2cNdGJTawQbT7X1MYP5NyWsz.png?size=lg&key=2583d0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

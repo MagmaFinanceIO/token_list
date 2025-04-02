@@ -1,0 +1,13 @@
+{
+  "name": "FART PER SECONDS",
+  "symbol": "FPS",
+  "decimals": 9,
+  "coin_type": "0x545c19c24b16b5ba22c31b2522b86ffbd1f3dafc74b6d8345753bcbfe4618496::fps::FPS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8DDse9f6QY6kDGWxj5yaDNeaS3JQfHrta3PHw2wnpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

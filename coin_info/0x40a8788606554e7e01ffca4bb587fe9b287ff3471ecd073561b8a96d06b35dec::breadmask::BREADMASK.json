@@ -1,0 +1,13 @@
+{
+  "name": "Dog wif BreadMask",
+  "symbol": "BreadMask",
+  "decimals": 6,
+  "coin_type": "0x40a8788606554e7e01ffca4bb587fe9b287ff3471ecd073561b8a96d06b35dec::breadmask::BREADMASK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Qm_Ufz_HCP_Lpxwp9_Vm_Q_Gk_XRX_4f63nu2vx_MN_Dq_DWMCHGBQ_8tn_7983058d60.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

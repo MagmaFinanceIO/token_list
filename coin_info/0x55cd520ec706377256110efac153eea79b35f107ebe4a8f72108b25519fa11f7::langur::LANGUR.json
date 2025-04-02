@@ -1,0 +1,13 @@
+{
+  "name": "LANGUR Cil",
+  "symbol": "LANGUR",
+  "decimals": 9,
+  "coin_type": "0x55cd520ec706377256110efac153eea79b35f107ebe4a8f72108b25519fa11f7::langur::LANGUR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://file-walletapp.waveonsui.com/images/wave-pumps/85bfdf42-bb92-41a5-a460-0f9537bd8766.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

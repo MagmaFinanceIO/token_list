@@ -1,0 +1,13 @@
+{
+  "name": "BIGSUI",
+  "symbol": "BIGSUI",
+  "decimals": 9,
+  "coin_type": "0x1023d2539ab8b98dbd24c66e5c1fb664db5a79d0c2e497dfbd4bf5db590015b5::bigsui::BIGSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9990f091-5071-4b59-b716-2d104898bbfa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

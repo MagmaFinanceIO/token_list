@@ -1,0 +1,13 @@
+{
+  "name": "OskZr",
+  "symbol": "PSZAm",
+  "decimals": 9,
+  "coin_type": "0x79e6120aa7b94a6ad04dc8053393e63fe6b7a3658d2241ec9750f581a69e03a9::pszam::PSZAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HheTmXNNkrzN78Qsyz6obfGSL1HvFttG7FU5fok3pump.png?size=lg&key=282918",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

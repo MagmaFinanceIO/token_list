@@ -1,0 +1,13 @@
+{
+  "name": "HIPPO 2.0 CTO",
+  "symbol": "HIPPOCTO",
+  "decimals": 9,
+  "coin_type": "0xf9ff3a9ac21ca29b8aa5f2a12fcadde7b1887740cf6f1c4cd6d53f59956446e5::hippocto::HIPPOCTO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a8699f70-a82b-4bc2-b09d-8182b306e813.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

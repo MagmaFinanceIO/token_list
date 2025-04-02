@@ -1,0 +1,13 @@
+{
+  "name": "CHOP TOP SUI",
+  "symbol": "CHOP",
+  "decimals": 6,
+  "coin_type": "0x939a79c37ea619b5d0bda38ddb6cc80bce23eaad45b07aaf7c07fcccdcab0656::chop::CHOP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Screenshot_2024_10_29_230608_dd7eecdffd.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

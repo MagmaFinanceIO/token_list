@@ -1,0 +1,13 @@
+{
+  "name": "sui100",
+  "symbol": "SUI100",
+  "decimals": 6,
+  "coin_type": "0x827637f73db238c28aa855dab3db347a661a4498fc6e67210d5b34152d84a837::sui100::SUI100",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/sui100_4d08f20852.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "THE PUFF",
+  "symbol": "PUFF",
+  "decimals": 9,
+  "coin_type": "0x493ce5fe0fe566100906d83d97758d3b5c4f40812251930ebfc5e34e519dbbe0::puff::PUFF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

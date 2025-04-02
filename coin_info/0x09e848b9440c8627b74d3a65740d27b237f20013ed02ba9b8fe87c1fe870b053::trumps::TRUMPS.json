@@ -1,0 +1,13 @@
+{
+  "name": "OFFICIAL TRUMP ON SUI",
+  "symbol": "TRUMPS",
+  "decimals": 9,
+  "coin_type": "0x09e848b9440c8627b74d3a65740d27b237f20013ed02ba9b8fe87c1fe870b053::trumps::TRUMPS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN.png?size=lg&key=f02e9e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

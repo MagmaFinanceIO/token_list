@@ -1,0 +1,13 @@
+{
+  "name": "DOG FACE",
+  "symbol": "DOG",
+  "decimals": 6,
+  "coin_type": "0x6ad2155c45a99fbfc6222150c5f65a73ca92d10de39c02c78745570f508c5e7c::dog::DOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/dog.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

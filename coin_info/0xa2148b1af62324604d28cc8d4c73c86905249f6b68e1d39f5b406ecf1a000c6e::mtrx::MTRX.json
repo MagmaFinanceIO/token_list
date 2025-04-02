@@ -1,0 +1,13 @@
+{
+  "name": "MatrixAi",
+  "symbol": "MTRX",
+  "decimals": 6,
+  "coin_type": "0xa2148b1af62324604d28cc8d4c73c86905249f6b68e1d39f5b406ecf1a000c6e::mtrx::MTRX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

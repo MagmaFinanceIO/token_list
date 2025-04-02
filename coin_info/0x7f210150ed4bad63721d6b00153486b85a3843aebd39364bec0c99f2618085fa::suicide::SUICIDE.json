@@ -1,0 +1,13 @@
+{
+  "name": "Squirrel fakes death",
+  "symbol": "SUIcide",
+  "decimals": 6,
+  "coin_type": "0x7f210150ed4bad63721d6b00153486b85a3843aebd39364bec0c99f2618085fa::suicide::SUICIDE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Ausschnitt_dd380d5216.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Blue eyed hippo",
+  "symbol": "BLUEH",
+  "decimals": 9,
+  "coin_type": "0x07d7e6666256bcbaeee9513db980076d0f288139d81decede0471cb2da08142a::blueh::BLUEH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5ee6b55b-075a-403d-b59e-c6c808437057.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

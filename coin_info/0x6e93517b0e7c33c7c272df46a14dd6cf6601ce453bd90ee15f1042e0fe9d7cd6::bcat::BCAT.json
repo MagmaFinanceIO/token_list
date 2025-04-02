@@ -1,0 +1,13 @@
+{
+  "name": "Baby Cat",
+  "symbol": "BCAT",
+  "decimals": 9,
+  "coin_type": "0x6e93517b0e7c33c7c272df46a14dd6cf6601ce453bd90ee15f1042e0fe9d7cd6::bcat::BCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2523c2e4-b6cb-4971-a584-182bc5be694e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

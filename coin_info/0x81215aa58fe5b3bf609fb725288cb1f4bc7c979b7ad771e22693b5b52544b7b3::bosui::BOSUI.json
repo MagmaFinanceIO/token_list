@@ -1,0 +1,13 @@
+{
+  "name": "Book of SUI",
+  "symbol": "Bosui",
+  "decimals": 6,
+  "coin_type": "0x81215aa58fe5b3bf609fb725288cb1f4bc7c979b7ad771e22693b5b52544b7b3::bosui::BOSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/sfdfsfsd_b6242f9dcc.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

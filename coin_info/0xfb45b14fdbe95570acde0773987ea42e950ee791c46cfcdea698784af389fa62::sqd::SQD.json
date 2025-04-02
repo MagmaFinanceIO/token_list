@@ -1,0 +1,13 @@
+{
+  "name": "Suicide Squad",
+  "symbol": "SQD",
+  "decimals": 6,
+  "coin_type": "0xfb45b14fdbe95570acde0773987ea42e950ee791c46cfcdea698784af389fa62::sqd::SQD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736874292992.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

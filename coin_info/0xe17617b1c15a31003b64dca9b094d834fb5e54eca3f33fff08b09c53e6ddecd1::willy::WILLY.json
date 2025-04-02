@@ -1,0 +1,13 @@
+{
+  "name": "Willy Meme",
+  "symbol": "Willy",
+  "decimals": 6,
+  "coin_type": "0xe17617b1c15a31003b64dca9b094d834fb5e54eca3f33fff08b09c53e6ddecd1::willy::WILLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/logo_9b0e71fa3d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

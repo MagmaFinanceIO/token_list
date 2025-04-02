@@ -1,0 +1,13 @@
+{
+  "name": "The HatCoin",
+  "symbol": "HATC",
+  "decimals": 9,
+  "coin_type": "0x44bfd0cb742ecae78f0fa8b83f9a3853c19f5c00d284ca4c5804d711235a1b20::hatc::HATC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/671ZGLBmJGP2ccuLstknjH8DiDBcxz8o2xe9LtsDrhka.png?size=lg&key=8e7db0",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

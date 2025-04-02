@@ -1,0 +1,13 @@
+{
+  "name": "Two-term Crypto Pepesident",
+  "symbol": "PEPESIDENT",
+  "decimals": 9,
+  "coin_type": "0xf070689f4fbf93d4f970b14c6f39e34601c924b0837c52d3e376ba2359cd3734::pepesident::PEPESIDENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5VfxU7sRSBF2PxMjP5xe1hSZQSGQq9jyBVEHBRm2ifRa.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

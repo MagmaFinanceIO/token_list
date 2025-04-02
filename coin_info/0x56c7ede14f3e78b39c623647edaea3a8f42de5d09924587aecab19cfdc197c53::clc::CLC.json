@@ -1,0 +1,13 @@
+{
+  "name": "CelestCoin",
+  "symbol": "CLC",
+  "decimals": 9,
+  "coin_type": "0x56c7ede14f3e78b39c623647edaea3a8f42de5d09924587aecab19cfdc197c53::clc::CLC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/383eaaa4-e4e3-4663-8659-aa214db5ec0f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Not A Rugpull",
+  "symbol": "NORUG",
+  "decimals": 9,
+  "coin_type": "0x00abd4d454848945916bd97e71054f7371556f9fff9095e63709676bdebecb39::norug::NORUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/04238f24-21c9-4b69-9a72-ca9ca6a8e917.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

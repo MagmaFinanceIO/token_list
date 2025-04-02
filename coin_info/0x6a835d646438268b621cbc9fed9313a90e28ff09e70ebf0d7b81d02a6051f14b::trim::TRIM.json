@@ -1,0 +1,13 @@
+{
+  "name": "TRIM ON SUI",
+  "symbol": "TRIM",
+  "decimals": 9,
+  "coin_type": "0x6a835d646438268b621cbc9fed9313a90e28ff09e70ebf0d7b81d02a6051f14b::trim::TRIM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmNoAk4qQihkGtnDZ6dyecPd8iZvXomWsA9jARkUVEgjrX",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Hybrid AI",
+  "symbol": "HYB",
+  "decimals": 9,
+  "coin_type": "0x996ebb5a8b7635cb21ae700ce4936a043e162bab177cbcfb878ecd2d2ce9f49b::hyb::HYB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x907c2011fb4b0cfde9304f4624a58413c49e329b.png?size=lg&key=80bf19",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

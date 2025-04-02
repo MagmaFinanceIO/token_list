@@ -1,0 +1,13 @@
+{
+  "name": "NDG",
+  "symbol": "NDG",
+  "decimals": 9,
+  "coin_type": "0x6dba89e1b64b713d851c2da9e3345d96e78a14a75f2ced1ff0564e5f40c2eb0d::ndg::NDG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/2SNstbEYVEn2iTNQyZHKGzgTPZwBgnujwKa8hn5opump.png?size=lg&key=16c90b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TAKARABUNE",
+  "symbol": "TKR",
+  "decimals": 9,
+  "coin_type": "0xeea844749a063de16c29cb3706115f96387babfe49eaa41447c1fff10d76228a::tkr::TKR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/7fbea143-aadd-48ed-b024-b7785b531485.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

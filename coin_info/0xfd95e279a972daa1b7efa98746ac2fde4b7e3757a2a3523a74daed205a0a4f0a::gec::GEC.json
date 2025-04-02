@@ -1,0 +1,13 @@
+{
+  "name": "Gecko Inu",
+  "symbol": "GEC",
+  "decimals": 6,
+  "coin_type": "0xfd95e279a972daa1b7efa98746ac2fde4b7e3757a2a3523a74daed205a0a4f0a::gec::GEC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f1e1223b-6515-4e1f-9c29-55ba961ca0e4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

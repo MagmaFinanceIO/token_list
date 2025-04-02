@@ -1,0 +1,13 @@
+{
+  "name": "tokennine",
+  "symbol": "TOKENNINE",
+  "decimals": 9,
+  "coin_type": "0x6d2af83ee2b04df3064e98b0be18cb8666b20a54882422c79df531c8a96872b1::template::TEMPLATE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump-static.cetus.zone/icon/a7a8111f-9fb1-4df8-922b-a95bbf566806",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

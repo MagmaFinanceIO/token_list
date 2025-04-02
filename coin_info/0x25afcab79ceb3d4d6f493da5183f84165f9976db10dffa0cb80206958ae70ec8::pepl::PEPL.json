@@ -1,0 +1,13 @@
+{
+  "name": "The People's Champ",
+  "symbol": "PEPL",
+  "decimals": 9,
+  "coin_type": "0x25afcab79ceb3d4d6f493da5183f84165f9976db10dffa0cb80206958ae70ec8::pepl::PEPL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CiBF8fVkmdnQLk9WNn9GYHoG64phWWak4SQ6G4v5pump.png?size=lg&key=43bcdd",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

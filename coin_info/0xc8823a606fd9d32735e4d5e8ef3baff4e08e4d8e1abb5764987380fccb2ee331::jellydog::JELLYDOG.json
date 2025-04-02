@@ -1,0 +1,13 @@
+{
+  "name": "jelly-my-dog",
+  "symbol": "JELLYDOG",
+  "decimals": 9,
+  "coin_type": "0xc8823a606fd9d32735e4d5e8ef3baff4e08e4d8e1abb5764987380fccb2ee331::jellydog::JELLYDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmfVCwybbVEGKrX1or1rtTsxeU7wMHQyWUJz6kgwExVaEY",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

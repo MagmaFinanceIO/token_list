@@ -1,0 +1,13 @@
+{
+  "name": "Chibi Language Model",
+  "symbol": "CLM",
+  "decimals": 9,
+  "coin_type": "0xd85779462fd28fc16e7ca33725a33425084ac81362431798f068ef2d1e11c415::clm::CLM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/TssuWrmhWws85TS4AkxGZ2GSBUtV69JAu52rtEspump.png?size=lg&key=3f088e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

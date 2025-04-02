@@ -1,0 +1,13 @@
+{
+  "name": "aaa cat 24",
+  "symbol": "AAA24",
+  "decimals": 9,
+  "coin_type": "0x4d9fab36c15a87fd5f5f33d5ecba6c1b942930285f5ae53e0b531498b7335e39::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_4995_cfd6177d03.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

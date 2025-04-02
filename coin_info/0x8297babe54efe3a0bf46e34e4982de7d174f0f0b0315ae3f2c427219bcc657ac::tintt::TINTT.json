@@ -1,0 +1,13 @@
+{
+  "name": "TINTT",
+  "symbol": "TINTT",
+  "decimals": 9,
+  "coin_type": "0x8297babe54efe3a0bf46e34e4982de7d174f0f0b0315ae3f2c427219bcc657ac::tintt::TINTT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiPZX7sHRjB8655icQZ-6YD-KpJD5aP0eNw&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

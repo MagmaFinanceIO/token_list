@@ -1,0 +1,13 @@
+{
+  "name": "Cowboy AI",
+  "symbol": "COWBOY",
+  "decimals": 6,
+  "coin_type": "0xfca2eb1af1c67144a9fe6f2bb64ac76aca8f56b3ace3671aeee6439996717e5e::cowboy::COWBOY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/IMG_5966_e08269605a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

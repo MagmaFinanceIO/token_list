@@ -1,0 +1,13 @@
+{
+  "name": "Razer Cat",
+  "symbol": "RZCAT",
+  "decimals": 9,
+  "coin_type": "0x8eb97b97d2e1b1b6223e8c9e30a27593e83ee5263cd9b0bb1f93f7896268a59a::rzcat::RZCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/4BUaMvSOLkgNkmZr?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

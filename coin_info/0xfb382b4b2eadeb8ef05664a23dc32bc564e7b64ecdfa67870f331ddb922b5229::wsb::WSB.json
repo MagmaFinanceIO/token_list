@@ -1,0 +1,13 @@
+{
+  "name": "Wall Sui Bets",
+  "symbol": "WSB",
+  "decimals": 6,
+  "coin_type": "0xfb382b4b2eadeb8ef05664a23dc32bc564e7b64ecdfa67870f331ddb922b5229::wsb::WSB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/WSB_SUI_2_1e8c9a0632.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Refract AI",
+  "symbol": "Refract",
+  "decimals": 9,
+  "coin_type": "0x839bdb7770dd6ed8172a9089e3c5b203b87fba97a2d2b96393af8c3051995ba2::refract::REFRACT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/MLRZp7SFr5sCxr9rFSoHcbpEzvNKN28aviGidcupump.png?size=lg&key=7fd549",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI Token Calls",
+  "symbol": "STC",
+  "decimals": 6,
+  "coin_type": "0x86210e706a52970f60af68b520f633eaca5d7d0b053311bdee07496c78cfb917::stc::STC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/MGA_LOGO_SOL_fea5bfbac5.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

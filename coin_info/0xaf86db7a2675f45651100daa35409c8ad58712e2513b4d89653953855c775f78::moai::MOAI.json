@@ -1,0 +1,13 @@
+{
+  "name": "Monster AI",
+  "symbol": "MOAI",
+  "decimals": 6,
+  "coin_type": "0xaf86db7a2675f45651100daa35409c8ad58712e2513b4d89653953855c775f78::moai::MOAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8c4ee413-c906-4048-961f-c5306d5b5409.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

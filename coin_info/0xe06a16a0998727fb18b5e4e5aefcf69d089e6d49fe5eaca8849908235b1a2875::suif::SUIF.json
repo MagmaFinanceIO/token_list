@@ -1,0 +1,13 @@
+{
+  "name": "SUI Friend",
+  "symbol": "SUIF",
+  "decimals": 9,
+  "coin_type": "0xe06a16a0998727fb18b5e4e5aefcf69d089e6d49fe5eaca8849908235b1a2875::suif::SUIF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b2dbadd2-e8ff-4356-b56d-cd0340207d98.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

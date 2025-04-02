@@ -1,0 +1,13 @@
+{
+  "name": "RETARDIO",
+  "symbol": "RETARDIO",
+  "decimals": 9,
+  "coin_type": "0x3dbd70df86e3ed95f137652d2913dcb82802f08e87d8b82bebdb551213397971::retardio::RETARDIO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c3091e60-30b5-4c31-ba33-63a1fe9c5706.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

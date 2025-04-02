@@ -1,0 +1,13 @@
+{
+  "name": "Monkey D. Luffy",
+  "symbol": "LUFFY",
+  "decimals": 9,
+  "coin_type": "0xc23f290a22522dafe71c8775a7e05dec2b3e94103629ef4f0c1640f1867b7eaf::luffy::LUFFY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.pinimg.com/originals/76/da/03/76da03c579566626fa270bdb6df1280b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

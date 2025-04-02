@@ -1,0 +1,13 @@
+{
+  "name": "nuro",
+  "symbol": "NURO",
+  "decimals": 9,
+  "coin_type": "0x0df4fd42d208cb8640ca6fe0f172aa62189ec877a1bf4e174aaf52966be753dc::nuro::NURO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9smq2bff8Apu14NGFLoyWxzZ9QVVeyNvbfSZBbhvpump.png?size=lg&key=a8e690",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "BlueShark",
+  "symbol": "BLUES",
+  "decimals": 9,
+  "coin_type": "0x0f102e55aa49a553c2fbad3d131a89990775cfaa73e7e749ad47ac3c491920a3::blues::BLUES",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBM0UezTtG6MDpcth0b0p6PtQQJliuBoptow&s",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

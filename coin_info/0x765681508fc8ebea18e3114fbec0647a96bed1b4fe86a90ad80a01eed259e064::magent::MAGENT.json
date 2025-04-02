@@ -1,0 +1,13 @@
+{
+  "name": "The Magent",
+  "symbol": "MAGENT",
+  "decimals": 9,
+  "coin_type": "0x765681508fc8ebea18e3114fbec0647a96bed1b4fe86a90ad80a01eed259e064::magent::MAGENT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d9cebd62-3e38-4391-a96e-e4d1a1f9e345.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

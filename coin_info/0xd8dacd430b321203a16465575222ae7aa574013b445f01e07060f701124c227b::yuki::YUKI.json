@@ -1,0 +1,13 @@
+{
+  "name": "Yukita",
+  "symbol": "Yuki",
+  "decimals": 9,
+  "coin_type": "0xd8dacd430b321203a16465575222ae7aa574013b445f01e07060f701124c227b::yuki::YUKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "willy",
+  "symbol": "willy",
+  "decimals": 9,
+  "coin_type": "0xd3e1713deeb243f9d7f772f5045a5de2a007ef73e6ff902cdc2b68e2859eda3a::willy::WILLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6KVcC37iUeYmAS1kMUFEi3kS9G91tA8isqZ54ebgpump.png?size=lg&key=04229d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

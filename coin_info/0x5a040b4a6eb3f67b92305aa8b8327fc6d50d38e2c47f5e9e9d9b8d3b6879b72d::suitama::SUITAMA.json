@@ -1,0 +1,13 @@
+{
+  "name": "Suitama Inu",
+  "symbol": "SUITAMA",
+  "decimals": 6,
+  "coin_type": "0x5a040b4a6eb3f67b92305aa8b8327fc6d50d38e2c47f5e9e9d9b8d3b6879b72d::suitama::SUITAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/i_Qn_Cf_Mt_M_400x400_5a26066545.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

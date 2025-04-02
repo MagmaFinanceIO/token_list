@@ -1,0 +1,13 @@
+{
+  "name": "AGIX project",
+  "symbol": "AGIX",
+  "decimals": 6,
+  "coin_type": "0xb88e7e523c62db39261d792f54fb141f036e690c6483ee6283df8dbf2da6fdbd::agix::AGIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735989372415.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

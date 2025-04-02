@@ -1,0 +1,13 @@
+{
+  "name": "jelly-my-trump",
+  "symbol": "jellytrump",
+  "decimals": 9,
+  "coin_type": "0xe2b264adb6ef4a42edea7e2cf4fa990407ae95ec46c941d86f0ffa3afd0519f8::jellytrump::JELLYTRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B5CStaXwoV2feKMzxj4wd3hJWQu6ZPAiMXo6b8Eipump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

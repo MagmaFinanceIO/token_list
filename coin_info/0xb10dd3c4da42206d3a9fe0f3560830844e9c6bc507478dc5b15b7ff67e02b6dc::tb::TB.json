@@ -1,0 +1,13 @@
+{
+  "name": "TB",
+  "symbol": "Tiger Boy",
+  "decimals": 9,
+  "coin_type": "0xb10dd3c4da42206d3a9fe0f3560830844e9c6bc507478dc5b15b7ff67e02b6dc::tb::TB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://static.vecteezy.com/system/resources/previews/033/494/443/non_2x/cute-chibi-boy-wearing-a-tiger-hoodie-ai-generative-png.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suidness on Sui",
+  "symbol": "SUID",
+  "decimals": 6,
+  "coin_type": "0xc6ff7e150c9f7841149fcab9c1f5f09dff38e52f6d01430dae40f2e6dbe9bb20::suid::SUID",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/suid_8f6173b52a.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Voidwalker AI",
+  "symbol": "VOIDAI",
+  "decimals": 9,
+  "coin_type": "0xdde06cc716b86ddbfa5a9681b72d76cb124ef0ebbead27b0204b62b1d6b884cb::voidai::VOIDAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FKxv3RZ1KJr7GSbEUNNu5HwjjB4R134tEG4vGq7Tpump.png?size=lg&key=718ddf",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "i now identify as a memecoin on Sui",
+  "symbol": "meme/coin",
+  "decimals": 9,
+  "coin_type": "0x99834c90dba944219860f8767df4ec7d8e21c8e40c7c2b10c4249d3ae616cd42::MEMEC::MEMEC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EPD9qjtFaFrR3GvTPmPt8spmu4hfwUN6Dc5tHtDmpump.png?size=xl&key=e53a52",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

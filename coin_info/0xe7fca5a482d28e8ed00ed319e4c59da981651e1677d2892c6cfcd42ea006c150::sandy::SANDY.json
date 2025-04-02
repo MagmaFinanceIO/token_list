@@ -1,0 +1,13 @@
+{
+  "name": "Sandy Codex",
+  "symbol": "SANDY",
+  "decimals": 6,
+  "coin_type": "0xe7fca5a482d28e8ed00ed319e4c59da981651e1677d2892c6cfcd42ea006c150::sandy::SANDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://www.okx.com/cdn/web3/currency/token/501-61yG5LCoeoqzBdopXPy6BsVPTGdRXht95L68hj5ipump-98.png/type=default_350_0?v=1735742057142&x-oss-process=image/format,webp/ignore-error,1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

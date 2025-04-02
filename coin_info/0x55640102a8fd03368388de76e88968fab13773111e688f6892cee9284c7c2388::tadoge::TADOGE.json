@@ -1,0 +1,13 @@
+{
+  "name": "TRUMP APPLE DOGE",
+  "symbol": "TADOGE",
+  "decimals": 9,
+  "coin_type": "0x55640102a8fd03368388de76e88968fab13773111e688f6892cee9284c7c2388::tadoge::TADOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/F71eM2jDcAzSxGVYsZugPhE5GfREmGnqb5mZ35tQuTKQ.png?size=lg&key=76272e",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

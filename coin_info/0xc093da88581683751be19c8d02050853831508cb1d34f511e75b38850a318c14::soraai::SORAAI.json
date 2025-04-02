@@ -1,0 +1,13 @@
+{
+  "name": "Sora Terminal",
+  "symbol": "SoraAI",
+  "decimals": 9,
+  "coin_type": "0xc093da88581683751be19c8d02050853831508cb1d34f511e75b38850a318c14::soraai::SORAAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Fgvfkfz8m7ADxwNxHEMgS1fq48E5nAcKD1Y9WGe66zbJ.png?size=lg&key=532f3b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

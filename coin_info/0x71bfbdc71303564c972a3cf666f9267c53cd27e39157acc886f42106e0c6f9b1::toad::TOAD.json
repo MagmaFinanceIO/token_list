@@ -1,0 +1,13 @@
+{
+  "name": "BLUE TOAD",
+  "symbol": "Toad",
+  "decimals": 6,
+  "coin_type": "0x71bfbdc71303564c972a3cf666f9267c53cd27e39157acc886f42106e0c6f9b1::toad::TOAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmUJbs9ahB2JLBZ5ADaggGDnJTZP3gU8ZhtXYFdZva97nP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

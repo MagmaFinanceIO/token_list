@@ -1,0 +1,13 @@
+{
+  "name": "Bitcoin",
+  "symbol": "Bitcoin",
+  "decimals": 9,
+  "coin_type": "0x3b4fd5a3a4f3810cc4f69d9b865b4014d5b2739c7c165b58fd0ebb824b7258b5::bitcoin::BITCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/413822ce-8df5-4722-a205-302a5b235927.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "CROY AI",
+  "symbol": "CROY",
+  "decimals": 9,
+  "coin_type": "0x0bef21035ed1499c17f2285df72f8eca3543901f9b38b559254fd4274c02f40a::croy::CROY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HTCWzL5q9fVG3WTpb7RwKLbvwXkKctfCkbS4mRarRbiT.png?size=lg&key=ba1ca4",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

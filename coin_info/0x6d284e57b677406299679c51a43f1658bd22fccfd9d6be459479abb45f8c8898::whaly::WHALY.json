@@ -1,0 +1,13 @@
+{
+  "name": "WHALY",
+  "symbol": "WHALY",
+  "decimals": 9,
+  "coin_type": "0x6d284e57b677406299679c51a43f1658bd22fccfd9d6be459479abb45f8c8898::whaly::WHALY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/881d02da-1f28-4c2f-913f-5c389a845a33.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

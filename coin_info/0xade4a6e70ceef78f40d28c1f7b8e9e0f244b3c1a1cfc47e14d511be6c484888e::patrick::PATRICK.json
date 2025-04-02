@@ -1,0 +1,13 @@
+{
+  "name": "PATRICK",
+  "symbol": "PTRK",
+  "decimals": 6,
+  "coin_type": "0xade4a6e70ceef78f40d28c1f7b8e9e0f244b3c1a1cfc47e14d511be6c484888e::patrick::PATRICK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pbs.twimg.com/media/GV_6KPlasAAjAbp.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

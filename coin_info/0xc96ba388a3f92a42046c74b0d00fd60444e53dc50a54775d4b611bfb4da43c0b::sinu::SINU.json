@@ -1,0 +1,13 @@
+{
+  "name": "Sui Inu",
+  "symbol": "SINU",
+  "decimals": 9,
+  "coin_type": "0xc96ba388a3f92a42046c74b0d00fd60444e53dc50a54775d4b611bfb4da43c0b::sinu::SINU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/e9699be5-e45c-431e-a2c0-36940eead85b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

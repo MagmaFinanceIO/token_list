@@ -1,0 +1,13 @@
+{
+  "name": "Grand Egyptian Museum",
+  "symbol": "GEM",
+  "decimals": 6,
+  "coin_type": "0x3c9c827552c1a326398fdde276290bbc0284811564ae7fcb4bfc384fca062c6c::gem::GEM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/TUTNKAMON_58031f1522.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

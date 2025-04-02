@@ -1,0 +1,13 @@
+{
+  "name": "Sui Moomas",
+  "symbol": "MOOMAS",
+  "decimals": 6,
+  "coin_type": "0x7fe18755f6af4e7a01f76ec68399fd1e3e714107ea6f0af155ea5ff1df928ac9::moomas::MOOMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000019714_366644a50f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

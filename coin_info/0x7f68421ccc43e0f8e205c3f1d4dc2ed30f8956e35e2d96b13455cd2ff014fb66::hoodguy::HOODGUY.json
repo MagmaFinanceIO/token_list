@@ -1,0 +1,13 @@
+{
+  "name": "Just a robinhood guy",
+  "symbol": "HOODGUY",
+  "decimals": 9,
+  "coin_type": "0x7f68421ccc43e0f8e205c3f1d4dc2ed30f8956e35e2d96b13455cd2ff014fb66::hoodguy::HOODGUY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmS5Z6ff79Cf1fhq7p1J6zDeae4U9AgxdSLVWSSivipexx",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

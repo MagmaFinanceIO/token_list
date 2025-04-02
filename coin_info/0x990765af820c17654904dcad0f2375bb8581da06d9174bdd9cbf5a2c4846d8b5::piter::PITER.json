@@ -1,0 +1,13 @@
+{
+  "name": "SUIDERMAN",
+  "symbol": "PITER",
+  "decimals": 9,
+  "coin_type": "0x990765af820c17654904dcad0f2375bb8581da06d9174bdd9cbf5a2c4846d8b5::piter::PITER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2Fspiterman_0941fb3f97.jpg&w=256&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

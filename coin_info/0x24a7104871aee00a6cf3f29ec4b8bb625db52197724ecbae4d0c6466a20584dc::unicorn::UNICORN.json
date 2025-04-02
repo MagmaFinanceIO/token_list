@@ -1,0 +1,13 @@
+{
+  "name": "UNICORN",
+  "symbol": "UNICORN",
+  "decimals": 9,
+  "coin_type": "0x24a7104871aee00a6cf3f29ec4b8bb625db52197724ecbae4d0c6466a20584dc::unicorn::UNICORN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/2Ss4YlDR50AIXTl9?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

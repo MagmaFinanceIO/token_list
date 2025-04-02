@@ -1,0 +1,13 @@
+{
+  "name": "BLUB 103",
+  "symbol": "BLUB103",
+  "decimals": 9,
+  "coin_type": "0x72ca8d029c9507ec8234c0fd9c33710a1c46f0ed6fa523e3b2b7baa4092d607d::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/sui/0xfa7ac3951fdca92c5200d468d31a365eb03b2be9936fde615e69f0c1274ad3a0::blub::blub.png?size=xl&key=015554",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

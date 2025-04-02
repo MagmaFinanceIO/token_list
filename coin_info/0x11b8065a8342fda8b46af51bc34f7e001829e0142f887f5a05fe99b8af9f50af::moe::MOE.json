@@ -1,0 +1,13 @@
+{
+  "name": "MOE",
+  "symbol": "MOE",
+  "decimals": 9,
+  "coin_type": "0x11b8065a8342fda8b46af51bc34f7e001829e0142f887f5a05fe99b8af9f50af::moe::MOE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8xzoj8mVmXtBQm6d2euJGFPvQ2QsTV5R8cdexi2qpump.png?size=lg&key=c1446b",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sui Tooth",
+  "symbol": "SOLCRUSHER",
+  "decimals": 6,
+  "coin_type": "0xe2c44b7fe7bf783dda0f2e24ec9ae90f6aae6768c47c675ebc624fdd10e98c78::solcrusher::SOLCRUSHER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/sui_tooth_1fb97ff2db.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

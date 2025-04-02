@@ -1,0 +1,13 @@
+{
+  "name": "Act I : The AI Prophecy",
+  "symbol": "ACT",
+  "decimals": 9,
+  "coin_type": "0x241c302ecbd334e946469adbba0bc2b7b79bd50551573b14cae4d147bfe8ca1d::act::ACT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/25861297-fa67-461d-b03b-fbd7714649de.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

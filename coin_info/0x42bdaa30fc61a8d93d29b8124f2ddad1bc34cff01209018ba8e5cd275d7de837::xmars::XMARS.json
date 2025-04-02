@@ -1,0 +1,13 @@
+{
+  "name": "XMARS",
+  "symbol": "XMARS",
+  "decimals": 0,
+  "coin_type": "0x42bdaa30fc61a8d93d29b8124f2ddad1bc34cff01209018ba8e5cd275d7de837::xmars::XMARS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "icon",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

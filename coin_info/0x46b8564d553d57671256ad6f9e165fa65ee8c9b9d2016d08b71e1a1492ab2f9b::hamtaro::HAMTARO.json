@@ -1,0 +1,13 @@
+{
+  "name": "Hamtaro",
+  "symbol": "HAMTARO",
+  "decimals": 9,
+  "coin_type": "0x46b8564d553d57671256ad6f9e165fa65ee8c9b9d2016d08b71e1a1492ab2f9b::hamtaro::HAMTARO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/dd5c7ebb-6ea7-49eb-b1d9-9d15506fe9e1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

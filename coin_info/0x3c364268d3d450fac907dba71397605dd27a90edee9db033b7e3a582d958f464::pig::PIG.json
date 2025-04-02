@@ -1,0 +1,13 @@
+{
+  "name": "pig by Steve",
+  "symbol": "pig",
+  "decimals": 9,
+  "coin_type": "0x3c364268d3d450fac907dba71397605dd27a90edee9db033b7e3a582d958f464::pig::PIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmYEYTtag1snUvNJkKM8a2mPowDU9Ry29BsmMPTGvc7f9w",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

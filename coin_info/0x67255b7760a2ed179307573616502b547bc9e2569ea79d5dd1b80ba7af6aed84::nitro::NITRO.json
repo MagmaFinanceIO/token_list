@@ -1,0 +1,13 @@
+{
+  "name": "Nitro",
+  "symbol": "NITRO",
+  "decimals": 9,
+  "coin_type": "0x67255b7760a2ed179307573616502b547bc9e2569ea79d5dd1b80ba7af6aed84::nitro::NITRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7m3g7x9a8NyCiPWWKUhX1S2LXVuiJfVxKYqvJYsRpump.png?size=lg&key=204cda",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

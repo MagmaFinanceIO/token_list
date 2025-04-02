@@ -1,0 +1,13 @@
+{
+  "name": "STONK6900",
+  "symbol": "STONK",
+  "decimals": 9,
+  "coin_type": "0xbab58a1218ea2fd7fee0903e7f9037eb5dc265738c245b974b7e00534d557b3b::stonk::STONK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5947a105-3988-4e2d-862b-ed8f71812778.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

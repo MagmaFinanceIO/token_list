@@ -1,0 +1,13 @@
+{
+  "name": "SYAN CAT",
+  "symbol": "SYAN",
+  "decimals": 6,
+  "coin_type": "0x6f7c46bb8f6be993f8393504ef181985855378f11be416e0ce8f96240f099cf3::syan::SYAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/imagen_2024_10_22_184954221_594478dee8.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

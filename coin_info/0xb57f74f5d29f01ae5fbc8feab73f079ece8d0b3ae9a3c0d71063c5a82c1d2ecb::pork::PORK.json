@@ -1,0 +1,13 @@
+{
+  "name": "PepeFork",
+  "symbol": "PORK",
+  "decimals": 4,
+  "coin_type": "0xb57f74f5d29f01ae5fbc8feab73f079ece8d0b3ae9a3c0d71063c5a82c1d2ecb::pork::PORK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/cad99d46-597a-4b59-8873-ec34ae9a4030.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

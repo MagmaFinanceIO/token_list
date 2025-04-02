@@ -1,0 +1,13 @@
+{
+  "name": "SUIREX",
+  "symbol": "REX",
+  "decimals": 6,
+  "coin_type": "0xf4a61fc117400c8456a90ff6f5a2d3064a8082c7c675f35f0c662e5dc56fbf92::rex::REX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmdHT3ngjCqfn7wq8n668cnrqkaJ8YFQwt5GAghiQ9STuq",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

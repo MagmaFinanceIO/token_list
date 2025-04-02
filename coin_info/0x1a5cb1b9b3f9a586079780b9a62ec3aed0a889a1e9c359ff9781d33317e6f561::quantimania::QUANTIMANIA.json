@@ -1,0 +1,13 @@
+{
+  "name": "Quantimania",
+  "symbol": "QUANTIMANIA",
+  "decimals": 9,
+  "coin_type": "0x1a5cb1b9b3f9a586079780b9a62ec3aed0a889a1e9c359ff9781d33317e6f561::quantimania::QUANTIMANIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdna.artstation.com/p/assets/images/images/080/251/612/large/jerx-s-marantz-gozar-9-sketch.jpg?1727103944",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

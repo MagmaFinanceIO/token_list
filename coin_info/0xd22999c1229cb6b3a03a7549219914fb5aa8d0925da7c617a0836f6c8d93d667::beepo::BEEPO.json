@@ -1,0 +1,13 @@
+{
+  "name": "BEEPO THE PANDA",
+  "symbol": "BEEPO",
+  "decimals": 6,
+  "coin_type": "0xd22999c1229cb6b3a03a7549219914fb5aa8d0925da7c617a0836f6c8d93d667::beepo::BEEPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_1210_aff4058e5b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

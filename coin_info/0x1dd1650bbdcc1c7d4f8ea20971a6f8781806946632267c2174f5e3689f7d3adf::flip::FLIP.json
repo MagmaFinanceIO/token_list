@@ -1,0 +1,13 @@
+{
+  "name": "Flippi",
+  "symbol": "Flip",
+  "decimals": 6,
+  "coin_type": "0x1dd1650bbdcc1c7d4f8ea20971a6f8781806946632267c2174f5e3689f7d3adf::flip::FLIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000038102_b1e1556231.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

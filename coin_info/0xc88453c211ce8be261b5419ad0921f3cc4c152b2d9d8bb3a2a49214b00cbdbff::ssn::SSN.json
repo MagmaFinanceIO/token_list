@@ -1,0 +1,13 @@
+{
+  "name": "Sui Satoshi Nakamoto",
+  "symbol": "SSN",
+  "decimals": 6,
+  "coin_type": "0xc88453c211ce8be261b5419ad0921f3cc4c152b2d9d8bb3a2a49214b00cbdbff::ssn::SSN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_08_18_42_03_2_629b6a09be.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

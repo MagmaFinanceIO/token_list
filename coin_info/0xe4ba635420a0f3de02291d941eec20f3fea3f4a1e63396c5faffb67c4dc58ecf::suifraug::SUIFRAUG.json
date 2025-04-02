@@ -1,0 +1,13 @@
+{
+  "name": "Sui Fraug",
+  "symbol": "SuiFraug",
+  "decimals": 9,
+  "coin_type": "0xe4ba635420a0f3de02291d941eec20f3fea3f4a1e63396c5faffb67c4dc58ecf::suifraug::SUIFRAUG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/5b700cd0-dd28-4cf2-a7c2-66892ee2ca3d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

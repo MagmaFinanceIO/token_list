@@ -1,0 +1,13 @@
+{
+  "name": "Popo the pepe",
+  "symbol": "POPO",
+  "decimals": 9,
+  "coin_type": "0x6fe030267f0094177f256bbf97f3953f3803a561ea55256344f73560441b91eb::popo::POPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8e9c70f8-4824-4beb-b238-ca5241ace940.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

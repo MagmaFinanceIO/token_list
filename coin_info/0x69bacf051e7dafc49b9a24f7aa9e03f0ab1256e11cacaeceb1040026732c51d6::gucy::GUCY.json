@@ -1,0 +1,13 @@
+{
+  "name": "GUCY Verence",
+  "symbol": "GUCY",
+  "decimals": 9,
+  "coin_type": "0x69bacf051e7dafc49b9a24f7aa9e03f0ab1256e11cacaeceb1040026732c51d6::gucy::GUCY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x4448726b23483927c492f09c1dbfdffd3967b452.png?size=lg&key=ea8f8c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

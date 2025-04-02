@@ -1,0 +1,13 @@
+{
+  "name": "PePeMon",
+  "symbol": "PEPEMON",
+  "decimals": 9,
+  "coin_type": "0xc4d168a8b73e0e7891563f31c4a54c025324a4365fc0428e3d95fb90fec4d6ef::pepemon::PEPEMON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B5veLJNyCuPP4CiuQqsdsWcAyUMMgc9W5dvtVYzSpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

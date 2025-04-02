@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Trump",
+  "symbol": "PepeTrump",
+  "decimals": 9,
+  "coin_type": "0x69dfedd79bcdddca7b2041207013ed35d1aefd86dfe0e53bed1f2c21c0682fef::pepetrump::PEPETRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/ae5bbed2-9f07-40e3-89b9-9f2da5dcdf71.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

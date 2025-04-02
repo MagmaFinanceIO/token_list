@@ -1,0 +1,13 @@
+{
+  "name": "TUBBI",
+  "symbol": "TUBBI",
+  "decimals": 9,
+  "coin_type": "0x06106c04a586f0f003fcdf7fb33564f373680ddcc1beb716fd22e2952e227eb3::tubbi::TUBBI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreieayo7pa5kha2xbac2anuk6mym7ardvxhwefoa7hlazdannvlql54.ipfs.w3s.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

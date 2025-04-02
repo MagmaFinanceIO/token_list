@@ -1,0 +1,13 @@
+{
+  "name": "SUI GOOSE",
+  "symbol": "GOOSE",
+  "decimals": 6,
+  "coin_type": "0x887ca1ee30051de6e8631f30af89e0a987e9e5c3e78fe9152dd273b79779a2c2::goose::GOOSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/f1642e76_d8d5_476c_b89b_d98c096a3d88_725d12c059.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

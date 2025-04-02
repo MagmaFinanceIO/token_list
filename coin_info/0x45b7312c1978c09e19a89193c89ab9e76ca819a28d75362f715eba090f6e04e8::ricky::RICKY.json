@@ -1,0 +1,13 @@
+{
+  "name": "RICKY THE PENGUIN ON SUI",
+  "symbol": "RICKY",
+  "decimals": 6,
+  "coin_type": "0x45b7312c1978c09e19a89193c89ab9e76ca819a28d75362f715eba090f6e04e8::ricky::RICKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2_Pg_Gnj_Mi_400x400_67cd256533.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

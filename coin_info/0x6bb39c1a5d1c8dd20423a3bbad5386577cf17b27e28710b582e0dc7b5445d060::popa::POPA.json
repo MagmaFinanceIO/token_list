@@ -1,0 +1,13 @@
+{
+  "name": "Pop Strategy",
+  "symbol": "POP",
+  "decimals": 9,
+  "coin_type": "0x6bb39c1a5d1c8dd20423a3bbad5386577cf17b27e28710b582e0dc7b5445d060::popa::POPA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9qsnrTY9SLcwoyh7g7XXZZznB2N2Te8N186mSqE1pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

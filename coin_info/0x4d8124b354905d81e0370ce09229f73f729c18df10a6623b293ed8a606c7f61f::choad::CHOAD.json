@@ -1,0 +1,13 @@
+{
+  "name": "Choad",
+  "symbol": "CHOAD",
+  "decimals": 9,
+  "coin_type": "0x4d8124b354905d81e0370ce09229f73f729c18df10a6623b293ed8a606c7f61f::choad::CHOAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/_tqm2kRttFEo4jcf?width=150&height=150&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

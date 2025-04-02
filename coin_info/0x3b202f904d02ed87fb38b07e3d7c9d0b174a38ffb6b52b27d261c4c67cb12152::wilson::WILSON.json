@@ -1,0 +1,13 @@
+{
+  "name": "Wilson The Whale",
+  "symbol": "WILSON",
+  "decimals": 6,
+  "coin_type": "0x3b202f904d02ed87fb38b07e3d7c9d0b174a38ffb6b52b27d261c4c67cb12152::wilson::WILSON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/willy2_64817d3f37.JPG",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

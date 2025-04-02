@@ -1,0 +1,13 @@
+{
+  "name": "Snaky Coin",
+  "symbol": "SNAKY",
+  "decimals": 9,
+  "coin_type": "0x885cae30f48d59d7c9d29f97ccbbeb9522e57b2844b8e564a07f2475adc85a7a::snaky::SNAKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/66d7a5dc-f5af-48f1-8b3f-2c897ddfadb1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

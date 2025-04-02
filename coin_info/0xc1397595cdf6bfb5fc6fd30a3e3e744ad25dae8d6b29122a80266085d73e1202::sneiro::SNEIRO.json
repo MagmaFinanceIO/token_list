@@ -1,0 +1,13 @@
+{
+  "name": "SUINEIRO",
+  "symbol": "SNEIRO",
+  "decimals": 9,
+  "coin_type": "0xc1397595cdf6bfb5fc6fd30a3e3e744ad25dae8d6b29122a80266085d73e1202::sneiro::SNEIRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/43ea7290-5006-46ef-9b6c-bac62317cbf4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

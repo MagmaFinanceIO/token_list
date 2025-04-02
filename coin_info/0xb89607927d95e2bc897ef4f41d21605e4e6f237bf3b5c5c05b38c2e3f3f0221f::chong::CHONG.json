@@ -1,0 +1,13 @@
+{
+  "name": "evun chong",
+  "symbol": "CHONG",
+  "decimals": 6,
+  "coin_type": "0xb89607927d95e2bc897ef4f41d21605e4e6f237bf3b5c5c05b38c2e3f3f0221f::chong::CHONG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/evon1_4354248ef6.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

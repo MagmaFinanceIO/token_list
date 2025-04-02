@@ -1,0 +1,13 @@
+{
+  "name": "Freddy The Bacon",
+  "symbol": "BACON",
+  "decimals": 6,
+  "coin_type": "0x7a3faa1c4dacf7f5afa4a0d34de8377ba4215b57a7ecb51ebbb34d01ed90d322::bacon::BACON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/log_A_cb79aeedab.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

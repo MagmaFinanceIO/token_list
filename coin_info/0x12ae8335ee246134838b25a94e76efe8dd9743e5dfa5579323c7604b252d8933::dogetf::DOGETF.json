@@ -1,0 +1,13 @@
+{
+  "name": "DOGE ETF",
+  "symbol": "DOGETF",
+  "decimals": 9,
+  "coin_type": "0x12ae8335ee246134838b25a94e76efe8dd9743e5dfa5579323c7604b252d8933::dogetf::DOGETF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9JDUJtFg5cbG3XccN5f6u77pVCA6ScyCjsN89j8LgEAE.png?size=lg&key=ed9c8c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

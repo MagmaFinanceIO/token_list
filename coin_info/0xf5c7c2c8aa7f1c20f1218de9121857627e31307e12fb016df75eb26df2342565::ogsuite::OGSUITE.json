@@ -1,0 +1,13 @@
+{
+  "name": "OGSuit",
+  "symbol": "OGSUITE",
+  "decimals": 9,
+  "coin_type": "0xf5c7c2c8aa7f1c20f1218de9121857627e31307e12fb016df75eb26df2342565::ogsuite::OGSUITE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a8648445-31b4-42f6-8cf3-3d1f702bd641.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

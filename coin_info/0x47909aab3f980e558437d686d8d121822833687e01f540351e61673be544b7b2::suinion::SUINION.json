@@ -1,0 +1,13 @@
+{
+  "name": "Suinion",
+  "symbol": "SUINION",
+  "decimals": 9,
+  "coin_type": "0x47909aab3f980e558437d686d8d121822833687e01f540351e61673be544b7b2::suinion::SUINION",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://orange-upper-booby-780.mypinata.cloud/ipfs/QmXFjH2YnwZLcmDjHq5sGgTXejWvCQ4shocK7aaKfYYtCo",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

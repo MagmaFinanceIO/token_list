@@ -1,0 +1,13 @@
+{
+  "name": "Dominus Classis",
+  "symbol": "DCSS",
+  "decimals": 9,
+  "coin_type": "0xff7a4522af87076a0f4774fb951f8595aacb5e13f6b69da2011ce8b5b49d5d4d::dcss::DCSS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9d9ff020-91ce-4229-aff1-facb1b2abad4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

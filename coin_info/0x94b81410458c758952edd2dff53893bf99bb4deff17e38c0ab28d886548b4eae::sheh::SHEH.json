@@ -1,0 +1,13 @@
+{
+  "name": "SHEH",
+  "symbol": "sheh",
+  "decimals": 9,
+  "coin_type": "0x94b81410458c758952edd2dff53893bf99bb4deff17e38c0ab28d886548b4eae::sheh::SHEH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

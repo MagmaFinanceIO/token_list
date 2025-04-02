@@ -1,0 +1,13 @@
+{
+  "name": "American D.O.G.E",
+  "symbol": "ADOGE",
+  "decimals": 9,
+  "coin_type": "0x7e4b22ecfacb1c316d44b61ff84aa3d5776b76351a4cb9fb7359414ae0cf4969::adoge::ADOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4646e6f0-0e01-44c8-b060-3e84b0e60580.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

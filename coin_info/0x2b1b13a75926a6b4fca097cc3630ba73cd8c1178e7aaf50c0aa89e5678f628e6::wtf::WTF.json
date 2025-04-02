@@ -1,0 +1,13 @@
+{
+  "name": "What The Fuck",
+  "symbol": "WTF",
+  "decimals": 6,
+  "coin_type": "0x2b1b13a75926a6b4fca097cc3630ba73cd8c1178e7aaf50c0aa89e5678f628e6::wtf::WTF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731338332418.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

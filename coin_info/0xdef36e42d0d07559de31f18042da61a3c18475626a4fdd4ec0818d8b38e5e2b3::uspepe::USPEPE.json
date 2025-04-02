@@ -1,0 +1,13 @@
+{
+  "name": "AMERICAN PEPE ON SUI",
+  "symbol": "USPEPE",
+  "decimals": 6,
+  "coin_type": "0xdef36e42d0d07559de31f18042da61a3c18475626a4fdd4ec0818d8b38e5e2b3::uspepe::USPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/uspepeb_169872f407.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

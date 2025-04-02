@@ -1,0 +1,13 @@
+{
+  "name": "Chicken Legs",
+  "symbol": "LEGS",
+  "decimals": 9,
+  "coin_type": "0x5736e34b8a49090d4cf2af31b1d8b20264cad88ab302547c236cbbe586f27eeb::legs::LEGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/83b2f4be-7219-42f4-8bd2-999759a2daf8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

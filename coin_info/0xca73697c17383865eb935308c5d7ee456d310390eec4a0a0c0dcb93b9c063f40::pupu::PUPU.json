@@ -1,0 +1,13 @@
+{
+  "name": "Shitcoin 💩",
+  "symbol": "PUPU",
+  "decimals": 9,
+  "coin_type": "0xca73697c17383865eb935308c5d7ee456d310390eec4a0a0c0dcb93b9c063f40::pupu::PUPU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b62f0851-3257-42b5-bfa2-0bfc46e1799f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

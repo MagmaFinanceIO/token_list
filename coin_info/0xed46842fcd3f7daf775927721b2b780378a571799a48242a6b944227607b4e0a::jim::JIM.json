@@ -1,0 +1,13 @@
+{
+  "name": "Naked Jim",
+  "symbol": "JIM",
+  "decimals": 6,
+  "coin_type": "0xed46842fcd3f7daf775927721b2b780378a571799a48242a6b944227607b4e0a::jim::JIM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/jimBqijNp9yZwgMmxFaLECr5rFypPGZQNEqL9YU4UjT.png?size=lg&key=4cfa61",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

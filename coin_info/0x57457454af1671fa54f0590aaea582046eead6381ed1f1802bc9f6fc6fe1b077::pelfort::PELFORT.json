@@ -1,0 +1,13 @@
+{
+  "name": "Pelfort the Wolf of Sui",
+  "symbol": "PELFORT",
+  "decimals": 6,
+  "coin_type": "0x57457454af1671fa54f0590aaea582046eead6381ed1f1802bc9f6fc6fe1b077::pelfort::PELFORT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Fg_UO_0k_U_Uc_AAQ_6_R4_removebg_preview_dc3c7f542b.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

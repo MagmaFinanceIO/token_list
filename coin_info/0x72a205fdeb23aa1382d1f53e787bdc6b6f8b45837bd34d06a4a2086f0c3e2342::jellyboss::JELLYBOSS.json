@@ -1,0 +1,13 @@
+{
+  "name": "jelly-boss-jelly",
+  "symbol": "jellyboss",
+  "decimals": 9,
+  "coin_type": "0x72a205fdeb23aa1382d1f53e787bdc6b6f8b45837bd34d06a4a2086f0c3e2342::jellyboss::JELLYBOSS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://tomato-wooden-manatee-168.mypinata.cloud/ipfs/bafkreihnx56hco7iaqu7uri4zqv3mwnzulqxjrkmfe5nwu5pxsdasgubym",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

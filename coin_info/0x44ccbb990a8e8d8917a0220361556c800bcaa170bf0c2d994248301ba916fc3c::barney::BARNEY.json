@@ -1,0 +1,13 @@
+{
+  "name": "BARNEY BARNEY",
+  "symbol": "BARNEY",
+  "decimals": 9,
+  "coin_type": "0x44ccbb990a8e8d8917a0220361556c800bcaa170bf0c2d994248301ba916fc3c::barney::BARNEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafybeid2mvbnm3v366enw3p2zib7pbdhuty5t2ctu6u32mqe4iagv5ypau.ipfs.w3s.link",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

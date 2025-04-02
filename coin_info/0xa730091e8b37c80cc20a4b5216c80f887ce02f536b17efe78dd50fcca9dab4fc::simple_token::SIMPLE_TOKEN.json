@@ -1,0 +1,13 @@
+{
+  "name": "Momfolio",
+  "symbol": "Momfolio",
+  "decimals": 9,
+  "coin_type": "0xa730091e8b37c80cc20a4b5216c80f887ce02f536b17efe78dd50fcca9dab4fc::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

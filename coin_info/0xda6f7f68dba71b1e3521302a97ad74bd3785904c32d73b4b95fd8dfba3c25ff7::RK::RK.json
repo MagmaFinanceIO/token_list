@@ -1,0 +1,13 @@
+{
+  "name": "RK",
+  "symbol": "RK",
+  "decimals": 6,
+  "coin_type": "0xda6f7f68dba71b1e3521302a97ad74bd3785904c32d73b4b95fd8dfba3c25ff7::RK::RK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://de.fi/test.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

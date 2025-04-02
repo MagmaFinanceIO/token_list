@@ -1,0 +1,13 @@
+{
+  "name": "Suirek",
+  "symbol": "SUIREK",
+  "decimals": 9,
+  "coin_type": "0xf8a2df076439fe222e47b7c9cd31cb7b6d95727850a3a6fbb533145a6bb7daad::suirek::SUIREK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0c87ea20-005d-4058-8848-7aa07a5104a5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

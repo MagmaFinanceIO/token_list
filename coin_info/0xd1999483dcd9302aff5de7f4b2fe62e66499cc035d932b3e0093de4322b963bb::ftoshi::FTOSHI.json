@@ -1,0 +1,13 @@
+{
+  "name": "Fuck Satoshi",
+  "symbol": "FTOSHI",
+  "decimals": 9,
+  "coin_type": "0xd1999483dcd9302aff5de7f4b2fe62e66499cc035d932b3e0093de4322b963bb::ftoshi::FTOSHI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2c2fd5c3-598a-481b-98aa-ca7b36c2691c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

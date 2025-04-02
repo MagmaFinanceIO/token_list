@@ -1,0 +1,13 @@
+{
+  "name": "CHEF DOG",
+  "symbol": "CHEFDOG",
+  "decimals": 9,
+  "coin_type": "0xd22287126a2c013d39be39c76d612134938821307d213f0354e7296c573bffa0::chefdog::CHEFDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/367af3bd-3013-4828-9c5b-70b47ef65067.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

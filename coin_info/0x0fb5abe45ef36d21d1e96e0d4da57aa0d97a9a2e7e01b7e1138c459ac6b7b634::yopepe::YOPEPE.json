@@ -1,0 +1,13 @@
+{
+  "name": "Yoga Pepe",
+  "symbol": "YoPepe",
+  "decimals": 6,
+  "coin_type": "0x0fb5abe45ef36d21d1e96e0d4da57aa0d97a9a2e7e01b7e1138c459ac6b7b634::yopepe::YOPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/YOGAPEPE_ea169e8c75.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

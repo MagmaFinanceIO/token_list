@@ -1,0 +1,13 @@
+{
+  "name": "OnlyFans",
+  "symbol": "OF",
+  "decimals": 9,
+  "coin_type": "0x9d7e6f9ec1bd433c56c52b345bc89d1c445a8ae87ffc82c0684ccaa4cc8dedb3::of::OF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmdJY3ZBev565zdEbTaxG6yCCo2ynxynVE8a38NGBvECwQ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

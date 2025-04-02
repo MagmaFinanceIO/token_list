@@ -1,0 +1,13 @@
+{
+  "name": "HABIBI CAT",
+  "symbol": "CAT",
+  "decimals": 9,
+  "coin_type": "0x43c1196b9d2bed9d7db856183de83a247f3d31708b202f516dc3614a417ce708::cat::CAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6027902f-6aa7-4254-b3f8-efa3738e8d1a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

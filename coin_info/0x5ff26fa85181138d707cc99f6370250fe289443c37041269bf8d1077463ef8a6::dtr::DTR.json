@@ -1,0 +1,13 @@
+{
+  "name": "DTRUM",
+  "symbol": "DTR",
+  "decimals": 9,
+  "coin_type": "0x5ff26fa85181138d707cc99f6370250fe289443c37041269bf8d1077463ef8a6::dtr::DTR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/35f46c10-a43b-47a1-b1ff-34749bb1c235.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

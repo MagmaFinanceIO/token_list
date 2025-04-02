@@ -1,0 +1,13 @@
+{
+  "name": "JokerDoge",
+  "symbol": "JOGE",
+  "decimals": 9,
+  "coin_type": "0x4c87e119dd2146c8b65fcf70c917a014b33ff082a541f437c8d7b7d532c3eb2c::joge::JOGE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CFGJBG3ZX9PAyq4pLPMVMcJr76cMX3nSB1UJNf8Apump.png?size=lg&key=3a934d",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

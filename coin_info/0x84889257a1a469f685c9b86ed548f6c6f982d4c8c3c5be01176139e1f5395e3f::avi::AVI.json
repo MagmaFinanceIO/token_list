@@ -1,0 +1,13 @@
+{
+  "name": "Avocadorably",
+  "symbol": "AVI",
+  "decimals": 9,
+  "coin_type": "0x84889257a1a469f685c9b86ed548f6c6f982d4c8c3c5be01176139e1f5395e3f::avi::AVI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f754e48d-3c8d-4733-915d-875427f7f36f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

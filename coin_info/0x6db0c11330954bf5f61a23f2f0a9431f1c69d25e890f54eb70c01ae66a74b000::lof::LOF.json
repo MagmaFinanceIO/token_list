@@ -1,0 +1,13 @@
+{
+  "name": "Life of Mochi",
+  "symbol": "LOF",
+  "decimals": 9,
+  "coin_type": "0x6db0c11330954bf5f61a23f2f0a9431f1c69d25e890f54eb70c01ae66a74b000::lof::LOF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/51034f47-e77b-468a-a0f1-0ec3dba8cf77.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

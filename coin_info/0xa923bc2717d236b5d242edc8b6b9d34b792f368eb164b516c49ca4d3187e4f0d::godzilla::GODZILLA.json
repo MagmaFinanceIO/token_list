@@ -1,0 +1,13 @@
+{
+  "name": "GODZILLA",
+  "symbol": "GODZILLA",
+  "decimals": 6,
+  "coin_type": "0xa923bc2717d236b5d242edc8b6b9d34b792f368eb164b516c49ca4d3187e4f0d::godzilla::GODZILLA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c77358d4-99ed-4ab8-a8e3-89d5fcdb9c12.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

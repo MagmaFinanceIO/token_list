@@ -1,0 +1,13 @@
+{
+  "name": "Space X Trump",
+  "symbol": "STRUMP",
+  "decimals": 9,
+  "coin_type": "0x0fc930925189cc9cae9eff55ef7c8f73c19d4fb3543d50350819334c645d848f::strump::STRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "h5HYcJXoc990BHbr",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

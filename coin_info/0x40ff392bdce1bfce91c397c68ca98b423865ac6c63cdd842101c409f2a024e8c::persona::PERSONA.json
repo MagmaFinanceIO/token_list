@@ -1,0 +1,13 @@
+{
+  "name": "Persona Art",
+  "symbol": "PERSONA",
+  "decimals": 6,
+  "coin_type": "0x40ff392bdce1bfce91c397c68ca98b423865ac6c63cdd842101c409f2a024e8c::persona::PERSONA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.seadn.io/s/raw/files/0b6b937e62ff764713c2961af0b5e80b.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

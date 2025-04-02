@@ -1,0 +1,13 @@
+{
+  "name": "Trumpfart",
+  "symbol": "TRUMPFART",
+  "decimals": 9,
+  "coin_type": "0xf52ecaa8e5053caa6dfa589b7edf9c628d4b4d60aecb0dabf021461ded48a848::trumpfart::TRUMPFART",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmT3DQ2aCDZPQp7RTHtBgc3QJPk1z2QHsAioFjTzfFDRKW",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

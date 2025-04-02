@@ -1,0 +1,13 @@
+{
+  "name": "Safu & Kek Gigafundz 888",
+  "symbol": "SKG888",
+  "decimals": 9,
+  "coin_type": "0x4b5f507a6dfcc2a0c37e1fc3846a34f802007abbfeb64aa5604b0d2feee152e0::skg888::SKG888",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Dc29xEisYZXfCV3WHgyhjnwPYS53fZ1n2YPGFEC1pump.png?size=lg&key=334109",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

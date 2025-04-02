@@ -1,0 +1,13 @@
+{
+  "name": "SuiDog AI",
+  "symbol": "DOGAI",
+  "decimals": 6,
+  "coin_type": "0xf33945da679604ad966a7381156549be43f94bd2d919665d406389ba1475e86b::dogai::DOGAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731177923663.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

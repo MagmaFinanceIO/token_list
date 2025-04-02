@@ -1,0 +1,13 @@
+{
+  "name": "Home Bound",
+  "symbol": "HOMEBOUND",
+  "decimals": 6,
+  "coin_type": "0xe767b939733eecb84a942a704edce801c80b3e3ee6e2ac4882f3d5fafb069dea::homebound::HOMEBOUND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731086333098.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

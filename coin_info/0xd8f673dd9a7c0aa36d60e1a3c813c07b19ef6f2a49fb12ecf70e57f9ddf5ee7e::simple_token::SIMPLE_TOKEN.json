@@ -1,0 +1,13 @@
+{
+  "name": "SUIDEPIN",
+  "symbol": "SUIDEPIN",
+  "decimals": 9,
+  "coin_type": "0xd8f673dd9a7c0aa36d60e1a3c813c07b19ef6f2a49fb12ecf70e57f9ddf5ee7e::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Suinter Arc",
+  "symbol": "SUINTER",
+  "decimals": 6,
+  "coin_type": "0x18dabb0e39a84de2ad54f2b41cad842fbf158432a3f1602a87b2979040eb11b4::suinter::SUINTER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/122215_ezgif_com_video_to_gif_converter_4_8be36e4d86.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

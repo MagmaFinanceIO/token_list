@@ -1,0 +1,13 @@
+{
+  "name": "ZOMBIE ON SUI",
+  "symbol": "ZOMBIE",
+  "decimals": 6,
+  "coin_type": "0xa96a2c21dfe08f6e84e2c459ae8c4111d601cc5583253df6a7c2c0b07a1a8e18::zombie::ZOMBIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Desain_tanpa_judul_3_b8d64cc3d1.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

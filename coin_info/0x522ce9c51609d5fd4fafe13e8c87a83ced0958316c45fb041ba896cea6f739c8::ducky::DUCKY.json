@@ -1,0 +1,13 @@
+{
+  "name": "Ducky",
+  "symbol": "DUCKY",
+  "decimals": 9,
+  "coin_type": "0x522ce9c51609d5fd4fafe13e8c87a83ced0958316c45fb041ba896cea6f739c8::ducky::DUCKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x699ec925118567b6475fe495327ba0a778234aaa.png?size=lg&key=8d30b6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

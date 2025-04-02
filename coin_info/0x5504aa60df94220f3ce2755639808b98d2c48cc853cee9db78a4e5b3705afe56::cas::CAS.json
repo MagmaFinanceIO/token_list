@@ -1,0 +1,13 @@
+{
+  "name": "Earn Casual",
+  "symbol": "CAS",
+  "decimals": 9,
+  "coin_type": "0x5504aa60df94220f3ce2755639808b98d2c48cc853cee9db78a4e5b3705afe56::cas::CAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/69a81a3d-cc0f-4658-a5a1-d6d17ee65238.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

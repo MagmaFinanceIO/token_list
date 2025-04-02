@@ -1,0 +1,13 @@
+{
+  "name": "Sun Duxx",
+  "symbol": "SNDX",
+  "decimals": 9,
+  "coin_type": "0xbe66a90675b5c1abec92d082eb94a52a1cd35840ae8d589997d875686d72fc59::sndx::SNDX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0dd2b2b3-efed-4f86-8f8e-4149456c600d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

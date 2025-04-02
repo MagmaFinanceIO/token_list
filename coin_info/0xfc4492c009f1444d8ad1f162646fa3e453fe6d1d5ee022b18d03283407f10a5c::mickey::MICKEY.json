@@ -1,0 +1,13 @@
+{
+  "name": "MICKEY COIN ON SUI",
+  "symbol": "MICKEY",
+  "decimals": 6,
+  "coin_type": "0xfc4492c009f1444d8ad1f162646fa3e453fe6d1d5ee022b18d03283407f10a5c::mickey::MICKEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Simple_Logo_crypto_coin_with_Mickey_inside_no_b_29da035c53.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

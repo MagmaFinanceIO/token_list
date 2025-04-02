@@ -1,0 +1,13 @@
+{
+  "name": "Stewie griffin",
+  "symbol": "STEWIE",
+  "decimals": 9,
+  "coin_type": "0xef124f0e4c72a4ccaee88dedfaeb09060b2b7dce85f0d4c53e99a585fd724ce7::stewie::STEWIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/6s5Jv8FXKnXcc3NKZ4DyhCkRf7k6TZirth2njGn8N1H.png?size=lg&key=4107e5",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

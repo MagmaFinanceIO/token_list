@@ -1,0 +1,13 @@
+{
+  "name": "Sui Frog",
+  "symbol": "SFROG",
+  "decimals": 6,
+  "coin_type": "0x73405ba9f62fa82d03961a64e14c3e6ba4a955536850b6480849ff20368df1d4::sfrog::SFROG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_fx_3_a6882d7cca.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

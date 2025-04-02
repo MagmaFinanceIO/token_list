@@ -1,0 +1,13 @@
+{
+  "name": "47th POTUS",
+  "symbol": "TRUMP47",
+  "decimals": 9,
+  "coin_type": "0x906b8c7ec905a5424ea0290642a55d6d4fc118f187ecd0447cf02eac14a75fda::trump47::TRUMP47",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EC6aCKYqp4syTx8GHEDNbvhPGKNTXXh4v9RpnPV9dZ9n.png?size=lg&key=6a6e7c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Agi by SuiAI",
+  "symbol": "AGI",
+  "decimals": 6,
+  "coin_type": "0xdb5aa3541bd9c30bdcef40889283650ddef622174e813a41d84666d253d66ff4::agi::AGI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/11347_AA_6_A83_C_4_C5_E_8_EDC_038_D7_C311582_695c252d79.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

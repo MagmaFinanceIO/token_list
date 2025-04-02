@@ -1,0 +1,13 @@
+{
+  "name": "Santa",
+  "symbol": "SANTA",
+  "decimals": 6,
+  "coin_type": "0x9e23694c789a168afce3004072317854e69019f6dadc923d69be343272534f6e::santa::SANTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Santa_Claus_Illustration_Dec_21_2024_ac27c04985.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

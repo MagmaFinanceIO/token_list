@@ -1,0 +1,13 @@
+{
+  "name": "suiXEN",
+  "symbol": "suiXEN",
+  "decimals": 8,
+  "coin_type": "0x8e88dc2085b3a897ad99d896015761a2dc5bd20d48b021059a84d6dd23140a3a::coin::COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

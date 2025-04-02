@@ -1,0 +1,13 @@
+{
+  "name": "Fengsui",
+  "symbol": "FENGS",
+  "decimals": 9,
+  "coin_type": "0xac72d9d56bdd8818f254b2b2dce18254b4b66db268d4ecff95342a5f85a6e769::fengs::FENGS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/541af679-ed13-4832-bb90-e1136ce3de02.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

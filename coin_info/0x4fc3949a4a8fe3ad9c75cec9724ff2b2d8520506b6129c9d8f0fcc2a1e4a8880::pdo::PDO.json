@@ -1,0 +1,13 @@
+{
+  "name": "Poseidollar",
+  "symbol": "PDO",
+  "decimals": 8,
+  "coin_type": "0x4fc3949a4a8fe3ad9c75cec9724ff2b2d8520506b6129c9d8f0fcc2a1e4a8880::pdo::PDO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/bafkreiapkqzmovj53bn3dnh53sdjaiitzdg7hoiq5y5fq42zier4ll44xq",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

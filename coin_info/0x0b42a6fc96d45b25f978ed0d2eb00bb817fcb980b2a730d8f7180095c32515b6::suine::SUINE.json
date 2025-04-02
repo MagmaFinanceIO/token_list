@@ -1,0 +1,13 @@
+{
+  "name": "Suine the Pig",
+  "symbol": "SUINE",
+  "decimals": 9,
+  "coin_type": "0x0b42a6fc96d45b25f978ed0d2eb00bb817fcb980b2a730d8f7180095c32515b6::suine::SUINE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/83ba4368-3a8e-47bf-9084-8e857ed88fb4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

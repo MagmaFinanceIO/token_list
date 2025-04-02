@@ -1,0 +1,13 @@
+{
+  "name": "Purple Bitcoin",
+  "symbol": "PBTC",
+  "decimals": 9,
+  "coin_type": "0x3b13fc820f85b65bae9f6a564cf86cc0a79ef0d03069921241aa2a8f6e6bc0e0::pbtc::PBTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HfMbPyDdZH6QMaDDUokjYCkHxzjoGBMpgaUvpLWGbF5p.png?size=lg&key=7612d2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

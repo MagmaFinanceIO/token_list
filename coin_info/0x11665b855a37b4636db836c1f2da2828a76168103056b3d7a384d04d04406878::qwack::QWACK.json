@@ -1,0 +1,13 @@
+{
+  "name": "Peeking Duck",
+  "symbol": "QWACK",
+  "decimals": 9,
+  "coin_type": "0x11665b855a37b4636db836c1f2da2828a76168103056b3d7a384d04d04406878::qwack::QWACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8ci29P8UHBaQVX752CRhD3btuqDh4mA4Mzqb1Ucjpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

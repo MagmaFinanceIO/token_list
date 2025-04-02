@@ -1,0 +1,13 @@
+{
+  "name": "BitSense by SuiAI",
+  "symbol": "BTSN",
+  "decimals": 6,
+  "coin_type": "0x1ed15c431b620bb0e8bb6cb45c6e7a23b71566ae5a545d1bd4321758d0685131::btsn::BTSN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/logo_e87839df26.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

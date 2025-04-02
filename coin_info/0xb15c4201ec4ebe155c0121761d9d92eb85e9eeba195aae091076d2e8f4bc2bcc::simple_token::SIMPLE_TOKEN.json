@@ -1,0 +1,13 @@
+{
+  "name": "degen.loans",
+  "symbol": "LOANS",
+  "decimals": 9,
+  "coin_type": "0xb15c4201ec4ebe155c0121761d9d92eb85e9eeba195aae091076d2e8f4bc2bcc::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

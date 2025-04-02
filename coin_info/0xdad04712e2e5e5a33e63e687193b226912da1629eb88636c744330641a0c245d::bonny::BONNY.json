@@ -1,0 +1,13 @@
+{
+  "name": "Bony On Sui",
+  "symbol": "BONNY",
+  "decimals": 6,
+  "coin_type": "0xdad04712e2e5e5a33e63e687193b226912da1629eb88636c744330641a0c245d::bonny::BONNY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000006563_40cd802e35.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

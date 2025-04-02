@@ -1,0 +1,13 @@
+{
+  "name": "Bangla Token",
+  "symbol": "BDT",
+  "decimals": 8,
+  "coin_type": "0xf3a217a1223b1f009070d05799e9c0c0484d602b95b161b7142f097172af59bd::bdt::BDT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4e470b20-7d00-4bb2-9df5-ac998e0b0c1e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

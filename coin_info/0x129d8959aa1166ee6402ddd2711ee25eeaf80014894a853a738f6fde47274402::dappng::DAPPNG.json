@@ -1,0 +1,13 @@
+{
+  "name": "Dapper Penguin",
+  "symbol": "DAPPNG",
+  "decimals": 9,
+  "coin_type": "0x129d8959aa1166ee6402ddd2711ee25eeaf80014894a853a738f6fde47274402::dappng::DAPPNG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2e418b8f-c43d-4899-a2c7-a050f34a0d26.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

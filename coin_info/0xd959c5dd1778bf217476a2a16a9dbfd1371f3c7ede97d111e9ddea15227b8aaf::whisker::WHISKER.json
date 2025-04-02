@@ -1,0 +1,13 @@
+{
+  "name": "WHISKER SUI",
+  "symbol": "WHISKER",
+  "decimals": 9,
+  "coin_type": "0xd959c5dd1778bf217476a2a16a9dbfd1371f3c7ede97d111e9ddea15227b8aaf::whisker::WHISKER",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/af452ef3-7986-4f0c-990a-46034d038b89.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

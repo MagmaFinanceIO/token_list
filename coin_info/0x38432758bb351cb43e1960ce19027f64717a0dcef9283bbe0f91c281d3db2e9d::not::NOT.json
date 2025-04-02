@@ -1,0 +1,13 @@
+{
+  "name": "Nothing on Sui",
+  "symbol": "NOT",
+  "decimals": 2,
+  "coin_type": "0x38432758bb351cb43e1960ce19027f64717a0dcef9283bbe0f91c281d3db2e9d::not::NOT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/be7dad06-30e5-4347-9ad4-e6780415459e.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

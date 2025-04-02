@@ -1,0 +1,13 @@
+{
+  "name": "Haruka",
+  "symbol": "HARUKA",
+  "decimals": 9,
+  "coin_type": "0xe77abc0016f8414eaae78e7297276257cc245c23fed42b6177b9d70a34f487e2::haruka::HARUKA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/J51j6PFMB2pqr82RwF2SSVNXn51YMYs4x7DME8Rppump.png?size=lg&key=596268",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

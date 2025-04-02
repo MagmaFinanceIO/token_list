@@ -1,0 +1,13 @@
+{
+  "name": "Tadpole",
+  "symbol": "TAD",
+  "decimals": 9,
+  "coin_type": "0x3a3c465c16fef26844b87b8388a6f9d4643a6c952bdeaf4d6c07963f953db906::tad::TAD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x55027a5b06f4340cc4c82dcc74c90ca93dcb173e.png?size=xl&key=45c5a3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

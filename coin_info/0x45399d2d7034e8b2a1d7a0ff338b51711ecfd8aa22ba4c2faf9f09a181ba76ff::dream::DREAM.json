@@ -1,0 +1,13 @@
+{
+  "name": "DREAM BIG 2025",
+  "symbol": "DREAM",
+  "decimals": 9,
+  "coin_type": "0x45399d2d7034e8b2a1d7a0ff338b51711ecfd8aa22ba4c2faf9f09a181ba76ff::dream::DREAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/277ZS3w4XTxMq6ZjcexaRDLhv3yVb1v9XXx9K71rAxnq.png?size=lg&key=ca926f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

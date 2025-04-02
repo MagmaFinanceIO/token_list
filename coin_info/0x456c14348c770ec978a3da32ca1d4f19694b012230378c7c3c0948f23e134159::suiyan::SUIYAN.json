@@ -1,0 +1,13 @@
+{
+  "name": "SUIYANCOIN",
+  "symbol": "SUIYAN",
+  "decimals": 6,
+  "coin_type": "0x456c14348c770ec978a3da32ca1d4f19694b012230378c7c3c0948f23e134159::suiyan::SUIYAN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://images.hop.ag/ipfs/QmWEV2uVXRBB4tBVoWd5s7qbeoZ6S5aVHzDoGdWpytSrBT",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

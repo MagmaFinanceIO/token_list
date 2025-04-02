@@ -1,0 +1,13 @@
+{
+  "name": "Official Mascot of the Holy Year",
+  "symbol": "ACT",
+  "decimals": 9,
+  "coin_type": "0x2b17b3c4d3a6e1bac819092ad604e5046b3286f27befaf14f3a378b7a9347f1d::act::ACT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CBdCxKo9QavR9hfShgpEBG3zekorAeD7W1jfq2o3pump.png?size=lg&key=e99096",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

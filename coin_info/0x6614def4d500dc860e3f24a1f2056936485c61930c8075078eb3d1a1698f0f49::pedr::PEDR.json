@@ -1,0 +1,13 @@
+{
+  "name": "PEDRO",
+  "symbol": "PEDR",
+  "decimals": 9,
+  "coin_type": "0x6614def4d500dc860e3f24a1f2056936485c61930c8075078eb3d1a1698f0f49::pedr::PEDR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/4f113639-3031-47e7-87ab-72b25d91c7a0.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

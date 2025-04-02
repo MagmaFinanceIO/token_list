@@ -1,0 +1,13 @@
+{
+  "name": "Ionix Agent by SuiAI",
+  "symbol": "IONIX",
+  "decimals": 6,
+  "coin_type": "0xe603bbdb2656fbc8df3421be7f5e0533fa26e3e632a63f77aa2a46a07609ba59::ionix::IONIX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Screenshot_124_min_e2847b179e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Chosen One",
+  "symbol": "ONE",
+  "decimals": 9,
+  "coin_type": "0xf43a3d90c4341593ece942781787717f15a6bb85386bef397c72a65583905d9e::one::ONE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/E1NfkoCxftiZBJNvxn1uccrRs1WV1mycox1nx4oxpump.png?size=lg&key=b77590",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

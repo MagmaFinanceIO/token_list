@@ -1,0 +1,13 @@
+{
+  "name": "SEALU",
+  "symbol": "SEALU",
+  "decimals": 9,
+  "coin_type": "0x47f75003ecbc10f13bcacd061e8472b1eda16432a9cc88d3c73e2b4a3e55a70b::sealu::SEALU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8cb84128-07cd-4f1b-850d-15c3ddbcf3d1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Lego Ape",
+  "symbol": "LegoApe",
+  "decimals": 6,
+  "coin_type": "0xb54622cc4931532e4ff19bf0acc68a76db42c835dac77e764deda2bda6e3aac4::legoape::LEGOAPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Lego_Ape_4ccf22b098.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

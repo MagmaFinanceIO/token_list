@@ -1,0 +1,13 @@
+{
+  "name": "Stuff On Scouts Head",
+  "symbol": "SCOUT",
+  "decimals": 9,
+  "coin_type": "0x3f9e48d7cfbf4da27d849badc42c82102fa6e20bba9dbd62325ff9d9db8d6826::scout::SCOUT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Cf8qK3tC2TRV2ja2pNw8GFKQ41fT9jJ2tPGYR3uZpump.png?size=lg&key=ea3cf6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

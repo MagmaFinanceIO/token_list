@@ -1,0 +1,13 @@
+{
+  "name": "EBULL",
+  "symbol": "EBULL",
+  "decimals": 9,
+  "coin_type": "0xcafd6b2c9b91fdb970e1512d48669a889bd5003a54a441af77009c1bd95469e9::ebull::EBULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://s2.coinmarketcap.com/static/img/coins/200x200/32461.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "MEME AI",
+  "symbol": "MAI",
+  "decimals": 9,
+  "coin_type": "0x4b68d5a29d62640c996735c1c1756e0f088ff700293a6f14ca539da69dfa24fd::mai::MAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/9LxQHFeQ5qzaMH3ZTnVudGxUxFgxBkT6Kz24MMupump.png?size=lg&key=ab3c13",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

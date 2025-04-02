@@ -1,0 +1,13 @@
+{
+  "name": "MOOSFRL",
+  "symbol": "MOOSFRL",
+  "decimals": 9,
+  "coin_type": "0xe2a6a89e4434178fa4bfec9f451933b4d43cc83fd613ef78fa87609125a962de::moosfrl::MOOSFRL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/624afe37-f854-4ed9-8ced-05d082bc6e26.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

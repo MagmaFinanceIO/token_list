@@ -1,0 +1,13 @@
+{
+  "name": "Nemo",
+  "symbol": "Nemo",
+  "decimals": 9,
+  "coin_type": "0x83dffcef439b907bbfffb5c4d1a5f48545e7a5db51e5e49e6af570bc14ac6aec::nemo::NEMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/abd9a8eb-f7f2-48aa-a09c-8aa4cfa30998.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

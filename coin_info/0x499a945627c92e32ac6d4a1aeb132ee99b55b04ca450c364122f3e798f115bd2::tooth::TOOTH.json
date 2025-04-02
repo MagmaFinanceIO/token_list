@@ -1,0 +1,13 @@
+{
+  "name": "Sui Tooth",
+  "symbol": "Tooth",
+  "decimals": 6,
+  "coin_type": "0x499a945627c92e32ac6d4a1aeb132ee99b55b04ca450c364122f3e798f115bd2::tooth::TOOTH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/fcb56647-16d1-4b43-ba22-b0c039d85f15.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

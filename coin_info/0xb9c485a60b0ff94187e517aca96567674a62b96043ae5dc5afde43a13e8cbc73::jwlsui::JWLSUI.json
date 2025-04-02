@@ -1,0 +1,13 @@
+{
+  "name": "JWLSUI",
+  "symbol": "JWLSUI",
+  "decimals": 9,
+  "coin_type": "0xb9c485a60b0ff94187e517aca96567674a62b96043ae5dc5afde43a13e8cbc73::jwlsui::JWLSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f6792fa5-819b-4575-b26f-c7382fd8d800.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

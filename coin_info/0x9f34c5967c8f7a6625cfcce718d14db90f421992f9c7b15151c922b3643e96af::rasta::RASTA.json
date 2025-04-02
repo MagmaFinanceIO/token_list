@@ -1,0 +1,13 @@
+{
+  "name": "Chill Rasta Rat",
+  "symbol": "Rasta",
+  "decimals": 6,
+  "coin_type": "0x9f34c5967c8f7a6625cfcce718d14db90f421992f9c7b15151c922b3643e96af::rasta::RASTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1736279592042.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

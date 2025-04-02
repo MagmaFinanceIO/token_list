@@ -1,0 +1,13 @@
+{
+  "name": "Mortgage Backed Credit Default Swaps",
+  "symbol": "BONDS",
+  "decimals": 9,
+  "coin_type": "0x672d0fd7708f944c5a7b1c8c4d2a9bdd95dee7a88ff4fbd964d16e2537a9ceaa::bonds::BONDS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/df6d2685-62bf-4b26-9c6f-5dc0e2cbb4aa.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

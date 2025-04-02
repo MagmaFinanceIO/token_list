@@ -1,0 +1,13 @@
+{
+  "name": "Luce The Savior",
+  "symbol": "LUCE",
+  "decimals": 6,
+  "coin_type": "0xbeb0cb2ba377a381aec5a20cbcdbfc3a8f4b2d559f9341ab61f6f79db5c37ad6::luce::LUCE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731008002910.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

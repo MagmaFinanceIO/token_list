@@ -1,0 +1,13 @@
+{
+  "name": "Cheeseball  Wizard ",
+  "symbol": "CW",
+  "decimals": 6,
+  "coin_type": "0xb95958de38f5fbb6d2ce183a4bcbcdbaf74b254a7029a3dd74f3865b9ce80cc7::cw::CW",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1735973158992.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

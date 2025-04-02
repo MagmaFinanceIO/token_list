@@ -1,0 +1,13 @@
+{
+  "name": "Blub Sui",
+  "symbol": "BLUB",
+  "decimals": 6,
+  "coin_type": "0xdf07763340b8cdbaef40db6bd813640c54b3967bd0aca262abb90ba714aa680a::blub::BLUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Blub_39fa86083c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

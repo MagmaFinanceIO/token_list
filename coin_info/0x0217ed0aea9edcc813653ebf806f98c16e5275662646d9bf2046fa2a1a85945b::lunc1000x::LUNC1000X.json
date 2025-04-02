@@ -1,0 +1,13 @@
+{
+  "name": "LUNC",
+  "symbol": "LUNC1000x",
+  "decimals": 6,
+  "coin_type": "0x0217ed0aea9edcc813653ebf806f98c16e5275662646d9bf2046fa2a1a85945b::lunc1000x::LUNC1000X",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Images_14_1024x536_1_38456b01e5.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

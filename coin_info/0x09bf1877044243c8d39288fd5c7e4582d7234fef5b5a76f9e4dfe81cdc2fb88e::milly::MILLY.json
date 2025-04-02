@@ -1,0 +1,13 @@
+{
+  "name": "Milli",
+  "symbol": "MILLY",
+  "decimals": 9,
+  "coin_type": "0x09bf1877044243c8d39288fd5c7e4582d7234fef5b5a76f9e4dfe81cdc2fb88e::milly::MILLY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9fc91320-10d1-4c6f-966e-865b79c06a4c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

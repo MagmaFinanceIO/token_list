@@ -1,0 +1,13 @@
+{
+  "name": "Sui Anchor",
+  "symbol": "ANCHOR",
+  "decimals": 6,
+  "coin_type": "0x709912721d96a4710ad6c14466a15f0d86aff595590eb96ac8074190283017ea::anchor::ANCHOR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_1_27_99c1282268_97d20b0794.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

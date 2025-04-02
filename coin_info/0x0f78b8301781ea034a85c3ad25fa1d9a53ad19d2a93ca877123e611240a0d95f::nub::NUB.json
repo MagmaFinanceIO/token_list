@@ -1,0 +1,13 @@
+{
+  "name": "Nubcat",
+  "symbol": "NUB",
+  "decimals": 9,
+  "coin_type": "0x0f78b8301781ea034a85c3ad25fa1d9a53ad19d2a93ca877123e611240a0d95f::nub::NUB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/GtDZKAqvMZMnti46ZewMiXCa4oXF4bZxwQPoKzXPFxZn.png?size=lg&key=c1006f",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

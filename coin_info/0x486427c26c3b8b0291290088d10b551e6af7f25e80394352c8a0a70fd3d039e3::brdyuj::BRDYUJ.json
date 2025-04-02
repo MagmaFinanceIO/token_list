@@ -1,0 +1,13 @@
+{
+  "name": "BrdyuJ on SUI",
+  "symbol": "BRDYUJ",
+  "decimals": 9,
+  "coin_type": "0x486427c26c3b8b0291290088d10b551e6af7f25e80394352c8a0a70fd3d039e3::brdyuj::BRDYUJ",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0dfce3d6-b507-4327-8a54-cd6b41379a16.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

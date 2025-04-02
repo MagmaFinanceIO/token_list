@@ -1,0 +1,13 @@
+{
+  "name": "CAT ON BOWL",
+  "symbol": "CBOL",
+  "decimals": 6,
+  "coin_type": "0x841a59589979d184abbd7b33b61da07a58f5b046aa67e40a8eabf17c1b5eddcb::cbol::CBOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/swwswswsw_64782f403d.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

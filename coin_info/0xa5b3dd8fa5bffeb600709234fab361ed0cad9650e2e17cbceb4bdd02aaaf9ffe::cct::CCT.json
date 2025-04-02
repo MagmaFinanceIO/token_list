@@ -1,0 +1,13 @@
+{
+  "name": "CyberCorp Terminal",
+  "symbol": "CCT",
+  "decimals": 6,
+  "coin_type": "0xa5b3dd8fa5bffeb600709234fab361ed0cad9650e2e17cbceb4bdd02aaaf9ffe::cct::CCT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/sedsdsdsdsds1111_93d27a945d.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

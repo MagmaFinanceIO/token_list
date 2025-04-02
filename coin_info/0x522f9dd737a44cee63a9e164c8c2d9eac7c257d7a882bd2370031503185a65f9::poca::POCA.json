@@ -1,0 +1,13 @@
+{
+  "name": "POLAR CAT",
+  "symbol": "POCA",
+  "decimals": 6,
+  "coin_type": "0x522f9dd737a44cee63a9e164c8c2d9eac7c257d7a882bd2370031503185a65f9::poca::POCA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/POCA_1eb765fffd.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

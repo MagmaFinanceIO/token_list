@@ -1,0 +1,13 @@
+{
+  "name": "TikTokBoomCoin",
+  "symbol": "TTBC",
+  "decimals": 9,
+  "coin_type": "0x7e368822b7f3aece0f701e497c392e9e2e80485410288e7ac3f3374be689b107::ttbc::TTBC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/42005ab8-8c26-486e-b19f-1b9066947d4c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

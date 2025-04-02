@@ -1,0 +1,13 @@
+{
+  "name": "Suid Game",
+  "symbol": "GAME",
+  "decimals": 9,
+  "coin_type": "0xc0d74fa5b3a678dc0ee3549178d8cbd01ee3c652aaee6ead5aa164e29d677633::game::GAME",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f1f8ec88-b271-4ea3-9283-74dd8a8b3519.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "RICKROLL",
+  "symbol": "RICKROLL",
+  "decimals": 6,
+  "coin_type": "0x626568bde20a1694fc0dea68a8117767422372ea094fed9bf02714145bcc0db1::rickroll::RICKROLL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8NVM5B5YoCpS3vLaKfqqv4ed8WuqY6AonjRQjshapump.png?size=lg&key=94fc42",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

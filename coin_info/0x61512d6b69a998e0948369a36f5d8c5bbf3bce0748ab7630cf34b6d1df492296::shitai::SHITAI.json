@@ -1,0 +1,13 @@
+{
+  "name": "Shit AI Agent",
+  "symbol": "SHITAI",
+  "decimals": 6,
+  "coin_type": "0x61512d6b69a998e0948369a36f5d8c5bbf3bce0748ab7630cf34b6d1df492296::shitai::SHITAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_Sghc_F_Ifv_1737053473381_raw_min_474342dec3.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

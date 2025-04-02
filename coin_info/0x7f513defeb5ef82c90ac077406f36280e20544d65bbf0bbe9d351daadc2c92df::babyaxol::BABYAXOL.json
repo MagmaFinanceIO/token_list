@@ -1,0 +1,13 @@
+{
+  "name": "Baby Axol",
+  "symbol": "AXOL",
+  "decimals": 9,
+  "coin_type": "0x7f513defeb5ef82c90ac077406f36280e20544d65bbf0bbe9d351daadc2c92df::babyaxol::BABYAXOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

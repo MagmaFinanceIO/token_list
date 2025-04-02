@@ -1,0 +1,13 @@
+{
+  "name": "COUNT BITCOIN",
+  "symbol": "CBTC",
+  "decimals": 9,
+  "coin_type": "0x46b956b4881e054c904cfa36c15b75401ca11d9eac0553ba0071af478f1a9d44::cbtc::CBTC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/3e12ca60-c9bc-411b-af8c-09fc3f0d23eb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

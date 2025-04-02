@@ -1,0 +1,13 @@
+{
+  "name": "Boss",
+  "symbol": "BOS",
+  "decimals": 6,
+  "coin_type": "0xd887c0e9d3637a6b928906851a91d43fdcddb71a0254a854c6917ae5d7bcbbcb::bos::BOS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/B_P_522d4b856f.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

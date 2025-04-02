@@ -1,0 +1,13 @@
+{
+  "name": "Mack the Meowing Cat",
+  "symbol": "Mack",
+  "decimals": 9,
+  "coin_type": "0x8abf6a784cda518489077ccdad0b58d15faf219cc9870825e5d80806641564c0::mack::MACK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdn.dexscreener.com/cms/images/yg443zBqrh97xAin?width=56&height=56&fit=crop&quality=95&format=auto",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

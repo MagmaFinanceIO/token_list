@@ -1,0 +1,13 @@
+{
+  "name": "New Truth Terminal",
+  "symbol": "Loria",
+  "decimals": 9,
+  "coin_type": "0x93f7c663dd286bc1db9510b272f617b8546ac0fd1cfce3acf0bdc7f2eeb67d79::loria::LORIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmQfCDUAHdUTFqemAojuy595Nk6ZSGH7sLbgwXvA5jgRrZ",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SUI DAWG",
+  "symbol": "DAWG",
+  "decimals": 6,
+  "coin_type": "0x8b42bf0fa7326deb111f03f31ba236adc6a5148d0c966a44f3f2a3dd8fbb3c75::dawg::DAWG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_8652_3c2b2b7cb4.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

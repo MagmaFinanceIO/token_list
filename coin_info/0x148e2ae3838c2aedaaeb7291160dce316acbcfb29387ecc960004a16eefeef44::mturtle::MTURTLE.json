@@ -1,0 +1,13 @@
+{
+  "name": "Mbappe turtle",
+  "symbol": "MTURTLE",
+  "decimals": 6,
+  "coin_type": "0x148e2ae3838c2aedaaeb7291160dce316acbcfb29387ecc960004a16eefeef44::mturtle::MTURTLE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000062519_4444e237e8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

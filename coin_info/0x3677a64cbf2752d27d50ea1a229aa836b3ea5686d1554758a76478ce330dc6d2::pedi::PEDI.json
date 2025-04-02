@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Jedi",
+  "symbol": "PEDI",
+  "decimals": 9,
+  "coin_type": "0x3677a64cbf2752d27d50ea1a229aa836b3ea5686d1554758a76478ce330dc6d2::pedi::PEDI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7hkc7WD1DrPhEwhxFcxj8EDU4GqP4p3PXXJncw7BHZYa.png?size=lg&key=60a1ec",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

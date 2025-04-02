@@ -1,0 +1,13 @@
+{
+  "name": "TIMO AI SUI",
+  "symbol": "TIMO",
+  "decimals": 9,
+  "coin_type": "0xfc08a7cb63acdc9c760b105f4e84ac6b895efd002e31da260a0afdd8719fbfef::timo::TIMO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/8900005d-87da-4e72-a9e9-2314fe840040.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

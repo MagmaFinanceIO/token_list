@@ -1,0 +1,13 @@
+{
+  "name": "Meme Fight Club",
+  "symbol": "mefc",
+  "decimals": 9,
+  "coin_type": "0xc44a14f76b8defe396f91b34dbeb8904928bce4084f52eb49cd3b2ca489c4ae6::mefc::MEFC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a08c272b-777c-493e-8c89-8804b1770eff.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

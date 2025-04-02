@@ -1,0 +1,13 @@
+{
+  "name": "Halloween on Sui",
+  "symbol": "HALLOSUI",
+  "decimals": 6,
+  "coin_type": "0x3b1d32e18eff475c8b53d44c1a7d34857ba91efdfd14d7b91511f1e286305d33::hallosui::HALLOSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Hallosui_aeec0e3e46.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

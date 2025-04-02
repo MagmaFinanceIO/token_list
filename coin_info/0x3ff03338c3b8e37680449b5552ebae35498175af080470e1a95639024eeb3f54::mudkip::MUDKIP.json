@@ -1,0 +1,13 @@
+{
+  "name": "MudkipOnSui",
+  "symbol": "MUDKIP",
+  "decimals": 6,
+  "coin_type": "0x3ff03338c3b8e37680449b5552ebae35498175af080470e1a95639024eeb3f54::mudkip::MUDKIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1730954932019.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

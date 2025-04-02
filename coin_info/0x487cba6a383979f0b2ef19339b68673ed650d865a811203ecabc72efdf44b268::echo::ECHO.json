@@ -1,0 +1,13 @@
+{
+  "name": "ECHO the SEAL",
+  "symbol": "ECHO",
+  "decimals": 6,
+  "coin_type": "0x487cba6a383979f0b2ef19339b68673ed650d865a811203ecabc72efdf44b268::echo::ECHO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Untitled_500_x_500_px_a017b68419.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

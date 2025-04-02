@@ -1,0 +1,13 @@
+{
+  "name": "Andy On Sui",
+  "symbol": "Andy",
+  "decimals": 6,
+  "coin_type": "0xfe8049c2186600e2c77d1dd347d18926cc2ce7d7608e6cc3fd39e1d189c8d3ec::andy::ANDY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_10_28_18_39_16_4fd9e0b4f3.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

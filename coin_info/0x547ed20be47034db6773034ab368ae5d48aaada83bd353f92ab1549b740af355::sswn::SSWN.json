@@ -1,0 +1,13 @@
+{
+  "name": "SPEEDY SWAN",
+  "symbol": "SSWN",
+  "decimals": 6,
+  "coin_type": "0x547ed20be47034db6773034ab368ae5d48aaada83bd353f92ab1549b740af355::sswn::SSWN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/image_2024_12_21_043337379_e641e4e75e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

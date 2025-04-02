@@ -1,0 +1,13 @@
+{
+  "name": "SHOGU",
+  "symbol": "SHOGU",
+  "decimals": 9,
+  "coin_type": "0xb12608342931be68488bbc7c3a47824f7ae9a92b22503d7d8e0d5e616334f8dc::shogu::SHOGU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://pump.mypinata.cloud/ipfs/QmNQpwoHxntH2QagpkUyradxV41q6owFsHDdtRuTvh6Mhr?img-width=256&img-dpr=2&img-onerror=redirect",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

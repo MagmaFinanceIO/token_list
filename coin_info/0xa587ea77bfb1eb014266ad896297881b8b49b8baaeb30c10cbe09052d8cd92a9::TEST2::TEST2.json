@@ -1,0 +1,13 @@
+{
+  "name": "TEST2",
+  "symbol": "TEST2",
+  "decimals": 6,
+  "coin_type": "0xa587ea77bfb1eb014266ad896297881b8b49b8baaeb30c10cbe09052d8cd92a9::TEST2::TEST2",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.imgur.com/ISF8TOC.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

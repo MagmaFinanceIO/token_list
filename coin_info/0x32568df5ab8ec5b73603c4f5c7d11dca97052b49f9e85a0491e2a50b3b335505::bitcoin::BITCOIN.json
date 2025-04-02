@@ -1,0 +1,13 @@
+{
+  "name": "Magic Internet Money",
+  "symbol": "BITCOIN",
+  "decimals": 9,
+  "coin_type": "0x32568df5ab8ec5b73603c4f5c7d11dca97052b49f9e85a0491e2a50b3b335505::bitcoin::BITCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/base/0x4af743efc4e4fb3a0e55d50c91d06c12d7727d28.png?size=xl&key=c29d26",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

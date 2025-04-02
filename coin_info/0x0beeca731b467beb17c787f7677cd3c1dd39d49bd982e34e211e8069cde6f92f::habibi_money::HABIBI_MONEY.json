@@ -1,0 +1,13 @@
+{
+  "name": "HABIBI MONEY",
+  "symbol": "HABIBI MONEY",
+  "decimals": 9,
+  "coin_type": "0x0beeca731b467beb17c787f7677cd3c1dd39d49bd982e34e211e8069cde6f92f::habibi_money::HABIBI_MONEY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6140d33e-cd5f-4564-b27e-cdba6b8ebb85.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

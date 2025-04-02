@@ -1,0 +1,13 @@
+{
+  "name": "USACOIN on SUI",
+  "symbol": "USACOIN",
+  "decimals": 9,
+  "coin_type": "0x958052b9df066c6c61c92291bb1864b61c1ef3d047ae4e0bf78d20a686519ab9::usacoin::USACOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmXRcVnCB5thyPaLKPo4zsfoow38sgSxza9fihG31zfUBT",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

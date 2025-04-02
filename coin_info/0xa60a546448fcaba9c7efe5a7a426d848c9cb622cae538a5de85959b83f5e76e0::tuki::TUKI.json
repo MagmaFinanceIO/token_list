@@ -1,0 +1,13 @@
+{
+  "name": "tuki bunny",
+  "symbol": "tuki",
+  "decimals": 8,
+  "coin_type": "0xa60a546448fcaba9c7efe5a7a426d848c9cb622cae538a5de85959b83f5e76e0::tuki::TUKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bdcdfe62-e02c-4898-b64b-6d5acb39b9b8.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

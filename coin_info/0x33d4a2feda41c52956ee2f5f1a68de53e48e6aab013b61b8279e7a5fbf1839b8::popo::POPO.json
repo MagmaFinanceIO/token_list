@@ -1,0 +1,13 @@
+{
+  "name": "Popo on SUI",
+  "symbol": "POPO",
+  "decimals": 6,
+  "coin_type": "0x33d4a2feda41c52956ee2f5f1a68de53e48e6aab013b61b8279e7a5fbf1839b8::popo::POPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/500x500_2_e3d47fb789.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

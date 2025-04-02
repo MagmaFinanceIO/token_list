@@ -1,0 +1,13 @@
+{
+  "name": "Blue Chip",
+  "symbol": "CHIP",
+  "decimals": 6,
+  "coin_type": "0xceecefdcf01830b03a806db5148a919d6c90c46873d4dc4a57d1675bd2bdbb0b::chip::CHIP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/CHIP_LOGO_bd3cdc2c1e.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

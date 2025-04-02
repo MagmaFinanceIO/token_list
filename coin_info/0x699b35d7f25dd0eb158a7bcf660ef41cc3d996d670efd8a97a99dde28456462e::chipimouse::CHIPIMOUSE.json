@@ -1,0 +1,13 @@
+{
+  "name": "sChipiMouse",
+  "symbol": "Sui Chipi Mouse",
+  "decimals": 6,
+  "coin_type": "0x699b35d7f25dd0eb158a7bcf660ef41cc3d996d670efd8a97a99dde28456462e::chipimouse::CHIPIMOUSE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/bcdf6eda-2c7e-4d27-b003-75510f6f085a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

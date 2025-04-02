@@ -1,0 +1,13 @@
+{
+  "name": "Cogni AI",
+  "symbol": "COG",
+  "decimals": 9,
+  "coin_type": "0xd9f5d6e221084027c3bb2d7be981d065aa80c8d6073e02fcd7fe3af7af9f4f2d::cog::COG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/B1QQt9xYg5fCJNZqACBnKynzjCDDgiqWmg7rWAGopump.png?size=lg&key=c16751",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

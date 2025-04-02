@@ -1,0 +1,13 @@
+{
+  "name": "B1COIN BULLISH",
+  "symbol": "B1COIN",
+  "decimals": 6,
+  "coin_type": "0x43a19c2d4776ebf9344fa776e6f4b9918a40b6f7955765f589af9bd38f0843f1::b1coin::B1COIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/tf7ixydn7nfcgj9wqj3frdkravsz8eghcx_1_d984a61985.webp",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

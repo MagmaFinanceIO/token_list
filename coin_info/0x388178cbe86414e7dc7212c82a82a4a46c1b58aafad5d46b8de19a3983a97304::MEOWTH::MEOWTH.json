@@ -1,0 +1,13 @@
+{
+  "name": "MEOWTH CASH",
+  "symbol": "MEOWTH",
+  "decimals": 9,
+  "coin_type": "0x388178cbe86414e7dc7212c82a82a4a46c1b58aafad5d46b8de19a3983a97304::MEOWTH::MEOWTH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2b486c7f-d41b-40e2-821a-e0952d8be3b5.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

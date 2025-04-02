@@ -1,0 +1,13 @@
+{
+  "name": "AANG SUI",
+  "symbol": "AANG",
+  "decimals": 6,
+  "coin_type": "0xa8967b2217fdd2df369d2ca0646eb471066e85b6bb39a8bb2946eafc6fcd8bc5::aang::AANG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_2_0075d34f58.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

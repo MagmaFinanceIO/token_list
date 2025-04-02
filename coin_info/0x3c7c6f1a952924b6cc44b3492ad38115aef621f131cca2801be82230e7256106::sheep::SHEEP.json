@@ -1,0 +1,13 @@
+{
+  "name": "Evadere Ordinarium",
+  "symbol": "SHEEP",
+  "decimals": 9,
+  "coin_type": "0x3c7c6f1a952924b6cc44b3492ad38115aef621f131cca2801be82230e7256106::sheep::SHEEP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/vZz4CG7njSwnVHCh8neWPY6tSxXHXvAwL5U2J2Epump.png?size=lg&key=6931a2",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

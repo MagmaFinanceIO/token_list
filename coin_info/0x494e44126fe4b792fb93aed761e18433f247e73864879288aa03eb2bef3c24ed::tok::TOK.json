@@ -1,0 +1,13 @@
+{
+  "name": "Token",
+  "symbol": "TOK",
+  "decimals": 4,
+  "coin_type": "0x494e44126fe4b792fb93aed761e18433f247e73864879288aa03eb2bef3c24ed::tok::TOK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://public-cdn.daossui.io/assets/tokens/06095b00-d8a3-11ef-8165-f761f2caed44",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

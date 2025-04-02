@@ -1,0 +1,13 @@
+{
+  "name": "ONE PUNCH MAN",
+  "symbol": "SUITAMA",
+  "decimals": 6,
+  "coin_type": "0x904beab894e235ccb58da7c77cf0721a78d2d47eb2f39fe64083d7464752ad08::suitama::SUITAMA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3623_36f740ca81.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

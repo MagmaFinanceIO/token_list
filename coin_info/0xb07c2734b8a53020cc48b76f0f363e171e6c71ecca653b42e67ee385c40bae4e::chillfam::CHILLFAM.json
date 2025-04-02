@@ -1,0 +1,13 @@
+{
+  "name": "Chill Family",
+  "symbol": "CHILLFAM",
+  "decimals": 9,
+  "coin_type": "0xb07c2734b8a53020cc48b76f0f363e171e6c71ecca653b42e67ee385c40bae4e::chillfam::CHILLFAM",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/CSr7HhUyBxatPMuTqAs3Z33fwQ4dx8cNAArMert1pump.png?size=lg&key=d7ba30",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

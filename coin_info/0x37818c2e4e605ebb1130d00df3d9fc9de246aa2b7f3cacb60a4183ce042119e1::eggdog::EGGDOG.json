@@ -1,0 +1,13 @@
+{
+  "name": "EggDog",
+  "symbol": "Sui Egg Dog",
+  "decimals": 6,
+  "coin_type": "0x37818c2e4e605ebb1130d00df3d9fc9de246aa2b7f3cacb60a4183ce042119e1::eggdog::EGGDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/c7a73b11-69a0-4418-b49c-68c47f51993b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

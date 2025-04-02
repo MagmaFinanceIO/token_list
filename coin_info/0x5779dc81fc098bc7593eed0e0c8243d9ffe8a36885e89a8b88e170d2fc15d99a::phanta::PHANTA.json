@@ -1,0 +1,13 @@
+{
+  "name": "PHANTA SUI",
+  "symbol": "PHANTA",
+  "decimals": 6,
+  "coin_type": "0x5779dc81fc098bc7593eed0e0c8243d9ffe8a36885e89a8b88e170d2fc15d99a::phanta::PHANTA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7060_0e207b9e03.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SDO Token",
+  "symbol": "SDO",
+  "decimals": 2,
+  "coin_type": "0xf47f0a4debb2d386cf0c28b95351f351fff015ebcdf4c4aa3407b16cd55b1f38::sdo::SDO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://bafkreiepkmnmiwdxsvsldfefghfwkr2fzyrtaybfdx5nbmsynbdmppqd6q.ipfs.w3s.link/",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

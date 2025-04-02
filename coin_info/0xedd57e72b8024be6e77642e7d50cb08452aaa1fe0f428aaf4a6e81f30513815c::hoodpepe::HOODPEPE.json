@@ -1,0 +1,13 @@
+{
+  "name": "Robinhood Pepe",
+  "symbol": "HOODPEPE",
+  "decimals": 9,
+  "coin_type": "0xedd57e72b8024be6e77642e7d50cb08452aaa1fe0f428aaf4a6e81f30513815c::hoodpepe::HOODPEPE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/4L28KQhhyojt5yfTHoUEBY7H9dRcLSjYvqZXRNcrni5S.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Lucy",
+  "symbol": "LUCY",
+  "decimals": 9,
+  "coin_type": "0x79e19129257eca71148538a707aadfda6ad4daeceebaaba6ea1e5b6a572e4e0a::lucy::LUCY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/703/511/large/-r02.jpg?1728307232",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

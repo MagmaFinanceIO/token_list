@@ -1,0 +1,13 @@
+{
+  "name": "Pixel Goat Maximus",
+  "symbol": "PIGT",
+  "decimals": 9,
+  "coin_type": "0x1fa612434107f3c0599f80a028c61eff28397712c4b1a2582d0befa1510fdcf6::token_sui::TOKEN_SUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://movepump.com/_next/image?url=https%3A%2F%2Fapi.movepump.com%2Fuploads%2FQm_Qe_DDZ_Kx_Xkko_DH_4i_FE_3s85qf_G14_RQK_7hj2z4jtyf_Ld5_ED_29b0b74a28.jpg&w=256&q=75",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

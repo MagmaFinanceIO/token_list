@@ -1,0 +1,13 @@
+{
+  "name": "Baby Hippo",
+  "symbol": "BabyHippo",
+  "decimals": 9,
+  "coin_type": "0x27f5f687a2bc24f2d07321205cf589ae47cbdc03e03ed86d8320afd24d234a1d::babyhippo::BABYHIPPO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/732f5004-7201-4f15-b3b9-275f75d44321.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

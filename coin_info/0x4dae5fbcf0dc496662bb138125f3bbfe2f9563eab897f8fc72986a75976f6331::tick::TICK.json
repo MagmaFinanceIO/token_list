@@ -1,0 +1,13 @@
+{
+  "name": "The Tick",
+  "symbol": "TICK",
+  "decimals": 6,
+  "coin_type": "0x4dae5fbcf0dc496662bb138125f3bbfe2f9563eab897f8fc72986a75976f6331::tick::TICK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/dfc1f704_f904_43b0_bc80_915e46a74516_5e15c80791.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

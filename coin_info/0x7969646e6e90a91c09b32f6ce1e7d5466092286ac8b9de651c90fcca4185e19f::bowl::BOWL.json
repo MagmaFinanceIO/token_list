@@ -1,0 +1,13 @@
+{
+  "name": "Fish In a Bowl",
+  "symbol": "BOWL",
+  "decimals": 6,
+  "coin_type": "0x7969646e6e90a91c09b32f6ce1e7d5466092286ac8b9de651c90fcca4185e19f::bowl::BOWL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000048996_deb056ae0c.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

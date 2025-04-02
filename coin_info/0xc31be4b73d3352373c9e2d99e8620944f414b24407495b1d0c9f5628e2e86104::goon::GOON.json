@@ -1,0 +1,13 @@
+{
+  "name": "GOONIES",
+  "symbol": "GOON",
+  "decimals": 6,
+  "coin_type": "0xc31be4b73d3352373c9e2d99e8620944f414b24407495b1d0c9f5628e2e86104::goon::GOON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1734047960624.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

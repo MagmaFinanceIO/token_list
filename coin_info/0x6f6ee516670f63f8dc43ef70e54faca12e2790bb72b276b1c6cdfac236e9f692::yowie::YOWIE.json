@@ -1,0 +1,13 @@
+{
+  "name": "YOWIE",
+  "symbol": "Yowie",
+  "decimals": 9,
+  "coin_type": "0x6f6ee516670f63f8dc43ef70e54faca12e2790bb72b276b1c6cdfac236e9f692::yowie::YOWIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/qfAV15JCvquMYpjGGkhQGr8x2zTiw14pCpUCjXLpump.png?size=lg&key=afa932",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

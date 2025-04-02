@@ -1,0 +1,13 @@
+{
+  "name": "Fit Vitalik",
+  "symbol": "VITALIK",
+  "decimals": 9,
+  "coin_type": "0x5de8817af6e8d71c824f78dc0d32cf239a7d523d8cd3f99c6465c28c0fe4adef::vitalik::VITALIK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7arAwggZAt9diwMVyiwKwXaSxU8wUs3JnFyXhjPfpump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

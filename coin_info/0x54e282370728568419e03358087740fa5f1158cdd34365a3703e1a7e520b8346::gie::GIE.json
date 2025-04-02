@@ -1,0 +1,13 @@
+{
+  "name": "Genie",
+  "symbol": "GIE",
+  "decimals": 6,
+  "coin_type": "0x54e282370728568419e03358087740fa5f1158cdd34365a3703e1a7e520b8346::gie::GIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/2_074a613db0.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

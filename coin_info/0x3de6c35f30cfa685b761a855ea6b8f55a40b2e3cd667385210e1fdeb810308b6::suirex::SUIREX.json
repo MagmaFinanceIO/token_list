@@ -1,0 +1,13 @@
+{
+  "name": "SUIREX COIN",
+  "symbol": "SUIREX",
+  "decimals": 6,
+  "coin_type": "0x3de6c35f30cfa685b761a855ea6b8f55a40b2e3cd667385210e1fdeb810308b6::suirex::SUIREX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3644_4b71372fde.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

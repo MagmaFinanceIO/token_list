@@ -1,0 +1,13 @@
+{
+  "name": "Peter Griffain",
+  "symbol": "Griff",
+  "decimals": 9,
+  "coin_type": "0x07a6b5a36a3c2626039baee18314326cb76cdb63b74f791177ddde30af4d9522::griff::GRIFF",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/71Rp8PcVyz3xah5m69roFjYyFri5wq9aRjpibUptHaE.png?size=lg&key=1408a1",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

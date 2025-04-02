@@ -1,0 +1,13 @@
+{
+  "name": "Official Dognald Trump On Sui",
+  "symbol": "DOGNALD",
+  "decimals": 6,
+  "coin_type": "0xca7d2df3190c7a140fdd2fe525c4e770fac7cd46dc072ae8801d23570ad9fd4d::dognald::DOGNALD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Logo_1_4_53e7da2de5.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

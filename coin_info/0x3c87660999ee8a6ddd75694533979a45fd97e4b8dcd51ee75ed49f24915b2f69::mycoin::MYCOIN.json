@@ -1,0 +1,13 @@
+{
+  "name": "GULFTMEXICO",
+  "symbol": "GULFTMEXICO",
+  "decimals": 9,
+  "coin_type": "0x3c87660999ee8a6ddd75694533979a45fd97e4b8dcd51ee75ed49f24915b2f69::mycoin::MYCOIN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://coin-images.coingecko.com/coins/images/35671/large/sui-sui-logo.png?1709487717",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Pisik on SUI",
+  "symbol": "PISIK",
+  "decimals": 9,
+  "coin_type": "0xccd18cb7740a927423125b3e61d3a80648e7dddd2adf823d6921e65bcbd006c2::pisik::PISIK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/57dc8892-db16-4335-8978-336c733bec25.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

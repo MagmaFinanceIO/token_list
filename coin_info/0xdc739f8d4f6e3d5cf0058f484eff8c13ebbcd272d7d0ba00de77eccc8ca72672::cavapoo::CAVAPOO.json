@@ -1,0 +1,13 @@
+{
+  "name": "CavaPoo",
+  "symbol": "CavaPoo",
+  "decimals": 9,
+  "coin_type": "0xdc739f8d4f6e3d5cf0058f484eff8c13ebbcd272d7d0ba00de77eccc8ca72672::cavapoo::CAVAPOO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/2ef35497-1b2b-49d8-8879-ea6ec6c02fe3.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

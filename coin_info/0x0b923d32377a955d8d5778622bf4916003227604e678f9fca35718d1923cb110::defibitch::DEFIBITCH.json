@@ -1,0 +1,13 @@
+{
+  "name": "DEFIBITCH",
+  "symbol": "defibitch",
+  "decimals": 9,
+  "coin_type": "0x0b923d32377a955d8d5778622bf4916003227604e678f9fca35718d1923cb110::defibitch::DEFIBITCH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

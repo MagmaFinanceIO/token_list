@@ -1,0 +1,13 @@
+{
+  "name": "Trump Sons",
+  "symbol": "STRUMP",
+  "decimals": 9,
+  "coin_type": "0xefbc4a34afd509b1688d27c484cfc046286fbb8b49eff85216f83434378a8e97::strump::STRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/XKgJaZDLxiiEy4JLXZc5UWoxBS3XKNpnHdP4X3fpump.png?size=lg&key=62ca0c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Sparky",
+  "symbol": "SPARKY",
+  "decimals": 9,
+  "coin_type": "0xf49b9efd01d843547fcd5b79392bb9951c30ab7e0ef81969e92a749f456acd92::sparky::SPARKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d6bbbc0b-4eb3-45ad-8c88-e720398a2c1b.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

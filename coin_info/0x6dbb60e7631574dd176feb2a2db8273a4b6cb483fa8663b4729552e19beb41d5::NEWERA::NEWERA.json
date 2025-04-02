@@ -1,0 +1,13 @@
+{
+  "name": "New Era : The AI Revolution",
+  "symbol": "NEWERA",
+  "decimals": 9,
+  "coin_type": "0x6dbb60e7631574dd176feb2a2db8273a4b6cb483fa8663b4729552e19beb41d5::NEWERA::NEWERA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7DRmRvxK9G6a5uMyFdfa7UaQC6dRAZz1dgioy9Htpump.png?size=xl&key=3f16b8",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

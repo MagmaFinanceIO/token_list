@@ -1,0 +1,13 @@
+{
+  "name": "PAWS",
+  "symbol": "PAWS",
+  "decimals": 9,
+  "coin_type": "0xb476ea8db5bbd475d7c72f3bd19fc3a6198e9cbf19e79c5bf405052c685be5ae::paws::PAWS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/99e4e756-c682-492b-9c7a-cb9a52f92b40.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

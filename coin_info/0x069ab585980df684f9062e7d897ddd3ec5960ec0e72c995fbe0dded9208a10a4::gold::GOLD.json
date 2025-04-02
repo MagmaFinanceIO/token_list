@@ -1,0 +1,13 @@
+{
+  "name": "Golden Fish",
+  "symbol": "GOLD",
+  "decimals": 9,
+  "coin_type": "0x069ab585980df684f9062e7d897ddd3ec5960ec0e72c995fbe0dded9208a10a4::gold::GOLD",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/6e3daf50-9440-47b0-a44a-acf21c8af531.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

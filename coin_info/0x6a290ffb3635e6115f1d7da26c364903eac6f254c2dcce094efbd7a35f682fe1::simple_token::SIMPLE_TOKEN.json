@@ -1,0 +1,13 @@
+{
+  "name": "PREDO",
+  "symbol": "PREDO",
+  "decimals": 9,
+  "coin_type": "0x6a290ffb3635e6115f1d7da26c364903eac6f254c2dcce094efbd7a35f682fe1::simple_token::SIMPLE_TOKEN",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

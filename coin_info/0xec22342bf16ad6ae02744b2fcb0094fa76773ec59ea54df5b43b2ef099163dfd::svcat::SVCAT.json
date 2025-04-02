@@ -1,0 +1,13 @@
+{
+  "name": "suiv cat",
+  "symbol": "Svcat",
+  "decimals": 6,
+  "coin_type": "0xec22342bf16ad6ae02744b2fcb0094fa76773ec59ea54df5b43b2ef099163dfd::svcat::SVCAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/cat_ragdoll_cat_dcb33158cc.gif",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

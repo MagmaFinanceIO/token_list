@@ -1,0 +1,13 @@
+{
+  "name": "Phantom Dog",
+  "symbol": "PDOG",
+  "decimals": 9,
+  "coin_type": "0xefdaa1bab3f3309c24a6a7af0a221a5ff896a4afccf33a5fd8a59db352bc1cf2::pdog::PDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/HZJzshAvUKEEdr7k1dAcV82mwGYhJgonWcsqhV6mpump.png?size=lg&key=67df57",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

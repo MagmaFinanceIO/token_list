@@ -1,0 +1,13 @@
+{
+  "name": "SUI MAGA2025",
+  "symbol": "MAGA",
+  "decimals": 9,
+  "coin_type": "0x7ea2582250f6ac50d468e1ef2a90e4a43f75929822902462e821645cd2258652::maga::MAGA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/90f472bf-b8ae-4b81-8691-dccf071fddc2.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Bitcoin Chong",
+  "symbol": "CHONG",
+  "decimals": 2,
+  "coin_type": "0x885c9360b5f9725aac940273cc075c70eec177f8d4c9bf97de905f44feb26de1::CHONG::CHONG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://i.postimg.cc/7PgYY8s2/1-XTBm-EEPgftg-PAGIWV9-VNVA.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

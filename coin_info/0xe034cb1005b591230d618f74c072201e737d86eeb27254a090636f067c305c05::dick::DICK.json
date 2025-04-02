@@ -1,0 +1,13 @@
+{
+  "name": "DICKCOIN",
+  "symbol": "DICK",
+  "decimals": 6,
+  "coin_type": "0xe034cb1005b591230d618f74c072201e737d86eeb27254a090636f067c305c05::dick::DICK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/Whats_App_Image_2024_12_23_at_09_20_28_564eb88e12.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

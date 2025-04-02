@@ -1,0 +1,13 @@
+{
+  "name": "Official Barron Meme On Sui",
+  "symbol": "BARRON",
+  "decimals": 9,
+  "coin_type": "0x8af386c3774dff9168c4dcc39ac685e43084be2978871c8e28b40fba015280dd::barron::BARRON",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/ECY31gWwxy4s2VnMkYhmqDkrV75KrwR2yTtsnrnSpump.png?size=lg&key=dc1443",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

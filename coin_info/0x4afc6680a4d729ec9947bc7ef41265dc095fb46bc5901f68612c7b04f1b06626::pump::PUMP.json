@@ -1,0 +1,13 @@
+{
+  "name": "PUMP",
+  "symbol": "PUMP",
+  "decimals": 9,
+  "coin_type": "0x4afc6680a4d729ec9947bc7ef41265dc095fb46bc5901f68612c7b04f1b06626::pump::PUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.io/ipfs/QmT369Y9c9CNCkGTsA5xQNwnhJQxuTmKT1wLMbazFigiNS",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "SHARKY",
+  "symbol": "SHARKY",
+  "decimals": 6,
+  "coin_type": "0x109e744c47c0595d9766e36dca9febc49b285faa1cd8a48c14c2c30980a8906e::sharky::SHARKY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/d4226e76-ab47-40b7-8ef4-ba02f625e5ff.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

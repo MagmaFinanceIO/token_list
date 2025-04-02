@@ -1,0 +1,13 @@
+{
+  "name": "KriyaDex",
+  "symbol": "KDX",
+  "decimals": 9,
+  "coin_type": "0x3aa8fac03023f471b80870e2abe4b68398c2e01ea42087af8956db6ab21dd413::kdx::KDX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/826f4c8e-308f-4c4a-8d55-9c0bd0683a6f.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

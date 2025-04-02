@@ -1,0 +1,13 @@
+{
+  "name": "suk",
+  "symbol": "SUK",
+  "decimals": 6,
+  "coin_type": "0x9741e2149eb3b1f8ed221d780ae844ed701d60764d5211026bdeca9a2314798b::suk::SUK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/duk_Ao_PG_5z4_K1whb_Xj0_P_d3fc407580.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

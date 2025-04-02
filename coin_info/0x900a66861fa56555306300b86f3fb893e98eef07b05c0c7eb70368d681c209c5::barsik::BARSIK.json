@@ -1,0 +1,13 @@
+{
+  "name": "BARSIK on SUI",
+  "symbol": "BARSIK",
+  "decimals": 9,
+  "coin_type": "0x900a66861fa56555306300b86f3fb893e98eef07b05c0c7eb70368d681c209c5::barsik::BARSIK",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/11c5987f-29de-4996-ac3d-6806a92203a6.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

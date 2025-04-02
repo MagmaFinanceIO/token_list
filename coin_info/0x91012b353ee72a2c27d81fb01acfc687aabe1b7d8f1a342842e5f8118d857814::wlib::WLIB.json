@@ -1,0 +1,13 @@
+{
+  "name": "World Liberty",
+  "symbol": "WLIB",
+  "decimals": 9,
+  "coin_type": "0x91012b353ee72a2c27d81fb01acfc687aabe1b7d8f1a342842e5f8118d857814::wlib::WLIB",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/655Jywgb8V2xCJeL7h73cs4eqCNQh8kMR2toUHmzpump.png?size=lg&key=6abfe3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

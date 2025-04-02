@@ -1,0 +1,13 @@
+{
+  "name": "Pepe Pig",
+  "symbol": "PEPEPIG",
+  "decimals": 6,
+  "coin_type": "0x9781677b983e24b012774eb573cfbc69666d88cabab5a2c2716e75a3e6f4d641::pepepig::PEPEPIG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/pepepigicon_2x_ffcba762b8.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

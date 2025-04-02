@@ -1,0 +1,13 @@
+{
+  "name": "Diamond",
+  "symbol": "DMND",
+  "decimals": 9,
+  "coin_type": "0x457f13cc224f235c1956a712829b1acdd61f542a7582c4a68e73599829a59d1b::dmnd::DMND",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/78ca0c06-ec28-49dd-bc3e-bbd7f093f183.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

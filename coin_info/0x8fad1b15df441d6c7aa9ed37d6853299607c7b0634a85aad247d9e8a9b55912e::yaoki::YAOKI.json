@@ -1,0 +1,13 @@
+{
+  "name": "Yaoki",
+  "symbol": "YAOKI",
+  "decimals": 9,
+  "coin_type": "0x8fad1b15df441d6c7aa9ed37d6853299607c7b0634a85aad247d9e8a9b55912e::yaoki::YAOKI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://cdnb.artstation.com/p/assets/images/images/080/622/909/large/agustin-marceillac-yaoki-illustration-v16.jpg?1728053692",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

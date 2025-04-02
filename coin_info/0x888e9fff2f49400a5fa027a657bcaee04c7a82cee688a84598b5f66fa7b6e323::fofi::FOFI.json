@@ -1,0 +1,13 @@
+{
+  "name": "Fofi The Yeti",
+  "symbol": "FOFI",
+  "decimals": 9,
+  "coin_type": "0x888e9fff2f49400a5fa027a657bcaee04c7a82cee688a84598b5f66fa7b6e323::fofi::FOFI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/FsXzFuo5wgxBHNnRzjUK9SQ7MEB22c9cZHyPDspWzTrD.png?size=lg&key=110943",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

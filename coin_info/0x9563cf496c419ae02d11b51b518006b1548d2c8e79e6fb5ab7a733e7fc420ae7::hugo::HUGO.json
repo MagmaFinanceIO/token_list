@@ -1,0 +1,13 @@
+{
+  "name": "HUGO",
+  "symbol": "HUGO",
+  "decimals": 9,
+  "coin_type": "0x9563cf496c419ae02d11b51b518006b1548d2c8e79e6fb5ab7a733e7fc420ae7::hugo::HUGO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/EJMCgsENY4s4qufWdLs3ix67cC1bsvSQEPWWDhr3pump.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

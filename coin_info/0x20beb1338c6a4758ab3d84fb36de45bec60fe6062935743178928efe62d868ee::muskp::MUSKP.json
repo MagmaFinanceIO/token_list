@@ -1,0 +1,13 @@
+{
+  "name": "MuskPup",
+  "symbol": "MuskP",
+  "decimals": 9,
+  "coin_type": "0x20beb1338c6a4758ab3d84fb36de45bec60fe6062935743178928efe62d868ee::muskp::MUSKP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/9605ae6e-7931-4fbe-9327-b4539468bfdc.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

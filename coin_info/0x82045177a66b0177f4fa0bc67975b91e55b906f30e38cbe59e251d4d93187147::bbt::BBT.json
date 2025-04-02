@@ -1,0 +1,13 @@
+{
+  "name": "Baby Trump on Sui",
+  "symbol": "BBT",
+  "decimals": 9,
+  "coin_type": "0x82045177a66b0177f4fa0bc67975b91e55b906f30e38cbe59e251d4d93187147::bbt::BBT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/3faa8c48ec85add2bb6a3d7eae033165blob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

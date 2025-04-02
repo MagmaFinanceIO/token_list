@@ -1,0 +1,13 @@
+{
+  "name": "Bobasui",
+  "symbol": "Boba",
+  "decimals": 6,
+  "coin_type": "0xef7fad48d4d267543bed0ff5efe89a2c12c7afea660fb805036c844307f02039::boba::BOBA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/K8rd6tl9_400x400_044be28df8.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

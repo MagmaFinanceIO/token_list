@@ -1,0 +1,13 @@
+{
+  "name": "Arielle Zuckerberg Pump",
+  "symbol": "ARIE",
+  "decimals": 6,
+  "coin_type": "0x7cab5a4c2efa7b517dbb559ea31aa9ccab2f6e350366c915e111c633ea58094e::arie::ARIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/Arielle_Zuckerberg_Coin_d0a7e27770.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

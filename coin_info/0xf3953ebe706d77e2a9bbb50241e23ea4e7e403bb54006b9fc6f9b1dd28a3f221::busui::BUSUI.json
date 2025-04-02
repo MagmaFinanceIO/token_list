@@ -1,0 +1,13 @@
+{
+  "name": "Bull on Sui",
+  "symbol": "BuSui",
+  "decimals": 9,
+  "coin_type": "0xf3953ebe706d77e2a9bbb50241e23ea4e7e403bb54006b9fc6f9b1dd28a3f221::busui::BUSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/34699733-12db-4d7a-82e9-afe950c8cda7.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

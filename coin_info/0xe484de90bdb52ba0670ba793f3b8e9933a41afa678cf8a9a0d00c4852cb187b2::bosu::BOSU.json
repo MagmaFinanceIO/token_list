@@ -1,0 +1,13 @@
+{
+  "name": "BOOKOFSUI",
+  "symbol": "BOSU",
+  "decimals": 6,
+  "coin_type": "0xe484de90bdb52ba0670ba793f3b8e9933a41afa678cf8a9a0d00c4852cb187b2::bosu::BOSU",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/25681b88-2607-4c5c-9e4b-cc31d006653a.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

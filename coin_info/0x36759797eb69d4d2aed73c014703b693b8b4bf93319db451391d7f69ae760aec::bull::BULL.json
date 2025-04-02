@@ -1,0 +1,13 @@
+{
+  "name": "Bull Maximus",
+  "symbol": "BULL",
+  "decimals": 9,
+  "coin_type": "0x36759797eb69d4d2aed73c014703b693b8b4bf93319db451391d7f69ae760aec::bull::BULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/b4c5ec6e-53dd-4825-82f9-725174cc34ce.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

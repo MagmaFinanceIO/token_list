@@ -1,0 +1,13 @@
+{
+  "name": "MOBOBGOBBLER",
+  "symbol": "MOBO",
+  "decimals": 9,
+  "coin_type": "0x622821b1cfacc8203987a0edb6b6a3870728f3e00362f960b3c831ddfcf330a0::mobo::MOBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/799dc888-b0ce-4c83-a173-e7a700b6c648.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

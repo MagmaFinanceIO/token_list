@@ -1,0 +1,13 @@
+{
+  "name": "Crash Bandicoot",
+  "symbol": "CRASH",
+  "decimals": 9,
+  "coin_type": "0xecf7e929e506dc8ca4dc723eccc272497419827c587787a988204009bded0918::crash::CRASH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/16810799-c283-4ce7-b67d-2b92e7aa6298.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

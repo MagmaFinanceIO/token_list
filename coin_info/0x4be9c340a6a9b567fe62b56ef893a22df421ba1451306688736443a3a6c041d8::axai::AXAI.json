@@ -1,0 +1,13 @@
+{
+  "name": "AXAI Agent by SuiAI",
+  "symbol": "AXAI",
+  "decimals": 6,
+  "coin_type": "0x4be9c340a6a9b567fe62b56ef893a22df421ba1451306688736443a3a6c041d8::axai::AXAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.suiai.fun/uploads/AXAI_5f20de9cb9.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

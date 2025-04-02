@@ -1,0 +1,13 @@
+{
+  "name": "CHILLBULL ON SUI",
+  "symbol": "CHILLBULL",
+  "decimals": 6,
+  "coin_type": "0x607445cddf319c9e3e42ca41f82ba2185d9c3acf8774f98c0b3813c044d51137::chillbull::CHILLBULL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/667944936dcd86c5795c815c_bull_new_f9338bc046.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

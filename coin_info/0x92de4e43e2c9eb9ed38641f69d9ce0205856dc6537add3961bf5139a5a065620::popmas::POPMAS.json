@@ -1,0 +1,13 @@
+{
+  "name": "MerryPopmas",
+  "symbol": "POPMAS",
+  "decimals": 9,
+  "coin_type": "0x92de4e43e2c9eb9ed38641f69d9ce0205856dc6537add3961bf5139a5a065620::popmas::POPMAS",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Dmyd88GDkCuNQ7oHKStrGixEWgBU3t5skN1YSJjHWQ1F.png?size=lg&key=e507df",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

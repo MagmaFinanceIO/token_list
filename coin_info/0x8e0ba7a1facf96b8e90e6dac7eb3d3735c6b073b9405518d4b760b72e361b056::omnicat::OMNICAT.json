@@ -1,0 +1,13 @@
+{
+  "name": "Omni",
+  "symbol": "Omnicat",
+  "decimals": 6,
+  "coin_type": "0x8e0ba7a1facf96b8e90e6dac7eb3d3735c6b073b9405518d4b760b72e361b056::omnicat::OMNICAT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/1000029383_1b61e4f94f.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

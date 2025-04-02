@@ -1,0 +1,13 @@
+{
+  "name": "KillerRabbits",
+  "symbol": "KillerRabbitsSui",
+  "decimals": 9,
+  "coin_type": "0x4770684349900b1193df845c0c499098a6ac4b1f60f302ea3368ce95457b0edd::killerrabbitssui::KILLERRABBITSSUI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0c3a1bce-04b9-4ab1-ad48-5520459a03ee.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

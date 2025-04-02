@@ -1,0 +1,13 @@
+{
+  "name": "MORAY TURBOS",
+  "symbol": "MorayTurbo",
+  "decimals": 6,
+  "coin_type": "0x7a7bb59f22da79e478e972cb410f2ce88310210802a44fd013589bf1baa80a40::morayturbo::MORAYTURBO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://r.turbos.finance/icon/1731177915735.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

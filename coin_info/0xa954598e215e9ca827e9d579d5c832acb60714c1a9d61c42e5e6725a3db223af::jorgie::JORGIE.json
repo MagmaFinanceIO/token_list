@@ -1,0 +1,13 @@
+{
+  "name": "MONKEY TAKEN BY POLICE",
+  "symbol": "Jorgie",
+  "decimals": 9,
+  "coin_type": "0xa954598e215e9ca827e9d579d5c832acb60714c1a9d61c42e5e6725a3db223af::jorgie::JORGIE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5VPFmQs892HeP6PZYw91UEAfLqXeT4cTW2pu4Ppipump.png?size=lg&key=c58a0c",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "EchoX AI",
+  "symbol": "EchoxAI",
+  "decimals": 9,
+  "coin_type": "0x502f29a480d9ef3f742b0fc03850df61ac5c5ca5d1cb5d3942aed358b244e4a4::echoxai::ECHOXAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://fun-be.7k.fun/api/file-upload/6a6ec62255b9544336e6ca64fa85e708blob",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

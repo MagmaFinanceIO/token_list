@@ -1,0 +1,13 @@
+{
+  "name": "All trump high",
+  "symbol": "All trump high",
+  "decimals": 9,
+  "coin_type": "0xa685a4db77ae8667c2e6927347c7f098cf9ab7abf411eb73edbf8f5e2b034068::all_trump_high::ALL_TRUMP_HIGH",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f0a6f878-1c0e-464f-8b54-afe0033c2cd1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

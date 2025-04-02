@@ -1,0 +1,13 @@
+{
+  "name": "Decentralized Finance AI",
+  "symbol": "DeFAI",
+  "decimals": 9,
+  "coin_type": "0xcd97dc902b368ba3794b2820f1141e6a441bb754ab1cae5cceeff8a04c86911b::defai::DEFAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/5eqsstgg7rTkttwBKZQ1tBW4iaxg2AzByLc5hs9Spump.png?size=lg&key=adcc56",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

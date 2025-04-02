@@ -1,0 +1,13 @@
+{
+  "name": "Zerebro on SUI",
+  "symbol": "ZEREBRO",
+  "decimals": 9,
+  "coin_type": "0x5baab700e8755f158d587fc371b9fce47a5b6c200f23bb49e16346bafb470bf0::zerebro::ZEREBRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn.png?size=lg&key=2785d3",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

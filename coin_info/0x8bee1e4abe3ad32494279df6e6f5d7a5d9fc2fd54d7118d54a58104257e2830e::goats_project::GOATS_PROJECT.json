@@ -1,0 +1,13 @@
+{
+  "name": "Goats Project",
+  "symbol": "Goats Project",
+  "decimals": 9,
+  "coin_type": "0x8bee1e4abe3ad32494279df6e6f5d7a5d9fc2fd54d7118d54a58104257e2830e::goats_project::GOATS_PROJECT",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

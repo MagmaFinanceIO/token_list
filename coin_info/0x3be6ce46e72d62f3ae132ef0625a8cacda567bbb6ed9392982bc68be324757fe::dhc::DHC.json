@@ -1,0 +1,13 @@
+{
+  "name": "Diamond Head Coin",
+  "symbol": "DHC",
+  "decimals": 9,
+  "coin_type": "0x3be6ce46e72d62f3ae132ef0625a8cacda567bbb6ed9392982bc68be324757fe::dhc::DHC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://raw.githubusercontent.com/diamondrolls/homepage/master/images/Screenshot_20220823-191511_Chrome.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ABC Token",
+  "symbol": "ABC",
+  "decimals": 6,
+  "coin_type": "0x2de96611d2a3c73a08cc792f6d6bdcff8d2fe924a6a8f4d47816b259e96cf7e0::ABC::ABC",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://d391b93f5f62d9c15f67142e43841acc.ipfscdn.io/ipfs/QmbjzZnfgc3eG4Qbjze94G7TNXnyGV61rAiRbciVdKC3RP",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

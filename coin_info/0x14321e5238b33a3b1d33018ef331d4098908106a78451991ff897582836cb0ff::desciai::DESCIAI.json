@@ -1,0 +1,13 @@
+{
+  "name": "DeSci AI Agent",
+  "symbol": "DeSciAI",
+  "decimals": 9,
+  "coin_type": "0x14321e5238b33a3b1d33018ef331d4098908106a78451991ff897582836cb0ff::desciai::DESCIAI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/7HA934DKnQrJnVQnSZHK6zh9kVH4kjJdUfnnkPB5faYf.png?size=lg&key=efe4f6",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

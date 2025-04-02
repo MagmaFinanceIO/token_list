@@ -1,0 +1,13 @@
+{
+  "name": "DJ Trump",
+  "symbol": "TRUMP",
+  "decimals": 9,
+  "coin_type": "0xeb74c082a88008a962f80c6cff494af5496584d2f6b8e53b92ce4100cd865a62::trump::TRUMP",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a10cd89c-0d58-443e-8370-dc4735ce2e9c.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

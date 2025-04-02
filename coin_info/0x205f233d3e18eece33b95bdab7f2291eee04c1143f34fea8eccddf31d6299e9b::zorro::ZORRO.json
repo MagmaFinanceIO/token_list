@@ -1,0 +1,13 @@
+{
+  "name": "Fox Zorro Coin",
+  "symbol": "Zorro",
+  "decimals": 9,
+  "coin_type": "0x205f233d3e18eece33b95bdab7f2291eee04c1143f34fea8eccddf31d6299e9b::zorro::ZORRO",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://dd.dexscreener.com/ds-data/tokens/solana/Fndkb1fL5AvnJ56PSMYCdy3r6VsEZ37nQVDPnBcnx2Hg.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

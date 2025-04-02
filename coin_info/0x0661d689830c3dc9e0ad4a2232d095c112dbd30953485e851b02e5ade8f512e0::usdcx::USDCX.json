@@ -1,0 +1,13 @@
+{
+  "name": "USDCX",
+  "symbol": "USDCX",
+  "decimals": 2,
+  "coin_type": "0x0661d689830c3dc9e0ad4a2232d095c112dbd30953485e851b02e5ade8f512e0::usdcx::USDCX",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/af673dad-9dda-4744-b48c-49ef2d1c77b1.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

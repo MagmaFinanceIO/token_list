@@ -1,0 +1,13 @@
+{
+  "name": "QUBYSUI",
+  "symbol": "QUBY",
+  "decimals": 6,
+  "coin_type": "0xe03ae327a08e537ac4d44127033fd028085aae86cb3aac72f4b52ffa7e115750::quby::QUBY",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_3655_dff8a5424d.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TAR TOKEN",
+  "symbol": "TAR",
+  "decimals": 4,
+  "coin_type": "0x3bd7db1f332f9e6385508b652f853ceae9851568297dce6a49c8a588f7942a95::tar::TAR",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/a0554bbd-1643-41cc-a177-0c3449084840.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

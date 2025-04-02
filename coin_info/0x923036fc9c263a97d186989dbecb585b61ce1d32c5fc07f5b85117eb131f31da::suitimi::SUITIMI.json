@@ -1,0 +1,13 @@
+{
+  "name": "suiTIMI",
+  "symbol": "suiTIMI",
+  "decimals": 9,
+  "coin_type": "0x923036fc9c263a97d186989dbecb585b61ce1d32c5fc07f5b85117eb131f31da::suitimi::SUITIMI",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/0a48aedc-f797-4199-a93c-1bc8a1810fcb.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

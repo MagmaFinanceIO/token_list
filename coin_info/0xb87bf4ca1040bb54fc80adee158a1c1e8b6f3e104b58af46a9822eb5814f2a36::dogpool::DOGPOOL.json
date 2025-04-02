@@ -1,0 +1,13 @@
+{
+  "name": "SUI DOGPOOL",
+  "symbol": "DOGPOOL",
+  "decimals": 6,
+  "coin_type": "0xb87bf4ca1040bb54fc80adee158a1c1e8b6f3e104b58af46a9822eb5814f2a36::dogpool::DOGPOOL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/photo_2024_09_25_20_57_59_6dcf118750.jpg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

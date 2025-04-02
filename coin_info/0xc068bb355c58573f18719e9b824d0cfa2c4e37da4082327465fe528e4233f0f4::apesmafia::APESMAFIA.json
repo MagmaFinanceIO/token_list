@@ -1,0 +1,13 @@
+{
+  "name": "ApesMafia",
+  "symbol": "ApesMafia",
+  "decimals": 9,
+  "coin_type": "0xc068bb355c58573f18719e9b824d0cfa2c4e37da4082327465fe528e4233f0f4::apesmafia::APESMAFIA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/f3d09878-409c-4e95-80f1-a30af4aaffe9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

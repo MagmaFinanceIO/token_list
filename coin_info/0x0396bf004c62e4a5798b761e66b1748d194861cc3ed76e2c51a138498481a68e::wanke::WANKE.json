@@ -1,0 +1,13 @@
+{
+  "name": "WANKE SUI",
+  "symbol": "WANKE",
+  "decimals": 6,
+  "coin_type": "0x0396bf004c62e4a5798b761e66b1748d194861cc3ed76e2c51a138498481a68e::wanke::WANKE",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/IMG_7317_fa8e433f42.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

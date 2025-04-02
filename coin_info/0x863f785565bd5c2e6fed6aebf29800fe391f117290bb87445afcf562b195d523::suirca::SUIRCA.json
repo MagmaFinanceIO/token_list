@@ -1,0 +1,13 @@
+{
+  "name": "Sui Orca",
+  "symbol": "SUIRCA",
+  "decimals": 6,
+  "coin_type": "0x863f785565bd5c2e6fed6aebf29800fe391f117290bb87445afcf562b195d523::suirca::SUIRCA",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://api.movepump.com/uploads/PP_91_22d848c9ec.png",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "PILL",
+  "symbol": "PILL",
+  "decimals": 6,
+  "coin_type": "0x110fe9816b3e833c11eace90eb8df3186e6f09df8b2b4104feb23a9f41bf789b::pill::PILL",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://ipfs.suiemoji.fun/emojis/pill.svg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}

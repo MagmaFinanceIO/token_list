@@ -1,0 +1,13 @@
+{
+  "name": "CHILL DOGE",
+  "symbol": "CHILLDOG",
+  "decimals": 9,
+  "coin_type": "0x5678b1d5165f9767e708060174741f5465c98db0bdd1398cee3664de2f786ed2::chilldog::CHILLDOG",
+  "pyth_id": "",
+  "birdeyeid": "",
+  "coin_priority": [],
+  "logo_url": "https://res.cetus.zone/coin-metadata/mainnet/icon/23e48095-d944-4707-b02d-e8e26ce8adc9.jpeg",
+  "project_url": "",
+  "coingecko_id": "",
+  "is_trusted": false
+}
